@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:48:49Z"
 ---
 ## What it is
 Enables publishing of medical content (articles, procedures, clinics) to a Korean skincare platform via a publishing API, requiring API URL and API key for authentication.

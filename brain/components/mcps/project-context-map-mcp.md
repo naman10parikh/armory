@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T12:08:08Z"
 ---
 ## What it is
 Generates structured project memory and exposes MCP tools for AI coding agents to query topology, read relevant files, and log changes in a repository.

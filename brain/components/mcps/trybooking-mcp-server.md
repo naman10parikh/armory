@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:01:55Z"
 ---
 ## What it is
 An MCP server that wraps the TryBooking Reporting API, enabling AI assistants like Claude to query bookings, events, sales reports, and attendance scans.

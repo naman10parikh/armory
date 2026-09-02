@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-23T22:21:54Z"
 ---
 ## What it is
 Enables AI agents to drive parsing tasks via A-Parser, including running SERP queries, queueing bulk jobs, polling, and fetching results.

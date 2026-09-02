@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T07:46:43Z"
 ---
 ## What it is
 Enables interacting with Twitter/X through natural language, including searching tweets, posting, sending DMs, and managing timelines via any MCP client.

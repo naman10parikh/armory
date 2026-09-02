@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T01:17:05Z"
 ---
 ## What it is
 MCP server `Rollin`, catalogued on PulseMCP. Wheelchair accessibility scores for US restaurants, cafes, and bars via the Rollin API.

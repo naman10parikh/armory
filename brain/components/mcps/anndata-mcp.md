@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T17:32:59Z"
 ---
 ## What it is
 Allows to retrieve information about an AnnData object via MCP using the read_lazy function from anndata.

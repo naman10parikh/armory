@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:34:15Z"
 ---
 ## What it is
 An AI-powered industrial symbiosis platform that autonomously discovers waste-to-resource connections between factories, creates new products from waste streams, and generates regulatory compliance reports.

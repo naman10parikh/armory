@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-23T04:59:06Z"
 ---
 ## What it is
 An open-source MCP server for Windows that provides traceable system operations (file, screenshot, clipboard, process, power management) to AI assistants via HTTP/SSE.

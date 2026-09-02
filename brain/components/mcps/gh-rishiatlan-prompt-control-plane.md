@@ -8,10 +8,12 @@ source_url: https://github.com/rishi-banerjee1/prompt-control-plane
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T06:56:21Z"
 ---
 ## What it is
 MCP server `Prompt Control Plane`, catalogued on PulseMCP. Scores, optimizes, and enforces policy on AI prompts with cost estimation across models.

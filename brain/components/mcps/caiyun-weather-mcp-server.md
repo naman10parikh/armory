@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-09-01T02:52:42Z"
 ---
 ## What it is
 Enables querying real-time, hourly, weekly, and historical weather data, as well as weather alerts, using the Caiyun Weather API.

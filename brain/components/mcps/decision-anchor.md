@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T02:58:36Z"
 ---
 ## What it is
 MCP server `Decision Anchor`, catalogued on PulseMCP. External accountability proof for agent payments, delegation, and dispute resolution.

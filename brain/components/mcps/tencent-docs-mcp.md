@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:20:48Z"
 ---
 ## What it is
 MCP server that enables AI assistants to read and write Tencent Docs (smart tables and online spreadsheets) directly, supporting CRUD operations on records and attachments.

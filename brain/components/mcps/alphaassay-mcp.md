@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T19:07:58Z"
 ---
 ## What it is
 Most trading signals are noise. AlphaAssay puts them on trial — deflated Sharpe, out-of-sample, leakage forensics — and returns signed pass/fail verdicts anyone can verify. Methodology audits, not investment advice.

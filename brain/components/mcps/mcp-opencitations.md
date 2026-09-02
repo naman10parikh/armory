@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:26Z"
 ---
 ## What it is
 Enables querying citation data from OpenCitations, including references, citations, citation counts, and bibliographic metadata for DOIs.

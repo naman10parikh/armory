@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T08:01:52Z"
 ---
 ## What it is
 Probes your live API and classifies why each endpoint failed (root cause, evidence, and a calibrated confidence level), exposed over MCP so your AI assistant debugs from evidence instead of guessing. Works with FastAPI, Express, Next.js, tRPC, and GraphQL.

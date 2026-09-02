@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:04:00Z"
 ---
 ## What it is
 An MCP server that demonstrates modern MCP spec features including elicitation (interactive confirm dialogs), signed request state, and cache hints, with a deploy tool requiring confirmation. It runs as both a Node server and a Cloudflare Worker, supporting stateless per-request handling.

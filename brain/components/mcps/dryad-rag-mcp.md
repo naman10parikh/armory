@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:11:10Z"
 ---
 ## What it is
 Exposes a RAG document-search API as MCP tools (rag_health, rag_ingest, rag_query), enabling agents to index and search markdown documents with cited results through natural language.

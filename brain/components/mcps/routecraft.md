@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:12:50Z"
 ---
 ## What it is
 Routecraft is an MCP server that lets agents build and validate bicycle routes segment by segment using OpenStreetMap data, with weather, elevation, imagery, and export options.

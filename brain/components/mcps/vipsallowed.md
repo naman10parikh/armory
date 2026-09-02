@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:51:50Z"
 ---
 ## What it is
 Enables agents to manage a creator business on the vips platform, including posting content, managing subscriptions, handling payments, and going live. Provides tools for earnings, analytics, and subscriber management via MCP tools.

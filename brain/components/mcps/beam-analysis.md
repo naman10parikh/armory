@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T21:07:09Z"
 ---
 ## What it is
 A lightweight MCP server for linear-static structural analysis of bridges and building frames, providing tools to build 3D beam/truss models, analyze with built-in or CalculiX solvers, and export to FreeCAD.

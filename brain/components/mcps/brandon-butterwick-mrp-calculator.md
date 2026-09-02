@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-28T16:23:50Z"
 ---
 ## What it is
 MCP server `MRP Calculator`, catalogued on PulseMCP. Enables supply chain managers to perform Material Requirements Planning calculations by determining optimal order quantities based on inventory data, forecasts, and delivery schedules.

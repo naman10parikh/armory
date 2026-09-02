@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:22:04Z"
 ---
 ## What it is
 MCP server that launches Mesen/MesenCE headlessly and exposes the emulator's debugger-face Lua API over MCP JSON-RPC, enabling AI agents to load ROMs, step frames, inspect memory/registers, manage breakpoints/watches, trace execution, and export Code/Data Logger maps for SNES, NES, PC Engine, and Ga

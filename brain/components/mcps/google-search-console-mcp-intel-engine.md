@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-22T06:18:35Z"
 ---
 ## What it is
 Transforms raw Google Search Console signals into actionable marketing insights, such as detecting cannibalization, segmenting search intent, and identifying citation opportunities, for any MCP-compliant AI agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T03:27:38Z"
 ---
 ## What it is
 Enables interacting with Basecamp projects, todos, messages, chats, and more through MCP tools, wrapping the basecamp CLI.

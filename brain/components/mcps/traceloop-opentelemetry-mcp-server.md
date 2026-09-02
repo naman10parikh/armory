@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 198
+stars: 199
+forks: 22
+pushed_at: "2026-06-21T13:32:53Z"
 ---
 ## What it is
 🐍🏠 - An MCP server for connecting to any OpenTelemetry backend (Datadog, Grafana, Dynatrace, Traceloop, etc.).

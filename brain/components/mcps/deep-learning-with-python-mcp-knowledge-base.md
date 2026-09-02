@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:07:21Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that turns the book Deep Learning with Python (François Chollet) into a searchable knowledge base, so Claude can act as a deep-learning/ML expert grounded in the book's content.

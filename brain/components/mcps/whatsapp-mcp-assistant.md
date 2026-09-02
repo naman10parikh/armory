@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T06:34:51Z"
 ---
 ## What it is
 MCP server that exposes a real WhatsApp account to Cursor through safe, approval-gated tools and a local Go bridge, enabling chat management, contact search, and message send with explicit confirmation.

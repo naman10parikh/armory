@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:32:36Z"
 ---
 ## What it is
 MCP server for self-hosted static site publishing on Cloudflare Workers. Enables AI coding agents to deploy pages with a single 'publish' tool and get live URLs, with support for atomic updates, versioning, and per-site passwords.

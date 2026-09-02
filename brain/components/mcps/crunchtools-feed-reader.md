@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T16:59:10Z"
 ---
 ## What it is
 MCP server `Crunchtools Feed Reader`, catalogued on PulseMCP. RSS and Atom feed reader with SQLite backend, full-text search, OPML import/export, and category management.

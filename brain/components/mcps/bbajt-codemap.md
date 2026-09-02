@@ -8,10 +8,12 @@ source_url: https://github.com/bbajt/csharp-code-map
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-07T09:37:07Z"
 ---
 ## What it is
 MCP server `CodeMap`, catalogued on PulseMCP. Roslyn-powered C# and VB.NET code analysis with symbol queries, call graphs, and 90%+ token savings.

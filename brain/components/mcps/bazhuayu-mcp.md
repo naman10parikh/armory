@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:30:18Z"
 ---
 ## What it is
 Converts natural language collection requests into cloud scraping tasks by searching templates, validating parameters, executing tasks, and exporting structured data.

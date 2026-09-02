@@ -8,11 +8,13 @@ source_url: https://github.com/alanhewenyu/ValueScope
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T02:21:31Z"
 ---
 ## What it is
 Standardized DCF valuation engine for stocks (A-shares, Hong Kong, US, Japan). One run_dcf tool with an analyst-style two-phase flow: baseline valuation from 5-year historicals, then a final valuation with reasoned assumptions — value bridge, sensitivity matrix, reverse DCF. Deterministic: same inpu

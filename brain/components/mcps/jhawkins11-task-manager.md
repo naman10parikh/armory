@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-21T00:39:43Z"
 ---
 ## What it is
 MCP server `Task Manager`, catalogued on PulseMCP. Provides a bridge between AI code editors and project management capabilities, enabling complex feature planning with unlimited context window, task breakdown, code review, and plan adjustment through a Svelte UI.

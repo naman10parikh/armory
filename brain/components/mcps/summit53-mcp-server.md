@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T01:26:49Z"
 ---
 ## What it is
 Provides 48 revenue intelligence tools that let AI assistants search deals, forecast revenue, analyze pipeline risk, manage outreach, and track value delivery via natural language.

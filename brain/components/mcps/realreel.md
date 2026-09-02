@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:07:19Z"
 ---
 ## What it is
 An AI agent that generates ICP-targeted product marketing videos with a self-improving loop of reference mining, generation, self-critique, and continual learning.

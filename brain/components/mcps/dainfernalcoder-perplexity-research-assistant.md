@@ -8,10 +8,12 @@ source_url: https://github.com/dainfernalcoder/perplexity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 292
+stars: 295
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2025-11-01T19:36:40Z"
 ---
 ## What it is
 MCP server `Perplexity Research Assistant`, catalogued on PulseMCP. Integrates with Perplexity Sonar Pro API to provide real-time research assistance for developers, enabling efficient documentation retrieval, API discovery, and code analysis

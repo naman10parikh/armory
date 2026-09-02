@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:31:20Z"
 ---
 ## What it is
 Ratary is an AI Brain Platform — infrastructure that gives AI: Persistent memory — durable, owner-scoped, versioned Structured knowledge — metadata, relations, graph traversal Intelligent retrieval — hybrid search + bounded context assembly Protocol access — Ratary MCP, REST, optional gRPC It sits b

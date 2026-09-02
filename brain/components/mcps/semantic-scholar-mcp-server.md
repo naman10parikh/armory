@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T21:29:38Z"
 ---
 ## What it is
 Provides tools to search, retrieve, and explore over 200M academic papers, authors, citations, and full-text snippets via the Semantic Scholar API.

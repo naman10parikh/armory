@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:37:42Z"
 ---
 ## What it is
 Enables AI-powered semantic search over React Hook Form documentation, allowing users to query and retrieve relevant documentation pages without an API key, running locally with offline support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-11T12:30:02Z"
 ---
 ## What it is
 Enables AI assistants to control OriginLab Origin Pro via COM automation for data analysis, graphing, and styling, with real-time GUI updates.

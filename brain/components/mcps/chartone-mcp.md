@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T19:14:02Z"
 ---
 ## What it is
 Enables AI agents to render branded charts as inline images and persistent hosted URLs, supporting explicit chart types and automatic chart suggestion from data.

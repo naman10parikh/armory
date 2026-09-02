@@ -8,10 +8,12 @@ source_url: https://github.com/andybrandt/mcp-simple-pubmed
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 167
+stars: 171
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-03-19T13:33:40Z"
 ---
 ## What it is
 MCP server `Simple PubMed`, catalogued on PulseMCP. Access PubMed's medical research database via the Entrez API for biomedical literature search and analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-22T22:41:22Z"
 ---
 ## What it is
 Connects open data to LLMs via MCP, enabling easy access to public datasets and publishing new datasets with community help.

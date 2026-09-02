@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T11:51:29Z"
 ---
 ## What it is
 MCP server `MCPVault`, catalogued on PulseMCP. Encrypted local credential vault for AI agents with multi-account management and live token validation.

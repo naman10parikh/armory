@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:22:00Z"
 ---
 ## What it is
 MCP server for UltraMsg WhatsApp API that enables sending and reading messages (text, images, documents, audio, voice notes, video, stickers, locations, contacts, reactions) and managing instance, chats, contacts, and groups through natural language.

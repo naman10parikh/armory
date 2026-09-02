@@ -12,6 +12,8 @@ stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-16T08:18:19Z"
 ---
 ## What it is
 MCP server `Cursor IDE`, catalogued on PulseMCP. Capable of controlling and pulling from Cursor IDE, powering development workflows.

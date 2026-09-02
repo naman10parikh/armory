@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:36:26Z"
 ---
 ## What it is
 Provides real-time, machine-readable ship and port conditions for major US container gateways using AIS data, allowing AI agents to query vessel status, berthing events, and gateway conditions without API keys or signup.

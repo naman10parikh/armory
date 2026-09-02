@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:59:00Z"
 ---
 ## What it is
 Lets any MCP-compatible AI assistant read and edit Autodesk Civil 3D drawings through tools for alignments, surfaces, corridors, pipe networks, quantity takeoff, and cut/fill, using a local bridge plugin and named pipes.

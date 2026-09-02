@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T10:00:30Z"
 ---
 ## What it is
 A self-hosted MCP gateway that turns REST, SOAP, GraphQL, and SQL endpoints into MCP tools, enabling AI clients like Claude and ChatGPT to interact with legacy and modern APIs without code changes.

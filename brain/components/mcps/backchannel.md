@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T13:37:37Z"
 ---
 ## What it is
 MCP server for async messaging between AI coding agents, enabling cross-harness and cross-machine communication with Slack-like semantics and mail-shaped delivery.

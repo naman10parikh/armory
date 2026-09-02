@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T10:46:15Z"
 ---
 ## What it is
 Semantic search over project-specific decision rules using Chroma, enabling LLMs to retrieve relevant context.

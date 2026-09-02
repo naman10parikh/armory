@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T02:10:55Z"
 ---
 ## What it is
 A read-only MCP server that enables AI assistants to query Odoo instances via XML-RPC, supporting search, read, count, and field inspection without requiring custom modules.

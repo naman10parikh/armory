@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:07:35Z"
 ---
 ## What it is
 Enables AI to import, format, check originality, and save articles as drafts to WeChat Official Account draft box, without auto-publishing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T04:55:27Z"
 ---
 ## What it is
 Lets AI assistants classify an AI system under the EU AI Act, returning risk tier, obligations, and deadlines based on a plain-English description of the product.

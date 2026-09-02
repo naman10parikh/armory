@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T23:06:16Z"
 ---
 ## What it is
 Connects AI assistants to CargoEffe for automated cargo loading plan design, offering tools to manage containers, cargo items, and load plans.

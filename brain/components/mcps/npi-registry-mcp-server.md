@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-26T19:42:09Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for searching the National Provider Identifier (NPI) registry. It provides tools to search and retrieve information about healthcare providers and organizations in the United States.

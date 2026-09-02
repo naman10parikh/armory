@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-05-02T08:47:59Z"
 ---
 ## What it is
 MCP server that wraps OpenAI's image generation and editing APIs, enabling text-to-image and image-to-image operations via tools.

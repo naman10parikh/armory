@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-05T14:40:38Z"
 ---
 ## What it is
 Enables AI agents to interpret Form.io form schemas and automate structured data collection and agentic workflows through the Model Context Protocol.

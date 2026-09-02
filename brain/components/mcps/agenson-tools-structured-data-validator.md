@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T12:31:34Z"
 ---
 ## What it is
 MCP server `Structured Data Validator`, catalogued on PulseMCP. Validates structured data against schemas for AI workflow quality assurance.

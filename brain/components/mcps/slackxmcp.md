@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:54:28Z"
 ---
 ## What it is
 Enables MCP-compatible clients to interact with Slack through Web API tools and subscribe to inbound Slack messages via Socket Mode notifications.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T06:38:00Z"
 ---
 ## What it is
 MCP server `PocketScout`, catalogued on PulseMCP. Aggregates structural, chemical, and literature data to evaluate druggable protein binding pockets for drug discovery.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:50:03Z"
 ---
 ## What it is
 Provides tools for discovering, downloading, parsing, and searching Korean DART financial reports, enabling AI assistants to access Open DART data through structured tools.

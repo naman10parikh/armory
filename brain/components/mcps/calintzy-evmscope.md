@@ -8,10 +8,12 @@ source_url: https://github.com/calintzy/evmscope
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-21T01:53:30Z"
 ---
 ## What it is
 MCP server `EVMScope`, catalogued on PulseMCP. EVM blockchain intelligence toolkit with on-chain analysis tools.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-15T20:25:12Z"
 ---
 ## What it is
 MCP server `Space Weather`, catalogued on PulseMCP. Solar flux, Kp index, DSCOVR solar wind, X-ray flux, alerts, and HF band conditions.

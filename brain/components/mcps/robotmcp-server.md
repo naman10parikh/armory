@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:03:18Z"
 ---
 ## What it is
 A modular MCP server with automatic submodule integration, OAuth 2.1, Supabase user management, and Cloudflare tunnel support, enabling secure and extensible tool connectivity for AI assistants like ChatGPT and Claude.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T12:34:15Z"
 ---
 ## What it is
 MCP server `OAuth2 Gateway`, catalogued on PulseMCP. Multi-tenant OAuth2 gateway that proxies MCP tool calls to downstream servers with per-user token management.

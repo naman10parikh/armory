@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:35:59Z"
 ---
 ## What it is
 Local MCP-to-browser signing bridge for EVM, Solana, and Sui, letting agents prepare and simulate transactions while users approve and sign in a browser wallet extension.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:23:23Z"
 ---
 ## What it is
 Evidence-weighted trust graph for multi-agent systems. Enables querying trust and gating high-risk actions based on time-decayed evidence and endorsements.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:43:52Z"
 ---
 ## What it is
 MCP server for operating Feishu Docs, folders, and attachments, and sending notifications via custom bot webhooks. Enables AI assistants to automate document workflows in Feishu.

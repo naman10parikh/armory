@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:27:08Z"
 ---
 ## What it is
 Manage Proton Drive from Claude, Codex, VS Code/Copilot, and any MCP client through Proton's official CLI. Authentication and encrypted Drive behavior stay with Proton's tooling.

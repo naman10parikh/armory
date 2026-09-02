@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:21:18Z"
 ---
 ## What it is
 Enables AI assistants to manage BookStack wikis with tools for CRUD operations on books, chapters, pages, shelves, and search, using Markdown input.

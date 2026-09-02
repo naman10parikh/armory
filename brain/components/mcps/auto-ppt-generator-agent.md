@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T05:10:22Z"
 ---
 ## What it is
 Enables AI-powered generation of PowerPoint presentations with dynamic content, themes, and tones. Supports custom topics, audience, and slide count via the generate_ppt tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T05:24:25Z"
 ---
 ## What it is
 Controls music playback on a FiiO M23 device through Roon, allowing Claude to search and play tracks, adjust volume, and manage playback.

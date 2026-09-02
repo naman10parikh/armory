@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:23:13Z"
 ---
 ## What it is
 MCP server `Monday`, catalogued on PulseMCP. Interact with Monday.com boards, items, and columns via the Monday.com GraphQL API.

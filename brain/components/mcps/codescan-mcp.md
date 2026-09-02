@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T13:58:27Z"
 ---
 ## What it is
 Scans codebases for TODOs, FIXMEs, code complexity, file stats, and dependencies, generating a health report with a letter grade. Zero configuration required.

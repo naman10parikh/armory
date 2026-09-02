@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T20:35:45Z"
 ---
 ## What it is
 An MCP server that runs Python project checks through pytest, Ruff, and basedpyright, with configurable settings and stdio/HTTP transport.

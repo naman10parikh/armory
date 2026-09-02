@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:39Z"
 ---
 ## What it is
 This MCP server allows AI agents to query municipal tax clearance certificates (Certidão Negativa de Débitos) from the Prefeitura of Pará de Minas, MG, in a read-only manner. It provides a single tool for checking debts from official sources with prepaid usage.

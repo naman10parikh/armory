@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-31T20:15:54Z"
 ---
 ## What it is
 MCP server `AI Meta Tool Creator`, catalogued on PulseMCP. Enables AI to dynamically create, execute, and manage custom tools in a secure sandbox environment for JavaScript, Python, or shell code with persistent storage capabilities.

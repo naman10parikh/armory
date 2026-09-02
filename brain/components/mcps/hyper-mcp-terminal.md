@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-13T02:38:49Z"
 ---
 ## What it is
 一个基于 MCP 协议的 Electron 桌面终端应用，为 AI 助手提供安全的远程 shell 执行能力。

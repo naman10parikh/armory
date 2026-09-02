@@ -8,10 +8,12 @@ source_url: https://github.com/tocharianou/elasticsearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-28T22:35:31Z"
 ---
 ## What it is
 MCP server `TocharianOU Elasticsearch`, catalogued on PulseMCP. Integrates with Elasticsearch clusters (versions 5.x-9.x) for security-focused threat detection, anomaly analysis, incident investigation, and compliance monitoring with automatic version detection and adaptive feature loading.

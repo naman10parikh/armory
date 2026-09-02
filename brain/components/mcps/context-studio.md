@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T21:47:42Z"
 ---
 ## What it is
 MCP server for Context Studio, a file-based CMS for governed marketing documents and searchable collections, enabling retrieval and management of AI context via tools like scopes, document reads, and collection search.

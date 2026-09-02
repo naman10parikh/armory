@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T06:37:36Z"
 ---
 ## What it is
 Enables AI assistants to start, manage, and embed live application previews in iframes, with support for multiple frameworks, Docker, tunnels, and authentication.

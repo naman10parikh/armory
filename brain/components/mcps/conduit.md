@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-01-27T08:23:39Z"
 ---
 ## What it is
 MCP server `Conduit (Phabricator)`, catalogued on PulseMCP. Integrates with Phabricator and Phorge APIs to enable task management, code review operations, repository access, and project automation through the Conduit API with comprehensive error handling and secure authentication.

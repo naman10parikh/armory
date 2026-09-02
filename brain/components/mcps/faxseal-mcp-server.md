@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T22:18:57Z"
 ---
 ## What it is
 Send, receive, and verify faxes from AI assistants and agents via the Model Context Protocol.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-15T01:30:46Z"
 ---
 ## What it is
 MCP server `Lock In`, catalogued on PulseMCP. iOS app tools for managing social media usage with screen time blocking and dopamine detox schedules.

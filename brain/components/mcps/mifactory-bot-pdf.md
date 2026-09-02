@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T19:18:06Z"
 ---
 ## What it is
 MCP server `Mifactory PDF`, catalogued on PulseMCP. Generate and send PDF documents for AI agents via SMTP with template support.

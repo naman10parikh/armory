@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:57Z"
 ---
 ## What it is
 Enables autonomous agents to precisely deconstruct, analyze, and manipulate URLs and query parameters without hallucination.

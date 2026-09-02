@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T12:03:09Z"
 ---
 ## What it is
 Enables multi-strategy AI orchestration including council decision review, debate, brainstorming, evaluation, and spec review, with support for multiple LLM providers and advisor personas.

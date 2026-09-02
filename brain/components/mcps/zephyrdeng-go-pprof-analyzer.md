@@ -12,6 +12,8 @@ stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-01-30T07:26:52Z"
 ---
 ## What it is
 MCP server `Go pprof Analyzer`, catalogued on PulseMCP. Analyzes Go performance profiles to extract key metrics and generate flame graphs for diagnosing bottlenecks, memory issues, and concurrency problems in Go applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:40:39Z"
 ---
 ## What it is
 Hermetic memory for AI agents — one Rust binary, one SQLite file, zero network. Recall returns evidence with provenance or abstains: no code path for making things up.

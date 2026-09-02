@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-12T01:19:54Z"
 ---
 ## What it is
 MCP server `TailorKit`, catalogued on PulseMCP. Provides a bridge to the TailorKit API for managing customizable e-commerce product templates, enabling creation, retrieval, and manipulation of templates and their layers through natural language conversations.

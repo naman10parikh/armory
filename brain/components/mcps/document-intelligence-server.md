@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:32:36Z"
 ---
 ## What it is
 Enables intelligent document processing by extracting text, classifying document types, and generating structured summaries from PDFs and images using vision LLMs.

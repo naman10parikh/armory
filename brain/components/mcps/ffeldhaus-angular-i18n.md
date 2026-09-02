@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T22:20:09Z"
 ---
 ## What it is
 MCP server `Angular i18n`, catalogued on PulseMCP. Automates Angular i18n translation workflows by extracting strings from templates, managing XLIFF translation units with pagination, and updating translations while maintaining proper state tracking.

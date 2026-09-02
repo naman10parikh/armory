@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 29
+pushed_at: "2025-04-29T11:00:15Z"
 ---
 ## What it is
 A tutorial on how to use Model Context Protocol by Anthropic and Agent2Agent Protocol by Google

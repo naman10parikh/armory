@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:38:18Z"
 ---
 ## What it is
 Turns a directory of markdown documentation into searchable, citable tools for AI assistants, enabling targeted retrieval of specific sections with stable references.

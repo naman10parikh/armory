@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:15:41Z"
 ---
 ## What it is
 Enables AI assistants to connect to the AwardMath travel points optimizer, turning wallet balances and travel goals into up to three verified, explainable award-booking plans with exact transfer steps, required points, and fees.

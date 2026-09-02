@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-22T22:22:17Z"
 ---
 ## What it is
 Enables students to securely access and manage their academic data from Isparta University's OBS system, including grades, transcripts, announcements, and course information through natural language queries.

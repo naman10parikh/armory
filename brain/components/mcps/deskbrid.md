@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-05T14:25:20Z"
 ---
 ## What it is
 Linux desktop HAL for AI agents. One daemon, one socket, every desktop action. GNOME, KDE, Hyprland, X11. Ships in one command.

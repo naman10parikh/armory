@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:05:27Z"
 ---
 ## What it is
 An MCP server for searching, browsing, and downloading free assets from the Fab marketplace, with browser fallback for verification and guarded downloads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T15:31:04Z"
 ---
 ## What it is
 AI-powered laytime, demurrage and despatch calculation for ship chartering. Send a Charter Party, Fixture Recap, NOR or Statement of Facts as text or files (PDF, image, Excel) and get a full, auditable laytime statement. Available as a REST API and an MCP server.

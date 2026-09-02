@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:22:26Z"
 ---
 ## What it is
 Enables AI agents to access web-based large language models through a unified MCP interface, reusing existing web logins to perform text conversations and image generation without API keys or fees.

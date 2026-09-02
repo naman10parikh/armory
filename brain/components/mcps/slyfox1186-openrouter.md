@@ -8,10 +8,12 @@ source_url: https://github.com/slyfox1186/claude-code-openrouter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-07T16:09:24Z"
 ---
 ## What it is
 MCP server `OpenRouter`, catalogued on PulseMCP. Provides unified access to multiple AI models including Claude, Gemini, and Kimi through OpenRouter's API with intelligent model aliasing, conversation persistence via UUID-based continuation, and Docker-based deployment for simplified multi-model AI integration.

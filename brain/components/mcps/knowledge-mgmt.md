@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-05T16:34:55Z"
 ---
 ## What it is
 Enables uploading, organizing, and semantically searching documents with support for various file types and embedding providers.

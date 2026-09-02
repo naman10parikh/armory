@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:57:24Z"
 ---
 ## What it is
 Self-hosted multi-user Google Health OAuth broker and read-only Agent API with remote MCP support. Enables users to connect their Google account and grant agents secure access to activity, sleep, heart, HRV, SpO2, and other health metrics via revocable per-token authentication.

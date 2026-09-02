@@ -8,10 +8,12 @@ source_url: https://github.com/f/poke-gate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-07-10T02:10:09Z"
 ---
 ## What it is
 MCP server `Poke Gate`, catalogued on PulseMCP. Tunnel local machine access to the Poke AI assistant via MCP over WebSocket.

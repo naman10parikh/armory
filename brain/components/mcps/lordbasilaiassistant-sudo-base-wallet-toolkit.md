@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-07T13:36:50Z"
 ---
 ## What it is
 MCP server `Base Wallet Toolkit`, catalogued on PulseMCP. Interact with Base chain wallets to check balances, estimate gas, inspect tokens, and resolve ENS names.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:31:23Z"
 ---
 ## What it is
 Enables training and using machine learning models on local CSV datasets or data from other MCP servers, supporting tasks like forecasting, regression, classification, and anomaly detection.

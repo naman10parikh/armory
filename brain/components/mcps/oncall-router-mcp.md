@@ -8,11 +8,13 @@ source_url: https://github.com/LZBiala/oncall-router-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:15:10Z"
 ---
 ## What it is
 Enables incident responders to answer who owns a service, who to escalate to and when, which runbook steps to try first, and whether the current escalation step is on time, all from a local file with no external APIs or network calls.

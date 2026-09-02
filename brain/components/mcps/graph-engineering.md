@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:28:00Z"
 ---
 ## What it is
 MCP server that turns coding workflows into explicit execution graphs (DAG) with deterministic command execution, human-in-the-loop gates, and tamper-proof run history for Claude Code.

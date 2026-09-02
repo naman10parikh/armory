@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:22:29Z"
 ---
 ## What it is
 MCP server demo by Banco D that shows a loan application interactive widget across six steps, demonstrating three levels of agent visibility (full, result-only, and hidden) per MCP Apps (SEP-1865). It enables users to simulate a loan request with plan selection, PIN authorization, and disbursement w

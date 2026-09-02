@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T08:06:17Z"
 ---
 ## What it is
 MCP server `Ophir Protocol`, catalogued on PulseMCP. Open protocol for AI agent discovery, negotiation, and settlement on Solana.

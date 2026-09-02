@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-17T06:18:47Z"
 ---
 ## What it is
 MCP server `Apex (Twitter)`, catalogued on PulseMCP. Integrates with X (Twitter) through Apex's social media infrastructure to enable tweet retrieval, search operations, reply generation, content posting, and direct reply management without requiring Twitter API keys.

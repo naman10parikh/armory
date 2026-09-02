@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-30T21:35:07Z"
 ---
 ## What it is
 Enables searching for movies and TV shows and retrieving streaming availability data across multiple platforms and countries.

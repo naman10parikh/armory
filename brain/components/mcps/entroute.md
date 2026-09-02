@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T12:26:24Z"
 ---
 ## What it is
 Enables web search for AI agents with pay-per-search in USDC, no API keys needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:33:52Z"
 ---
 ## What it is
 Enables searching Warframe items, viewing price history, and managing buy/sell orders through the Warframe Market API.

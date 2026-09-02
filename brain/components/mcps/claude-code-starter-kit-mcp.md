@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-08T21:09:25Z"
 ---
 ## What it is
 Enables AI-powered automated testing, security scanning, code review, and maintenance tasks directly within Claude Code or desktop.

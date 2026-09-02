@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:26Z"
 ---
 ## What it is
 MCP server for consulting IPVA extracts from the official SEFAZ MT source. It provides a single read-only tool, requires no platform credentials, and works with any MCP-compatible client.

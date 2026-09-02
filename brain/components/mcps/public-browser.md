@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T09:24:40Z"
 ---
 ## What it is
 A token-efficient MCP server for Chrome browser automation that uses direct CDP and accessibility-tree-based references for stable element selection across DOM changes.

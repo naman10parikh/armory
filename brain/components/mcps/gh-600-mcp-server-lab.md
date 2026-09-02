@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:40:49Z"
 ---
 ## What it is
 A runnable MCP server for learning GH-600 domain 2.0, providing four example tools (repo info, issues, summaries, safe file read) and a resource, using deterministic in-memory data.

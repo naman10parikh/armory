@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:41:45Z"
 ---
 ## What it is
 MCP server that filters Kubernetes warning/failure events and presents them to AI assistants for diagnostics. Enables AI to identify and troubleshoot cluster issues without consuming context on normal events.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:26:09Z"
 ---
 ## What it is
 MCP server that brings interactive UIs for Yida low-code platform into AI chat conversations, enabling app management, form schema preview, and report chart visualization.

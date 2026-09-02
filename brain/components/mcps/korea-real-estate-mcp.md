@@ -8,11 +8,13 @@ source_url: https://github.com/tae0y/real-estate-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 371
+stars: 373
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 61
+pushed_at: "2026-07-18T12:21:18Z"
 ---
 ## What it is
 Connects to Korea's MOLIT real estate API to provide 14+ tools for live transaction data and financial scenarios like buy now, buy later, or invest only based on income and savings.

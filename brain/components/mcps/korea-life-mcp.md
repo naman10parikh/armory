@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:49:10Z"
 ---
 ## What it is
 A Korean life utility MCP server providing 15 tools for Hangul decomposition, romanization, number-to-Korean conversion, business number validation, holiday lookup, and more, all without external API calls.

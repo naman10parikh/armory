@@ -8,11 +8,13 @@ source_url: https://github.com/chirikuuka/mlit-geospatial-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 184
+stars: 185
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-03-16T03:21:08Z"
 ---
 ## What it is
 Enables LLMs to search and retrieve Japanese real estate data through unified access to the MLIT Real Estate Information Library API, supporting over 25 geospatial datasets for interactive queries.

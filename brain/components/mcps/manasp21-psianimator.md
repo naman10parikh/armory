@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-27T10:14:00Z"
 ---
 ## What it is
 MCP server `PsiAnimator`, catalogued on PulseMCP. Integrates QuTip quantum physics computations with Manim mathematical animations to create quantum states, simulate time evolution, perform measurements, and generate visualizations for Bloch spheres, Wigner functions, and quantum circuits.

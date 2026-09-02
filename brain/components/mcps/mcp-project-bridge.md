@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T02:08:50Z"
 ---
 ## What it is
 Enables multi-project workspaces to share structured notes, API contracts, and handoff messages via a local SQLite database, with versioning and read tracking.

@@ -8,10 +8,12 @@ source_url: https://github.com/nodenestor/ue5ultimatemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-30T21:54:36Z"
 ---
 ## What it is
 MCP server `UE5 Ultimate (Unreal Engine 5)`, catalogued on PulseMCP. Comprehensive Unreal Engine 5 editor control with 158 tools spanning Blueprints, Materials, Sequencer, Behavior Trees, Navigation, Niagara, UI, and world generation.

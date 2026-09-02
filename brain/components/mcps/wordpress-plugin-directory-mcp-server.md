@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-24T13:02:19Z"
 ---
 ## What it is
 Enables searching, downloading, extracting, and comparing WordPress.org plugins with local plugins via natural language.

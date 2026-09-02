@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T07:25:35Z"
 ---
 ## What it is
 An MCP server that lets LM Studio search the web for images and show them inline in chat. It uses DuckDuckGo (no API key needed) and supports customization of image count, site restriction, and dimensions.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T23:54:29Z"
 ---
 ## What it is
 MCP server `Nexus AI`, catalogued on PulseMCP. Deploy full-stack apps with Postgres, Redis, S3, and workers from Claude or curl using AI-native infrastructure.

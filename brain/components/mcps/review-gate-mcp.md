@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:14:56Z"
 ---
 ## What it is
 An MCP server that extracts fields from documents and holds uncertain extractions for human review, ensuring high confidence data flows automatically while uncertain cases are resolved manually.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:58:09Z"
 ---
 ## What it is
 Provides a RESTful interface to DoorDash consumer services, eliminating the need for clients to handle JSON-RPC or SSE. Users can browse restaurants, manage carts, and fetch order receipts via simple HTTP endpoints.

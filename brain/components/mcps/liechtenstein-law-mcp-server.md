@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:37:27Z"
 ---
 ## What it is
 Enables natural language search and retrieval of Liechtenstein statutes and provisions, with citation validation, cross-referencing, and EU/EEA law implementation tracing.

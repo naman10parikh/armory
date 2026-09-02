@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-17T03:44:49Z"
 ---
 ## What it is
 MCP server `WebSearch Tools`, catalogued on PulseMCP. Integrates with web search APIs and crawling tools to enable internet-wide information retrieval, content extraction, and data mining capabilities for research and analysis tasks.

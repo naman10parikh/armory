@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:51:41Z"
 ---
 ## What it is
 An MCP server that provides graph-aware tools for interacting with Little Big Brain knowledge graphs, enabling search, query, commit, and configuration operations via natural language.

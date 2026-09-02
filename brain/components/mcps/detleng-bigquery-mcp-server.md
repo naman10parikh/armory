@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T23:21:09Z"
 ---
 ## What it is
 Enables AI assistants to query trusted BigQuery analytics using curated Business Intelligence tools, providing secure, accurate business metrics and KPIs through natural language.

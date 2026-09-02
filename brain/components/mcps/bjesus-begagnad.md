@@ -8,10 +8,12 @@ source_url: https://github.com/bjesus/begagnad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-02T11:44:04Z"
 ---
 ## What it is
 MCP server `Begagnad (Swedish Second-Hand Marketplaces)`, catalogued on PulseMCP. Provides search capabilities across Sweden's largest second-hand marketplaces, Blocket and Tradera, enabling unified access to classified listings with normalized data including prices, descriptions, images, seller ratings, and direct links for price comparison and market research.

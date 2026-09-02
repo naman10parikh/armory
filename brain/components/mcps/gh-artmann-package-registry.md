@@ -8,10 +8,12 @@ source_url: https://github.com/artmann/package-registry-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-12-02T13:00:51Z"
 ---
 ## What it is
 MCP server `Package Registry`, catalogued on PulseMCP. Search and retrieve package information from npm, Cargo, PyPI, NuGet, and Go registries with security advisory lookups.

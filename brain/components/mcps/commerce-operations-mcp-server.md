@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:42:20Z"
 ---
 ## What it is
 Enables AI agents to independently investigate and resolve e-commerce order issues, particularly refund processing, with tools for order search, refund eligibility checks, and safe refund execution.

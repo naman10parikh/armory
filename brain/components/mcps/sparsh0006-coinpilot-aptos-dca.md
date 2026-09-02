@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T04:44:29Z"
 ---
 ## What it is
 MCP server `CoinPilot (Aptos DCA)`, catalogued on PulseMCP. Bridges cryptocurrency investment platforms with the Aptos blockchain, enabling automated dollar-cost averaging strategies through tools for creating and managing investment plans, retrieving user data, and accessing liquidity pools.

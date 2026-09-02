@@ -8,10 +8,12 @@ source_url: https://github.com/dangpolly927-eng/mcp-vision-web-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T06:19:54Z"
 ---
 ## What it is
 MCP server `Vision Web Bridge`, catalogued on PulseMCP. Local MCP server bridging AI clients to OpenAI-compatible vision models for image analysis and web page content extraction.

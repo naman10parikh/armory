@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:35:04Z"
 ---
 ## What it is
 An MCP server that lets Claude Code generate videos using BytePlus ModelArk Dreamina Seedance 2.5, handling task submission, polling, and file downloads through plain language prompts.

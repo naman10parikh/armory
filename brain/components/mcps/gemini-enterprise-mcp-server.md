@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T15:06:27Z"
 ---
 ## What it is
 Connects AI coding assistants to Google Cloud Discovery Engine APIs for semantic search, conversational RAG, and administration of datastores, documents, and configurations.

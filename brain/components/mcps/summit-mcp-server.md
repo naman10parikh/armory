@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T09:02:32Z"
 ---
 ## What it is
 Brings Summit's CRO audit insights into coding agents, enabling them to fetch audits, implement fixes, and manage A/B experiments directly from the editor.

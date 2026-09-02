@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-15T02:32:54Z"
 ---
 ## What it is
 MCP server `AI Brain Memory`, catalogued on PulseMCP. Persistent local memory for AI agents with hybrid semantic and keyword search, project-scoped contexts, and Ebbinghaus decay.

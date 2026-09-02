@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:30:05Z"
 ---
 ## What it is
 UK crane hire compliance MCP for CPCS/CISRS/NPORS card verification and BS 7121 lift plans.

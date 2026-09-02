@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:29:30Z"
 ---
 ## What it is
 MCP server that connects GFT (Git for Thought) thought graphs to AI agents, enabling them to read your confirmed thought chains and incrementally save new insights back to the graph. Uses zero AI tokens, with all reasoning done by your agent.

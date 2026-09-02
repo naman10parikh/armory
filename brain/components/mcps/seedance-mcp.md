@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:12:13Z"
 ---
 ## What it is
 Enables video generation using the Seedance 2.0 model through MCP, supporting both OpenAI and Volcengine API formats with tools for creating, monitoring, and downloading videos.

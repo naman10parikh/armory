@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:56:05Z"
 ---
 ## What it is
 Connects MCP clients like Claude Desktop to Google Analytics 4 Data API, enabling natural language queries for reports, top pages, traffic sources, conversions, realtime users, and period comparisons.

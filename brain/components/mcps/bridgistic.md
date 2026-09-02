@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:08:18Z"
 ---
 ## What it is
 Provides a secure MCP bridge to interact with WordPress sites via signed requests, scoped keys, and approval workflows.

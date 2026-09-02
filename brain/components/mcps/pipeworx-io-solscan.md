@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:42:09Z"
 ---
 ## What it is
 MCP server `Solscan`, catalogued on PulseMCP. Solscan Solana block explorer API for querying transactions, accounts, tokens, and NFT data via Pipeworx.

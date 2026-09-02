@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:41:23Z"
 ---
 ## What it is
 Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas, Tarot, Numerology, Human Design. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits per month.

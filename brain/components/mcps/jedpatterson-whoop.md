@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-10-28T00:54:45Z"
 ---
 ## What it is
 MCP server `Whoop`, catalogued on PulseMCP. Integrates with Whoop fitness trackers to provide access to biometric data including daily metrics, sleep analysis, recovery tracking with HRV trends, strain monitoring with heart rate zones, and healthspan calculations for fitness analysis and wellness applications.

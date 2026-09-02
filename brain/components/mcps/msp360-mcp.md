@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:51:28Z"
 ---
 ## What it is
 MCP server for MSP360 platform enabling management of backup and RMM operations through Claude Desktop with 69 tools.

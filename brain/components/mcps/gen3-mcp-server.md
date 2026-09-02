@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-13T01:35:02Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with Gen3 data commons, with GraphQL query validation to reduce hallucinations.

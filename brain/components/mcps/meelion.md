@@ -8,10 +8,12 @@ source_url: https://github.com/meelion-com/meelion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-13T20:26:14Z"
 ---
 ## What it is
 MCP server `Meelion`, catalogued on PulseMCP. Brazilian fixed income marketplace providing rates, currency quotes, and investment rankings via JSON-RPC.

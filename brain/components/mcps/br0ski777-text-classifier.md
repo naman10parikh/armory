@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:14Z"
 ---
 ## What it is
 MCP server `Text Classifier`, catalogued on PulseMCP. Classify text into categories with confidence scores, readability metrics, and content type detection.

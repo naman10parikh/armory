@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-16T03:07:49Z"
 ---
 ## What it is
 MCP server `AWS S3`, catalogued on PulseMCP. Provides secure, pre-signed URL-based access to AWS S3 bucket operations with configurable expiration times for simplified cloud storage interactions.

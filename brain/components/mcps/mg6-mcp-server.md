@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:45:12Z"
 ---
 ## What it is
 Next.js MCP server with Streamable HTTP, deployable to Vercel, providing tools for greeting, calculation, geocoding, weather, and image generation via HuggingFace tokens.

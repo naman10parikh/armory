@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:37:36Z"
 ---
 ## What it is
 Static scanner for MCP/agent-gateway readiness anti-patterns, providing a 7-dimension R/Y/G score by scanning code and config for common failure modes.

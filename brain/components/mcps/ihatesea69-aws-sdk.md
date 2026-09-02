@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-19T07:56:47Z"
 ---
 ## What it is
 MCP server `AWS SDK`, catalogued on PulseMCP. Enables direct interaction with AWS services through the AWS SDK v2, allowing users to query environments, manage resources, and analyze cloud infrastructure using credential management and sandboxed JavaScript execution.

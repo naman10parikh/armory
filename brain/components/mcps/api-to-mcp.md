@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T06:50:12Z"
 ---
 ## What it is
 Converts any REST API endpoints into MCP tools, enabling AI clients like Cursor and Claude Desktop to call internal services directly.

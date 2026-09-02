@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T11:27:02Z"
 ---
 ## What it is
 Enables voice robots to perform real-time web searches via the Xiaozhi platform and ZhipuAI API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-12T05:21:14Z"
 ---
 ## What it is
 Integrates multiple search APIs (Google Search, Maps, Flights, Hotels) through the Model Context Protocol and Agent-to-Agent protocol, enabling AI assistants to perform diverse searches via natural language queries.

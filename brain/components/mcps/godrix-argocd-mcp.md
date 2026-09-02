@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T12:25:29Z"
 ---
 ## What it is
 MCP server for Argo CD that provides multi-environment profiles, SSO or API key authentication, application search with cache, and REST API tools from the bundled OpenAPI catalog.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-07-10T05:05:47Z"
 ---
 ## What it is
 Enables natural language control of ElephantRobotics MyCobot series robotic arms (especially ultraArmP340) through MCP protocol, with simulation mode and safety features.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:09:02Z"
 ---
 ## What it is
 Community MCP server that wraps Daraz Seller APIs, enabling sellers to manage store operations through natural language. Currently in scaffold stage with tools under development.

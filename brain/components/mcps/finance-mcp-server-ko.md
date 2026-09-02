@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:35:51Z"
 ---
 ## What it is
 Personal finance research and execution toolkit for LLM agents, combining DART, Telegram, and Toss securities into one MCP server.

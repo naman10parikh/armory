@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:45:41Z"
 ---
 ## What it is
 Neo4j-backed MCP server managing code architecture dependency graphs, enabling AI agents to query impact, submit change intents, and coordinate reactive multi-agent workflows.

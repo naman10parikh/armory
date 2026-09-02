@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T13:04:32Z"
 ---
 ## What it is
 A focused MCP server for Google Drive file management, Google Sheets editing, and surgical Google Docs editing with 23 granular, single-purpose tools.

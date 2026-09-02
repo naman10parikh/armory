@@ -8,11 +8,13 @@ source_url: https://github.com/kpshinnik/docs_masked
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-18T04:46:13Z"
 ---
 ## What it is
 MCP server for locally masking personal data in documents before sending them to a language model, then restoring the original data in the model's response.

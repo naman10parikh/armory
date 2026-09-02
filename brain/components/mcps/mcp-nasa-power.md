@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:24:07Z"
 ---
 ## What it is
 MCP server for NASA POWER climate data, offering a climatology tool to retrieve long-term monthly averages for any coordinate. Supports natural language queries through the Pipeworx gateway.

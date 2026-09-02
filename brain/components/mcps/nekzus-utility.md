@@ -8,10 +8,12 @@ source_url: https://github.com/nekzus/npm-sentinel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-24T20:48:27Z"
 ---
 ## What it is
 MCP server `Nekzus Utility Server`, catalogued on PulseMCP. Advanced NPM analysis: Recursive security scanning, ecosystem awareness, and deep insights

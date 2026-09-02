@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-16T08:58:21Z"
 ---
 ## What it is
 MCP server `RGB Lightning Node`, catalogued on PulseMCP. Integrates with RGB Lightning Node APIs to provide Bitcoin Layer 2 asset management, Lightning Network operations, on-chain transactions, and asset swaps with comprehensive error handling and authentication.

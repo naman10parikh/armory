@@ -14,6 +14,8 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
 mentions: 1
+forks: 1
+pushed_at: "2026-08-09T07:04:08Z"
 ---
 ## What it is
 Multi-agent system for guitar-related applications

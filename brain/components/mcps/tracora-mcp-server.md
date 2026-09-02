@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T18:40:21Z"
 ---
 ## What it is
 Connects Tracora brand and query data to MCP assistants, enabling listing of active brands and AI visibility queries via two read-only tools.

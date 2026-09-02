@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:18:19Z"
 ---
 ## What it is
 A one-way MCP channel that forwards Slack events (messages and reactions) into a Claude Code session, enabling Claude to react to Slack activity without leaving the terminal.

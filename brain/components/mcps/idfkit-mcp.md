@@ -8,11 +8,13 @@ source_url: https://github.com/idfkit/idfkit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:55:13Z"
 ---
 ## What it is
 Enables AI assistants to create, edit, and simulate EnergyPlus building energy models via natural language. Supports schema exploration, model editing, simulation execution, and documentation search.

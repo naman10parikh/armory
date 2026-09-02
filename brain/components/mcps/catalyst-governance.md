@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T20:11:25Z"
 ---
 ## What it is
 Catalyst puts a governance layer between AI agents and consequential actions. Before your agent writes files, sends messages, deploys code, or calls external APIs, it checks in with Catalyst. Depending on your policy, actions are allowed immediately, routed to a human for approval, or denied. Includ

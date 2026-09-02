@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-15T11:41:02Z"
 ---
 ## What it is
 Integrates Korean APIs (Naver, Kakao, TMAP) into LLM applications for search, maps, and directions.

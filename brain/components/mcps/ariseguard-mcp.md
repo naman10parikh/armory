@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:52:57Z"
 ---
 ## What it is
 Runs AriseGuard on a project to detect valid but silently wrong bugs that pass tests, returning issues and fixes via MCP.

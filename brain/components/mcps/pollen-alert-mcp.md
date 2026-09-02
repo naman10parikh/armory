@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T05:56:18Z"
 ---
 ## What it is
 Provides real-time pollen level alerts and hayfever mitigation tips using the Ambee API.

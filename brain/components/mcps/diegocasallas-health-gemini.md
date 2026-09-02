@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T16:08:03Z"
 ---
 ## What it is
 MCP server `Health Gemini`, catalogued on PulseMCP. Provides healthcare query tools using Google Gemini AI, including drug search, disease information lookup, and medical consultation via a .NET 8 server requiring a Gemini API key.

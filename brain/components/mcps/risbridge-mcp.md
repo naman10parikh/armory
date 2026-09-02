@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:57:58Z"
 ---
 ## What it is
 Enables users to run Slurm jobs on WashU RIS Compute2 cluster by describing their intent in plain English, without requiring SSH or Slurm knowledge.

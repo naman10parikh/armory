@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:57:37Z"
 ---
 ## What it is
 A security gateway for MCP servers that enforces policy checks including role-based access, argument constraints, injection scanning, and PII redaction on both tool arguments and results, with tamper-evident audit logging.

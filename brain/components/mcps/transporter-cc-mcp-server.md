@@ -8,11 +8,13 @@ source_url: https://github.com/carloscrcalderon/mcp_transporte_bogota
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-28T19:47:40Z"
 ---
 ## What it is
 Enables searching for TransMilenio and SITP bus routes in Bogotá with live GPS tracking, nearby stops, and estimated arrivals.

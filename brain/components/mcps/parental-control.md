@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T05:59:19Z"
 ---
 ## What it is
 An open-source MCP server that gives parents real-time oversight and guardrails over their children's AI agent interactions, with features like content filtering, spiral detection, and approval flows.

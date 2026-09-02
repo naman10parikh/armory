@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T06:55:04Z"
 ---
 ## What it is
 MCP server `Keibai Hub`, catalogued on PulseMCP. Japanese court-run real-estate auction data from BIT — 1,480+ active listings across 46 prefectures via the Keibai Hub API.

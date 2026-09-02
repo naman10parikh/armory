@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-08T21:25:35Z"
 ---
 ## What it is
 MCP server `Command Proxy`, catalogued on PulseMCP. Proxy server for CLI commands that captures terminal output in a circular buffer, enabling remote execution, log retrieval, and process management for command-line applications like Expo development tools.

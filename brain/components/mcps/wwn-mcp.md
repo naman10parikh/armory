@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T19:59:54Z"
 ---
 ## What it is
 A local-embeddings RAG + Model Context Protocol server that provides retrieval-backed knowledge of the Wawona stack to Cursor models.

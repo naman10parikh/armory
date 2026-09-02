@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:23:01Z"
 ---
 ## What it is
 Enables interaction with HubSpot CRM through two tools (upsert_lead_profile and get_lead_profile) for managing lead profiles, using FastMCP with Secret Manager-based authentication and supporting both stdio and HTTP transports.

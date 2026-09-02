@@ -9,11 +9,13 @@ source_url: https://github.com/naman10parikh/agentgrid
 license: MIT
 cli_compat: [claude, codex, opencode]
 maturity: stable
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-26
 related: [agentswarm, ceo-launch, ceo-launch-grid, recursive-grid]
 tags: [orchestration, grid, tmux, parallelism, dispatch]
+forks: 1
+pushed_at: "2026-06-10T03:15:59Z"
 ---
 
 ## What it is

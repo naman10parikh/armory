@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T13:43:55Z"
 ---
 ## What it is
 Local MCP server that enables voice input to Claude by transcribing microphone audio locally using faster-whisper, avoiding cloud services.

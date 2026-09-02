@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T07:09:24Z"
 ---
 ## What it is
 Enables AI agents to control and display real-time notifications, telemetry, and custom apps on Ulanzi TC001 and compatible pixel clocks running Awtrix Light, including device management and declarative YAML-based metric polling.

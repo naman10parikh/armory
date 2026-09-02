@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:34:00Z"
 ---
 ## What it is
 Deterministic execution layer for ChatGPT that manages TOCA_OS business operations from Google Drive, enabling Instagram scheduling and publishing with idempotent provider-backed reconciliation.

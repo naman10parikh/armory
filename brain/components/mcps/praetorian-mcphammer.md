@@ -8,10 +8,12 @@ source_url: https://github.com/praetorian-inc/mcphammer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-17T16:50:00Z"
 ---
 ## What it is
 MCP server `MCPHammer`, catalogued on PulseMCP. Security research framework for evaluating Model Context Protocol server vulnerabilities through prompt injection, data exfiltration, and supply chain attack demonstrations.

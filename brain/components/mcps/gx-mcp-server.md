@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-14T06:31:46Z"
 ---
 ## What it is
 Exposes Great Expectations data-quality checks as MCP tools for LLM agents, enabling data loading, expectation definition, validation, and result interpretation.

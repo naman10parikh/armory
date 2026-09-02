@@ -8,11 +8,13 @@ source_url: https://github.com/kirillsaidov/ollama-mcp-example
 license: The Unlicense
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T10:43:53Z"
 ---
 ## What it is
 A simple MCP server that exposes stock price lookup tools, demonstrating how to set up MCP from scratch with Ollama.

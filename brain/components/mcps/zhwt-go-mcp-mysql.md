@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 65
+forks: 17
+pushed_at: "2026-01-21T01:42:38Z"
 ---
 ## What it is
 Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.

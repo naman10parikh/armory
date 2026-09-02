@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-30T16:45:11Z"
 ---
 ## What it is
 Converts between Markdown and Word documents using pandoc, with support for conversion options, pandoc installation check, and listing supported formats.

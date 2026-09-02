@@ -8,10 +8,12 @@ source_url: https://github.com/woyaxnini/mcp-max-messenger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T14:17:28Z"
 ---
 ## What it is
 MCP server `MAX Messenger`, catalogued on PulseMCP. Control MAX Messenger (VK's Russian national messenger) through MCP. Send and read messages, manage chats, pin messages, and handle group conversations.

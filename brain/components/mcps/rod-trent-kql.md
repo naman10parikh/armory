@@ -8,10 +8,12 @@ source_url: https://github.com/rod-trent/kql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T20:24:50Z"
 ---
 ## What it is
 MCP server `KQL`, catalogued on PulseMCP. Enables querying and analysis using Kusto Query Language (KQL) for Azure Monitor, Sentinel, and other Microsoft data services.

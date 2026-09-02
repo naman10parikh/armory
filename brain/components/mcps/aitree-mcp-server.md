@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T15:15:17Z"
 ---
 ## What it is
 Enables AI assistants to generate annotated file trees, retrieve file statistics, list git-changed files, and read file contents from local directories or GitHub repositories.

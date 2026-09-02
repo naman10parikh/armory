@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:00:40Z"
 ---
 ## What it is
 Provides live vessel positions from Fintraffic's AIS receivers in Finnish and Baltic waters, with tools to query vessels near a point, count vessels in an area, and get details by MMSI. No authentication required.

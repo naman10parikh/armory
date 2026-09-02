@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:19:10Z"
 ---
 ## What it is
 A production-grade MCP server for Zendesk that provides ticket management, search, user/group operations, and knowledge base access with support for local stdio and remote HTTP transports, authentication via API keys or OAuth, and multi-tenancy.

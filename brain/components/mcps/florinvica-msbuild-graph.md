@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T20:38:33Z"
 ---
 ## What it is
 MCP server `MSBuild Graph`, catalogued on PulseMCP. Performs static analysis on MSBuild solutions to visualize project dependency graphs.

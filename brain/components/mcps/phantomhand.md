@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:40:22Z"
 ---
 ## What it is
 A minimalist browser control engine that allows LLM agents to visually perceive and interact with web pages through the Chrome DevTools Protocol and MCP standard.

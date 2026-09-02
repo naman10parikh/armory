@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-18T22:44:58Z"
 ---
 ## What it is
 Enables AI assistants to access AnChain.AI blockchain intelligence APIs for risk assessment, sanctions screening, and transaction analysis on blockchain addresses and transactions.

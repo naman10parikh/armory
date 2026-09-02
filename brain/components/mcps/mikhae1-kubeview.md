@@ -8,10 +8,12 @@ source_url: https://github.com/mikhae1/kubeview-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-12T18:40:37Z"
 ---
 ## What it is
 MCP server `KubeView`, catalogued on PulseMCP. Read-only Kubernetes cluster introspection with Helm and Argo support

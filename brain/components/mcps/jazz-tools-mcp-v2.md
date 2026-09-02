@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T08:06:35Z"
 ---
 ## What it is
 MCP data connector for Jazz v2 alpha servers, providing schema discovery and query/read tools with optional mutation capabilities for application data.

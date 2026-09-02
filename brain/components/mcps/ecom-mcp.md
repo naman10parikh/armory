@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:03:16Z"
 ---
 ## What it is
 An MCP server for e-commerce operations that enables AI agents to investigate stuck orders, surface fulfillment anomalies, and create escalation records via natural language queries.

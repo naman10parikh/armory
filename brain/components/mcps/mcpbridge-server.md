@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:23:26Z"
 ---
 ## What it is
 Enables AI coding agents to control and interact with Unreal Engine 4.27 editor through MCP protocol, translating tool calls into HTTP commands for the in-editor plugin.

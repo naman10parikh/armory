@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T02:11:01Z"
 ---
 ## What it is
 MCP server `Apcore`, catalogued on PulseMCP. Turns any apcore-based project into an MCP-compatible tool provider with zero code changes, supporting auto-discovery of modules and multiple transports.

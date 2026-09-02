@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T06:55:08Z"
 ---
 ## What it is
 Complete MCP server for Wrike project management with 70+ tools and 20 interactive React apps, enabling task, project, and workflow management via natural language.

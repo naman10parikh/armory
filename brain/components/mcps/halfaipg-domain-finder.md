@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-22T16:26:57Z"
 ---
 ## What it is
 MCP server `Domain Finder`, catalogued on PulseMCP. Generates creative, brandable domain names by combining word manipulation techniques with real-time availability checking across 1,441+ TLDs, using intelligent scoring algorithms to evaluate pronounceability and keyword relevance for finding memorable, available domains.

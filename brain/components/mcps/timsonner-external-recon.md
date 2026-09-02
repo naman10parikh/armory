@@ -8,10 +8,12 @@ source_url: https://github.com/timsonner/mcp-vscode-template
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-13T21:30:44Z"
 ---
 ## What it is
 MCP server `External Recon`, catalogued on PulseMCP. Provides network reconnaissance tools for penetration testers, enabling systematic domain enumeration, IP discovery, email security assessment, and port scanning for external security audits.

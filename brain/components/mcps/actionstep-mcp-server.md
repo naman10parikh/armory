@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:03:38Z"
 ---
 ## What it is
 A starter MCP server for Actionstep-style conveyancing automation, providing example tools like ping and list_conveyancing_actions, plus a health endpoint.

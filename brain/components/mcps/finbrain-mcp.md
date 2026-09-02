@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-14T13:20:19Z"
 ---
 ## What it is
 Exposes FinBrain financial datasets (AI-powered price predictions, news, sentiment, alternative data, institutional activity) to AI clients via MCP tools.

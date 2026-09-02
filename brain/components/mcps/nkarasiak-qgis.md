@@ -8,10 +8,12 @@ source_url: https://github.com/nkarasiak/qgis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 273
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 71
+pushed_at: "2026-08-29T17:54:20Z"
 ---
 ## What it is
 MCP server `QGIS`, catalogued on PulseMCP. Connects to QGIS for managing layers, editing features, running processing algorithms, rendering maps, and controlling projects through 50 specialized geospatial tools.

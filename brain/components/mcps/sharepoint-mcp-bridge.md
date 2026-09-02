@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:58:47Z"
 ---
 ## What it is
 A local MCP server that uses a Chromium extension to capture SharePoint Online session tokens, enabling supervised SharePoint operations (lists, files, permissions, modern pages) through Microsoft Graph and SharePoint REST without cloud token uploads.

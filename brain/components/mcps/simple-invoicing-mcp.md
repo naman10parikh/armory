@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T21:08:35Z"
 ---
 ## What it is
 Bridges to a simple_invoicing FastAPI backend, exposing invoice, product, ledger, inventory, buyer, and payment management as MCP tools for use with MCP-compatible clients.

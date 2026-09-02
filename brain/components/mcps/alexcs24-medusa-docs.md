@@ -8,10 +8,12 @@ source_url: https://github.com/alexcs24/medusa.js-documentation-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-14T00:11:17Z"
 ---
 ## What it is
 MCP server `Medusa.js Documentation`, catalogued on PulseMCP. Provides local Medusa.js documentation access through fuzzy search capabilities, enabling semantic text matching, section retrieval by title or path, and comprehensive section listing with configurable search thresholds for quick framework reference without leaving your development environment.

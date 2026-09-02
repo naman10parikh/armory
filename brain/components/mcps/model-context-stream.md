@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T21:07:39Z"
 ---
 ## What it is
 An event-driven MCP server that enables agents to share context streams, publish and subscribe to events, manage tasks, and follow protocols, keeping a fleet of agents mutually context-aware in real time.

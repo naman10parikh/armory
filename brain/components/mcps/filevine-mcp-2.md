@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:49:57Z"
 ---
 ## What it is
 An open-source MCP server connecting Claude to Filevine practice management platform. Access cases, contacts, documents, notes, tasks, and custom PI data from Claude with automatic rate limiting and audit logging.

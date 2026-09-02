@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:32:52Z"
 ---
 ## What it is
 Provides access to AlienVault Open Threat Exchange threat intelligence data, enabling querying of indicators, pulses, and other threat information through natural language.

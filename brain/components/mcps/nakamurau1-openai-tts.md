@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-25T14:34:01Z"
 ---
 ## What it is
 MCP server `OpenAI TTS`, catalogued on PulseMCP. Enables high-quality voice generation from text using OpenAI's TTS API with customizable voices, formats, and speech parameters for seamless audio playback during conversations.

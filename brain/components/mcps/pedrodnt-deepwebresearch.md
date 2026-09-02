@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-23T13:26:41Z"
 ---
 ## What it is
 MCP server `DeepWebResearch`, catalogued on PulseMCP. Enables deep web research through parallel multi-query execution, intelligent content extraction, and screenshot capture using TypeScript and Playwright for comprehensive information gathering across multiple sources.

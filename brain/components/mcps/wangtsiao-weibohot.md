@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-31T13:23:57Z"
 ---
 ## What it is
 MCP server `Weibo Hot`, catalogued on PulseMCP. Provides real-time access to Weibo trending topics through a TypeScript/Node.js server that delivers Chinese social media insights for conversation workflows requiring current information.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-07T23:51:47Z"
 ---
 ## What it is
 MCP server `Inlay`, catalogued on PulseMCP. Makes any website discoverable by AI agents via hosted endpoints, llms.txt generation, and structured data optimization.

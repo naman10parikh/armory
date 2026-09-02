@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T02:39:14Z"
 ---
 ## What it is
 An MCP server that enables concurrently-running Claude Code sessions to cross-talk via channels, DMs, and leader coordination, all backed by a shared beads database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T09:46:16Z"
 ---
 ## What it is
 Enables ridge-based accounting anomaly analysis in Claude Desktop, allowing users to detect and prioritize anomalies in financial data using Ridge regression via natural language.

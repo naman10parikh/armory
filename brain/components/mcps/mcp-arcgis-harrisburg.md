@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:37:24Z"
 ---
 ## What it is
 Enables searching and querying City of Harrisburg GIS open geospatial data (parcels, zoning, public works) via ArcGIS feature services using natural language.

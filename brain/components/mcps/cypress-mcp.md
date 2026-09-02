@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T15:18:02Z"
 ---
 ## What it is
 MCP server plugin for Cypress that enables AI agents to control a browser for automated testing and interaction.

@@ -8,10 +8,12 @@ source_url: https://github.com/johnmatthewtennant/mcp-voice-hooks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-07-31T16:30:33Z"
 ---
 ## What it is
 MCP server `Voice Hooks`, catalogued on PulseMCP. Real-time voice interaction system for Claude Code that enables natural speech-based conversations during development workflows with browser-based speech recognition, text-to-speech responses, and conversation state management.

@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/prediction-markets-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4215
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:54Z"
 ---
 ## What it is
 Prediction market data API for AI agents. Real-time odds, probabilities, and volume from Polymarket and Kalshi. Browse active markets, trending events, and categories (politics, crypto, sports, tech). The betting intelligence layer for event forecasting. Tools: prediction_list_markets, prediction_ge

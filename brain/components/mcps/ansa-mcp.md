@@ -8,11 +8,13 @@ source_url: https://github.com/ilovedurianhhh/ansa-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-30T03:05:22Z"
 ---
 ## What it is
 An MCP server that bridges MCP clients to ANSA CAE pre-processor via file IPC, enabling geometry operations, model management, and solver deck export.

@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-27T19:10:52Z"
 ---
 ## What it is
 MCP server `Nautobot Network Infrastructure`, catalogued on PulseMCP. Integrates with Nautobot network infrastructure management platform, enabling querying and interaction with network data through tools for retrieving information about devices, interfaces, circuits, IP addresses, and locations.

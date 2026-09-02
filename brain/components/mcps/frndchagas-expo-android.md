@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T02:03:07Z"
 ---
 ## What it is
 MCP server `Expo Android`, catalogued on PulseMCP. Automates Android emulators via ADB for UI inspection, touch automation, screenshots, and app control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:00:34Z"
 ---
 ## What it is
 Enables AI-powered GitHub issue management by converting natural-language bug reports into structured issues, detecting duplicates via semantic analysis, and requiring human approval before creating issues on GitHub.

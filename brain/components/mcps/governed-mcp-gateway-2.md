@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:19:12Z"
 ---
 ## What it is
 Enforces authenticated identity on every tool call and SSE frame, rotates vaulted credentials in place, and restricts tools via allowlists.

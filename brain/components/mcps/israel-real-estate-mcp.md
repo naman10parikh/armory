@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-12-08T07:34:43Z"
 ---
 ## What it is
 MCP server for querying Israeli government real estate data, enabling property deal searches, market trend analysis, and address retrieval.

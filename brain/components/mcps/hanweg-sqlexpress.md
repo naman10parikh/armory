@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-20T13:56:40Z"
 ---
 ## What it is
 MCP server `SQL Server Express`, catalogued on PulseMCP. Integrates with Microsoft SQL Server Express to enable database interactions, supporting query execution, table creation, and schema description with configurable authentication and access restrictions.

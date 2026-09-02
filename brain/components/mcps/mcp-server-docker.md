@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-15T23:54:17Z"
 ---
 ## What it is
 Provides a secure MCP interface to execute commands inside Docker Compose service containers, with real-time output capture and configurable timeouts.

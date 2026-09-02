@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:58:43Z"
 ---
 ## What it is
 MCP server for analyzing China's 福彩3D lottery data with deterministic math engines, forward-testing, and safety checks. Enables data import, statistical testing, coverage optimization, risk control, and optional LLM interpretation.

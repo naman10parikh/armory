@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:16:56Z"
 ---
 ## What it is
 Integrates the Metis FCA Handbook AI Harness into Claude Desktop to analyze FCA Handbook applicability for financial products, services, or firms, returning structured compliance reasoning with verbatim citations.

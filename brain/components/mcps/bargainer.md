@@ -8,10 +8,12 @@ source_url: https://github.com/karthiksivaramms/bargainer-mcp-client
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-08T00:21:26Z"
 ---
 ## What it is
 MCP server `Bargainer`, catalogued on PulseMCP. Aggregates deals from multiple sources including Slickdeals API, RapidAPI marketplace, and web scraping providers to provide unified deal search, comparison, and filtering capabilities across price, rating, category, and store parameters.

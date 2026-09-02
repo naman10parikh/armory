@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T00:35:32Z"
 ---
 ## What it is
 Manage your Tailscale tailnet - devices, ACLs, DNS, keys, and more - through natural language queries.

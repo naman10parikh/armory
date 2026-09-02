@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-21T15:01:11Z"
 ---
 ## What it is
 MCP server `JIRA`, catalogued on PulseMCP. Integrates with Atlassian JIRA to enable direct issue management, including searching, creating, updating, and transitioning tickets without leaving your conversation interface.

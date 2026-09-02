@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-19T03:08:36Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Performs Google searches and crawls content from the top 5 non-social media results, filtering out social platforms to deliver consolidated web content for research, fact-checking, and content discovery workflows.

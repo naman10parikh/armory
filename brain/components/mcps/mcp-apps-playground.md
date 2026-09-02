@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-01-28T23:05:58Z"
 ---
 ## What it is
 A demo MCP server showcasing interactive HTML UIs for tools like list sorting, flame graphs, and feature flags, enabling bidirectional communication between user and agent.

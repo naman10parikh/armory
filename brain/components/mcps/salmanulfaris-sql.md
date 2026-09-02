@@ -8,10 +8,12 @@ source_url: https://github.com/salmanulfaris/sql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-15T19:01:52Z"
 ---
 ## What it is
 MCP server `SQL`, catalogued on PulseMCP. MCP server for SQL database access supporting MySQL, PostgreSQL, and SQLite with granular read/write permissions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:14:29Z"
 ---
 ## What it is
 MCP server for Expense, a receipt tracker that lets AI assistants capture receipts, log mileage, answer spending questions, build reports, and reconcile bank statements from your expense data.

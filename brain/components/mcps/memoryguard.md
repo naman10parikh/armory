@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:52:51Z"
 ---
 ## What it is
 A local-first MCP memory layer for coding agents that automatically organizes shared memory writes and provides a governance console for inspection, correction, and rollback.

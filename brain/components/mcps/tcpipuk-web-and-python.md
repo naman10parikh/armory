@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-24T07:37:11Z"
 ---
 ## What it is
 MCP server `Web and Python Sandbox`, catalogued on PulseMCP. Provides web content access and Python code execution in a sandboxed environment, enabling information verification and working code demonstrations through containerized tools with appropriate security constraints.

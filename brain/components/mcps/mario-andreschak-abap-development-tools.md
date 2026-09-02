@@ -8,10 +8,12 @@ source_url: https://github.com/mario-andreschak/mcp-abap-abap-adt-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 183
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 66
+pushed_at: "2026-07-10T01:06:22Z"
 ---
 ## What it is
 MCP server `SAP ABAP Development Tools`, catalogued on PulseMCP. Integrates ABAP Development Tools API to enable automated code reviews, intelligent transport management, and AI-assisted ABAP development.

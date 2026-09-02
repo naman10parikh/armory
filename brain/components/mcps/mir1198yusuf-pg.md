@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T14:40:20Z"
 ---
 ## What it is
 MCP server `mir1198yusuf PostgreSQL`, catalogued on PulseMCP. Minimal local MCP server providing Claude Code with read-only PostgreSQL database access over HTTP transport.

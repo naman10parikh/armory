@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T14:18:03Z"
 ---
 ## What it is
 Enables AI clients to search BUPT byrdocs materials, past exam papers, and freshmen knowledge base via natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/promptly-technologies-llc/mcp-structured-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-23T01:03:59Z"
 ---
 ## What it is
 MCP server `Structured Thinking`, catalogued on PulseMCP. Structures reasoning processes through defined thought stages, managing a history of thoughts with metadata for transparent, step-by-step problem solving and decision making.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T20:41:02Z"
 ---
 ## What it is
 Hardened C# Model Context Protocol (MCP) server for MS SQL Server and PostgreSQL databases featuring read-only transaction safeguards, command security filters, and path traversal protection.

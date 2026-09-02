@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:44:48Z"
 ---
 ## What it is
 A production-grade MCP server that provides persistent long-term memory for AI agents using MongoDB, enabling them to store, search, update, delete, retrieve, and summarize structured project memories across developer workflows.

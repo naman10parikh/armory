@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-03-17T08:11:28Z"
 ---
 ## What it is
 MCP server that provides AI agents with financial tools including real-time quotes, backtesting, technical analysis, and multi-exchange data via a simple CLI interface.

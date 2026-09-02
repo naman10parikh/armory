@@ -8,11 +8,13 @@ source_url: https://github.com/info-arnav/unlocalhost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:45:57Z"
 ---
 ## What it is
 Enables coding agents to deploy applications to private, authenticated URLs with a guest list, so only specified users can access them without writing auth code.

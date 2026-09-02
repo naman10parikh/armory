@@ -8,10 +8,12 @@ source_url: https://github.com/twells89/sigma-data-model-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-07T15:39:01Z"
 ---
 ## What it is
 MCP server `Sigma Data Model Converter`, catalogued on PulseMCP. Converts data models from dbt, Snowflake, LookML, Tableau, and Power BI into Sigma Computing data model format.

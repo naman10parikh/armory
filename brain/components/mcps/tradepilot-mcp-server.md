@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-26T22:56:36Z"
 ---
 ## What it is
 A production-grade MCP server that integrates Polygon.io market data with an 18-layer technical analysis engine to generate actionable options trading signals and high-probability playbooks.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T15:35:59Z"
 ---
 ## What it is
 MCP server `LanceDB Vector Search`, catalogued on PulseMCP. Enables vector search capabilities using LanceDB and Ollama's embedding model for similarity searches on document collections without context switching.

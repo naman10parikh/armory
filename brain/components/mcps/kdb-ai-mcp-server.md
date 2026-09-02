@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-15T12:31:01Z"
 ---
 ## What it is
 Enables interaction with KDB.AI through natural language for vector database operations, similarity searches, hybrid search, and advanced data analysis.

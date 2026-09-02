@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-04T08:25:42Z"
 ---
 ## What it is
 MCP server `GitHub Review`, catalogued on PulseMCP. Integrates with GitHub's API to enable pull request analysis, code review operations, file change tracking, commit history retrieval, and automated review comment posting for development team collaboration workflows.

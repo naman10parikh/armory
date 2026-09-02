@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T15:48:05Z"
 ---
 ## What it is
 Enables AI agents to generate temporary email addresses, receive emails, and automatically extract OTP codes and links from incoming messages for automation and testing workflows.

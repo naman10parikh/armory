@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:32Z"
 ---
 ## What it is
 Enables AI agents to generate UUID v4, v7, ULID, or nanoid identifiers on demand, including batch requests up to 100, via x402 micropayments without API keys.

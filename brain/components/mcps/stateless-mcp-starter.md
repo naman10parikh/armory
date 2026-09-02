@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T00:31:02Z"
 ---
 ## What it is
 An Express + TypeScript starter for building stateless MCP servers with explicit, typed application state, featuring a shopping-cart domain example and support for multiple state store adapters.

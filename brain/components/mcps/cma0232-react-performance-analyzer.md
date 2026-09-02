@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T07:16:04Z"
 ---
 ## What it is
 MCP server `React Performance Analyzer`, catalogued on PulseMCP. Analyzes React application performance, identifying slow renders and optimization opportunities.

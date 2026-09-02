@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:56:07Z"
 ---
 ## What it is
 Provides 129 MCP tools for querying and managing Hillstone StoneOS firewalls, enabling AI assistants to perform network operations through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T01:00:44Z"
 ---
 ## What it is
 Enables Claude Code to delegate tasks to Cursor's headless agent, run adversarial reviews, and verify findings with prosecutor/advocate roles.

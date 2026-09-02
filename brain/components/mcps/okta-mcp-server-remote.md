@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T16:41:12Z"
 ---
 ## What it is
 Wraps Okta's stdio MCP server to be accessible remotely via Streamable HTTP with OAuth authentication, and adds native Okta Admin API tools for application management.

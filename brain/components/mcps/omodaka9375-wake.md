@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T19:40:43Z"
 ---
 ## What it is
 MCP server `WAKE`, catalogued on PulseMCP. Post-mortem protocol system for AI agents managing agent lifecycle with succession planning and final message delivery.

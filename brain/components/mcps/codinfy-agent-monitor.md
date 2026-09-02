@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T12:06:28Z"
 ---
 ## What it is
 Provides real-time monitoring of AI agents, context, usage limits, workflows, files, Git, tests, builds, errors, secrets, and model-economy advice for tools like Claude Code, Codex, and Cursor, with 30 MCP tools for comprehensive observability.

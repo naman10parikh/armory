@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T02:25:05Z"
 ---
 ## What it is
 Exposes SigmaUI Design System components to AI assistants, providing tools for component documentation, search, usage examples, and design tokens to accelerate Vue 3 and Nuxt 3 UI development.

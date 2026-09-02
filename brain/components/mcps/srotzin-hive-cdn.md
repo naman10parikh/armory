@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T07:35:51Z"
 ---
 ## What it is
 MCP server `Hive CDN`, catalogued on PulseMCP. Edge cache layer for agent-to-agent communication with two-tier LRU and SQLite storage, ETag support, and USDC metering.

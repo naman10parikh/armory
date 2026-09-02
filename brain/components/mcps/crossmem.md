@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-06T12:00:00Z"
 ---
 ## What it is
 Unified search across all Claude Code and Gemini CLI memories, enabling AI assistants to recall and save cross-project knowledge via an MCP server.

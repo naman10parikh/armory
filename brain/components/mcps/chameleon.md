@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:25:02Z"
 ---
 ## What it is
 MCP server for agent-friendly web scraping with adaptive anti-bot bypass, dynamic rendering, and structured data extraction via 12 tools.

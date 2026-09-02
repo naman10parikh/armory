@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-08T15:04:57Z"
 ---
 ## What it is
 Enables natural language queries about JavaScript/TypeScript codebases using graph and vector search. Allows finding functions by semantic description, callers, callees, and function details.

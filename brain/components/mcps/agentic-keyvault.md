@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:39:38Z"
 ---
 ## What it is
 A self-hostable secrets manager with an MCP server that enables AI agents to securely store, version, and retrieve API keys and tokens, ensuring they are never lost.

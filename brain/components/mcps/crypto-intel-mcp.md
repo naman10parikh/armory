@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:14:35Z"
 ---
 ## What it is
 Provides crypto market intelligence including price quotes, momentum analysis, trending coins, and a composite scored verdict, using the free CoinGecko API.

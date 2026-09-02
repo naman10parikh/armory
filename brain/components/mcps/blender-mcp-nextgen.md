@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:33:04Z"
 ---
 ## What it is
 Connects AI assistants to Blender 3D for natural language 3D modeling, scene inspection, material creation, and rendering.

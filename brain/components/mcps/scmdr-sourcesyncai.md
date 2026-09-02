@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-03T14:08:01Z"
 ---
 ## What it is
 MCP server `SourceSync.ai`, catalogued on PulseMCP. Integrates with SourceSync.ai's knowledge management platform to enable semantic search, document management, and content ingestion from diverse sources for AI-driven knowledge retrieval and document analysis.

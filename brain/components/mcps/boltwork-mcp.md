@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T08:42:18Z"
 ---
 ## What it is
 Give your AI agent PDF summarization, code review, translation, web extraction, document comparison, and persistent memory — all paid autonomously via Bitcoin Lightning.

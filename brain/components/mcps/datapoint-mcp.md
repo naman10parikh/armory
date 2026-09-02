@@ -8,11 +8,13 @@ source_url: https://github.com/impel-intelligence/datapoint-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:29:01Z"
 ---
 ## What it is
 Enables AI agents to recruit real humans for evaluation tasks like surveys, A/B tests, and ratings on text, images, audio, and video, returning aggregated results directly into the conversation.

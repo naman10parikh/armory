@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T02:51:22Z"
 ---
 ## What it is
 An MCP server that lets an AI assistant drive Epistemic Network Analysis models hosted on the webENA cloud service, enabling project listing, model running, and result visualization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-08T07:37:05Z"
 ---
 ## What it is
 MCP server for uploading, listing, and retrieving files on S3-compatible storage (AWS S3, DigitalOcean Spaces) with public/private access and temporary URLs.

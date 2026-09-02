@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T23:31:22Z"
 ---
 ## What it is
 An MCP server that lets host-side Claude Cowork dispatch work into Claude Code running inside your devcontainer over stdio.

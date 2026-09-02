@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:26:01Z"
 ---
 ## What it is
 MCP server for thinker-ci, exposing tickets, CI/CD pipelines, project management data, and AI-agent sessions as tools and resources for Claude Code and other MCP clients.

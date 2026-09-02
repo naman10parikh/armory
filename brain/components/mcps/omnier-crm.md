@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T16:00:07Z"
 ---
 ## What it is
 MCP server `Omnier`, catalogued on PulseMCP. CRM purpose-built for AI agent operation with structured access to contacts and pipelines.

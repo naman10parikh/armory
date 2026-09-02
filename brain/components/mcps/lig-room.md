@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:52:01Z"
 ---
 ## What it is
 Enables AI agents to search for available desk space, submit room reservations, and let admins approve or reject booking requests through a scoped MCP API.

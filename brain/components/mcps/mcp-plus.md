@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:17:02Z"
 ---
 ## What it is
 Enables Claude Code to understand images by transparently routing them to Qwen vision models, supporting both automatic gateway and MCP tool for file analysis.

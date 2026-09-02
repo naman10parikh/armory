@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-02T13:50:01Z"
 ---
 ## What it is
 MCP server `FOLIO Legal Ontology`, catalogued on PulseMCP. Provides searchable access to the FOLIO legal ontology with 18,000+ concepts covering areas of law, document types, and legal entities.

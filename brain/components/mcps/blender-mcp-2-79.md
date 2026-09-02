@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T05:37:21Z"
 ---
 ## What it is
 Enables Claude AI to control Blender 2.79 for 3D modeling, scene creation, and manipulation through the Model Context Protocol, with legacy compatibility for older Blender versions.

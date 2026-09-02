@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-10T10:39:23Z"
 ---
 ## What it is
 A fact-checked research MCP server that screens topics, drafts outlines, searches the web, and verifies every citation against live sources, eliminating hallucinated references.

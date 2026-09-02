@@ -8,10 +8,12 @@ source_url: https://github.com/tuhalang/ruby-console-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T15:24:00Z"
 ---
 ## What it is
 MCP server `Ruby Console`, catalogued on PulseMCP. Persistent Ruby console interaction with session state preservation, supporting Rails console, IRB, and Racksh environments for querying models, inspecting data, and executing Ruby code while maintaining variables and application context across commands.

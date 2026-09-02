@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2025-04-09T11:59:58Z"
 ---
 ## What it is
 A Model Context Protocol server for interacting with the Amazon Selling Partner API, providing tools and resources for managing catalog, inventory, orders, reports, and more.

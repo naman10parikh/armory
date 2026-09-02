@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:19:50Z"
 ---
 ## What it is
 An MCP server that lets an LLM operate an amateur radio shack: query live APRS traffic, predict satellite passes, schedule SDR captures, and monitor FT8/WSPR band activity.

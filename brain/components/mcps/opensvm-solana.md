@@ -8,10 +8,12 @@ source_url: https://github.com/opensvm/solana-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-01-08T09:24:37Z"
 ---
 ## What it is
 MCP server `Solana`, catalogued on PulseMCP. Integrates with Solana's blockchain to enable querying account data, managing tokens, and analyzing transactions using a Rust-based abstraction layer over the RPC API.

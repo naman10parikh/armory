@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T18:16:19Z"
 ---
 ## What it is
 Converts meetings, chats, and notes into reusable knowledge for a venture capital firm, enabling knowledge capture and retrieval via Claude or Codex.

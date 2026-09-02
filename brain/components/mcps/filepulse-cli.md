@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T22:14:26Z"
 ---
 ## What it is
 Intelligent file search engine with Frecency ranking, fuzzy matching, and Git awareness. Provides MCP server for AI agents to search files, content, and get file statistics via natural language.

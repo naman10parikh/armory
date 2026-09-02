@@ -8,10 +8,12 @@ source_url: https://github.com/codemaestroai/advanced-unity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-03-30T20:37:35Z"
 ---
 ## What it is
 MCP server `Advanced Unity MCP`, catalogued on PulseMCP. Unity Editor package that enables direct integration between Unity development environments and external tools for game development workflows including scripting, scene management, and asset organization.

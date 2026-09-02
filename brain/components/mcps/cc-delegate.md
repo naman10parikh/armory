@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T18:02:32Z"
 ---
 ## What it is
 Delegates heavy development tasks from a supervisor to an autonomous worker on a cheaper model via MCP, with isolated git worktrees and provider-agnostic support.

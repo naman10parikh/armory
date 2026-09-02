@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:03:43Z"
 ---
 ## What it is
 MCP server for HOGSWAP, providing DEX-aggregated quotes, unsigned swap builds, and x402 invoice payments with any assets, all non-custodial.

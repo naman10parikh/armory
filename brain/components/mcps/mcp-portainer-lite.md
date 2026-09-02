@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T21:49:00Z"
 ---
 ## What it is
 Lightweight MCP server for Portainer CE, focused on Docker Swarm environments with read-only tools by default and optional mutations.

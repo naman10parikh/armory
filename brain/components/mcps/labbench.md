@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:41:35Z"
 ---
 ## What it is
 Enables Claude Code to browse coursework, manage user workspaces, run sandboxed tests, post hints, and assign new projects in LabBench.

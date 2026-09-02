@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-14T05:47:42Z"
 ---
 ## What it is
 MCP server `BracketBot Multi-Robot Control`, catalogued on PulseMCP. Enables simultaneous control of multiple robots through a unified interface for movement, sound playback, camera access, and status monitoring with precise velocity control and comprehensive error handling.

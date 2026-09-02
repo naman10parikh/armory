@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T23:05:50Z"
 ---
 ## What it is
 MCP server `Bounding Box`, catalogued on PulseMCP. Geospatial toolkit for coordinate conversion, EPSG projections, H3 indexing, Overpass queries, and map visualization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:19:25Z"
 ---
 ## What it is
 Enables AI agents to interact with Canvas LMS via its REST API for reading courses, assignments, grades, announcements, discussions, and performing write actions with dry-run safety.

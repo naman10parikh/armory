@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T08:31:51Z"
 ---
 ## What it is
 MCP server `Nextcloud`, catalogued on PulseMCP. Comprehensive Nextcloud integration with file management, calendar, contacts, notes, tasks, bookmarks, Deck boards, and Talk messaging through the Nextcloud API.

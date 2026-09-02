@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-01T22:05:30Z"
 ---
 ## What it is
 MCP server `Simsar`, catalogued on PulseMCP. Provides real-time cryptocurrency market data, technical indicators, sentiment metrics, futures data, and economic calendar events for trading analysis.

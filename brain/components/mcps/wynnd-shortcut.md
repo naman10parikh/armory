@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-05T21:21:15Z"
 ---
 ## What it is
 MCP server `Shortcut`, catalogued on PulseMCP. Integrates with Shortcut's ticket management system to enable listing, searching, creating and updating stories, managing comments, and retrieving workflow states and projects

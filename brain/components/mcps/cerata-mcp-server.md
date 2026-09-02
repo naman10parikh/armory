@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T04:52:07Z"
 ---
 ## What it is
 Enables hunting and analyzing GitHub repositories, extracting code patterns as live MCP tools (nematocysts) through the Rose Glass perception engine.

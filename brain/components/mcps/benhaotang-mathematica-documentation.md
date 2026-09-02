@@ -8,10 +8,12 @@ source_url: https://github.com/benhaotang/mcp-mma-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-16T14:15:56Z"
 ---
 ## What it is
 MCP server `Mathematica Docs`, catalogued on PulseMCP. Integrates with Wolfram Mathematica's documentation to provide access to function details, package symbols, and computational capabilities for mathematical modeling and scientific computing tasks.

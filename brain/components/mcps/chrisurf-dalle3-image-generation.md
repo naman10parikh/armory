@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-06T10:18:43Z"
 ---
 ## What it is
 MCP server `DALL-E 3`, catalogued on PulseMCP. Integrates with OpenAI's DALL-E 3 API to generate high-quality images with configurable size, quality, and style parameters, automatically saving results locally with descriptive filenames.

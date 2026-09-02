@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:31Z"
 ---
 ## What it is
 Consulta e download de contas de energia da Enel RJ em fonte oficial, com servidor MCP hospedado, somente leitura, e compatível com qualquer cliente MCP via HTTP.

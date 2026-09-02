@@ -8,11 +8,13 @@ source_url: https://github.com/hyperbrowserai/mcp
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 790
+stars: 789
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, hyperbrowser]
+forks: 73
+pushed_at: "2025-11-20T01:32:08Z"
 ---
 ## What it is
 Hyperbrowser cloud browser MCP server — gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.

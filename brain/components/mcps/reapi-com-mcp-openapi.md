@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 90
+forks: 16
+pushed_at: "2025-03-30T07:02:38Z"
 ---
 ## What it is
 MCP server that lets LLMs know everything about your OpenAPI specifications to discover, explain and generate code/mock data

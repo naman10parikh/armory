@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T21:35:25Z"
 ---
 ## What it is
 Connects Claude to Jira and Confluence, enabling natural language research, design with Mermaid diagrams, documentation writing, and ticket creation without needing an Anthropic API key.

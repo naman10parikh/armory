@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T08:50:12Z"
 ---
 ## What it is
 Production-grade MCP server for the Shopify Admin GraphQL API, exposing typed tools for AI agents to manage products, orders, customers, and more.

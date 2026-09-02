@@ -8,11 +8,13 @@ source_url: https://github.com/aplavin/julia-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-08-22T21:12:35Z"
 ---
 ## What it is
 Enables AI assistants to execute Julia code efficiently with persistent sessions, avoiding startup costs and maintaining state across calls.

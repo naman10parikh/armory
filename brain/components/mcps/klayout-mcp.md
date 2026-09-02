@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-25T10:22:24Z"
 ---
 ## What it is
 Read-only MCP server for KLayout that opens GDS/OAS layouts, inspects geometry and hierarchy, renders deterministic PNGs, and runs batch DRC with structured JSON output.

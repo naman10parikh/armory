@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/ocr-extract-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3557
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:44Z"
 ---
 ## What it is
 OCR (Optical Character Recognition) API for AI agents. Extract text from images via URL or base64 input. Confidence scoring, language detection, and multi-language support (English, French, German, Spanish, Chinese, Japanese, and more). Tools: media_extract_text_from_image. Use this for reading docu

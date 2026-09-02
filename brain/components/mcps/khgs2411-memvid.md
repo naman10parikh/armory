@@ -8,10 +8,12 @@ source_url: https://github.com/khgs2411/memvid_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-14T14:27:36Z"
 ---
 ## What it is
 MCP server `Memvid`, catalogued on PulseMCP. Provides persistent file-based memory storage for maintaining context across sessions, storing text documents with metadata, and performing hybrid semantic search with optional natural language querying.

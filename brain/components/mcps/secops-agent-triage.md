@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:51:24Z"
 ---
 ## What it is
 Enables AI agents to perform security alert triage by ingesting raw logs, extracting IOCs, querying threat intelligence sources, and generating structured NIST/MITRE assessments with reasoning traces.

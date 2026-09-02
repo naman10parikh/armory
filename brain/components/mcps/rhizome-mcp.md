@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:36:04Z"
 ---
 ## What it is
 rhizome-mcp is a local-first MCP server for task tracking and coordination of autonomous AI coding agents, providing crash-safe issue claiming, durable project memory, and dependency graphs using SQLite. It enables agents from different MCP-compatible clients to share a consistent view of project wo

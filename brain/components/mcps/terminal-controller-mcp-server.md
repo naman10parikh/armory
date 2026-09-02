@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T06:29:08Z"
 ---
 ## What it is
 Enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.

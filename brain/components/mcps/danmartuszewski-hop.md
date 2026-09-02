@@ -8,10 +8,12 @@ source_url: https://github.com/danmartuszewski/hop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-22T20:00:25Z"
 ---
 ## What it is
 MCP server `Hop`, catalogued on PulseMCP. SSH connection manager with fuzzy matching, TUI dashboard, multi-exec, and jump host support.

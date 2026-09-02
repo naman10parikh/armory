@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-11-06T07:20:28Z"
 ---
 ## What it is
 An MCP server that provides tools for interacting with the Document Authoring Admin API to manage content, versions, and configurations in DA repositories.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:33:53Z"
 ---
 ## What it is
 Local-first MCP server for Pilates centers that creates, searches, and reuses promotional poster HTML/CSS sources, records design feedback, and renders PNG/PDF artifacts with headless Chromium. It also includes a Schedule Workspace for managing group/private timetables and generating schedule poster

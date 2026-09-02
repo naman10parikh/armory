@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:41:15Z"
 ---
 ## What it is
 Gives AI agents direct access to databases across 8 engines with 145+ tools, enabling schema-aware query execution and management through natural language.

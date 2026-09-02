@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-07T15:15:18Z"
 ---
 ## What it is
 Integrates OpenShift LightSpeed with Claude Code to provide AI-powered OpenShift assistance and troubleshooting.

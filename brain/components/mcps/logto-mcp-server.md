@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T19:50:10Z"
 ---
 ## What it is
 Enables managing Logto resources (users, applications, organizations, roles) via MCP clients like Cursor or Claude Desktop.

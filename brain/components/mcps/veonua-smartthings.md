@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-06T05:27:32Z"
 ---
 ## What it is
 MCP server `SmartThings`, catalogued on PulseMCP. Integrates with Samsung SmartThings platform to control smart home devices, monitor real-time status, and analyze historical sensor data with room-based filtering and time-range aggregation.

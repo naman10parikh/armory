@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-20T10:42:33Z"
 ---
 ## What it is
 Enables MCP-compatible clients to leverage OpenAI's multimodal capabilities (vision, image generation, speech-to-text, text-to-speech) through file-oriented tools with a security-first architecture.

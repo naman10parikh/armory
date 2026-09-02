@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T17:10:48Z"
 ---
 ## What it is
 Provides MCP tools to query Etherscan for Ethereum blockchain data—ETH balances, ERC-20 tokens, transactions, contract ABIs, and gas prices—without requiring an API key.

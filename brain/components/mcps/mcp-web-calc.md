@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-15T00:55:55Z"
 ---
 ## What it is
 Provides web search, URL fetching, summarization, math evaluation, and Wikipedia tools for LM Studio without needing an API key.

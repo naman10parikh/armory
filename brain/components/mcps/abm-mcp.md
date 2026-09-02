@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:01:58Z"
 ---
 ## What it is
 A read-only MCP server that provides tools to list and read devices, MDM servers, blueprints, configurations, apps, packages, users, and other resources from Apple Business Manager and Apple School Manager.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-08T00:23:21Z"
 ---
 ## What it is
 MCP server `Nostr Code Snippets`, catalogued on PulseMCP. Enables AI to fetch and retrieve code snippets from the decentralized Nostr protocol network for accessing community-shared programming solutions.

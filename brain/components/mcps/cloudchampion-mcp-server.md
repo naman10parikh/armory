@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T00:36:55Z"
 ---
 ## What it is
 MCP server to query Cloud Champion's training catalog. Enables AI agents to search, filter, and get statistics about Microsoft partner resources like webinars, videos, learning paths, and podcasts.

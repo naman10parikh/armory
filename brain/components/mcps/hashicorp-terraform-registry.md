@@ -8,10 +8,12 @@ source_url: https://github.com/hashicorp/terraform-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1379
+stars: 1518
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 195
+pushed_at: "2026-09-01T19:13:59Z"
 ---
 ## What it is
 MCP server `Terraform Registry`, catalogued on PulseMCP. Integrates with HashiCorp's Terraform Registry APIs to enable provider documentation retrieval, module search, and infrastructure configuration discovery for Terraform workflows.

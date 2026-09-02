@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:05:22Z"
 ---
 ## What it is
 A governed MCP server that enforces a trust layer between AI agents and databases, requiring sign-off on joins and metrics and producing auditable receipts for every query.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:35Z"
 ---
 ## What it is
 MCP server `psycopg2`, catalogued on PulseMCP. Exposes psycopg2 PostgreSQL database adapter functionality as callable tools.

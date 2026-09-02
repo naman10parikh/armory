@@ -8,10 +8,12 @@ source_url: https://github.com/pydantic/mcp-run-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 192
+stars: 194
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-01-30T14:21:45Z"
 ---
 ## What it is
 MCP server `Python Code Execution`, catalogued on PulseMCP. Provides secure Python code execution in a sandboxed Pyodide environment with automatic dependency installation, stdout/stderr capture, and complete isolation from the host system for data analysis and mathematical computations.

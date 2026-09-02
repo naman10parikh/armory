@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-17T19:52:18Z"
 ---
 ## What it is
 MCP server `Risky Business AI`, catalogued on PulseMCP. Integrates with GitHub, NIST NVD, and CISA's Known Exploited Vulnerabilities catalog to automate CVE exploitability assessment by searching for proof-of-concept exploits, retrieving official vulnerability details with CVSS scores, and cross-referencing against actively exploited vulnerabilities for threat intelligence and security prioritization.

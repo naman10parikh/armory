@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-18T14:43:31Z"
 ---
 ## What it is
 An MCP server that provides tools and resources to access company financial filings, industry classifications, and related data via the Financial Reports API.

@@ -8,10 +8,12 @@ source_url: https://github.com/echoqili/ssh-licco
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T15:38:00Z"
 ---
 ## What it is
 MCP server `SSH Licco`, catalogued on PulseMCP. Enables remote server management through SSH with connection pooling, batch execution, SFTP file transfers, Docker operations, and audit logging.

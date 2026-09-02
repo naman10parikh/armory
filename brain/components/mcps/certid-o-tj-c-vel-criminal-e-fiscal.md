@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:52:03Z"
 ---
 ## What it is
 Emits civil, criminal, and fiscal certificates from Brazilian state courts (Tribunal de Justiça) using CPF or CNPJ and UF. Read-only MCP server accessible via HTTP, pay-per-use with prepaid credits.

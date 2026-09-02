@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T19:08:15Z"
 ---
 ## What it is
 MCP server `Log Analysis`, catalogued on PulseMCP. Analyzes log files with level aggregation, error clustering, and graph generation using deterministic signal extraction.

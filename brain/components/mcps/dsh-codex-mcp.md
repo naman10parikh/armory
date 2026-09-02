@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:47:36Z"
 ---
 ## What it is
 Launches the official Codex CLI as a persistent MCP server so DeepSeek Harness can invoke Codex models without storing or transmitting ChatGPT credentials to third parties.

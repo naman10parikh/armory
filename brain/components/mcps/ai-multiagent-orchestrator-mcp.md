@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:39:11Z"
 ---
 ## What it is
 MCP server that coordinates multiple AI specialists (SQL database, document RAG, and web research) using LangGraph, routing each question to the relevant agents and synthesizing their responses into a single answer with honest confidence flags.

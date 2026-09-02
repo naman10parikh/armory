@@ -8,10 +8,12 @@ source_url: https://github.com/thoughtspot/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-27T08:33:30Z"
 ---
 ## What it is
 MCP server `ThoughtSpot`, catalogued on PulseMCP. OAuth-based analytics data querying from ThoughtSpot instances

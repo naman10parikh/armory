@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T17:03:09Z"
 ---
 ## What it is
 Enables Claude to generate and edit images using Google's Gemini image models, with options for resolution and batch processing, and optional Firebase Storage for cross-environment image transfer.

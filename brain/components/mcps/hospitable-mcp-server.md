@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T16:42:21Z"
 ---
 ## What it is
 Connects Claude to the Hospitable API v2 for managing vacation rental properties, reservations, guest messages, and reviews.

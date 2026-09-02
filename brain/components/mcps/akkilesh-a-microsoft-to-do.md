@@ -8,10 +8,12 @@ source_url: https://github.com/akkilesh-a/microsoft-todo-mcp-server-self-hosted
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-27T18:14:36Z"
 ---
 ## What it is
 MCP server `Microsoft To Do`, catalogued on PulseMCP. Self-hosted Microsoft To Do with SQLite workaround for personal account list limitations.

@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-04-03T09:32:33Z"
 ---
 ## What it is
 MCP server `Cashfree`, catalogued on PulseMCP. Integrates with Cashfree's payment processing APIs to enable creating payment links, managing orders, processing refunds, initiating transfers, and verifying identity information

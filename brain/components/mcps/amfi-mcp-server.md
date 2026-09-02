@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T10:21:44Z"
 ---
 ## What it is
 Provides AI assistants with real-time Indian mutual fund NAV data from AMFI's official feed, requiring no API key.

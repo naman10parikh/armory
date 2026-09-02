@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:27:54Z"
 ---
 ## What it is
 Enables AI agents to manage financial operations including balance checks, money transfers, invoicing, spending policies, and audit logs through the PayGent API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-26T01:51:59Z"
 ---
 ## What it is
 Enables AI agents to access SignalK marine data with 90-96% token reduction by executing JavaScript code in V8 isolates for client-side filtering and processing.

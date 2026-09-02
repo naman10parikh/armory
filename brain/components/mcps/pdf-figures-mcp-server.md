@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-13T13:33:54Z"
 ---
 ## What it is
 Extracts figures and tables from PDF documents via a FastAPI service, wrapping PDFFigures 2.0. Enables AI agents to programmatically retrieve structured figure and table data from scholarly PDFs.

@@ -8,10 +8,12 @@ source_url: https://github.com/dicklesworthstone/ultimate_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-22T18:47:30Z"
 ---
 ## What it is
 MCP server `LLM Gateway`, catalogued on PulseMCP. Unified gateway for managing multiple LLM providers with automatic model selection, semantic caching, and cost optimization features for reliable production deployments

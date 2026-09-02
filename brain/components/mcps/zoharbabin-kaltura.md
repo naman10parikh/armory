@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-01T16:50:29Z"
 ---
 ## What it is
 MCP server `Kaltura`, catalogued on PulseMCP. Enables Large Language Models to interact with the Kaltura Media Management Platform, providing comprehensive media operations like listing, retrieving, uploading, and managing media entries, categories, and users through multiple transport mechanisms.

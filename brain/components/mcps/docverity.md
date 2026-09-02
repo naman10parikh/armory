@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T01:45:00Z"
 ---
 ## What it is
 MCP server that enables coding agents to check documentation claims against source code, detecting drift and suggesting fixes.

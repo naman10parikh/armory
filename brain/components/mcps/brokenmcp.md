@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:02:14Z"
 ---
 ## What it is
 A deliberately vulnerable MCP server for educational purposes, with labs covering the OWASP MCP Top 10 risks to practice finding and fixing vulnerabilities.

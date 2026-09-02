@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:47:26Z"
 ---
 ## What it is
 An MCP server for the Frappe Cloud control plane that lets agents manage sites, bench groups, servers, backups, deploys, logs, analytics, and billing. It provides read, write, and optional destructive tools for operating Frappe Cloud hosting infrastructure.

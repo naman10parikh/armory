@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:18:42Z"
 ---
 ## What it is
 MCP server that enables AI assistants to interact with InterSystems IRIS databases through tools for SQL, globals, class methods, Atelier API, and interoperability, plus guided prompts for common workflows.

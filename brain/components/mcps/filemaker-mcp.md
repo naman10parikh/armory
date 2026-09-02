@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-22T20:36:03Z"
 ---
 ## What it is
 Enables AI assistants to query, analyze, and discover FileMaker database schemas via OData v4, with pandas-powered analytics for efficient data summaries.

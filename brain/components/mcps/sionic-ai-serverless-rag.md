@@ -12,6 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-11T03:34:20Z"
 ---
 ## What it is
 MCP server `Storm`, catalogued on PulseMCP. Serverless RAG implementation using FastAPI that provides flexible file upload, processing, and tool integration capabilities with a modular server architecture for dynamic resource management.

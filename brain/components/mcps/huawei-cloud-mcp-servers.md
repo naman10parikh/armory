@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T07:08:24Z"
 ---
 ## What it is
 Provides MCP servers for managing Huawei Cloud ECS, CodeArts Pipeline, and CTS audit logs with unified JWT authentication and role-based access control.

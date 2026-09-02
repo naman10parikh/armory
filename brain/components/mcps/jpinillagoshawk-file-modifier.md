@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-03T11:25:35Z"
 ---
 ## What it is
 MCP server `File Modifier`, catalogued on PulseMCP. Enables targeted text file modifications through operations like adding, replacing, and deleting content at specific locations.

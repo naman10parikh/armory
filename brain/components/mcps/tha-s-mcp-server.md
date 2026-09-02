@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T13:49:57Z"
 ---
 ## What it is
 Enables Claude to interact with the Thaïs hotel reservation system, including checking availability, listing room types, retrieving prices, and creating bookings with email confirmation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T19:49:26Z"
 ---
 ## What it is
 MCP server for managing Google Sheets via 23 tools, enabling read/write, formatting, sheet management, and data operations through natural language.

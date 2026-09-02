@@ -8,11 +8,13 @@ source_url: https://github.com/golf-mcp/golf
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 837
+stars: 839
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 70
+pushed_at: "2026-09-01T10:01:19Z"
 ---
 ## What it is
 Easiest framework for building MCP servers with automatic discovery of tools, prompts, and resources, plus enterprise-grade authentication and telemetry.

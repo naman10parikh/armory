@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:12:27Z"
 ---
 ## What it is
 Paid remote MCP for browser session management, enabling AI agents to open sessions, run stateful snippets, read page state, and export session logs.

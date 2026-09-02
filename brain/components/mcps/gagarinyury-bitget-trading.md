@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-16T21:37:15Z"
 ---
 ## What it is
 MCP server `Bitget Trading`, catalogued on PulseMCP. Integrates with Bitget cryptocurrency exchange to provide complete trading functionality including market data retrieval, account management, order execution, futures operations, and real-time WebSocket feeds for both spot and derivatives markets.

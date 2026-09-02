@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-27T05:43:00Z"
 ---
 ## What it is
 MCP server for Modbus TCP devices that enables AI agents to read/write PLC registers by name using YAML device profiles, with a built-in simulator.

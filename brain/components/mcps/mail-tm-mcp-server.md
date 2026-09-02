@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T00:38:32Z"
 ---
 ## What it is
 Enables AI assistants to manage temporary email addresses via the mail.tm API, including creating disposable inboxes, reading messages, and managing accounts.

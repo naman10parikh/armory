@@ -8,10 +8,12 @@ source_url: https://github.com/scrapeless-ai/scrapeless-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 161
+stars: 168
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-09-02T03:02:04Z"
 ---
 ## What it is
 MCP server `Scrapeless (Google Search)`, catalogued on PulseMCP. Provides a bridge to the Scrapeless API for performing Google searches with customizable parameters including query text, country code, and language preferences.

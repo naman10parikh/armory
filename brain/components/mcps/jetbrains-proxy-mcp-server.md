@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-22T00:52:09Z"
 ---
 ## What it is
 A proxy server that forwards MCP requests to a JetBrains IDE server, with support for path conversion between WSL, Git Bash, and Windows.

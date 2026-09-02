@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T09:29:55Z"
 ---
 ## What it is
 MCP server `Status`, catalogued on PulseMCP. Provides access to over 1,700 status page links with fuzzy search, detailed service information retrieval, and intelligent status page fetching that handles JavaScript-rendered pages, RSS feeds, and various formats for monitoring service health and incident tracking.

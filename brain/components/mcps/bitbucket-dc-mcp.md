@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T17:31:55Z"
 ---
 ## What it is
 A hardened Model Context Protocol server that exposes Bitbucket Data Center operations to AI coding assistants like Claude Code, Claude Desktop, and GitHub Copilot.

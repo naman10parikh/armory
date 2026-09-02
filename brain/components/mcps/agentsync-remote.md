@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:18:16Z"
 ---
 ## What it is
 Enables claude.ai on your phone to act as a peer in the agentsync coordination mesh, using GitHub contents API instead of git to read and update claims.json. Provides tools for surveying, claiming, conflict-checking, updating status, releasing, history, and mailbox notes.

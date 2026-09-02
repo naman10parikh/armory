@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-24T13:48:53Z"
 ---
 ## What it is
 MCP server `FIWARE Context Broker`, catalogued on PulseMCP. Bridges AI assistants with FIWARE Context Brokers, enabling natural language interaction with IoT data for querying, publishing, and updating information in NGSI-LD format.

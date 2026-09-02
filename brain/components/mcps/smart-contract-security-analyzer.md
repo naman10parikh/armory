@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T18:46:14Z"
 ---
 ## What it is
 An MCP server that statically audits Solidity smart contracts for common vulnerabilities like reentrancy and access control, enabling developers to identify and fix security issues via natural language.

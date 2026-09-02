@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:27:28Z"
 ---
 ## What it is
 Unified vulnerability search MCP server for penetration testing agents, integrating 5 data sources (NVD, OSV, EPSS, CISA KEV, Exploit-DB+GitHub) and 10 MCP tools for CVE query, keyword search, batch query, EPSS scoring, KEV checking, exploit search, and comprehensive assessment with Chinese output.

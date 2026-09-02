@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T23:41:52Z"
 ---
 ## What it is
 Control and monitor Weishaupt heating systems via the WEM Portal with AI assistants, enabling device discovery, parameter reading/writing, and system overview.

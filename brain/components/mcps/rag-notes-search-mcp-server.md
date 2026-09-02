@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T01:17:46Z"
 ---
 ## What it is
 Enables semantic search over personal study notes by exposing a vector search tool that Claude Desktop can call to retrieve relevant note content and synthesize grounded answers.

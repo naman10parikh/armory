@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T20:55:16Z"
 ---
 ## What it is
 MCP server `Massed Compute`, catalogued on PulseMCP. Browse GPU inventory, launch VMs, manage SSH keys, and audit billing on Massed Compute.

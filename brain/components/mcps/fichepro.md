@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T23:16:24Z"
 ---
 ## What it is
 MCP server `FichePro`, catalogued on PulseMCP. E-commerce product listing generation and SEO optimization for dropshippers.

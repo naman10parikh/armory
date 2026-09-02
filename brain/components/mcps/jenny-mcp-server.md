@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T19:02:04Z"
 ---
 ## What it is
 Enables AI agents to interact with the Windows desktop environment, including browser control, clipboard, file management, GitHub, Roblox Studio, OCR, and more, with a privileged approval system for risky actions.

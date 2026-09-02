@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:17:12Z"
 ---
 ## What it is
 Finds new UI translation keys in your codebase, dedup-checks them against a Blocks/UILM tenant, and generates the JSON the Blocks portal expects for import.

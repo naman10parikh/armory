@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:32:28Z"
 ---
 ## What it is
 Provides AI agents with geopolitical risk intelligence, calibrated forecasts, sanctions and trade-control data, and live maritime chokepoint traffic across 60 countries, with source-linked answers.

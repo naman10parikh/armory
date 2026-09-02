@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:07:51Z"
 ---
 ## What it is
 Python MCP server that scrapes web pages with JS rendering, structured metadata, tables, PDFs, screenshots, and multi-page crawling.

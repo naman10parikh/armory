@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T21:19:53Z"
 ---
 ## What it is
 A remote MCP server with built-in OAuth authentication via Cloudflare Access, providing tools like add and generateImage with user-based access control.

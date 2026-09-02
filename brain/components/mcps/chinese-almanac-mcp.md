@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:20:24Z"
 ---
 ## What it is
 Enables planning real-life events using the Chinese Tung Shing almanac with NASA-grade astronomy and the 1739 imperial canon.

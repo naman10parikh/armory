@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T14:33:47Z"
 ---
 ## What it is
 MCP server `Test Responses`, catalogued on PulseMCP. Returns configurable success or error responses for testing MCP client error handling.

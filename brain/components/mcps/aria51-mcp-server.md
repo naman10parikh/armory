@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T09:45:14Z"
 ---
 ## What it is
 Enables AI coding assistants to test web accessibility by scanning URLs, detecting violations, and running focused audits on keyboard navigation, screen reader compatibility, and WCAG criteria — all within the assistant's loop.

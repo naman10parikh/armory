@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:45Z"
 ---
 ## What it is
 This MCP server provides access to Open-Meteo weather APIs including forecast, historical reanalysis, geocoding, air quality, marine weather, and flood risk data, enabling AI agents to retrieve weather information using natural language.

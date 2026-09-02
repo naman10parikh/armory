@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T15:06:33Z"
 ---
 ## What it is
 MCP server `Judge0 Code Execution`, catalogued on PulseMCP. Enables remote code execution in multiple programming languages through Judge0's API, allowing for testing, validation, and demonstration without local development environments.

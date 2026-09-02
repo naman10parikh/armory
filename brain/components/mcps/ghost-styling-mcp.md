@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:53:51Z"
 ---
 ## What it is
 Enables styling and management of Ghost blogs by providing vision of the live page (markup and CSS) for accurate CSS targeting, along with tools for content management via Ghost's Admin API.

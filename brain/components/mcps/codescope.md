@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T21:42:41Z"
 ---
 ## What it is
 A local-first MCP preflight system to help AI inspect Python repositories before generating code, enabling reuse, extend, or create decisions. Currently in early development with only foundational modules implemented.

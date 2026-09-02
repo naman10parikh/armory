@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T17:24:23Z"
 ---
 ## What it is
 MCP server for querying Google's Open Source Vulnerabilities (OSV) database. Enables vulnerability lookups by package, version, commit, or ID using natural language via Pipeworx gateway.

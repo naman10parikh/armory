@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:29:23Z"
 ---
 ## What it is
 Enables an agent to inspect and replace .petrinet source code open in a live browser page of the Velocitron simulator.

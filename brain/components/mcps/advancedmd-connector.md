@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:21:14Z"
 ---
 ## What it is
 Centralized MCP server that provides a unified tool surface for accessing AdvancedMD data, managing credentials, sessions, and rate limits for multiple backend workflows and AI agents via HTTP or MCP.

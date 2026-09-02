@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 22
+forks: 4
+pushed_at: "2026-08-12T09:08:59Z"
 ---
 ## What it is
 A push-to-talk speech transcription setup for Linux using a Python MCP server. Runs locally in Docker with no external API calls. Your speech is recorded, transcribed into text, and then sent to Claude running in a Tmux session.

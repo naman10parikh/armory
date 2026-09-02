@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T05:08:39Z"
 ---
 ## What it is
 Provides job search, local resume parsing, and resume-to-job matching via official APIs and local file processing.

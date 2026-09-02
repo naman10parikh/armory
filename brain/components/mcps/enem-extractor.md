@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:43:27Z"
 ---
 ## What it is
 MCP server for ENEM exam PDFs, providing resource listing and question extraction as PNG images via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T13:04:49Z"
 ---
 ## What it is
 Enables autonomous DFIR investigation by turning the SIFT toolchain into evidence-safe MCP functions, with self-correction, corroboration, and traceable audit trails.

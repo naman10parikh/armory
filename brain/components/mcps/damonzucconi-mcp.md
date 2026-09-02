@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:11:03Z"
 ---
 ## What it is
 Enables managing the site's API via natural language, with tools for artworks, exhibitions, tags, nested entities, and ordering, while protecting the endpoint with a bearer token and caching admin JWT. It supports Cursor and ChatGPT desktop clients, with cloud deployment via Cloudflare Workers.

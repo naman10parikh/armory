@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:08:54Z"
 ---
 ## What it is
 Enables searching movies and TV shows, finding magnet links, and starting downloads on put.io via natural language from MCP clients like Claude.

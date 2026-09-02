@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T01:14:11Z"
 ---
 ## What it is
 MCP server that enables AI models to open the Windows Notepad application via function calling, demonstrating the complete MCP tool call workflow.

@@ -8,10 +8,12 @@ source_url: https://github.com/ocean-zhc/seatunnel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-06-11T07:46:02Z"
 ---
 ## What it is
 MCP server `Apache SeaTunnel`, catalogued on PulseMCP. Interact with SeaTunnel through LLM interfaces like Claude.

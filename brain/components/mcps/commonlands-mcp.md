@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:18:07Z"
 ---
 ## What it is
 Enables lens selection, field of view calculation, Shopify product truth verification, and cart handling for Commonlands precision optics.

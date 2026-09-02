@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T07:39:51Z"
 ---
 ## What it is
 An MCP server adapter that allows LLM agents to autonomously play World of ClaudeCraft by wrapping the game's headless environment as MCP tools for state reading and action execution.

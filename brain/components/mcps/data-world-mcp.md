@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T02:18:59Z"
 ---
 ## What it is
 Exposes data.world's catalog, glossary, lineage, and SQL/SPARQL query APIs to LLM agents, enabling natural language interaction with enterprise data assets.

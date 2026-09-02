@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:01:04Z"
 ---
 ## What it is
 Enables querying the Polish National Health Fund (NFZ) public API for medical waiting lists and service dictionary, allowing AI to compare wait times and find providers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-22T03:15:24Z"
 ---
 ## What it is
 Enables AI clients to use custom tools, maintain memory, and follow structured prompts, built with TypeScript MCP SDK and deployable to Cloudflare.

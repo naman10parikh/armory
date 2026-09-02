@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:41:17Z"
 ---
 ## What it is
 Enables browser automation with AI agent support and secure credential management through 20 MCP tools, accessible via stdio or HTTP bridge.

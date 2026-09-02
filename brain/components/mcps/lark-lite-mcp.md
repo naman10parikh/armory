@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T02:56:35Z"
 ---
 ## What it is
 极轻量、低 Token 消耗的飞书多维表格 MCP 服务，支持链接解析、记录读写和筛选搜索。

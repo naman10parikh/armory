@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:55Z"
 ---
 ## What it is
 Consulta oficial da dívida ativa da SEFAZ SC por meio de um servidor MCP hospedado, com ferramenta somente leitura para integração em clientes como Claude e Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:21:51Z"
 ---
 ## What it is
 MCP server that connects AI agents to MySQL databases for schema exploration, data querying, and SQL execution via natural language.

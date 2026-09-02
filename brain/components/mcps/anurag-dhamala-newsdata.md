@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-11T02:32:19Z"
 ---
 ## What it is
 MCP server `Newsdata`, catalogued on PulseMCP. Fetches the latest news and sources based on country and language using newsdata.io.

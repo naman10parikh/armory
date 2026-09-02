@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:17:27Z"
 ---
 ## What it is
 A governance proxy for the DataHub MCP Server that enforces catalog metadata as policy, providing allow, redact, review, and deny outcomes for agent tool calls, and writing agent actions back into DataHub.

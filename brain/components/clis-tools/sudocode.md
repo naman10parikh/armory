@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 290
+stars: 291
+forks: 26
+pushed_at: "2026-03-18T23:20:38Z"
 ---
 ## What it is
 Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.

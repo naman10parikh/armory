@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:11Z"
 ---
 ## What it is
 MCP server `WakaTime`, catalogued on PulseMCP. WakaTime developer time-tracking and coding activity data via a managed MCP endpoint.

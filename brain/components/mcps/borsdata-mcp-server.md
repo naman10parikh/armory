@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T09:25:22Z"
 ---
 ## What it is
 MCP server that exposes the Borsdata financial data API as tools and resources for Claude, covering Nordic and Global stocks, financial reports, KPIs, stock prices, holdings, and calendars.

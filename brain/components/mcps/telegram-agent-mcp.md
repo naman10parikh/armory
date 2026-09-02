@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:47:50Z"
 ---
 ## What it is
 MCP server that exposes a Telegram bot over stdio transport, enabling LLM agents to discover each other, announce capabilities, and communicate via messages in shared group chats. It provides tools like whoami, announce, list_agents, ping_agent, send_message, list_chats, get_recent_messages, and wai

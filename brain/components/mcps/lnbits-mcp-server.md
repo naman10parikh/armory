@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-24T16:38:01Z"
 ---
 ## What it is
 Enables AI assistants to manage Lightning wallets through LNbits, including balance checks, invoice creation, payments, and extension operations, all via natural language.

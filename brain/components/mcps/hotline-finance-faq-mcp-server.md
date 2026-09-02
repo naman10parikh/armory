@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T07:08:58Z"
 ---
 ## What it is
 MCP server for retrieving FAQ and glossary from the hotline.finance insurance service, supporting both stdio and HTTP modes for integration with clients like Cursor, Claude Desktop, and ChatGPT.

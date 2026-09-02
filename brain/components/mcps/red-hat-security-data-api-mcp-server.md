@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:45:52Z"
 ---
 ## What it is
 Enables querying Red Hat security data including CSAF advisories, CVEs, and OVAL streams through natural language.

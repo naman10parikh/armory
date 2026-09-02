@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:10:08Z"
 ---
 ## What it is
 Provides search, detail lookup, and gap listing tools for a security control inventory, enabling natural language queries about control status and gaps.

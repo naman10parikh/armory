@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:36:50Z"
 ---
 ## What it is
 Converts structured system dynamics specifications into Vensim .mdl files with layout, SVG preview, static audit, and native Vensim integration. It can be used as an MCP server or from the command line.

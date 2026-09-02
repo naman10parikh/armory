@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:56:06Z"
 ---
 ## What it is
 Interactive feedback layer that lets users pin comments on live web apps with auto-captured context (failing requests, console, AI metadata), and coding agents fix issues via MCP, turning pins green upon verification.

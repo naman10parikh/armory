@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-15T07:37:10Z"
 ---
 ## What it is
 Secure environment variable and configuration management MCP server with Claude Code integration for storing, managing, and retrieving environment variables.

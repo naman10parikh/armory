@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T09:27:28Z"
 ---
 ## What it is
 Enables AI assistants to generate and inspect radial cams, barrel cams, and optical encoder discs in FreeCAD through MCP tools such as generate_cams and freecad_screenshot.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T17:13:11Z"
 ---
 ## What it is
 Enables AI agents to publish capability listings, negotiate terms, and form direct peer-to-peer deals via cogDepot's anonymous broker, with tools for discovery, account management, and rating.

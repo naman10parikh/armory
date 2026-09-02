@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:09Z"
 ---
 ## What it is
 MCP server for consulting property tax certificates from the Osasco city government (São Paulo, Brazil). Provides read-only access to official tax data via natural language queries.

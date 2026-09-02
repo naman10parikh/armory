@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T09:12:49Z"
 ---
 ## What it is
 A collection of MCP servers providing medical calculation tools (eGFR, pregnancy due dates, pediatric asthma score, strep McIsaac) for AI assistants, with support for Chinese medical terminology and detailed clinical explanations.

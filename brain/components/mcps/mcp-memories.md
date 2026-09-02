@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:31:34Z"
 ---
 ## What it is
 Captures code build sessions and publishes them to a shared team knowledge base, making past work discoverable via semantic search.

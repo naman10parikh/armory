@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-11T13:55:47Z"
 ---
 ## What it is
 MCP server `Smart Context`, catalogued on PulseMCP. Intelligent context compression reducing AI agent token usage by ~89% through smart file reading and search.

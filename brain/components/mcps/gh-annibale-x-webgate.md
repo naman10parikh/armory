@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T23:27:32Z"
 ---
 ## What it is
 MCP server `Webgate`, catalogued on PulseMCP. Provides clean, bounded web search and page retrieval that strips HTML noise, caps token usage, and optionally summarizes results through a secondary LLM.

@@ -8,10 +8,12 @@ source_url: https://github.com/glommer/codemogger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 316
+stars: 340
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-05-20T13:50:39Z"
 ---
 ## What it is
 MCP server `Codemogger`, catalogued on PulseMCP. Code indexing library with tree-sitter parsing and semantic search via embedding-based similarity.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:25:05Z"
 ---
 ## What it is
 Exposes an Auth0 Form as an MCP server, enabling AI models to interact with the form via natural language. It uses a stateless HTTP MCP transport with Auth0 authentication.

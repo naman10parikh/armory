@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-30T10:34:17Z"
 ---
 ## What it is
 A comprehensive MCP server for generating sophisticated GenLayer Intelligent Contracts with AI-native blockchain capabilities.

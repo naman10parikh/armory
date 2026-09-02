@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 2
+forks: 2
+pushed_at: "2026-01-18T00:08:04Z"
 ---
 ## What it is
 Enables AI assistants to consult other AI models via OpenRouter for help with coding tasks.

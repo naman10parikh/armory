@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T01:39:58Z"
 ---
 ## What it is
 MCP server for Swiss court decisions, enabling full-text search and retrieval of published decisions from all Swiss federal and cantonal courts in German, French, and Italian.

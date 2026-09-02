@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-31T00:25:11Z"
 ---
 ## What it is
 MCP server `OpenAPI to MCP`, catalogued on PulseMCP. Automatically converts OpenAPI specifications into callable tools with authentication handling, input validation, and HTTP request proxying for seamless REST API integration.

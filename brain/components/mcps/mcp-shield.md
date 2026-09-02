@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T19:12:18Z"
 ---
 ## What it is
 Drop-in security primitives for MCP servers, addressing isError compliance, audit trails, input validation, output sanitization, and OAuth scoping.

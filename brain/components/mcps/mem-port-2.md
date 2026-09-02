@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T07:49:33Z"
 ---
 ## What it is
 A local MCP server that gives AI copilots a shared, portable long-term memory backed by an embedded knowledge graph, with semantic search and export/import capabilities.

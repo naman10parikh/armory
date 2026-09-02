@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:34:17Z"
 ---
 ## What it is
 MCP server that guides LLM security reviews step-by-step, tracking progress and ensuring all assigned source code is read before completing each plan step.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-02T16:28:20Z"
 ---
 ## What it is
 Provides tools to interact with Fedora Copr, enabling users to manage projects, builds, and packages through natural language.

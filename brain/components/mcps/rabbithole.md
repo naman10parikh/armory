@@ -8,11 +8,13 @@ source_url: https://github.com/shlokkhemani/rabbithole
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 304
+stars: 309
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 42
+pushed_at: "2026-09-01T14:06:55Z"
 ---
 ## What it is
 Rabbithole provides an infinite canvas for learning by allowing users to open documents, select text, ask questions, and receive answers that open as child documents, all running locally via an MCP server.

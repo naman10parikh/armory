@@ -8,11 +8,13 @@ source_url: https://github.com/itsbrex/attio-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-11T21:45:18Z"
 ---
 ## What it is
 Provides seamless access to the Attio API for AI assistants like Claude and Cursor, enabling interaction with objects, records, tasks, notes, and more through human-readable tools.

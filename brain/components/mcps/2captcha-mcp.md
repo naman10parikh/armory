@@ -8,11 +8,13 @@ source_url: https://github.com/aruxojuyu665/2Captcha-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T06:12:21Z"
 ---
 ## What it is
 MCP server that exposes the full 2Captcha API surface to Claude Code, enabling solving of 31 captcha types, management tools, and webhook integration for asynchronous solves.

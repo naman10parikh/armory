@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:50:17Z"
 ---
 ## What it is
 MCP server for the Level v2 REST API, enabling management of alerts, automations, devices, groups, tags, updates, and custom fields through typed tools.

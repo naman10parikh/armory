@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T01:23:45Z"
 ---
 ## What it is
 MCP server for searching and retrieving Akamai TechDocs documentation using local BM25 keyword search with no external API calls.

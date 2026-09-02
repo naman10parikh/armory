@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-05T18:47:18Z"
 ---
 ## What it is
 An MCP server that wraps Aristotle's automated theorem prover for Lean 4, allowing AI assistants to fill in proofs, verify lemmas, and formalize natural language into Lean code.

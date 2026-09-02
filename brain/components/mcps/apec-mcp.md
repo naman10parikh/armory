@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T10:32:17Z"
 ---
 ## What it is
 MCP server that exposes the APEC candidate-profile API as tools for any MCP-compatible AI assistant, enabling profile management, job-search updates, and data retrieval.

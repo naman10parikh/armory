@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T08:15:34Z"
 ---
 ## What it is
 Gives AI assistants access to real-time crypto market structure data from Depthy, including order book depth, liquidity walls, liquidation clusters, and Polymarket signals.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T13:31:39Z"
 ---
 ## What it is
 An MCP server that lets AI assistants control Adobe Illustrator locally—running ExtendScript, capturing canvas screenshots, exporting artwork, and optionally remembering techniques—all without network activity.

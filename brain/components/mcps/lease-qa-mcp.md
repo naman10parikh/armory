@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T11:08:00Z"
 ---
 ## What it is
 MCP server exposing lease Q&A via the lease_qa tool, querying a LeaseClear API to return grounded answers about specific lease documents.

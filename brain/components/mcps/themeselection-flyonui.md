@@ -12,6 +12,8 @@ stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-12T10:01:43Z"
 ---
 ## What it is
 MCP server `FlyonUI`, catalogued on PulseMCP. Integrates with the FlyonUI component library to provide access to block metadata, component code, and structured workflows for creating, inspiring from, and refining UI components through conversational commands.

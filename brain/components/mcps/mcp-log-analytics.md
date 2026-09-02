@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T17:52:31Z"
 ---
 ## What it is
 Exposes Azure Log Analytics workspace data with tools for querying AuditLogs and AzureActivity tables, supporting custom KQL queries, time range filters, and pagination.

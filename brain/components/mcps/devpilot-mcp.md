@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:32:38Z"
 ---
 ## What it is
 An AI-powered development assistant that enables LLMs to securely interact with local development tools including Git, filesystem, Docker, PostgreSQL, and GitHub via the Model Context Protocol.

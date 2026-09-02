@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-29T23:22:14Z"
 ---
 ## What it is
 MCP server `EdgeOne Geolocation`, catalogued on PulseMCP. Provides user geolocation data from EdgeOne's edge functions in structured JSON format for location-aware responses

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-26T15:04:23Z"
 ---
 ## What it is
 MCP server giving AI agents controlled residential-proxy web access with optional browser rendering and structured extraction from 60+ sites.

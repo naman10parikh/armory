@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T10:56:36Z"
 ---
 ## What it is
 A read-only MCP server for Google Search Console that lets you query search performance data, sitemaps, and URL index status from any MCP client.

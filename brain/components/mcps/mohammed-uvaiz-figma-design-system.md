@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-17T17:28:15Z"
 ---
 ## What it is
 MCP server `Figma Design System`, catalogued on PulseMCP. Bridges Figma's design ecosystem by extracting design system components, styles, and UI copy, enabling advanced design workflow analysis and documentation generation.

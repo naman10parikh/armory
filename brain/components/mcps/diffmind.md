@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:30:57Z"
 ---
 ## What it is
 An MCP server for Claude Code that forces AI agents to document every change with rationale, rejected alternatives, and trade-offs, ensuring code maintainability and developer ownership during AI-assisted development.

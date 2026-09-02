@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-14T05:36:24Z"
 ---
 ## What it is
 Enables interaction with Braze customer engagement platform through a standardized MCP interface, providing access to Braze tools and services via a unified API.

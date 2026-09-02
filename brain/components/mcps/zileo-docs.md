@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:01:15Z"
 ---
 ## What it is
 MCP server for indexing, semantic search, and generation of multi-format documents. Exposes 13 tools over JSON-RPC 2.0 so an LLM can search your local PDF, Excel, and Word files, and create or edit Excel and Word documents.

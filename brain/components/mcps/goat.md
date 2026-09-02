@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:26:08Z"
 ---
 ## What it is
 Enables querying a personal fact store (facts with about and learned timestamps) through natural language over the Model Context Protocol. Supports scheduling importers to keep facts up-to-date.

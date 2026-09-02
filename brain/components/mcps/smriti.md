@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T16:54:43Z"
 ---
 ## What it is
 Local-first persistent memory for AI agents via MCP, enabling semantic search and memory sharing across agents with zero cloud cost and full privacy.

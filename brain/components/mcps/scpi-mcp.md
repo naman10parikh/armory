@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T23:01:59Z"
 ---
 ## What it is
 An MCP server that enables AI agents to operate an oscilloscope through high-level tools like signal capture and measurement, abstracting vendor-specific SCPI commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T08:50:24Z"
 ---
 ## What it is
 MCP server that gives AI agents web capabilities such as rendering pages, extracting content, resolving links, and inspecting domains, with per-call USDC payments via x402.

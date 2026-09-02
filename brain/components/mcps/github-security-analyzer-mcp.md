@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:18:28Z"
 ---
 ## What it is
 This MCP server enables users to sign in with GitHub and use AI agents to scan entire repositories for leaked secrets such as API keys, passwords, and tokens, delivering a report with the exact file and line plus remediation guidance.

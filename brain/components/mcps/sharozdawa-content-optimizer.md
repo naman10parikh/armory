@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T09:30:11Z"
 ---
 ## What it is
 MCP server `Content Optimizer by sharozdawa`, catalogued on PulseMCP. SERP-based content scoring and optimization across 7 SEO categories.

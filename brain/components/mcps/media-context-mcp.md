@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:54:11Z"
 ---
 ## What it is
 Give your AI assistant eyes and ears — analyze any video, audio, or image, entirely on your machine.

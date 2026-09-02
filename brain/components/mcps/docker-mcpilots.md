@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:17:41Z"
 ---
 ## What it is
 Enables AI agents to manage Docker containers through a secure MCP interface, supporting container lifecycle operations, log inspection, resource monitoring, and system diagnostics with role-based access control.

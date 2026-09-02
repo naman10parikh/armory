@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-14T07:34:20Z"
 ---
 ## What it is
 MCP server that lets AI agents search YouTube and fetch transcripts.

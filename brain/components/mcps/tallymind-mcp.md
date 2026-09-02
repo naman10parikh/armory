@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T17:28:41Z"
 ---
 ## What it is
 An MCP server for TallyPrime ERP that fixes common gaps such as hardcoded localhost, lack of connection diagnostics and dry-run safety, missing GST tools, and session state loss, providing a smoother integration with Claude Desktop.

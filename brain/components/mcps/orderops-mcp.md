@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:10:28Z"
 ---
 ## What it is
 Enables AI assistants to investigate and safely resolve commerce order exceptions, such as expired inventory reservations, by providing a workflow across synthetic order, payment, inventory, and fulfillment systems.

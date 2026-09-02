@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:56:11Z"
 ---
 ## What it is
 Read-only MCP server that provides Zabbix monitoring data to AI agents, enabling investigation of hosts, metrics, incidents, and triggers with deterministic aggregation.

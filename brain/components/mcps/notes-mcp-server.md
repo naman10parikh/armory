@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-12T13:55:50Z"
 ---
 ## What it is
 Enables note management (create, read, update, delete, list) through MCP, with advanced features including real-time WebSocket communication, performance optimization, security, and monitoring.

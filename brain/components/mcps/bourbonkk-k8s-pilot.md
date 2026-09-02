@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-07-21T15:28:49Z"
 ---
 ## What it is
 MCP server `Kubernetes Pilot`, catalogued on PulseMCP. Enables AI to manage Kubernetes clusters through a comprehensive set of tools for contexts, namespaces, pods, deployments, services, and other resources with optimized performance and context-aware operations.

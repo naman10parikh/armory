@@ -8,11 +8,13 @@ source_url: https://github.com/drazisil/wiki-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:12:33Z"
 ---
 ## What it is
 A lightweight personal wiki MCP server that allows AI assistants to save, search, and link markdown notes with backlinks and full-text search, functioning as a file-based second brain.

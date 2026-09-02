@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T15:22:50Z"
 ---
 ## What it is
 Provides a quality framework and enforceable conventions for AI coding assistants, ensuring code quality, environment hygiene, and project standards across multiple AI tools.

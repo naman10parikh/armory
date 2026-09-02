@@ -8,10 +8,12 @@ source_url: https://github.com/locchung/three-js-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-23T15:02:44Z"
 ---
 ## What it is
 MCP server `Three.js`, catalogued on PulseMCP. Enables real-time manipulation of Three.js 3D scenes through WebSocket connections, allowing natural language control of object creation, movement, rotation, and scene state retrieval without direct code modification.

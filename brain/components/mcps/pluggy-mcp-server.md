@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:14:48Z"
 ---
 ## What it is
 Read-only MCP server for connecting to Pluggy Open Finance Brasil, exposing accounts, balances, transactions, and investments to Claude agents.

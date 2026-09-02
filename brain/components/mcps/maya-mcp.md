@@ -8,11 +8,13 @@ source_url: https://github.com/GimbalGoats/GG_MayaMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-14T10:57:12Z"
 ---
 ## What it is
 A local Model Context Protocol server for controlling Autodesk Maya, providing typed tools for scene, modeling, animation, and more without Maya imports in the server process.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-11T02:20:30Z"
 ---
 ## What it is
 Enables AI assistants to perform complete CRUD operations on Airtable bases, tables, records, fields, and comments, with batch processing and file attachment support, plus enterprise-grade reliability features.

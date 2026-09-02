@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T19:19:20Z"
 ---
 ## What it is
 Provides workspace-scoped file operations and command execution tools for building Cursor-style agents, along with system prompts and tool definitions for LLM integration.

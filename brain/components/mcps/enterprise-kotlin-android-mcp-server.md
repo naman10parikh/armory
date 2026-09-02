@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T02:24:44Z"
 ---
 ## What it is
 Provides AI agents with enterprise-grade access to Kotlin-based Android development projects, including security, privacy compliance, AI-powered code generation, and comprehensive development tools.

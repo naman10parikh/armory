@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:55:33Z"
 ---
 ## What it is
 Enables searching and retrieving Czech legal acts from the e-Sbirka database via SPARQL, including metadata and full consolidated text with verifiable citations.

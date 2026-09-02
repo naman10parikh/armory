@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T03:09:51Z"
 ---
 ## What it is
 This MCP server enables AI agents to view PDFs as accessible HTML with bounding-box citations, and provides tools for layout-aware parsing, schema extraction, cross-document Q&A, and PDF rendering.

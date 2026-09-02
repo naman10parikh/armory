@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:15:25Z"
 ---
 ## What it is
 Enables AI assistants and applications to perform optical character recognition (OCR) from images via stdin/stdout streams or REST API endpoints.

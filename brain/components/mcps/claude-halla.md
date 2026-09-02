@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T14:05:09Z"
 ---
 ## What it is
 Provides shared awareness for Claude Code sessions, allowing them to broadcast work-in-progress signals and register repos to avoid duplication across an organization.

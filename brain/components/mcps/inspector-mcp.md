@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T19:43:48Z"
 ---
 ## What it is
 A Node.js debugger for AI agents that enables setting breakpoints, stepping through code, and inspecting variables via the Chrome DevTools Protocol.

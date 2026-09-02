@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:25:55Z"
 ---
 ## What it is
 An MCP server that captures and stores user decisions during AI-agent interactions, offering structured decision memory, cognitive bias detection, and personalized advice from historical patterns.

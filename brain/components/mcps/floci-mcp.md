@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:36:12Z"
 ---
 ## What it is
 Enables AI agents to deploy and manage simulated AWS resources (like EC2, S3, DynamoDB) on a local Floci instance through natural language.

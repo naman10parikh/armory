@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:15:59Z"
 ---
 ## What it is
 A remote MCP server exposing date/time tools over Streamable HTTP, enabling retrieval of current time for IANA timezones and listing available timezones, designed for use with web clients like Claude.ai.

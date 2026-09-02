@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T08:48:35Z"
 ---
 ## What it is
 Automates project scaffolding for Domain-Driven Design and Clean Architecture, providing professional naming, structure verification, and bilingual documentation generation.

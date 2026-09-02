@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T21:38:49Z"
 ---
 ## What it is
 Analyze AI conversations to estimate token costs, detect waste, and generate optimized prompts directly from your editor.

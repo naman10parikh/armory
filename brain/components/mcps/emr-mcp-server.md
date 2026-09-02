@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-28T15:48:39Z"
 ---
 ## What it is
 Provides intelligent guidance for EMR cluster management, configuration recommendations, and monitoring capabilities

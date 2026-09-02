@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T08:19:44Z"
 ---
 ## What it is
 MCP server for Hunaras, an AI-native recruiting platform that enables candidates and employers to manage jobs, applications, assessments, and talent sourcing through natural language.

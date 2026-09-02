@@ -8,11 +8,13 @@ source_url: https://github.com/GeekRicardo/dsh-cordis-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:52:31Z"
 ---
 ## What it is
 Exposes DeepSeek Harness dynamic Cordis plugin management to Claude Code via MCP, enabling plugin install, run, stop, inspect, and session handling through natural language.

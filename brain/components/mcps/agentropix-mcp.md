@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:22:15Z"
 ---
 ## What it is
 A governed MCP server for digital-forensics and incident-response (DFIR) work, exposing curated forensic tools (Volatility 3, Plaso, RegRipper, etc.) through a single FastMCP HTTP endpoint with bearer-token authentication and tamper-evident audit logging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T23:46:09Z"
 ---
 ## What it is
 Enables secure natural language querying of Notion CRM databases, allowing AI agents to retrieve client health, ARR, and deployment roadblocks through a custom MCP middleware.

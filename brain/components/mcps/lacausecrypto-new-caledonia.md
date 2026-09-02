@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T09:27:27Z"
 ---
 ## What it is
 MCP server `New Caledonia Open Data`, catalogued on PulseMCP. Access to New Caledonia government open data from data.gouv.nc, covering administration, employment, environment, and more.

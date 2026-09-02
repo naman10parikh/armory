@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:44:34Z"
 ---
 ## What it is
 Enables AI assistants to explore a panel of 787 synthetic Brazilian banking consumer personas for product discovery, with deterministic filtering and statistical facts.

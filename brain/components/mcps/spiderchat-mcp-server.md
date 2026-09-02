@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-26T21:04:38Z"
 ---
 ## What it is
 Access your Spider Chat flows, memories, and facts from Claude Desktop with fast semantic search and browsing capabilities.

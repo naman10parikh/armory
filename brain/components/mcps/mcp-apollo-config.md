@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T12:53:21Z"
 ---
 ## What it is
 Enables querying and editing configuration items in Apollo Config Center using portal login, with support for multiple environments, clusters, and namespaces.

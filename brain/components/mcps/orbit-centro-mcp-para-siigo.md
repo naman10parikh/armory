@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:45:15Z"
 ---
 ## What it is
 Plataforma administrativa multi-cliente para conectar Siigo con paneles, automatizaciones y agentes de IA mediante MCP Streamable HTTP, ofreciendo herramientas para productos, clientes, cotizaciones e inventario.

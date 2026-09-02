@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T23:03:19Z"
 ---
 ## What it is
 BumpGuard is an MCP server that tells your AI coding agent exactly which lines of your code break when you upgrade a dependency, and verifies AI-written code against the actually installed API.

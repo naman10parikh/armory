@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/jwt-decoder-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4612
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:33Z"
 ---
 ## What it is
 JWT token decoder API for AI agents. Decode and inspect JSON Web Tokens without verification: extract header (algorithm, type), payload (claims, issuer, audience), expiry timestamp, and signature info. Tools: security_decode_jwt. Use this for debugging authentication flows, inspecting token claims, 

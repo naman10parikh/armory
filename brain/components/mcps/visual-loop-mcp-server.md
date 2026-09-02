@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T05:39:42Z"
 ---
 ## What it is
 Enables AI clients to write, run, and visually render code in a single loop, combining secure execution via Judge0/Codebox with Playwright screenshots.

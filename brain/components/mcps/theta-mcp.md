@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-24T12:22:40Z"
 ---
 ## What it is
 A comprehensive sales automation platform combining Model Context Protocol (MCP) server with Gemini AI voice interface, featuring 13+ integrated sales tools and AWS deployment capabilities.

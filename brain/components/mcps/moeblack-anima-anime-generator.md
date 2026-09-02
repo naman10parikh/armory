@@ -8,10 +8,12 @@ source_url: https://github.com/moeblack/comfyui-animatool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-26T09:47:20Z"
 ---
 ## What it is
 MCP server `Anima Anime Generator`, catalogued on PulseMCP. Integrates with the Anima anime/illustration generation model to create high-quality anime and illustrations using structured prompts with quality/artist/character/tags/environment fields and 14 aspect ratio presets.

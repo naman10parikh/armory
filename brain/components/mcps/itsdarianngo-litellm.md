@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-09T20:13:59Z"
 ---
 ## What it is
 MCP server `LiteLLM`, catalogued on PulseMCP. Integrates with LiteLLM to provide access to OpenAI language models for text completion and generation tasks across various applications.

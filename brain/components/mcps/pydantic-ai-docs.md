@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-20T05:35:03Z"
 ---
 ## What it is
 MCP server `Pydantic AI Docs`, catalogued on PulseMCP. Provides direct access to Pydantic-AI documentation with tools for retrieving specific documents, listing topics, and accessing changelog information without leaving your development environment.

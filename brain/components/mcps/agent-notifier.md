@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T16:59:32Z"
 ---
 ## What it is
 Sends desktop notifications when agents complete tasks, supporting local and remote agents.

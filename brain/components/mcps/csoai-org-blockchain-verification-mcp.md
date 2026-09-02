@@ -8,10 +8,12 @@ source_url: https://github.com/csoai-org/blockchain-verification-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T08:52:40Z"
 ---
 ## What it is
 MCP server `Blockchain Verification`, catalogued on PulseMCP. Verification tools for blockchain transactions and smart contract states.

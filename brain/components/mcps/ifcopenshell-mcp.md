@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:40:53Z"
 ---
 ## What it is
 An MCP server that lets users query, validate, convert, and compare IFC/BIM files using natural language. Runs fully locally and integrates with AI agents like Claude.

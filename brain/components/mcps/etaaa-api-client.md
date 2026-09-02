@@ -8,10 +8,12 @@ source_url: https://github.com/nattergabriel/mcp-api-client
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T23:31:15Z"
 ---
 ## What it is
 MCP server `API Client`, catalogued on PulseMCP. Enables real-time REST API testing and exploration through single and batch HTTP requests, optimizing localhost development workflows by allowing direct endpoint validation and debugging.

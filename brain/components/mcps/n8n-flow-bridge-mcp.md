@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T10:46:26Z"
 ---
 ## What it is
 Enables git-based version control for n8n workflows with automatic credential remapping, allowing AI tools to pull, push, and manage workflows across environments.

@@ -8,11 +8,13 @@ source_url: https://github.com/gatordevin/avo
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-22T03:06:51Z"
 ---
 ## What it is
 Enables agentic evolutionary search where an autonomous coding agent acts as the variation operator, letting users evolve target implementations by starting runs, receiving step prompts, evaluating worktrees, and submitting or reverting candidate changes.

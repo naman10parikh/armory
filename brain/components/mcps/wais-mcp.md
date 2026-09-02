@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T18:07:10Z"
 ---
 ## What it is
 Universal MCP server for WAIS (Web Agent Interaction Standard) that provides 5 generic tools to discover, register, execute actions, confirm high-risk actions, and check status on any WAIS-compatible site.

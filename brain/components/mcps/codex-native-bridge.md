@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:49:24Z"
 ---
 ## What it is
 An MCP server that lets Claude Code delegate durable background tasks, reasoning profiles, thread resumption, and native image generation to your local Codex CLI.

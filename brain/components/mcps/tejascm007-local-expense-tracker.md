@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-20T05:28:08Z"
 ---
 ## What it is
 MCP server `Local Expense Tracker`, catalogued on PulseMCP. Provides local SQLite-based expense tracking with predefined categorization across 19 expense categories, enabling expense recording with date/amount/category/subcategory/note fields, date-range filtering, and category-based summary generation for personal finance management and budget analysis.

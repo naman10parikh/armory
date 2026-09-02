@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:07:44Z"
 ---
 ## What it is
 Provides four MCP tools for neural retrieval: personalized user recommendations, item-to-item similarity, cold-start text search, and explainable recommendation scores, enabling LLM agents to query a trained two-tower recommender over Amazon Reviews data.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T17:54:55Z"
 ---
 ## What it is
 MCP server `Social Profile Lookup`, catalogued on PulseMCP. Look up public social media profiles on GitHub, Twitter/X, LinkedIn, and YouTube by username.

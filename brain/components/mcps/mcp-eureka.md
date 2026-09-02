@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-31T18:33:11Z"
 ---
 ## What it is
 MCP server that provides access to Polish individual tax interpretations (KIS) via the official EUREKA API, enabling search and retrieval of rulings with signatures, theses, and full text.

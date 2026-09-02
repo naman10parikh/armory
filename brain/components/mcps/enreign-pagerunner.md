@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T17:55:20Z"
 ---
 ## What it is
 MCP server `Pagerunner`, catalogued on PulseMCP. Chrome browser automation using existing user profiles with cookies, saved passwords, and history via CDP.

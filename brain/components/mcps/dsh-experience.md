@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:32:42Z"
 ---
 ## What it is
 Provides a cross-session experience knowledge base for AI agents, enabling retrieval of past problem-solution experiences via MCP tools. It helps agents reuse solutions without retraining, with zero-LLM runtime retrieval.

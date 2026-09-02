@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:56:23Z"
 ---
 ## What it is
 An MCP server that enables searching and retrieving ACL NLP conference papers from a Qdrant vector database using semantic search and structured filters like year, venue, and field of study.

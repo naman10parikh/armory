@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 1
+forks: 2
+pushed_at: "2026-08-27T06:54:37Z"
 ---
 ## What it is
 Search and discover rescue dogs from European and UK organizations with AI-powered personality matching and detailed profiles.

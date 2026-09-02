@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T20:44:18Z"
 ---
 ## What it is
 Loads your project's Tailwind CSS config and exposes tools for AI agents to query actual design tokens and validate class names, preventing hallucination of non-existent utilities.

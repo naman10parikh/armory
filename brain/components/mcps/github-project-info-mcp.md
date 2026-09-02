@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:03:12Z"
 ---
 ## What it is
 An MCP server that reads public GitHub Projects v2 boards (including item-level data like status and custom fields) without authentication, using official APIs and fallback methods for user-owned projects.

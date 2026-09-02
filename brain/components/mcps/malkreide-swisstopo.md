@@ -8,10 +8,12 @@ source_url: https://github.com/malkreide/swisstopo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T21:29:07Z"
 ---
 ## What it is
 MCP server `Swisstopo`, catalogued on PulseMCP. Access to Swiss Federal Office of Topography APIs for geodata, geocoding, and elevation queries.

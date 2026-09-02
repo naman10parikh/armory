@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T17:47:24Z"
 ---
 ## What it is
 MCP server providing access to a catalog of reusable React/Next.js component recipes (animations, charts, UI components) with usage examples, props documentation, and architecture notes, enabling AI assistants to generate production-ready code.

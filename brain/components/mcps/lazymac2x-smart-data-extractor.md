@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T04:04:39Z"
 ---
 ## What it is
 MCP server `Smart Data Extractor`, catalogued on PulseMCP. Data extraction server on Cloudflare Workers with REST and MCP JSON-RPC interfaces, free tier available.

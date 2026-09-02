@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-23T14:26:54Z"
 ---
 ## What it is
 MCP server `Dune Analytics`, catalogued on PulseMCP. Integrates with Dune API to provide blockchain data analysis for examining wallet balances, transaction histories, token information, NFT collectibles, and holder distributions across EVM and Solana networks.

@@ -8,10 +8,12 @@ source_url: https://github.com/thegrsun/desmos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-27T07:22:06Z"
 ---
 ## What it is
 MCP server `Desmos`, catalogued on PulseMCP. Integrates with Desmos API and local SymPy to provide mathematical visualization, formula validation with error explanations, function plotting with customizable ranges, and mathematical analysis including domain calculation and critical point detection.

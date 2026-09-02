@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:03:15Z"
 ---
 ## What it is
 MCP server for non-intrusive RDP automation with OCR, YOLO button detection, and click injection. Automates remote desktop interactions without installing anything on the remote machine.

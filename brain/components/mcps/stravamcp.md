@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T03:35:01Z"
 ---
 ## What it is
 An MCP server that exposes Strava v3 API as read-only tools for AI agents. It covers athlete profiles, activities, stats, routes, segments, and rate limits, with OAuth2 authorization handled via a companion HTTP server.

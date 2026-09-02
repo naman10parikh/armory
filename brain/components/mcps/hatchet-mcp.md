@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:58:29Z"
 ---
 ## What it is
 An MCP server for Hatchet, the durable orchestration engine, enabling LLMs to inspect workflow definitions, runs, logs, and more, with optional mutating tools for triggering, canceling, and managing workflows.

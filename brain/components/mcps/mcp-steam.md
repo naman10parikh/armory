@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T02:16:09Z"
 ---
 ## What it is
 MCP server for Steam that enables LLM agents to manage gaming libraries, achievements, stats, and discover store content through 20 tools.

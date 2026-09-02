@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-16T02:07:03Z"
 ---
 ## What it is
 MCP server `Tempo Filler (Atlassian)`, catalogued on PulseMCP. Integrates with Atlassian Tempo's time tracking API to retrieve, create, and delete JIRA worklogs with support for bulk operations and automated timesheet management.

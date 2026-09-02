@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T05:53:34Z"
 ---
 ## What it is
 Enables AI assistants to manage ClickUp tasks, dependencies, time tracking, documents, and workspace organization via natural language, with enhanced task dependency features and improved reliability.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:20:24Z"
 ---
 ## What it is
 Enables any MCP client to drive a multi-agent orchestration engine with planning, specialist tools, critic revision, and human-in-the-loop approval for sensitive actions.

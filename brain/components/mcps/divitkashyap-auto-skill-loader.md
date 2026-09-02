@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T18:11:07Z"
 ---
 ## What it is
 MCP server `Auto Skill Loader`, catalogued on PulseMCP. Persistent skill library with automatic loading at AI agent session start.

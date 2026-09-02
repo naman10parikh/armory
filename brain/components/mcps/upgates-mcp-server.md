@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-31T19:09:33Z"
 ---
 ## What it is
 MCP server for automating Upgates e-commerce shops via the Upgates API v2. Provides 34 tools for managing orders, products, customers, invoices, carts, coupons, webhooks, and configuration, with built-in GDPR anonymization and readonly mode.

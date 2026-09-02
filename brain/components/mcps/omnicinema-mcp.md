@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T19:22:56Z"
 ---
 ## What it is
 Local MCP server that plans, generates, and assembles production assets (images, audio, video) through multi-agent personas and official APIs, with free-tier budget guard.

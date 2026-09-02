@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:00:36Z"
 ---
 ## What it is
 A stdio MCP server providing AI agents with a stable tool interface to read and write TCM test cases through REST, including search, CRUD operations, and a dry-run-to-commit safety flow.

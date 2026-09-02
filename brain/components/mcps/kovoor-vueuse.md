@@ -8,10 +8,12 @@ source_url: https://github.com/kovoor/vueuse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T15:51:35Z"
 ---
 ## What it is
 MCP server `VueUse Docs`, catalogued on PulseMCP. Search, browse, and get suggestions for VueUse composables with full documentation access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:21:15Z"
 ---
 ## What it is
 Converts CAD drawings (DXF/DWG) into structured data, enabling Claude to read drawings and answer questions about their content.

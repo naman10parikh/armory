@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-28T06:47:58Z"
 ---
 ## What it is
 A lightweight, extensible cybersecurity toolkit that connects AI assistants to security tools through MCP, enabling AI-assisted security research, scanning, and analysis.

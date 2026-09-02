@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2024-11-26T14:04:53Z"
 ---
 ## What it is
 Enables creating and searching Spotify playlists through natural language using the Model Context Protocol.

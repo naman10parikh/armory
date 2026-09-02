@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:18Z"
 ---
 ## What it is
 Provides access to Refinitiv/LSEG Permanent Identifiers (PermID) through an MCP gateway, enabling AI agents to query financial instrument and entity data via natural language or direct tool calls.

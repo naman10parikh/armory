@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T13:57:23Z"
 ---
 ## What it is
 MCP server `Playwright Trace Decoder`, catalogued on PulseMCP. Unpacks and analyzes Playwright trace.zip archives for AI agent test diagnosis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:22:25Z"
 ---
 ## What it is
 An MCP server that provides a set of tools for driving the AION AI assistant stack and managing a home fleet over SSH, including fleet control, Kali security tools, and memory management.

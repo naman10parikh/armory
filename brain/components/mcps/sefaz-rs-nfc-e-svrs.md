@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:53Z"
 ---
 ## What it is
 Provides read-only consultation of Rio Grande do Sul NFC-e (electronic invoice) data from the official SEFAZ RS source via a hosted MCP server with pay-per-query credits.

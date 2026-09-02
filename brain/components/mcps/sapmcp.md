@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-14T10:14:35Z"
 ---
 ## What it is
 Enables operating and querying SAP ECC/S/4HANA systems via SAP NetWeaver RFC SDK, exposing MCP tools, resources, and prompts for LLMs.

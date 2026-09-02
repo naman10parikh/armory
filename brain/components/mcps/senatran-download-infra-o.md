@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:07Z"
 ---
 ## What it is
 Provides read-only access to official Brazilian transit authority (SENATRAN) data for downloading traffic infraction records using a single MCP tool.

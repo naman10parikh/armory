@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:26:00Z"
 ---
 ## What it is
 Architecture-index MCP tools for kernelee apps that combine static analysis and runtime wiring into a JSON index, enabling coding agents to query control flow and dependencies via the Model Context Protocol.

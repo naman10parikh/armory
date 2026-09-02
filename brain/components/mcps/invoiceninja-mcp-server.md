@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T10:04:24Z"
 ---
 ## What it is
 Enables read-only access to InvoiceNinja data, including invoices, expenses, clients, and tax reports, for AI assistants like Claude.

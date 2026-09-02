@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T01:09:09Z"
 ---
 ## What it is
 Provides access to SEC/EDGAR filings data through the Clous API, enabling search and retrieval of filings, financials, insider trades, 13F holdings, and more from a single JSON interface.

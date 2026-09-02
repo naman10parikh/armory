@@ -8,11 +8,13 @@ source_url: https://github.com/krulewis/tokencast
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T15:12:48Z"
 ---
 ## What it is
 Pre-execution cost estimation for LLM agent workflows, providing cost estimates before running tasks and improving accuracy over time through calibration.

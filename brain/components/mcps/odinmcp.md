@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T13:50:19Z"
 ---
 ## What it is
 A distributed MCP server framework enabling scalable task execution across multiple nodes with streamable HTTP transport, integrated authentication, and real-time streaming via the Asgard infrastructure.

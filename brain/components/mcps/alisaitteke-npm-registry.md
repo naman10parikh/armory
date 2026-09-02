@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-29T16:49:38Z"
 ---
 ## What it is
 MCP server `npm Registry`, catalogued on PulseMCP. MCP server for npm package management, security analysis, and compatibility checking.

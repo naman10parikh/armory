@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-30T02:59:33Z"
 ---
 ## What it is
 Create and edit PowerPoint presentations with Claude – locally, on any platform.

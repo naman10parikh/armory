@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:42:02Z"
 ---
 ## What it is
 Local-first MCP memory server that gives AI coding agents long-term memory via SQLite and sqlite-vec, with optional LLM-powered layering. No gateway or API key required.

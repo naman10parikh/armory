@@ -8,10 +8,12 @@ source_url: https://github.com/upstash/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-09-01T07:57:19Z"
 ---
 ## What it is
 MCP server `Upstash`, catalogued on PulseMCP. Integrates with Upstash's Developer APIs to enable natural language management of Redis databases.

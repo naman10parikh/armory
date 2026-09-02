@@ -8,11 +8,13 @@ source_url: https://github.com/fredericbarthelet/linkedin-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-03-19T17:44:47Z"
 ---
 ## What it is
 Enables interaction with LinkedIn's Community Management API, allowing users to retrieve profile information and create posts via natural language.

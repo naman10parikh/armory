@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-16T00:04:05Z"
 ---
 ## What it is
 Small MCP server for GNOME Wayland desktop automation, enabling element lookup, activation, typing, screenshots, and wait helpers through AT-SPI and Mutter RemoteDesktop.

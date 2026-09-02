@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T22:35:59Z"
 ---
 ## What it is
 MCP server for travel program search, comparison, and booking via Yourttoo API, optimized for LLMs with token-saving responses.

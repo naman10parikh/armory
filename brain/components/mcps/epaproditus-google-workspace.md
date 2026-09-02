@@ -8,10 +8,12 @@ source_url: https://github.com/epaproditus/google-workspace-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2024-12-29T23:36:13Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Integrates with Gmail and Google Calendar APIs to enable email and calendar management tasks like listing, searching, and modifying emails, as well as creating and updating events.

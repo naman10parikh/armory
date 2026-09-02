@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T16:07:29Z"
 ---
 ## What it is
 Enables orchestration of autonomous coding agents (Claude Code, Cursor, etc.) through an objective-native planning board with hash-chained audit trail. Humans define outcomes, agents claim and execute tasks via MCP.

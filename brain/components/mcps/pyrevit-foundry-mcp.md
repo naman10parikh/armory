@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T22:11:31Z"
 ---
 ## What it is
 MCP server for developing and maintaining pyRevit extensions with static analysis, including scanning layout, import auditing, duplicate detection, and automated bundle.yaml generation, without requiring Revit runtime.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:30:43Z"
 ---
 ## What it is
 MCP server for the Production Master incident-investigation service, enabling any MCP client to drive investigations via tool calls with pass-through authentication.

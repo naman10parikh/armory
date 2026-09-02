@@ -8,11 +8,13 @@ source_url: https://github.com/dariomory/trendflow-js
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:00:16Z"
 ---
 ## What it is
 Google Trends data: interest over time, by region, related queries, and trending now.

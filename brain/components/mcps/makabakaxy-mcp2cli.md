@@ -8,10 +8,12 @@ source_url: https://github.com/makabakaxy/mcp2cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-13T08:17:20Z"
 ---
 ## What it is
 MCP server `mcp2cli`, catalogued on PulseMCP. Converts MCP servers into CLI tools and AI agent skills with 97% token reduction.

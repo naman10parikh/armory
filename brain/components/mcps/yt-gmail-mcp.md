@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T03:15:34Z"
 ---
 ## What it is
 MCP server for Gmail, Google Drive, and Google Calendar — search, read, send, and manage threads, files, and events.

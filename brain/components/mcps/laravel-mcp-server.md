@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:34:38Z"
 ---
 ## What it is
 A project and task manager MCP server built with Laravel, enabling AI to manage projects and tasks through tools, resources, and prompts.

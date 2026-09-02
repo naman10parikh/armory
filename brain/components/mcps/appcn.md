@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T12:35:40Z"
 ---
 ## What it is
 MCP server for appCN - discover, search, install, and correctly use copy-paste React Native / Expo UI components (including an AI-native collection) from the live registry

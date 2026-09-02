@@ -8,10 +8,12 @@ source_url: https://github.com/coding-solo/godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3826
+stars: 5461
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 464
+pushed_at: "2026-04-16T23:37:00Z"
 ---
 ## What it is
 MCP server `Godot`, catalogued on PulseMCP. Interface with the Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.

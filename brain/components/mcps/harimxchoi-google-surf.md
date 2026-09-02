@@ -8,10 +8,12 @@ source_url: https://github.com/harimxchoi/google-surf-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 211
+stars: 287
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-08-31T16:53:00Z"
 ---
 ## What it is
 MCP server `Google Surf`, catalogued on PulseMCP. Search Google and extract article content using Playwright with a persistent Chrome profile, no API key required.

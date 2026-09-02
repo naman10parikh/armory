@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:56:15Z"
 ---
 ## What it is
 MCP server that exposes the Subreg.cz domain registrar SOAP API as tools for LLM agents, enabling domain, DNS, contact, and billing management. Read-only by default, with optional mutating operations.

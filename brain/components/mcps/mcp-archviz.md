@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:33:46Z"
 ---
 ## What it is
 Provides 3D architecture visualization from floorplan layouts, with tools for generating 3D models, rendering perspectives, and exporting models. Currently uses a stub provider with placeholder URLs.

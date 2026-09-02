@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:21:43Z"
 ---
 ## What it is
 An MCP server that coordinates AI coding agents with mobile notifications, enabling task queues, inter-agent messaging, session monitoring, and human-in-the-loop approvals.

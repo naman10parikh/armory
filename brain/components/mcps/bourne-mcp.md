@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:04:32Z"
 ---
 ## What it is
 Provides MCP access to plan and execute reproducible computational experiments with immutable execution plans, artifact provenance, verification checks, and support for direct, Slurm, and PBS backends.

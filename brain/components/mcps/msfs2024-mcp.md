@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T01:35:57Z"
 ---
 ## What it is
 Enables MCP clients like Claude to read live state and control aircraft in Microsoft Flight Simulator 2024 via SimConnect, FSUIPC7, and raw memory, offering 23 tools for simvars, events, autopilot, and more.

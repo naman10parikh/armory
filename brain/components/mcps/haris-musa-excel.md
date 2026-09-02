@@ -8,10 +8,12 @@ source_url: https://github.com/haris-musa/excel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3869
+stars: 4149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 457
+pushed_at: "2026-04-12T06:14:45Z"
 ---
 ## What it is
 MCP server `Excel File Manipulation`, catalogued on PulseMCP. Enables Excel file manipulation without Microsoft Excel installation using openpyxl, providing workbook operations, data validation detection, formatting, formulas, charts, pivot tables, and native Excel table support for automating spreadsheet workflows and report generation.

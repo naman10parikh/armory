@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:36Z"
 ---
 ## What it is
 MCP server `Beefy Finance (by Junct)`, catalogued on PulseMCP. Hosted proxy for Beefy Finance vault protocol APIs with 10 auto-generated tools for yield optimization.

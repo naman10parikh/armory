@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T03:07:54Z"
 ---
 ## What it is
 Enables AI assistants to directly control NI oscilloscopes (e.g., PXIe-5160/5164/5110) through the Model Context Protocol, including waveform acquisition, measurement, and configuration.

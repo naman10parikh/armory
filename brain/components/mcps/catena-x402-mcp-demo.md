@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:15:47Z"
 ---
 ## What it is
 An MCP server whose tool invocations are metered and charged over x402, plus a paying-proxy reference client that lets any standard MCP client use the paid tool without knowing x402 exists.

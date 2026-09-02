@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-17T16:52:12Z"
 ---
 ## What it is
 MCP server `Agent VM`, catalogued on PulseMCP. Container-based runtime with an embedded MCP resolver providing sandboxed filesystem and shell access for AI agents.

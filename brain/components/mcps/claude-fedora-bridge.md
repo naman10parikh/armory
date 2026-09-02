@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T19:29:09Z"
 ---
 ## What it is
 A local MCP server that gives Claude in the browser tools to interact with a Fedora machine, including file operations, system diagnostics, build tasks, and root actions via Polkit.

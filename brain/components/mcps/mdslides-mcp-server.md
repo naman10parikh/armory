@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-04T10:59:16Z"
 ---
 ## What it is
 An MCP server for generating HTML presentation slides from Markdown content using the mkslides library, enabling integration with tools like Claude in VSCode to create and manage presentations.

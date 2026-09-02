@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T09:27:33Z"
 ---
 ## What it is
 Provides LLMs with local filesystem operations (read/write files, list directories) and command execution via MCP, enabling file management and task automation within AI clients.

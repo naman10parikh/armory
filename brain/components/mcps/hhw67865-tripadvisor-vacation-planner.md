@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-22T13:49:14Z"
 ---
 ## What it is
 MCP server `TripAdvisor Vacation Planner`, catalogued on PulseMCP. Integrates with TripAdvisor's API to enable vacation planning, destination exploration, and informed decision-making about accommodations and activities through location searches, nearby discovery, and interactive itinerary creation.

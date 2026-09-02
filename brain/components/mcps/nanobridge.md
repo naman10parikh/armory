@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:43:56Z"
 ---
 ## What it is
 Enables agents to generate and edit images, sprites, icons, and animated sprite sheets via Gemini's Nano Banana model. It uses the existing Gemini plan's quota without per-image costs.

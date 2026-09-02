@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:51:52Z"
 ---
 ## What it is
 An MCP server for the un.manned wiki that lets AI agents read and write wiki content securely without exposing API keys, with built-in guardrails for quotas, duplicates, and untrusted content.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T22:15:21Z"
 ---
 ## What it is
 MCP server `JFK Assassination Documents`, catalogued on PulseMCP. Provides access to declassified JFK assassination documents through search tools for text, vector, metadata filtering, and document retrieval of government files released between 2017-2025.

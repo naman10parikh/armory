@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:58:18Z"
 ---
 ## What it is
 Exposes foldkit's 7-prime spine, κ-bands, and fold operations as MCP tools and resources for use in any MCP client.

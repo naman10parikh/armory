@@ -8,10 +8,12 @@ source_url: https://github.com/slidespeak/slidespeak-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-04-30T16:50:05Z"
 ---
 ## What it is
 MCP server `SlideSpeak`, catalogued on PulseMCP. Generate presentations using the SlideSpeak API.

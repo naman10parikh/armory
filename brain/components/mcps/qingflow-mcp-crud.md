@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T05:51:09Z"
 ---
 ## What it is
 Enables CRUD operations on Qingflow forms, queries, and records through agent-native tools like qf.query.plan and qf.query.rows.

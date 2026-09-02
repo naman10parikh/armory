@@ -8,11 +8,13 @@ source_url: https://github.com/woladi/macos-vision-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:16:32Z"
 ---
 ## What it is
 Local OCR & image analysis via Apple Vision Framework — private, offline, no API keys. Extracts text from images and PDFs, detects faces, barcodes, QR codes, and document corners. Works with Claude Code, Claude Desktop, and Cursor.

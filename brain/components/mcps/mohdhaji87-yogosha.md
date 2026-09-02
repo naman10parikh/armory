@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-15T23:05:30Z"
 ---
 ## What it is
 MCP server `Yogosha`, catalogued on PulseMCP. Integrates with Yogosha's bug bounty platform API to provide comprehensive program management, vulnerability tracking, asset management, user administration, submission handling, scope definition, and notification management with full CRUD operations and authentication support.

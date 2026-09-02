@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-02-19T23:50:47Z"
 ---
 ## What it is
 Exposes Solana DeFi infrastructure — Percolator perpetuals, Sigma derivatives, Exodus yield vaults, Veil privacy swaps, Stratum orderbooks, and Sovereign identity — to AI agents via the Model Context Protocol.

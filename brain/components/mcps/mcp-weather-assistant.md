@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T22:05:03Z"
 ---
 ## What it is
 Enables users to query weather information for Israel via Playwright browser automation and for the USA via a weather API, allowing an LLM to access real-time weather data and alerts.

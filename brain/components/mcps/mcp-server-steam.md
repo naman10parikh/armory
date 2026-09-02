@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T23:48:17Z"
 ---
 ## What it is
 Integrates with Steam Web API to enable querying user profiles, game libraries, store data, and community features like reviews and workshop items.

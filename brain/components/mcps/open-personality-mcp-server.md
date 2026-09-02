@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T11:38:14Z"
 ---
 ## What it is
 Creates and manages personality profiles using a 12-facet model based on 33 academic frameworks, stores them as OpenClaw-compatible SOUL.md/IDENTITY.md, and supports progressive profiling with confidence tracking.

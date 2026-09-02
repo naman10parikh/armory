@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:41:42Z"
 ---
 ## What it is
 An AI-native kanban board MCP server where agents pull tasks via the Model Context Protocol. It provides tools for task discovery, claiming, progress updates, and review workflows.

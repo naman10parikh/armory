@@ -8,10 +8,12 @@ source_url: https://github.com/llmquant/data-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-27T18:27:42Z"
 ---
 ## What it is
 MCP server `LLMQuant Data`, catalogued on PulseMCP. Access financial data including wiki articles, research papers, crypto and equity prices, macro indicators, and SEC filings via the LLMQuant platform.

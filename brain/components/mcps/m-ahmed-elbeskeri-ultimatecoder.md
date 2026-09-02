@@ -8,10 +8,12 @@ source_url: https://github.com/m-ahmed-elbeskeri/ultimatecodermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-07T07:59:11Z"
 ---
 ## What it is
 MCP server `UltimateCoder`, catalogued on PulseMCP. FastMCP server that enables comprehensive file system operations, code modifications, process management, and static analysis for automated code maintenance and refactoring tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T19:53:26Z"
 ---
 ## What it is
 Enables LLMs to interact with Google Analytics via Admin and Data APIs, allowing users to retrieve account summaries, run reports, and analyze realtime data.

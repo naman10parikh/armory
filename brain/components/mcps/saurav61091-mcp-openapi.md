@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 1
+forks: 0
+pushed_at: "2026-03-26T12:22:54Z"
 ---
 ## What it is
 Turn any OpenAPI spec into callable MCP tools for Claude. Point at any OpenAPI 3.x spec and Claude can call every endpoint through natural language. Supports Bearer, API key, and Basic auth.

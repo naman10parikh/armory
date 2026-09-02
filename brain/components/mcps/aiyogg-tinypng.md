@@ -8,10 +8,12 @@ source_url: https://github.com/aiyogg/tinypng-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-05T07:10:17Z"
 ---
 ## What it is
 MCP server `TinyPNG`, catalogued on PulseMCP. Integrates with TinyPNG API to compress and resize both local and remote images with detailed optimization statistics for efficient image processing workflows.

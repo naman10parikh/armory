@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:36:56Z"
 ---
 ## What it is
 Provides AI assistants access to live Material Design 3 documentation including Foundations, Styles, and Components, returning official content as Markdown.

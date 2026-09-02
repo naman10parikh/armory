@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T04:50:52Z"
 ---
 ## What it is
 Enables LLMs to access MCP protocol specifications and TypeScript SDK documentation with context-aware search and code templates for building custom MCP servers.

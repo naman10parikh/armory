@@ -8,10 +8,12 @@ source_url: https://github.com/danjdewhurst/todo-md-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-14T22:12:03Z"
 ---
 ## What it is
 MCP server `Todo Markdown`, catalogued on PulseMCP. Provides todo list management with markdown file storage, offering CRUD operations for listing, adding, updating, and deleting tasks with persistent UUID tracking and human-readable checkbox format.

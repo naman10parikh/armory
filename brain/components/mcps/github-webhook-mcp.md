@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:52:07Z"
 ---
 ## What it is
 Real-time GitHub webhook notifications for Claude via Cloudflare Worker + Durable Object, enabling AI to monitor and manage GitHub events.

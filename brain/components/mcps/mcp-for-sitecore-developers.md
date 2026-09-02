@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:05:52Z"
 ---
 ## What it is
 A minimal MCP server demonstrating tools, resources, and prompts for Sitecore CDP personalization scenarios, with mock data.

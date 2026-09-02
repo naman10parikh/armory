@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:56:50Z"
 ---
 ## What it is
 A write-only MCP server for Google Sheets with safety features including whitelist, dry-run, snapshot, and audit logging.

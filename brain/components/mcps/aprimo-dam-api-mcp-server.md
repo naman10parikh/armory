@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:32:23Z"
 ---
 ## What it is
 Enables reading of Aprimo DAM asset metadata, fields, and files through the Aprimo REST API. Designed for deployment on Azure via Docker.

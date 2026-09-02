@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:59:34Z"
 ---
 ## What it is
 MCP server that enables AI agents to search domain, IP, port, service, title, ICP, server header, and component assets via the SCANDOMAIN API using Quake-style DSL queries.

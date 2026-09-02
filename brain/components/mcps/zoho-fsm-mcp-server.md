@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:15:43Z"
 ---
 ## What it is
 Enables AI assistants to interact with Zoho Field Service Management, allowing operations on work orders, requests, contacts, and more via natural language.

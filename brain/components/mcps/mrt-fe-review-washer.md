@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T08:09:14Z"
 ---
 ## What it is
 A Korean-centric MCP server for storing code review results and managing tasks, integrating with LLMs like Claude for review generation.

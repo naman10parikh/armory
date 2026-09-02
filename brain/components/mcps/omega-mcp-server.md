@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T03:17:25Z"
 ---
 ## What it is
 MCP server that exposes 108+ omega-cli OSINT tools for reconnaissance, web analysis, threat intelligence, and reporting, enabling AI assistants to perform comprehensive open-source intelligence tasks.

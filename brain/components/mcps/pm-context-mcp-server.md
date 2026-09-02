@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T11:44:00Z"
 ---
 ## What it is
 A Python MCP server that gives Claude access to PM workflow data such as sprints, roadmap, blockers, and workload, using synthetic fixture data (no API keys required) and can be forked for real Linear/Jira integration.

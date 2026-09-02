@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-10T15:40:04Z"
 ---
 ## What it is
 Connects AI assistants to Nightscout for real-time glucose monitoring, analysis, and treatment logging, enabling natural language interaction with CGM data.

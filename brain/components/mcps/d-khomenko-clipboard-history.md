@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T21:23:11Z"
 ---
 ## What it is
 MCP server `Clipboard History`, catalogued on PulseMCP. 15-tool clipboard history server with type classification, secret detection, biometric auth, and full-text search backed by SQLite.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T01:47:29Z"
 ---
 ## What it is
 Enables AI agents to efficiently retrieve relevant code context via PageRank-optimized subgraphs and automate spec generation, implementation planning, and pre-commit validation.

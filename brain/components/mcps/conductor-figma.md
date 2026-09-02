@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T08:22:58Z"
 ---
 ## What it is
 A design-intelligent MCP server for Figma with 201 tools and built-in design rules, works with Cursor and Claude Code.

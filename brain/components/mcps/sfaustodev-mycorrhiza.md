@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-11T17:50:54Z"
 ---
 ## What it is
 MCP server `Mycorrhiza`, catalogued on PulseMCP. Persistent memory server using a SQLite hash chain where each memory is cryptographically linked to the previous one, enabling tamper-evident recall across sessions.

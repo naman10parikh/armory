@@ -8,11 +8,13 @@ source_url: https://github.com/princeofscale/robloxstudio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:58:56Z"
 ---
 ## What it is
 A free, open-source MCP server that lets Claude, Cursor, Codex, or Gemini operate Roblox Studio — debug live playtests, bulk-edit places, and scaffold whole games — with a built-in safety layer.

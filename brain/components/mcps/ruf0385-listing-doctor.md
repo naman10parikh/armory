@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T23:59:33Z"
 ---
 ## What it is
 MCP server `Listing Doctor`, catalogued on PulseMCP. AI-powered Etsy listing optimization scoring engine analyzing titles, tags, descriptions, and photos for SEO and conversion.

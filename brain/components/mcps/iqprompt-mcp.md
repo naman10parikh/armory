@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:31:23Z"
 ---
 ## What it is
 Standalone MCP server that proxies tool calls to the IQPROMPT API, enabling prompt enhancement and session creation through natural language.

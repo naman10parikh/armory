@@ -8,11 +8,13 @@ source_url: https://github.com/proxy-intell/facebook-ads-library-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 291
+stars: 295
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 38
+pushed_at: "2026-08-12T10:17:36Z"
 ---
 ## What it is
 Enables searching and analyzing Facebook's public ads library for any brand, including ad images, text, and video analysis.

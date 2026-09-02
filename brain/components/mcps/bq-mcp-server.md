@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-12T10:36:40Z"
 ---
 ## What it is
 A Python MCP server that retrieves and caches BigQuery metadata (datasets, tables, columns) and enables secure SQL query execution with cost control, file export, and keyword search.

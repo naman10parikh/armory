@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:13:07Z"
 ---
 ## What it is
 Enables LLMs to perform structured, verifiable knowledge operations using the Canonical Knowledge Structure (CKS) ecosystem, including validation, querying, comparison, evolution, and derivation of knowledge.

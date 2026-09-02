@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-05T19:09:44Z"
 ---
 ## What it is
 MCP server `HackerNews`, catalogued on PulseMCP. Integrates with HackerNews through the Firebase API to search stories, analyze user profiles, track trending topics, and examine comment discussions with intelligent caching and metadata enhancement.

@@ -8,10 +8,12 @@ source_url: https://github.com/40ants/lisp-dev-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-22T22:05:50Z"
 ---
 ## What it is
 MCP server `Lisp Development`, catalogued on PulseMCP. Provides direct access to a running Common Lisp image for evaluating arbitrary Lisp expressions, returning multiple values, output streams, and detailed error backtraces.

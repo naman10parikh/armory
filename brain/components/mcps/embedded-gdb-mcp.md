@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T07:37:11Z"
 ---
 ## What it is
 Enables GDB debugging for embedded development workflows, allowing users to start sessions, load programs, set breakpoints, step through code, and examine memory/registers/variables via natural language.

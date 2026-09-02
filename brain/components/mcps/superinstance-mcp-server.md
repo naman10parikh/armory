@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T04:44:06Z"
 ---
 ## What it is
 Enables Claude Code to query and control the SuperInstance fleet, including fleet status, conservation law checks, semantic search, and agent registry.

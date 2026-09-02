@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:41:45Z"
 ---
 ## What it is
 Enables querying and managing SmartThings locations, devices, and rules through MCP tools, with security and confirmation safeguards.

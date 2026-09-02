@@ -8,11 +8,13 @@ source_url: https://github.com/nulljosh/newsline
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:35:39Z"
 ---
 ## What it is
 Provides current headlines from 17 news outlets across the political spectrum with bias tags and blindspot detection for stories covered by only one side.

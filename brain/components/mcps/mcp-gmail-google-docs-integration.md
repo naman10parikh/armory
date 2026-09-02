@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:25:26Z"
 ---
 ## What it is
 A generic MCP server that exposes Gmail and Google Docs capabilities as tools for AI agents. Enables sending emails and appending content to Google Docs.

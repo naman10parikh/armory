@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T05:31:08Z"
 ---
 ## What it is
 A template for building MCP backends for lab equipment with an embedded Echo example for immediate testing and development.

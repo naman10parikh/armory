@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:55:30Z"
 ---
 ## What it is
 Connects to Salesforce scratch orgs and allows AI to generate and insert realistic nested test records via natural language descriptions using the Composite Tree REST API.

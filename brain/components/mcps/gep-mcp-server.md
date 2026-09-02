@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-21T19:49:14Z"
 ---
 ## What it is
 Exposes GEP (Genome Evolution Protocol) evolution capabilities to MCP-compatible AI agents, enabling memory recall, evolution cycles, and community-based strategy publishing for autonomous improvement.

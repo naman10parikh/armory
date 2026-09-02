@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T02:51:03Z"
 ---
 ## What it is
 Enables Claude to control Hubitat smart home hub devices, modes, HSM, and variables via MCP tools, with remote access via ngrok and device aliasing.

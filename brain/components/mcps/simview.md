@@ -8,11 +8,13 @@ source_url: https://github.com/ToolingTools/SimView
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:25:04Z"
 ---
 ## What it is
 Live iOS/Android simulator preview in Codex/Cursor/Claude Code. MCP App. Open source. Local-first.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:33:00Z"
 ---
 ## What it is
 Enables agents to track workouts, body metrics, and training stats for registered users through a JSON-RPC MCP endpoint, with scoped agent permissions and a web dashboard.

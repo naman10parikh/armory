@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T18:45:13Z"
 ---
 ## What it is
 coldstart gives coding agents durable memory of a specific codebase, with no embeddings, no vector store, and no API key. Agents write notes after real tasks — what a file is for, how a flow spans files, which invariants hold — and those notes are surfaced automatically to a later session whose task

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:44:20Z"
 ---
 ## What it is
 Unified Model Context Protocol (MCP) server for Infobip APIs. Consolidates SMS, WhatsApp, Email, 2FA/OTP, and Account management into a single, high-performance local MCP server.

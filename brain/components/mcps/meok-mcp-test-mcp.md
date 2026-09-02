@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:46:02Z"
 ---
 ## What it is
 A test harness for MCP servers that validates server JSON, tool schemas, performs golden file diffing and schema drift detection, and generates signed test reports with Shields.io badges.

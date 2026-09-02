@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T12:34:37Z"
 ---
 ## What it is
 MCP server `Electron CDP Bridge`, catalogued on PulseMCP. Bridge Chrome DevTools Protocol to MCP for controlling Electron applications.

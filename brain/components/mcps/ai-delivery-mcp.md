@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:46:06Z"
 ---
 ## What it is
 Automates task delivery by providing tools for running delivery workflows, creating merge requests, updating Jira issues, and generating release notes.

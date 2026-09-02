@@ -8,10 +8,12 @@ source_url: https://github.com/shivasurya/code-pathfinder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 131
+stars: 140
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-07-10T18:21:25Z"
 ---
 ## What it is
 MCP server `Code Pathfinder`, catalogued on PulseMCP. AI-native static code analysis with call graphs, data flow tracing, type inference, and symbol search for Python and Go.

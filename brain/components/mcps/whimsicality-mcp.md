@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:06:01Z"
 ---
 ## What it is
 Provides persistent memory for AI agents, including context storage, facts, plans, RAG search, code snippets, and conversation compaction, enabling state to survive across sessions and processes.

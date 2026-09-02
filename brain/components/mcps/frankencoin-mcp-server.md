@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T14:25:02Z"
 ---
 ## What it is
 Real-time access to Frankencoin (ZCHF) protocol data including supply, prices, peg health, savings, minting positions, liquidation challenges, governance, insurance products, and historical analytics across all supported chains.

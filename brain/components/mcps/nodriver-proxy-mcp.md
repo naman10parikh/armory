@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T04:07:00Z"
 ---
 ## What it is
 Gives AI agents a browser that bypasses bot detection, a MITM proxy for traffic interception, and a Python sandbox to autonomously write and execute security exploits.

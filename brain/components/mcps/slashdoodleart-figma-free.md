@@ -8,10 +8,12 @@ source_url: https://github.com/slashdoodleart/figma-mcp-free
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-22T13:49:01Z"
 ---
 ## What it is
 MCP server `Figma Free`, catalogued on PulseMCP. Free alternative to Figma's official API that streams design data through a WebSocket bridge and Figma plugin for layout, typography, and design token extraction.

@@ -8,10 +8,12 @@ source_url: https://github.com/ndjordjevic/pinrag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T14:24:01Z"
 ---
 ## What it is
 MCP server `PinRAG by ndjordjevic`, catalogued on PulseMCP. RAG system for indexing and querying PDFs, code repositories, YouTube transcripts, Discord logs, and plain text.

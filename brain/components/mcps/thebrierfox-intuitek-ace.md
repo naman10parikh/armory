@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T18:34:40Z"
 ---
 ## What it is
 MCP server `IntuiTek ACE`, catalogued on PulseMCP. AI-powered APIs for yield intelligence, autonomous commerce, and AI strategy via MCP.

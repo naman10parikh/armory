@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:26:07Z"
 ---
 ## What it is
 Enables AI coding agents like Claude Code or Codex to delegate tasks to a DeepSeek Harness subagent with its own context window, providing tools for task delegation, result waiting, continuation, and supervision with sandboxed execution.

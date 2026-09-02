@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:09:46Z"
 ---
 ## What it is
 MCP server for the Pawn package index, enabling AI assistants to search and inspect Pawn packages, retrieve repository details, and view ecosystem statistics.

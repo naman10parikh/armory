@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-17T19:13:31Z"
 ---
 ## What it is
 MCP server `AgentLux`, catalogued on PulseMCP. MCP toolkit for the AgentLux AI agent marketplace — access marketplace listings, avatar inventory, creator workflows, and social features across 33 tools.

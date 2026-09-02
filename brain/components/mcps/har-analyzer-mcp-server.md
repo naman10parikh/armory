@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T15:13:51Z"
 ---
 ## What it is
 A Python MCP server that loads and analyzes HAR files locally, providing structured summaries to AI assistants to avoid token explosion and sensitive content filtering.

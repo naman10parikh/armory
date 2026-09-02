@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:16:03Z"
 ---
 ## What it is
 MCP gateway adding per-tool RBAC, tenant isolation, audit export, and PII redaction to any server.

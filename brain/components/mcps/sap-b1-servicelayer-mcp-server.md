@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:01:33Z"
 ---
 ## What it is
 Connects AI assistants to SAP Business One ServiceLayer, enabling discovery and query of OData entities, service methods, and safe read-only operations by default, with optional write access and simple npx execution.

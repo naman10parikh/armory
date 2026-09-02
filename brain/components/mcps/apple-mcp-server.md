@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T21:07:57Z"
 ---
 ## What it is
 Exposes macOS system controls and Apple apps as structured tools for Claude, enabling control of volume, music, files, browser tabs, and more via natural language with configurable permissions and rate limiting.

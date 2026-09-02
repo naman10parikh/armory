@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-22T18:42:55Z"
 ---
 ## What it is
 Enables prospect research through semantic web search, webpage scraping, and batch search using multiple APIs.

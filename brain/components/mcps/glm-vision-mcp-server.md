@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:27:29Z"
 ---
 ## What it is
 Enables Claude Code to analyze images using Zhipu AI's GLM-5V-Turbo vision model, supporting local files and URLs with customizable prompts.

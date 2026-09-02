@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-01T22:36:35Z"
 ---
 ## What it is
 MCP server `Mandoline`, catalogued on PulseMCP. Integrates with Mandoline's LLM evaluation platform to create custom metrics, run evaluations on prompt-response pairs, and retrieve results with session management and automatic environment context injection.

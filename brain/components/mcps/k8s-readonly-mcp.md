@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:44:18Z"
 ---
 ## What it is
 A read-only MCP server for inspecting Kubernetes clusters, allowing LLMs to list resources, describe pods, and read logs without mutation.

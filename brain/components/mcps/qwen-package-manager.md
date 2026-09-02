@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-22T09:16:09Z"
 ---
 ## What it is
 MCP server `Qwen Package Manager`, catalogued on PulseMCP. Manages MCP server packages within development environments with tools for searching, installing, uninstalling, and health-checking from multiple registries including GitHub and local sources, featuring transactional operations with automatic rollback, environment validation, and audit logging for centralized package lifecycle management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T18:13:28Z"
 ---
 ## What it is
 A local MCP server for Canvas LMS that enables querying courses, assignments, grades, modules, and more from any MCP-compatible AI client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-15T15:30:10Z"
 ---
 ## What it is
 Enables human-like non-fiction authoring by training custom voices, applying tone presets, auditing drafts for AI tells, and managing dictionaries, all locally.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T16:25:29Z"
 ---
 ## What it is
 MCP server for evidence-based bullet point summarization guidance. Validates and improves bullet lists using scientifically-validated principles from cognitive psychology and UX research.

@@ -8,10 +8,12 @@ source_url: https://github.com/unmodeled-tyler/vessel-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-25T16:56:01Z"
 ---
 ## What it is
 MCP server `Vessel Browser`, catalogued on PulseMCP. Open-source browser runtime for persistent web agents on Linux with MCP control, named sessions, and human-in-the-loop supervision.

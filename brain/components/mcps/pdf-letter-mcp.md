@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:15:00Z"
 ---
 ## What it is
 Local MCP server that generates print-ready PDF letters with DIN 5008 compliant address positioning for window envelopes, handling structured content offline without external APIs.

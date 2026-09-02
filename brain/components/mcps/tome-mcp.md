@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T13:25:42Z"
 ---
 ## What it is
 Manages a research paper library, providing PDF ingestion, bibliography management, semantic search, figure tracking, and integration with Semantic Scholar.

@@ -8,11 +8,13 @@ source_url: https://github.com/T0mSIlver/vidtheque
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:32:44Z"
 ---
 ## What it is
 Enables search across videos you've watched via transcripts, on-screen text, and frames, citing exact timestamps. Point it at videos, channels, or playlists; it indexes everything locally and answers queries with deep links to the exact second.

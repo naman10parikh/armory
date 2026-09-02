@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T00:17:38Z"
 ---
 ## What it is
 An MCP server providing long-term memory for LLMs via hybrid search (FTS5 + vector) stored in SQLite, with time-decay scoring and support for multiple AI assistants.

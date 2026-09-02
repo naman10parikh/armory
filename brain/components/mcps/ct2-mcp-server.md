@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:12:37Z"
 ---
 ## What it is
 Centralizes multi-agent team workflows, providing Kanban, audit timeline, scorecards, and event hooks, integrated natively with Hermes Dashboard via the Model Context Protocol.

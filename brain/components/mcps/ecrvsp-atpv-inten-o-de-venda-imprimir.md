@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:56Z"
 ---
 ## What it is
 Read-only MCP server that provides a tool for consulting official ECRVSP ATPV (Intenção de Venda) data, with pre-paid pricing and no credentials required.

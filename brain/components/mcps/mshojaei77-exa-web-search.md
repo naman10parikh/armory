@@ -12,6 +12,8 @@ stars: 143
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-07-22T19:21:57Z"
 ---
 ## What it is
 MCP server `Exa Web Search`, catalogued on PulseMCP. Integrates with Exa API to enable web search capabilities with filtering options for domains, text requirements, and date ranges, returning markdown-formatted results with titles, URLs, publication dates, and content summaries for real-time internet information access.

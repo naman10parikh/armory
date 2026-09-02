@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T02:15:38Z"
 ---
 ## What it is
 Enables HTTP API testing (GET, POST, PUT, DELETE) via the Model Context Protocol, powered by Playwright.

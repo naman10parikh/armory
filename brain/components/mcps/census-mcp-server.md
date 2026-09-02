@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T23:12:34Z"
 ---
 ## What it is
 Node.js MCP server enabling AI agents to access comprehensive U.S. Census Bureau demographic and economic data, including ACS, decennial census, and business patterns.

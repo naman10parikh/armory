@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T21:42:34Z"
 ---
 ## What it is
 Enables address validation, geocoding, postcode lookup, and reverse geocoding in 240+ countries, including UK Royal Mail PAF data, through four tools for MCP-aware clients.

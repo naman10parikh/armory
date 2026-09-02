@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-26T07:25:05Z"
 ---
 ## What it is
 Serves a single resource (project_info.md) as text/markdown over MCP HTTP transport, for use by MCP-aware clients like Claude Desktop.

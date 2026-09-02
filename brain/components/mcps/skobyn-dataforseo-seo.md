@@ -8,10 +8,12 @@ source_url: https://github.com/skobyn/dataforseo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2026-06-04T04:34:02Z"
 ---
 ## What it is
 MCP server `DataForSEO`, catalogued on PulseMCP. Bridges DataForSEO's SEO APIs with natural language interactions, enabling comprehensive search engine data retrieval and business intelligence analysis through intelligent tool integration.

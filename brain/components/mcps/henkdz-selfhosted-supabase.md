@@ -8,10 +8,12 @@ source_url: https://github.com/henkdz/selfhosted-supabase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 139
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 49
+pushed_at: "2026-02-19T21:16:02Z"
 ---
 ## What it is
 MCP server `Selfhosted Supabase`, catalogued on PulseMCP. Provides a bridge between development environments and self-hosted Supabase instances for database introspection, migration management, and storage operations through direct RPC calls and database connections.

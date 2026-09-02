@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:41:01Z"
 ---
 ## What it is
 Context Mode is an MCP server that reduces context window waste by sandboxing data-heavy tools, tracking session state in SQLite, and promoting code-based analysis over raw data reads, achieving up to 98% context savings.

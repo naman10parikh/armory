@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-16T12:35:11Z"
 ---
 ## What it is
 Enables LLMs to interact with the Juniper Mist API via a dynamic index and sandboxed code execution, allowing search and execution of all 1,011 endpoints without pre-training.

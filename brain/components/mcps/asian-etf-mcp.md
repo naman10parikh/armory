@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:07:07Z"
 ---
 ## What it is
 Exposes Asian ETF Tracker data (HK, A-Share, Taiwan, South Korea, US) as tools for LLM agents, enabling market discovery, performance analysis, and momentum tracking.

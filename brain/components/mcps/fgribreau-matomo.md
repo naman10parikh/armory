@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-27T09:54:05Z"
 ---
 ## What it is
 MCP server `Matomo Analytics`, catalogued on PulseMCP. Dynamically introspects Matomo Analytics instances to expose all available API methods as tools.

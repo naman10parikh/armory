@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T12:53:36Z"
 ---
 ## What it is
 A personal knowledge graph and memory system for AI assistants using SQLite with FTS5 full-text search, enabling persistent memory across conversations with Claude or any MCP-compatible AI.

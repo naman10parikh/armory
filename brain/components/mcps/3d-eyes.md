@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T04:50:46Z"
 ---
 ## What it is
 Enables coding agents to visually inspect and diagnose 3D files (meshes and Gaussian splats) for defects like flipped normals or floaters, without GPU dependencies.

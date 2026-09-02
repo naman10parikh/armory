@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T12:55:36Z"
 ---
 ## What it is
 Connects Claude to Jira, allowing users to query tasks, log work, add comments, and execute JQL queries through conversational AI.

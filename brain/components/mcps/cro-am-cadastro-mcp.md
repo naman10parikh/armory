@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:45Z"
 ---
 ## What it is
 MCP server for querying the official registration records of the Regional Council of Dentistry of Amazonas (Brazil), offering a single read-only tool for consultation.

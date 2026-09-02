@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:54:38Z"
 ---
 ## What it is
 An MCP server for the Library of Congress that enables searching scanned American newspaper pages, searching catalogue items by media type, reading individual records, and listing digital collections, all without requiring an API key or account.

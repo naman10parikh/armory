@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T22:26:51Z"
 ---
 ## What it is
 MCP server `Vitaltrends`, catalogued on PulseMCP. Query personal health data from WHOOP, Withings, and Apple Health using natural language through the Vitaltrends platform.

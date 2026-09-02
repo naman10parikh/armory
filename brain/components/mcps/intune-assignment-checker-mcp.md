@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:42:09Z"
 ---
 ## What it is
 A local, read-only MCP server that inspects and explains Microsoft Intune assignments through Microsoft Graph /beta, with delegated sign-in and secure token caching.

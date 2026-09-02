@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:04:53Z"
 ---
 ## What it is
 Multiplayer coordination for AI coding agents: Claude Code, Codex CLI and Cursor share one room per repository. An agent claims a path glob before it edits and a conflicting claim is refused at claim time, so collisions are prevented rather than resolved at merge. Metadata only — source code and dif

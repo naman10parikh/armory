@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-03-07T10:55:42Z"
 ---
 ## What it is
 MCP server `Sumo Logic`, catalogued on PulseMCP. Integrates with the Sumo Logic API to perform log searches, enabling custom queries and analysis of log data for troubleshooting, monitoring, and generating insights from application logs.

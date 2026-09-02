@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:01:40Z"
 ---
 ## What it is
 Public read-only MCP server exposing today's free sports-betting projections, track record, methodology, engine versions, and per-game model reads from the Olympus Bets Analytics platform.

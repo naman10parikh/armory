@@ -8,11 +8,13 @@ source_url: https://github.com/MageGojo/r-shell-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T08:47:25Z"
 ---
 ## What it is
 MCP server enabling AI assistants to securely operate remote servers via persistent SSH sessions, with tools for command execution, file transfer, directory listing, and system monitoring.

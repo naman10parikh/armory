@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T17:09:49Z"
 ---
 ## What it is
 Enables agents to query a read-only ledger of machine payments, exposing tools for spending totals, purchases with event chains, verdicts, payer passports, and fiscal reporting data.

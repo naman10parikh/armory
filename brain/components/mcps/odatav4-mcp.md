@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T17:52:04Z"
 ---
 ## What it is
 An MCP server for OData v4 endpoints, especially Microsoft Dataverse/Dynamics 365, enabling authentication, schema discovery, querying, CRUD, and more via natural language.

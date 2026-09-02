@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:27:06Z"
 ---
 ## What it is
 MCP server that provides image description capability using StepFun Step-3.7-flash multimodal model, enabling models to 'see' images by converting them into detailed text descriptions.

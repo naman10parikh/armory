@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T11:08:58Z"
 ---
 ## What it is
 Proxy server that enables Claude Code to interact with the DASE ORM Designer VS Code extension, providing 42 tools for database design and management.

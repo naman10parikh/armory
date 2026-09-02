@@ -8,11 +8,13 @@ source_url: https://github.com/ilyannn/wallos-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-24T12:40:55Z"
 ---
 ## What it is
 Enables Claude Desktop to manage subscriptions, categories, currencies, payment methods, and household members in a self-hosted Wallos instance.

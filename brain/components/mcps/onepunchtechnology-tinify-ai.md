@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-08T18:24:23Z"
 ---
 ## What it is
 MCP server `Tinify AI`, catalogued on PulseMCP. Image optimization tools powered by Tinify compression algorithms.

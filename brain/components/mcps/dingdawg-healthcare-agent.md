@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T18:44:05Z"
 ---
 ## What it is
 MCP server `DingDawg Healthcare`, catalogued on PulseMCP. HIPAA-aware healthcare AI for clinical documentation and compliance.

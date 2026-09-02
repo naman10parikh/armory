@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-12T03:25:47Z"
 ---
 ## What it is
 Helps migrate projects from AI SDK 4.x to 5.0 by generating a migration checklist and searching the official migration guide for code and data changes.

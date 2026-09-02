@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T02:07:58Z"
 ---
 ## What it is
 Enables AI to act as Game Master for tabletop RPGs with deterministic dice, five-tier outcomes, FitD-style stress, combat tracking, clocks, investigations, NPC relationships, and world generation via 134 tools over MCP.

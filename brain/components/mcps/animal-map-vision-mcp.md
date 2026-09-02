@@ -8,11 +8,13 @@ source_url: https://github.com/DuongNAD/mcp-vision
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T06:14:24Z"
 ---
 ## What it is
 Enables AI agents to visually inspect and validate 3D game maps using Gemini vision and built-in quality checks for geometry, navigation, ecology, and rendering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T00:23:30Z"
 ---
 ## What it is
 Enables coding agents to create and manage contact forms via the Formpaste API, including form creation, snippet generation, and submission management.

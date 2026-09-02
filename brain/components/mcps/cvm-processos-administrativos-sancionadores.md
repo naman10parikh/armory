@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:00Z"
 ---
 ## What it is
 Enables read-only queries to official CVM (Brazilian Securities Commission) administrative sanctioning procedures via a paid, hosted MCP server. Works with any MCP-over-HTTP client like Claude, Cursor, and VS Code.

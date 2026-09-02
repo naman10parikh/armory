@@ -8,10 +8,12 @@ source_url: https://github.com/okooo5km/zipic-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-19T12:47:59Z"
 ---
 ## What it is
 MCP server `Zipic`, catalogued on PulseMCP. Integrates with the Zipic app for macOS to provide image compression and optimization capabilities through quickCompress and advancedCompress tools, enabling efficient image processing with customizable settings.

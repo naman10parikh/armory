@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-26T14:14:53Z"
 ---
 ## What it is
 Demonstrates how to create a simple MCP server with streamable HTTP transport, featuring tools, prompts, and resources.

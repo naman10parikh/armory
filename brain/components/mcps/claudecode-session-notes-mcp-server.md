@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-28T15:48:01Z"
 ---
 ## What it is
 Enables comprehensive collection and analysis of ClaudeCode development sessions, including agent tracking, tool usage analytics, and performance metrics.

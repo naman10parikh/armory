@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T20:18:53Z"
 ---
 ## What it is
 Enables interaction with the Figma API through MCP tools for managing files, projects, and comments, plus a real-time observability dashboard.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:03:48Z"
 ---
 ## What it is
 Enables customer support interactions including answering FAQs, checking order status, and maintaining customer memory across sessions.

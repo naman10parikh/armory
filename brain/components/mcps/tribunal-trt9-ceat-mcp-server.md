@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:23Z"
 ---
 ## What it is
 Enables querying official Brazilian labor court certificates (CEAT) from TRT9 via a read-only, prepaid MCP tool. It integrates with Claude, ChatGPT, Cursor, and other MCP clients over HTTP.

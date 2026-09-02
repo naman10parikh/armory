@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T23:18:28Z"
 ---
 ## What it is
 Maximizes AI agent context window by enabling compact code reading and editing, reducing tokens by 40% for deeper codebase understanding.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-18T17:58:27Z"
 ---
 ## What it is
 MCP server `Logly`, catalogued on PulseMCP. Query Logly web analytics for traffic data, funnels, and real-time visitor counts from any MCP client.

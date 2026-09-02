@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T22:27:17Z"
 ---
 ## What it is
 Enables deploying, managing, and monitoring OpenWebUI instances on the Railway platform via natural language commands.

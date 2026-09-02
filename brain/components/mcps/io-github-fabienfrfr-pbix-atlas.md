@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:02:02Z"
 ---
 ## What it is
 Provides full lineage graph analysis for Power BI .pbix files, enabling source-to-visual-field traversal. Exposes REST and MCP endpoints for building, searching, and exporting lineage graphs.

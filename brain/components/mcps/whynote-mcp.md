@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:21:54Z"
 ---
 ## What it is
 A read-only MCP server for searching and reading notes from a WhyNote account. It provides tools to search note lines, list todos, and read daily notes.

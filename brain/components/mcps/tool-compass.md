@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:52:32Z"
 ---
 ## What it is
 Semantic navigator for MCP tools that finds relevant tools by natural language intent, reducing token usage by 95%.

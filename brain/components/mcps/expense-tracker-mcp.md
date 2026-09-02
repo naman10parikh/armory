@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T14:31:00Z"
 ---
 ## What it is
 Enables tracking of personal expenses with tools to add, list, update, delete, and summarize expenses by category.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T10:57:59Z"
 ---
 ## What it is
 MCP server `Japan Road Traffic Law`, catalogued on PulseMCP. Provides real-time access to Japan's Road Traffic Law via the e-Gov API with tools for article lookup and citation verification.

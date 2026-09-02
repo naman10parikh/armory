@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T20:48:06Z"
 ---
 ## What it is
 MCP server `XProof`, catalogued on PulseMCP. Proof-of-humanity verification with Ethereum attestation for AI agents.

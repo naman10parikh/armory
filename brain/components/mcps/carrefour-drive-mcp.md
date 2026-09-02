@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:02:01Z"
 ---
 ## What it is
 Unofficial MCP server and CLI for controlling Carrefour Drive on carrefour.fr through a persistent Camoufox browser profile, enabling store/session checks, product search and inspection, cart reading, and cart additions without placing orders or making payments.

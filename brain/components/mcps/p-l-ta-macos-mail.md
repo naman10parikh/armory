@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T13:38:26Z"
 ---
 ## What it is
 MCP server `macOS Mail`, catalogued on PulseMCP. Search, read, send, and manage email via macOS Mail.app across all configured accounts.

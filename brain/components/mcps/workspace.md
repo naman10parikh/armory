@@ -8,10 +8,12 @@ source_url: https://github.com/answerlink/mcp-workspace-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 129
+stars: 133
 verified_at: 2026-05-26
 related: []
 tags: [devops, knowledge, mcp]
+forks: 18
+pushed_at: "2026-01-06T12:33:46Z"
 ---
 
 ## What it is

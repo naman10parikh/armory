@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-25T22:20:52Z"
 ---
 ## What it is
 Custom MCP server for n8n automation, providing 27 tools to manage workflows, executions, credentials, variables, and more via the n8n REST API. Designed to fix compatibility issues with Antigravity AI assistant.

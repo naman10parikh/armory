@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:04:32Z"
 ---
 ## What it is
 Provides AI agents with structured short-form content mechanics including hooks, script structures, retention strategies, and CTAs, along with auditing tools to avoid common posting failures.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:08:04Z"
 ---
 ## What it is
 A standalone runtime and MCP server that executes Claude Code dynamic workflow files through interchangeable agent providers, ensuring compatibility with Claude Code's workflow format.

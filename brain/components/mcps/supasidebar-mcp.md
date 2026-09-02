@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:22:22Z"
 ---
 ## What it is
 Access and organize your open browser tabs, bookmarks, and recently visited links across every macOS browser from your AI client. Powered by the free tier of SupaSidebar(https://supasidebar.com) app.

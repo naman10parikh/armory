@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:42:32Z"
 ---
 ## What it is
 Provides MCP tools to enforce spend policies (allow, deny, step-up, allowlist) on agent wallets with an immutable audit trail.

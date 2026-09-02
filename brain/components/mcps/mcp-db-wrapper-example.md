@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T20:33:19Z"
 ---
 ## What it is
 An MCP server that wraps a small SQL database with tools for AI agents to query and insert data. It comes with a demo table for immediate use and can be extended with custom tables and tools.

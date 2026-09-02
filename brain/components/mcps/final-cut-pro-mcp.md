@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:29:16Z"
 ---
 ## What it is
 MCP server that enables AI to control Final Cut Pro on macOS, including reading libraries/projects, importing FCPXML, and creating title or storyboard projects.

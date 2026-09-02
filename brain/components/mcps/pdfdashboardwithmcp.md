@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T11:17:12Z"
 ---
 ## What it is
 Enables MCP clients to list indexed PDF document collections and perform semantic search queries on them using locally extracted text and embeddings.

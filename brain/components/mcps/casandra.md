@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T01:04:38Z"
 ---
 ## What it is
 Enables AI agents to retrieve real-time cryptocurrency quotes, portfolio state, risk scores (0-100), and timestamped market context through MCP tools, replacing hallucinated prices with verifiable market data.

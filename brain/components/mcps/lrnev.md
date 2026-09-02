@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-06T11:32:28Z"
 ---
 ## What it is
 AI-powered project governance engine for collaborative development with MCP server and CLI, file as source of truth, zero model dependency.

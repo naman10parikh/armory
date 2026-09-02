@@ -8,11 +8,13 @@ source_url: https://github.com/aydincan/turk-hukuku-mevzuat-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:32:32Z"
 ---
 ## What it is
 Statute & article text (mevzuat.gov.tr) and court decisions (UYAP Emsal, Council of State, Constitutional Court), with their citation, source, live. It works as long as the official sources remain reachable.

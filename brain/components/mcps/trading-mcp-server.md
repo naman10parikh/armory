@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-07-30T16:39:23Z"
 ---
 ## What it is
 A comprehensive MCP server for stock analysis and trading insights, including stock screening, fundamental analysis, insider trading, options analysis, social media research, and news analysis.

@@ -8,10 +8,12 @@ source_url: https://github.com/nearestnabors/mcp-webcomic-site-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-08T15:48:00Z"
 ---
 ## What it is
 MCP server `Webcomic Site`, catalogued on PulseMCP. Template framework for building MCP-enabled webcomic archives deployable as static sites and Netlify Functions.

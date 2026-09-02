@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-06T10:37:43Z"
 ---
 ## What it is
 Enables AI agents to perform blockchain operations like wallet management, token info, DeFi swaps, cross-chain bridging, and price checking across Ethereum, BNB Chain, and Solana.

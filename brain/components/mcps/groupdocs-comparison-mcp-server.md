@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:20:14Z"
 ---
 ## What it is
 Enables AI agents to compare documents, analyze changes, and retrieve document info using GroupDocs.Comparison. Supports various formats and includes licensing for production use.

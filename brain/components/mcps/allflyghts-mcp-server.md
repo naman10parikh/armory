@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T16:18:19Z"
 ---
 ## What it is
 Enables flight search, location lookup, and city information retrieval using the AllFlyghts public API through MCP tools.

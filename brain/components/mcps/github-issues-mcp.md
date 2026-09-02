@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T06:26:25Z"
 ---
 ## What it is
 Enables AI assistants to list, search, and inspect issues on any public GitHub repository via natural language.

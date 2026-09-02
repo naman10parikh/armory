@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T14:17:38Z"
 ---
 ## What it is
 Enables AI assistants to manage Nginx Proxy Manager instances through natural language, covering 28 tools for proxy hosts, certificates, streams, and more.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-15T16:41:31Z"
 ---
 ## What it is
 MCP server `Weights and Measures`, catalogued on PulseMCP. Provides accurate unit conversions and reference tables across weight, length, and volume measurement systems including Avoirdupois, Troy, Apothecaries', Metric, Imperial, and US units.

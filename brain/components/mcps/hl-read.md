@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:51:02Z"
 ---
 ## What it is
 A read-only MCP server for Hyperliquid that provides public market data (prices, order books, funding) and any wallet's positions, orders, and fills via MCP tools, without requiring a private key.

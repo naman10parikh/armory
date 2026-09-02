@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:10:45Z"
 ---
 ## What it is
 Provides unified search and navigation across multiple project documentations via the Model Context Protocol (MCP). Any MCP-compatible agent can discover and retrieve knowledge from all indexed projects.

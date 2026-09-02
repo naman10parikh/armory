@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T13:40:04Z"
 ---
 ## What it is
 Provides real-time website audits, lead scoring, tech-stack detection, and local-business search for AI agents doing sales outreach and competitor research.

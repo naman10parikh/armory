@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:47:34Z"
 ---
 ## What it is
 Generates ad creative (copy and images) from a structured JSON brief across Meta, Google, LinkedIn, and X formats. Includes self-review loops for policy compliance and variant scoring, and can run without API keys using Claude CLI.

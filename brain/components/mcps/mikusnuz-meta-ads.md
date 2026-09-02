@@ -8,10 +8,12 @@ source_url: https://github.com/mikusnuz/meta-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-08-28T09:43:47Z"
 ---
 ## What it is
 MCP server `Meta Ads`, catalogued on PulseMCP. Manages Facebook and Instagram advertising campaigns, audiences, creatives, insights, and catalogs via Meta Marketing API v25.0.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T08:09:17Z"
 ---
 ## What it is
 MCP server `Maasy`, catalogued on PulseMCP. Marketing intelligence platform integration with tools for brand data, campaigns, CRM, and SEO management.

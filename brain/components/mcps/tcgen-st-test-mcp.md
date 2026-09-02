@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:56:50Z"
 ---
 ## What it is
 Provides offline semantic validation for TcGen Structured Text (ST) review bundles by normalizing ST code, generating STruC++ tests from JSON specs, and executing them via the strucpp CLI.

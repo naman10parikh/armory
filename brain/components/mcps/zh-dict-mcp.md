@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T16:16:12Z"
 ---
 ## What it is
 Provides Chinese figurative language lookup backed by CC-CEDICT, helping to verify whether a word or phrase has recorded figurative usage or is a one-off creative expression.

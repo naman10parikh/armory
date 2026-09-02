@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T15:07:29Z"
 ---
 ## What it is
 Provides 205 tools for the Basis protocol on BNB Smart Chain, enabling trading, token creation, prediction markets, staking, loans, and more via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:19:10Z"
 ---
 ## What it is
 Enables AI agents to store, retrieve, and self-improve procedural memories (lessons learned) based on relevance to the current task, pruning unused memories to reduce context load and prevent repetition of past mistakes.

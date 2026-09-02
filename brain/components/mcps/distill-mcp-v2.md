@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T04:14:14Z"
 ---
 ## What it is
 distill-mcp-v2 is a high-performance, network-dependency-free Python FastMCP server designed to aggressively optimize Large Language Model (LLM) context windows. It provides specialized tools for compressing and analyzing massive AI-agent payloads without losing critical semantic information.

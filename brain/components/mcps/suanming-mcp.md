@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:04:03Z"
 ---
 ## What it is
 A fortune-telling MCP server that generates traditional Chinese-style HTML reports for Ba Zi, Liu Yao, fortune sticks, naming, and a programmer's almanac.

@@ -8,10 +8,12 @@ source_url: https://github.com/abdelstark/nostr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-02-05T09:04:46Z"
 ---
 ## What it is
 MCP server `Nostr`, catalogued on PulseMCP. Integrates with Nostr to enable posting notes and interacting with relays, simplifying decentralized social network engagement and content publishing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T19:40:16Z"
 ---
 ## What it is
 Exposes Poi's external APIs (file upload/download, commenting, license key issuance) as MCP tools for use with LLM clients like Claude.

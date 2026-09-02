@@ -8,10 +8,12 @@ source_url: https://github.com/arielbk/anki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-23T15:51:59Z"
 ---
 ## What it is
 MCP server `Anki`, catalogued on PulseMCP. Integrates with Anki flashcard collections through AnkiConnect to enable complete deck management, note creation, card scheduling, study statistics tracking, and media file operations for language learners and students.

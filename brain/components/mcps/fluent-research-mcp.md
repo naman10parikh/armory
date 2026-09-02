@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:36:12Z"
 ---
 ## What it is
 Automates Ansys Fluent simulation workflows, enabling environment checks, case execution, UDF management, and result export through MCP tools.

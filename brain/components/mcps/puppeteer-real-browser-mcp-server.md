@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-31T22:04:40Z"
 ---
 ## What it is
 Provides AI assistants with powerful, detection-resistant browser automation capabilities, allowing them to control a real web browser to navigate, extract content, and perform tasks while avoiding bot detection.

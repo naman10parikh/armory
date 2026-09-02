@@ -8,10 +8,12 @@ source_url: https://github.com/ducthinh993/mcp-server-endoflife
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-01T10:34:52Z"
 ---
 ## What it is
 MCP server `End-of-Life API`, catalogued on PulseMCP. Integrates with the endoflife.date API to provide software end-of-life status checks for dependency management, security auditing, and upgrade planning.

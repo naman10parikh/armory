@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:47:37Z"
 ---
 ## What it is
 MCP server that exposes dev-tools make targets as AI-callable tools for end-to-end RHOSO-to-GPU-validated-VM bring-up.

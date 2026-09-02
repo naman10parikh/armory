@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:54:33Z"
 ---
 ## What it is
 An MCP server for codebreaker.xyz that enables authentication, problem discovery and statement fetching, profile viewing, attachment downloads, solution submission, and submission status polling through matching CLI and MCP tools.

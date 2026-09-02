@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:16:22Z"
 ---
 ## What it is
 Enables voice-controlled Instagram account management from the Mac notch, including reading insights, comments, DMs, and publishing photos or carousels via natural language, with scheduled publishing and secure photo handling.

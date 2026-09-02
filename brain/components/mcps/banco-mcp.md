@@ -8,11 +8,13 @@ source_url: https://github.com/douglac/banco-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-15T13:49:27Z"
 ---
 ## What it is
 Connects Brazilian banks (Itaú, Bradesco, Nubank, etc.) to AI agents, enabling natural language queries about expenses, statements, investments, and credit cards via regulated Open Finance.

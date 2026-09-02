@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-20T07:26:31Z"
 ---
 ## What it is
 Enables querying Rapid7 InsightIDR logs using natural language through AI assistants, with support for time filtering, logset selection, and LEQL queries.

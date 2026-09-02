@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:39Z"
 ---
 ## What it is
 Enables querying official Paraná state tax negative debt certificates through a single read-only MCP tool, hosted with prepaid per-use credits and no platform credentials required.

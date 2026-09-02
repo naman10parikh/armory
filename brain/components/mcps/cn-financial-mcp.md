@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-03-15T03:41:22Z"
 ---
 ## What it is
 Provides access to Chinese mainland financial data including A-stock quotes, financial statements, industry analysis, and macroeconomics through 42 MCP tools, with automatic data source fallback and no API key required.

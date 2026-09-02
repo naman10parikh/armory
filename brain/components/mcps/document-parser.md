@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T12:31:36Z"
 ---
 ## What it is
 Provides AI agents with comprehensive document parsing capabilities including PDF text extraction, OCR, HTML-to-markdown conversion, table extraction, and summarization, optimized for agent workflows.

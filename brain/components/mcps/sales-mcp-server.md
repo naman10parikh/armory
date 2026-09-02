@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T23:14:01Z"
 ---
 ## What it is
 Enables users to query enterprise sales data from a local SQLite database and investigate anomalies through an inline dashboard with human-in-the-loop review buttons.

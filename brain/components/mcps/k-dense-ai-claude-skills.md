@@ -8,10 +8,12 @@ source_url: https://github.com/k-dense-ai/claude-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 387
+stars: 402
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 73
+pushed_at: "2026-07-20T18:02:06Z"
 ---
 ## What it is
 MCP server `Claude Skills`, catalogued on PulseMCP. Enables semantic search and retrieval of specialized coding skills from GitHub repositories and local directories, using vector similarity to match tasks with relevant bioinformatics, cheminformatics, and data analysis implementations.

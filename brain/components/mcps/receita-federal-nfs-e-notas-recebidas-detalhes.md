@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:34Z"
 ---
 ## What it is
 MCP server to query details of received electronic service invoices (NFS-e) from the Brazilian Federal Revenue. Read-only, no credentials required, pay-per-use with prepaid credits.

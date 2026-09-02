@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:21:40Z"
 ---
 ## What it is
 MCP server for EU AI Act compliance analysis — classify any AI system or workflow against Regulation (EU) 2024/1689, updated with AI Omnibus 2026.

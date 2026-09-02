@@ -8,10 +8,12 @@ source_url: https://github.com/swkstudios/unifi-fabric-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T00:37:55Z"
 ---
 ## What it is
 MCP server `UniFi Fabric`, catalogued on PulseMCP. Manages UniFi network infrastructure via natural language with 168+ tools for devices, sites, firewall policies, cameras, VPN, and monitoring.

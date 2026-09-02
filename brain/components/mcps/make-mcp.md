@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T07:23:08Z"
 ---
 ## What it is
 This MCP server provides integration with Make.com (formerly Integromat) for workflow automation. It is now deprecated and replaced by Make's official cloud MCP.

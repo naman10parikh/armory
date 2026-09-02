@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-06-15T03:55:19Z"
 ---
 ## What it is
 Enables querying multiple AI models in parallel (Claude, Gemini, O3) and synthesizing their responses using anonymous analysis to reduce bias, providing a comprehensive answer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:16:20Z"
 ---
 ## What it is
 MCP server that integrates WhatsApp via the Evolution API v2, enabling AI assistants to manage WhatsApp instances, send text/media messages, configure Typebot flows, and set up webhooks. It uses SSE transport and is designed for single-tenant deployments.

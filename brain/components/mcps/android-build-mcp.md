@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:43:00Z"
 ---
 ## What it is
 An MCP server that gives coding agents hands and eyes on an Android device, providing 19 tools for building, testing, installing, UI inspection, input, logs, and toolchain diagnosis. It returns concise, structured results to make the build-debug loop efficient.

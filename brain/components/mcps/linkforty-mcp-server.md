@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-20T15:24:42Z"
 ---
 ## What it is
 Connects AI assistants like Claude and Cursor to LinkForty deep links and analytics, enabling natural language management of links, analytics, templates, projects, and SDK integration.

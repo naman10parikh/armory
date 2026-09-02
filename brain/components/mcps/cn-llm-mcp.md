@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T08:07:44Z"
 ---
 ## What it is
 Local MCP server that enables delegating low-risk tasks like summarization or code patches to a low-cost model, with the main agent reviewing results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:40:17Z"
 ---
 ## What it is
 Enables parsing a master resume, analyzing job descriptions for ATS/match scores, generating truthful tailored resumes, tracking applications, and producing PDF reports through Claude Desktop.

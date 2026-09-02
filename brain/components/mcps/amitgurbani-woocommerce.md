@@ -8,10 +8,12 @@ source_url: https://github.com/amitgurbani/mcp-server-woocommerce
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T06:33:34Z"
 ---
 ## What it is
 MCP server `WooCommerce`, catalogued on PulseMCP. Comprehensive WooCommerce store management with 101 tools for products, orders, customers, coupons, shipping, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:28:39Z"
 ---
 ## What it is
 Free remote MCP for Core Web Vitals metrics by CMS, CDN, and framework (Chrome field data + multi-site crawl). No auth. Endpoint: https://www.corewebvitals.io/api/state-of-cwv/mcp

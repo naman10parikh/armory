@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:49:24Z"
 ---
 ## What it is
 Tracks live board game inventory on thegamerules.com by scraping the catalogue, diffing against the last snapshot, and reporting additions/removals. Integrates with a Telegram bot for commands and notifications.

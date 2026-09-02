@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-31T08:51:22Z"
 ---
 ## What it is
 MCP server `Hugging Face Spaces`, catalogued on PulseMCP. Connects Claude Desktop to Hugging Face Spaces by automatically discovering and exposing Gradio endpoints as tools, enabling seamless interaction with machine learning models for text, image, and audio processing.

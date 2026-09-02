@@ -8,10 +8,12 @@ source_url: https://github.com/altmetric/altmetric-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T11:11:10Z"
 ---
 ## What it is
 MCP server `Altmetric`, catalogued on PulseMCP. Track research attention across news, policy documents, social media, and online platforms

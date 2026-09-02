@@ -8,11 +8,13 @@ source_url: https://github.com/jordanhindo/lore
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-26T00:02:15Z"
 ---
 ## What it is
 Enables infinite searchable memory for coding agents across sessions, allowing them to recall past decisions and context.

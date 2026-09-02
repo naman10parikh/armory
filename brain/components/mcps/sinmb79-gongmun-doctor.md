@@ -8,10 +8,12 @@ source_url: https://github.com/sinmb79/gongmun-doctor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-03T02:02:34Z"
 ---
 ## What it is
 MCP server `Gongmun Doctor`, catalogued on PulseMCP. Local MCP server for proofreading Korean official documents (.hwpx/.hwp) with 10 tools covering spelling, grammar, and style correction.

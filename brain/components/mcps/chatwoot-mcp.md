@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T05:38:12Z"
 ---
 ## What it is
 Local Node/TypeScript MCP server for read-only Chatwoot analytics, providing tools to list accounts, scopes, cache sync status, and conversation volume metrics.

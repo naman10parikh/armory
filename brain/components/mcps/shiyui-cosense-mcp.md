@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:58:59Z"
 ---
 ## What it is
 Read-only MCP server for the Cosense project 'shiyui' that provides tools for fetching pages, full-text search, vector search, and related page retrieval. It uses Cloudflare Access OAuth for authentication.

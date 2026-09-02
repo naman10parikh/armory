@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-14T08:29:00Z"
 ---
 ## What it is
 MCP server `MCP OSSInsight`, catalogued on PulseMCP. Provides data analysis for GitHub individuals, organizations, and repositories, as well as in-depth insights into the open source ecosystem via OSSInsight.io.

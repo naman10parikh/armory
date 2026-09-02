@@ -8,10 +8,12 @@ source_url: https://github.com/nikulk2992-jpg/prismhr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-21T04:34:48Z"
 ---
 ## What it is
 MCP server `PrismHR`, catalogued on PulseMCP. Open-source MCP server for PrismHR — payroll, benefits, billing, compliance, and Microsoft 365 operations for PEOs.

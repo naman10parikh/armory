@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:21:40Z"
 ---
 ## What it is
 Gives ChatGPT or Claude live access to Upstox option chain, OI data, market quotes, and option contracts via read-only Analytics Token.

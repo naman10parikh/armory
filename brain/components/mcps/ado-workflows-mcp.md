@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T22:01:48Z"
 ---
 ## What it is
 Enables AI agents to discover Azure DevOps repositories, manage pull requests, and interact with PR comments and reviews via the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:48:35Z"
 ---
 ## What it is
 Enables Google Search Console data queries via MCP, including search analytics, performance comparisons, URL inspection, and sitemap management.

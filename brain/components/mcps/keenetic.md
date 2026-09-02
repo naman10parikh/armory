@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:52:51Z"
 ---
 ## What it is
 Enables AI agents to manage Keenetic routers through the same RCI API used by the router's web interface, working directly over the local network without cloud involvement. It supports reading device statuses and executing configuration changes, with confirm, dry-run, and destructive-action safeguar

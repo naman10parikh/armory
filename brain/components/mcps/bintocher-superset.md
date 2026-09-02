@@ -8,10 +8,12 @@ source_url: https://github.com/bintocher/mcp-superset
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-09-01T13:48:59Z"
 ---
 ## What it is
 MCP server `Apache Superset`, catalogued on PulseMCP. Comprehensive Apache Superset integration with 128+ tools for dashboards, charts, datasets, SQL Lab, security management, and access control automation.

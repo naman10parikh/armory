@@ -8,11 +8,13 @@ source_url: https://github.com/lstudlo/ScholarMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-29T09:33:47Z"
 ---
 ## What it is
 An MCP server that enables coding agents to search academic papers, ingest full-text PDFs, extract structured details, and manage citations in literature research workflows.

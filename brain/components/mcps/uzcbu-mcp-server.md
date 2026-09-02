@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:08:31Z"
 ---
 ## What it is
 Enables AI assistants to fetch official Uzbekistan Central Bank currency rates, including current and historical rates, and perform currency conversions via MCP.

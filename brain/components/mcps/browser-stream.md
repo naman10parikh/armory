@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T03:03:57Z"
 ---
 ## What it is
 Collapses browser act-then-observe into single tool calls, returning immediate consequences like DOM changes, layout shifts, and network activity to reduce tool calls by ~50% and tokens by ~90%.

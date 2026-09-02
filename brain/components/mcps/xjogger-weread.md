@@ -8,10 +8,12 @@ source_url: https://github.com/xjogger/weread-mcp-worker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-12T14:08:26Z"
 ---
 ## What it is
 MCP server `WeChat Reading`, catalogued on PulseMCP. Cloudflare Workers MCP server for WeChat Reading (微信读书) exposing bookshelf, notes, highlights, reading stats, and recommendations through 20+ tools.

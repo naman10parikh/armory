@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:01:24Z"
 ---
 ## What it is
 Production-ready Model Context Protocol server for safely reading and changing WordPress + ACF Pro structure through ACF Local JSON and explicit WP-CLI synchronization.

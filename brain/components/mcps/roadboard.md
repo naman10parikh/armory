@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T18:35:23Z"
 ---
 ## What it is
 Multi-project execution, memory, and collaboration platform for humans and AI agents, providing MCP tools for agents to read and write project state.

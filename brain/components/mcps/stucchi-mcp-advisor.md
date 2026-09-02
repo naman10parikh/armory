@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T21:57:41Z"
 ---
 ## What it is
 MCP server `MCP Advisor`, catalogued on PulseMCP. Browse, search, and discover MCP servers from the MCP Advisor registry with filtering by transport, tags, and trending metrics.

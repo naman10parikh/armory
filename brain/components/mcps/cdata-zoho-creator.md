@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-18T19:19:04Z"
 ---
 ## What it is
 MCP server `Zoho Creator`, catalogued on PulseMCP. Connects to Zoho Creator databases via JDBC to enable SQL querying, table exploration, and metadata retrieval with dynamic schema discovery and CSV-formatted results.

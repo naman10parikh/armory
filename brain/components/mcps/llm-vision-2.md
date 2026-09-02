@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:12:51Z"
 ---
 ## What it is
 MCP server that provides a 'borrowed eye' for text-only LLMs, enabling them to identify and describe local images via the Qwen VL vision model, including face recognition, scene description, OCR, and targeted visual questioning.

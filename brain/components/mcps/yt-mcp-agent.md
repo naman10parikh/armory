@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:10:16Z"
 ---
 ## What it is
 This MCP server enables users to analyze YouTube videos by extracting transcripts and generating specialized content like summaries, chapter timestamps, and social media posts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:55:43Z"
 ---
 ## What it is
 Enables Hermes agents to delegate bounded coding tasks to persistent oh-my-pi sessions with isolated git worktrees, live steering, and durable follow-ups, requiring explicit user confirmation before each task.

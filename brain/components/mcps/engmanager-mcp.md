@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T21:48:55Z"
 ---
 ## What it is
 Provides LLMs with structured workflow guidance and next-step instructions for development procedures, ensuring consistent practices across projects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:30:31Z"
 ---
 ## What it is
 An MCP server that allows AI assistants to send formatted text, files, and updates to Telegram topics, and to capture incoming messages from work chats into a local inbox for retrieval.

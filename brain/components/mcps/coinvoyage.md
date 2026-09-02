@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T08:16:59Z"
 ---
 ## What it is
 MCP server `CoinVoyage`, catalogued on PulseMCP. Crypto payment gateway MCP integration — create PayOrders, check status, manage webhooks, get swap quotes across Bitcoin, Solana, Ethereum, and more.

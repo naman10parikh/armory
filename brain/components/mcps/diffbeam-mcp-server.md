@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T00:04:50Z"
 ---
 ## What it is
 Enables AI agents and engineering tools to validate and simulate Gaussian beam optical systems, search component catalogs, and create immutable design links for optical design workflows.

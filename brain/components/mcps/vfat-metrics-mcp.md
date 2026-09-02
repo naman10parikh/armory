@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:44:07Z"
 ---
 ## What it is
 Enables querying public vfat Metrics position data by EVM address, providing structured access to current positions, NFT lifecycle actions, historical value/performance, CSV exports, and portfolio summaries through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T20:33:16Z"
 ---
 ## What it is
 Provides local, secure access to Enpass password vaults via MCP. Enables unlocking vaults, listing entries, retrieving passwords, TOTP codes, and attachments, with optional write support.

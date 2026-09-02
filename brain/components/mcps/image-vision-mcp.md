@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T08:40:34Z"
 ---
 ## What it is
 A lightweight stdio MCP server that adds image understanding to AI coding assistants via a single tool that sends images to any OpenAI-compatible multimodal endpoint.

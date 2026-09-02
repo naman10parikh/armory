@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T02:36:26Z"
 ---
 ## What it is
 Enables LLM assistants and agents to query and manage a personal markdown vault as a graph-based knowledge base using hybrid retrieval, with tools for searching, editing, tagging, and recalling memories across MCP-compatible clients.

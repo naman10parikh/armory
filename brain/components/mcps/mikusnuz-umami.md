@@ -8,10 +8,12 @@ source_url: https://github.com/mikusnuz/umami-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T09:43:43Z"
 ---
 ## What it is
 MCP server `Umami Analytics`, catalogued on PulseMCP. Integrates with Umami Analytics API v2 to provide comprehensive website statistics, visitor tracking, event management, custom reports, team administration, and real-time monitoring.

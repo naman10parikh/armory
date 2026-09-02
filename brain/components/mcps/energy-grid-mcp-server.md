@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:35Z"
 ---
 ## What it is
 Provides real-time electricity grid data including CO2 intensity, power mix, and wholesale prices, plus optimal green time windows for energy-intensive AI tasks. Supports UK, Germany, and global regions with optional API keys.

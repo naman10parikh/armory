@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-02-23T03:35:10Z"
 ---
 ## What it is
 Industry-standard MCP server for AWX/AAP/Ansible Tower automation, enabling AI agents to manage job templates, launch and monitor jobs, and handle inventories and projects through natural language.

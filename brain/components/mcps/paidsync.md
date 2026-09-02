@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T08:55:16Z"
 ---
 ## What it is
 MCP server `PaidSync`, catalogued on PulseMCP. Manage Google Ads, Meta Ads, and LinkedIn Ads through AI with 200+ tools and full read/write access.

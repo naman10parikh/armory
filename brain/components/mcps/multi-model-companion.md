@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:37:48Z"
 ---
 ## What it is
 Local MCP server that lets Claude Code delegate bounded, read-only tasks to external AI models (Codex, Grok, local OpenAI-compatible servers) via CLIProxyAPI.

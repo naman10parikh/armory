@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:56:40Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve US company funding events from SEC Form D filings, including amount raised, industry, executives, and filing URLs.

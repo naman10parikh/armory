@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T16:52:46Z"
 ---
 ## What it is
 Enables interaction with the Etherlink blockchain, including balance checks, transactions, smart contract interactions, and token operations.

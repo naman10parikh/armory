@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T00:34:38Z"
 ---
 ## What it is
 Provides a local groundedness verifier as an MCP server, returning a verdict on whether a draft answer is supported by provided document excerpts.

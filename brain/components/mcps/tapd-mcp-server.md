@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:30:18Z"
 ---
 ## What it is
 Enables managing TAPD (Tencent Agile Product Development) bugs, requirements, PRD reviews, and test reports directly from IDE via natural language, with cross-project aggregation and built-in workflows.

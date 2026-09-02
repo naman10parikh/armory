@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-24T14:40:11Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Automatically generates callable tools from OpenAPI specifications, parsing Swagger documents to create HTTP request handlers with proper parameter mapping and request body handling for seamless REST API integration.

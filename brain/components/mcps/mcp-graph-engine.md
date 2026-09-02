@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-30T22:31:37Z"
 ---
 ## What it is
 A graph database MCP server that lets AI assistants build, analyze, and visualize relationship graphs with algorithms like PageRank and cycle detection.

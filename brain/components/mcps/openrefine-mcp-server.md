@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-18T13:47:16Z"
 ---
 ## What it is
 Enables MCP-capable clients to interact with OpenRefine's HTTP API for creating projects, applying operations, exporting CSV, and deleting projects.

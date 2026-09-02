@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:35:13Z"
 ---
 ## What it is
 Exposes AdminV2 backend API operations as discoverable, callable tools for AI agents, enabling natural language or structured API interactions.

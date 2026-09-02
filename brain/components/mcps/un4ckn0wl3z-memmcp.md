@@ -8,10 +8,12 @@ source_url: https://github.com/un4ckn0wl3z/memmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-15T05:02:38Z"
 ---
 ## What it is
 MCP server `MemMCP (Cheat Engine)`, catalogued on PulseMCP. Memory scanning and modification tool that enables Cheat Engine-like functionality for manipulating application memory in Python

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T19:29:29Z"
 ---
 ## What it is
 An enterprise MCP server that exposes 16 standardized tools for document intelligence, RAG, knowledge graph, SQL analysis, LLM evaluation, cost estimation, and AI architecture design, enabling AI agents to securely access and compose enterprise AI capabilities.

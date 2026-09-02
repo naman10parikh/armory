@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:02:32Z"
 ---
 ## What it is
 Allows querying the Diário Oficial do Estado do Piauí (DOE-PI) in natural language: list editions, search content, and read full texts without downloading PDFs.

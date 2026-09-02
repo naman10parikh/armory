@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:03:07Z"
 ---
 ## What it is
 MCP server providing structured continuity memory for AI coding agents, tracking decisions, open loops, and session state in local SQLite. Enables agents to resume work from verified state across sessions without replaying transcripts.

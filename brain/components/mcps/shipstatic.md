@@ -8,10 +8,12 @@ source_url: https://github.com/shipstatic/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T23:11:14Z"
 ---
 ## What it is
 MCP server `Shipstatic`, catalogued on PulseMCP. Deploy and manage static sites with deployment uploads, domain management, and DNS configuration.

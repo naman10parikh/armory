@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:48:03Z"
 ---
 ## What it is
 MCP server that exposes TradingAgents multi-agent financial research as async tasks, generating research reports and non-executive decisions for LLM hosts without touching trading accounts.

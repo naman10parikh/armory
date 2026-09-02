@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-23T08:30:54Z"
 ---
 ## What it is
 Enables real-time access to Polymarket prediction market odds, allowing AI agents to retrieve events, markets, and search for predictions with formatted outputs.

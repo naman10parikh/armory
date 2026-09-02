@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T08:00:09Z"
 ---
 ## What it is
 Manages employee leave with Claude Desktop via natural language. Enables checking balances, applying, approving, and reviewing leave requests through a Supabase-backed MCP server.

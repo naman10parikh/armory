@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-15T00:21:29Z"
 ---
 ## What it is
 This is an MCP server for tracking your progress through DSA questions with spaced repetition, built-in NeetCode 150 list, and tools to log attempts, get next problems, and view stats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:32:19Z"
 ---
 ## What it is
 Enables AI assistants to query and manage a GxP computerized system inventory as a knowledge graph, including blast-radius impact analysis, regulatory lineage, validation-gap detection, audit-trail-compliant status change approvals, and periodic review generation.

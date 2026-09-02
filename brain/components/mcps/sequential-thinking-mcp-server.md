@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-03-13T06:06:07Z"
 ---
 ## What it is
 A structured problem-solving MCP server that breaks down complex tasks into sequential steps, supports iterative refinement and branching, and helps maintain context and explore alternative reasoning paths.

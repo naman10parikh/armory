@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-02T11:30:18Z"
 ---
 ## What it is
 MCP server `Playwright Browser Automation`, catalogued on PulseMCP. Provides browser automation capabilities through headless Chromium instances with comprehensive session management, supporting standard web operations, Electron application testing, and test recording that captures user interactions to generate Playwright, Jest, or Mocha test scripts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:21:50Z"
 ---
 ## What it is
 MCP server for Jobber home service management software enabling read/write of clients, jobs, quotes, invoices via GraphQL API.

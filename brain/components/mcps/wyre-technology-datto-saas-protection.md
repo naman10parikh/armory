@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T00:10:51Z"
 ---
 ## What it is
 MCP server `Datto SaaS Protection`, catalogued on PulseMCP. Manage Datto SaaS Protection backups for Microsoft 365 and Google Workspace.

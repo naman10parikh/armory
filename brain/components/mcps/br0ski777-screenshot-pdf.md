@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:43Z"
 ---
 ## What it is
 MCP server `Screenshot & PDF`, catalogued on PulseMCP. Capture screenshots in PNG, JPEG, or WebP and generate PDFs from any URL.

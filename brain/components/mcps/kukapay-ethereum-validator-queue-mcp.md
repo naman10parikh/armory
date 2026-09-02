@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 3
+pushed_at: "2025-08-17T09:58:42Z"
 ---
 ## What it is
 An MCP server that tracks Ethereum’s validator activation and exit queues in real time.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T05:29:41Z"
 ---
 ## What it is
 Lets AI clients ask natural-language questions about a SQL database with production-safe guardrails, schema grounding, and read-only enforcement.

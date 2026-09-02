@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T01:40:03Z"
 ---
 ## What it is
 An MCP server that detects duplicate code using AST graph isomorphism, blocking writes of structurally identical code to reduce redundancy.

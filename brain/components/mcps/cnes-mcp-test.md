@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T06:00:43Z"
 ---
 ## What it is
 Read-only MCP server for querying Brazilian CNES health establishment data in PostgreSQL, enabling AI-assisted database exploration and analysis.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T20:42:46Z"
 ---
 ## What it is
 MCP server `CrewOne`, catalogued on PulseMCP. Taiwan film production platform: equipment rates, studios, photographer and director references for AI pre-production.

@@ -12,6 +12,8 @@ stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-01-22T15:51:29Z"
 ---
 ## What it is
 MCP server `WeCom`, catalogued on PulseMCP. Integrates WeCom group messaging, enabling automated sending of diverse message types and file uploads for streamlined team communication and notifications.

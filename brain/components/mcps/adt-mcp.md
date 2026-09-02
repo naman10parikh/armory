@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:40:00Z"
 ---
 ## What it is
 Multi-system MCP server for reading and writing ABAP source via SAP ADT, with write safety controls and a local web admin.

@@ -8,10 +8,12 @@ source_url: https://github.com/supermemoryai/apple-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3100
+stars: 3130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 287
+pushed_at: "2025-08-11T03:13:27Z"
 ---
 ## What it is
 MCP server `Apple Native Tools`, catalogued on PulseMCP. Integrates with Apple's native applications to enable searching contacts, managing notes, and sending messages within the macOS ecosystem.

@@ -8,10 +8,12 @@ source_url: https://github.com/thesharque/mcp-jperf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-23T19:39:21Z"
 ---
 ## What it is
 MCP server `Java Profiler`, catalogued on PulseMCP. Java application profiling via jcmd, JFR, and jps for performance diagnostics and thread analysis.

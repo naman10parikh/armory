@@ -8,11 +8,13 @@ source_url: https://github.com/shieldyguy/stm32-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T04:38:50Z"
 ---
 ## What it is
 Enables Claude Code to build, flash, and communicate with STM32 hardware over SWD and serial, including multi-board management, live memory monitoring, and hardware sequences.

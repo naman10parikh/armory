@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T16:42:19Z"
 ---
 ## What it is
 An MCP server that wraps the Claude Agent SDK, enabling Claude-powered queries, coding tasks, web search, and customizable agent execution using OAuth without an API key.

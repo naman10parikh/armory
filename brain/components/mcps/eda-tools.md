@@ -8,10 +8,12 @@ source_url: https://github.com/nellyw8/mcp4eda
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-07-29T15:06:21Z"
 ---
 ## What it is
 MCP server `EDA Tools`, catalogued on PulseMCP. Integrates with Electronic Design Automation tools to enable hardware design workflows including RTL synthesis, simulation, timing analysis, and physical layout generation for chip design tasks

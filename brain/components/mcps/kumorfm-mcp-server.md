@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-03T20:14:43Z"
 ---
 ## What it is
 Enables AI assistants to query KumoRFM for predictive analytics on relational data, including graph management, natural language to PQL conversion, and training-free predictions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T11:30:28Z"
 ---
 ## What it is
 Everway turns forwarded confirmation emails into one day-by-day itinerary. This MCP server is a hosted bridge between your Everway account and MCP-compatible AI tools: once connected, your assistant can read your itinerary, answer questions about your plans, and add or update bookings.

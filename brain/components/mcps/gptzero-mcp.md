@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T03:07:44Z"
 ---
 ## What it is
 Enables AI content detection with sentence-level and paragraph-level AI probability scoring to identify and fix AI-generated text.

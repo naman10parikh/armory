@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T00:45:20Z"
 ---
 ## What it is
 MCP server `Domotz`, catalogued on PulseMCP. Domotz network monitoring integration for agents, devices, alerts, and discovery.

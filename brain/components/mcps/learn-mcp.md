@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:14:22Z"
 ---
 ## What it is
 A learning MCP server with tools, resources, prompts, and sampling for AI clients like Cursor, using local JSON storage.

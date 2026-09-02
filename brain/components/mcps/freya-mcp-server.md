@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:08:54Z"
 ---
 ## What it is
 A powerful filesystem MCP server for AI agents with extensive system access, including filesystem operations, shell execution, Windows tools, reverse engineering, code intelligence, and agent orchestration.

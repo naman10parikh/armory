@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T00:21:56Z"
 ---
 ## What it is
 A read-only MCP server that retrieves public market data from bitFlyer, allowing natural language querying of ticker, order book, executions, exchange health, and tradable products.

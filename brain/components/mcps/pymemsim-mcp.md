@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:51:02Z"
 ---
 ## What it is
 Exposes membrane simulation capabilities through an MCP server, enabling gas hollow-fiber membrane simulations with dynamic thermodynamic model sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T18:22:30Z"
 ---
 ## What it is
 MCP server exposing YouTube Data, Analytics, and Reporting APIs as agent-callable tools with multi-brand-account authentication, quota tracking, and a safety policy that excludes destructive operations like video deletion.

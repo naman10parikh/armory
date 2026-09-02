@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T15:53:47Z"
 ---
 ## What it is
 A lightweight MCP server that lets AI assistants publish notes to Xiaohongshu (Little Red Book) via browser automation. Supports login, image-text note publishing with up to 9 images, and search.

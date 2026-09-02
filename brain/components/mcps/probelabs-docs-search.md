@@ -8,10 +8,12 @@ source_url: https://github.com/probelabs/docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-10-12T19:14:15Z"
 ---
 ## What it is
 MCP server `Probe Documentation Search`, catalogued on PulseMCP. Makes any codebase or documentation searchable through the Probe search engine with support for both local directories and Git repositories, featuring automatic content updates and build-time optimization that removes binary files to focus on searchable text content.

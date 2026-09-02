@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:17Z"
 ---
 ## What it is
 Consulta a Certidão de Débitos do IBAMA em fonte oficial, com uma ferramenta de leitura que permite verificar débitos ambientais via MCP.

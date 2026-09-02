@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T02:50:08Z"
 ---
 ## What it is
 Enables AI assistants to send DingTalk single and group chat messages via MCP protocol, supporting userId, name, or batch sending to up to 20 users.

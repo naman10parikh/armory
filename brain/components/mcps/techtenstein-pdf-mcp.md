@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:34:14Z"
 ---
 ## What it is
 MCP server that gives your Claude, Cline, or Cursor session the ability to extract text, tables, and metadata from any PDF URL — including scanned PDFs via OCR.

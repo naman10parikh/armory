@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:51:52Z"
 ---
 ## What it is
 Enables Claude to read, organize, and send SMS messages through your ClickSend account.

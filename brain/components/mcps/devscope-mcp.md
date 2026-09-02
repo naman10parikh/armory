@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:40:34Z"
 ---
 ## What it is
 Provides project context for AI agents in VS Code by analyzing technologies, structure, AGENTS.md rules, current branch, and source code without allowing arbitrary commands.

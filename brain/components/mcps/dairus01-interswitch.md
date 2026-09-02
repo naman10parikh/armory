@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T01:36:33Z"
 ---
 ## What it is
 MCP server `Interswitch`, catalogued on PulseMCP. Access Interswitch financial APIs for payments, transfers, and lending operations.

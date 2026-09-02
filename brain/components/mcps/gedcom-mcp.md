@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:07:08Z"
 ---
 ## What it is
 Enables AI assistants to load and query local GEDCOM genealogy files, supporting search, browsing, and family tree traversal.

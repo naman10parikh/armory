@@ -8,11 +8,13 @@ source_url: https://github.com/icueth/browser-for-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:34:54Z"
 ---
 ## What it is
 A CDP-native MCP server that lets AI agents drive a real Chrome browser with deep network/console inspection, robust page interaction, and the ability to reverse-engineer a site's API flow into runnable code with dependency chaining and replay verification.

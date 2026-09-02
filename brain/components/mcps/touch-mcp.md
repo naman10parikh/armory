@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T12:39:47Z"
 ---
 ## What it is
 High-performance MCP server that enables AI assistants to control TouchDesigner live via WebSocket, providing 37 tools for nodes, parameters, scripting, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/dapooleygmailcom/gaiia-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T04:17:00Z"
 ---
 ## What it is
 MCP server `GAIIA Expert Proxy`, catalogued on PulseMCP. MCP server providing access to GAIIA Expert Proxy for AI-powered code audits, refactoring, architectural analysis, and multi-protocol API interrogation.

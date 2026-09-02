@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T01:07:04Z"
 ---
 ## What it is
 50 tools for Meta Ads campaign management, creative analysis, audience building, and conversion tracking, accessible to any MCP-compatible AI agent.

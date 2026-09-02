@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T21:58:16Z"
 ---
 ## What it is
 MCP server `Readdown`, catalogued on PulseMCP. Converts web pages to clean, token-efficient Markdown optimized for language models.

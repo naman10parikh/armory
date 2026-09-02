@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-13T02:19:03Z"
 ---
 ## What it is
 MCP server `Mem0`, catalogued on PulseMCP. Provides persistent memory capabilities through dual-server architecture combining Mem0 AI with Neo4j graph intelligence, enabling context retention, preference tracking, and knowledge evolution across sessions with support for multiple LLM providers and complete data privacy through local deployment.

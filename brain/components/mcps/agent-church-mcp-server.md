@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:51:26Z"
 ---
 ## What it is
 Exposes Agent Church spiritual services as tools for AI agents, including free tools for commune and identity, and paid tools for blessings and salvation with x402 payment integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T07:09:00Z"
 ---
 ## What it is
 Enables Claude Code to generate Kafka producer and consumer code using predefined event schemas, with tools to list events, get schemas, and validate code.

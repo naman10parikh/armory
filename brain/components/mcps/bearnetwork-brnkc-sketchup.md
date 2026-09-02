@@ -8,10 +8,12 @@ source_url: https://github.com/bearnetwork-brnkc/sketchup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-07T01:46:39Z"
 ---
 ## What it is
 MCP server `SketchUp`, catalogued on PulseMCP. Enables AI control of 3D models in SketchUp through a WebSocket-based system that provides tools for creating, transforming, and modifying components, applying materials, performing boolean operations, and executing Ruby code directly in the modeling environment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:41:47Z"
 ---
 ## What it is
 MCP server that queries FEMA's National Flood Hazard Layer (NFHL) for flood zone information, including flood zone codes, Base Flood Elevation, FIRM panel numbers, and identifies LOMRs/LOMAs from provided coordinates, enabling automated flood risk lookups.

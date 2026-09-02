@@ -8,10 +8,12 @@ source_url: https://github.com/nvms/tui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-02T11:51:24Z"
 ---
 ## What it is
 MCP server `TUI`, catalogued on PulseMCP. Interact with terminal user interface applications through managed pseudo-terminals with session management, screenshots, text reading, and keystroke input.

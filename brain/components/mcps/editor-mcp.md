@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:38:44Z"
 ---
 ## What it is
 A secure, isolated MCP server providing full code editor functionality for AI pair programming, with Docker-based command execution and Cloudflare Tunnel remote access.

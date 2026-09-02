@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T14:57:08Z"
 ---
 ## What it is
 MCP server `Cat Facts`, catalogued on PulseMCP. Connects to the Layer API service to provide cat facts through a stdio transport server built with the MCP SDK.

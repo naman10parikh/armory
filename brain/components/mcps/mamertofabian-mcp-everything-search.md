@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
-stars: 356
+stars: 357
+forks: 38
+pushed_at: "2025-10-20T21:36:47Z"
 ---
 ## What it is
 Fast Windows file search using Everything SDK

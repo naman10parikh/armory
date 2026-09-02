@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-08T12:31:31Z"
 ---
 ## What it is
 MCP server `Omise`, catalogued on PulseMCP. Integrates with Omise's payment platform to enable secure payment operations including charge creation, customer management, token handling, refunds, transfers, and webhook management for e-commerce and subscription services.

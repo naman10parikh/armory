@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:10:17Z"
 ---
 ## What it is
 Generates and deploys Cloudera Data Engineering (CDE) Airflow jobs from ODCS data contracts, validating live table data in CDW against schema and data-quality rules without WAP staging.

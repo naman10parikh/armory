@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:21:10Z"
 ---
 ## What it is
 Read-only MCP server for querying events and inscriptions from asdeporte microservices, with a chatbot interface and tools for searching, retrieving details, and checking user inscriptions.

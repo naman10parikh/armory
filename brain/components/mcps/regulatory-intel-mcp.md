@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:27:05Z"
 ---
 ## What it is
 Enables AI agents to search and track US federal regulations, documents, and executive orders from the Federal Register, with no API keys required.

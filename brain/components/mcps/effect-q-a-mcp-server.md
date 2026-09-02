@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T11:06:38Z"
 ---
 ## What it is
 Fetches category data from a Q&A service API and returns a markdown summary grouped by category.

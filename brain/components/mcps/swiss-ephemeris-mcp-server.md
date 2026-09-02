@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-07-10T10:46:29Z"
 ---
 ## What it is
 Provides astronomical calculations using the Swiss Ephemeris library, including planetary positions, houses, chart points, and asteroids for any date and location.

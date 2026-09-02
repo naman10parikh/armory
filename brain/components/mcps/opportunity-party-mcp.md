@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T21:04:41Z"
 ---
 ## What it is
 Scrapes the Opportunity Party website and converts policy PDFs to structured markdown for LLM consumption.

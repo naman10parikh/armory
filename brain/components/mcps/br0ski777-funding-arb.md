@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:13Z"
 ---
 ## What it is
 MCP server `Funding Rate Arbitrage Scanner`, catalogued on PulseMCP. Identifies funding rate arbitrage opportunities across Hyperliquid, Binance, Bybit, and OKX perpetual markets.

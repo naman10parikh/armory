@@ -8,11 +8,13 @@ source_url: https://github.com/dataelement/dsh-plugin-coaligne
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:28:09Z"
 ---
 ## What it is
 Connects DeepSeek Harness agents to CoAligne's cloud project context. Provides MCP tools for searching synced files, managing comments, and creating review requests.

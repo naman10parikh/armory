@@ -8,10 +8,12 @@ source_url: https://github.com/z4none/rapidocr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-13T12:21:03Z"
 ---
 ## What it is
 MCP server `RapidOCR`, catalogued on PulseMCP. Extracts text from images using RapidOCR library through base64-encoded data or file paths for automated document processing workflows.

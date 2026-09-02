@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-20T04:16:39Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides access to DeepSeek-R1's reasoning capabilities, allowing non-reasoning models to generate better responses with enhanced thinking.

@@ -8,10 +8,12 @@ source_url: https://github.com/decibri/mcp-listen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T20:02:55Z"
 ---
 ## What it is
 MCP server `Listen`, catalogued on PulseMCP. Microphone capture and speech-to-text MCP server using whisper.cpp for STT and Ollama for local LLM processing.

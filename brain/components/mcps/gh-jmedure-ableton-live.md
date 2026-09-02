@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-24T17:15:57Z"
 ---
 ## What it is
 MCP server `Ableton Live`, catalogued on PulseMCP. Controls Ableton Live for music production workflows.

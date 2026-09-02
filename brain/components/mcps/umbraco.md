@@ -8,10 +8,12 @@ source_url: https://github.com/umbraco/umbraco-cms-mcp-dev
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T22:20:38Z"
 ---
 ## What it is
 MCP server `Umbraco CMS Developer`, catalogued on PulseMCP. Integrates AI agents with Umbraco CMS through the Management API

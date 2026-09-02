@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T11:51:07Z"
 ---
 ## What it is
 Enables interactive access to JAXA's satellite observation data (precipitation, land surface temperature, NDVI, elevation, soil moisture) via Claude, providing tools for point time series, dataset information, and area image generation.

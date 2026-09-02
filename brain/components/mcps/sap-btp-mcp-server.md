@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T20:23:28Z"
 ---
 ## What it is
 Enables conversational management of SAP BTP cloud infrastructure, security, and entitlements through natural language via AI agents.

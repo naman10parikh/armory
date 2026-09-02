@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-23T03:12:28Z"
 ---
 ## What it is
 MCP server `South Asia`, catalogued on PulseMCP. Provides tools and utilities for IGS South Asia team operations through a Python-based server with modular architecture and basic endpoint functionality.

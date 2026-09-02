@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:30:27Z"
 ---
 ## What it is
 Governed data pipeline for NBA ticketing and attendance data, exposing typed tools for AI agents to query game performance and seat-tier sales without direct database access.

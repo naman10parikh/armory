@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:28:51Z"
 ---
 ## What it is
 AI-agent-optimized CVE exploit discovery toolkit that provides 19 tools for finding proof-of-concept exploits, CTF labs, bug bounty reports, and vulnerability intelligence from a single interface.

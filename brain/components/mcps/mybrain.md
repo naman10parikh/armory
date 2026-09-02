@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T19:45:30Z"
 ---
 ## What it is
 A personal knowledge base MCP server with semantic search, storing thoughts in PostgreSQL with pgvector embeddings and providing 8 tools for capture, search, browse, stats, relations, traces, and hydration.

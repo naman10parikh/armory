@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T08:04:34Z"
 ---
 ## What it is
 MCP server `Outlook Calendar`, catalogued on PulseMCP. Integrates with Microsoft Outlook through Azure AD authentication to provide email management, calendar operations, and automatic Microsoft Teams meeting creation.

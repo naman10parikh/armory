@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-24T17:25:31Z"
 ---
 ## What it is
 Model Context Protocol server providing access to Cloudera Streams Messaging Manager (SMM) with support for both standalone and CDP deployments. Enables cluster, broker, and topic management through Claude Desktop.

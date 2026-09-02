@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-24T16:57:03Z"
 ---
 ## What it is
 MCP server `Reactive Resume`, catalogued on PulseMCP. Integrates with the Reactive Resume API for creating, editing, and managing professional resumes with schema-validated data manipulation.

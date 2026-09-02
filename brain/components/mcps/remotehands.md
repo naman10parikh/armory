@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:22:10Z"
 ---
 ## What it is
 Enables Codex to act as a user of a live Claude Code session. It provides tools to send messages, read outputs, manage sessions, and review diffs, allowing mid-task corrections without losing context.

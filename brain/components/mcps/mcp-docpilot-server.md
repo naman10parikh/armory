@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T10:21:05Z"
 ---
 ## What it is
 An MCP server that exposes document retrieval as tools (semantic search and source listing) for any LLM, using a vector index built from DocPilot's ingestion pipeline.

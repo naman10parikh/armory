@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T02:39:15Z"
 ---
 ## What it is
 An MCP server that provides deterministic finance tools for SEC filing analysis, enabling LLMs to compute financial ratios, fetch filings, and perform equity research without hallucinated numbers.

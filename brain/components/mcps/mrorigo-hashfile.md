@@ -8,10 +8,12 @@ source_url: https://github.com/mrorigo/hashfile-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T10:45:29Z"
 ---
 ## What it is
 MCP server `Hashfile`, catalogued on PulseMCP. Hash-anchored file editing with content verification and access control.

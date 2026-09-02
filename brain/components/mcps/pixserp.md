@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T14:57:14Z"
 ---
 ## What it is
 MCP server `Pixserp`, catalogued on PulseMCP. AI-powered search platform enabling semantic content indexing, discovery, and visual search for AI agents.

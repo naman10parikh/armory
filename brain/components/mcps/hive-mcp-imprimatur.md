@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:52:00Z"
 ---
 ## What it is
 Pre-attestation gate for AI inference that checks compliance conditions and issues Ed25519-signed clearances before execution, refusing any inference without a valid clearance.

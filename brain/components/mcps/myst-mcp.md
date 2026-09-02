@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T03:24:34Z"
 ---
 ## What it is
 Enables searching any MyST Markdown or Jupyter Book documentation site that publishes a search index, without crawling or embeddings.

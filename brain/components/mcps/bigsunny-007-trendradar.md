@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-24T10:26:08Z"
 ---
 ## What it is
 MCP server `TrendRadar`, catalogued on PulseMCP. Aggregates trending topics from Chinese social platforms with intelligent filtering and multi-channel notifications

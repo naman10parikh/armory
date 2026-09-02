@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:19:39Z"
 ---
 ## What it is
 Enables searching and retrieving listings from Sweden's Blocket marketplace, including cars, boats, motorcycles, and general items, without requiring an API key.

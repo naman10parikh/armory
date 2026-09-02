@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T18:21:31Z"
 ---
 ## What it is
 Enables AI assistants to navigate, search, and analyze academic materials organized in cycles, semesters, and modules via Google Drive.

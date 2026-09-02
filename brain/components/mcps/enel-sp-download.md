@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:31Z"
 ---
 ## What it is
 MCP server for consulting and downloading electricity account data from Enel São Paulo from official sources. Read-only, supports any MCP client over HTTP, uses magic-link login and pay-per-use credits.

@@ -8,10 +8,12 @@ source_url: https://github.com/xdarkzx/reaper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-31T09:46:41Z"
 ---
 ## What it is
 MCP server `REAPER`, catalogued on PulseMCP. AI control interface for REAPER DAW with 153 tools for composition, mixing, and MIDI editing.

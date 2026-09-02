@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T08:51:36Z"
 ---
 ## What it is
 Multi-endpoint Web3 intelligence service for token risk scanning, pre-trade checks, and signal snapshots, using DexScreener data with x402 payment support.

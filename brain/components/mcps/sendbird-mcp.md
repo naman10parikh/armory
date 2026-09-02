@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T01:41:49Z"
 ---
 ## What it is
 MCP server for Sendbird chat infrastructure, enabling AI agents to provision users, create channels, fetch history, send admin messages, and moderate users via 5 tools.

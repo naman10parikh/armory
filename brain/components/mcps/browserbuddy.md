@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:21:06Z"
 ---
 ## What it is
 An MCP server that turns your real Chrome or Firefox browser into a shared space with an AI assistant, enabling it to act, observe, wait for you, collaborate step-by-step, and learn tasks from demonstrations.

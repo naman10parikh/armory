@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T08:48:48Z"
 ---
 ## What it is
 A multi-agent Retrieval-Augmented Generation system exposed as an MCP server. Ask a question and a LangGraph pipeline plans the retrieval, pulls evidence from a pgvector knowledge base, optionally augments it with live web research, drafts a cited answer, and then self-critiques it for grounding — r

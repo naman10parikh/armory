@@ -8,10 +8,12 @@ source_url: https://github.com/speedyfoxai/nuntius-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T20:58:48Z"
 ---
 ## What it is
 MCP server `Nuntius`, catalogued on PulseMCP. Delegate agentic tasks to local or cloud Ollama models by proxying Claude's configured MCP tools.

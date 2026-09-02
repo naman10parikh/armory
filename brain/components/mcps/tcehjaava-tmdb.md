@@ -8,10 +8,12 @@ source_url: https://github.com/tcehjaava/tmdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-08T02:23:53Z"
 ---
 ## What it is
 MCP server `TMDB`, catalogued on PulseMCP. Integrates with The Movie Database API for movie, TV show, and entertainment industry data

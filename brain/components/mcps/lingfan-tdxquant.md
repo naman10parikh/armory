@@ -8,10 +8,12 @@ source_url: https://github.com/lingfan/tdxquant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-06-22T15:11:11Z"
 ---
 ## What it is
 MCP server `TdxQuant`, catalogued on PulseMCP. MCP wrapper for TdxQuant providing Chinese stock market data and trading via the 通达信 platform.

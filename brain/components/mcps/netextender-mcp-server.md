@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:55:01Z"
 ---
 ## What it is
 Enables checking VPN status, listing profiles, connecting, and disconnecting SonicWall NetExtender VPN via MCP.

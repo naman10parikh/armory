@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 11
+stars: 12
+forks: 0
+pushed_at: "2026-08-31T23:57:48Z"
 ---
 ## What it is
 Ultra-fast web fetcher and MCP server with HTTP/3, JS rendering, anti-fingerprinting, browser cookie auth, and 1Password integration. Fetches any URL as clean Markdown for AI context.

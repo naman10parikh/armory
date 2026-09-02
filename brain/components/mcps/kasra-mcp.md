@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:28:53Z"
 ---
 ## What it is
 Enables local code review and security scanning by reading files and sending them to the Kasra API for analysis, integrating with AI tools like Claude Desktop and Cursor via the Model Context Protocol.

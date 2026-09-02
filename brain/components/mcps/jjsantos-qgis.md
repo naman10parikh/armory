@@ -8,10 +8,12 @@ source_url: https://github.com/jjsantos01/qgis_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 956
+stars: 1075
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 168
+pushed_at: "2025-10-01T01:23:25Z"
 ---
 ## What it is
 MCP server `QGIS`, catalogued on PulseMCP. Enables AI systems to perform complex GIS operations in QGIS through a socket-based architecture that exposes geospatial capabilities like adding layers, executing processing algorithms, and rendering maps.

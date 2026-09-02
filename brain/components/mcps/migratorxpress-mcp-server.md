@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T18:05:59Z"
 ---
 ## What it is
 This MCP server enables database migration between heterogeneous systems (Oracle, PostgreSQL, SQL Server, Netezza to PostgreSQL or SQL Server) through AI assistants by providing tools for command preview, execution, validation, and workflow suggestions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T18:45:22Z"
 ---
 ## What it is
 End-to-end Prior Authorization decision-support system with a multi-agent AI pipeline, MCP Tool Registry, and PostgreSQL backend.

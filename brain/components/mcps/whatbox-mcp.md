@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:23:38Z"
 ---
 ## What it is
 A security-first MCP server for managing Whatbox slots with structured read-only inspection and approval-gated mutations, including storage, services, website deployment, and torrent control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T02:13:11Z"
 ---
 ## What it is
 Game master MCP server for a time-loop dungeon RPG, managing game state, dice rolls, and narrative for a wizard-trapped town.

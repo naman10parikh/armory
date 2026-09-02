@@ -8,10 +8,12 @@ source_url: https://github.com/f2c-ai/f2c-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 397
+stars: 411
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2025-11-27T03:13:33Z"
 ---
 ## What it is
 MCP server `Figma to Code`, catalogued on PulseMCP. Bridges Figma design files to code generation, enabling direct conversion of designs into HTML, CSS, and other assets with customizable output paths and file organization.

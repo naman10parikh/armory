@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:22:17Z"
 ---
 ## What it is
 Provides regulatory and compliance intelligence from free government sources, including rules, recalls, enforcement actions, and comment deadlines, classified by industry and severity.

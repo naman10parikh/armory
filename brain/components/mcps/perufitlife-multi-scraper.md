@@ -8,10 +8,12 @@ source_url: https://github.com/perufitlife/multi-scraper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-18T11:40:23Z"
 ---
 ## What it is
 MCP server `Multi-Scraper`, catalogued on PulseMCP. Wraps 12 production Apify scraping tools—Reddit, Amazon, Google Maps, TikTok, and more—into a single MCP endpoint.

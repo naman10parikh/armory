@@ -8,10 +8,12 @@ source_url: https://github.com/dazeb/coolify-mcp-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-23T12:04:33Z"
 ---
 ## What it is
 MCP server `Coolify`, catalogued on PulseMCP. Integrates with Coolify deployment platform to provide server management, application deployment, database operations, and infrastructure orchestration capabilities for DevOps teams managing self-hosted container environments.

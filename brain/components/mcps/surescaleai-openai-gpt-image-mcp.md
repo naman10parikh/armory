@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 109
+stars: 110
+forks: 3
+pushed_at: "2025-05-31T21:07:31Z"
 ---
 ## What it is
 OpenAI GPT image generation/editing MCP server.

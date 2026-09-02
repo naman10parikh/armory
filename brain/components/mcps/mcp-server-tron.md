@@ -8,11 +8,13 @@ source_url: https://github.com/BofAI/mcp-server-tron
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-03-30T03:19:02Z"
 ---
 ## What it is
 A comprehensive MCP server that enables AI agents to interact with the TRON blockchain, including tools for blockchain data, token transfers, smart contracts, staking, and wallet management.

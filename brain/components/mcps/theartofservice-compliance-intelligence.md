@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T00:22:44Z"
 ---
 ## What it is
 MCP server `TheArtOfService Compliance Intelligence`, catalogued on PulseMCP. Query 692+ compliance frameworks, 13,700+ controls, and 280K+ cross-framework mappings.

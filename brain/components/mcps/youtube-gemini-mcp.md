@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T05:10:00Z"
 ---
 ## What it is
 Enables conversational analysis of YouTube videos using Gemini 2.5 Pro, supporting multi-turn sessions, direct URL processing, and local video uploads.

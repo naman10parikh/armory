@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:20:30Z"
 ---
 ## What it is
 MCP server that exposes Cisco IOS-XE devices as tools for LLM clients, enabling safe configuration changes with revert timer and connectivity verification.

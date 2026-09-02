@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:47:52Z"
 ---
 ## What it is
 An MCP server that lets AI agents drive UMDGenCLI to create and edit PSP UMD images (ISO/CSO/DAX). It exposes all major UMDGenCLI functions as tools for building compilations, saving images, converting formats, patching, extracting, and inspecting.

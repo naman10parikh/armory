@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T13:39:59Z"
 ---
 ## What it is
 Gives AI coding assistants real-time screen capture capabilities with multi-monitor support, PDF text extraction, and answer logging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:34:31Z"
 ---
 ## What it is
 Wraps IMA knowledge base OpenAPI into a standard MCP server, enabling search, browse, read, and add web pages to knowledge bases from any MCP-compatible agent.

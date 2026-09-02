@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-17T00:01:01Z"
 ---
 ## What it is
 MCP server `National Weather Service`, catalogued on PulseMCP. Retrieves weather data from the National Weather Service API for US locations

@@ -8,10 +8,12 @@ source_url: https://github.com/aws-powertools/powertools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-01T03:33:07Z"
 ---
 ## What it is
 MCP server `AWS Lambda Powertools Documentation Search`, catalogued on PulseMCP. Enables AI to search and retrieve AWS Lambda Powertools documentation across multiple runtimes through a TypeScript server with efficient local search capabilities and content caching.

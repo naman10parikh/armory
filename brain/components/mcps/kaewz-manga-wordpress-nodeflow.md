@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-06T15:21:02Z"
 ---
 ## What it is
 MCP server `WordPress REST API`, catalogued on PulseMCP. Cloudflare Workers-based WordPress REST API integration with multi-tenant authentication and external image hosting for automated content management.

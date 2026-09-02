@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:18:54Z"
 ---
 ## What it is
 MCP server for Infomaniak kDrive that enables natural, path-based read/write access to files. It supports browsing, searching, reading, uploading, renaming, moving, overwriting, and trashing items, with safety features like operation tokens and expiring private links.

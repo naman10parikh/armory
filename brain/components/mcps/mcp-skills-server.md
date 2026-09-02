@@ -8,11 +8,13 @@ source_url: https://github.com/srprasanna/mcp-skill-hub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-29T01:10:01Z"
 ---
 ## What it is
 Dynamically loads and exposes skills from a directory with hot-reloading support, enabling users to manage and query skill content via MCP resources and tools.

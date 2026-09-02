@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:16Z"
 ---
 ## What it is
 MCP server for querying Brazilian Federal Council of Medicine (CFM) registration data from official sources. It provides a read-only tool to consult medical registrations via natural language.

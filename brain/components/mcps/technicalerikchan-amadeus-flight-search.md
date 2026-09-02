@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-17T02:38:24Z"
 ---
 ## What it is
 MCP server `Amadeus Flight Search`, catalogued on PulseMCP. Integrates with the Amadeus API to provide real-time flight search, airport information lookup, flight status tracking, and airline details retrieval with support for multi-class travel options, round-trip bookings, and passenger management for up to 9 travelers.

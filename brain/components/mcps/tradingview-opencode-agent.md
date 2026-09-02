@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-26T02:40:18Z"
 ---
 ## What it is
 Connects TradingView Desktop with opencode.ai to enable AI-powered chart analysis, technical indicators, Pine Script development, and replay trading.

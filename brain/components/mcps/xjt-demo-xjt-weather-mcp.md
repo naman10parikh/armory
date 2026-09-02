@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T07:02:02Z"
 ---
 ## What it is
 基于高德天气API的MCP服务器，可通过adcode查询实时天气和未来3天预报。

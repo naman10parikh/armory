@@ -12,6 +12,8 @@ stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-28T06:30:16Z"
 ---
 ## What it is
 MCP server `Compass`, catalogued on PulseMCP. Shared task state and project context across Claude Chat, Cowork, and Code.

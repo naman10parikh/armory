@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-11T20:05:44Z"
 ---
 ## What it is
 Enables AI assistants to execute SSH commands and perform token-efficient file operations on remote servers via the Model Context Protocol.

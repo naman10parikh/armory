@@ -8,10 +8,12 @@ source_url: https://github.com/matin/garth-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-02-01T22:20:37Z"
 ---
 ## What it is
 MCP server `Garth (Garmin Connect)`, catalogued on PulseMCP. Integrates with Garmin Connect to provide access to fitness and health data including sleep statistics, daily stress, and intensity minutes with customizable date ranges.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T20:03:23Z"
 ---
 ## What it is
 Analyzes Java codebases using an internal Knowledge Graph stored in SQLite, enabling symbol search, endpoint tracing, and impact analysis without requiring AI APIs.

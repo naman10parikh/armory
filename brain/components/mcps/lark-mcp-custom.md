@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:43:24Z"
 ---
 ## What it is
 Enables interaction with Feishu (Lark) via MCP for sending messages, managing calendar events, searching documents, and reading/writing bitable records.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T03:44:38Z"
 ---
 ## What it is
 MCP server `Personal Context`, catalogued on PulseMCP. Provides a Markdown-based three-layer memory system for Claude Desktop with file management and memory operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:04:47Z"
 ---
 ## What it is
 An MCP server that gives AI assistants a local YouTube memory: transcribe videos, store and search transcripts, follow subscriptions, and generate summaries, timestamped highlights, and digests, all on your machine with no cloud or API keys.

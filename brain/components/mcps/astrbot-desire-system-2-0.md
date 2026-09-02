@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:46:10Z"
 ---
 ## What it is
 An AI desire-driven system that maintains nine core drive dimensions, generates thoughts and behavior suggestions, and provides tools to inspect and trigger events via MCP.

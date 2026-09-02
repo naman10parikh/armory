@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:06:18Z"
 ---
 ## What it is
 A remote MCP server secured with Auth0 OAuth 2.1, deployed on Cloudflare Workers, enabling AI clients to call tools on a JWT-protected todo API.

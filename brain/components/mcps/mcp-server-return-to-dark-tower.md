@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:08:56Z"
 ---
 ## What it is
 Lets AI assistants control the physical Return to Dark Tower board game tower via Bluetooth, enabling connection, calibration, sound, lights, drum rotation, seal breaking, and game sequences through natural language.

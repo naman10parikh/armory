@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:18:00Z"
 ---
 ## What it is
 Structured agent memory system with hash-chain provenance, temporal decay, drift detection, provenance archaeology, vector embeddings, and git integration for OpenCode agents.

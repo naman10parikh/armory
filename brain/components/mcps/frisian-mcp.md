@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-30T21:35:59Z"
 ---
 ## What it is
 An MCP gateway that automatically turns Django REST Framework ViewSets into callable MCP tools with zero boilerplate, featuring a token-efficient dispatcher pattern to minimize context usage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T17:08:18Z"
 ---
 ## What it is
 MCP server providing complete US ETF holdings from SEC EDGAR N-PORT filings and identifier crosswalk tools (ticker, CUSIP, FIGI) for AI agents.

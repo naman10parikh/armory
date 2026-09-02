@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T09:30:52Z"
 ---
 ## What it is
 Recognizes HWP/HWPX form structures and fills in AI-generated values while preserving original formatting, enabling natural language interaction with Korean word processor documents.

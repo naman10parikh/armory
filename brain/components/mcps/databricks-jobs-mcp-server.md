@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T04:35:10Z"
 ---
 ## What it is
 Enables management and monitoring of Databricks jobs, including listing, running, and canceling jobs, through the Model Context Protocol.

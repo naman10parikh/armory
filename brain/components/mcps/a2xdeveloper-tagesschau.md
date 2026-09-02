@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-24T15:20:39Z"
 ---
 ## What it is
 MCP server `Tagesschau`, catalogued on PulseMCP. Provides a bridge to Tagesschau's news API for retrieving and analyzing German news articles across categories like domestic, foreign, economic and sports coverage

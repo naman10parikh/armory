@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-26T16:42:22Z"
 ---
 ## What it is
 Raze is an MCP server that integrates with AI assistants to analyze, validate, and prove smart contract security issues using deterministic Foundry execution.

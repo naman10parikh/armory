@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T04:29:09Z"
 ---
 ## What it is
 An MCP server that facilitates interactive software development planning by breaking down projects into manageable tasks, tracking progress, and saving implementation plans.

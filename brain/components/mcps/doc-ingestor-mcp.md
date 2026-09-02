@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-03T22:40:37Z"
 ---
 ## What it is
 An MCP server that uses Docling to convert PDFs, Office documents, images, audio, and more into clean Markdown for AI processing and RAG pipelines.

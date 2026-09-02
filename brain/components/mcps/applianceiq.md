@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T05:09:19Z"
 ---
 ## What it is
 MCP server `ApplianceIQ`, catalogued on PulseMCP. Home appliance assistant with CPSC recall lookup, lifespan data, maintenance schedules, repair-or-replace analysis, and energy cost estimates.

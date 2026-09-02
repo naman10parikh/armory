@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-25T22:56:09Z"
 ---
 ## What it is
 MCP server `Node-RED`, catalogued on PulseMCP. Node-RED flow management with safe deploy, optimistic locking, and smart search across 13 tools.

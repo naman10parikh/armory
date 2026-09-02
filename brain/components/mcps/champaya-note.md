@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-16T04:52:19Z"
 ---
 ## What it is
 MCP server `Note.com`, catalogued on PulseMCP. Bridges AI systems with note.com's API for searching articles by keyword, retrieving detailed information, and listing user-specific content without context switching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T10:54:00Z"
 ---
 ## What it is
 Enables step-level routing of AI workflows by decomposing tasks, selecting the best model per step within constraints, executing steps, and providing full execution traces.

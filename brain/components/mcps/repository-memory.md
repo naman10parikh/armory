@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:41:37Z"
 ---
 ## What it is
 MCP server that provides a citation-first memory layer for AI agents, enabling verified search across Git-backed repositories and optional conversation memory. It exposes tools for doctor, sync, search, get, init, and ingest, returning JSON results with verified citations or abstain status.

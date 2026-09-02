@@ -8,10 +8,12 @@ source_url: https://github.com/run-llama/mcp-server-llamacloud
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 86
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-08-03T18:57:06Z"
 ---
 ## What it is
 MCP server `LlamaCloud`, catalogued on PulseMCP. Query managed vector indexes for knowledge retrieval.

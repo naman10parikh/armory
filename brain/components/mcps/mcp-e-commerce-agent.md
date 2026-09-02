@@ -8,11 +8,13 @@ source_url: https://github.com/yassineteimi/mcp-ecommerce-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:49:52Z"
 ---
 ## What it is
 A proof of concept MCP server that gives AI agents business context for e-commerce operations including orders, inventory, logistics, returns, claims, and payments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:55:27Z"
 ---
 ## What it is
 An MCP server for reading, writing, and analyzing screenplays in Fountain format. It parses screenplays into structured data, edits scenes, generates character reports and production breakdowns, and writes proper Fountain syntax.

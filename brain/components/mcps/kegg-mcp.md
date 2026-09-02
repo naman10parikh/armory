@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:56:16Z"
 ---
 ## What it is
 An MCP server that exposes the KEGG REST API — pathways, genes, compounds, reactions, enzymes, diseases, drugs, modules, orthology, glycans, and BRITE hierarchies, with cross-database linking. Provides 34 tools and 8 resource templates.

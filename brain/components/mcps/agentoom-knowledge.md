@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T05:24:50Z"
 ---
 ## What it is
 A self-hosted, MIT-licensed MCP server that securely connects private documents and markdown files to LLMs. It provides a lightweight, local-first RAG infrastructure compatible with any MCP-enabled AI client or framework.

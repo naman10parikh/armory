@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T12:14:09Z"
 ---
 ## What it is
 Enables AI models to interact with the Lattice HQ performance management platform for managing users, goals, review cycles, feedback, departments, and updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T02:43:44Z"
 ---
 ## What it is
 A single MCP server that lets agents query data through the Greybeam routing layer with Snowflake-compatible tooling.

@@ -8,10 +8,12 @@ source_url: https://github.com/drqedwards/ppm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-09-02T03:13:44Z"
 ---
 ## What it is
 MCP server `PMLL Memory`, catalogued on PulseMCP. Persistent key-value context memory with Q-promise deduplication for AI agent tasks.

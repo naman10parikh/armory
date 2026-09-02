@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T04:12:35Z"
 ---
 ## What it is
 Provides live football data through MCP tools, enabling users to fetch today's matches and top scorers for competitions like the Premier League or World Cup.

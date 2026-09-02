@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:18:04Z"
 ---
 ## What it is
 Bid/no-bid intelligence for EU public tenders, built on 592,000 real TED contract awards: competition density, price corridor, SME fit and beachhead ranking. Free guest access; an API key unlocks the live board.

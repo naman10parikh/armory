@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-13T17:40:00Z"
 ---
 ## What it is
 This MCP server enables AI assistants like Claude to perform Wave Accounting bookkeeping tasks—such as drafting invoices, managing customers, recording payments, and looking up financial data—through natural language commands.

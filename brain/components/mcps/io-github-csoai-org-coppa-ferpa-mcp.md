@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:29:50Z"
 ---
 ## What it is
 MCP server for children's privacy compliance, enabling checks under COPPA, FERPA, UK Age Appropriate Design Code, and EU AI Act provisions for minors.

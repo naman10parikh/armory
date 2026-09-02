@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:16:24Z"
 ---
 ## What it is
 A fully-local AI memory system that saves notes, code, and terminal output to a vector database via Ollama and LanceDB, enabling context retrieval from terminal, API calls, or inside Claude Code.

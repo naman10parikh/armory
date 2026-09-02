@@ -8,10 +8,12 @@ source_url: https://github.com/paperinvest/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-19T01:19:55Z"
 ---
 ## What it is
 MCP server `Paper Invest`, catalogued on PulseMCP. Provides realistic paper trading capabilities through Paper Invest's API, enabling trade execution, portfolio management, and market analysis with authentic simulation including NBBO matching, slippage, partial fills, and broker-specific rules across 22 different platforms.

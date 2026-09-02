@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-18T02:55:38Z"
 ---
 ## What it is
 Proxies MCP requests from Cursor IDE to a custom HTTP server, enabling custom tool integrations.

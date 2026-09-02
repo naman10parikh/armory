@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T15:57:53Z"
 ---
 ## What it is
 Enables MCP-compatible clients to read and write a gamified self-improvement RPG character sheet, including quest management, profile viewing, skills, social challenges, and leaderboards.

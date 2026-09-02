@@ -11,8 +11,10 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 8360
+stars: 8412
 mentions: 1
+forks: 620
+pushed_at: "2026-08-20T05:09:53Z"
 ---
 ## What it is
 Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.

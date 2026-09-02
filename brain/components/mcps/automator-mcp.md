@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-29T03:55:20Z"
 ---
 ## What it is
 MCP server that enables AI to control macOS through AppleScript, JXA, and Automator workflows for tasks like email, file management, and system automation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-14T22:15:08Z"
 ---
 ## What it is
 MCP server `Scorecard`, catalogued on PulseMCP. Evaluate and optimize LLM systems with comprehensive testing and metrics

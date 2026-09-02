@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:20:22Z"
 ---
 ## What it is
 A Magic 8 Ball MCP server that wraps StupidAPIs to answer yes-or-no questions with mystical responses, supporting cynical and corporate modes.

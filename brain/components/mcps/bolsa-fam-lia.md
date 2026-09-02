@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:24:20Z"
 ---
 ## What it is
 Checks whether a beneficiary received Bolsa Família benefits using their NIS and reference month/year. Provides read-only, credential-free access to benefit status for use with any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:40:53Z"
 ---
 ## What it is
 Integrates Korean startup laws (19 curated laws) and K-Startup support programs, enabling legal article search, citation verification, reference tracking, and program lookup with real-time status.

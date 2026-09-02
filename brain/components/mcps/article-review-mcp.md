@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:39:33Z"
 ---
 ## What it is
 A visual MCP server for reviewing explicit article patches with categorized comments, enabling deterministic patch validation, interactive accept/reject/edit decisions, and final article assembly.

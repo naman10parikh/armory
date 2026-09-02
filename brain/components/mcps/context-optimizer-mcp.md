@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T15:47:11Z"
 ---
 ## What it is
 An MCP server suite that optimizes prompt context by reducing tokens up to 98.8%, acting as persistent long-term memory and codebase scanner to save API costs.

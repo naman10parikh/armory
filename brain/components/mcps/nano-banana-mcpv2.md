@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T00:52:06Z"
 ---
 ## What it is
 Enables AI image generation and editing using Google's Gemini Multimodal Image APIs.

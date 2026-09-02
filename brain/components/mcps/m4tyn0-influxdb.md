@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-14T09:12:06Z"
 ---
 ## What it is
 MCP server `InfluxDB`, catalogued on PulseMCP. Provides secure, read-only access to InfluxDB 1.8 time-series databases with JWT authentication, enabling database listing, measurement exploration, and query execution while enforcing security restrictions.

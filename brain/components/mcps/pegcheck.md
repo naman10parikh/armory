@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:35:01Z"
 ---
 ## What it is
 Enables AI agents to verify Robinhood Stock Token prices against real market prices before trading, providing a fair-price verdict based on onchain and reference data.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-19T13:02:58Z"
 ---
 ## What it is
 MCP server `Shared Knowledge RAG`, catalogued on PulseMCP. Enables AI systems to access and retrieve information from multiple vector store backends including HNSWLib and Weaviate, providing a unified interface for knowledge retrieval to support RAG workflows without complex integration work.

@@ -8,11 +8,13 @@ source_url: https://github.com/felimet/mathtype-for-word
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-21T20:53:20Z"
 ---
 ## What it is
 Enables creating editable MathType 7 equations in Microsoft Word and PowerPoint with native numbering and cross-references.

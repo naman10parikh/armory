@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:55:15Z"
 ---
 ## What it is
 Enables AI assistants to search and read Thailand's official open-government data from data.go.th, providing tools to search datasets, retrieve full records, and browse categories without API keys.

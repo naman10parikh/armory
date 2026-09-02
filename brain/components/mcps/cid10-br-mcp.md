@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-27T17:27:31Z"
 ---
 ## What it is
 MCP server for Brazilian ICD-10 (CID-10) that enables search, lookup, hierarchy navigation, statistics, and validation of disease codes from official DATASUS data.

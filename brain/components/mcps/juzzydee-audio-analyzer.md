@@ -8,10 +8,12 @@ source_url: https://github.com/juzzydee/audio-analyzer-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-03-15T10:29:47Z"
 ---
 ## What it is
 MCP server `Audio Analyzer`, catalogued on PulseMCP. Spectral, harmonic, rhythm, stereo, and structural audio analysis for local audio files.

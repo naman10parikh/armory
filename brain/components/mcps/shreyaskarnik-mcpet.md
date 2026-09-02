@@ -8,10 +8,12 @@ source_url: https://github.com/shreyaskarnik/mcpet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-07T16:18:59Z"
 ---
 ## What it is
 MCP server `MCPet`, catalogued on PulseMCP. Virtual pet simulator that lets users adopt, nurture, and play with digital pets that evolve through life stages and maintain persistent stats between sessions.

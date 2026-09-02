@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:33:33Z"
 ---
 ## What it is
 An MCP proxy that minifies tool schemas to reduce context tokens, supporting minify and defer modes for efficient tool access.

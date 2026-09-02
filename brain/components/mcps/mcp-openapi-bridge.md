@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T15:44:24Z"
 ---
 ## What it is
 Bridges any OpenAPI 3.x REST API to Claude Code by automatically generating one tool per endpoint from your spec, with full argument validation and auth support.

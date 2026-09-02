@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:42:12Z"
 ---
 ## What it is
 Provides audio inspection, conversion, processing, and generation capabilities via SoX, enabling AI agents to 'hear' and manipulate audio files through structured JSON interfaces.

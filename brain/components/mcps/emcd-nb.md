@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T07:01:08Z"
 ---
 ## What it is
 MCP server `nb`, catalogued on PulseMCP. Wraps the nb CLI for LLM-friendly note-taking, bookmarking, search, and task management.

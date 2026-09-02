@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T06:17:53Z"
 ---
 ## What it is
 MCP server for self-hosted Supabase with RLS-aware PostgreSQL and PostgREST layers, enabling safe database introspection, SQL queries, and PostgREST access via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:51:27Z"
 ---
 ## What it is
 Enables AI assistants to read and write a shared D&D campaign world, with tools for searching, retrieving, creating, updating, and linking pages, accessible via HTTP or stdio.

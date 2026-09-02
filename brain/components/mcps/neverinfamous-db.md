@@ -8,10 +8,12 @@ source_url: https://github.com/neverinfamous/db-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T06:41:27Z"
 ---
 ## What it is
 MCP server `Database Access (Multi-Database)`, catalogued on PulseMCP. Provides secure database access across SQLite, PostgreSQL, MySQL, MongoDB, Redis, and SQL Server with OAuth 2.0 authentication and granular scope-based permissions for enterprise environments requiring authenticated multi-database operations.

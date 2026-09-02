@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T09:17:45Z"
 ---
 ## What it is
 MCP server that integrates affiliate networks with Claude and Codex, enabling natural language queries across publisher and advertiser-side data from multiple networks.

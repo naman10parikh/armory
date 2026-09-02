@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T17:49:39Z"
 ---
 ## What it is
 Render HTML/CSS/JS/SVG animations into high-quality MP4 videos. Exposes render tools to AI agents using Playwright (Chromium) and FFmpeg, running locally or remote.

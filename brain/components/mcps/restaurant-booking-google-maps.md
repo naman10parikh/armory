@@ -8,10 +8,12 @@ source_url: https://github.com/samwang0723/mcp-booking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-10-27T04:50:19Z"
 ---
 ## What it is
 MCP server `Restaurant Booking (Google Maps)`, catalogued on PulseMCP. Integrates Google Maps Places API with intelligent recommendation algorithms to provide restaurant discovery, booking assistance, and contextually relevant suggestions based on mood, event type, and user preferences.

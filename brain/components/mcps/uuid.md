@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-30T06:12:06Z"
 ---
 ## What it is
 MCP server `UUID Generator`, catalogued on PulseMCP. Generates random UUID v4 strings on demand through a lightweight FastMCP server implementation.

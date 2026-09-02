@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T17:13:00Z"
 ---
 ## What it is
 MCP server `Markymark`, catalogued on PulseMCP. High-performance Markdown language server and MCP server for AI agent workflows, providing workspace-aware document analysis, broken link diagnostics, backlink tracking, and support for Obsidian and Logseq flavors.

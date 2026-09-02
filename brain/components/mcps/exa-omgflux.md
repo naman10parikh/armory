@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-19T00:27:27Z"
 ---
 ## What it is
 MCP server `OhMyGPT Flux`, catalogued on PulseMCP. Provides a bridge to OhMyGPT Flux image generation API, enabling high-quality image creation from text prompts with customizable parameters and cached results directly within conversations.

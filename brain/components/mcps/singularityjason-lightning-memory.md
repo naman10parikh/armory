@@ -8,10 +8,12 @@ source_url: https://github.com/singularityjason/lightning-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-25T02:36:23Z"
 ---
 ## What it is
 MCP server `Lightning Memory`, catalogued on PulseMCP. Decentralized agent memory for the Lightning economy with Nostr identity and L402 payments.

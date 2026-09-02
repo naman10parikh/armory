@@ -8,11 +8,13 @@ source_url: https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-28T04:36:43Z"
 ---
 ## What it is
 Open-source technical SEO crawler MCP server built on LibreCrawl. Runs full audits inside Claude, Cursor, or Codex — 50+ checks (hreflang, schema.org, security headers, WAF detection on 200-OK pages), chunked-progressive engine for large sites, ephemeral by design (server forgets every audit after d

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-18T12:03:53Z"
 ---
 ## What it is
 MCP server `Ideogram Images`, catalogued on PulseMCP. Integrates with the Ideogram API to enable image generation and manipulation based on textual descriptions or parameters

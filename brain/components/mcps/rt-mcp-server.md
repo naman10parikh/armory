@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-26T11:55:09Z"
 ---
 ## What it is
 Read-only MCP server for Request Tracker (RT) via REST2 API, enabling ticket search, retrieval, correspondence viewing, attachment download, and hierarchy exploration.

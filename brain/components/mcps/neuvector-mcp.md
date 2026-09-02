@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T04:09:49Z"
 ---
 ## What it is
 MCP server for SUSE NeuVector container security, exposing inventory, vulnerability, compliance, event, and policy data as 72 typed tools. Read-only by default, with optional mutating toolsets behind a confirmation handshake.

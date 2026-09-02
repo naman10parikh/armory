@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-09T22:12:11Z"
 ---
 ## What it is
 Provides filesystem access to Claude via the MCP protocol, enabling local file operations through natural language.

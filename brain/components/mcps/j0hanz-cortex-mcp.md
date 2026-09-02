@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T12:12:30Z"
 ---
 ## What it is
 MCP server `Cortex`, catalogued on PulseMCP. Multi-level reasoning with configurable depth.

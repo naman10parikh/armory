@@ -8,10 +8,12 @@ source_url: https://github.com/izyuusya/japan-data-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T13:58:13Z"
 ---
 ## What it is
 MCP server `Japan Public Data`, catalogued on PulseMCP. Access Japanese public data including e-Stat statistics, corporate numbers, and real estate information.

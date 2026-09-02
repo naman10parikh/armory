@@ -8,10 +8,12 @@ source_url: https://github.com/spectoda/easyeda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-20T21:37:14Z"
 ---
 ## What it is
 MCP server `EasyEDA Pro`, catalogued on PulseMCP. AI agent integration for EasyEDA Pro PCB design, enabling inspection, design rule checks, component searches, and JLCPCB manufacturing exports via a WebSocket bridge.

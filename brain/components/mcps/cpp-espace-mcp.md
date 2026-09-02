@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T04:58:40Z"
 ---
 ## What it is
 MCP server for accessing the eSpace facilities management API, enabling work orders, events, equipment, and maintenance schedule operations from within Claude conversations.

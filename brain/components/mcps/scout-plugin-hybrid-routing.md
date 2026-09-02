@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:36:30Z"
 ---
 ## What it is
 Routes tasks to the appropriate model across cloud, on-device, and org-hosted endpoints based on sensitivity, role, and difficulty, with provable egress control to keep sensitive content within trust boundaries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:04Z"
 ---
 ## What it is
 Read-only MCP server to consult tax clearance certificates (Certidão Negativa de Débitos) from Prefeitura SP Campinas via official source, working with any MCP client over HTTP.

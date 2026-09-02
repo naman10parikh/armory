@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T03:25:23Z"
 ---
 ## What it is
 Provides forward/reverse geocoding, bounding box extraction, nearby places discovery, batch geocoding, route waypoints, and administrative boundary lookup using OpenStreetMap data.

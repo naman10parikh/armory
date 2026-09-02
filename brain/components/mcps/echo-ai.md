@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T20:35:24Z"
 ---
 ## What it is
 Connect your Echo AI assistants to MCP-compatible clients, enabling listing Echos, reading configuration and analytics, reviewing conversations, sending messages, and fetching embed snippets or headless integration guides.

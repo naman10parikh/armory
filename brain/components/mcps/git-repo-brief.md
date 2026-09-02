@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T16:52:11Z"
 ---
 ## What it is
 MCP server that provides structured briefs for public GitHub repositories, including metadata, key files, release notes, and activity snapshots.

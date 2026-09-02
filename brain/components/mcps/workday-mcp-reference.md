@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T18:41:53Z"
 ---
 ## What it is
 A vendor-neutral reference implementation of a Workday MCP server that enables integration with Workday for employee data, compensation, benefits, time off, org info, inbox tasks, admin operations, and headcount management through natural language.

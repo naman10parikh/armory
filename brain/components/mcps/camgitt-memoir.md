@@ -8,10 +8,12 @@ source_url: https://github.com/camgitt/memoir
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-19T05:44:52Z"
 ---
 ## What it is
 MCP server `Memoir`, catalogued on PulseMCP. Persistent memory layer for AI coding tools that syncs context across sessions, tools, and machines.

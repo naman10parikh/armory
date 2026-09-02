@@ -8,10 +8,12 @@ source_url: https://github.com/fr0ster/mcp-calm-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-20T21:30:39Z"
 ---
 ## What it is
 MCP server `SAP Cloud ALM`, catalogued on PulseMCP. Provides AI agents access to SAP Cloud ALM through 54 tools spanning features, tasks, test cases, documents, projects, hierarchy, analytics, logs, and process monitoring.

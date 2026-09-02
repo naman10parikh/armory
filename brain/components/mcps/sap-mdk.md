@@ -8,10 +8,12 @@ source_url: https://github.com/sap/mdk-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-09-02T00:31:27Z"
 ---
 ## What it is
 MCP server `SAP MDK`, catalogued on PulseMCP. MCP server for AI-assisted development of SAP Mobile Development Kit cross-platform mobile applications.

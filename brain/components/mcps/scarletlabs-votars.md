@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-02T03:01:35Z"
 ---
 ## What it is
 MCP server `Votars`, catalogued on PulseMCP. Integrates with Votars platform to provide access to meeting transcripts, enabling retrieval and analysis of voice recordings through transcript fetching tools.

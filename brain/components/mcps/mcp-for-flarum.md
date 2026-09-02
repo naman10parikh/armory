@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T00:25:15Z"
 ---
 ## What it is
 Provides MCP-compatible AI clients with full access to a Flarum forum's API, enabling reading, searching, creating discussions, replying, moderation, and management of users, tags, and groups.

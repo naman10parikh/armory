@@ -12,6 +12,8 @@ stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-01-23T03:09:39Z"
 ---
 ## What it is
 MCP server `Thoughtful Claude (DeepSeek R1)`, catalogued on PulseMCP. Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, analysis, and decision-making capabilities.

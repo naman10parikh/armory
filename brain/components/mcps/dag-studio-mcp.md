@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:08:13Z"
 ---
 ## What it is
 MCP server for the DAG Studio causal-inference engine, enabling AI agents to construct, analyze, and validate causal directed acyclic graphs (DAGs) through tools for analysis, data simulation, and code generation.

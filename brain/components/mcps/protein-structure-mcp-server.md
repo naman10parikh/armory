@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-04T08:12:55Z"
 ---
 ## What it is
 Searches UniProt by protein name to find accession numbers and retrieves detailed protein structure information from AlphaFold, including direct links to 3D structural predictions.

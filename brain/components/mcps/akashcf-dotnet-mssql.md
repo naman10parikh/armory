@@ -8,10 +8,12 @@ source_url: https://github.com/akashcf/dotnet-mssql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-29T07:46:24Z"
 ---
 ## What it is
 MCP server `SQL Server`, catalogued on PulseMCP. Integrates with SQL Server databases to execute queries, manage schemas, run stored procedures, and perform data operations across single-database and server-wide contexts with support for both on-premises and Azure SQL Database environments.

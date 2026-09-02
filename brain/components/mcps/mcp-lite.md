@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T19:42:07Z"
 ---
 ## What it is
 Ultra-lightweight MCP server for Bun with full protocol compliance. Enables building MCP servers with tools, resources, and prompts using minimal dependencies and heap footprint.

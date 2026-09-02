@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T18:00:01Z"
 ---
 ## What it is
 Enables interaction with the Productboard REST API, providing tools to manage features, notes, companies, objectives, initiatives, key results, releases, webhooks, users, products, and components.

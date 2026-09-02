@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-07T13:31:42Z"
 ---
 ## What it is
 MCP server `Pulumi Resource Example Generator`, catalogued on PulseMCP. Generates complete constructor examples with placeholder values for any Pulumi resource across TypeScript, Python, Go, C#, and Java by leveraging Pulumi's schema system to automatically populate all properties with appropriate default values.

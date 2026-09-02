@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:58:20Z"
 ---
 ## What it is
 Runs commands inside a secure Arch Linux sandbox with package management and environment commit/rollback, enabling isolated shell execution for MCP clients.

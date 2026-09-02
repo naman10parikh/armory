@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T01:04:33Z"
 ---
 ## What it is
 Model Context Protocol server that orchestrates SignWell's e-signature workflows — create, send, track, and manage documents and templates.

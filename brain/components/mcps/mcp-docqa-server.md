@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:58:47Z"
 ---
 ## What it is
 An MCP server that provides semantic search over a document corpus, enabling AI clients to retrieve and cite relevant chunks from indexed documents via RAG pipelines.

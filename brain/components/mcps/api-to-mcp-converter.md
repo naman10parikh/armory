@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:29Z"
 ---
 ## What it is
 Converts any REST API into MCP-compatible tools instantly by providing an OpenAPI/Swagger spec, enabling seamless integration with AI agents.

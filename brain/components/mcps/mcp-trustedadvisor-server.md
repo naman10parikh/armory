@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T04:26:34Z"
 ---
 ## What it is
 Provides comprehensive access to AWS Trusted Advisor checks and recommendations through both legacy and modern APIs, with support for AWS Organizations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:22:29Z"
 ---
 ## What it is
 PolicyMesh is a governed agentic data API that enforces SQL validation, role-based access control, PII masking, and audit logging at the MCP tool boundary, letting users query governed data through natural language with three MCP tools: query_sql, search_docs (pgvector semantic search), and lookup_m

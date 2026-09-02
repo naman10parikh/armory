@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T19:16:18Z"
 ---
 ## What it is
 Provides efficient knowledge-graph queries and unrestricted shell delegation for AI agents, reducing token usage by 80-150x and bypassing app tier restrictions.

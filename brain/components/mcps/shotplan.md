@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T02:04:43Z"
 ---
 ## What it is
 An MCP server for turning landscape video into vertical reels with content-aware reframing, using saliency and text detection to keep important regions visible.

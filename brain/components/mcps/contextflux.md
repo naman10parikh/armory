@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:55:32Z"
 ---
 ## What it is
 Task-adaptive repository context for coding agents, enabling budgeted evidence retrieval without API keys or network calls.

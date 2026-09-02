@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-08T01:51:54Z"
 ---
 ## What it is
 Connects Claude to a running Autodesk Civil 3D instance via COM automation to perform drawing, surface, alignment, COGO point, line, and corridor operations.

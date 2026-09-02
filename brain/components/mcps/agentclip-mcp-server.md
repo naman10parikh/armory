@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T16:03:59Z"
 ---
 ## What it is
 Enables AI agents to store, search (keyword and semantic), retrieve, update, and delete personal browser clips from a Cloudflare-backed store, authenticated via per-user token.

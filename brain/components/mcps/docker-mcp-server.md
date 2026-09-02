@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:37:41Z"
 ---
 ## What it is
 Universal Docker MCP server for AI assistants (Cursor, Claude Desktop). Manage Docker containers, execute commands, query databases, and handle environment configurations — all through natural language.

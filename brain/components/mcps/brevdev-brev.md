@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-15T23:23:29Z"
 ---
 ## What it is
 MCP server `Nvidia Brev`, catalogued on PulseMCP. Bridges Nvidia Brev, enabling natural language control of workspaces, deployments, and cloud resources.

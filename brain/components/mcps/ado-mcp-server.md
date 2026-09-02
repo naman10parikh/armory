@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:28:39Z"
 ---
 ## What it is
 Enables Claude Code to interact with Azure DevOps Server on-premises (work items, pull requests, repositories) through secure, controlled, safe-by-default access with read-only mode and explicit write confirmations.

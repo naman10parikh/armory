@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T06:23:04Z"
 ---
 ## What it is
 A Model Context Protocol server for YApi that enables developers to search, view, create, and update API definitions directly from MCP-compatible IDEs.

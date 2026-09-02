@@ -8,10 +8,12 @@ source_url: https://github.com/joewilsonai/mcp-perplexity-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-10T22:51:16Z"
 ---
 ## What it is
 MCP server `Coding With Perplexity AI`, catalogued on PulseMCP. Integrates Perplexity AI to provide intelligent coding assistance for tasks like code analysis, generation, and problem-solving across various programming languages.

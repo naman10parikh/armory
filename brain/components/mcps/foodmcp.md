@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T21:44:25Z"
 ---
 ## What it is
 MCP server for cooking and recipe management powered by Spoonacular API. Enables natural-language recipe search, ingredient-based discovery, nutrition breakdowns, and ingredient substitutions.

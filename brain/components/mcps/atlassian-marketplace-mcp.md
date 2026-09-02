@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:23:25Z"
 ---
 ## What it is
 Exposes Atlassian Marketplace vendor APIs as 95 MCP tools, 3 resources, and 4 prompts, enabling LLMs to manage licenses, promotions, reviews, and reporting metrics without writing API calls.

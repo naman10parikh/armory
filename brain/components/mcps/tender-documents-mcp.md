@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:17:23Z"
 ---
 ## What it is
 Safely downloads and extracts public tender documents from PDFs, Office files, and ZIP archives into text with structured signals, while also supporting document comparison and base64 extraction.

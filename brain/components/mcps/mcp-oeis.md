@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-21T19:27:21Z"
 ---
 ## What it is
 MCP server for querying the OEIS (Online Encyclopedia of Integer Sequences) API, enabling sequence lookup by ID, term search, and name search.

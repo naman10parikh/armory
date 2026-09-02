@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T18:28:48Z"
 ---
 ## What it is
 An MCP server that helps AI agents plan and track software projects using the Conducted Development methodology, providing artifact validation, kickoff guidance, and project rituals.

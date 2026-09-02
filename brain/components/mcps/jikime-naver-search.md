@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-06T07:35:52Z"
 ---
 ## What it is
 MCP server `Naver Search`, catalogued on PulseMCP. Provides access to Naver's search APIs across multiple categories including blogs, news, books, images, and shopping items with structured responses optimized for Korean-language search capabilities.

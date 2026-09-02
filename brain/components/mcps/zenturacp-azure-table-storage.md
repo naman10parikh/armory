@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-23T13:10:44Z"
 ---
 ## What it is
 MCP server `Azure Table Storage`, catalogued on PulseMCP. Enable efficient storage, retrieval, and querying of structured data in the cloud for large-scale applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:36:15Z"
 ---
 ## What it is
 An MCP server that lets multiple AI coding agents share state, preserve context across sessions, and coordinate via a knowledge graph, messaging, and branch-preserving checkpoint/resume with conflict handling.

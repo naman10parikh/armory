@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:12:51Z"
 ---
 ## What it is
 Enables reading, searching, creating, and safely modifying Brewfather recipes via the Brewfather API, with local credential storage and confirmation-based writes.

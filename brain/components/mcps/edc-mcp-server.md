@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T08:25:45Z"
 ---
 ## What it is
 Enables AI assistants to interact with Eclipse Dataspace Components (EDC) connectors for dataspace operations including asset, policy, contract, catalog, negotiation, and data transfer management.

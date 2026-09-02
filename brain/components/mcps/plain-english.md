@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:56:53Z"
 ---
 ## What it is
 Enables users to paste contracts, leases, terms of service, and other documents to receive a plain-English summary of key risks, deadlines, rights, and negotiation points.

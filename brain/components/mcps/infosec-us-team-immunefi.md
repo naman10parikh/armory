@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-03T19:01:21Z"
 ---
 ## What it is
 MCP server `Immunefi`, catalogued on PulseMCP. Integrates with Immunefi bug bounty platform through cached API to search programs, retrieve assets, bounty amounts, rewards structures, and filter by language, ecosystem, or bounty ranges.

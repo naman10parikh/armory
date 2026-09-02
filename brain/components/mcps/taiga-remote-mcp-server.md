@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T08:51:37Z"
 ---
 ## What it is
 A remote MCP server for Taiga project management that enables multiple users to connect simultaneously with their own Taiga accounts via OAuth 2.1, providing access to Taiga resources through the Model Context Protocol.

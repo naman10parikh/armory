@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:50:25Z"
 ---
 ## What it is
 Evaluates Qimen Dunjia divination for a given date and time, returning structured text and a 9-palace PNG chart.

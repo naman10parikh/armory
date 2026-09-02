@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T14:12:05Z"
 ---
 ## What it is
 MCP server integrating OBSS Timepiece Time in Status for Jira, enabling queries about issue durations, status histories, and aggregated metrics via natural language.

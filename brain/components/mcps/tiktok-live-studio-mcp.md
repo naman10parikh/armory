@@ -8,11 +8,13 @@ source_url: https://github.com/dannguyen9x/tiktok-live-studio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 77
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T11:38:26Z"
 ---
 ## What it is
 A local MCP server for Windows that lets stdio MCP clients control TikTok LIVE Studio via its Socket.IO protocol, providing tools for scenes, sources, audio, recording, and LIVE actions.

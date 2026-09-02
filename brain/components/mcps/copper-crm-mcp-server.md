@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T13:29:17Z"
 ---
 ## What it is
 Enables AI agents to read and manage Copper CRM data, including searching people, companies, and opportunities, listing pipelines, and logging activities or creating tasks.

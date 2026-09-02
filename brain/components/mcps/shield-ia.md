@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:48:05Z"
 ---
 ## What it is
 Automated security audit assistant for GitHub repositories that detects static vulnerabilities (leaked credentials, vulnerable dependencies, bad Docker practices, excessive GitHub Actions permissions), calculates a security score, and provides risk explanations and mitigation recommendations via Coh

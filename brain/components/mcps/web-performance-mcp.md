@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:50:49Z"
 ---
 ## What it is
 Enables web performance analysis using Google PageSpeed Insights and Chrome UX Report APIs, providing compact metrics and diagnostics without local browser automation.

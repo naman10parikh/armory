@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:05:47Z"
 ---
 ## What it is
 Membrane is an MCP server that combines DORA metrics, deploy checks, and gamification rewards into a post-deploy verification layer for AI agents.

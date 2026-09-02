@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:49:13Z"
 ---
 ## What it is
 Live perpetual funding rates across Binance, Bybit, OKX with open interest and predicted next rate, pay-per-call via x402 micropayments (USDC on Base).

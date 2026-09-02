@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T22:19:25Z"
 ---
 ## What it is
 A CLI tool to scaffold and manage new MCP-compatible server projects with uv, including virtual environment setup, dependency management, and VS Code integration.

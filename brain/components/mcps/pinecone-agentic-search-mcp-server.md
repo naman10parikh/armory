@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:25:39Z"
 ---
 ## What it is
 Enables AI agents to search a Pinecone knowledge base of 4,128 ArXiv research papers using natural language queries.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T19:20:31Z"
 ---
 ## What it is
 MCP server `Feedback Synthesis`, catalogued on PulseMCP. Customer feedback intelligence from GitHub Issues, Hacker News, and App Store reviews — synthesized into ranked pain clusters and sentiment trends via x402 micropayments.

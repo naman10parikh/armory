@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-24T14:28:36Z"
 ---
 ## What it is
 Enables secure access to Tor/onion services with content filtering and safety guardrails for AI assistants.

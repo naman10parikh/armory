@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:04:23Z"
 ---
 ## What it is
 Enables local Windows UI automation and screen capture, targeting windows that are difficult to automate such as games and legacy apps, with tools for window management, mouse and keyboard input, and desktop capture.

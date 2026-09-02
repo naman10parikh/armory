@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:21Z"
 ---
 ## What it is
 Enables querying labor court (TRT7) legal proceedings from official sources via a read-only MCP tool, with usage-based prepaid credits.

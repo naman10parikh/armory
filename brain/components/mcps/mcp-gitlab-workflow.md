@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-26T10:56:48Z"
 ---
 ## What it is
 An MCP server for issue-driven GitLab development, automating requirement analysis, issue creation, branching, coding, merge requests, and issue updates.

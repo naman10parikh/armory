@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:32:42Z"
 ---
 ## What it is
 An MCP server that delegates reading of files or long context to a cheap model, returning a tight answer to save the orchestrator's context window.

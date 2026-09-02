@@ -8,10 +8,12 @@ source_url: https://github.com/n1snt/redux-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T16:40:25Z"
 ---
 ## What it is
 MCP server `Redux`, catalogued on PulseMCP. Bridge AI tools to Redux state management for reading state, observing actions, and dispatching to stores via WebSocket.

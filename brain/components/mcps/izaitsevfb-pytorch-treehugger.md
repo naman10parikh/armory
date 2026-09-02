@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-29T20:48:46Z"
 ---
 ## What it is
 MCP server `PyTorch HUD`, catalogued on PulseMCP. Provides a PyTorch CI/CD analytics API for investigating build failures, analyzing test flakiness, and monitoring performance trends across the PyTorch infrastructure.

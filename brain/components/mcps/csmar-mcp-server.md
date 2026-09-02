@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T01:49:11Z"
 ---
 ## What it is
 Enables access to the CSMAR financial database via MCP, providing tools for querying financial data, stock data, company info, and more through natural language in compatible clients like Codex and Claude Code.

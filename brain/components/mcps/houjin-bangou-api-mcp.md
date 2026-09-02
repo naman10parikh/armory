@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-13T04:22:29Z"
 ---
 ## What it is
 MCP server for the Japan National Tax Agency Corporate Number API, enabling corporate number lookup and search via local AI clients.

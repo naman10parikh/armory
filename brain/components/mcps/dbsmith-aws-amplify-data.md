@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-11T19:30:23Z"
 ---
 ## What it is
 MCP server `AWS Amplify Data`, catalogued on PulseMCP. Bridges AI systems with AWS Amplify Data APIs, enabling GraphQL-based data model interaction without requiring complex query writing

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:01:53Z"
 ---
 ## What it is
 Enables managing a PCRadio Internet radio device via its HTTP API, including playback, channels, volume, EQ, sound effects, user stations, alarms, NTP servers, and timezone settings through Streamable HTTP.

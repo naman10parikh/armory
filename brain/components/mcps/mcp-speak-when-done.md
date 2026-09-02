@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T09:39:06Z"
 ---
 ## What it is
 An MCP server that makes AI agents speak a brief summary of every response out loud using TTS.

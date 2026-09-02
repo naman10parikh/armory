@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T19:20:24Z"
 ---
 ## What it is
 An MCP server for Perplexity's Agent API, enabling multi-step web research with citations through tools to start, collect, and cancel research runs.

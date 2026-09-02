@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T19:45:57Z"
 ---
 ## What it is
 MCP server for interacting with Fireboard BBQ temperature monitoring. Enables querying devices, live probe temperatures, Drive fan controller status, and historical cook sessions.

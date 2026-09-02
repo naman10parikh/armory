@@ -8,10 +8,12 @@ source_url: https://github.com/eyalzh/kanban-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-07-13T13:19:05Z"
 ---
 ## What it is
 MCP server `Kanban`, catalogued on PulseMCP. Task management system for complex multi-session workflows, structured as kanban boards with columns and tasks that maintain state between AI agent interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T20:59:11Z"
 ---
 ## What it is
 Lets AI assistants like Claude or ChatGPT operate Adobe apps (Illustrator, Photoshop, After Effects, Premiere Pro) through 12 professional workflows with built-in quality control, restore points, and human approval.

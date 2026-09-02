@@ -8,10 +8,12 @@ source_url: https://github.com/seeed-studio/kicad-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-27T09:01:16Z"
 ---
 ## What it is
 MCP server `KiCad`, catalogued on PulseMCP. Provides access to KiCad electronic design files for component analysis, netlist extraction, bill of materials generation, design rule checking, and automated test code generation across Arduino, ESP-IDF, Zephyr, and STM32 HAL frameworks without requiring KiCad installation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T08:22:24Z"
 ---
 ## What it is
 MCP server that enables AI to fully control macOS — mouse, keyboard, terminal, screenshots, window management, UI element detection, and provides AI-optimized information reporting.

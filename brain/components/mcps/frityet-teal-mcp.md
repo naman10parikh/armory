@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-30T17:59:11Z"
 ---
 ## What it is
 MCP server `TealMCP (Lua Code Execution)`, catalogued on PulseMCP. Provides sandboxed Lua code execution environments with session management, package installation via LuaRocks, and filesystem operations using Teal's type-safe architecture for educational coding assistance and data analysis workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:52Z"
 ---
 ## What it is
 MCP server for Maker. Agent-ready API for Maker.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T06:58:50Z"
 ---
 ## What it is
 MCP server `Negotiated Rates`, catalogued on PulseMCP. Streams healthcare Transparency in Coverage MRF files to retrieve insurer negotiated rates for medical procedures.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:34:34Z"
 ---
 ## What it is
 A Jira-lite MCP server that enables planning-first workflows for AI-assisted development. It manages tickets as markdown files with YAML frontmatter, guiding agents through epics, stories, tasks, and architecture decision records.

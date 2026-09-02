@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-18T17:47:21Z"
 ---
 ## What it is
 MCP server for the mGBA Game Boy/GBA emulator, enabling full emulator control, memory access, debugging, and screenshot capture through natural language.

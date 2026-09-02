@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, documentation]
+forks: 1
+pushed_at: "2025-05-21T15:54:41Z"
 ---
 ## What it is
 Documentation about agent ranking

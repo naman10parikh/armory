@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-04T17:27:32Z"
 ---
 ## What it is
 MCP server `Airbyte Status Checker`, catalogued on PulseMCP. Integrates with Airbyte API to monitor data pipeline health, check connection statuses, and manage streams for real-time ETL process oversight.

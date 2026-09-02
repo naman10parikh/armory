@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:15:31Z"
 ---
 ## What it is
 MCP server for shared context caching with trust verification -- AI agents share and verify computed results to reduce token cost and increase reliability.

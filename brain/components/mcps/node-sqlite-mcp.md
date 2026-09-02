@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:49:30Z"
 ---
 ## What it is
 Lets AI agents query local SQLite database files read-only using Node's built-in sqlite module, providing tools for listing tables, describing schemas, and running SQL queries.

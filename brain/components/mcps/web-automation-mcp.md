@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-21T23:16:19Z"
 ---
 ## What it is
 An MCP server that enables Claude Code CLI to interact with Cloud Desktop, ChatGPT, and Gemini web interfaces through browser automation.

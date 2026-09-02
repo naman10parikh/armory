@@ -8,10 +8,12 @@ source_url: https://github.com/dempty-glitch/z-zero-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T09:00:18Z"
 ---
 ## What it is
 MCP server `Z-Zero AI Agent Payments`, catalogued on PulseMCP. Payment infrastructure for AI agents supporting JIT Visa cards, USDT transfers, and autonomous checkout.

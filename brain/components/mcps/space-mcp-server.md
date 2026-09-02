@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T10:19:24Z"
 ---
 ## What it is
 MCP server providing AI agents with access to NASA and space/astronomy data including APOD, Mars rover photos, near-Earth asteroids, exoplanets, Earth imagery, natural events, and space weather.

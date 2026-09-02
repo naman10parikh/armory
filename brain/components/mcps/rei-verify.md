@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T01:33:38Z"
 ---
 ## What it is
 A verification infrastructure and MCP server that specializes in refutation (negation) rather than generation, providing tools for counterexample search, Lean verification, and audit chains with a 4-value verdict system.

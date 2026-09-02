@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T12:58:58Z"
 ---
 ## What it is
 MCP server `Agent Signal`, catalogued on PulseMCP. Collective intelligence layer for AI shopping agents pooling decision signals across shopping sessions.

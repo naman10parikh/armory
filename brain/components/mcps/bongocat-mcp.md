@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:42:00Z"
 ---
 ## What it is
 Unifies multiple BongoCat desktop pets into MCP tools, enabling LLM clients to control cat animations, typing, expressions, and chat bubbles via a consistent interface. Supports embedded, CDP, and Mver drivers with auto-detection and a local web dashboard.

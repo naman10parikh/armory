@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-24T08:37:07Z"
 ---
 ## What it is
 Enables to retrieve device information, images, media, location, thumbnails, and events from the Safie API through MCP.

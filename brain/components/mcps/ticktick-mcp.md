@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-04-24T02:17:23Z"
 ---
 ## What it is
 Enables AI assistants to manage TickTick tasks through natural language, including creating, updating, completing, and deleting tasks, as well as managing projects.

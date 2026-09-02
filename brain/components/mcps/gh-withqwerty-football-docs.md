@@ -8,10 +8,12 @@ source_url: https://github.com/withqwerty/football-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-31T00:48:16Z"
 ---
 ## What it is
 MCP server `Football Docs`, catalogued on PulseMCP. Searchable documentation index for football data providers covering event types, qualifiers, and API endpoints.

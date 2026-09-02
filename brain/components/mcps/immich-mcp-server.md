@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-04T00:24:27Z"
 ---
 ## What it is
 Enables MCP-compatible clients to interact with an Immich photo management instance, providing access to users, assets, API keys, and partners through standardized resources and tools.

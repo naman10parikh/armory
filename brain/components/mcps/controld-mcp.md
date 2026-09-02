@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T18:52:45Z"
 ---
 ## What it is
 A local MCP server for safely managing Control D DNS by conversation, enabling inspection of profiles and endpoints, diagnosing blocked queries, and creating/deleting rules with confirmation and read-back checks.

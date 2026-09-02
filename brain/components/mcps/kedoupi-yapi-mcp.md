@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-11T18:53:10Z"
 ---
 ## What it is
 Enables AI tools to search, create, update, and manage YApi API interfaces, projects, and categories through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/dphoeniixx/djeb_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-05T12:01:33Z"
 ---
 ## What it is
 MCP server `dJEB`, catalogued on PulseMCP. Integrates with JEB decompiler through a Python-Jython bridge to enable direct Android APK analysis, method decompilation, code element manipulation, cross-reference analysis, manifest extraction, and automated refactoring operations for reverse engineering and security assessment workflows.

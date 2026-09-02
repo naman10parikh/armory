@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T06:06:55Z"
 ---
 ## What it is
 Auditoría del gasto público peruano mediante sistemas multi-agente, Claude Code Skills y un servidor MCP local. Procesa datos fiscales del MEF 2025 desde datosabiertos.gob.pe y digitaliza vía OCR un archivo histórico de 1964, exponiendo los resultados en un dashboard Streamlit de 4 pestañas.

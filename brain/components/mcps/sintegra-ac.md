@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:12Z"
 ---
 ## What it is
 Enables users to consult SINTEGRA AC data from official sources via a read-only MCP tool, with prepaid credit-based pricing and no platform credentials required.

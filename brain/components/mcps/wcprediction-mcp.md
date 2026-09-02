@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T22:55:35Z"
 ---
 ## What it is
 MCP server for a World Cup 2026 prediction game assistant, providing tools for live game data via PostgreSQL and semantic search over football articles via RAG.

@@ -8,10 +8,12 @@ source_url: https://github.com/rootly-ai-labs/rootly-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-09-01T18:57:45Z"
 ---
 ## What it is
 MCP server `Rootly`, catalogued on PulseMCP. Integrates with Rootly's incident management API to enable real-time production incident resolution directly within code editors, focusing on core endpoints with optimized pagination to prevent context overflow.

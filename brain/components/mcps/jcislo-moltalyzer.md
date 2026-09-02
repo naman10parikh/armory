@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T03:42:35Z"
 ---
 ## What it is
 MCP server `Moltalyzer`, catalogued on PulseMCP. Crypto intelligence, GitHub trends, market signals, and AI advisor with x402 micropayments.

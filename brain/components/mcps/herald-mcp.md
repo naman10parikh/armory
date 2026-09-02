@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T06:38:32Z"
 ---
 ## What it is
 Enables two AI assistants on different computers to communicate with each other via a shared cloud server.

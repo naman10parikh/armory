@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:56:02Z"
 ---
 ## What it is
 Enables AI coding agents to plan, build, and review websites and product interfaces with a persistent, user-led process, including design direction, component contracts, and implementation review.

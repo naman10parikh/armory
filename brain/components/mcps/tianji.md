@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-06-05T13:32:43Z"
 ---
 ## What it is
 An MCP server that integrates hundreds of thinking models and frameworks to help users systematically analyze and solve problems through structured reasoning.

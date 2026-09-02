@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:10:10Z"
 ---
 ## What it is
 A local, read-only MCP server that connects your HackerOne researcher account to Claude Desktop and Claude Code, helping you find targets, analyze program scopes, review reports and earnings, and draft bug reports.

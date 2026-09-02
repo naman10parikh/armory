@@ -8,11 +8,13 @@ source_url: https://github.com/compoid/compoid-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2451
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-05-05T12:31:07Z"
 ---
 ## What it is
 AI-powered repository management for Compoid - Search records, download artifacts, create entries, and manage communities with natural language.

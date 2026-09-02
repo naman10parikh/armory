@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-10T03:06:12Z"
 ---
 ## What it is
 Enables interaction with InvenTree inventory management system, providing tools for parts, stock, orders, companies, barcodes, labels, reports, attachments, and system administration.

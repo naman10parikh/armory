@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-09T17:42:47Z"
 ---
 ## What it is
 MCP server for Outlook — enables AI assistants to access email, contacts, and calendars via Windows COM interface.

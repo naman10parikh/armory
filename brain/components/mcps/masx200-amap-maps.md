@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T07:05:32Z"
 ---
 ## What it is
 MCP server `AutoNavi (Amap)`, catalogued on PulseMCP. Integrates with China's AutoNavi (Amap) mapping service to provide geocoding, reverse geocoding, place search, weather data, and multi-modal route planning for driving, walking, cycling, and public transit within China's geographic context.

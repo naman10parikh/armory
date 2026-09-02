@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:20:56Z"
 ---
 ## What it is
 Persistent, local-first graph memory for AI coding agents. Provides durable cross-session memory via a local SQLite knowledge graph with typed relationships.

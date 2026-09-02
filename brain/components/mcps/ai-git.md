@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:15:08Z"
 ---
 ## What it is
 A deterministic MCP server that reimplements ai-git-fish workflows (aicommit, aibranch, aipr) with Leantime integration, enabling Claude Code and Codex to perform git operations and manage tickets without an internal LLM.

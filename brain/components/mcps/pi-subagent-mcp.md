@@ -8,11 +8,13 @@ source_url: https://github.com/turbin/pi-subagent-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:57:16Z"
 ---
 ## What it is
 Exposes pi as a sub-agent for MCP-capable coding assistants, enabling task dispatch, messaging, and interactive dialog handling via tools like pi_dispatch, pi_send, and pi_respond.

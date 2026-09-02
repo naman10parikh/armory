@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:19Z"
 ---
 ## What it is
 Enables querying IBAMA Certificado de Regularidade (environmental compliance certificate) from official sources through a read-only MCP tool. Works with any MCP client over HTTP.

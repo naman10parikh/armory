@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:29:01Z"
 ---
 ## What it is
 Analyzes GitHub Pull Request diffs for security vulnerabilities and data leaks, using a deterministic filter to skip trivial changes and an AI-powered analysis for logic changes.

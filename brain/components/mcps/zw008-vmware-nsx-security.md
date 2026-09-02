@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T07:22:27Z"
 ---
 ## What it is
 MCP server `VMware NSX Security`, catalogued on PulseMCP. VMware NSX security management with DFW policies, security groups, Traceflow, and IDPS tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/https-eduardo/clockify-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-07-02T13:47:21Z"
 ---
 ## What it is
 MCP server `Clockify`, catalogued on PulseMCP. Integrates with Clockify time tracking API to manage billable time entries, retrieve workspace information, list projects, and access user data through natural language prompts.

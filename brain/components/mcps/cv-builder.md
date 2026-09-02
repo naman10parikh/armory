@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:52:57Z"
 ---
 ## What it is
 Provides MCP tools for managing a CV as structured content, including a SQLite-backed snippet library with tools to list, create, update, and match job postings, compose role-tailored CV variants, and manage drafts.

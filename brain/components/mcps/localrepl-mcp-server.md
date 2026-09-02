@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T22:13:10Z"
 ---
 ## What it is
 A locally-running Python REPL server that integrates with Claude Desktop through the Model Context Protocol, offering shell bridge, streaming, and operational memory features for secure code experimentation and system automation.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T08:40:03Z"
 ---
 ## What it is
 MCP server `MCAP Query`, catalogued on PulseMCP. SQL query interface for MCAP robotics recordings using DuckDB, with support for JSON, Protobuf, ROS 1, ROS 2, and FlatBuffers encodings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T22:48:31Z"
 ---
 ## What it is
 Enables AI to monitor, control, and diagnose 3D printers via Repetier-Host/Repetier-Server, supporting temperature readings, job management, and intelligent error diagnosis.

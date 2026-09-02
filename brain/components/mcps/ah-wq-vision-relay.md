@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-04T06:05:21Z"
 ---
 ## What it is
 MCP server `Vision Relay`, catalogued on PulseMCP. Bridges Google Gemini and Alibaba Qwen vision models through CLI tools to provide image analysis capabilities from local files, URLs, or base64 data with automatic validation and configurable execution parameters.

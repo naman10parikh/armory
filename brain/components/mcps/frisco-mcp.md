@@ -8,11 +8,13 @@ source_url: https://github.com/taraspiotr/frisco-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T18:05:57Z"
 ---
 ## What it is
 MCP server for Frisco.pl — lets Claude add groceries to your cart, search products, get nutritional info, and manage recipes, all via natural language.

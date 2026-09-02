@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-09T03:41:02Z"
 ---
 ## What it is
 Universal deployment tracker for AI assistants, enabling real-time monitoring and management of deployments across Vercel, Netlify, and Cloudflare Pages without context switching.

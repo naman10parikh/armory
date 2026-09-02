@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:54:09Z"
 ---
 ## What it is
 A read-only MCP server for the Pirsch Analytics API that lets users list domains and query traffic, pages, events, and other analytics metrics through conversational agents.

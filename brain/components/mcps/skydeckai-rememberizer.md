@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-17T15:59:18Z"
 ---
 ## What it is
 MCP server `Rememberizer`, catalogued on PulseMCP. Leverage Rememberizer's document API for AI-powered semantic search and retrieval of enterprise knowledge.

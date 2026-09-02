@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:45:40Z"
 ---
 ## What it is
 Enables reading Slack channels, messages, and threads using the web interface via a persistent browser session, designed for guest users without API access. Does not send messages.

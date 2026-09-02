@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-07T22:15:47Z"
 ---
 ## What it is
 MCP server `Git PR`, catalogued on PulseMCP. Provides Git repository management and GitHub pull request automation through dual workflows for analyzing existing repositories and creating complete PR workflows with temporary repository management, branch creation, file operations, and automated cleanup.

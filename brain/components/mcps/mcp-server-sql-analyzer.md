@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-07-01T14:37:41Z"
 ---
 ## What it is
 Provides SQL analysis, linting, and dialect conversion using SQLGlot, enabling validation, transpilation, and extraction of table/column references.

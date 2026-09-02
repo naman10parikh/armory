@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:58:13Z"
 ---
 ## What it is
 Enables AI agents to manage doctor appointments by creating, finding, checking status, canceling, and rescheduling appointments through an MCP server that connects to an external appointment REST API.

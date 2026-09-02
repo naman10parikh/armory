@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:48:37Z"
 ---
 ## What it is
 MCP server for S.C.A.L.A. Score API — search and retrieve data on 244M+ companies across 50+ countries. Tools for company lookup by name/VAT/ID, NACE sector search, geographic filtering, and financial data enrichment from official EU business registries.

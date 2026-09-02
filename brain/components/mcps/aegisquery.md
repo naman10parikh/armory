@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T18:09:30Z"
 ---
 ## What it is
 A governed analytics MCP server that provides LLM agents with safe, read-only access to data warehouses through a layered safety pipeline including AST validation, column/row governance, PII masking, cost limits, and audit.

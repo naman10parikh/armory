@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:37Z"
 ---
 ## What it is
 MCP server that wraps the StupidAPIs' 'The Committee' tool, which convenes five random number generators to argue and vote with one always dissenting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:53:08Z"
 ---
 ## What it is
 An MCP server that searches and reads recipes from multiple sources simultaneously, merges the results, and rescales ingredient quantities for any number of servings in French and English.

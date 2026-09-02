@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T04:35:56Z"
 ---
 ## What it is
 Translates project README files into multiple languages via MCP server or standalone pipeline, using local LM Studio models for translation, critique, and revision.

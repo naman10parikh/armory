@@ -8,10 +8,12 @@ source_url: https://github.com/sparfenyuk/mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 175
+stars: 187
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2025-03-14T11:27:58Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Integrates with Telegram via MTProto protocol to enable listing dialogs and messages for automated analysis and chatbot functionality.

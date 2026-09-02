@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:39:19Z"
 ---
 ## What it is
 MCP server that acts as an adapter to a shopping list web application, using OAuth 2.1 with Keycloak for secure authorization.

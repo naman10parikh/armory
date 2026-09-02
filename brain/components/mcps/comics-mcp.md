@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-31T20:23:31Z"
 ---
 ## What it is
 Model Context Protocol server for comic data sources with plugin architecture, enabling character information retrieval from Comic Vine API.

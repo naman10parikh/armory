@@ -8,10 +8,12 @@ source_url: https://github.com/ergut/mcp-bigquery-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 147
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-05-22T09:39:51Z"
 ---
 ## What it is
 MCP server `BigQuery`, catalogued on PulseMCP. Securely query and analyze Google BigQuery datasets via natural language.

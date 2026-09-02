@@ -8,10 +8,12 @@ source_url: https://github.com/hashgraph-online/hashnet-mcp-js
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-08T14:15:15Z"
 ---
 ## What it is
 MCP server `HashNet`, catalogued on PulseMCP. Universal AI agent discovery - search agents across MCP, NANDA, A2A, and OpenRouter protocols

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:36:26Z"
 ---
 ## What it is
 Provides a catalog of paid micro-work tools for text processing, speech, and image generation with fixed USDC pricing via x402. Enables agents to discover capabilities, get quotes, and prepare calls without handling wallet keys.

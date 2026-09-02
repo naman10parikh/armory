@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T07:05:57Z"
 ---
 ## What it is
 A Model Context Protocol server that connects AI assistants to your Domain Pilot account, enabling management of domains, DNS records, uptime monitoring, and SSL status through natural language.

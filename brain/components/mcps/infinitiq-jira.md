@@ -8,10 +8,12 @@ source_url: https://github.com/infinitiq-tech/mcp-jira
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-22T21:39:13Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Jira's REST API to enable natural language management of projects, issues, and workflows through tools for searching, creating, and transitioning tickets across both Cloud and Server/Data Center installations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:51:34Z"
 ---
 ## What it is
 MCP server providing dependency upgrade advisories, developer API schemas, and electronic component specifications with evidence-backed, Ed25519-signed responses.

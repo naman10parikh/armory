@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:52:47Z"
 ---
 ## What it is
 MCP server for computing BaZi (Four Pillars) charts. Supports Gregorian, lunar, or direct Four Pillars input, with optional true solar time correction, and outputs strength, pattern, and useful god.

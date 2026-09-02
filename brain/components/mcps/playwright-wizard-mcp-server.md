@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-19T01:32:38Z"
 ---
 ## What it is
 Guides users through creating professional Playwright test suites with a step-by-step wizard workflow, including analysis, planning, setup, and implementation.

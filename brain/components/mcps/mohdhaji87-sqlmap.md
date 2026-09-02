@@ -8,10 +8,12 @@ source_url: https://github.com/mohdhaji87/sqlmap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-09T13:42:50Z"
 ---
 ## What it is
 MCP server `SQLMap`, catalogued on PulseMCP. Exposes SQLMap's SQL injection testing capabilities through 12 tools for vulnerability scanning, database enumeration, data extraction, and system reconnaissance with support for proxy configuration, Tor integration, and multi-threading.

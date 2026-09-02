@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-21T17:12:10Z"
 ---
 ## What it is
 Search, document and execute authenticated API calls across all your apps (Gmail, Slack, Stripe, Notion, GitHub, and more) through 4 universal tools whose context footprint stays constant no matter how many connections you add. Hosted remote server with OAuth at https://mcp.withone.ai/mcp, or run lo

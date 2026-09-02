@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:59:39Z"
 ---
 ## What it is
 GiveRadar's MCP server gives AI agents verified data on 7 million+ nonprofits across 65+ countries, sourced from official government registries. Tools let agents search charities, verify a charity by registration number or EIN, compare integrity scores, and find similar organizations.

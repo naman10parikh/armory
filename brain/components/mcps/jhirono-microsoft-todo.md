@@ -8,10 +8,12 @@ source_url: https://github.com/jhirono/todomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-01T06:56:22Z"
 ---
 ## What it is
 MCP server `Microsoft Todo`, catalogued on PulseMCP. Integrates with Microsoft Todo through Graph API, enabling natural language task management including viewing lists, creating tasks with due dates, and managing checklist items with automatic token refresh.

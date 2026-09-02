@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:42:48Z"
 ---
 ## What it is
 Enables an AI agent to manage Jira Stories in a self-hosted Jira instance via the Jira REST API v2, including CRUD operations, workflow transitions, and burndown data retrieval.

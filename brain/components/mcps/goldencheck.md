@@ -8,11 +8,13 @@ source_url: https://github.com/benzsevern/goldencheck
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 452
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-05-01T14:10:11Z"
 ---
 ## What it is
 Check CSV files for data quality issues � finds bad emails, phone format problems, missing values, type mismatches, outliers, and encoding errors. Zero config: just point it at a file. 19 tools: scan for issues, get health score (A-F grade), profile columns, auto-fix problems, detect drift from base

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T05:56:04Z"
 ---
 ## What it is
 MCP server `Chrome Browser (Smotree)`, catalogued on PulseMCP. Chrome browser automation using real sessions with 36 tools via Chrome Extension and WebSocket.

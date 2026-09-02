@@ -8,11 +8,13 @@ source_url: https://github.com/franklioxygen/mytube-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T00:47:09Z"
 ---
 ## What it is
 MCP server that enables LLMs to interact with MyTube video platform through its HTTP API, supporting video management, search, collections, subscriptions, and more with API key or admin session authentication.

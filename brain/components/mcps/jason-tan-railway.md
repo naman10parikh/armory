@@ -8,10 +8,12 @@ source_url: https://github.com/jason-tan-swe/railway-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-06-24T04:17:36Z"
 ---
 ## What it is
 MCP server `Railway`, catalogued on PulseMCP. Integrates with Railway.app to enable management of deployments, monitoring of application performance, and automation of DevOps workflows within the Railway ecosystem.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-18T19:18:16Z"
 ---
 ## What it is
 MCP server `Salesforce Data Cloud`, catalogued on PulseMCP. Connects to Salesforce Data Cloud through JDBC to enable SQL-based querying, table discovery, and metadata retrieval with results returned in CSV format for data analysis and reporting workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/j-east/pixel-surgeon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-04T18:35:36Z"
 ---
 ## What it is
 MCP server `Pixel Surgeon`, catalogued on PulseMCP. Generates, edits, and repairs images and videos through natural language using Google Gemini and OpenAI models.

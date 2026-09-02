@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T00:21:48Z"
 ---
 ## What it is
 MCP server `Wick`, catalogued on PulseMCP. Browser-grade web access that fetches webpages with authentic browser requests and returns clean markdown.

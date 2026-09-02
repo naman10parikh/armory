@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T07:57:14Z"
 ---
 ## What it is
 A knowledge base MCP server that aggregates team knowledge from multiple sources into Postgres. It provides hybrid search (full-text + vector + RRF) via MCP tools, and enables direct recording of decisions, learnings, and pitfalls.

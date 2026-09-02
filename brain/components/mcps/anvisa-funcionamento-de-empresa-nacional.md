@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:03Z"
 ---
 ## What it is
 Consulta dados oficiais da ANVISA sobre funcionamento de empresas nacionais via MCP, com uma ferramenta de leitura, hospedado e pré-pago.

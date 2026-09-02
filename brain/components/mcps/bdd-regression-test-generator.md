@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:21:59Z"
 ---
 ## What it is
 MCP server that analyzes OpenAPI/Swagger REST API contracts and generates BDD Gherkin feature files and TypeScript Jest regression test scripts.

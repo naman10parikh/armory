@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-31T10:49:00Z"
 ---
 ## What it is
 MCP server `NPM Package Search`, catalogued on PulseMCP. Provides a specialized tool for fetching detailed npm package information, offering package search and popular packages resources to support dependency analysis and software research.

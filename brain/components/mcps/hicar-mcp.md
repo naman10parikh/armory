@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:10:48Z"
 ---
 ## What it is
 Provides AI assistants with structured, authoritative knowledge of the HICAR atmospheric model, including namelist options, physics schemes, output variables, documentation, and source code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T17:05:18Z"
 ---
 ## What it is
 MCP server for Dell OpenManage Enterprise that allows AI assistants to monitor and manage Dell servers, including device health, alerts, warranties, firmware compliance, and jobs.

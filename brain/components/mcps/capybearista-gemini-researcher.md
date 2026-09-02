@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T20:25:06Z"
 ---
 ## What it is
 MCP server `Gemini Researcher`, catalogued on PulseMCP. Stateless MCP server that proxies research queries to Gemini CLI, reducing agent context and model usage

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:12:50Z"
 ---
 ## What it is
 Aggregates Android Health Connect data into daily summaries, time-series metrics, sleep details, and sync status, exposing them to LLM clients via MCP with caveats to prevent data fabrication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:57:39Z"
 ---
 ## What it is
 A lightweight MCP server that enables AI agents to retrieve customer support ticket information from an in-memory datastore via SSE.

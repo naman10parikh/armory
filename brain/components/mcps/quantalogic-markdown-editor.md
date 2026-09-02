@@ -8,10 +8,12 @@ source_url: https://github.com/quantalogic/quantalogic_markdown_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-28T03:09:50Z"
 ---
 ## What it is
 MCP server `Quantalogic Markdown Editor`, catalogued on PulseMCP. Provides safe, structured editing capabilities for Markdown documents through section-based operations like inserting, updating, deleting, and moving content while maintaining document integrity with validation and rollback support.

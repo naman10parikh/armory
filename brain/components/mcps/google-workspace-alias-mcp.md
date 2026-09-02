@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T03:00:38Z"
 ---
 ## What it is
 A Model Context Protocol server for Google Workspace integration with send-as alias support, email templates, and scheduled send, enabling AI assistants to manage Gmail and Google Calendar through natural language.

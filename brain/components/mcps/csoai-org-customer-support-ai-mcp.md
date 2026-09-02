@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T00:12:41Z"
 ---
 ## What it is
 MCP server `Customer Support AI`, catalogued on PulseMCP. Tools for building and operating AI-powered customer support workflows.

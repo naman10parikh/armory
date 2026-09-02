@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T23:54:11Z"
 ---
 ## What it is
 Enables retrieval of Taiwan lottery data for a specified month, supporting Super Lotto 638, Lotto 649, Daily Cash 539, and Lotto 4D.

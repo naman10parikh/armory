@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T17:10:48Z"
 ---
 ## What it is
 Provides structural code intelligence via 26 MCP tools, enabling AI assistants to query code symbols, dependencies, and call graphs accurately without file-pasting.

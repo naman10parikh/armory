@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:22:28Z"
 ---
 ## What it is
 Provides 51 tools for stock data, technical analysis, trading signals, portfolio management, and monitoring for short-term trading, using yfinance as the primary data source.

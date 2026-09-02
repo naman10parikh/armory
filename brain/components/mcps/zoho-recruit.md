@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T07:38:14Z"
 ---
 ## What it is
 Enables Claude to manage Zoho Recruit ATS operations including candidates, jobs, interviews, analytics, email, and AI-assist through natural language.

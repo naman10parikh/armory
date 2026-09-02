@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T14:32:33Z"
 ---
 ## What it is
 Stealth Chrome MCP server for AI agents providing 77 tools, perfect bot detection scores, proxy pools, encrypted sessions, and live human handoff via Cloudflare tunnel.

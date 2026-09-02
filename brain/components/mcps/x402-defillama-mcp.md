@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T15:21:48Z"
 ---
 ## What it is
 An x402 pay-per-call proxy for DefiLlama's MCP tools, allowing AI agents to pay USDC per tool call (up to 10 tools) without needing a DefiLlama account or subscription.

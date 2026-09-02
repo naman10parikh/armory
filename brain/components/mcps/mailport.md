@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:20:37Z"
 ---
 ## What it is
 Connects multiple IMAP and SMTP mailboxes to MCP clients like ChatGPT without exposing credentials, enabling email search and thread retrieval via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:58:05Z"
 ---
 ## What it is
 MCP server for disposable email. Gives an assistant its own throwaway inbox, then hands back the confirmation code out of the message that arrives.

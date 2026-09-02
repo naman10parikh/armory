@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-12T00:18:35Z"
 ---
 ## What it is
 Enables AI agents to manage and interact with Kasm Workspaces containerized desktop infrastructure, providing tools for session management, command execution, file operations, and user management via the Model Context Protocol.

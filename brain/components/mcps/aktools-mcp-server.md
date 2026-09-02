@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T00:26:18Z"
 ---
 ## What it is
 Enables querying and analysis of stock and cryptocurrency data, including market overviews, price history, news, and financial indicators, via akshare.

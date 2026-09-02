@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T00:13:02Z"
 ---
 ## What it is
 MCP server to manage social media accounts from AI assistants, enabling post creation, scheduling, publishing, and media uploads across multiple platforms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:31:16Z"
 ---
 ## What it is
 Generates editable Excalidraw diagrams from natural language system descriptions, with properly bound arrows and labels. Includes tools for diagram creation, validation, and backend status.

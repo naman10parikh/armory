@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T11:51:44Z"
 ---
 ## What it is
 MCP server that enables introspection of any MCP server's registered tools by exposing mcpreg/list, mcpreg/get, and mcpreg/query tools, making tool registry accessible even when the underlying SDK lacks list_tools().

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-20T08:18:01Z"
 ---
 ## What it is
 MCP server `Shuck File`, catalogued on PulseMCP. Converts documents (DOCX, PDF, Excel, PowerPoint, CSV) to clean Markdown with smart content routing for AI agents.

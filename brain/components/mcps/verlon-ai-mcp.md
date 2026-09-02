@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:36:16Z"
 ---
 ## What it is
 Model Context Protocol server for Verlon AI that exposes gates, logs, recommendations, and experiments as MCP tools, enabling coding agents to inspect and manage AI infrastructure natively.

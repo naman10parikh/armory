@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-10T14:39:05Z"
 ---
 ## What it is
 MCP server for real-time surf conditions at 5,000+ beaches worldwide. Enables checking surf conditions, finding nearest spots, and listing spots via natural language.

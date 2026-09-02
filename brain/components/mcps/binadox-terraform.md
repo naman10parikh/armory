@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-29T11:21:46Z"
 ---
 ## What it is
 MCP server `Terraform`, catalogued on PulseMCP. Validates, secures, and estimates cloud costs for Terraform configurations with automatic code completion

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:52:52Z"
 ---
 ## What it is
 Open behavioral litmus for MCP servers — grades A–F across tool-output injection, egress, sensitive-data, and adversarial-input, with reproducible, content-addressed evidence. Tools: run_litmus, verify_attestation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:29Z"
 ---
 ## What it is
 MCP server `RS485 Serial Bus`, catalogued on PulseMCP. Exposes RS485 bus connectivity for reading and writing serial data with configurable connection parameters.

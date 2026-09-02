@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:08:14Z"
 ---
 ## What it is
 Enables AI agents to interact with a double-entry ledger, offering tools for account management, balanced journal entries, balance queries, trial balance, and penny-perfect allocation. Built with safety by construction: no update/delete tools, idempotent posting, and an append-only journal.

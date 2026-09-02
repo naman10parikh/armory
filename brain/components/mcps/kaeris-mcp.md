@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T06:58:27Z"
 ---
 ## What it is
 AI localization from your editor — translate an app's string files into 46 languages with placeholder-safe, reproducible output. Eleven formats (JSON, .arb, .po, .strings, Android XML and more), and every translation is read back and checked before it lands.

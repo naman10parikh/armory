@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T10:53:14Z"
 ---
 ## What it is
 Provides safe, structured access to an IBM z/OS mainframe through natural language in Claude Code, enabling screen reading, dataset browsing, code editing, job submission, and regression testing.

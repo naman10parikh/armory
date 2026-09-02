@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-10T22:05:44Z"
 ---
 ## What it is
 MCP server `GitHub Repository Creator`, catalogued on PulseMCP. Automates GitHub repository creation by analyzing local codebases to intelligently generate repository names, descriptions, topics, and licenses based on detected programming languages, frameworks, and project types.

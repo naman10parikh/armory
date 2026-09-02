@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T21:32:57Z"
 ---
 ## What it is
 A local memory layer for AI agents that stores structured memories in SQLite and retrieves relevant context for tasks.

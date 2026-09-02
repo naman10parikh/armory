@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-07T09:24:05Z"
 ---
 ## What it is
 MCP server `Name Origin Predictor`, catalogued on PulseMCP. Predicts the national origin of names using the Nationalize.io API, offering both individual and batch processing with probability scores for demographic analysis and cultural research.

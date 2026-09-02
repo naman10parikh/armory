@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-08T14:19:31Z"
 ---
 ## What it is
 MCP server `Excel to PDF Converter`, catalogued on PulseMCP. Converts Excel and Apple Numbers spreadsheets to PDF format, enabling file sharing with stakeholders who lack access to the original applications.

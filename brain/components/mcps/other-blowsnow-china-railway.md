@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-06T14:51:54Z"
 ---
 ## What it is
 MCP server `China Railway (12306)`, catalogued on PulseMCP. Integrates with the Chinese Railway (12306) system to provide train schedules, ticket availability, and travel planning information for transportation logistics within China.

@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-11T05:55:48Z"
 ---
 ## What it is
 MCP server `Google Sheets`, catalogued on PulseMCP. Integrates with Google Sheets API to provide spreadsheet automation through 25 specialized tools for sheet management, table operations, CRUD functionality, column type management, sorting, and cell manipulation with structured data validation and batch processing capabilities.

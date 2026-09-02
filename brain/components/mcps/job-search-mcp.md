@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T23:00:33Z"
 ---
 ## What it is
 MCP server that exposes job search data from multiple boards, enabling clients to query and manage job listings via natural language.

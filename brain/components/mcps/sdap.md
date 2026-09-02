@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:09:48Z"
 ---
 ## What it is
 MCP server for the Super Duper Admin Portal that enables AI agents to chat with LLMs, trigger admin actions, and make Okta API requests.

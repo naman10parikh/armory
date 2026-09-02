@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:11:50Z"
 ---
 ## What it is
 MCP server that gives AI chat real vision by reading images, files, logs, and zip archives via local OCR in any language, with privacy-first processing.

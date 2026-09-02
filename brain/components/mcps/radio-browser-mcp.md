@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T16:09:47Z"
 ---
 ## What it is
 MCP server that enables natural language control of internet radio from Claude Code, with access to 30,000+ global stations, auto-playback via mpv, and a real-time status line with audio spectrum visualization.

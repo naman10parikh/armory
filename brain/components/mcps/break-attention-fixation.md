@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T10:42:09Z"
 ---
 ## What it is
 Non-Transformer 3D bitspace phase-shift tool for breaking LLM attention loops, local minima, and contextual fixation using Beethoven Sonata dynamics.

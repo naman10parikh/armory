@@ -8,11 +8,13 @@ source_url: https://github.com/mrgoonie/vnstock-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 101
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 45
+pushed_at: "2026-04-01T10:59:13Z"
 ---
 ## What it is
 MCP server for Vietnamese stock market data, enabling AI assistants to access stock history, financials, company info, and global market data through 21 tools.

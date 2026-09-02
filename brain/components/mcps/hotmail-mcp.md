@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:30:01Z"
 ---
 ## What it is
 A local MCP server that connects Claude Desktop to a personal Hotmail/Outlook.com mailbox via Microsoft Graph API, enabling email management, rule handling, and composing messages.

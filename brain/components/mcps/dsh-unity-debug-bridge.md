@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:28:52Z"
 ---
 ## What it is
 MCP server for debugging Unity Editor managed code, supporting attach, breakpoints, stepping, call stack inspection, and read-only evaluation.

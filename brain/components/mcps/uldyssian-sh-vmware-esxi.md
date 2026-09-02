@@ -8,10 +8,12 @@ source_url: https://github.com/uldyssian-sh/vmware-esxi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-05T20:23:20Z"
 ---
 ## What it is
 MCP server `VMware ESXi`, catalogued on PulseMCP. Integrates with VMware ESXi hypervisors for direct virtual machine lifecycle management, host maintenance operations, resource monitoring, and snapshot management without requiring vCenter Server.

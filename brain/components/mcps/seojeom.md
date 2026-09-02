@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T13:29:20Z"
 ---
 ## What it is
 MCP server `Seojeom`, catalogued on PulseMCP. Local-first project wiki and knowledge graph for Claude and Codex AI coding workflows.

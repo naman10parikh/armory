@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:33:48Z"
 ---
 ## What it is
 Safety-first MCP server enabling AI assistants to drive Zemax OpticStudio sequential-mode optical design workflows, including a mock backend for validation.

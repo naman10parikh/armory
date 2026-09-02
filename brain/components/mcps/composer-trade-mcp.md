@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 45
+pushed_at: "2025-07-04T19:43:33Z"
 ---
 ## What it is
 Enables MCP-enabled LLMs to create, backtest, and trade automated investing strategies (symphonies) on Composer, with tools for monitoring performance and adjusting portfolio exposure.

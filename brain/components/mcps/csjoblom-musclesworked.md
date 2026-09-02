@@ -8,10 +8,12 @@ source_url: https://github.com/csjoblom/musclesworked-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-17T17:30:23Z"
 ---
 ## What it is
 MCP server `MusclesWorked`, catalogued on PulseMCP. Exercise-to-muscle mapping with 856 exercises, 65 muscles, workout analysis, and alternatives.

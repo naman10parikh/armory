@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:19:28Z"
 ---
 ## What it is
 MCP server for e-commerce return risk analysis, providing tools to calculate customer risk profiles, compare segments, and identify risk factors, with memory for contextual conversations.

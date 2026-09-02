@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:29:02Z"
 ---
 ## What it is
 Find personalized puzzle books by first name from a 100,000+ title Shopify catalog. Perfect gift-finding tool for any AI agent.

@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-17T04:31:42Z"
 ---
 ## What it is
 MCP server `PRD Creator`, catalogued on PulseMCP. Streamlines PRD creation and validation with TypeScript-based templates stored in SQLite, enabling product teams to generate consistent, high-quality documentation directly within conversations.

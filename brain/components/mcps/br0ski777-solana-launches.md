@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:08Z"
 ---
 ## What it is
 MCP server `Solana Launches`, catalogued on PulseMCP. Real-time data feed for new Solana token launches across pump.fun, Raydium, and PumpSwap DEXes.

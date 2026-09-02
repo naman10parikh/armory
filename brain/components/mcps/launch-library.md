@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T17:18:40Z"
 ---
 ## What it is
 Provides access to global rocket launch data, including upcoming and historical launches, launch details, space agencies, astronauts, events, and expeditions, enabling natural language queries about space activities.

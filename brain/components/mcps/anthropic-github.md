@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T03:09:31Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Provides a robust GitHub API bridge using TypeScript and Zod, enabling developers to automate repository operations through conversational interactions.

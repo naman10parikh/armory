@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T06:32:34Z"
 ---
 ## What it is
 Provides local vision and audio perception for MCP-compatible agents, enabling them to read images, transcribe text from visual media, analyze videos, and convert speech to text entirely on-device. It is privacy-focused with no cloud upload or API keys by default, using Ollama for inference.

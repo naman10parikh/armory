@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:45:41Z"
 ---
 ## What it is
 Provides tools to count tokens, estimate API costs, optimize prompts, and compare AI model pricing for multiple LLMs.

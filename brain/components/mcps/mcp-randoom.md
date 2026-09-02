@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-23T05:33:02Z"
 ---
 ## What it is
 Provides true random generation tools for AI agents, including coin flip, dice roller, random numbers, and wheel of fortune, enabling decisions and TTRPG sessions.

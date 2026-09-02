@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:06:46Z"
 ---
 ## What it is
 MCP server for the Qualia title and escrow platform, enabling you to talk to your orders, messages, and documents from Claude, Cursor, or any MCP client.

@@ -8,10 +8,12 @@ source_url: https://github.com/vdalhambra/siteaudit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T14:12:07Z"
 ---
 ## What it is
 MCP server `Site Audit`, catalogued on PulseMCP. SEO, performance, and security audits for any URL with no API keys required.

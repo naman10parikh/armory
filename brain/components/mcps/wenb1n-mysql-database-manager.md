@@ -8,10 +8,12 @@ source_url: https://github.com/wenb1n-dev/mysql_mcp_server_pro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 244
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2025-08-28T13:50:15Z"
 ---
 ## What it is
 MCP server `MySQL Database Manager`, catalogued on PulseMCP. Provides direct access to MySQL databases with advanced features like multiple SQL execution, table metadata querying, execution plan analysis, and Chinese field to pinyin conversion through a configurable Python-based server.

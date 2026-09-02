@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-03T12:53:23Z"
 ---
 ## What it is
 Enables searching and retrieving information from Slack messages, threads, files, canvases, and user profiles using a User Token, with advanced filtering capabilities.

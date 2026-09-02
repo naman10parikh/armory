@@ -8,10 +8,12 @@ source_url: https://github.com/danhilse/notion_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 207
+stars: 209
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 49
+pushed_at: "2024-12-18T17:39:00Z"
 ---
 ## What it is
 MCP server `Notion Todo`, catalogued on PulseMCP. MCP server that enables AI assistants to manage a minimalist Notion todo list through a simple API interface.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T08:56:20Z"
 ---
 ## What it is
 MCP server `OpenRouter Admin`, catalogued on PulseMCP. Manages OpenRouter accounts with 26 tools for keys, credits, activity analysis, and guardrails.

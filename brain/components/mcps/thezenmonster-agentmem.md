@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 3
+forks: 0
+pushed_at: "2026-04-17T12:44:07Z"
 ---
 ## What it is
 Governed memory for coding agents with trust lifecycle (hypothesis → active → validated → deprecated), conflict detection, staleness tracking, and health scoring. SQLite + FTS5, zero infrastructure. `pip install quilmem[mcp]`

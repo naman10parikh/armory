@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:53:05Z"
 ---
 ## What it is
 Enables users to turn their LLM client into a Pokédex by looking up Pokémon by name, including partial or misspelled names, and predicting battle outcomes between two Pokémon.

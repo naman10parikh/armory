@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-14T09:50:46Z"
 ---
 ## What it is
 MCP server `Bayesian Monte Carlo Tree Search`, catalogued on PulseMCP. Provides a Bayesian Monte Carlo Tree Search engine for systematic exploration of different angles and interpretations, balancing exploration versus exploitation through probabilistic approaches that evolve through multiple iterations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T22:18:27Z"
 ---
 ## What it is
 MCP server that enables AI assistants to query Grafana/Loki logs and Thanos/Prometheus metrics directly from MCP-compatible clients like Cursor or Claude Desktop.

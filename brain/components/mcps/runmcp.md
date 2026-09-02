@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:04:54Z"
 ---
 ## What it is
 RunMCP is an MCP server for managing a runner's training calendar, letting agents read planning context, propose and apply versioned schedule changes, and log runs and activities with conflict validation.

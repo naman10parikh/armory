@@ -8,11 +8,13 @@ source_url: https://github.com/v1b3x0r/living-memory-engine
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:13:07Z"
 ---
 ## What it is
 A persistent world your agents share across sessions and models. MCP memory server with semantic memory retrieval, cross-agent handoff, a hosted remote endpoint with OAuth, a free 24-hour room, and an open-source local stdio server.

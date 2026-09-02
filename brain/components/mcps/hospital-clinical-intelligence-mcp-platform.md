@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:31:02Z"
 ---
 ## What it is
 Integrates healthcare data from multiple sources (HL7 v2, FHIR, DICOM, device telemetry) and provides clinicians with secure, role-based access to patient context, care unit summaries, device events, diagnostic exams, and other clinical data through specialized MCP tools.

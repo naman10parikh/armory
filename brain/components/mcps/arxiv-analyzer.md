@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:04:21Z"
 ---
 ## What it is
 Enables LLM agents to search arXiv, download papers, parse PDFs into structured sections, and extract key findings using client-side LLMs. Features persistent caching and layout-aware PDF extraction.

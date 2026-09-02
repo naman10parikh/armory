@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T13:13:23Z"
 ---
 ## What it is
 Enables parallel code generation and review via MCP with fault-tolerant worker pool, auto-scaling, and SONA self-improvement for robust LLM orchestration.

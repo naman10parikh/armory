@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T22:49:23Z"
 ---
 ## What it is
 MCP server `Redshift`, catalogued on PulseMCP. Secure, read-only access to Amazon Redshift with schema introspection and smart sampling

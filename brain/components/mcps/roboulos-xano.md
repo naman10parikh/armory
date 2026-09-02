@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T04:31:23Z"
 ---
 ## What it is
 MCP server `Xano`, catalogued on PulseMCP. Connects Claude AI to Xano databases through Smithery, enabling direct querying, CRUD operations, and data management for building intelligent applications with structured data access.

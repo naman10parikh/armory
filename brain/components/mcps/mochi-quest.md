@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:46:08Z"
 ---
 ## What it is
 Enables AI agents to act as personal growth coaches, allowing users to set goals, receive personalized daily tasks, and track progress with dynamic replanning and reward systems.

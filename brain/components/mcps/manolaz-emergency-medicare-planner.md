@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-04T01:25:08Z"
 ---
 ## What it is
 MCP server `Emergency Medicare Planner`, catalogued on PulseMCP. Integrates with Google Maps to locate and evaluate medical facilities in emergencies, providing tools for facility search, route calculation, and availability checking within a 10km radius, while implementing sequential thinking for step-by-step clinical reasoning and accurate facility matching based on patient data.

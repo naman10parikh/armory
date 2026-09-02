@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T01:04:48Z"
 ---
 ## What it is
 MCP server `MuleSoft Anypoint`, catalogued on PulseMCP. Template MCP server built with MuleSoft's Anypoint Platform demonstrating how to expose Mule integration flows as MCP tools for AI clients.

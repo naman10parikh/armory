@@ -8,10 +8,12 @@ source_url: https://github.com/rudra-ravi/wikipedia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 254
+stars: 291
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 52
+pushed_at: "2026-05-01T03:39:08Z"
 ---
 ## What it is
 MCP server `Wikipedia`, catalogued on PulseMCP. Provides a bridge to Wikipedia's knowledge base, enabling search, retrieval, and analysis of articles through the Wikipedia API for research and contextual information gathering.

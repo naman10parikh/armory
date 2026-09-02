@@ -8,11 +8,13 @@ source_url: https://github.com/janmacher02-sketch/ares-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 748
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-05-10T17:02:32Z"
 ---
 ## What it is
 Czech & Slovak business registry MCP server. Look up companies by IČO, search by name, check insolvency status, and query the Slovak ORSR — all in one tool. Data from ARES (Czech Ministry of Finance), ISIR insolvency register, and ORSR Slovakia.

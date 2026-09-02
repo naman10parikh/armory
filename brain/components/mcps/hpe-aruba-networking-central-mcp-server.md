@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T13:26:23Z"
 ---
 ## What it is
 Production-grade MCP server that exposes the complete HPE Aruba Networking Central REST API as 90 tools across 19 categories, enabling AI assistants to manage Aruba Central networks.

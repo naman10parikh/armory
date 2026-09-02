@@ -8,10 +8,12 @@ source_url: https://github.com/lgdimaggio/mcp-motor-current-signature-analysis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-29T10:12:29Z"
 ---
 ## What it is
 MCP server `Motor Current Signature Analysis`, catalogued on PulseMCP. MCP server for Motor Current Signature Analysis — fault detection in electric motors

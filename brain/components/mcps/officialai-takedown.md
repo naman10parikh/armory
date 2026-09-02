@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T03:36:25Z"
 ---
 ## What it is
 Enables capturing evidence, retrieving platform takedown processes, and drafting DMCA/legal notices for content removal, using the Official AI API.

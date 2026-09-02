@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T10:17:24Z"
 ---
 ## What it is
 MCP server `Clypt`, catalogued on PulseMCP. Submit podcast URLs and receive AI-generated clips, trailers, show notes, and transcripts.

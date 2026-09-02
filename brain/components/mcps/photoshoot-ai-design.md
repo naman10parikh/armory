@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:49:10Z"
 ---
 ## What it is
 MCP server that integrates multiple AI image generation providers (WaveSpeed, Nano Banana, OpenAI, Stability, fal.ai) to automate photoshoot tasks like product photography, fashion content, and batch editing.

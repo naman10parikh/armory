@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T18:26:06Z"
 ---
 ## What it is
 Routes narrow text-processing tools (classification, extraction, summarization, etc.) to budget models to reduce token consumption on the main model.

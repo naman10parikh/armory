@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-17T07:18:16Z"
 ---
 ## What it is
 MCP server `Document Processing and YouTube Content Extraction`, catalogued on PulseMCP. Provides specialized document processing and YouTube content extraction tools for template-based document generation and video content analysis without manual intervention.

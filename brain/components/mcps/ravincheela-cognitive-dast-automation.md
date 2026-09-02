@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-22T19:59:19Z"
 ---
 ## What it is
 MCP server `Cognitive DAST Automation`, catalogued on PulseMCP. Integrates OWASP ZAP security scanning with Google Gemini for automated vulnerability analysis, risk scoring, and remediation prioritization in CI/CD pipelines.

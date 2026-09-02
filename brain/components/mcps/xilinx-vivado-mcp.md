@@ -8,11 +8,13 @@ source_url: https://github.com/zdx8637-gitdog/Xilinx_Vivado_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:08:56Z"
 ---
 ## What it is
 MCP server for AMD Xilinx Vivado 2023.1 that enables Claude Code to act as an AI FPGA engineer, providing 27 tools for querying, building, simulating, and programming FPGA designs.

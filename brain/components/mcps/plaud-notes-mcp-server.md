@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-05-19T03:34:18Z"
 ---
 ## What it is
 Connects your Plaud voice recorder to Claude, giving access to recordings, transcripts, and AI summaries so you can query your notes via natural language.

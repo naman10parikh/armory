@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T03:12:00Z"
 ---
 ## What it is
 MCP server `Sheriff`, catalogued on PulseMCP. Work queue manager for AI agents fixing static analysis issues from SARIF reports with persistent progress tracking.

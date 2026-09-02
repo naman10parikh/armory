@@ -8,10 +8,12 @@ source_url: https://github.com/robbrad/homeassistant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-05T07:40:47Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Controls Home Assistant smart home devices through 40 AI tools covering lights, climate, covers, locks, media players, and vacuums.

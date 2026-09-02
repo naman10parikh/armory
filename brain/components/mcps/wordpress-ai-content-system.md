@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T02:07:55Z"
 ---
 ## What it is
 Automates the entire WordPress content lifecycle: topic research, AI writing, real-time SEO audits, automatic internal linking, and JSON-LD structured data injection.

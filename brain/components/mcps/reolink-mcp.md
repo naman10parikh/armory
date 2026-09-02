@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T05:52:58Z"
 ---
 ## What it is
 An MCP server that allows Claude or any MCP client to see and control Reolink cameras on the local network. It provides snapshots, device state, AI detection, PTZ controls, and deterrence features without cloud dependency.

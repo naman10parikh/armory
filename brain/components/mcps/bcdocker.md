@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T03:07:26Z"
 ---
 ## What it is
 MCP server for managing Business Central Docker containers, enabling AI assistants to list, create, test, and manage BC sandboxes via natural language.

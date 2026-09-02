@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T04:42:27Z"
 ---
 ## What it is
 MCP server `EU Finance`, catalogued on PulseMCP. European financial data from ECB, Eurostat, and Frankfurter APIs — interest rates, inflation, GDP, and unemployment.

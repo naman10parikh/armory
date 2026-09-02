@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T23:42:38Z"
 ---
 ## What it is
 MCP server `ICD-10-CM`, catalogued on PulseMCP. MCP server for ICD-10-CM medical code search, validation, and hierarchy navigation with multi-release support.

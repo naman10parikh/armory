@@ -8,11 +8,13 @@ source_url: https://github.com/vsaranyuk/kaiten-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2025-10-22T15:07:39Z"
 ---
 ## What it is
 MCP server for integrating Kaiten API with Claude Desktop, enabling management of cards, comments, spaces, and boards with advanced features like verbosity control, response format selection, and auto-truncation.

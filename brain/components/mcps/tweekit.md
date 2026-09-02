@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-03T22:21:40Z"
 ---
 ## What it is
 MCP server `TweekIT`, catalogued on PulseMCP. Universal file conversion service supporting 400+ formats including legacy Office, design files, and CAD documents

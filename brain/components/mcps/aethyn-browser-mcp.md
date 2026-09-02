@@ -8,11 +8,13 @@ source_url: https://github.com/aethynio/aethyn-browser-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-11T18:14:53Z"
 ---
 ## What it is
 An MCP server enabling AI agents to drive a real browser through residential proxies with per-task geo (country/city) and sticky identity, all chosen at call time.

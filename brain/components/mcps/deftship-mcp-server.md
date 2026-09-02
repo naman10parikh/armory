@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:22:08Z"
 ---
 ## What it is
 Enables AI clients to quote, ship, track, void, and manage shipments via the Deftship multi-carrier shipping API using natural language commands.

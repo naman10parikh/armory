@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T15:30:50Z"
 ---
 ## What it is
 MCP server for the ONE Framework ERP that enables Claude to explore data models, run queries, and understand business logic through autonomous access.

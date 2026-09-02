@@ -8,10 +8,12 @@ source_url: https://github.com/shiporbleed/mindswap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T17:09:38Z"
 ---
 ## What it is
 MCP server `Mindswap`, catalogued on PulseMCP. Persist AI context and memory locally for seamless continuity across coding tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-13T07:09:26Z"
 ---
 ## What it is
 Enables middleware management, information checking, backups, and node-level operations for the MegaCloud API.

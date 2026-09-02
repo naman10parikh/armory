@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:39:51Z"
 ---
 ## What it is
 Enables AI agents to generate images and videos via the Corent API with automatic model routing, provider fallback, and tools for planning, creation, and balance management.

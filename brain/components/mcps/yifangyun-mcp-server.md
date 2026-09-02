@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:16:29Z"
 ---
 ## What it is
 Enables AI agents to access Yifangyun cloud drive via MCP, supporting queries of enterprise organization, department folders, file details, and download links.

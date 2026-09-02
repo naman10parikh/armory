@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-31T22:52:49Z"
 ---
 ## What it is
 Integrates Nautex AI's specification and planning tool with coding agents to manage requirements, tasks, and code generation in small, testable steps.

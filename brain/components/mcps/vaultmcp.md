@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T05:03:43Z"
 ---
 ## What it is
 An encrypted secret vault and MCP gateway that securely stores API keys and injects them into upstream MCP servers, so AI IDEs never see raw credentials.

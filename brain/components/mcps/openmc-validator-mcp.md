@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:24:23Z"
 ---
 ## What it is
 An MCP server that provides pre-flight validation and post-processing tools for OpenMC Monte Carlo transport simulations, catching common authoring mistakes before jobs hit the HPC queue.

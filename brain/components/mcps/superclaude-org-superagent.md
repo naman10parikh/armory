@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-25T04:25:04Z"
 ---
 ## What it is
 MCP server `SuperAgent`, catalogued on PulseMCP. Orchestrates Codex and Gemini CLI agents with parallel execution across multiple working directories, enabling delegation of complex tasks to 16 specialized programming personas including backend architects, security engineers, and Python experts for simultaneous multi-project development workflows.

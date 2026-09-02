@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:18:07Z"
 ---
 ## What it is
 Enables rolling dice with customizable sides and counts, returning results and totals via MCP Streamable HTTP transport.

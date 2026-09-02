@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T20:18:28Z"
 ---
 ## What it is
 Publish reliable, duplicate-free Telegram posts from ChatGPT — manually or as part of a scheduled workflow.

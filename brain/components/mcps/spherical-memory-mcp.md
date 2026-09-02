@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T08:22:24Z"
 ---
 ## What it is
 Enables AI agents to store and recall memories in a spherical coordinate space with gravitational associations, supporting spatial storage, semantic linking, and human-like forgetting.

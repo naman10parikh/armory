@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:40:31Z"
 ---
 ## What it is
 Provides access to City of Salem GIS open geospatial data (ArcGIS), enabling search, query, and schema retrieval of datasets such as parcels, zoning, and public works.

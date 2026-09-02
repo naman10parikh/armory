@@ -8,10 +8,12 @@ source_url: https://github.com/mrdgbot/lanhu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-07T09:10:53Z"
 ---
 ## What it is
 MCP server `Lanhu`, catalogued on PulseMCP. Access Lanhu design files to generate HTML/CSS, extract design tokens, and convert mockups to code without leaving your editor.

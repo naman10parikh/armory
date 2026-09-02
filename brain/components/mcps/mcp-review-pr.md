@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T10:39:21Z"
 ---
 ## What it is
 An MCP server for multi-language PR review with deterministic analysis, providing AI-powered code review tools that detect languages, apply review guidelines, and run quality checks.

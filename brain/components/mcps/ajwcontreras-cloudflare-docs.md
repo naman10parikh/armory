@@ -8,10 +8,12 @@ source_url: https://github.com/ajwcontreras/cf-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T23:24:31Z"
 ---
 ## What it is
 MCP server `Cloudflare Docs Search`, catalogued on PulseMCP. Semantic search over Cloudflare developer documentation with 28,000+ indexed chunks on Cloudflare Workers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:44:33Z"
 ---
 ## What it is
 Ground Claude, ChatGPT, Cursor, and Windsurf in 300M scientific works — every citation a verifiable DOI.

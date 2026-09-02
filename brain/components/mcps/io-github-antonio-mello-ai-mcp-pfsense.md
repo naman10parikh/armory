@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-17T00:55:20Z"
 ---
 ## What it is
 Enables AI assistants to manage pfSense firewalls using 17 tools for system status, firewall rules, DHCP, DNS, monitoring, and service management via the pfSense REST API.

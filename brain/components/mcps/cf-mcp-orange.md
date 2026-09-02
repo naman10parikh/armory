@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:49:04Z"
 ---
 ## What it is
 A complete, all-in-one MCP server for Codeforces, enabling AI assistants to access user profiles, compare users, search problems, get practice recommendations, and more.

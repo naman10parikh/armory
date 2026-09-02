@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-07T10:11:30Z"
 ---
 ## What it is
 MCP server `Video Clip`, catalogued on PulseMCP. Provides FFmpeg-powered video processing capabilities for extracting clips from video files with batch processing support and flexible timestamp parsing.

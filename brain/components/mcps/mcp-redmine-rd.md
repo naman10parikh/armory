@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:53:09Z"
 ---
 ## What it is
 Brings Redmine issue tracking into Claude Code with tools for reading, creating, and updating tickets, plus a /fix-bug skill for automated bug fixing.

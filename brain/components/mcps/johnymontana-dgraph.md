@@ -8,10 +8,12 @@ source_url: https://github.com/johnymontana/dgraph-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-31T16:28:19Z"
 ---
 ## What it is
 MCP server `Dgraph`, catalogued on PulseMCP. Connects language models to Dgraph graph databases, enabling DQL queries, mutations, and schema management for seamless database interactions without context switching.

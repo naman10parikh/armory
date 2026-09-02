@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T15:16:50Z"
 ---
 ## What it is
 MCP server `Bitvoya`, catalogued on PulseMCP. Luxury hotel search, rate comparison, booking quotes, and secure checkout handoff.

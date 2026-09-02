@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T02:59:35Z"
 ---
 ## What it is
 MCP server `Docs2Prompt`, catalogued on PulseMCP. Converts documentation from GitHub repositories or websites into LLM-friendly prompts through tools for fetching from repos and URLs with GitHub authentication and response size management.

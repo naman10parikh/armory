@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T18:54:36Z"
 ---
 ## What it is
 Enables AI assistants to perform real network diagnostics on the local machine, including ping, traceroute, DNS lookups, TLS checks, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T20:23:36Z"
 ---
 ## What it is
 MCP server to mock OpenAI, Anthropic, and Google Gemini responses for testing AI integrations without real API keys or token spend.

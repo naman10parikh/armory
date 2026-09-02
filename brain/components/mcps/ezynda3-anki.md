@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-22T16:35:25Z"
 ---
 ## What it is
 MCP server `Anki`, catalogued on PulseMCP. Integrates with Anki flashcard management through AnkiConnect addon to create, search, and organize flashcards and decks with media attachment support and AnkiWeb synchronization.

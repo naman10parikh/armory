@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:32:36Z"
 ---
 ## What it is
 MCP server that lets a Duvo agent talk to Korral's StoreLink API, enabling category buyers to offload daily stock checking, replenishment ordering, and order tracking tasks.

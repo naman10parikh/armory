@@ -8,10 +8,12 @@ source_url: https://github.com/gbrigandi/mcp-server-cortex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-06T02:22:48Z"
 ---
 ## What it is
 MCP server `Cortex Threat Intelligence`, catalogued on PulseMCP. Integrates with Cortex threat intelligence services to analyze IP addresses, domains, URLs, and email addresses using security tools like AbuseIPDB, AbuseFinder, and VirusTotal for automated security assessments and investigations.

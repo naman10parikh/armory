@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-30T19:01:04Z"
 ---
 ## What it is
 Enables AI agents to manage GitHub repositories, branches, issues, pull requests, releases, and actions through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:32:43Z"
 ---
 ## What it is
 Enables AI assistants to search Bolivian Constitutional Court jurisprudence, legal cases, and resolutions, and download official signed PDF documents.

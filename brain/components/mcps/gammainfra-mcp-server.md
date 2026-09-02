@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T19:55:22Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for GammaInfra — intelligent LLM routing across every major provider via one OpenAI-shape API.

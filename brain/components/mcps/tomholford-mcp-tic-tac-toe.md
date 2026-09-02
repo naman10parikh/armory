@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
 stars: 4
+forks: 2
+pushed_at: "2025-07-11T07:13:38Z"
 ---
 ## What it is
 Play Tic Tac Toe against an AI opponent using this MCP server.

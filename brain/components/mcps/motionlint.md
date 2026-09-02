@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:09:03Z"
 ---
 ## What it is
 MotionLint measures the motion your app actually ships — durations, easing curves, stagger intervals, exit timing, reduced-motion support — and scores it against a published set of animation standards with vision LLM.

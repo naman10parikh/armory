@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-25T16:43:48Z"
 ---
 ## What it is
 Enables searching AWS Amplify documentation using natural language queries with advanced search syntax, smart ranking, and generation selection.

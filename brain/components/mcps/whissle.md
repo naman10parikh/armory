@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-11T02:42:12Z"
 ---
 ## What it is
 MCP server `Whissle`, catalogued on PulseMCP. Integrates with Whissle's speech processing API to enable speech-to-text transcription with timestamps and speaker diarization, machine translation between languages, and text summarization using LLM models.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-25T20:19:43Z"
 ---
 ## What it is
 MCP server `Rowik (Personal MediaWiki)`, catalogued on PulseMCP. Integrates with a personal MediaWiki instance to enable searching, retrieving, and manipulating wiki content for enhanced knowledge management and research workflows.

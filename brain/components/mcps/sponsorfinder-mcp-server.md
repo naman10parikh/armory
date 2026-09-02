@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:54:51Z"
 ---
 ## What it is
 Checks whether a company holds a UK or Netherlands work-visa sponsorship licence via the SponsorFinder API.

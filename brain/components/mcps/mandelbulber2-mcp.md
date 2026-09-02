@@ -8,11 +8,13 @@ source_url: https://github.com/lokicik/mandelbulber2-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:52:02Z"
 ---
 ## What it is
 MCP server for inspecting, cloning, patching, validating, and rendering preview images from Mandelbulber 2.34 fractal scene files, with safety limits and verified execution.

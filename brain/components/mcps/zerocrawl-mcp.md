@@ -8,11 +8,13 @@ source_url: https://github.com/AgentNex/zerocrawl-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T12:57:55Z"
 ---
 ## What it is
 ZeroCrawl MCP is a 100% free web crawling and scraping server for AI agents, offering tools like page scraping, domain crawling, metadata extraction, screenshots, sitemap parsing, batch scraping, and search-and-crawl. It requires no API keys and integrates with Claude Desktop, Cursor, and other MCP 

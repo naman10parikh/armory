@@ -8,11 +8,13 @@ source_url: https://github.com/RikaiDev/yomi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T00:10:32Z"
 ---
 ## What it is
 Enables AI agents to read, reply, send images, and search LINE messages by logging in as a secondary device, without official API or browser.

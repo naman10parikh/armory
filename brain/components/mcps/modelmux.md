@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T01:29:59Z"
 ---
 ## What it is
 Enables AI agents like Claude Code, Codex, and Perplexity to call each other as tools directly from the terminal, supporting text, code, images, and PDFs passed by file path.

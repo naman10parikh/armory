@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:07:23Z"
 ---
 ## What it is
 An MCP App template for building interactive UIs on deco, providing tools, resources, and a React frontend.

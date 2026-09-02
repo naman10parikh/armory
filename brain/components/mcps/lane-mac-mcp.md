@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:25:21Z"
 ---
 ## What it is
 A read-only iMessage MCP server for macOS that lets you list conversations, read chats, and search message history through Claude or a CLI. It is auditable, dependency-light, and deliberately has no send capability.

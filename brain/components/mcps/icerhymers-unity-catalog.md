@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T18:08:49Z"
 ---
 ## What it is
 MCP server `Unity Catalog`, catalogued on PulseMCP. Semantic search over Databricks Unity Catalog metadata using BGE-large embeddings and pgvector.

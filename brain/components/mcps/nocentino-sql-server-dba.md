@@ -8,10 +8,12 @@ source_url: https://github.com/nocentino/sql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-28T23:08:39Z"
 ---
 ## What it is
 MCP server `SQL Server DBA Monitor`, catalogued on PulseMCP. MCP server providing 30 DBA monitoring tools for SQL Server 2025 via DMVs, covering blocking chains, wait statistics, index analysis, and backup status.

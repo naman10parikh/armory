@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-17T16:00:37Z"
 ---
 ## What it is
 A Model Context Protocol server for Dub that enables creating, updating, deleting short links and retrieving link analytics through natural language.

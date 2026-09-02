@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T15:57:59Z"
 ---
 ## What it is
 A local MCP server that tracks token usage and costs for Claude Desktop and Claude Code, providing a live dashboard at localhost:6789.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T09:10:20Z"
 ---
 ## What it is
 Multi-carrier parcel tracking server that communicates directly with carrier APIs (DHL, UPS, FedEx, etc.) without third-party aggregators, providing normalized tracking status and events.

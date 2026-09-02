@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:28:34Z"
 ---
 ## What it is
 A self-owned deal memory layer that turns meeting notes, emails, and calls into structured deal signals for solo founders and early teams.

@@ -8,10 +8,12 @@ source_url: https://github.com/emenowicz/hybris-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-31T14:59:57Z"
 ---
 ## What it is
 MCP server `SAP Commerce Cloud (Hybris)`, catalogued on PulseMCP. Integrates with SAP Commerce Cloud (Hybris) for product catalog management, order processing, FlexibleSearch queries, Groovy script execution, ImpEx operations, cron job management, cache operations, and catalog synchronization.

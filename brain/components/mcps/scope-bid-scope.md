@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-30T23:02:51Z"
 ---
 ## What it is
 MCP server `Scope Legal`, catalogued on PulseMCP. Dispatches litigation work to legal vendors from any MCP-compatible AI workflow.

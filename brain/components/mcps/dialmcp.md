@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:14:48Z"
 ---
 ## What it is
 A hosted MCP server that enables AI agents to place real phone calls from a verified caller ID, with async call management and built-in safety controls.

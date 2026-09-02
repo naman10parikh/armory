@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:07:07Z"
 ---
 ## What it is
 Generates or reviews Git unified diffs via DeepSeek API with local path validation, enabling secure patch suggestions without scanning repositories.

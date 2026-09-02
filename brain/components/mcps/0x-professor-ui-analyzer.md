@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-21T19:42:28Z"
 ---
 ## What it is
 MCP server `UI Analyzer`, catalogued on PulseMCP. Analyzes website UI using Playwright browser automation to detect layout issues, identify broken elements, and generate precise CSS/HTML fixes with framework-specific solutions for React, Vue, Angular, and popular UI libraries.

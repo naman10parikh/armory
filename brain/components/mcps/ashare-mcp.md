@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T16:55:11Z"
 ---
 ## What it is
 An MCP server that exposes all 23 baostock data endpoints as tools, including K-line, quarterly financials, performance reports, dividends, industry classification, index constituents, and macro series.

@@ -8,10 +8,12 @@ source_url: https://github.com/back1ply/agent-skill-loader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-29T13:33:16Z"
 ---
 ## What it is
 MCP server `Agent Skill Loader`, catalogued on PulseMCP. Dynamically loads Claude Code skills into AI agents without copying files.

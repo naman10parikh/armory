@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:25:03Z"
 ---
 ## What it is
 A secure remote MCP server template implementing OAuth 2.1, client ID metadata documents, and constant-time credential verification for safe AI tool interactions.

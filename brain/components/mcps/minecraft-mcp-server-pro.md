@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:33:02Z"
 ---
 ## What it is
 Enables AI agents to control Minecraft via MCP with configurable versions, creative building commands, survival helpers, and an autonomous agent loop.

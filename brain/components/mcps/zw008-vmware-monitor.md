@@ -8,10 +8,12 @@ source_url: https://github.com/zw008/vmware-monitor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-31T08:09:39Z"
 ---
 ## What it is
 MCP server `VMware Monitor`, catalogued on PulseMCP. Read-only VMware vCenter and ESXi monitoring with code-level enforced safety.

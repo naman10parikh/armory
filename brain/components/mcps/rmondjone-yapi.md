@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-05T11:41:30Z"
 ---
 ## What it is
 MCP server `YAPI`, catalogued on PulseMCP. MCP server for the YAPI API management platform with tools to search and browse API interfaces for code generation.

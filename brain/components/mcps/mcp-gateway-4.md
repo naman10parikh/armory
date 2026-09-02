@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T19:32:18Z"
 ---
 ## What it is
 A generic MCP gateway that exposes any HTTP-based SQL portal as LLM-friendly MCP tools and standard REST endpoints, serving both human users and AI agents simultaneously.

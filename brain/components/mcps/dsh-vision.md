@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:58:55Z"
 ---
 ## What it is
 An MCP server providing vision understanding tools (image QA, OCR, video and document understanding) via OpenAI-compatible endpoints, defaulting to Zhipu GLM vision models.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-30T01:12:27Z"
 ---
 ## What it is
 MCP server `xcf (Xcode)`, catalogued on PulseMCP. Interacts with Xcode to allow fixing of warnings and build errors

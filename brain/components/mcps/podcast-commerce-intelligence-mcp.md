@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T04:32:22Z"
 ---
 ## What it is
 Extract product mentions, sponsors, and trends from podcast transcripts to generate affiliate revenue, with F1=100% on eval suite and a free tier of 200 calls/day.

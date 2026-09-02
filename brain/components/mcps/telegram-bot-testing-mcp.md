@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:25:20Z"
 ---
 ## What it is
 Enables AI agents to test Telegram bots by driving the official Telegram Web client in a real browser, allowing visual verification of bot responses, inline keyboards, and Mini Apps.

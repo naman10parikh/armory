@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:04:20Z"
 ---
 ## What it is
 MCP server that lets AI agents manage real todos, calendar events, and daily habits in the Kenotex planner app for Mac/iPhone via a local HTTP server and SQLite database.

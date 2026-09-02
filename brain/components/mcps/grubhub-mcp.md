@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T02:57:49Z"
 ---
 ## What it is
 An MCP server for Grubhub that enables searching restaurants, browsing menus, building carts, checking out, and placing orders, with additional support for campus dining cards.

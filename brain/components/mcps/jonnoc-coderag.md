@@ -8,10 +8,12 @@ source_url: https://github.com/jonnoc/coderag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-06-16T08:34:18Z"
 ---
 ## What it is
 MCP server `CodeRAG`, catalogued on PulseMCP. Parses TypeScript, JavaScript, Java, and Python codebases into a Neo4J graph database to extract code entities, relationships, and metadata, enabling software quality analysis through 18 metrics tools and guided exploration of dependencies, inheritance patterns, and architectural issues.

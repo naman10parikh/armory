@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T01:14:34Z"
 ---
 ## What it is
 An MCP server that serves company documentation from a Markdown folder, exposing read-only search and fetch tools for agents to discover and retrieve authoritative documents.

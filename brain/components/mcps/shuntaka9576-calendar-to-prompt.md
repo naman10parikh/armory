@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-21T03:07:38Z"
 ---
 ## What it is
 MCP server `cal2prompt (Google Calendar)`, catalogued on PulseMCP. Integrates with calendar APIs to fetch event data and generate context-aware prompts, enabling automated scheduling assistance and task management.

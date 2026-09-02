@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T17:16:16Z"
 ---
 ## What it is
 A wingman MCP server for Claude Code that provides auxiliary tools for file summarization, text compression, and diff review to ensure checklist items are not missed.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T13:47:30Z"
 ---
 ## What it is
 MCP server `Video Analyzer`, catalogued on PulseMCP. Download, transcribe, and analyze video content with intelligent frame extraction and image recognition.

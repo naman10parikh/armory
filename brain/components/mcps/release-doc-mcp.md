@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T17:47:56Z"
 ---
 ## What it is
 Finds version and image tag from latest successful GitHub Actions workflow run and creates a Confluence release page documenting that information.

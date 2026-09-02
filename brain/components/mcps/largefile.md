@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-09T10:37:45Z"
 ---
 ## What it is
 Navigate, search, and edit large codebases, logs, and data files that exceed AI context limits.

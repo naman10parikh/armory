@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-27T18:47:42Z"
 ---
 ## What it is
 MCP server `Lilo Property`, catalogued on PulseMCP. Vacation rental booking and guest protection for AI agents.

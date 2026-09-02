@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T17:53:24Z"
 ---
 ## What it is
 MCP server `Supericons`, catalogued on PulseMCP. Semantic SVG icon search and recommendations for AI coding agents.

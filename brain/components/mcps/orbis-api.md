@@ -8,10 +8,12 @@ source_url: https://github.com/orbisapi/orbis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T15:17:09Z"
 ---
 ## What it is
 MCP server `Orbis API`, catalogued on PulseMCP. Access 1,000+ APIs for AI agents via x402 USDC micropayments on Base at $0.01 per call.

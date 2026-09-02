@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T10:58:17Z"
 ---
 ## What it is
 Converts PDF files to Markdown with optional image extraction using docling, designed for isolated environments.

@@ -8,10 +8,12 @@ source_url: https://github.com/gsd-build/agent-inbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-10T06:29:50Z"
 ---
 ## What it is
 MCP server `Agent Inbox`, catalogued on PulseMCP. Create and manage disposable email inboxes for AI agents to handle email verification workflows autonomously.

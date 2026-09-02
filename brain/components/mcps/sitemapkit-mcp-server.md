@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:34:58Z"
 ---
 ## What it is
 Enables AI assistants to discover and extract sitemaps from any website, providing tools for finding sitemap files, extracting URLs, and performing full crawls.

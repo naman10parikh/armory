@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-02T10:03:42Z"
 ---
 ## What it is
 MCP server `VseGPT Image Generator`, catalogued on PulseMCP. Integrates with VseGPT API to generate images from English-language prompts and store them locally with timestamp-based filenames.

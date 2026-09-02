@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-21T01:56:43Z"
 ---
 ## What it is
 MCP server `IoT Home Automation`, catalogued on PulseMCP. Enables smart home automation with IoT device control and persistent memory for maintaining context across interactions through MQTT protocol

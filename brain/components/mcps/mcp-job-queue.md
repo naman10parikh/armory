@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T12:10:14Z"
 ---
 ## What it is
 Enables MCP clients to submit long-running jobs that are executed safely in isolated child processes with a durable SQLite queue, configurable timeouts, retries with backoff, and backpressure.

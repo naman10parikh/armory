@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T07:25:24Z"
 ---
 ## What it is
 An AI lab companion that connects Claude to scientific databases, computational chemistry tools, bench references, and publication utilities, covering the entire research workflow from literature search to publication.

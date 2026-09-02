@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-30T12:04:43Z"
 ---
 ## What it is
 An MCP server for managing, editing, and running Stata .do files, integrating with Claude Desktop to enable natural language control of Stata analysis on macOS.

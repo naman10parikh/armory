@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T21:37:34Z"
 ---
 ## What it is
 MCP server to list and get events from Evento's public API using an API key.

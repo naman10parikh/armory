@@ -8,10 +8,12 @@ source_url: https://github.com/secfathy/apktool-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-06-26T10:48:59Z"
 ---
 ## What it is
 MCP server `APKtool`, catalogued on PulseMCP. Integrates with Apktool to provide Android APK decompilation, recompilation, manifest analysis, permission extraction, and smali code searching for mobile security research and reverse engineering workflows.

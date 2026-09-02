@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:01Z"
 ---
 ## What it is
 MCP server that exposes mDNS service discovery functionality via the Model Context Protocol, enabling LLMs to discover and query zero-configuration network services on the local network.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T10:54:03Z"
 ---
 ## What it is
 MCP server `Agent Prompt Injection Firewall`, catalogued on PulseMCP. Pattern-based and heuristic firewall that scans prompts, RAG documents, and tool arguments for prompt injection attacks.

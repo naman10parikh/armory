@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:45:18Z"
 ---
 ## What it is
 Provides AI agents with direct, permissioned access to team documents, databases, spreadsheets, and knowledge via an MCP interface, enabling natural-language queries and management.

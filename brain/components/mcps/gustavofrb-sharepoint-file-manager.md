@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T19:29:19Z"
 ---
 ## What it is
 MCP server `SharePoint File Manager`, catalogued on PulseMCP. Manages files on SharePoint through Microsoft Graph API with create, read, edit, delete, and list operations.

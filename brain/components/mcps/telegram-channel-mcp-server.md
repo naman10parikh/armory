@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-12T07:57:33Z"
 ---
 ## What it is
 Enables sending messages to Telegram channels via MCP protocol, integrating with AI assistants for automated messaging.

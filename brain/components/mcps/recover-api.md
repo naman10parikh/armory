@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:04:27Z"
 ---
 ## What it is
 Provides a deterministic failure-decision API for MCP clients, returning one of six actions (RETRY_NOW, WAIT, REPAIR_REQUEST, VERIFY_FIRST, ESCALATE, ABORT) based on failure context to guide safe next steps.

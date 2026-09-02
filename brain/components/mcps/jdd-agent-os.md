@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:32:28Z"
 ---
 ## What it is
 MCP-native evolution control plane that discovers, tests, governs, versions, and promotes improved AI agents. Integrates with LocalLLM-MCP for real or simulated model evaluation.

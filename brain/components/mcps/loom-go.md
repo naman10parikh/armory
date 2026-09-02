@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T20:06:55Z"
 ---
 ## What it is
 A thinking assistant MCP server that helps you reason through problems using structured frameworks like first principles and sequential thinking, starting wherever you are — clear, messy, or fragmentary.

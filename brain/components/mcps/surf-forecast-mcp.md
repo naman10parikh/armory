@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-11T00:16:54Z"
 ---
 ## What it is
 Provides surf forecast data including swell height, period, direction, and wind conditions for any location worldwide using the Open-Meteo Marine API. It also includes tools to find the best day to surf and integrates with MCP clients via a Python server.

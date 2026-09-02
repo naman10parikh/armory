@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-26T19:42:19Z"
 ---
 ## What it is
 Enables natural language management of Apache Airflow workflows, including DAG monitoring, task control, and configuration, via the Model Context Protocol.

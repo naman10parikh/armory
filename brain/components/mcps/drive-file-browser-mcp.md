@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:47:42Z"
 ---
 ## What it is
 MCP server that lets AI assistants browse, search, and read files from a Google Drive folder, supporting local stdio and remote HTTP deployments with tools like list_files, search_files, get_file_info, and read_file.

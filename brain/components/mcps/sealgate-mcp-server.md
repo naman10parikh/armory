@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:05:45Z"
 ---
 ## What it is
 An MCP proxy that forwards tool calls to your organisation's Sealgate gateway, enabling AI agents to list governed MCP servers and review agent sessions/audit events for AI data-leak prevention.

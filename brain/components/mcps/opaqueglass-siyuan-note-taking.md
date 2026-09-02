@@ -8,10 +8,12 @@ source_url: https://github.com/opaqueglass/syplugin-anmcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-09T11:37:22Z"
 ---
 ## What it is
 MCP server `SiYuan Note-Taking`, catalogued on PulseMCP. Integrates with SiYuan note-taking application to enable reading, writing, searching, and querying functionality directly within your knowledge management workflows.

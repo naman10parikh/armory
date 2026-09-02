@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:01:02Z"
 ---
 ## What it is
 MCP server for MiniMax media generation (TTS, image, video, music) routed through the wesioiot proxy, enabling media creation with PT-BR voices and async job polling.

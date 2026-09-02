@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T08:13:02Z"
 ---
 ## What it is
 MCP server `Projscan`, catalogued on PulseMCP. Agent-first code intelligence using AST parsing across seven languages with 20 analysis tools, running offline.

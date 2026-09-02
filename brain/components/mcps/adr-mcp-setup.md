@@ -8,10 +8,12 @@ source_url: https://github.com/wooxogh/adr-mcp-setup
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T10:50:40Z"
 ---
 ## What it is
 MCP server `ADR Generator`, catalogued on PulseMCP. Automatically captures Claude Code sessions and generates Architecture Decision Records with quality scoring.

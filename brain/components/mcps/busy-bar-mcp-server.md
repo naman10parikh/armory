@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:20:19Z"
 ---
 ## What it is
 MCP server that enables AI assistants to query and control a physical Busy Bar queue-management display over HTTP. Provides 13 tools for account info, system status, and time operations.

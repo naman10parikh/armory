@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:26:42Z"
 ---
 ## What it is
 Enables LLMs to compute cryptographic hashes and perform key derivation functions using Python's hashlib library.

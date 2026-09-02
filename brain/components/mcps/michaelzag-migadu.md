@@ -8,10 +8,12 @@ source_url: https://github.com/michaelzag/migadu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-22T00:52:53Z"
 ---
 ## What it is
 MCP server `Migadu`, catalogued on PulseMCP. Integrates with Migadu's email hosting API to manage mailboxes, aliases, identities, and rewrite rules with bulk operations, password resets, and autoresponder configuration.

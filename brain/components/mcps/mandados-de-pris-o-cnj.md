@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:31:05Z"
 ---
 ## What it is
 Enables checking for open arrest warrants in the Brazilian CNJ national database using a person's CPF and name, via a hosted read-only MCP server.

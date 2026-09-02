@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:21:59Z"
 ---
 ## What it is
 Governed SSO/IAM operations for Keycloak and Authentik — login-failure, stale-permission, client-config, and MFA RCA, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

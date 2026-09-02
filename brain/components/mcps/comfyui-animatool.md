@@ -8,11 +8,13 @@ source_url: https://github.com/Moeblack/ComfyUI-AnimaTool
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 131
+stars: 132
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-03-26T09:47:20Z"
 ---
 ## What it is
 Enables AI agents to generate anime-style images using ComfyUI and Anima models, with MCP support for native image display in chat clients.

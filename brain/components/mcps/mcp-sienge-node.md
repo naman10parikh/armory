@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:18:07Z"
 ---
 ## What it is
 A Node.js MCP server that provides tools for interacting with the Sienge API, covering modules like nucleus, cadastros, and compras with parity validation against the Python version.

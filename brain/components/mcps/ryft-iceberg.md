@@ -8,10 +8,12 @@ source_url: https://github.com/ryft-io/iceberg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-14T15:41:33Z"
 ---
 ## What it is
 MCP server `Apache Iceberg`, catalogued on PulseMCP. Provides direct access to Apache Iceberg tables stored in AWS, enabling exploration of catalogs, schemas, properties, and partition information without complex queries or code.

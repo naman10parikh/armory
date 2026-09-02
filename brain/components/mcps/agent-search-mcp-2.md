@@ -8,11 +8,13 @@ source_url: https://github.com/lennney/agent-search-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 107
+stars: 108
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-17T13:37:14Z"
 ---
 ## What it is
 Free multi-source search for AI agents with multi-source verification, token savings, and MCP native support.

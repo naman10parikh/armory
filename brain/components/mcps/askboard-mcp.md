@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T04:57:08Z"
 ---
 ## What it is
 A local MCP server that collects structured human input via browser forms and maintains a searchable history dashboard.

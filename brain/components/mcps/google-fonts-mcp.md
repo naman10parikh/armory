@@ -8,11 +8,13 @@ source_url: https://github.com/sliday/google-fonts-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T20:36:14Z"
 ---
 ## What it is
 MCP server for searching Google Fonts and generating complete CSS/Tailwind typographic systems with font pairings and modular scales.

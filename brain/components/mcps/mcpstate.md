@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:30:10Z"
 ---
 ## What it is
 Durable, user-keyed state management for stateless MCP servers. Enables agents to persist and resume state across conversations, clients, and devices.

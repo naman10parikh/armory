@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:34:06Z"
 ---
 ## What it is
 Enables AI agents to self-report bugs, ambiguities, and improvement requests via a single report_issue tool, logging to PostgreSQL or JSONL with severity and mode classification.

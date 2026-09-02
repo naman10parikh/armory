@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:21:22Z"
 ---
 ## What it is
 Enables local browsing and searching of Skype export archives through MCP tools for messages, conversations, participants, and attachment extraction, with privacy-focused local processing.

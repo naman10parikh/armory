@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-29T11:03:01Z"
 ---
 ## What it is
 An MCP server that integrates with the FacturaScripts ERP system, providing resources and tools to manage clients, products, invoices, accounting entries, and business analytics through natural language.

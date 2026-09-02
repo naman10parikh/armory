@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T11:35:20Z"
 ---
 ## What it is
 MCP server that gives Claude Code and other MCP clients persistent memory using plain Markdown notes stored on your disk and optionally synced to cloud storage (iCloud, OneDrive, Google Drive, Dropbox).

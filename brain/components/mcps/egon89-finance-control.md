@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T15:26:50Z"
 ---
 ## What it is
 MCP server `Finance Control`, catalogued on PulseMCP. Personal finance management with SQLite-backed data storage and SSE transport for tracking financial records.

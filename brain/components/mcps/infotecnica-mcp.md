@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:55:43Z"
 ---
 ## What it is
 Provides access to as-built technical data of Chile's National Electric System (SEN) equipment, enabling query of installation types, companies, and detailed technical sheets with certification status via public API.

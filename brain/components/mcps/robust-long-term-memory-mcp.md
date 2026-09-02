@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-03-01T14:31:44Z"
 ---
 ## What it is
 A persistent, human-like memory system for AI companions in LM Studio, using SQLite and ChromaDB for hybrid storage, enabling seamless recall across sessions and models.

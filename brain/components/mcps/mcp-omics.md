@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-13T01:22:44Z"
 ---
 ## What it is
 A Model Context Protocol server that enables retrieval of -omics data from sources like PDB, ChEMBL, UniProt, PubChem, and HUGO.

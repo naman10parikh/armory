@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T08:49:04Z"
 ---
 ## What it is
 Enables Claude to remember and search everything that appeared on your screen using local OCR and embeddings. Provides tools for semantic search, activity timeline, and code change tracking.

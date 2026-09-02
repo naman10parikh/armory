@@ -8,10 +8,12 @@ source_url: https://github.com/aleksvin8888/local-docmost-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-26T05:57:41Z"
 ---
 ## What it is
 MCP server `Docmost`, catalogued on PulseMCP. Integrates with self-hosted Docmost wiki for listing spaces, searching documents, and retrieving page content.

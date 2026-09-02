@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-23T08:12:03Z"
 ---
 ## What it is
 MCP server `Gatherings (Expense Sharing)`, catalogued on PulseMCP. Manages shared expenses in social events by tracking costs, calculating reimbursements, and settling balances between friends through a TypeScript wrapper around a Python backend with SQLAlchemy persistence.

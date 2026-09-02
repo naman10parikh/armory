@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-17T03:08:47Z"
 ---
 ## What it is
 MCP server that provides semantic search and documentation for STM32 microcontrollers, with specialized agents and slash commands for embedded development assistance.

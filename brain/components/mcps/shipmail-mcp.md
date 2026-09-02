@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:18:58Z"
 ---
 ## What it is
 Official MCP server for Shipmail, enabling agents to manage domains, mailboxes, messages, threads, webhooks, and suppressions via natural language.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: [cc-notify, claude-hooks]
 tags: [claude-code, hooks]
 stars: 178
+forks: 14
+pushed_at: "2025-08-26T17:11:20Z"
 ---
 ## What it is
 Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for < 5ms validation performance during real-time editing.

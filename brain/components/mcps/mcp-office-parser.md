@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T01:36:48Z"
 ---
 ## What it is
 Enables reading, writing, editing, and converting Office documents (ODT, DOCX, ODS, XLSX, PDF, etc.) using MCP tools, with no external dependencies.

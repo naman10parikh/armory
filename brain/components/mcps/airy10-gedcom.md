@@ -8,10 +8,12 @@ source_url: https://github.com/airy10/gedcommcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-07-18T08:55:38Z"
 ---
 ## What it is
 MCP server `GEDCOM`, catalogued on PulseMCP. Integrates with GEDCOM genealogy files to provide complete family history management including relationship pathfinding, duplicate detection, statistical analysis, and automated data population from web sources like Wikipedia.

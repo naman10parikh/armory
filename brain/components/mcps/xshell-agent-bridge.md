@@ -8,11 +8,13 @@ source_url: https://github.com/zhenyuanfan/xshell-agent-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:26:38Z"
 ---
 ## What it is
 Local MCP server that lets AI agents read and control attached Xshell terminal sessions.

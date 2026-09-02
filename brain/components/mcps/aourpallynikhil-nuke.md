@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-25T00:22:42Z"
 ---
 ## What it is
 MCP server `Nuke`, catalogued on PulseMCP. Provides a bridge to Nuke compositing software for automating common tasks like node creation, configuration, and render operations through a Python interface

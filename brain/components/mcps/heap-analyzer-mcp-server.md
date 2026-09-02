@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T06:16:03Z"
 ---
 ## What it is
 Provides tools to analyze and compare JVM thread dumps, summarizing thread states and detecting deadlocks.

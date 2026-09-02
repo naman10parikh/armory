@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T15:47:35Z"
 ---
 ## What it is
 A dynamic-analysis MCP server for reverse-engineering the Broadcom BCM6726b0 WiFi driver, enabling live GDB debugging of the QEMU dhd harness with breakpoints, stepping, and memory inspection.

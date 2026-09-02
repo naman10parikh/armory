@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T09:18:29Z"
 ---
 ## What it is
 MCP server `Neural Draft`, catalogued on PulseMCP. Neural Draft backend integration for AI-generated sites — CMS, blogging, bookings, and commerce in one MCP server.

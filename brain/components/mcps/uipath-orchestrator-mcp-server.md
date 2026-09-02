@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:24:46Z"
 ---
 ## What it is
 Enables natural language interaction with UiPath Orchestrator to list folders, processes, robots, and jobs, and to trigger process executions.

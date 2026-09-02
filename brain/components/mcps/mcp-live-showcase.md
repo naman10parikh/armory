@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:50:46Z"
 ---
 ## What it is
 Two MCP servers for a live demo: a clinical server for patient lookup, labs, and drug safety checks, and a data explorer server for querying a sales database.

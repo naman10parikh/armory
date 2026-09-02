@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:27:24Z"
 ---
 ## What it is
 MCP server for drupal.org's public REST API. Enables querying projects, issues, comments, and user information on drupal.org.

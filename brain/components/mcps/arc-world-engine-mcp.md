@@ -8,11 +8,13 @@ source_url: https://github.com/junxiangyang0707-hash/arc-agi-3-world-model-lab
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T06:09:41Z"
 ---
 ## What it is
 Enables interaction with an explicit ARC-AGI-3 world model through typed operations for actor/rule editing, deterministic simulation, rendering, and observation comparison.

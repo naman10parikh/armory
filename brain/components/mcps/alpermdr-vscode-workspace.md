@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-13T19:47:55Z"
 ---
 ## What it is
 MCP server `VSCode Workspace`, catalogued on PulseMCP. Integrates with VSCode to provide real-time workspace access, enabling file reading, code analysis across multiple languages, command execution, and automatic detection of recently accessed files and active projects.

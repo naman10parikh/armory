@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T13:54:35Z"
 ---
 ## What it is
 Enables real-time Indian Railways information retrieval, including live train running status, station schedules, and upcoming arrivals/departures.

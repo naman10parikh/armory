@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T21:02:23Z"
 ---
 ## What it is
 Exposes the Hellio Messaging API as MCP tools for SMS, OTP, voice, HLR lookup, email verification, balance, pricing, webhooks, and USSD operations.

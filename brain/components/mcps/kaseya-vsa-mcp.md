@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:36:33Z"
 ---
 ## What it is
 MCP server for Kaseya VSA — endpoints, patches, procedures, alarms, and tickets. Enables AI assistants to manage and monitor devices via the Kaseya VSA RMM platform.

@@ -8,10 +8,12 @@ source_url: https://github.com/korotovsky/slack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1623
+stars: 1808
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 366
+pushed_at: "2026-07-16T17:14:22Z"
 ---
 ## What it is
 MCP server `Slack Conversations`, catalogued on PulseMCP. Bridges AI with Slack's messaging platform, enabling access to conversation history from channels through secure authentication and flexible transport modes.

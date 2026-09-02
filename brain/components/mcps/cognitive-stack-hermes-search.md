@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-19T13:21:46Z"
 ---
 ## What it is
 MCP server `Hermes Search (Azure Cognitive Search)`, catalogued on PulseMCP. Provides a bridge to Azure Cognitive Search for executing search queries, indexing documents, and managing search indexes with filtering options

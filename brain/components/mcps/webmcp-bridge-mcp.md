@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T01:28:47Z"
 ---
 ## What it is
 Bridges MCP clients to Chrome pages with WebMCP support, enabling tool discovery and execution on web pages via a Chrome extension.

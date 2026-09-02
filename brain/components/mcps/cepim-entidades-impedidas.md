@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:25:09Z"
 ---
 ## What it is
 Checks whether a private non-profit entity is listed in CEPIM (impeded from receiving public funds) using its CNPJ. Offers a read-only tool for any MCP client via HTTP.

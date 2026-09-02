@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T14:02:17Z"
 ---
 ## What it is
 MCP server `Factsets`, catalogued on PulseMCP. Local, persistent, self-maintaining knowledge base for agents

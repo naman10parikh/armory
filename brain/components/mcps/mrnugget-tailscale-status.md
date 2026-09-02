@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-21T08:13:40Z"
 ---
 ## What it is
 MCP server `Tailscale Status`, catalogued on PulseMCP. Enables querying Tailscale status by parsing CLI output on macOS, providing structured data about connected devices and network information.

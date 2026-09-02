@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-17T15:44:10Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides comprehensive PDF redaction capabilities, including text and image redaction, search, and session-based in-memory operations using FastMCP and pymupdf.

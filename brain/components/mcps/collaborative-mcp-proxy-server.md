@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T11:50:13Z"
 ---
 ## What it is
 Enables multi-AI collaborative analysis by proxying requests to existing login-based MCP servers (Gemini CLI and Codex CLI) from Claude Desktop or Claude Code.

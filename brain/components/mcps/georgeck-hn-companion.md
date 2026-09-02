@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-16T17:51:54Z"
 ---
 ## What it is
 MCP server `Hacker News Companion`, catalogued on PulseMCP. Analyzes and processes Hacker News discussions, extracting key insights from comment hierarchies based on engagement metrics for efficient thread summarization.

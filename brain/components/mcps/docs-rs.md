@@ -8,10 +8,12 @@ source_url: https://github.com/nuskey8/docs-rs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-31T08:26:34Z"
 ---
 ## What it is
 MCP server `docs.rs`, catalogued on PulseMCP. Integrates with crates.io and docs.rs to search Rust crates, retrieve README content, fetch documentation for specific API items, and search within crate APIs using web scraping converted to markdown format.

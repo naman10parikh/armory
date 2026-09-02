@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:17:53Z"
 ---
 ## What it is
 MCP server that runs a unified mission across multiple read-only senses (repo, net, browser) and returns a claim graph with verdicts, contradictions, and next-step probes.

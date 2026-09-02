@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T13:16:02Z"
 ---
 ## What it is
 MCP server `Selenix by markmircea`, catalogued on PulseMCP. Bridges Claude Desktop to Selenix for browser automation test creation, execution, debugging, and management.

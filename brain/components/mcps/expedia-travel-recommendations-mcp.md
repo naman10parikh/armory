@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-26T17:35:21Z"
 ---
 ## What it is
 MCP server for Expedia travel recommendations. Enables LLMs to search hotels, flights, activities, and car rentals using natural language.

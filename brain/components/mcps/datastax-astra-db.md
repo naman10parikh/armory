@@ -8,10 +8,12 @@ source_url: https://github.com/datastax/astra-db-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-07-20T14:14:04Z"
 ---
 ## What it is
 MCP server `Astra DB`, catalogued on PulseMCP. Integrates with Astra DB, enabling cloud-native database operations for scalable data storage and retrieval in AI applications.

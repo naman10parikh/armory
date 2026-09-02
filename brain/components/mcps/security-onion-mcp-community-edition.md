@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:45:45Z"
 ---
 ## What it is
 An MCP server for Security Onion Community Edition that provides 21 read and write tools for SOC operations, including event querying, alert management, detection tuning, PCAP retrieval, and agent enrollment, without requiring a Pro license.

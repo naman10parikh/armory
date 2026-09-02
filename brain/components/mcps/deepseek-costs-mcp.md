@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:09:26Z"
 ---
 ## What it is
 Provides tools to check DeepSeek account balance, list available models, and estimate costs from token usage, without proxying API calls.

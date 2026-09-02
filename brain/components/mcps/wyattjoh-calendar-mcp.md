@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 2
+forks: 2
+pushed_at: "2025-08-05T22:33:11Z"
 ---
 ## What it is
 MCP server for accessing macOS Calendar events

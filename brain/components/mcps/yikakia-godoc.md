@@ -8,10 +8,12 @@ source_url: https://github.com/yikakia/godoc-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-19T12:57:25Z"
 ---
 ## What it is
 MCP server `Go Documentation`, catalogued on PulseMCP. Enables Go developers to search for and retrieve detailed documentation from pkg.go.dev, including package information, constants, types, functions, and variables.

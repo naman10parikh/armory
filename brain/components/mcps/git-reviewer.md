@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T20:14:09Z"
 ---
 ## What it is
 Enables AI assistants to fetch GitHub pull request diffs and metadata, and post review comments directly through the MCP protocol.

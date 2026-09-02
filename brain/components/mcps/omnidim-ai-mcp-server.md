@@ -8,11 +8,13 @@ source_url: https://github.com/Omnidim/omnidim-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:12:57Z"
 ---
 ## What it is
 Local stdio Model Context Protocol server for OmniDimension. Drive voice agents, dispatch calls, and manage knowledge bases from Claude, Cursor, Windsurf, or any MCP-compatible client.

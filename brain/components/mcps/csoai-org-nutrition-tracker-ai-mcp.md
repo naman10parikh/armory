@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:38:27Z"
 ---
 ## What it is
 MCP server `Nutrition Tracker AI`, catalogued on PulseMCP. Python MCP server for nutrition tracking and dietary analysis.

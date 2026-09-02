@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:25:56Z"
 ---
 ## What it is
 Enables AI assistants to read and query a Finanze self-hosted portfolio manager using natural language, including net worth, positions, and financial calculations.

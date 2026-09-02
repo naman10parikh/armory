@@ -8,10 +8,12 @@ source_url: https://github.com/catalystneuro/mcp_read_images
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-26T21:51:01Z"
 ---
 ## What it is
 MCP server `Read Images`, catalogued on PulseMCP. Integrates with OpenRouter's vision models to enable image analysis and content extraction through natural language queries.

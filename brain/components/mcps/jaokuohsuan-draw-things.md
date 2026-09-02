@@ -8,10 +8,12 @@ source_url: https://github.com/jaokuohsuan/draw-things-mcp-cursor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-12T03:49:51Z"
 ---
 ## What it is
 MCP server `Draw Things`, catalogued on PulseMCP. Integrates with the Draw Things API to convert text prompts or JSON inputs into JSON-RPC requests, enabling AI image generation capabilities with automatic saving and error handling.

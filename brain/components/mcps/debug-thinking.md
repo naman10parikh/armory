@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T02:24:05Z"
 ---
 ## What it is
 Structures debugging processes into a persistent knowledge graph, enabling problem decomposition, hypothesis testing, and reusable solution discovery.

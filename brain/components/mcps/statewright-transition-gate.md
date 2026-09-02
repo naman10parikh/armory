@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T16:08:51Z"
 ---
 ## What it is
 A paid hosted MCP server that enforces explicit state transitions for AI agent workflows, providing tools to check, explain, and log state changes.

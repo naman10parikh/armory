@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T00:02:39Z"
 ---
 ## What it is
 Recovers genuine transparency from images with painted checkerboard backgrounds, outputting RGBA PNGs with proper alpha channels. Supports CLI and MCP stdio server for macOS.

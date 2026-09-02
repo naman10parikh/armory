@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:52:35Z"
 ---
 ## What it is
 Enables SEO audits and URL monitoring via the SEO Radar API from any MCP-compatible AI client.

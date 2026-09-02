@@ -8,11 +8,13 @@ source_url: https://github.com/softdaddy-o/soft-ue-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 203
+stars: 205
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 46
+pushed_at: "2026-08-03T13:09:33Z"
 ---
 ## What it is
 MCP server for controlling Unreal Engine 5 from AI agents, providing 120+ commands for spawning actors, editing Blueprints, managing assets, and more via CLI or MCP.

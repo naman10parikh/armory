@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:47:29Z"
 ---
 ## What it is
 Enables reading and managing calendar events from local .ics files offline, without OAuth.

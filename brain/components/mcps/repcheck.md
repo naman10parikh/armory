@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:58:20Z"
 ---
 ## What it is
 Trust & reputation infrastructure for AI agents. Two tools: verify_agent returns trust scores and job history for any agent, report_outcome records completed jobs to build reputation over time. Open source, MIT licensed."

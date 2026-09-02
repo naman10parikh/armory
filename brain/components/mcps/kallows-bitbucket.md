@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-06-09T03:21:10Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Enables robust Bitbucket repository management by providing comprehensive API integration for repository creation, file manipulation, issue tracking, and branch management with advanced error handling and permission controls.

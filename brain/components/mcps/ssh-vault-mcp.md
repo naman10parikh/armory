@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T07:32:53Z"
 ---
 ## What it is
 Enables AI agents to securely access encrypted secrets (SSH keys, API tokens, passwords) with real-time user approval via Passkey, and supports SSH remote execution through the MCP protocol.

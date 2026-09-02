@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T03:05:54Z"
 ---
 ## What it is
 Enables interaction with SAP Business One via Service Layer REST API to retrieve and create business data such as partners, orders, invoices, items, and stock levels through natural language.

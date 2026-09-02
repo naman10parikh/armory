@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:04:22Z"
 ---
 ## What it is
 Real-time exploit-exposure check for EVM wallets with x402 USDC payments, no signup needed.

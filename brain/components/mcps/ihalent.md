@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:55:14Z"
 ---
 ## What it is
 Turns Turkish public-tender result notices into structured records and provides analytics on firm history, discount distributions, and competition metrics via an MCP server.

@@ -8,10 +8,12 @@ source_url: https://github.com/chatterboxio/chatterboxio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-15T19:52:44Z"
 ---
 ## What it is
 MCP server `ChatterBox`, catalogued on PulseMCP. Integrates with ChatterBox's meeting bot service to join Zoom, Google Meet, and Microsoft Teams sessions for automated transcript capture, meeting data retrieval, and structured summary generation.

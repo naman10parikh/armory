@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T04:59:44Z"
 ---
 ## What it is
 Enables LLMs to accurately convert climbing grades across different rating systems using a data-driven approach.

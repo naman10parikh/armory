@@ -8,10 +8,12 @@ source_url: https://github.com/perforce/p4plan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T14:34:46Z"
 ---
 ## What it is
 MCP server `P4 Plan`, catalogued on PulseMCP. Manage tasks, sprints, bugs, and comments in Perforce P4 Plan via its GraphQL API.

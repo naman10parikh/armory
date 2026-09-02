@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:48:06Z"
 ---
 ## What it is
 An MCP server that generates Excalidraw diagrams to visualize algorithm execution step-by-step, supporting multiple data structures and integration with AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:18:29Z"
 ---
 ## What it is
 Enables safe, multi-account Gmail and Microsoft 365 operations with explicit aliases, including searching, reading, drafting, archiving, labels/categories, and human-reviewed sending via a localhost approval window.

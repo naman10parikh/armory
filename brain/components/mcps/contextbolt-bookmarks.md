@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:25:23Z"
 ---
 ## What it is
 AI-powered recall over your saved bookmarks. It gives Claude semantic search, topic clusters, recent saves, and save-from-chat across the content you save from X, Reddit, LinkedIn, and the web.

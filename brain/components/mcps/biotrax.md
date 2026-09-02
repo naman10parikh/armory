@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T19:08:11Z"
 ---
 ## What it is
 Unified genomic track, peak, and sequence retrieval tool for ENCODE, ChIP-Atlas, ReMap, GEO, and SRA/ENA with unified metadata, resolved DOI/PMID provenance, and direct FASTQ download without SRA toolkit.

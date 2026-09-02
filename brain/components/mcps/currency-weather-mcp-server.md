@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T07:11:11Z"
 ---
 ## What it is
 Enables currency conversion, exchange rates, geocoding, and weather queries through MCP tools, integrated with OpenAI Responses API.

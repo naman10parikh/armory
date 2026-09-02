@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T20:28:39Z"
 ---
 ## What it is
 A language expression coach MCP server that provides native-sounding translations with cultural context, tone notes, and audio pronunciation for over 13 languages.

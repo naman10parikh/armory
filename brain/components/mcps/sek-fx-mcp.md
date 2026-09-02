@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-18T21:51:01Z"
 ---
 ## What it is
 Fetches exchange rates from Riksbanken API for currencies to Swedish kronor using ISO 4217 codes.

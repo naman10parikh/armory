@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:05:38Z"
 ---
 ## What it is
 An MCP server that lets AI assistants search, compare, and rank Korean ETFs by name, issuer, index, or category, with price return calculations and NAV premium analysis.

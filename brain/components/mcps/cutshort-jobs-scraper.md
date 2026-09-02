@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:35:36Z"
 ---
 ## What it is
 Scrapes tech job listings from Cutshort.io with full details such as salary, skills, and company info, supporting pagination and proxy configuration. Designed for AI agents via MCP.

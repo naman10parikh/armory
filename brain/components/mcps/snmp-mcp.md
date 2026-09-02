@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T20:24:12Z"
 ---
 ## What it is
 An MCP server that wraps the IETF SNMP standard so AI agents can poll any SNMP-speaking device on the network, with generic primitives and MIB-specific wrappers for read-only inspection.

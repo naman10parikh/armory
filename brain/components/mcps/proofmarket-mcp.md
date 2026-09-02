@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:03:02Z"
 ---
 ## What it is
 Exposes a machine-callable proof-market surface for agents to submit proof requests, monitor market state, compare coordination regimes, and compose multi-step workflows with no human in the loop.

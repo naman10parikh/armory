@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T02:06:07Z"
 ---
 ## What it is
 MCP server `CheckRecall`, catalogued on PulseMCP. Check U.S. NHTSA vehicle safety recall campaigns by make, model, and year with live official data.

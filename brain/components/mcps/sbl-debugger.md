@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T04:16:57Z"
 ---
 ## What it is
 Enables AI assistants to debug ARM Cortex-M targets via GDB and OpenOCD, supporting attach, breakpoints, stepping, register/memory inspection, and SVD peripheral decoding.

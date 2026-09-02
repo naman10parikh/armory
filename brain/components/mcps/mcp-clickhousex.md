@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:33:45Z"
 ---
 ## What it is
 A read-only MCP server for ClickHouse that enables metadata discovery, parameterized SELECT queries, SHOW introspection, query analysis, and snapshot mode for large result sets, with profile-based configuration and strict no-DML/DDL enforcement.

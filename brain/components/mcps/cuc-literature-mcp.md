@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:54:08Z"
 ---
 ## What it is
 Enables searching Web of Science for CUC SCI papers, downloading PDFs, and syncing results to Tencent Docs through persistent browser automation. Supports advanced queries, deduplication, CAS journal classification mapping, and incremental sync while preserving manual notes.

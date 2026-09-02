@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T01:07:42Z"
 ---
 ## What it is
 MCP server `AFKBot`, catalogued on PulseMCP. Manages paid time-off requests through AFKBot, syncing PTO across Float, Outlook Calendar, Autotask, and Rootly.

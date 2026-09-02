@@ -8,10 +8,12 @@ source_url: https://github.com/treesoop/ai-news-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-06-02T22:20:34Z"
 ---
 ## What it is
 MCP server `AI News`, catalogued on PulseMCP. AI and technology news aggregation from multiple sources with filtering tools.

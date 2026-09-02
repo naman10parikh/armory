@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:05:53Z"
 ---
 ## What it is
 Enables querying PDF documents using natural language with grounded answers and source citations via a local RAG pipeline.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:48:35Z"
 ---
 ## What it is
 Turn any link — video, PDF, screenshot, or article — into cached, timestamp-anchored understanding agents can query through lenses (explainer, build spec, teardown, design tokens, production blueprint). Every claim carries the exact second or page it came from.

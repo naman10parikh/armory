@@ -8,10 +8,12 @@ source_url: https://github.com/vinayak-mehta/mcp-sonic-pi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-22T15:39:25Z"
 ---
 ## What it is
 MCP server `Sonic Pi`, catalogued on PulseMCP. Connects AI systems to the Sonic Pi music programming environment, enabling creation and control of musical compositions through Ruby code with features for playback, pattern access, and live coding.

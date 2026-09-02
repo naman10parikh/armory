@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:04:13Z"
 ---
 ## What it is
 An MCP server that enables an image-to-3D-to-rigged character pipeline, offering tools to generate images with FLUX, create textured 3D meshes with TRELLIS, and rig characters with SkinTokens/TokenRig, all driven through MCP.

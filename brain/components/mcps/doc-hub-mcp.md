@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-28T06:27:08Z"
 ---
 ## What it is
 Provides retrieval of WeChat Work and Feishu developer documentation, enabling AI assistants to query API references without switching browsers.

@@ -8,11 +8,13 @@ source_url: https://github.com/Kaseban/baton
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T20:36:04Z"
 ---
 ## What it is
 Enables coding agents to convert and transfer sessions between different agent interfaces, allowing seamless continuation of work across agents.

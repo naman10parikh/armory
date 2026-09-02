@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T12:53:09Z"
 ---
 ## What it is
 Exposes Zwift training history stored in a local SQLite database to MCP clients and a REST API, enabling queries for activities, power curves, race results, and training load.

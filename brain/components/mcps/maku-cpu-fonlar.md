@@ -8,10 +8,12 @@ source_url: https://github.com/maku-cpu/fonlar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-06T20:38:22Z"
 ---
 ## What it is
 MCP server `Fonlar`, catalogued on PulseMCP. Query Turkish TEFAS investment fund prices, performance history, and portfolio allocations through natural language.

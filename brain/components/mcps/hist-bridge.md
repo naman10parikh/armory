@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T14:37:46Z"
 ---
 ## What it is
 Enables listing and continuing conversations from Claude Code, Codex, Cursor, and GLM, allowing context handoff between tools by providing historical transcripts as context.

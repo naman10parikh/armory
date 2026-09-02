@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T05:21:22Z"
 ---
 ## What it is
 Text-to-speech MCP server that enables AI assistants to read text aloud on the user's computer using Windows SAPI, with no API key or cloud service required.

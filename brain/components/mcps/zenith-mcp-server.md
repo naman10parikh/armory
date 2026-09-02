@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T13:37:38Z"
 ---
 ## What it is
 Personal habit tracking MCP server for a 90-day mission, tracking 6 non-negotiable habits with Supabase backend, exposes tools for logging and viewing progress.

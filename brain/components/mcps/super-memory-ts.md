@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T01:15:26Z"
 ---
 ## What it is
 Local-first semantic memory server with project indexing for AI assistants. It enables AI assistants to store, retrieve, and search memories and project code using embeddings and vector search.

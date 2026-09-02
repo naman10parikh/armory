@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:21:39Z"
 ---
 ## What it is
 MCP server that gives AI agents visual intelligence — search Pinterest, analyze images with LLM vision, build a semantic reference library, and retrieve by style or mood.

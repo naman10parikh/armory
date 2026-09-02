@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:52:50Z"
 ---
 ## What it is
 An MCP server for image recognition and OCR via OpenAI-compatible vision APIs, supporting local files, URLs, and data URLs. Enables natural language image description and text extraction.

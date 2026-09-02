@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 119
+pushed_at: "2026-08-01T14:44:12Z"
 ---
 ## What it is
 MCP server to control Gemini web interface via CDP for AI image generation, chat, and image extraction.

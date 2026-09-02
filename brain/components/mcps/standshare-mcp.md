@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T23:53:35Z"
 ---
 ## What it is
 MCP server for the StandShare API, enabling Claude and other MCP clients to manage fundraising events, families, workers, finances, notifications, and reports within a StandShare organization.

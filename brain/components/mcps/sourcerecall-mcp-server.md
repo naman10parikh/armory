@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:53:10Z"
 ---
 ## What it is
 Enables AI coding assistants to search and retrieve code from self-hosted Git repositories using semantic and lexical search with optional reranking, while keeping repository data under the operator's control.

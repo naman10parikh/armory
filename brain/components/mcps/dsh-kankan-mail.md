@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:09:38Z"
 ---
 ## What it is
 Enables AI agents to create and manage kankan.email mailboxes, send and receive emails, renew mailboxes, and handle order payments and status queries through MCP tools.

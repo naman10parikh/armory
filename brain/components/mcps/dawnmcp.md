@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T16:12:14Z"
 ---
 ## What it is
 A fully local, privacy-first MCP server that gives AI coding assistants deep repository intelligence with file-and-line-cited answers, persistent semantic memory, and agentic abilities like task planning and code review—all without any cloud API calls.

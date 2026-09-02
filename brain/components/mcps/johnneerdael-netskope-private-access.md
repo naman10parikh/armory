@@ -8,10 +8,12 @@ source_url: https://github.com/johnneerdael/privateaccess-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-05-20T10:14:42Z"
 ---
 ## What it is
 MCP server `Netskope`, catalogued on PulseMCP. Integrates with Netskope API to manage private access infrastructure, enabling automated publisher lifecycle, app configuration, policy creation, and traffic diagnostics.

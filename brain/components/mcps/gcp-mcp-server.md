@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-18T15:27:12Z"
 ---
 ## What it is
 Model Context Protocol server for Google Cloud Platform, enabling interaction with Resource Manager, Compute Engine, Cloud Storage, BigQuery, Pub/Sub, and Cloud Logging via natural language.

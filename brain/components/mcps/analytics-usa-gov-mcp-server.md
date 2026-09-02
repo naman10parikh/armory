@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-12T14:12:38Z"
 ---
 ## What it is
 Enables LLMs to query and analyze government website analytics from analytics.usa.gov via the Model Context Protocol, supporting single report, multiple reports, and aggregation tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T09:49:38Z"
 ---
 ## What it is
 A local RAG knowledge base MCP server that exposes semantic document search as tools using zvec for vector storage and Qwen3-Embedding for text embedding.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:40:09Z"
 ---
 ## What it is
 Provides fast, local, ranked search over PostgreSQL 18 and PostGIS 3.5 documentation via MCP, with no API keys or network calls at query time.

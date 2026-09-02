@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:57:46Z"
 ---
 ## What it is
 Enables Claude to search, list, and download files from any Google Drive folder shared with a service account, without OAuth or browser login.

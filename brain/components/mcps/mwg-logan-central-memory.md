@@ -8,10 +8,12 @@ source_url: https://github.com/mwg-logan/central-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-11T16:28:03Z"
 ---
 ## What it is
 MCP server `Central Memory`, catalogued on PulseMCP. Persistent knowledge graph storage through Azure Functions and Table Storage with workspace isolation, entity management, and temporal event tracking

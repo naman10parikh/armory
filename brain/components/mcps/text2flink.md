@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:15:20Z"
 ---
 ## What it is
 A tool that converts natural-language requests into full, deployable, execution-verified Apache Flink SQL jobs by orchestrating an LLM to draft specs, generate Flink SQL, and verify correctness against real Flink clusters and streaming semantics—including windowed aggregates, joins, Kafka grounding,

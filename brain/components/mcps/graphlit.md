@@ -8,10 +8,12 @@ source_url: https://github.com/graphlit/graphlit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 376
+stars: 379
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 53
+pushed_at: "2026-01-12T19:10:52Z"
 ---
 ## What it is
 MCP server `Graphlit`, catalogued on PulseMCP. Integrates with the Graphlit platform to enable natural language processing tasks and data retrieval from the Graphlit ecosystem.

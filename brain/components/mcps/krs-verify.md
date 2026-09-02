@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T16:50:58Z"
 ---
 ## What it is
 MCP server for verifying Polish business entities from the National Court Register (KRS) and VAT White List. Allows querying by KRS, NIP, or REGON to retrieve official company data including name, address, board, and capital.

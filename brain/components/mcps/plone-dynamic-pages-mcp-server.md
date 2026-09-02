@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:55:35Z"
 ---
 ## What it is
 Enables LLMs to manage Plone sites with dynamic page layouts, supporting CRUD operations on content and layout components via the cs_dynamicpages architecture.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-08T04:30:30Z"
 ---
 ## What it is
 Guides agents through structured workflows with predefined steps, allowing for flexible execution via instructions and tool calls.

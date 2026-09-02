@@ -8,10 +8,12 @@ source_url: https://github.com/kibela/kibela-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-10T05:13:21Z"
 ---
 ## What it is
 MCP server `Kibela`, catalogued on PulseMCP. Bridges to Kibela's knowledge management platform, enabling search, creation, and management of notes, folders, comments, and groups within workspaces through GraphQL API calls.

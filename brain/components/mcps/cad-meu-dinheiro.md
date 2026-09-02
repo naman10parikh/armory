@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:11:04Z"
 ---
 ## What it is
 Syncs bank data from Pluggy to Postgres and provides MCP tools to answer natural-language questions about spending, budgets, transactions, and categorization rules.

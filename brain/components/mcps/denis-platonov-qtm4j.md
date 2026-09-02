@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T20:34:24Z"
 ---
 ## What it is
 MCP server `QTM4J`, catalogued on PulseMCP. QMetry Test Management for Jira (QTM4J) integration with 20+ tools for test cases, cycles, executions, and steps.

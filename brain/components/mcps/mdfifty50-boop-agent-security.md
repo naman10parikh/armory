@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:48Z"
 ---
 ## What it is
 MCP server `Agent Security`, catalogued on PulseMCP. Prompt injection detection, secret scanning, and permission auditing for AI agents.

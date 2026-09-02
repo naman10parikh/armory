@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-14T08:21:30Z"
 ---
 ## What it is
 Enables AI-powered 3D content creation in Blender through natural language, including text-to-3D, image-to-3D, animation, rigging, rendering, and export.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T06:21:44Z"
 ---
 ## What it is
 MCP server `UOFastMCP`, catalogued on PulseMCP. Integrates U2 UniData/UniVerse databases with AI systems through secure role-based access and an admin control panel.

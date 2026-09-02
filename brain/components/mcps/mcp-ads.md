@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:41:06Z"
 ---
 ## What it is
 Enables running marketing platforms like Google Ads, Meta Ads, GA4, Search Console, Tag Manager, and WordPress from any MCP client to read performance, audit wasted spend, build reports, and launch campaigns (created paused until you say otherwise).

@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-14T19:11:56Z"
 ---
 ## What it is
 MCP server `Surf (Stormglass)`, catalogued on PulseMCP. For people who surf waves and the web. Unlocks wave analysis, forecasting, and custom surf applications.

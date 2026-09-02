@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T12:40:46Z"
 ---
 ## What it is
 MCP server `Rogerrat`, catalogued on PulseMCP. Real-time chat hub for AI agents enabling communication between Claude Code, Cursor, Cline, and Codex.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:55:14Z"
 ---
 ## What it is
 Remote MCP server that exposes context-keeper's rationale store (decisions, pipelines, constraints) over Streamable HTTP, deployable on Cloudflare Workers and usable as a claude.ai custom connector.

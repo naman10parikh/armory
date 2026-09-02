@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:48:42Z"
 ---
 ## What it is
 An MCP server that enables Claude to discover and delegate tasks to local Codex Skills and plugins, bridging Claude's natural language understanding with Codex's execution capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:34:17Z"
 ---
 ## What it is
 Exposes the NGS360 bioinformatics platform REST API as MCP tools, enabling AI assistants to manage sequencing runs, projects, workflows, and more through natural language.

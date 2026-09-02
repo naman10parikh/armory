@@ -8,10 +8,12 @@ source_url: https://github.com/chinawsb/daofy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-09-02T03:32:07Z"
 ---
 ## What it is
 MCP server `Delphi Compiler`, catalogued on PulseMCP. Compiles Delphi projects and Pascal files using locally installed compilers with multi-version support and build history tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T08:45:09Z"
 ---
 ## What it is
 This MCP server provides UV index information for South Korean cities and districts, sourced from the Ministry of the Interior and Safety's living safety map, enabling filtered lookups by region and returning index values with occurrence times.

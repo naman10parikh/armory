@@ -8,10 +8,12 @@ source_url: https://github.com/iakov-gan/mcp-server-visio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-18T21:15:05Z"
 ---
 ## What it is
 MCP server `Visio`, catalogued on PulseMCP. Microsoft Visio diagram generation and manipulation with Azure service icons and architecture helpers.

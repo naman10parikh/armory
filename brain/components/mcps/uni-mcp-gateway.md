@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-27T09:25:44Z"
 ---
 ## What it is
 A unified MCP gateway that aggregates multiple MCP servers and API plugins behind a single endpoint with authentication, rate limiting, audit logging, REST API bridge, and web dashboard.

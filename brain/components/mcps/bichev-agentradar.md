@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-17T01:08:52Z"
 ---
 ## What it is
 MCP server `AgentRadar`, catalogued on PulseMCP. Trust scoring and scam detection for AI agents on Base blockchain.

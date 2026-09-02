@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:46:01Z"
 ---
 ## What it is
 Bridges ActionForge's hosted function endpoints to any MCP client, letting Claude and others call your generated tools directly.

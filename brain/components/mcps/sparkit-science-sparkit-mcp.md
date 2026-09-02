@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, research]
 stars: 1
+forks: 0
+pushed_at: "2026-05-27T00:41:42Z"
 ---
 ## What it is
 MCP server for [SPARKIT](https://sparkit.science), a scientific research agent that searches the literature, reads papers, and returns cited Markdown reports. Submit a question via the `research` tool from Claude Desktop / Cursor / Claude Code; get back a ~90-second cited report without leaving the chat. `uv tool install sparkit-mcp` or `pip install sparkit-mcp`.

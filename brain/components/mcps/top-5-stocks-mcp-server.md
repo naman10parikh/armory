@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:51:18Z"
 ---
 ## What it is
 Exposes the Top 5 Stocks API as MCP tools for Claude and other agents, enabling market research watchlists and performance data retrieval.

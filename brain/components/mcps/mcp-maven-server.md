@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:50:35Z"
 ---
 ## What it is
 Wraps Maven and Spring Boot operations for Claude Code, providing structured JSON output instead of raw build logs to save tokens and focus on code fixes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:05:52Z"
 ---
 ## What it is
 Enables interaction with reMarkable tablets, allowing users to send PDFs and EPUBs, print from any application, list and read documents, and render handwritten pages as images. It provides MCP tools and skills for Claude to read and write to the tablet.

@@ -8,10 +8,12 @@ source_url: https://github.com/xlengelle-sf/agentforce-mcp-xlengelle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-09T13:53:47Z"
 ---
 ## What it is
 MCP server `Agentforce (Salesforce)`, catalogued on PulseMCP. Provides a bridge to Salesforce's Agentforce API, enabling authentication, session management, and message exchange with Salesforce agents for accessing customer data and domain-specific knowledge.

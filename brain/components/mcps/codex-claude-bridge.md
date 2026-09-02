@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-09T23:23:18Z"
 ---
 ## What it is
 MCP server that enables Claude Code to send code and plans for review by OpenAI Codex, returning structured feedback inline.

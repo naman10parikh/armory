@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:15:20Z"
 ---
 ## What it is
 Enables Claude Web to import batches of educational problems into the StudyOS Problem Bank via the StudyOS Import API, with automatic retries and normalized results for efficient problem generation workflows.

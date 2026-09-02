@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:58:57Z"
 ---
 ## What it is
 MCP server that bridges Model Context Protocol with browser automation, offering 37 tools across three modes (Playwright, CDP, Chrome Extension) and an autonomous agent for web tasks.

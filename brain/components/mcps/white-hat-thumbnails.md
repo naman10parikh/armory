@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:29:06Z"
 ---
 ## What it is
 MCP server that lets AI assistants manage Roblox thumbnails end to end, including performance tracking, generation, publishing, auto-rotation, and Discord team notifications.

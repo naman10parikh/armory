@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T11:09:19Z"
 ---
 ## What it is
 An MCP server that connects AI clients to Figma components, design tokens, and variables from the BrixUI Design System, enabling component browsing, searching, and token retrieval.

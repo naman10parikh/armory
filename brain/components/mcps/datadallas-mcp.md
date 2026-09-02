@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:53:43Z"
 ---
 ## What it is
 Enables querying Dallas open data via the Socrata SODA API, allowing access to municipal datasets through natural language.

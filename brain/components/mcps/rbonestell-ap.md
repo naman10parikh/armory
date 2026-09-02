@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-09T15:18:27Z"
 ---
 ## What it is
 MCP server `Associated Press`, catalogued on PulseMCP. Integrates with the Associated Press Media API for news content access and analysis

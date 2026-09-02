@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-10T07:19:55Z"
 ---
 ## What it is
 An MCP server that provides technical consultation, code review, and code explanation by integrating with OpenAI's Codex CLI, enabling AI-powered coding assistance in a sandboxed, read-only environment.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-29T08:10:35Z"
 ---
 ## What it is
 MCP server `Source Code`, catalogued on PulseMCP. Manage source code and files on your machine

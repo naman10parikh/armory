@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T04:18:30Z"
 ---
 ## What it is
 A read-only reference server for 303 curated generative art algorithms implemented in Python (py5), spanning physics, fractals, cellular automata, shaders, and more. Agents can search by keyword, visual mood (ethereal, chaotic, crystalline…), or multi-layer artistic intent to discover algorithms, re

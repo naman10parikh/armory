@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-22T20:20:05Z"
 ---
 ## What it is
 A Model Context Protocol server for Neovim that provides LSP-based symbol tools, enabling AI language models to perform code analysis and manipulation such as symbol lookup, renaming, and body replacement via Neovim's built-in LSP.

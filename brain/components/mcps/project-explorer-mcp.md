@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-22T10:58:19Z"
 ---
 ## What it is
 Analyzes Python project structure by exploring directory trees, extracting outlines from Python and Markdown files, and inspecting OpenAPI specifications.

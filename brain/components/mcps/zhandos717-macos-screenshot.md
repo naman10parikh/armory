@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T22:06:07Z"
 ---
 ## What it is
 MCP server `macOS Screenshot`, catalogued on PulseMCP. Capture macOS screen content as fullscreen or region screenshots via native screencapture CLI.

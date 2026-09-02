@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-20T04:13:10Z"
 ---
 ## What it is
 MCP server `Perplexity AI Search`, catalogued on PulseMCP. Integrates with Perplexity AI's search capabilities to enable AI-powered web search queries using TypeScript and the OpenAI SDK.

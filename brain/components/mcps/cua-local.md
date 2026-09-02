@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T03:21:28Z"
 ---
 ## What it is
 Provides a local MCP bridge for AI assistants to control a Mac by observing screen state and performing actions like mouse movement, clicking, typing, and opening URLs.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T21:00:44Z"
 ---
 ## What it is
 MCP server `TypeScript Config Flattener`, catalogued on PulseMCP. Resolves TypeScript config inheritance chains and returns effective compiler options per file.

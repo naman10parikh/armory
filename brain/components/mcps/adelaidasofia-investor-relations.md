@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T02:04:21Z"
 ---
 ## What it is
 MCP server `Investor Relations`, catalogued on PulseMCP. Seed raise pipeline tracker that syncs from Obsidian CRM vault and generates investor meeting prep.

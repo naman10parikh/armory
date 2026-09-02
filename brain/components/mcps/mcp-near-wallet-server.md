@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T15:32:33Z"
 ---
 ## What it is
 Enables Claude Desktop and MCP clients to interact with NEAR blockchain accounts for balance checks, account info, access keys, transaction status, and sending signed transactions.

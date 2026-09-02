@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:12:00Z"
 ---
 ## What it is
 Disability insurance quote intake and coverage guidance for high-income professionals. Provides a quote_request action that files a lead with a licensed brokerage, plus read-only tools for specialty guidance, carrier comparison, benefit-cap math, and rider definitions.

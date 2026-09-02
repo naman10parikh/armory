@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-08T16:14:23Z"
 ---
 ## What it is
 Enables AI agents to interact with ontologies through the Ontology Access Kit, providing ontology querying and management capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T01:29:09Z"
 ---
 ## What it is
 A desktop management platform for plugin management, log querying, service control, and packaging/deployment, with an MCP protocol bridge for AI clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T12:23:06Z"
 ---
 ## What it is
 An MCP server for discovering ColabFit materials science datasets and training MACE interatomic potentials on local hardware, enabling AI assistants to search, download, train, and validate models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:09:00Z"
 ---
 ## What it is
 Enables AI agents to research, create, optimize, publish, and track content using the Frase content operating system, integrating directly with WordPress, Sanity, Webflow, Wix, and FraseCMS.

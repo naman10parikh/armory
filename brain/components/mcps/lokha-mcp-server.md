@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:01:00Z"
 ---
 ## What it is
 A Model Context Protocol server hosted on Cloudflare Workers that integrates AI assistants with the Lokha ecosystem, currently providing Ghost CMS tools for content management, publishing, and scheduling.

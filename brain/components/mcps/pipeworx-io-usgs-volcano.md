@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:53Z"
 ---
 ## What it is
 MCP server `USGS Volcano`, catalogued on PulseMCP. USGS Volcano Hazards Program public feed for monitoring US volcano activity and hazard alerts via Pipeworx.

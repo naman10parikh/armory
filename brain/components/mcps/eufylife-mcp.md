@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-15T16:43:23Z"
 ---
 ## What it is
 An MCP server for EufyLife smart scale body composition data, exposing weight, BMI, body fat, muscle mass, and 20+ other measurements as tools for AI assistants.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-22T03:01:46Z"
 ---
 ## What it is
 MCP server `ACMS`, catalogued on PulseMCP. Provides programmatic access to Apple's container CLI tool on macOS with 50+ container operations across 9 functional categories, supporting both local and remote HTTP/S access.

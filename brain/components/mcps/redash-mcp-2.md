@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T11:00:59Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Redash - manage queries, dashboards, and visualizations through AI assistants like Claude.

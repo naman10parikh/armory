@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:00:24Z"
 ---
 ## What it is
 Enables remote database access (RDBMS and MongoDB) through MCP tools, supporting read/write queries, schema management, and more.

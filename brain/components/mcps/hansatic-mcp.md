@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:34:41Z"
 ---
 ## What it is
 Enables AI agents to pack trucks and shipping containers by generating validated 3D load plans with metrics like LDM, linear feet, and pallet positions through the Hansatic packing API.

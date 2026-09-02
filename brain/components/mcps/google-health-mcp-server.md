@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T02:21:36Z"
 ---
 ## What it is
 MCP server to read daily activity, sleep, heart rate, and body metrics from Google Health API, allowing AI assistants like Claude to access your health data. Optionally syncs health metrics to an Obsidian vault.

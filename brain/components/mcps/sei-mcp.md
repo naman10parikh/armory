@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-02T15:07:25Z"
 ---
 ## What it is
 Enables automation of the SEI! (Sistema Eletrônico de Informações) system via Claude Code, supporting login, process search, document download/creation/signing, and forwarding through natural language commands.

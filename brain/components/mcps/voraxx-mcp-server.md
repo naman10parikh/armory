@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:53:51Z"
 ---
 ## What it is
 A minimal, dependency-free MCP server that gives AI agents three real, read-only security-orchestration tools: cve_lookup, shodan_host_lookup, and nuclei_scan.

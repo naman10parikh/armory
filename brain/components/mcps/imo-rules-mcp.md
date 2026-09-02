@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:32:18Z"
 ---
 ## What it is
 Provides offline semantic search and reading of IMO maritime rules (SOLAS, MARPOL, STCW, etc.) to AI clients via MCP.

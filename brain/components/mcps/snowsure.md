@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:21:05Z"
 ---
 ## What it is
 Live ski & snow data for AI agents: 14-day multi-model forecasts, powder rankings, resort guides, webcams, ski-pass intelligence, and avalanche/road safety across 500+ resorts. Hosted streamable-HTTP — no install, no auth.

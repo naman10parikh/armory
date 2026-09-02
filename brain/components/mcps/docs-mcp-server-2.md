@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:18:52Z"
 ---
 ## What it is
 A multi-tenant MCP server that indexes documentation from websites, git repositories, and local folders, and exposes them to AI clients via search and fetch tools.

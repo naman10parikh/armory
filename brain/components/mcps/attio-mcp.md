@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T21:49:39Z"
 ---
 ## What it is
 Enables interaction with Attio CRM through natural language, using a Code Mode pattern where the LLM writes JavaScript to query the OpenAPI spec and call endpoints via three tools: search, execute, and context.

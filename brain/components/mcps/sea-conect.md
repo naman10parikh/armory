@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:04:13Z"
 ---
 ## What it is
 Enables Claude users to look up RCA and ICSARA documents for a SEIA project by expediente ID directly in chat, without running scripts or needing an API key.

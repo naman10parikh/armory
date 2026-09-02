@@ -8,10 +8,12 @@ source_url: https://github.com/apify/mcp-server-rag-web-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 208
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-05-19T20:20:12Z"
 ---
 ## What it is
 MCP server `Apify RAG Web Browser`, catalogued on PulseMCP. Integrate with Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.

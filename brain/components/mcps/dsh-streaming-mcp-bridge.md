@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:22:34Z"
 ---
 ## What it is
 Bridges DeepSeek Harness streaming events to external clients via MCP and ACP, enabling real-time progress notifications for tool calls and status updates.

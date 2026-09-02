@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T07:46:29Z"
 ---
 ## What it is
 Enables LLM agents to search and analyze Elasticsearch logs for errors, detect recurring patterns, analyze error-rate trends, and retrieve full trace context through MCP tools.

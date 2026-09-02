@@ -8,11 +8,13 @@ source_url: https://github.com/fmp-projects/fitness-ai-connector
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:42:34Z"
 ---
 ## What it is
 Garmin health and fitness data in Claude and ChatGPT via the official Garmin Health API. Hosted remote server with OAuth sign-in — no password sharing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:06:18Z"
 ---
 ## What it is
 Astrology MCP server that computes natal charts, transits, synastry, progressions, returns, eclipses, retrogrades, and moon phases from a real ephemeris, enabling AI agents to provide accurate astrological calculations without hallucination.

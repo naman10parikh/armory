@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T07:16:46Z"
 ---
 ## What it is
 Provides RuboCop and Rails linting capabilities to AI assistants like Claude and Cursor, allowing them to lint, auto-correct, and manage Ruby code style violations.

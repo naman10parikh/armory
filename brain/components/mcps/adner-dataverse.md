@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-26T18:44:23Z"
 ---
 ## What it is
 MCP server `Microsoft Dataverse`, catalogued on PulseMCP. Integrates with Microsoft Dataverse to execute FetchXML queries, create bulk contacts with progress tracking, and generate Chart.js reports while using intelligent prompts for large dataset management and markdown table transformation.

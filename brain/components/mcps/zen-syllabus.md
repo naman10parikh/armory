@@ -8,10 +8,12 @@ source_url: https://github.com/sifue/zen-syllabus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-13T08:30:17Z"
 ---
 ## What it is
 MCP server `Zen Syllabus (Educational Curriculum Explorer)`, catalogued on PulseMCP. Provides structured access to educational curriculum data, enabling subject exploration and detailed information retrieval based on grade level and keyword filters

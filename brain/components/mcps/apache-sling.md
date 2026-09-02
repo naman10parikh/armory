@@ -8,10 +8,12 @@ source_url: https://github.com/apache/sling-org-apache-sling-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-09T18:40:53Z"
 ---
 ## What it is
 MCP server `Apache Sling`, catalogued on PulseMCP. Bridges Apache Sling web framework with development capabilities including servlet generation, OSGi component management, and system diagnostics.

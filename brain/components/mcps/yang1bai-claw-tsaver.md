@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, delivery]
 stars: 1
+forks: 0
+pushed_at: "2026-05-20T00:30:15Z"
 ---
 ## What it is
 __ 🐍 🏠 🍎 🪟 🐧 - Token-saving MCP proxy that intercepts oversized tool returns and replaces them with a preview + on-demand handle. Real benchmark: 11,507 tokens → 104 tokens (99.1% saved) on a Wikipedia fetch. Works with OpenClaw + Claude.

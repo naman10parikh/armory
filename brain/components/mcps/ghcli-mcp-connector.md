@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:13:36Z"
 ---
 ## What it is
 ghcli-mcp-connector is an MCP server that lets agents run any GitHub CLI (gh) command—repos, issues, PRs, releases, workflows, gists, and more—as a single static Go binary with a read-only-by-default safety gate on state-changing operations.

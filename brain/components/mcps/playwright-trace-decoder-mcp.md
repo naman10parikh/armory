@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:57:23Z"
 ---
 ## What it is
 An MCP server that unpacks and structures Playwright trace.zip archives so AI agents can perform root-cause analysis on CI failures, with 16 focused tools for inspection, DOM/UI analysis, root-cause analysis, and performance analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T18:33:06Z"
 ---
 ## What it is
 A Python MCP server for indexing projects using embeddings, providing semantic search to help AI agents navigate codebases.

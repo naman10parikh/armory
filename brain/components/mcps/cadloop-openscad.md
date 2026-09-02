@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:27:49Z"
 ---
 ## What it is
 Enables parametric CAD modeling using OpenSCAD via MCP, supporting syntax checking, rendering, measuring, and previewing within a sandboxed workspace.

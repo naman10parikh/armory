@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T21:15:29Z"
 ---
 ## What it is
 Enables sending messages, images, documents and more on WhatsApp directly from any MCP-compatible AI, with tools for chat management, groups, and webhooks.

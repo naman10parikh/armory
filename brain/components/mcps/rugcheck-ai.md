@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:02:46Z"
 ---
 ## What it is
 On-chain Solana token safety for AI trading agents — screens any token for rugs, honeypots and mint/freeze authority traps by reading the chain directly, then executes the buy through a safety-verified, MEV-protected route.

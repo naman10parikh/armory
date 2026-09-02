@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:38:13Z"
 ---
 ## What it is
 An MCP server that exposes a sandboxed task runner protocol to any MCP client, enabling evidence-protected task execution, exit protocol reading, and autopsy reports.

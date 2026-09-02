@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:15:46Z"
 ---
 ## What it is
 Provides MCP tools to scan and navigate markdown repositories, offering graph-based overview, document reading, context retrieval, and orphan detection.

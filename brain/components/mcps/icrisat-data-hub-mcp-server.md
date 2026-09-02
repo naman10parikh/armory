@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:29:59Z"
 ---
 ## What it is
 Enables LLMs to search, preview, and query data assets from ICRISAT's federation-first data hub, supporting CSV, Excel, and Word files with SQL access via DuckDB.

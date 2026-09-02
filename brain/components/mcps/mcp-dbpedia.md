@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:59:07Z"
 ---
 ## What it is
 Enables querying DBpedia's structured knowledge graph using SPARQL and lookup tools, allowing AI agents to access Wikipedia-derived data.

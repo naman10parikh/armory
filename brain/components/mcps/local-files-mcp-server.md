@@ -8,11 +8,13 @@ source_url: https://github.com/TobiasArg/LocalFilesOrganizer-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T23:18:56Z"
 ---
 ## What it is
 Provides safe local file operations through MCP, including reading, writing, searching, organizing, and protected deletion with configurable path restrictions.

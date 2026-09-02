@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T05:37:36Z"
 ---
 ## What it is
 MCP server `AI Answer Copier`, catalogued on PulseMCP. Convert Markdown to PDF, DOCX, HTML, and 7 other formats locally.

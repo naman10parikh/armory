@@ -8,10 +8,12 @@ source_url: https://github.com/kilkelly/nano-currency-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-13T19:03:42Z"
 ---
 ## What it is
 MCP server `Nano Currency`, catalogued on PulseMCP. Lightweight server for sending Nano cryptocurrency, enabling direct blockchain transactions with robust validation and error handling.

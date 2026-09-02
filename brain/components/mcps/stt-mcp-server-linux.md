@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-12T09:08:59Z"
 ---
 ## What it is
 Local speech-to-text MCP server for Linux that transcribes audio via push-to-talk (Right Ctrl) and injects the text into Claude's input stream in Tmux.

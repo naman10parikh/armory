@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T20:36:49Z"
 ---
 ## What it is
 Read-only observation of a single live URL: parses static HTML to report security posture, forms, links, accessibility signals, and leaks, with described fixes. SSRF-gated and safe, never executes JavaScript.

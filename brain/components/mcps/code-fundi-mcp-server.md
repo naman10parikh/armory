@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T16:57:53Z"
 ---
 ## What it is
 A production-grade MCP server for the Code-Fundi API, enabling AI agents to map codebases, search semantically, and analyze blast radius. It provides tools for repository management, AI-powered research, and impact analysis before shipping changes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T13:23:41Z"
 ---
 ## What it is
 A Model Context Protocol server for generating text embeddings using OpenAI, Anthropic, or Ollama, with tools for single and batch embedding operations.

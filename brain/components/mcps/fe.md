@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T12:22:37Z"
 ---
 ## What it is
 Multi-site analytics for AI agents — GA4, Google Search Console, Cloudflare edge, PageSpeed, and audit insights across all your websites as tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T23:59:00Z"
 ---
 ## What it is
 Connects Google Search Console to your page content and ranks SEO opportunities by estimated revenue, helping content creators prioritize fixes that pay most.

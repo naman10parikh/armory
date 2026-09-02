@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:24:31Z"
 ---
 ## What it is
 Enables LLMs to analyze Linux perf data files using 26 perf analysis commands, including report, script, annotate, and more, through typed tool parameters.

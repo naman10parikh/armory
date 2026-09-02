@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T16:24:43Z"
 ---
 ## What it is
 Provides deterministic Python code quality analysis using flake8, mypy, McCabe, and vulture, enabling LLMs to access real linting and type checking results.

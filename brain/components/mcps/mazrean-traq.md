@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T14:27:16Z"
 ---
 ## What it is
 MCP server `traQ`, catalogued on PulseMCP. Provides a bridge to the traQ chat platform, enabling flexible querying and interaction with channels, messages, users, stamps, and pins using Deno and a type-safe API implementation.

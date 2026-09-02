@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T16:25:27Z"
 ---
 ## What it is
 Enables sending CSV data to a configured API endpoint, supporting grouped entries with optional date markers and configurable column count.

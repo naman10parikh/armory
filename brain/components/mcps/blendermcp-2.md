@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2025-04-19T02:31:11Z"
 ---
 ## What it is
 MCP server that integrates Blender with CSM.ai 3D assets and LLM agents, enabling AI-assisted 3D modeling and animation through natural language commands.

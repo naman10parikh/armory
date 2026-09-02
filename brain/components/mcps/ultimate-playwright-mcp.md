@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-07T07:52:18Z"
 ---
 ## What it is
 Multi-agent Playwright MCP server with tab isolation via targetId, enabling multiple agents to share a single Chrome browser while maintaining isolated tab groups and shared sessions.

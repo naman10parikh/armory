@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:52:55Z"
 ---
 ## What it is
 Enables plant disease diagnosis and identification, plant recommendations, garden layout design, pot management, and care scheduling with reminders, integrating with Kakao services.

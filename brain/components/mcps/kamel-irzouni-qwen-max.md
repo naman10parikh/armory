@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-07-16T09:49:09Z"
 ---
 ## What it is
 MCP server `Qwen Max`, catalogued on PulseMCP. Integrates with Qwen Max large language model via Dashscope API for text generation and analysis tasks in applications.

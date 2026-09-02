@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:09:15Z"
 ---
 ## What it is
 Enables AI agents to query and triage Bugzar QA session reports (status, comments, repro steps, console errors, failed requests, network, system info) scoped to a project via the MCP protocol.

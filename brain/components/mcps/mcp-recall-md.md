@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T19:50:57Z"
 ---
 ## What it is
 Enables semantic search over local markdown note collections using vector embeddings, with real-time file watching and zero-config setup.

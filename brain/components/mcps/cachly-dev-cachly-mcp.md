@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 2
+forks: 1
+pushed_at: "2026-08-30T21:32:40Z"
 ---
 ## What it is
 Persistent AI memory brain for Claude Code, Cursor, Copilot, Windsurf, Cline & Zed. `session_start()` briefs your AI on last session, lessons, and open tasks in one call. 84 tools — Team Brain, semantic BM25+ search, Team Telepathy, Ambient Git Learning, Memory Crystals, Analytics, and managed Valkey/Redis. `npx @cachly-dev/init` — free tier, no credit card. [Website](https://cachly.dev)

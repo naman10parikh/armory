@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:44:05Z"
 ---
 ## What it is
 MCP server `Skip Hire AI Compliance`, catalogued on PulseMCP. Covers UK waste carrier registration, Environment Agency waste codes, and hazardous waste consignment note requirements for skip hire operators.

@@ -8,10 +8,12 @@ source_url: https://github.com/moldsim/moldsim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-03T12:28:58Z"
 ---
 ## What it is
 MCP server `MoldSim`, catalogued on PulseMCP. Injection molding simulation expertise with material properties, process validation, and DFM checks.

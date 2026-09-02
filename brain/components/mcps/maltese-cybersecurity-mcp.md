@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:34:26Z"
 ---
 ## What it is
 Enables querying Maltese cybersecurity regulations, decisions, and requirements from CSIRTMalta via MCP-compatible clients like Claude and Cursor.

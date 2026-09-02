@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-29T15:33:15Z"
 ---
 ## What it is
 Enables AI assistants to control network bandwidth, monitor traffic, and manage device connections via EvilLimiter for authorized network testing and debugging.

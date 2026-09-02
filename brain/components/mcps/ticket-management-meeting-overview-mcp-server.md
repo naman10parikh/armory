@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:26:18Z"
 ---
 ## What it is
 An MCP server for managing tickets and meetings with CRUD operations, backed by PostgreSQL, and includes a REST API and React frontend.

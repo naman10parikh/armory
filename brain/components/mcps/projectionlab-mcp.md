@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-08T07:02:10Z"
 ---
 ## What it is
 MCP server for ProjectionLab — export, snapshot, and restore your financial plans. Includes a built-in FIRE advisor knowledge base.

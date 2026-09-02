@@ -8,10 +8,12 @@ source_url: https://github.com/thepeppy/supper-ida-mcp-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T11:43:29Z"
 ---
 ## What it is
 MCP server `Supper IDA Tools`, catalogued on PulseMCP. Desktop MCP hub routing reverse engineering analysis across multiple concurrent IDA Pro instances via a single local streamable HTTP endpoint.

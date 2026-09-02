@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T09:36:25Z"
 ---
 ## What it is
 MCP server `YARD Documentation`, catalogued on PulseMCP. Exposes Ruby gem and YARD documentation through 11 specialized tools for exploring classes, methods, and inheritance hierarchies with fuzzy search, source code retrieval, and automatic documentation building for Ruby development workflows.

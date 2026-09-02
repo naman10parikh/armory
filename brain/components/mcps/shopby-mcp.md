@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T04:20:45Z"
 ---
 ## What it is
 Enables searching and browsing Shopby API documentation using natural language queries through MCP tools like search_apis and get_api_detail.

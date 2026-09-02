@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-06T15:02:44Z"
 ---
 ## What it is
 Enables control of Sony TVs via IRCC remote commands through Model Context Protocol.

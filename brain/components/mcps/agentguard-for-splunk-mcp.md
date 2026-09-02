@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T17:26:46Z"
 ---
 ## What it is
 A safety layer and monitoring copilot for AI agents using Splunk MCP, recording tool calls, enforcing policies, and blocking risky actions.

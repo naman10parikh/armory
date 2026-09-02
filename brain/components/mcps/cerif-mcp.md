@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:02:43Z"
 ---
 ## What it is
 MCP server that provides AI assistants with tools to understand, validate, generate, and transform CERIF 1.6 research information, including entity browsing, XML validation, document building, and migration from CERIF 1.5.

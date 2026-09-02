@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-07T12:02:18Z"
 ---
 ## What it is
 MCP server `Templonix Lite`, catalogued on PulseMCP. Local AI agent infrastructure with FAISS-based vector memory, document ingestion, workflow templates, and integrations with Gmail, Google Calendar, Eraser.io, and Jina.

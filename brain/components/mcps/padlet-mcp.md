@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T05:58:44Z"
 ---
 ## What it is
 An MCP server that lets AI agents directly manage Padlet boards, including creating boards with sections, posting cards with attachments and polls, adding comments, reactions, and more.

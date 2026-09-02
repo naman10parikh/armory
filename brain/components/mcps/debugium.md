@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T10:19:18Z"
 ---
 ## What it is
 A multi-language debugger with real-time web UI and 64 MCP tools for LLM-driven debugging, supporting Python, JavaScript, TypeScript, C/C++, Rust, Java, Scala, and WebAssembly.

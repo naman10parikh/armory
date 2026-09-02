@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T20:29:44Z"
 ---
 ## What it is
 Enables AI agents to interact with Dash dashboards by exposing them as MCP servers via a WebSocket bridge, with automatic tool registration and human-in-the-loop confirmation.

@@ -8,10 +8,12 @@ source_url: https://github.com/mikusnuz/app-publish-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-29T19:05:04Z"
 ---
 ## What it is
 MCP server `App Store & Google Play`, catalogued on PulseMCP. Manage iOS and Android app publishing across App Store Connect and Google Play Console.

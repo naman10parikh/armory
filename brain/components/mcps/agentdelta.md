@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:24Z"
 ---
 ## What it is
 Agent trace diff and prompt regression detection — compares two agent runs to find exactly where reasoning diverged.

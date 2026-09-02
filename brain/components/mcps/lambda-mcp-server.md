@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:04:25Z"
 ---
 ## What it is
 A stateless Python MCP server packaged as a custom AWS Lambda container image, exposing basic tools like hello, add, and current_time through an API Gateway HTTP API.

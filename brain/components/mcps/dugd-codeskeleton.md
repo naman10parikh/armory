@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T11:01:13Z"
 ---
 ## What it is
 MCP server `CodeSkeleton`, catalogued on PulseMCP. Compact Python code reader that provides file skeletons and targeted symbol reads for AI agents.

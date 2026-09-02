@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T05:45:31Z"
 ---
 ## What it is
 MCP server `Neleus`, catalogued on PulseMCP. MCP server for Hyperliquid cryptocurrency trading with market analysis, order book data, and trade execution tools.

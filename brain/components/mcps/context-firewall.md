@@ -8,11 +8,13 @@ source_url: https://github.com/Alepha188838884/context-firewall
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:09:43Z"
 ---
 ## What it is
 Aggregator MCP proxy that collapses N downstream MCP servers into 4 meta-tools with progressive tool discovery, and compresses large tool outputs (HTML→Markdown, JSON summarization) with full-output retrieval via read_more and a per-session token-savings report.

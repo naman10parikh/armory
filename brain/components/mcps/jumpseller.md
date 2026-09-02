@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T01:05:29Z"
 ---
 ## What it is
 MCP server `Jumpseller`, catalogued on PulseMCP. Manage Jumpseller e-commerce stores with tools for products, orders, and customers.

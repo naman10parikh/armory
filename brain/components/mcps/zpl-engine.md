@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T15:29:45Z"
 ---
 ## What it is
 MCP server `ZPL Engine`, catalogued on PulseMCP. Zero Point Logic Engine MCP server with 67 tools for bias detection, stability scoring, and neutrality analysis across finance, gaming, AI/ML, security, and crypto domains.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T00:51:21Z"
 ---
 ## What it is
 Provides bulk card creation and demo environment provisioning for AgilePlace (Leankit) via stdio, with rate limiting and credit-card correlations.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-23T07:50:21Z"
 ---
 ## What it is
 MCP server `BigQuery Analysis`, catalogued on PulseMCP. Enables safe SQL query execution on Google BigQuery datasets with built-in safeguards that prevent data manipulation and limit query size to 1 TB.

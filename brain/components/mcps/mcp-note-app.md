@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T10:18:55Z"
 ---
 ## What it is
 MCP server for a full-stack note-taking application, exposing CRUD tools for notes with SSE transport for AI agent integration.

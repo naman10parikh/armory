@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:55:28Z"
 ---
 ## What it is
 Connects AI assistants to HubSpot CRM, providing tools to manage contacts, companies, deals, and more via natural language.

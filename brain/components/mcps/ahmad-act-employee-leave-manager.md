@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-04T12:07:07Z"
 ---
 ## What it is
 MCP server `Employee Leave Manager`, catalogued on PulseMCP. Provides containerized employee leave management with tools for checking balances, applying for leave with specific dates, and retrieving leave history from an in-memory database.

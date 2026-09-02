@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-31T19:47:26Z"
 ---
 ## What it is
 MCP server `GitHub PR Diff`, catalogued on PulseMCP. Integrates with GitHub's Pull Request API to extract diff content, enabling automated code review and analysis workflows.

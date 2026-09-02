@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T09:44:27Z"
 ---
 ## What it is
 Enables AI agents to send text messages and images to Discord channels via webhooks.

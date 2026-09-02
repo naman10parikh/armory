@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T18:23:34Z"
 ---
 ## What it is
 A security-constrained MCP server that provides tools to dispatch tasks to allowlisted repositories and retrieve their status or results, preventing arbitrary command execution.

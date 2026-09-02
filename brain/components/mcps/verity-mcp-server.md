@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T11:42:30Z"
 ---
 ## What it is
 Enables AI agents to invoke six pre-trade integrity check skills: detect coordinated activity, score market subjects, cross-check claims, and flag disinformation patterns.

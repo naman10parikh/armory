@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:12:23Z"
 ---
 ## What it is
 Provides LinkedIn Ads data and management capabilities to AI assistants via MCP, with LinkedIn SSO authentication and a web-based setup/admin interface.

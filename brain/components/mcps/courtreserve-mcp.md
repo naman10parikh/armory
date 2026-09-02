@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T03:44:01Z"
 ---
 ## What it is
 MCP server for CourtReserve racquet-sports club management, enabling AI clients to manage members, reservations, events, and transactions via natural language.

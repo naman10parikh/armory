@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:44:00Z"
 ---
 ## What it is
 MCP server that lets AI agents compose real music through a persistent server-side score, supporting planning, voice writing, verification, and MIDI export.

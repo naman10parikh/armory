@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-18T16:57:14Z"
 ---
 ## What it is
 Enables image generation using Jimeng AI (Doubao Seedream 4.0) via APICore, supporting text-to-image, image-to-image, multi-image fusion, and batch generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:45:27Z"
 ---
 ## What it is
 MCP server wrapping the ShimGuard CLI as a single generic run tool for agent-shim provenance checks.

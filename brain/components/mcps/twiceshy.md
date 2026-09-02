@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:40:10Z"
 ---
 ## What it is
 A self-hosted MCP server that retrieves git-backed engineering experience records (issues, fixes) to inform LLM coding agents, preventing repeated mistakes with a relevance floor.

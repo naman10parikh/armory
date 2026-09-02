@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T12:20:49Z"
 ---
 ## What it is
 Provides access to the Tamil Roman Catholic Bible and daily devotional content (daily verse, Mass readings, saint of the day, promise-box verses, daily quiz) as tools for AI assistants.

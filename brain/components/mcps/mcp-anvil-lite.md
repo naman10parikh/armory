@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T04:42:35Z"
 ---
 ## What it is
 A minimal starting point for a Model Context Protocol server with stdio transport and one tool, enabling quick setup and custom tool addition.

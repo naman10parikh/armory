@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T20:50:26Z"
 ---
 ## What it is
 Enables interaction with Productive.io task management platform, allowing users to retrieve tasks and filter by assignee, status, or project.

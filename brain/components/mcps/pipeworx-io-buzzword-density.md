@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:00Z"
 ---
 ## What it is
 MCP server `Buzzword Density`, catalogued on PulseMCP. Analyzes text for corporate buzzword density with severity scoring and optional roast mode via StupidAPIs.

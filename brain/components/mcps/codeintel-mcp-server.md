@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T04:56:28Z"
 ---
 ## What it is
 Enables AI agents to perform hybrid code search, get explanations, analyze relations and impacts, retrieve context packs, and generate documentation across ~45 languages via 17 MCP tools, all powered by a local vector database and LLM.

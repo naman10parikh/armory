@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:57:15Z"
 ---
 ## What it is
 An MCP server that gives AI agents direct read-only access to PostgreSQL databases, enabling natural language analytics through tools for schema exploration, querying, trend analysis, and data quality checks.

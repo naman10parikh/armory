@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-12T00:12:24Z"
 ---
 ## What it is
 MCP server `Mem0.ai Memory Manager`, catalogued on PulseMCP. Integrates with Mem0.ai's memory management system to provide structured, persistent memory across conversations through a cognitive-inspired architecture that organizes information into short-term and long-term memory types.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:13:19Z"
 ---
 ## What it is
 Enables transcription and speaker diarization of audio files, interviews, and YouTube URLs, producing speaker-attributed transcripts with timestamps. Supports multiple backends (local Whisper, OpenAI API) and output formats (txt, vtt, srt, json).

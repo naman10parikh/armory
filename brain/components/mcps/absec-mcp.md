@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T20:09:36Z"
 ---
 ## What it is
 Enables security review of code diffs and files in Cursor/VS Code using local rule-based analysis with the same rule IDs as CI, no cloud required.

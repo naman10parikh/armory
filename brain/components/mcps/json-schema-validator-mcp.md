@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:42Z"
 ---
 ## What it is
 Validates JSON payloads against JSON Schema deterministically, providing precise validation results and error paths.

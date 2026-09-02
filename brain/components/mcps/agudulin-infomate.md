@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-19T09:41:27Z"
 ---
 ## What it is
 MCP server `Infomate`, catalogued on PulseMCP. Fetches and summarizes curated tech news from infomate.club/vas3k by parsing HTML content to extract articles from multiple feeds like Hacker News, Techmeme, GitHub, Reddit, and Pinboard, grouping them by source and generating keyword-based summaries in structured markdown format.

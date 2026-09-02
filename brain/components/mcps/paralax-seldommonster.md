@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T13:45:25Z"
 ---
 ## What it is
 MCP server `Seldom Monster`, catalogued on PulseMCP. Collection of cybersecurity MCP servers for threat intelligence, integrating Greynoise, Malpedia, OpenCTI, OTX, IBM XForce, and more.

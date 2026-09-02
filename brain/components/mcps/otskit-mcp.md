@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:44:37Z"
 ---
 ## What it is
 Stamp, upgrade, and verify Bitcoin timestamps via AI agents using the OpenTimestamps protocol. No API keys required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:00:11Z"
 ---
 ## What it is
 An MCP server that provides a USDA-accurate food database with deterministic macro math, enabling tools like list_foods, get_food, calculate_macros, filter_by_diet, build_meal, and list_available_tags. It allows Claude to look up nutrition facts and solve for exact macro targets offline, without AI 

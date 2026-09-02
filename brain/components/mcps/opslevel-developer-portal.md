@@ -8,10 +8,12 @@ source_url: https://github.com/opslevel/opslevel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-10T16:15:48Z"
 ---
 ## What it is
 MCP server `OpsLevel`, catalogued on PulseMCP. Provides direct access to OpsLevel's developer portal data, enabling intelligent interactions with service catalogs, component metrics, and operational workflows for DevOps teams managing service infrastructure.

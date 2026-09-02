@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T17:17:42Z"
 ---
 ## What it is
 MCP server `JSON Contracts`, catalogued on PulseMCP. Contract registry and validator for structured JSON outputs from LLMs and agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:00:18Z"
 ---
 ## What it is
 Payment infrastructure MCP server enabling AI agents to make gasless USDC payments on Base and JIT single-use virtual card checkouts, with zero-trust card handling, merchant checkout hints, and signed receipts.

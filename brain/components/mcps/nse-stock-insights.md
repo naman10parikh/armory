@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T21:15:10Z"
 ---
 ## What it is
 MCP server `NSE Stock Insights`, catalogued on PulseMCP. Indian Nifty 500 stock analysis for AI agents — price action, demand zones, technicals, and screener.

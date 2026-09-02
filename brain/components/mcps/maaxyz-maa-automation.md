@@ -8,10 +8,12 @@ source_url: https://github.com/maa-ai/maamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 353
+stars: 381
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2026-07-14T11:58:16Z"
 ---
 ## What it is
 MCP server `MAA Automation Assistant`, catalogued on PulseMCP. Bridges MaaFramework for Android and Windows device automation through computer vision and OCR-based control.

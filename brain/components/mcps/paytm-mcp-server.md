@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-05-22T09:50:22Z"
 ---
 ## What it is
 Enables AI agents and developers to securely access Paytm's Payments and Business Payments APIs via MCP, allowing contextual automation of payment workflows like refunds, settlement tracking, and transaction status checks.

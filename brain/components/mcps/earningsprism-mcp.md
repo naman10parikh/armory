@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T04:47:24Z"
 ---
 ## What it is
 Real-time AI-summarised SEC filing intelligence for Claude, Cursor, and any MCP-compatible AI client.

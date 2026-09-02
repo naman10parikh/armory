@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-06T21:09:58Z"
 ---
 ## What it is
 Transforms an ETC Eos lighting console into a service controllable by AI assistants and automation tools via MCP and OSC, enabling cue management, preset recall, and channel level control.

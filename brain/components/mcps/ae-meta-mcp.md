@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T01:47:15Z"
 ---
 ## What it is
 Lightweight MCP server for After Effects that enables Cursor Agent to execute ExtendScript code inside AE via a single tool, similar to Blender MCP.

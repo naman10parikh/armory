@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:57:50Z"
 ---
 ## What it is
 A governed MCP server exposing Databricks operations as tools for jobs orchestration, SQL execution, notebook creation, Unity Catalog governance, lineage, clusters, and DLT pipelines, with safety features like dry-run and audit logging.

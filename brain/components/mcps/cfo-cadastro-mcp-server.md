@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:19Z"
 ---
 ## What it is
 Read-only MCP server for querying Brazilian Federal Council of Dentistry (CFO) registration data via a hosted API, requiring prepaid credits and supporting MCP-over-HTTP clients.

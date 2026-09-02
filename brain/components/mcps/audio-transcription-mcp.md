@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T18:51:09Z"
 ---
 ## What it is
 MCP server for audio transcription with speaker diarization. Transcribes MP3/WAV files using Faster-Whisper and pyannote.audio, outputs markdown with speaker labels, timestamps, summaries, and action items.

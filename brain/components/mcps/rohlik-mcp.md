@@ -8,11 +8,13 @@ source_url: https://github.com/tomaspavlin/rohlik-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 118
+stars: 119
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2026-03-17T12:19:42Z"
 ---
 ## What it is
 Enables AI assistants to interact with Rohlik Group's online grocery delivery services across multiple countries, including product search, cart management, and account info.

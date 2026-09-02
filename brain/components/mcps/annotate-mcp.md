@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:59:14Z"
 ---
 ## What it is
 MCP server that opens a browser and adds a comment/pencil overlay to every page, letting you annotate live sites and send the marks to your coding agent.

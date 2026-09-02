@@ -8,10 +8,12 @@ source_url: https://github.com/rtuin/mcp-mermaid-validator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-02-27T22:04:08Z"
 ---
 ## What it is
 MCP server `Mermaid Validator`, catalogued on PulseMCP. Validates and renders Mermaid diagrams as SVG images, providing detailed error messages for invalid syntax to enhance visualization capabilities within conversations.

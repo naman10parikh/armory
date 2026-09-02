@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T04:49:40Z"
 ---
 ## What it is
 MCP server `FindFiles`, catalogued on PulseMCP. Powerful file search tool that enables wildcard patterns, attribute filtering, and content searching across multiple directories, returning detailed file information including path, size, dates, and MIME type.

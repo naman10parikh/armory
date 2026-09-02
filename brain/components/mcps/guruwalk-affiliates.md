@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T06:26:34Z"
 ---
 ## What it is
 MCP server `GuruWalk Affiliates`, catalogued on PulseMCP. Affiliate integration for GuruWalk free walking tours. Discover destinations, browse tour categories, check availability, and generate attributed booking links across 100+ countries.

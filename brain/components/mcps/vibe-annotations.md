@@ -8,11 +8,13 @@ source_url: https://github.com/RaphaelRegnier/vibe-annotations
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 144
+stars: 149
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-08-17T17:37:45Z"
 ---
 ## What it is
 MCP server that exposes web page annotations to AI coding agents, enabling automated implementation of visual feedback and design tweaks.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-18T04:06:22Z"
 ---
 ## What it is
 MCP server `Terminal Hook`, catalogued on PulseMCP. VS Code extension that captures real-time terminal output

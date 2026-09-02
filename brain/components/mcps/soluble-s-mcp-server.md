@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T21:13:22Z"
 ---
 ## What it is
 Enables AI tools to search and retrieve verified solutions from the Soluble(s) solutions journalism podcast, including adapted versions for children aged 6-12, via read-only MCP tools backed by WordPress REST API.

@@ -8,11 +8,13 @@ source_url: https://github.com/micro/mu
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 382
+stars: 425
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-09-01T22:11:25Z"
 ---
 ## What it is
 Mu is an MCP server and web app that provides agents and humans access to real-world services like news, web search, mail, markets, weather, video, places, images, files, calendar, and contacts. It offers a wide range of tools and can be self-hosted or used live at micro.mu.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:53:38Z"
 ---
 ## What it is
 Enables querying 3D point cloud files (PLY/PCD) using natural language. Provides tools for point cloud description, plane detection, and ICP alignment.

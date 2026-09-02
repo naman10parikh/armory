@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:36:55Z"
 ---
 ## What it is
 MCP server for YouGile project management. Provides 57 tools covering 100% of the YouGile API v2, enabling AI agents to manage projects, boards, tasks, and chat directly through natural language.

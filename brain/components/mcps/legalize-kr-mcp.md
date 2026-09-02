@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T20:42:31Z"
 ---
 ## What it is
 Enables searching and browsing Korean legal documents from a local git clone of legalize-kr, with tools for reading files, listing laws, searching content, and viewing git history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:59:01Z"
 ---
 ## What it is
 Enables AI agents to scan any website for agent-readiness and generate the necessary artifacts (llms.txt, WebMCP scaffold, structured data) to make it agent-ready.

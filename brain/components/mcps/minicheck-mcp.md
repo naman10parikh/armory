@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:57:11Z"
 ---
 ## What it is
 A model checker as an MCP server that lets agents verify state machines with declarative specs, returning a verdict and shortest counterexample when a property fails.

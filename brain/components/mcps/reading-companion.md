@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T05:19:09Z"
 ---
 ## What it is
 A 4-stage reading companion that helps users set reading goals, discover books, track progress, and deepen learning through reflection, integrated with Claude Desktop.

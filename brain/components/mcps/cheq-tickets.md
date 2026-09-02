@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:15:34Z"
 ---
 ## What it is
 Enables semantic search and analysis of customer support tickets. Provides tools to search tickets, analyze the dataset, and retrieve individual tickets using natural language.

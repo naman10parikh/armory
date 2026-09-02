@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-26T00:53:42Z"
 ---
 ## What it is
 Enables text-to-speech conversion using ElevenLabs API with voice management, streaming support, and multiple models.

@@ -8,10 +8,12 @@ source_url: https://github.com/mingolladaniele/taskmaster-todoist-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-18T12:12:22Z"
 ---
 ## What it is
 MCP server `Todoist TaskMaster`, catalogued on PulseMCP. Integrates with Todoist task management to retrieve, filter, and display tasks using flexible query options without switching contexts.

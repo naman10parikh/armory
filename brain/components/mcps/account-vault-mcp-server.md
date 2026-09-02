@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T14:03:10Z"
 ---
 ## What it is
 A local MCP server that manages multiple Gmail accounts simultaneously, allowing MCP clients to switch between accounts per request without logging out or in. It securely stores OAuth tokens in the macOS Keychain.

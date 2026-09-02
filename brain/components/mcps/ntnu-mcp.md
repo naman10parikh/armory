@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:33:04Z"
 ---
 ## What it is
 A read-only MCP server exposing NTNU course data to LLM assistants, enabling course catalog search, teaching schedules, weekly timetables, grade statistics, and course comparison tools.

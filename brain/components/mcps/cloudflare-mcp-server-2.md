@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:32:50Z"
 ---
 ## What it is
 Manage Cloudflare resources such as Workers, KV, R2, D1, Durable Objects, and more using natural language via the Model Context Protocol.

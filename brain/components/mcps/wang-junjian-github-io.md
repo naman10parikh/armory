@@ -8,11 +8,13 @@ source_url: https://github.com/wang-junjian/wang-junjian.github.io
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
+forks: 2
+pushed_at: "2026-08-26T14:20:58Z"
 ---
 ## What it is
 Personal blog built with A2A capabilities

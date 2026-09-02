@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T01:03:44Z"
 ---
 ## What it is
 Enables to interact with GitHub repositories directly from Claude, supporting actions like viewing repos, checking status, committing and pushing changes, and managing pull requests.

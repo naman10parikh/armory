@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T06:35:03Z"
 ---
 ## What it is
 MCP server `WebDAV`, catalogued on PulseMCP. Connects to WebDAV-enabled storage systems with authenticated access and bcrypt encryption, providing file and directory operations, glob pattern searching, content editing with diff generation, and batch operations for automated cloud storage and network-attached storage management.

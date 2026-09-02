@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T06:23:21Z"
 ---
 ## What it is
 Enables querying Mexican stock market data (BMV, BIVA) including issuers, intraday quotes, historical prices, financials, indices, rates, currencies, commodities, and news through natural language.

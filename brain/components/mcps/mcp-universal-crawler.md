@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T03:00:31Z"
 ---
 ## What it is
 Enables AI to autonomously search, filter, and download images from the web using natural language commands, with intelligent scoring and local storage.

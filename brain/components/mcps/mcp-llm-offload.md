@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T08:39:05Z"
 ---
 ## What it is
 An MCP server that offloads light LLM work from Claude to a model you control, such as a local LLM or any OpenAI-compatible provider, saving frontier-model quota on non-critical tasks.

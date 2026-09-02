@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T22:47:35Z"
 ---
 ## What it is
 Enables searching for equivalent replacement flights ranked by practical equivalence to the original ticket, comparing fare conditions, and generating airline agent requests.

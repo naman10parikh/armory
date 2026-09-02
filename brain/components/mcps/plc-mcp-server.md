@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T18:59:41Z"
 ---
 ## What it is
 MCP server for industrial PLC integration, enabling AI to read tags, monitor alarms, and interact with Allen-Bradley ControlLogix PLCs via natural language.

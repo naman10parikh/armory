@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:52:29Z"
 ---
 ## What it is
 A stateless MCP server that wraps OfficeCLI to create and edit Microsoft Word documents via AI instructions, outputting Base64 Data URLs for serverless environments like Vercel.

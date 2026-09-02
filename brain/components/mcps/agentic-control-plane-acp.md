@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:07:52Z"
 ---
 ## What it is
 A governed MCP server that enforces OAuth 2.1 scope checking and policy-driven access control for AI agents, providing a full audit trail on every tool call. It includes tools for Cisco Webex Contact Center knowledge search and SD-WAN network operations.

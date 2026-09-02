@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T06:20:49Z"
 ---
 ## What it is
 MCP server `WebsitePublisher`, catalogued on PulseMCP. Build and publish websites through AI conversation.

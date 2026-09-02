@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:45:33Z"
 ---
 ## What it is
 基于MCP协议的嵌入式板卡远程管理工具，提供串口、SSH和本地PowerShell的交互能力，支持会话管理、一键登录等功能。

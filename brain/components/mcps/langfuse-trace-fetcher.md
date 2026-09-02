@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T21:11:41Z"
 ---
 ## What it is
 Fetches Langfuse observability traces directly into a VS Code coding agent's context, enabling querying and viewing trace data through natural language.

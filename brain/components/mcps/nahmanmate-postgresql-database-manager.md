@@ -8,10 +8,12 @@ source_url: https://github.com/nahmanmate/postgresql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2025-05-01T00:23:58Z"
 ---
 ## What it is
 MCP server `PostgreSQL Database Manager`, catalogued on PulseMCP. Integrates with PostgreSQL to provide database analysis, optimization, and troubleshooting tools for streamlined management and performance tuning.

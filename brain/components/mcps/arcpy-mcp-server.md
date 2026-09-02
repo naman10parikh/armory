@@ -8,11 +8,13 @@ source_url: https://github.com/zhaojj662/arcpy-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:39:00Z"
 ---
 ## What it is
 Enables AI agents to perform spatial analysis in ArcGIS Pro using natural language by exposing all ArcGIS Pro toolboxes as MCP tools.

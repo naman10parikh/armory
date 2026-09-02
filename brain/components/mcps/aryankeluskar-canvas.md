@@ -8,10 +8,12 @@ source_url: https://github.com/aryankeluskar/canvas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-11T21:30:42Z"
 ---
 ## What it is
 MCP server `Canvas LMS`, catalogued on PulseMCP. Integrates with Canvas LMS to retrieve course information, modules, and learning materials based on natural language queries or image analysis, enabling students to find relevant educational resources without leaving their conversation.

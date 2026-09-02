@@ -8,10 +8,12 @@ source_url: https://github.com/ellmos-ai/ellmos-codecommander-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T19:18:15Z"
 ---
 ## What it is
 MCP server `BACH CodeCommander`, catalogued on PulseMCP. Code analysis, JSON repair, encoding fix, format conversion, diff, and regex tools.

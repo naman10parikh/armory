@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T06:56:26Z"
 ---
 ## What it is
 AI-driven interface for Lauterbach TRACE32 PowerView debugging, inspection, and scripting via remote API.

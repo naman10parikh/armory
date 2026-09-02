@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:39:22Z"
 ---
 ## What it is
 Provides evidence-grounded paper reading, citation verification, and reproducible experiment planning through DeepSeek Harness via a deterministic Python stdio server.

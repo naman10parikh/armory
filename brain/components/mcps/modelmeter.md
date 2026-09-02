@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:00:46Z"
 ---
 ## What it is
 Enables AI agents to query model pricing, deprecations, and cost estimates via a machine-readable changelog of the AI stack.

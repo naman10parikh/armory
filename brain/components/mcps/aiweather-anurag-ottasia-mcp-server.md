@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 1
+forks: 0
+pushed_at: "2026-08-25T22:57:57Z"
 ---
 ## What it is
 Where to watch any movie or TV show across 30 Asian and Middle Eastern streaming markets (Netflix, Disney+ Hotstar, Wavve, Shahid, Hoichoi, ZEE5, JioCinema, and 17 more). `npx -y @ottasia/mcp-server`

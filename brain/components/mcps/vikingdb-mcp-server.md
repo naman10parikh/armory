@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T19:01:24Z"
 ---
 ## What it is
 Enables interaction with VikingDB, a high-performance vector database, for storing and searching vector data via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:53:46Z"
 ---
 ## What it is
 Wraps HyperFrames CLI as MCP tools, enabling AI agents to create, preview, and render video projects from HTML/CSS/JS, with text-to-speech and transcription capabilities.

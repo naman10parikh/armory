@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T03:12:40Z"
 ---
 ## What it is
 Reference implementation for adding subscription-based gating to MCP endpoints, covering auth, plan entitlements, usage metering, and multi-tenant scoping.

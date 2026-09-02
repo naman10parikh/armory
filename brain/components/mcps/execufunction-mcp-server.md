@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T02:05:06Z"
 ---
 ## What it is
 Enables AI assistants to interact with ExecuFunction's project management, knowledge base, code indexing, and calendar tools via MCP, allowing natural language management of tasks, notes, and code.

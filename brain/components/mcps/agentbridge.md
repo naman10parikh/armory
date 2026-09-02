@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T13:33:26Z"
 ---
 ## What it is
 A unified gateway for AI agent tools that provides a single MCP stdio endpoint for executing tool calls with unified auth, rate limiting, and observability. Enables agents to interact with multiple external APIs through a standardized interface.

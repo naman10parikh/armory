@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:10:23Z"
 ---
 ## What it is
 Enables traceable requirement discovery, technical alignment, and ISO-aligned process checking through deterministic MCP tools and resources, without requiring an embedded LLM.

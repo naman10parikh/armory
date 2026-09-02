@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-07T04:02:36Z"
 ---
 ## What it is
 MCP server `Dify AI`, catalogued on PulseMCP. Integrates with Dify AI's chat completion API to enable natural language interactions, offering tools for restaurant recommendations and supporting conversation context and streaming responses.

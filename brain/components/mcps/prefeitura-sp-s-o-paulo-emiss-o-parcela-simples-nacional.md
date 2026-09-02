@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:18Z"
 ---
 ## What it is
 Enables users to consult official data on the issuance of Simples Nacional parcels from São Paulo city hall. Provides a read-only MCP server with a single tool for this query.

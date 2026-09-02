@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T21:21:13Z"
 ---
 ## What it is
 Enables interaction with Zoo's CAD and 3D modeling APIs through natural language, including executing KCL code and accessing Zoo's design tools.

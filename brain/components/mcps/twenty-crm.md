@@ -8,10 +8,12 @@ source_url: https://github.com/mhenry3164/twenty-crm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2026-07-30T19:48:13Z"
 ---
 ## What it is
 MCP server `Twenty CRM`, catalogued on PulseMCP. Integrates with Twenty CRM's REST API to enable complete customer relationship management through natural language interactions, supporting CRUD operations across people, companies, notes, and tasks with cross-object search and filtering capabilities.

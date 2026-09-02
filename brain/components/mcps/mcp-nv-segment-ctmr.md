@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:47:39Z"
 ---
 ## What it is
 MCP server for NVIDIA's NV-Segment-CTMR 3D medical image segmentation, enabling anatomical structure segmentation of CT/MR volumes via natural language tool calls.

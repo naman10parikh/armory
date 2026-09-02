@@ -8,10 +8,12 @@ source_url: https://github.com/ashinh/dy-xhs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-28T13:43:22Z"
 ---
 ## What it is
 MCP server `Douyin & Xiaohongshu Content Extractor`, catalogued on PulseMCP. Extracts content from Douyin and Xiaohongshu platforms for downloading videos, images, and text with watermark removal capabilities for social media research and content curation workflows.

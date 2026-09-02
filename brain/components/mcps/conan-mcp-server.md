@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-12T10:57:51Z"
 ---
 ## What it is
 A Model Context Protocol server for Conan package manager integration, enabling dependency management, project creation, and security scanning via natural language.

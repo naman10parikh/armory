@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T05:57:50Z"
 ---
 ## What it is
 Provides AI agents with real-time access to French real estate transaction data, price per square meter, and property estimates using official open DVF data, with no API key required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T12:10:28Z"
 ---
 ## What it is
 Enables developers to recover their working context after interruptions by analyzing git state, file activity, editor state, and shell history.

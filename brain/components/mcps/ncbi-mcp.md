@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T14:30:32Z"
 ---
 ## What it is
 A server providing access to NCBI E-utilities API for searching and retrieving data from databases like PubMed, Protein, and Nucleotide.

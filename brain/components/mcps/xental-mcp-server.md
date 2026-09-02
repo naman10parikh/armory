@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T15:52:42Z"
 ---
 ## What it is
 Enables AI agents to operate Xental merchant accounts via natural language, provisioning virtual accounts, monitoring transactions, and executing payouts.

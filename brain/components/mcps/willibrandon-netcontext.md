@@ -8,10 +8,12 @@ source_url: https://github.com/willibrandon/netcontextserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-16T00:33:32Z"
 ---
 ## What it is
 MCP server `.Net Code Context`, catalogued on PulseMCP. Enables AI assistants to explore and understand .NET codebases.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:16:43Z"
 ---
 ## What it is
 Enables AI agents to perform query-driven web searches and fetch page content via Bing and DuckDuckGo engines, with automatic fallback and no API keys needed.

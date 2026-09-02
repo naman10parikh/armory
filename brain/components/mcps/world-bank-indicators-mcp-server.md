@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T10:52:31Z"
 ---
 ## What it is
 Provides access to World Bank economic and country data without an API key, allowing users to search countries, fetch indicator time series, and compare latest values.

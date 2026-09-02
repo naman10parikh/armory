@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:30Z"
 ---
 ## What it is
 Connects SafraPay accounts to AI assistants for reading balances, statements, credit card bills, and investments via Open Finance Brazil, read-only.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T14:43:58Z"
 ---
 ## What it is
 MCP server `Offload`, catalogued on PulseMCP. MCP server that delegates routine coding tasks like commit messages, PR descriptions, and docstrings to cheaper Google Gemma models.

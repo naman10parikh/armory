@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:54:23Z"
 ---
 ## What it is
 Validates agent payment requests against 9 security checks before execution, catching policy violations, replay attacks, amount tampering, revoked tokens, and budget overruns.

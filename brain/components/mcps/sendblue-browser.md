@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T17:41:47Z"
 ---
 ## What it is
 MCP server that wraps sendblue-browser-use's HTTP API, providing tools to control a stealth-patched Chromium browser with persistent sessions, navigation, screenshots, and script execution.

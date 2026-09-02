@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-24T10:24:55Z"
 ---
 ## What it is
 Integrates with Teamcenter PLM using its REST API, enabling search, create, update, and query of Teamcenter items through natural language.

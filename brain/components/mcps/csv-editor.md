@@ -8,10 +8,12 @@ source_url: https://github.com/santoshray02/csv-editor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-14T09:49:34Z"
 ---
 ## What it is
 MCP server `CSV Editor`, catalogued on PulseMCP. Provides pandas-powered CSV file operations including data loading, filtering, transformation, statistical analysis, and quality validation through a session-based architecture with auto-save capabilities and support for multiple formats.

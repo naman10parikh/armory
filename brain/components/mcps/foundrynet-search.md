@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:22:36Z"
 ---
 ## What it is
 Enables web search and AI-summarized answers via an x402-gated gateway, with options for structured results or enriched summaries, accessible as an MCP server.

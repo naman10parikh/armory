@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:36:20Z"
 ---
 ## What it is
 Remote MCP server for Android CLI agent build gate that enables checking builds, suggesting fixes, explaining permission blockers, issuing receipts, and exporting logs.

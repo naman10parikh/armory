@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-04T06:27:45Z"
 ---
 ## What it is
 MCP server `Groww`, catalogued on PulseMCP. Integrates with the Groww trading platform API to execute stock market operations including order placement, portfolio management, and live market data retrieval with automated authentication handling.

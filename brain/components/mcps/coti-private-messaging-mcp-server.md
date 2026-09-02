@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T20:13:30Z"
 ---
 ## What it is
 Enables private encrypted messaging between AI agents or wallets for secure coordination.

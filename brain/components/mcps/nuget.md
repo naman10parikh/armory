@@ -8,10 +8,12 @@ source_url: https://github.com/nuget/home
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1548
+stars: 1554
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 275
+pushed_at: "2026-08-31T23:09:24Z"
 ---
 ## What it is
 MCP server `NuGet`, catalogued on PulseMCP. Real-time NuGet package management with vulnerability detection and intelligent version updates

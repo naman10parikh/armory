@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/markdown-renderer-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2621
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:40Z"
 ---
 ## What it is
 Markdown rendering API for AI agents. Convert Markdown to fully styled HTML with CSS themes: light, dark, and GitHub styles. Ready-to-embed HTML documents with responsive typography. Tools: text_render_markdown. Use this for generating presentable HTML from Markdown: reports, documentation, blog pos

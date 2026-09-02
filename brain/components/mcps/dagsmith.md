@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:27:31Z"
 ---
 ## What it is
 MCP server providing read-only Snowflake metadata tools (schemas, tables, queries, lineage) for agentic data pipeline generation, enabling natural-language-to-pipeline workflows with dbt, Airflow, and Great Expectations.

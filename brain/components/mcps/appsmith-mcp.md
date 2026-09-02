@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T13:10:08Z"
 ---
 ## What it is
 An MCP server that enables AI agents to build and edit Appsmith apps by driving the browser editor via WebDriver BiDi and Redux store manipulation.

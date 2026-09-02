@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:04:56Z"
 ---
 ## What it is
 An MCP server that gives AI agents full control of Android devices and emulators through plain ADB — no companion APK, no extra daemon, no telemetry.

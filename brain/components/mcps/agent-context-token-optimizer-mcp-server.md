@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:24:55Z"
 ---
 ## What it is
 Provides owner-bound secure storage and retrieval of tool outputs via MCP tools, enabling trusted persistence for agents like Claude Code, Codex CLI, and OpenCode.

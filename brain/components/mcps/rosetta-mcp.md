@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T22:52:13Z"
 ---
 ## What it is
 Modular MCP hub hosting multiple read-only addons behind a single OIDC authentication layer, enabling agents to use services like Google Maps and transit APIs with server-side API key management.

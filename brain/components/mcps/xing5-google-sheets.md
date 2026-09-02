@@ -8,10 +8,12 @@ source_url: https://github.com/xing5/mcp-google-sheets
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 874
+stars: 994
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 241
+pushed_at: "2026-05-14T21:12:23Z"
 ---
 ## What it is
 MCP server `Google Sheets`, catalogued on PulseMCP. Integrates with Google Drive and Google Sheets to create, read, update, and manage spreadsheets with support for both OAuth and service account authentication methods.

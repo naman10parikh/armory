@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-27T04:00:08Z"
 ---
 ## What it is
 MCP server `BuildAutomata Memory`, catalogued on PulseMCP. Provides persistent memory storage with temporal versioning, semantic search, and automatic decay using SQLite for reliability and Qdrant for vector similarity search to maintain context across conversations and learn from past interactions.

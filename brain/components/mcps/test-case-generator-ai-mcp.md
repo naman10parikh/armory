@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T09:32:42Z"
 ---
 ## What it is
 Enables generation of test cases, edge cases, and test matrices for software testing, integrated with MCP protocol and EU AI Act compliance.

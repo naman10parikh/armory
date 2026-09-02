@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
-stars: 89
+stars: 90
+forks: 23
+pushed_at: "2025-03-19T16:35:32Z"
 ---
 ## What it is
 Enhance AI-generated code quality through intelligent, prompt-based analysis across 10 critical dimensions from complexity to security vulnerabilities

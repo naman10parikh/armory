@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-21T03:04:47Z"
 ---
 ## What it is
 MCP server `MikroTik RouterOS`, catalogued on PulseMCP. Manages MikroTik routers through the RouterOS v7 REST API with multi-router support and API endpoint discovery.

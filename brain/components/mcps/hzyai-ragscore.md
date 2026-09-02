@@ -8,10 +8,12 @@ source_url: https://github.com/hzyai/ragscore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-29T03:34:45Z"
 ---
 ## What it is
 MCP server `RagScore`, catalogued on PulseMCP. Generate QA datasets and evaluate RAG systems with privacy-first local processing and any LLM provider.

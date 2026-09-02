@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-17T14:17:24Z"
 ---
 ## What it is
 MCP server `Gitee`, catalogued on PulseMCP. Integrates with Gitee repositories to enable repository creation, code management, issue tracking, and pull request workflows using a simple token-based authentication system.

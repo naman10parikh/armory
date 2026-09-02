@@ -8,11 +8,13 @@ source_url: https://github.com/johannesbrandenburger/typst-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 174
+stars: 175
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-04-18T06:50:34Z"
 ---
 ## What it is
 Enables AI models to interact with the Typst typesetting system, including LaTeX-to-Typst conversion, syntax validation, and rendering Typst code to images.

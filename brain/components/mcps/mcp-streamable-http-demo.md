@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:59:56Z"
 ---
 ## What it is
 Transforms stdio-based task tools into a stateful Streamable HTTP MCP server, enabling multiple clients to manage tasks via URL with session isolation and security checks.

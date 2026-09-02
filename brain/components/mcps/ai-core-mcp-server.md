@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-09T23:04:25Z"
 ---
 ## What it is
 Exposes SAP AI Core APIs as MCP tools, enabling AI assistants to manage AI Core lifecycle and administration through natural language.

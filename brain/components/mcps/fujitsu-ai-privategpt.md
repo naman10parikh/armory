@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-01-12T11:28:47Z"
 ---
 ## What it is
 MCP server `privateGPT`, catalogued on PulseMCP. Integrates privateGPT with MCP-compatible applications, providing chat management, knowledge source organization, and group-based permissions for diverse AI-driven projects.

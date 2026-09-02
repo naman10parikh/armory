@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T03:40:23Z"
 ---
 ## What it is
 A local MCP server that gives AI coding assistants retrieval access to your personal knowledge base of books, standards, and docs, grounding their answers in sources you trust.

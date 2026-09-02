@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T06:04:02Z"
 ---
 ## What it is
 Enables querying state-level campaign finance data, including donors, expenditures, committees, and candidates, from multiple state disclosure systems via a unified MCP interface.

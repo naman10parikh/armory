@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T15:38:58Z"
 ---
 ## What it is
 Enables searching and retrieving Taiwan judicial judgments, including full-text search, document details, PDF download, and legal term lookup via MCP tools.

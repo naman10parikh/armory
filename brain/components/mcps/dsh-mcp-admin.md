@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:00:07Z"
 ---
 ## What it is
 Exposes DeepSeek Harness skill and agent preset management as an MCP server, letting remote agents read, create, update, and delete skills/presets over HTTP with audit logging. It enables a production-to-review-to-modification workflow without SSH.

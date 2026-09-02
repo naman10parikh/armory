@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:12:29Z"
 ---
 ## What it is
 Fetches any URL and returns clean markdown, using a real Chrome fingerprint to bypass bot detection. Integrates as an MCP server with tools like fetch_markdown.

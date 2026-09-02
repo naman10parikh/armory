@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-04T08:55:52Z"
 ---
 ## What it is
 QLN is a semantic tool router that enables AI agents to access thousands of tools through a single MCP interface, with sub-5ms search and automatic fallback.

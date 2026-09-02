@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T12:46:39Z"
 ---
 ## What it is
 An autonomous MCP server that enables LLMs to intelligently query and analyze MongoDB databases by reverse-engineering schemas, proving relationships, and enforcing security safeguards like PII masking and query limits.

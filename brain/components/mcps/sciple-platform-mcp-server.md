@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T19:14:40Z"
 ---
 ## What it is
 Enables AI assistants to manage Sciple platform content including environments, services, dashboards, runbooks, projects, and tickets through the Sciple REST API.

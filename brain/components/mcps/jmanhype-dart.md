@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-25T16:56:07Z"
 ---
 ## What it is
 MCP server `Dart`, catalogued on PulseMCP. Integrates with the Dart task management system to enable AI-driven project organization, document handling, and workflow automation through secure API interactions and Dartboard feature integration.

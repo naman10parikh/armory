@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:15:50Z"
 ---
 ## What it is
 MCP server that lets AI validate and create sales funnels (pipelines, stages, custom fields) in Kommo CRM, supporting multiple client accounts with explicit confirmation before writing.

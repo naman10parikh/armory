@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:42:21Z"
 ---
 ## What it is
 Enables natural-language querying of PostgreSQL databases with schema grounding and self-correcting error recovery. Provides a live audit trace and verifies results through exploratory decomposition and empty-result sanity checks.

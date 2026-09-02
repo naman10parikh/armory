@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T13:46:46Z"
 ---
 ## What it is
 Enables graph-powered semantic search over the Grand Débat National dataset, providing fast, transparent answers with provenance tracing back to citizen contributions.

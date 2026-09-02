@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-15T14:25:43Z"
 ---
 ## What it is
 MCP server `Kubernetes Monitoring`, catalogued on PulseMCP. Provides a read-only interface for querying Kubernetes clusters, enabling detailed retrieval of information about namespaces, pods, nodes, deployments, services, and events for monitoring and troubleshooting.

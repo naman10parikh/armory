@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:14:26Z"
 ---
 ## What it is
 A FastMCP server template with a greet tool, deployable locally, via Docker, or on Railway. It demonstrates HTTP transport and easy environment configuration.

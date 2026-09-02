@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T20:14:53Z"
 ---
 ## What it is
 An MCP server that enables Claude to orchestrate multiple autonomous Claude Code agents working in parallel across different projects, with tools to dispatch, monitor, and manage their progress.

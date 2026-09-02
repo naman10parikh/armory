@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:22:28Z"
 ---
 ## What it is
 An enterprise-grade MCP server that enables LLM agents to securely interact with PostgreSQL databases and the local file system under absolute sandbox boundaries.

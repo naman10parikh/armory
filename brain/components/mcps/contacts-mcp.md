@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T21:58:08Z"
 ---
 ## What it is
 Enables AI assistants to manage contacts with full CRUD, dedup, merge, import/export, sync with Google/Apple/CardDAV, and git-backed rollback.

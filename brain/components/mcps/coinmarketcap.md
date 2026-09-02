@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:39Z"
 ---
 ## What it is
 Enables AI agents to access Coinmarketcap data through real API endpoints with no authentication required, supporting crypto and DeFi queries.

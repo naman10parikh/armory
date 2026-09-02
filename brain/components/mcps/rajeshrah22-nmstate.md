@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-01T02:20:07Z"
 ---
 ## What it is
 MCP server `NetworkManager (nmstate)`, catalogued on PulseMCP. Integrates with Linux NetworkManager through libnmstate library to query current network interface configurations and apply declarative YAML-based network state changes for system administration and troubleshooting.

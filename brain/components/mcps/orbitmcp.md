@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T00:36:24Z"
 ---
 ## What it is
 A lightweight, air-gapped desktop cockpit connecting local LLMs (Llama 3.2) to standard MCP tools with deterministic hardware safety, acting as an edge-native MCP control plane and autonomous tool dispatcher.

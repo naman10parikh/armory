@@ -8,10 +8,12 @@ source_url: https://github.com/elcukro/bank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-23T13:55:17Z"
 ---
 ## What it is
 MCP server `Bank`, catalogued on PulseMCP. Unified banking integration across EnableBanking, Teller, Plaid, Tink, and mock providers for account management, transactions, and spending analysis.

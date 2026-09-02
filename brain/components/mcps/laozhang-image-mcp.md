@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:20:12Z"
 ---
 ## What it is
 Enables image generation and editing using laozhang.ai's OpenAI-compatible API, with tools for text-to-image and image-to-image transformations.

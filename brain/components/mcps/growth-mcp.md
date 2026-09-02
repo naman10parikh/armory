@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:15:02Z"
 ---
 ## What it is
 Open-source MCP server that audits websites for AI search readiness, providing deterministic scoring (0-100) and prioritized fix lists for metrics like JSON-LD, llms.txt, heading hierarchy, and AI crawler access.

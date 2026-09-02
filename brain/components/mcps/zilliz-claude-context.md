@@ -8,10 +8,12 @@ source_url: https://github.com/zilliztech/claude-context
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11566
+stars: 12463
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 917
+pushed_at: "2026-07-14T12:00:38Z"
 ---
 ## What it is
 MCP server `Claude Context`, catalogued on PulseMCP. Provides semantic code search and indexing using vector embeddings and AST-based code splitting, enabling natural language queries across codebases with automatic file filtering and support for multiple embedding providers and vector databases.

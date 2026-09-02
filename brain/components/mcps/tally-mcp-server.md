@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T20:16:39Z"
 ---
 ## What it is
 Lightweight Node MCP server that enables querying Tally product and category data from mymarketaccount.net, with support for filtering, sorting, and natural language price questions.

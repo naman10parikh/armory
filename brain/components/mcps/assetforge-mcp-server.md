@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:47:06Z"
 ---
 ## What it is
 Enables AI agents to generate game assets (sprites, audio, meshes, etc.) through MCP tools with a fail-closed license gate, ensuring every generation is vetted for licensing compliance before writing output.

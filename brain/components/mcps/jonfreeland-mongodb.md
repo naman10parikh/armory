@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-06T03:11:18Z"
 ---
 ## What it is
 MCP server `MongoDB`, catalogued on PulseMCP. Enables querying and analyzing MongoDB databases with read-only access, providing operations for exploration, schema inference, querying, aggregation, text search, and geospatial analysis.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-04T16:20:36Z"
 ---
 ## What it is
 MCP server `Commander`, catalogued on PulseMCP. Provides background process management capabilities through PMDaemon integration, enabling execution, monitoring, and control of long-running processes with persistent logging, automatic failure detection, and detailed status information including CPU usage, memory consumption, and uptime across Linux, macOS, and Windows platforms.

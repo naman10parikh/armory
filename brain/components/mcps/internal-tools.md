@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T04:07:23Z"
 ---
 ## What it is
 Maps internal API endpoints to agent tools using OpenAPI specs, allowing agents to interact with internal services through natural language without per-agent tool wrappers.

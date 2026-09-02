@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T23:23:45Z"
 ---
 ## What it is
 Provides access to yacht-club outstation records including size limits, rafting rules, booking processes, amenities, and overnight-comfort ranking, preloaded with three Royal Victoria Yacht Club outstations.

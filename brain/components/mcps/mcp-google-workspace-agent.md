@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:20:52Z"
 ---
 ## What it is
 This MCP server enables natural language management of Google Calendar and Google Sheets, exposing tools for scheduling, updating, searching events, managing spreadsheets, and more. It uses an LLM to automatically select and chain tool calls based on user requests.

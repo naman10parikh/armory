@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T11:35:41Z"
 ---
 ## What it is
 MCP server `Rosh`, catalogued on PulseMCP. Create and publish interactive web apps, games, and 3D scenes using the Rosh plain-English programming language.

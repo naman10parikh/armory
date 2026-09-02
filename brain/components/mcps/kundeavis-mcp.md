@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:45:46Z"
 ---
 ## What it is
 MCP server that queries Norwegian grocery store flyers (kundeaviser) to help AI agents plan cheap meals based on current offers.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-12T16:23:44Z"
 ---
 ## What it is
 MCP server `Code Assist`, catalogued on PulseMCP. Enables code modification and generation tasks through file operations, search-and-replace, and version control integration for automated refactoring and codebase maintenance.

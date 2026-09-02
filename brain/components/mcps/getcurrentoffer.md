@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T22:21:36Z"
 ---
 ## What it is
 MCP server `GetCurrentOffer`, catalogued on PulseMCP. Search and compare credit card merchant offers from Chase, Amex, Citi, Capital One, PayPal, and Rakuten.

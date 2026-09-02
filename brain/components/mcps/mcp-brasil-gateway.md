@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:29:26Z"
 ---
 ## What it is
 MCP server that provides access to Brazilian public and commercial data, including CNPJ company info, government procurement (PNCP) searches, and FIPE vehicle pricing, with optional alert registration for new tenders.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 9
+forks: 4
+pushed_at: "2026-06-15T06:11:06Z"
 ---
 ## What it is
 Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.

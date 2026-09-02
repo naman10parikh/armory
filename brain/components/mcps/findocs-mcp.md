@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T12:35:10Z"
 ---
 ## What it is
 An eval-first MCP server for semantic search and grounded Q\&A over financial documentation, with a CI regression gate that fails on retrieval or faithfulness regressions.

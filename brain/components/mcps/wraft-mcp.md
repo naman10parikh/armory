@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:17:49Z"
 ---
 ## What it is
 MCP server for Wraft that lets AI agents discover and run curated document-lifecycle tools over Wraft's REST API, including content types, templates, document creation/update, PDF builds, and approval flows via stdio or hosted HTTP.

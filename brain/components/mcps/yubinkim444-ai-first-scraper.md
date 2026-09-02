@@ -8,10 +8,12 @@ source_url: https://github.com/yubinkim444/ai-first-scraper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T20:15:12Z"
 ---
 ## What it is
 MCP server `AI First Scraper`, catalogued on PulseMCP. Web scraping MCP server with fetch, batch fetch, and web search tools that return clean ad-free Markdown for AI agents.

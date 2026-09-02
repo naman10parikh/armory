@@ -8,10 +8,12 @@ source_url: https://github.com/kridaydave/file-organizer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-09-01T17:39:09Z"
 ---
 ## What it is
 MCP server `File Organizer`, catalogued on PulseMCP. Security-hardened file organizer with smart categorization, duplicate detection, and rollback support.

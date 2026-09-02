@@ -8,10 +8,12 @@ source_url: https://github.com/8bitgentleman/activitywatch-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-04-15T11:11:11Z"
 ---
 ## What it is
 MCP server `ActivityWatch`, catalogued on PulseMCP. Integrates with ActivityWatch to enable LLMs to interact with time tracking data, providing tools for listing buckets, executing AQL queries, and retrieving raw events for enhanced productivity analysis and time management.

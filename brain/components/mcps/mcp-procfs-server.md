@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-22T10:09:54Z"
 ---
 ## What it is
 A powerful MCP server for reading and modifying Linux /proc filesystem values, providing system monitoring, process management, and sysctl operations via JSON-RPC and SSE.

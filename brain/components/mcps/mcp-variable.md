@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:04:11Z"
 ---
 ## What it is
 Converts between Korean terminology and physical column names using a standard CSV dictionary, enabling developers to look up and transform terms, physical names, and variable cases.

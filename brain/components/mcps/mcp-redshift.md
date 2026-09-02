@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:39:25Z"
 ---
 ## What it is
 MCP server that integrates Microsoft Copilot with Amazon Redshift, enabling catalog search, query template retrieval, and query execution with end-to-end user identity propagation.

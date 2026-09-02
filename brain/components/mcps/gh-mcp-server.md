@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-10-05T19:33:48Z"
 ---
 ## What it is
 An MCP server that enables designers to interact with Rhino and Grasshopper via LLMs, analyze .3dm files, perform 3D modeling, and automatically generate GHPython code in Grasshopper based on user guidance.

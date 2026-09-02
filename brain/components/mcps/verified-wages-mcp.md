@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:11:19Z"
 ---
 ## What it is
 Provides current, source-cited US minimum wage, tipped wage, and FLSA overtime data for AI agents, with tools to query rates, verify wage floors, and list scheduled changes. It refreshes state-level wage information from DOL sources and refuses to guess when data is unavailable.

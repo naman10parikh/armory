@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T01:28:19Z"
 ---
 ## What it is
 MCP server `Rust Cluster`, catalogued on PulseMCP. MCP server providing intelligent clustering algorithm recommendations with a knowledge graph covering 7 algorithms and 30+ parameters.

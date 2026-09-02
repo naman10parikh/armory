@@ -8,11 +8,13 @@ source_url: https://github.com/CohenD/fin-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:07:54Z"
 ---
 ## What it is
 A Model Context Protocol server providing free financial market data across 13 categories with 83 no-key tools, enabling access to stocks, indices, options, forex, crypto, energy, prediction markets, and more.

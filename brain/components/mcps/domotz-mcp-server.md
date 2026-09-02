@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-11T00:05:24Z"
 ---
 ## What it is
 Enables Claude to query and manage Domotz network monitoring through 133 API actions, covering collectors, devices, alerts, and configuration.

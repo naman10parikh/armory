@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:34:56Z"
 ---
 ## What it is
 Enables MCP clients to compute and interpret Korean Four Pillars of Destiny (Saju) through natural language, including calculation, interpretation, compatibility analysis, and daily fortune.

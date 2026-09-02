@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T14:24:59Z"
 ---
 ## What it is
 MCP server for Splice CAD cable assembly and wiring harness design tool. Enables AI agents to search parts, build harness plans, create components with specs, and generate manufacturing documentation.

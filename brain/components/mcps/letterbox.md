@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:51:11Z"
 ---
 ## What it is
 Enables real-time, file-based messaging between terminal AI agents (like Claude Code, Gemini CLI) allowing them to collaborate on tasks directly without a server or network, using JSON files and atomic rename for coordination.

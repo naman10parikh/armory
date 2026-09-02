@@ -8,10 +8,12 @@ source_url: https://github.com/x746b/winforensics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T18:36:21Z"
 ---
 ## What it is
 MCP server `Windows Forensics`, catalogued on PulseMCP. Enables Windows digital forensics analysis by parsing EVTX event logs, registry hives, and remotely collecting artifacts via WinRM for incident response workflows.

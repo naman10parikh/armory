@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:43:08Z"
 ---
 ## What it is
 The README is a completion certificate for the GitHub Skills exercise and does not contain any description of an MCP server.

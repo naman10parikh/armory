@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-31T16:46:46Z"
 ---
 ## What it is
 Exposes multiple local documentation folders to AI assistants via tools for listing, reading, and searching files across namespaces.

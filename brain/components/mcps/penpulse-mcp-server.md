@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:03:03Z"
 ---
 ## What it is
 AI-powered content automation MCP server that enables researching topics, generating articles, formatting WeChat HTML, creating covers, and publishing drafts to WeChat Official Accounts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:07:41Z"
 ---
 ## What it is
 MCP bridge for the BindAliasPlus Minecraft mod that lets AI agents control Minecraft by querying game state, taking screenshots, executing aliases, and editing the mod config.

@@ -8,10 +8,12 @@ source_url: https://github.com/mekanixms/mcp_memory_plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-15T07:24:25Z"
 ---
 ## What it is
 MCP server `Memory Plugin (SQLite)`, catalogued on PulseMCP. Provides SQLite-based persistent memory storage for maintaining context across conversations, enabling long-term recall and knowledge management.

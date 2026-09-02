@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T09:40:58Z"
 ---
 ## What it is
 A semantic layer query engine with MCP support, enabling AI assistants to query structured data through natural language and declarative interfaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:20:39Z"
 ---
 ## What it is
 MCP server for DJs to scan music folders, validate and suggest metadata via MusicBrainz/iTunes/Spotify, and batch write metadata to audio files with confidence scoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:31:50Z"
 ---
 ## What it is
 Deploy GitHub repositories or local directories to private URLs directly from an MCP client. Includes tools for managing deployments, reading build logs, and stopping services.

@@ -8,10 +8,12 @@ source_url: https://github.com/codefuturist/email-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2026-08-21T13:39:49Z"
 ---
 ## What it is
 MCP server `Email`, catalogued on PulseMCP. Full-featured IMAP/SMTP email client with multi-account support, scheduling, IMAP IDLE real-time watching, and AI-powered triage.

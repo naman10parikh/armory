@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:59:41Z"
 ---
 ## What it is
 MCP server for a self-hosted indoor/outdoor weather station, providing real-time weather, forecasts, alerts, and indoor temperature/humidity data through five MCP tools.

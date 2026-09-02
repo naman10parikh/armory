@@ -8,11 +8,13 @@ source_url: https://github.com/reloadcz/mcp-csu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T22:38:26Z"
 ---
 ## What it is
 Provides AI assistants direct access to 700+ statistical datasets about the Czech Republic, including population, economy, prices, wages, employment, industry, agriculture, trade, tourism, environment, and more.

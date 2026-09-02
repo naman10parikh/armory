@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T18:03:44Z"
 ---
 ## What it is
 Enables any MCP-compatible AI client to use the Flatkey API for generating text, images, video, speech, sound effects, and music, with credit consumption tracking.

@@ -8,11 +8,13 @@ source_url: https://github.com/google/A2A
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25475
+stars: 25590
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, official-implementations]
+forks: 2593
+pushed_at: "2026-09-01T08:25:08Z"
 ---
 ## What it is
 An open protocol enabling communication and interoperability between opaque agentic applications

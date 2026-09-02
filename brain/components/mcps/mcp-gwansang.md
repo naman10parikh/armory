@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:00:36Z"
 ---
 ## What it is
 Extracts deterministic facial features from photos locally using MediaPipe, returning structured JSON with measurements like face shape ratios and symmetry.

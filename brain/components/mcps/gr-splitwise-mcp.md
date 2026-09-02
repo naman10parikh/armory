@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T20:29:59Z"
 ---
 ## What it is
 MCP server for Splitwise. Enables creating and managing expenses, splits, and groups directly from Claude without manual entry.

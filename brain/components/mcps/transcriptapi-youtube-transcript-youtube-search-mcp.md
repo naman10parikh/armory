@@ -8,11 +8,13 @@ source_url: https://github.com/ZeroPointRepo/youtube-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-25T06:02:57Z"
 ---
 ## What it is
 A comprehensive MCP server providing YouTube transcript retrieval, video search, channel browsing, playlist extraction, and upload monitoring for AI agents.

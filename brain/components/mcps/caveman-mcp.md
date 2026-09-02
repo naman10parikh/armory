@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T06:58:10Z"
 ---
 ## What it is
 MCP server that compresses markdown files into caveman-style prose, cutting token usage by 65% while preserving code and structure.

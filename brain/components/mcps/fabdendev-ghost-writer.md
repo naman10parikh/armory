@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T16:53:59Z"
 ---
 ## What it is
 MCP server `Ghost Writer`, catalogued on PulseMCP. Scans Git repositories for engineering activity and generates confidentiality-sanitised LinkedIn post drafts.

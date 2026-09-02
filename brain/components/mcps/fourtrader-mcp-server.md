@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T10:26:35Z"
 ---
 ## What it is
 Enables AI assistants to trade Four.meme tokens on BNB Smart Chain via the Model Context Protocol, supporting buy/sell operations, real-time data, and wallet management.

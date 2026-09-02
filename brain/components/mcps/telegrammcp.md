@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:11:38Z"
 ---
 ## What it is
 MCP server that sends Telegram notifications with project name and completion status via a single tool notify_task_done, supporting StreamableHTTP and stdio transports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:24:45Z"
 ---
 ## What it is
 Connects local stdio MCP servers to an existing Chrome 144+ session, preserving the user's signed-in sessions, cookies, tabs, and extension environment without launching a second browser. It provides tab control, semantic snapshots, screenshots, pointer, keyboard, form selection, scrolling, navigati

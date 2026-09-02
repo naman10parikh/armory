@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:10:53Z"
 ---
 ## What it is
 Unofficial MCP server for Akiflow that enables AI agents to manage tasks, projects, and calendar via the Model Context Protocol.

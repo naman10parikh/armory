@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:38:51Z"
 ---
 ## What it is
 Provides access to live swap quotes and routing on the Base network via the o1.exchange DEX aggregator. Read-only and safe by default, it returns routing data and unsigned calldata for you to sign in your own wallet.

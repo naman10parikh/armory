@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:21:50Z"
 ---
 ## What it is
 MCP server that helps software teams track and understand technical debt, recurring issues, project dependencies, and real-time agent handoffs through a causal knowledge graph.

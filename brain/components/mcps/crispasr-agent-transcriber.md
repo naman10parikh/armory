@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:26:21Z"
 ---
 ## What it is
 Local-only transcription server for MCP agents, powered by CrispASR. Transcribes audio/video files without cloud uploads, supporting English and Chinese.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:42Z"
 ---
 ## What it is
 Enables listing, creating, editing, deleting, and scheduling structured workouts (run, cycle, swim, triathlon) on Garmin Connect via natural language.

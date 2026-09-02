@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T06:34:04Z"
 ---
 ## What it is
 The README only contains a congratulations message and does not describe any MCP server.

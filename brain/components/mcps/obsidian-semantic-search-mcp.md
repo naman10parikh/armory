@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:34:32Z"
 ---
 ## What it is
 Read-only semantic retrieval for agents that need to find the right Obsidian note without write access.

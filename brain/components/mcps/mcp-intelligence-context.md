@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:51:52Z"
 ---
 ## What it is
 Provides codebase indexing and retrieval tools that give AI agents token-efficient, query-relevant context packages (symbols, imports, and dependencies) instead of scanning entire repositories.

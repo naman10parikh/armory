@@ -8,10 +8,12 @@ source_url: https://github.com/nishu8875/hr-assistant-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-16T23:23:30Z"
 ---
 ## What it is
 MCP server `HR Assistant Agent`, catalogued on PulseMCP. Provides complete HR management with employee onboarding, leave tracking, meeting scheduling, and IT ticket handling through automated workflows and email integration.

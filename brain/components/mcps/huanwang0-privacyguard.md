@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T15:46:19Z"
 ---
 ## What it is
 MCP server `PrivacyGuard`, catalogued on PulseMCP. Routes sensitive prompts to local Ollama instances instead of cloud LLMs using keyword-based pattern matching for PII, PHI, and credential detection.

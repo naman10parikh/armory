@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:16:46Z"
 ---
 ## What it is
 Enables management of Brainbase agents, components, evals, tasks, and more via a remote MCP connection with OAuth authentication.

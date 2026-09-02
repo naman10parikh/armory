@@ -8,11 +8,13 @@ source_url: https://github.com/mdwsk88/ms-365-21v-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 77
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:32:03Z"
 ---
 ## What it is
 Enables MCP-enabled AI clients to access Microsoft 365 operated by 21Vianet (China) through Microsoft Graph, supporting email, calendar, OneDrive, SharePoint, Teams, contacts, search, and intelligent aggregation with delegated permissions and OAuth 2.1.

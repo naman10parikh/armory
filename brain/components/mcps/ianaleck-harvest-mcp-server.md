@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 8
+forks: 2
+pushed_at: "2026-07-09T06:41:45Z"
 ---
 ## What it is
 Harvest time tracking integration with 40+ tools for managing time entries, projects, clients, tasks, and generating time reports via the Harvest API v2

@@ -8,10 +8,12 @@ source_url: https://github.com/vaquill-ai/courtlistener-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-08T19:08:27Z"
 ---
 ## What it is
 MCP server `CourtListener`, catalogued on PulseMCP. Access US federal and state court opinions, dockets, judges, oral arguments, and eCFR regulations via CourtListener.

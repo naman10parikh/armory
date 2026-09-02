@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T21:52:39Z"
 ---
 ## What it is
 MCP server `Cozo Memory`, catalogued on PulseMCP. Local-first memory system for AI agents with hybrid search and graph reasoning.

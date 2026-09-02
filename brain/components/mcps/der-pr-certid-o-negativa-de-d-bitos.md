@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:03Z"
 ---
 ## What it is
 MCP server that enables querying official Paraná state tax debt clearance certificates (Certidão Negativa de Débitos) via a single read-only tool.

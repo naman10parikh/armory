@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:45:23Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI agents bounded, auditable access to propose changes to an Obsidian vault stored in GitHub, with per-agent expiring tokens, read/write/deny path policies, mutability rules, frontmatter checks, and human-reviewed proposal branches.

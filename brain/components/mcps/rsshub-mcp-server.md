@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-30T07:42:48Z"
 ---
 ## What it is
 A Model Context Protocol server for RSSHub that enables AI assistants to access and query various RSS feeds, manage subscriptions, and search routes through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T00:52:20Z"
 ---
 ## What it is
 Persistent, searchable conversation memory shared across Claude Code and Codex, enabling cross-session recall and thread continuity via hybrid BM25 and vector search.

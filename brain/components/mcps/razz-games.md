@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T14:13:58Z"
 ---
 ## What it is
 MCP server `Razz Games`, catalogued on PulseMCP. Enables wagering on provably fair casino games and multiplayer strategy games on the Razz platform using SOL cryptocurrency.

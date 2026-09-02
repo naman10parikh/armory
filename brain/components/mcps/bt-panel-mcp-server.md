@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:12:45Z"
 ---
 ## What it is
 This MCP server enables AI assistants to interact with a BT Panel server through natural language, allowing users to query logs, manage websites, and monitor system status without manual panel login.

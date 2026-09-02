@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:12:26Z"
 ---
 ## What it is
 Enables web search, page fetching, and AI-powered research via DuckDuckGo, with context compaction and agent reasoning using morphllm.

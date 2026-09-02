@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-03T22:08:55Z"
 ---
 ## What it is
 MCP server `LSP MCP RS`, catalogued on PulseMCP. Universal bridge to Language Server Protocol servers with multi-language support.

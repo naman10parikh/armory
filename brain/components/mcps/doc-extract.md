@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:08:30Z"
 ---
 ## What it is
 Enables reading entire PDF documents into validated structured JSON, including tables, key-values, and markdown, with read-only extraction tools and layout reconstruction.

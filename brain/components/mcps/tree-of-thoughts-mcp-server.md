@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:12:12Z"
 ---
 ## What it is
 Implements the Tree of Thoughts framework for structured reasoning and decision tree exploration, enabling LLMs to explore multiple reasoning paths, evaluate them, and backtrack.

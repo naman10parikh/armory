@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-21T02:37:53Z"
 ---
 ## What it is
 MCP server `FDIC BankFind`, catalogued on PulseMCP. Queries the FDIC BankFind Suite API for banking institution data, failures, and financial analysis.

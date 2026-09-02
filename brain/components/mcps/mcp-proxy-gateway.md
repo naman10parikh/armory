@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:26:26Z"
 ---
 ## What it is
 A context-aware MCP proxy that reduces token usage by exposing only 3 tools (mcp_search, mcp_call, mcp_schema) to LLMs, with on-demand tool loading and BM25 search.

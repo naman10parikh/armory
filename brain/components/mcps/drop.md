@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T11:28:33Z"
 ---
 ## What it is
 Publishes HTML pages straight from your AI assistant to a shareable URL, then lets you manage them - update, list, search, fetch, and delete pages in a public or private workspace. Turns "share what I just made" into a single tool call from Claude, Cursor, or any MCP client.

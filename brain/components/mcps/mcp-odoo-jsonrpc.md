@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T14:47:52Z"
 ---
 ## What it is
 MCP server for managing Odoo ERP tasks, timesheets, and wiki pages via JSON-RPC protocol. Supports restricted and full trust modes for secure AI assistant access.

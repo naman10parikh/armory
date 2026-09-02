@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-16T06:32:23Z"
 ---
 ## What it is
 Enables searching GitHub users and repositories, fetching details, and performing stock market technical analysis via AlphaVantage.

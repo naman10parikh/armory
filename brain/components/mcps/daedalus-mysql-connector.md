@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:09Z"
 ---
 ## What it is
 MCP server `MySQL Connector`, catalogued on PulseMCP. Exposes MySQL database functionality as callable tools via the mysql-connector-python library.

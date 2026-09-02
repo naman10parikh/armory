@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-20T06:39:42Z"
 ---
 ## What it is
 MCP server `Pulsyn`, catalogued on PulseMCP. Integrates with Pulsyn smart ring devices for health metrics.

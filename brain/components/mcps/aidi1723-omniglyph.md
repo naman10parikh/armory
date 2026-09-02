@@ -8,10 +8,12 @@ source_url: https://github.com/aidi1723/omniglyph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T09:08:39Z"
 ---
 ## What it is
 MCP server `OmniGlyph`, catalogued on PulseMCP. Local Unicode lookup and symbol linting for resolving and validating code symbols offline.

@@ -8,10 +8,12 @@ source_url: https://github.com/kamelirzouni/mcp-server-deepseek_r1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-07-09T05:45:05Z"
 ---
 ## What it is
 MCP server `Deepseek R1`, catalogued on PulseMCP. Integrates with Deepseek R1 model for text generation and analysis tasks, enabling content creation and AI-assisted decision-making in various applications.

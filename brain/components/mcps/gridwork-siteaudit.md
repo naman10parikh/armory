@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T13:56:21Z"
 ---
 ## What it is
 An MCP server that audits websites for accessibility (WCAG 2.1 AA/EAA), performance, SEO, design quality, and mobile responsiveness, providing actionable scores, grades, and prioritized fixes.

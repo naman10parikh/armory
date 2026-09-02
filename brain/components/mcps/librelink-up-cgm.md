@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:38Z"
 ---
 ## What it is
 Read-only MCP server for accessing glucose readings, charts, logbook, and statistics from LibreLink Up sensors, supporting any MCP client.

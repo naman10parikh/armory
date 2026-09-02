@@ -8,10 +8,12 @@ source_url: https://github.com/guaidaoyiyoudao/garmincn-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-25T07:15:00Z"
 ---
 ## What it is
 MCP server `Garmin Connect (China)`, catalogued on PulseMCP. Connects to Garmin Connect platform for Chinese users, enabling secure access to fitness tracking, health metrics, and activity data from Garmin devices

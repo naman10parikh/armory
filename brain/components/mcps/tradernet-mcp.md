@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-17T22:53:51Z"
 ---
 ## What it is
 MCP server for Tradernet/Freedom24 trading platform API, enabling portfolio management, order placement, quotes, ticker search, and price alerts via AI assistants.

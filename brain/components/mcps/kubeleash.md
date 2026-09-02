@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T17:39:20Z"
 ---
 ## What it is
 A local MCP server for Kubernetes that applies RBAC-style, context-scoped access control to constrain AI agents, with tools for common Kubernetes operations.

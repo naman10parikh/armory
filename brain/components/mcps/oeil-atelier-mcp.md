@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:36:07Z"
 ---
 ## What it is
 Serveur MCP exposant 4 ESP32-CAM d'atelier à Claude Code, permettant de lister les caméras, prendre des photos, consulter le statut technique et contrôler les LEDs flash.

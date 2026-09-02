@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:30:33Z"
 ---
 ## What it is
 Enables agents to run SQL queries against PostgreSQL databases through MCP with connection pooling, tenant isolation, and read-only guardrails. Supports introspection of schemas, tables, and columns.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-30T05:36:50Z"
 ---
 ## What it is
 MCP server `TelemetryFlow`, catalogued on PulseMCP. Provides observability and telemetry data access through session management and conversation handling, integrating with storage backends like PostgreSQL, ClickHouse, and Redis for development operations and debugging workflows.

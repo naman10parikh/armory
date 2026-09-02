@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:16:57Z"
 ---
 ## What it is
 A hosted MCP server providing 15 media and data tools for AI agents, including web search, news, content extraction, summarization, translation, moderation, script writing, text-to-voiceover, transcription, subtitles, viral-clip discovery, and short-form video editing.

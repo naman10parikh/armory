@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:41:31Z"
 ---
 ## What it is
 An MCP server that gives AI agents a shared, living memory by distilling solved tasks into reusable, verifiable skills, enabling collective intelligence and reducing redundant inference.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T10:23:38Z"
 ---
 ## What it is
 Configurable MCP server that converts any OpenAPI specification into MCP tools over HTTP, with support for dynamic reloading and environment variable expansion for secrets.

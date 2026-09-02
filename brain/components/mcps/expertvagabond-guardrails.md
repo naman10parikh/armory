@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T17:38:19Z"
 ---
 ## What it is
 MCP server `Agent Guardrails`, catalogued on PulseMCP. Security guardrails layer for AI agent actions with policy enforcement.

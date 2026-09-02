@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T02:30:37Z"
 ---
 ## What it is
 Unifies YouTube transcripts, YouTube search, and Google NotebookLM into a research pipeline for Claude Desktop and MCP clients.

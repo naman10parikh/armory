@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-07T15:23:18Z"
 ---
 ## What it is
 Provides LLMs with tools to search Stack Overflow for programming solutions, helping ground responses in real-world code examples.

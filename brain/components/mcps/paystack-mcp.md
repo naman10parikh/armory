@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-28T10:00:20Z"
 ---
 ## What it is
 Enables AI agents to manage Paystack payments, products, customers, and transactions through natural language.

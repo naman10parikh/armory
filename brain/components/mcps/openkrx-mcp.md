@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:34:49Z"
 ---
 ## What it is
 MCP server that provides Korean Exchange (KRX) Open API market data as tools, covering indices, stocks, ETPs, bonds, derivatives, commodities, and ESG.

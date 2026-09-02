@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:31:38Z"
 ---
 ## What it is
 A read-only MCP server over the Cassini-Huygens mission dataset exposing tools for querying activity data such as listing, searching, counting, aggregating, and timeline analysis.

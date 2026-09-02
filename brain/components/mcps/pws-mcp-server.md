@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:05:27Z"
 ---
 ## What it is
 Enables AI assistants to interact with a Pro Wrestling Sim save, allowing natural language queries about roster, contracts, shows, and more, with read-only analysis and validated booking actions.

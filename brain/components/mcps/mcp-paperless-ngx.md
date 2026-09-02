@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T09:55:26Z"
 ---
 ## What it is
 A read-only and write MCP server for Paperless-ngx, enabling document listing, metadata retrieval, and creation of tags, correspondents, document types, and sorting workflows via natural language.

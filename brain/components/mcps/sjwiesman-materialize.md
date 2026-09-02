@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-28T15:37:31Z"
 ---
 ## What it is
 MCP server `Materialize`, catalogued on PulseMCP. Automatically exposes Materialize database indexes as parameterized URI endpoints for natural language querying of materialized views

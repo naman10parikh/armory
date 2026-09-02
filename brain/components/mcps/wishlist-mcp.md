@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:28:26Z"
 ---
 ## What it is
 Hosted MCP server that lets Claude, ChatGPT, or Codex read and update a user's wishlist.fit wishlist on their behalf, with tool parity matching the web app's capabilities.

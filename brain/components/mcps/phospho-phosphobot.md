@@ -8,10 +8,12 @@ source_url: https://github.com/phospho-app/phospho-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-09T09:27:29Z"
 ---
 ## What it is
 MCP server `Phospho`, catalogued on PulseMCP. Integrates with phosphobot automation service to replay recorded user interaction episodes from datasets, enabling testing scenarios and development workflows that require reproducible user behavior sequences.

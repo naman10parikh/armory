@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T15:33:04Z"
 ---
 ## What it is
 Run provable, .slang-driven multi-agent workflows inside Claude Code. A deterministic executor enforces typed output contracts, tool scoping, and convergence, providing guarantees and auditability.

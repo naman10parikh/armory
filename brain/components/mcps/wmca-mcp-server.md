@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T06:15:46Z"
 ---
 ## What it is
 Enables AI clients like Claude Code to perform stock price queries and trading orders through NH투자증권's WMCA DLL using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T12:48:11Z"
 ---
 ## What it is
 Geospatial API tools for AI agents — geocoding, reverse geocoding, routing, isochrone, distance matrix, static maps, H3 hexagons, elevation, GPS map-matching, point-in-polygon, address normalisation, timezone lookup, and batch geocoding. Built on OpenStreetMap infrastructure. Cost-effective alternat

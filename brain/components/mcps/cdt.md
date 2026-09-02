@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:57:16Z"
 ---
 ## What it is
 Enables driving an isolated, already-logged-in Microsoft Edge browser from the shell by reusing your daily Edge's login cookies through a browser-extension bridge.

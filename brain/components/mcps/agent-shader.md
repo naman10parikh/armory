@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:22:28Z"
 ---
 ## What it is
 Builds, validates, and render-tests Panzoid Shader Object JSON in a real WebGL 1 Chromium context, exposing these capabilities as MCP tools.

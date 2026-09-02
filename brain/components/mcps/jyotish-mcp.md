@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:08:34Z"
 ---
 ## What it is
 Vedic astrology MCP server that computes birth charts, dashas, transits, and ashtakavarga using Swiss ephemerides, enabling Claude to provide astrological interpretations.

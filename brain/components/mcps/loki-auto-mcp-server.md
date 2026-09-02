@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:06:18Z"
 ---
 ## What it is
 Enables LLM agents to automate browser tasks through secure, sandboxed Rhai scripts executed in a WebAssembly VM, supporting DOM interactions and tab management via MCP tools.

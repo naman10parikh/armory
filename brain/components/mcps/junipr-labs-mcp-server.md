@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 1
+forks: 1
+pushed_at: "2026-03-12T06:23:44Z"
 ---
 ## What it is
 Web intelligence API for AI agents — screenshot capture, PDF generation, page metadata extraction, and 75+ specialized data extractors for news, social media, SERP, pricing, and more. Free tier included.

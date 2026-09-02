@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T17:52:26Z"
 ---
 ## What it is
 Enables natural language control of the Timesheet API for timer management, task tracking, and project management through MCP tools.

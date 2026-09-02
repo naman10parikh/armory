@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:10:18Z"
 ---
 ## What it is
 A hotel booking assistant that exposes hotel search and booking tools via MCP, with a Streamlit chat client driving an agent loop using Claude.

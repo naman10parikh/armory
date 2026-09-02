@@ -8,10 +8,12 @@ source_url: https://github.com/wopal-cn/mcp-hotnews-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 196
+stars: 201
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2024-12-22T10:48:07Z"
 ---
 ## What it is
 MCP server `Hotnews (Chinese Social)`, catalogued on PulseMCP. Aggregates real-time trending topics from major Chinese social platforms and news sites.

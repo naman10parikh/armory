@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-14T18:39:58Z"
 ---
 ## What it is
 Enables AI agents to search and manage Twitter/X bookmarks via krill.to.

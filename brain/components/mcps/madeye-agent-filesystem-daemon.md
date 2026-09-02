@@ -8,10 +8,12 @@ source_url: https://github.com/madeye/mcp-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-05-05T04:50:01Z"
 ---
 ## What it is
 MCP server `Agent Filesystem Daemon`, catalogued on PulseMCP. Persistent sidecar daemon with MCP bridge eliminating per-call fork/exec overhead for AI agents accessing filesystems, git, and source code.

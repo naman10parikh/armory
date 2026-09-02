@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:22:12Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server wrapping mcp-lint to perform static analysis and schema checking on other MCP servers.

@@ -8,10 +8,12 @@ source_url: https://github.com/jackwrichards/unitymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 515
+stars: 523
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2025-03-18T18:47:38Z"
 ---
 ## What it is
 MCP server `Unity`, catalogued on PulseMCP. Enables real-time interaction with Unity Editor projects for tasks like automated level design, asset management, and debugging assistance through C# command execution and editor state retrieval.

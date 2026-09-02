@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:36:01Z"
 ---
 ## What it is
 Enables interactive sales data exploration within Claude through a dynamic dashboard with filterable charts and tables.

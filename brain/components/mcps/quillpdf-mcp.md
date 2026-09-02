@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:08:28Z"
 ---
 ## What it is
 A local-first PDF tool for merging, splitting, rotating, watermarking, Bates-numbering, cleaning metadata, and counting pages — all operations happen on your machine with no network transmission.

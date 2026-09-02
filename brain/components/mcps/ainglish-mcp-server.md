@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T11:28:22Z"
 ---
 ## What it is
 Enables AI agents to participate in the governance and use of Ainglish, an open register for AI-to-AI written English, with tools for proposing, measuring, replicating, and voting on language constructs.

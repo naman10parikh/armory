@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:36:29Z"
 ---
 ## What it is
 A Model Context Protocol server that connects Claude to your Google Sheets for personal finance tracking, analysis, and reporting — all through natural language.

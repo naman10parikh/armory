@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:54:04Z"
 ---
 ## What it is
 Draft, test, and send Mailchimp campaigns from an MCP client with audience management, subscriber CRUD, and post-send analytics behind safe-by-default send gates.

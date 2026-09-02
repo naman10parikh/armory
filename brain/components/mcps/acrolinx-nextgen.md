@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-20T16:18:34Z"
 ---
 ## What it is
 MCP server `Acrolinx NextGen`, catalogued on PulseMCP. Integrates with Acrolinx's NextGen API to provide automated text rewriting, quality analysis, targeted editing suggestions, and workflow status checking with support for multiple style guides and configurable parameters for professional content improvement.

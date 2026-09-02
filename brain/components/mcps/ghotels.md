@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:54:22Z"
 ---
 ## What it is
 An MCP server that gives AI agents live Google Hotels data (search, rooms, rates, cancellation) via internal RPC — no API key or scraping required.

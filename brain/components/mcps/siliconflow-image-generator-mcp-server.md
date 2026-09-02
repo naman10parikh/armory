@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T20:30:12Z"
 ---
 ## What it is
 Generates images via SiliconFlow API with support for multiple models, concurrent requests, and automatic saving.

@@ -8,11 +8,13 @@ source_url: https://github.com/jiezeng2004-design/safe-bifrost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T01:08:30Z"
 ---
 ## What it is
 A local MCP server that provides a safe plan-and-execute workflow for AI coding assistants, storing plans and tasks, and executing agent commands with an allow-list for security.

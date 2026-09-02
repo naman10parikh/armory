@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:54:54Z"
 ---
 ## What it is
 Connects Microsoft To Do to Claude, enabling task fetching, planning, completion, note-taking, and checklist management through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:42:36Z"
 ---
 ## What it is
 Unified MCP server for Chinese stock market data that batches multiple data requests (news, insider trading, financials, historical K-line, etc.) into a single call.

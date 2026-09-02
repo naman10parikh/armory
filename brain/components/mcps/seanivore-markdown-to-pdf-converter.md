@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-29T12:27:44Z"
 ---
 ## What it is
 MCP server `Markdown to PDF Converter`, catalogued on PulseMCP. Converts Markdown to styled PDFs, enabling creation of visually appealing documents with code highlighting and typography.

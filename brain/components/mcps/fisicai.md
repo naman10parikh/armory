@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T20:41:16Z"
 ---
 ## What it is
 MCP server providing tools for high-energy physics: literature search (INSPIRE-HEP, arXiv), data access (HEPData), and statistical analysis (pyhf likelihoods) for reinterpreting LHC searches.

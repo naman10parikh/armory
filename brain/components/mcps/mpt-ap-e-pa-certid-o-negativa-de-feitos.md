@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:44Z"
 ---
 ## What it is
 Enables querying official negative certificates (Certidão Negativa de Feitos) from the Brazilian Labor Prosecutor (MPT) for Amapá and Pará through a read-only MCP server.

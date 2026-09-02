@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-07T16:31:03Z"
 ---
 ## What it is
 MCP server `OpenFoodTox`, catalogued on PulseMCP. Access to EFSA's comprehensive chemical safety database for food additives and pesticides

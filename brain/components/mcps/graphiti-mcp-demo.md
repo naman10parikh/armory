@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-17T06:05:17Z"
 ---
 ## What it is
 Enables AI agents to build real-time knowledge graphs using Zep's Graphiti memory, persisting context in Neo4j.

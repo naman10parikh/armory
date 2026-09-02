@@ -8,10 +8,12 @@ source_url: https://github.com/ahmedmustahid/postgres-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [database, mcp]
+forks: 16
+pushed_at: "2025-07-14T09:23:38Z"
 ---
 
 ## What it is

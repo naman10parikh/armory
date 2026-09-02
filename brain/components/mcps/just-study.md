@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:51:25Z"
 ---
 ## What it is
 Enables AI agents to create and manage personalized 30-day study courses, including web research with source validation, daily lessons, quizzes, and progress tracking through 12 MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:34:51Z"
 ---
 ## What it is
 Unified UK property search across major portals with deduplication and open-data enrichment, enabling natural-language queries for listings, sold prices, EPC, crime, schools, and market stats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T11:03:38Z"
 ---
 ## What it is
 Manages Xray test cases, executions, and reports through natural language commands.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T09:38:06Z"
 ---
 ## What it is
 MCP server `Sentry`, catalogued on PulseMCP. Connects AI models to Sentry error tracking service, enabling detailed retrieval and analysis of error reports including stack traces, event counts, and timestamps for enhanced debugging workflows.

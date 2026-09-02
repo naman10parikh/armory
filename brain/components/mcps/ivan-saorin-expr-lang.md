@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-01T23:02:10Z"
 ---
 ## What it is
 MCP server `Expr-Lang`, catalogued on PulseMCP. Provides a powerful expression evaluation engine for complex data manipulations, enabling mathematical operations, array transformations, string processing, and conditional logic directly within conversations.

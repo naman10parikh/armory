@@ -8,10 +8,12 @@ source_url: https://github.com/novyxlabs/novyx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-04T02:05:30Z"
 ---
 ## What it is
 MCP server `Novyx Memory`, catalogued on PulseMCP. Persistent memory system for AI agents with knowledge graph, context spaces, replay, and multi-agent collaboration.

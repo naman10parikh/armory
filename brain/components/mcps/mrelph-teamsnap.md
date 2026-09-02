@@ -8,10 +8,12 @@ source_url: https://github.com/mrelph/teamsnapmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-05T00:54:46Z"
 ---
 ## What it is
 MCP server `TeamSnap`, catalogued on PulseMCP. Integrates with TeamSnap's sports team management platform for read-only access to team rosters, schedules, events, and player availability data.

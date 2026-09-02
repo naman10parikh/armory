@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:30:07Z"
 ---
 ## What it is
 MCP server `Pipeworx OpenTopography`, catalogued on PulseMCP. OpenTopography global digital elevation model rasters and point queries via the Pipeworx gateway.

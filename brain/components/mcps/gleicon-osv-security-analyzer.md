@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-24T03:11:24Z"
 ---
 ## What it is
 MCP server `OSV.dev Security Analyzer`, catalogued on PulseMCP. Integrates with OSV.dev to identify and analyze potential vulnerabilities in codebases, providing dependency checking and code security analysis with optional Semgrep-enhanced static analysis.

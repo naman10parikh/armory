@@ -8,10 +8,12 @@ source_url: https://github.com/bcharleson/instantly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-01-02T16:09:14Z"
 ---
 ## What it is
 MCP server `Instantly`, catalogued on PulseMCP. Integrates with Instantly API v2 to enable email campaign management, lead tracking, and account health monitoring for automated outreach workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/embeddedlayers/mcp-analytics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T14:28:51Z"
 ---
 ## What it is
 MCP server `MCP Analytics`, catalogued on PulseMCP. Professional statistical analysis and machine learning tools with interactive HTML visualizations

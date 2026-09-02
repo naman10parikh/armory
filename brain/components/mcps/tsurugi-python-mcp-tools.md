@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T02:26:39Z"
 ---
 ## What it is
 Enables to interact with Tsurugi RDBMS by executing SQL (DDL, DML, SELECT) and retrieving metadata through MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:45Z"
 ---
 ## What it is
 Emita e gerencie notas fiscais de serviço (NFS-e) conversando com o agente, hospedado pela plataforma, sem precisar de conta na nfe.io.

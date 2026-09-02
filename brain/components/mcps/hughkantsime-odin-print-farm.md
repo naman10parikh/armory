@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T14:38:59Z"
 ---
 ## What it is
 MCP server `ODIN Print Farm`, catalogued on PulseMCP. Provides 3D print farm management tools including cost calculators, printer recommendations, and capacity planning.

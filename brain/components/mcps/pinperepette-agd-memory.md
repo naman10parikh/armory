@@ -8,10 +8,12 @@ source_url: https://github.com/pinperepette/agd-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-25T18:14:41Z"
 ---
 ## What it is
 MCP server `AGD Memory`, catalogued on PulseMCP. MCP server for persistent project memory in AGD format, with 4 tools for saving, retrieving, and searching project-specific context with efficient selective access.

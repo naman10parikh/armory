@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-17T09:29:30Z"
 ---
 ## What it is
 MCP server `Neo4j GraphRAG`, catalogued on PulseMCP. Combines vector similarity search, fulltext search, and search-augmented Cypher queries with automatic data sanitization and token-aware response truncation for knowledge graph applications.

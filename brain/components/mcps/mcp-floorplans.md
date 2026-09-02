@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:23:32Z"
 ---
 ## What it is
 Generates workspace floorplans with deterministic layout calculations, providing tools for space layout generation, zone adjacency analysis, and space brief validation.

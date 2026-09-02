@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:39:27Z"
 ---
 ## What it is
 Thin stdio proxy to Pifini's hosted MCP server (real events, reviewed places, and ticket checkout across the Caribbean & Latin America). MIT, zero dependencies.

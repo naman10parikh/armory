@@ -8,10 +8,12 @@ source_url: https://github.com/teradata/teradata-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 59
+pushed_at: "2026-08-27T00:27:16Z"
 ---
 ## What it is
 MCP server `Teradata Database`, catalogued on PulseMCP. Provides direct access to Teradata database systems with specialized tools for executing queries, exploring database structures, monitoring performance, and analyzing data quality without leaving your conversation context.

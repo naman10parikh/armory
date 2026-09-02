@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:18:57Z"
 ---
 ## What it is
 Local MCP server that enables reading, searching, opening, and safely writing Obsidian Markdown files in a single learner-selected vault, with strict path and file-type restrictions.

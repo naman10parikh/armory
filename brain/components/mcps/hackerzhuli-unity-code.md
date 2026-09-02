@@ -8,10 +8,12 @@ source_url: https://github.com/hackerzhuli/unity_code_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-02T10:19:43Z"
 ---
 ## What it is
 MCP server `Unity Code`, catalogued on PulseMCP. Provides Unity Editor integration with compilation-resilient architecture that survives Unity's domain reload cycles, enabling asset database refresh with error reporting and execution of EditMode and PlayMode tests with comprehensive results.

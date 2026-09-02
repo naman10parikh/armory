@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-25T18:49:45Z"
 ---
 ## What it is
 MCP server `Inked (Writing Assistant)`, catalogued on PulseMCP. Provides tools for managing and generating long-form content through conversation-based drafting and revision workflows, enabling efficient development of novels, reports, and other extensive documents.

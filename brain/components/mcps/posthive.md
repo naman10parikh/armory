@@ -8,11 +8,13 @@ source_url: https://github.com/AstaBlackClove/posthive
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T15:59:48Z"
 ---
 ## What it is
 Schedule and manage social media posts across 13 platforms (Bluesky, Threads, Instagram, LinkedIn, Mastodon, YouTube, Facebook, Pinterest, Telegram, Nostr, X/Twitter, Discord, Tumblr and more). OAuth 2.0 + PKCE, 10 tools, draft-first workflow for AI agents.

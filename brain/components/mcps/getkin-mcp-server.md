@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T03:03:45Z"
 ---
 ## What it is
 Provides six tools for LLM infrastructure: model recommendation, availability checking, LLM call routing, memory compression, model listing, and memory usage checking, with paid tools using Solana USDC.

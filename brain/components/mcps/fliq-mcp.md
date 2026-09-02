@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:18:50Z"
 ---
 ## What it is
 Lets AI agents schedule and manage HTTP jobs, cron schedules, rate-limited buffers, and alert channels via natural language, backed by Fliq's Postgres-native job scheduler.

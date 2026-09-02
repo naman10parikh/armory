@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T03:18:39Z"
 ---
 ## What it is
 A simple MCP server built with Next.js that provides a greet_user tool to return friendly greetings, either general or personalized.

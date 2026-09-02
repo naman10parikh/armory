@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T06:40:05Z"
 ---
 ## What it is
 Wraps Kali Linux penetration testing tools for authorized security assessments, driven by a local LLM via LM Studio.

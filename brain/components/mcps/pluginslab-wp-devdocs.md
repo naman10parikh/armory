@@ -8,10 +8,12 @@ source_url: https://github.com/pluginslab/wp-devdocs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-18T21:29:38Z"
 ---
 ## What it is
 MCP server `WordPress DevDocs`, catalogued on PulseMCP. Indexes WordPress plugin hooks and JavaScript APIs from GitHub repositories and local folders in a SQLite database, providing searchable documentation and validation to prevent developers from using non-existent hook names during WordPress development.

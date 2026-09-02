@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:41:28Z"
 ---
 ## What it is
 Enables AI assistants to generate temporary email addresses, check inboxes, and read messages using the 1TempMail API.

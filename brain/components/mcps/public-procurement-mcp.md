@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T21:04:27Z"
 ---
 ## What it is
 Neutral MCP server for researching public procurement notices from EU (TED) and German (DÖE) sources, offering tools to search, retrieve, and inspect notices without built-in business preferences.

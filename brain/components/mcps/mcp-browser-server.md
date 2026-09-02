@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T21:17:57Z"
 ---
 ## What it is
 A MCP server that gives AI assistants full browser control, enabling navigation, clicking, form filling, and screenshots via any MCP client.

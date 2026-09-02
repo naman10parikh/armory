@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T00:05:24Z"
 ---
 ## What it is
 This MCP server runs as a sidecar in a Docker sandbox, providing tools for Microsoft Learn documentation and code sample search, and a resource for answer format instructions, enabling an AI agent to answer programming questions securely.

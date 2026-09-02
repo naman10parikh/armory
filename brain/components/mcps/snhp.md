@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T03:56:14Z"
 ---
 ## What it is
 Free negotiation math for AI agents. Provides optimal next moves in any negotiation, single-price and multi-issue, runs locally, with optional paid receipted sessions and encrypted agent memory.

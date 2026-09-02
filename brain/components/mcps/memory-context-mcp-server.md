@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T07:59:30Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives LLMs persistent, semantic memory using vector search with ChromaDB.

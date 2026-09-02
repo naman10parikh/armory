@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:39:12Z"
 ---
 ## What it is
 Enables interaction with a self-hosted Leanote note service, allowing users to list notebooks and create notes.

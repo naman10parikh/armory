@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:44:34Z"
 ---
 ## What it is
 MCP server connecting Claude to kie.ai's unified API for over 30 AI models (image, video, audio), handling asynchronous task management and dedicated API routing for models like Veo3 and Aleph.

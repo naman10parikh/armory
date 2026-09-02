@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-06T22:26:28Z"
 ---
 ## What it is
 Enables structural code search and refactoring across 20+ programming languages using ast-grep patterns, with safe dry-run mode and flexible filtering.

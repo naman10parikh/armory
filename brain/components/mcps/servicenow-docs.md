@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T20:11:37Z"
 ---
 ## What it is
 MCP server for searching and reading ServiceNow documentation from a local clone, enabling keyword/regex queries and full doc retrieval without external APIs.

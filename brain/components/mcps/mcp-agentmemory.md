@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T13:45:20Z"
 ---
 ## What it is
 MCP-native memory layer for Claude Code, Cursor, Cline, Continue, and 16 other AI tools. Hybrid search (BM25 + pgvector + graph), self-hosted on Supabase + Vercel, 100% MIT, no paywall.

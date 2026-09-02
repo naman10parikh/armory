@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:55:51Z"
 ---
 ## What it is
 An MCP server for safely previewing, creating, validating, editing and rolling back AI-managed Home Assistant automations.

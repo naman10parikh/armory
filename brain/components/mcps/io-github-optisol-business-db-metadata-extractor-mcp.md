@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T07:24:18Z"
 ---
 ## What it is
 Enables extraction and querying of database schema metadata from PostgreSQL, Snowflake, SQL Server, BigQuery, and Oracle databases, saving results locally for analysis.

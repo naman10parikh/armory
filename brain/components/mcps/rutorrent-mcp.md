@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T16:19:22Z"
 ---
 ## What it is
 MCP server for controlling rTorrent through ruTorrent's httprpc plugin, enabling torrent management (list/add/remove/start/stop), label/priority management, data movement, and global throttle settings from any MCP client.

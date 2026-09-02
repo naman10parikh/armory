@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T15:00:52Z"
 ---
 ## What it is
 MCP server `Secure Filesystem`, catalogued on PulseMCP. Provides secure file system access through a Go-based server that enables reading, writing, listing, and manipulating files within specified allowed directories while preventing directory traversal attacks.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T15:50:13Z"
 ---
 ## What it is
 MCP server `AutoStore Interface`, catalogued on PulseMCP. AI-powered customer support agent using AutoStore Interface documentation as a knowledge source.

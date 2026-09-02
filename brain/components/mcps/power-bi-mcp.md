@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T05:09:28Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that lets AI agents manage Power BI workspaces, datasets, and refreshes via natural language.

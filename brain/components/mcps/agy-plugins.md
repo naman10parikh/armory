@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T02:44:42Z"
 ---
 ## What it is
 MCP server for managing AI skills and tools from GitHub marketplaces, enabling discovery, installation, removal, and auto-updates via natural language or commands.

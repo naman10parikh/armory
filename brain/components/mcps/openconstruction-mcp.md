@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:50:28Z"
 ---
 ## What it is
 Local-first MCP server enabling catalog discovery, dataset context, and safe downloads of construction datasets.

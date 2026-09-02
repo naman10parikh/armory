@@ -8,11 +8,13 @@ source_url: https://github.com/watchtowr/watchtowr-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:36:42Z"
 ---
 ## What it is
 Connects AI assistants to the watchTowr Platform for real-time access to external attack surface data, findings, and threat intelligence. Provides 113 tools for querying and managing assets, findings, hunts, and more.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:42:27Z"
 ---
 ## What it is
 MCP server `Spaceflight News`, catalogued on PulseMCP. Retrieves spaceflight news, blog posts, and reports from the Spaceflight News API.

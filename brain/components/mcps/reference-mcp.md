@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T01:29:04Z"
 ---
 ## What it is
 An MCP server that helps AI agents comprehend a codebase by providing tools for navigating, searching, and understanding code structure and history.

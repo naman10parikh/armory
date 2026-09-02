@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:42:20Z"
 ---
 ## What it is
 Enables Lamoda sellers to manage their store via natural language through a MCP server that connects to the official Lamoda Seller API, supporting 155 methods for products, prices, orders, shipments, and more.

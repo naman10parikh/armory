@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T03:32:37Z"
 ---
 ## What it is
 Turns natural language into data pipeline actions using six specialist agents that collaborate through MCP to build, validate, and monitor data infrastructure.

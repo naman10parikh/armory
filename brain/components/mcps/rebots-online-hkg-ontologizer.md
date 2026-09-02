@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-12T23:37:59Z"
 ---
 ## What it is
 MCP server `hKG Ontologizer`, catalogued on PulseMCP. Transforms text content and web URLs into structured knowledge graphs using entity extraction and relationship mapping, with support for multiple file formats, real-time visualization, and persistent storage in Neo4j and Qdrant databases.

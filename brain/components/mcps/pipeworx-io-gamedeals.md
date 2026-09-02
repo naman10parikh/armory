@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:08:28Z"
 ---
 ## What it is
 MCP server `Game Deals`, catalogued on PulseMCP. Find discounted PC game deals across multiple storefronts using the CheapShark API.

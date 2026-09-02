@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-06T22:03:14Z"
 ---
 ## What it is
 MCP server `Keynote`, catalogued on PulseMCP. Provides direct control over Apple Keynote presentations through AppleScript automation on macOS, enabling slide management, content creation, layout selection, navigation, and export functionality for automated presentation workflows.

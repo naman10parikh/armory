@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T05:15:04Z"
 ---
 ## What it is
 Governed RunPod control plane for ECHO OMEGA PRIME, providing agent entry points with confirmations and manifest policies. Enables authorized agents to observe, prepare, and execute RunPod operations via MCP scopes.

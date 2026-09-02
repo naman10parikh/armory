@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T03:34:53Z"
 ---
 ## What it is
 Turns a Mac into an MCP host exposing terminal, filesystem, browser automation, and macOS controls to approved AI clients via OpenAI's Secure MCP Tunnel.

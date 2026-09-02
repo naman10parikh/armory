@@ -8,11 +8,13 @@ source_url: https://github.com/gossipcat-ai/gossipcat-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-03T13:08:48Z"
 ---
 ## What it is
 Enables multi-agent code review with cross-verification of findings against source code, catching hallucinations and improving agent accuracy over time.

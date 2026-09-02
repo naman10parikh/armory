@@ -8,10 +8,12 @@ source_url: https://github.com/xplo8e/hacktricks-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-28T22:21:06Z"
 ---
 ## What it is
 MCP server `HackTricks`, catalogued on PulseMCP. Search and query HackTricks pentesting documentation with quick lookup and section extraction.

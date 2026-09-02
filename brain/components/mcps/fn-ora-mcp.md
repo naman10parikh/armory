@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T01:37:06Z"
 ---
 ## What it is
 Enables Claude Code to query Oracle DB package code using natural language, with tools to search, list, and retrieve package source code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-15T14:19:47Z"
 ---
 ## What it is
 Enables management of software requirements in compliance with IEC 62304 Class C medical device standards, including requirement creation, versioning, traceability matrix generation, and risk control integration.

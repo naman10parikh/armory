@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-16T09:49:04Z"
 ---
 ## What it is
 Enables querying the DuckDuckGo Instant Answer API through the Model Context Protocol, allowing users to perform searches and retrieve instant answers.

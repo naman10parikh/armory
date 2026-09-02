@@ -8,10 +8,12 @@ source_url: https://github.com/instalabsai/instagit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-13T13:11:44Z"
 ---
 ## What it is
 MCP server `Instagit`, catalogued on PulseMCP. Provides AI-powered Git repository analysis, giving coding agents precise, source-cited insights into any public GitHub repository.

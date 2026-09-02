@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:23:18Z"
 ---
 ## What it is
 Enables quality crisis management through 10 MCP tools for problem-solving, decision-making, auditing, validation, and Infoseek collaboration, allowing structured handling of quality issues and governance assessment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:02:06Z"
 ---
 ## What it is
 Local stdio credential broker that securely stores Nanoseil Identity API keys and forwards MCP JSON-RPC to allowed production endpoints, keeping credentials out of client configuration.

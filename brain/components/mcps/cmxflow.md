@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:56:16Z"
 ---
 ## What it is
 Enables building, running, and optimizing cheminformatics pipelines via composable blocks, with an MCP agent interface for natural language interaction.

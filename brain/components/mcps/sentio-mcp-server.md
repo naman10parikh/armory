@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T14:12:17Z"
 ---
 ## What it is
 This MCP server integrates with Sentio's API services to provide web, data, price, processor, and alerts tools, enabling users to manage and query Sentio resources through natural language.

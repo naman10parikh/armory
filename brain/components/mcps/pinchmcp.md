@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:44:58Z"
 ---
 ## What it is
 An MCP server that analyzes Linear feature dependencies using dominator analysis to identify the keystone ticket that unblocks the most downstream work.

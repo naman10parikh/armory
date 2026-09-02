@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T22:47:45Z"
 ---
 ## What it is
 An MCP server for academic research combining local document search with Semantic Scholar API integration.

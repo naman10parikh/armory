@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:43:12Z"
 ---
 ## What it is
 Enables AI agents to autonomously make policy-controlled payments for APIs and tools via Bitcoin Lightning (L402) and Base USDC (x402), including paying paywalled endpoints, checking balances, and reviewing transactions.

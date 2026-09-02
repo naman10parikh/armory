@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T05:11:09Z"
 ---
 ## What it is
 Control Linux WiFi from Claude and other MCP clients — scan, connect, debug, and automate networks (WPA-PSK, WPA2-Enterprise, EAP-TLS, Hotspot 2.0, captive portals, MAC randomization) over the Model Context Protocol.

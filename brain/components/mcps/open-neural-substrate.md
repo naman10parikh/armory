@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T18:25:21Z"
 ---
 ## What it is
 Enables Claude to access and manage a persistent, human-readable knowledge graph of neurons, with semantic search, memory consolidation, and local ownership.

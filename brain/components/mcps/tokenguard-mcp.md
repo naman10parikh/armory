@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T05:09:15Z"
 ---
 ## What it is
 MCP server providing 10 crypto/DeFi data tools (prices, gas, Fear & Greed, TVL, etc.) with no API keys required.

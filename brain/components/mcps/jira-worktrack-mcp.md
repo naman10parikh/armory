@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T20:19:35Z"
 ---
 ## What it is
 A zero-dependency MCP server that answers common questions about Jira work, such as what is assigned to me, standup status, sprint health, and more, without returning raw issue JSON.

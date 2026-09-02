@@ -8,10 +8,12 @@ source_url: https://github.com/pierrebrunelle/mcp-server-openai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2024-11-28T03:48:15Z"
 ---
 ## What it is
 MCP server `OpenAI`, catalogued on PulseMCP. Leverage OpenAI's language models through a standardized interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T20:58:22Z"
 ---
 ## What it is
 An MCP server that governs AI agent commands to physical robot arms, enforcing Asimov's Three Laws through Cedar authorization policies to prevent unsafe actions.

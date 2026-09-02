@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-29T12:27:41Z"
 ---
 ## What it is
 MCP server `Python Code Analyzer`, catalogued on PulseMCP. Analyzes Python code structure, complexity, and dependencies using parsing tools to provide insights for automated quality checks and code reviews.

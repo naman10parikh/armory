@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T08:59:25Z"
 ---
 ## What it is
 Convert any OpenAPI spec into a secure MCP server with scoped auth, per-tool allow/deny policies, rate limiting, and a redacted audit trail.

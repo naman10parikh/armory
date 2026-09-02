@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:05:23Z"
 ---
 ## What it is
 A deterministic buyer-choice simulator inside ChatGPT that compares merchant offers against user-supplied alternatives, explains wins/losses, and tests what-if changes.

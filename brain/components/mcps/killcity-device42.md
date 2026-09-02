@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-10T01:47:37Z"
 ---
 ## What it is
 MCP server `Device42`, catalogued on PulseMCP. Integrates with Device42's IT asset management platform to query and manage infrastructure data including devices, IP addresses, subnets, racks, rooms, buildings, VLANs, and software inventory.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T04:06:13Z"
 ---
 ## What it is
 An MCP server that analyzes patient symptoms using AI, suggests potential diagnoses, and retrieves relevant medical literature from PubMed.

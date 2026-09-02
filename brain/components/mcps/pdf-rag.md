@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T15:36:47Z"
 ---
 ## What it is
 Convert PDF documents to Markdown and query them using AI with source attribution and confidence scoring, supporting multiple LLM providers.

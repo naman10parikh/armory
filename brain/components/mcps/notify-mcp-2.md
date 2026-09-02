@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:41:42Z"
 ---
 ## What it is
 Provides a send_notification MCP tool for push notifications to mobile devices, bypassing Claude Code's suppression of pushes when terminal has focus. Works with multiple providers like ntfy, Pushover, and Telegram.

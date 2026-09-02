@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T04:52:02Z"
 ---
 ## What it is
 Enables text-to-image generation via RunningHub's seedream-v5-lite model, with support for submitting tasks and polling for results.

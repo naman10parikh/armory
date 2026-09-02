@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:57:50Z"
 ---
 ## What it is
 Provides Temu e-commerce data analysis and market research tools via MCP, enabling AI agents to search products, images, stores, categories, keywords, and reviews for market insights and business decisions.

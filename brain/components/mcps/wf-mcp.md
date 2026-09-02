@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T17:33:15Z"
 ---
 ## What it is
 A local-first MCP server for financial wire message forensics, providing read-only tools to parse, validate, and detect SR2026 address compliance in ISO 8583, SWIFT MT, and ISO 20022 messages.

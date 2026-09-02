@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T04:43:28Z"
 ---
 ## What it is
 An MCP server that grants AI agents unrestricted file system, Python, and PowerShell access on Windows for real, unfiltered automation.

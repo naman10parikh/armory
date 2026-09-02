@@ -8,10 +8,12 @@ source_url: https://github.com/rikarazome/prolog-reasoner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-01T20:51:37Z"
 ---
 ## What it is
 MCP server `Prolog Reasoner`, catalogued on PulseMCP. SWI-Prolog execution for LLMs to delegate combinatorial reasoning and constraint satisfaction problems.

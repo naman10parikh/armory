@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T12:23:49Z"
 ---
 ## What it is
 MCP server `jOOQ`, catalogued on PulseMCP. Access jOOQ documentation through AI

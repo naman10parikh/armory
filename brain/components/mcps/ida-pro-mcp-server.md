@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:35:11Z"
 ---
 ## What it is
 Bridges Claude Code with IDA Pro 9.0+ to provide 87 tools for AI-assisted reverse engineering, including decompilation, navigation, debugging, and patching.

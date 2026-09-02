@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T06:43:19Z"
 ---
 ## What it is
 Connects Claude/ChatGPT to Overleaf projects via the Git integration, enabling read, edit, write, and file management through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-20T20:26:51Z"
 ---
 ## What it is
 Enables AI assistants to create, edit, and extract data from Microsoft Word documents programmatically, supporting document creation, content editing, table manipulation, parameter extraction, and template generation.

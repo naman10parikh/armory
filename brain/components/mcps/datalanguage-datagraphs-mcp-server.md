@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T09:23:17Z"
 ---
 ## What it is
 MCP server that connects AI assistants to the Data Graphs knowledge graph platform, enabling natural language search, exploration, and querying of graph data.

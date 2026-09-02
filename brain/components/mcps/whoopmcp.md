@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:26:56Z"
 ---
 ## What it is
 Enables querying WHOOP fitness data including recovery, sleep, workouts, physiological cycles, and profile via the WHOOP API v2.

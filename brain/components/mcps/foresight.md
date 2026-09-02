@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T08:40:23Z"
 ---
 ## What it is
 An MCP server that discovers suppliers, screens compliance and live hazards, calculates exposure, ranks alternatives, and drafts purchasing decisions for supply chain risk management.

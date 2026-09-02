@@ -8,10 +8,12 @@ source_url: https://github.com/akutishevsky/lunchmoney-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-03T08:08:33Z"
 ---
 ## What it is
 MCP server `Lunch Money`, catalogued on PulseMCP. Integrates with Lunch Money personal finance API to retrieve account balances, transaction history, budget information, and spending categories for natural language financial data analysis and budget insights.

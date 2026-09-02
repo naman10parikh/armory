@@ -8,10 +8,12 @@ source_url: https://github.com/jordanburke/joplin-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T02:05:22Z"
 ---
 ## What it is
 MCP server `Joplin`, catalogued on PulseMCP. Integrates with Joplin's REST API to enable complete note and notebook management including search, read, create, edit, and delete operations with support for hierarchical structures and todo items.

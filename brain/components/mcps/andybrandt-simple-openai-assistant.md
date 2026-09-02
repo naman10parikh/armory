@@ -8,10 +8,12 @@ source_url: https://github.com/andybrandt/mcp-simple-openai-assistant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-09-12T21:22:01Z"
 ---
 ## What it is
 MCP server `Simple OpenAI Assistant`, catalogued on PulseMCP. Create and manage conversations with OpenAI assistants.

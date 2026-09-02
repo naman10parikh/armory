@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:10:57Z"
 ---
 ## What it is
 Enables AI assistants to find, book, and cancel salon appointments via SalonRunner accounts. Self-hosted for local or remote use.

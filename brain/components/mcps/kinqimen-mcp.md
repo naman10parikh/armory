@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T22:46:04Z"
 ---
 ## What it is
 A deterministic MCP facts engine for Qimen Dunjia (奇門遁甲), providing 時家, 刻家, and 金函玉鏡 chart computation tools for AI agents.

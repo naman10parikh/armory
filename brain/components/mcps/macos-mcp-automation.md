@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:23:28Z"
 ---
 ## What it is
 Enables macOS system automation, window management, and productivity tools for AI agents, including running AppleScripts, opening apps, retrieving browser tabs, taking screenshots, and controlling system settings.

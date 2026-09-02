@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T10:01:16Z"
 ---
 ## What it is
 A Python-based MCP server that enforces configurable Quality Assurance automation strategies for AI coding agents, ensuring generated tests adhere to strict architectural and testing standards.

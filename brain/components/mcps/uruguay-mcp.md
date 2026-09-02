@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T18:14:28Z"
 ---
 ## What it is
 Enables AI agents to query Uruguay's open government data from multiple sources (national catalog, Central Bank, statistics institute, Montevideo city data and transport, and gub.uy service catalog) through a meta-discovery layer.

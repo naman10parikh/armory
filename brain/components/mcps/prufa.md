@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T20:05:21Z"
 ---
 ## What it is
 Point your coding agent at a URL and get a real-browser QA audit: broken signup/login/checkout flows, JS console errors, missing analytics, consent + security headers, mobile tap targets, and accessibility — returned as machine-verified findings graded A-F.

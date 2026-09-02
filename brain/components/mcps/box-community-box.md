@@ -8,10 +8,12 @@ source_url: https://github.com/box-community/mcp-server-box
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-04-30T21:43:33Z"
 ---
 ## What it is
 MCP server `Box`, catalogued on PulseMCP. Integrates with Box API to enable document search, text extraction, content analysis, and structured data retrieval from files and folders within Box storage systems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T20:24:05Z"
 ---
 ## What it is
 Enables AI agents to store, search, and recall semantic memories with three memory types (semantic, episodic, procedural) and auto-consolidation, compounding intelligence over time.

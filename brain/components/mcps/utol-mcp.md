@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:29:13Z"
 ---
 ## What it is
 Enables users to interact with the University of Tokyo's UTOL learning management system through natural language, providing access to courses, assignments, deadlines, notifications, and materials via MCP clients like Claude Desktop.

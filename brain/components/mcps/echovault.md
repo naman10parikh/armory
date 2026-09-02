@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T09:17:04Z"
 ---
 ## What it is
 MCP server `EchoVault (Go)`, catalogued on PulseMCP. Go port of EchoVault providing local-first persistent memory for coding agents with cross-session context retention.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
 stars: 2
+forks: 0
+pushed_at: "2026-04-03T02:38:44Z"
 ---
 ## What it is
 E-commerce and business intelligence MCP server. Analyze any Shopify store, research Amazon products with Opportunity Score and FBA profitability estimates, and find qualified sales leads from Google Maps with Lead Quality Scoring. Pay-per-call via x402 (USDC on Base).

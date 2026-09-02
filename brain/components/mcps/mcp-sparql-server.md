@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-27T16:20:43Z"
 ---
 ## What it is
 Enables AI assistants to query semantic data via SPARQL endpoints, with support for multiple output formats and caching.

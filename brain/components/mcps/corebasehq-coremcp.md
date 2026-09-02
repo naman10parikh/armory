@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 11
+forks: 2
+pushed_at: "2026-07-15T19:32:40Z"
 ---
 ## What it is
 A secure, tunnel-native database bridge for AI agents. Connects localhost & on-premise databases (MSSQL, etc.) to LLMs with AST-based query safety and PII masking.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T08:10:40Z"
 ---
 ## What it is
 MCP server `CosTrack`, catalogued on PulseMCP. MCP server for LLM cost tracking with tools for logging, reporting, model price comparison, and budget enforcement.

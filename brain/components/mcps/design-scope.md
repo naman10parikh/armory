@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:21:59Z"
 ---
 ## What it is
 Local MCP server providing a curated 201-card design reference library with natural-language style search, structured filtering, card retrieval, theme borrowing, and capture tooling — all private and offline.

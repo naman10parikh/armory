@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-05T11:09:10Z"
 ---
 ## What it is
 MCP server `HTML-to-PDF Generator`, catalogued on PulseMCP. Combines PDFKit and Puppeteer to generate PDFs from HTML content and programmatic layouts, enabling versatile document creation and web page snapshots.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:01:29Z"
 ---
 ## What it is
 Enables MCP-compatible agents to manage Tomo Streaming rooms and runtimes, including creating, inspecting, controlling, and deleting rooms, as well as checking health and listing stream servers.

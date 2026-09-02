@@ -8,10 +8,12 @@ source_url: https://github.com/virajsharma2000/mcp-websocket
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-25T19:17:46Z"
 ---
 ## What it is
 MCP server `WebSocket Enhancer`, catalogued on PulseMCP. Combines a standard server with WebSocket functionality to enable real-time data updates and efficient asynchronous operations for applications requiring both traditional interactions and data streaming capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T09:36:49Z"
 ---
 ## What it is
 A unified MCP server for scaffolding project structures across multiple frameworks including Spring Boot, React, Vue, Next.js, FastAPI, Django, Flask, Express, and more.

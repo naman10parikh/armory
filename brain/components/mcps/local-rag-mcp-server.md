@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:59:13Z"
 ---
 ## What it is
 Enables tool-calling over TCP for a local RAG pipeline, allowing document ingestion and querying via MCP tools, fully offline with no cloud dependencies.

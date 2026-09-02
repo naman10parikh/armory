@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-26T09:19:19Z"
 ---
 ## What it is
 Allows AI clients to list, inspect, and manage n8n workflows.

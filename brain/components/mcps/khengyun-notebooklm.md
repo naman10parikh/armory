@@ -8,10 +8,12 @@ source_url: https://github.com/khengyun/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-06-16T21:34:05Z"
 ---
 ## What it is
 MCP server `NotebookLM`, catalogued on PulseMCP. Automates Google NotebookLM interactions through browser automation using Selenium, enabling chat message sending, AI response retrieval, notebook navigation, and authentication management for automated document analysis and batch processing workflows.

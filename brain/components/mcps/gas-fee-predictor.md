@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T20:48:37Z"
 ---
 ## What it is
 Provides live Ethereum and Layer-2 gas fee data, ETH price, transaction cost estimates, and optimal timing recommendations for AI agents via the Model Context Protocol.

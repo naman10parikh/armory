@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-09T15:08:01Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to control devices via Tuya infrared remote control, supporting actions like toggling power and setting modes through natural language.

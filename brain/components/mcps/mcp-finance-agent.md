@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:06:19Z"
 ---
 ## What it is
 Provides yfinance-based quant tools for stock price lookups, fundamentals, metric comparisons, price history statistics, and earnings dates, enabling natural-language stock questions.

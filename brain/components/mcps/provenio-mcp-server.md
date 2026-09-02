@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:26:49Z"
 ---
 ## What it is
 Enables AI agents to query a 282,731-node knowledge graph of art market transactions and provenance records, returning cited answers with <1% hallucination and explicit coverage gaps.

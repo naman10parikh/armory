@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:59:52Z"
 ---
 ## What it is
 Enables AI agents to perform international trade operations such as calculating landed costs, classifying goods, explaining trade terms, estimating shipping, and converting currencies for Kazakhstan/EAEU/Central Asia trade routes.

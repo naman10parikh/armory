@@ -8,10 +8,12 @@ source_url: https://github.com/cafetechne/antigravity-link-extension
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 179
+stars: 209
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-06-04T05:55:39Z"
 ---
 ## What it is
 MCP server `Antigravity Link`, catalogued on PulseMCP. Control Antigravity IDE sessions via a mobile companion and MCP server.

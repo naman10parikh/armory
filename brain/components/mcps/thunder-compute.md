@@ -8,10 +8,12 @@ source_url: https://github.com/thunder-compute/thunder-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-30T05:18:37Z"
 ---
 ## What it is
 MCP server `Thunder Compute`, catalogued on PulseMCP. GPU cloud platform — create, manage, and monitor instances, snapshots, SSH keys, and billing.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T09:34:33Z"
 ---
 ## What it is
 MCP server `CPAN Testers`, catalogued on PulseMCP. MCP server providing access to CPAN Testers data, enabling AI assistants to query Perl module test results and compatibility reports.

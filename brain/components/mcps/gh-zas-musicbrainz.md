@@ -8,10 +8,12 @@ source_url: https://github.com/zas/mcp-musicbrainz
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-05T09:55:14Z"
 ---
 ## What it is
 MCP server `MusicBrainz`, catalogued on PulseMCP. Query the MusicBrainz music database for artists, albums, recordings, labels, and cover art.

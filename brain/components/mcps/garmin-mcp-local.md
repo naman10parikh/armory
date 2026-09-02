@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:21:49Z"
 ---
 ## What it is
 A local MCP server that caches Garmin Connect data in SQLite for fast, read-only queries, with tools for bulk import, rate-limited sync, and failure alerts.

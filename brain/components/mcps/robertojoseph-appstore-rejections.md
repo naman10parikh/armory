@@ -8,10 +8,12 @@ source_url: https://github.com/robertojoseph/appstore-rejections-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-15T18:58:52Z"
 ---
 ## What it is
 MCP server `App Store Rejections`, catalogued on PulseMCP. Curated App Store rejection database with reasons, solutions, and case studies.

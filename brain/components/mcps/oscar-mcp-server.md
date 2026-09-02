@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:26:25Z"
 ---
 ## What it is
 A read-only MCP server that allows AI assistants to analyze CPAP/BiPAP therapy data from OSCAR by querying its local SQLite database, with privacy protections and tools for summarizing and investigating sleep therapy metrics.

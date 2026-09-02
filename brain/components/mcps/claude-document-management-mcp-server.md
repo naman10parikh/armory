@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:23:38Z"
 ---
 ## What it is
 This MCP server enables Claude AI to read and edit documents through natural language, leveraging tools, resources, and prompts for document management in a Ruby-based CLI application.

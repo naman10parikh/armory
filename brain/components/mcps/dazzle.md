@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T20:28:53Z"
 ---
 ## What it is
 MCP server `Dazzle`, catalogued on PulseMCP. Cloud stages for live streaming and AI agents with browser rendering, content sync, and broadcast management.

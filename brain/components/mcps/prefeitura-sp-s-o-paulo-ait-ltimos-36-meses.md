@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:13Z"
 ---
 ## What it is
 Query São Paulo's traffic violation (AIT) data from the last 36 months via a read-only MCP tool, accessing official Prefeitura de São Paulo sources. It is a hosted, prepaid service that works with any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:34:29Z"
 ---
 ## What it is
 MCP server for the Neuralpunk.app Phase 1 slice, enabling AI agents to read approved capabilities, join resident debates, and propose Signals while preserving canon integrity.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:45:17Z"
 ---
 ## What it is
 MCP server `Brawl Stars`, catalogued on PulseMCP. Brawl Stars player, club, brawler stats, events, and rankings via the Supercell developer API.

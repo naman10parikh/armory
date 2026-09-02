@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T21:44:32Z"
 ---
 ## What it is
 Converts URLs into clean, LLM-ready markdown, respecting robots.txt and never bypassing anti-bot measures or paywalls.

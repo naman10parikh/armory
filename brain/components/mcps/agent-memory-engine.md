@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:27:41Z"
 ---
 ## What it is
 Provides coding agents with persistent, evidence-backed project memory and knowledge across sessions, using a structured memory tree and local knowledge base.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T07:08:46Z"
 ---
 ## What it is
 Enables live read-only queries against SAP EWM CDS views and standalone inventory-math calculators (ABC/XYZ classification, safety stock, reorder point, slow-moving detection, demand forecasting).

@@ -8,11 +8,13 @@ source_url: https://github.com/Descomplicar-Marketing-e-Tecnologia/mcp-perfex-cr
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-01-19T04:36:27Z"
 ---
 ## What it is
 High-performance MCP server for Perfex CRM that provides direct MySQL access for managing customers, invoices, leads, projects, and more, with 10-100x faster performance than REST API.

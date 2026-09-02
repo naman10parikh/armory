@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:13:34Z"
 ---
 ## What it is
 An MCP server providing direct, citable access to Finnish legislation by retrieving statute text from Finlex open data, enabling AI assistants to answer legal queries with accurate citations.

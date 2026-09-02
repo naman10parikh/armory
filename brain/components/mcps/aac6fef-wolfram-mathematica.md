@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-25T12:13:56Z"
 ---
 ## What it is
 MCP server `Wolfram Mathematica`, catalogued on PulseMCP. Bridges to Wolfram Mathematica for executing Wolfram Language code in secure, session-based environments with animal-themed identifiers, enabling mathematical computations, symbolic algebra, data analysis, and scientific modeling tasks.

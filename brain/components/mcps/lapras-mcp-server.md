@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-24T10:35:45Z"
 ---
 ## What it is
 LAPRASの公式MCPサーバーで、求人検索や職歴・スキル管理を可能にします。

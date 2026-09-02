@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T15:11:37Z"
 ---
 ## What it is
 Search and verify U.S. business entities from official state filings. Covers NY, FL, and CO - search by name, get full entity details, pull new formations, and check usage. Requires a FreshFilings API key from freshfilings.dev.

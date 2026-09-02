@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:28:38Z"
 ---
 ## What it is
 MCP server exposing Generative Engine Optimization tools to any AI agent, enabling checking of llms.txt, auditing robots.txt for AI crawlers, and validating JSON-LD schema.

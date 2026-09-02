@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T17:00:15Z"
 ---
 ## What it is
 MCP server `ULink`, catalogued on PulseMCP. Deep linking for iOS, Android, and Flutter apps.

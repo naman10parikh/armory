@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:21:29Z"
 ---
 ## What it is
 Provides compression, retrieval, and statistics for local context-economy when interacting with GPT/Codex, enabling efficient token usage and exact recovery of compacted content.

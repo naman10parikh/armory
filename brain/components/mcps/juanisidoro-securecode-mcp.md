@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 0
+pushed_at: "2026-03-17T18:10:29Z"
 ---
 ## What it is
 Secrets vault for Claude Code with audit logs, MCP access rules, and AES-256 encryption. Secrets are injected to local files so the AI never sees raw values. Includes session lock, device approval, and per-model access policies.

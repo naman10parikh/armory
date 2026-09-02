@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:18:52Z"
 ---
 ## What it is
 A server that enables searching and prospecting businesses from Google Maps, filtering by website presence, extracting reviews, detecting social media links, and generating prompts for Claude Code to build landing pages.

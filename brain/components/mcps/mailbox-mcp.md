@@ -8,11 +8,13 @@ source_url: https://github.com/jgalea/mailbox-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-07-13T17:32:50Z"
 ---
 ## What it is
 Give your AI tools access to your email. Search, read, send, and manage messages across multiple accounts without leaving your terminal.

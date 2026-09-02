@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:53:43Z"
 ---
 ## What it is
 An MCP server that wraps the taegis-magic CLI to allow AI assistants to query Secureworks Taegis XDR for alerts, events, investigations, threat intelligence, and tenants via natural language.

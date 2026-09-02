@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T10:58:25Z"
 ---
 ## What it is
 Enables AI coding agents to verify code against YAML specifications, detecting missing fields, extra fields, and type mismatches to prevent silent drift before commits.

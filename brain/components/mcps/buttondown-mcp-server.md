@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T23:16:39Z"
 ---
 ## What it is
 Enables interaction with the Buttondown newsletter API for managing emails, subscribers, and tags.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:17Z"
 ---
 ## What it is
 Consulta a situação cadastral de empresas no SINTEGRA-MS em fonte oficial, com a ferramenta sintegra_ms_consultar e acesso via MCP over HTTP.

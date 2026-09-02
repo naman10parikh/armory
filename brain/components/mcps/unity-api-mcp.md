@@ -8,11 +8,13 @@ source_url: https://github.com/Codeturion/unity-api-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-19T17:40:42Z"
 ---
 ## What it is
 MCP server providing accurate Unity API documentation to prevent AI agents from hallucinating signatures, namespaces, and deprecated usage.

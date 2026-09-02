@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:28:36Z"
 ---
 ## What it is
 Enables AI clients to control a job application assistant that manages resume profiles, recommends SOE-first companies, tracks applications, scans jobs, and smart-fills ATS forms in a built-in browser.

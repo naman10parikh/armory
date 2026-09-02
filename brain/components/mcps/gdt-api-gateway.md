@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T18:10:23Z"
 ---
 ## What it is
 腾讯广点通API网关服务，通过MCP工具调用广点通报表、账户等核心接口，支持安全认证和参数修复。

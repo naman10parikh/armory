@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:25:08Z"
 ---
 ## What it is
 An MCP server that provides a shared memory layer for Claude across claude.ai, Claude Code CLI, and Desktop, storing revisioned memory entries, session timelines, handoffs, and uploaded artifacts in SQLite.

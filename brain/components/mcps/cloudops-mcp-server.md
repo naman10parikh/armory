@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:56:27Z"
 ---
 ## What it is
 Enables AI agents to perform full-stack cloud operations across Alibaba Cloud and Tencent Cloud, including server management, project deployment, database queries, file operations, instance lookups, and DNS/CDN management through 26 tools.

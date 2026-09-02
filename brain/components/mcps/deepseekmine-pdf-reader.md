@@ -8,10 +8,12 @@ source_url: https://github.com/deepseekmine/mcp-pdf-reader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-28T23:56:52Z"
 ---
 ## What it is
 MCP server `PDF Reader`, catalogued on PulseMCP. Extracts and processes content from PDF documents, offering text reading, OCR capabilities, and image retrieval with performance-optimized caching.

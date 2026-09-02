@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-19T17:13:27Z"
 ---
 ## What it is
 MCP server `TheMCPCompany`, catalogued on PulseMCP. Research benchmark implementation that transforms REST APIs from enterprise services like GitLab, Plane, RocketChat, ownCloud, and Azure into MCP servers, providing over 18,000 tools for evaluating tool-calling agent performance across complex multi-service workflows.

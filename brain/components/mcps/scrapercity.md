@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-14T20:39:16Z"
 ---
 ## What it is
 MCP server `ScraperCity`, catalogued on PulseMCP. B2B lead generation platform providing access to Apollo scraping, Google Maps extraction, email finding and validation, mobile lookup, and skip tracing.

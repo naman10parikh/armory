@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T02:26:58Z"
 ---
 ## What it is
 Give your AI assistant the ability to analyze food images and look up nutrition data for any food — calories, macros, vitamins, minerals, allergens, and dietary flags in under 1 second — powered by TastyAPI. Much faster and more accurate than Gemini and GPT-4 Vision (4-10 seconds).

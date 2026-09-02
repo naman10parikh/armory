@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-06T02:31:00Z"
 ---
 ## What it is
 A Trello MCP server that enables AI assistants to manage boards, cards, and lists via the Model Context Protocol.

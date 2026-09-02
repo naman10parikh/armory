@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:22:29Z"
 ---
 ## What it is
 Provides AI assistants with comprehensive China inbound travel capabilities, including hotel and flight search, attraction discovery, itinerary planning, and travel tips.

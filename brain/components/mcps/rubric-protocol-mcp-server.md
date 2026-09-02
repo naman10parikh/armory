@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T11:09:53Z"
 ---
 ## What it is
 Enables AI compliance attestation and verification for EU AI Act, HIPAA, and other regulations, with tools for signing, proving, and anchoring AI decisions to Hedera mainnet.

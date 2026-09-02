@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T07:10:17Z"
 ---
 ## What it is
 Translates Sinhala or Singlish instructions into precise English technical specifications using Google Gemini AI, enabling Sinhala-speaking developers to code in their native language.

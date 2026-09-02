@@ -8,10 +8,12 @@ source_url: https://github.com/bettyguo/mcp-jupyter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-13T20:47:20Z"
 ---
 ## What it is
 MCP server `Jupyter Kernel State`, catalogued on PulseMCP. Exposes live Jupyter kernel state — variables, dataframe summaries, plots, and tracebacks — to AI coding agents through MCP tools.

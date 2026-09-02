@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T13:43:17Z"
 ---
 ## What it is
 MCP server that gives AI assistants full access to PrimeReact v10 component documentation — props, events, examples, and search.

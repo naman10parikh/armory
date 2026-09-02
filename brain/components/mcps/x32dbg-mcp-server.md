@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-09T17:19:51Z"
 ---
 ## What it is
 Connects the x32dbg debugger to Claude AI through the Model Context Protocol, enabling natural language control of 48+ debugging operations such as breakpoints, memory analysis, and reverse engineering automation.

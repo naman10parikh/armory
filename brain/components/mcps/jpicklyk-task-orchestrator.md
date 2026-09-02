@@ -8,10 +8,12 @@ source_url: https://github.com/jpicklyk/task-orchestrator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 205
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-04T20:40:30Z"
 ---
 ## What it is
 MCP server `Task Orchestrator`, catalogued on PulseMCP. Enforces server-side workflow discipline for AI agents through persistent work items, typed dependency graphs, quality gates, and actor attribution.

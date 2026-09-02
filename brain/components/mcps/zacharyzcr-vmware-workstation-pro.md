@@ -8,10 +8,12 @@ source_url: https://github.com/zacharyzcr/vmware-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-01-15T16:22:09Z"
 ---
 ## What it is
 MCP server `VMware Workstation Pro`, catalogued on PulseMCP. Automates VMware Workstation Pro virtual machines through REST API, vmrun wrapper, and vmcli integration for complete VM lifecycle management.

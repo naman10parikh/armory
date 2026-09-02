@@ -8,10 +8,12 @@ source_url: https://github.com/sker65/testrail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2025-05-28T20:27:28Z"
 ---
 ## What it is
 MCP server `TestRail`, catalogued on PulseMCP. Bridges TestRail's test management platform with AI tools, enabling interaction with projects, test cases, runs, results, and datasets for streamlined software testing workflows.

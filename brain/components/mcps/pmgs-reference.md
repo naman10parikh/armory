@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:52:01Z"
 ---
 ## What it is
 Provides read-only access to JPO Patent Map Guidance System classification records via SQLite, enabling lookup, lexical search, and document retrieval through stdio MCP tools.

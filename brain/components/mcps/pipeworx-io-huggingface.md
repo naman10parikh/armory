@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:14:21Z"
 ---
 ## What it is
 MCP server `Hugging Face Hub`, catalogued on PulseMCP. Search and explore Hugging Face Hub for machine learning models, datasets, and Spaces by task type, framework, tags, and popularity.

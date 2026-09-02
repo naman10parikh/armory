@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-07-05T12:40:35Z"
 ---
 ## What it is
 Enables AI-powered PDF manipulation through natural language commands, integrating with Claude to perform operations like merging, splitting, encrypting, optimizing, and analyzing PDFs.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-15T08:57:39Z"
 ---
 ## What it is
 MCP server `MCP Host CLI`, catalogued on PulseMCP. Command-line tool for creating and managing MCP hosts with streamlined setup for developers integrating AI capabilities into applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:47:32Z"
 ---
 ## What it is
 A collection of three no-key MCP servers that provide public data including global weather forecasts, food product facts, and open procurement summaries via standard protocols.

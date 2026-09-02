@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T19:23:22Z"
 ---
 ## What it is
 Orchestrates AI agents through structured markdown documents, enabling multi-agent workflows with automatic context injection and workflow management.

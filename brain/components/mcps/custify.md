@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-03T08:16:26Z"
 ---
 ## What it is
 MCP server `Custify`, catalogued on PulseMCP. Connects to Custify for account management, health scores, and customer success workflows.

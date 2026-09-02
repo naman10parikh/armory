@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T19:45:51Z"
 ---
 ## What it is
 Enables querying and analyzing changes in technology company documentation through MCP tools, including change feeds, company info, and evidence-based messaging.

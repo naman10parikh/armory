@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T10:15:54Z"
 ---
 ## What it is
 Enables searching and retrieving Korean commercial registration precedents (617 cases) from the Supreme Court's portal for legal practice.

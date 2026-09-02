@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:16:40Z"
 ---
 ## What it is
 An MCP server for the Revised Code of Washington (RCW) that enables retrieving full statutory text by citation, searching for citations by partial reference, and finding bills that affect a given citation.

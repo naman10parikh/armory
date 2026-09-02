@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:30:49Z"
 ---
 ## What it is
 Enables control of the Multicomp Pro MP711134 bench power supply and multimeter over USB serial, allowing an LLM agent to power-cycle boards, measure current profiles during boot, run custom voltage/current profiles, and wait for conditions without polling.

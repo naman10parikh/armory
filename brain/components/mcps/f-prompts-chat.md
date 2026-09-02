@@ -8,10 +8,12 @@ source_url: https://github.com/f/prompts.chat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-28T21:22:49Z"
 ---
 ## What it is
 MCP server `Prompts.chat`, catalogued on PulseMCP. Proxy server that forwards requests to the prompts.chat API, providing access to a curated collection of prompts with search and filtering capabilities by keyword, type, category, and tag.

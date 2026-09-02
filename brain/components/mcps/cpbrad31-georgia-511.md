@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T02:39:02Z"
 ---
 ## What it is
 MCP server `Georgia 511`, catalogued on PulseMCP. Integrates with Georgia's 511 service to provide real-time traffic data, including information on cameras, signs, events, and road conditions for various applications and analyses.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T01:40:39Z"
 ---
 ## What it is
 Bridges AI assistants to seismology software (ObsPy, CWP/SU, SAC, PyGMT), allowing users to process seismic waveforms and perform analysis through natural language instead of writing code.

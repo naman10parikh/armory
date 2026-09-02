@@ -8,11 +8,13 @@ source_url: https://github.com/akutishevsky/google-tasks-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-07-04T11:43:20Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that brings your Google Tasks into Claude and other MCP-compatible clients, enabling task and task list management through natural conversation.

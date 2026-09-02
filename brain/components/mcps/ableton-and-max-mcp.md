@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:43:55Z"
 ---
 ## What it is
 Enables Claude AI to control Ableton Live and Max for Live, allowing music production tasks like track management, MIDI editing, and pattern generation directly from conversation.

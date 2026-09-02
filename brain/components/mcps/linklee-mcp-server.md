@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T06:13:02Z"
 ---
 ## What it is
 MCP server for Linklee that enables creating short links, listing links, getting click analytics, and managing workspace tags.

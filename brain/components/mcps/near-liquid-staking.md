@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T12:12:54Z"
 ---
 ## What it is
 MCP server enabling Claude to interact with NEAR liquid staking protocols Meta Pool (stNEAR) and Linear Protocol (LiNEAR) for balance checks, exchange rates, staking, unstaking, and DeFi integrations.

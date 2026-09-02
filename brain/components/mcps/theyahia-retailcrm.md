@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-23T12:59:02Z"
 ---
 ## What it is
 MCP server `RetailCRM`, catalogued on PulseMCP. Integrates with RetailCRM e-commerce platform for managing orders, creating new orders, and searching customers.

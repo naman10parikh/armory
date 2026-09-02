@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:47:08Z"
 ---
 ## What it is
 Enables searching PubMed papers by keyword and year range, retrieving abstracts by PMID, and summarizing/interpretation in Korean using Claude.

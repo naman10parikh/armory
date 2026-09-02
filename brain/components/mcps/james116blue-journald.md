@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-15T20:17:34Z"
 ---
 ## What it is
 MCP server `journald`, catalogued on PulseMCP. Query systemd journal logs with natural language datetime support

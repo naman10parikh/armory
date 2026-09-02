@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:11:52Z"
 ---
 ## What it is
 Lets users inspect and verify content-addressed schema migration evidence offline, checking idempotence, reversible rollback, required invariants, and explicit lossy-field disclosure without executing migrations or accessing data.

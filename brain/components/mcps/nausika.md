@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T14:45:50Z"
 ---
 ## What it is
 MCP server `Nausika`, catalogued on PulseMCP. Mediterranean marine forecasts, tides, anchorages, and sea routes for AI sailing assistants.

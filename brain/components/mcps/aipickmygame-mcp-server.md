@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T05:28:47Z"
 ---
 ## What it is
 Syncs Epic/GOG/Steam game libraries with Chinese metadata, enabling AI agents to recommend games through natural language conversation.

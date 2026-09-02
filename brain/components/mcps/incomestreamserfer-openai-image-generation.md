@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-29T17:52:36Z"
 ---
 ## What it is
 MCP server `OpenAI Image Generation`, catalogued on PulseMCP. Provides tools for generating and editing images using OpenAI's gpt-image-1 model, handling API interactions, error management, and local image storage.

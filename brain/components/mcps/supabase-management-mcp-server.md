@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T20:15:37Z"
 ---
 ## What it is
 MCP tools for managing your self-hosted Supabase instance. Combines Edge Function CRUD, migration management, log monitoring, and Studio MCP proxy into a single endpoint.

@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
-stars: 827
+stars: 837
+forks: 142
+pushed_at: "2026-09-01T18:27:54Z"
 ---
 ## What it is
 Sentry.io integration for error tracking and performance monitoring

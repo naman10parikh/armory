@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:33:26Z"
 ---
 ## What it is
 A starter TypeScript template for building MCP and ChatGPT Apps using the Skybridge framework, enabling rapid development and deployment of MCP servers.

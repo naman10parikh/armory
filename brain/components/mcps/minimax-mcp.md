@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T01:45:53Z"
 ---
 ## What it is
 Provides web search, image understanding, text-to-speech, and image generation tools via the MiniMax API.

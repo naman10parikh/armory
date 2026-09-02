@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:31:53Z"
 ---
 ## What it is
 Enables read-only search over a curated, provenance-preserving corpus of EVM smart-contract security knowledge, providing tools for retrieving audit findings, document context, and source information.

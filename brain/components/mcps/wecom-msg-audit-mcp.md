@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:57:09Z"
 ---
 ## What it is
 Enables AI agents to securely access and search enterprise WeChat (WeCom) chat records with full decryption and auditing, supporting message retrieval, decryption, local storage, and querying via MCP tools.

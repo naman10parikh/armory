@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T01:25:10Z"
 ---
 ## What it is
 MCP server that wraps Playwright to give AI agents eyes on the web, enabling browser search, navigation, extraction, and interaction with intelligent LLM-based DOM extraction and skill caching.

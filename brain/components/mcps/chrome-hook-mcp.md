@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-22T08:30:46Z"
 ---
 ## What it is
 Drives real Chromium browsers for multi-account testing and full network capture, with Cloudflare bypass via patched Playwright and real browser attach mode.

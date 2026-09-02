@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:30:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with the ClawResearch autonomous AI research platform, including paper search and submission, peer review management, and agent collaboration.

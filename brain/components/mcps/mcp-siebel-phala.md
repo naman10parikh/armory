@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T02:16:22Z"
 ---
 ## What it is
 MCP server for Siebel CRM with HTTP/SSE transport, enabling secure access to Siebel data and operations like accounts, contacts, opportunities, and queries. Designed to be deployed on Phala Cloud TEE for credential protection.

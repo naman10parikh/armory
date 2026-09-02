@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-05T20:34:42Z"
 ---
 ## What it is
 MCP server `Polyagent (Claude Code Agents)`, catalogued on PulseMCP. Bridges Claude Code agent definitions to any MCP client, automatically discovering YAML-based agent files and exposing them as MCP resources and prompts with hybrid parsing that handles both valid and malformed YAML for cross-platform agent sharing.

@@ -8,10 +8,12 @@ source_url: https://github.com/lostintangent/gistpad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 194
+stars: 203
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2026-01-16T17:58:32Z"
 ---
 ## What it is
 MCP server `GistPad (GitHub Gists)`, catalogued on PulseMCP. Transforms GitHub Gists into a personal knowledge management system with specialized handling for daily notes, reusable prompts with frontmatter support, and comprehensive gist operations including creation, updating, archiving, and commenting for version-controlled knowledge storage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:12:17Z"
 ---
 ## What it is
 A fully local MCP server that imports Markdown, PDF, and web pages into a running knowledge base, providing hybrid search and document retrieval via authenticated Streamable HTTP for Codex and DeepSeek agents.

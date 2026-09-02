@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:10Z"
 ---
 ## What it is
 MCP server `Jupiter Quotes`, catalogued on PulseMCP. Solana token swap quotes via Jupiter aggregator, with best route, price impact, priority fees, and USD pricing.

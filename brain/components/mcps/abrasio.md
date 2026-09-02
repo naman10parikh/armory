@@ -8,10 +8,12 @@ source_url: https://github.com/scrape-technology/abrasio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T15:41:23Z"
 ---
 ## What it is
 MCP server `Abrasio`, catalogued on PulseMCP. MCP server exposing Abrasio's anti-detection browser automation SDK, with 15 tools for navigation, screenshots, and interaction in local or cloud modes.

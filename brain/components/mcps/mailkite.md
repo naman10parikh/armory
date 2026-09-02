@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T12:47:12Z"
 ---
 ## What it is
 MailKite offers email sending and receiving for agents at your domain or free inboxes Create inboxes for your agent Send emails from your agent Receive emails to your webhook Receive emails to your agent

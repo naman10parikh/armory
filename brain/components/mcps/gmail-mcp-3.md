@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-08T09:29:20Z"
 ---
 ## What it is
 Enables AI assistants to send, read, search, and manage Gmail emails, drafts, and labels via the Model Context Protocol.

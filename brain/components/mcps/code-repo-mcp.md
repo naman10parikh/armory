@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:30:23Z"
 ---
 ## What it is
 An MCP server that exposes glob, grep, and list_repos tools over a folder containing multiple git repositories, allowing clients to search across repos by name without local filesystem access.

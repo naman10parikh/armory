@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:04:31Z"
 ---
 ## What it is
 A shared URL-freshness oracle for AI agents. Returns REUSE, REFETCH, or UNKNOWN before an agent pays to retrieve a URL again.

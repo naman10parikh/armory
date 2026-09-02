@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-07T14:12:25Z"
 ---
 ## What it is
 The MCP gateway that lets any AI agent discover and pay metered APIs on Base or Solana — without the user wiring payments themselves.

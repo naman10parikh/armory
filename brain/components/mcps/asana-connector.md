@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:20:00Z"
 ---
 ## What it is
 Enables interaction with Asana projects and tasks via the Asana API, supporting listing projects/tasks, creating/updating tasks, and adding comments, with secure authentication and rate-limit handling.

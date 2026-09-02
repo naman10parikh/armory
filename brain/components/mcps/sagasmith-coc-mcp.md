@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T11:41:26Z"
 ---
 ## What it is
 Local MCP server for Call of Cthulhu 7e, managing campaigns, character knowledge, and rule resolutions (d100, SAN, combat) with secure state isolation and keeper-controlled access.

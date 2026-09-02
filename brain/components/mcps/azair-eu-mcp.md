@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:46:26Z"
 ---
 ## What it is
 MCP server for azair.eu that enables flexible-date cheap flight searches across European low-cost airlines, with multi-airport, metro-area, and advanced filter support.

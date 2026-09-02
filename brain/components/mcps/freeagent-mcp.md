@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:54:04Z"
 ---
 ## What it is
 A local, read-only MCP server that exposes FreeAgent accounting data to AI clients, enabling natural language queries about balances, transactions, categories, and financial reports.

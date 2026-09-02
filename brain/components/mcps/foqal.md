@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-26T19:10:36Z"
 ---
 ## What it is
 MCP server `Foqal`, catalogued on PulseMCP. Enterprise workflow platform for Slack and Microsoft Teams with AI-powered ticketing and automation

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-17T23:31:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with Watson Discovery, listing projects and collections, and executing natural language queries.

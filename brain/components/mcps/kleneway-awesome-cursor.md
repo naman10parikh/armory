@@ -12,6 +12,8 @@ stars: 337
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 97
+pushed_at: "2025-02-05T21:41:57Z"
 ---
 ## What it is
 MCP server `Awesome Cursor`, catalogued on PulseMCP. Built for Cursor, integrates screenshot capture, web page structure analysis, and code review capabilities for automated UI testing, web scraping, and code quality checks.

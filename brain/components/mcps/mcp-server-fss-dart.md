@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:29:34Z"
 ---
 ## What it is
 Enables AI agents to analyze Korean corporate filings from DART with token-efficient footnote parsing, financial anomaly detection, and historical stock price correlation.

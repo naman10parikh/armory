@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T01:55:36Z"
 ---
 ## What it is
 MCP server that proxies GPT API calls for Claude Code, supporting multiple GPT models with both standard and streaming responses.

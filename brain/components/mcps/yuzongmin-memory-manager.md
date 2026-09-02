@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-12T08:50:23Z"
 ---
 ## What it is
 MCP server `Memory Manager`, catalogued on PulseMCP. Manages and switches between memory paths for clients, enabling organized context management across multiple AI projects.

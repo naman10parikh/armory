@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:10:07Z"
 ---
 ## What it is
 MCP server providing 11 pay-per-call web intelligence tools (page reading, PDF extraction, RSS parsing, screenshots, summarization, structured data extraction) for AI agents, paid automatically in USDC via the x402 protocol on Base mainnet with no API keys required.

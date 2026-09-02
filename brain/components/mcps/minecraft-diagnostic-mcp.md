@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T13:35:38Z"
 ---
 ## What it is
 An external MCP server for diagnosing Minecraft servers via backup analysis, local runtime, or Docker runtime, offering tools for plugin inspection, log analysis, configuration linting, and performance diagnostics.

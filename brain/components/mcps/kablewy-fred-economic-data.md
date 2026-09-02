@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-11T01:40:28Z"
 ---
 ## What it is
 MCP server `FRED Economic Data`, catalogued on PulseMCP. Integrates with FRED API to provide economic data retrieval, search, and metadata access for economic analysis and forecasting applications.

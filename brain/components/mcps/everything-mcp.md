@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-01T23:16:48Z"
 ---
 ## What it is
 The definitive MCP server for voidtools Everything - lightning-fast file search for AI agents.

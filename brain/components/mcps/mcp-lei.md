@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-08T04:56:08Z"
 ---
 ## What it is
 Servidor MCP para busca e normalização de citações de leis brasileiras em arquivos de texto locais.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:00Z"
 ---
 ## What it is
 MCP server for consulting official ANTT transport data in read-only mode via a hosted HTTP endpoint. Works with any MCP-compatible client, including Claude, ChatGPT, and Cursor.

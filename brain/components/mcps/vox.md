@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T00:38:59Z"
 ---
 ## What it is
 A native macOS MCP server for voice input and output, allowing Claude to listen and speak with offline speech recognition and TTS.

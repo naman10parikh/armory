@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:58:56Z"
 ---
 ## What it is
 Enables LLM hosts like Claude Code, Cursor, or Claude Desktop to drive YeepForge's 28 web penetration testing tools (recon, crawling, SQLi/XSS testing, nuclei scans) and set engagement targets via Model Context Protocol, using the host's own LLM subscription.

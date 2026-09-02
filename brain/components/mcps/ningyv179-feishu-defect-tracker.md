@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T03:31:03Z"
 ---
 ## What it is
 MCP server `Feishu Defect Tracker`, catalogued on PulseMCP. Integrates Feishu OpenAPI with Windsurf IDE for defect tracking, enabling retrieval of specific defect links by ID and filtered defect lists through both stdio and HTTP/SSE transport methods.

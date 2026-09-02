@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:22:59Z"
 ---
 ## What it is
 Connects Claude and other MCP clients to myGEKKO building controllers via the official Query API, enabling natural-language queries and control of smart-home devices. It is read-only by default, with write actions available only through explicit opt-in and safety policies.

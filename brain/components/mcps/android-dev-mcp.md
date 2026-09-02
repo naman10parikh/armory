@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T19:20:27Z"
 ---
 ## What it is
 Unified MCP server for Android mobile development — combines project knowledge, Android CLI execution, live dependency versions, and agentic workflow tools for Claude Code.

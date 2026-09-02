@@ -8,10 +8,12 @@ source_url: https://github.com/memorilabs/memori-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-01T16:38:28Z"
 ---
 ## What it is
 MCP server `Memori`, catalogued on PulseMCP. Persistent AI memory layer with semantic search, structured knowledge extraction, and intelligent recall for production agents.

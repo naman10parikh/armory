@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T13:03:59Z"
 ---
 ## What it is
 Bridges AI with IBM i systems for source code management, SQL queries, and schema inspection via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:21Z"
 ---
 ## What it is
 Enables read-only consultation of electronic service invoices (NFS-e) from São Paulo city hall via an official source, using a single tool and pay-per-use credits.

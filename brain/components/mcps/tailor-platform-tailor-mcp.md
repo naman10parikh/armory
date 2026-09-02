@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T20:03:56Z"
 ---
 ## What it is
 MCP server for managing Tailor Platform resources via tools like create, update, destroy, and search resources, as well as GraphQL queries.

@@ -8,10 +8,12 @@ source_url: https://github.com/synapbus/synapbus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-19T03:17:03Z"
 ---
 ## What it is
 MCP server `SynapBus`, catalogued on PulseMCP. Agent-to-agent messaging hub with channels, DMs, and semantic search.

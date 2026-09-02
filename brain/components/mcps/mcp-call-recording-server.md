@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T14:54:09Z"
 ---
 ## What it is
 Enables semantic search over VTT transcript files using AI-powered structured summaries, allowing natural language queries about client call transcripts through Claude Desktop or Copilot Studio.

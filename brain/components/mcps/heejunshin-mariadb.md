@@ -12,6 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-26T17:34:21Z"
 ---
 ## What it is
 MCP server `MariaDB`, catalogued on PulseMCP. Bridges Claude with MariaDB databases for read-only SQL query execution, enabling data exploration through formatted table results while enforcing safety restrictions on permitted operations.

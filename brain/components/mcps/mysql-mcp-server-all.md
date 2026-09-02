@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:05:30Z"
 ---
 ## What it is
 A read-only MySQL MCP server supporting stdio, SSE, and Streamable HTTP transports, enabling secure querying and schema inspection of MySQL databases from MCP clients.

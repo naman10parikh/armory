@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:29:45Z"
 ---
 ## What it is
 This MCP server connects your AI to a knowledge base through semantic tools, enforcing strict rules with German-language rejections for violations. It provides tools for managing sources, wiki articles, distillation, and GDPR-compliant deletion.

@@ -8,10 +8,12 @@ source_url: https://github.com/bitbond/token-tool-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T14:55:58Z"
 ---
 ## What it is
 MCP server `Token Tool`, catalogued on PulseMCP. Deploy and manage compliant ERC-20 tokens across multiple blockchain networks.

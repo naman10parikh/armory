@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T16:14:34Z"
 ---
 ## What it is
 MCP server `Unity MCP`, catalogued on PulseMCP. Enables real-time manipulation of Unity scenes through a WebSocket protocol that supports GameObject creation, component management, transform operations, and property access for game development workflows.

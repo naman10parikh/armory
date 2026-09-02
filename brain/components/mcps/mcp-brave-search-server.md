@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T13:54:17Z"
 ---
 ## What it is
 Enables web search using the Brave Search API, with configurable query and result count.

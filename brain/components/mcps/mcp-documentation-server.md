@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 43
+pushed_at: "2026-08-27T13:13:02Z"
 ---
 ## What it is
 Local-first document management and semantic search for AI coding agents, with a built-in web dashboard and REST API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:42:10Z"
 ---
 ## What it is
 A lightweight knowledge base MCP server that enables full-text search and retrieval of markdown documents from indexed sites using Orama BM25.

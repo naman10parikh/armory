@@ -8,10 +8,12 @@ source_url: https://github.com/es617/serial-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-07T22:09:22Z"
 ---
 ## What it is
 MCP server `Serial Port`, catalogued on PulseMCP. Serial port communication with line-oriented I/O, control lines, and device plugins.

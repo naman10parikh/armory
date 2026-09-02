@@ -8,10 +8,12 @@ source_url: https://github.com/lniosy/coolapk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-06T08:54:28Z"
 ---
 ## What it is
 MCP server `Coolapk`, catalogued on PulseMCP. Enables AI tools to search and browse the Coolapk Android community with tools for posts, users, topics, applications, and interactive features.

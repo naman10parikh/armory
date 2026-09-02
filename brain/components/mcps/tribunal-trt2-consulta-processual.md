@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:17Z"
 ---
 ## What it is
 Serviço MCP para consulta processual no TRT2 (Tribunal Regional do Trabalho da 2ª Região) usando fonte oficial, com pagamento por consulta via crédito pré-pago.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T11:47:56Z"
 ---
 ## What it is
 Search and browse Irish death notices from RIP.ie with tools for searching death notices, getting full details, and listing counties.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T21:39:03Z"
 ---
 ## What it is
 A production-ready Model Context Protocol server that bridges local document management with cloud synchronization (Notion) for AI agent integration, enabling seamless access and sync of local and cloud documents.

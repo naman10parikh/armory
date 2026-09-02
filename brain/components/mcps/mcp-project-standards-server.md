@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-22T14:35:10Z"
 ---
 ## What it is
 Manages project standards, configurations, and API debugging for AI-assisted development, ensuring unified development practices across teams and machines.

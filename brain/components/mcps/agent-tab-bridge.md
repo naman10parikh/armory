@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:39:01Z"
 ---
 ## What it is
 Enables local AI agents to control Chrome in parallel with isolated tab groups, supporting operations like navigation, clicks, and form filling without interference.

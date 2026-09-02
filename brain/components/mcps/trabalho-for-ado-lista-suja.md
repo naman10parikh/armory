@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:54:34Z"
 ---
 ## What it is
 Checks if an employer is on Brazil's forced labor list ('Lista Suja') using CPF or CNPJ. This read-only MCP server works over HTTP with any MCP client.

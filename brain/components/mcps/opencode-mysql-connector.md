@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:57:13Z"
 ---
 ## What it is
 A MySQL MCP server providing tools to query and explore MySQL databases via stdio transport.

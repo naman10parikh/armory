@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T16:01:45Z"
 ---
 ## What it is
 An MCP server that diagnoses Flutter + Stripe (flutter_stripe) setup issues — so Claude can check your project automatically.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:15:59Z"
 ---
 ## What it is
 An artifact store that lets coding agents and small teams publish, version, and review web artifacts through an MCP server or CLI, with stable URLs, access gates, and comments.

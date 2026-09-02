@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T08:20:15Z"
 ---
 ## What it is
 Enables AI coding assistants to leverage Application Security Posture Management (ASPM) capabilities, allowing developers to write secure code, query security risks, trigger diff scans, and manage security findings directly from their AI assistant.

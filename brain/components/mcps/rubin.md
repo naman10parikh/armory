@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:46:53Z"
 ---
 ## What it is
 A minimal MCP server that composes MIDI, loads Logic Pro factory patches (including Alchemy), and drives transport, turning Logic Pro into an AI-playable instrument.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T11:58:12Z"
 ---
 ## What it is
 MCP server `PageLens AI`, catalogued on PulseMCP. AI website audit for security, SEO, performance, UX, and accessibility with actionable fixes.

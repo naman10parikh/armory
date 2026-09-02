@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:47:46Z"
 ---
 ## What it is
 Enables AI assistants to save and retrieve persistent sticky notes across conversations, with tools, a resource, and a prompt for note management and summarization.

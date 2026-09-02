@@ -8,10 +8,12 @@ source_url: https://github.com/mcpfinder/mcpfinder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-27T17:03:41Z"
 ---
 ## What it is
 MCP server `MCPFinder`, catalogued on PulseMCP. Free, open-source discovery and installation layer for MCP servers, aggregating the Official Registry, Glama, and Smithery.

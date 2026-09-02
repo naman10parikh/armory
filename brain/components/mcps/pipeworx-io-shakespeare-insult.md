@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:40:53Z"
 ---
 ## What it is
 MCP server `Shakespeare Insult`, catalogued on PulseMCP. Shakespearean insult generator with classical and targeted modes via StupidAPIs through the Pipeworx gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T17:56:16Z"
 ---
 ## What it is
 Provides expert design and marketing guidance for AI coding agents through curated knowledge documents and tools. Covers UI/UX, copywriting, SEO, GEO, and conversion optimization.

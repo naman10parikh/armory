@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T04:14:18Z"
 ---
 ## What it is
 Enables Cursor (MCP client) to interact with an active Figma document through a local WebSocket bridge and Figma plugin, providing tools to read and modify canvas elements like text and frames.

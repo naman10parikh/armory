@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:56:43Z"
 ---
 ## What it is
 Enables Claude to read, create, and edit a single pre-bound PowerPoint file via MCP tools, with security bound to one specific .pptx file.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-27T06:32:13Z"
 ---
 ## What it is
 MCP server `ClawSwap`, catalogued on PulseMCP. Cross-chain token swaps and bridges between Solana and Base with x402 micropayments.

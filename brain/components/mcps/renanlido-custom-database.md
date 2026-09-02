@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T03:08:15Z"
 ---
 ## What it is
 MCP server `Custom Database`, catalogued on PulseMCP. Provides secure database access across PostgreSQL, MySQL, MongoDB, and Oracle databases with credential management, connection configuration, and parameterized query execution for data analysis and business intelligence workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/cicoub13/scribe-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T06:18:33Z"
 ---
 ## What it is
 MCP server `Scribe`, catalogued on PulseMCP. Route bulk file operations and documentation generation from Claude to cheaper OpenAI-compatible LLMs, reducing token costs by 60–90% on routine tasks.

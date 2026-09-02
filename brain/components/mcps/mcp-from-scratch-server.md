@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-05-25T07:07:36Z"
 ---
 ## What it is
 A fully working MCP server built from scratch in plain Node.js, implementing tools, resources, prompts, notifications, and sampling according to the MCP specification, designed to connect to Claude Desktop or any MCP client.

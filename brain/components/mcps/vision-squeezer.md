@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:43:57Z"
 ---
 ## What it is
 LLM-native image optimization middleware & MCP server. Reduces vision model token consumption by preprocessing images into tile-boundary-aligned, padding-free formats.

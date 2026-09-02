@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:35:44Z"
 ---
 ## What it is
 Control your DCC model railroad by voice or chat through any MCP client, with dynamic discovery of layout elements from JMRI.

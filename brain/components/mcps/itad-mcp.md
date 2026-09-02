@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:25:41Z"
 ---
 ## What it is
 MCP server that provides AI assistants with access to IsThereAnyDeal game pricing data, including current prices, discounts, historical lows, and active deals across multiple digital storefronts, using the official ITAD API with batching and caching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T01:59:08Z"
 ---
 ## What it is
 Provides access to Zeug's memory engine with hybrid search, knowledge graph queries, and note-taking. Enables MCP clients like Claude and ChatGPT to search, retrieve, and store knowledge from research notes and transcripts.

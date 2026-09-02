@@ -8,10 +8,12 @@ source_url: https://github.com/optuna/optuna-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-05T05:34:37Z"
 ---
 ## What it is
 MCP server `Optuna`, catalogued on PulseMCP. Provides automated hyperparameter optimization and analysis using Optuna framework with support for multiple samplers, multi-objective optimization, parameter importance analysis, and interactive visualizations including optimization history and Pareto fronts.

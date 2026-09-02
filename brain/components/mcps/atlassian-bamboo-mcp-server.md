@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T12:20:49Z"
 ---
 ## What it is
 Enables AI assistants to interact with Atlassian Bamboo CI/CD, allowing natural language queries to check build status, fetch logs, trigger builds, and manage deployments.

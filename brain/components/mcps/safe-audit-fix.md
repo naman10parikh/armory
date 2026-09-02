@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:48:04Z"
 ---
 ## What it is
 MCP server that safely fixes npm audit vulnerabilities by planning, applying fixes one at a time, running tests after each, and auto-reverting failures to prevent breaking changes.

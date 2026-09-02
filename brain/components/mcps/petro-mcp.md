@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-31T14:23:06Z"
 ---
 ## What it is
 MCP server that gives LLMs access to 70 petroleum engineering tools for well logs, decline curves, PVT, drilling, economics, and more.

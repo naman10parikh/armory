@@ -8,11 +8,13 @@ source_url: https://github.com/storybookjs/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 267
+stars: 270
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 43
+pushed_at: "2026-09-01T07:59:23Z"
 ---
 ## What it is
 Enables AI agents to interact with Storybook by exposing UI component information and development workflows through the Model Context Protocol.

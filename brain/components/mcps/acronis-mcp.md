@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:02:44Z"
 ---
 ## What it is
 MCP server that exposes Acronis Cyber Protect Cloud APIs as 14 read-only tools for managing alerts, tasks, agents, resources, policies, and tenants.

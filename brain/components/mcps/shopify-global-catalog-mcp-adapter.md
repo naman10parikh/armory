@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:15:33Z"
 ---
 ## What it is
 This MCP server bridges XiaoYi to Shopify's catalog search by translating SSE requests to Streamable HTTP and providing the required UCP agent profile, enabling the search_catalog tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-23T19:39:21Z"
 ---
 ## What it is
 MCP server for profiling Java applications via JDK utilities (jcmd, jfr, jps). Enables AI assistants to diagnose performance, analyze threads, and inspect JFR recordings without manual CLI usage.

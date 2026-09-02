@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:45:52Z"
 ---
 ## What it is
 A Model Context Protocol server for real-time cryptocurrency price data, market data, trending coins, historical charts, and currency conversion using the free CoinGecko API.

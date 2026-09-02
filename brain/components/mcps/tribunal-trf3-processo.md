@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:55Z"
 ---
 ## What it is
 Read-only MCP server providing official TRF3 court process consultation via a single pay-per-use tool.

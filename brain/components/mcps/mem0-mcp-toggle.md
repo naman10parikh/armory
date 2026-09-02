@@ -8,11 +8,13 @@ source_url: https://github.com/ost527/mem0-mcp-toggle
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T18:19:14Z"
 ---
 ## What it is
 A local Mem0 MCP server for macOS with a menu bar toggle, storing memories locally in Chroma and using any OpenAI-compatible LLM for fact extraction.

@@ -8,10 +8,12 @@ source_url: https://github.com/404f0x/better_colab_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-05T14:04:33Z"
 ---
 ## What it is
 MCP server `Google Colab`, catalogued on PulseMCP. MCP server for controlling Google Colab with notebook editing, runtime connection, shell commands, file operations, and GPU monitoring.

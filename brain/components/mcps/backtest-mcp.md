@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:02:26Z"
 ---
 ## What it is
 A stock backtesting engine MCP server that fetches stock data, validates and executes dynamic strategies, and generates backtest results and reports.

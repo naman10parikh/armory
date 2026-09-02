@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T00:17:55Z"
 ---
 ## What it is
 Provides MCP tools to query and inspect Microsoft SQL Server databases via a Streamable HTTP transport, including tools for running T-SQL queries, previewing tables, and retrieving schema context.

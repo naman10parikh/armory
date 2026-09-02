@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T08:05:47Z"
 ---
 ## What it is
 Local-first knowledge base that ingests activity from Slack, GitHub, agent sessions, and CLI, stores provenance in SQLite, and exposes the brain via MCP, CLI, Slack, and dashboard for recall and skill proposals.

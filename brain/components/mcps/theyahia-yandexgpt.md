@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T13:05:04Z"
 ---
 ## What it is
 MCP server `YandexGPT`, catalogued on PulseMCP. Integrates with Yandex GPT API for text generation, asynchronous completion, and tokenization.

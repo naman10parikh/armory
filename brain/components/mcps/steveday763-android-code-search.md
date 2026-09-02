@@ -8,10 +8,12 @@ source_url: https://github.com/steveday763/cs_android_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-24T15:40:08Z"
 ---
 ## What it is
 MCP server `Android Code Search`, catalogued on PulseMCP. Provides direct access to Android source code through reverse-engineered APIs to enable code search, file content retrieval, and symbol suggestions across Android projects including the main platform, AndroidX libraries, Android Studio, and Android-LLVM.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T17:30:11Z"
 ---
 ## What it is
 MCP server `Azure Revisor`, catalogued on PulseMCP. Enables automated code review workflows in Azure DevOps by retrieving pull request diffs and creating inline comments using personal access tokens.

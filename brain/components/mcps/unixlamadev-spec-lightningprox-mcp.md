@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 0
+pushed_at: "2026-03-18T03:03:52Z"
 ---
 ## What it is
 MCP server for LightningProx — pay-per-request AI access via Bitcoin Lightning. Supports vision/multimodal.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:32:47Z"
 ---
 ## What it is
 Turns a CSV — or a public dataset named in plain English — into an animated chart video. Every numeric claim in the generated narration is recomputed from the source rows before export, and a claim that does not reconcile blocks the export rather than shipping.

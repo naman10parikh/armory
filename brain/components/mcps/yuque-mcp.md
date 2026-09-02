@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:30:31Z"
 ---
 ## What it is
 A Model Context Protocol service that enables AI agents to securely access and operate Yuque knowledge bases via the Yuque OpenAPI.

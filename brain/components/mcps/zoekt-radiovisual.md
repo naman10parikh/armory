@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T12:56:17Z"
 ---
 ## What it is
 MCP server `Zoekt`, catalogued on PulseMCP. Exposes Sourcegraph's Zoekt code search engine to AI agents, enabling fast indexed regex and symbol-aware search across multiple repositories.

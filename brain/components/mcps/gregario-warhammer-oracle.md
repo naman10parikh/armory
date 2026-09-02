@@ -8,10 +8,12 @@ source_url: https://github.com/gregario/warhammer-oracle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T10:50:59Z"
 ---
 ## What it is
 MCP server `Warhammer Oracle`, catalogued on PulseMCP. Warhammer 40K, Combat Patrol, and Kill Team rules reference with unit datasheets, keywords, phase sequences, and unit comparison.

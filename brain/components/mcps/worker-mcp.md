@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-22T09:25:36Z"
 ---
 ## What it is
 A high-performance MCP server for Cloudflare Workers/Pages with a web dashboard and built-in tools including web search, URL reading, and structured problem-solving.

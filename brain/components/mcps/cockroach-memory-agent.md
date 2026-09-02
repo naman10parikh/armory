@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:10:53Z"
 ---
 ## What it is
 Provides persistent, globally-distributed memory for AI agents using CockroachDB's MCP Server and AWS S3 backups, with session isolation, audit trails, and full-text search.

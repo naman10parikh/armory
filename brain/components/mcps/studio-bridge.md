@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:59:45Z"
 ---
 ## What it is
 Connects Claude directly to Roblox Studio for building UI, editing scripts, running code, playtesting, and viewing the game in real-time.

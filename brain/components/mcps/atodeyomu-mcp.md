@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:09:18Z"
 ---
 ## What it is
 A read-only MCP server that detects quote retweets on X/Twitter for 'read later' purposes, enabling fetching quote posts with their quoted content and cursor-based progress tracking.

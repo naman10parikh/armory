@@ -12,6 +12,8 @@ stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-10-14T20:42:39Z"
 ---
 ## What it is
 MCP server `RabbitMQ`, catalogued on PulseMCP. Integrates RabbitMQ, enabling message queue operations for distributed systems and event-driven architectures.

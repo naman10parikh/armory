@@ -8,11 +8,13 @@ source_url: https://github.com/Theycallmeholla/schema-org-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-07-13T10:20:06Z"
 ---
 ## What it is
 MCP server enabling AI assistants to explore schema.org types, generate JSON-LD examples, validate structured data, and navigate the complete ontology with fuzzy matching and caching.

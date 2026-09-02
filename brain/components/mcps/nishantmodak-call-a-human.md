@@ -8,10 +8,12 @@ source_url: https://github.com/nishantmodak/call-a-human-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-03T00:53:34Z"
 ---
 ## What it is
 MCP server `Call a Human`, catalogued on PulseMCP. Enables human oversight in automated workflows by requesting approval or asking questions through Slack, Telegram, or CLI channels.

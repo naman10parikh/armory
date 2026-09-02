@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T05:55:37Z"
 ---
 ## What it is
 Enables AI agents to verify trust scores, search certified capabilities, compare side-by-side, and submit experience reports through Fidensa's certification authority.

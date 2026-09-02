@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T12:54:04Z"
 ---
 ## What it is
 A deterministic MCP server for document processing and retrieval that enables AI agents to process, chunk, and vector-search documents without an LLM.

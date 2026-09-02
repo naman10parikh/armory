@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-20T21:29:44Z"
 ---
 ## What it is
 MCP server `ClamAV Virus Scanner`, catalogued on PulseMCP. Provides virus scanning capabilities for files by integrating with the ClamAV antivirus engine, enabling secure validation of file safety before processing.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T06:03:41Z"
 ---
 ## What it is
 MCP server `Paper Lantern`, catalogued on PulseMCP. Search 2M+ CS research papers to inform technical decisions during AI-assisted development.

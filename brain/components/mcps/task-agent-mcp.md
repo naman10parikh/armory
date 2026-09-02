@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:24:14Z"
 ---
 ## What it is
 An autonomous task decomposition and execution agent that plans, executes, verifies, and commits code changes for engineering goals.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T06:04:59Z"
 ---
 ## What it is
 Enables AI agents to read, edit, and create Microsoft Word documents (.docx) with support for rich text, tables, and images, deployable locally or via SSE.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T03:12:45Z"
 ---
 ## What it is
 One MCP server for the SaaS back office. Stripe, HubSpot, and Google Sheets exposed as typed, read-only-by-default tools for Claude and any MCP client.

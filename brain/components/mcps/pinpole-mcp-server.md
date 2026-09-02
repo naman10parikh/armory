@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:38:53Z"
 ---
 ## What it is
 Enables AI agents to design cloud architectures, run cost/performance simulations, and draw them on a Pinpole canvas directly from Claude Code, Cursor, and OpenAI Codex.

@@ -8,10 +8,12 @@ source_url: https://github.com/intellectronica/skillz
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 395
+stars: 399
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2026-01-30T15:16:46Z"
 ---
 ## What it is
 MCP server `Skillz`, catalogued on PulseMCP. Executes local Anthropic-style skills through directory-based discovery where each skill contains YAML metadata and Markdown instructions, enabling reusable AI workflows and automation scripts with sandboxed execution environments.

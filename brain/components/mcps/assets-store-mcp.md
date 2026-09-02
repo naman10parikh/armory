@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T14:05:25Z"
 ---
 ## What it is
 MCP server for managing personal assets (images, files) in Vercel Blob storage, enabling upload, list, metadata, delete, and copy operations.

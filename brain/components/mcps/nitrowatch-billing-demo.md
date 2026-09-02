@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T06:49:32Z"
 ---
 ## What it is
 A demo MCP server exposing billing operations (invoices, customers) with no built-in safety, designed as a test target for NitroWatch governance. It allows reading, sending, archiving, and permanently deleting accounts/invoices without confirmation.

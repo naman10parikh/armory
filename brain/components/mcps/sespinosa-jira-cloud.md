@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-07T21:36:16Z"
 ---
 ## What it is
 MCP server `Jira Cloud`, catalogued on PulseMCP. Integrates with Jira Cloud instances to enable secure issue management, project operations, sprint handling, board configuration, user management, and file attachments with enterprise-grade security features including rate limiting, audit logging, and permission checking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-12T16:39:34Z"
 ---
 ## What it is
 Enables semantic search of Danbooru tags using natural language queries to generate precise prompts for anime-style image generation.

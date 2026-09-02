@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T08:59:42Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. GitLab REST API integration with 25 tools for repositories, merge requests, and issues.

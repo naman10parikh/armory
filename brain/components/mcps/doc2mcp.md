@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:50:35Z"
 ---
 ## What it is
 Turns any documentation URL into a hosted MCP server for use in Cursor, Claude, and VS Code.

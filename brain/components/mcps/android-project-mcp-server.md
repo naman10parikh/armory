@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T21:15:42Z"
 ---
 ## What it is
 Enables building, running unit tests, and instrumented tests for Android projects through the MCP protocol.

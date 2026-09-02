@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:13:32Z"
 ---
 ## What it is
 Enables AI agents to store and retrieve project context, bugs, decisions, and session logs by reading and appending markdown files in a local Obsidian vault, without requiring any cloud services.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-07T21:55:09Z"
 ---
 ## What it is
 MCP server `Supavec`, catalogued on PulseMCP. Integrates with Supavec to efficiently retrieve contextually relevant embeddings and associated content for enhancing knowledge retrieval and semantic search applications.

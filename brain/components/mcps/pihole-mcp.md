@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:45:06Z"
 ---
 ## What it is
 MCP server for Pi-hole v6.x that provides direct API proxying and composite tools for analyzing network devices, managing block/allow lists, local DNS records, and performing backups.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-23T19:48:55Z"
 ---
 ## What it is
 Enables natural language querying of Feyenoord football match data, converting questions to SQL queries and returning results.

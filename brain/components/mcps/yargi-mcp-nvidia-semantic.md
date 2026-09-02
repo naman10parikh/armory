@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:15:45Z"
 ---
 ## What it is
 MCP server for Turkish legal semantic search using NVIDIA nv-embed-v1 embeddings, with rate-limit resilience and query embedding caching for fast RAG responses.

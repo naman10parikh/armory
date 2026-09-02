@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T16:35:23Z"
 ---
 ## What it is
 Enables AI-assisted management of Apache Tomcat, including start/stop, WAR deployment, log analysis, thread and heap dumps, and diagnostics.

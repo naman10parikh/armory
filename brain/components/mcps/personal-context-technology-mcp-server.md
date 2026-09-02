@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-12T07:48:58Z"
 ---
 ## What it is
 Enables AI assistants to access and update personalized context data, creating persistent memory between sessions.

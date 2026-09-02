@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:33:46Z"
 ---
 ## What it is
 MCP server and CLI for querying Common Crawl via AWS Athena, enabling users to check a domain's presence in crawls, analyze dynamics, compare domains, and inspect page text.

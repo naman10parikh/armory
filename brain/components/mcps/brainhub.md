@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:55:31Z"
 ---
 ## What it is
 A unified FastAPI web panel and single MCP gateway that aggregates knowledge base, cloud drive, kanban, memory, and ops agent capabilities for the Brain product family.

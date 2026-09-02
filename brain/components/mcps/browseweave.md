@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T22:29:44Z"
 ---
 ## What it is
 BrowseWeave enables MCP-compatible AI clients to control and read web pages already open in a real browser, providing semantic views and screenshots as needed.

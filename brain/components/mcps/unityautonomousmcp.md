@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:38:12Z"
 ---
 ## What it is
 A comprehensive autonomous agent framework for Unity 2022.3.22f1 combining Model Context Protocol with AI decision-making, enabling intelligent task planning, editor automation, and multi-agent coordination.

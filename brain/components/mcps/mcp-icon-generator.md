@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T23:48:28Z"
 ---
 ## What it is
 Generates app icons with customizable text, colors, and sizes, including complete iOS app icon sets.

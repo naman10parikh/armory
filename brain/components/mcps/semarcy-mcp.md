@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T19:40:08Z"
 ---
 ## What it is
 MCP server providing RAG-powered access to Semarchy documentation (xDM, xDI, xDG) for AI assistants.

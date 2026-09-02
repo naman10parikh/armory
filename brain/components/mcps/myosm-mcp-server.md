@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:46:24Z"
 ---
 ## What it is
 An OpenStreetMap MCP server providing geocoding, routing, points of interest, map tiles, public transport, and energy infrastructure tools to enhance LLM location-based capabilities.

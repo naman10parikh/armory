@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:48:30Z"
 ---
 ## What it is
 Verifica o recebimento do Seguro Defeso a partir do CPF e NIS, com ferramenta somente leitura, hospedada e paga por consulta.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T15:21:29Z"
 ---
 ## What it is
 Enables AI assistants to operate property management systems via natural language, covering repair orders, owner info, payments, notices, and inspections. Features a full agentic workflow with human-in-the-loop and observability.

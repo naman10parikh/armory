@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:01Z"
 ---
 ## What it is
 MCP server to consult municipal tax debt certificates (Certidão Negativa de Débitos) for Blumenau, SC, Brazil, from an official source. It is read-only, offers one tool, and works with any MCP client over HTTP.

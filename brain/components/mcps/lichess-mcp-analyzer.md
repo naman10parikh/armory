@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:22:05Z"
 ---
 ## What it is
 A chess training MCP server that downloads games from Lichess, analyzes moves with Stockfish, detects pattern errors using a compression model, and provides spaced repetition training to improve weaknesses.

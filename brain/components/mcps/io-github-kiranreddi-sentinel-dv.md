@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-02T23:55:07Z"
 ---
 ## What it is
 Provides LLMs and AI agents safe, structured, read-only access to verification artifacts for deterministic triage and root-cause analysis. Supports UVM, cocotb, and SystemVerilog verification ecosystems.

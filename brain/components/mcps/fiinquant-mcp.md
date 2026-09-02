@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T04:56:56Z"
 ---
 ## What it is
 A resilient MCP server wrapping FiinQuant/FiinQuantX Python SDK for Claude Desktop and Cursor, providing market data, fundamental analysis, screening, and technical indicators via stdio with timeouts, error envelopes, and free-tier guards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:36:48Z"
 ---
 ## What it is
 Provides an interactive support form that creates Salesforce Case records via the Salesforce REST API, supporting multiple authentication strategies.

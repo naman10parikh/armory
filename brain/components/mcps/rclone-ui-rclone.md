@@ -8,10 +8,12 @@ source_url: https://github.com/rclone-ui/rclone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-08T21:37:25Z"
 ---
 ## What it is
 MCP server `Rclone`, catalogued on PulseMCP. Manages cloud storage through the Rclone RC API with selectable toolsets for file operations, syncing, mounting, and more.

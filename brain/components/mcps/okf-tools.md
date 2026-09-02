@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T15:44:27Z"
 ---
 ## What it is
 Enables local semantic search and management of OKF knowledge bundles via MCP tools, with hybrid BM25 and vector search.

@@ -8,10 +8,12 @@ source_url: https://github.com/neosun100/sharp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-27T04:14:57Z"
 ---
 ## What it is
 MCP server `SHARP 3D Gaussian Splat Generator`, catalogued on PulseMCP. Converts single 2D images into interactive 3D Gaussian Splats using Apple's SHARP monocular view synthesis model.

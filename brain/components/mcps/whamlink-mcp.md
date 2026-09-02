@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:19:17Z"
 ---
 ## What it is
 Lets MCP clients publish a single file to a permanent, shareable link via whamlink. Supports tools for managing links, including registration, publishing, listing, updating access, replacing content, and deleting links.

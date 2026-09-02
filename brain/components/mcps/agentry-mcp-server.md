@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T13:18:10Z"
 ---
 ## What it is
 Provides a trust layer for AI agents with identity, reputation, payments, and discovery via 92 API endpoints as MCP tools, leveraging Nostr-native infrastructure.

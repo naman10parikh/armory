@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T01:50:56Z"
 ---
 ## What it is
 A simple MCP server to manage YouTube playlists built in TypeScript.

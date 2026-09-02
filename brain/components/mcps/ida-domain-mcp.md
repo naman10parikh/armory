@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-28T09:57:53Z"
 ---
 ## What it is
 Headless MCP server for IDA Pro enabling on-demand database loading and programmatic reverse engineering workflows via MCP tools.

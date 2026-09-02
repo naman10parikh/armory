@@ -8,10 +8,12 @@ source_url: https://github.com/erichung9060/android-mobile-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-08T05:19:44Z"
 ---
 ## What it is
 MCP server `Android Mobile`, catalogued on PulseMCP. Enable AI agents to control Android devices

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T11:34:46Z"
 ---
 ## What it is
 A generic MCP server that connects AI agents to any SPARQL 1.1 endpoint, enabling querying and updating RDF data across various triple stores.

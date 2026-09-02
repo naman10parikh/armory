@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:43:38Z"
 ---
 ## What it is
 MCP server that tracks what you are working on. Logs are stored locally as one markdown file per day on your Desktop.

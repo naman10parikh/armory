@@ -8,10 +8,12 @@ source_url: https://github.com/hoangsonww/gitintel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-16T05:37:47Z"
 ---
 ## What it is
 MCP server `GitIntel`, catalogued on PulseMCP. Deep repository analytics computed locally from Git commit history.

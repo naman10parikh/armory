@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-23T22:49:17Z"
 ---
 ## What it is
 Exposes the host device's current date and time, returning local time with timezone offset or UTC.

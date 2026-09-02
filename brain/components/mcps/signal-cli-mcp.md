@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:29:50Z"
 ---
 ## What it is
 An MCP server that lets AI assistants propose sending Signal messages, but nothing is ever sent without explicit human approval.

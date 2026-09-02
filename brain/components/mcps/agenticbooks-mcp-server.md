@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:45:43Z"
 ---
 ## What it is
 Financial data infrastructure for AI agents. Connect to a startup's books to read live P&L and bank balances, review and reclassify transactions, manage the chart of accounts, and connect banking sources.

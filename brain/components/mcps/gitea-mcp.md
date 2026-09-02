@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T22:13:07Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to read, create, and manage issues, repositories, and releases on Gitea, Forgejo, or Codeberg instances via personal access tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-13T12:19:17Z"
 ---
 ## What it is
 Lightweight MCP server for adding, reading, and summarizing sticky notes persisted in a local file.

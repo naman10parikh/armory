@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:56:30Z"
 ---
 ## What it is
 Enables LLM agents to access Google Threat Intelligence data, including IOC search, file/domain/IP/URL analysis, and threat hunting rulesets, for security investigations.

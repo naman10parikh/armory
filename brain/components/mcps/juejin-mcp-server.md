@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-19T07:19:52Z"
 ---
 ## What it is
 Enables AI assistants to access and analyze content from the Chinese developer community platform Juejin, including articles, trending topics, and user interactions.

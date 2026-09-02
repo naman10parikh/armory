@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:46:43Z"
 ---
 ## What it is
 The rush-gift-mcp server helps users en route to an appointment find last-minute gift recommendations and pickup stores along their route, considering time constraints, budget, and relationship. It provides AI-driven planning tools that calculate detour feasibility and generate appropriate gift mess

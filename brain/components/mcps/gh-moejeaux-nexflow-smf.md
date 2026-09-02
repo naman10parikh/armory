@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T03:23:54Z"
 ---
 ## What it is
 MCP server `NexFlow SMF`, catalogued on PulseMCP. Smart Meta-Facilitator for x402 payments on Base: route, verify, and settle crypto payments.

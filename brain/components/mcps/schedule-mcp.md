@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:41:34Z"
 ---
 ## What it is
 Enables AI assistants to manage personal project schedules through natural language, including creating and updating projects and tasks, tracking todos, querying schedules, and receiving reminders for deadlines and overdue items.

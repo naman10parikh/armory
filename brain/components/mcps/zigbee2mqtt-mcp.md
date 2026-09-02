@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:15:31Z"
 ---
 ## What it is
 An MCP server that enables LLMs to list, inspect, and control Zigbee devices via the Zigbee2MQTT frontend websocket API, eliminating the need for direct MQTT broker access.

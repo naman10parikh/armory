@@ -8,10 +8,12 @@ source_url: https://github.com/kiranreddi/sentinel-dv
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-02T23:55:07Z"
 ---
 ## What it is
 MCP server `Sentinel DV`, catalogued on PulseMCP. Security-first access to SystemVerilog/UVM/cocotb verification intelligence with 14 specialized tools for test analysis, coverage metrics, assertion data, and regression trends.

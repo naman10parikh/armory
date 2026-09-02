@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-13T12:08:18Z"
 ---
 ## What it is
 Enables querying Swarmia's Export API for engineering metrics including pull request analytics, DORA metrics, investment balance, and effort reporting through an MCP interface.

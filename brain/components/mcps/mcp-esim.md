@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T12:48:24Z"
 ---
 ## What it is
 Travel eSIMs for 193 countries. Stripe + Bitcoin checkout. QR by email in 30s. No API key.

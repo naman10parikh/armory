@@ -8,10 +8,12 @@ source_url: https://github.com/augmented-nature/opentargets-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-21T10:08:23Z"
 ---
 ## What it is
 MCP server `Open Targets`, catalogued on PulseMCP. Integrates with Open Targets platform to search therapeutic targets and diseases, retrieve detailed gene and disease information, and analyze target-disease associations with evidence scores for drug discovery and biomedical research.

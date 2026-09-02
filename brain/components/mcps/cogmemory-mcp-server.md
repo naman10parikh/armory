@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T10:11:18Z"
 ---
 ## What it is
 Provides a unified context system for AI coding agents with memory, knowledge graph, specs, and code graph subsystems, all stored in SQLite. Enables persistent recall of decisions, conventions, errors, project knowledge, and code structure.

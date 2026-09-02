@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T04:25:29Z"
 ---
 ## What it is
 MCP server for ConnectSecure vulnerability management, exposing 285 read-only tools to query assets, vulnerabilities, Active Directory, and more via natural language.

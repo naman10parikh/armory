@@ -8,10 +8,12 @@ source_url: https://github.com/hyson666/pdf-rag-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-23T14:23:45Z"
 ---
 ## What it is
 MCP server `PDF Knowledge Base`, catalogued on PulseMCP. Enables semantic search across PDF documents through automatic processing, chunking, and vectorization for intelligent querying and knowledge extraction

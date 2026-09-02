@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:06:57Z"
 ---
 ## What it is
 Enables multiple users to securely connect their own Microsoft 365 account and use natural language to manage Outlook mail, Teams, and SharePoint/OneDrive files through Microsoft Graph, with support for shared mailboxes and admin governance.

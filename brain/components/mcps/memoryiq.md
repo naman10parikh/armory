@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T15:57:36Z"
 ---
 ## What it is
 Enables AI tools to access and contribute to shared semantic memory, supporting search, capture, and curation of knowledge across multiple brains via the MCP protocol.

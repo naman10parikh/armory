@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 16
+forks: 4
+pushed_at: "2026-05-10T10:36:01Z"
 ---
 ## What it is
 Zero-cost, privacy-first universal web search MCP server. Enforces a **Search-First** paradigm — instructs LLMs to retrieve real-time information before answering factual questions. Supports 10+ search engines (DuckDuckGo, Bing, Google, Brave, Wikipedia, Arxiv, YouTube, Reddit) and deep page browsing. No API key required.

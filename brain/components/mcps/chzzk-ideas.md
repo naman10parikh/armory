@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T15:26:17Z"
 ---
 ## What it is
 Enables streamers to receive viewer-submitted ideas from Chzzk live chat and send them to Claude Code for execution, with viewer voting support.

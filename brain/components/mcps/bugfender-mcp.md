@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:56:20Z"
 ---
 ## What it is
 Bugfender MCP server for read access to logs, devices, crashes, and issues, with automatic token refresh.

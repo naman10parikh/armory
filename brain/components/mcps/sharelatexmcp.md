@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:51:13Z"
 ---
 ## What it is
 An MCP server that gives Claude access to ShareLaTeX projects over Git, enabling file management, document structure parsing, content extraction, and writing changes back.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T09:54:09Z"
 ---
 ## What it is
 Provides a read-only interface to local MySQL databases via MCP, enabling listing databases, tables, describing schemas, and querying rows with structured filters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T21:16:40Z"
 ---
 ## What it is
 A todo list manager for Creature with interactive UI, batch operations, full-text search, and markdown descriptions, enabling natural language task management.

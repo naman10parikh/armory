@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:35:07Z"
 ---
 ## What it is
 Enables querying PPE compliance analytics from precomputed video inference results, providing tools for site summaries, worker status, violations, and trends without re-running inference.

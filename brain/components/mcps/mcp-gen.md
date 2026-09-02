@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T15:39:45Z"
 ---
 ## What it is
 Turn your typed TypeScript functions into an MCP server — tool, resource, and prompt schemas inferred from your types and JSDoc. No schema library, no decorators, no boilerplate.

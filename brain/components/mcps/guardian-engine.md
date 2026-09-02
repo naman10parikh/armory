@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T07:55:29Z"
 ---
 ## What it is
 MCP server `Guardian Engine`, catalogued on PulseMCP. Deterministic recipe verification engine that validates AI-generated recipes against master SOPs for temperatures, techniques, and ingredients.

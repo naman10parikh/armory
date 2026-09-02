@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:26:08Z"
 ---
 ## What it is
 MCP server `NSF Awards`, catalogued on PulseMCP. National Science Foundation award database for searching NSF research grants via the Pipeworx gateway.

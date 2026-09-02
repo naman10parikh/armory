@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T18:47:34Z"
 ---
 ## What it is
 MCP server `AdClip`, catalogued on PulseMCP. Ad creative generation from a JSON brief — copy and static images, no API key required.

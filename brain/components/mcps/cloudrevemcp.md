@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T23:28:54Z"
 ---
 ## What it is
 MCP server integrating Cloudreve with downloaders for Douyin, Bilibili, and Netease, enabling login, parsing links, downloading, and uploading to cloud storage with direct links.

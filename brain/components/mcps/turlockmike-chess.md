@@ -8,10 +8,12 @@ source_url: https://github.com/turlockmike/chess-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-04T03:10:21Z"
 ---
 ## What it is
 MCP server `Chess`, catalogued on PulseMCP. Integrates with chess engines and libraries to provide game analysis, move generation, and position evaluation for chess applications and research.

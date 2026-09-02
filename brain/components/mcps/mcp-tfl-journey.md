@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-22T13:02:02Z"
 ---
 ## What it is
 Provides real-time Transport for London journey data, including routes, alerts, and disruptions, allowing AI assistants to search journeys and get station information.

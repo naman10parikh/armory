@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:21:21Z"
 ---
 ## What it is
 Enables HG Insights GTM teams to draft and manage outreach, research accounts, look up customer support data, and access CRM, Pylon, Jira, Weflow, and knowledge base tools through Claude Desktop.

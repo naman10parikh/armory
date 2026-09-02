@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:39Z"
 ---
 ## What it is
 Provides access to Adzuna's global job-board aggregation, enabling job search, salary analysis, and regional stats via natural language queries.

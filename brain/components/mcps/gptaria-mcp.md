@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:09:11Z"
 ---
 ## What it is
 GPTaria MCP connects your AI assistant to GPTaria, enabling you to post project briefs, respond with working prototypes, and publish portfolio cases directly from your editor.

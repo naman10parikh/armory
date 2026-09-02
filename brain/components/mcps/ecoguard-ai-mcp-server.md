@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T09:56:27Z"
 ---
 ## What it is
 Enables real-time compliance checking of industrial water and air emissions against CPCB standards using tools for water quality, air emissions, and compliance evaluation.

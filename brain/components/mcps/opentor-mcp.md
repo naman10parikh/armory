@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:08:05Z"
 ---
 ## What it is
 MCP server that connects AI assistants to a supervised Firefox session routed through Tor, enabling browsing of HTTP(S) and .onion pages, reading content, taking screenshots, extracting forum data, and managing sessions.

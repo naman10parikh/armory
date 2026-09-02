@@ -8,10 +8,12 @@ source_url: https://github.com/djalal/quran-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-06-12T18:53:07Z"
 ---
 ## What it is
 MCP server `Quran.com API`, catalogued on PulseMCP. Provides access to Quranic scripture, translations, commentaries, and audio recitations through the Quran.com API for seamless Islamic text reference and study.

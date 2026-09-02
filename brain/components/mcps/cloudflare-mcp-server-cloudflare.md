@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
-stars: 4105
+stars: 4136
+forks: 505
+pushed_at: "2026-09-01T14:26:32Z"
 ---
 ## What it is
 Integration with Cloudflare services including Workers, KV, R2, and D1

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
 stars: 1
+forks: 0
+pushed_at: "2026-08-01T19:17:04Z"
 ---
 ## What it is
 Taiwan's first public MCP server for National Health Insurance (NHI) data — 234 rejection codes, 1,497 ICD-10→procedure mappings across 20 specialties, audit indicators (008/014/027/P043), and semantic wiki search over 8,232 chunks of official NHI documentation. Powered by [OPDSTAR](https://opdstar.com). Install: `npx @opdstar/nhi-mcp`.

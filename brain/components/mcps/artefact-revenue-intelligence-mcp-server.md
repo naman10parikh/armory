@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T03:25:33Z"
 ---
 ## What it is
 An MCP server that provides AI agents with ICP Triangulation Framework™ for scoring prospects across firmographics, behaviors, and growth signals, plus RFM analysis and pipeline health scoring, with optional HubSpot integration.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-16T01:44:13Z"
 ---
 ## What it is
 MCP server `Cursor Sound Notifications`, catalogued on PulseMCP. Plays customizable audio notifications when code generation completes in the Cursor editor, eliminating the need to visually monitor for completions.

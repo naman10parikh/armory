@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:16:06Z"
 ---
 ## What it is
 Enables browsing a sneaker carousel, selecting sizes and quantities, and simulating a checkout process within Claude via an MCP App.

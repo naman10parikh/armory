@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T19:36:59Z"
 ---
 ## What it is
 Provides a JSON-RPC MCP server that exposes policy-governed agent tools, including paid tools, tool muxing, and OpenAPI-to-MCP conversion, enabling agents to discover, coordinate, and execute tasks within the ProtoOS ecosystem.

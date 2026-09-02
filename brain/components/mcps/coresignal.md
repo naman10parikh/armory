@@ -8,10 +8,12 @@ source_url: https://github.com/coresignal-com/coresignal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-07T09:18:11Z"
 ---
 ## What it is
 MCP server `Coresignal`, catalogued on PulseMCP. Access comprehensive B2B data on companies, employees, and job postings for your LLMs and AI workflows.

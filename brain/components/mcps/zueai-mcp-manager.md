@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 292
+forks: 41
+pushed_at: "2026-06-24T20:34:42Z"
 ---
 ## What it is
 Simple Web UI to install and manage MCP servers for Claude Desktop App.

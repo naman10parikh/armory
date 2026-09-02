@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-19T23:26:00Z"
 ---
 ## What it is
 MCP server `Shell History`, catalogued on PulseMCP. Powerful shell command history exploration tool that allows searching, retrieving, and programmatically accessing past shell commands across different environments like Bash and Zsh.

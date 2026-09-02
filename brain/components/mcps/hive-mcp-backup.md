@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:41:43Z"
 ---
 ## What it is
 Snapshot and backup service for the A2A network, storing agent payloads as content-addressed blobs with SHA-256 integrity and metered access via x402.

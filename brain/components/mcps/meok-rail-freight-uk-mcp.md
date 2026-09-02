@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:46:06Z"
 ---
 ## What it is
 UK rail freight compliance MCP server enabling checks on ORR licensing, ROGS safety certificates, RIR 2011 interoperability, TSI standards, RID dangerous goods, and Network Rail capacity access. It also prepares ORR inspection packs against the 14 Major Issues.

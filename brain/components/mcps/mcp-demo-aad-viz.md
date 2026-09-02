@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:14:18Z"
 ---
 ## What it is
 Enables Entra ID group-based dataset access where group membership determines which datasets exist, and provides an interactive Altair chart builder rendered as an inline MCP Apps widget with zero-token adjustments.

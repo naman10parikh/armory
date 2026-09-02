@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-02T12:28:34Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to securely access Webull trading and market data, supporting multi-region (US/HK), various asset classes, order types, and risk controls.

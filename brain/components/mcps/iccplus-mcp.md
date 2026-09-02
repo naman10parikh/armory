@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T15:39:21Z"
 ---
 ## What it is
 Enables AI agents to author, validate, and build ICC Plus interactive fiction projects with full schema awareness and source-backed indexing.

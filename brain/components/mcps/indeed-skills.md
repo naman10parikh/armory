@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:58:17Z"
 ---
 ## What it is
 Live Indeed job-postings data for AI agents via the RolesAPI REST API: search listings by keyword and location, and fetch role details, salary, description, company, and benefits. Available as drop-in agent skills or a hosted remote MCP server.

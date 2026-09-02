@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:15:34Z"
 ---
 ## What it is
 MCP server that aggregates documentation and code context across GitHub repositories, auto-generates a system map from Backstage catalog files, and provides search capabilities for docs, code, issues, and API schemas to AI agents.

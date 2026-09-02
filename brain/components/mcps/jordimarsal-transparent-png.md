@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T15:03:35Z"
 ---
 ## What it is
 MCP server `Transparent PNG`, catalogued on PulseMCP. Converts PNG image colors to transparency for Claude Desktop integration.

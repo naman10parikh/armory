@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:31:31Z"
 ---
 ## What it is
 Agentic RAG Knowledge Assistant is a secure, tenant-isolated MCP server built with FastAPI, PostgreSQL, and pgvector that enables document ingestion, semantic retrieval, and vector search over PDF, DOCX, and text files through authenticated MCP tools.

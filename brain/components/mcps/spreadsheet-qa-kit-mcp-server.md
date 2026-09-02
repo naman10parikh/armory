@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:48:24Z"
 ---
 ## What it is
 Enables querying your spreadsheet using natural language questions; provides read-only tools for schema, sample data, and structured query execution with auditable computation traces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T00:28:42Z"
 ---
 ## What it is
 Enables LLM-assisted biomedical literature screening and structured extraction from PubMed alerts, PMIDs, DOIs, and GEO accessions, with full-text retrieval and multi-provider LLM support.

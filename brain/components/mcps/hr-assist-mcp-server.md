@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:39:03Z"
 ---
 ## What it is
 Enables Claude Desktop to autonomously perform HR operations such as employee onboarding, leave management, meeting scheduling, ticket creation, and email notifications through MCP tool calling.

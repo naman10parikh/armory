@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:16:02Z"
 ---
 ## What it is
 Provides structured access to Google Meridian documentation and resources, enabling AI assistants to fetch docs, search topics, and list sources for Marketing Mix Modeling.

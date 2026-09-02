@@ -8,11 +8,13 @@ source_url: https://github.com/quokkapix/quokkapix-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T17:43:28Z"
 ---
 ## What it is
 Local MCP adapter for private, browser-based QuokkaPix image workflows.

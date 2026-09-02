@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-21T02:10:15Z"
 ---
 ## What it is
 MCP server `Vikunja`, catalogued on PulseMCP. Integrates with Vikunja task management covering tasks, comments, labels, projects, teams, and views with OAuth 2.0 authentication and streamable HTTP transport.

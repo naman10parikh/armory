@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T00:46:30Z"
 ---
 ## What it is
 An MCP server that provides AI agents with database tools for querying customer profiles and financial audit data, featuring semantic caching and automatic cache invalidation via webhooks to optimize performance and token usage.

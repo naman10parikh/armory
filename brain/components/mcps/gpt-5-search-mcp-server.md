@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-14T02:59:17Z"
 ---
 ## What it is
 Provides access to OpenAI's GPT-5 model with web search and advanced reasoning capabilities, enabling AI-powered search and analysis through MCP tools.

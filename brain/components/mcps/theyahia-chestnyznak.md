@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-12T11:48:32Z"
 ---
 ## What it is
 MCP server `Chestniy ZNAK`, catalogued on PulseMCP. Product marking verification and lookup via the Russian Chestniy ZNAK traceability system.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:48:59Z"
 ---
 ## What it is
 MCP server that bridges agents to Freebuff Desktop sessions, enabling project and thread management, prompt sending, queue control, and wake-on-demand via REST API, SSE, and MCP tools.

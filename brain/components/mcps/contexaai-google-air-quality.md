@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-04T13:12:10Z"
 ---
 ## What it is
 MCP server `Google Air Quality`, catalogued on PulseMCP. Access real-time air quality data, forecasts, and historical information from Google's Air Quality API with support for heatmap visualizations and natural language location queries

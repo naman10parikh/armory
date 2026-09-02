@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:23:28Z"
 ---
 ## What it is
 MCP server for Naver Search Open API, enabling search news, blog, and shop functionalities through natural language.

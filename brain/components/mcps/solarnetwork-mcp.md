@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:21:35Z"
 ---
 ## What it is
 Read-only MCP server for querying solar generation, consumption, and DER telemetry from SolarNetwork via the SolarQuery API. Zero-config against a public demo node.

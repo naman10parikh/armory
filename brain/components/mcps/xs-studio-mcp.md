@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T01:21:55Z"
 ---
 ## What it is
 MCP server for XS Studio that integrates with CODESYS toolkit and adds a custom create_dut tool, enabling project management, code generation, and DUT creation workflows.

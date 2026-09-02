@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:18:19Z"
 ---
 ## What it is
 Market-timing bottom/top signals for ten markets — crypto, US/Korea/China/Hong Kong stocks, commodities, FX, inflation and Seoul/Dubai property — returning a verdict and a -100..+100 score per symbol plus market-wide bottom/top scans. Ships a stdio proxy to the ten remote Streamable HTTP endpoints; 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:09:26Z"
 ---
 ## What it is
 Enables AI to generate and compile Aseprite game art, producing sprite files, sheets, and engine JSON with tools for initialization, briefs, pixel painting, building, validation, and opening in Aseprite.

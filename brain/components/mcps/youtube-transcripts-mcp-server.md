@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:56:46Z"
 ---
 ## What it is
 Provides YouTube video transcripts (text and metadata) as MCP tools for AI hosts like Claude Code, enabling summarization, search, and Q&A without watching the video.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:08:44Z"
 ---
 ## What it is
 Exposes NextBillion.ai location APIs as MCP tools for AI agents, including geocoding, place search, routing, distance matrices, isochrones, and static maps.

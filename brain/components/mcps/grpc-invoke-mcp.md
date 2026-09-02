@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T14:54:42Z"
 ---
 ## What it is
 An MCP server for calling gRPC methods from AI agents, enabling them to inspect gRPC APIs and invoke unary RPCs using server reflection or local .proto files.

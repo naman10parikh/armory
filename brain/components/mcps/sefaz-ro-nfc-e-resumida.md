@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-dir/sefaz_ro_nfce_resumida-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:49Z"
 ---
 ## What it is
 Consulta resumida de NFC-e em fonte oficial da SEFAZ Rondônia, via ferramenta somente leitura. Permite consultar dados fiscais por linguagem natural em qualquer cliente MCP compatível.

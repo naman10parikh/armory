@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:40Z"
 ---
 ## What it is
 Enables querying Swiss public transport data (stations, departures, connections) from the Transport Open Data API via natural language through an MCP gateway.

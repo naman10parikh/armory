@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:13:36Z"
 ---
 ## What it is
 MCP server that provides read-only business operations tools: list businesses, get status, identify missing inputs, and prepare email drafts/attachment manifests from synthetic evidence, with strict no-send/no-write safeguards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T10:40:30Z"
 ---
 ## What it is
 A project-scoped MCP server that opens a Mindraw canvas from the active Codex workspace, with local sidebar preview and desktop app handoff.

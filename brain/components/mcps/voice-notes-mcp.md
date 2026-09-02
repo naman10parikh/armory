@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T05:34:15Z"
 ---
 ## What it is
 Read-only MCP server that exposes locally generated voice notes to any MCP client, allowing listing, searching, and reading transcripts, summaries, and knowledge graphs from voice-notes sessions.

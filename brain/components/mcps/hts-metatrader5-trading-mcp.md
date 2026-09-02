@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T06:15:53Z"
 ---
 ## What it is
 Enables Claude AI to perform forex trading operations and market data analysis through MetaTrader 5, including order placement, position management, and multi-timeframe candle data retrieval.

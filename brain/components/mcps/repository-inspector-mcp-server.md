@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T01:06:54Z"
 ---
 ## What it is
 Enables AI clients to inspect Git repository changes, run allowlisted validation commands, and generate Markdown review reports via MCP, with validation disabled by default for security.

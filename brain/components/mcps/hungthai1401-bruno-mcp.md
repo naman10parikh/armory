@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 44
+forks: 9
+pushed_at: "2025-08-16T04:24:12Z"
 ---
 ## What it is
 A MCP server for interacting with [Bruno API Client](https://www.usebruno.com/).

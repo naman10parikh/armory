@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:34:11Z"
 ---
 ## What it is
 Read-only MCP server that fetches a single Jira issue by key and returns its title, description, comments, attachment summary, and image attachments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:08:08Z"
 ---
 ## What it is
 Unofficial MCP server that exposes PropertyGuru Singapore & Malaysia property listing search as MCP tools, returning detailed listing data without an API key.

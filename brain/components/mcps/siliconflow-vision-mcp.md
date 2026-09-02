@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:49:26Z"
 ---
 ## What it is
 An MCP server that provides 8 vision tools for UI screenshot to code, OCR, error diagnosis, diagram understanding, data visualization analysis, UI diff, and image/video analysis, plus model list query, powered by SiliconFlow's multimodal API.

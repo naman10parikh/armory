@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T18:20:02Z"
 ---
 ## What it is
 MCP server `The Truth`, catalogued on PulseMCP. Self-organizing markdown knowledge vault with Google Gemini auto-categorization and six tools for search, read, and save operations.

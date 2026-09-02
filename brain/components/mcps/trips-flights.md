@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:09:58Z"
 ---
 ## What it is
 Enables tracking flights and grouping them into trips, with tools to create, list, and manage trips and flight bookings.

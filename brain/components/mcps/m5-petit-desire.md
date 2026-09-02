@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:26:05Z"
 ---
 ## What it is
 Manages autonomous desires for the M5 Petit robot, allowing Claude to read desire levels and update them via actions and sensor effects.

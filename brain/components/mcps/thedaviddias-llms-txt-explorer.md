@@ -8,10 +8,12 @@ source_url: https://github.com/thedaviddias/mcp-llms-txt-explorer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-01-15T15:38:12Z"
 ---
 ## What it is
 MCP server `LLMs.txt Explorer`, catalogued on PulseMCP. Provides a bridge for exploring websites with llms.txt files, enabling fetching and parsing of website-specific language model instructions for context-aware interactions in web-based environments.

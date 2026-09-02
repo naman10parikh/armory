@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T18:42:28Z"
 ---
 ## What it is
 Cryptographically anchored, tamper-evident evidence receipts for AI agents — verified run receipts, existence-at-time proofs, and cited answers from an anchored public record. Remote MCP with proof-gated settlement; attests existence and integrity, never truth.

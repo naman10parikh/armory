@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:03:55Z"
 ---
 ## What it is
 MCP server `Ensembl`, catalogued on PulseMCP. Query Ensembl REST for vertebrate genomes, sequences, comparative genomics, and variation data.

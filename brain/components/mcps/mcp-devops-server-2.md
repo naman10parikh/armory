@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-08T09:37:46Z"
 ---
 ## What it is
 Provides DevOps and testing tools for full-stack applications, including UI testing, security audits, CI/CD validation, and Rust/Tauri support.

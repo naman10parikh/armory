@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:27:47Z"
 ---
 ## What it is
 MCP server that exposes read-only NetSuite tools for querying warehouse stock levels and order status, using mock data locally and a pluggable client interface.

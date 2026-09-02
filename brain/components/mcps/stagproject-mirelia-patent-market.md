@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T05:02:56Z"
 ---
 ## What it is
 MCP server `Mirelia Patent Market`, catalogued on PulseMCP. AI-optimized patent data marketplace providing structured JSON datasets.

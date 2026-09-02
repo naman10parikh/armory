@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-20T10:40:28Z"
 ---
 ## What it is
 MCP server `MCP Gateway by PanosSalt`, catalogued on PulseMCP. Production gateway platform connecting AI assistants to databases with authentication, RBAC, and audit logging.

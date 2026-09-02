@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:42:31Z"
 ---
 ## What it is
 Resolves patent publication numbers to canonical DOCDB identifiers, providing inventor, publication date, and family ID.

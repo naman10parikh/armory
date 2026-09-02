@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:24:37Z"
 ---
 ## What it is
 A modular MCP server built with FastAPI, exposing tools via HTTP endpoints with SSE streaming responses.

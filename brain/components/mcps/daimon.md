@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:16:32Z"
 ---
 ## What it is
 A local daemon for macOS that gives any MCP-capable AI client eyes, hands, and a face — screen capture, accessibility tree, mouse/keyboard actions, and an overlay — with a built-in security ceiling.

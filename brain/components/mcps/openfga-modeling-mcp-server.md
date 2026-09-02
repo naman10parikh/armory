@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-10T17:03:22Z"
 ---
 ## What it is
 A specialized MCP server that provides expert-level OpenFGA authorization modeling guidance, enabling users to create and manage authorization models for ReBAC systems directly from VS Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T11:26:06Z"
 ---
 ## What it is
 Provides Japanese-optimized reference, design consultation, and learning support for Max/MSP and Max4Live through natural language queries.

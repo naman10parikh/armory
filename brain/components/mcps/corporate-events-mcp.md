@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T03:32:58Z"
 ---
 ## What it is
 Normalizes and serves corporate events (earnings, dividends, splits, M\&A) from US, UK, Canada, and Australia via a programmatic MCP API.

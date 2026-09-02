@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:24Z"
 ---
 ## What it is
 Provides AI agents with zero-cost, zero-dependency trust evaluation for domains, URLs, wallets, APIs, and IPs, returning a 0-100 score with SSL, DNS, WHOIS, security header, and content sub-scores, plus batch comparison to rank multiple targets.

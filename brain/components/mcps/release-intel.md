@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T12:11:05Z"
 ---
 ## What it is
 An MCP server that generates release intelligence from GitHub repository data, correlating commits, pull requests, issues, and contributors between two git refs to produce structured context for release notes, changelogs, and summaries.

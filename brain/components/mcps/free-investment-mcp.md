@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:53:28Z"
 ---
 ## What it is
 Provides free public investment research tools including stock quotes, SEC filings, macroeconomic indicators, and clinical trial searches without requiring API keys.

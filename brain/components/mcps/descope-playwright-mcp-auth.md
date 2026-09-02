@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:40:13Z"
 ---
 ## What it is
 Enables secure remote access to a Playwright-based MCP server with authentication and role-based access control powered by Descope.

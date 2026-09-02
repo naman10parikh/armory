@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:45:13Z"
 ---
 ## What it is
 Enables AI agents to access and synthesize per-ticker financial research data from multiple providers within a private, self-hosted workspace.

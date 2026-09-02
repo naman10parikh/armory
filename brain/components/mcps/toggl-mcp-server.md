@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-10T12:55:26Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Toggl time tracking API to manage time entries, projects, and workspaces through natural language.

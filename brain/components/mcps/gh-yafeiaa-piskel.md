@@ -8,10 +8,12 @@ source_url: https://github.com/yafeiaa/piskel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-07-29T03:25:39Z"
 ---
 ## What it is
 MCP server `Piskel`, catalogued on PulseMCP. Pixel art editor providing 20+ tools for drawing, layers, frames, and exporting pixel art as PNG, GIF, or sprite sheets.

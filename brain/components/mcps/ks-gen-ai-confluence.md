@@ -8,10 +8,12 @@ source_url: https://github.com/ks-gen-ai/confluence-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-23T14:16:21Z"
 ---
 ## What it is
 MCP server `Confluence`, catalogued on PulseMCP. Integrates with Confluence's API to execute CQL queries and retrieve page content, enabling efficient search and access of wiki information.

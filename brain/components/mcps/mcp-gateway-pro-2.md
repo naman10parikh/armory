@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:56:53Z"
 ---
 ## What it is
 Unified Model Context Protocol server that bundles Slack, GitHub, Jira, PostgreSQL, Redis, AWS, webhooks, and email into one lightweight Docker container, providing a single REST API and web dashboard for AI agent integration.

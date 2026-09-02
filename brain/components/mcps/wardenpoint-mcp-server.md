@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:26:14Z"
 ---
 ## What it is
 Enables agents to configure WardenPoint accounts—recipients, contacts, groups, notification rules, escalation policies, on-call schedules, alert-source integrations, routing, and telephony—via dynamic tools generated from the installation's own OpenAPI spec, with no bundled API definitions.

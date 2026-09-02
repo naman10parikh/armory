@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T02:19:00Z"
 ---
 ## What it is
 Provides Claude Desktop with persistent, structured memory and semantic search via a local SQLite knowledge graph, plus a web UI for visualization and management.

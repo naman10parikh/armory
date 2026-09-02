@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:17:07Z"
 ---
 ## What it is
 Provides OECD statistical data (employment, wages, etc.) through SDMX API, supporting Korean-language queries. Enables listing indicators, retrieving stats, trends, comparisons, and rankings among OECD countries.

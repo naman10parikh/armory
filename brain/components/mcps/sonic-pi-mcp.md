@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:53:19Z"
 ---
 ## What it is
 Enables control of a local Sonic Pi runtime to run code, stop jobs, read events, and search docs/samples/synthdefs via OSC messages.

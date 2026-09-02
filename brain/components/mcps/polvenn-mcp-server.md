@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T10:12:44Z"
 ---
 ## What it is
 A local-first MCP server for tracking beer releases on Vinmonopolet, enabling users to search new and upcoming beers, check store stock, find nearby stores, and manage watchlists.

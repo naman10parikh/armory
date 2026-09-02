@@ -8,10 +8,12 @@ source_url: https://github.com/okooo5km/unsplash-mcp-server-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-16T04:21:53Z"
 ---
 ## What it is
 MCP server `Unsplash`, catalogued on PulseMCP. Connects to Unsplash's API to enable photo searching with customizable filters, detailed image information retrieval, and random photo fetching for seamless imagery integration in conversations.

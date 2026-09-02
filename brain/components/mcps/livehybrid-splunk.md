@@ -8,10 +8,12 @@ source_url: https://github.com/livehybrid/splunk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-06-20T21:31:03Z"
 ---
 ## What it is
 MCP server `Splunk`, catalogued on PulseMCP. Integrates with Splunk Enterprise/Cloud to enable natural language-driven searches, index management, user handling, and KV store operations through a Python-based interface supporting both command-line and web server integration.

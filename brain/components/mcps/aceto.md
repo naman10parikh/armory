@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T00:39:10Z"
 ---
 ## What it is
 A local dev server with MCP interface for building HTML mockups together with an AI agent, enabling live collaborative editing through element selection and live preview.

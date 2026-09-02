@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-26T13:26:02Z"
 ---
 ## What it is
 Enables interaction with the Monad Testnet blockchain, including reading block data, balances, transactions, and token operations via natural language.

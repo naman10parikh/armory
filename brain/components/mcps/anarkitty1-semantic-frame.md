@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-12T18:19:40Z"
 ---
 ## What it is
 MCP server `Semantic Frame`, catalogued on PulseMCP. Token-efficient semantic compression for numerical data

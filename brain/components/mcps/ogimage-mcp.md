@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T14:44:13Z"
 ---
 ## What it is
 Generates beautiful Open Graph images directly from Claude Desktop using ogimage.art, supporting templates, sizes, and license keys.

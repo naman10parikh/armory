@@ -8,10 +8,12 @@ source_url: https://github.com/shimayuz/note-com-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-24T01:03:29Z"
 ---
 ## What it is
 MCP server `Note.com`, catalogued on PulseMCP. Integrates with note.com Japanese blogging platform for article search, user profiles, and engagement analytics

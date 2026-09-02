@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:23:52Z"
 ---
 ## What it is
 MCP server for a self-hostable personal planner — exposes memo, todo, calendar event, and cross-resource full-text search tools so Claude, Cursor, or any MCP client can manage your schedule and notes in natural language.

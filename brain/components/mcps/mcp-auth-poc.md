@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T14:13:17Z"
 ---
 ## What it is
 A minimal MCP server with token-based authentication and SSE transport, providing greeting and echo tools for testing authentication patterns in remote MCP servers.

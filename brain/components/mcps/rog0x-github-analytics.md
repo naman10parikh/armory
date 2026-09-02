@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T20:22:26Z"
 ---
 ## What it is
 MCP server `GitHub Analytics`, catalogued on PulseMCP. GitHub repository analytics including repo analysis, PR summaries, issue triage, release notes generation, and contributor statistics.

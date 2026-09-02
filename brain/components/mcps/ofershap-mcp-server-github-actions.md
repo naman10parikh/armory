@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 4
+forks: 1
+pushed_at: "2026-08-10T07:38:15Z"
 ---
 ## What it is
 GitHub Actions — view workflow runs, read logs, re-run failed jobs, and manage CI/CD.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T03:15:29Z"
 ---
 ## What it is
 Enables AI assistants to view screen time data and control focus blocks for the Opal app.

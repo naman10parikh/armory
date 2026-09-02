@@ -8,10 +8,12 @@ source_url: https://github.com/tuncer-byte/memory-bank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-06-12T20:23:57Z"
 ---
 ## What it is
 MCP server `Memory Bank`, catalogued on PulseMCP. Structured documentation system that generates and maintains interconnected Markdown documents capturing project knowledge from high-level goals to technical details, with advanced search capabilities across all documents.

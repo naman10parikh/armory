@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-03T23:07:48Z"
 ---
 ## What it is
 Enables secure static analysis of Microsoft Office documents and related file types for malicious content, integrating with systems that support the MCP protocol.

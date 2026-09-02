@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:34:43Z"
 ---
 ## What it is
 Enables AI agents to create and append to Google Docs and Sheets through MCP, including matrix-based row writes and dynamic text injection into document bodies.

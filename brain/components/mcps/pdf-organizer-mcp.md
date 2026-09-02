@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T00:16:05Z"
 ---
 ## What it is
 Automatically organizes PDF files into date-based folders, providing tools to move, copy, list, and track PDFs by date.

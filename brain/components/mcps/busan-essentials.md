@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:51:33Z"
 ---
 ## What it is
 Provides structured data on public facilities in Busan, South Korea for AI agents assisting foreign tourists, including AEDs, pharmacies, tourist info, restrooms, WiFi, and subway timetables.

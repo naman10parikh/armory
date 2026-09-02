@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:38:14Z"
 ---
 ## What it is
 MCP-сервер для управления кампаниями, группами, объявлениями, ключевыми фразами и статистикой Яндекс.Директ через Claude.

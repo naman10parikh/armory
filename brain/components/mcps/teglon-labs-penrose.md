@@ -8,10 +8,12 @@ source_url: https://github.com/bmorphism/penrose-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-20T21:44:55Z"
 ---
 ## What it is
 MCP server `Penrose`, catalogued on PulseMCP. Integrates with Penrose's domain-specific languages to generate mathematical diagrams from natural language inputs.

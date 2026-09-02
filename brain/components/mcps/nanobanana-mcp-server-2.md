@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:27:44Z"
 ---
 ## What it is
 An MCP server that provides AI image generation using Google Gemini models with intelligent model selection, aspect ratio control, and support for high-quality outputs up to 4K.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:44:04Z"
 ---
 ## What it is
 Enables screenwriters to search for similar scenes, fetch scene details, list indexed movies, find mood reference scenes, and get analysis style guidance, all grounded in real produced scripts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:51:45Z"
 ---
 ## What it is
 Agent-first web hosting driven entirely through a remote MCP server, enabling full hosting management via natural language with OAuth or token authentication.

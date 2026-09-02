@@ -8,10 +8,12 @@ source_url: https://github.com/6551team/opennews-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1342
+stars: 2129
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 162
+pushed_at: "2026-08-18T03:21:56Z"
 ---
 ## What it is
 MCP server `OpenNews (6551)`, catalogued on PulseMCP. Provides real-time crypto news search, AI sentiment analysis, and trading signals from 72+ data sources.

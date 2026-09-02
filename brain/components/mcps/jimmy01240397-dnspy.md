@@ -8,10 +8,12 @@ source_url: https://github.com/jimmy01240397/dnspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-22T18:41:51Z"
 ---
 ## What it is
 MCP server `dnSpy`, catalogued on PulseMCP. .NET static analysis and live debugging via dnSpy's decompilation and ICorDebug capabilities.

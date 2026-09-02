@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:42:29Z"
 ---
 ## What it is
 Spawns and manages multiple Minecraft Console Client bots, enabling an MCP client like Claude to control each bot individually on offline-mode servers.

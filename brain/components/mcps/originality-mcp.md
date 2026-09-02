@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T06:09:15Z"
 ---
 ## What it is
 MCP server for Originality.ai that provides tools for AI detection, plagiarism checking, fact verification, readability analysis, grammar/spelling, and SEO optimization.

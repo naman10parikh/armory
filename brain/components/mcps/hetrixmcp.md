@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T04:57:49Z"
 ---
 ## What it is
 Enables interacting with the HetrixTools API v3 to manage blacklists, uptime monitors, status pages, scheduled maintenance, and server agents via natural language.

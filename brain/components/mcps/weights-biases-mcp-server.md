@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-04-01T20:46:40Z"
 ---
 ## What it is
 Enables querying W\&B Weave traces and creating W\&B Reports with text and visualizations through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/shaun888/easy-workflow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-05T07:42:07Z"
 ---
 ## What it is
 MCP server `FOP Workflow`, catalogued on PulseMCP. Workflow management server for JD.com's FOP platform with PRD analysis and code generation.

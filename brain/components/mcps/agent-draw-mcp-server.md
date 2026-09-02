@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:49:47Z"
 ---
 ## What it is
 A TypeScript stdio MCP server that lets agents read, import, propose connections for, and apply optimistic patches to versioned agent-draw diagram documents.

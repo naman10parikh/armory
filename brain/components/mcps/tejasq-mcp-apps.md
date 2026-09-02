@@ -8,10 +8,12 @@ source_url: https://github.com/tejasq/basically-mcp-apps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-17T11:13:50Z"
 ---
 ## What it is
 MCP server `MCP Apps Demo`, catalogued on PulseMCP. Proof-of-concept demonstrating MCP Apps protocol extension where tools return rendered HTML widgets inside AI chat interfaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-18T22:36:13Z"
 ---
 ## What it is
 MCP server for the AI Engineer Conference 2025, enabling talk submissions and conference information retrieval.

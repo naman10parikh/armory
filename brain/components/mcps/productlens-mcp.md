@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:39:49Z"
 ---
 ## What it is
 Enables product comparison and analysis for any MCP-compatible AI assistant, with tools like compare_products and list_products.

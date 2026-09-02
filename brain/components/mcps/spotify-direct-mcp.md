@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:18:37Z"
 ---
 ## What it is
 A FastMCP server that exposes Spotify's catalog and user context as tools for Claude, enabling track search, audio features, artist discography, recommendations, currently playing, and playlist creation.

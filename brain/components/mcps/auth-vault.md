@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:24:11Z"
 ---
 ## What it is
 MCP server for secure credential management, browser-based login automation, and TOTP/2FA auto-solving. Encrypts credentials with AES-256-GCM and automates login flows via Playwright.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T11:36:57Z"
 ---
 ## What it is
 Exposes DeerFlow's multi-agent capabilities (deep research, data analysis, chart visualization, PPT/image generation, consulting) via the Model Context Protocol, enabling any MCP client to invoke these skills through a thin server wrapper.

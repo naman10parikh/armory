@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:45:52Z"
 ---
 ## What it is
 MCP server `Graffiticode`, catalogued on PulseMCP. Connects AI assistants to Graffiticode's catalog of domain-specific language tools for creating assessments, spreadsheets, and flashcards.

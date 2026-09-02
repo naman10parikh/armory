@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-17T22:41:31Z"
 ---
 ## What it is
 MCP server `MySQL Database Tools`, catalogued on PulseMCP. Enables direct SQL query execution and table exploration with MySQL databases through a simple interface for seamless data analysis and database operations.

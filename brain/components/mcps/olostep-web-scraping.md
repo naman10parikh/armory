@@ -8,10 +8,12 @@ source_url: https://github.com/olostep/olostep-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-07T16:57:38Z"
 ---
 ## What it is
 MCP server `Olostep`, catalogued on PulseMCP. Integrates with Olostep's web scraping API to extract webpage content in markdown format, discover website URLs through search queries, and retrieve structured Google search results with country-specific routing and JavaScript rendering support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, clients]
+forks: 9
+pushed_at: "2025-08-26T18:03:30Z"
 ---
 ## What it is
 Command-line client for interacting with A2A servers

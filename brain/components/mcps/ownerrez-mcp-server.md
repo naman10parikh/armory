@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:21:06Z"
 ---
 ## What it is
 Enables Claude to interact with your OwnerRez account via natural language, including booking inquiries, income summaries, property stats, and owner statements. Supports optional guest messaging with OAuth setup.

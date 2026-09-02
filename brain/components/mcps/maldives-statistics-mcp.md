@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:20:35Z"
 ---
 ## What it is
 A read-only MCP server that provides access to public statistics and publications from the Maldives Bureau of Statistics, enabling search, listing, and retrieval of reports, yearbook tables, census releases, and PDF attachments.

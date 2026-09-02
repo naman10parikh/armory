@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T07:40:37Z"
 ---
 ## What it is
 Enables AI agents to calculate US household employer (nanny) taxes for all 50 states plus DC, including Social Security, Medicare, FUTA, and state unemployment, through natural language.

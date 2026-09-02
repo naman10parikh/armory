@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-12T10:52:36Z"
 ---
 ## What it is
 Enables AI assistants to interact with Salesforce organizations through project-based CLI integration, allowing execution of Apex, SOQL queries, object descriptions, and org management using local Salesforce DX project configurations.

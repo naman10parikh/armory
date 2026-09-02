@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:54:42Z"
 ---
 ## What it is
 MCP server that provides structured audit logging for AI agent repair tasks via tools to start, record, end, query, and export event traces, with JSONL persistence and SDK integration.

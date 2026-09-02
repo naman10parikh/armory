@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-12T03:58:09Z"
 ---
 ## What it is
 MCP server `Adaptive Agent`, catalogued on PulseMCP. Self-evolving RAG system providing cross-session persistent memory where agents autonomously write, retrieve, and evolve knowledge through vector-based storage and semantic search.

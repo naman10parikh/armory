@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T00:03:11Z"
 ---
 ## What it is
 Bridges AI agents to a Docker-isolated Kali Linux environment over SSH, exposing 29 security tools as MCP tools with OPSEC enforcement and multi-agent coordination.

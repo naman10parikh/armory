@@ -8,10 +8,12 @@ source_url: https://github.com/toby/mirror-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-28T22:37:21Z"
 ---
 ## What it is
 MCP server `Mirror`, catalogued on PulseMCP. Enables recursive self-questioning and introspection through a reflect tool that uses MCP sampling to generate thoughtful responses to self-directed questions with configurable system prompts for specialized reflection perspectives like coaching or strategic analysis.

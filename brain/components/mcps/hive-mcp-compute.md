@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T22:36:51Z"
 ---
 ## What it is
 OpenAI-compatible inference broker that routes AI requests to the cheapest qualifying model and settles payments per token in USDC on Base L2 via x402 micropayments.

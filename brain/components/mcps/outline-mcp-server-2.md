@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-22T07:21:46Z"
 ---
 ## What it is
 Enables AI agents to manage documents and collections in Outline wiki through natural language commands.

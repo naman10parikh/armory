@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 7
+forks: 4
+pushed_at: "2025-08-18T08:45:06Z"
 ---
 ## What it is
 An MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.

@@ -8,11 +8,13 @@ source_url: https://github.com/open-and-sustainable/prismaid
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-20T10:34:10Z"
 ---
 ## What it is
 MCP server that enables AI assistants to drive systematic literature review workflows, including screening, downloading, converting, and reviewing papers through natural language conversation.

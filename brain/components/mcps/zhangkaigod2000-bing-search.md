@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T09:44:03Z"
 ---
 ## What it is
 MCP server `Bing Search`, catalogued on PulseMCP. Performs Bing web searches using Playwright scraping with optional LLM-powered query rewriting and content summarization.

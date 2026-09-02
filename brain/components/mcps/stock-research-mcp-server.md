@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-28T20:51:44Z"
 ---
 ## What it is
 A multi-agent MCP server for comprehensive stock research and analysis using natural language queries, backed by SEC filings and real-time market data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T22:05:26Z"
 ---
 ## What it is
 A Model Context Protocol server for legal document search and retrieval, powered by Azure Cosmos DB and Voyage AI embeddings, exposing 12 tools for semantic search, keyword search, Bates number lookup, claim-specific queries, and statutory citation search over a corpus of vectorized legal documents.

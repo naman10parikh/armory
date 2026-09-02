@@ -14,7 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide]
-stars: 92
+stars: 93
+forks: 11
+pushed_at: "2026-08-16T14:10:39Z"
 ---
 ## What it is
 A community workflow/command by Tony Narlock, catalogued in awesome-claude-code. Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.

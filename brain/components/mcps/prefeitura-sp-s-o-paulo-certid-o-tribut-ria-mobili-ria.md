@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:16Z"
 ---
 ## What it is
 Consulta a fonte oficial da Prefeitura de São Paulo para emitir Certidões Tributárias Mobiliárias, via ferramenta somente leitura.

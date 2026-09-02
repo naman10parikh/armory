@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:54:33Z"
 ---
 ## What it is
 MCP server `data.gov.sg`, catalogued on PulseMCP. Access Singapore's official government open data portal including static datasets and real-time environmental, transport, and public service feeds.

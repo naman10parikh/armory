@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T19:09:58Z"
 ---
 ## What it is
 Governed knowledge base for AI agents via the Model Context Protocol (MCP), enabling agents to search, read, and contribute persisted knowledge with versioning, audit trails, and approval workflows.

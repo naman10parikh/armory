@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:07:23Z"
 ---
 ## What it is
 MCP server that acts as a local stdio adapter for Civarium agent HTTP APIs, enabling interaction with game agents through tools like get_active_round, get_visible_state, submit_command, list_my_commands, and wait_next_round.

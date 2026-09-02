@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-01T19:16:11Z"
 ---
 ## What it is
 MCP server for Noir development that clones and searches Noir documentation, standard library, examples, and community libraries.

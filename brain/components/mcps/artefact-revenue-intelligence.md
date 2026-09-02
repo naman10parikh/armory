@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-29T21:32:36Z"
 ---
 ## What it is
 MCP server `Artefact`, catalogued on PulseMCP. Revenue intelligence MCP: RFM analysis, 14.5-point ICP scoring, pipeline health. HubSpot.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T15:44:43Z"
 ---
 ## What it is
 Exposes tools for AI assistants to query a persistent SQLite+FTS5 index of C/C++ symbols parsed from real build commands, enabling sub-millisecond lookup, full-text search, and natural-language explanation without hallucination.

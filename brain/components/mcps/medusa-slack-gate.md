@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:18:44Z"
 ---
 ## What it is
 Human-in-the-loop approval gate for MCP agents, classifying tool calls by risk and requiring Slack-based human approval for medium/high risk actions.

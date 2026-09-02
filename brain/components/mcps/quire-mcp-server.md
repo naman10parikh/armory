@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-21T13:12:24Z"
 ---
 ## What it is
 A Model Context Protocol server for the Quire project management platform, enabling AI assistants to securely interact with Quire projects, tasks, and data.

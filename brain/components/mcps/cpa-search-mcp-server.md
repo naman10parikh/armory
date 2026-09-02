@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:07:32Z"
 ---
 ## What it is
 Enables real-time web search and clean webpage content extraction for AI coding agents, using local CPA with multiple search engines including Gemini, Grok, GLM, and DuckDuckGo.

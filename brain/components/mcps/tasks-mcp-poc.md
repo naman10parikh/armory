@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:50:48Z"
 ---
 ## What it is
 A generic task manager (like Monday, Jira, Trello) with MCP as its only interface, enabling task and user management via natural language through Claude.

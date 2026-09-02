@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-03-20T05:55:41Z"
 ---
 ## What it is
 Enables MQTT broker operations like connect, subscribe, and publish through MCP over SSE transport.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
 stars: 5
+forks: 2
+pushed_at: "2026-03-04T20:11:48Z"
 ---
 ## What it is
 MCP server for XERT cycling analytics — access fitness signature (FTP, HIE, PP), training status, workouts, activities with XSS metrics, and MPA analysis.

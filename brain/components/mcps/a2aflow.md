@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
+forks: 0
+pushed_at: "2025-04-15T13:07:56Z"
 ---
 ## What it is
 A2A protocol server for data flow management

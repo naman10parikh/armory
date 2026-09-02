@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:58:15Z"
 ---
 ## What it is
 Enables AI assistants to manage a Threads posting schedule through natural language, allowing them to view, add, update, reschedule, and skip posts in a local CSV schedule.

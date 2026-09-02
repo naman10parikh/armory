@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-06T19:27:38Z"
 ---
 ## What it is
 MCP server `Readability (Fetch & Parse)`, catalogued on PulseMCP. Extracts and transforms webpage content into clean, LLM-optimized Markdown by removing non-essential elements while preserving key metadata.

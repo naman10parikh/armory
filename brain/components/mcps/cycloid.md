@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T08:05:31Z"
 ---
 ## What it is
 MCP server `Cycloid`, catalogued on PulseMCP. Interact with the Cycloid Internal Developer Platform for infrastructure automation and DevOps orchestration

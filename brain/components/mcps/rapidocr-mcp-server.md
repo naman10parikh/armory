@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T06:39:22Z"
 ---
 ## What it is
 High-performance OCR MCP server supporting multiple input modes (path, base64, URL, upload), batch processing, and output formats like plain, JSON, and Markdown.

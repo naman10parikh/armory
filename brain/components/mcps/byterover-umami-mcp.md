@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T02:56:56Z"
 ---
 ## What it is
 A read-only MCP server for Umami analytics, enabling natural language queries of website stats, traffic trends, events, sessions, and analytics reports.

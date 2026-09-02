@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:30:40Z"
 ---
 ## What it is
 Manage real email through Mektup - register domains, get DNS records, create IMAP/SMTP mailboxes, send and read mail, and manage drafts, contacts, folders, forwarding, and auto-replies, all as native tool calls backed by Mektup's live REST API.

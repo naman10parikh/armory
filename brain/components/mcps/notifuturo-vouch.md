@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T20:12:20Z"
 ---
 ## What it is
 MCP server `Vouch`, catalogued on PulseMCP. Trust and risk scoring for AI agent payment counterparties — free via MCP, paid via x402.

@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-11-24T07:13:06Z"
 ---
 ## What it is
 MCP server `Code Mode`, catalogued on PulseMCP. Sandboxed Python code execution with DSpy-powered reasoning that orchestrates external tools through generated code, featuring configurable security policies and timeout handling.

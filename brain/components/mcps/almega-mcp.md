@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T10:18:12Z"
 ---
 ## What it is
 A wallet and guardrail for AI agents, enabling spending limits, payment approvals, and real-time ledger tracking via memory or Stripe backends.

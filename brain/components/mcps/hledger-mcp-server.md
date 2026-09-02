@@ -8,11 +8,13 @@ source_url: https://github.com/iiAtlas/hledger-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-02-28T18:51:46Z"
 ---
 ## What it is
 Provides AI assistants with direct access to HLedger accounting data and functionality, enabling natural language queries for balances, reports, journal entries, and financial analysis.

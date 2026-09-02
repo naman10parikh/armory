@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:49:51Z"
 ---
 ## What it is
 Prevents accidental removal of protected historical behavior by analyzing git history and recorded decisions, blocking commits that remove critical logic.

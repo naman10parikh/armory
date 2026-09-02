@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T13:05:44Z"
 ---
 ## What it is
 Enables any MCP-compatible AI agent to browse, negotiate, purchase, message, and transact on the Kabuzz resale marketplace without writing REST integration code.

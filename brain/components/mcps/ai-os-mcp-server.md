@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:49:28Z"
 ---
 ## What it is
 Exposes a Notion-synced AI OS as read-only MCP tools, enabling MCP-compatible AI clients to search the vault, fetch page contents, list projects, and check project statuses without scraping public links.

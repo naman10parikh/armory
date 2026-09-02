@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-03-19T05:18:28Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Provides a bridge to the Slack API, enabling message posting and user list retrieval for workspace interactions through a TypeScript implementation.

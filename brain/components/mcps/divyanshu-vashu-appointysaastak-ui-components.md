@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-18T16:42:28Z"
 ---
 ## What it is
 MCP server `AppointySaastak UI Components`, catalogued on PulseMCP. Provides a resource-based interface for accessing and utilizing UI components from the AppointySaastak library, serving login interface templates with associated HTML, CSS, and JavaScript files for streamlined development workflows.

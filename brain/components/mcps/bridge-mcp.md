@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T02:17:02Z"
 ---
 ## What it is
 A Model Context Protocol server that gives any AI full control over a Windows PC, enabling application control, mouse/keyboard automation, screen capture, browser automation, and more.

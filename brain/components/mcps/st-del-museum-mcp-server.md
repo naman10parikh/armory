@@ -8,11 +8,13 @@ source_url: https://github.com/topoftheblock/staedel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:59:02Z"
 ---
 ## What it is
 This server enables AI models to access the Städel Museum's digital collection via OAI-PMH, allowing harvesting of records, retrieval of multilingual metadata, and fetching of high-resolution images.

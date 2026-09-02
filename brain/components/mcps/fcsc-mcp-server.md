@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:03:12Z"
 ---
 ## What it is
 Exposes official UAE statistics from the Federal Competitiveness and Statistics Centre (FCSC) as callable tools, enabling AI assistants to discover datasets and fetch labelled data via the FCSC SDMX API.

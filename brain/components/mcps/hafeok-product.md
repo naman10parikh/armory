@@ -8,10 +8,12 @@ source_url: https://github.com/hafeok/product-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-28T10:36:22Z"
 ---
 ## What it is
 MCP server `Product`, catalogued on PulseMCP. Product spec knowledge graph MCP for managing features, architectural decisions, and test cases as a structured graph.

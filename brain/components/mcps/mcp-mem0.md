@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:15:38Z"
 ---
 ## What it is
 An MCP server for mem0 memory management backed by Qdrant, with per-collection isolation via HTTP headers. Enables storing, searching, updating, and deleting memories through natural language.

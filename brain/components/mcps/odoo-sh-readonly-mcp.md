@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:28:28Z"
 ---
 ## What it is
 Read-only MCP server for Odoo.sh exposing builds, environments, logs, and system status via Web API and SSH without any write capabilities.

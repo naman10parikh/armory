@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:53:38Z"
 ---
 ## What it is
 Demo MCP server for a banking use case that returns raw PII payloads to demonstrate external PII guardrails with OpenShift AI/NeMo Guardrails.

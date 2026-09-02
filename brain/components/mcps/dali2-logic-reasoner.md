@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:24:33Z"
 ---
 ## What it is
 MCP server that exposes the DALI2-Agent-Brain symbolic verification system as tools, allowing MCP clients to submit reasoning problems for formal Prolog-based verification.

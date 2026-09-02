@@ -8,11 +8,13 @@ source_url: https://github.com/lancedb/lancedb-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-04-25T07:14:52Z"
 ---
 ## What it is
 A basic serverless MCP server using LanceDB to store and retrieve documents via three tools: ingest, retrieve, and get table details.

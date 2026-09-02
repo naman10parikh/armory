@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T16:54:06Z"
 ---
 ## What it is
 MCP server `Reacticx`, catalogued on PulseMCP. Provides documentation access for the Reacticx React Native component library with 90+ animated components and installation helpers.

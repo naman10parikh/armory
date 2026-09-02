@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:12:22Z"
 ---
 ## What it is
 Fabrication-free, DOI-backed citations for AI content and agents, using openAlex public-domain data with resolvable DOIs. Includes an API and planned MCP server for agent-native citation retrieval.

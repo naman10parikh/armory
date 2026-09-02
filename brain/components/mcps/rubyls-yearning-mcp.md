@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T08:19:26Z"
 ---
 ## What it is
 MCP server for Yearning SQL review platform, enabling read-only queries, ticket management (submit, audit, undo, rollback), query applications, comments, and data source/table exploration via REST/WebSocket APIs.

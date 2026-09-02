@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:29:33Z"
 ---
 ## What it is
 Enables controlling and monitoring a Buva EcoStream WTW ventilation unit via natural language, including reading air quality data and adjusting fan settings.

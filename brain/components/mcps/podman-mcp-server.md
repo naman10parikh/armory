@@ -8,11 +8,13 @@ source_url: https://github.com/manusa/podman-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-08-21T03:57:59Z"
 ---
 ## What it is
 MCP server for Podman and Docker container runtimes, enabling management of containers, images, networks, and volumes via AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:24:11Z"
 ---
 ## What it is
 Enables deep web research and report generation through an MCP interface, providing tools for comprehensive research, quick search, and source management.

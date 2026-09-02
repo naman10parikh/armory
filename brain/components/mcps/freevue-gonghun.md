@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T07:17:46Z"
 ---
 ## What it is
 MCP server `Korean Independence Merit Records`, catalogued on PulseMCP. Searches and retrieves Korean independence merit records from the national veterans affairs database.

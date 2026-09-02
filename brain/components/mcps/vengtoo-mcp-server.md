@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:42:27Z"
 ---
 ## What it is
 Enables management of Vengtoo authorization models, including resource types, subjects, roles, policies, and access checks, through MCP-compatible AI tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T09:56:29Z"
 ---
 ## What it is
 An open-source MCP server that automates project customization by analyzing your codebase and generating AI-ready configuration files based on industry best practices.

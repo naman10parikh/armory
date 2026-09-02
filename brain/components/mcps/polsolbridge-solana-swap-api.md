@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T14:03:00Z"
 ---
 ## What it is
 Non-custodial crypto swaps for AI agents: Solana (Jupiter) + 7 EVM chains (KyberSwap), 1288+ assets, cross-chain routing, priority-fee oracle, Hyperliquid perps. Returns unsigned transactions — your wallet signs, no API key, no KYC. Hosted at https://swaptitan.net/mcp

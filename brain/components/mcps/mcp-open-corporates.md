@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:34Z"
 ---
 ## What it is
 OpenCorporates MCP provides free, no-auth access to global company registry data with rate limiting, enabling AI agents to look up company information.

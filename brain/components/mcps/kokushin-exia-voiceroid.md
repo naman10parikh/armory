@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-26T16:47:01Z"
 ---
 ## What it is
 MCP server `Exia Voiceroid`, catalogued on PulseMCP. Bridges AI models with Voiceroid text-to-speech system to generate structured explanation scenarios for automated narration content.

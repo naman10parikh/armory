@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T22:30:08Z"
 ---
 ## What it is
 Bridges MCP-compatible AI clients to over 100 Hermes Agent skills for web browsing, file management, code execution, GitHub operations, and more.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-14T16:11:37Z"
 ---
 ## What it is
 MCP server `Software Planning`, catalogued on PulseMCP. Enables systematic software project planning by breaking down complex tasks into manageable components, defining project structures, and creating implementation roadmaps through a Python-based FastMCP framework deployable via Docker or locally.

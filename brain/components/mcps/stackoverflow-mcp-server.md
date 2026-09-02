@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-22T11:10:46Z"
 ---
 ## What it is
 Enables AI assistants to search and access Stack Overflow content, including questions, answers, and error solutions.

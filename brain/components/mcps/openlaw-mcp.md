@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T07:20:58Z"
 ---
 ## What it is
 OpenLawMCP is an open-source legal AI research tool built to make AI-assisted legal research more reliable. A major problem with using AI for legal research is that it can give confident answers without showing whether the answer is grounded in real legal sources. For legal work, that creates a cred

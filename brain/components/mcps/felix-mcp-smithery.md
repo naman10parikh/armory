@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T07:41:54Z"
 ---
 ## What it is
 A lightweight MCP server with greeting, random number, weather, and OpenAI-powered text summarization tools, deployable on Smithery.

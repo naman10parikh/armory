@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T22:02:52Z"
 ---
 ## What it is
 Enables AI models to search, browse, and retrieve full content of OpenCode documentation pages.

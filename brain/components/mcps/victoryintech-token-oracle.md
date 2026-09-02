@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T03:38:03Z"
 ---
 ## What it is
 MCP server `TokenOracle`, catalogued on PulseMCP. LLM cost estimation, model comparison, and budget-aware routing for AI agent workflows.

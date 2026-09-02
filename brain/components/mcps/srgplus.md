@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-14T07:19:24Z"
 ---
 ## What it is
 MCP server `SRG+`, catalogued on PulseMCP. Manage SRG+ hubs, channels, content, assets, users, and workspaces from any MCP-aware AI agent.

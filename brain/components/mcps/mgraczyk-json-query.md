@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-20T00:42:56Z"
 ---
 ## What it is
 MCP server `JSON Query`, catalogued on PulseMCP. Provides tools for efficiently querying, searching, and extracting specific information from large JSON files without processing entire structures

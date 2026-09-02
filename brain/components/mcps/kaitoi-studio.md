@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T21:29:02Z"
 ---
 ## What it is
 MCP server `Kaitoi Studio`, catalogued on PulseMCP. Build and run visual creative-production workflows from AI agents via the Kaitoi Studio workflow engine.

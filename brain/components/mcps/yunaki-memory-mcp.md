@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:37:45Z"
 ---
 ## What it is
 A git-backed per-repo memory layer for Claude Code, enabling persistent, version-controlled storage and retrieval of memories to build a self-evolving skill.

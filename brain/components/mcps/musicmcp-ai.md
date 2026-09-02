@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-16T13:41:36Z"
 ---
 ## What it is
 MCP server `MusicMCP.AI`, catalogued on PulseMCP. Integrates with the MusicMCP.AI platform to generate songs and musical content directly within conversations through specialized music generation models.

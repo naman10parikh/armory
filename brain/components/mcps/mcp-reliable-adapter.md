@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:19:43Z"
 ---
 ## What it is
 An MCP server that reliably accepts support tickets even during downstream SaaS outages, using transactional outbox, idempotency, retries, dead-letter handling, and an audit trail.

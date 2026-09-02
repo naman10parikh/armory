@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-04-09T01:55:10Z"
 ---
 ## What it is
 Cross-platform system automation tool enabling AI to control mouse, keyboard, screen, windows, and query system info via MCP.

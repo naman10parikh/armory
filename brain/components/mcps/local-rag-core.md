@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T13:50:30Z"
 ---
 ## What it is
 A headless local knowledge library and RAG substrate that enables LLM clients to search, retrieve chunks, and list documentation packs through read-only MCP tools.

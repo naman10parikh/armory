@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:08:27Z"
 ---
 ## What it is
 Enables agents to search, create, edit, and step through JSON-based procedures with intent-driven search and step-by-step execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T04:46:44Z"
 ---
 ## What it is
 Let your AI agent notify you via email, Slack, Discord, or webhook using a single tool.

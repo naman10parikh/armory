@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-09T23:58:48Z"
 ---
 ## What it is
 MCP server for controlling Ghostty terminal emulator, enabling configuration management, theme control, command execution, and window management.

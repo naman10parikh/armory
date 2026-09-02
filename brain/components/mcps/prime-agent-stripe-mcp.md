@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:04:59Z"
 ---
 ## What it is
 A Prime Agent skill that connects to Stripe's official remote MCP server to inspect and manage Stripe resources via OAuth.

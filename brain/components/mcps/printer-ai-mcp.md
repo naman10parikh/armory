@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-10T15:19:05Z"
 ---
 ## What it is
 A cross-platform MCP server that enables AI assistants to manage printers, query printer status, and print files on Windows, macOS, and Linux.

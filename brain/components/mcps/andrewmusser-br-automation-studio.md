@@ -8,10 +8,12 @@ source_url: https://github.com/andrewmusser/br-automation-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-19T13:46:26Z"
 ---
 ## What it is
 MCP server `B&R Automation Studio`, catalogued on PulseMCP. Bridges B&R Automation Studio industrial control systems with development tools for building projects, launching ARsim simulators, and reading/writing OPC UA variables for real-time system interaction and monitoring.

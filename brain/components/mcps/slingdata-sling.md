@@ -8,10 +8,12 @@ source_url: https://github.com/slingdata-io/sling-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-09-01T01:29:23Z"
 ---
 ## What it is
 MCP server `Sling`, catalogued on PulseMCP. Data integration tool for querying databases, running data pipelines, and managing replications across 30+ systems

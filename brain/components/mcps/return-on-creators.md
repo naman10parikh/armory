@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T17:30:52Z"
 ---
 ## What it is
 MCP server `Return on Creators`, catalogued on PulseMCP. TikTok Shop creator commerce intelligence with category benchmarks, ROC projections, and brand fit analysis.

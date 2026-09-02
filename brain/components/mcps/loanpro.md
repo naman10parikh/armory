@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T14:35:49Z"
 ---
 ## What it is
 MCP server `LoanPro`, catalogued on PulseMCP. Integrates with the LoanPro lending platform API to access loan management data, customer information, payment history, and loan portfolio details for financial services workflows.

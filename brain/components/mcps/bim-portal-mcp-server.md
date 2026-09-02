@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-23T12:03:14Z"
 ---
 ## What it is
 A comprehensive MCP server implemented in TypeScript that provides access to the German BIM Portal REST API, enabling querying of organizations, building properties, LOINs, domain models, and AIA resources through natural language.

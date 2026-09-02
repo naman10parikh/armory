@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-03-04T04:48:24Z"
 ---
 ## What it is
 MCP server `Fireflies`, catalogued on PulseMCP. Integrates with Fireflies.ai API to enable retrieval, search, and summarization of meeting transcripts for natural language processing of meeting content.

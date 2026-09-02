@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:10:52Z"
 ---
 ## What it is
 MCP server for Claude Code that enables image generation and editing via Azure AI Foundry's MAI Image API, writing files to disk and returning only the path.

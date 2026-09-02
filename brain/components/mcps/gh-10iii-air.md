@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T16:10:57Z"
 ---
 ## What it is
 MCP server `Air`, catalogued on PulseMCP. AI-optimized tool output compression for read, grep, diff, bash, test, web, search, and command outputs.

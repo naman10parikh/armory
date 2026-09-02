@@ -8,10 +8,12 @@ source_url: https://github.com/ofershap/mcp-server-cloudflare
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-09T19:14:53Z"
 ---
 ## What it is
 MCP server `Cloudflare Workers & DNS`, catalogued on PulseMCP. Manage Cloudflare Workers, KV, R2, Pages, DNS records, and cache purging from your IDE.

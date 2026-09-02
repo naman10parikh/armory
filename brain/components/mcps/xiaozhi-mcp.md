@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:43:46Z"
 ---
 ## What it is
 A local MCP server framework for connecting custom tools to the xiaozhi AI voice agent, with built-in calculator and web search (via SerpApi) tools.

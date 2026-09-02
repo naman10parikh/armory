@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:20:17Z"
 ---
 ## What it is
 Local MCP server for controlling Ansys Lumerical FDTD from Codex.

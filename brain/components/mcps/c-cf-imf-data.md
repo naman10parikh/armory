@@ -8,10 +8,12 @@ source_url: https://github.com/c-cf/imf-data-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-05T17:56:53Z"
 ---
 ## What it is
 MCP server `IMF Data`, catalogued on PulseMCP. Provides structured access to International Monetary Fund datasets, enabling retrieval of economic indicators and financial statistics for research and analysis workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/v587d/insightslibrary
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-30T11:10:22Z"
 ---
 ## What it is
 MCP server `InsightsLibrary`, catalogued on PulseMCP. Provides access to over 10,000 curated business insight reports stored locally with intelligent search capabilities including keyword matching, publisher filtering, date range queries, and full-text content retrieval for research workflows and market analysis.

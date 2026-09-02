@@ -8,10 +8,12 @@ source_url: https://github.com/randomparity/rusty-imap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T18:10:14Z"
 ---
 ## What it is
 MCP server `Rusty IMAP`, catalogued on PulseMCP. Security-first IMAP email MCP server written in Rust with prompt-injection defenses.

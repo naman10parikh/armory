@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-24T16:33:23Z"
 ---
 ## What it is
 Enables LLMs to analyze and manage DBOS workflows, including introspection, workflow management, and authentication, to help debug applications in development or production.

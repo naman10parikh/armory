@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:19:22Z"
 ---
 ## What it is
 An MCP server that enforces disciplined Git workflows by planning coding tasks into small, test-gated commits, ensuring tests pass before staging and preventing out-of-scope or oversized changes.

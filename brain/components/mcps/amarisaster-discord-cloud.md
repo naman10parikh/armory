@@ -8,10 +8,12 @@ source_url: https://github.com/amarisaster/discord-cloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-21T12:54:47Z"
 ---
 ## What it is
 MCP server `Discord Cloud`, catalogued on PulseMCP. Discord bot automation server deployed on Cloudflare Workers that provides complete Discord API access through 20+ tools for server management, messaging, reactions, channels, forums, threads, and webhooks with advanced features like custom avatar messaging and bulk operations.

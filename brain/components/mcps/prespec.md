@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:23:47Z"
 ---
 ## What it is
 An MCP server that provides curated test cases and behavior specifications for common software features, enabling AI coding agents to define acceptance criteria before writing code.

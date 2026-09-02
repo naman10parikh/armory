@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-20T19:14:17Z"
 ---
 ## What it is
 Enables AI assistants to interact with Anki flashcard collections through the AnkiConnect add-on, allowing creation, modification, searching, and management of flashcards and decks.

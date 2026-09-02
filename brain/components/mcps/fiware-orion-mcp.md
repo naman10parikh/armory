@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T22:27:29Z"
 ---
 ## What it is
 MCP server for FIWARE Orion Context Broker enabling LLMs to manage NGSI-v2 context entities like IoT devices, sensors, and vehicles.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T12:06:59Z"
 ---
 ## What it is
 Provides cryptocurrency market data, account management, and trading on Binance USDT-M perpetual contracts via MCP, with a local audit system for transaction recording.

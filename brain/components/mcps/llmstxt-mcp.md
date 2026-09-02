@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T12:11:56Z"
 ---
 ## What it is
 用于管理远程llms.txt文档的MCP服务器，支持添加、编辑、删除、列出和获取llms.txt文档内容。

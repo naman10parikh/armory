@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-08T13:49:51Z"
 ---
 ## What it is
 MCP server `Microsoft Edit`, catalogued on PulseMCP. Provides file editing capabilities through Microsoft Edit integration, combining direct file system operations for simple tasks with Edit process management for complex editing scenarios, enabling reading, writing, listing files, finding text patterns, formatting code, and performing find-and-replace operations across multiple files.

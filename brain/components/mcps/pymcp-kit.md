@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T16:26:15Z"
 ---
 ## What it is
 A capability-first MCP server toolkit for FastAPI that supports Streamable HTTP and stdio transports, with registries for tools, prompts, and resources, plus optional auth hooks and task management.

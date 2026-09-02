@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:33:50Z"
 ---
 ## What it is
 Enables interactive exploration of guitar chord voicings through an MCP server that provides tools for showing, evaluating, and analyzing chord voicings, with a host-agnostic UI widget for inline fretboard rendering.

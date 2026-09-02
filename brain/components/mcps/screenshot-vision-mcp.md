@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:12:53Z"
 ---
 ## What it is
 An MCP server that captures screenshots of URLs or local app windows and analyzes them with a local Ollama vision model, enabling Claude to visually inspect web pages and desktop applications without sending image data externally.

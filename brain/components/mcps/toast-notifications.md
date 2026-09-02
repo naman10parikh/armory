@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-06T07:45:19Z"
 ---
 ## What it is
 MCP server `Toast Notifications`, catalogued on PulseMCP. Provides cross-platform desktop notifications for important events or task completions using native Windows and macOS APIs.

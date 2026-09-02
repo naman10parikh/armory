@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:42:43Z"
 ---
 ## What it is
 Local-first speech-to-text and text-to-speech MCP server. Hot-swappable engines via config.yaml — no code changes, no API keys required.

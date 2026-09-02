@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T22:38:59Z"
 ---
 ## What it is
 Read-only MCP server that runs inside Calibre as a plugin, exposing the live Calibre library for inspection, search, metadata, and duplicate detection via Streamable HTTP.

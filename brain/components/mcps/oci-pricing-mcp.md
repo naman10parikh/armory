@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-03T22:48:05Z"
 ---
 ## What it is
 Provides Oracle Cloud Infrastructure pricing data to AI assistants, enabling cost estimation, shape comparison, and real-time pricing queries.

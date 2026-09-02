@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-14T08:43:59Z"
 ---
 ## What it is
 MCP server for interacting with Keepit backup and data protection services. Enables monitoring, management, and security operations through natural language.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T15:13:17Z"
 ---
 ## What it is
 MCP server `Remote Exec Gateway`, catalogued on PulseMCP. Provides a secure remote execution gateway for running commands on remote systems via MCP.

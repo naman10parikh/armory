@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-dir/astrea-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T19:38:49Z"
 ---
 ## What it is
 MCP server for read-only queries and reports from the Astrea (Aurum) legal software. Enables retrieving case information by client, new cases per month, tags, financials (fees/expenses), schedule (hearings, meetings, deadlines, tasks), and case updates for client reports.

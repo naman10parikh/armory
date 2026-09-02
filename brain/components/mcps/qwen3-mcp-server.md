@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T05:59:57Z"
 ---
 ## What it is
 Multi-model MCP server enabling code generation, visual analysis, and complex reasoning via Qwen3 models.

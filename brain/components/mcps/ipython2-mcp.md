@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:25:52Z"
 ---
 ## What it is
 Enables running Python 2 IPython sessions via MCP, with tools to install dependencies, start/stop sessions, execute code, and get tab completion.

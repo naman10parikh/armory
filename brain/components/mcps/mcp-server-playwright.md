@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 51
+pushed_at: "2025-06-05T21:48:28Z"
 ---
 ## What it is
 A Model Context Protocol server that provides browser automation capabilities using Playwright, enabling LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment.

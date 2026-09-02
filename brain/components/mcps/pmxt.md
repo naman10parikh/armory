@@ -8,10 +8,12 @@ source_url: https://github.com/pmxt-dev/pmxt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-18T01:45:07Z"
 ---
 ## What it is
 MCP server `PMXT`, catalogued on PulseMCP. Unified prediction market API covering Polymarket, Kalshi, Limitless, and other exchanges for market queries and trading.

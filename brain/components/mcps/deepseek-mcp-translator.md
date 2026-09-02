@@ -8,11 +8,13 @@ source_url: https://github.com/VinceYann/deepseek-mcp-translator
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:15:40Z"
 ---
 ## What it is
 A local HTTP proxy and MCP server that translates 'developer' role messages to 'system' for DeepSeek API, enabling Android Studio AI plugins to work without errors.

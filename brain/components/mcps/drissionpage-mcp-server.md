@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-09-03T13:18:41Z"
 ---
 ## What it is
 基于 DrissionPage 的模型上下文协议 (MCP) 服务，为 AI 助手提供强大的浏览器自动化能力。

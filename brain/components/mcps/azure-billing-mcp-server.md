@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T13:51:54Z"
 ---
 ## What it is
 MCP server for Azure cost analysis via the Azure Cost Management Query API, deployed to Google Cloud Run for use with Gemini Enterprise.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:14:42Z"
 ---
 ## What it is
 Enables MCP clients to search, read, and inspect Apple Mail on macOS, including conversations and attachments. It can create new, reply, reply-all, or forward drafts, but cannot send or modify existing messages.

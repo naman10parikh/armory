@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-01-18T16:51:53Z"
 ---
 ## What it is
 MCP server `ResoniteLink`, catalogued on PulseMCP. Integrates with Resonite VR platform through WebSocket protocol to enable real-time 3D object manipulation, scene creation, component management, and automated world building.

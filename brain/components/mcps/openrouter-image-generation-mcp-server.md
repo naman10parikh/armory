@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-07T15:51:37Z"
 ---
 ## What it is
 Enables image generation via OpenRouter API, supporting models like Gemini 2.5 Flash Image Preview with options to save files locally.

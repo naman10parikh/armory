@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-29T04:35:54Z"
 ---
 ## What it is
 MCP server `Elenchus`, catalogued on PulseMCP. Orchestrates multi-round code review sessions between verifier and critic roles to systematically identify security, correctness, reliability, maintainability, and performance issues through automated verification loops with differential analysis and confidence scoring.

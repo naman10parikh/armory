@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T01:25:12Z"
 ---
 ## What it is
 MCP server `UPS`, catalogued on PulseMCP. Unofficial MCP server for UPS shipping and logistics APIs, supporting shipment creation, tracking, rate quotes, address validation, and pickup scheduling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:17:47Z"
 ---
 ## What it is
 Enables reading and exporting password-protected ShowDoc projects as Markdown through MCP tools, including probing access, listing pages, reading individual pages, full project export, and file export.

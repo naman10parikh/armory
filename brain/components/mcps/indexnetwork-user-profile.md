@@ -8,10 +8,12 @@ source_url: https://github.com/indexnetwork/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-22T02:17:11Z"
 ---
 ## What it is
 MCP server `Index Network User Profile`, catalogued on PulseMCP. Stores user preferences, display names, pronouns, and notes in volatile memory with explicit consent validation, enabling personalized interactions without persistent data retention.

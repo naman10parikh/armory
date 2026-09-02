@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-24T04:49:17Z"
 ---
 ## What it is
 Enables AI assistants to perform autonomous binary analysis, malware inspection, firmware analysis, and reverse engineering workflows through a production-ready Python MCP server connected to the ImHex hex editor.

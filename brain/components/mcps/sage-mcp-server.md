@@ -8,11 +8,13 @@ source_url: https://github.com/waggle-sensor/sage-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-07T14:17:09Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with the Sage Grande Testbed, enabling users to query sensor data, submit jobs, and manage Sage nodes through natural language.

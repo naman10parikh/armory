@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T18:11:07Z"
 ---
 ## What it is
 Enables AI agents to auto-load a persistent skill library at session start, and provides proxy tools for MiniMax vision and web search that work around broken MCP stdio transports.

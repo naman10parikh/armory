@@ -8,10 +8,12 @@ source_url: https://github.com/motherduckdb/mcp-server-motherduck
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 484
+stars: 516
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 84
+pushed_at: "2026-08-19T17:04:10Z"
 ---
 ## What it is
 MCP server `MotherDuck & DuckDB`, catalogued on PulseMCP. Integrates MotherDuck and local DuckDB databases for flexible querying and analysis of structured data in MCP-compatible environments.

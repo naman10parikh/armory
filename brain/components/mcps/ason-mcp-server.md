@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-16T21:21:31Z"
 ---
 ## What it is
 Enables compression and decompression of JSON data using the token-optimized ASON format, reducing token usage by 20-60% for LLM applications.

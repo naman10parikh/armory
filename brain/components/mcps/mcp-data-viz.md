@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:10:30Z"
 ---
 ## What it is
 A data visualization MCP server built on FastMCP, providing 32 tools for chart generation, report building, and data processing.

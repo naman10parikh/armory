@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T01:18:58Z"
 ---
 ## What it is
 Your AI running coach that actually remembers. An MCP server with persistent memory that connects your Strava data to Claude — tracking your zones, pace trends, injuries, and goals across sessions so coaching advice stays current.

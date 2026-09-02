@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T05:32:01Z"
 ---
 ## What it is
 Exposes LiteLLM Proxy admin APIs as MCP tools for managing internal users, virtual keys, and spend logs via streamable-http, enabling agents to administer LiteLLM without custom HTTP glue.

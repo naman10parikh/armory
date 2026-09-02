@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T11:31:01Z"
 ---
 ## What it is
 Enables AI assistants to search, filter, and extract job listings from LinkedIn using an automated headless browser, returning structured data such as salary, skills, and applicant counts.

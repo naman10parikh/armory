@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:31:19Z"
 ---
 ## What it is
 MCP server for orchestrating coding tasks with frontier-model planning and local execution, enabling manifest validation, plan submission, status checks, cancellation, and report retrieval through Claude Code.

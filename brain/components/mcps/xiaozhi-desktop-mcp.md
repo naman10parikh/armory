@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:53:18Z"
 ---
 ## What it is
 A desktop MCP service that integrates voice assistants into Mac workflows, enabling Obsidian memory, app control, Claude Code sessions, pending actions, and multi-language HTTP access.

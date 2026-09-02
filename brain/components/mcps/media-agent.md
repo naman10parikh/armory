@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T08:03:32Z"
 ---
 ## What it is
 MCP server that gives AI agents video parsing and downloading capabilities, offering tools to extract video info, list formats, and download videos from sites like Bilibili and YouTube via yt-dlp.

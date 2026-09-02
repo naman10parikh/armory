@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:55:53Z"
 ---
 ## What it is
 A read-only MCP server for YNAB budgeting data, enabling daily/weekly/monthly expense reviews and planning support via Claude Desktop or Claude Code.

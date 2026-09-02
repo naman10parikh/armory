@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:23:00Z"
 ---
 ## What it is
 Wraps the Korean Public Procurement Service's bid award information API, enabling users to query bid results, openings, and detailed execution data.

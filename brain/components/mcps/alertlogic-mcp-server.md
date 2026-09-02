@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:58:13Z"
 ---
 ## What it is
 Brings the full AlertLogic MDR platform into AI assistants, exposing 473+ tools for incident response, log search, SOAR automation, and multi-account security operations at MSSP scale.

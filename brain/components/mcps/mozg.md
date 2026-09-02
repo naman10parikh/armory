@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T05:49:31Z"
 ---
 ## What it is
 mozg turns documentation into knowledge brains your agent queries over MCP instead of loading whole files into context. What makes it different: every brain sits an exam. Its goal becomes ~30 control questions, re-sat after every ingest — so 'trained 92%' is measured, not claimed, and the failing qu

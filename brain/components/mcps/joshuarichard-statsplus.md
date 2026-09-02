@@ -8,10 +8,12 @@ source_url: https://github.com/joshuarichard/statsplus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T19:41:47Z"
 ---
 ## What it is
 MCP server `StatsPlus`, catalogued on PulseMCP. Reads and analyzes OOTP Baseball StatsPlus league data from HTML export files for player statistics, standings, and league information.

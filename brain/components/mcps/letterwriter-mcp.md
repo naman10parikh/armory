@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:19:41Z"
 ---
 ## What it is
 Generates DOCX letters on your organization's letterhead via MCP, returning the document as an attachment. Supports custom letterhead templates and an office registry for multi-office organizations.

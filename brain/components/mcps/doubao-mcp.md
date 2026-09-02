@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:20:35Z"
 ---
 ## What it is
 MCP server providing zero-cost visual analysis and Q&A through Doubao web (web.doubao.com), using Playwright/CDP to control Chrome and extract AI responses.

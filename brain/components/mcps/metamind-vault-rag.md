@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:57:39Z"
 ---
 ## What it is
 MCP server for hybrid retrieval over markdown vaults, combining sqlite-vec embeddings and FTS5 keywords with reciprocal rank fusion, plus optional cross-encoder reranking.

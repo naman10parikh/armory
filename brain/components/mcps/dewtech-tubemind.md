@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T12:09:14Z"
 ---
 ## What it is
 MCP server `TubeMind`, catalogued on PulseMCP. Secure YouTube intelligence — 18 tools with OAuth2 and OWASP Top 10 security controls.

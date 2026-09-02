@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 4
+forks: 0
+pushed_at: "2026-02-20T08:19:08Z"
 ---
 ## What it is
 MCP Server for skill4agent - Search, view, and install AI skills in AI conversations.

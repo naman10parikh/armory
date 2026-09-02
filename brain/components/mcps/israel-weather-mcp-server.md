@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T22:00:07Z"
 ---
 ## What it is
 Provides LLMs with real-time weather forecasts for Israeli cities using browser automation with Playwright to scrape live data from a weather website.

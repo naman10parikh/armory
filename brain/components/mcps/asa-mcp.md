@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:08Z"
 ---
 ## What it is
 Connect your ASA account to Claude, ChatGPT, and AI agents via Open Finance Brazil. Read balances, statements, credit card invoices, and investments using natural language.

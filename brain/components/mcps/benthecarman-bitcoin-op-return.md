@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T21:45:30Z"
 ---
 ## What it is
 MCP server `Bitcoin OP_RETURN`, catalogued on PulseMCP. Integrates with Bitcoin's blockchain through Lightning Network payments, enabling permanent embedding of custom messages in OP_RETURN outputs and retrieval of previously stored blockchain data.

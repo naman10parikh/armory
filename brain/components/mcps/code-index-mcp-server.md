@@ -8,11 +8,13 @@ source_url: https://github.com/trondhindenes/code-index-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-30T18:33:12Z"
 ---
 ## What it is
 An MCP server for fast local source code searching using Zoekt, enabling regex and substring queries across indexed directories.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:00:31Z"
 ---
 ## What it is
 A local MCP server that provides a shared, private memory for multiple AI tools, enabling cross-model recall and automatic session ingestion.

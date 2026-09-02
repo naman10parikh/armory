@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T20:49:50Z"
 ---
 ## What it is
 MCP server that analyzes job descriptions for ATS compatibility, red flags, salary benchmarks, and keyword optimization. Accepts $0.01 USDC per request via x402 protocol.

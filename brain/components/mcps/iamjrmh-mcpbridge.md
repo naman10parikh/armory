@@ -8,10 +8,12 @@ source_url: https://github.com/iamjrmh/mcpbridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-20T18:26:09Z"
 ---
 ## What it is
 MCP server `MCPBridge`, catalogued on PulseMCP. Bridge connecting Claude Code and Ollama to Roblox Studio and Blender for AI-assisted game and 3D development.

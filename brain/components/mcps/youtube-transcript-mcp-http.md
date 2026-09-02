@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T05:50:47Z"
 ---
 ## What it is
 Enables retrieval of YouTube video transcripts/subtitles and titles using yt-dlp, with automatic subtitle conversion to reduce tokens. Supports Streamable HTTP transport for easy integration with frontends like OpenWebUI and Odysseus.

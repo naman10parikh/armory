@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:12:09Z"
 ---
 ## What it is
 Policy-aware MCP server for Proxmox VE that maps the official API schema to MCP tools, enabling node health, disk, network, journal, updates, guest configuration, snapshots, backups, consoles, task lifecycle, service, command, and file-transfer operations with role-based access control.

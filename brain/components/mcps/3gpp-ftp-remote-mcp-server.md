@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T16:29:53Z"
 ---
 ## What it is
 A read-only MCP server for browsing public files from the 3GPP FTP service, providing search and fetch tools to explore directories and download files.

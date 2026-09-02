@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-01T16:29:02Z"
 ---
 ## What it is
 MCP server `DALL-E Image Generator`, catalogued on PulseMCP. Integrates DALL-E 3 for on-demand generation of custom images from text prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:59:33Z"
 ---
 ## What it is
 Search fossil occurrences, resolve taxon fossil ranges, plot diversity through deep time, and look up the geologic time scale via MCP.

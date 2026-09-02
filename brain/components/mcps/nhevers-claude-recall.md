@@ -8,10 +8,12 @@ source_url: https://github.com/nhevers/moltbrain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 250
+stars: 253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-03-25T10:39:37Z"
 ---
 ## What it is
 MCP server `Claude Recall`, catalogued on PulseMCP. Persistent memory system for Claude Code that automatically captures session context, stores observations in SQLite with vector search, and injects relevant history into future coding sessions to maintain continuity across development workflows.

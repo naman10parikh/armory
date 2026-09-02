@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T15:22:41Z"
 ---
 ## What it is
 Enables AI assistants to manage VPS servers, domains, DNS records, and SSH keys through the VPS.org API via natural language.

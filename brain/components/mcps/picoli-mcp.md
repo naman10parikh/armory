@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T00:48:28Z"
 ---
 ## What it is
 Enables URL shortening, click tracking, and analytics for AI agents via the picoli.site API.

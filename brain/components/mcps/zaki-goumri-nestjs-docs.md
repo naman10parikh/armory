@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T18:30:52Z"
 ---
 ## What it is
 MCP server `NestJS Docs`, catalogued on PulseMCP. Provides access to NestJS framework documentation through web scraping, enabling search across API references, code examples, best practices, and package information.

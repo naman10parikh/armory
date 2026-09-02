@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T11:45:05Z"
 ---
 ## What it is
 Enables AI agents to create temporary email inboxes and wait for OTPs, magic links, or password reset emails via AgentTemp's API, useful for automation and verification workflows.

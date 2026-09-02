@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:28:52Z"
 ---
 ## What it is
 Exposes Iceberg-backed ontology objects, links, and actions as typed MCP tools for LLM agents, enabling governed data access and operations without raw SQL.

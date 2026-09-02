@@ -8,11 +8,13 @@ source_url: https://github.com/joshuarichard/StatsPlus-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T19:41:47Z"
 ---
 ## What it is
 Exposes the StatsPlus API as tools for MCP-compatible clients, enabling users to query player/team statistics, contracts, ratings, and game history via natural language.

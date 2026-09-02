@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-19T17:12:06Z"
 ---
 ## What it is
 MCP server `TraceUI`, catalogued on PulseMCP. Statically analyze React and Next.js components to extract state, hooks, effects, API calls, and cross-file dependencies without running the app.

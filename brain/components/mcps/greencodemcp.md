@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:13:49Z"
 ---
 ## What it is
 An MCP server that detects energy anti-patterns in Python code, retrieves optimization examples, suggests refactoring, validates correctness, and benchmarks resource gains, integrating with VS Code, Cursor, and Windsurf.

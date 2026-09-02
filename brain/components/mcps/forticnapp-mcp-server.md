@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:44:52Z"
 ---
 ## What it is
 MCP server for managing Fortinet FortiCNAPP via AI agents, enabling vulnerability scanning, agent management, and compliance monitoring.

@@ -8,10 +8,12 @@ source_url: https://github.com/nirholas/ucai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-17T03:03:07Z"
 ---
 ## What it is
 MCP server `ABI to MCP`, catalogued on PulseMCP. Generates MCP servers from smart contract ABIs for blockchain interaction.

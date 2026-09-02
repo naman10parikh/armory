@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:02:56Z"
 ---
 ## What it is
 Connect AI assistants and scripts to LetDraw to read and author diagrams via MCP or REST, including creating diagrams from code, exporting to Mermaid/D2, and sharing read-only links.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T23:28:58Z"
 ---
 ## What it is
 Connects AI coding assistants to Roblox Studio, enabling direct manipulation of the DataModel through natural language commands with undo support.

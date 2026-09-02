@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-17T12:08:42Z"
 ---
 ## What it is
 Provides market data and user position information from earn providers like AAVE, enabling queries on APRs and deposits across multiple blockchain networks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T10:02:55Z"
 ---
 ## What it is
 An MCP server that wraps DrissionPage to provide comprehensive browser automation tools, including tab management, element interaction, network capture, and more, with AI-friendly tool descriptions and 255 unit tests.

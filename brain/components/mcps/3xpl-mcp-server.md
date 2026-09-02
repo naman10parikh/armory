@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-13T11:41:48Z"
 ---
 ## What it is
 Enables LLMs to interact with blockchain data across 48 networks via the 3xpl JSON API, supporting tools for transactions, addresses, blocks, and more.

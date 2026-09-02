@@ -8,10 +8,12 @@ source_url: https://github.com/datastrato/mcp-server-gravitino
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-07-03T02:02:29Z"
 ---
 ## What it is
 MCP server `Apache Gravitino`, catalogued on PulseMCP. Integrates with Apache Gravitino to provide direct access to metadata services for exploring, tagging, and managing catalogs, schemas, tables, and user roles across data assets without switching workflows.

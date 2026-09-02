@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, status-lines]
+forks: 35
+pushed_at: "2026-08-01T21:35:45Z"
 ---
 ## What it is
 Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring

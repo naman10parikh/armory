@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:43:37Z"
 ---
 ## What it is
 Let your agent control your steam client. e.g. "pick a strategy game from my library and launch it"

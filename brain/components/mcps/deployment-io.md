@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T07:25:38Z"
 ---
 ## What it is
 MCP server `Deployment.io`, catalogued on PulseMCP. Deploy apps on your cloud with environment provisioning, infrastructure config, and job monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:07:06Z"
 ---
 ## What it is
 Exposes a Model Context Protocol interface to a growth and revenue API, enabling MCP clients to manage account data and interact with platform tools through natural-language-driven tool calls.

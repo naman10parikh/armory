@@ -8,10 +8,12 @@ source_url: https://github.com/coret/openarchieven-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-31T21:16:01Z"
 ---
 ## What it is
 MCP server `Open Archieven`, catalogued on PulseMCP. Searches Dutch and Belgian genealogical archives for historical person records.

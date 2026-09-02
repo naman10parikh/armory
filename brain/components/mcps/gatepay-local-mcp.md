@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-01T01:36:41Z"
 ---
 ## What it is
 A local MCP server for handling X402 payment-protected HTTP endpoints, offering tools for order placement, signing, and payment submission with multiple signing modes and blockchain networks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T14:34:46Z"
 ---
 ## What it is
 Enables AI assistants to interact with P4 Plan project management data via GraphQL API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T14:06:15Z"
 ---
 ## What it is
 A PostgreSQL MCP server with AST-based security for safe database operations. Enables AI assistants to query and manage PostgreSQL databases securely.

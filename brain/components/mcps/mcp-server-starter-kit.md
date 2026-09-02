@@ -8,11 +8,13 @@ source_url: https://github.com/tysoncung/mcp-server-starter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T02:13:55Z"
 ---
 ## What it is
 A minimal Model Context Protocol server starter in TypeScript that enables building custom AI tools for assistants like Claude and Cursor, with a single example tool and easy setup.

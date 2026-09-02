@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-25T23:07:55Z"
 ---
 ## What it is
 MCP server for interacting with Mural's public API, enabling browsing and management of workspaces, rooms, murals, and widgets within Mural.

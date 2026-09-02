@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:17:23Z"
 ---
 ## What it is
 Enables AI agents to build, test, deploy, invoke, and inspect Soroban smart contracts on the Stellar network through structured MCP tools and resources.

@@ -8,10 +8,12 @@ source_url: https://github.com/ai-zerolab/mcp-toolbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-31T18:32:33Z"
 ---
 ## What it is
 MCP server `Toolbox`, catalogued on PulseMCP. Integrates with external APIs and services to provide command execution, Figma file interaction, and file operations, enhancing LLM capabilities for UI/UX design, file management, and service interactions.

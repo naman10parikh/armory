@@ -8,10 +8,12 @@ source_url: https://github.com/robthepcguy/rag-vault
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T05:11:42Z"
 ---
 ## What it is
 MCP server `RAG Vault`, catalogued on PulseMCP. Local RAG server with hybrid search, PDF/DOCX support, and zero-config setup

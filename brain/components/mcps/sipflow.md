@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T16:41:09Z"
 ---
 ## What it is
 MCP server `SipFlow`, catalogued on PulseMCP. SIP/VoIP telecom grounding for AI agents with vendor docs, RFCs, and 21 diagnostic utilities.

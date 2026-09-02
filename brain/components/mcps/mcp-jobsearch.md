@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T02:08:48Z"
 ---
 ## What it is
 Personal job posting management MCP server that fetches job postings from multiple Korean job sites and stores them for LLM analysis, enabling timeline tracking and cover letter draft management.

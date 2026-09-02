@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-18T20:46:04Z"
 ---
 ## What it is
 A minimal MCP server for creating and updating Google Docs from markdown.

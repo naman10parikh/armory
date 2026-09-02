@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-24T14:22:59Z"
 ---
 ## What it is
 MCP server for Fizzy (Kanban tool by 37signals) that enables AI assistants to read and manage boards, cards, columns, tags, comments, and more.

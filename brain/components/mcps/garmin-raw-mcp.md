@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:07:08Z"
 ---
 ## What it is
 Provides raw Garmin Connect data access for training analysis, enabling retrieval of activity summaries, lap data, time-series streams, comments with lactate, wellness metrics, and personal records through an MCP interface.

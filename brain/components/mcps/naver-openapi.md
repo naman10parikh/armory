@@ -12,6 +12,8 @@ stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-04-02T17:10:28Z"
 ---
 ## What it is
 MCP server `Naver OpenAPI`, catalogued on PulseMCP. Integrates with Naver's OpenAPI services to provide 14 different tools for Korean-language search capabilities, including blog, news, book, image, and shopping searches.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T23:27:09Z"
 ---
 ## What it is
 Keel is a network diagnostics MCP server that provides 14 tools for tasks like ping, DNS lookup, port scanning, SSL certificate inspection, and more, with built-in security features.

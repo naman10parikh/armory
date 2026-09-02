@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:44Z"
 ---
 ## What it is
 Analyzes text for passive-aggressive language, returning severity score, flagged phrases, and suggested direct responses.

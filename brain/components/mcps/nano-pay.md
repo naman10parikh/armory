@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:51:28Z"
 ---
 ## What it is
 Self-custodied Nano wallet + x402 payment client and merchant server for AI agents, enabling micropayments, on-ledger settlement, and paid endpoints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T05:41:25Z"
 ---
 ## What it is
 Enables interaction with Legado Web API via MCP, allowing AI-assisted debugging and management of book sources, RSS sources, replace rules, books, and other Legado features.

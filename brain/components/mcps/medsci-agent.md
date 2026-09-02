@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-14T14:53:58Z"
 ---
 ## What it is
 An open source biomedical research agent that provides LLMs with 28 tools for drug discovery, protein analysis, literature search, medical imaging, omics, and sandbox execution, all running locally via Ollama and MedGemma.

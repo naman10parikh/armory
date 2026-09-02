@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:05:52Z"
 ---
 ## What it is
 A local-first MCP server that indexes code repositories and enables AI assistants to search, fetch, and navigate code using BM25 hybrid retrieval, supporting common languages and tools like Codex and ChatGPT.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-18T15:59:12Z"
 ---
 ## What it is
 MCP server `Image Generation (Cloudflare)`, catalogued on PulseMCP. Integrates with Cloudflare's AI image generation capabilities, leveraging Workers for serverless deployment to enable on-demand image creation for content generation and visual design tasks.

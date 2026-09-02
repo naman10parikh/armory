@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T22:02:52Z"
 ---
 ## What it is
 MCP server for Puls prediction markets on Arc, letting AI assistants read live markets, the AI-vs-crowd oracle, autonomous agents, and place real USDC trades and x402 forecast signals.

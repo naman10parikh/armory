@@ -8,10 +8,12 @@ source_url: https://github.com/minio/mcp-server-aistor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-28T22:13:55Z"
 ---
 ## What it is
 MCP server `AIStor`, catalogued on PulseMCP. Interact with MinIO AIStor object stores.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:43:20Z"
 ---
 ## What it is
 Shareable memory for AI coding agents. Enables agents to remember and recall durable memories across sessions and share them as importable packs.

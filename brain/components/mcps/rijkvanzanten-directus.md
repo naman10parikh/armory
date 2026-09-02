@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-22T16:56:01Z"
 ---
 ## What it is
 MCP server `Directus`, catalogued on PulseMCP. Bridges AI tools with Directus headless CMS, enabling content operations through automatically generated tools based on your instance's schema

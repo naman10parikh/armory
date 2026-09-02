@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-14T05:10:22Z"
 ---
 ## What it is
 Multi-agent parlay optimization system using CrewAI to analyze games, evaluate props, and construct optimal parlay combinations.

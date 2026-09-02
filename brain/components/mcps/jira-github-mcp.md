@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:31:28Z"
 ---
 ## What it is
 An MCP server for end-to-end Jira and GitHub integration, enabling AI agents in the IDE to automate workflows from issue tracking to pull request management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:31:42Z"
 ---
 ## What it is
 MCP server wrapping DeepSeek's agent harness tools into minimal/standard modes, enabling persistent shell, file editing, search, job management, and more via natural language.

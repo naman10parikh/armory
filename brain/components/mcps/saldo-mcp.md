@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:49:49Z"
 ---
 ## What it is
 A read-only MCP server that securely connects Swedish/Nordic bank accounts to AI assistants, keeping all financial data local and encrypted.

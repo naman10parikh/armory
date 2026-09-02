@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:21:25Z"
 ---
 ## What it is
 MCP client for AgentRelay, enabling local Codex agents to communicate with an AgentRelay HTTP relay for agent orchestration and task management.

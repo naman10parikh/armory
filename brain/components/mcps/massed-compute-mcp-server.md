@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T20:55:16Z"
 ---
 ## What it is
 Enables AI assistants to manage Massed Compute GPU instances, including browsing inventory, launching and managing VMs, and auditing billing.

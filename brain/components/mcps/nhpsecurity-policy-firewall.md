@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T21:25:39Z"
 ---
 ## What it is
 MCP server `Policy Firewall`, catalogued on PulseMCP. Security proxy that enforces allow/deny policies on MCP tool calls between AI clients and downstream MCP servers, with secret redaction and audit logging.

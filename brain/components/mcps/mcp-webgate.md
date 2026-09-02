@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T23:27:32Z"
 ---
 ## What it is
 Provides clean, bounded web content to AI by filtering HTML noise and optionally summarizing, preventing context window overflow.

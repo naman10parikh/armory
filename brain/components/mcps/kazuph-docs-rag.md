@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-10T21:55:14Z"
 ---
 ## What it is
 MCP server `Docs RAG`, catalogued on PulseMCP. Enables AI to query and analyze local documents and Git repositories through a RAG system built with TypeScript, LlamaIndex, and Gemini embeddings.

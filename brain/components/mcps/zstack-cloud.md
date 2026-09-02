@@ -8,10 +8,12 @@ source_url: https://github.com/zstackio/zstack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-09T10:13:23Z"
 ---
 ## What it is
 MCP server `ZStack Cloud`, catalogued on PulseMCP. Dynamically query and execute ZStack Cloud platform APIs, including VM management, monitoring metrics, and infrastructure operations.

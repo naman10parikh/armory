@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-06T12:36:44Z"
 ---
 ## What it is
 MCP server `Memory Graph`, catalogued on PulseMCP. Provides long-term memory storage for LLM conversations using Redis Graph, enabling persistent knowledge graphs for maintaining context across interactions and building complex information networks.

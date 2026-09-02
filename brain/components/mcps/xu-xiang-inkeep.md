@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T11:58:24Z"
 ---
 ## What it is
 MCP server `Inkeep`, catalogued on PulseMCP. Automatically extracts API keys from Inkeep-powered documentation sites and queries their embedded search functionality without manual configuration.

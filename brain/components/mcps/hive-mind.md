@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:39Z"
 ---
 ## What it is
 Swarm intelligence for AI agents, enabling collective decision-making through weighted consensus voting.

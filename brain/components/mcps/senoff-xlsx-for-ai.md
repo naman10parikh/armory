@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T03:25:32Z"
 ---
 ## What it is
 MCP server `xlsx for AI`, catalogued on PulseMCP. Production-grade Excel (.xlsx) tooling for read, write, diff, and redact operations.

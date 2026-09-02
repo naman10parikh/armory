@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:35:30Z"
 ---
 ## What it is
 Enables AI agents to capture, search, and manage structured memory from agent sessions with append-only events and provenance tracking, providing eight local MCP stdio tools.

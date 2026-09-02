@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T20:12:03Z"
 ---
 ## What it is
 An MCP server that exposes a single tool, jq, for running jq filters against JSON files on disk.

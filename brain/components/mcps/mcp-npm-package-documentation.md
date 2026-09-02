@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:27:22Z"
 ---
 ## What it is
 Retrieves documentation for any npm package by automatically discovering its GitHub repository and returning its README.md content.

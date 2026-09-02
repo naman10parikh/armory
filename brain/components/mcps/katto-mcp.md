@@ -8,11 +8,13 @@ source_url: https://github.com/miracleweasel/katto-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:00:51Z"
 ---
 ## What it is
 Enables creating and managing Katto video clipping jobs from any MCP client, turning long videos into scored, captioned 9:16 clips.

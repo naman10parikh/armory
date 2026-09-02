@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T22:16:07Z"
 ---
 ## What it is
 MCP server that provides AI agents with crypto token safety checks (honeypot, liquidity, rug risk) and alpha signals (smart money buys, fresh rug radar) across PulseChain, Monad, Base, and BSC.

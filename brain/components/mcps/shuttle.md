@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T08:19:44Z"
 ---
 ## What it is
 Enables AI assistants to securely execute SSH commands on remote servers with connection pooling, session isolation, and a web audit panel.

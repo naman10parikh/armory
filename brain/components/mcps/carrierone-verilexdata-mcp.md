@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 1
+forks: 0
+pushed_at: "2026-03-18T09:25:02Z"
 ---
 ## What it is
 20 structured datasets (NPI healthcare, SEC filings, OFAC sanctions, crypto whales, Polymarket signals, patents, economic indicators) via x402 pay-per-query with USDC. Free stats/sample endpoints, MCP + HTTP transport.

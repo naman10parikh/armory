@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-06T14:01:48Z"
 ---
 ## What it is
 A comprehensive MCP server that integrates SoulverCore with Claude Desktop, enabling natural language mathematical calculations, unit conversions, date arithmetic, and financial computations.

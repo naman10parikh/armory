@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T08:33:37Z"
 ---
 ## What it is
 MCP server `Artscii`, catalogued on PulseMCP. ASCII art generation for LLMs with 81 curated artworks, 100 kaomoji, diagrams, FIGlet banners, and image-to-ASCII conversion.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T18:49:00Z"
 ---
 ## What it is
 MCP server for Brazilian data lookups (Pix codes, CEP, CNPJ) and web rendering tasks (Markdown, screenshots, PDFs) via a paid HTTP API with x402 billing.

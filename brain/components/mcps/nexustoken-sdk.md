@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T12:08:14Z"
 ---
 ## What it is
 MCP server `NexusToken`, catalogued on PulseMCP. Run agent tasks, discover capabilities, and coordinate V2 Jobs on the NexusToken platform.

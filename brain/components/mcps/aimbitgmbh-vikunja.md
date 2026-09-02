@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-08T18:48:42Z"
 ---
 ## What it is
 MCP server `Vikunja`, catalogued on PulseMCP. Integrates with Vikunja self-hosted task management to enable project and task operations including kanban boards, labels, comments, assignees, and bulk operations with safety controls for destructive actions.

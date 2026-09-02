@@ -8,10 +8,12 @@ source_url: https://github.com/txn2/mcp-trino
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T14:29:26Z"
 ---
 ## What it is
 MCP server `Trino`, catalogued on PulseMCP. Connects to Trino data warehouses for executing SQL queries, analyzing execution plans, and exploring database schemas with built-in security features like read-only mode, query timeouts, and configurable row limits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:55:32Z"
 ---
 ## What it is
 Turns any US address into a cinematic 3D property listing with parcel boundary overlay. Enables creating interactive 3D flyovers and retrieving property listings directly from a conversation.

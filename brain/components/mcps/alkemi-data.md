@@ -8,10 +8,12 @@ source_url: https://github.com/alkemi-ai/alkemi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-28T15:06:58Z"
 ---
 ## What it is
 MCP server `Alkemi`, catalogued on PulseMCP. Connects to Alkemi's cloud service for natural language database querying across Snowflake, Google BigQuery, and DataBricks with bearer token authentication and product-specific scoping.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T11:07:04Z"
 ---
 ## What it is
 MCP server `Moneroo`, catalogued on PulseMCP. MCP server for Moneroo's African mobile payment infrastructure with tools for payments, links, and payouts.

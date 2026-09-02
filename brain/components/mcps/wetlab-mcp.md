@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T19:02:39Z"
 ---
 ## What it is
 Enables AI-assisted molecular biology experiment design with tools for qPCR primer design, cloning strategy optimization, TaqMan probe design, and multiplex compatibility analysis.

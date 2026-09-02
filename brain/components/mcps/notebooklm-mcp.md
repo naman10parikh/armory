@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T22:49:21Z"
 ---
 ## What it is
 An unofficial MCP server for Google NotebookLM that enables users to manage notebooks, add sources, ask questions with citations, and generate audio podcasts via a Playwright-based automation layer.

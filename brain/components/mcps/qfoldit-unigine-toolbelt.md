@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T05:16:09Z"
 ---
 ## What it is
 Enables AI agents to automate UNIGINE 2 editor workflows through 25 composite tools (scene, materials, procedural, stamps, codegen, assets, and build console) via an external MCP bridge that runs alongside UNIGINE's official MCPBridge Plugin.

@@ -8,10 +8,12 @@ source_url: https://github.com/hanxuanliang/tsrs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-27T06:16:31Z"
 ---
 ## What it is
 MCP server `TuShare (Chinese Financial Data)`, catalogued on PulseMCP. Integrates with TuShare financial API to provide structured access to Chinese market data including stock listings, concept themes, money flow statistics, and minute-level price data.

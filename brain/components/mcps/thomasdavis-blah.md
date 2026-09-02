@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-02T15:24:10Z"
 ---
 ## What it is
 MCP server `BLAH (Barely Logical Agent Host)`, catalogued on PulseMCP. Open-source ecosystem for creating, testing, and sharing AI agent tools with a visual flow editor, simulation environment, and decentralized tool discovery capabilities.

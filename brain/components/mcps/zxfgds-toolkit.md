@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-04T13:13:53Z"
 ---
 ## What it is
 MCP server `MCP Toolkit`, catalogued on PulseMCP. Provides AI assistants with access to local and network resources through specialized tools for file system operations, database connections, GitHub API access, web content extraction, and command execution with configurable security constraints.

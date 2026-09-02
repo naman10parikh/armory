@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:37:28Z"
 ---
 ## What it is
 MCP server `Stellarium`, catalogued on PulseMCP. Control Stellarium planetarium software via its Remote Control HTTP API.

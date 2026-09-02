@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T15:45:13Z"
 ---
 ## What it is
 Enables interaction with the Polish National Register of Borders (PRG) data, currently providing health status monitoring and a server skeleton for future data retrieval features.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T17:51:07Z"
 ---
 ## What it is
 An MCP server for tailing Re.Pack/Rspack dev server logs. Enables AI assistants to query build logs, find errors, and monitor compilation status.

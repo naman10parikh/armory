@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:44:38Z"
 ---
 ## What it is
 Enables querying xtrust.info for Ukrainian company data including contacts, ratings, and official legal records, as well as searching companies by name and posting reviews through MCP.

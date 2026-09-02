@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 4
+stars: 5
+forks: 2
+pushed_at: "2025-11-17T09:26:41Z"
 ---
 ## What it is
 Token usage tracker for OpenAI and Claude APIs with MCP support, real-time session tracking, and accurate pricing for 2025 models

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:29Z"
 ---
 ## What it is
 MCP server `Pipeworx Roblox`, catalogued on PulseMCP. Roblox public profile, friends, badges, games, and group lookups via the Pipeworx gateway.

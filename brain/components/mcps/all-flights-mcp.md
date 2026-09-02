@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T18:36:19Z"
 ---
 ## What it is
 Searches multiple flight inventory sources concurrently and returns a normalized, deduplicated result set.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:07:01Z"
 ---
 ## What it is
 Search and read your interview transcripts from Claude or any MCP client. Full-text search across every project, speaker-labelled transcripts with timestamps, cited passages. Read-only.

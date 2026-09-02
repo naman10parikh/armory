@@ -8,10 +8,12 @@ source_url: https://github.com/ia-programming/mcp-images
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-13T06:01:09Z"
 ---
 ## What it is
 MCP server `Image Processor`, catalogued on PulseMCP. Enables image retrieval, processing, and display from both URLs and local files with automatic compression and formatting for visual content integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:30:49Z"
 ---
 ## What it is
 Hands local video files to Gemini's native video understanding for detailed, timestamped descriptions, and also supports image/media viewing with frame extraction.

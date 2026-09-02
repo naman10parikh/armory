@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-14T02:51:08Z"
 ---
 ## What it is
 MCP server `Milvus`, catalogued on PulseMCP. Integrates with Milvus vector database to enable collection creation with custom schemas, vector similarity search with configurable metrics, data insertion with automatic type conversion, and index management for semantic search and recommendation systems.

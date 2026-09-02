@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:20:30Z"
 ---
 ## What it is
 MCP server to consult the Provisional Rural Operation Authorization (APF) of a producer using CPF, CNPJ, APF number, or CAR. Read-only, hosted, pay-per-query, works with any MCP client.

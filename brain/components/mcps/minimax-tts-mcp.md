@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:06:01Z"
 ---
 ## What it is
 A lightweight MCP server that converts text to speech using MiniMax TTS API, exposing a generate_speech tool for AI to speak with customizable emotion, speed, and language.

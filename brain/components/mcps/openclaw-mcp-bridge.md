@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-07T23:13:30Z"
 ---
 ## What it is
 A smart bridge that aggregates multiple MCP servers under a single interface, providing relevance filtering and optional caching for efficient tool selection and execution.

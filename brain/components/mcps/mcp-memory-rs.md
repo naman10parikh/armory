@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:07:15Z"
 ---
 ## What it is
 Local-first MCP memory server providing persistent, versioned, queryable memory for AI agents using JSON categories and SQLite FTS5, with optional fleet sync.

@@ -8,10 +8,12 @@ source_url: https://github.com/jonthebeef/superdesign-mcp-claude-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-03-10T20:51:45Z"
 ---
 ## What it is
 MCP server `Superdesign`, catalogued on PulseMCP. Integrates Superdesign's design orchestrator with Claude Code to generate UI designs, wireframes, components, logos, and SVG icons through structured specifications that leverage the IDE's existing LLM connection, featuring automatic file organization and an interactive HTML gallery for viewing all created designs.

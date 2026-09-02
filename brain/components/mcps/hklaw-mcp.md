@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:46:44Z"
 ---
 ## What it is
 A stateless MCP server for Hong Kong legal research, offering tools to analyze legal intent, search official HKeL statutes, fetch current law metadata, and check source status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:08:48Z"
 ---
 ## What it is
 MCP server that lets Claude Code create explainer videos from plain English requests by writing and rendering manim animations locally, then publishing the result as a shareable artifact.

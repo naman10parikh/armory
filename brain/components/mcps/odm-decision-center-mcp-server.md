@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T12:43:24Z"
 ---
 ## What it is
 Enables AI assistants to interact with IBM ODM Decision Center for managing business rules, decision tables, ruleflows, and project generation.

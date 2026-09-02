@@ -8,11 +8,13 @@ source_url: https://github.com/mansournorouzi/amazon-sp-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-06-30T13:21:53Z"
 ---
 ## What it is
 Connects Claude to Amazon Seller Central via the SP-API for natural language queries on sales, inventory, reports, fees, reimbursements, and analytics.

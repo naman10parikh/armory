@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:32:59Z"
 ---
 ## What it is
 Enables querying K-IFRS and K-GAAP accounting standards from kifrs.com through Claude, providing tools for listing, retrieving standard details, and searching.

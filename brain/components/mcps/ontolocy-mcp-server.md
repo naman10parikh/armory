@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-17T15:46:13Z"
 ---
 ## What it is
 Augments an LLM with Ontolocy cyber graph capabilities, enabling natural language queries against a Neo4j graph database populated with MITRE ATT\&CK data.

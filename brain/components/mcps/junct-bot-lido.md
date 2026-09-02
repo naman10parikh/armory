@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:51Z"
 ---
 ## What it is
 MCP server `Lido by Junct`, catalogued on PulseMCP. Hosted integration with Lido liquid staking protocol for vault queries and staking analytics via Junct platform.

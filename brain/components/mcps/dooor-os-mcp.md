@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:32:01Z"
 ---
 ## What it is
 Exposes Dooor OS workspace capabilities to MCP-compatible AI clients, enabling natural language querying of data sources, app and deployment inspection, agent and database management, and governance trace reading.

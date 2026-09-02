@@ -8,10 +8,12 @@ source_url: https://github.com/krulewis/tokencast
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T15:12:48Z"
 ---
 ## What it is
 MCP server `TokenCast`, catalogued on PulseMCP. Pre-execution cost estimation for LLM agent workflows with calibration learning.

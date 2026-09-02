@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T01:04:28Z"
 ---
 ## What it is
 Enables querying USGS water data including real-time and historical streamflow, gage height, and water temperature from USGS gauges across the United States.

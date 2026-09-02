@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T00:52:23Z"
 ---
 ## What it is
 Enables AI agents to scan text for leaked secrets and prompt injection markers, and redact them before reaching an LLM.

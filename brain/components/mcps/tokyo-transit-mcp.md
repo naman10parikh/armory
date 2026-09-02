@@ -8,11 +8,13 @@ source_url: https://github.com/loosephoto/tokyo-transit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:52:01Z"
 ---
 ## What it is
 Integrates ODPT and JMA APIs to provide comprehensive transit information, route search, weather, and AI advice for the Tokyo metropolitan area.

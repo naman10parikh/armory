@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-16T22:16:33Z"
 ---
 ## What it is
 MCP server enabling AI assistants to perform full CRUD operations on Asset Administration Shells, Submodels, and Submodel Elements via the Eclipse BaSyx REST API.

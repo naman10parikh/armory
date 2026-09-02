@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T10:52:49Z"
 ---
 ## What it is
 MCP server for searching and recommending Korean public resources (rooms, facilities, parking, etc.) using a static snapshot of the eShare OPEN API, with read-only tools for filtered search, detail, recommendation, and filter options.

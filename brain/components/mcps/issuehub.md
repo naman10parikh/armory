@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:20:00Z"
 ---
 ## What it is
 MCP server that provides issue tracking tools for Jira, Redmine, GitHub, and GitLab via the Model Context Protocol, enabling agents to search, fetch, sync, and manage issues through natural language.

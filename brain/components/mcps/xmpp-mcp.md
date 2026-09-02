@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:48:02Z"
 ---
 ## What it is
 A minimal XMPP MCP server enabling human-in-the-loop notifications and messaging with a single allowlisted JID, exposing tools for status, sending messages, chat states, and message polling/waiting.

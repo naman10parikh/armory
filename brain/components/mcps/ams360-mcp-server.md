@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T03:20:32Z"
 ---
 ## What it is
 MCP server for Vertafore AMS360 WSAPI v3 that enables querying clients, policies, renewals, and activities through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T10:41:02Z"
 ---
 ## What it is
 Provides live user account lookup tools over HTTP for the Nimbus Furniture platform. Enables AI agents to retrieve customer account details by email or user ID via MCP.

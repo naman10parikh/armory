@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:31:35Z"
 ---
 ## What it is
 Loudness compliance verdicts against formal broadcast standards (EBU R128, ATSC A/85). Measures audio/video with ffmpeg and returns a pass/fail verdict with exact deltas and remediation parameters.

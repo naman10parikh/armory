@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:59:25Z"
 ---
 ## What it is
 MCP server providing virtual memory for AI context with durable SQLite storage, retrieval, and bounded prompt assembly to manage context windows.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-11T01:12:45Z"
 ---
 ## What it is
 MCP server `Kubernetes Natural Language Commander`, catalogued on PulseMCP. Converts natural language requests into valid kubectl commands for Kubernetes cluster management, enabling administrators to interact with their clusters without memorizing complex syntax

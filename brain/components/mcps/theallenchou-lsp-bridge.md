@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T03:56:05Z"
 ---
 ## What it is
 MCP server `LSP Bridge`, catalogued on PulseMCP. VS Code extension exposing running language server features as MCP tools for definition lookup, references, diagnostics, and completions.

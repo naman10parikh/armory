@@ -8,10 +8,12 @@ source_url: https://github.com/coleam00/remote-mcp-server-with-auth
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 293
+stars: 299
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 142
+pushed_at: "2025-07-11T19:07:26Z"
 ---
 ## What it is
 MCP server `PostgreSQL with GitHub OAuth`, catalogued on PulseMCP. Provides secure PostgreSQL database access with GitHub OAuth authentication, enabling read-only operations for all authenticated users while restricting write operations to allowlisted GitHub usernames through role-based access control.

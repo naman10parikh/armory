@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T18:24:29Z"
 ---
 ## What it is
 A CLI agent that acts as an MCP hub, enabling discovery, auditing, and governance of MCP servers across AI tools like Claude and Cursor.

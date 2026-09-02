@@ -8,10 +8,12 @@ source_url: https://github.com/ditrixnew/mcp-db-client
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-23T02:20:43Z"
 ---
 ## What it is
 MCP server `1C:Enterprise DB Client`, catalogued on PulseMCP. Connect to 1C:Enterprise databases through a native DLL transport layer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:30:15Z"
 ---
 ## What it is
 Enables reading, editing, and running commands on a remote SSH host through Claude Code, with path-scoping and command filtering for safety.

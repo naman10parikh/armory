@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T21:52:52Z"
 ---
 ## What it is
 An MCP server that exposes a live Dwarf Fortress fort to an AI agent as a small set of curated, semantic tools — a fortress co-pilot and early-warning advisor, not an autopilot. It provides read-only sensors and reference tools to observe the game state and retrieve game data.

@@ -8,10 +8,12 @@ source_url: https://github.com/pskill9/website-downloader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 151
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2024-12-24T20:29:17Z"
 ---
 ## What it is
 MCP server `Website Downloader`, catalogued on PulseMCP. Integrates wget-based website downloading capabilities to enable offline archiving and analysis of web content while preserving site structure.

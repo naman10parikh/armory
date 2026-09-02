@@ -8,10 +8,12 @@ source_url: https://github.com/tverney/mcp-agent-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T22:55:17Z"
 ---
 ## What it is
 MCP server `Agent Memory`, catalogued on PulseMCP. Provides persistent agent memory via a filesystem bridge with four tools for reading, appending, searching, and monitoring memory state.

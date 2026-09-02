@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:50:26Z"
 ---
 ## What it is
 An MCP server that enables LLMs to query and reason over Active Directory attack graphs collected by BloodHound, providing attack paths, blast radius analysis, choke points, and defender remediation advice.

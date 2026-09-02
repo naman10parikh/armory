@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:16:50Z"
 ---
 ## What it is
 A specialized MCP server for QA engineering. It provides tools for user story analysis, test strategy, BDD/Gherkin scenarios, contract testing, integration tests, performance plans, security checklists, and CI/CD pipeline generation, accessible from any MCP-compatible IDE or client.

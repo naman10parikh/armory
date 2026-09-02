@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T19:25:38Z"
 ---
 ## What it is
 Wraps the CourtListener API for real-time federal docket monitoring, with pluggable client-list connectors (SharePoint, Excel, webhook) and tools for docket monitoring and client matching via elicitation.

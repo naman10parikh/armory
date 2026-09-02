@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T19:03:25Z"
 ---
 ## What it is
 Exposes Apple's on-device 3B parameter LLM to Claude Code and Claude Desktop via MCP. Zero API cost, fully private, runs on Neural Engine.

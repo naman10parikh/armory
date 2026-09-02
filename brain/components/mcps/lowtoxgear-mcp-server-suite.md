@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T12:44:32Z"
 ---
 ## What it is
 Provides tools for searching and filtering low-tox products on the Lowtoxgear storefront, and scanning product barcodes to analyze ingredients against chemical rules and condition-specific flags.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:47:39Z"
 ---
 ## What it is
 MCP server that drives a headless or interactive Playwright browser and records every HTTP request/response into a shared web-archive store, making captured traffic searchable.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:07:02Z"
 ---
 ## What it is
 Local-first RAG indexing and semantic search MCP server. Enables document retrieval and context-aware queries using local embedding models.

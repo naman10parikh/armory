@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:34Z"
 ---
 ## What it is
 Evaluator-as-a-service for autonomous AI agents implementing ERC-8183/Virtuals ACP v2.0. Agents submit jobs for scoring across three tiers, settle fees in USDC on multiple chains, and receive attestations.

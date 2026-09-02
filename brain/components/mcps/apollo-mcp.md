@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:23:30Z"
 ---
 ## What it is
 Provides 45 MCP tools to search, enrich, and manage Apollo.io B2B data (people, companies, CRM, deals, tasks, sequences, etc.) via stdio or HTTP transport.

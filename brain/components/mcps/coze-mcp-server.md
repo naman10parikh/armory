@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2025-09-03T06:24:16Z"
 ---
 ## What it is
 A Model Context Protocol server that provides Coze resources and tools for managing workspaces, bots, and conversations.

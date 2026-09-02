@@ -8,10 +8,12 @@ source_url: https://github.com/pranavj17/mcp-server-graylog
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-25T07:10:22Z"
 ---
 ## What it is
 MCP server `Graylog`, catalogued on PulseMCP. Search Graylog logs by timestamps, filter by streams, and debug production issues.

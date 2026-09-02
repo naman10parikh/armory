@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 12
+forks: 6
+pushed_at: "2025-04-17T01:58:16Z"
 ---
 ## What it is
 An MCP server for CSV files.

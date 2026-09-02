@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:46:46Z"
 ---
 ## What it is
 Read-only MCP server exposing CWTools Paradox/Stellaris semantic tools (syntax checking, scope queries, definitions, references, diagnostics, scripted triggers/effects/enums, and shader queries) to AI agents like Codex and Claude Code, bridging into VS Code-compatible hosts or running standalone.

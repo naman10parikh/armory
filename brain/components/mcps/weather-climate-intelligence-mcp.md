@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:23:07Z"
 ---
 ## What it is
 Provides weather and climate intelligence for AI agents, including current conditions, forecasts, historical data, severe-weather alerts, agricultural outlook, and travel conditions via free and paid tools.

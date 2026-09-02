@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T11:10:49Z"
 ---
 ## What it is
 Bridges YouMind content to AI assistants via MCP, enabling retrieval of craft content by ID.

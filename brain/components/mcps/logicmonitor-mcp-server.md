@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-06-10T20:31:22Z"
 ---
 ## What it is
 MCP server enabling AI assistants to interact with your LogicMonitor, providing 125 tools for comprehensive monitoring and management operations.

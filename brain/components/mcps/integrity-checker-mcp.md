@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:17:01Z"
 ---
 ## What it is
 MCP server for the CMS File Integrity Checker. Enables users to submit and query file integrity jobs through natural language.

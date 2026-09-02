@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T09:54:03Z"
 ---
 ## What it is
 Wraps Anthropic Claude Code CLI as tools, allowing MCP clients to invoke headless Claude Code sessions.

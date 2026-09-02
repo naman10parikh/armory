@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-07T02:12:46Z"
 ---
 ## What it is
 MCP server `Context Manager`, catalogued on PulseMCP. Smart code search with BM25 ranking, fuzzy matching, and natural language queries.

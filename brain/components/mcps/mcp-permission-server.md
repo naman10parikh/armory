@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:45:03Z"
 ---
 ## What it is
 Enforces fine-grained, context-aware access control on MCP tool calls, with a tamper-evident, replayable audit log that records denials and verifies every decision.

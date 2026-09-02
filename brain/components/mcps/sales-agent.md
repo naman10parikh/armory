@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T13:49:25Z"
 ---
 ## What it is
 Multi-agent sales email generation server that creates, evaluates, and sends personalized sales emails via SendGrid, using AI to craft diverse email styles and select the best one.

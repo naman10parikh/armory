@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:45Z"
 ---
 ## What it is
 MCP server `e-Stat Japan`, catalogued on PulseMCP. Query Japanese government statistics from e-Stat, Japan's primary government statistics portal covering demographics, economy, and social data.

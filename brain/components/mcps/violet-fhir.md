@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:35:04Z"
 ---
 ## What it is
 Exposes a FHIR endpoint as deterministic read-only tools, providing a context layer for retrieving clinical data from FHIR servers.

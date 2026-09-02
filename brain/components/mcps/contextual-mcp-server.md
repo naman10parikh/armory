@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-18T06:44:43Z"
 ---
 ## What it is
 Provides RAG (Retrieval-Augmented Generation) capabilities via Contextual AI, enabling query processing and context-aware responses with citations. Integrates with MCP clients like Cursor IDE and Claude Desktop.

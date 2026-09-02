@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:06:38Z"
 ---
 ## What it is
 Provides file read, edit, and write operations with exact-match editing and hash-based consistency checks, designed for models that prefer structured schemas over patch grammars.

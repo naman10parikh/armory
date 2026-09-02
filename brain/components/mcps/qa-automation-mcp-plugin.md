@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:40:01Z"
 ---
 ## What it is
 Enterprise web automation testing MCP server that controls local Chrome via Playwright CDP, providing tools for page element analysis, interaction, dynamic layer exploration, VTable scene graph, test recording, and Shadcn-style Excel export.

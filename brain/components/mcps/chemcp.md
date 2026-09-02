@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T16:59:25Z"
 ---
 ## What it is
 Renders interactive 2D molecular structure diagrams from SMILES notation and computes molecular properties like molecular weight, LogP, and TPSA, directly in the chat.

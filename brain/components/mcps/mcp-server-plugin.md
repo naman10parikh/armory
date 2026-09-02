@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:43:49Z"
 ---
 ## What it is
 Enables recording Codex tool failures as redacted .tape evidence, inspecting captured runs, injecting failure conditions, and saving offline regression tests.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-17T18:42:03Z"
 ---
 ## What it is
 Encrypted token store for Claude Code sessions, providing MCP tools for secure secret management with macOS Keychain integration, per-project allowlists, and native dialog input.

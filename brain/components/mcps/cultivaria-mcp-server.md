@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:09:43Z"
 ---
 ## What it is
 MCP server for the CultivarIA platform, enabling AI assistants to query real-time and historical telemetry from cultivation modules, analyze plant health, and control actuators like irrigation and climate systems via standardized tools and resources.

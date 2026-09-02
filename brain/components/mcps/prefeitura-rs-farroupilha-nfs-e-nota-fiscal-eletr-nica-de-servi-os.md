@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:57Z"
 ---
 ## What it is
 Enables read-only consultation of NFS-e (electronic service invoices) from the official source of the Farroupilha city hall. Works with any MCP client over HTTP.

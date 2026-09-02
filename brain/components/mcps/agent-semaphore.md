@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:24:41Z"
 ---
 ## What it is
 A coordination layer for parallel coding agents that provides intent-carrying claims, conflict prediction, and a serialized landing queue to prevent merge conflicts.

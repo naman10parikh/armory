@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T01:28:27Z"
 ---
 ## What it is
 Hosted, pay-per-call MCP server for Cook County / Chicago property records — parcels, recorded sales & deeds, building permits, tax assessments, and comparable sales — by street address or 14-digit PIN. Pay per call via x402 (USDC on Base/Solana); no signup or API key.

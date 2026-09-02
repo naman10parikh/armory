@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:56:16Z"
 ---
 ## What it is
 Extracts reusable UI patterns from websites into a searchable library using Playwright and Claude, enabling natural-language queries like 'find monospace technical labels'.

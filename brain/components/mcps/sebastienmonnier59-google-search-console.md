@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-20T14:12:03Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Access Google Search Console site performance data, keyword opportunities, and indexation status.

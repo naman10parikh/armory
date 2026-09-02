@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:10:47Z"
 ---
 ## What it is
 MCP server that exposes an analyze_image tool using Gemini vision models to describe or analyze images from local paths, URLs, or base64 data URIs.

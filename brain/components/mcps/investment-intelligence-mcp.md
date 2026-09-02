@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:23:29Z"
 ---
 ## What it is
 Enables aggregated investment research by combining data from Yahoo/SEC EDGAR, Finnhub, and GDELT with analysis modules for price momentum, news signals, and estimate revisions.

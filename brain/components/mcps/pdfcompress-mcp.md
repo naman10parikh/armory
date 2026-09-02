@@ -8,11 +8,13 @@ source_url: https://github.com/ncepuee/PDFCompress
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:31:29Z"
 ---
 ## What it is
 Enables AI agents to analyze, compress, and verify PDFs while preserving text, vectors, and document structure, with configurable presets and target-size limits.

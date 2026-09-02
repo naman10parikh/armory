@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T05:27:57Z"
 ---
 ## What it is
 Enables AI agents to securely access and query Prisma SD-WAN operational data for inventory, health checks, topology analysis, and policy verification through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T02:35:12Z"
 ---
 ## What it is
 Enables AI agents to discover, pay for, and retrieve receipts for external APIs via USDC micropayments through the SynapseNetwork Gateway, supporting stdio and Remote MCP.

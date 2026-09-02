@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:54:44Z"
 ---
 ## What it is
 Enables full-lifecycle Discord server management from any LLM, including creation, administration, and scaffolding, with a sovereignty guard ensuring mutations only occur when the client has the highest role.

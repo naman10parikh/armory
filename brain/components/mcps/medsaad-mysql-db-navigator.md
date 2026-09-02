@@ -8,10 +8,12 @@ source_url: https://github.com/medsaad/mcp-db-navigator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-04T15:22:56Z"
 ---
 ## What it is
 MCP server `MySQL/MariaDB Database Navigator`, catalogued on PulseMCP. Enables direct access to MySQL/MariaDB databases for querying, schema exploration, and database management with comprehensive security measures including input sanitization and connection pooling.

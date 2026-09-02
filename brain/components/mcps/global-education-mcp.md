@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T23:20:29Z"
 ---
 ## What it is
 Provides AI assistants access to international education data from UNESCO UIS (4,000+ indicators) and OECD Education at a Glance via SDMX, with no API keys required.

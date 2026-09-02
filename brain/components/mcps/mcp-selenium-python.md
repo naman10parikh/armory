@@ -8,11 +8,13 @@ source_url: https://github.com/pranavkakde/mcp-selenium-python
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T10:46:04Z"
 ---
 ## What it is
 Enables LLMs to automate browser tasks (navigation, clicks, text input) via Selenium through the Model Context Protocol.

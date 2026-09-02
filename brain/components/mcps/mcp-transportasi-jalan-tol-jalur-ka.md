@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T06:50:18Z"
 ---
 ## What it is
 MCP server providing data on Indonesian toll roads and railway lines, including toll gates, road segments, stations, and track locations across Java. Enables querying transportation infrastructure via natural language.

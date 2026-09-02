@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-03T08:45:00Z"
 ---
 ## What it is
 MCP server `Optic`, catalogued on PulseMCP. Connects USB cameras, IP cameras, and screen capture to enable image analysis, object detection, QR/barcode decoding, and real-time visual monitoring with token-efficient metadata responses.

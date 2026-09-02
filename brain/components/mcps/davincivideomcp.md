@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:19:19Z"
 ---
 ## What it is
 MCP server for DaVinci Resolve video editing, enabling AI agents to execute editing operations, manage creative libraries, and analyze media content.

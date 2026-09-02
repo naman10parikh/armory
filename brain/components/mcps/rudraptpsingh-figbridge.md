@@ -8,10 +8,12 @@ source_url: https://github.com/rudraptpsingh/figbridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-10T10:52:48Z"
 ---
 ## What it is
 MCP server `Figbridge`, catalogued on PulseMCP. Local MCP bridge for Figma — exports HTML, CSS, Tailwind, tokens, and agent handoff bundles.

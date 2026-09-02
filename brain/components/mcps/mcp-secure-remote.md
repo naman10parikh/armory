@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:26:20Z"
 ---
 ## What it is
 A stdio-to-remote MCP bridge with mTLS client certificate authentication for secure remote MCP server access.

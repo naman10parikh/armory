@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:03:36Z"
 ---
 ## What it is
 Enables LLMs to query structured statistical data from the Swiss Federal Archives' Linked Data platform (LINDAS) by translating natural language questions into SPARQL queries against RDF data cubes.

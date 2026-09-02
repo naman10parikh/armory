@@ -8,10 +8,12 @@ source_url: https://github.com/aliengiraffe/spotdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T17:01:22Z"
 ---
 ## What it is
 MCP server `SpotDB`, catalogued on PulseMCP. Provides direct access to an ephemeral DuckDB instance for CSV file uploads, SQL query execution, and database snapshots through a lightweight Go-based server with WebSocket support and S3 integration for temporary data analysis workflows.

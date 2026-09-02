@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T06:40:41Z"
 ---
 ## What it is
 Enables AI assistants to access and query Garmin Connect health and fitness data, including sleep, HRV, training load, and activities, with an optional coaching plugin for personalized training plans.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T07:26:24Z"
 ---
 ## What it is
 MCP server that wraps a personal task manager REST API, enabling Claude to read and manage tasks via tools like get_tasks and add_task.

@@ -8,11 +8,13 @@ source_url: https://github.com/Apex-Foundation/copilot-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:17:03Z"
 ---
 ## What it is
 Provides Web3 founders with tools for project scoring, portfolio matching, fund matching, hackathon discovery, jurisdiction analysis, Twitter audit, and smart contract security review. Works with MCP-compatible assistants without transmitting file contents.

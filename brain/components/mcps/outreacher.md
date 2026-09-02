@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T18:06:12Z"
 ---
 ## What it is
 AI-powered lead qualification system with an MCP server for Claude Desktop, enabling campaign management, lead search, status updates, and CSV import.

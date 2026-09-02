@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-18T00:07:38Z"
 ---
 ## What it is
 Enables bidirectional lookup of Mi'kmaq and English words with definitions and examples, and provides tools for learning and dictionary statistics, integrating seamlessly with AI-powered IDEs.

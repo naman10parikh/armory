@@ -8,10 +8,12 @@ source_url: https://github.com/allvoicelab/allvoicelab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-08-05T09:22:36Z"
 ---
 ## What it is
 MCP server `AllVoiceLab`, catalogued on PulseMCP. Integrates with AllVoiceLab's API to provide advanced voice and audio processing capabilities including text-to-speech conversion, voice cloning, speech transformation, subtitle extraction, and multilingual video dubbing.

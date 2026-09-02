@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-09T09:38:14Z"
 ---
 ## What it is
 Enables users to define and run MCP tools using declarative YAML configs with built-in trust enforcement, credential brokering, and tamper-evident audit logging.

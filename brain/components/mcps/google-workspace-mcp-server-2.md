@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-04-03T19:57:30Z"
 ---
 ## What it is
 Comprehensive MCP server for Google Workspace with 95+ tools to manage Docs, Sheets, Drive, Gmail, Calendar, Slides, and Forms.

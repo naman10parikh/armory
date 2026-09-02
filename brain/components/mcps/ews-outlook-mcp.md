@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:52:16Z"
 ---
 ## What it is
 MCP server for Claude to access on-premises Outlook/Exchange mailboxes via EWS with NTLM authentication, providing tools for email, calendar, and contact management without relying on Microsoft 365 or Graph API.

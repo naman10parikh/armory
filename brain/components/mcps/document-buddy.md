@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T06:59:32Z"
 ---
 ## What it is
 A no-server MCP toolkit that organizes project wikis from Feishu documents, messages, and more, enabling AI clients to answer questions with cited evidence to prevent hallucinations.

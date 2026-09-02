@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:38:23Z"
 ---
 ## What it is
 Enables safe, isolated Codex implementation runs with planning approval, verification, and bounded fixes, without merging or pushing code automatically.

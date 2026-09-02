@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:16:51Z"
 ---
 ## What it is
 Deploys projects straight from an AI agent to Snaphost and returns a public URL, with automatic Dockerfile generation, build/run/log management, and deploy lifecycle control.

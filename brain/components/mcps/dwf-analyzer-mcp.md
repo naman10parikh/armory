@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-28T06:07:27Z"
 ---
 ## What it is
 An MCP server for analyzing DWF files using Amazon Bedrock's Nova Pro model, enabling visual analysis, metadata extraction, and image extraction from DWF drawings.

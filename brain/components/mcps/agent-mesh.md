@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:53:33Z"
 ---
 ## What it is
 Provides a messaging multiplexer for agents using Redis streams, allowing Claude Code to send, receive, and ping other agents through MCP tools.

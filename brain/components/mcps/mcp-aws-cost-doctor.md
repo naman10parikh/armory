@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T01:46:32Z"
 ---
 ## What it is
 Read-only AWS cost diagnostic server that enables AI agents to detect idle resources and orphaned assets, surfacing potential savings via boto3 describe calls.

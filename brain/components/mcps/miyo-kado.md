@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:36:20Z"
 ---
 ## What it is
 Security-first MCP server plugin for Obsidian that gives AI assistants granular, permissioned access to vault notes and files through tools like read, write, delete, rename, search, and open-notes.

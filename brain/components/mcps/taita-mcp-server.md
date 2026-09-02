@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T20:26:34Z"
 ---
 ## What it is
 Enables managing blog posts on Taita Blog via natural language, including creating, listing, updating, and deleting posts, as well as managing categories and tags.

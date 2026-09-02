@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T19:35:11Z"
 ---
 ## What it is
 MCP server providing filesystem operations, shell execution, and web search capabilities.

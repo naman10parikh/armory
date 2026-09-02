@@ -8,11 +8,13 @@ source_url: https://github.com/CaullenOmdahl/Nextjs-React-Tailwind-Assistant
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4057
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 2
+pushed_at: "2025-11-18T01:00:54Z"
 ---
 ## What it is
 Your comprehensive AI companion for building modern Next.js applications with React and Tailwind CSS. This MCP server provides instant access to complete documentation, production-ready components, and battle-tested design patterns abstracted from professional templates.

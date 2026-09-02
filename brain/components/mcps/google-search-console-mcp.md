@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T14:16:33Z"
 ---
 ## What it is
 OAuth-protected Google Search Console MCP for analytics, URL inspection, sitemap management, indexing requests, and SEO diagnostics. Open-source Cloudflare Workers implementation with 17 tools.

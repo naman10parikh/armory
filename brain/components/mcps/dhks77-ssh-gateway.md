@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T02:38:34Z"
 ---
 ## What it is
 MCP server `SSH Gateway`, catalogued on PulseMCP. Enables secure SSH connections through gateway servers with Kerberos authentication for remote command execution and server management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T22:05:27Z"
 ---
 ## What it is
 An authenticated MCP Streamable HTTP server that exposes Ductor's internal API, enabling agent messaging and task management through MCP tools.

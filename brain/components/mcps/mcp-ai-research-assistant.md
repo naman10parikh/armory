@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T20:23:43Z"
 ---
 ## What it is
 An offline MCP server that enables research tasks such as summarizing text, extracting key points, and saving/retrieving notes via a CLI client and stdio transport.

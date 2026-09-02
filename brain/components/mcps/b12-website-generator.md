@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-23T16:46:11Z"
 ---
 ## What it is
 MCP server `B12 Website Generator`, catalogued on PulseMCP. Enables AI to create customized business websites by generating designs from business names and descriptions, providing signup links without requiring technical expertise.

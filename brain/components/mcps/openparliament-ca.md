@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:25Z"
 ---
 ## What it is
 Provides access to Canadian parliamentary data including debates, bills, votes, politicians, and committees via the OpenParliament.ca civic-tech mirror.

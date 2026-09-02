@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-12T10:21:16Z"
 ---
 ## What it is
 MCP server `Cat Printer`, catalogued on PulseMCP. Control BLE thermal cat printers from AI agents with tools for printing images, text, and formatted ticket templates.

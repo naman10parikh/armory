@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T18:50:00Z"
 ---
 ## What it is
 Exposes code search and file reading tools over the Model Context Protocol, enabling any MCP-compatible client to query a codebase with natural language.

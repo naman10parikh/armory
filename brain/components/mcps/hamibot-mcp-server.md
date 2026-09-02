@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-27T08:24:54Z"
 ---
 ## What it is
 Enables management and control of Hamibot devices and scripts, including device listing, script execution, and custom JavaScript code execution.

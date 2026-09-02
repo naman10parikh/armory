@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T06:30:30Z"
 ---
 ## What it is
 Enables travel-related queries and planning including weather, train and flight information, itinerary generation, and travel knowledge retrieval via RAG, using an AI agent with MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-10-17T18:19:38Z"
 ---
 ## What it is
 Enables AI agents to interact with Jupyter notebooks via MCP tools for querying, modifying, executing, and setting up notebooks, with state preservation and real-time collaboration.

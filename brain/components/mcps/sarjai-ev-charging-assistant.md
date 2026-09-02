@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:07:59Z"
 ---
 ## What it is
 MCP server that enables AI-powered EV charging station management, including live session tracking, automatic battery state detection, remote cable unlock, and RAG-based technical support from OCPP documentation.

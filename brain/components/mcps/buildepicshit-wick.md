@@ -8,10 +8,12 @@ source_url: https://github.com/buildepicshit/wick
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T12:38:55Z"
 ---
 ## What it is
 MCP server `Wick`, catalogued on PulseMCP. Capture Roslyn-enriched C# exception telemetry from Godot Engine games and deliver full diagnostic context to AI assistants in one call.

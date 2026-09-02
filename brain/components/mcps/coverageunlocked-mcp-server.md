@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T18:35:28Z"
 ---
 ## What it is
 Enables AI assistants to analyze insurance denial appeals, providing win probabilities, appeal strategies, payer behavioral intelligence, and regulatory leverage for any CPT code.

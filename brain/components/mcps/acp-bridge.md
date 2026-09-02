@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-18T08:48:15Z"
 ---
 ## What it is
 MCP server `ACP Bridge`, catalogued on PulseMCP. Bridges Agent Communication Protocol networks with MCP clients, enabling access to complex multi-agent workflows through intelligent agent discovery, routing, and multi-modal message conversion with support for synchronous, asynchronous, and streaming execution patterns.

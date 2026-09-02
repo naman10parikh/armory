@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-03T04:26:39Z"
 ---
 ## What it is
 Real-machine, real-browser web perf measurement with ~99% iframe coverage. LLM-native + AI-agent-loop ready.

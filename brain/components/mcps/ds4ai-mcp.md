@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T21:00:19Z"
 ---
 ## What it is
 Enables AI agents to audit web surfaces for conformance and generate findability and delivery metadata, including meta tags, JSON-LD, sitemaps, robots.txt, image markup, and contrast-checked palettes, with provenance-stamped results.

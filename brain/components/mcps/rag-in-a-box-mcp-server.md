@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:36:38Z"
 ---
 ## What it is
 Enables any MCP-compatible AI assistant to search, filter, and retrieve information from a local document collection using a hybrid search pipeline with vector, BM25, reranking, and LLM enrichment.

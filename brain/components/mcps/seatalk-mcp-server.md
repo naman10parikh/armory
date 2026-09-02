@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:30:50Z"
 ---
 ## What it is
 Enables sending and reading SeaTalk messages, including DMs, group chats, and message history, plus employee lookup via the SeaTalk Open Platform API.

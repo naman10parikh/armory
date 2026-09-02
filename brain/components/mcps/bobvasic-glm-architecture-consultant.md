@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-14T19:57:42Z"
 ---
 ## What it is
 MCP server `GLM-4.6 Architecture Consultant`, catalogued on PulseMCP. Bridges Claude with GLM-4.6 (Zhipu AI's model) to provide enterprise software architecture consulting through four specialized tools for general architectural guidance, code analysis, system design, and technical decision review with trade-off analysis.

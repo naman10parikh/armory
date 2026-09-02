@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T13:28:55Z"
 ---
 ## What it is
 Enables querying and managing AI logs through tools like listing logs, retrieving jobs, and performing AI-powered chat queries. Also provides access to gateway security reports and guardrail testing.

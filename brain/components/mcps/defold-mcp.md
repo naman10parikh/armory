@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:23:23Z"
 ---
 ## What it is
 MCP server that gives AI agents comprehensive control over local Defold game projects, including inspecting, editing, searching, building, and running the project.

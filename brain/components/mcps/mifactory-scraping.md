@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T23:40:51Z"
 ---
 ## What it is
 MCP server `Mifactory Scraping`, catalogued on PulseMCP. Web scraping service that extracts text and metadata from any URL.

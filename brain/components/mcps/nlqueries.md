@@ -8,11 +8,13 @@ source_url: https://github.com/nlqueries/nlqueries
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:11:10Z"
 ---
 ## What it is
 Natural language to SQL engine with multi-connector support (PostgreSQL, MySQL, Snowflake, BigQuery, DuckDB), document QA, semantic caching, and self-hosted MCP server.

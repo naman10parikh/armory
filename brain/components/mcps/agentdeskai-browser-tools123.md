@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T07:18:54Z"
 ---
 ## What it is
 MCP server `Browser Tools`, catalogued on PulseMCP. Provides a bridge between web browsers and assistants through a Chrome extension, enabling real-time access to console logs, network requests, screenshots, DOM elements, and Lighthouse audits for debugging and improving web applications.

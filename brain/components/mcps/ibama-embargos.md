@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:36:40Z"
 ---
 ## What it is
 This MCP server enables users to issue IBAMA environmental embargo certificates (negative certificates) for individuals or companies using CPF or CNPJ, with a read-only tool and prepaid credits.

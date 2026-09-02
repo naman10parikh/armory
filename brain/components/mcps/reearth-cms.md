@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-05T14:59:29Z"
 ---
 ## What it is
 MCP server `Re:Earth CMS`, catalogued on PulseMCP. Integrates with Re:Earth CMS headless content management system to enable full CRUD operations on projects, models, items, assets, groups, and comments with field-level manipulation, asset publishing controls, comment threading, and data export in CSV and GeoJSON formats for content management workflows and spatial data handling.

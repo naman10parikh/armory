@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:58:16Z"
 ---
 ## What it is
 An MCP server for indexing and searching local text files using late-interaction retrieval (ColBERT-style MaxSim), enabling token-level relevance matching.

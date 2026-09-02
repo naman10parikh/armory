@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-03T13:49:41Z"
 ---
 ## What it is
 Enables semantic search over the Vignan University knowledge base using Pinecone vector storage and Sentence Transformers.

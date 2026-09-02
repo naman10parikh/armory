@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T05:37:12Z"
 ---
 ## What it is
 A local MCP server that connects to a Chrome extension to enable AI agents to control browser tabs, execute automation, and interact with web pages via tools.

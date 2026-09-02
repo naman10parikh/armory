@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T04:19:06Z"
 ---
 ## What it is
 MCP server `Coding Standards`, catalogued on PulseMCP. Makes coding standards queryable as a live data store, returning only task-relevant rules in token-efficient responses instead of loading full documentation.

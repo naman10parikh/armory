@@ -8,10 +8,12 @@ source_url: https://github.com/meisin/bnm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-06T08:51:45Z"
 ---
 ## What it is
 MCP server `Bank Negara Malaysia`, catalogued on PulseMCP. Integrates with Bank Negara Malaysia's public APIs to provide direct access to Malaysian financial and economic data including exchange rates, interest rates, monetary aggregates, banking statistics, and macroeconomic indicators through over 30 specialized tools.

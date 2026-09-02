@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T19:26:13Z"
 ---
 ## What it is
 Free remote MCP server for GIS/ArcGIS Online automation — coordinate/EPSG conversion, GeoJSON validation and geometry operations, ArcGIS FeatureServer inspection (feature count/query, schema, health check), and Shapefile/KML/GPX/WKT format conversion. Works with public ArcGIS layers without a token;

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:02Z"
 ---
 ## What it is
 Read-only MCP server to query the official negative debt certificate (Certidão Negativa de Débitos) from Itajaí city hall in Santa Catarina, Brazil.

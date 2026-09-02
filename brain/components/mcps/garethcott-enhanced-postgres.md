@@ -8,10 +8,12 @@ source_url: https://github.com/garethcott/enhanced-postgres-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-01-19T11:28:08Z"
 ---
 ## What it is
 MCP server `Enhanced PostgreSQL`, catalogued on PulseMCP. Enables full PostgreSQL database management with read/write operations, transaction handling, and schema modifications through parameterized queries that prevent SQL injection.

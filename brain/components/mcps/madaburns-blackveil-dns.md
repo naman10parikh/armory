@@ -8,10 +8,12 @@ source_url: https://github.com/madaburns/bv-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-02T00:04:08Z"
 ---
 ## What it is
 MCP server `Blackveil DNS`, catalogued on PulseMCP. Comprehensive DNS and email security scanner with 80+ checks across SPF, DMARC, DKIM, DNSSEC, and remediation tools.

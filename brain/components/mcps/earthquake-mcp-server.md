@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T07:59:40Z"
 ---
 ## What it is
 Real-time earthquake data and seismic monitoring for AI agents via the USGS Earthquake Catalog API.

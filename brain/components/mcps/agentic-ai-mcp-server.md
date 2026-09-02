@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T20:49:46Z"
 ---
 ## What it is
 An MCP server with real AI capabilities (OpenAI/Anthropic) for natural language understanding, multi-step planning, and autonomous task execution, enabling intelligent file analysis, weather-based planning, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:36:19Z"
 ---
 ## What it is
 Enables headless batchmode control of Unity projects for compile, test, build, and screenshot tasks, avoiding the need for an interactive editor.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-30T22:21:49Z"
 ---
 ## What it is
 MCP server `MercadoPago`, catalogued on PulseMCP. Integrates with MercadoPago's developer documentation API to provide searchable access to payment integration guides and API references across Latin American markets with OAuth authentication and multi-language support.

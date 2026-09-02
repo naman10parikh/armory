@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-13T07:55:37Z"
 ---
 ## What it is
 MCP server `US Weather (NWS)`, catalogued on PulseMCP. US National Weather Service alerts by state and short-term forecasts by coordinates

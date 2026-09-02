@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:48:22Z"
 ---
 ## What it is
 Provides MCP tools for job search, inbound recruiter activity triage, conversation inbox access, and guarded profile updates.

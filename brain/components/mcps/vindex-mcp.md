@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:28:00Z"
 ---
 ## What it is
 Provides Canada-aware vehicle intelligence for AI agents, including VIN decoding with factory warranty terms, merged US/Canada recalls, known-issue reports, and itemized purchase costs, with pay-per-call settlement via USDC on Base using x402.

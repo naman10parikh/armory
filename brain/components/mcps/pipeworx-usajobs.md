@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:32Z"
 ---
 ## What it is
 MCP server `USAJobs`, catalogued on PulseMCP. US federal government job postings via the USAJobs.gov API through Pipeworx's managed gateway.

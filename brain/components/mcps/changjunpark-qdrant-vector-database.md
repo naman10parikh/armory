@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-31T12:33:27Z"
 ---
 ## What it is
 MCP server `Qdrant Vector Database`, catalogued on PulseMCP. Provides a vector database for storing and retrieving code snippets through semantic search using Docker containers and sentence-transformers embeddings

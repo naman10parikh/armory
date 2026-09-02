@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 2
+forks: 2
+pushed_at: "2026-06-19T22:42:57Z"
 ---
 ## What it is
 MCP server for the Tolk smart contract compiler on TON blockchain. Compile, syntax-check, and generate deployment deeplinks for TON contracts directly from AI assistants.

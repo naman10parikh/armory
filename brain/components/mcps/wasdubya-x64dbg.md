@@ -8,10 +8,12 @@ source_url: https://github.com/wasdubya/x64dbgmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 328
+stars: 512
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 64
+pushed_at: "2026-06-05T00:34:07Z"
 ---
 ## What it is
 MCP server `x64dbg`, catalogued on PulseMCP. Enables Claude to control x64dbg through natural language commands for dynamic analysis of software, supporting console commands, debugging status checks, module listing, and memory address lookups.

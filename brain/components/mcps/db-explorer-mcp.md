@@ -8,11 +8,13 @@ source_url: https://github.com/AYUSH-148/DB-Explorer-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T08:21:20Z"
 ---
 ## What it is
 A FastMCP server that enables safe, read-only exploration and querying of relational databases (SQLite, PostgreSQL, MySQL) through natural language, with tools for schema inspection, query execution, plan explanation, and migration validation.

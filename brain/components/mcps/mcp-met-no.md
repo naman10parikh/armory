@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:05Z"
 ---
 ## What it is
 Enables access to MET Norway weather data including global forecasts, Nordic nowcast, sunrise/sunset times, air quality, and ocean forecasts via natural language queries.

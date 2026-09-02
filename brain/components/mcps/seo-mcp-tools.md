@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-03T12:41:40Z"
 ---
 ## What it is
 Provides tools to extract the first or all sitemap URLs from a website's robots.txt file.

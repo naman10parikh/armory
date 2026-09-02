@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-04T16:35:34Z"
 ---
 ## What it is
 MCP server `Chess`, catalogued on PulseMCP. Integrates with Spring AI and chess libraries to enable interactive gameplay and automated analysis for AI-assisted chess applications.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-28T16:06:56Z"
 ---
 ## What it is
 MCP server `Firebase`, catalogued on PulseMCP. Integrates with Firebase services to enable user management, document operations, and file handling for applications using Firebase Authentication, Firestore, and Storage.

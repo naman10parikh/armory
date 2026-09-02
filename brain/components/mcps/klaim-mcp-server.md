@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:38:07Z"
 ---
 ## What it is
 Enables AI agents to request and pay for privacy-preserving human verification claims, such as age over 18, via MCP with x402 settlement on Algorand, returning proofs without exposing personal data.

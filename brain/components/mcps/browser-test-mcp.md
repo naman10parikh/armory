@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:42:47Z"
 ---
 ## What it is
 An MCP server that fuses Playwright and browser-use for browser automation testing, offering 59 tools for AI-driven exploration and precise assertions on a shared browser instance, with built-in stealth anti-detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T14:56:07Z"
 ---
 ## What it is
 Enables an agent to inspect and interact with Android emulators or physical devices via ADB, capturing UI snapshots, tapping nodes, typing text, and reading app logs.

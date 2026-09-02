@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T07:54:03Z"
 ---
 ## What it is
 Enables AI agents to conduct evidence-grounded forensic triage of compromised hosts, with architectural safeguards against evidence spoliation and hallucinated findings, supporting self-correction and chain of custody.

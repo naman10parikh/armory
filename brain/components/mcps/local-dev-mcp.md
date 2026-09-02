@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:41:39Z"
 ---
 ## What it is
 Enables AI agents to work with multiple local projects on Windows, providing file system access and PowerShell command execution, with project auto-detection and support for various dev tools.

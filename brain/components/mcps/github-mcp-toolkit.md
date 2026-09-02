@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:57:24Z"
 ---
 ## What it is
 A production-grade MCP server that provides LLMs with safe, structured, tool-based access to GitHub repositories, including issue management, semantic search, and guarded write operations.

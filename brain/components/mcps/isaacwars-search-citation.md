@@ -8,10 +8,12 @@ source_url: https://github.com/isaacwars/search-citation-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-16T12:48:41Z"
 ---
 ## What it is
 MCP server `Search & Citation`, catalogued on PulseMCP. Academic paper search and citation management with 9 tools spanning OpenAlex, Semantic Scholar, Crossref, arXiv, and Unpaywall.

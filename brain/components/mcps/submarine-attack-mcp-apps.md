@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T14:35:16Z"
 ---
 ## What it is
 MCP server for playing a submarine (Battleship-style) game against an AI, with game rules enforced server-side to prevent cheating.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T17:53:02Z"
 ---
 ## What it is
 MCP server for BlueDart (DHL eCommerce India) shipping API enabling waybill creation, tracking, pickup scheduling, and transit time lookup via MCP tools.

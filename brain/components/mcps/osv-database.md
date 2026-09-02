@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-23T17:22:40Z"
 ---
 ## What it is
 MCP server `OSV Database API`, catalogued on PulseMCP. Integrates with the OSV Database API to query for security vulnerabilities in software packages, retrieve CVE information, and identify affected and fixed versions.

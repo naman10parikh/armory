@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T23:29:58Z"
 ---
 ## What it is
 Provides Kenya precision agriculture tools via MCP, including crop calendar, fertilizer guide, pest alerts, and KALRO crop variety recommendations.

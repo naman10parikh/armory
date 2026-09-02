@@ -8,10 +8,12 @@ source_url: https://github.com/kubesphere/ks-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2025-05-07T08:14:16Z"
 ---
 ## What it is
 MCP server `KubeSphere`, catalogued on PulseMCP. Integrates with KubeSphere APIs to enable management of Kubernetes clusters, workspaces, users, and extensions through natural language commands without navigating the web console.

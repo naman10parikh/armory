@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:10:28Z"
 ---
 ## What it is
 MCP server for Google Books API, enabling volume details, ISBN lookup, and bookshelf access via natural language queries.

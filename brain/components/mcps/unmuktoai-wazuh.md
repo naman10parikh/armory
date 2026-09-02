@@ -8,10 +8,12 @@ source_url: https://github.com/gensecaihq/wazuh-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 178
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 63
+pushed_at: "2026-08-31T20:48:25Z"
 ---
 ## What it is
 MCP server `Wazuh`, catalogued on PulseMCP. Integrates with Wazuh security platform to provide real-time security alerts and event data from Elasticsearch indices for security operations and threat analysis workflows.

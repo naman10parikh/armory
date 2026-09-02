@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-23T03:14:04Z"
 ---
 ## What it is
 Enables searching and retrieving content, module information, and Twig template snippets from a-blog cms via its GET API.

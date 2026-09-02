@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-24T02:05:04Z"
 ---
 ## What it is
 Enables interacting with Amazon Redshift databases through SQL queries, schema exploration, and execution plan analysis.

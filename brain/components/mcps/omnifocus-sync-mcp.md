@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T23:27:46Z"
 ---
 ## What it is
 A headless MCP server that reads and writes OmniFocus data by directly communicating with the Omni Sync Server via WebDAV, enabling task management without a local OmniFocus app.

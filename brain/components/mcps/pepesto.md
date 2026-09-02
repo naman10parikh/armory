@@ -8,10 +8,12 @@ source_url: https://github.com/pepesto-solutions/pepesto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T09:46:51Z"
 ---
 ## What it is
 MCP server `Pepesto`, catalogued on PulseMCP. Converts recipes into matched shopping carts with live prices across 27 European supermarkets via AI agents.

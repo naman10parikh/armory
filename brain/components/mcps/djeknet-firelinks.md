@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-22T18:51:48Z"
 ---
 ## What it is
 MCP server `Firelinks`, catalogued on PulseMCP. Integrates with Firelinks URL shortening platform to create and manage branded short links, configure custom domains with SSL, track detailed click analytics with geographic and device data, and monitor traffic quality metrics for marketing campaigns and business applications.

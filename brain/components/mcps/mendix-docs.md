@@ -8,10 +8,12 @@ source_url: https://github.com/mendixlabs/mendix-doc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-25T09:52:37Z"
 ---
 ## What it is
 MCP server `Mendix Docs`, catalogued on PulseMCP. Search 4,000+ Mendix documentation pages using full-text SQLite indexing.

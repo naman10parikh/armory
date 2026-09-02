@@ -8,10 +8,12 @@ source_url: https://github.com/titaniumtushar/burp-mcp-plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T08:32:06Z"
 ---
 ## What it is
 MCP server `Burp MCP+`, catalogued on PulseMCP. Wraps Burp Suite for AI-assisted penetration testing, providing proxy history access, structured HTTP request building, and Intruder integration.

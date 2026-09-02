@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:19:55Z"
 ---
 ## What it is
 Enables AI agents to add text and image watermarks, search for existing watermarks, and remove watermarks from documents. Supports over 50 document and image formats including PDF, DOCX, and XLSX.

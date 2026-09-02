@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:19:26Z"
 ---
 ## What it is
 Enables MCP clients to inspect and operate MCreator workspaces through MCreator's Java APIs, supporting elements, generators, resources, and builds.

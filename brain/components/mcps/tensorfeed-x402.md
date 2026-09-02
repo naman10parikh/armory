@@ -8,10 +8,12 @@ source_url: https://github.com/rippermercs/tensorfeed-x402-base-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T00:25:22Z"
 ---
 ## What it is
 MCP server `TensorFeed x402 Base Reader`, catalogued on PulseMCP. Read-only Base mainnet reader for verifying x402 payment settlements and AFTA federation status.

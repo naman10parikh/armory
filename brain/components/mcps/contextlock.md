@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T01:29:27Z"
 ---
 ## What it is
 A local-first MCP safety layer that blocks dangerous files and redacts secrets before AI agents can access them, ensuring safe vibe coding.

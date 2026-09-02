@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T07:05:41Z"
 ---
 ## What it is
 MCP server for accessing Indonesian local government data from Satu Data Ngawi. Enables querying datasets, organizations, categories, and statistics through natural language.

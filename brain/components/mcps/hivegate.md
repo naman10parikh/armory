@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:29Z"
 ---
 ## What it is
 MCP server `HiveGate`, catalogued on PulseMCP. Agent admission queue with capacity control and priority tiers for multi-agent systems.

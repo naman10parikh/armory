@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/event-resolver-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6930
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:09Z"
 ---
 ## What it is
 Prediction market event resolution API for AI agents. Determine if real-world events occurred with confidence scores. Aggregates news, price feeds, and web data for binary, numeric, and categorical outcomes. Settlement oracle for prediction markets. Tools: event_resolve_outcome, event_verify_claim, 

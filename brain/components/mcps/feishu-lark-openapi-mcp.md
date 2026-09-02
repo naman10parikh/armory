@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-24T09:39:14Z"
 ---
 ## What it is
 Official MCP server for Feishu/Lark OpenAPI, enabling AI assistants to interact with Feishu/Lark platform for document processing, messaging, calendar scheduling, and more.

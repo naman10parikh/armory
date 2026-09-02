@@ -8,11 +8,13 @@ source_url: https://github.com/thehesiod/psquare-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-27T21:24:10Z"
 ---
 ## What it is
 Enables Claude to access ParentSquare school-parent communication platform, including feeds, calendar, conversations, and media files.

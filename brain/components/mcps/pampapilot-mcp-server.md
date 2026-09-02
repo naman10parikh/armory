@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:26:37Z"
 ---
 ## What it is
 MCP server for controlling REAPER digital audio workstation from natural language. It enables AI agents to create tracks, import audio, adjust mix parameters, and manage sessions through typed operations and a REAPER bridge.

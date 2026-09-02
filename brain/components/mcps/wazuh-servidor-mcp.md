@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T23:09:18Z"
 ---
 ## What it is
 Enables natural language interaction with Wazuh SIEM for alert querying, threat hunting, vulnerability scanning, and active response actions.

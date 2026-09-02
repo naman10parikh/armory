@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T08:44:07Z"
 ---
 ## What it is
 Enables generating images, videos, characters, and scenes through Google Flow. Supports SSE and Vercel deployment for integration with Gemini Spark and other IDEs.

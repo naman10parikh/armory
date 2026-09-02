@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T09:31:27Z"
 ---
 ## What it is
 MCP server `AGTS Sovereign Gateway`, catalogued on PulseMCP. Governance MCP gateway with 64 tools, five-gate authorization, and Merkle transparency log for regulated AI agent deployments.

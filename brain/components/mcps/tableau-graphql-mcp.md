@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:00:22Z"
 ---
 ## What it is
 Enables querying Tableau lineage through the Metadata API via MCP, supporting impact analysis, where-used lookups, and content search. Provides read-only tools for answering natural-language questions about workbooks, datasources, fields, and dependencies.

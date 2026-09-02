@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T11:17:52Z"
 ---
 ## What it is
 A standalone MCP server for Windows desktop control, enabling screenshots, mouse and keyboard input, app launch, window/display management, and clipboard access via natural language.

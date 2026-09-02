@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T10:01:07Z"
 ---
 ## What it is
 MCP server `Prospeo`, catalogued on PulseMCP. Searches and enriches contacts and companies from Prospeo's 200M+ contact database.

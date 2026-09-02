@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:22:18Z"
 ---
 ## What it is
 Enables coding agents to run Playwright e2e tests, validate Supabase RLS policies with role-based SQL, typecheck TypeScript, execute npm scripts with parsed test output, and validate Next.js builds, all through a structured MCP interface.

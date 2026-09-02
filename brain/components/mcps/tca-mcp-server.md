@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-20T08:09:10Z"
 ---
 ## What it is
 Enables starting code analysis and obtaining code analysis reports via the MCP protocol, integrating with Tencent Cloud Code Analysis (TCA).

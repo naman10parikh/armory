@@ -8,11 +8,13 @@ source_url: https://github.com/richer-richard/fenestra
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-13T11:02:29Z"
 ---
 ## What it is
 MCP server for fenestra, a pure-Rust native GUI framework. Renders and verifies native UIs headlessly (no display, no GPU): a typed accessibility tree, semantic query/interact, contrast/focus-order/hit-target checks, screenshot diffing, and motion filmstrips.

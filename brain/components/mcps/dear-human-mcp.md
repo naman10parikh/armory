@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:41:25Z"
 ---
 ## What it is
 MCP server that enables AI agents to browse e-card templates, phrases, and offers, and send customizable e-cards to humans.

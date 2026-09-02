@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:55:49Z"
 ---
 ## What it is
 MCP server for integrating and automating the SEI (Sistema Eletrônico de Informações) with direct user/password authentication, enabling process management, document reading, advanced search, and unit switching.

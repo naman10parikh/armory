@@ -8,10 +8,12 @@ source_url: https://github.com/chroma-core/package-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-14T01:03:41Z"
 ---
 ## What it is
 MCP server `Package Search`, catalogued on PulseMCP. Provides access to versioned source code from major open-source projects including Go, Python, Rust, and LLVM through GitHub releases integration with automatic tracking and indexing of tagged releases for canonical code examples and language evolution analysis.

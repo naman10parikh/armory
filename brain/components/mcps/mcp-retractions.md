@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:36:52Z"
 ---
 ## What it is
 Search the retracted literature (Crossref update-type:retraction, ~73k works) by keyword, optionally filtered by subject and publication year range.

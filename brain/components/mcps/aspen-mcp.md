@@ -8,11 +8,13 @@ source_url: https://github.com/ddtlxc001/aspen-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-29T16:40:54Z"
 ---
 ## What it is
 Enables natural language control of Aspen Plus for chemical process simulation, including parameter tuning, batch runs, and result reading.

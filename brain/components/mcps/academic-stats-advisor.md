@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T01:22:33Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to call statistician's decision logic for recommending statistical tests, checking assumptions, interpreting results, and planning sample sizes.

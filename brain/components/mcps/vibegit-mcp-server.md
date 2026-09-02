@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-13T15:48:57Z"
 ---
 ## What it is
 Logs and analyzes AI assistant conversations, including file operations and tool usage, storing them in the .vibe/ directory.

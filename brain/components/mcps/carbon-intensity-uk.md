@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T20:02:46Z"
 ---
 ## What it is
 Enables querying of real-time and forecast UK carbon intensity data from National Grid ESO, allowing AI agents to retrieve carbon emissions by region and time.

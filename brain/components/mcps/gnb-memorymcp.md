@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:50:48Z"
 ---
 ## What it is
 A vendor-independent memory layer MCP server that enables multiple LLMs and AI agents to share and persist personal memories, knowledge, and context across sessions, with support for full-text search and tagging.

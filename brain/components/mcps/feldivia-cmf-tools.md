@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T19:12:42Z"
 ---
 ## What it is
 MCP server `CMF Tools`, catalogued on PulseMCP. MCP server for Chilean financial regulation data including UF, dollar, euro, UTM rates, CMF fraud alerts, and economic indicators.

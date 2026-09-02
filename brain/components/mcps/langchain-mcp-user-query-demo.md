@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T18:55:25Z"
 ---
 ## What it is
 A demonstrative MCP server that exposes a query-user tool for retrieving user info by ID, integrated with LangChain for agent-driven model reasoning and tool calls.

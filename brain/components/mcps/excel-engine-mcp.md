@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:08:38Z"
 ---
 ## What it is
 Enables real Excel desktop automation to recalculate formulas, read computed cell values, and export true-fidelity PDFs, complementing library-based workflows.

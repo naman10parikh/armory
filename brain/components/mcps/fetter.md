@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T22:38:43Z"
 ---
 ## What it is
 MCP server `Fetter`, catalogued on PulseMCP. Real-time Python package metadata and vulnerability data for AI coding agents.

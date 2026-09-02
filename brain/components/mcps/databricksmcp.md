@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T20:27:24Z"
 ---
 ## What it is
 A production-ready MCP server template with example tools for health check and user information, designed for Databricks Apps deployment.

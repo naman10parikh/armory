@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-15T21:12:43Z"
 ---
 ## What it is
 Enables interaction with UCO Bank APIs through the Model Context Protocol, supporting banking operations such as account lookup, transaction history, and more.

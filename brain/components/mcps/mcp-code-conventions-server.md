@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-31T03:12:59Z"
 ---
 ## What it is
 Provides AI agents with structured access to project conventions, technology stacks, and architectural patterns to ensure consistency across development teams.

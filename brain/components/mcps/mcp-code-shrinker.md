@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:39:46Z"
 ---
 ## What it is
 A semantic context compiler MCP server that provides stratified L0-L3 code context with exact-source escalation, enabling project analysis, symbol contracts, exact source retrieval, and a patching workflow with sandbox validation.

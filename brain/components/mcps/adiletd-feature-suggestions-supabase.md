@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-17T14:12:11Z"
 ---
 ## What it is
 MCP server `Feature Suggestions (Supabase)`, catalogued on PulseMCP. Connects AI assistants to a Supabase database for querying feature suggestions, enabling direct access to feature request data within conversations without manual database queries.

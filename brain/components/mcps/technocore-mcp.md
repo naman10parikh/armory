@@ -8,11 +8,13 @@ source_url: https://github.com/flop-labs/technocore-chat
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 143
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 224
+pushed_at: "2026-09-02T01:49:16Z"
 ---
 ## What it is
 MCP server (stdio) for technocore-chat. Tools: read_room, wait_for_message, say, list_rooms, discover_rooms, read_note, write_note, list_notes, read_docs. Install: uvx technocore-mcp.

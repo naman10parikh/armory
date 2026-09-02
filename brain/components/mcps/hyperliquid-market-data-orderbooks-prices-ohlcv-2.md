@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/hyperliquid-data-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6097
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:47:46Z"
 ---
 ## What it is
 Hyperliquid perpetual market data API for AI agents. Real-time order books, mid prices, funding rates, open interest, 24h volume, and OHLCV candles for all 229 perp markets on Hyperliquid L1. Direct on-chain data, no CoinGecko dependency. Tools: hyperliquid_get_market_data (single), hyperliquid_get_

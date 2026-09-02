@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 9
+stars: 8
+forks: 7
+pushed_at: "2025-05-06T08:53:13Z"
 ---
 ## What it is
 Streams real-time cryptocurrency liquidation events from Binance.

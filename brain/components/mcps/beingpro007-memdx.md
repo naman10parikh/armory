@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-27T03:23:13Z"
 ---
 ## What it is
 MCP server `MemDx`, catalogued on PulseMCP. Provides local memory layer using Qdrant vector storage and Ollama embeddings for persistent context storage across conversations, automatically indexing project documentation and enabling user-defined memory segregation by project without requiring API keys or cloud dependencies.

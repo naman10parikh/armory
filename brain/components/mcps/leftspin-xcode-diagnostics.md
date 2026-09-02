@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-24T18:21:03Z"
 ---
 ## What it is
 MCP server `Xcode Diagnostics`, catalogued on PulseMCP. Extracts and parses Xcode build errors and warnings from DerivedData logs, providing structured diagnostic information with file paths, line numbers, error messages, and fix-it suggestions for Swift projects.

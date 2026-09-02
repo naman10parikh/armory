@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T22:32:23Z"
 ---
 ## What it is
 Acts as a bridge between AI agents (Claude, Cursor) and 1C:Enterprise databases, enabling metadata retrieval, configuration analysis, and code generation through natural language using the MCP protocol.

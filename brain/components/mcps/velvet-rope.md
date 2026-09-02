@@ -8,11 +8,13 @@ source_url: https://github.com/paulchum/velvet-rope
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:19:16Z"
 ---
 ## What it is
 An MCP server for agent authorization that tests the full effect surface and enforces control over consequential actions before dispatch, emitting verifiable execution evidence.

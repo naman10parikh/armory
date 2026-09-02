@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T10:25:48Z"
 ---
 ## What it is
 Integrates Perplexity API into Claude/Cowork as MCP tools for search, trend scouting, and deep research.

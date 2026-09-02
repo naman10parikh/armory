@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T06:57:59Z"
 ---
 ## What it is
 MCP server `TradingView Morning Brief`, catalogued on PulseMCP. Connects to TradingView Desktop via Chrome DevTools Protocol for automated watchlist scanning and trading bias analysis.

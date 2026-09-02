@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T18:16:23Z"
 ---
 ## What it is
 Bridges multiple CLI coding agents (Codex, Cursor, OpenCode, Claude, Antigravity) into any MCP client, enabling delegation of prompts, parallel execution, and code review workflows.

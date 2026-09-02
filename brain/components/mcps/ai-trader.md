@@ -8,12 +8,14 @@ source_url: https://github.com/whchien/ai-trader
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1062
+stars: 1063
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 146
+pushed_at: "2026-03-28T11:16:18Z"
 ---
 ## What it is
 Enables AI assistants like Claude to run backtests, fetch market data, list strategies, and analyze trading algorithms via natural language.

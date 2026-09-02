@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-31T17:12:55Z"
 ---
 ## What it is
 MCP server `RagAlgo`, catalogued on PulseMCP. Financial data and sentiment analysis for Korean stock and cryptocurrency markets

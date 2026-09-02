@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T18:27:59Z"
 ---
 ## What it is
 Docuplete automates document completion for businesses — PDF templates, client interview forms, and e-signatures in one platform. The MCP server lets you drive the entire workflow from a conversation: find your document packages, start a client session, prefill fields from context, and generate the 

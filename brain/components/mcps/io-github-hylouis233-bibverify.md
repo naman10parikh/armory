@@ -8,11 +8,13 @@ source_url: https://github.com/Hylouis233/bibverify
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 76
+stars: 101
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T04:39:51Z"
 ---
 ## What it is
 A multi-platform BibTeX reference verification and update tool with DOI-first lookup, dynamic source ranking, MCP tools, and skill export for AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:17:01Z"
 ---
 ## What it is
 MCP server providing 100% offline access to QuantConnect/Lean documentation with semantic search, code validation, repair, and scaffolding tools for AI coding assistants.

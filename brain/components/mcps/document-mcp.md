@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:31:41Z"
 ---
 ## What it is
 An MCP server that exposes documents.js's document conversion, .odb, metadata, and font tooling as MCP tools, enabling agents to convert, inspect, and edit a wide range of document formats over stdio.

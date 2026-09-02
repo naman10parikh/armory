@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-06T14:51:56Z"
 ---
 ## What it is
 MCP server `Exa Search`, catalogued on PulseMCP. Provides intelligent discovery and research of Model Context Protocol servers using Exa search with tools for finding servers based on requirements, extracting detailed information, discovering similar implementations, and organizing results by functionality with confidence scoring and feature analysis.

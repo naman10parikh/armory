@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T03:49:54Z"
 ---
 ## What it is
 MCP server `ACMI`, catalogued on PulseMCP. Persistent agent memory with Profile, Signals, and Timeline layers backed by Upstash Redis.

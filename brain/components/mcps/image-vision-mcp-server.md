@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T14:56:26Z"
 ---
 ## What it is
 Enables text-only language models to 'see' and describe images by calling multimodal APIs (OpenAI, Anthropic) for image analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:23:06Z"
 ---
 ## What it is
 A Model Context Protocol server that consolidates 237+ social/e-commerce data APIs (TikTok, Xiaohongshu, Taobao, etc.) into 6 fixed tools, enabling natural language semantic search and dynamic invocation without code changes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T14:32:24Z"
 ---
 ## What it is
 MCP server for the OCPI SDK that enables AI-assisted communication with EV charging infrastructure via the Open Charge Point Interface protocol.

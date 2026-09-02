@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T01:46:34Z"
 ---
 ## What it is
 MCP server `Ghostfree`, catalogued on PulseMCP. Scans repository dependencies for known security vulnerabilities using CVE data from OSV.dev, NVD, and CISA.

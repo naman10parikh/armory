@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-11T15:04:57Z"
 ---
 ## What it is
 Provides email, phone, and address validation using Byteplant's APIs. Enables real-time live validation in any MCP-compatible client.

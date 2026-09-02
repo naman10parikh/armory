@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T03:22:04Z"
 ---
 ## What it is
 Provides structured personal data (skills, experiences, values) as context to AI services, enabling personalized outputs across different AI applications.

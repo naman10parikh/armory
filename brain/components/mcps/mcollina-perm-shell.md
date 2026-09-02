@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-10T20:04:37Z"
 ---
 ## What it is
 MCP server `PermShell`, catalogued on PulseMCP. Enables secure execution of shell commands through desktop notifications that require explicit user approval for each operation, maintaining strong security boundaries for local system access.

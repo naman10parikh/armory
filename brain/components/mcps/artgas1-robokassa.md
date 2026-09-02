@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T23:36:48Z"
 ---
 ## What it is
 MCP server `Robokassa`, catalogued on PulseMCP. Community integration for the Robokassa payment gateway covering checkout, refunds, and fiscal receipts.

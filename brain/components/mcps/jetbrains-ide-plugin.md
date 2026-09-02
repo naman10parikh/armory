@@ -8,10 +8,12 @@ source_url: https://github.com/jetbrains/mcp-server-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 129
+stars: 134
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 42
+pushed_at: "2025-08-18T09:31:30Z"
 ---
 ## What it is
 MCP server `JetBrains IDE Plugin`, catalogued on PulseMCP. Integrates Large Language Models with JetBrains IDEs, enabling custom AI-powered tools for code generation, refactoring, and development tasks.

@@ -8,10 +8,12 @@ source_url: https://github.com/testdino-hq/testdino-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-10T06:35:03Z"
 ---
 ## What it is
 MCP server `TestDino`, catalogued on PulseMCP. Playwright test reporting and analytics platform with natural language test querying

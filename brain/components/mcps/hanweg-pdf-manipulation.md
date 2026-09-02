@@ -8,10 +8,12 @@ source_url: https://github.com/hanweg/mcp-pdf-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2024-12-22T21:17:48Z"
 ---
 ## What it is
 MCP server `PDF Manipulation`, catalogued on PulseMCP. Integrates PDF manipulation capabilities using Python libraries to enable merging, extraction, and content-based document retrieval tasks.

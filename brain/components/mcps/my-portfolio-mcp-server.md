@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T07:48:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for managing investment portfolios, enabling transaction tracking, position management, alerts, and daily snapshots with Google Drive sync.

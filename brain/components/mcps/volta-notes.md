@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T09:29:21Z"
 ---
 ## What it is
 MCP server `Volta Notes`, catalogued on PulseMCP. Burn-after-read encrypted notes with E2E encryption on the Internet Computer.

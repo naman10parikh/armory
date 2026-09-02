@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:55:52Z"
 ---
 ## What it is
 Turns Google Calendar history into a searchable people CRM, enabling queries about meeting patterns, relationships, and contacts through natural language with any MCP client.

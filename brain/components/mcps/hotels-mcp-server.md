@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-03-28T17:33:22Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that allows LLMs to search for hotels and destinations using the Booking.com API.

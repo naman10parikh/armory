@@ -13,7 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 1337
+stars: 1346
+forks: 189
+pushed_at: "2026-08-31T13:13:57Z"
 ---
 ## What it is
 A community CLI tool by Mike Bailey, catalogued in awesome-claude-code. VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).

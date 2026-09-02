@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:05:58Z"
 ---
 ## What it is
 Provides persistent memory and knowledge management for coding agents via MCP, including typed decision/snippet/runbook storage, semantic search, explicit session lifecycle, and nightly consolidation.

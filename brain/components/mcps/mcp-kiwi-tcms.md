@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:19:02Z"
 ---
 ## What it is
 Enables interaction with Kiwi TCMS test management system through MCP, supporting read and write operations on test plans, cases, runs, and executions, with API key authentication.

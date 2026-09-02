@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:39:17Z"
 ---
 ## What it is
 Hosted MCP server that enables AI assistants to manage clients, invoices, and expenses via the Invox API, supporting actions like drafting, sending, cancelling, and marking invoices as paid, as well as logging expenses and updating client information.

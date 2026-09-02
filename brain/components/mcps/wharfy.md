@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:05:16Z"
 ---
 ## What it is
 MCP server for managing local dev ports on macOS. It enables AI agents to inspect listening ports, identify owning processes and parent chains, kill processes safely, wait for ports, and report LAN exposure.

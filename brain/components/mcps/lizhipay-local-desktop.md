@@ -8,10 +8,12 @@ source_url: https://github.com/lizhipay/claude-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-29T14:43:04Z"
 ---
 ## What it is
 MCP server `Local MCP Desktop`, catalogued on PulseMCP. A cross-platform Tauri desktop application that runs a local MCP Streamable HTTP service at 127.0.0.1:8765 for coding tools to invoke Claude-compatible APIs with file and command execution.

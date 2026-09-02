@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:36:08Z"
 ---
 ## What it is
 Enables interaction with Posthog through a standardized MCP interface, providing access to Posthog's tools and services for analytics and product management.

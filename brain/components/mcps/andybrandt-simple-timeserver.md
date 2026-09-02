@@ -8,10 +8,12 @@ source_url: https://github.com/andybrandt/mcp-simple-timeserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-02-18T10:34:44Z"
 ---
 ## What it is
 MCP server `Simple Timeserver`, catalogued on PulseMCP. Access accurate local and UTC time information.

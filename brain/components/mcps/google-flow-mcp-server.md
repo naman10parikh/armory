@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:00:55Z"
 ---
 ## What it is
 Automates sports editorial graphic poster creation using Google Flow through a Playwright-based pipeline, exposing a FastMCP server for integration with MCP clients.

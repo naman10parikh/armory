@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-25T18:31:31Z"
 ---
 ## What it is
 MCP server `Core Lightning`, catalogued on PulseMCP. Provides direct access to Core Lightning nodes through gRPC interface, enabling Lightning Network operations including channel management, payment tracking, invoice handling, node monitoring, and financial analysis of routing fees and channel profitability.

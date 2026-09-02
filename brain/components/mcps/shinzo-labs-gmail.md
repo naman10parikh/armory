@@ -8,10 +8,12 @@ source_url: https://github.com/shinzo-labs/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 50
+pushed_at: "2025-11-25T09:52:52Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Manage your emails effortlessly with a standardized interface for drafting, sending, retrieving, and organizing messages. Streamline your email workflow with complete Gmail API coverage, including label and thread management.

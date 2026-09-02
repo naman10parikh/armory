@@ -8,10 +8,12 @@ source_url: https://github.com/alexey-pelykh/qontoctl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T14:16:17Z"
 ---
 ## What it is
 MCP server `Qonto Banking`, catalogued on PulseMCP. CLI and MCP interface for the Qonto business banking API.

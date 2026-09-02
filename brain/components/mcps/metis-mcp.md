@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:53:19Z"
 ---
 ## What it is
 MCP server for researching tokenized real-world assets on Solana. It provides on-chain tools for checking token controls, supply, liquidity, and premium, plus published research from Metis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:13:28Z"
 ---
 ## What it is
 MCP server exposing distributed industrial asset data (battery storage, EV chargers, solar arrays) with tools for asset status, geospatial search, alerts, anomaly explanation, and load simulation.

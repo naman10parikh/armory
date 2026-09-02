@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T17:35:02Z"
 ---
 ## What it is
 MCP server `Hooklayer`, catalogued on PulseMCP. Viral content intelligence platform analyzing social media hooks and engagement patterns with evidence-layer scoring.

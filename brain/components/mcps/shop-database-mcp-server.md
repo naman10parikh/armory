@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:25:50Z"
 ---
 ## What it is
 This server lets AI agents discover a SQLite shop database schema, compose read-only analytical SQL, and determine which questions the database cannot answer.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-16T11:25:12Z"
 ---
 ## What it is
 MCP server `Metaplex`, catalogued on PulseMCP. Bridges Metaplex documentation and repositories, enabling searches and retrievals for Solana NFT development workflows.

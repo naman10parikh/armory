@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:39:56Z"
 ---
 ## What it is
 An MCP server for generating process diagrams and CONOPS visuals for government and defense proposals using a multiagent AI pipeline with Gemini models.

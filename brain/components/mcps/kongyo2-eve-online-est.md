@@ -8,10 +8,12 @@ source_url: https://github.com/kongyo2/eve-est-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-05T11:23:55Z"
 ---
 ## What it is
 MCP server `EVE Online EST`, catalogued on PulseMCP. Provides EVE Online server time and daily maintenance downtime calculations to help players plan gameplay sessions and fleet operations around the predictable 11:00-11:15 UTC maintenance window.

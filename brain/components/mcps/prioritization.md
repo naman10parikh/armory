@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:34:46Z"
 ---
 ## What it is
 An MCP server that provides a drag-and-drop UI for prioritizing list items, allowing users to reorder items interactively and send the prioritized list back to the chat. It supports MCP Apps UI rendering and falls back to text instructions for hosts without UI support.

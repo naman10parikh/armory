@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:01:38Z"
 ---
 ## What it is
 Generate real pixel art — sprites, animations, and tilesets — from any MCP-capable AI assistant. Grid-aligned pixels, controlled palettes, transparent backgrounds, with cost estimation always free.

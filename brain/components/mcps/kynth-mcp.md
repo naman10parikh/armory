@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:41:32Z"
 ---
 ## What it is
 Provides two read-only compliance lookup tools: ADA accessibility reports for US local-government domains and nonprofit status checks against IRS and California registries. No API key or signup required.

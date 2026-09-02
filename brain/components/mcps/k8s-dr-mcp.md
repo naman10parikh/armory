@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:01:11Z"
 ---
 ## What it is
 Enables AI agents to diagnose and recover Kubernetes clusters when the API server is unreachable, using SSH access to nodes and tools like etcdctl, systemctl, and kubeadm with 63 read-only and destructive tools.

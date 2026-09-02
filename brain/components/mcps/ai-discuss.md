@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:20:44Z"
 ---
 ## What it is
 Enables a host AI agent to trigger a multi-agent debate, running N-rounds where agents critique each other's answers, then synthesizes a consensus recommendation with ranked options.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T15:42:59Z"
 ---
 ## What it is
 Remote MCP server providing access to Jina Reader, Embeddings, and Reranker APIs for web content extraction, search, and AI-powered text processing.

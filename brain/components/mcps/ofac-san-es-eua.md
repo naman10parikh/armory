@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:48:26Z"
 ---
 ## What it is
 Verifies names against US OFAC sanctions lists, including SDN and Non-SDN, for compliance and AML. It provides a read-only MCP tool that works with any MCP client via HTTP.

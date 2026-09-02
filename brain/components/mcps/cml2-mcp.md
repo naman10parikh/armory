@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T14:47:25Z"
 ---
 ## What it is
 Thin MCP server for Cisco CML2 that exposes the live OpenAPI specification and a generic API call tool, enabling models to interact with CML2 by reading the spec first.

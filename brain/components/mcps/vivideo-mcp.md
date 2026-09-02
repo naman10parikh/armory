@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:42:44Z"
 ---
 ## What it is
 MCP server providing 13 agent-friendly tools for video creation and management via the Vivideo API, with built-in rate limiting, retries, and secret redaction.

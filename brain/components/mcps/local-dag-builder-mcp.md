@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T11:55:24Z"
 ---
 ## What it is
 A private-by-default, local-first DAG editor that lets you build causal diagrams visually, validate cycles, and save/export as JSON, SVG, or PNG through MCP tools.

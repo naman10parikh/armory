@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 2
+forks: 3
+pushed_at: "2026-03-25T10:26:01Z"
 ---
 ## What it is
 Implementation of HTTP 402 (payment required http code) relying on Solana

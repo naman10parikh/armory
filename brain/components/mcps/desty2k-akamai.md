@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-28T20:26:26Z"
 ---
 ## What it is
 MCP server `Akamai CDN`, catalogued on PulseMCP. Read-only access to Akamai CDN properties, EdgeWorkers, DNS, and network lists.

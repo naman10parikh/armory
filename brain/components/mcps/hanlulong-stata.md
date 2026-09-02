@@ -8,10 +8,12 @@ source_url: https://github.com/hanlulong/stata-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 394
+stars: 491
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 85
+pushed_at: "2026-07-05T20:35:39Z"
 ---
 ## What it is
 MCP server `Stata`, catalogued on PulseMCP. Integrates Stata statistical software with code editors like VS Code and Cursor, enabling direct command execution, real-time output viewing, and contextual coding assistance for data scientists and researchers.

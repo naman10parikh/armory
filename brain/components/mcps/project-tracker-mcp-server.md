@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T06:14:03Z"
 ---
 ## What it is
 MCP server for managing hierarchical project tracking with PostgreSQL. Enables AI agents to create, read, update, and delete projects, epics, stories, summaries, status updates, context, and issues.

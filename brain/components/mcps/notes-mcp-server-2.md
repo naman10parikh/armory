@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T04:54:55Z"
 ---
 ## What it is
 Enables Claude to read and analyze notes from the macOS Notes app, with configurable access control via allowlist/denylist modes.

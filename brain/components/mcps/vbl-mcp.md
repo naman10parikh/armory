@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:14:52Z"
 ---
 ## What it is
 A read-only MCP server that provides access to the public Basketball Vlaanderen (VBL) API, enabling users to query clubs, teams, matches, standings, and more.

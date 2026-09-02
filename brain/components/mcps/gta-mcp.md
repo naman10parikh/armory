@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T12:39:20Z"
 ---
 ## What it is
 Enables GTA Online money making with live tools for weekly bonuses, business tracking, map locations, and a session planner.

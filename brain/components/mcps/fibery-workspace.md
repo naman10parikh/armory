@@ -8,10 +8,12 @@ source_url: https://github.com/fibery-inc/fibery-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-05-13T07:45:30Z"
 ---
 ## What it is
 MCP server `Fibery`, catalogued on PulseMCP. Provides a flexible integration with the Fibery API, enabling querying, creating, and updating entities across collaborative work tracking platforms through standardized tools.

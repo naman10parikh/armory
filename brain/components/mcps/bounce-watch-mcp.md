@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:19:05Z"
 ---
 ## What it is
 Tracks buying and momentum signals for companies, such as funding rounds, senior hires, office openings, customer wins, and partnerships, with each event carrying its date.

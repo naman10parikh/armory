@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-09T18:52:23Z"
 ---
 ## What it is
 MCP server `Paybyrd Payment Processing`, catalogued on PulseMCP. Integrates with Paybyrd's payment processing API to enable creating payment links, processing refunds, and retrieving order information through a JavaScript library with configurable permissions and comprehensive error handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T22:13:54Z"
 ---
 ## What it is
 Enables AI agents to manage virtual clinic data including patients, visits, diagnoses, treatments, lab/radiology orders, and search medical literature and internal knowledge base.

@@ -8,10 +8,12 @@ source_url: https://github.com/navbuildz/gmail-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2026-04-03T01:54:08Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. MCP server for full Gmail access — reading, searching, archiving, labeling, unsubscribing, and batch processing across multiple accounts.

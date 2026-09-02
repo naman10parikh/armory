@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-10T13:35:37Z"
 ---
 ## What it is
 MCP server `Garmin Connect IQ Documentation`, catalogued on PulseMCP. Integration with Garmin Connect IQ API documentation - complete offline access via the Garmin SDK

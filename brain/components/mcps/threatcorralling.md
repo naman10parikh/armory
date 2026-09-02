@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T01:44:53Z"
 ---
 ## What it is
 An MCP server that automates vulnerability correlation across security tools like Checkmarx and Tenable, using LLMs to determine reachability, map compliance controls (SOC2, ISO27001), and generate remediation and regression testing patterns.

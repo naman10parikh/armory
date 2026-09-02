@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T09:13:41Z"
 ---
 ## What it is
 Built on Obsidian Vault, this MCP server integrates with Claude Code to provide personal knowledge management including note saving, full-text search, code graph extraction, and context resumption.

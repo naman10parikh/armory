@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T05:49:16Z"
 ---
 ## What it is
 MCP server and CLI tool for interacting with Kaiten project management API, optimized for token efficiency. Enables AI assistants to search, create, update, and manage tasks with minimal token usage.

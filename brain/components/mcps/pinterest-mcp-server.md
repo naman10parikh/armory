@@ -8,11 +8,13 @@ source_url: https://github.com/collactivelabs/pinterest-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-05-24T17:54:44Z"
 ---
 ## What it is
 Enables AI agents to interact with the Pinterest API, allowing management of boards and pins through natural language commands.

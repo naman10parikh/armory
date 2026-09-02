@@ -8,10 +8,12 @@ source_url: https://github.com/bob-lance/grok-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-06-02T18:12:11Z"
 ---
 ## What it is
 MCP server `Grok`, catalogued on PulseMCP. Provides direct integration with Grok AI's language and vision capabilities, exposing chat completion, image understanding, and function calling tools for developers to interact with Grok's latest models.

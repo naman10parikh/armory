@@ -8,11 +8,13 @@ source_url: https://github.com/TipRanks/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:15:11Z"
 ---
 ## What it is
 Live TipRanks financial data & analyst research for AI agents - analyst ratings, Smart Score, technicals, options, and your portfolios.

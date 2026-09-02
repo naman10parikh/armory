@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T02:57:50Z"
 ---
 ## What it is
 An MCP server wrapping PaddleOCR to provide OCR text recognition for Chinese, English, Japanese, and Korean languages, supporting images from local paths, URLs, and base64 data.

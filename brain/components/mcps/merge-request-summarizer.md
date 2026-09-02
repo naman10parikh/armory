@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-29T16:31:22Z"
 ---
 ## What it is
 MCP server `Merge Request Summarizer`, catalogued on PulseMCP. Automates git merge request analysis by categorizing commits, estimating review time, and generating structured markdown or JSON summaries of changes between branches.

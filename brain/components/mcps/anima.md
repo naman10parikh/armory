@@ -8,10 +8,12 @@ source_url: https://github.com/animaapp/mcp-server-guide
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-28T15:35:29Z"
 ---
 ## What it is
 MCP server `Anima`, catalogued on PulseMCP. Connect AI agents to Anima Playground, Figma, and design systems.

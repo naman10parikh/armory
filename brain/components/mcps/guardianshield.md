@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-03T04:02:02Z"
 ---
 ## What it is
 Universal AI security layer for code scanning, PII detection, prompt injection defense, secret detection, dependency auditing, and audit logging.

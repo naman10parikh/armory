@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:53:43Z"
 ---
 ## What it is
 MCP server that wraps SportsGameOdds and BALLDONTLIE APIs to provide sports scheduling, odds, injuries, and team statistics tools for building TKB Picks threads.

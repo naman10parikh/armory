@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-11T16:45:15Z"
 ---
 ## What it is
 MCP server `Web Fetch`, catalogued on PulseMCP. Fetches and converts web pages to markdown format with automatic image extraction and proxy support for accessing content through corporate networks or restricted environments.

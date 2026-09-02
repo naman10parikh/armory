@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:17:11Z"
 ---
 ## What it is
 Read-only MCP server exposing Ads AI Creator's image styles, pricing, and FAQ for AI clients to generate ad knowledge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:05:29Z"
 ---
 ## What it is
 Enables zero-API-cost visual understanding, text Q&A, image generation, and video analysis by driving the Quark browser's built-in AI chat page via CDP and Playwright.

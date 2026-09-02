@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:46Z"
 ---
 ## What it is
 Read-only MCP server that enables AI agents to query official SEFAZ RJ NFC-e (electronic invoice) data via a hosted HTTP endpoint with prepaid credits, supporting multiple MCP-compatible clients.

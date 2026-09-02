@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:57:01Z"
 ---
 ## What it is
 Sandboxed bash execution MCP server for AI agents, using an in-memory virtual filesystem overlay to prevent real filesystem damage, with configurable network access, timeouts, and optional Python/JS runtimes.

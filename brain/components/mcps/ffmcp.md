@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T04:47:24Z"
 ---
 ## What it is
 A local MCP server for Firefox that gives AI agents full control over the browser via a Unix socket, enabling automation of tabs, pages, cookies, and more without exposing any network ports.

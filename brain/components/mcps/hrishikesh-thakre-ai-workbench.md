@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-27T17:03:45Z"
 ---
 ## What it is
 MCP server `AI Workbench`, catalogued on PulseMCP. Goose-compatible acceptance evidence tracking, validation gates, and analytics for AI workbench workflows.

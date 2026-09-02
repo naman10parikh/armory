@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:51:29Z"
 ---
 ## What it is
 This MCP server provides a read-only tool to find products without entitlement records using deterministic mock data, supporting publisher filtering and result limits. It is a pilot scaffold for Open iT and ServiceNow SAM Pro integration.

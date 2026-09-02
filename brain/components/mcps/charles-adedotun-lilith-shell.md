@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-05T22:29:00Z"
 ---
 ## What it is
 MCP server `Lilith Shell`, catalogued on PulseMCP. Enables secure execution of terminal commands with configurable working directories and timeout protection, capturing stdout, stderr, and exit codes for system operations and development tools.

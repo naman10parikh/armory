@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T04:31:48Z"
 ---
 ## What it is
 Enables AI coding agents to send structured Telegram notifications for events like questions, plan_ready, final, attention_needed, and error.

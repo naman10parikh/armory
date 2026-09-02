@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:07:51Z"
 ---
 ## What it is
 Exposes the ProDoctor Cloud API as MCP tools for AI agents to manage appointments, patients, users, and procedures.

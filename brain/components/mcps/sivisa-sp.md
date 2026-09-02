@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:26Z"
 ---
 ## What it is
 MCP server for read-only consultation of Sivisa: SP data from official sources. It provides a single tool (sivisa_sp_consultar) and works with any MCP client over HTTP, using prepaid credits.

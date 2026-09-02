@@ -8,10 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-dictionary
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:00:17Z"
 ---
 ## What it is
 MCP server `Dictionary`, catalogued on PulseMCP. Retrieves word definitions, phonetics, synonyms, and examples from the Free Dictionary API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:42:38Z"
 ---
 ## What it is
 Enables querying the Quran, Tafsir (commentaries), and Hadith (sayings of Prophet Muhammad) from a relational MySQL database through natural language, using the Model Context Protocol for structured, anti-hallucination responses.

@@ -8,11 +8,13 @@ source_url: https://github.com/dklymentiev/screenbox
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-30T21:23:53Z"
 ---
 ## What it is
 Provides AI agents with isolated virtual desktops containing a real Chromium browser, enabling them to see, click, type, and navigate like a human, with features like snapshots and remote control.

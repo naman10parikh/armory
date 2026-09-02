@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T08:59:58Z"
 ---
 ## What it is
 Enables AI agents to autonomously discover and call a marketplace of 100+ APIs, including web search, image generation, and more, with automatic payments and refunds.

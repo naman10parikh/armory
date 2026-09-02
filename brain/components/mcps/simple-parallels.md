@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:55:47Z"
 ---
 ## What it is
 MCP server for managing Parallels Desktop VMs, including lifecycle operations and snapshots.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T20:50:35Z"
 ---
 ## What it is
 MCP server `Pexels`, catalogued on PulseMCP. Search Pexels stock photos, videos, and curated collections from AI agents.

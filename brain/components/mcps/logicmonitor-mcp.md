@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:01:17Z"
 ---
 ## What it is
 Exposes the LogicMonitor REST API as MCP tools with per-request LMv1 authentication, enabling querying of devices, alerts, reports, and more.

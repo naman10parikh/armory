@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-13T05:39:57Z"
 ---
 ## What it is
 The most capable MCP server for Final Cut Pro — 88 tools covering FCPXML editing, live FCP control, parametric puppets, and media analysis.

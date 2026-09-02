@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:23Z"
 ---
 ## What it is
 MCP server for agent reputation staking — trust through skin-in-the-game. Agents deposit stakes as trust collateral, with slashing for bad behavior and reputation building over time.

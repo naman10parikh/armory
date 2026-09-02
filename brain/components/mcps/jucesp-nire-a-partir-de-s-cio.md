@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:33Z"
 ---
 ## What it is
 Finds companies registered at JUCESP from a partner's name, CPF, or CNPJ, returning the NIRE of each participation. It is a read-only MCP server hosted at api.mcp.ai.

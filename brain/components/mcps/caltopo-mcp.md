@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T07:56:10Z"
 ---
 ## What it is
 HTTP MCP server for managing CalTopo maps from headless agents, enabling map listing, folder management, marker operations, and GPX/KML import/export without a browser.

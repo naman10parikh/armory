@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T12:56:56Z"
 ---
 ## What it is
 MCP server for MeetAlfred LinkedIn automation, enabling campaign monitoring, lead management, reply tracking, messaging, tag management, campaign CRUD, and social post scheduling.

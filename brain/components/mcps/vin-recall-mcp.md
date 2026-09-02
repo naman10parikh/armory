@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:22:17Z"
 ---
 ## What it is
 A remote MCP server that provides tools to decode vehicle VINs and check for open safety recalls using NHTSA's public APIs.

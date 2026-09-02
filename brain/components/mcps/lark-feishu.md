@@ -8,10 +8,12 @@ source_url: https://github.com/larksuite/lark-openapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 707
+stars: 814
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 115
+pushed_at: "2025-08-14T05:39:18Z"
 ---
 ## What it is
 MCP server `Feishu/Lark`, catalogued on PulseMCP. Integrates with Feishu/Lark's collaboration suite, enabling AI assistants to interact with productivity tools through the official Node.js SDK.

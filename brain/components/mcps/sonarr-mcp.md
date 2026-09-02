@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T09:34:55Z"
 ---
 ## What it is
 Exposes the Sonarr v3 REST API as MCP tools, enabling LLMs to read and manage a Sonarr instance including series, episodes, downloads, history, and more. Supports both read and write operations, with destructive tools flagged.

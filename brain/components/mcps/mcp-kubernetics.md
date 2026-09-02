@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T20:22:55Z"
 ---
 ## What it is
 Enables Kubernetes cluster introspection via MCP tools, such as listing pods, namespaces, nodes, and events.

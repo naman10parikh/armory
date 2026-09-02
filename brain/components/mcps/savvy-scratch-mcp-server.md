@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T16:54:26Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to analyze scratch-off lottery games across 19 U.S. states, with tools for account management, game browsing, and subscription.

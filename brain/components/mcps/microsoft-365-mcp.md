@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T01:07:17Z"
 ---
 ## What it is
 Enables LLMs to manage your Microsoft 365 calendar, tasks, and email via Microsoft Graph API, acting as a personal secretary.

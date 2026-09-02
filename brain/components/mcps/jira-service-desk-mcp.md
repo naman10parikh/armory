@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T10:23:29Z"
 ---
 ## What it is
 Connects AI assistants to Jira Service Management instances, providing 40 tools for managing service desks, requests, comments, customers, organizations, queues, SLA, approvals, and attachments.

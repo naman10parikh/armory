@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T10:38:38Z"
 ---
 ## What it is
 An MCP server that provides a long-running tool with configurable timeouts and periodic progress notifications, preventing Claude Code from disconnecting during healthy long tasks.

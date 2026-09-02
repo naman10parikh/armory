@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 13
+forks: 4
+pushed_at: "2026-02-18T07:34:53Z"
 ---
 ## What it is
 Gives AI agents self-awareness about their cognitive state. Monitors token utilization, context quality degradation, and session fatigue. Returns health scores (0-100) and recovery recommendations based on model-specific degradation curves.

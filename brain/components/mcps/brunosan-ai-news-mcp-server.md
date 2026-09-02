@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T19:09:52Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes real-time AI news intelligence to AI agents and MCP-compatible clients, with 9 deterministic tools for search, trending, signals, and risk analysis.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-11T03:32:27Z"
 ---
 ## What it is
 MCP server `SQL Server Pro`, catalogued on PulseMCP. Connects to Microsoft SQL Server databases through pyodbc to execute queries, inspect schemas, manage stored procedures, views, and indexes with separate handling for read and write operations.

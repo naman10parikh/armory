@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:53:08Z"
 ---
 ## What it is
 Enables multi-worker autonomous agent orchestration: decompose complex tasks, run parallel workers, auto-review, and generate follow-up tasks via the Model Context Protocol.

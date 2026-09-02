@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:14:11Z"
 ---
 ## What it is
 A plugin-based MCP server framework that auto-discovers service modules such as ComfyUI, PPT generation, TTS, and Spine2D, enabling any MCP client to connect and use these capabilities.

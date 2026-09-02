@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:02Z"
 ---
 ## What it is
 Enables LLMs to manage workspaces, load and run recon modules, install marketplace modules, and query reconnaissance data, exposing the full recon-ng OSINT framework.

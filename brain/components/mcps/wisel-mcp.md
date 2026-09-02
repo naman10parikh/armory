@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:30:03Z"
 ---
 ## What it is
 This MCP server provides an editorial bridge to Wisel.my, allowing health checks, story management (list, get, create draft, update, publish, and schedule) through the Wisel API over HTTPS.

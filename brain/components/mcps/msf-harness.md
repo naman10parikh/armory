@@ -8,11 +8,13 @@ source_url: https://github.com/Suzu-Testing/metasploit-cursor-harness
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T23:25:57Z"
 ---
 ## What it is
 Enables AI agents to conduct authorized penetration tests by providing scope-enforced access to Metasploit Framework's RPC, with tools for reconnaissance, exploitation, session management, and post-exploitation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T12:56:17Z"
 ---
 ## What it is
 Exposes Sourcegraph Zoekt code search to MCP-capable AI agents, enabling fast, indexed regex/symbol-aware code search over repositories.

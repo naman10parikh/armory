@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T03:47:43Z"
 ---
 ## What it is
 MCP server `Loci`, catalogued on PulseMCP. Persistent cross-session memory with hybrid keyword and semantic search using local embeddings and SQLite.

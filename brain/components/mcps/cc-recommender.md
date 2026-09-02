@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-29T03:20:31Z"
 ---
 ## What it is
 Analyzes project dependencies and recommends relevant skills, plugins, and MCP servers for Claude Code, enabling users to discover and install optimal tools.

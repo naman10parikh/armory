@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T09:12:31Z"
 ---
 ## What it is
 MCP server that integrates with OneDrive and Excel Workbooks via Microsoft Graph API for creating and modifying worksheets.

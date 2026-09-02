@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T10:15:16Z"
 ---
 ## What it is
 MCP server for FreezeText — OCR anything on your Mac screen from Claude, Cursor, or any MCP client. Freeze the screen and extract text via Apple Vision (videos, popups, protected PDFs), OCR a region or a base64 image, and manage a searchable capture history. 12 tools. Bridge open-source (MIT), Freez

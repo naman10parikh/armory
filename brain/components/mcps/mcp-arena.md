@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-08-02T12:06:55Z"
 ---
 ## What it is
 A production-ready Python library for building MCP servers with agent orchestration and domain-specific presets for platforms like GitHub, Slack, and Notion.

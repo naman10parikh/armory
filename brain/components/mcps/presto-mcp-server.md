@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:12:03Z"
 ---
 ## What it is
 Integrates Presto construction budgeting software with Claude Code, enabling analysis, audit, and search of BC3 budget files locally or via WebAPI.

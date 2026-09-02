@@ -8,10 +8,12 @@ source_url: https://github.com/fajararrizki/mcp-technical-analysis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-05T17:12:08Z"
 ---
 ## What it is
 MCP server `GearTrade Technical Analysis`, catalogued on PulseMCP. Provides cryptocurrency market analysis through technical indicators, volume analysis, and risk management calculations for trading strategy development

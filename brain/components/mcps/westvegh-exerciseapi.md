@@ -8,10 +8,12 @@ source_url: https://github.com/westvegh/exerciseapi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T01:25:13Z"
 ---
 ## What it is
 MCP server `ExerciseAPI`, catalogued on PulseMCP. Provides AI coding agents access to 2,198+ vetted fitness exercises across 12 categories via exerciseapi.dev.

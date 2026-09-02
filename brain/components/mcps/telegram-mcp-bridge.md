@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:02:13Z"
 ---
 ## What it is
 Provides read-only access to a user's Telegram account via MTProto, enabling chat listing, message retrieval, search, and context fetching.

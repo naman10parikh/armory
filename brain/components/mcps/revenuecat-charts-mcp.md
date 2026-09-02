@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T15:12:37Z"
 ---
 ## What it is
 An MCP server that enables AI agents to query RevenueCat's subscription analytics API using natural language, retrieving metrics like MRR, churn, and revenue.

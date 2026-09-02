@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:06:58Z"
 ---
 ## What it is
 Provides breaking changes analysis for libraries across multiple languages, enabling version upgrade planning, dependency audits, and migration reports through MCP tool access and expert workflows.

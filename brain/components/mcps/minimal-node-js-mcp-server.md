@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T07:58:55Z"
 ---
 ## What it is
 A stateless MCP server for filesystem operations, command execution, and computation, designed for use with llama.cpp WebUI.

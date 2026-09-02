@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T18:58:28Z"
 ---
 ## What it is
 Provides MCP tools for cost-optimized memory management in AI agent teams, enabling cheap memory storage, token-budgeted recall with savings receipts, and a local dashboard for monitoring savings.

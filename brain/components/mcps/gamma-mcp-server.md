@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T23:11:50Z"
 ---
 ## What it is
 Enables generating presentations, creating from templates, and managing Gamma resources via MCP tools.

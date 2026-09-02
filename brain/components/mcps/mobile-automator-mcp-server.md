@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T20:56:55Z"
 ---
 ## What it is
 An MCP server that gives AI agents the power to record, replay, and mock mobile app interactions — combining Maestro UI automation with Proxyman network capture to generate complete, self-contained test scripts.

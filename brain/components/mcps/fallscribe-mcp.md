@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:58:35Z"
 ---
 ## What it is
 Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools + resources in any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-08-16T09:54:23Z"
 ---
 ## What it is
 Context compression plugin for Claude Code that automatically trims large tool outputs like JSON, CSV, and stack traces to save context window space.

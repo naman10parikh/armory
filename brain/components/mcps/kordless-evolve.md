@@ -12,6 +12,8 @@ stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-20T18:46:14Z"
 ---
 ## What it is
 MCP server `EvolveMCP`, catalogued on PulseMCP. Extends Claude Desktop with custom tools for mathematical calculations, system monitoring, and enhanced functionality through an automated installation framework.

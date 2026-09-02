@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:37:01Z"
 ---
 ## What it is
 Logs tool call results, calculates reliability scores, and generates reports for AI agents, helping entrepreneurs measure agent reliability without paid APIs.

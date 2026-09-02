@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:27:38Z"
 ---
 ## What it is
 Provides AI agents live access to a DMTicket workspace for managing contacts, conversations, messages, tags, broadcasts, sequences, flows, triggers, and webhooks, enabling reading, segmenting, messaging, and automating tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-30T09:09:04Z"
 ---
 ## What it is
 Scrapes and indexes Strands Agents documentation into Elasticsearch, providing a searchable MCP server for Amazon Q and other AI assistants.

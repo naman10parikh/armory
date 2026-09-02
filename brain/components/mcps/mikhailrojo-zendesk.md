@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T12:23:01Z"
 ---
 ## What it is
 MCP server `Zendesk`, catalogued on PulseMCP. Provides read-only access to Zendesk Support tickets and Chat transcripts with search, retrieval, and view tools.

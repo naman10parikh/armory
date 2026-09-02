@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:24:27Z"
 ---
 ## What it is
 Provides AI coding agents with version-aware StencilJS API references, decorator signatures, lifecycle hooks, and best practices to help them write idiomatic Stencil code.

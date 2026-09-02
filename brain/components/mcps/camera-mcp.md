@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:56:35Z"
 ---
 ## What it is
 MCP server for controlling USB-connected DSLR cameras (e.g., Canon EOS 6D) via natural language, with features like capture, exposure settings, and autonomous timelapse with feedback-based auto exposure.

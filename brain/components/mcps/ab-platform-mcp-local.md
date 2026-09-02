@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:48:10Z"
 ---
 ## What it is
 A local MCP server that forwards tools from an upstream experiment platform and adds AI Agent tools for experiment analysis and skill debugging.

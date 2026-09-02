@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:01:10Z"
 ---
 ## What it is
 Enables Codex to manage a local Claude Code companion through MCP, implementing a dual-agent workflow where Codex handles reasoning and review while Claude Code performs engineering tasks.

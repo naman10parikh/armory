@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:14:41Z"
 ---
 ## What it is
 MCP server that provides full read/write access to Odoo accounting data including invoices, vendor bills, journal entries, payments, reconciliation, and financial reports, as well as BOQ/Project Budget data when available.

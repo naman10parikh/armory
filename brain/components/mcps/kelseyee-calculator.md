@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-05T07:06:54Z"
 ---
 ## What it is
 MCP server `Calculator`, catalogued on PulseMCP. Provides basic arithmetic operations including addition, subtraction, multiplication, and division through a simple Python-based server for mathematical calculations in assistant workflows.

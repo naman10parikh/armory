@@ -8,10 +8,12 @@ source_url: https://github.com/doitmagic/rag-code-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-17T16:39:40Z"
 ---
 ## What it is
 MCP server `RagCode`, catalogued on PulseMCP. Privacy-first semantic code search using local Ollama and Qdrant vector storage for multi-language repository understanding

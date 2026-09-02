@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T23:10:51Z"
 ---
 ## What it is
 Enables AI agents to capture, replay, inspect, diff, share, and manage executable bug artifacts (.bug files) via the BugProof CLI, supporting 10 tools and structured prompts for debugging workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T05:03:49Z"
 ---
 ## What it is
 Enables AI assistants to interact with the AeroEduVision platform, allowing exam generation, course management, knowledge graph queries, and student progress tracking through natural language commands.

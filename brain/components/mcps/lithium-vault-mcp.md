@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:25:44Z"
 ---
 ## What it is
 Provides primary-source lithium and battery-metals mining data from SEC/ASX/TSX/SEDAR filings, with production, costs, reserves, and financials for 40 producers and 49 mines, paid per request via USDC on Base.

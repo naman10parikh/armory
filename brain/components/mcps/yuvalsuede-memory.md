@@ -8,10 +8,12 @@ source_url: https://github.com/yuvalsuede/memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 97
+stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-01-29T15:46:21Z"
 ---
 ## What it is
 MCP server `Memory MCP`, catalogued on PulseMCP. Automatically extracts and organizes project memories from conversation transcripts, maintaining both quick-access CLAUDE.md files and comprehensive .memory/state.json stores for persistent project knowledge across sessions.

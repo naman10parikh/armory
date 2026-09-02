@@ -8,10 +8,12 @@ source_url: https://github.com/rafalwilinski/aws-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 296
+stars: 294
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2025-05-25T09:39:36Z"
 ---
 ## What it is
 MCP server `AWS`, catalogued on PulseMCP. Bridges AWS services with the AWS SDK v2, enabling secure access and management of AWS resources for cloud infrastructure and data processing tasks.

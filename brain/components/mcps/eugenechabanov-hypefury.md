@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T12:29:09Z"
 ---
 ## What it is
 MCP server `Hypefury`, catalogued on PulseMCP. Enables AI systems to authenticate with and schedule posts through the Hypefury platform, creating a secure bridge for automated content publishing workflows.

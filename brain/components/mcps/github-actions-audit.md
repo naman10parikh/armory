@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:10:33Z"
 ---
 ## What it is
 Audits GitHub Actions workflow files for supply-chain risks like script injection, leaked tokens, unpinned actions, and broad permissions.

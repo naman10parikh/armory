@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T21:17:20Z"
 ---
 ## What it is
 Fetches and analyzes website content to provide business context to AI agents, designed for Voice AI in GoHighLevel.

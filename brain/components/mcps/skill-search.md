@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T20:39:53Z"
 ---
 ## What it is
 Semantic, on-demand skill retrieval for Claude Code that saves tokens and improves skill discovery by replacing the native skill listing with vector embedding search.

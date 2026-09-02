@@ -8,10 +8,12 @@ source_url: https://github.com/supertypeai/sectors-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T08:39:49Z"
 ---
 ## What it is
 MCP server `Sectors Financial Data`, catalogued on PulseMCP. Provides structured access to financial sector data through tools for retrieving subsectors, industries, index data, and company information for market research and financial analysis.

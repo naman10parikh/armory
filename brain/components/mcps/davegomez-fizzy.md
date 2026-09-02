@@ -8,10 +8,12 @@ source_url: https://github.com/davegomez/fizzy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-15T17:55:05Z"
 ---
 ## What it is
 MCP server `Fizzy`, catalogued on PulseMCP. Manage Fizzy kanban boards, cards, comments, and checklists.

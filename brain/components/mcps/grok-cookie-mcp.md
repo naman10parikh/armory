@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:06:12Z"
 ---
 ## What it is
 Cookie-based MCP server for Grok Imagine experiments, enabling image generation and media post creation using your own Grok.com cookies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:38:10Z"
 ---
 ## What it is
 MCP connector for Paperplane that lets AI tools page you on your phone with event notifications, blocking questions, alert management, replies, and follow-up ticket filing using a single long-lived token.

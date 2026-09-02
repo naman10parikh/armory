@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:30:03Z"
 ---
 ## What it is
 Audits MCP server configurations and packages for security risks such as typosquats, credential exposure, and malicious code, with zero dependencies and no execution.

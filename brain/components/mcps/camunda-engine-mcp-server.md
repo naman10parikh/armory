@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-20T04:03:01Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables AI assistants to interact with Camunda Platform workflow engine. Provides 21 specialized tools for complete workflow automation and process management.

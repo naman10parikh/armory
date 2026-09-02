@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T23:04:48Z"
 ---
 ## What it is
 A local-first MCP server for the WAX blockchain that enables AI hosts to query accounts, chain state, AtomicAssets, AtomicMarket, Hyperion history, and WAXP prices, as well as prepare unsigned transactions for wallet signing.

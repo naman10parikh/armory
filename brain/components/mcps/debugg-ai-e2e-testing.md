@@ -8,10 +8,12 @@ source_url: https://github.com/debugg-ai/debugg-ai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-20T03:46:18Z"
 ---
 ## What it is
 MCP server `DebuggAI`, catalogued on PulseMCP. Provides zero-configuration end-to-end testing for web applications by creating secure tunnels to local development servers and spawning testing agents that interact with web interfaces through natural language descriptions, returning detailed test results with execution recordings and screenshots.

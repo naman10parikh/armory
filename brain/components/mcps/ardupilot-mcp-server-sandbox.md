@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-14T06:05:42Z"
 ---
 ## What it is
 Enables natural language control of ArduPilot drones via MAVLink, supporting arm, takeoff, mode changes, and mission uploads.

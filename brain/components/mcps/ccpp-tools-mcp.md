@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:01:44Z"
 ---
 ## What it is
 MCP server providing deterministic, standards-traceable engineering calculations for combined-cycle power plant balance-of-plant design, such as fluid properties, pipe sizing, pump NPSH, and valve sizing, with every result including method, assumptions, and warnings.

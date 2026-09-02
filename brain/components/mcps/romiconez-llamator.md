@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-18T15:46:22Z"
 ---
 ## What it is
 MCP server `LLAMATOR`, catalogued on PulseMCP. Automated LLM red teaming and security testing server that orchestrates asynchronous test runs against OpenAI-compatible endpoints with job lifecycle management and artifact storage.

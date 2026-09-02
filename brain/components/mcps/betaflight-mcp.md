@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T08:03:28Z"
 ---
 ## What it is
 Enables AI assistants to control Betaflight flight controllers over serial via MSP and CLI, providing real-time sensor reads, full CLI access, and auto-generated variable tools for configuration and tuning.

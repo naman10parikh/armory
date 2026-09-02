@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:42:53Z"
 ---
 ## What it is
 Provides read-only access to Fitbit health data (sleep, steps, heart rate, HRV) via local sync with Google Health API. Enables querying daily health summaries and trends through MCP tools without uploading data to cloud.

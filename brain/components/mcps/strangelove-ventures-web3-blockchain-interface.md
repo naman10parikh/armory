@@ -12,6 +12,8 @@ stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-03-18T18:55:02Z"
 ---
 ## What it is
 MCP server `Web3 Blockchain Interface`, catalogued on PulseMCP. Unifies interactions with multiple blockchains like Solana and Ethereum, enabling cross-chain operations such as balance checks and token transfers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T22:48:11Z"
 ---
 ## What it is
 MCP server for automatic Storybook story generation, component analysis, and validation. Auto-detects React frameworks and syncs component documentation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T13:29:20Z"
 ---
 ## What it is
 Local-first MCP server that binds to a project opened by the Seojeom desktop app and serves its local wiki and graph data over stdio, enabling project-aware reading, searching, and writing of wiki and graph content.

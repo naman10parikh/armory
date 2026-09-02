@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T11:33:54Z"
 ---
 ## What it is
 MCP server for BRIEF.md that captures decisions, constraints, and questions during AI chats, enabling seamless project re-entry across different AI tools.

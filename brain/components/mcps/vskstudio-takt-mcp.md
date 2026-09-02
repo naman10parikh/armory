@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:50:31Z"
 ---
 ## What it is
 MCP server for querying privacy-friendly website analytics from a self-hosted Takt instance, supporting metrics like visitors, pageviews, realtime activity, and more.

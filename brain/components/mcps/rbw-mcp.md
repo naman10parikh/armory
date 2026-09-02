@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-10T19:01:52Z"
 ---
 ## What it is
 MCP server that enables AI models to securely interact with a Bitwarden password manager vault via the rbw CLI.

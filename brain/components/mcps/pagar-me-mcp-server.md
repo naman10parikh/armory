@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:09:30Z"
 ---
 ## What it is
 MCP server that integrates Pagar.me v5 and Shopify to provide financial insights such as receivables, cash flow, order data, reconciliation, and refunds through natural language queries.

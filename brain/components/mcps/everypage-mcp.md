@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:27:03Z"
 ---
 ## What it is
 MCP server for EveryPage that lets an AI assistant turn a PDF into a tracked share link and report who read it, how far they got, and where they stopped.

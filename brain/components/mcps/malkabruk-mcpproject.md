@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:11:00Z"
 ---
 ## What it is
 An MCP server that provides weather forecasts and alerts for the USA and Israel, using the National Weather Service API and Playwright-based browser automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:26:12Z"
 ---
 ## What it is
 Enables AI agents to fully control a terminal browser via MCP, navigating pages, filling forms, logging in, and managing cookies with deterministic numbered links and forms. Also provides an interactive human CLI.

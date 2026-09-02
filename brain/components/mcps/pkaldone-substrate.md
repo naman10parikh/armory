@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T06:21:04Z"
 ---
 ## What it is
 MCP server `Substrate`, catalogued on PulseMCP. Persistent cognitive infrastructure for AI entities with causal memory, emotional state modeling, identity continuity, and a 94-layer cognitive framework.

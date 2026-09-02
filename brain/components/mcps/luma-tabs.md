@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:06:04Z"
 ---
 ## What it is
 MCP server for managing Chrome tabs and tasks, enabling AI agents to search, recall, and organize browser sessions by preventing duplicate tabs, fuzzy searching, and saving workspaces as tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:28:35Z"
 ---
 ## What it is
 Provides AI agents with a lightweight task-management and self-verification layer to define goals, track checkpoints, detect scope drift, and verify completion against explicit done criteria.

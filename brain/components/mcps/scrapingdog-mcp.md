@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T12:48:31Z"
 ---
 ## What it is
 An MCP server that exposes all 77 ScrapingDog API endpoints as AI-ready tools, enabling web scraping, Google search, Amazon product data, LinkedIn profiles, YouTube transcripts, and more through a single API key.

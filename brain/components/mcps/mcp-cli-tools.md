@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T23:02:42Z"
 ---
 ## What it is
 MCP server that gives AI coding agents (Claude Code, Cursor, Cline, etc.) access to multiple AI models through Antigravity CLI and OpenAI Codex CLI, enabling mid-conversation model consultation and code review.

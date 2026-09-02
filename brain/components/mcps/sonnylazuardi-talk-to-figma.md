@@ -8,10 +8,12 @@ source_url: https://github.com/grab/cursor-talk-to-figma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6788
+stars: 6988
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 772
+pushed_at: "2026-07-26T07:14:26Z"
 ---
 ## What it is
 MCP server `Talk to Figma`, catalogued on PulseMCP. Enables bidirectional communication with Figma designs through a plugin and WebSocket server, allowing creation and manipulation of design elements directly from conversations.

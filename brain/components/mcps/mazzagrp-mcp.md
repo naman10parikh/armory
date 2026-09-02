@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T11:53:08Z"
 ---
 ## What it is
 Enables AI agents to access 21 mazzagrp.com AI endpoints with x402 USDC micropayments on Base, paying per call without API keys.

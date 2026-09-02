@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-01T15:57:10Z"
 ---
 ## What it is
 Provides real-time access to League of Legends esports data including live matches, schedules, leagues, event details, and VODs through a standardized interface.

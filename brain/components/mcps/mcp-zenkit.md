@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:09:49Z"
 ---
 ## What it is
 Enables managing Zenkit collections and entries through natural language commands, including listing, creating, updating, and deleting entries.

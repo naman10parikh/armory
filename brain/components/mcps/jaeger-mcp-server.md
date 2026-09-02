@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-05-13T12:07:49Z"
 ---
 ## What it is
 Enables to interact with Jaeger distributed tracing system through the MCP protocol. Supports querying traces, services, and operations via natural language.

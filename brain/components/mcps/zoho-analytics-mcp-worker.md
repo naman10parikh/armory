@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:42:26Z"
 ---
 ## What it is
 Exposes the Zoho Analytics API v2 as an MCP server, enabling Claude and other clients to query, manage, and analyze Zoho Analytics data through natural language.

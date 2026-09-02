@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:06Z"
 ---
 ## What it is
 Real-time email verification API with syntax, MX, disposable detection, role-based flags, quality score 0-100. Built for agent outreach pipelines with pay-per-call via x402 (USDC on Base L2) -- no API key, no signup, no rate-limit wall.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-18T14:30:59Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes Kanboard API functionality to Large Language Models (LLMs), enabling AI assistants to interact with Kanboard project management system.

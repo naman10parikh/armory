@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, customer-data-platforms]
 stars: 10
+forks: 9
+pushed_at: "2025-09-12T12:17:05Z"
 ---
 ## What it is
 An MCP server to access and updates profiles on an Apache Unomi CDP server.

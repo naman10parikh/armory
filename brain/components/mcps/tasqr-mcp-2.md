@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T16:12:26Z"
 ---
 ## What it is
 Enables task state management for AI agents with secure credential handling and optional client-side encryption via a local stdio proxy.

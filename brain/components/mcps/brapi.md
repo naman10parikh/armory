@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:45:09Z"
 ---
 ## What it is
 MCP server `brapi.dev by Pipeworx`, catalogued on PulseMCP. Access Brazilian financial market data from brapi.dev via MCP.

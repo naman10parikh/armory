@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:09:27Z"
 ---
 ## What it is
 Stdio MCP server for curated GoHighLevel API v2 coverage, enabling create, update, and delete operations on custom fields, contacts, opportunities, tags, conversations, calendars, and more, with safe guarded destructive tools requiring explicit confirmation.

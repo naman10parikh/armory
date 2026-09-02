@@ -8,10 +8,12 @@ source_url: https://github.com/mguozhen/voc-amazon-reviews
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-25T07:36:47Z"
 ---
 ## What it is
 MCP server `Amazon Reviews VOC`, catalogued on PulseMCP. Amazon product review analysis with VOC insights, sentiment, and listing improvements via Shulex OpenAPI.

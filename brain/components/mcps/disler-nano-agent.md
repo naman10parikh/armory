@@ -8,10 +8,12 @@ source_url: https://github.com/disler/nano-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 205
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2025-08-10T20:31:40Z"
 ---
 ## What it is
 MCP server `Nano Agent`, catalogued on PulseMCP. Bridges OpenAI's Agent SDK with natural language task execution, enabling autonomous agent workflows with file system operations, multi-provider LLM support, and comprehensive session management for complex coding and automation tasks.

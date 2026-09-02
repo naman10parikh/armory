@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:07:53Z"
 ---
 ## What it is
 This server exposes jambonz verb schemas and developer documentation as MCP tools, enabling AI agents to query verb definitions, component types, callback payloads, and the full developer guide without needing local access to the schema files.

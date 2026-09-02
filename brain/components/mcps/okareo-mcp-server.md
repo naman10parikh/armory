@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T23:55:19Z"
 ---
 ## What it is
 Exposes Okareo's evaluation capabilities as MCP tools, enabling AI coding assistants to manage scenarios, register models, run evaluations, and execute multi-turn simulations directly from the editor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:58:28Z"
 ---
 ## What it is
 An MCP server that enables AI to execute SSH commands on remote servers using the host's OpenSSH client, supporting both configured targets and dynamic connections with request-scoped credentials.

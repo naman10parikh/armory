@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:32Z"
 ---
 ## What it is
 MCP server for downloading and extracting text via OCR from Enel São Paulo electricity bills. Read-only with magic-link authentication and pre-paid credit usage.

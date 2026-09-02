@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:18:37Z"
 ---
 ## What it is
 A Revenue Management MCP server for hotels and short-term rentals that provides market intelligence, event data, and dynamic pricing recommendations.

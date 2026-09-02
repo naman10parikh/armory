@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:25Z"
 ---
 ## What it is
 US patent search, full-text retrieval, claim extraction, citation graph, and weekly grant alerts for R\&D, biotech, and IP-law audiences.

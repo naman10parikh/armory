@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:24:53Z"
 ---
 ## What it is
 Generates video drafts from a prompt with a proprietary engine, then hands off to a human-editable timeline with tools for reshoots, takes, and media operations like image editing and speech synthesis.

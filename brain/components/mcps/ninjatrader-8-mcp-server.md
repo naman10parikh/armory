@@ -8,11 +8,13 @@ source_url: https://github.com/anfs-pain/ninjatrader-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-25T08:37:48Z"
 ---
 ## What it is
 Enables Claude Code to directly access NinjaTrader 8 accounts, positions, orders, market data, charts, and strategy management through a NinjaScript Add-On.

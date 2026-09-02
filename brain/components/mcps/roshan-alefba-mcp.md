@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T07:42:18Z"
 ---
 ## What it is
 A self-hostable MCP server that exposes Roshan AI's Alefba OCR service as tools, enabling document reading, page extraction, status polling, and export to PDF/Word/Excel for Persian, Arabic, and English text.

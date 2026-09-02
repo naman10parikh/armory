@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:00:35Z"
 ---
 ## What it is
 Proporciona herramientas MCP para gestionar eventos deportivos inclusivos, discapacidades, inscripciones y rutinas mediante microservicios HTTP, con roles de agente (usuario, entrenador, organizador, admin) que filtran las herramientas disponibles.

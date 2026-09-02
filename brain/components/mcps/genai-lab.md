@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T15:48:35Z"
 ---
 ## What it is
 Exposes tools for semantic search and RAG-based Q\&A from a local knowledge base, along with resources and prompt templates.

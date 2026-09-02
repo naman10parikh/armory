@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T21:36:49Z"
 ---
 ## What it is
 An HTTP-based MCP server that provides filesystem tools and code analysis, enabling LLMs to read, write, list files, and analyze code securely.

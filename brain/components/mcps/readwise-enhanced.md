@@ -12,6 +12,8 @@ stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-02-09T00:06:19Z"
 ---
 ## What it is
 MCP server `Readwise Enhanced`, catalogued on PulseMCP. Integrates with Readwise Reader and Highlights APIs to provide unified access to saved articles, books, highlights, and annotations with intelligent text extraction and cross-referencing capabilities for knowledge workers and researchers.

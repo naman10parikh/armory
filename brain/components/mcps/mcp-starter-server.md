@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:31:39Z"
 ---
 ## What it is
 A TypeScript starter template for building Model Context Protocol servers, enabling quick setup for custom tools and integration.

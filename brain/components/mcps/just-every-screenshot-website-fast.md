@@ -8,10 +8,12 @@ source_url: https://github.com/just-every/mcp-screenshot-website-fast
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-29T21:11:29Z"
 ---
 ## What it is
 MCP server `Screenshot Website Fast`, catalogued on PulseMCP. Captures full-page website screenshots using Puppeteer and automatically splits them into 1072x1072 pixel tiles optimized for vision model processing with robust error handling and retry logic.

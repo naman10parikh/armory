@@ -8,11 +8,13 @@ source_url: https://github.com/vishalmurugan1986/mcp-github-tool-eval
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:04:30Z"
 ---
 ## What it is
 Enables users to read and manage GitHub repositories through MCP, with destructive operations gated behind explicit confirmation and dry-run previews.

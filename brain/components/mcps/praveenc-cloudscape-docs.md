@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T07:48:32Z"
 ---
 ## What it is
 MCP server `Cloudscape Design System Documentation`, catalogued on PulseMCP. Semantic search over AWS Cloudscape Design System documentation using vector embeddings and LanceDB to find relevant component documentation and retrieve full content based on natural language queries

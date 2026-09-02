@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:17Z"
 ---
 ## What it is
 MCP server `Hyperliquid Funding`, catalogued on PulseMCP. Fetch Hyperliquid perpetual funding rates, history, and arbitrage opportunities.

@@ -8,10 +8,12 @@ source_url: https://github.com/dinesh-satram/fitness_coach_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-03T00:50:00Z"
 ---
 ## What it is
 MCP server `Fitness Coach`, catalogued on PulseMCP. Provides personalized fitness coaching through workout and nutrition plan generation, activity logging, progress tracking, and feedback collection with a Next.js web interface and Redis integration.

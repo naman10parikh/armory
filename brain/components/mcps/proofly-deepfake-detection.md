@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-14T13:48:22Z"
 ---
 ## What it is
 MCP server `Proofly (Deepfake Detection)`, catalogued on PulseMCP. Enables deepfake detection in images through Proofly API integration, providing detailed analysis results including real/fake probability scores and individual model results for each detected face.

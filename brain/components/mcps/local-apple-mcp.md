@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:18:44Z"
 ---
 ## What it is
 Enables Claude or any MCP client to read Apple Mail, Calendar, Photos, and create Apple Notes locally on macOS, without any data leaving the machine.

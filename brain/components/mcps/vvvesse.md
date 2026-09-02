@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T23:00:05Z"
 ---
 ## What it is
 ESSE (Existence Synchronization System Entity) — a meta-agent MCP server that fuses 2–5 AI agents into one unified mind. Supports 3 fusion modes: capability assimilation, synchronization link, and perfect convergence. Works with Claude Desktop, Cline, and Cursor.

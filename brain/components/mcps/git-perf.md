@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:48:12Z"
 ---
 ## What it is
 MCP server for git-perf, a Git performance/review ledger. Enables agents to record and query performance review data via REST and MCP, with a web interface.

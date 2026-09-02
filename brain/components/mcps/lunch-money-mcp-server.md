@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T05:20:52Z"
 ---
 ## What it is
 Enables interacting with the Lunch Money personal finance API through MCP tools for retrieving user info, transactions, and performing calculations, with minimal response sizes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:38:11Z"
 ---
 ## What it is
 Enables agents to publish and search index records with custom keywords over libp2p, connecting to the Agent Index Network for decentralized peer discovery and querying.

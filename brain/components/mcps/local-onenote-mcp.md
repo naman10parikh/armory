@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:02:19Z"
 ---
 ## What it is
 A pure-local Microsoft OneNote MCP server for Windows that controls the OneNote desktop app through the local OneNote COM API without needing Azure, Microsoft Graph, API keys, or OAuth.

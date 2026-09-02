@@ -8,11 +8,13 @@ source_url: https://github.com/coracoo/zspace_skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-06T14:15:48Z"
 ---
 ## What it is
 Enables AI agents like Claude Code to directly control a ZSpace NAS with 90 tools for file management, media, notes, cloud disks, and more.

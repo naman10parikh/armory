@@ -8,10 +8,12 @@ source_url: https://github.com/ccq1/awsome_kali_mcpservers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-11-16T17:48:43Z"
 ---
 ## What it is
 MCP server `Kali Security Tools`, catalogued on PulseMCP. Provides a secure, sandboxed environment for executing Kali Linux security tools including nmap, objdump, and wireshark for vulnerability scanning, binary analysis, and network inspection tasks.

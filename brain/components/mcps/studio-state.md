@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T03:19:00Z"
 ---
 ## What it is
 A stateless MCP server for AI film and video production that tracks project state, shot status, and updates, enabling consistent characters and continuity across generative video tools.

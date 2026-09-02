@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T08:23:38Z"
 ---
 ## What it is
 MCP server for CyberQuant data sharing platform that enables AI assistants to directly query and analyze financial data using CSV output for token efficiency.

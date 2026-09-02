@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:16:34Z"
 ---
 ## What it is
 MCP server that enables accessing Jira and Confluence using browser cookies captured via a Chrome extension, avoiding the need for API tokens or browser automation. It wraps the mcp-atlassian toolset and works with Atlassian Cloud and Server/Data Center behind SSO.

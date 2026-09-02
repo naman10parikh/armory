@@ -8,11 +8,13 @@ source_url: https://github.com/theWDY/office-editor-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-08-13T13:55:46Z"
 ---
 ## What it is
 An MCP server for creating and editing Word, Excel, and PowerPoint documents through AI assistants.

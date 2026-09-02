@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:30:20Z"
 ---
 ## What it is
 Enables querying curated travel feeds and fetching any RSS/Atom/RDF feed by URL, with automatic normalization and fallback proxy.

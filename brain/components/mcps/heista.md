@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-13T01:37:08Z"
 ---
 ## What it is
 MCP server `Heista`, catalogued on PulseMCP. Ad intelligence MCP for decoding video ads and generating brand-specific creative scripts.

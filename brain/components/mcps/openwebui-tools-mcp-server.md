@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:46:01Z"
 ---
 ## What it is
 A single MCP server bundling web search, stock data, Wolfram Alpha, and YouTube transcript tools, enabling use from any MCP-capable client like Claude Desktop or custom agents.

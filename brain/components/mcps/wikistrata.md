@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-20T04:05:04Z"
 ---
 ## What it is
 Enables querying and interacting with a Markdown wiki generated from Confluence pages, with search and MCP server for LLM access.

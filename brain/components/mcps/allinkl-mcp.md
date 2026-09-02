@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:49:11Z"
 ---
 ## What it is
 MCP server for All-Inkl KAS API to manage DNS, domains, mailboxes, mail forwards, and databases, including database dumps via SSH+mysqldump.

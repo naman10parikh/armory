@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T15:07:37Z"
 ---
 ## What it is
 Exposes the Telegram Bot API as tools for MCP clients, enabling sending messages, photos, polls, and more via a Telegram bot.

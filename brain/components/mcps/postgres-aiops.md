@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:22:26Z"
 ---
 ## What it is
 Governed PostgreSQL DBA operations — slow-query, bloat, and blocking-lock RCA, index management, vacuum/analyze, and replication lag, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-04T01:48:29Z"
 ---
 ## What it is
 MCP server `VeChain`, catalogued on PulseMCP. Integrates with VeChain blockchain networks to provide documentation search, account/transaction/block queries, wallet creation, cryptographic signing, and EVM-compatible token operations for building dApps and automated trading systems.

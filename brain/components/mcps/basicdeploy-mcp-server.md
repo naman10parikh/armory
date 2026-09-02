@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:27:53Z"
 ---
 ## What it is
 Enables AI agents to create and manage BasicDeploy containers with PostgreSQL, S3 storage, and public URLs, including deploying apps, running commands, viewing logs, and sharing containers.

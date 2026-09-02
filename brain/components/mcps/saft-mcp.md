@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T21:29:15Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to parse, validate, and analyze Portuguese SAF-T tax files, providing tools for querying invoices, customers, products, VAT breakdowns, and anomaly detection.

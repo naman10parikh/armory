@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T10:17:11Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that provides tools for interacting with Azure Data Explorer (Kusto) clusters.

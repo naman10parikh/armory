@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:16:19Z"
 ---
 ## What it is
 Enables governed, read-only EIM data-quality checks against Oracle On-Prem and ATP by loading ACTIVE rules and running approved aggregate SQL to produce Markdown reports.

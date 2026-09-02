@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T06:47:42Z"
 ---
 ## What it is
 A lightweight vector-based memory system for AI agents with tools to store, semantically search, and delete memories, using your own embedding model.

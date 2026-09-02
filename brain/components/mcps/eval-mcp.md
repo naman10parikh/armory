@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:00:18Z"
 ---
 ## What it is
 An MCP server for prompt and RAG evaluation workflows, enabling users to register, create API keys, and run evaluations via Claude Desktop, Cursor, or other MCP clients, with a hosted backend for heavy evaluation work.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:38:21Z"
 ---
 ## What it is
 An MCP server that indexes source code into a local database and provides tools for querying code symbols, dependencies, and tree structure for JavaScript/TypeScript, Java, and Python.

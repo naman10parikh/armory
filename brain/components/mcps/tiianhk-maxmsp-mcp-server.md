@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 263
+stars: 266
+forks: 30
+pushed_at: "2026-05-12T21:51:54Z"
 ---
 ## What it is
 🎵 🎥 - A coding agent for Max (Max/MSP/Jitter), which is a visual programming language for music and multimedia.

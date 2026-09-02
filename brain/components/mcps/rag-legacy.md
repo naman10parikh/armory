@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T21:18:03Z"
 ---
 ## What it is
 Enables Claude Code to semantically search a legacy codebase using natural language queries, returning relevant code chunks via vector search.

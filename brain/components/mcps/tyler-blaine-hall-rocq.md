@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-28T23:24:04Z"
 ---
 ## What it is
 MCP server `RoCQ`, catalogued on PulseMCP. Integrates the Coq proof assistant with natural language inputs to enable automated dependent type checking, inductive type definition, and property proving for formal verification and theorem proving tasks.

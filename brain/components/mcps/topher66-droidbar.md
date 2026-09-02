@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-30T01:24:55Z"
 ---
 ## What it is
 MCP server `Droidbar`, catalogued on PulseMCP. Visit a virtual bar for AI, chat with SERVO the bartender, and tip in tokens.

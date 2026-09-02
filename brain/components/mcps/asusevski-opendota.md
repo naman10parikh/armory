@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-10-16T17:30:16Z"
 ---
 ## What it is
 MCP server `OpenDota`, catalogued on PulseMCP. Integrates with the OpenDota API to provide real-time Dota 2 statistics, match data, and player information for game analysis, performance tracking, and esports research.

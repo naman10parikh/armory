@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:13:11Z"
 ---
 ## What it is
 Provides access to TCGplayer trading card data, including search, product details, pricing, and market information, enabling natural language queries for card analysis.

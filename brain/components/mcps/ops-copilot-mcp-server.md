@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:41:42Z"
 ---
 ## What it is
 Enables AI assistants to detect and investigate e-commerce payment-fulfillment discrepancies, create durable escalation tickets, and track resolution status.

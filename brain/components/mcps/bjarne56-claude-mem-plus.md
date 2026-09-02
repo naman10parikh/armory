@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T17:23:13Z"
 ---
 ## What it is
 MCP server `claude-mem-plus`, catalogued on PulseMCP. Persistent memory plugin for Claude Code that captures tool usage observations and provides semantic search across sessions.

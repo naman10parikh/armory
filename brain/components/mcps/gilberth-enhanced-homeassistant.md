@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-20T04:16:58Z"
 ---
 ## What it is
 MCP server `Enhanced Home Assistant`, catalogued on PulseMCP. Integrates with Home Assistant smart home platform to provide comprehensive device control, automation management, historical analysis, and system monitoring through domain-specific tools for lights, climate systems, media players, and covers with bulk operations and energy optimization capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:56:05Z"
 ---
 ## What it is
 Enables AI agents to build, edit, and publish live websites with hosting, database, auth, and domains via the Model Context Protocol.

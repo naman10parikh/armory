@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:03:16Z"
 ---
 ## What it is
 Enables AI agents to index, search, and retrieve architectural documentation and store self-learning notes from codebases.

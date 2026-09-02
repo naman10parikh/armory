@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-02-06T17:18:42Z"
 ---
 ## What it is
 Provides comprehensive architectural expertise through specialized agents, resources, and tools for generating, evaluating, and modifying architectural designs.

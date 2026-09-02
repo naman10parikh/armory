@@ -8,10 +8,12 @@ source_url: https://github.com/wangle201210/dify-retriever-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-03T09:43:34Z"
 ---
 ## What it is
 MCP server `Dify Dataset Retriever`, catalogued on PulseMCP. Integrates with Dify's dataset retrieval capabilities, exposing knowledge base querying as a discoverable tool for retrieving information from Dify datasets

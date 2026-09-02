@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T01:15:08Z"
 ---
 ## What it is
 MCP server exposing the Psychopathia Machinalis diagnostic framework (79 conditions) — differential diagnosis of AI dysfunctions via 11 read-only tools.

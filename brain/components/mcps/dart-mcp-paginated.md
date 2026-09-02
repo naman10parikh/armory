@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T00:35:54Z"
 ---
 ## What it is
 A DART disclosure collection server that overcomes the daily limit of existing connectors by using pagination to scan all disclosures (up to 861 per day) and filters for institution filings like the National Pension Service.

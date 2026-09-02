@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T14:00:43Z"
 ---
 ## What it is
 Remote MCP server for authoritative plant information from the VicFlora API. Enables searching plants, fetching profiles, finding occurrences near a point, and looking up botanical terms.

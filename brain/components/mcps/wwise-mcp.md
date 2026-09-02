@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T08:52:13Z"
 ---
 ## What it is
 Enables natural language control of Wwise audio middleware, allowing project auditing, batch editing, event creation, and reference checking through conversational interaction.

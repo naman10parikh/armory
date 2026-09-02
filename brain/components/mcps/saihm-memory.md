@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T01:18:56Z"
 ---
 ## What it is
 Provides persistent, client-side-encrypted memory for AI coding assistants via SAIHM, enabling tools to remember, recall, and forget with provable erasure.

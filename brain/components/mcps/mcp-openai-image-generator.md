@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:57:10Z"
 ---
 ## What it is
 MCP server that wraps OpenAI's gpt-image-2 image generation API, enabling image generation from text prompts, listing saved images, and loading images inline.

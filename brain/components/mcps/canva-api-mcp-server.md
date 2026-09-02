@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-04T15:04:28Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol (MCP) server for interacting with Canva's API. It enables managing designs, brands, assets, and users through natural language.

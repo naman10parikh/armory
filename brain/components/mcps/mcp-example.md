@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2024-12-13T09:19:04Z"
 ---
 ## What it is
 A demonstration MCP server that fetches web content and monitors system information via SSE.

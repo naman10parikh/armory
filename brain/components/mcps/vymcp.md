@@ -8,11 +8,13 @@ source_url: https://github.com/Community-VyProjects/VyMCP
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-01T20:50:18Z"
 ---
 ## What it is
 MCP server for VyOS routers via VyManager, enabling AI agents to read and manage router configurations with RBAC, audit, and commit-confirm safety.

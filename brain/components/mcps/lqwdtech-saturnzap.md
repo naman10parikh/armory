@@ -8,10 +8,12 @@ source_url: https://github.com/lqwdtech/saturnzap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-17T03:44:52Z"
 ---
 ## What it is
 MCP server `SaturnZap`, catalogued on PulseMCP. Non-custodial Bitcoin Lightning (LDK) wallet for AI agents — pays L402 APIs from CLI or MCP.

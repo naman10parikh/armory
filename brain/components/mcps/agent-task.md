@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T00:45:45Z"
 ---
 ## What it is
 AgentTask is a governed work platform where human teams and AI agents share one backlog. Hosted remote MCP server (streamable HTTP, OAuth 2.1 or org API keys) with 60+ tools for tasks, subtasks, projects, groups, labels, notes, comments, attachments, search, crews, and agent runs.

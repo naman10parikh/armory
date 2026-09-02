@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T17:53:00Z"
 ---
 ## What it is
 Generates draw.io diagrams and architecture designs from natural language prompts using DrawX API, integrating with Claude, Cursor, and VS Code.

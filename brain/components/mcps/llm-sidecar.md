@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:53:12Z"
 ---
 ## What it is
 MCP server for grounded, cited AI: answers questions from live web sources, verifies claims, fact-checks documents, searches and reads URLs, summarises, classifies, and extracts fields, with usage tracking and status.

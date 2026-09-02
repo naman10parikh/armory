@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:52:14Z"
 ---
 ## What it is
 Enables interaction with a local SQLite-backed issue tracker, offering full CRUD operations (search, fetch, summarize, create, comment, close/reopen) with team-scoped visibility, authorization, rate limiting, and audit logging.

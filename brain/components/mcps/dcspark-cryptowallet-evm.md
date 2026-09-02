@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-26T03:12:14Z"
 ---
 ## What it is
 MCP server `Ethereum Wallet (EVM)`, catalogued on PulseMCP. Enables direct interaction with Ethereum and EVM-compatible blockchains for wallet creation, balance checking, transaction sending, and smart contract operations through ethers.js v5.

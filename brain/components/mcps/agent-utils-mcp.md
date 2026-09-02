@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:31:53Z"
 ---
 ## What it is
 Provides six general-purpose utilities (geocoding, reverse geocoding, weather, web search, URL-to-Markdown, secure random) as paid MCP tools, with each call costing $0.01 USDC on Base mainnet.

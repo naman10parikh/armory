@@ -8,10 +8,12 @@ source_url: https://github.com/iipanda/mcp-multi-jira
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-29T01:16:42Z"
 ---
 ## What it is
 MCP server `Multi-Jira`, catalogued on PulseMCP. Connects to multiple Jira instances through a single server.

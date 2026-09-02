@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:23:48Z"
 ---
 ## What it is
 An enhanced MCP Playwright browser server that enables robust web automation with persistent locator caching, multi-level click fallbacks, accessibility tree interactions, and smart handling of navigation and popups.

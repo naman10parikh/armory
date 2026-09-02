@@ -8,10 +8,12 @@ source_url: https://github.com/bingowon/apple-rag-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-30T06:53:50Z"
 ---
 ## What it is
 MCP server `Apple Developer Documentation (RAG)`, catalogued on PulseMCP. Provides semantic search and retrieval for Apple Developer Documentation using vector similarity search, keyword matching, and reranking to deliver relevant technical documentation and API references

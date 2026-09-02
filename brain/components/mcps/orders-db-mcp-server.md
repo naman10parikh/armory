@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:40:08Z"
 ---
 ## What it is
 Enables natural language querying of a customer and orders database through read-only MCP tools for finding customers, listing orders, and generating revenue summaries.

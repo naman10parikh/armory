@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2025-05-07T09:26:23Z"
 ---
 ## What it is
 Enables AI agents to interact with Metricool API for social media metrics, campaign data, and scheduling posts.

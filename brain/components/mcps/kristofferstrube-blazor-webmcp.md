@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-07T17:11:10Z"
 ---
 ## What it is
 MCP server `Blazor WebMCP`, catalogued on PulseMCP. Blazor wrapper for the WebMCP browser API enabling C# applications to expose tools to AI agents.

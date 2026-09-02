@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T09:00:45Z"
 ---
 ## What it is
 MCP server that cuts cloud LLM costs 36-42% by indexing context locally and giving agents precision retrieval tools instead of raw context dumps.

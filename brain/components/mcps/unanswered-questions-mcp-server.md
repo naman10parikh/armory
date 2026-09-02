@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T02:50:41Z"
 ---
 ## What it is
 MCP server that tracks questions a RAG chatbot can't answer, clusters them by semantic similarity, and suggests what documentation to add.

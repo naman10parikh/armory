@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T11:12:19Z"
 ---
 ## What it is
 An experimental MCP server that lets AI agents interact with guarded payment workflows through typed tools, enabling safe agent-assisted payments with M-Pesa and mock Airtel Money.

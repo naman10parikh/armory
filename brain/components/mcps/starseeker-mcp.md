@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-30T13:44:06Z"
 ---
 ## What it is
 A powerful MCP server that helps you discover relevant repositories from your own starred list on GitHub using BM25 keyword ranking and Gemini Semantic Search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T19:06:27Z"
 ---
 ## What it is
 Surfaces your Calibre e-book catalog to Claude via the Model Context Protocol, enabling search, metadata management, and library maintenance through natural language.

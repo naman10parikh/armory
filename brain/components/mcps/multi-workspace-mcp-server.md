@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T13:56:30Z"
 ---
 ## What it is
 Enables AI coding agents to access and manage multiple configured workspace repositories from a single session, eliminating context loss when working across companion repos.

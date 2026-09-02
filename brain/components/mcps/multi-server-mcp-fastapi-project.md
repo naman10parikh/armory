@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-14T02:21:38Z"
 ---
 ## What it is
 A FastAPI application that hosts multiple MCP servers for weather, news, currency, and quotes APIs.

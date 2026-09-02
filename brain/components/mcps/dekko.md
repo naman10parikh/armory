@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:20:50Z"
 ---
 ## What it is
 Dekko is a static code map generator and codebase indexer.

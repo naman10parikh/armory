@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-08T01:26:31Z"
 ---
 ## What it is
 MCP server `Contentful`, catalogued on PulseMCP. Enables Claude to directly interact with Contentful CMS data by providing tools to fetch content types and entries, supporting content exploration, metadata analysis, and dynamic content querying.

@@ -12,6 +12,8 @@ stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-29T04:14:01Z"
 ---
 ## What it is
 MCP server `Gensokyo`, catalogued on PulseMCP. Bridges chat bot platforms with cross-platform support for message processing, WebSocket connectivity, and media handling across Linux, macOS, Windows, and Android environments.

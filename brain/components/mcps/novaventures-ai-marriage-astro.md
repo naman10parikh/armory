@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T15:46:38Z"
 ---
 ## What it is
 MCP server `Marriage Astro`, catalogued on PulseMCP. Vedic astrology compatibility analysis with birth charts, Ashtakoot Milan, and dosha calculations.

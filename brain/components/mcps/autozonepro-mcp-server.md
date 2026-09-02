@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:00:13Z"
 ---
 ## What it is
 Local MCP server for your AutoZone Pro commercial account. HTTP-first catalog/session client that returns commercial cost and list price for shop quoting.

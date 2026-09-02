@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T00:56:19Z"
 ---
 ## What it is
 MCP server `AgentHub`, catalogued on PulseMCP. Coordinates multiple AI coding agents working on the same codebase without file locking conflicts

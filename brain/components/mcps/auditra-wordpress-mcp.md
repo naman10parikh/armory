@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:21:05Z"
 ---
 ## What it is
 Auditra is a free WordPress plugin that lets an AI assistant like Claude read everything about your site's plugins — installed, deleted, and forgotten — and answer your questions about them in plain English.

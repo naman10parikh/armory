@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T20:09:48Z"
 ---
 ## What it is
 Provides read-only MCP tools for AI agents to observe user-selected regions of a Chrome browser, including region info, text/UI semantics, cropped images, and changes.

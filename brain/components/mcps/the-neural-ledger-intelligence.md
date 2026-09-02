@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:14:10Z"
 ---
 ## What it is
 Read-only, source-linked news intelligence for AI agents: search The Neural Ledger's stories, retrieve story details with citations and revision history, and resolve related entities and assets. It is an evidence layer, not a trading or execution service.

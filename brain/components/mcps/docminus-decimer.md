@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T19:53:07Z"
 ---
 ## What it is
 MCP server `DECIMER`, catalogued on PulseMCP. Convert chemical structure images to SMILES notation using the DECIMER recognition engine.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:53:28Z"
 ---
 ## What it is
 Manages an authorized proxy pool for security testing, providing MCP tools to select the best available proxy, report status, switch proxies, view pool health, and register nodes, backed by health checks and audit logging.

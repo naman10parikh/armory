@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:36:26Z"
 ---
 ## What it is
 Fetch Songsterr tabs and transpose them between tunings and string counts, outputting ASCII or Guitar Pro files.

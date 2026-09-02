@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T21:38:51Z"
 ---
 ## What it is
 Security scanner and trust verification layer for MCP ecosystem, enabling users to scan PyPI packages and GitHub repos for secrets, dangerous patterns, and prompt injection vectors, and compare security scores.

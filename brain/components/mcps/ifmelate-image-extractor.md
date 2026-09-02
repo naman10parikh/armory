@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-28T14:28:20Z"
 ---
 ## What it is
 MCP server `Image Extractor`, catalogued on PulseMCP. Enables image processing and analysis by extracting images from URLs or base64 data, with features for resizing, format conversion, and secure domain filtering.

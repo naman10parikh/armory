@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-21T06:11:35Z"
 ---
 ## What it is
 An MCP server that enables AI agents to manage Smartlead campaigns, including creating campaigns, updating schedules, managing email sequences, and adding leads, all over SSE.

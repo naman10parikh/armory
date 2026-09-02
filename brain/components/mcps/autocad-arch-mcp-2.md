@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T05:56:59Z"
 ---
 ## What it is
 Enables architectural modeling and automation in AutoCAD 2021 through YQArch integration, using hybrid MCP protocols to perform design tasks and manage CAD operations.

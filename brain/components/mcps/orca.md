@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:50:01Z"
 ---
 ## What it is
 Enables standard MCP clients to inspect and query GTK application accessibility trees through ARIA-normalized, policy-filtered MCP tools.

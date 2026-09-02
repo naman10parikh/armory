@@ -8,10 +8,12 @@ source_url: https://github.com/soukouki/local-wikipedia
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-16T08:54:22Z"
 ---
 ## What it is
 MCP server `Local Wikipedia`, catalogued on PulseMCP. Provides offline Wikipedia access through local dataset downloads from HuggingFace's finewiki collection with multi-language support and configurable fallbacks for scenarios requiring encyclopedic knowledge without internet connectivity or reduced query latency.

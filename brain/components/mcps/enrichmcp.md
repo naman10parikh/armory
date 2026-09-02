@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 32
+pushed_at: "2026-03-01T13:37:36Z"
 ---
 ## What it is
 Turns your data model into a semantic layer for AI agents, automatically generating typed, discoverable tools with entity relationships and schema discovery.

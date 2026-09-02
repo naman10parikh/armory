@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T08:55:38Z"
 ---
 ## What it is
 Enables reading products, checking approval statuses, and analyzing feeds across multiple Google Merchant Center accounts via natural language.

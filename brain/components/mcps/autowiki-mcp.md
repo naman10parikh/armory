@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T06:56:59Z"
 ---
 ## What it is
 Automatically generates comprehensive wiki documentation from any codebase, including Mermaid diagrams, source code citations, and automated quality checks.

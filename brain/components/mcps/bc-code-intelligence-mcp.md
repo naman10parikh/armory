@@ -8,11 +8,13 @@ source_url: https://github.com/JeremyVyska/bc-code-intelligence-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 92
+stars: 93
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-03-05T05:33:11Z"
 ---
 ## What it is
 Provides AI-powered assistance for Microsoft Business Central (BC) development, enabling users to get expert help with debugging, coding, upgrades, testing, and more through specialized AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:48:54Z"
 ---
 ## What it is
 MCP server that automates TaskPaper on macOS, enabling task management operations like reading, searching, adding, completing tasks, and setting filters via JavaScript for Automation.

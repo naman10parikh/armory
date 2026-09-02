@@ -8,10 +8,12 @@ source_url: https://github.com/alexsmirnov/obsidian-second-brain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-25T21:52:37Z"
 ---
 ## What it is
 MCP server `Development Automation Server`, catalogued on PulseMCP. Provides a development automation server with modular architecture for fetching web content, accessing documentation, analyzing project structure, and performing web searches through internet and Perplexity APIs.

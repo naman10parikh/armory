@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:50Z"
 ---
 ## What it is
 The official Model Context Protocol adapter for Salesforce Commerce Cloud (B2C). Empower your AI agents to seamlessly navigate headless storefronts, manage e-commerce orders, and interact with complex SCAPI/OCAPI endpoints natively.

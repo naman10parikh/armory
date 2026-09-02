@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:55:18Z"
 ---
 ## What it is
 MCP server that bridges AI agents with WSQLite, enabling search, design, and deployment of high-performance SQLite-backed services with industry-standard patterns and architecture enforcement.

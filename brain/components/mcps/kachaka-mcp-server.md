@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-08T15:07:00Z"
 ---
 ## What it is
 Enables AI models to monitor and control Kachaka robots via MCP, including navigation, shelf operations, and sensor data access.

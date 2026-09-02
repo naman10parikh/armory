@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T01:43:48Z"
 ---
 ## What it is
 AI-first CSV analysis tool that enables AI agents to analyze, query, and audit large CSV files directly within conversations, turning raw data into actionable insights.

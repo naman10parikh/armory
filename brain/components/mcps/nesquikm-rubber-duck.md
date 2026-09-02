@@ -8,10 +8,12 @@ source_url: https://github.com/nesquikm/mcp-rubber-duck
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 165
+stars: 176
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-08-19T09:43:15Z"
 ---
 ## What it is
 MCP server `Rubber Duck`, catalogued on PulseMCP. Bridge to multiple OpenAI-compatible LLMs with consensus voting and multi-provider querying

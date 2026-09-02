@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T15:53:57Z"
 ---
 ## What it is
 MCP server that enables Claude Code to interact with a personal Telegram account via MTProto, providing over 120 tools for messaging, media, chat management, and more.

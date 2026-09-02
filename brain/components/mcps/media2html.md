@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T06:34:24Z"
 ---
 ## What it is
 Converts images, videos, and audio into structured, cacheable HTML representations optimized for text-based LLM reasoning.

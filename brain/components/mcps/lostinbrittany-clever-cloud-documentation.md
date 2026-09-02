@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-29T21:51:01Z"
 ---
 ## What it is
 MCP server `Clever Cloud Documentation`, catalogued on PulseMCP. Exposes Clever Cloud's documentation for querying and accessing content, enabling automated lookup and integration with development workflows.

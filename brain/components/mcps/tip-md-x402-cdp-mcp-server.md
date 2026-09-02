@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-09-11T12:09:33Z"
 ---
 ## What it is
 Enables any AI agent to send cryptocurrency tips via x402 payment collection and automatic CDP disbursement, turning agents into payment-enabled tipping platforms.

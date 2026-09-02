@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-03T17:33:50Z"
 ---
 ## What it is
 A production-ready MCP server that exposes Aider's code editing capabilities via WebSocket, enabling natural language commands to create and edit files with isolated workspaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T21:10:01Z"
 ---
 ## What it is
 Combined MCP server for Euro-Office DocumentServer enabling Word and PDF editing, document conversion, force-save, session info, and headless prompt-based document editing.

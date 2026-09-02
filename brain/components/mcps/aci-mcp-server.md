@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T04:53:51Z"
 ---
 ## What it is
 A Model Context Protocol server that lets AI clients read and configure a live Cisco ACI fabric via the APIC REST API, with confirmation required for state changes and built-in safety checks.

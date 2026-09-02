@@ -8,11 +8,13 @@ source_url: https://github.com/supermemoryai/supermemory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1689
+stars: 1713
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 6
+forks: 176
+pushed_at: "2025-12-30T20:05:49Z"
 ---
 ## What it is
 MCP server `Supermemory`, catalogued on PulseMCP. Personal knowledge platform that helps collect, organize, and recall information from various sources with end-to-end encryption and optional self-hosting.

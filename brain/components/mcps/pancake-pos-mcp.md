@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-05-11T19:27:54Z"
 ---
 ## What it is
 Enables AI assistants to manage Vietnamese e-commerce POS operations including orders, products, customers, inventory, supply chain, sales, CRM, and multi-channel integration via Pancake POS API.

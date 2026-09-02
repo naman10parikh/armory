@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:44:19Z"
 ---
 ## What it is
 Uptime, SSL, DNS and domain monitoring you can talk to: check, create and manage monitors for all your client sites from Claude, ChatGPT, or any MCP client.

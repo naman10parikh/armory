@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:12:01Z"
 ---
 ## What it is
 Scaffolds new MCP servers for the OpenSIN-Code ecosystem with templates for Python, Node, Go; provides tools to add tools, test, validate, register, publish, and audit servers.

@@ -8,10 +8,12 @@ source_url: https://github.com/logos-flux/mnemo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-25T23:28:59Z"
 ---
 ## What it is
 MCP server `Mnemo`, catalogued on PulseMCP. Provides extended memory for large codebases, documentation sites, and web content through Gemini's context caching API, enabling efficient loading and querying without hitting token limits.

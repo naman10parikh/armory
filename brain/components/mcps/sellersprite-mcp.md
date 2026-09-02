@@ -8,11 +8,13 @@ source_url: https://github.com/JieXi-11/SellerSprite
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T01:46:16Z"
 ---
 ## What it is
 Enables AI agents to access and query SellerSprite's Amazon seller analytics data through structured MCP tools, handling authentication and API complexity.

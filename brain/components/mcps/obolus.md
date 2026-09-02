@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:01:25Z"
 ---
 ## What it is
 MCP server that equips AI agents with a disposable Algorand wallet to automatically pay for x402 resources, handling setup, opt-in, signing, and sweeping invisibly.

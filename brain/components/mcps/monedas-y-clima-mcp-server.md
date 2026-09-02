@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T13:45:48Z"
 ---
 ## What it is
 An MCP server that integrates ExchangeRate-API and Open-Meteo to provide currency conversion and weather tools, enabling natural language queries for exchange rates, weather, and geocoding.

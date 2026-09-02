@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:55:32Z"
 ---
 ## What it is
 Optimizes your starting XI for Biwenger World Cup 2026 using fixed prices, with API endpoints for lineup optimization, player comparisons, and captain picks. Operates locally without accessing your actual Biwenger account.

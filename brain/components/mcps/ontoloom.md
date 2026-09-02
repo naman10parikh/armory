@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-01T12:44:16Z"
 ---
 ## What it is
 MCP server for building and exploring OWL 2 ontologies using AI agents, with tools for axiom management, structural pattern matching, and persistent selections.

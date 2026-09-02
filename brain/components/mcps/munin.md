@@ -8,11 +8,13 @@ source_url: https://github.com/getmunin/munin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:23:53Z"
 ---
 ## What it is
 An open-source, headless HubSpot alternative that exposes CRM, conversations, CMS, knowledge base, outreach, and analytics as MCP tools for AI agents to operate.

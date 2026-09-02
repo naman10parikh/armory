@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:57:57Z"
 ---
 ## What it is
 Provides AI assistants with offline, deterministic access to WindUI's structured metadata for component, theme, and icon lookup, enabling accurate UI generation without relying on the AI's internal training.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-04T09:46:06Z"
 ---
 ## What it is
 MCP server `Fivetran`, catalogued on PulseMCP. Integrates with Fivetran's REST API to manage data pipelines through user invitations, connection discovery, and sync operations with automated unpausing and forced synchronization capabilities.

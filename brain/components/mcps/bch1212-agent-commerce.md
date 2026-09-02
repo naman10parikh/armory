@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T16:13:30Z"
 ---
 ## What it is
 MCP server `Agent Commerce`, catalogued on PulseMCP. MCP server enabling autonomous agent-to-agent commerce with product discovery, Stripe checkout, affiliate program management, and vendor verification.

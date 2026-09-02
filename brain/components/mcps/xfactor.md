@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T23:45:50Z"
 ---
 ## What it is
 MCP server that connects AI agents to browser DevTools via CDP, enabling real-time access to console logs, network requests, and page state.

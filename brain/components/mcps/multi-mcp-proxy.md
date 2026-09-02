@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2025-07-21T14:24:58Z"
 ---
 ## What it is
 A flexible MCP proxy server that connects to and routes between multiple backend MCP servers over STDIO or SSE, enabling dynamic management and namespacing of tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-12-18T12:38:19Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve Azure service updates, retirements, and feature announcements using natural language queries with fast local caching.

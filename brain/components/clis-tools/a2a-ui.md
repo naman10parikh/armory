@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, clients]
+forks: 2
+pushed_at: "2025-10-23T19:55:21Z"
 ---
 ## What it is
 UI for Google A2A made using Next.js, TypeScript and Shadcn

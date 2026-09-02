@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T22:06:28Z"
 ---
 ## What it is
 Read-only MCP server for Home Assistant that computes statistical summaries, trends, and session detection from recorded sensor history, returning compact tables instead of raw data so small local models can answer questions about energy usage, climate, and appliance activity without token-heavy ari

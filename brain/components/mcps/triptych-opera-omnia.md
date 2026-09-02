@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T21:52:40Z"
 ---
 ## What it is
 MCP server `Opera Omnia`, catalogued on PulseMCP. Provides access to a rich collection of creative content datasets for games, storytelling, and applications, enabling quick retrieval of character concepts, equipment descriptions, and RPG elements through a clean TypeScript API.

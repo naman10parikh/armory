@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-31T07:01:16Z"
 ---
 ## What it is
 An MCP server that turns Project PLATEAU's 3D city data into scene-editing and glTF export tools for creative LLM agents.

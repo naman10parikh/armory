@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T21:35:02Z"
 ---
 ## What it is
 Safe MCP server for Google Flow that opens a separate Chrome instance, handles authentication, and enables video generation and download, without affecting the main Chrome profile.

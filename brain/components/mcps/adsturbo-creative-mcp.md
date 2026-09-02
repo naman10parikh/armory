@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-03T09:18:45Z"
 ---
 ## What it is
 A local-only MCP server for AI video ad planning. It helps AI agents build video ad briefs, hooks, UGC scripts, storyboards, variation plans, script reviews, and AdsTurbo-ready prompts without calling AdsTurbo internal services.

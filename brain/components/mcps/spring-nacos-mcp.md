@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T11:04:30Z"
 ---
 ## What it is
 A project-aware, read-only Nacos MCP server for Spring Cloud repositories.

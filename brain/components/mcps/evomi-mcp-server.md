@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:48:25Z"
 ---
 ## What it is
 MCP server for Evomi's proxy and web scraping APIs, providing tools for managing proxy credentials, geo targeting, usage, sessions, browser profiles, and a full scraping toolkit including crawling, URL discovery, AI-powered extraction, and scheduled jobs.

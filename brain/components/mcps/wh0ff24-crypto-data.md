@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-09T19:50:18Z"
 ---
 ## What it is
 MCP server `Crypto Data`, catalogued on PulseMCP. MCP server for live cryptocurrency prices, market overview, Fear &amp; Greed Index, and historical charts via CoinGecko.

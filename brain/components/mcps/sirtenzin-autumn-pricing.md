@@ -8,10 +8,12 @@ source_url: https://github.com/sirtenzin/autumn-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-16T20:29:01Z"
 ---
 ## What it is
 MCP server `Autumn (Pricing API)`, catalogued on PulseMCP. Integrates with Autumn's pricing API to enable subscription management, customer information retrieval, invoice handling, and billing portal generation for businesses using Claude and other assistants.

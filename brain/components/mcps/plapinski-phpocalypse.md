@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-25T19:11:11Z"
 ---
 ## What it is
 MCP server `PHPocalypse`, catalogued on PulseMCP. Enables PHP developers to run static analysis, code style checks, and tests directly within conversations by executing PHPStan, PHP-CS-Fixer, and PHPUnit commands through a YAML-configured TypeScript server.

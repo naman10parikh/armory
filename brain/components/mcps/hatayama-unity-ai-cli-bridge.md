@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-08T15:56:37Z"
 ---
 ## What it is
 MCP server `Unity AI CLI Bridge`, catalogued on PulseMCP. Go-based CLI bridge exposing Unity Editor's built-in MCP tools through stdio, enabling AI agents to perform scene manipulation, compilation, testing, and asset management.

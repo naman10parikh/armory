@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-11T09:30:16Z"
 ---
 ## What it is
 AI-powered MCP assistant for telecom synchronization standards (ITU-T & 3GPP). Ask questions about PTP, SyncE, GNSS, timing budgets in plain English and get answers with exact standard references.

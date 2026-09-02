@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T07:24:28Z"
 ---
 ## What it is
 Provides a multilingual, region-aware brand catalogue and click-through URL generation for MCP-compatible agents, enabling commerce recommendations with attribution tracking.

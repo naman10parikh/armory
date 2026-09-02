@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T17:14:06Z"
 ---
 ## What it is
 A Python MCP server that queries Spanish Cadastre services for non-protected cadastral data and exports parcel geometry in GML, GeoJSON, and IFC formats.

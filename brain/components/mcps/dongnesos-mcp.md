@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T02:53:26Z"
 ---
 ## What it is
 Helps users prepare Korean neighborhood inconvenience reports by classifying issues, explaining evidence, and drafting neutral reports without submitting them.

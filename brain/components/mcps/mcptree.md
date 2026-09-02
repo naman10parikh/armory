@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:05:10Z"
 ---
 ## What it is
 An MCP server that adds declarative decision trees to FastMCP, enabling deterministic branching logic for runbooks and triage flows with a full audit trail.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:47Z"
 ---
 ## What it is
 Consulta em fonte oficial a NFC-e Resumida do SEFAZ RN, com leitura somente e pagamento por uso via crédito pré-pago.

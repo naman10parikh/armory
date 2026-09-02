@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:15:00Z"
 ---
 ## What it is
 This MCP server enables AI models to analyze local Python codebases using abstract syntax trees, providing tools for file structure analysis, symbol search, import graphing, docstring auditing, and refactoring prompts without loading entire source files into context.

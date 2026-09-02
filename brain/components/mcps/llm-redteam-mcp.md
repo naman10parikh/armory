@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T18:37:50Z"
 ---
 ## What it is
 An MCP server that runs curated adversarial prompts against local Ollama models to test guardrails, scoring responses with heuristic verdicts for human review.

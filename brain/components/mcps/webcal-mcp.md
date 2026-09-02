@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:43:44Z"
 ---
 ## What it is
 A read-only MCP server that exposes iCalendar feeds as queryable tools for LLM agents, enabling calendar event retrieval and filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:33:02Z"
 ---
 ## What it is
 MCP server for the Fatture in Cloud API v2 that lets Claude read and manage issued and received documents (invoices, credit notes, quotes, expenses, etc.) via CRUD operations.

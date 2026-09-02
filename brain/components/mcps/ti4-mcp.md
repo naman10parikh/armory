@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-18T08:17:35Z"
 ---
 ## What it is
 Provides Twilight Imperium 4 game data, rules lookup, faction strategy guides, and setup assistance via the Model Context Protocol.

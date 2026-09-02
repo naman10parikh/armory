@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T00:37:40Z"
 ---
 ## What it is
 Enables searching, downloading, and placing b-roll assets (images, stock video, etc.) onto an editor timeline in DaVinci Resolve, Premiere, or via universal formats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:16:12Z"
 ---
 ## What it is
 A lightweight MCP server that provides a focused set of tools for interacting with monday.com's GraphQL API, enabling users to manage boards, items, users, and updates from AI assistants.

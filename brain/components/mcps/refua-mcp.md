@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:51:27Z"
 ---
 ## What it is
 MCP server for biological protein design, folding, and affinity prediction using Refua tools, with optional support for ADMET, clinical simulation, preclinical planning, wet-lab automation, and more.

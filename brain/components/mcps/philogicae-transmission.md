@@ -8,10 +8,12 @@ source_url: https://github.com/philogicae/transmission-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-13T19:31:59Z"
 ---
 ## What it is
 MCP server `Transmission`, catalogued on PulseMCP. Integrates with Transmission BitTorrent client for torrent management including session control, file operations, queue management, and download statistics monitoring.

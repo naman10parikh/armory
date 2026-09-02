@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:20:35Z"
 ---
 ## What it is
 Provides an agentic RAG workflow with tool calling, enabling natural-language retrieval of policy docs, payment searches, and ticket creation over MCP stdio or HTTP.

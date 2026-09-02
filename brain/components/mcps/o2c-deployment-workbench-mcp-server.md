@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:57:48Z"
 ---
 ## What it is
 Provides deterministic tools and resources for order-to-cash deployment, enabling payment investigation, collection prioritization, and controlled benchmark runs on synthetic ERP data.

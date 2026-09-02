@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T22:03:31Z"
 ---
 ## What it is
 Persistent docs and memory for AI agents. Writespace is a collaborative markdown editor with a built-in MCP server — your model reads, writes, organizes, and searches a shared workspace while humans edit the same docs live. Drop the ranked full-text search straight in as RAG retrieval.

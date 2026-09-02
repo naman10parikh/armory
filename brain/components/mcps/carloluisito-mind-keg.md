@@ -8,10 +8,12 @@ source_url: https://github.com/carloluisito/mindkeg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-13T09:14:48Z"
 ---
 ## What it is
 MCP server `Mind Keg`, catalogued on PulseMCP. Persistent memory for AI coding agents that stores and retrieves atomic learnings across sessions using semantic search and SQLite.

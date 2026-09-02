@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:36:57Z"
 ---
 ## What it is
 Enables Claude to generate and iterate on UI mockups using OpenUI Lang against a shadcn/ui palette, with live preview and auto-persisted assemblies that can be updated in place.

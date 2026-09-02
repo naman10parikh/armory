@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 18
+forks: 0
+pushed_at: "2026-08-13T00:35:08Z"
 ---
 ## What it is
 Semantic knowledge graph for Obsidian. Three modes (pure graph / semantic classification / strict hierarchy), local embeddings, sign classification via cosine similarity to user-defined cores, bottom-up core_mix aggregation, semantic bridge discovery, and drift detection. `pip install nouz-mcp`

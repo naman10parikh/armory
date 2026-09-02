@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-09T10:58:59Z"
 ---
 ## What it is
 Provides web access capabilities for LLMs including search, fetching, content extraction, PDF reading, image viewing, and screenshots.

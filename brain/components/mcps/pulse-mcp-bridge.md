@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:42:01Z"
 ---
 ## What it is
 Bridges your IDE to a running React Native/Expo mobile app over local Wi-Fi, providing live device status, app logs, and a combined standup snapshot.

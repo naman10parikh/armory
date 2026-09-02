@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:26:54Z"
 ---
 ## What it is
 Enables local tools to interact with a private-first knowledge graph, with full CRUD access to authorized data while remote AI providers only see approved plaintext through policy-scoped MCP surfaces.

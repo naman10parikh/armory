@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T13:37:35Z"
 ---
 ## What it is
 MCP server `Kali Linux Tools`, catalogued on PulseMCP. Provides containerized access to Kali Linux penetration testing tools including nmap, sqlmap, metasploit-framework, gobuster, nikto, and hydra for security assessments.

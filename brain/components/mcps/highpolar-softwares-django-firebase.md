@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-26T11:41:18Z"
 ---
 ## What it is
 MCP server `Firebase Admin SDK`, catalogued on PulseMCP. Integrates Django applications with Firebase services, providing tools for user authentication, Firestore database operations, and Cloud Storage file management through Firebase Admin SDK capabilities.

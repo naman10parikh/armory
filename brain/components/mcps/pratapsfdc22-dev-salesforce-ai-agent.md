@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T02:39:31Z"
 ---
 ## What it is
 MCP server `Salesforce AI Agent`, catalogued on PulseMCP. Integrates Claude with Jira, Salesforce, and n8n through 12 tools for story management, metadata deployment, and workflow orchestration.

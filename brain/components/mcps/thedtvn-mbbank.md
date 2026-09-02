@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-06-14T11:45:36Z"
 ---
 ## What it is
 MCP server `MBBank`, catalogued on PulseMCP. Provides read-only access to MBBank accounts for retrieving balances, transaction histories, savings account details, and current date information to support financial monitoring and expense tracking workflows.

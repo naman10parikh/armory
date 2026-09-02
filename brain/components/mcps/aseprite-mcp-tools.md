@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:49:40Z"
 ---
 ## What it is
 Enables AI assistants to control Aseprite for creating pixel art and animated sprites, with 104 tools covering canvas, drawing, animation, palettes, effects, and more.

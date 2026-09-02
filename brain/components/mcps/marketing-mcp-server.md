@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T03:25:38Z"
 ---
 ## What it is
 Centralizes 10 marketing APIs into 14 MCP tools for AI assistants to pull data, audit sites, research trends, and manage Google Drive without switching tabs.

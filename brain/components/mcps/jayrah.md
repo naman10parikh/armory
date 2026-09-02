@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-21T20:35:58Z"
 ---
 ## What it is
 Enables AI assistants to interact with Jira via CLI/TUI, supporting issue browsing, creation, comments, status changes, and custom fields.

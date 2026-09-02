@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:08:33Z"
 ---
 ## What it is
 Enables Claude Desktop to monitor and control your computer system with 90+ real-time tools covering CPU, RAM, GPU, disk, network, processes, and more, plus extensions for file management, code editing, and web research.

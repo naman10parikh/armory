@@ -8,11 +8,13 @@ source_url: https://github.com/AnCarsenat/minecode-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-16T17:12:16Z"
 ---
 ## What it is
 MineCode is a local MCP server that provides AI assistants with real-time access to Minecraft data, documentation, datapack generators, and logs, featuring 19 tools for datapack development.

@@ -12,6 +12,8 @@ stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-03-10T13:29:36Z"
 ---
 ## What it is
 MCP server `Solana Dev`, catalogued on PulseMCP. Integrates with Solana blockchain to provide direct access to account data, transaction details, and network parameters through TypeScript-based RPC methods for developers building on the Solana ecosystem.

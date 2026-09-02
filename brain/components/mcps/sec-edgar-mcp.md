@@ -8,11 +8,13 @@ source_url: https://github.com/stefanoamorelli/sec-edgar-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 350
+stars: 355
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 95
+pushed_at: "2026-08-21T10:17:34Z"
 ---
 ## What it is
 MCP server for accessing SEC EDGAR filings. Connects AI assistants to company filings, financial statements, and insider trading data with exact numeric precision.

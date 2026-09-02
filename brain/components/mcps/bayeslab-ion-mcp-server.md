@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:03:58Z"
 ---
 ## What it is
 Brings industry-specific public-equity research into MCP clients, allowing reading of ION reports and queuing isolated company analyses with user approval.

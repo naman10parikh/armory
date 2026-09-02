@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:34:17Z"
 ---
 ## What it is
 A website audit MCP server that provides free tools to check on-page SEO elements like titles, descriptions, and images across up to 20 pages, and also validates robots.txt, sitemap.xml, and llms.txt accessibility.

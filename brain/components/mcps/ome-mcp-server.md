@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:11:37Z"
 ---
 ## What it is
 Enables AI agents to manage Dell PowerEdge servers via Dell OpenManage Enterprise (OME) REST API, providing tools for device inventory, power control, firmware updates, alert management, and compliance baselines.

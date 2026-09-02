@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T11:07:54Z"
 ---
 ## What it is
 MCP server for interacting with QUADS infrastructure systems via API, enabling resource management and automation through LLM applications.

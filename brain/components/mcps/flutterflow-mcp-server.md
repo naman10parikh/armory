@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:37:48Z"
 ---
 ## What it is
 Connects AI coding agents to FlutterFlow projects, enabling browsing, inspection, and modification of projects directly from the assistant.

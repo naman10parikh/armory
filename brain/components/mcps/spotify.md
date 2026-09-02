@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 3
+forks: 0
+pushed_at: "2025-04-02T09:27:02Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Integrates with Spotify to control music playback, search content, manage queues, and retrieve detailed information about tracks, albums, artists, and playlists through OAuth authentication.

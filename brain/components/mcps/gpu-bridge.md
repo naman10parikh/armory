@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-17T11:16:23Z"
 ---
 ## What it is
 MCP server `GPU Bridge`, catalogued on PulseMCP. Unified GPU inference API exposing 30 AI services including LLMs, image generation, audio, video, and embeddings with x402 payment support.

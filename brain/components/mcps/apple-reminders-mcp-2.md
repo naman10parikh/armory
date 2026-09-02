@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T22:06:54Z"
 ---
 ## What it is
 Enables management of Apple Reminders on macOS, including creating, listing, searching, editing, completing, moving, and deleting reminders and reminder lists via native EventKit.

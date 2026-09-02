@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:28:11Z"
 ---
 ## What it is
 An MCP server for the OpenAI Ads (ChatGPT Ads) Advertiser API, providing tools for agent-led performance marketing such as finding dead ads, auditing near-duplicate copy, and auditing ad-group context hints.

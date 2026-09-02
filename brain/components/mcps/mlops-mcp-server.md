@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:08:17Z"
 ---
 ## What it is
 Enables AI assistants to perform MLOps workflows such as experiment tracking, model registry, dataset management, pipeline orchestration, and data lineage by wrapping DVC, MLflow, and Git.

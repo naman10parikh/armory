@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T23:50:39Z"
 ---
 ## What it is
 Nooxus-MCP is the official Model Context Protocol (MCP) gateway connecting AI models to real-time, verified global supply chain data.

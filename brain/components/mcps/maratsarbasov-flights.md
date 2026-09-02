@@ -8,10 +8,12 @@ source_url: https://github.com/maratsarbasov/flights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-04T12:15:43Z"
 ---
 ## What it is
 MCP server `Flight Search`, catalogued on PulseMCP. Provides flight search capabilities using the Aviasales Flight Search API

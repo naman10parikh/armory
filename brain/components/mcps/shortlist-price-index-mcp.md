@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T10:07:27Z"
 ---
 ## What it is
 Provides AI agents with verified, monthly software pricing data for categories like VPNs and cloud backup, enabling price comparisons and identifying cheapest providers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:21:23Z"
 ---
 ## What it is
 Provides a self-hosted shared work queue for AI agents via MCP, using a local SQLite database for task management.

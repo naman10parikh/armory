@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T21:39:43Z"
 ---
 ## What it is
 An internal MCP server for Zo Computers that bridges terminal agents with Zo's tool layer (files, shell, web, comms, apps) via stdio transport using the automatic identity token.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T02:44:41Z"
 ---
 ## What it is
 Control Apple Music via natural language from Claude Code, with the ability to mark tracks and accumulate reactions in an Obsidian Vault.

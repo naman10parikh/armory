@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:26:42Z"
 ---
 ## What it is
 MCP server exposing Taiwan's MOPS salary data (2019-2025) via four read-only tools, enabling LLMs to query company salaries, industry stats, and trends under strict constraints.

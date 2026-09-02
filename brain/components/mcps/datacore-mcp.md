@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:54:57Z"
 ---
 ## What it is
 MCP server exposing Datacore's knowledge base, GTD, and engram memory to any AI assistant.

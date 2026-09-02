@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T15:52:43Z"
 ---
 ## What it is
 Enables checking real-time service outages and incidents from whatbroke.today, allowing users to ask about current downtime, service status, and incident details.

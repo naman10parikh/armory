@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:27:51Z"
 ---
 ## What it is
 An MCP server that indexes codebases into a local knowledge graph, providing 52 AI tools for semantic search, call-graph traversal, git archaeology, and impact analysis to give AI agents deep understanding of code.

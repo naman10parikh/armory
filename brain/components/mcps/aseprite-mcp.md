@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T12:06:08Z"
 ---
 ## What it is
 Enables AI assistants to automate Aseprite tasks such as sprite sheet export, frame extraction, and Lua scripting for sprite manipulation.

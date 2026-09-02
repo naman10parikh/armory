@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 16
+forks: 11
+pushed_at: "2026-04-13T07:22:40Z"
 ---
 ## What it is
 Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T18:26:22Z"
 ---
 ## What it is
 A FastMCP server for loading, editing, searching, and saving Jupyter notebooks (.ipynb) through MCP tools. It maintains a single active notebook session with live cell indices that update as cells are inserted or removed.

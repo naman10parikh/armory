@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-30T16:23:58Z"
 ---
 ## What it is
 MCP server `Jupyter Earth Data`, catalogued on PulseMCP. Bridges Jupyter notebooks with Earth science data analysis by enabling direct NASA Earth Data granule downloads with temporal and geographic filtering capabilities.

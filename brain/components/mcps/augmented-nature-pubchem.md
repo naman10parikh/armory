@@ -8,10 +8,12 @@ source_url: https://github.com/augmented-nature/pubchem-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-12-21T10:07:53Z"
 ---
 ## What it is
 MCP server `PubChem`, catalogued on PulseMCP. Integrates with PubChem chemical database to provide compound search, structure analysis, property calculation, bioassay data, safety information, and cross-references for drug discovery, chemical research, and regulatory compliance workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/rdm9x/devboard
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T19:56:02Z"
 ---
 ## What it is
 MCP server `Devboard`, catalogued on PulseMCP. AI dev team orchestration platform with a kanban board powered by the pride-tasks MCP server for task state management across agents.

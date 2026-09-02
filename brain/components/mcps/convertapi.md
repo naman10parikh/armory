@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T07:15:07Z"
 ---
 ## What it is
 MCP server `ConvertAPI`, catalogued on PulseMCP. Integrates with ConvertAPI's cloud service to transform files between formats like PDF, DOCX, and images with automatic parameter validation against live OpenAPI specifications.

@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-24T03:42:16Z"
 ---
 ## What it is
 MCP server `Deep Research`, catalogued on PulseMCP. Provides web search and advanced research capabilities with specialized tools for browsing, document analysis, media processing, and archive searching to gather information from diverse sources.

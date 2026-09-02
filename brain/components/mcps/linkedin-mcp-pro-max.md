@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-02T16:31:26Z"
 ---
 ## What it is
 High-performance autonomous MCP server that turns LinkedIn into an API for AI workflows, enabling profile management, job search, content posting, and document generation.

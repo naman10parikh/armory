@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-01T16:13:04Z"
 ---
 ## What it is
 Connects AI assistants to the Kit.com (formerly ConvertKit) email marketing platform, enabling management of subscribers, tags, sequences, broadcasts, and more through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T05:49:25Z"
 ---
 ## What it is
 Enables AI-powered GitHub interactions including repository analysis, code search, PR reviews, and more through the MCP protocol.

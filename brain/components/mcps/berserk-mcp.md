@@ -8,11 +8,13 @@ source_url: https://github.com/ssimonsen0202/berserk_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:38:31Z"
 ---
 ## What it is
 Enables LLMs to answer Berserk observability questions by calling verified KQL tools instead of hand-authoring queries, with role-based tool filtering and automated query discovery.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T17:18:12Z"
 ---
 ## What it is
 A FastMCP server that exposes core fal.ai model API operations, enabling model catalogue browsing, search, schema retrieval, inference, queue management, and CDN uploads through natural language.

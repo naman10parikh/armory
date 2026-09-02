@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T03:54:56Z"
 ---
 ## What it is
 MCP server for controlling iTerm2 terminal sessions, enabling screen reading, command execution, keystroke sending, and session management through natural language.

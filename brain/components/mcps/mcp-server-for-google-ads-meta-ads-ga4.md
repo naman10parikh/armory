@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T05:27:13Z"
 ---
 ## What it is
 Automates marketing workflows across Google Ads, Meta Ads, and GA4, enabling content generation, scheduling, and analytics via a multi-agent pipeline.

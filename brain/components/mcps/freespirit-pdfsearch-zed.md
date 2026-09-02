@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-01T09:27:10Z"
 ---
 ## What it is
 MCP server `PDF Search`, catalogued on PulseMCP. Built for Zed to enable semantic searching of PDF documents using a Qdrant vector database and OpenAI embeddings.

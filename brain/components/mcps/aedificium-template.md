@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:50:17Z"
 ---
 ## What it is
 Enables a personal learning notebook and lexicon with Claude-native chat, supporting markdown notes, definitions, PDFs, math rendering, wiki-links, and git auto-commit.

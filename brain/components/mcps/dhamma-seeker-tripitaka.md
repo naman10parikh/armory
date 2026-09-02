@@ -8,10 +8,12 @@ source_url: https://github.com/dhamma-seeker/tripitaka-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-29T13:31:17Z"
 ---
 ## What it is
 MCP server `Tripitaka`, catalogued on PulseMCP. Search and cite the full Pāli Canon across 444,000 segments with hybrid keyword and semantic search.

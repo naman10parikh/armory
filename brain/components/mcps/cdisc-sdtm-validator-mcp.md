@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T00:56:12Z"
 ---
 ## What it is
 Validates CDISC SDTM datasets against SDTMIG 3.4 specifications, offering tools for required variables, controlled terminology, and full dataset validation with bundled sample datasets.

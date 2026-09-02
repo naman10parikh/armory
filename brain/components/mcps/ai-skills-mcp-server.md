@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T14:02:34Z"
 ---
 ## What it is
 Compiles skill definitions and serves them to AI agents via MCP, enabling tools for context packing, dependency resolution, and skill searching.

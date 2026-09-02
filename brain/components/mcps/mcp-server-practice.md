@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T17:24:16Z"
 ---
 ## What it is
 A practice project demonstrating how to build Model Context Protocol servers with Python, LangGraph, and Groq, featuring a math server via stdio and a weather server via streamable-http, enabling arithmetic operations and mock weather queries through an AI agent.

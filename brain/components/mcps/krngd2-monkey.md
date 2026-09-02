@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T09:37:16Z"
 ---
 ## What it is
 MCP server `MCP Monkey (Chrome Browser)`, catalogued on PulseMCP. Bridges AI coding agents to Chrome browser tabs via WebSocket, enabling custom JavaScript execution in authenticated sessions for scraping, testing, and automation.

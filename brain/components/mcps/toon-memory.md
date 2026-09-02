@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T00:02:00Z"
 ---
 ## What it is
 MCP memory server for AI coding agents to remember decisions, patterns, and bugs between sessions. Provides persistent memory with 37 MCP tools, multi-session coordination, and token-efficient recall.

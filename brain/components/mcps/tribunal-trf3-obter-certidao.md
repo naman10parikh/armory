@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:55Z"
 ---
 ## What it is
 Enables consultation of distribution certificates from the Brazilian Federal Regional Court 3 (TRF3) via an official source, with read-only access and prepaid credits.

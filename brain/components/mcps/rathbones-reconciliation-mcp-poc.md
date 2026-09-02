@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:28:05Z"
 ---
 ## What it is
 Emulates Orbus Infinity and ServiceNow CMDB as two MCP endpoints on a shared synthetic dataset to enable a reconciliation agent to compare architectural and operational data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:30:05Z"
 ---
 ## What it is
 A hosted MCP server that gives AI agents live, self-custodial access to the Bittensor blockchain, enabling queries and on-chain actions via any MCP client.

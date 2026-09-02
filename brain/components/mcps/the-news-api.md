@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-22T04:09:03Z"
 ---
 ## What it is
 MCP server `TheNewsAPI`, catalogued on PulseMCP. Provides a unified interface to TheNewsAPI for retrieving current and historical news articles with advanced filtering, bookmarking, and topic categorization capabilities

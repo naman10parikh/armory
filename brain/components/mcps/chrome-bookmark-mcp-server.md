@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-25T05:27:33Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server implementation that provides seamless integration between Chrome bookmarks and AI assistants. This server enables AI models to access, search, analyze, and manage Chrome bookmarks through a standardized protocol.

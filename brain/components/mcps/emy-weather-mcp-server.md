@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:49:03Z"
 ---
 ## What it is
 Provides live Greek weather data from EMY, including forecasts, alerts, marine bulletins, warnings, and climate records. Supports location-based queries by name, ID, or coordinates without requiring an API key.

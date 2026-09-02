@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T15:50:01Z"
 ---
 ## What it is
 Analyzes French real-estate market using open data sources like DVF transactions, DPE certificates, and risk data.

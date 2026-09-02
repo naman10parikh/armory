@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-11T22:40:11Z"
 ---
 ## What it is
 MCP server providing an interactive GUI for users to input prompts and images, with integrated Google Gemini prompt optimization for AI-assisted development.

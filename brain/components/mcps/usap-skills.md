@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-14T11:58:39Z"
 ---
 ## What it is
 Exposes 79 cybersecurity skills and 12 orchestrator agents over MCP, with a typed 11-field output contract, an enforced resolvable-evidence gate (no verdict without a resolvable source), and human-approval gating for every mutating action. Apache-2.0, stdlib-only.

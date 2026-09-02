@@ -8,11 +8,13 @@ source_url: https://github.com/TokonoMix/tokonomix-council-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:40:29Z"
 ---
 ## What it is
 Enables multi-model consensus decision-making for high-stakes AI decisions, using independent expert models and a judge to surface disagreements and ground decisions.

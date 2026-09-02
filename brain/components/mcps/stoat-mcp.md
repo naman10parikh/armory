@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T23:27:37Z"
 ---
 ## What it is
 Enables AI assistants to read and write messages, manage channels, and interact with users on the Stoat chat platform.

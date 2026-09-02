@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:13:25Z"
 ---
 ## What it is
 MCP server that connects Claude or any MCP-capable LLM to your Garmin golf data, enabling natural-language queries on rounds, shots, strokes gained, club distances, course intel, and health-performance correlations from a private local DuckDB cache.

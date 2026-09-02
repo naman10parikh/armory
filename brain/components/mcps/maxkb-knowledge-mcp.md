@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:55:17Z"
 ---
 ## What it is
 Enables querying MaxKB knowledge bases through MCP, supporting vector, hybrid, and full-text retrieval of relevant segments, as well as listing knowledge bases, documents, and workspaces.

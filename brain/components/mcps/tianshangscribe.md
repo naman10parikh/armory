@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T01:19:21Z"
 ---
 ## What it is
 MCP server for Office documents — create, edit, fill templates, convert, and extract Word/Excel/PowerPoint. LaTeX-style markup, math formulas, PDF export, template loops, and document diff. stdio / SSE / Streamable HTTP with auth and rate limiting.

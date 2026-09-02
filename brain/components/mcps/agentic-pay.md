@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:02:40Z"
 ---
 ## What it is
 Non-custodial payment engine for AI agents supporting BTC, ETH, USDT, USDC, XRP, XMR, and ZEC. Exposes wallet, invoice, and payment tools over MCP with per-agent spend limits, plus x402 pay-per-call support.

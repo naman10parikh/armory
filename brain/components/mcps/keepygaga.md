@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:48:06Z"
 ---
 ## What it is
 Enables AI agents to maintain a small, curated set of durable personal memories in local Markdown via eight explicit MCP tools, avoiding unselective recall and temporary state.

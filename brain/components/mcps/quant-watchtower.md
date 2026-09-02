@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:48:21Z"
 ---
 ## What it is
 A read-only MCP operations console for monitoring an algorithmic trading fleet, providing heartbeat, reconciliation, alert, and audit data through six typed tools.

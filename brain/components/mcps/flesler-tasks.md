@@ -8,10 +8,12 @@ source_url: https://github.com/flesler/mcp-tasks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-06T15:10:16Z"
 ---
 ## What it is
 MCP server `Tasks`, catalogued on PulseMCP. Provides task management capabilities across Markdown, JSON, and YAML files with tools for creating, searching, updating, and summarizing tasks while automatically managing work-in-progress status transitions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:35:46Z"
 ---
 ## What it is
 An MCP server that connects to Telegram as your real user account and exposes read-only tools to read and search messages, list chats and folders, inspect group info, and download media.

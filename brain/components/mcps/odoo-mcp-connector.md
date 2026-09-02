@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:03:19Z"
 ---
 ## What it is
 Production-grade Odoo add-ons that expose Odoo business functionality to MCP-compliant clients over HTTP with OAuth 2.1, per-user permission enforcement, write-confirmation safety, and full audit logging.

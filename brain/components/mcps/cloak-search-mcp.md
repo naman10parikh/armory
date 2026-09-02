@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T05:34:24Z"
 ---
 ## What it is
 A local, anti-bot-resilient web search MCP server that uses stealth Chromium automation to search Google or DuckDuckGo without API keys, with automatic fallback and human-like interaction to bypass CAPTCHAs.

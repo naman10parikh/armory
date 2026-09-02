@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-04T13:22:16Z"
 ---
 ## What it is
 MCP server `RAG Context`, catalogued on PulseMCP. Provides persistent memory and context management using local vector storage and SQLite database, enabling semantic search and indexed retrieval of stored information with automatic vectorization and configurable similarity thresholds for complete privacy and data control.

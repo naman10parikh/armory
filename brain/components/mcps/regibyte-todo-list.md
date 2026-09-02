@@ -8,10 +8,12 @@ source_url: https://github.com/regibyte/todo-list-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-03-13T00:35:52Z"
 ---
 ## What it is
 MCP server `Todo List`, catalogued on PulseMCP. Provides a SQLite-based todo list API for creating, reading, updating, and deleting tasks, suitable for basic task management applications.

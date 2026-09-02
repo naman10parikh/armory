@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:19:28Z"
 ---
 ## What it is
 MCP server for recording and validating Chrome extension demo videos from YAML beat sheets, enabling agents to script and generate pixel-perfect videos.

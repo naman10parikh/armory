@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:37:02Z"
 ---
 ## What it is
 MCP server that acts as a shim between Claude and the PostGrowth API, exposing seven tools to list clients, manage posts, and handle ClickUp tasks and media uploads. It translates MCP calls into authenticated HTTP requests, keeping business rules and credentials on the server side.

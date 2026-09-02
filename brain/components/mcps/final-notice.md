@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:29:00Z"
 ---
 ## What it is
 Free, no-auth generator for professional debt-collection demand letters as print-ready PDFs (formal letter + matching envelope), localized for 100+ jurisdictions and 33 languages. Tools: list_jurisdictions, preview_demand_letter, generate_demand_letter.

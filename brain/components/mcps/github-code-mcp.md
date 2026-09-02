@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:55:11Z"
 ---
 ## What it is
 Enables read access to GitHub source code, including code search, file contents, symbols, and Java-aware fragment extraction, with optional per-call repository overrides.

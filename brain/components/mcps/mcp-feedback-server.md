@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-15T14:50:42Z"
 ---
 ## What it is
 Enables agents to request and receive user feedback during task execution through a terminal-based interactive feedback system.

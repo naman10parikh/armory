@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:49:18Z"
 ---
 ## What it is
 Screens quantum computing POC proposals using expert decision rules to produce auditable triage verdicts before escalation, budget allocation, or specialist routing.

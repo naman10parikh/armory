@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T12:17:06Z"
 ---
 ## What it is
 Enables AI assistants to interact with SMB platform APIs for querying business data, managing tasks, accessing connectors, dashboards, and monitoring security.

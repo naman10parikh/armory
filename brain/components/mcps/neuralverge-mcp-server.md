@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:47:38Z"
 ---
 ## What it is
 Exposes NeuralVerge's full API as MCP tools for AI research, extraction, agents, and data enrichment (LinkedIn, email, phone), enabling any MCP-compatible client to call them directly.

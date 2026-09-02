@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 10
+forks: 5
+pushed_at: "2025-04-30T02:31:09Z"
 ---
 ## What it is
 MCP Server to do dynamic AI SOC Security Threat analysis for a Text2SQL AI Agent.

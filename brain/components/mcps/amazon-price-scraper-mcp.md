@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T16:10:27Z"
 ---
 ## What it is
 MCP server `Amazon Price Scraper`, catalogued on PulseMCP. Finds lowest prices on Amazon across 20 countries with CAPTCHA resistance and stealth browsing.

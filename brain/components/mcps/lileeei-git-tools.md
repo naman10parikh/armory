@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-05T13:04:20Z"
 ---
 ## What it is
 MCP server `Git Tools`, catalogued on PulseMCP. Integrates with Git to enable version control operations, repository management, and change tracking for collaborative development environments.

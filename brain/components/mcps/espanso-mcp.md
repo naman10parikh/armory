@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-22T16:53:39Z"
 ---
 ## What it is
 An MCP server for managing Espanso text expansion configurations, enabling AI assistants to create, update, delete, and list shortcuts with cross-platform support.

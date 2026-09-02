@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-27T12:03:57Z"
 ---
 ## What it is
 MCP server `Microsoft Fabric`, catalogued on PulseMCP. Integrates with Microsoft Fabric APIs to explore and document data assets including workspaces, lakehouses, warehouses, tables, and semantic models with Azure authentication and markdown formatting.

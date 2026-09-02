@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-02T20:43:36Z"
 ---
 ## What it is
 MCP server `CoTrader`, catalogued on PulseMCP. Screen 11,000+ stocks using natural language and detect chart patterns.

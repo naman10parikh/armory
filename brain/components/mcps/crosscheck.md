@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:32:58Z"
 ---
 ## What it is
 MCP server that automatically cross-checks claims from Reddit posts against trusted news sources and delivers a daily digest to Discord, without making final truth judgments.

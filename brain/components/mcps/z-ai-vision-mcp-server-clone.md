@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:06:17Z"
 ---
 ## What it is
 OpenAI-compatible MCP server for running image analysis tools against your own vision model endpoint.

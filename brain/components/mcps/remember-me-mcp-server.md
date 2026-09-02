@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-22T10:12:52Z"
 ---
 ## What it is
 Enables persistent memory for Claude Desktop, allowing Claude to remember and recall information across conversations using PostgreSQL and OpenAI embeddings.

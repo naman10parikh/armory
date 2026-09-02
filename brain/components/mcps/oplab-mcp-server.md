@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T01:43:05Z"
 ---
 ## What it is
 Provides access to Brazilian financial market data through OpLab APIs, enabling stock information, historical data, options chains, and more.

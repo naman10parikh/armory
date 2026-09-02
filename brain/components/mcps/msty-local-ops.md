@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:26:08Z"
 ---
 ## What it is
 A fail-closed MCP for Msty Studio on macOS that exposes read-only diagnostics and an optional bounded local-generation tool without reading chats or private data.

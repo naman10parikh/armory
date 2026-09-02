@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:03:57Z"
 ---
 ## What it is
 Provides AI coding agents with deep knowledge of TideCloak authentication, cryptography, and security analysis to integrate Tide auth into applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:40:50Z"
 ---
 ## What it is
 Enables AI assistants to order flowers from a Munich florist, including search, availability check, cart creation, and checkout link generation.

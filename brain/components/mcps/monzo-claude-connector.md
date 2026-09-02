@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:04:05Z"
 ---
 ## What it is
 A remote MCP server on Cloudflare Workers that gives Claude read-only access to your Monzo account, enabling balance checks, transaction listing, and pot management via natural language.

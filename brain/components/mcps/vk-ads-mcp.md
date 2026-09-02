@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:55:11Z"
 ---
 ## What it is
 MCP server for VK Ads API enabling management of campaigns, ads, statistics, targeting, and budgets through natural language.

@@ -8,11 +8,13 @@ source_url: https://github.com/LaplaceYoung/ansys-aedt-mcp
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-21T22:28:18Z"
 ---
 ## What it is
 Enables AI agents to control Ansys Electronics Desktop (HFSS, Maxwell, Q3D, etc.) using MCP tools for simulation automation.

@@ -8,11 +8,13 @@ source_url: https://github.com/kubeflow/mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 45
+pushed_at: "2026-09-01T14:52:51Z"
 ---
 ## What it is
 Enables AI agents to plan, submit, monitor, and manage Kubeflow training jobs through natural language, without needing to learn Kubernetes or the Kubeflow SDK.

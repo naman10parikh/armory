@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:52:59Z"
 ---
 ## What it is
 Enables AI agents to deploy production APIs from JSON schemas, with 44 tools for managing projects, schemas, deployments, and graph data.

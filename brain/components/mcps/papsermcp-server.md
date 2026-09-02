@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:28:39Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve CodeChef VIT university question papers from MongoDB, offering tools for paper search, metadata retrieval, and recent paper feeds.

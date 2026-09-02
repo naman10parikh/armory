@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T16:20:54Z"
 ---
 ## What it is
 Manage Hostodo VPS infrastructure from MCP clients and AI agents with scoped tokens and audit logs.

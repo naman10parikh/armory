@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:36:55Z"
 ---
 ## What it is
 Gives Claude access to a FreeAgent company, enabling read and write operations on contacts, projects, invoices, bills, and bank transactions with journaled undo support.

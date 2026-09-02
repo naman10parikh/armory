@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T05:11:29Z"
 ---
 ## What it is
 Enables AI assistants to manage Cloudflare DNS zones and records, including listing, creating, updating, and deleting DNS records through natural language.

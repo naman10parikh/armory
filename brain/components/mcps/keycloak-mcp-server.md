@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-08T11:14:23Z"
 ---
 ## What it is
 Enables management of Keycloak identity and access management through the Keycloak Admin REST API, providing 299 tools for operations like user management, client configuration, and realm administration via natural language.

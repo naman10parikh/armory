@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:08:04Z"
 ---
 ## What it is
 Provides a minimal MCP server with safe tools for AI assistants to search project files, read files, search local documentation, and run pre-approved checks within a single project directory.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T04:51:48Z"
 ---
 ## What it is
 A Python-based MCP server for interacting with Proxmox hypervisors, enabling management of nodes, VMs, containers, and executing commands via QEMU Guest Agent.

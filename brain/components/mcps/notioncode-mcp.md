@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-25T23:37:06Z"
 ---
 ## What it is
 Bridges Notion AI models to coding environments like OpenCode, Claude Code, and Codex CLI, enabling local file operations and shell commands via MCP tools.

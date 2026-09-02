@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:19Z"
 ---
 ## What it is
 MCP server `DeFi Yields`, catalogued on PulseMCP. Find the best DeFi yields by token with APY, TVL, risk scores, and protocol data via DeFiLlama.

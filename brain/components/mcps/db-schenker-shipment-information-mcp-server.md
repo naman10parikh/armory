@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T16:28:06Z"
 ---
 ## What it is
 Enables users to retrieve and structure shipment tracking information from DB Schenker's website using natural language queries.

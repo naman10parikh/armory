@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-16T07:03:41Z"
 ---
 ## What it is
 MCP server `Frontend Review`, catalogued on PulseMCP. Provides visual verification for UI edit requests by comparing before/after screenshots and analyzing whether changes satisfy the original requirements

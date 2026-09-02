@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:38:03Z"
 ---
 ## What it is
 Provides searchable access to 2,249 Latvian statutes and 57,679 provisions with EU law integration, enabling legal research, citation validation, and cross-referencing through natural language queries.

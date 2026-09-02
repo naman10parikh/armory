@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:05:02Z"
 ---
 ## What it is
 Provides deterministic conversion between YAML and JSON formats, enabling autonomous agents to flawlessly translate complex configurations without LLM formatting errors.

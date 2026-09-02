@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:50:18Z"
 ---
 ## What it is
 Provides read-only FastMCP tools for BLS nonfarm employment, ADP private employment, economic calendar, and employment release summaries.

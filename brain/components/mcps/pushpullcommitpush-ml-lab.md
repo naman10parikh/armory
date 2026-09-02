@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-10T08:55:59Z"
 ---
 ## What it is
 MCP server `ML Lab`, catalogued on PulseMCP. Unified machine learning platform that orchestrates training workflows across OpenAI, Mistral, Together AI, and Vertex AI while managing cloud compute resources from Lambda Labs, RunPod, and Modal for scalable model fine-tuning, dataset management, and deployment to inference systems like Ollama.

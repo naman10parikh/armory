@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:47:16Z"
 ---
 ## What it is
 An MCP server enabling AI assistants to make voice calls, send SMS/MMS, and manage group conversations using Twilio and OpenAI.

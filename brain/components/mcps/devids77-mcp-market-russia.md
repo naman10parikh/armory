@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T08:49:34Z"
 ---
 ## What it is
 MCP server `MCP Market Russia`, catalogued on PulseMCP. Searches Russian construction and real estate companies, house projects, and pricing across major cities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:44:07Z"
 ---
 ## What it is
 Enables retrieval of tutor lesson scripts from Supabase and diarized transcripts from PencilSpaces, with Google OAuth gating to a domain.

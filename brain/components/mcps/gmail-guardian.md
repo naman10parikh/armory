@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:18:06Z"
 ---
 ## What it is
 Enables intelligent Gmail management, including email triage, newsletter classification, promotional email cleanup, summarization, filter suggestions, draft replies, and audit logging.

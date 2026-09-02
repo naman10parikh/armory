@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:46:44Z"
 ---
 ## What it is
 Provides Solana Pay invoice creation, payment verification, and artifact release tools for ZeroClaw agents, enabling custody-minimized paid delivery of sealed artifacts while keeping encryption keys and policy operator-owned.

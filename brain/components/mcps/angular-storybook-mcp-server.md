@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T19:50:56Z"
 ---
 ## What it is
 An MCP server that brings an Angular design system built on Storybook into AI tools like Claude and Cursor, providing real-time access to component metadata, APIs, and documentation.

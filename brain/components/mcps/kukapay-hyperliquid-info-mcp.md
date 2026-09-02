@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 30
+stars: 29
+forks: 12
+pushed_at: "2025-05-31T08:00:16Z"
 ---
 ## What it is
 An MCP server that provides real-time data and insights from the Hyperliquid perp DEX for use in bots, dashboards, and analytics.

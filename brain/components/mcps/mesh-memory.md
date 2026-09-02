@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-28T20:11:39Z"
 ---
 ## What it is
 Self-hosted semantic memory for AI agents. Save worklogs, decisions, and notes via MCP, then recall them across sessions by meaning rather than keyword. Backed by Postgres + pgvector with local embeddings (multilingual-e5-base).

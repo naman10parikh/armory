@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-23T09:21:26Z"
 ---
 ## What it is
 MCP server `ChainFETCH`, catalogued on PulseMCP. Provides semantic search and natural language querying of Ethereum blockchain data including addresses, transactions, blocks, tokens, and smart contracts with vector similarity matching and LLM-guided filtering across 150+ searchable parameters.

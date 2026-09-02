@@ -8,10 +8,12 @@ source_url: https://github.com/lirantal/mcp-server-nodejs-api-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-09-01T09:21:26Z"
 ---
 ## What it is
 MCP server `Node.js API Documentation`, catalogued on PulseMCP. Provides up-to-date access to official Node.js core module documentation through search and retrieval tools that fetch from nodejs.org with 7-day caching for current API reference without relying on outdated training data.

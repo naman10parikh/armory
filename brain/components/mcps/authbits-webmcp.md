@@ -8,10 +8,12 @@ source_url: https://github.com/authbits/webmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 139
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-04-10T20:28:06Z"
 ---
 ## What it is
 MCP server `WebMCP`, catalogued on PulseMCP. Web research tool combining search and content extraction with Playwright.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:16:04Z"
 ---
 ## What it is
 A remote-MCP service enabling Claude to manage Notion tasks and cases and query Supabase data with a preview-confirm pattern for safe writes.

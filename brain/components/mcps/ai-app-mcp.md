@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:36:49Z"
 ---
 ## What it is
 A production-ready Python MCP server supporting stdio and Streamable HTTP transports, providing tools for health check, user query normalization, knowledge base search, document retrieval, and RAG prompt construction.

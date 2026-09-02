@@ -8,10 +8,12 @@ source_url: https://github.com/thedigitalninja/mcp-fitbit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-27T05:20:39Z"
 ---
 ## What it is
 MCP server `Fitbit`, catalogued on PulseMCP. Integrates with Fitbit to provide access to personal health data including weight measurements, sleep logs, and profile information through OAuth 2.0 authentication for enhanced health tracking and fitness analysis.

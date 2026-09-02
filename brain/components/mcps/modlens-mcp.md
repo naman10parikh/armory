@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:40:12Z"
 ---
 ## What it is
 MCP server that provides text-only models structured JSON vision evidence via direct vision API calls, with tools for image analysis, OCR, comparison, and lookup. It persists full evidence to disk and returns slim summaries to fit Reasonix's 32KB tool-result limit.

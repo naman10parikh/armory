@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T18:55:39Z"
 ---
 ## What it is
 Provides AI agents with authoritative OEM automotive repair data including part numbers, torque specs, fluid capacities, and service procedures for vehicles 1982-2013 across 80+ makes, sourced from factory service manuals.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:34:57Z"
 ---
 ## What it is
 Enables searching, price comparison, trend analysis, and saving of Korean e-commerce products (Naver Shopping) using natural language.

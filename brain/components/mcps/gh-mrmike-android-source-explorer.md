@@ -8,10 +8,12 @@ source_url: https://github.com/mrmike/android-source-explorer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-13T17:53:48Z"
 ---
 ## What it is
 MCP server `Android Source Explorer`, catalogued on PulseMCP. Explore AOSP framework internals and Jetpack library source code with on-demand access to actual Android source files.

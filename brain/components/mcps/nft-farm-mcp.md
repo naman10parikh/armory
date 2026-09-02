@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:44:22Z"
 ---
 ## What it is
 MCP server that scans EVM chains to identify profitable free-mint NFT collections and wallets farming them, ranking by on-chain secondary PnL. Supports multiple chains via Seaport and offers tools for scanning collections, wallets, and job status.

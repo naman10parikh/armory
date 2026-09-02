@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T17:39:36Z"
 ---
 ## What it is
 MCP server `Figma Context AIR`, catalogued on PulseMCP. Extended fork of the Figma Context MCP server providing AI coding tools with access to Figma design data, assets, and code documentation.

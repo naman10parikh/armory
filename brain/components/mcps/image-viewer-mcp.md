@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:50:48Z"
 ---
 ## What it is
 Provides an MCP tool that analyzes images from local paths, URLs, or data URLs via a vision language model, returning structured descriptions (brief, detailed, summary) so text-only LLMs can understand image content.

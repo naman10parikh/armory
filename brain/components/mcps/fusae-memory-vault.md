@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T01:51:41Z"
 ---
 ## What it is
 MCP server `Memory Vault`, catalogued on PulseMCP. Local-first MCP memory server with semantic search, AES-256-GCM encryption, and optional Supabase cloud sync.

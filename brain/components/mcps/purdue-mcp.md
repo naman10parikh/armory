@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:01:34Z"
 ---
 ## What it is
 MCP server providing 24 tools to access public, real-time Purdue University data including dining menus, gym occupancy, course catalogs, bus times, events, and more.

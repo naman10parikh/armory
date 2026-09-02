@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-24T00:44:15Z"
 ---
 ## What it is
 A Stockfish-powered chess engine exposed as an MCP server using FastMCP. Calculates best moves, validates moves, and provides game status via MCP tools over SSE or stdio.

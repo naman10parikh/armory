@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:23:22Z"
 ---
 ## What it is
 Bridges AI assistants with the Zhengfang V-9.0 educational system (CAS + MFA), offering 15 tools for course, grade, and academic management.

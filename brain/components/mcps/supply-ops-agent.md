@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T15:11:36Z"
 ---
 ## What it is
 A supply-side operations diagnostic MCP server for bid rate analysis, IVT detection, and ads.txt compliance.

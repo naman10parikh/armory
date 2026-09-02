@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T16:51:55Z"
 ---
 ## What it is
 Local MCP server that exposes delegation tools for Codex, Claude, and Antigravity CLI, enabling an orchestrator agent to assign tasks to these sub-agents via non-interactive CLI commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:45:37Z"
 ---
 ## What it is
 Enables control and administration of a Paper Minecraft server, including process management, in-game commands via RCON, file editing, and log monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T22:02:18Z"
 ---
 ## What it is
 Enables querying Eurostat data using natural language, powered by DuckDB for optimized performance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T02:57:48Z"
 ---
 ## What it is
 A FastMCP server for integrating with Brevo API, enabling users to manage contacts, create/update contacts, and import/export leads using TSV files through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-10T22:21:08Z"
 ---
 ## What it is
 Provides component information, usage guidelines, and code generation for AWS Cloudscape Design System in React, with search and pattern library capabilities.

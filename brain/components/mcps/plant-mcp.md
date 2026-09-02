@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:16:21Z"
 ---
 ## What it is
 MCP server for managing houseplants by recording waterings and observations, providing care reminders and diagnosis through natural language.

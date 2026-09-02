@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T19:19:47Z"
 ---
 ## What it is
 Provides safe filesystem access for AI clients with root confinement, read-only mode, and file operations like read, write, search, copy, move, delete.

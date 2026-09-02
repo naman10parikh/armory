@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T22:03:14Z"
 ---
 ## What it is
 MCP server `X3D`, catalogued on PulseMCP. Generate, validate, and convert ISO-standard X3D (Extensible 3D) content with full scene graph control.

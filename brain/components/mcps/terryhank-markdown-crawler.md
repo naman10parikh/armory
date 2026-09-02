@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T11:55:57Z"
 ---
 ## What it is
 MCP server `Markdown Crawler`, catalogued on PulseMCP. Detects and recursively downloads markdown files from Docsify documentation sites.

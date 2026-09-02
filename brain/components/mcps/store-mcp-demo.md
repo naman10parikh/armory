@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:26:00Z"
 ---
 ## What it is
 A demo MCP server built with Node.js and TypeScript that showcases tools, resources, and prompts via stdio, including product search, stock checks, and order placement for a mock store.

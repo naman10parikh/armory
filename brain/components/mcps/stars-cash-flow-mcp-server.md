@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:02:36Z"
 ---
 ## What it is
 Enables AI agents to interact with the Stars Cash Flow reseller API for real Telegram actions, including listing services, checking balance, creating orders with cost confirmation, and managing orders.

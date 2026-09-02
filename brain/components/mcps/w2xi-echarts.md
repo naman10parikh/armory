@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-09T10:18:29Z"
 ---
 ## What it is
 MCP server `ECharts`, catalogued on PulseMCP. Generates ECharts visualizations as PNG images from JavaScript configuration objects, processing chart dimensions and configurations through server-side rendering to output image files for data visualization and report generation.

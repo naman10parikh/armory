@@ -8,10 +8,12 @@ source_url: https://github.com/basti-fantasti/delphi-build-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-12T06:13:36Z"
 ---
 ## What it is
 MCP server `Delphi Build`, catalogued on PulseMCP. Enables compilation of Delphi projects by parsing .dproj files and managing library paths through TOML configuration with intelligent compiler output filtering.

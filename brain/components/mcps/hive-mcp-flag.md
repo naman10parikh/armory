@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:51:54Z"
 ---
 ## What it is
 Feature flag service for A2A networks with DID-keyed targeting, percentage rollouts, and USDC settlement on Base L2.

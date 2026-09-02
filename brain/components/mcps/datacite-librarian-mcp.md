@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:57:07Z"
 ---
 ## What it is
 Enables repository QA, funder compliance, CSV index analytics, search/facets, and exports over DataCite monthly and public datafiles, all run locally with stream-read performance.

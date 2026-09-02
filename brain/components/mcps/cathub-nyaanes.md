@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:28:58Z"
 ---
 ## What it is
 Enables orchestrating multiple AI CLI agents (Codex, Grok, Claude, etc.) via Claude Code, providing tools for dispatching tasks, broadcasting, debating, and managing jobs through a local MCP server.

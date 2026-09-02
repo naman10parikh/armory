@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:50:18Z"
 ---
 ## What it is
 Provides tools, resources, and prompts for managing a local Markdown notes database, including create, read, update, delete, search, and statistics operations, with robust path traversal protection.

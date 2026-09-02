@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T11:49:25Z"
 ---
 ## What it is
 Lightweight MCP server that crawls Confluence subtrees and serves cached Markdown, enabling search and retrieval of Confluence pages via MCP tools.

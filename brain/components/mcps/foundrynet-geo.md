@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:22:30Z"
 ---
 ## What it is
 Enables geocoding (address to coordinates and reverse) and distance calculations for AI agents with per-call micropayments in USDC, no API keys required.

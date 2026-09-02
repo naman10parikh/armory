@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-21T17:15:56Z"
 ---
 ## What it is
 MCP server for comprehensive PyPI package intelligence, providing tools for dependency analysis, security scanning, health scoring, license compliance, and trend tracking.

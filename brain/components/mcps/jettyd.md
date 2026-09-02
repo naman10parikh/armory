@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-25T12:24:21Z"
 ---
 ## What it is
 MCP server `jettyd IoT`, catalogued on PulseMCP. Connect to IoT devices including ESP32 hardware with sensor reading, command sending, and automation rules.

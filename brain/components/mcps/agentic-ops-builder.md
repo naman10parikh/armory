@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:34:18Z"
 ---
 ## What it is
 Enables natural-language Q&A, human-approved actions, and dashboard generation over a data ontology via MCP.

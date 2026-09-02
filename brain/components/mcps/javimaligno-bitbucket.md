@@ -8,10 +8,12 @@ source_url: https://github.com/javimaligno/mcp-server-bitbucket
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-18T19:39:05Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Comprehensive Bitbucket API integration with tools for repositories, pull requests, pipelines, branches, commits, deployments, and webhooks.

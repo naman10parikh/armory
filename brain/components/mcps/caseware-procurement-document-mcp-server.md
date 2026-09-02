@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:41:24Z"
 ---
 ## What it is
 Enables AI agents to search, retrieve, and answer grounded questions over procurement documents (invoices, purchase orders, contracts, etc.) using hybrid SQL and vector retrieval.

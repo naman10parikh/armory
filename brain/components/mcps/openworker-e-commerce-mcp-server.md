@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:36:48Z"
 ---
 ## What it is
 Enables automated product management on Shopee, TikTok Shop, and Lazada by controlling an existing Chrome or Edge browser session, intercepting internal APIs for fast updates, and pausing for captcha resolution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:37:03Z"
 ---
 ## What it is
 An MCP authorization server implementing OAuth2/OIDC flows, supporting dynamic client registration, PKCE, consent screens, and client ID metadata documents for MCP authorization.

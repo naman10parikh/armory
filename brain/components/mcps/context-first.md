@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T01:09:21Z"
 ---
 ## What it is
 MCP server `Context First`, catalogued on PulseMCP. Maintains AI conversation coherence through context monitoring, conflict detection, and persistent memory across long interactions.

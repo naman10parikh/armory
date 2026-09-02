@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:41:35Z"
 ---
 ## What it is
 MCP server to query Brazilian Polícia Civil criminal records using CPF, RG, UF, and name. Read-only and pay-per-use, it works with any MCP client.

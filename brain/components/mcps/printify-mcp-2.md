@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:29:07Z"
 ---
 ## What it is
 Enables Claude to create, update, and publish print-on-demand products on Printify directly from chat, including managing shops, products, and orders.

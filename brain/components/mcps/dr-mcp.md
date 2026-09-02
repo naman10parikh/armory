@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:51:51Z"
 ---
 ## What it is
 Local-first MCP audit and cleanup tool that scans MCP configs to find stale servers, abandoned packages, duplicates, context-heavy tools, risky permissions, and major upgrades, generating reversible patch plans.

@@ -8,10 +8,12 @@ source_url: https://github.com/p-poss/dj-claude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-02T12:55:20Z"
 ---
 ## What it is
 MCP server `DJ Claude`, catalogued on PulseMCP. Live music coding for AI agents with oscillators, effects, and real-time audio synthesis.

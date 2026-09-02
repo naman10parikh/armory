@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T13:25:08Z"
 ---
 ## What it is
 Converts design screenshots into reusable Tailwind HTML components via MCP protocol, enabling any AI to extract and export individual UI elements.

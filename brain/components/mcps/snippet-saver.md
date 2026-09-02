@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T18:24:28Z"
 ---
 ## What it is
 An MCP server that enables AI coding tools to save, list, and read code snippets as files in the local filesystem.

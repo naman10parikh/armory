@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T10:31:29Z"
 ---
 ## What it is
 MCP server `MarkItUp`, catalogued on PulseMCP. AI image annotation and marketing visual generator with variations, outpainting, and background removal tools.

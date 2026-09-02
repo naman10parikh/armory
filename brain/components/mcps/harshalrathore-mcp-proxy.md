@@ -8,10 +8,12 @@ source_url: https://github.com/harshalrathore/harshal-mcp-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-12T19:58:44Z"
 ---
 ## What it is
 MCP server `MCP Proxy`, catalogued on PulseMCP. TypeScript MCP gateway consolidating multiple upstream servers with schema deferral and response shielding.

@@ -8,11 +8,13 @@ source_url: https://github.com/howardpen9/tmux-bridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 98
+stars: 99
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-07-19T08:36:33Z"
 ---
 ## What it is
 Enables AI agents to communicate and coordinate across tmux panes, allowing them to read, type, and send messages to each other without manual copy-pasting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-10T08:53:51Z"
 ---
 ## What it is
 Enables AI assistants to help users find better prices for flights they have already discovered, by comparing prices across multiple booking sources.

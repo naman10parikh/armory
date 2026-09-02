@@ -8,11 +8,13 @@ source_url: https://github.com/mariow/aviation-weather-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T16:40:02Z"
 ---
 ## What it is
 Provides aviation weather briefings including METARs, TAFs, PIREPs, SIGMETs, and NWP forecasts, enabling Claude to fetch and display real-time and forecast weather data for airports and routes worldwide.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T18:53:36Z"
 ---
 ## What it is
 Security auditor for MCP servers that enumerates tools, resources, and prompts, scans for injection patterns, classifies risk levels, and produces a scored report (0-100, grades A-F).

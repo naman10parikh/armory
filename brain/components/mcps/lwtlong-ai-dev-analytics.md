@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 8
+forks: 1
+pushed_at: "2026-07-20T10:16:40Z"
 ---
 ## What it is
 An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.

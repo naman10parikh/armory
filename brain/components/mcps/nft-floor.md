@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:21Z"
 ---
 ## What it is
 NFT collection floor price, volume, holders, rarity data for Ethereum and Base via Alchemy. Pay-per-call via x402 (USDC on Base L2) without API key or signup.

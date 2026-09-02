@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-09T11:19:09Z"
 ---
 ## What it is
 MCP server `Clappia`, catalogued on PulseMCP. Integrates with Clappia's no-code platform to manage form submissions, app configurations, and workflow automation with advanced filtering, data aggregation, and complete lifecycle management capabilities.

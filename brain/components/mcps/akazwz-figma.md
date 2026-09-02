@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-05T10:59:25Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Integrates with the Figma API to enable interaction with design files and projects, facilitating automated design tasks and AI-assisted workflows within the Figma ecosystem.

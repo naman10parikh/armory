@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:18:18Z"
 ---
 ## What it is
 MCP server that lets users search Safety Data Sheets (SDS) by chemical or product name, returning records with direct links to SDS documents.

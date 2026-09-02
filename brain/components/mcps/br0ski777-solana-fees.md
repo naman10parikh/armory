@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:06Z"
 ---
 ## What it is
 MCP server `Solana Fees`, catalogued on PulseMCP. Solana network priority fee data at six congestion levels, with costs expressed in SOL and USD.

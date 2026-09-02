@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-08T14:51:31Z"
 ---
 ## What it is
 MCP server `ISMS`, catalogued on PulseMCP. Integrates Mistral AI and Qdrant to provide intelligent security workflows for automated risk assessment, policy management, and contextual incident response across different security domains.

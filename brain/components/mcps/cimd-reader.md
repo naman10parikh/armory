@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:07:53Z"
 ---
 ## What it is
 Enables testing and validation of MCP OAuth clients by observing whether they use Client ID Metadata Documents (CIMD), fall back to Dynamic Client Registration, or send static client IDs via a fake OAuth server and dashboard.

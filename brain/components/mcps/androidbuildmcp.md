@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:15:20Z"
 ---
 ## What it is
 Enables AI agents to build, deploy, drive, and debug Android apps — managing Gradle builds, emulators, adb deployment, logcat capture, and full UI automation.

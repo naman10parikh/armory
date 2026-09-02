@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-18T09:31:26Z"
 ---
 ## What it is
 A TypeScript MCP server template that demonstrates hosting HTTP servers on Smithery using custom containers, with STDIO support for backwards compatibility.

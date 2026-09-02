@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:23:36Z"
 ---
 ## What it is
 See and control the local dev servers your coding agents leave running. Lists listeners with provenance — which agent, terminal and git worktree started each — kills strays, and allocates collision-free ports so parallel agents stop fighting over :3000.

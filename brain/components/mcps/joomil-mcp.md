@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:55:37Z"
 ---
 ## What it is
 Enables searching and browsing 45,000+ classified ads on Joomil.ch, including filtering by category, canton, price, and location, retrieving listing details, and exploring categories.

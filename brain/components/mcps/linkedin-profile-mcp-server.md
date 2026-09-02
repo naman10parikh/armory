@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T19:32:39Z"
 ---
 ## What it is
 An intelligent bridge between Claude and LinkedIn. This MCP server empowers Claude to act as your high-level career consultant, capable of auditing your profile, optimizing your identity, and managing your professional content with real-time API access.

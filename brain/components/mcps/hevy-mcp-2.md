@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T12:22:19Z"
 ---
 ## What it is
 Exposes the Hevy workout API to Claude, enabling users to manage workouts, routines, exercise templates, body measurements, and user info via natural language.

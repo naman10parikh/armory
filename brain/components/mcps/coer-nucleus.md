@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:16:07Z"
 ---
 ## What it is
 Maps any niche domain into a structured talent and ecosystem landscape using the CoER method. Enables MCP clients to read landscapes and contribute new ones via PRs.

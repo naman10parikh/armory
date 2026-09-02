@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:18:40Z"
 ---
 ## What it is
 Read-only MCP server that reads Stardew Valley saves and answers questions about your farm state, calculates processing/planning, and verifies game rules against the wiki.

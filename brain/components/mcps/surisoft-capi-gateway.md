@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-19T08:50:48Z"
 ---
 ## What it is
 MCP server `CAPI Gateway`, catalogued on PulseMCP. Apache Camel API gateway with REST-to-MCP bridging for LLM agent integration.

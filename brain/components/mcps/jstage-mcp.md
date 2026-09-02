@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:27:41Z"
 ---
 ## What it is
 Exposes J-STAGE WebAPI as four tools for searching articles, issues, journals, and resolving DOIs, returning bilingual JSON with attribution.

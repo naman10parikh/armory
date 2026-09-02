@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:51:44Z"
 ---
 ## What it is
 An alpha-stage MCP control plane for local MCP stacks, enabling discovery of local servers, profile management, capability bundles, tool-list probes, and a local dashboard.

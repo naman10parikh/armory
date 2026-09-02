@@ -8,10 +8,12 @@ source_url: https://github.com/h7lu/rimcp_hybrid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-19T06:30:17Z"
 ---
 ## What it is
 MCP server `RiMCP Hybrid`, catalogued on PulseMCP. Combine lexical and semantic search for RimWorld modding code with hybrid RAG system using Lucene and embeddings

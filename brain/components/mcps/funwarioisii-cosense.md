@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-10T06:32:04Z"
 ---
 ## What it is
 MCP server `Cosense`, catalogued on PulseMCP. Integrates Cosense to enable access and interaction with project data for enhanced project management and collaboration workflows.

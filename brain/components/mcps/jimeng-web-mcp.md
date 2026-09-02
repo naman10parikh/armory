@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-08T03:23:48Z"
 ---
 ## What it is
 Provides direct access to Jimeng AI's web interface for generating images and videos, supporting features like multi-image generation, video creation with frame control, and batch operations using free daily credits.

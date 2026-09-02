@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T06:17:31Z"
 ---
 ## What it is
 MCP server and Ghidra plugin for reverse engineering, enabling clients like Claude to control Ghidra. Adds a run_python tool to execute arbitrary Jython scripts server-side.

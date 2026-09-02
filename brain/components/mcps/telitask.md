@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T08:37:30Z"
 ---
 ## What it is
 MCP server `TeliTask`, catalogued on PulseMCP. Manage contacts, tasks, and calls from AI assistants.

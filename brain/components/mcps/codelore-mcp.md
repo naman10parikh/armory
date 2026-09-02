@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:57:14Z"
 ---
 ## What it is
 Turn any code repository into a searchable Obsidian vault — then let Claude Code navigate it as a set of MCP tools.

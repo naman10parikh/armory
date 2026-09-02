@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-03T18:48:57Z"
 ---
 ## What it is
 Enables AI agents to create, modify, and share diagrams on a live Excalidraw canvas through MCP tools, supporting shapes, text, arrows, batch operations, and export to shareable links with images.

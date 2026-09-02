@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T08:28:37Z"
 ---
 ## What it is
 Remote MCP deployment scaffold for Skylight's MCP server, hosted on Cloudflare Workers and Containers, enabling HTTP access to the stdio-based Ruby MCP server.

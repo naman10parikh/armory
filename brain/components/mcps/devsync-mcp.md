@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T20:49:14Z"
 ---
 ## What it is
 MCP server for AI-merge of team dev configurations, allowing the IDE's LLM to intelligently merge team configs with personal configs.

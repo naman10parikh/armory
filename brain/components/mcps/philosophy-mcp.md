@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T18:23:52Z"
 ---
 ## What it is
 MCP server for querying a multilingual philosophy corpus including glossary, thinker profiles, period syntheses, and articles in Portuguese, English, and Spanish.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T03:30:44Z"
 ---
 ## What it is
 An MCP server that equips AI assistants with specialized, opinionated development playbooks for building microservices, frontends, databases, and DevOps pipelines. It integrates with clients like VS Code Copilot, Claude Desktop, and Cursor to provide battle-tested expertise.

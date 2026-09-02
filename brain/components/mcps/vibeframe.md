@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:52:16Z"
 ---
 ## What it is
 Enables agentic coding tools to maintain a living, in-repo model of intent, architecture, and code, with deterministic indexing, bidirectional linking, and continuous drift detection for task-scoped context and reconciliation.

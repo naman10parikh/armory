@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-11T09:15:31Z"
 ---
 ## What it is
 MCP server `YouTube Captions`, catalogued on PulseMCP. Extracts and transforms YouTube video content, providing metadata, multi-language captions, chapter information, and customizable markdown transcripts with search capabilities through the YouTube Data API.

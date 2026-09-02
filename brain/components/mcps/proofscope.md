@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:03:36Z"
 ---
 ## What it is
 An evidence-first integration decision service that assesses GitHub repositories and returns transparent scores, adoption recommendations, and verification gates.

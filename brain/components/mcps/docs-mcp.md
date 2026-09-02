@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T22:05:10Z"
 ---
 ## What it is
 MCP server for reading and writing .docx files. Exposes four paginated tools so agents can batch-read document content and styles, write content, and union style definitions.

@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-16T07:17:07Z"
 ---
 ## What it is
 MCP server `Neon PostgreSQL`, catalogued on PulseMCP. Enables management of Neon PostgreSQL database projects, branches, and schemas through natural language interactions with the Neon REST API

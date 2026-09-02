@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:29:44Z"
 ---
 ## What it is
 Enables search and retrieval of verified Yeosu travel itineraries, points of interest, and transport schedules via a read-only MCP server backed by cached bundles.

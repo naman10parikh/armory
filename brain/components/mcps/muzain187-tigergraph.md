@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-03T05:43:15Z"
 ---
 ## What it is
 MCP server `TigerGraph`, catalogued on PulseMCP. Integrates with TigerGraph graph databases to enable direct interaction with graph data through specialized tools for vertex manipulation, schema retrieval, and query execution.

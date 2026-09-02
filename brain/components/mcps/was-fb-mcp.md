@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:35:39Z"
 ---
 ## What it is
 Exposes 10 tools to manage Facebook Pages, Posts, Comments, Ad Accounts, Campaigns, Insights, and execute any raw Graph API request from AI coding assistants.

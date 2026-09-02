@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:19:30Z"
 ---
 ## What it is
 Exposes the VS Code/Cursor Problems panel to AI assistants via MCP, enabling live diagnostics querying with filters, context, summaries, and code actions.

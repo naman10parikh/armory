@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-03T21:35:40Z"
 ---
 ## What it is
 Read-only MCP server for self-hosted Manager.io bookkeeping, providing curated GET tools to access accounting data like invoices, balances, and reports.

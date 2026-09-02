@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 3
+forks: 2
+pushed_at: "2026-08-06T18:38:29Z"
 ---
 ## What it is
 MCP server for AniList with taste-aware recommendations, watch analytics, social tools, and full list management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T10:48:34Z"
 ---
 ## What it is
 Enables searching and querying Korean law ontology via SPARQL, with tools for law search, detail, agency, region, statistics, and network visualization.

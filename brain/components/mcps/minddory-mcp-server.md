@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:43:35Z"
 ---
 ## What it is
 Connects AI assistants like Claude to MindDory to automatically capture new vocabulary and grammar mistakes into spaced-repetition flashcards during language practice conversations.

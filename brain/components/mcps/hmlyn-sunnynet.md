@@ -8,10 +8,12 @@ source_url: https://github.com/hmlyn/sunnynet-wpf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-30T11:36:46Z"
 ---
 ## What it is
 MCP server `SunnyNet`, catalogued on PulseMCP. Windows packet capture and analysis tool with an MCP bridge exposing network sessions to AI agents.

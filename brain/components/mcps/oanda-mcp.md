@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T03:38:16Z"
 ---
 ## What it is
 Enables read-only access to OANDA v20 forex trading data, including price quotes, candlestick history, account summaries, positions, and transactions, via Claude.

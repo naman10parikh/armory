@@ -8,10 +8,12 @@ source_url: https://github.com/vish288/mcp-gitlab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-22T23:27:09Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Comprehensive GitLab API integration with 83 tools across projects, merge requests, pipelines, CI/CD variables, approvals, and code reviews for Cloud and self-hosted instances.

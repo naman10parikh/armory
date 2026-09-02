@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T16:50:00Z"
 ---
 ## What it is
 Enables AI agents to screen GitHub repositories and pull requests for risk analysis, generating risk scores, findings, and merge-readiness signals.

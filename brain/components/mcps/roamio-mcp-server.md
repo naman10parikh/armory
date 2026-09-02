@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T15:39:40Z"
 ---
 ## What it is
 Event discovery based on your actual schedule, location, and who's free -- delivered inside iMessage via Poke.

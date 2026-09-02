@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:29:47Z"
 ---
 ## What it is
 ClinGate is an MCP-native human-in-the-loop gateway that sits between AI agents and clinical tools, classifying every action by risk and forcing human approval before irreversible actions reach patient records.

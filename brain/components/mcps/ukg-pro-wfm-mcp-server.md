@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T21:36:51Z"
 ---
 ## What it is
 Enables natural language interaction with UKG Pro Workforce Management APIs. It detects intent, resolves missing inputs, hydrates related objects, and returns complete, validated operational answers across scheduling, timekeeping, attendance, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/agentphone-ai/agentphone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-29T03:14:20Z"
 ---
 ## What it is
 MCP server `AgentPhone`, catalogued on PulseMCP. Give AI agents real phone numbers, SMS messaging, and voice calls via MCP.

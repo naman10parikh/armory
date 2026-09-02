@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:55Z"
 ---
 ## What it is
 MCP server `Stargate by Junct`, catalogued on PulseMCP. Hosted integration with Stargate cross-chain bridge protocol for analytics and bridge operations via Junct platform.

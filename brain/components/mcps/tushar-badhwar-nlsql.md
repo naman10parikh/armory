@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T20:05:25Z"
 ---
 ## What it is
 MCP server `NLSQL`, catalogued on PulseMCP. Node.js wrapper that converts natural language queries into SQL operations for SQLite, PostgreSQL, and MySQL databases using OpenAI and CrewAI multi-agent systems with schema analysis, query validation, and safe execution limits.

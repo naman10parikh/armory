@@ -8,10 +8,12 @@ source_url: https://github.com/janschmiedgen/mural-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-07T11:39:54Z"
 ---
 ## What it is
 MCP server `Mural`, catalogued on PulseMCP. Integrates with Mural's collaborative visual workspace platform through OAuth 2.0 authentication to manage workspaces, rooms, murals, sticky notes, and other widgets.

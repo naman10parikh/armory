@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:31:40Z"
 ---
 ## What it is
 Bridges MCP to Cursor Agent via ACP, allowing Codex to delegate file edits and shell commands to Cursor for repository modifications, with security defaults.

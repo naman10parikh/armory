@@ -8,10 +8,12 @@ source_url: https://github.com/pluggyai/pluggy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-03T14:01:44Z"
 ---
 ## What it is
 MCP server `Pluggy`, catalogued on PulseMCP. Integrates with Pluggy's open banking platform to access financial account data and list available connectors across multiple banking institutions for financial applications and personal finance management.

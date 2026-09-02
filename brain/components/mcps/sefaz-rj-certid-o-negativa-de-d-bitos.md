@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:43Z"
 ---
 ## What it is
 Consulta a Certidão Negativa de Débitos em fonte oficial da SEFAZ RJ, com uma ferramenta de leitura via MCP over HTTP, hospedada na plataforma com crédito pré-pago.

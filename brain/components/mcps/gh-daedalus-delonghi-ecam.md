@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:26:10Z"
 ---
 ## What it is
 MCP server `DeLonghi ECAM`, catalogued on PulseMCP. Control DeLonghi ECAM espresso machines via local network.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-30T08:16:39Z"
 ---
 ## What it is
 Enables AI agents to automate and debug real Chromium browsers with capabilities like screenshots, video recording, performance analysis, visual regression testing, and OCR text extraction.

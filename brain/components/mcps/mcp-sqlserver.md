@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-13T20:28:09Z"
 ---
 ## What it is
 A powerful MCP server for Microsoft SQL Server that connects AI assistants directly to your SQL Server databases with enterprise-grade security controls.

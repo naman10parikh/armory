@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:06Z"
 ---
 ## What it is
 Read-only MCP server to query official DER SP penalty data, with pay-per-use credits and works with any MCP client.

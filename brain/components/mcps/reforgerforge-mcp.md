@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-14T19:59:03Z"
 ---
 ## What it is
 Enables AI-powered modding for Arma Reforger with 50 tools for API search, code generation, project scaffolding, and Workbench control.

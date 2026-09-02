@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T20:10:08Z"
 ---
 ## What it is
 A production-grade MCP server that provides financial ML tools including RAG search, anomaly detection, contract summarization, vendor graph analysis, and model drift monitoring using entirely free, open-source components.

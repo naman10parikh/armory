@@ -8,10 +8,12 @@ source_url: https://github.com/httplab/airbrake_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-25T11:25:18Z"
 ---
 ## What it is
 MCP server `Airbrake`, catalogued on PulseMCP. Integrates with Airbrake's error tracking platform for monitoring application errors, retrieving detailed error information with backtraces, and managing error states.

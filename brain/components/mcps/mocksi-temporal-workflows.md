@@ -12,6 +12,8 @@ stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-06-04T22:06:10Z"
 ---
 ## What it is
 MCP server `Temporal Workflows`, catalogued on PulseMCP. Exposes Temporal workflows as tools for AI assistants, enabling organizations to leverage existing workflow infrastructure without custom integration code.

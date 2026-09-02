@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T17:20:53Z"
 ---
 ## What it is
 MCP server `Dredd`, catalogued on PulseMCP. Pre-flight security checks for MCP agents: blocks compromised dependencies and tool drift with HMAC signing.

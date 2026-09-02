@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-12T18:21:54Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides seamless access to Moodle developer documentation from moodledev.io. It enables AI assistants and other MCP clients to search, browse, and retrieve Moodle development documentation with version-specific support.

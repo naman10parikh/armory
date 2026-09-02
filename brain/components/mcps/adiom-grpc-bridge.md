@@ -8,10 +8,12 @@ source_url: https://github.com/adiom-data/grpcmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-06T17:50:31Z"
 ---
 ## What it is
 MCP server `gRPC Bridge`, catalogued on PulseMCP. Bridges AI assistants to gRPC backends by dynamically exposing service methods as tools through server reflection or pre-compiled protocol buffer descriptors.

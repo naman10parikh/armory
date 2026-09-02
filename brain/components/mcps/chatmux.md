@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:59:12Z"
 ---
 ## What it is
 Local-first MCP server that puts your own LINE and Telegram chats behind one data layer — a daemon on your machine logs in with your own account, stores messages to JSONL + SQLite/FTS5, and exposes 6 MCP tools over streamable HTTP on 127.0.0.1. Not a hosted service and not an npx one-liner: you clon

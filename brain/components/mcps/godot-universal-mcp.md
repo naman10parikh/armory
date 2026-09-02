@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:25:19Z"
 ---
 ## What it is
 Connects MCP-capable AI clients to a running Godot 4 editor for scene, node, project, and debug runtime operations via a local-first architecture.

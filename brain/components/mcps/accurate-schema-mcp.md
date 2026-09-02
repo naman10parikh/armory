@@ -8,11 +8,13 @@ source_url: https://github.com/aol-integration/accurate-schema-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:42:54Z"
 ---
 ## What it is
 Schema-aware MCP server for Accurate Online, providing tools to list resources, lookup endpoint schemas, make authenticated API calls, and refresh database host resolution.

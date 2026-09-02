@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T20:30:07Z"
 ---
 ## What it is
 Streams GitHub webhook events (push, PR, issues, CI) into Claude Code session in real-time, enabling live awareness of repository activity.

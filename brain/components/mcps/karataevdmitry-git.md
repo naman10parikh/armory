@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T10:41:45Z"
 ---
 ## What it is
 MCP server `Git (karataevdmitry)`, catalogued on PulseMCP. C# .NET git operations toolkit with ten tools for status, diff, log, branch management, commits, and push/pull workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T07:53:01Z"
 ---
 ## What it is
 A training MCP server built with TypeScript that provides basic tools (add, get_weather) and a resource (favorite-cities) for use with Claude Desktop. Weather data is fetched from Open-Meteo without requiring an API key.

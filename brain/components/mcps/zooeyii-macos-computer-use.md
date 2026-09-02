@@ -8,10 +8,12 @@ source_url: https://github.com/zooeyii/macos-computer-use-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-31T13:33:52Z"
 ---
 ## What it is
 MCP server `macOS Computer Use`, catalogued on PulseMCP. MCP server enabling AI agents to control macOS computers via mouse, keyboard, screenshots, and app management.

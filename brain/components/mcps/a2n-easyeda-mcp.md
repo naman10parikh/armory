@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T08:15:48Z"
 ---
 ## What it is
 Enables MCP clients to control EasyEDA Pro for schematic and PCB design through natural language, bridging the EasyEDA API without external AI or API keys.

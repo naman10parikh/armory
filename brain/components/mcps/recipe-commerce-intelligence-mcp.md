@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T04:32:24Z"
 ---
 ## What it is
 Extracts branded ingredients and kitchen tools from recipes, matches them to affiliate products, and generates shoppable ingredient lists to turn recipes into affiliate revenue.

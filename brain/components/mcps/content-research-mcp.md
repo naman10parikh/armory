@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T15:38:20Z"
 ---
 ## What it is
 Combines Naver DataLab trends, blog/news search, translation, and Unsplash images into a single research pipeline for content creators. Generates comprehensive research reports from a single query.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:45:24Z"
 ---
 ## What it is
 Exposes TaskFleet's pay-per-call AI task APIs as MCP tools, including web search, scraping, extraction, translation, code review, summarization, and wallet intelligence. Payments are handled via x402 (USDC on Base) with no accounts or API keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T04:47:23Z"
 ---
 ## What it is
 Enables Claude Desktop to manage an Obsidian vault and automatically convert class recordings into structured study notes using local AI tools.

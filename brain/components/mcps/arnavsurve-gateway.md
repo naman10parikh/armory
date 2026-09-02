@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-11T05:45:58Z"
 ---
 ## What it is
 MCP server `Gateway`, catalogued on PulseMCP. Connects AI assistants to multiple specialized services through a unified gateway, enabling dynamic tool discovery and seamless interaction across various MCP servers and HTTP APIs without leaving the conversation context.

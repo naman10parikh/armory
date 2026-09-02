@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:25:53Z"
 ---
 ## What it is
 An MCP server providing 15 tools for Unity projects, including Unity Gaming Services LiveOps (Economy, Cloud Save, Cloud Code), build-size and bloat analysis, and store-compliance checks.

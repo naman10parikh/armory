@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T04:32:32Z"
 ---
 ## What it is
 Provides tools to search and retrieve Italian data protection regulations, decisions, and guidelines from the Garante, for use with AI compliance tools.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-26T03:43:26Z"
 ---
 ## What it is
 MCP server `Alpha Vantage`, catalogued on PulseMCP. Provides real-time financial data retrieval from Alpha Vantage, enabling developers and analysts to access comprehensive stock prices, market indicators, forex rates, and cryptocurrency information with instant, structured results.

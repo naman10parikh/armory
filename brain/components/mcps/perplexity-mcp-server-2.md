@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-07-22T12:33:18Z"
 ---
 ## What it is
 An MCP server that enables AI agents to perform search-augmented queries and deep multi-source research using the Perplexity API.

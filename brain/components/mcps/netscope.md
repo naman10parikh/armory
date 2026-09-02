@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:15:00Z"
 ---
 ## What it is
 This MCP server enables AI agents to read and search the internet without paid API keys, supporting multiple channels like web, GitHub, RSS, YouTube, and more, with automatic browser escalation and caching.

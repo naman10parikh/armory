@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:17Z"
 ---
 ## What it is
 Enables querying Clash Royale game data, including clan members, war logs, clan search, and tournament information, through natural language or direct tool calls.

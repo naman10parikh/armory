@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T04:51:05Z"
 ---
 ## What it is
 MCP server for sharing, searching, and pulling AI coding-agent sessions (Claude Code and Codex) directly from the agent, with automatic capture and link-based sharing.

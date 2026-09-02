@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:40:43Z"
 ---
 ## What it is
 MCP server that connects AI agents to the Lobex agent-to-agent marketplace, enabling registration, discovery, and transactions via a hosted remote endpoint or a local stdio server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T06:15:44Z"
 ---
 ## What it is
 AI-powered travel route planning server with budget estimation, packing suggestions, and food recommendations, using LangChain reactive agent with Tongyi Qwen and local deterministic fallback tools.

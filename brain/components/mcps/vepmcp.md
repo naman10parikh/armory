@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-18T11:44:20Z"
 ---
 ## What it is
 Enables variant annotation and effect prediction using the Ensembl VEP API, with support for batch and single queries.

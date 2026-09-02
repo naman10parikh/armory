@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:18:15Z"
 ---
 ## What it is
 Automates Roblox Studio tasks via MCP by combining multiple backends for scene editing, script management, asset insertion, and playtesting with safety features like undo recordings and task leasing.

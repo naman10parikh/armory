@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:57:44Z"
 ---
 ## What it is
 Enables AI agents to fetch real-time trading signals and technical indicators for cryptocurrencies using Binance market data.

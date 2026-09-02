@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-16T21:45:26Z"
 ---
 ## What it is
 Provides tools to query, retrieve, and download protein structure data from the RCSB Protein Data Bank via the MCP protocol.

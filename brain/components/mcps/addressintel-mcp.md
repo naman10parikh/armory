@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:19:49Z"
 ---
 ## What it is
 A read-only MCP server that exposes SF Peninsula building-permit and parcel-buildability data, enabling queries on permits, SB 9 eligibility, ADU potential, and redevelopment leads.

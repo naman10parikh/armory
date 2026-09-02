@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:25:50Z"
 ---
 ## What it is
 MCP server that provides disassembly and reverse engineering capabilities via the Capstone framework, supporting multiple architectures.

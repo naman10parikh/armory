@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T01:43:37Z"
 ---
 ## What it is
 Enables creating and managing AI-powered slide decks on deck.4hum.ai with tools to save, update, generate images, and list decks.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T08:27:00Z"
 ---
 ## What it is
 MCP server `Network Diagram`, catalogued on PulseMCP. AI-driven network topology editor with 44 tools: nmap/CSV import, SSH access, and multi-sheet support.

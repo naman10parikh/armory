@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T23:21:22Z"
 ---
 ## What it is
 Enables SOQL queries, SOSL search, and record CRUD operations on a single Salesforce org via MCP, with optional read-only mode.

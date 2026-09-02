@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:38:19Z"
 ---
 ## What it is
 Enterprise-grade macOS MCP server that gives AI agents eyes, hands, and a terminal, enabling screen capture, mouse/keyboard control, shell commands, and file operations.

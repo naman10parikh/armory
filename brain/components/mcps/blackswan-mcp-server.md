@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T12:30:04Z"
 ---
 ## What it is
 Enables AI agents to access real-time crypto risk intelligence with two tools: Flare for precursor detection and Core for overall risk environment assessment.

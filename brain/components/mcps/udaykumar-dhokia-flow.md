@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T08:18:57Z"
 ---
 ## What it is
 MCP server `MCP Flow`, catalogued on PulseMCP. Visual no-code platform for designing and deploying MCP servers through a drag-and-drop node editor that generates TypeScript code.

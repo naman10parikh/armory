@@ -8,10 +8,12 @@ source_url: https://github.com/aurafriday/mcp_link_blender
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-03T11:20:01Z"
 ---
 ## What it is
 MCP server `MCP-Link Blender`, catalogued on PulseMCP. Exposes Blender's Python API to AI agents for 3D modeling, animation, and rendering through arbitrary code execution.

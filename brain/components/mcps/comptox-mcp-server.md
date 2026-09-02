@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-22T18:20:47Z"
 ---
 ## What it is
 Exposes EPA Computational Toxicology (CompTox) evidence federation through MCP, enabling chemical identity, hazard, exposure, and bioactivity data retrieval for AI agents.

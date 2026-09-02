@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T06:40:33Z"
 ---
 ## What it is
 A read-only MCP server for querying SQL Server Analysis Services (multidimensional cubes via MDX and tabular models via DAX) using Windows Integrated Security.

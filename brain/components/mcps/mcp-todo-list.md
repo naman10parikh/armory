@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:05:40Z"
 ---
 ## What it is
 MCP server that exposes a TODO list API to AI assistants, enabling natural language management of tasks with create, read, update, and delete operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T02:28:23Z"
 ---
 ## What it is
 An MCP server that indexes your codebase using tree-sitter AST parsing and gives AI tools instant access to structural intelligence like dependency graphs, call trees, and dead code detection from a local SQLite database.

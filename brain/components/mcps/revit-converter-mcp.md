@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T21:07:02Z"
 ---
 ## What it is
 AI-powered BIM tool that connects Claude to a Revit file conversion and BIM query service, enabling users to convert .rvt files to XKT, IFC, and DWG, and explore building elements through natural language.

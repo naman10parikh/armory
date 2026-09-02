@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:02:57Z"
 ---
 ## What it is
 MCP server for debugging Electron apps: discover, launch, and control apps via Chrome DevTools Protocol and Node inspector, enabling JavaScript evaluation, network/console monitoring, screenshots, profiling, and breakpoints.

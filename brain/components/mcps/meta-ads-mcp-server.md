@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-05T15:51:56Z"
 ---
 ## What it is
 An MCP server for programmatic management of Meta (Facebook/Instagram) advertising campaigns through AI assistants. It enables campaign creation, ad set management, creative upload, analytics, audience management, and conversion tracking.

@@ -8,11 +8,13 @@ source_url: https://github.com/SShadowS/business-central-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-09-01T14:34:19Z"
 ---
 ## What it is
 Give AI assistants direct access to Microsoft Dynamics 365 Business Central via native WebSocket protocol.

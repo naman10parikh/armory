@@ -8,10 +8,12 @@ source_url: https://github.com/adenot/mcp-google-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-09-24T08:06:11Z"
 ---
 ## What it is
 MCP server `Google Custom Search`, catalogued on PulseMCP. Integrates Google Custom Search API to enable web searches for fact-checking, research, and content generation tasks.

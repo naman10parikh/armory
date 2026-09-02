@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T02:32:54Z"
 ---
 ## What it is
 Enables creation and editing of Word, Excel, and PowerPoint documents within MCP clients through AI assistants.

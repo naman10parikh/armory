@@ -8,10 +8,12 @@ source_url: https://github.com/pixelml/reachy-mini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-17T15:46:07Z"
 ---
 ## What it is
 MCP server `Reachy Mini`, catalogued on PulseMCP. Controls Reachy Mini humanoid robots with dance choreography, emotional expressions, head movements, camera capture, and local text-to-speech with synchronized animations.

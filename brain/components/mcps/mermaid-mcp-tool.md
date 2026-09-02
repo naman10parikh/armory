@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:21:57Z"
 ---
 ## What it is
 Provides Mermaid code validation and iterative line-level repair to fix syntax errors in LLM-generated Mermaid diagrams, ensuring consistency with the frontend parser.

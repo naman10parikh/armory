@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:46:46Z"
 ---
 ## What it is
 Enables text-to-image generation using the api.airforce API, with a generate_image tool and model discovery resource.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T13:59:19Z"
 ---
 ## What it is
 A TypeScript template for building MCP servers with Streamable HTTP transport, providing example tools, resources, and prompts to help developers create custom MCP integrations.

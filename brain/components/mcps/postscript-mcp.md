@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T01:51:34Z"
 ---
 ## What it is
 MCP server for Postscript SMS marketing platform, enabling AI agents to query subscribers, look up opt-in keyword IDs, add new subscribers with consent, list campaigns, and check audience segment sizes.

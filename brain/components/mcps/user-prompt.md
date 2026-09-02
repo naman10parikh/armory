@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-12T00:52:58Z"
 ---
 ## What it is
 MCP server `User Prompt`, catalogued on PulseMCP. Enables AI agents to ask users clarifying questions via terminal windows.

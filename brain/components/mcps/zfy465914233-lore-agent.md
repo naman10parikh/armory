@@ -8,10 +8,12 @@ source_url: https://github.com/zfy465914233/scholar-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-20T08:25:30Z"
 ---
 ## What it is
 MCP server `Lore Agent`, catalogued on PulseMCP. Local knowledge agent MCP server with BM25 retrieval and web research integration for querying and saving research notes.

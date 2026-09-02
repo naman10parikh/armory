@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T22:04:08Z"
 ---
 ## What it is
 MCP server for building React + Capacitor + Tailwind + Konsta applications, providing tools for UI snippets, plugin management, and stack recommendations.

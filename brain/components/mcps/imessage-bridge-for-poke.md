@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:27:42Z"
 ---
 ## What it is
 Enables reading and sending iMessages through Poke via a local Mac server, with tools for chat management and message history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:43:14Z"
 ---
 ## What it is
 MCP server for Oracle Cloud Infrastructure (OCI) that exposes Compute, Networking, and Object Storage operations to MCP clients, with support for multiple authentication modes, read-only enforcement, and per-call region overrides.

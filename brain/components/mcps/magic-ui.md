@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-07T01:42:23Z"
 ---
 ## What it is
 MCP server `Magic UI`, catalogued on PulseMCP. Fetches and categorizes Magic UI components from GitHub, providing a standardized way for developers to discover and integrate pre-built UI elements with local caching and automatic categorization.

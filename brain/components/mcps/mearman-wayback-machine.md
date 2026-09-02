@@ -8,10 +8,12 @@ source_url: https://github.com/mearman/mcp-wayback-machine
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-10T03:55:00Z"
 ---
 ## What it is
 MCP server `Wayback Machine`, catalogued on PulseMCP. MCP server for archiving URLs, retrieving historical snapshots, comparing page versions, and searching the Internet Archive Wayback Machine.

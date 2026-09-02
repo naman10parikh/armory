@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:39:55Z"
 ---
 ## What it is
 Enables backlink intelligence by interfacing with the DataForSEO Backlinks API. Allows AI agents to query and analyze backlink data through natural language.

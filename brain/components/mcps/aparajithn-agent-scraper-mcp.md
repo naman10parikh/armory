@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 8
+forks: 1
+pushed_at: "2026-03-07T07:13:57Z"
 ---
 ## What it is
 Web scraping MCP server for AI agents. 6 tools: clean content extraction, structured scraping with CSS selectors, full-page screenshots via Playwright, link extraction, metadata extraction (OG/Twitter cards), and Google search. Free tier with x402 micropayments.

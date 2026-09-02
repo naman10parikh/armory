@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T22:02:08Z"
 ---
 ## What it is
 Exposes job-posting scanner tools (search, company health, fit scoring, dry-run outreach) via MCP, enabling offline job search and evaluation from any MCP host.

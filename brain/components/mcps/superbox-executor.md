@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T17:42:15Z"
 ---
 ## What it is
 Remote MCP server executor on Cloudflare Workers that runs Python-based tools from GitHub repos via a lightweight TypeScript interpreter, supporting requests and common builtins.

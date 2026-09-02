@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:07Z"
 ---
 ## What it is
 Enables consulting legal proceedings from the TRT17 Brazilian labor court through official sources. It provides a read-only MCP tool that works with any MCP-compatible client.

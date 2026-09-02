@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-16T12:44:55Z"
 ---
 ## What it is
 MCP server for InterSystems IRIS that provides 8 tools including ObjectScript execution, class compilation, and unit testing with a fast DirectTestRunner.

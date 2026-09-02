@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-12T12:12:03Z"
 ---
 ## What it is
 MCP server `AI Consultant (OpenRouter)`, catalogued on PulseMCP. Integrates with OpenRouter's API to provide AI consultation capabilities across multiple models with intelligent model selection, conversation history management, and enterprise-grade reliability features.

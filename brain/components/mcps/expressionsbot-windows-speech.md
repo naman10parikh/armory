@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-17T15:53:27Z"
 ---
 ## What it is
 MCP server `Text To Speech (Windows)`, catalogued on PulseMCP. Integrates with Windows speech services to enable text-to-speech and speech-to-text capabilities using native system features and PowerShell commands.

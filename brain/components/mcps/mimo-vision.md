@@ -8,11 +8,13 @@ source_url: https://github.com/wulusai2333/mimo-vision
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T13:10:22Z"
 ---
 ## What it is
 Provides an image description tool for MCP, sending images to mimo-v2.5 multimodal models and returning textual descriptions, with automatic API key discovery and fallback across free and paid endpoints.

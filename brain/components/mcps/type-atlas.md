@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T07:32:11Z"
 ---
 ## What it is
 Enables coding agents to navigate TypeScript, Markdown, and JSON with editor-grade features such as definitions, references, diagnostics, and code actions via the Model Context Protocol, using the local TypeScript project for each file.

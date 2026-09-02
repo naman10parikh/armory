@@ -8,10 +8,12 @@ source_url: https://github.com/xorrkaz/cml-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 42
+pushed_at: "2026-09-01T13:38:13Z"
 ---
 ## What it is
 MCP server `Cisco Modeling Labs`, catalogued on PulseMCP. Automates Cisco Modeling Labs operations for network simulation and testing

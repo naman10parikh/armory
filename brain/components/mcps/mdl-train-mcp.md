@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T22:40:53Z"
 ---
 ## What it is
 An MCP server for monitoring and managing training jobs on Modal. Built for LLMs that need to check on long-running GPU training without drowning in log output.

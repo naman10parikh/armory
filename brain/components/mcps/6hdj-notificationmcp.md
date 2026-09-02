@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T10:00:47Z"
 ---
 ## What it is
 MCP server `Notification`, catalogued on PulseMCP. Control and read Android phone notifications via a local MCP server on-device.

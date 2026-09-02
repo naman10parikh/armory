@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-17T10:12:43Z"
 ---
 ## What it is
 Enables database schema inspection, Yii2 console command execution, and project management tools for Yii2 framework via Claude Code.

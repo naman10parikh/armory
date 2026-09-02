@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:31:56Z"
 ---
 ## What it is
 Consulta o valor de mercado de veículos brasileiros na tabela FIPE a partir da placa ou chassi, com ferramenta somente leitura. Funciona via MCP over HTTP em qualquer cliente compatível.

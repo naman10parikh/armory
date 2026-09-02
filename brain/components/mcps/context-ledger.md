@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:40:19Z"
 ---
 ## What it is
 Provides local, explicitly scoped memory for coding agents via MCP, storing durable project knowledge in a per-repository SQLite database with tools to record, search, and retrieve context.

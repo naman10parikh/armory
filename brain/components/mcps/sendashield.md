@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:38:48Z"
 ---
 ## What it is
 Self-hosted MCP server that filters sensitive data from email and calendar before it reaches AI assistants, masking or withholding confidential content based on user policy.

@@ -8,10 +8,12 @@ source_url: https://github.com/epochal-dev/open-notebook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-12-22T11:32:45Z"
 ---
 ## What it is
 MCP server `Open Notebook`, catalogued on PulseMCP. Connect to Open Notebook, an open-source NotebookLM alternative for research and knowledge management

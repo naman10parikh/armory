@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:38:38Z"
 ---
 ## What it is
 Enables resume review against job descriptions through a three-stage pipeline: match scoring, experience rewriting, and ATS optimization. Supports text or document uploads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T13:05:49Z"
 ---
 ## What it is
 MCP server for retrieving web pages as clean Markdown, with configurable detail levels and optional Chromium rendering for JavaScript-heavy pages.

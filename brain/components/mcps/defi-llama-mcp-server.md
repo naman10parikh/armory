@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T17:10:47Z"
 ---
 ## What it is
 Provides access to DeFi Llama's free API for querying protocol TVL, chain TVL, yields, stablecoins, bridges, DEX volumes, and fees through natural language.

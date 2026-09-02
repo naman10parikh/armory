@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:20:50Z"
 ---
 ## What it is
 A remote MCP server that routes web search queries across multiple providers (HTTP APIs, external MCP servers, LLM with grounding) with intelligent fallback and quota management.

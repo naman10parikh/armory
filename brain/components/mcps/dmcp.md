@@ -8,11 +8,13 @@ source_url: https://github.com/shawnrushefsky/dmcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-06T16:33:06Z"
 ---
 ## What it is
 An MCP server that enables AI agents to act as dynamic dungeon masters for text-based RPGs with dynamically generated rule systems and comprehensive game state management.

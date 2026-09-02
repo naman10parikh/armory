@@ -8,11 +8,13 @@ source_url: https://github.com/yinbri/cineplex-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:56:32Z"
 ---
 ## What it is
 An MCP server that lets Claude look up Cineplex Canada showtimes and find ones with good seats available, such as avoiding front rows or side seats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:25:54Z"
 ---
 ## What it is
 Remote MCP server (HTTP/OAuth) exposing a self-hosted Honcho instance to claude.ai custom connectors and other MCP clients.

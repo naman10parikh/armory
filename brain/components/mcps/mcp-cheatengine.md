@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:00:55Z"
 ---
 ## What it is
 This MCP server integrates AI assistants with Cheat Engine on Windows, providing tools for process management, memory read/write, pointer resolution, AOB scanning, speedhacking, and Lua scripting via a local TCP connection.

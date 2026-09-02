@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:56:57Z"
 ---
 ## What it is
 Enables LLMs to reconstruct parametric Fusion 360 models from mesh (STL/3MF) or photo inputs by analyzing geometry and creating editable features via a Fusion 360 add-in bridge.

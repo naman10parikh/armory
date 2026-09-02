@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:51Z"
 ---
 ## What it is
 Provides access to official MLB statistics via a keyless API, enabling AI agents to query MLB data through natural language or direct tools.

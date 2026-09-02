@@ -8,11 +8,13 @@ source_url: https://github.com/ccdejene/fotmob-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:33:01Z"
 ---
 ## What it is
 Enables access to live FotMob football data for fixture lookup, team and player research, match details, lineups, league discovery, and search-based entity lookup.

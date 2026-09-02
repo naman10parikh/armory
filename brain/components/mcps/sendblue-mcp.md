@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T01:02:30Z"
 ---
 ## What it is
 Enables AI agents to send SMS/iMessage and check replies via Sendblue API using secure polling (no webhooks).

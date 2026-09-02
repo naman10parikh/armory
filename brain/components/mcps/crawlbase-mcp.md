@@ -8,11 +8,13 @@ source_url: https://github.com/crawlbase/crawlbase-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 56
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-04-23T23:38:07Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI agents to fetch live web content with JavaScript rendering, proxy rotation, and anti-bot evasion.

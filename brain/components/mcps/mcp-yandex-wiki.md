@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:43:35Z"
 ---
 ## What it is
 Minimal MCP server for Yandex Wiki that enables reading, writing, searching, and managing wiki pages and attachments.

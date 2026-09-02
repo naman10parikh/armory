@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:37:43Z"
 ---
 ## What it is
 An MCP server for live, geolocated world-event intelligence: query event signals (coordinates, severity, sources), find hotspots, search satellite imagery (Sentinel-1/2, etc), read the AI Daily World Brief, and ask an OSINT/GEOINT analyst. Local stdio proxy to the hosted Off-Nadir Delta server; free

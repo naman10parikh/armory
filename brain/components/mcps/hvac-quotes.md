@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-14T15:02:17Z"
 ---
 ## What it is
 Enables HVAC equipment Request for Quote (RFQ) management via MCP, allowing users to submit RFQs, check status, and compare quotes from distributors.

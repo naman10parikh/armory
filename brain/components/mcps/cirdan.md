@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T02:13:54Z"
 ---
 ## What it is
 Cirdan maps and watches the live infrastructure your agent session can reach — Docker, Kubernetes, cloud, IaC, and telemetry — then exposes it over MCP. It fingerprints the environment, builds a dependency graph, detects incidents, and can run evidence-backed actions. It inherits the session's own a

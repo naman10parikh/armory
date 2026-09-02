@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T02:43:25Z"
 ---
 ## What it is
 Enables interaction with SU2 CFD solver for session lifecycle management, config editing, solver execution, and results inspection, with optional CPACS integration for aircraft analysis.

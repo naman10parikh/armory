@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T05:16:51Z"
 ---
 ## What it is
 MCP server for the AKKA Finance DEX aggregator — swap quotes, routes, and execution across EVM chains.

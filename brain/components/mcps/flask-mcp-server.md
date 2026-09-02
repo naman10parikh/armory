@@ -8,11 +8,13 @@ source_url: https://github.com/bashar94/flask-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-25T08:55:01Z"
 ---
 ## What it is
 Flask-based Model Context Protocol (MCP) server for Python. Drop it into any Flask app or run it standalone.

@@ -8,11 +8,13 @@ source_url: https://github.com/Tencent/cls-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-16T08:49:13Z"
 ---
 ## What it is
 Enables large language models to directly access Tencent Cloud Log Service for log search, metric queries, and alarm management without code.

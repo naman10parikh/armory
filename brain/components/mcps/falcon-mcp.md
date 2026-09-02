@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-03T08:21:46Z"
 ---
 ## What it is
 Model Context Protocol server that connects AI agents with CrowdStrike Falcon platform for intelligent security analysis and automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T23:32:58Z"
 ---
 ## What it is
 Browser-backed QA MCP server that lets coding agents test web apps, collect browser evidence, and return fix-ready reports before shipping.

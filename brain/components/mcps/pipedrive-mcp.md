@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-10T20:40:34Z"
 ---
 ## What it is
 MCP server for Pipedrive CRM providing 88 tools for full CRUD on deals, persons, organizations, activities, and more, with custom field resolution and safety guards.

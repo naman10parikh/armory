@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T00:37:09Z"
 ---
 ## What it is
 Enables AI assistants to query distilled SEO expert tactics from public content, returning actionable insights linked to original source videos.

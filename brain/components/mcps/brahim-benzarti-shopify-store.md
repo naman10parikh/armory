@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T13:35:41Z"
 ---
 ## What it is
 MCP server `Shopify Store`, catalogued on PulseMCP. Connects to live Shopify stores via Admin and Storefront APIs for real-time store operations, inventory management, bulk operations, and customer service workflows.

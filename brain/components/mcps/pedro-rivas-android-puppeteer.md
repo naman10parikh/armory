@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-18T02:11:57Z"
 ---
 ## What it is
 MCP server `Android Puppeteer`, catalogued on PulseMCP. Visual-first Android automation with UI element detection and device control

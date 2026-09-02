@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:29:01Z"
 ---
 ## What it is
 Bridges ChatGPT with local computer for controlled file and project management, featuring session-based collaboration and diff tracking.

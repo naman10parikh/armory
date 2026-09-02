@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:33:00Z"
 ---
 ## What it is
 MCP server offering SEO scans, local Google Maps visibility checks, Dutch Claude skill search, and a business brain template.

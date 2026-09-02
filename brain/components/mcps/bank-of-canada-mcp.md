@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T23:17:38Z"
 ---
 ## What it is
 Provides live access to Canadian economic data via the Bank of Canada's Valet API, including exchange rates, policy interest rates, CPI, bond yields, and commodity prices.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 7
+forks: 2
+pushed_at: "2026-07-24T01:53:51Z"
 ---
 ## What it is
 Tautulli (Plex media server monitoring) with 11 read-only tools for activity, history, library stats, user stats, transcode analysis, and resolution breakdowns.

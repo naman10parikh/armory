@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-28T14:15:32Z"
 ---
 ## What it is
 MCP server `iCloud Photos`, catalogued on PulseMCP. Integrates with local iCloud Photos libraries on macOS to enable efficient searching and retrieval of photo metadata based on various criteria like dates, locations, people, and labels.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T21:06:23Z"
 ---
 ## What it is
 Enables MCP clients to perform HTTP GET requests to arbitrary URLs and receive response details.

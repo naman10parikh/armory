@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-14T22:43:53Z"
 ---
 ## What it is
 MCP server `AIDataNordic Food Recipes`, catalogued on PulseMCP. Semantic search across 50,000+ food recipes with hybrid retrieval and reranking, hosted by AIDataNordic.

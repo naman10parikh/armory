@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:32:13Z"
 ---
 ## What it is
 Enables unrestricted SQL execution (DDL/DML) on PostgreSQL databases, allowing AI agents to create, read, update, and delete data with zero query filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-07T02:35:33Z"
 ---
 ## What it is
 An MCP server for capturing images from cameras and video streams via the framegrab library, providing tools to create framegrabbers and grab frames.

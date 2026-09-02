@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:36:17Z"
 ---
 ## What it is
 Enables AI agents to handshake with a repository, providing them with a map, standing decisions, and prior visit briefings so they can continue work without re-deriving the context. It also guards against regressions with a grandfathered baseline and maintains a visitor ledger and journal.

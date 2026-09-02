@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-18T05:41:03Z"
 ---
 ## What it is
 MCP server `WebEar`, catalogued on PulseMCP. Capture and analyze live Web Audio API output from running web applications.

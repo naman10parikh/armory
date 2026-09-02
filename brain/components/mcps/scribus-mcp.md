@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T15:52:04Z"
 ---
 ## What it is
 Enables AI assistants like Claude to control the Scribus desktop publishing app for document creation, editing, and export via its Python Scripter API, supporting both headless and interactive modes with ~125 tools.

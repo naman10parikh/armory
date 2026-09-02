@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T23:48:52Z"
 ---
 ## What it is
 Provides over 300 medical calculator tools for AI assistants, supporting evidence-based medicine through modular API endpoints.

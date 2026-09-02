@@ -8,10 +8,12 @@ source_url: https://github.com/kajirita2002/honeycomb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-28T00:57:35Z"
 ---
 ## What it is
 MCP server `Honeycomb`, catalogued on PulseMCP. Provides a direct TypeScript-based interface for interacting with Honeycomb's observability API, enabling developers to query, create, and manage datasets, events, and monitoring resources through natural language interaction.

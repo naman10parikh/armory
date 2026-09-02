@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:31:48Z"
 ---
 ## What it is
 Whole-repo code graph for AI agents: impact analysis, dead code, cycles, semantic code search — 14 tools via hosted MCP endpoint.

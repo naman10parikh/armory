@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T12:33:59Z"
 ---
 ## What it is
 Provides MCP tools to manage MailDev Docker containers and inspect received emails, including listing, searching, retrieving, deleting, waiting for, and verifying email content and attachments for local development and test automation.

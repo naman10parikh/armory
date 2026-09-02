@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T15:21:49Z"
 ---
 ## What it is
 Local codebase RAG and MCP server that indexes repository source code and documentation into a searchable LanceDB store, enabling AI assistants to query repository knowledge through the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:35:11Z"
 ---
 ## What it is
 Provides MCP tools to query the Tenable Identity Exposure (TIE) API for security profiles, deviances, attacks, and activity timelines, with enforced read-only mode to protect credentials.

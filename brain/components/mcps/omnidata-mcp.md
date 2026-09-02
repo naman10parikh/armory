@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T22:19:38Z"
 ---
 ## What it is
 A unified Model Context Protocol server for data engineering and analytics that lets LLM clients query, profile, transform, and visualize data using DuckDB and PySpark, while keeping raw data out of the model's context through read-only, bounded, and audited operations.

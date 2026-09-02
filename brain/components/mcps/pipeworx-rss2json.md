@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:33Z"
 ---
 ## What it is
 MCP server `rss2json`, catalogued on PulseMCP. rss2json RSS and Atom feed converter: fetch any public feed as structured JSON data.

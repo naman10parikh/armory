@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-05T08:58:49Z"
 ---
 ## What it is
 Provides Naver Map API functions (geocoding, reverse geocoding, directions, static map, and usage queries) as MCP tools for use in Claude Desktop, VS Code, and other MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T04:34:26Z"
 ---
 ## What it is
 Role-based AI assistant for hospital workflows, patient FAQ, staff tools, and secure document approvals with MCP-style tool access.

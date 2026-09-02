@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:48:30Z"
 ---
 ## What it is
 MCP server for PostgreSQL that enables safe read-only database queries, table schema inspection, and query execution planning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:42:10Z"
 ---
 ## What it is
 Enables remote access to Baserow workspaces over Streamable HTTP, allowing discovery of accessible tables and creation of rows using user-facing field names.

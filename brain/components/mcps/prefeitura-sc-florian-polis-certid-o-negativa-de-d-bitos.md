@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:01Z"
 ---
 ## What it is
 Enables MCP clients to query the official tax clearance certificate (Certidão Negativa de Débitos) from the Florianópolis city government. It is a read-only tool that facilitates verification of a taxpayer's debt status through natural language.

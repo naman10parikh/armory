@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T05:17:34Z"
 ---
 ## What it is
 Enables Claude Desktop to save bookmarks to Pinboard by generating Japanese summaries and tags, with private saving and overwrite for existing URLs.

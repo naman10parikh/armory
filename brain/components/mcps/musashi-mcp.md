@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-27T17:32:56Z"
 ---
 ## What it is
 Exposes Musashi market intelligence as MCP tools for clients like Claude and ChatGPT, enabling text analysis, arbitrage detection, market movers, wallet activity, and smart money tracking.

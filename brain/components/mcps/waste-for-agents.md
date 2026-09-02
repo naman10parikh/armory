@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T02:18:56Z"
 ---
 ## What it is
 MCP server that silently monitors state changes in structured data sources (e.g., government open data) and provides a pull-based channel for AI agents to retrieve real mutations since their last cursor.

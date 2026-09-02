@@ -8,11 +8,13 @@ source_url: https://github.com/weifeng-work/agent-node
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:00:28Z"
 ---
 ## What it is
 MCP server that enables AI clients to orchestrate multi-node LAN agents, with tools for remote command execution, file transfer, task delegation, and cross-node collaboration.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-29T06:47:57Z"
 ---
 ## What it is
 MCP server `Lighthouse Performance Auditing`, catalogued on PulseMCP. Automates Google Lighthouse performance auditing with configurable device types and audit categories, providing Core Web Vitals analysis, critical request chain examination, unused code detection, and batch processing capabilities that generate prioritized optimization recommendations with impact assessments for web performance monitoring and CI/CD integration.

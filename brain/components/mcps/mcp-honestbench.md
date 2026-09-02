@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:00:41Z"
 ---
 ## What it is
 A deliberately dishonest MCP server that measures an agent system's honesty via deterministic, rule-driven lies across five modes, recording ground truth for scoring.

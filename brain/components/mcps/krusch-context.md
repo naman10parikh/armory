@@ -8,10 +8,12 @@ source_url: https://github.com/kruschdev/krusch-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-28T14:06:17Z"
 ---
 ## What it is
 MCP server `Krusch Context`, catalogued on PulseMCP. Gives IDE agents semantic codebase search, episodic project memory, and steering nuggets across sessions.

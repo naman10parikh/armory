@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T01:59:01Z"
 ---
 ## What it is
 MCP server `Vault Sync`, catalogued on PulseMCP. Bidirectional sync between personal and team Obsidian vaults.

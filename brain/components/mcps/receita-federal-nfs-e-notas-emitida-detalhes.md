@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:33Z"
 ---
 ## What it is
 Servidor MCP para consulta de notas fiscais de serviço emitidas (detalhes) na Receita Federal, em fonte oficial.

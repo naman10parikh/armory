@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T13:51:31Z"
 ---
 ## What it is
 Gives AI agents full control over Brave Browser, optimized for local LLMs to ensure low latency and high reliability.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-26T14:28:05Z"
 ---
 ## What it is
 MCP server `4o-image`, catalogued on PulseMCP. Provides a bridge between AI systems and the 4o-image API for generating and editing high-quality images through text prompts with real-time progress updates.

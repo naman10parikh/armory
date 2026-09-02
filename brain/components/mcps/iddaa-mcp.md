@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T11:42:14Z"
 ---
 ## What it is
 MCP server that provides structured access to real-time sportsbook data from iddaa, including live events, competitions, and league fixtures with strategy analysis. Designed for AI agents and automation workflows.

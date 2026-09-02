@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T23:35:47Z"
 ---
 ## What it is
 MCP server `Mifactory Email`, catalogued on PulseMCP. Send transactional emails for AI agents via SMTP with built-in templates.

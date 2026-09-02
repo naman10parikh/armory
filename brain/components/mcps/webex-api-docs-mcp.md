@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:10:14Z"
 ---
 ## What it is
 Provides fast local full-text search and complete OpenAPI schemas for all Webex Developer APIs, enabling AI agents to accurately discover endpoints, parameters, and required scopes without hallucination or massive token costs.

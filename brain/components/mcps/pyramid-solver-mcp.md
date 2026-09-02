@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:51:06Z"
 ---
 ## What it is
 Interactive 4x4 sliding puzzle solver with MCP tools to open the widget and solve puzzles via A* or IDA*, plus a browser mode.

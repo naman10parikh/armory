@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-12T20:27:16Z"
 ---
 ## What it is
 MCP server `OpenFeature`, catalogued on PulseMCP. SDK installation guidance and feature flag evaluation through OFREP

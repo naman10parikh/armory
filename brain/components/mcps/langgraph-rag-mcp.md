@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-27T13:21:36Z"
 ---
 ## What it is
 Retrieval-Augmented Generation system serving LangGraph documentation through the Model Context Protocol, enabling semantic search and context-aware responses.

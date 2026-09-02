@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T14:04:08Z"
 ---
 ## What it is
 MCP server for automating Google Play Android app management - releases, reviews, listings, and monetization via natural language or CLI.

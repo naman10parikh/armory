@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:03:14Z"
 ---
 ## What it is
 MCP server that exposes personal device data from sources like Oura into a unified SQLite store, allowing Claude to answer questions across metrics (sleep, activity, etc.) with a set of read-only tools.

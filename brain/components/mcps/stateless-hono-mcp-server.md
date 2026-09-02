@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-07T08:36:43Z"
 ---
 ## What it is
 An MCP server using Hono and Streamable HTTP, deployable to Cloudflare Workers, with tools for periodic notifications and prompt templates.

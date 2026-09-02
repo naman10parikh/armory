@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T19:20:20Z"
 ---
 ## What it is
 Enables AI agents to query free biomedical and pharmaceutical APIs for clinical trials, drug data, molecular structures, adverse events, and research literature.

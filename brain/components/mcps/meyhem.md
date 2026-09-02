@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-14T17:36:05Z"
 ---
 ## What it is
 Finds the right MCP server for a task from over 1,400 indexed servers ranked by community trust. Also provides outcome-ranked web search for AI agents with no API key or rate limits.

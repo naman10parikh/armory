@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-02T22:01:26Z"
 ---
 ## What it is
 Enables LLMs to interact with any REST API that has an OpenAPI specification by providing a lightweight MCP server that translates between natural language and API calls.

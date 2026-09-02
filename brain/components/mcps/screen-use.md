@@ -8,11 +8,13 @@ source_url: https://github.com/tongriyaotxt/screen-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T19:03:05Z"
 ---
 ## What it is
 Enables AI agents to see, locate UI elements, and operate any Windows desktop app through natural language, using accessibility-tree matching with optional vision-model fallback, plus an autonomous visual loop with introspection and meta-learning.

@@ -8,11 +8,13 @@ source_url: https://github.com/trading-a/ai_ths_moni_trading_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:58:14Z"
 ---
 ## What it is
 Enables AI agents to automate simulated stock trading on the Tonghuashun trading system, including checking account balances and positions, viewing orders and deals, placing market orders, and canceling pending orders via the MCP protocol.

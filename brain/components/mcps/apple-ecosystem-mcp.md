@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T21:51:55Z"
 ---
 ## What it is
 Enables Claude to interact with Apple apps on macOS including Mail, Calendar, Contacts, Reminders, Notes, and iCloud Drive for personal productivity tasks like triaging email, managing calendar, and cross-app context.

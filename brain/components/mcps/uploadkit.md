@@ -8,10 +8,12 @@ source_url: https://github.com/drumst0ck/uploadkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-06T10:57:40Z"
 ---
 ## What it is
 MCP server `UploadKit`, catalogued on PulseMCP. Access 40+ upload components, route scaffolds, BYOS setup, and full UploadKit docs via AI.

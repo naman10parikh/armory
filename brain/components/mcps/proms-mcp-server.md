@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-27T04:18:44Z"
 ---
 ## What it is
 A lean MCP server that provides LLM agents with transparent access to multiple Prometheus instances for metrics analysis and SRE operations.

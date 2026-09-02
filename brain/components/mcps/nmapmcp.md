@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-03-30T07:02:23Z"
 ---
 ## What it is
 Enables network scanning and reconnaissance tasks like port scanning, OS detection, DNS brute force, and more through MCP interfaces.

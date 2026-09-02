@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:41:02Z"
 ---
 ## What it is
 MCP server that enables cloud models (like Gemini/Claude) to delegate coding tasks to a local llama.cpp server, preserving cloud usage limits through an AI-powered code review loop.

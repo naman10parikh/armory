@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
 stars: 26
+forks: 13
+pushed_at: "2026-03-30T17:37:00Z"
 ---
 ## What it is
 MCP server that integrates balldontlie api to provide information about players, teams and games for the NBA, NFL and MLB

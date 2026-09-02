@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:33:57Z"
 ---
 ## What it is
 Computer-use agent framework that uses Grok CLI and MCP to control the desktop via screen OCR, mouse/keyboard actions, and a chat HUD.

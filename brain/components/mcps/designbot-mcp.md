@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-30T13:36:53Z"
 ---
 ## What it is
 Forwards messages to the Designsystemet assistant endpoint, enabling access through MCP-compatible clients.

@@ -8,10 +8,12 @@ source_url: https://github.com/mikeyny/ai-image-gen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 125
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-02-03T22:10:04Z"
 ---
 ## What it is
 MCP server `Image Generation (Flux-Schnell)`, catalogued on PulseMCP. Enables text-to-image generation using Replicate's flux-schnell model, offering configurable parameters for on-demand image creation in various applications.

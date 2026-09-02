@@ -8,10 +8,12 @@ source_url: https://github.com/da-okazaki/mcp-fish-audio-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-02-11T16:47:58Z"
 ---
 ## What it is
 MCP server `Fish Audio`, catalogued on PulseMCP. Integrates with Fish Audio's API to generate high-quality speech from text with configurable voice models, audio formats, and real-time streaming for creating conversational applications and automated content narration.

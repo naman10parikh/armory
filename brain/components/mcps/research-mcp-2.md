@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:06:18Z"
 ---
 ## What it is
 A stateless MCP server that provides web search, single page reading, and batch page reading tools, with automatic failover across multiple search and content extraction providers.

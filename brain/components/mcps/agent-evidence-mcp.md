@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T12:16:26Z"
 ---
 ## What it is
 A local evidence recorder that captures screenshots, recordings, notes, and summaries during long-running agent tasks, enabling reviewable task records with timelines and artifacts.

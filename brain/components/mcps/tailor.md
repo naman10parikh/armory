@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:10:50Z"
 ---
 ## What it is
 Unified AI coding-agent framework combining Spec-Driven Development (SDD), AST semantic code reuse, and progressive project memory (.ai/) for Claude Code, Cursor, Windsurf, and Zed.

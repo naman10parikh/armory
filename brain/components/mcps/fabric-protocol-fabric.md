@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T07:42:25Z"
 ---
 ## What it is
 MCP server `Fabric Protocol`, catalogued on PulseMCP. Decentralized data fabric protocol for cross-chain asset management and verification.

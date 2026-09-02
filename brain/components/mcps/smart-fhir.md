@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T03:06:27Z"
 ---
 ## What it is
 Enables read-only SMART on FHIR R4 discovery, search, and read operations against public synthetic sandboxes, returning actual empty results and 404s rather than inventing patient data.

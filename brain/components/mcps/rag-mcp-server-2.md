@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T05:09:34Z"
 ---
 ## What it is
 A RAG knowledge base MCP server that adds vector search and reranking capabilities to opencode, supporting multimodal embeddings, multiple knowledge bases, and local storage.

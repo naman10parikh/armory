@@ -8,10 +8,12 @@ source_url: https://github.com/hopiumlab/skymem-io
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T08:07:33Z"
 ---
 ## What it is
 MCP server `SkyMem`, catalogued on PulseMCP. Persistent memory layer for AI agents with 17 tools covering structured cognition, multi-source retrieval, trajectory tracking, and audit-grade observability.

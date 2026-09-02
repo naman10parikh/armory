@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:12:40Z"
 ---
 ## What it is
 On Board is a local MCP server that gives multiple AI agents and IDEs a shared project memory, ticket queue, and handoff history, so agents can seamlessly continue each other's work. It supports agent-to-agent wake events, enabling autonomous workflows like reject-fix-resubmit cycles without human r

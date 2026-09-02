@@ -8,10 +8,12 @@ source_url: https://github.com/linxule/vox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T16:44:08Z"
 ---
 ## What it is
 MCP server `Vox`, catalogued on PulseMCP. Multi-model AI gateway routing prompts to Gemini, GPT, Grok, DeepSeek, and local models.

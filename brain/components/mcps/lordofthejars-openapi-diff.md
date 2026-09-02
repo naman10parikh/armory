@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-09T11:51:58Z"
 ---
 ## What it is
 MCP server `OpenAPI Diff`, catalogued on PulseMCP. Compares OpenAPI specifications to identify breaking changes, compatibility issues, and structural differences between API versions.

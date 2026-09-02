@@ -8,10 +8,12 @@ source_url: https://github.com/1luvc0d3/metabase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-08T00:34:51Z"
 ---
 ## What it is
 MCP server `Metabase`, catalogued on PulseMCP. Write-enabled MCP server for Metabase with 28 tools covering read, write, and AI-driven insights operations.

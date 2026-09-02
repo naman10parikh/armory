@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-04-07T11:57:58Z"
 ---
 ## What it is
 An MCP server that integrates Azure DevOps with Cursor IDE, allowing Claude AI to manage projects, work items, repositories, pull requests, and test plans.

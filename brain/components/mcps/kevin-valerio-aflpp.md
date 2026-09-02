@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-04T22:15:29Z"
 ---
 ## What it is
 MCP server `AFL++`, catalogued on PulseMCP. Integrates with AFL++ fuzzing framework for automated security testing through workspace management, instrumented binary compilation, corpus management, fuzzing campaign orchestration, and crash analysis.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-27T10:39:45Z"
 ---
 ## What it is
 MCP server `Flowbite-Svelte`, catalogued on PulseMCP. Provides direct access to Flowbite-Svelte component documentation through specialized tools for finding components, retrieving detailed docs, browsing available components, and performing full-text searches across the complete documentation library.

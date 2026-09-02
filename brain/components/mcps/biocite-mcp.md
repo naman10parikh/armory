@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T21:50:41Z"
 ---
 ## What it is
 BioCite-MCP enables LLMs to retrieve verified academic literature metadata, citations, and BibTeX from Europe PMC and Crossref, and audit manuscripts for citation accuracy.

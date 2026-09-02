@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2024-12-24T20:48:40Z"
 ---
 ## What it is
 Enables MCP clients to access and use a vast library of tools from Toolhouse for enhanced AI capabilities.

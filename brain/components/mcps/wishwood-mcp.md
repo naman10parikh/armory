@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:11:08Z"
 ---
 ## What it is
 MCP server for foldkit that exposes tools and resources for 7-prime spine folding, κ-band classification, and fold operations like fire, water, void, thunder, echo, and flower.

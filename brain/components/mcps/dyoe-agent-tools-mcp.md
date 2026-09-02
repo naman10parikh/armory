@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:19:38Z"
 ---
 ## What it is
 Pay-per-call tools for AI agents including trust checks, due diligence, market data, and human-verified approvals, settled in USDC on Base via the x402 protocol.

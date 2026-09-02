@@ -8,10 +8,12 @@ source_url: https://github.com/leixinsun/joplin-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-24T10:40:09Z"
 ---
 ## What it is
 MCP server `Joplin`, catalogued on PulseMCP. Provides dual integration with Joplin note-taking app through Claude Code skills and a TypeScript MCP server for managing notes, notebooks, tags, and resources.

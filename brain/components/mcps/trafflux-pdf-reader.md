@@ -8,10 +8,12 @@ source_url: https://github.com/trafflux/pdf-reader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-02-20T00:47:49Z"
 ---
 ## What it is
 MCP server `PDF Reader`, catalogued on PulseMCP. Integrates with PyPDF2 to enable efficient text extraction and information retrieval from PDF documents for various applications.

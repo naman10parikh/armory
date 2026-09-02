@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:46:49Z"
 ---
 ## What it is
 MCP server for EMQX that exposes 39 tools across 7 categories for managing clusters, clients, topics, messaging, access control, diagnostics, and data integration, with a web GUI and layered safety controls.

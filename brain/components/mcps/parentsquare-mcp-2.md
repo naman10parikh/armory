@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T02:50:36Z"
 ---
 ## What it is
 A local MCP server for reading ParentSquare data (feeds, calendar, messages, directory, groups, and more) using undocumented internal APIs. It enables Claude, Cursor, and other MCP clients to access your ParentSquare account via stdio.

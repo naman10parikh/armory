@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-17T23:13:27Z"
 ---
 ## What it is
 MCP server `SSH Rails Runner`, catalogued on PulseMCP. Enables safe remote execution of Rails console commands via SSH for efficient data operations and administrative tasks on production Rails applications.

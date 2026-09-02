@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:51:17Z"
 ---
 ## What it is
 Provides a RAG system for your Obsidian Vault using DuckDB and vector search, enabling semantic search and note retrieval through AI agents.

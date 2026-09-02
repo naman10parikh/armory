@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T12:14:35Z"
 ---
 ## What it is
 Aggregates site analytics and published content from Google Analytics, Search Console, Cloudflare, and Buffer into MCP tools for traffic, search, request, and content reports.

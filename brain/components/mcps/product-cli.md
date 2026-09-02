@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T10:36:22Z"
 ---
 ## What it is
 MCP server for the Product Framework that enables agents to author and verify a What/How graph, with a live web view for visualizing the domain model, event flows, and system maps.

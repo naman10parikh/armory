@@ -8,10 +8,12 @@ source_url: https://github.com/goww7/halalterminal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T21:36:47Z"
 ---
 ## What it is
 MCP server `Halal Terminal`, catalogued on PulseMCP. Screen stocks and ETFs for Shariah compliance across AAOIFI, DJIM, FTSE, MSCI, and S&P standards from any MCP-compatible AI client.

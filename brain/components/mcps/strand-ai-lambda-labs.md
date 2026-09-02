@@ -8,10 +8,12 @@ source_url: https://github.com/strand-ai/lambda-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-14T19:25:30Z"
 ---
 ## What it is
 MCP server `Lambda Labs`, catalogued on PulseMCP. Manages Lambda Labs cloud GPU instances with tools for launching, monitoring, and terminating instances, checking availability across regions and GPU types, and optional notifications via Slack, Discord, or Telegram.

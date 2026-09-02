@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-14T14:40:30Z"
 ---
 ## What it is
 An MCP server for red teaming that enables AI agents to perform port scanning, vulnerability scanning, SSH operations, and Metasploit exploitation through a unified interface.

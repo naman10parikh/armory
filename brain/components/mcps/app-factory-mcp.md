@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T06:50:33Z"
 ---
 ## What it is
 An orchestrator MCP server that takes a plain-language app description and guides agents through a full workflow from intake to deployment, including design, audit, and maintenance.

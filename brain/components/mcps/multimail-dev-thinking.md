@@ -8,10 +8,12 @@ source_url: https://github.com/multimail-dev/thinking-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-07T17:39:45Z"
 ---
 ## What it is
 MCP server `Thinking`, catalogued on PulseMCP. Extract and query cognitive patterns, decision heuristics, and mental models from conversations in a typed knowledge graph.

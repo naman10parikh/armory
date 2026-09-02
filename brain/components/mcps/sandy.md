@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T01:02:54Z"
 ---
 ## What it is
 Provides a sandboxed environment for AI coding agents to execute TypeScript AWS SDK queries securely, with cross-account aggregation and no host credential exposure.

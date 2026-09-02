@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-09-29T10:51:28Z"
 ---
 ## What it is
 An MCP server that integrates with the Things productivity app to create, update, and manage todos and projects using its URL scheme.

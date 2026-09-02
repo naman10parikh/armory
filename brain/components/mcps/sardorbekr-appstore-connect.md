@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-18T14:11:35Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Integrates with Apple's App Store Connect API to manage iOS, macOS, tvOS, and visionOS apps including listing apps and versions, managing beta testing groups and testers, handling localizations and screenshots, managing bundle IDs and registered devices, and accessing pricing and availability data.

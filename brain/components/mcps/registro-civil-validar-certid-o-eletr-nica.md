@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:48Z"
 ---
 ## What it is
 Validates electronic civil registry certificates through official sources via a single read-only MCP tool, supporting any MCP client with pay-per-use credit.

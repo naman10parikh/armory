@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-25T08:21:27Z"
 ---
 ## What it is
 Connects AI agents to SAP BTP platform APIs for service discovery, instance management, and destination queries via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:42:54Z"
 ---
 ## What it is
 Enables analysis of local images through Kimi (Moonshot AI) vision models via the MCP protocol, supporting features like OCR and long context understanding.

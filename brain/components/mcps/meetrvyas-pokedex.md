@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T19:42:12Z"
 ---
 ## What it is
 MCP server `Pokedex`, catalogued on PulseMCP. MCP server for querying Pokémon data via PokeAPI with multi-provider LLM routing and a Streamlit chatbot frontend.

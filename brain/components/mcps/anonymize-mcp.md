@@ -8,11 +8,13 @@ source_url: https://github.com/Buggy1111/anonymize-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:21:26Z"
 ---
 ## What it is
 Anonymize PII and redact text for GDPR using real NLP, not just regex. Czech-first, built on ÚFAL/LINDAT (MasKIT + NameTag NER) with 80+ PII patterns. Also multilingual NER across 35+ languages, morphology (UDPipe), machine translation, and spellcheck. 6 tools. Non-commercial use only. Install: pip 

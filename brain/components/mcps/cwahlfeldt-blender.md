@@ -8,10 +8,12 @@ source_url: https://github.com/cwahlfeldt/blender-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-05T02:54:57Z"
 ---
 ## What it is
 MCP server `Blender`, catalogued on PulseMCP. Integrates with Blender's Python API to enable natural language-driven 3D modeling, scene generation, and animation scripting within the Blender environment.

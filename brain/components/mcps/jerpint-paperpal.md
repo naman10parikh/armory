@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-08T22:40:52Z"
 ---
 ## What it is
 MCP server `PaperPal`, catalogued on PulseMCP. Connects LLMs to academic research sources for semantic paper searches and detailed information retrieval from arXiv and Hugging Face, enabling literature reviews and research exploration

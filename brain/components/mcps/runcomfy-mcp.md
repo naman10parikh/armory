@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:16:55Z"
 ---
 ## What it is
 MCP server for RunComfy's Serverless API (ComfyUI) that enables managing deployments, running inference, and retrieving results from AI assistants like Claude and Cursor.

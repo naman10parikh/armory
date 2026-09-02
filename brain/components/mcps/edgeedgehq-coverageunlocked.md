@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T18:35:28Z"
 ---
 ## What it is
 MCP server `CoverageUnlocked`, catalogued on PulseMCP. AI-powered insurance denial appeals with win probability scoring and payer intelligence.

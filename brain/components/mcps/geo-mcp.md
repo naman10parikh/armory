@@ -8,11 +8,13 @@ source_url: https://github.com/MCPmed/GEOmcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-20T09:47:39Z"
 ---
 ## What it is
 Enables searching and downloading Gene Expression Omnibus (GEO) data from NCBI, including datasets, series, samples, platforms, and profiles, through natural language queries.

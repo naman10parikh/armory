@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-29T18:14:37Z"
 ---
 ## What it is
 Enables AI-powered 1688 wholesale sourcing with intelligent product search, price breakdown, genuine reviews, and supplier background checks, including anti-crawler support.

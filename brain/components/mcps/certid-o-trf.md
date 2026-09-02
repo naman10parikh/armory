@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:52:37Z"
 ---
 ## What it is
 Issues civil, electoral, or criminal certificates from Brazilian Federal Regional Courts (TRF) using CPF/CNPJ and region, via a hosted, read-only MCP server.

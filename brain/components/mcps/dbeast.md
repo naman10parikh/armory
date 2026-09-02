@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:47:51Z"
 ---
 ## What it is
 DBeast MCP is a robust, security-first Model Context Protocol server designed to empower AI coding assistants (like Claude Desktop) with deep PostgreSQL database insights. Instead of just running basic SQL queries, DBeast equips your AI agent with tools to inspect active locks, audit slow queries, a

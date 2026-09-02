@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:32:50Z"
 ---
 ## What it is
 Broker-only credit/lending discovery shim for AI agents, surfacing real lending markets from licensed/established third-party protocols and routing applications.

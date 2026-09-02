@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T16:47:55Z"
 ---
 ## What it is
 MCP server that stream-parses NDJSON log files without loading them into memory — filter by pattern, detect error spikes via Z-score analysis, summarize severity timelines by time window.

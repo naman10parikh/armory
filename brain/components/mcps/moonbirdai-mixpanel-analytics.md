@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-17T17:08:01Z"
 ---
 ## What it is
 MCP server `Mixpanel Analytics`, catalogued on PulseMCP. Track analytics events in Mixpanel, supporting custom events, page views, user profiles, and signups.

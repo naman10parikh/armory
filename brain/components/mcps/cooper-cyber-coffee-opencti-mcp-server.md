@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-29T06:47:59Z"
 ---
 ## What it is
 This MCP server connects Claude Desktop to OpenCTI for AI-augmented threat intelligence analysis, enabling natural language queries and instant, contextualized answers from your threat intelligence database.

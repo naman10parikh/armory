@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-05T15:27:47Z"
 ---
 ## What it is
 MCP server `GitHub Stars`, catalogued on PulseMCP. Integrates with GitHub's GraphQL API to analyze user starred repositories, track starring patterns over time, and extract technology adoption insights with timeline analysis and language distribution breakdowns.

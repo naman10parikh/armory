@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:24:57Z"
 ---
 ## What it is
 Enables chess analysis and move generation using the Stockfish engine via MCP tools, allowing clients to evaluate positions, get best moves, apply moves, and visualize boards.

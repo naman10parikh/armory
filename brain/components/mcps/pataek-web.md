@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-24T20:53:02Z"
 ---
 ## What it is
 MCP server `Web Search & Fetch`, catalogued on PulseMCP. Provides web search via SearXNG and web page fetching via a local Streamable HTTP MCP server with SSRF protection.

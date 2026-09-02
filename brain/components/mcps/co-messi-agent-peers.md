@@ -8,10 +8,12 @@ source_url: https://github.com/co-messi/agent-peers-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-13T04:02:03Z"
 ---
 ## What it is
 MCP server `Agent Peers`, catalogued on PulseMCP. Enables multiple AI agent sessions on the same machine to discover each other and exchange messages via a local SQLite broker.

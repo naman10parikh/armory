@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:09Z"
 ---
 ## What it is
 Consulta o número de motor de veículos ECRVSP em fonte oficial, oferecendo uma ferramenta de somento leitura para agentes de IA e clientes MCP. Permite verificação de dados veiculares por consulta pré-paga, sem necessidade de autenticação por senha.

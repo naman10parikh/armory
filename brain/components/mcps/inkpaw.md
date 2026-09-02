@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T20:01:12Z"
 ---
 ## What it is
 Enables AI agents to generate, edit, validate, and render Word documents programmatically via MCP, ensuring correct OOXML structure and style.

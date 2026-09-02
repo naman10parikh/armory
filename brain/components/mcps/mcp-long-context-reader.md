@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-22T20:42:04Z"
 ---
 ## What it is
 MCP Long Context Reader is a Python-based toolkit designed to overcome the context window limitations and high costs associated with Large Language Models (LLMs) processing extensive documents. It provides a FastMCP server with multiple, powerful strategies for an LLM agent to 'read' and query long 

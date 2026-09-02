@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-22T16:49:30Z"
 ---
 ## What it is
 MCP server that provides AI with documentation for 221 JointQuant API functions and 2,479 data table fields, enabling accurate code generation without hallucination.

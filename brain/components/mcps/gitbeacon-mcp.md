@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:28:10Z"
 ---
 ## What it is
 MCP server for GitBeacon that provides GitHub trend intelligence—daily AI-analyzed digests, top trending repos, and historical trend tracking—with free tools and optional pay-per-call pricing in USDC via x402.

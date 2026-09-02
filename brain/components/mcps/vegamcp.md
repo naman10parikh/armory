@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T02:57:50Z"
 ---
 ## What it is
 A production-grade MCP server providing an autonomous AI agent swarm, persistent semantic memory, browser automation, multi-model reasoning, and 78+ tools for AI-first testing and development.

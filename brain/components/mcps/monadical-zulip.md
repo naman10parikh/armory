@@ -8,10 +8,12 @@ source_url: https://github.com/monadical-sas/zulip-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-28T15:42:51Z"
 ---
 ## What it is
 MCP server `Zulip`, catalogued on PulseMCP. Integrates with Zulip workspaces to enable messaging, channel management, and conversation tracking through a flexible server that runs via npx or Docker.

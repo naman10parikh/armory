@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:38:02Z"
 ---
 ## What it is
 Enables users to interact with the Griptonite indoor climbing app, allowing them to log climbs, browse routes and grades, and retrieve activity feeds and rankings.

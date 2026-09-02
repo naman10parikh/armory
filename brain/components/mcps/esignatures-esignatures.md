@@ -8,10 +8,12 @@ source_url: https://github.com/esignaturescom/mcp-server-esignatures
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-14T13:13:51Z"
 ---
 ## What it is
 MCP server `eSignatures`, catalogued on PulseMCP. Integrates with the eSignatures.com API to simplify contract and document management, enabling creation, querying, and handling of digital contracts and signatures.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T14:04:32Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Stacks blockchain, including account generation, balance checks, network status, block/transaction info, and API status.

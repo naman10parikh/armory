@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-10T02:10:32Z"
 ---
 ## What it is
 A Fastify plugin that enables multi-tenant MCP servers with isolated tools per bearer token, allowing AI assistants to interact with custom services via the Model Context Protocol.

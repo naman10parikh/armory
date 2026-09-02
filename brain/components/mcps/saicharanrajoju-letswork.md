@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-21T21:24:57Z"
 ---
 ## What it is
 MCP server `LetsWork`, catalogued on PulseMCP. Real-time collaborative coding via MCP enabling two developers to share one codebase.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-19T06:13:28Z"
 ---
 ## What it is
 Provides voice summaries after each AI request in Cursor, Cline, or any MCP-supported editor, allowing users to hear what was done and stay informed without staring at the screen.

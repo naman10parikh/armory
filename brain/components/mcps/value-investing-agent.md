@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-29T23:14:08Z"
 ---
 ## What it is
 An AI-powered MCP server for value investors. Analyze stocks using principles from Benjamin Graham and Warren Buffett.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T03:43:53Z"
 ---
 ## What it is
 Connects AI tools to GitHub and local git repositories, enabling natural language management of issues, PRs, code analysis, and workflows.

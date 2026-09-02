@@ -8,11 +8,13 @@ source_url: https://github.com/zyc1419456542/langmuir-probe-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T11:12:01Z"
 ---
 ## What it is
 MCP server for Langmuir probe IV curve analysis, offering 21 tools for preprocessing, feature extraction, mode detection, and visualization of low-temperature plasma data.

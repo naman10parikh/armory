@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:02:27Z"
 ---
 ## What it is
 MCP server for managing Tencent Cloud Lighthouse servers, enabling natural language control of instances, firewall rules, monitoring, and more.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T17:16:56Z"
 ---
 ## What it is
 MCP server `Dynatrace Support`, catalogued on PulseMCP. Assists Dynatrace support engineers with documentation search, case triage, escalation drafting, and investigation planning.

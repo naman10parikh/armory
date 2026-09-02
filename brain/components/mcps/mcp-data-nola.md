@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:56:01Z"
 ---
 ## What it is
 Provides access to New Orleans open data (data.nola.gov) through the Socrata SODA API, enabling querying and retrieval of public datasets using natural language questions.

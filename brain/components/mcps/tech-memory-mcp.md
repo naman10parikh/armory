@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T11:18:37Z"
 ---
 ## What it is
 A MCP server that gives Claude Code and other AI assistants long-term memory by automatically extracting technical knowledge from conversations and retrieving relevant experiences in future sessions.

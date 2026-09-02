@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T17:05:34Z"
 ---
 ## What it is
 MCP server `Open Primitive`, catalogued on PulseMCP. Access 13 US federal data domains including flights, vehicles, food safety, drugs, hospitals, nutrition, jobs, demographics, and SEC filings with cryptographically signed responses.

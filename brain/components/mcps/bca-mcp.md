@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T16:46:09Z"
 ---
 ## What it is
 The canonical crypto MCP server for AI agents, providing access to 3,500+ editorial articles, 200+ entity dossiers, 43 academy lessons, and live market data as native MCP tools with full attribution.

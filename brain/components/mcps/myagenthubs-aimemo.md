@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 1
+forks: 2
+pushed_at: "2026-02-21T01:45:37Z"
 ---
 ## What it is
 Zero-dependency MCP memory server. Single binary, 100% local, no Docker.

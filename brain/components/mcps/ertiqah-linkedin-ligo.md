@@ -12,6 +12,8 @@ stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-28T16:08:53Z"
 ---
 ## What it is
 MCP server `LinkedIn + LiGo`, catalogued on PulseMCP. Integrates with LinkedIn to have post access, scheduling, and voice-tuned generation using LiGo's API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T00:51:45Z"
 ---
 ## What it is
 MCP server `SchemaGuard`, catalogued on PulseMCP. API schema drift monitor for detecting breaking changes in OpenAPI specs.

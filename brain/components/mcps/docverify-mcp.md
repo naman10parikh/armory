@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T19:19:40Z"
 ---
 ## What it is
 MCP server that extracts financial statement figures from PDFs and deterministically verifies all totals before returning them, refusing to disclose any numbers that fail tie-out checks.

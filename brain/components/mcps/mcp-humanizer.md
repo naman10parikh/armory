@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:11:00Z"
 ---
 ## What it is
 Provides psycholinguistic, lexical, structural, and discourse-level rules to help writing sound human-authored. Includes reference readers and a compliance checker.

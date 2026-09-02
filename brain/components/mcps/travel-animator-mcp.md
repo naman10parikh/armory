@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:36:35Z"
 ---
 ## What it is
 Enables AI assistants to create animated travel route videos by describing a trip, planning a route, styling the animation, and rendering MP4 files locally. It supports multiple map styles, 3D vehicles, and real-road routing.

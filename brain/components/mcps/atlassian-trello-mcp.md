@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T10:20:43Z"
 ---
 ## What it is
 MCP server for Trello that enables comprehensive management of boards, cards, lists, labels, checklists, attachments, members, custom fields, and search through natural language.

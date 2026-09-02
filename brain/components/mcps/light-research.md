@@ -8,10 +8,12 @@ source_url: https://github.com/code-hex/light-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-16T14:49:30Z"
 ---
 ## What it is
 MCP server `Light Research`, catalogued on PulseMCP. Provides web content search and extraction through DuckDuckGo and GitHub Code Search APIs, converting web pages into clean Markdown format using browser automation and content sanitization for research and documentation tasks.

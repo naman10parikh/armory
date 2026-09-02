@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:38:58Z"
 ---
 ## What it is
 Custom MCP server for EvaTeam that enables interaction with glossary pages, project tasks, and wiki documents via tools for search, create, update, delete, and more.

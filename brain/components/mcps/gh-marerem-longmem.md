@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T07:01:58Z"
 ---
 ## What it is
 MCP server `Longmem`, catalogued on PulseMCP. Persistent memory for AI coding assistants that stores and retrieves previously solved problems across projects.

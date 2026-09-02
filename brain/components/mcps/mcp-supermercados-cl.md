@@ -8,11 +8,13 @@ source_url: https://github.com/NLACE-COM/mcp-supermercados-cl
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-08-02T02:09:39Z"
 ---
 ## What it is
 Enables searching products, comparing prices, and building optimal shopping lists across major Chilean supermarkets, using your local machine to access real-time prices and loyalty deals.

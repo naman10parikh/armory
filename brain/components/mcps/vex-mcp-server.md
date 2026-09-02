@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T02:40:29Z"
 ---
 ## What it is
 Enables to access VEX Robotics Competition data including teams, events, rankings, skills scores, and forum via RobotEvents API.

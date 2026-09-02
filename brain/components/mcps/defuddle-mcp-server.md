@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T04:56:54Z"
 ---
 ## What it is
 Fetches webpages and returns clean, structured Markdown with metadata (title, author, publish date, description, domain, word count).

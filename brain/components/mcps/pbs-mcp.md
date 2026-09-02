@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:40:20Z"
 ---
 ## What it is
 MCP server for Proxmox Backup Server. Exposes datastore status, snapshot inventory, garbage collection, verify, and prune over the PBS REST API as 13 LLM-callable tools.

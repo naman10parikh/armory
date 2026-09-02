@@ -8,10 +8,12 @@ source_url: https://github.com/veriteknik/pluggedin-random-number-generator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-02T13:57:45Z"
 ---
 ## What it is
 MCP server `Plugged.in Random Number Generator`, catalogued on PulseMCP. Provides cryptographically secure random number generation with seven specialized tools for integers, floats, bytes, UUIDs, strings, random choices, and booleans using Node.js's crypto module for security-sensitive applications like key generation, session tokens, and password creation.

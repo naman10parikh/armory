@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-07T17:43:28Z"
 ---
 ## What it is
 MCP server `Custom Context Transformer`, catalogued on PulseMCP. Transforms unstructured text into structured JSON data using customizable templates with placeholders for extracting key information and generating structured outputs for downstream processing.

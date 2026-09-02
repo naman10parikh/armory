@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:29:18Z"
 ---
 ## What it is
 Enables file operations (upload, download, list, delete) on Cloudflare R2 (S3-compatible) storage, with dedicated APK upload tool.

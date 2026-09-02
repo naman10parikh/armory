@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:04:43Z"
 ---
 ## What it is
 MCP server for DynamicWeb 10 Admin API. Enables full management of item types, fields, pages, paragraphs, products, and API discovery via natural language.

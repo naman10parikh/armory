@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T20:04:30Z"
 ---
 ## What it is
 MCP server that helps resolve Robocop static code analysis errors and warnings via LLM, providing tools to get reports and run format.

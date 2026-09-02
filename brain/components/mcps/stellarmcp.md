@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T01:54:42Z"
 ---
 ## What it is
 MCP server for Stellar: accounts, payments, XDR, Horizon/Soroban RPC, AMM liquidity, SEP anchors, and Soroban operations. Intended for agents and IDE integrations with strict validation and normalized errors.

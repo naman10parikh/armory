@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T12:20:22Z"
 ---
 ## What it is
 A multi-step academic figure agent harness that enables AI agents to plan, generate, evaluate, and iterate publication-grade figures from sources like PMIDs, preprints, or freeform briefs.

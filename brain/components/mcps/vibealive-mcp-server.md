@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-16T18:44:35Z"
 ---
 ## What it is
 Provides code analysis for Next.js projects through the Model Context Protocol, enabling IDE and LLM integration to identify unused files, dead code, and redundant API endpoints.

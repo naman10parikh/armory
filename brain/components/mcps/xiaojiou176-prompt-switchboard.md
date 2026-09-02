@@ -8,10 +8,12 @@ source_url: https://github.com/xiaojiou176-open/multi-ai-sidepanel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T16:17:25Z"
 ---
 ## What it is
 MCP server `Prompt Switchboard`, catalogued on PulseMCP. Local MCP sidecar for comparing AI responses across multiple browser AI workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:35:26Z"
 ---
 ## What it is
 MCP server providing access to n8n documentation and workflow templates, enabling LLM agents to search, read, and retrieve workflow examples for automated workflow creation.

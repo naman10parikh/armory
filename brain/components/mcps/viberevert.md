@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:06:22Z"
 ---
 ## What it is
 Local MCP server for AI agents and vibe coding safety: deterministic risk checks (payments, auth, database, secrets, infrastructure), sessions, checkpoints, policy inspection, and fix prompts. Runs over stdio against a local git repository; no language model judges risk.

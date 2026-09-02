@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:06:01Z"
 ---
 ## What it is
 MCP server `FAS`, catalogued on PulseMCP. USDA Foreign Agricultural Service trade and global agricultural production data via the FAS public API.

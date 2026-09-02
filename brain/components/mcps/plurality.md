@@ -8,10 +8,12 @@ source_url: https://github.com/web3-plurality/plurality-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T06:36:01Z"
 ---
 ## What it is
 MCP server `Plurality`, catalogued on PulseMCP. Universal memory for AI agents — save, organize, and semantically search context across tools and sessions.

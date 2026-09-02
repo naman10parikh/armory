@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-31T09:30:54Z"
 ---
 ## What it is
 MCP server `ChangeDetection`, catalogued on PulseMCP. Monitors websites and tracks change history via ChangeDetection.io through MCP.

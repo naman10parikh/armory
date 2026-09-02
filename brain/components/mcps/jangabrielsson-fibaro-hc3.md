@@ -8,10 +8,12 @@ source_url: https://github.com/jangabrielsson/hc3_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-19T13:50:49Z"
 ---
 ## What it is
 MCP server `Fibaro Home Center 3`, catalogued on PulseMCP. VS Code extension and MCP server that provides complete access to Fibaro Home Center 3 smart home systems through 66+ REST API tools covering device control, scene management, energy monitoring, climate zones, alarm systems, and QuickApp development with intelligent context tools for automation suggestions and device relationship analysis.

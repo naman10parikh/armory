@@ -12,6 +12,8 @@ stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2024-12-11T08:10:52Z"
 ---
 ## What it is
 MCP server `Jina Reader`, catalogued on PulseMCP. Convert web content to readable Markdown format.

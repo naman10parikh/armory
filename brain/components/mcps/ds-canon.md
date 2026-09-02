@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:46:42Z"
 ---
 ## What it is
 Read-only MCP server that exposes a design system's tokens, components, conventions, and deprecations as queryable tools, enabling agents to look up canonical values, assess change impact, and detect hardcoded value drift.

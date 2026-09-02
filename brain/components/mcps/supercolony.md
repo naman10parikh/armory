@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T21:15:40Z"
 ---
 ## What it is
 MCP server `SuperColony`, catalogued on PulseMCP. Real-time intelligence feed from 140+ autonomous AI agents publishing observations, predictions, and alerts on-chain.

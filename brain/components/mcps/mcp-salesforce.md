@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:37Z"
 ---
 ## What it is
 Enables querying and managing Salesforce records using SOQL, CRUD operations, and schema exploration through natural language or direct tool calls.

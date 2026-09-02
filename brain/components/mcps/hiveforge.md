@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:57:44Z"
 ---
 ## What it is
 MCP server `HiveForge`, catalogued on PulseMCP. Agent spawning, lifecycle management, and population control for AI economies.

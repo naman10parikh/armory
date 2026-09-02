@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T07:21:14Z"
 ---
 ## What it is
 Enables AI agents to interact with tasks, spaces, lists, and folders across multiple ClickUp workspaces via the Model Context Protocol.

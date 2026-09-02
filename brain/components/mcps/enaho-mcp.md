@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:38:32Z"
 ---
 ## What it is
 MCP server for ENAHO (Peru's national household survey) microdata. Enables discovery, download, merging, and complex-survey statistical estimation of official poverty and income indicators, with report generation.

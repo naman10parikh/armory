@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T19:21:42Z"
 ---
 ## What it is
 MCP server `DepMap`, catalogued on PulseMCP. Provides read-only access to DepMap gene dependency data for searching gene symbols, computing dependency metrics, and identifying top cell-line dependencies.

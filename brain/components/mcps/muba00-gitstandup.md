@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-02T13:39:31Z"
 ---
 ## What it is
 MCP server `Git Standup`, catalogued on PulseMCP. Generate daily standup notes from git commits across multiple repositories.

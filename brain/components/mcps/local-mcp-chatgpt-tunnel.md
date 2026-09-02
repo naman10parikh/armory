@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:28:17Z"
 ---
 ## What it is
 Enables ChatGPT Developer Mode to securely invoke multiple Windows-local stdio MCP servers through a single gateway, with tool namespacing, path restrictions, and serial execution control. It includes safe-file, image, and download tools for local workspace interaction.

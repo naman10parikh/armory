@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T12:44:43Z"
 ---
 ## What it is
 Enables to interact with Jira AIO Test Case Management System, allowing retrieval of test cases, projects, folders, and search functionality.

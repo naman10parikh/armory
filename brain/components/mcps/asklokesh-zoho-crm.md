@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-31T01:07:43Z"
 ---
 ## What it is
 MCP server `Zoho CRM`, catalogued on PulseMCP. Integrates with Zoho CRM API for managing leads, contacts, deals, and records.

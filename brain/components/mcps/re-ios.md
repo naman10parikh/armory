@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T02:44:26Z"
 ---
 ## What it is
 MCP server for iOS reverse engineering, enabling static analysis of IPA/Mach-O binaries and dynamic instrumentation via Frida for tasks like IAP interception and FairPlay decryption.

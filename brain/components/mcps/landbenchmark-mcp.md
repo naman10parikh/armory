@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:20:42Z"
 ---
 ## What it is
 An MCP server that lets an AI agent run satellite land due-diligence through LandBenchmark. Its analyze_parcel tool takes a lat/lon or GeoJSON geometry and returns a green / caution / walk-away verdict with cited signals — flooding, slope, wildfire, road access, and more — for any parcel.

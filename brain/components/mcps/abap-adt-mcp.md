@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:15:42Z"
 ---
 ## What it is
 Enables AI assistants like Claude Code to directly connect to SAP ABAP systems via the ADT REST API with read/write capabilities, featuring AI-friendly high-level tools and built-in safety measures such as read-only mode, prefix whitelisting, and automatic locking.

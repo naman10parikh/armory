@@ -8,11 +8,13 @@ source_url: https://github.com/Slyke/mcp-technitium-dns
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T23:24:02Z"
 ---
 ## What it is
 Safety-focused MCP server for querying and managing Technitium DNS Server through its HTTP API, with strict input validation and audit logging.

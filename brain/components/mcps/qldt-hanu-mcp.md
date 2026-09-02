@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T18:09:23Z"
 ---
 ## What it is
 MCP server for the QLDT HANU student management system, enabling AI assistants to authenticate and interact with the Hanoi University portal.

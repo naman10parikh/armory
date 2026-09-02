@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T20:17:31Z"
 ---
 ## What it is
 Enables local-first context compression for AI agents, offering tools to compress text, retrieve original content, and get compression statistics.

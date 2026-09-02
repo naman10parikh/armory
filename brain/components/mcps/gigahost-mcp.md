@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:03:46Z"
 ---
 ## What it is
 Exposes the Gigahost REST API (DNS, domains, servers, web hosting, etc.) to MCP clients via a single passthrough tool, enabling natural language management of Gigahost resources.

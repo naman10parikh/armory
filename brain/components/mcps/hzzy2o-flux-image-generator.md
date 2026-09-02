@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-17T01:14:16Z"
 ---
 ## What it is
 MCP server `Flux Image Generator`, catalogued on PulseMCP. Enables text-to-image generation through the Flux API on Cloudflare Workers with customizable parameters for dimensions, aspect ratio, and inference steps.

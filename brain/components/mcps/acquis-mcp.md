@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:56:07Z"
 ---
 ## What it is
 Acquis gives your assistant exact, verifiable access to EU digital regulation. Instead of paraphrasing from training data, it returns the verbatim provision of the current consolidated version — with the full citation (act, article, paragraph, point), its in-force status, the consolidation date, and

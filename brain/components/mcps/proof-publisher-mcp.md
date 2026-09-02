@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:28:12Z"
 ---
 ## What it is
 This MCP server publishes commit-bound proof summaries to a specified HTTPS webhook, featuring fail-closed writes and a clear authority boundary for safe external actions.

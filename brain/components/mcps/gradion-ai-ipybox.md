@@ -8,10 +8,12 @@ source_url: https://github.com/gradion-ai/ipybox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-06-11T05:59:15Z"
 ---
 ## What it is
 MCP server `ipybox`, catalogued on PulseMCP. Provides secure Python code execution in Docker containers with stateful IPython kernels, real-time output streaming, file operations, and network firewall controls for safe AI agent code execution environments.

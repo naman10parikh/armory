@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:01:52Z"
 ---
 ## What it is
 MCP server for Rovee that enables AI clients to publish bilingual content (blog posts, POIs, events, businesses, guides) and upload media to Supabase Storage, returning CDN URLs.

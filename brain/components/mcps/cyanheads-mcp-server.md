@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T23:14:27Z"
 ---
 ## What it is
 Fleet discovery for the cyanheads MCP ecosystem — semantic search + install snippets.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-12T16:37:48Z"
 ---
 ## What it is
 MCP server `MCP Test Server`, catalogued on PulseMCP. Go-based MCP test fixture for gateway testing with 12 tools, HTTP streamable transport, Postgres audit logging, and an embedded React web portal.

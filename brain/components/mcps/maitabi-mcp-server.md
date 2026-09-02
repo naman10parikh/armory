@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:55:05Z"
 ---
 ## What it is
 Enables searching and extracting mountain bus tours, alpine trekking, and general tour information from Maitabi (毎日新聞旅行), providing tour search, details, and calendar tools via MCP.

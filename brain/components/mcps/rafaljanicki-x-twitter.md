@@ -8,10 +8,12 @@ source_url: https://github.com/rafaljanicki/x-twitter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-05-24T10:53:07Z"
 ---
 ## What it is
 MCP server `X Twitter`, catalogued on PulseMCP. Provides a bridge between Twitter's API and conversational interfaces, enabling comprehensive platform interaction including profile management, tweet operations, timeline access, and search functionality.

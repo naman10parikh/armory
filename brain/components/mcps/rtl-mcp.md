@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:25:35Z"
 ---
 ## What it is
 MCP server that gives coding agents right-to-left awareness with tools to lint RTL code, normalize Arabic text, and detect text direction.

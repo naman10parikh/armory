@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-08T14:25:13Z"
 ---
 ## What it is
 MCP server `Terminal Task Tracker`, catalogued on PulseMCP. Terminal-based task management system that enables creating, updating, and organizing tasks by priority and status while developing structured project plans with ordered steps.

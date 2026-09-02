@@ -8,10 +8,12 @@ source_url: https://github.com/xinnan-tech/xiaozhi-autoglm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2025-12-18T06:21:02Z"
 ---
 ## What it is
 MCP server `AutoGLM Phone`, catalogued on PulseMCP. Automates Android phone interactions through vision-language models that capture screenshots, analyze UI elements, and execute touch actions.

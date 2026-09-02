@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T05:51:19Z"
 ---
 ## What it is
 A Bloomberg Terminal you can talk to. Query company relationships — suppliers, customers, competitors, supply chain paths — directly from Claude, Cursor, or any MCP-compatible AI assistant.

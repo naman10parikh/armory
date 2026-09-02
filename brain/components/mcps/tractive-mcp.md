@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T14:20:01Z"
 ---
 ## What it is
 Enables AI assistants to query your pet's location, tracker status, position history, and more via the Tractive GPS pet tracker.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T20:21:57Z"
 ---
 ## What it is
 A secure tool-execution plane for agentic AI that enforces JWT authentication, rate limiting, prompt-injection inspection, and audit logging, while ingesting downstream OpenAPI endpoints as MCP tools.

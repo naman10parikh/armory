@@ -8,10 +8,12 @@ source_url: https://github.com/impecablemee/gtm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-04-20T10:32:03Z"
 ---
 ## What it is
 MCP server `GTM Pipeline`, catalogued on PulseMCP. MCP server for B2B go-to-market pipeline management with 45+ tools covering lead generation, Apollo, email campaigns, LinkedIn automation, and CRM.

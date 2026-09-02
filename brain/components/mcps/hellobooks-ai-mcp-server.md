@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T11:54:34Z"
 ---
 ## What it is
 AI agents that automate bookkeeping, bank reconciliation, and month-end financial close for SMBs and CA firms.

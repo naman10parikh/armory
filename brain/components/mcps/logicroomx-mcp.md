@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T08:26:53Z"
 ---
 ## What it is
 Real-time crypto spread, funding rates, and cash & carry yields across Binance and OKX for AI assistants.

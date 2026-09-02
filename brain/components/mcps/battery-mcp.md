@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-22T04:27:39Z"
 ---
 ## What it is
 Enables LLMs to verify the novelty and validity of invented battery materials, with support for searching and validating against a materials database.

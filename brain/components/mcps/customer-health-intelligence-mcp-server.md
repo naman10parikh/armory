@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:37:29Z"
 ---
 ## What it is
 Provides deterministic mock customer health, product usage, and recommended playbook data via three MCP tools for a Customer Success Orchestrator demo.

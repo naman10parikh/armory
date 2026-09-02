@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T15:47:12Z"
 ---
 ## What it is
 Paid remote MCP for Skybridge that packages apps, validates schemas, runs compatibility tests, and exports manifests with audit-ready JSON evidence.

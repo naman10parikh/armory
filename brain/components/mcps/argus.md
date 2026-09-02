@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T18:16:39Z"
 ---
 ## What it is
 An agentic QA framework that authors, generates, triages, and self-heals Playwright tests for any web app, usable from Claude Code/Desktop as an MCP server or from CI as a CLI.

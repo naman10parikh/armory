@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-25T15:00:41Z"
 ---
 ## What it is
 MCP server `MLflow Prompt Registry`, catalogued on PulseMCP. Bridges MLflow's Prompt Registry with Claude Desktop, enabling direct discovery and use of managed prompt templates with variable substitution capabilities.

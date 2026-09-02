@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T06:29:58Z"
 ---
 ## What it is
 Allows coding agents to securely retrieve curated, sealed Slack message bundles (capsules) via MCP, with full audit and expiration controls.

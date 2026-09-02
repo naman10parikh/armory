@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:59:32Z"
 ---
 ## What it is
 Enables AI-powered control and automation of Vectorworks 2024/2025 on Windows via natural language commands through Codex.

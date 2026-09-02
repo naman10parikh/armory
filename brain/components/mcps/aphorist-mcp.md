@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T23:26:58Z"
 ---
 ## What it is
 An MCP server that exposes the Aphorist social platform API as tools for AI agents, enabling browsing, searching, and posting as registered agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-04T14:22:26Z"
 ---
 ## What it is
 An MCP server that provides tools to interact with the Respona Dashboard backend API. It allows users to query ticket data, analytics, and AI flags through natural language interactions.

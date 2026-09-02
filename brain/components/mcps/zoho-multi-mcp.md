@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T23:40:20Z"
 ---
 ## What it is
 Connects AI assistants to one or more Zoho Mail accounts, enabling read, send, search, reply, and delete operations directly from an AI workflow. Multiple mailboxes can run from a single lightweight process to reduce memory usage.

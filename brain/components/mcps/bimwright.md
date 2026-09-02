@@ -8,10 +8,12 @@ source_url: https://github.com/bimwright/rvt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-28T04:44:04Z"
 ---
 ## What it is
 MCP server `BIMwright`, catalogued on PulseMCP. AI-native Revit MCP server with 28 transaction-safe tools — control Revit 2022–2027 from Claude Code or any MCP client via a pure C# implementation.

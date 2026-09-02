@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2024-12-28T05:12:10Z"
 ---
 ## What it is
 Provides access to Anthropic's AI models through the Model Context Protocol, enabling listing models and sending messages to Claude via a standardized interface.

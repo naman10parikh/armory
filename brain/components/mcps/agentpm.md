@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-10-27T07:43:10Z"
 ---
 ## What it is
 A planning and orchestration system for AI-driven software development that integrates as an MCP server, enabling developers to plan, prioritize, and execute complex projects with context-aware assistance.

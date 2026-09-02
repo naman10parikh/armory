@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:12:18Z"
 ---
 ## What it is
 Lossless context compression for LLMs, packing text into 2x-8x fewer tokens with byte-exact reconstruction. Provides MCP tools to compress files/text and expand exact slices, verified by sha256.

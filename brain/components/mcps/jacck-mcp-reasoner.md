@@ -8,10 +8,12 @@ source_url: https://github.com/jacck/mcp-reasoner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 276
+stars: 277
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2025-01-08T22:46:31Z"
 ---
 ## What it is
 MCP server `MCP Reasoner`, catalogued on PulseMCP. Implements beam search and thought evaluation for structured problem-solving, enabling exploration of multiple solution paths in complex reasoning tasks.

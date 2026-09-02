@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:20:52Z"
 ---
 ## What it is
 MCP server for querying verified data on European private equity & venture capital firms — funds, AUM, portfolio companies, and exits — from the GP Intel database.

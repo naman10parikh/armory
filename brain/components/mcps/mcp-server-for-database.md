@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T16:19:53Z"
 ---
 ## What it is
 A read-only MCP server that enables AI agents to explore database schemas and execute safe queries on PostgreSQL and MySQL.

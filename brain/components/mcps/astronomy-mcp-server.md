@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T21:45:11Z"
 ---
 ## What it is
 Provides astronomical data including ISS tracking, moon phases, NASA APOD, near-Earth objects, exoplanets, space weather, and upcoming celestial events without requiring an API key.

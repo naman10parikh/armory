@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:12:38Z"
 ---
 ## What it is
 Enables browsing, searching, and expanding a knowledge base of markdown nodes with YAML frontmatter from within a chat, supporting document ingest and generative HTML widgets.

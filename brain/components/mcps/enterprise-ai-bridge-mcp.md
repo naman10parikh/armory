@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T20:03:56Z"
 ---
 ## What it is
 An MCP server bridging AI agents with enterprise productivity suites, enabling Jira automation, Microsoft Graph integration, and web research via Tavily.

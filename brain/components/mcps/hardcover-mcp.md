@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T13:01:44Z"
 ---
 ## What it is
 Connects AI assistants to the Hardcover book library, enabling natural language book searches, reading status updates, list management, and library exploration.

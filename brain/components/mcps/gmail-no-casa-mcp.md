@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:11:11Z"
 ---
 ## What it is
 A minimal MCP server for sending plain-text emails and managing Gmail user labels over stdio, using only gmail.send and gmail.labels OAuth scopes.

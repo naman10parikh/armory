@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T22:04:54Z"
 ---
 ## What it is
 Discovers and manages portable agent capabilities (skills and MCP servers) from configurable collections, providing search, inspection, and local installation via CLI and MCP tools.

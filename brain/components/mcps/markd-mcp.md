@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T12:54:17Z"
 ---
 ## What it is
 A server that extracts clean Markdown from web pages using headless Chrome, reducing token usage by up to 90% for AI tools like Claude.

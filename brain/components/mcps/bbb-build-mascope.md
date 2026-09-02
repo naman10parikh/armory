@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T13:44:58Z"
 ---
 ## What it is
 MCP server `Mascope`, catalogued on PulseMCP. Queries World MiniApp reviews and analytics with verified human ratings via World ID.

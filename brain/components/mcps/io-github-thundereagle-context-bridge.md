@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T07:33:26Z"
 ---
 ## What it is
 A zero-dependency MCP memory server for Windows that gives AI coding assistants a shared, persistent memory layer with semantic search.

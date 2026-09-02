@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T14:10:46Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Confluence, enabling search and fetch of pages in real time.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:18:03Z"
 ---
 ## What it is
 Enables AI clients to access Xueqiu's real-time quotes, financial statements, capital flows, and community discussions for A-shares, HK, and US stocks, with 22 tools requiring no setup.

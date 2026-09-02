@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-24T10:50:38Z"
 ---
 ## What it is
 MCP server `Task Orchestrator`, catalogued on PulseMCP. Provides hierarchical task orchestration for software development goals with dot-notation IDs, supporting task creation, completion tracking, and parent-child dependency management where parent tasks automatically complete when all children are finished.

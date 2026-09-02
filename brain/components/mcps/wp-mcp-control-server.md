@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:26:20Z"
 ---
 ## What it is
 MCP server that connects AI clients to WordPress for content management, site settings, Elementor editing, and more via a secure API.

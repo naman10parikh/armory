@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T22:39:05Z"
 ---
 ## What it is
 Enables natural language business intelligence queries on local databases, generating SQL, visualizations, and insights with 5 MCP tools.

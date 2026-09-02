@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T03:44:57Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with access to CrackMapExec/NetExec network penetration testing capabilities via SSH to a Kali Linux host, supporting multiple protocols for enumeration, credential dumping, and command execution.

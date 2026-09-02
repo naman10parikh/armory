@@ -8,11 +8,13 @@ source_url: https://github.com/chadru/assessor-lookup-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T20:15:37Z"
 ---
 ## What it is
 Enables AI agents to look up county assessor public records for properties, check MLS discrepancies against public data, and discover new county assessor sources, all via a local MCP server for real-estate appraisal workflows.

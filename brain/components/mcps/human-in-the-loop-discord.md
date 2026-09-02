@@ -8,10 +8,12 @@ source_url: https://github.com/koba789/human-in-the-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 224
+stars: 230
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-07-02T07:23:40Z"
 ---
 ## What it is
 MCP server `Human-in-the-Loop (Discord)`, catalogued on PulseMCP. Enables human-in-the-loop interactions by creating Discord threads where assistants can request information from users when they need data that isn't publicly available or documented.

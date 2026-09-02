@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:18:41Z"
 ---
 ## What it is
 Amenbo is a Japanese-web-native MCP server for low-impact, token-efficient web collection, enabling agents to fetch, outline, and screenshot web pages while respecting robots.txt and optimizing for Japanese sites.

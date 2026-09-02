@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:04:00Z"
 ---
 ## What it is
 Enables querying and searching logs from Kibana (ELK stack) via MCP, with support for project-based data views, trace ID correlation, and log expansion.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:09:13Z"
 ---
 ## What it is
 Enables searching, ingesting, and querying academic papers using natural language, with integration to arXiv and Semantic Scholar.

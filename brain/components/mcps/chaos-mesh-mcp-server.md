@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T01:51:01Z"
 ---
 ## What it is
 Enables chaos engineering on Kubernetes clusters by providing tools to inject faults like network delays, pod kills, and HTTP delays, along with cluster inspection and chaos lifecycle management.

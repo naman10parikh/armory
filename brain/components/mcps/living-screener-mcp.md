@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T20:51:40Z"
 ---
 ## What it is
 Review-only MCP server for stock, options, and crypto screening, trade planning, risk checks, backtesting, and journaling, designed to work alongside Robinhood's Trading MCP without placing orders.

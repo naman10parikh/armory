@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:55:10Z"
 ---
 ## What it is
 Search, explore, and query open data from Loire-Atlantique (France) via natural language, using ODSQL for filtering, aggregation, and pagination.

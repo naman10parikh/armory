@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:13:30Z"
 ---
 ## What it is
 Enables AI agents to search Mandarake auctions and Suruga-ya for used hobby items, and compare prices between the two platforms in real time.

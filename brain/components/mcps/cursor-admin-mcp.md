@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T07:52:01Z"
 ---
 ## What it is
 A cross-platform MCP server providing secure, user-approved privilege escalation for Cursor agents, with tools for running commands as admin on Windows and root on Linux.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:24:05Z"
 ---
 ## What it is
 An always-on AI chief-of-staff that manages tasks, calendar, notes, habits, and more through chat, with a private markdown vault and multimodal tools.

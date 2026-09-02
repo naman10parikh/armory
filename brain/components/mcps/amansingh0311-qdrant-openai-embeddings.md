@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-17T20:01:50Z"
 ---
 ## What it is
 MCP server `Qdrant with OpenAI Embeddings`, catalogued on PulseMCP. Connects AI systems to Qdrant vector databases for semantic search using OpenAI embeddings, enabling contextual document retrieval and knowledge base querying.

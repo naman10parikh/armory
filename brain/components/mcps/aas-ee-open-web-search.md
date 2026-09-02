@@ -8,10 +8,12 @@ source_url: https://github.com/aas-ee/open-websearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1302
+stars: 1774
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 186
+pushed_at: "2026-08-28T04:49:22Z"
 ---
 ## What it is
 MCP server `Open Web Search`, catalogued on PulseMCP. Provides web search capabilities across multiple search engines including Bing, Baidu, Brave, DuckDuckGo, and Exa, plus specialized content extraction from Chinese platforms like CSDN, Zhihu, and LinuxDo for research workflows and technical content retrieval.

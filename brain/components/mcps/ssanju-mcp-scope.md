@@ -8,10 +8,12 @@ source_url: https://github.com/ssanju/mcp-scope
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-02T10:44:51Z"
 ---
 ## What it is
 MCP server `MCP Scope`, catalogued on PulseMCP. Passive debugging proxy for MCP that captures and analyzes JSON-RPC traffic between clients and servers, with TUI exploration, statistics, and session replay.

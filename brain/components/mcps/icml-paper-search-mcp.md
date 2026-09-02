@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:10:33Z"
 ---
 ## What it is
 MCP server for searching ICML 2026 papers with hybrid retrieval (dense + BM25), session management to avoid duplicates, and persistent state.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T10:34:34Z"
 ---
 ## What it is
 Local-first air-quality MCP for AI agents: AirGradient, AirThings, PurpleAir, IQAir and Awair.

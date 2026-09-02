@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T19:54:17Z"
 ---
 ## What it is
 Consulta dados cadastrais de CNPJ (razão social, sócios, CNAE) e descobre processos judiciais da empresa e sócios no Diário de Justiça Eletrônico Nacional.

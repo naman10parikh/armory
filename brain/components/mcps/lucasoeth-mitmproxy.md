@@ -8,10 +8,12 @@ source_url: https://github.com/lucasoeth/mitmproxy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-05T11:44:04Z"
 ---
 ## What it is
 MCP server `Mitmproxy`, catalogued on PulseMCP. Integrates mitmproxy for network traffic analysis, debugging, and API testing.

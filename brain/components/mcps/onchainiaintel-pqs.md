@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T15:01:43Z"
 ---
 ## What it is
 MCP server `PQS`, catalogued on PulseMCP. Evaluates LLM prompts before execution with a quality score, letter grade, percentile, and dimensional breakdown.

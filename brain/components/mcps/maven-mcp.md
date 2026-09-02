@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-14T16:35:43Z"
 ---
 ## What it is
 Enables searching Maven Central artifacts, retrieving versions, and analyzing dependencies via natural language.

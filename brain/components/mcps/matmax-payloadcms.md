@@ -8,10 +8,12 @@ source_url: https://github.com/disruption-hub/payloadcmsmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-03-15T03:43:25Z"
 ---
 ## What it is
 MCP server `Payload CMS`, catalogued on PulseMCP. Provides validation, query, and code generation services for Payload CMS 3.0 development, enabling developers to validate collections, execute SQL-like queries against validation rules, and scaffold complete projects with Redis integration for persistence.

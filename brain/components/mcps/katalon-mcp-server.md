@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-03T13:09:51Z"
 ---
 ## What it is
 Bridges Katalon Studio with Claude AI for intelligent QA automation, enabling project analysis, test case creation, execution, and object repository management.

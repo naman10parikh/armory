@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T22:59:32Z"
 ---
 ## What it is
 A local MCP server that indexes codebases using Tree-sitter AST parsing and LanceDB, enabling AI models to search across repositories with sub-second latency.

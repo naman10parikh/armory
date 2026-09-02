@@ -8,10 +8,12 @@ source_url: https://github.com/ark-forge/mcp-eu-ai-act
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T13:40:24Z"
 ---
 ## What it is
 MCP server `EU AI Act Compliance Scanner`, catalogued on PulseMCP. Scans codebases for AI framework usage and checks compliance against EU AI Act requirements with risk classification and remediation guidance.

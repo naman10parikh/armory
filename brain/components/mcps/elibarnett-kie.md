@@ -8,10 +8,12 @@ source_url: https://github.com/elibarnett/kie-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T14:23:41Z"
 ---
 ## What it is
 MCP server `kie.ai`, catalogued on PulseMCP. Unified interface for 45+ image models, 70+ video models, and 20+ audio generation tools via the kie.ai API.

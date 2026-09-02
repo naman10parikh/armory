@@ -8,10 +8,12 @@ source_url: https://github.com/singlestore-labs/mcp-server-singlestore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-06-12T11:31:31Z"
 ---
 ## What it is
 MCP server `SingleStore`, catalogued on PulseMCP. Enables natural language interactions with SingleStore databases for executing SQL queries, managing workspaces, creating virtual environments, and handling scheduled jobs through direct database access.

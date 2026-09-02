@@ -8,10 +8,12 @@ source_url: https://github.com/ab498/code-context-provider-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-22T17:29:19Z"
 ---
 ## What it is
 MCP server `Code Context Provider`, catalogued on PulseMCP. Analyzes project directories to extract code structure and symbols using Tree-sitter parsers, providing tools for generating directory trees and performing deep code analysis of JavaScript, TypeScript, and Python files.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T07:45:05Z"
 ---
 ## What it is
 MCP server `Code Indexer`, catalogued on PulseMCP. Local source code indexer for Python and Java with embedded SQLite storage.

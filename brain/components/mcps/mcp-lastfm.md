@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-08T22:24:24Z"
 ---
 ## What it is
 Provides 41 read-only tools to search and browse Last.fm data, including artists, albums, tracks, user scrobble history, and charts.

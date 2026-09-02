@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T17:51:02Z"
 ---
 ## What it is
 Enables searching and downloading Spanish court rulings from the CENDOJ database, with automatic captcha resolution via Claude's vision, returning PDFs, full text, ECLI, and metadata.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:16:44Z"
 ---
 ## What it is
 MCP server for the AbleSign digital signage API, enabling AI agents to manage screens, media, playlists, and workspaces through natural language.

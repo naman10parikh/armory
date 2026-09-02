@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-28T07:31:25Z"
 ---
 ## What it is
 MCP server `Amadeus`, catalogued on PulseMCP. Integrates with Amadeus API to enable flight searches, price analysis, and multi-city trip planning with built-in caching for rate limit handling

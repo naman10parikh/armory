@@ -8,10 +8,12 @@ source_url: https://github.com/anarkh-lee/universal-db-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 801
+stars: 925
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 91
+pushed_at: "2026-03-17T08:35:16Z"
 ---
 ## What it is
 MCP server `Universal Database`, catalogued on PulseMCP. Provides unified database connectivity across PostgreSQL, MySQL, Oracle, Redis, and 13 additional databases with standardized operations for structured queries and key-value storage.

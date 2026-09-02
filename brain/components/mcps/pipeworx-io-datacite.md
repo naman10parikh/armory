@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:58:03Z"
 ---
 ## What it is
 MCP server `DataCite`, catalogued on PulseMCP. DataCite DOI search and metadata for research datasets, software, and other non-paper scholarly outputs via Pipeworx.

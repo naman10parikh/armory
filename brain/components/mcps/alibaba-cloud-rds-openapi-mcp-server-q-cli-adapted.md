@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-24T17:02:02Z"
 ---
 ## What it is
 MCP server for RDS Services via OPENAPI, optimized for Amazon Q Developer CLI integration.

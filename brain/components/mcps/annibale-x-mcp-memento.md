@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T23:26:56Z"
 ---
 ## What it is
 MCP server `Memento by annibale-x`, catalogued on PulseMCP. Persistent memory and context management across sessions.

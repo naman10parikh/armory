@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-22T22:22:17Z"
 ---
 ## What it is
 MCP server `Isparta University OBS`, catalogued on PulseMCP. Integrates with Isparta University's student information system using web scraping to retrieve course schedules, grades, transcripts, and academic records for automated data access and analysis.

@@ -8,10 +8,12 @@ source_url: https://github.com/mbarinov/okx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-16T11:09:48Z"
 ---
 ## What it is
 MCP server `OKX`, catalogued on PulseMCP. Integrates with OKX cryptocurrency exchange to provide read-only access to account portfolios, trading positions, order history, and account summaries for portfolio management and trading analytics.

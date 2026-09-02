@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 65
+pushed_at: "2026-08-27T15:35:59Z"
 ---
 ## What it is
 Enables AI assistants to read and modify Power BI Desktop files programmatically, including querying models, creating measures, and managing relationships through natural language.

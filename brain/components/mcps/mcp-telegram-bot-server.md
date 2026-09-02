@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:11:58Z"
 ---
 ## What it is
 MCP server that gives LLMs access to Telegram Bot API, enabling them to read recent messages and reply to users via persistent local storage and MCP tools.

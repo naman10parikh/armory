@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-18T22:38:49Z"
 ---
 ## What it is
 MCP server `Scrapybara (Virtual Ubuntu)`, catalogued on PulseMCP. Provides a bridge to virtual Ubuntu desktops for browsing the web, running code, and automating tasks through a sandboxed environment with bash command execution and natural language control.

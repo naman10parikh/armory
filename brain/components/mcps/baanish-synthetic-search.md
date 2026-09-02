@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T05:44:04Z"
 ---
 ## What it is
 MCP server `Synthetic Search`, catalogued on PulseMCP. Web search via Synthetic API with page text extraction and truncation.

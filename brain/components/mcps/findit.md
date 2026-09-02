@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T17:39:39Z"
 ---
 ## What it is
 Enables web search and content extraction using Google's search engine, with customizable parameters for result count, content type, time range, and domain filtering.

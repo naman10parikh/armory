@@ -8,10 +8,12 @@ source_url: https://github.com/kimlawtech/korean-contracts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-29T13:29:09Z"
 ---
 ## What it is
 MCP server `Korean Contracts`, catalogued on PulseMCP. Privacy-preserving Korean contract generation and review tool that masks PII before processing with Claude, then restores original values locally.

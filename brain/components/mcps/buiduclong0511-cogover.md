@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T00:39:41Z"
 ---
 ## What it is
 MCP server `Cogover`, catalogued on PulseMCP. Integrates with the Cogover enterprise CRM and process automation platform to retrieve task details and extract Git branch information from development activities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:36:23Z"
 ---
 ## What it is
 Read-only MCP server for the Ukrainian state auction platform Prozorro.Sale. It enables users to search auctions, retrieve detailed information, timelines, results, documents, and analyze market trends through natural language.

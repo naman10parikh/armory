@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T12:05:41Z"
 ---
 ## What it is
 Query your Juniper Mist network in natural language directly from Claude Desktop, providing read-only access to network inventory, clients, alarms, and more via the Mist API.

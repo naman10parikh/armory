@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:02:18Z"
 ---
 ## What it is
 An MCP server that generates ranked, token-budgeted code structure maps using Tree-sitter AST analysis and PageRank, enabling AI agents to quickly understand unfamiliar codebases.

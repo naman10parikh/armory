@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:32:36Z"
 ---
 ## What it is
 The first and only MCP server for PLC (Programmable Logic Controller) intelligence. Give any AI agent direct access to industrial automation data — ladder logic, tag databases, cross-references, fault root cause analysis, and sequence blockers

@@ -8,10 +8,12 @@ source_url: https://github.com/antvis/mcp-server-chart
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4097
+stars: 4347
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 415
+pushed_at: "2026-08-27T01:50:14Z"
 ---
 ## What it is
 MCP server `AntV Chart Generator`, catalogued on PulseMCP. Enables AI to generate data visualizations using AntV's charting capabilities, supporting various chart types from structured data without requiring direct knowledge of visualization libraries.

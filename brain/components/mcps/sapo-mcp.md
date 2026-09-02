@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-30T19:50:36Z"
 ---
 ## What it is
 Model Context Protocol server for Sapo.vn POS & e-commerce platform, providing 105 tools across 4 modes for managing orders, inventory, customers, and more.

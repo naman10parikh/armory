@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-05T02:40:56Z"
 ---
 ## What it is
 MCP server `Journal`, catalogued on PulseMCP. Provides personal journaling capabilities through markdown file storage with time-stamped entries, automatic hashtag extraction, full-text search across entries, and a web viewer interface for browsing historical journal data.

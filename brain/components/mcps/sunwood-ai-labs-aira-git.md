@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-22T14:20:24Z"
 ---
 ## What it is
 MCP server `AIRA Git`, catalogued on PulseMCP. Integrates with Git repositories to enable Gitflow workflows.

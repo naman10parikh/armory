@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 6
+forks: 4
+pushed_at: "2025-12-28T06:52:08Z"
 ---
 ## What it is
 Fetch real-time stock prices from Stooq without API keys. Supports global markets (US, Japan, UK, Germany).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T18:10:40Z"
 ---
 ## What it is
 Manages agentic workflow spend through budget quotes, policy gates, approvals, receipts, and cost evidence exports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:12:38Z"
 ---
 ## What it is
 Read-only MCP server connecting Codex to Neo4j for querying projects, clients, tasks, and SEO audit results.

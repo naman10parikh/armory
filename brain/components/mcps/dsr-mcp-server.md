@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:57:34Z"
 ---
 ## What it is
 Provides AI assistants with tools to query, manipulate, and analyze Deep State Representation (DSR) graphs for robot perception and scene understanding.

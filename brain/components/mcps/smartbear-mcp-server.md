@@ -8,11 +8,13 @@ source_url: https://github.com/SmartBear/smartbear-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 44
+pushed_at: "2026-09-01T15:09:44Z"
 ---
 ## What it is
 Enables AI assistants to interact with SmartBear's suite of testing and monitoring tools including BugSnag, Swagger, Reflect, and more through natural language, allowing querying of testing data, analysis of performance metrics, and management of test automation.

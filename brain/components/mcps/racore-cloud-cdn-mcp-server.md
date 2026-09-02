@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:25:41Z"
 ---
 ## What it is
 Enables AI assistants to manage Racore Cloud CDN accelerated domains, including domain operations, configuration, certificate management, content management, statistics, and work orders.

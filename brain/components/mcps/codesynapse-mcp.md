@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T18:17:44Z"
 ---
 ## What it is
 An MCP server for code intelligence that maps source code into a knowledge graph, enabling AI tools to understand architecture and structure rather than just individual files.

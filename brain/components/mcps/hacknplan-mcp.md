@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T01:25:08Z"
 ---
 ## What it is
 Enables Claude to interact with HacknPlan project management via the MCP protocol. Provides tools for managing projects, work items, boards, milestones, time logs, design models, and cross-project portfolio views.

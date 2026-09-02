@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T08:52:36Z"
 ---
 ## What it is
 MCP server for Solana NFT market data via Magic Eden. Paid with x402 USDC micropayments.

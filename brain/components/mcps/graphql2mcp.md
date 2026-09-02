@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T19:28:38Z"
 ---
 ## What it is
 Convert GraphQL schemas and endpoints into Model Context Protocol (MCP) servers.

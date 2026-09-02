@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-06T15:19:42Z"
 ---
 ## What it is
 MCP server `LandiWetter`, catalogued on PulseMCP. Integrates with LandiWetter to provide detailed Swiss weather forecasts including temperature ranges, precipitation probability, wind conditions, and sunshine duration.

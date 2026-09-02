@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T00:14:53Z"
 ---
 ## What it is
 Local-first MCP server that gives Claude Code web search, page reading, video transcription, and image analysis — without paid API keys. Runs SearXNG + whisper.cpp natively on Apple Silicon for zero-cost, low-latency research workflows.

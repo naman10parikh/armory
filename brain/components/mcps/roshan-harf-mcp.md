@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T13:26:18Z"
 ---
 ## What it is
 A self-hostable MCP server for Roshan AI's Persian speech service, Harf, enabling transcription, forced alignment, real-time streaming, and speaker analysis through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:20:51Z"
 ---
 ## What it is
 An MCP server for web content extraction, providing tools to fetch clean text, extract links, query by CSS selector, and search the web via DuckDuckGo.

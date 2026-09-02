@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:08:57Z"
 ---
 ## What it is
 Hosted MCP server that exposes Flowya tasks, spaces, and weekly goals to AI clients like Cursor, Claude, and Cowork with per-user authentication and isolation.

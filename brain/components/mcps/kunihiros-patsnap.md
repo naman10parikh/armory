@@ -8,10 +8,12 @@ source_url: https://github.com/kunihiros/patsnap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-31T07:34:43Z"
 ---
 ## What it is
 MCP server `PatSnap (Patent Analytics)`, catalogued on PulseMCP. Integrates with PatSnap's patent analytics API to provide structured access to patent trends, competitive intelligence, and innovation research through specialized tools for technology scouting and landscape analysis.

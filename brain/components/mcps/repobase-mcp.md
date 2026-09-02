@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-31T11:37:57Z"
 ---
 ## What it is
 MCP server for indexing and searching Git repositories with AI. Enables tools like listing repos, semantic search, file globbing, and regex grep.

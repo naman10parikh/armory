@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:28Z"
 ---
 ## What it is
 Enables users to consult and download second copies (2ª via) of Comgás gas bills from the official source via a read-only tool, with prepaid per-query credit.

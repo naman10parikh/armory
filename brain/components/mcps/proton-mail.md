@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:28:01Z"
 ---
 ## What it is
 A safe-by-default MCP server that gives Claude access to your Proton Mail through Proton Mail Bridge's localhost IMAP/SMTP. Sending requires human approval and destructive operations are limited.

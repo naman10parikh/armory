@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:03Z"
 ---
 ## What it is
 This MCP server enables querying official ANVISA (Brazilian health regulatory agency) process information through a hosted, read-only, pay-per-use tool that works with any MCP client over HTTP.

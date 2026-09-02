@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T13:16:05Z"
 ---
 ## What it is
 A lightweight MCP server that lets agents send alerts across multiple channels (email, Slack, Telegram, SMS, webhooks) to notify humans about important events.

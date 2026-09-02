@@ -8,10 +8,12 @@ source_url: https://github.com/joshuarileydev/simulator-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2024-12-13T18:24:21Z"
 ---
 ## What it is
 MCP server `iOS Simulator`, catalogued on PulseMCP. Control iOS simulators for automated testing and app deployment.

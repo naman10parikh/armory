@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:51:13Z"
 ---
 ## What it is
 MCP server that profiles local data files (CSV, Parquet, JSON, Excel) and returns compact structured summaries with data-quality flags, enabling AI agents to understand datasets without seeing raw rows.

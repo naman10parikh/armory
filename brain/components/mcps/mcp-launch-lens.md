@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T19:45:25Z"
 ---
 ## What it is
 Scores MCP servers for launch-readiness across trust, tool UX, docs, observability, marketplace fit, and partner narrative, and generates partner briefs and launch path comparisons.

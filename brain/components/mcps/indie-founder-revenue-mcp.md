@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T00:38:01Z"
 ---
 ## What it is
 Aggregates revenue across Lemon Squeezy + Gumroad + Polar + Stripe into a single Claude-queryable view. Six tools: summary_mrr, top_customers, refund_signal, recent_orders, export_csv_for_tax (Ukrainian FOP format), health. Lemon Squeezy adapter live-validated against production.

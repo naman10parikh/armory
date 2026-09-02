@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:04:37Z"
 ---
 ## What it is
 Enables AI agents to autonomously search, evaluate, and install skills from the skills.sh catalog.

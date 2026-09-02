@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T13:01:29Z"
 ---
 ## What it is
 Standardizes XBRL financial data from US SEC and European ESEF filings for LLM agents, enabling querying normalized financial facts like revenue and total assets across issuers and taxonomies.

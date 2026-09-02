@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-24T10:16:31Z"
 ---
 ## What it is
 Enables access to Fronius solar inverter data via the MCP protocol, allowing real-time monitoring of energy production, consumption, and battery storage through natural language.

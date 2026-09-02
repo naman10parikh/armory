@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:53:11Z"
 ---
 ## What it is
 Enables querying the Brazilian Superior Electoral Court (TSE) for electoral crimes certificates of individuals using personal data like name, CPF, voter ID, and birth date.

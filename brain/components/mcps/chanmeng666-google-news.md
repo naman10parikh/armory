@@ -8,10 +8,12 @@ source_url: https://github.com/chanmeng666/server-google-news
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 126
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-07-08T21:13:22Z"
 ---
 ## What it is
 MCP server `Google News`, catalogued on PulseMCP. Integrates with Google News via SerpAPI to enable querying and retrieving current news articles, headlines, and related information for applications like news aggregation and trend analysis.

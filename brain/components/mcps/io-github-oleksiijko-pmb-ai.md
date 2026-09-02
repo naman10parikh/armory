@@ -8,11 +8,13 @@ source_url: https://github.com/oleksiijko/pmb
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 296
+stars: 278
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-08-24T03:10:02Z"
 ---
 ## What it is
 Local-first memory for AI coding agents using SQLite, enabling persistent recall of decisions, lessons, and project context without cloud or API keys.

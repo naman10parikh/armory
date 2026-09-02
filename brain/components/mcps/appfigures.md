@@ -8,11 +8,13 @@ source_url: https://github.com/appfigures/cli
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-19T00:38:47Z"
 ---
 ## What it is
 Exposes Appfigures CLI commands as MCP tools for querying app metrics, reviews, and store data directly from MCP clients like Claude Desktop and Cursor.

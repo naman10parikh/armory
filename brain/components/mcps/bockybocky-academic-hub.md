@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-02T13:08:16Z"
 ---
 ## What it is
 MCP server `Academic Hub`, catalogued on PulseMCP. MCP server providing access to academic research resources, enabling AI assistants to search and retrieve scholarly content.

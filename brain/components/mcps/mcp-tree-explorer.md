@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-17T01:12:41Z"
 ---
 ## What it is
 A lightweight MCP tool for directory tree visualization in Cursor, with smart filtering and customizable ignore/keep patterns.

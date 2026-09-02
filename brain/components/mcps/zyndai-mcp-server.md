@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T18:40:28Z"
 ---
 ## What it is
 MCP server for AgentDNS that allows Claude or any MCP client to register a persona, discover and call other agents, and handle incoming messages with human-in-the-loop approval.

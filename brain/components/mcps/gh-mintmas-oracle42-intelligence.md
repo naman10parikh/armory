@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T22:25:30Z"
 ---
 ## What it is
 MCP server `Oracle42 Intelligence`, catalogued on PulseMCP. AI-powered threat intelligence, smart contract auditing, and cybersecurity OSINT.

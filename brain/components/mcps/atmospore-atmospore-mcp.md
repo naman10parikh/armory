@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, environment-nature]
 stars: 1
+forks: 0
+pushed_at: "2026-05-03T14:34:06Z"
 ---
 ## What it is
 Per-species pollen forecasts at any point on Earth, seven days ahead, via the Atmospore API. Tools: `get_pollen`, `get_top_species`, `get_area_average`, `list_supported_species`. Free tier (100 calls/day, no credit card). Hosted variant at `mcp.atmospore.com`.

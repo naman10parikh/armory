@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T23:29:34Z"
 ---
 ## What it is
 MCP server `Google Docs & Sheets`, catalogued on PulseMCP. Self-hosted Google Docs and Sheets integration with 28 tools for document creation, editing, styling, and collaboration.

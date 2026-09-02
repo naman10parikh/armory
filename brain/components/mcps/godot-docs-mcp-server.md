@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:49:15Z"
 ---
 ## What it is
 Enables searching and reading Godot documentation as Markdown. Provides tools to search for terms and retrieve matching documentation pages through the Model Context Protocol.

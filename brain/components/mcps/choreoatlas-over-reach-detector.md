@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T07:13:52Z"
 ---
 ## What it is
 MCP server `Over-Reach Detector`, catalogued on PulseMCP. Detects when AI coding agents modify files beyond their declared task scope by auditing file changes against declared scope patterns.

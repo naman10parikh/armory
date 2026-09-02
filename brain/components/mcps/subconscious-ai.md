@@ -8,10 +8,12 @@ source_url: https://github.com/subconscious-ai/ghostshell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T03:28:17Z"
 ---
 ## What it is
 MCP server `Subconscious AI`, catalogued on PulseMCP. Run conjoint experiments and causal research through AI-powered behavioral simulations

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T15:52:46Z"
 ---
 ## What it is
 An intelligent MCP server that enables AI agents to act as sophisticated music curators for self-hosted Navidrome libraries, focusing on quality, discovery, and non-destructive management.

@@ -8,10 +8,12 @@ source_url: https://github.com/hummingbot/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2026-03-23T17:29:00Z"
 ---
 ## What it is
 MCP server `Hummingbot`, catalogued on PulseMCP. Automated multi-exchange cryptocurrency trading framework

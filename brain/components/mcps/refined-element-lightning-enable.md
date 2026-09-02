@@ -8,10 +8,12 @@ source_url: https://github.com/refined-element/lightning-enable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T22:03:49Z"
 ---
 ## What it is
 MCP server `Lightning Enable`, catalogued on PulseMCP. Enable AI agents to make Lightning Network payments, access L402 APIs, and manage Bitcoin wallets.

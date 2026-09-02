@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T01:58:49Z"
 ---
 ## What it is
 MCP server for local codebase analysis, enabling semantic code search, impact analysis, and pack-scoped retrieval with cited file:line results.

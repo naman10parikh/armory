@@ -8,10 +8,12 @@ source_url: https://github.com/getfounded/mcp-tool-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-07-25T00:38:24Z"
 ---
 ## What it is
 MCP server `Unified Tool Kit`, catalogued on PulseMCP. Provides a unified Docker-based server with over 100 integrated tools spanning file operations, web search, browser automation, data analysis, and document management through a modular architecture that encapsulates domain knowledge in vertical agents for complex workflows.

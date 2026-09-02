@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:05:32Z"
 ---
 ## What it is
 Provides coding agents with 19 pay-per-call developer utilities, npm supply-chain security checks, and Base blockchain lookups, paid via USDC on Base using x402. No API key needed—payment acts as authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T06:07:34Z"
 ---
 ## What it is
 MCP server for Mailplug email workflows and JANDI notifications, providing tools to build and send JANDI messages via webhook.

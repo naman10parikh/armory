@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:34:09Z"
 ---
 ## What it is
 MCP server for the Kicksite martial-arts school management API, enabling natural language read and write operations on students, prospects, memberships, classes, attendance, and more.

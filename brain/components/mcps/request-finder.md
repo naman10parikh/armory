@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T05:34:36Z"
 ---
 ## What it is
 Enables Claude Code to search and inspect live network traffic from Chrome, including HTTP requests, WebSocket frames, and GraphQL calls, with tools to filter history, retrieve full request details, and control capture settings.

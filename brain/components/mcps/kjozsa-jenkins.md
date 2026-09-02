@@ -8,10 +8,12 @@ source_url: https://github.com/kjozsa/jenkins-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-07T11:18:25Z"
 ---
 ## What it is
 MCP server `Jenkins`, catalogued on PulseMCP. Integrates with Jenkins CI/CD operations, enabling job listing, build triggering, and status checking for streamlined DevOps automation and pipeline management.

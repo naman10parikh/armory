@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:06:51Z"
 ---
 ## What it is
 An MCP server for organizing YouTube playlists via the YouTube Data API v3, enabling playlist and playlist item creation, listing, updating, and deletion through natural language.

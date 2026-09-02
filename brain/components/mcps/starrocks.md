@@ -8,10 +8,12 @@ source_url: https://github.com/starrocks/mcp-server-starrocks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 171
+stars: 186
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 64
+pushed_at: "2026-08-31T02:25:58Z"
 ---
 ## What it is
 MCP server `StarRocks`, catalogued on PulseMCP. Integrates with StarRocks databases to enable efficient data querying and manipulation through customizable connection settings and support for both read and write operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:38:32Z"
 ---
 ## What it is
 Integrates Zoho Projects, Git, and SonarQube to automate task management, branch creation, code quality checks, and reporting for React developers.

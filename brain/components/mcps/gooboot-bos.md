@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-05T19:44:27Z"
 ---
 ## What it is
 MCP server `BOS (Basic Orchestration System)`, catalogued on PulseMCP. Modular server framework for building and managing extensible MCP services through a configuration-based approach that simplifies module loading and registration.

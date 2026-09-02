@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:38:15Z"
 ---
 ## What it is
 Enables headless control of a DOSBox-X guest, including memory reading and patching, framebuffer capture, input injection, and live code tracing without interfering with the host desktop.

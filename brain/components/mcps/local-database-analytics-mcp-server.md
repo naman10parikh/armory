@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:39:46Z"
 ---
 ## What it is
 Enables AI assistants like Claude to query, analyze, and summarize local SQLite e-commerce databases using natural language through 11 tools, schema resources, and pre-built analytical prompts.

@@ -8,10 +8,12 @@ source_url: https://github.com/feiskyer/mcp-kubernetes-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-02-04T05:25:58Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Enables direct Kubernetes cluster management through kubectl command execution, providing a bridge for real-time resource administration within conversations.

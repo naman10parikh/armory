@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-05T12:18:13Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Provides browser automation capabilities through a simple API, enabling execution of web tasks using natural language instructions

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:20:18Z"
 ---
 ## What it is
 Open-source MCP server that turns any CMS backend into an AI-agent-ready content management system. It provides tools for content CRUD, idea management, and publication tracking, with safety features requiring human approval for publishing.

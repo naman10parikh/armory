@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:46:41Z"
 ---
 ## What it is
 Enables AI agents to compose and send Gmail emails and append text to Google Docs using the Model Context Protocol.

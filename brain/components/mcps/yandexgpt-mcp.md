@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:05:04Z"
 ---
 ## What it is
 MCP server for Yandex GPT API enabling text generation, embeddings, classification, summarization, and tokenization.

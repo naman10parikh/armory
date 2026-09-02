@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-20T17:57:14Z"
 ---
 ## What it is
 Enables AI assistants to read, create, search, update, and delete Apple Notes through natural language conversation, using JXA to communicate directly with the Notes app.

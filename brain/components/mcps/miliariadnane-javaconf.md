@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-09T21:48:04Z"
 ---
 ## What it is
 MCP server `Java Conferences`, catalogued on PulseMCP. Provides access to Java conference information by parsing GitHub-hosted markdown files, enabling filtering by year to discover upcoming events, track CFP deadlines, and find conferences in specific locations.

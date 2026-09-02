@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:30:21Z"
 ---
 ## What it is
 An MCP server for KLH University Hyderabad that provides tools for CGPA calculation, schedule conflict checking, study group and course search, club and exam info, library lookup, and resources for campus FAQ and curriculum requirements.

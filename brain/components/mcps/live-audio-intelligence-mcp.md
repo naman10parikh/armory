@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T18:42:59Z"
 ---
 ## What it is
 Enables real-time transcription and heuristic vocal stress analysis of live financial webcasts, providing an LLM with rolling transcripts and a stress score.

@@ -8,10 +8,12 @@ source_url: https://github.com/eresussecurity/eresus-sentinel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-15T17:37:53Z"
 ---
 ## What it is
 MCP server `Eresus Sentinel`, catalogued on PulseMCP. Security scanning platform for AI and LLM ecosystems with MCP proxy, schema validation, and 48+ security probes.

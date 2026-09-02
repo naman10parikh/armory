@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T22:30:07Z"
 ---
 ## What it is
 Provides tools to read PDFs, extract images, convert between PDF and DOCX, create DOCX from text, and generate PDFs from DOCX, text, or HTML.

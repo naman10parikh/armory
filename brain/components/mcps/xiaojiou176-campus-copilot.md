@@ -8,10 +8,12 @@ source_url: https://github.com/xiaojiou176-open/opencampus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T15:36:49Z"
 ---
 ## What it is
 MCP server `Campus Copilot`, catalogued on PulseMCP. Read-only MCP for Campus Copilot BFF local server and imported workspace snapshots.

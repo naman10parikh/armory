@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T02:23:55Z"
 ---
 ## What it is
 A research-only MCP server providing read-only data, analytics, and intelligence for Polymarket BTC 5-minute Up/Down markets, enabling LLM agents to query market snapshots, performance metrics, and strategy candidates.

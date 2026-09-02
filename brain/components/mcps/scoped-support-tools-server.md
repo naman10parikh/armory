@@ -8,11 +8,13 @@ source_url: https://github.com/AIwithhassan/agentic-ai-security
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-30T20:01:11Z"
 ---
 ## What it is
 Protects AI support tools with Descope JWT authentication and scope-based authorization, enabling secure customer support operations like refunds with granular access control.

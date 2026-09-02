@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:03:52Z"
 ---
 ## What it is
 Serves engineering directives (AGENT.md and other markdown documents) to all Claude Code instances on a machine via a single Docker container, ensuring consistent code standards without copying files between projects.

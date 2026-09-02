@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:23:42Z"
 ---
 ## What it is
 Enables natural language access to Leaseir operational data from Airtable, Jira, and MongoDB. Supports querying orders, equipment, service incidents, and real-time telemetry.

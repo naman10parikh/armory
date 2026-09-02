@@ -8,11 +8,13 @@ source_url: https://github.com/vohongtho/code-intel-platform
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-27T02:39:15Z"
 ---
 ## What it is
 Provides LLMs with code intelligence tools like relationship explanation, PR impact analysis, and health reports via the Model Context Protocol.

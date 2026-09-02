@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T22:13:54Z"
 ---
 ## What it is
 Enables AI assistants to trade on MetaTrader 5 using natural language, supporting account management, order placement, and real-time market data.

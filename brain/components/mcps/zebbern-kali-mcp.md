@@ -8,11 +8,13 @@ source_url: https://github.com/zebbern/zebbern-kali-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-09-02T01:22:51Z"
 ---
 ## What it is
 A Docker-based MCP server that grants AI agents direct access to a comprehensive Kali Linux penetration testing toolkit through an isolated container environment.

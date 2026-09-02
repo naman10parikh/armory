@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:57:02Z"
 ---
 ## What it is
 Provides deterministic search, load, and execution operations for progressively disclosing agent capabilities (skills, MCP, CLI, HTTP/API, RAG). Enables scope-bound reference access with budgets and audit.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:05:43Z"
 ---
 ## What it is
 A local MCP bridge that lets ChatGPT control opencode sessions for code modification, file reading, and repository management on your own computer.

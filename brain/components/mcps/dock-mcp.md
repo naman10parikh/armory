@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:18Z"
 ---
 ## What it is
 Conecta sua conta Dock a agentes de IA via Open Finance Brasil para consultar saldos, extratos, faturas de cartão e investimentos em linguagem natural, com segurança e apenas leitura.

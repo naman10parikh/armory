@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:42:29Z"
 ---
 ## What it is
 Multi-provider image generation MCP server that enables image generation from Claude Desktop, Claude Code, or any MCP client using OpenAI, Google Gemini, Stable Diffusion, or a placeholder provider.

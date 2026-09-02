@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T00:57:13Z"
 ---
 ## What it is
 MCP server for Anchorr, an agent-native CRM, providing 25 tools for managing contacts, companies, deals, sequences, activities, and enrichment with a shared cache and per-call audit.

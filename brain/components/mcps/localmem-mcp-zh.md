@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:32:16Z"
 ---
 ## What it is
 A fully local, offline Chinese-optimized MCP memory server using SQLite and local embeddings, enabling MCP clients to store, semantically search, recall, and count memories without any API calls.

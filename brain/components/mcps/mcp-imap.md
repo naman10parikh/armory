@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:46:13Z"
 ---
 ## What it is
 A minimal MCP server for reading and sending emails via IMAP/SMTP, supporting multiple accounts in a single instance with zero external dependencies.

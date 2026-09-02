@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T02:15:22Z"
 ---
 ## What it is
 MCP server `Excel xlwings COM`, catalogued on PulseMCP. Excel automation via xlwings COM with support for DRM-protected files, live sessions, and VBA macros.

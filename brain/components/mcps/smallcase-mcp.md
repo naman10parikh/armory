@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:27:17Z"
 ---
 ## What it is
 Read-only MCP server for querying public smallcase data (catalog, returns, risk metrics, stocks, mutual funds) via natural language. No API key required.

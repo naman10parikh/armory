@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T19:37:48Z"
 ---
 ## What it is
 Runtime governance proxy for MCP tool calls. Inspects tool results for prompt injection and capability abuse before they reach your agent, blocking attacks that exploit the MCP trust boundary.

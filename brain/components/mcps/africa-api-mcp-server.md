@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:32:33Z"
 ---
 ## What it is
 Gives Claude direct access to the Africa API for comprehensive data on all 54 African nations, including economic indicators, markets, trade, government, elections, and policies.

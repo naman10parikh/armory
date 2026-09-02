@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-18T04:52:33Z"
 ---
 ## What it is
 Provides MCP clients with 60+ APIs for B2B data enrichment, lead generation, email verification, company intelligence, and agentic GTM workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T15:45:02Z"
 ---
 ## What it is
 An MCP server that enables AI agents to send and receive Bitcoin over the Lightning Network using NWC or LND backends.

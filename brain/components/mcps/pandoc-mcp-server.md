@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-04-06T15:44:54Z"
 ---
 ## What it is
 Enables document conversion between various formats (Markdown, DOCX, HTML, PDF, etc.) using Pandoc, allowing AI agents to request conversions via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:50:23Z"
 ---
 ## What it is
 A local STDIO MCP server for MySQL with multi-datasource support, providing tools to list datasources, test connections, and execute SQL with configurable roles and safety limits.

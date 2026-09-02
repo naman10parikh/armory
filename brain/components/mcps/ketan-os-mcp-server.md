@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:14:08Z"
 ---
 ## What it is
 Provides transactional intelligence for AI agents, enabling safe tool execution with pre-flight invariant checks, sub-second filesystem snapshots/rollback, causal tracing, belief contradiction detection, and 15 native MCP tools for Claude Code.

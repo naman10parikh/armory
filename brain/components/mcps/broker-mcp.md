@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:59:00Z"
 ---
 ## What it is
 Read-only MCP server that connects a Broker trading account to AI clients, providing account data, positions, orders, and market data via 21 tools, with a mock sandbox mode for evaluation.

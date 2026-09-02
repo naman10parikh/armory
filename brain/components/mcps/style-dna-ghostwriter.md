@@ -8,11 +8,13 @@ source_url: https://github.com/Kaifazad/Style-DNA-Ghostwriter
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T20:01:06Z"
 ---
 ## What it is
 Analyzes a codebase to extract its coding conventions and exposes tools via MCP for AI agents to retrieve live style rules, ensuring generated code matches the project's unwritten style.

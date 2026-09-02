@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T18:47:34Z"
 ---
 ## What it is
 Provides AI assistants with access to real-time space weather data and forecasts from NOAA's Space Weather Prediction Center, enabling queries and interpretations of geomagnetic storms, solar flares, and related indices.

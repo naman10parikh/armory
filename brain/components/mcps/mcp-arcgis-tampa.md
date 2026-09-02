@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:41:21Z"
 ---
 ## What it is
 Search and query City of Tampa open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services, with tools to discover datasets and retrieve schemas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:43:55Z"
 ---
 ## What it is
 Enables bounded, read-only DNS lookups and health checks against allowlisted Technitium servers with strict safety constraints.

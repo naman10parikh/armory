@@ -8,10 +8,12 @@ source_url: https://github.com/berrykuipers/mcp_services_radarr_sonarr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-10-25T12:31:01Z"
 ---
 ## What it is
 MCP server `Radarr and Sonarr`, catalogued on PulseMCP. Integrates with Radarr and Sonarr to enable natural language querying and filtering of movie and TV show collections by various criteria like year, watched status, and actors.

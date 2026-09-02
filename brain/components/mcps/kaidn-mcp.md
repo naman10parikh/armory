@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:53:53Z"
 ---
 ## What it is
 Investigate fraud directly from Claude, Cursor, or any MCP-compatible client. Analyze suspicious activity with clear, evidence-backed verdicts. Pivot from a single signup to every account sharing the same device, IP address, or email inbox. Check entities against a cross-operator abuse network, revi

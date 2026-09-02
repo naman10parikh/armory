@@ -8,11 +8,13 @@ source_url: https://github.com/fmadore/iwac-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T09:26:10Z"
 ---
 ## What it is
 A read-only MCP server for the Islam West Africa Collection (IWAC) digital archive, providing 37 tools to search and analyze newspaper articles, publications, references, and more.

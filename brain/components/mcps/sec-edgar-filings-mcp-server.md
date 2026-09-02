@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T08:08:26Z"
 ---
 ## What it is
 Enables AI agents to download, convert, and analyze SEC EDGAR filings with tools for downloading filings, converting HTML to PDF, and transforming PDF to Markdown.

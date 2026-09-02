@@ -8,11 +8,13 @@ source_url: https://github.com/Anselmoo/mcp-server-analyzer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-30T20:48:44Z"
 ---
 ## What it is
 An MCP server that performs comprehensive Python code analysis using Ruff, ty, and Vulture for linting, type checking, and dead code detection.

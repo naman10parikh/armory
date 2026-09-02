@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-20T08:53:57Z"
 ---
 ## What it is
 Enables AI agents to manage and search data in Redis using natural language. Supports hashes, lists, sets, sorted sets, streams, JSON, and vector search.

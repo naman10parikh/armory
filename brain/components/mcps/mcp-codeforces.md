@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:49:13Z"
 ---
 ## What it is
 Enables AI agents to access Codeforces public data (users, contests, problems, etc.) via natural language or direct tool calls through Pipeworx gateway.

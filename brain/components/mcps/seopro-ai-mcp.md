@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:58:09Z"
 ---
 ## What it is
 Run the full agency SEO loop from your AI assistant: Search Console insights, prioritized actions, article generation, CMS publishing, indexing, and performance measurement.

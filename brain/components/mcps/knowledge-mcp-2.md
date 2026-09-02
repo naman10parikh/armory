@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T20:38:58Z"
 ---
 ## What it is
 A high-precision local knowledge base server enabling AI agents to navigate, search, and reason about complex codebases using hybrid semantic, lexical, and graph retrieval.

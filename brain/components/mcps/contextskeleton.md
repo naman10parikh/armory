@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T00:51:32Z"
 ---
 ## What it is
 An MCP server that folds function and class implementations into structural skeletons while preserving signatures, interfaces, and docstrings, reducing tokens by up to 90%+ for AI agents. Exposes tools to get repository skeletons, unfold specific symbols on demand, and retrieve exact token and promp

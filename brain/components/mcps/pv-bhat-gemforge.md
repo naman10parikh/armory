@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-16T07:45:45Z"
 ---
 ## What it is
 MCP server `GemForge (Google Gemini)`, catalogued on PulseMCP. Provides a specialized server that connects to Google's Gemini models with optimized tools for search, reasoning, code analysis, and file operations, automatically selecting the best model based on task requirements.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:47:41Z"
 ---
 ## What it is
 Enables LLM agents to query live data from Anker Solix solar systems (Solarbank, expansion batteries, Smartmeter) via natural language, such as current solar production or battery state of charge.

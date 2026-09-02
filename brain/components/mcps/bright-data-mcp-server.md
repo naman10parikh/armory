@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T03:53:22Z"
 ---
 ## What it is
 Enables AI agents to browse and extract data from any public website via Bright Data's cloud infrastructure, handling proxy rotation, CAPTCHA solving, and JavaScript rendering.

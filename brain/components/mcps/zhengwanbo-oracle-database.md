@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-20T07:38:27Z"
 ---
 ## What it is
 MCP server `Oracle Database`, catalogued on PulseMCP. Connects to Oracle databases with intelligent caching and lazy loading to provide schema exploration, query execution with explain plans, and cross-schema operations for efficient database management without loading entire schemas upfront.

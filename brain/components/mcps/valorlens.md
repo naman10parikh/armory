@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:22:10Z"
 ---
 ## What it is
 MCP server for Valorant esports analytics that exposes structured metrics and database query tools, enabling AI-assisted match analysis, player profiling, scouting reports, and coaching insights.

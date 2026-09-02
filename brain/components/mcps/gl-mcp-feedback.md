@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T03:25:39Z"
 ---
 ## What it is
 提供交互式反馈MCP服务器，通过Web UI实现AI与用户的确认流程，提高开发效率并节省平台成本。

@@ -8,11 +8,13 @@ source_url: https://github.com/ComputingVictor/MCP-CENDOJ
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-08T10:33:20Z"
 ---
 ## What it is
 Enables users to search Spanish judicial rulings and extract text from resolutions using natural language queries.

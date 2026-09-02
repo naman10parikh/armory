@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-05T03:19:50Z"
 ---
 ## What it is
 MCP server `Realtime Crypto (CoinCap)`, catalogued on PulseMCP. Provides real-time cryptocurrency data through the CoinCap API, offering detailed exchange information and current rates with robust error handling and automatic retries.

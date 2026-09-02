@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:14:17Z"
 ---
 ## What it is
 Enables e-commerce customer service agents to retrieve product catalog and return/delivery policy documents through multi-source RAG with RRF fusion, exposing product_search and policy_qa tools for grounded, cited responses.

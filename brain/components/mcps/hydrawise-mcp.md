@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T03:17:49Z"
 ---
 ## What it is
 MCP server for Hunter Hydrawise irrigation controllers, exposing the Hydrawise REST API as tools for AI agents to manage watering schedules and controller settings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T12:17:25Z"
 ---
 ## What it is
 Local MCP server enabling ChatGPT to reference large files by path, manage long-running jobs, and register local resources like screenshots and logs without modifying source files.

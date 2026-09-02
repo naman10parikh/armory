@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T04:47:08Z"
 ---
 ## What it is
 An MCP server that gives Claude a full HTTP client — make requests, compare environments, infer TypeScript types from live responses, and work directly with your existing Postman collections and environments.

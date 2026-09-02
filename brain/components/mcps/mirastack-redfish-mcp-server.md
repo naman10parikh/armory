@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:04:46Z"
 ---
 ## What it is
 Enables secure, governed interaction with DMTF Redfish-compliant BMCs (iDRAC, iLO, etc.) via MCP, with read-only default and write operations gated behind explicit write-mode elevation and dry-run confirmations.

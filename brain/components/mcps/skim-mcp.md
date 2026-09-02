@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T06:56:59Z"
 ---
 ## What it is
 Provides code compression and analysis tools for Claude Code, reducing token usage while preserving code structure.

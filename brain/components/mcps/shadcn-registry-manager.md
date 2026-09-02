@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-18T13:01:22Z"
 ---
 ## What it is
 MCP server `shadcn/ui Registry Manager`, catalogued on PulseMCP. Integrates with the shadcn/ui component registry to initialize projects, add components, and manage configurations remotely through CLI operations like init and add, supporting both official and custom registries for automating React/Next.js project setup and component library management.

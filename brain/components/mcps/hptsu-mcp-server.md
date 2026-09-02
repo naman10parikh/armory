@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:44:06Z"
 ---
 ## What it is
 Search the hpt.su registry of Russian/EAEU vehicle compliance documents — type approvals, conformity certificates, declarations and type-approval notifications.

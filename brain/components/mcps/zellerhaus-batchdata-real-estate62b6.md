@@ -8,10 +8,12 @@ source_url: https://github.com/zellerhaus/batchdata-mcp-real-estate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-21T15:19:02Z"
 ---
 ## What it is
 MCP server `BatchData Real Estate`, catalogued on PulseMCP. Provides real estate data management through batch processing operations for handling property listings, market analytics, and property management workflows efficiently at scale.

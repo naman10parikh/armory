@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-03T12:01:09Z"
 ---
 ## What it is
 MCP server `PHP Clock`, catalogued on PulseMCP. Provides current timestamp and date/time information with timezone support through a lightweight PHP-based server built with Symfony components, offering both STDIO and Server-Sent Events transport methods with JWT authentication and rate limiting.

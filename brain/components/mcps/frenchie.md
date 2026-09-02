@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T10:01:22Z"
 ---
 ## What it is
 Frenchie is an MCP server that gives coding agents file and multimodal capabilities such as reading PDFs and images, transcribing audio/video, extracting Office/CSV files to Markdown, and generating images from text prompts. It also includes a structured workflow from requirement to release called F

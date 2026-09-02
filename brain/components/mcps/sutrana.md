@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:49:36Z"
 ---
 ## What it is
 Local-first ambient memory for Mac that captures screen content, indexes it on-device, and provides MCP tools for searching memory, timeline, and open tasks.

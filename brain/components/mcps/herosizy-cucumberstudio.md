@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-28T06:05:36Z"
 ---
 ## What it is
 MCP server `CucumberStudio`, catalogued on PulseMCP. Integrates with CucumberStudio's testing platform for managing BDD projects, scenarios, action words, and test executions through dual stdio and HTTP transports.

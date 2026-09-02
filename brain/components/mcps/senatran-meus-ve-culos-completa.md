@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:08Z"
 ---
 ## What it is
 MCP server for querying official Brazilian vehicle data (SENATRAN), offering a read-only consultation tool via hosted API with prepaid credits.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T13:13:47Z"
 ---
 ## What it is
 MCP server `GlobKurier Shipping`, catalogued on PulseMCP. Track shipments and search shipping products across DPD, InPost, DHL, FedEx, UPS, and GLS via the GlobKurier API.

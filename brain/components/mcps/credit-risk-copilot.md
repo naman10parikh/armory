@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:17:01Z"
 ---
 ## What it is
 A natural-language interface to a credit risk database, with SQL guardrails that enforce read-only, allowlisted access to tables and columns.

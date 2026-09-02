@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-13T06:52:00Z"
 ---
 ## What it is
 Connect any AI agent to your personal Telegram messages through the official Business API, enabling message history search and draft replies with optional manual approval.

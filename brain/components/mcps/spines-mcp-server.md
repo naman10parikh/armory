@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T14:06:57Z"
 ---
 ## What it is
 Enables AI assistants to search books, manage reading lists, and access book collections and bookshelf data from SPINES via the Model Context Protocol.

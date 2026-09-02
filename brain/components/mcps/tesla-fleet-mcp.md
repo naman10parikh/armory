@@ -8,11 +8,13 @@ source_url: https://github.com/supervised-nl/tesla-fleet-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:35:10Z"
 ---
 ## What it is
 Minimal stdio MCP server for Tesla Fleet API, enabling vehicle listing, state checks, live data, nearby chargers, wake, and command tools (climate, charge, lock) via optional tesla-http-proxy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T22:10:41Z"
 ---
 ## What it is
 Tamper-evident audit logging for AI decisions. Three tools (record_decision, verify_decision, list_decisions) write to a regulator-grade ledger built on AWS S3 Object Lock with 7-year retention. Designed for EU AI Act Article 12 and FCA SS1/23 evidence requirements. Try zero-config: npx audit-ledger

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T12:29:13Z"
 ---
 ## What it is
 Enables querying 1.6M+ Dubai Land Department sales transactions and 9.5M+ Ejari rental contracts with flexible filters by area, property type, bedrooms, and date range.

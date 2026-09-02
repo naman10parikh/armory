@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:19:32Z"
 ---
 ## What it is
 Live Iran exchange rates, gold, crypto, and Toman/Rial market data for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:13:32Z"
 ---
 ## What it is
 Uindow ships a local MCP server (npx -y @uindow/cli mcp, stdio) that lets Claude, Cursor, VS Code, or any MCP client drive a real signed Chromium/Electron browser with genuine OS-level input. Tools exposed: app_docs, app_start, app_stop, app_status, list, create, update, delete, start, stop, status,

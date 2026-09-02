@@ -8,10 +8,12 @@ source_url: https://github.com/pinkpixel-dev/mem0-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 95
+stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-25T10:22:49Z"
 ---
 ## What it is
 MCP server `Mem0 (Autonomous Memory)`, catalogued on PulseMCP. Provides autonomous memory capabilities for storing, retrieving, and utilizing conversation information across sessions, with automatic extraction and categorization of user data for enhanced contextual interactions.

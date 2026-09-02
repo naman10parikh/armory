@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T07:59:05Z"
 ---
 ## What it is
 Generates complete, runnable MCP server projects from natural-language tool descriptions, including schema, implementation, tests, README, and license. It enables AI agents to scaffold standalone MCP servers ready to install and run.

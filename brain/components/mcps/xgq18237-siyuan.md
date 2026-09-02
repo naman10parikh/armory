@@ -8,10 +8,12 @@ source_url: https://github.com/xgq18237/siyuan_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 63
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-06-29T14:40:41Z"
 ---
 ## What it is
 MCP server `SiYuan`, catalogued on PulseMCP. Integrates with SiYuan note-taking application to enable complete knowledge management operations including note creation, editing, searching, and organization through TypeScript-based API connectivity.

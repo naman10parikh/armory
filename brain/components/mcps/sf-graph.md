@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T21:24:38Z"
 ---
 ## What it is
 Maps Salesforce metadata into a Neo4j graph database, enabling AI agents to reason about schema and generate accurate SOQL queries.

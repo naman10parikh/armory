@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:53:39Z"
 ---
 ## What it is
 Enables automating materials science research workflows through a multi-agent AI platform, including literature discovery, knowledge extraction, simulation, and document generation.

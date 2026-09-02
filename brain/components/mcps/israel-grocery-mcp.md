@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T15:14:59Z"
 ---
 ## What it is
 Enables cross-store price comparison and recipe-driven cart automation for Israeli grocery stores Shufersal and Tiv Taam, with an extensible architecture for additional stores.

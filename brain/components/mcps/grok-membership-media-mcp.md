@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:46:38Z"
 ---
 ## What it is
 Turns paid ChatGPT and Grok memberships into a website media tool for Claude and Codex agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T16:13:14Z"
 ---
 ## What it is
 A FastMCP-powered server integrating Google Ads and Facebook Ads APIs with automatic OAuth 2.0 authentication, enabling GAQL queries, keyword research, campaign management, and performance analytics.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T13:57:27Z"
 ---
 ## What it is
 MCP server `SkillFM BYOK Vault`, catalogued on PulseMCP. BYOK vault management, provider API key guidance, usage visibility, and SkillFM Beacon health checks.

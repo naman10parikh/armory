@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:37:40Z"
 ---
 ## What it is
 Provides full Sprout Social API coverage for AI-powered social media management, enabling analytics, inbox messages, listening, publishing, media uploads, and support cases through natural language.

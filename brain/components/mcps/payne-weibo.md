@@ -8,10 +8,12 @@ source_url: https://github.com/qinyuanpei/mcp-server-weibo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-08-26T03:28:00Z"
 ---
 ## What it is
 MCP server `Weibo`, catalogued on PulseMCP. Bridges to China's Weibo social media platform, enabling user search, profile retrieval, and post extraction through the mobile API with pagination support for monitoring trends and researching content.

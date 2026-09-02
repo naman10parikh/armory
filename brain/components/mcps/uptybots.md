@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T13:32:40Z"
 ---
 ## What it is
 MCP server `UptyBots`, catalogued on PulseMCP. Official UptyBots integration for managing uptime monitors, incidents, and performance statistics.

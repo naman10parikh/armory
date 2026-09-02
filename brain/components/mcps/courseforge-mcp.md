@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:46:47Z"
 ---
 ## What it is
 Builds entire Canvas courses from a syllabus, generating IMS Common Cartridge files and importing them via the Canvas content-migrations API.

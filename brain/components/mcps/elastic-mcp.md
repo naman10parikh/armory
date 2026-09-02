@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T05:31:29Z"
 ---
 ## What it is
 A Model Context Protocol server for Elasticsearch, enabling search, index inspection, and cluster information tools with optional write tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/patrickdappollonio/mcp-netutils
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-11T00:33:02Z"
 ---
 ## What it is
 MCP server `Domain Tools (WHOIS + DNS)`, catalogued on PulseMCP. Provides DNS and WHOIS query capabilities for AI assistants. It enables AI models to perform DNS lookups both via local DNS resolvers and remote DNS-over-HTTPS services.

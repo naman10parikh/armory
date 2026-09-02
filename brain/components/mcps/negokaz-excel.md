@@ -8,10 +8,12 @@ source_url: https://github.com/negokaz/excel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 960
+stars: 1017
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 128
+pushed_at: "2025-07-19T13:09:21Z"
 ---
 ## What it is
 MCP server `Excel`, catalogued on PulseMCP. Integrates with Microsoft Excel to enable reading and writing of text data in xlsx files for spreadsheet manipulation and analysis tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T08:20:47Z"
 ---
 ## What it is
 MCP server that provides RAG-based access to Neoforge Mod API documentation, enabling LLMs to query the latest Neoforge modding knowledge.

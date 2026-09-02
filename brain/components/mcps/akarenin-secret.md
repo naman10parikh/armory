@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-25T04:48:55Z"
 ---
 ## What it is
 MCP server `Secret Management`, catalogued on PulseMCP. Store and write secrets to .env files without exposing values

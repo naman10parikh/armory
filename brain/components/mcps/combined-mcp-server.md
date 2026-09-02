@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:47:31Z"
 ---
 ## What it is
 A self-hosted MCP server that gives AI agents controlled access to a machine: filesystem, shell, background processes, git, web fetching and persistent key-value memory.

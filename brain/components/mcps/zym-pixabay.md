@@ -8,10 +8,12 @@ source_url: https://github.com/zym9863/pixabay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-22T04:02:35Z"
 ---
 ## What it is
 MCP server `Pixabay`, catalogued on PulseMCP. Provides a bridge to the Pixabay image search API, enabling dynamic image retrieval with flexible filtering options like image type, orientation, and result count.

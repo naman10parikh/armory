@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-26T17:12:36Z"
 ---
 ## What it is
 MCP server `Ozmium for S&box`, catalogued on PulseMCP. SSE-based integration for the S&box game editor with 31 tools for scene management, asset queries, and editor control.

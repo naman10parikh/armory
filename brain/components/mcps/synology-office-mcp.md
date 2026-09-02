@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-23T05:42:04Z"
 ---
 ## What it is
 Self-hosted MCP server that exposes Synology Drive, Spreadsheet, MailPlus, and Calendar as structured tools for AI agents, enabling file, spreadsheet, email, and calendar management via natural language.

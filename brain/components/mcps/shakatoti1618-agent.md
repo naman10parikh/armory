@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:29:14Z"
 ---
 ## What it is
 MCP server that enables AI agents to perform GitHub operations (repos, issues, commits, PRs) via natural language, integrated with hosts like Antigravity.

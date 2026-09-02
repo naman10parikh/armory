@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:13:56Z"
 ---
 ## What it is
 MCP server for managing OLX.ba / PIK.ba shops, enabling listing management, category/location queries, sponsor operations, and image uploads via natural language.

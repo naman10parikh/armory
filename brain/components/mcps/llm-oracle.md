@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T09:28:54Z"
 ---
 ## What it is
 Provides real-time LLM pricing and availability data as an MCP server, enabling AI agents to make optimal model routing decisions at inference time with cited pricing sources.

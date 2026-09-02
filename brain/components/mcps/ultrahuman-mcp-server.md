@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-08T12:21:30Z"
 ---
 ## What it is
 Provides access to Ultrahuman health and fitness data through standardized MCP tools, enabling AI assistants to retrieve metrics like sleep, movement, heart rate, and glucose.

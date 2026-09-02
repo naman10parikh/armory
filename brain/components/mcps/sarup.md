@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:16:28Z"
 ---
 ## What it is
 Enables context compression for Claude Code with Thai language support, reducing token usage by 50-88% while preserving full recoverability of original content.

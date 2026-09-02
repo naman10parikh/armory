@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T00:16:06Z"
 ---
 ## What it is
 MCP server `Tempo`, catalogued on PulseMCP. Manages Tempo time-tracking data including worklogs, plans, and timesheet approvals for Claude.

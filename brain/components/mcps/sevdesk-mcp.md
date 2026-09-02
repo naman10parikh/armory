@@ -8,11 +8,13 @@ source_url: https://github.com/sajadghawami/sevdesk-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-10T19:18:55Z"
 ---
 ## What it is
 Integrates with the sevdesk German accounting API, providing 76 tools for full CRUD operations across contacts, invoices, vouchers, orders, credit notes, bank accounts, transactions, parts, tags, addresses, and communication ways.

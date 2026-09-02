@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T16:39:53Z"
 ---
 ## What it is
 Enables AI assistants like Cursor and Claude Desktop to interact with Slack workspaces, allowing message sending, channel reading, user management, and file operations through natural language.

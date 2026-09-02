@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:23:14Z"
 ---
 ## What it is
 This MCP server enables complete control of Blender from any MCP client, offering 221 dedicated tools and a universal bridge for 1,500–2,500+ bpy.ops operators across 33 modules for modeling, VFX, rendering, simulation, animation, compositing, VSE, and Grease Pencil.

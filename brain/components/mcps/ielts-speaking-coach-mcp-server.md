@@ -8,11 +8,13 @@ source_url: https://github.com/lindsey-labs/ielts-speaking-coach
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-12T03:55:38Z"
 ---
 ## What it is
 A local MCP server that enables IELTS speaking practice by managing training selections, session reviews, practice history, and dashboard data through tools like initialize_ielts_workspace, set_training_selection, save_session_review, and get_dashboard_data, all stored locally on the learner's compu

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:58:50Z"
 ---
 ## What it is
 Enables LLMs to create animated, narrated tours of GitHub pull requests, with a local browser viewer showing diffs and code highlights while speaking the narration aloud.

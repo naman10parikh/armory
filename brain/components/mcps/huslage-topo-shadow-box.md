@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T18:39:35Z"
 ---
 ## What it is
 MCP server `Topo Shadow Box`, catalogued on PulseMCP. Generates 3D-printable topographic shadow boxes from real terrain and OpenStreetMap data.

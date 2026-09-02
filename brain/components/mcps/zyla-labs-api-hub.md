@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-09T12:51:47Z"
 ---
 ## What it is
 MCP server `Zyla API Hub`, catalogued on PulseMCP. Provides a gateway through the Zyla API Hub that enables REST API requests with configurable methods, headers, parameters, and request bodies for integrating any external service without requiring specific connectors.

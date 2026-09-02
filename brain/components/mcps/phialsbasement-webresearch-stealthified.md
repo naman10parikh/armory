@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-09T23:00:55Z"
 ---
 ## What it is
 MCP server `Web Research`, catalogued on PulseMCP. Enables AI web browsing through Google search, webpage extraction, and screenshot capture tools with session management for in-depth online research and content analysis.

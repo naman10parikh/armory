@@ -8,10 +8,12 @@ source_url: https://github.com/wyre-technology/itglue-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-08-31T11:35:59Z"
 ---
 ## What it is
 MCP server `IT Glue`, catalogued on PulseMCP. Provides AI access to IT Glue for managing organizations, configurations, passwords, and documentation assets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:25:29Z"
 ---
 ## What it is
 Enables retrieving data from 韭研公社 (jiuyangongshe.com) including timelines, hot rankings, article search, and community feeds, with optional login-protected features like stock movements and follow feeds, all without a browser.

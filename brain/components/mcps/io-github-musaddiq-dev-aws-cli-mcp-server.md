@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T06:24:03Z"
 ---
 ## What it is
 A Python MCP server that lets MCP-compatible clients inspect and operate AWS through the AWS CLI, with command execution, suggestions, region lookup, and caller identity checks.

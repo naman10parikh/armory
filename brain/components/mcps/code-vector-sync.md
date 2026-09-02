@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T20:16:32Z"
 ---
 ## What it is
 Enables semantic code search over a local codebase using Qdrant vector embeddings and OpenAI embeddings, allowing natural language queries from MCP-compatible clients like Claude Desktop.

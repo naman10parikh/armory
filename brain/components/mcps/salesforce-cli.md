@@ -8,10 +8,12 @@ source_url: https://github.com/salesforcecli/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 410
+stars: 465
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 109
+pushed_at: "2026-08-31T15:29:00Z"
 ---
 ## What it is
 MCP server `Salesforce CLI`, catalogued on PulseMCP. Integrates with Salesforce development tools to provide org management, metadata deployment, SOQL queries, code analysis, and development lifecycle automation through modular provider architecture.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 31
+forks: 10
+pushed_at: "2025-07-10T00:42:33Z"
 ---
 ## What it is
 Access data, web scraping, and document conversion APIs by [Dumpling AI](https://www.dumplingai.com/)

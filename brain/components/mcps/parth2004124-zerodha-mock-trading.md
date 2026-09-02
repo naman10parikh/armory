@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-23T11:50:38Z"
 ---
 ## What it is
 MCP server `Zerodha Mock Trading`, catalogued on PulseMCP. Mock trading interface for Zerodha brokerage with realistic order execution simulation, portfolio management, and P&L tracking for safe algorithmic trading strategy testing

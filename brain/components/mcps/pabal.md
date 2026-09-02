@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T15:22:07Z"
 ---
 ## What it is
 MCP server `Pabal`, catalogued on PulseMCP. Manages App Store Connect and Google Play Console workflows for app store optimization

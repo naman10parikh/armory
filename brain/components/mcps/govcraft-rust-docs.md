@@ -8,10 +8,12 @@ source_url: https://github.com/govcraft/rust-docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 277
+stars: 295
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2025-11-24T19:44:06Z"
 ---
 ## What it is
 MCP server `Rust Docs`, catalogued on PulseMCP. Efficiently loads and processes Rust crate documentation using LlamaIndex's HTML reader, with intelligent file selection logic to handle duplicate files and optional comprehensive parsing modes.

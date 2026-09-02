@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T21:03:43Z"
 ---
 ## What it is
 A webhook management and delivery service with MCP tools for endpoints, deliveries, relay, and incoming webhooks, enabling autonomous agents to send, track, and relay webhooks.

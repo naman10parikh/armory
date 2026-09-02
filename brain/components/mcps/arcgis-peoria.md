@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:39:41Z"
 ---
 ## What it is
 Enables search and query of City of Peoria, Arizona open geospatial datasets (parcels, zoning, public works) via ArcGIS feature services, allowing AI agents to access GIS data through natural language.

@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-19T21:03:17Z"
 ---
 ## What it is
 MCP server `Genera Lisp`, catalogued on PulseMCP. Evaluate Lisp expressions on a Symbolics Genera machine via TCP bridge.

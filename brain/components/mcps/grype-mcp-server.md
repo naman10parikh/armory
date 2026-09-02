@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-29T00:05:45Z"
 ---
 ## What it is
 Enables AI assistants to perform vulnerability scanning using Grype, supporting scans of directories, container images, and packages via the Model Context Protocol.

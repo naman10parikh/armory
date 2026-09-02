@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:36Z"
 ---
 ## What it is
 Enables querying the Tribunal TJMA Nada Consta official source for certificate checks via a read-only MCP tool, with prepaid credit per consultation.

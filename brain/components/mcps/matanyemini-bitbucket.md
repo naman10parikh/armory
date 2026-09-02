@@ -8,10 +8,12 @@ source_url: https://github.com/matanyemini/bitbucket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 105
+pushed_at: "2026-05-11T03:27:12Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Integrates with Bitbucket Cloud and Server APIs for repository and pull request management

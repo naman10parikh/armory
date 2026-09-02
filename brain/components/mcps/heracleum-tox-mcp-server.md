@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T23:29:37Z"
 ---
 ## What it is
 Reproduces the in-silico toxicological profile of Heracleum sosnowskyi metabolites from Rassabina & Fedorov (2025) using open-source models for LD50 prediction, toxicity classification, chemical space clustering, and synthesis cost estimation.

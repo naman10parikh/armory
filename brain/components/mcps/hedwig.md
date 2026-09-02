@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:07:46Z"
 ---
 ## What it is
 An MCP wallet server that lets an AI agent hold, send, and spend USDC on Hedera, using the x402 standard for HTTP payments.

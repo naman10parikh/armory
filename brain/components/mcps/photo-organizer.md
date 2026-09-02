@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T14:06:13Z"
 ---
 ## What it is
 MCP server `Photo Organizer`, catalogued on PulseMCP. AI-powered organization for Google Photos and Drive with auto-organize, duplicate detection, and album creation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T12:19:44Z"
 ---
 ## What it is
 Enables comprehensive management of AWS S3 Tables including table bucket, namespace, table CRUD, metadata, maintenance, and data import operations through natural language.

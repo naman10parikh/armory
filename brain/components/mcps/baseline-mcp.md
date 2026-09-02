@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T04:39:43Z"
 ---
 ## What it is
 Enables read-only interaction with Baseline irrigation controllers, including status, alarms, and historical reporting.

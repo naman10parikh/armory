@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-07T13:10:29Z"
 ---
 ## What it is
 MCP server `Ergs`, catalogued on PulseMCP. Integrates with Ergs full-text search system to enable searching and browsing across personal datasources like GitHub repositories and RSS feeds with FTS5 query syntax, pagination, and date filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T02:41:40Z"
 ---
 ## What it is
 Enables simulating customer orders from a dummy restaurant menu and tracking their status in real-time via RESTful APIs.

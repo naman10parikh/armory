@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:24:09Z"
 ---
 ## What it is
 Converts natural language travel requests into customizable multi-city itineraries, with tools for planning, editing, and exporting trips across 69 global destinations.

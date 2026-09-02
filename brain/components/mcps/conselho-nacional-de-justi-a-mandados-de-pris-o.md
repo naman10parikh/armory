@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:22Z"
 ---
 ## What it is
 Provides read-only access to Brazilian arrest warrants from the official CNJ source via a hosted MCP server. Enables users to query prison warrants using natural language through any MCP-compatible client.

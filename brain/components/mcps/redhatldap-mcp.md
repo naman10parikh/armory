@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-26T21:00:39Z"
 ---
 ## What it is
 Provides read-only access to corporate LDAP directories, enabling AI assistants to search for people, navigate organizational hierarchies, and export contact information.

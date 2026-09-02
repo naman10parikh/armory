@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-18T15:56:31Z"
 ---
 ## What it is
 MCP server `La Palma 24`, catalogued on PulseMCP. Search vacation rentals in La Palma, Canary Islands with real-time availability and pricing.

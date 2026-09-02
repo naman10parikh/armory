@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-22T12:09:24Z"
 ---
 ## What it is
 MCP server `AWS SES Email`, catalogued on PulseMCP. Enables direct email sending through Amazon SES with support for HTML content, CC/BCC recipients, and reply-to addressing while maintaining AWS security standards.

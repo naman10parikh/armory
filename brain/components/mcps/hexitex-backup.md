@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-08T05:54:58Z"
 ---
 ## What it is
 MCP server `Code Backup`, catalogued on PulseMCP. Provides specialized backup and restoration for code editing tools, creating timestamped snapshots with contextual metadata that preserve both file content and agent reasoning for quick recovery from risky edits.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T10:03:41Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Enables Claude to search and retrieve Spotify track, artist, and album information through a local Express.js server leveraging the Spotify Web API for real-time music data retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T11:17:06Z"
 ---
 ## What it is
 A production-ready MCP server providing AI assistants with intelligent Supabase database access, featuring dynamic schema discovery, complete user management, and file storage operations.

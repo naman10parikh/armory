@@ -8,11 +8,13 @@ source_url: https://github.com/plumbkit/plumb
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T02:48:16Z"
 ---
 ## What it is
 Plumb is an MCP server that provides coding agents with IDE-level intelligence (LSP, tree-sitter index) and safe, atomic file writes with transactional rollback and crash resilience.

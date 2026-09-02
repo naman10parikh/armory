@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T11:16:05Z"
 ---
 ## What it is
 Provides prompt templates and tools for mobile QA automation, including converting manual tests to Appium scripts, analyzing failures, and standardizing bug reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-20T20:25:33Z"
 ---
 ## What it is
 MCP agent providing cost-aware guardrails for IaC in CI/CD with advanced policy enforcement.

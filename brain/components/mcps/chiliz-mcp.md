@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T13:32:38Z"
 ---
 ## What it is
 Advanced MCP server for the Chiliz blockchain ecosystem, providing tools for fan token management, DeFi operations, sports analytics, and social sentiment tracking.

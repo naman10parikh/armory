@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T17:04:03Z"
 ---
 ## What it is
 A multi-agent operations assistant that answers business questions by searching local documents and order records.

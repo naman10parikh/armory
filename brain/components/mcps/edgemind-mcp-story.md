@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:18:18Z"
 ---
 ## What it is
 An MCP server that connects an LLM client to a local LM Studio instance to generate and save creative writing stories as text files.

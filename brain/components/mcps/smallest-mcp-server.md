@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:43:34Z"
 ---
 ## What it is
 MCP server for the Smallest AI platform that enables managing AI voice agents, debugging calls, and viewing analytics directly from your IDE.

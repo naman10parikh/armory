@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:53:16Z"
 ---
 ## What it is
 An MCP server that exposes the full BetaSeries API as 23 tools, enabling LLM clients to track TV shows and movies, manage planning, ratings, and social features via natural language.

@@ -8,11 +8,13 @@ source_url: https://github.com/cyanheads/calculator-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 417
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:52:04Z"
 ---
 ## What it is
 A calculator MCP server that lets any LLM verify mathematical computations. Evaluate, simplify, and differentiate expressions via a single tool. Powered by math.js v15.

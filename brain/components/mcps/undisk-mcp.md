@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T04:43:44Z"
 ---
 ## What it is
 Provides versioned file storage for AI agents with immutable writes, auditing, and rollback capabilities.

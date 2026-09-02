@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T15:51:22Z"
 ---
 ## What it is
 Provides a wait tool for AI agents to pause execution until a time duration elapses or a process terminates, useful for polling and waiting for builds/deployments.

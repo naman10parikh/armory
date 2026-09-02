@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 50
+forks: 3
+pushed_at: "2026-07-03T10:52:25Z"
 ---
 ## What it is
 Ultra-fast to deploy agentic-first MCP-ready semantic layer. Let your data be like water.

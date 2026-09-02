@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:48:43Z"
 ---
 ## What it is
 Ephemeral MicroVM-isolated code execution for AI agents. Run Python, Node, or bash — fresh hardware-isolated VM per call, hard-purged after. No state persists between calls.

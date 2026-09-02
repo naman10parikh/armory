@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:00:41Z"
 ---
 ## What it is
 A metadata-driven MCP server that exposes selected SAP Ariba OpenAPI operations as configurable tools, enabling secure interaction with Ariba APIs through natural language.

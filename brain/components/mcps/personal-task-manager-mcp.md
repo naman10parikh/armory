@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-02T18:39:33Z"
 ---
 ## What it is
 Enables AI assistants to manage tasks with full lifecycle support including due dates, priorities, tags, subtasks, and project lists via 19 SQLite-backed MCP tools.

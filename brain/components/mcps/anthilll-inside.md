@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:07:26Z"
 ---
 ## What it is
 MCP server that reproduces SSE response-size hangs with Anthropic MCP clients by providing a configurable 'generate_lipsum' tool.

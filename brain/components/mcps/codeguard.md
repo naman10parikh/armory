@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T01:43:51Z"
 ---
 ## What it is
 MCP server that analyzes TypeScript/Prisma projects, builds dependency graphs, and protects against dangerous modifications and silent regressions.

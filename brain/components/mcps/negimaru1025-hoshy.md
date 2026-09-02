@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T00:57:03Z"
 ---
 ## What it is
 MCP server `HoShy`, catalogued on PulseMCP. Searches Rakuten products, compares prices, and books hotels from within Claude.

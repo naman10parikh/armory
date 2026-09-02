@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T00:26:51Z"
 ---
 ## What it is
 Import CSV/XLSX accounting data into QuickBooks Online or Xero via the Synder Importer API. 19 MCP tools.

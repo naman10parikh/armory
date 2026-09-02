@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-26T01:18:37Z"
 ---
 ## What it is
 A FastMCP-based server that provides secure sandboxed filesystem operations, API integration tools, and curated reasoning prompts for analysis and productivity tasks.

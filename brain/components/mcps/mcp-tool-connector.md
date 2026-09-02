@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:32:53Z"
 ---
 ## What it is
 Exposes search over internal documents and company lookup via authenticated API, enabling LLMs to access firm files and data.

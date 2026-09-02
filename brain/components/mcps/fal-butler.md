@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:13:49Z"
 ---
 ## What it is
 Enables users to turn a product brief into a professional ad campaign, generating a validated fal.ai workflow.json with consistent characters, sound, and subtitles while showing costs before any model runs.

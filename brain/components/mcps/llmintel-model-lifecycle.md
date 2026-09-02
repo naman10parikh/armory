@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T02:19:55Z"
 ---
 ## What it is
 Check whether an LLM model id is deprecated, retiring, or retired, and what to migrate to. Covers OpenAI, Anthropic, Azure, Bedrock, Google, and Cohere from each provider's own deprecation pages.

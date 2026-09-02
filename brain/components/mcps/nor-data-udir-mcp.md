@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T21:06:28Z"
 ---
 ## What it is
 MCP server that wraps UDIR's open registries for Norwegian schools (NSR) and kindergartens (NBR), enabling search by municipality and retrieval of full details including coordinates and enrollment.

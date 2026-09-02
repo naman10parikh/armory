@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:54:21Z"
 ---
 ## What it is
 An MCP server for reading and writing Confluence pages in native Atlassian Document Format (ADF), enabling precise edits at the document node level without loss of formatting.

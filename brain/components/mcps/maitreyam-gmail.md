@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-09T10:41:28Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Enables sending emails through Gmail's SMTP service with support for attachments from local files, pre-staged files, or URLs downloaded during conversation.

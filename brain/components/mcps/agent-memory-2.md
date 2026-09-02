@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T10:17:38Z"
 ---
 ## What it is
 MCP server providing persistent memory management for AI agents using SQLite and FTS5, enabling storage, full-text search, and recall of memories with namespace isolation.

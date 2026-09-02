@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-12T07:50:43Z"
 ---
 ## What it is
 MCP server `Time and Workdays (Timor API)`, catalogued on PulseMCP. Integrates with the Timor API to provide current time information and workday calculations for scheduling systems and business logic that depends on working day determination.

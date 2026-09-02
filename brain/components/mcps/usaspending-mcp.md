@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:47:29Z"
 ---
 ## What it is
 A free, key-less MCP server for querying U.S. federal spending data from USAspending.gov, including contracts, grants, loans, recipients, agencies, and geographic breakdowns.

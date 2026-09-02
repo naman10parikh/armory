@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:54:31Z"
 ---
 ## What it is
 Provides MCP tools to query, compare, and analyze network device configurations managed by Oxidized, such as listing devices, viewing backup status, and generating diffs between configuration versions.

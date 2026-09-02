@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T10:46:42Z"
 ---
 ## What it is
 MCP server for managing developer escalations: turns Slack messages into tracked issues in Google Sheets, with tools to post messages, check status, get weekly reports, mark solved, and ping.

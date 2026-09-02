@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T08:06:00Z"
 ---
 ## What it is
 MCP server for pi that provides free web search, web fetch, advanced search, and scholarly paper search via hosted Exa and Parallel services without requiring an API key.

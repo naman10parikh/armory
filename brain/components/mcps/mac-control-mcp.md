@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-06T15:56:30Z"
 ---
 ## What it is
 A native Swift MCP server for full macOS automation, providing 63 tools for controlling windows, browsers, clipboard, screen capture, OCR, input simulation, and more.

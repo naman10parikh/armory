@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:25:41Z"
 ---
 ## What it is
 A local signing MCP server that lets Claude Code use private keys without ever exposing key material to the model's context window.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-03T15:21:12Z"
 ---
 ## What it is
 Detect fake recruiter & job-offer scams with free OSINT — an MCP server for Claude. No API keys.

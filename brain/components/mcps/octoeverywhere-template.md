@@ -8,10 +8,12 @@ source_url: https://github.com/octoeverywhere/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-03T21:06:12Z"
 ---
 ## What it is
 MCP server `OctoEverywhere Template`, catalogued on PulseMCP. Minimal project template providing Apache License 2.0 licensing framework for open-source MCP implementations without functional code or server capabilities.

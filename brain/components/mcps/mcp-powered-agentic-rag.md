@@ -8,11 +8,13 @@ source_url: https://github.com/baazilakhlaque/mcp-powered-agentic-rag
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T17:09:21Z"
 ---
 ## What it is
 An agentic Retrieval-Augmented Generation (RAG) system that combines a small curated machine learning knowledge base with real-time web search capabilities, powered by the Model Context Protocol (MCP).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T00:15:14Z"
 ---
 ## What it is
 Provides comprehensive baseball analytics through 32 tools covering pitching, batting, defensive metrics, and visualizations via the Model Context Protocol, enabling natural language queries for advanced Statcast and MLB statistics.

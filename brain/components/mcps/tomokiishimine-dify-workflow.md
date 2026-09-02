@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-29T17:19:59Z"
 ---
 ## What it is
 MCP server `Dify Workflow`, catalogued on PulseMCP. Connects Claude with Dify Workflow to expose workflow capabilities as tools, enabling structured automation through dynamic parameter retrieval and multi-workflow support.

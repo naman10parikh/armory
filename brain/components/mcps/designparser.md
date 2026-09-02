@@ -8,10 +8,12 @@ source_url: https://github.com/designparser/designparser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T19:27:39Z"
 ---
 ## What it is
 MCP server `DesignParser`, catalogued on PulseMCP. MCP server providing 55+ evidence-backed design rules across 9 categories as AI tools for color, typography, spacing, UX laws, and interaction design.

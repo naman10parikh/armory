@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-11T18:30:32Z"
 ---
 ## What it is
 An MCP server for AI-powered recipe generation and transformation, enabling users to create custom recipes from natural language descriptions and modify existing ones to meet dietary and nutritional goals.

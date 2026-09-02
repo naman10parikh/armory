@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-31T04:17:22Z"
 ---
 ## What it is
 MCP server `ENS DAO Operations`, catalogued on PulseMCP. Integrates with local Ethereum nodes to simplify ENS DAO operations like domain management and governance participation.

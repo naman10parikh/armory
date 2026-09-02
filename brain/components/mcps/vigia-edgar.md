@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T09:59:27Z"
 ---
 ## What it is
 An always-on engine that watches SEC EDGAR for insider trading (Form 4) and material event (8-K) filings, alerting users through AI agents via MCP tools.

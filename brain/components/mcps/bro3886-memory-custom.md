@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-19T08:41:37Z"
 ---
 ## What it is
 MCP server `Memory Custom`, catalogued on PulseMCP. Provides a knowledge graph-based memory system for creating, managing, and querying structured information with features like custom file paths, timestamping, and advanced search capabilities.

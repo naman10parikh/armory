@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T03:15:18Z"
 ---
 ## What it is
 A methodology-driven MCP server that guides enterprise AI rollouts through a 5-phase pipeline with layered memory for experience reuse, enabling agents to manage engagements and crystallize skills.

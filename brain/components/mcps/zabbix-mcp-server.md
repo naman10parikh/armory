@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-31T21:46:11Z"
 ---
 ## What it is
 Provides advanced, programmable access to Zabbix monitoring data and management features, enabling querying, automation, and integration of Zabbix resources.

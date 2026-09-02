@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T23:41:34Z"
 ---
 ## What it is
 MCP server `Thingiverse`, catalogued on PulseMCP. Provides a bridge to the Thingiverse API for searching, browsing, and retrieving 3D model information from the popular 3D printing community using Puppeteer.

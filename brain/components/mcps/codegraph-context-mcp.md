@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T06:40:36Z"
 ---
 ## What it is
 Remote MCP server for code graph analysis, offering tools for repo queries, symbol impact paths, branch context packing, and dependency hotspot reporting.

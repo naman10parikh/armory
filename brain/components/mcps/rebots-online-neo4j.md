@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-11T09:43:37Z"
 ---
 ## What it is
 MCP server `Neo4j Graph`, catalogued on PulseMCP. Integrates Neo4j graph databases, enabling natural language interactions for complex relationship modeling and graph-based analytics.

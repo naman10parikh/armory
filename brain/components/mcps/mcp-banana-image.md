@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T02:55:42Z"
 ---
 ## What it is
 AI-powered image generation MCP server with 16 specialized tools for generating, editing, analyzing, and processing images using Google's Nano Banana 2 model. Supports custom API endpoints and integrates with AI coding assistants via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:40:54Z"
 ---
 ## What it is
 An MCP server that provides Photoshop-style layered image editing and AI-powered generation/editing via ComfyUI, including canvas management, filters, masks, and upscaling. Designed for use with Cline and other MCP clients.

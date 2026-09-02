@@ -8,10 +8,12 @@ source_url: https://github.com/theobrigitte/mcp-time
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-30T10:02:59Z"
 ---
 ## What it is
 MCP server `Time`, catalogued on PulseMCP. Provides time and date manipulation capabilities including current time retrieval, timezone conversion, duration arithmetic, natural language relative time parsing, and time comparison for scheduling workflows and time-based analysis.

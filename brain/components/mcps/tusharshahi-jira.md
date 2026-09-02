@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-27T17:20:35Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Provides a bridge between Jira and conversational interfaces, enabling updating Jira dashboards, ticket creation, project information retrieval, and issue management.

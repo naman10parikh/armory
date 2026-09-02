@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T19:41:48Z"
 ---
 ## What it is
 Run Liquid AI's LFM2.5 model locally on Mac with a chat UI and MCP server for integration with Claude Desktop, Cursor, and other tools. Offers fast inference, privacy, and multi-Mac clustering.

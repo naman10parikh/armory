@@ -8,11 +8,13 @@ source_url: https://github.com/arc119226/mcp-tools
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T11:13:02Z"
 ---
 ## What it is
 A collection of simple, practical MCP servers that require zero configuration, enabling web search via DuckDuckGo (no API key needed) and management of Hexo blogs through AI.

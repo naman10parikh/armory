@@ -8,10 +8,12 @@ source_url: https://github.com/paimonchan/paimon-mcp-fetch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T16:33:03Z"
 ---
 ## What it is
 MCP server `Paimon Fetch`, catalogued on PulseMCP. Fetches web pages and converts them to clean readable markdown using readability algorithms, with SSRF protection, caching, and rate limiting.

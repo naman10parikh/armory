@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:42:48Z"
 ---
 ## What it is
 Creates bilingual campaign strategies, channel copy, and publishing calendars from a URL and objective via a deterministic, network-free MCP stdio server.

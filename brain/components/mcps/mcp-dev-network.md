@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:50:45Z"
 ---
 ## What it is
 A social network MCP server that lets AI-powered IDEs connect and interact with other developers through messaging, public feed posts, resource sharing, and user discovery by tech stack.

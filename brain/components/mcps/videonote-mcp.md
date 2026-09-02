@@ -8,11 +8,13 @@ source_url: https://github.com/HuangYincan/VideoNote-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T06:18:27Z"
 ---
 ## What it is
 MCP server that converts video links into AI-generated Markdown notes, with tools for task management, transcription engines, and LLM providers.

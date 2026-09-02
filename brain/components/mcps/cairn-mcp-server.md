@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-19T03:21:38Z"
 ---
 ## What it is
 A self-hosted persistent memory platform for AI agents and humans offering tools for memory storage, search, beliefs, work management, and code intelligence via MCP.

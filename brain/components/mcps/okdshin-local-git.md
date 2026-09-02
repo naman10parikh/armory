@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-06T13:48:55Z"
 ---
 ## What it is
 MCP server `Local Git`, catalogued on PulseMCP. Lightweight Git repository management server for local operations using GitPython and Pydantic

@@ -8,10 +8,12 @@ source_url: https://github.com/step-security/stepsecurity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T16:22:17Z"
 ---
 ## What it is
 MCP server `StepSecurity`, catalogued on PulseMCP. Official StepSecurity MCP server for CI/CD security, supply chain threat response, and anomaly detection.

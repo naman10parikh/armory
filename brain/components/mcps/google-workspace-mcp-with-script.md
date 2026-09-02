@@ -8,11 +8,13 @@ source_url: https://github.com/AnkitOhlan/google-workspace-mcp-with-script
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:52:28Z"
 ---
 ## What it is
 MCP server for Claude Code CLI that integrates with Google Workspace, enabling management of Docs, Sheets, Drive, Gmail, Calendar, and Apps Script.

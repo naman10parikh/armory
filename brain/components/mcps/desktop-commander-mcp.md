@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:56:09Z"
 ---
 ## What it is
 Enables AI assistants to search, update, and manage files, run terminal commands, and automate workflows on a user's computer.

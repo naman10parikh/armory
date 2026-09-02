@@ -8,10 +8,12 @@ source_url: https://github.com/meshy-dev/meshy-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-22T16:16:57Z"
 ---
 ## What it is
 MCP server `Meshy`, catalogued on PulseMCP. Generates and edits 3D models from text and image prompts using the Meshy AI platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T07:34:11Z"
 ---
 ## What it is
 Gives coding agents a memory of codebases by searching repositories using semantic similarity and structural call/import graphs, enabling reuse of proven patterns and reducing token usage.

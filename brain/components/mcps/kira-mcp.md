@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T20:17:56Z"
 ---
 ## What it is
 kira-mcp is a local MCP server that gives any MCP-compatible agent host full computer-use capabilities on the host machine, including screen perception with OmniParser and desktop automation.

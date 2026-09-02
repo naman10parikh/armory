@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-03T21:40:44Z"
 ---
 ## What it is
 MCP server `Node Omnibus`, catalogued on PulseMCP. Enables AI-assisted Node.js and TypeScript development optimized for popular frameworks, offering code generation, debugging, and project management capabilities.

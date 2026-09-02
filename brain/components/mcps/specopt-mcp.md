@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:22:46Z"
 ---
 ## What it is
 Enables prompt and code optimization using DSPy and MCP, with tools for optimizing agent files, specifications, and skills.

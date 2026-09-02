@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T23:30:25Z"
 ---
 ## What it is
 Renders architectural floor plans and site plans as SVG in blueprint or whiteprint styles, following real drawing conventions with precise geometry.

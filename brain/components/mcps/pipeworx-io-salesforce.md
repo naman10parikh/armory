@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:37Z"
 ---
 ## What it is
 MCP server `Salesforce`, catalogued on PulseMCP. Salesforce CRM data access for accounts, contacts, opportunities, leads, and cases via a user-provided OAuth token.

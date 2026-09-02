@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:35Z"
 ---
 ## What it is
 MCP server `Microlink`, catalogued on PulseMCP. Extract structured metadata and screenshots from any URL using the Microlink API.

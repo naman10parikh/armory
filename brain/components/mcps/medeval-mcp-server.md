@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:36:38Z"
 ---
 ## What it is
 Provides authenticated Streamable HTTP MCP access to a MedEval medical-device regulatory workspace, enabling project selection, evidence retrieval, section context, document revision management, and generation/evaluation task control.

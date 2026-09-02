@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:06:53Z"
 ---
 ## What it is
 Analyzes repositories, explains architecture, calculates change impact, and enforces guardrails for AI Agents like Claude Code, Cursor, and Codex via MCP tools.

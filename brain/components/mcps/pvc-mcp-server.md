@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:09:53Z"
 ---
 ## What it is
 A Git-like version control system for AI agent decision tracking, enabling plan commits, diffs, branches, and history.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T16:16:15Z"
 ---
 ## What it is
 MCP server `TenderAPI`, catalogued on PulseMCP. Access French (BOAMP) and EU (TED) public procurement tender data via TenderAPI.

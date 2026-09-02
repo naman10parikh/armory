@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-05T11:02:24Z"
 ---
 ## What it is
 MCP server `New Relic`, catalogued on PulseMCP. Integrates with New Relic's NerdGraph API to provide direct access to log data through custom NRQL queries, keyword-based searches, and recent log retrieval for debugging applications, monitoring system health, and analyzing log patterns.

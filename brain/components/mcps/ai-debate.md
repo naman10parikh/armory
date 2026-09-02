@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T05:54:55Z"
 ---
 ## What it is
 Enables Claude Code to debate with Gemini on a given topic by managing conversation history and assigning personas, allowing users to watch AI agents argue.

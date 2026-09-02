@@ -8,10 +8,12 @@ source_url: https://github.com/tech-sushant/calculator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-28T10:10:52Z"
 ---
 ## What it is
 MCP server `Calculator`, catalogued on PulseMCP. Provides basic arithmetic operations including addition, subtraction, multiplication, division, power, and square root

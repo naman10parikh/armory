@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:19:47Z"
 ---
 ## What it is
 A production-ready MCP server offering text analysis tools, an in-memory key-value store, and system info resources with support for both stdio and HTTP transports.

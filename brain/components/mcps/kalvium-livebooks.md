@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:36:23Z"
 ---
 ## What it is
 A read-only MCP server that lets you browse Kalvium Livebooks using your existing browser session, listing livebooks and lessons and retrieving lesson content as Markdown.

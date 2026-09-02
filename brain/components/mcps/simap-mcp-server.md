@@ -8,11 +8,13 @@ source_url: https://github.com/Digilac/simap-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T12:17:12Z"
 ---
 ## What it is
 Enables AI assistants to search and view public tenders from Switzerland's simap.ch platform.

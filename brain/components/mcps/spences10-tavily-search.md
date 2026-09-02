@@ -8,10 +8,12 @@ source_url: https://github.com/spences10/mcp-tavily-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-05T11:34:35Z"
 ---
 ## What it is
 MCP server `Tavily Search`, catalogued on PulseMCP. Integrates with Tavily's semantic search API to enable web searches and retrieval of relevant results for fact-checking and research tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T19:25:57Z"
 ---
 ## What it is
 A unified MCP server that connects HubSpot, Clay, Apollo, Slack, and email to enable AI agents to execute multi-step GTM workflows such as prospecting, enrichment, CRM updates, and notifications.

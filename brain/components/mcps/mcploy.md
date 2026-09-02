@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T23:24:57Z"
 ---
 ## What it is
 Exposes the Loyverse API as MCP tools to manage stores, products, inventory, customers, receipts, and more from AI assistants.

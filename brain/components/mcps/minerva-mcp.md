@@ -8,11 +8,13 @@ source_url: https://github.com/HoussemMak/minerva-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:36:11Z"
 ---
 ## What it is
 Enables AI assistants to administer Microsoft 365 and Azure, including PowerShell-only areas like Exchange, SharePoint, Teams, and Purview, with risk classification and human approval for write operations.

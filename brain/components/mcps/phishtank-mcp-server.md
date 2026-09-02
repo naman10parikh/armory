@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-08T16:21:52Z"
 ---
 ## What it is
 Enables checking URLs against PhishTank's phishing database, searching for phishing URLs by target or date, and retrieving phishing statistics, with built-in rate limiting and caching.

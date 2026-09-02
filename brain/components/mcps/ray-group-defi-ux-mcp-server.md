@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:51:00Z"
 ---
 ## What it is
 Provides AI agents with direct access to the Ray Group DeFi UX rubric, named patterns, and cognitive-bias glossary for grounded UX assessments of DeFi protocols.

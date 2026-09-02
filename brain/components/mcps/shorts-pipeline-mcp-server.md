@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:44:47Z"
 ---
 ## What it is
 Enables Claude to generate stylized 2D animated vertical shorts by wrapping the xAI Imagine API. Provides tools for creating stills, approving them, animating to video, and checking job status via natural language.

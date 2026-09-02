@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-01T08:42:56Z"
 ---
 ## What it is
 MCP server `ClawdPay`, catalogued on PulseMCP. Enables secure autonomous purchasing by creating single-use Privacy.com virtual cards with spending limits and automatically filling payment forms across websites using intelligent browser automation.

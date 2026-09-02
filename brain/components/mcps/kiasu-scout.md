@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T17:32:23Z"
 ---
 ## What it is
 MCP server to help businesses analyze their visibility in AI assistant recommendations, focusing on Singapore and Southeast Asian parent queries. It generates prompt packs, analyzes answer visibility, and recommends SEO fixes.

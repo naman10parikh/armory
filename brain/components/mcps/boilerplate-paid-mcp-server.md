@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-15T11:14:52Z"
 ---
 ## What it is
 A boilerplate MCP server demonstrating paid tools via Lightning micropayments, including weather data and food ordering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:04:16Z"
 ---
 ## What it is
 A local-first iMessage retrieval system that serves hybrid full-text and vector search over an MCP server, enabling an AI assistant to answer questions about your correspondence.

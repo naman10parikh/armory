@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-22T10:25:52Z"
 ---
 ## What it is
 Provides web search and page fetching tools for third-party models (e.g., DeepSeek, Qwen, Kimi) in Claude Code, with configurable search backends, Markdown output, and safety boundaries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:10:28Z"
 ---
 ## What it is
 MCP server for building and publishing Telegram bot funnels on zaytsv.ru, enabling graph creation, validation, and publication via API.

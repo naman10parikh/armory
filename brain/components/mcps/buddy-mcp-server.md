@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T07:35:42Z"
 ---
 ## What it is
 MCP server for controlling compatible boards over Bluetooth serial, including DC motors, servos, IO, and sensors.

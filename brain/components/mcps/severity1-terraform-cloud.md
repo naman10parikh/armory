@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-02T07:43:19Z"
 ---
 ## What it is
 MCP server `Terraform Cloud`, catalogued on PulseMCP. Integrates with Terraform Cloud API to enable natural language management of infrastructure through workspace and run operations including creation, updates, planning, and application.

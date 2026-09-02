@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-27T06:25:31Z"
 ---
 ## What it is
 MCP server `OpenReview`, catalogued on PulseMCP. MCP server for interacting with the OpenReview academic conference management platform for Area Chairs, Reviewers, and Authors.

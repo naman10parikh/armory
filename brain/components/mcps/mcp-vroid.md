@@ -8,11 +8,13 @@ source_url: https://github.com/nhodges/mcp-vroid
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:49:09Z"
 ---
 ## What it is
 Enables MCP clients to drive VRoid Studio's GUI by launching the app, capturing screenshots, locating UI elements via OCR/color, and simulating clicks/typing to adjust parameters and export .vrm files.

@@ -8,10 +8,12 @@ source_url: https://github.com/vernonstinebaker/webdav-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T03:06:06Z"
 ---
 ## What it is
 MCP server `WebDAV`, catalogued on PulseMCP. Zero-dependency WebDAV integration as a single static binary with no runtime requirements.

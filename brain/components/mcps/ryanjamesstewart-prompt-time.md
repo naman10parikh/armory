@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T19:06:36Z"
 ---
 ## What it is
 MCP server `Prompt Time`, catalogued on PulseMCP. Windows reminder system for Claude Desktop — survives MSIX boundary and persists across restarts.

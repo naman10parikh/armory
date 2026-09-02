@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:37:33Z"
 ---
 ## What it is
 Give AI agents and LLMs access to podcast data from Rephonic — covering 3+ million podcasts with listener estimates, demographics, contact details, chart rankings, episodes, and more.

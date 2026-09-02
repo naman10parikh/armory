@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-04T00:59:17Z"
 ---
 ## What it is
 A web-based search interface using DuckDuckGo's search API, built with Python and Gradio, providing real-time search results and optional AI-powered summarization.

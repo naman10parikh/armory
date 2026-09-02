@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:37:16Z"
 ---
 ## What it is
 Enables evidence-first CAE automation on Windows through local MCP servers for FreeCAD, Elmer FEM, and ParaView, supporting validated workflows from CAD to simulation and post-processing with a shared safety and evidence runtime.

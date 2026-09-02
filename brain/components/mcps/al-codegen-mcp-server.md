@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T12:34:44Z"
 ---
 ## What it is
 Generates AL code for Business Central directly from your IDE, enhancing developer efficiency by providing tools, prompts, and resources for code generation.

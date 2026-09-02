@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-12T03:17:06Z"
 ---
 ## What it is
 MCP server `Universal Image Generator`, catalogued on PulseMCP. Provides multi-provider image generation and transformation capabilities across Google Gemini, ZhipuAI, and Alibaba Bailian with automatic prompt translation and optimization for each provider's preferred language, supporting URL-based editing with mask support and flexible input methods including base64 encoding, file paths, and public URLs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:11:33Z"
 ---
 ## What it is
 A reusable MCP server for Fly.io offering utility tools including weather, web search, text processing, time conversion, and more.

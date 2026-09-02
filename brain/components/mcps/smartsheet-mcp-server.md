@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T14:32:01Z"
 ---
 ## What it is
 Connects to your Smartsheet account, enabling Claude Code to browse workspaces, read sheets, and generate documentation.

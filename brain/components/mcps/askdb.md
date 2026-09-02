@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-23T06:51:06Z"
 ---
 ## What it is
 Self-hosted MCP server that bridges your MongoDB or PostgreSQL database to AI agents, with sandbox isolation and field-level control.

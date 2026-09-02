@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-22T13:54:33Z"
 ---
 ## What it is
 MCP server `Cloudflare AI to Markdown`, catalogued on PulseMCP. Bridges Claude with Cloudflare's AI services to convert PDFs, images, HTML, and Office documents into structured markdown descriptions for content analysis and documentation generation.

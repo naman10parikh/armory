@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T15:50:23Z"
 ---
 ## What it is
 Provides reference implementations of MCP servers using FastAPI and FastMCP, including calculator and RSS/Atom feed parser tools.

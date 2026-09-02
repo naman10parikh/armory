@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:29:05Z"
 ---
 ## What it is
 Enables Claude to send messages, media, and manage Telegram chat messages through a Telegram bot, including sending photos, documents, and editing or deleting messages.

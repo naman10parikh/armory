@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-14T15:26:21Z"
 ---
 ## What it is
 Enables managing freee HR operations like employee data, attendance, leave, and approvals through natural language in MCP-compatible clients such as Claude Desktop.

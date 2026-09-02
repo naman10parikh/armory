@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:45:17Z"
 ---
 ## What it is
 Provides BS 7121 lift-plan compliance for UK crane and hiab operators including clause lookup, lift classification, CPA hire vs contract-lift triage, and LOLER scheduling.

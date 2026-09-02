@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T16:35:43Z"
 ---
 ## What it is
 Connects AI assistants to Google Workspace (Gmail, Drive, Docs, Sheets, Slides, Calendar, Tasks, Forms, Chat, Contacts) through your own OAuth app, providing around 120 tools for managing email, files, calendar, and more.

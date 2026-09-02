@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-23T15:43:18Z"
 ---
 ## What it is
 MCP server `Ali OSS`, catalogued on PulseMCP. Provides a bridge between AI systems and Ali OSS cloud storage, enabling file upload, download, listing, and management operations through a RESTful API.

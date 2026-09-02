@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:09:31Z"
 ---
 ## What it is
 MCP server for Canadian procurement intelligence, enabling unified search of federal and Alberta tender opportunities, deadline tracking, profile-based matching, daily briefs, and AI-assisted bid analysis.

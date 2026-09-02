@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T12:59:47Z"
 ---
 ## What it is
 Enables reading, writing, and validating .tldr files for tldraw, a headless implementation without browser dependencies.

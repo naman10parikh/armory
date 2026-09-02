@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-02-08T23:04:55Z"
 ---
 ## What it is
 A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.

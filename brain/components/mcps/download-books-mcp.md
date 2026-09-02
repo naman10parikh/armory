@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T22:16:18Z"
 ---
 ## What it is
 Enables agents to search and download books from LibGen and Z-Library via MCP tools, abstracting provider details behind neutral labels.

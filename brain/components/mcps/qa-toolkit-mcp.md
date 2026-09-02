@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:56:01Z"
 ---
 ## What it is
 An MCP server that reads test reports and provides regression analysis tools for comparing runs, identifying regressions, fixes, and persistent failures.

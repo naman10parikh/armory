@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-05T23:47:46Z"
 ---
 ## What it is
 An MCP server connecting AI clients to Greenbone/OpenVAS for vulnerability scanning workflows, enabling scan creation, monitoring, report retrieval, and delta comparisons.

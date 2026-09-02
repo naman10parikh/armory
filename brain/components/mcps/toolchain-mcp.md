@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:52:35Z"
 ---
 ## What it is
 Integrates development toolchain services (GitLab, Jira, Redmine, Mattermost, Harbor) and provides composite tools to query cross-system data with a single request.

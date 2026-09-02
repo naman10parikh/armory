@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T03:49:01Z"
 ---
 ## What it is
 A Python MCP server that enables doctors to forward work messages (surgery schedules, meeting notices, files) to an AI assistant for automatic archiving, calendar events, reminders, and Obsidian notes, focused on Chinese medical workflows on macOS.

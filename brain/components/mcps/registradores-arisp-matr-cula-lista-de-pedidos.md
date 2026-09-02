@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:46Z"
 ---
 ## What it is
 Enables querying official Brazilian registry records (ARISP) for lista de pedidos (list of requests) using a read-only MCP tool, with prepaid credit payment.

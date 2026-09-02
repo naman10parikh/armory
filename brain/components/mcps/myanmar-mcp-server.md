@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T01:20:07Z"
 ---
 ## What it is
 Provides a Model Context Protocol server with built-in timeline-based animation, GitHub integration, and filesystem tools for building Myanmar applications.

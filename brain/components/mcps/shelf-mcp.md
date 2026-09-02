@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:45:33Z"
 ---
 ## What it is
 Manage a personal library of books, movies, TV shows, and games via Claude, with the ability to add items by photographing a shelf.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T16:04:44Z"
 ---
 ## What it is
 MCP server `Meshimize`, catalogued on PulseMCP. Connect AI agents to a network of authoritative knowledge sources for Q&A, group discovery, and real-time messaging.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-17T02:49:50Z"
 ---
 ## What it is
 MCP server `PayPal Account Updater`, catalogued on PulseMCP. Integrates with PayPal's Account Updater service to automatically maintain current payment card information for merchants across multiple environments through subscription management and webhook processing.

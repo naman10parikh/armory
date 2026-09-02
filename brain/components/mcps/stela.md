@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:53:57Z"
 ---
 ## What it is
 Self-hosted MCP server for publishing, sharing, and reviewing AI agent artifacts with version history and pinned comments.

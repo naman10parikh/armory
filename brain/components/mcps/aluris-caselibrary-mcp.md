@@ -8,11 +8,13 @@ source_url: https://github.com/alexchenlin1996-pixel/aluris-caselibrary-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T08:58:51Z"
 ---
 ## What it is
 Enables semantic search and retrieval of Chinese judicial cases from the Supreme People's Court case library, supporting natural language queries for similar cases, case details, filtering, and statistics.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 39
+forks: 8
+pushed_at: "2026-05-21T00:31:30Z"
 ---
 ## What it is
 Connects to Kaggle, ability to download and analyze datasets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:05:35Z"
 ---
 ## What it is
 A read-only MCP server that enables AI assistants to access a user's Steam library, playtime, achievements, friends, wishlist, and store data for backlog analysis, game recommendations, discount monitoring, and play-activity summaries.

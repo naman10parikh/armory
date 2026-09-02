@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:49:52Z"
 ---
 ## What it is
 A read-only MCP server that enables AI agents to act as GCP platform engineers, allowing them to investigate incidents, take inventory, and find cost-optimization opportunities in Google Cloud projects without mutating any infrastructure.

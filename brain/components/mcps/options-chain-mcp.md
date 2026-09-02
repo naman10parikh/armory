@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-09T20:02:45Z"
 ---
 ## What it is
 Read-only MCP server for options research with server-side filtering to reduce token usage. Supports Tradier and Alpaca data providers.

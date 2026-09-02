@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T17:08:48Z"
 ---
 ## What it is
 Multi-source academic paper search, citation graph exploration, and PDF download as an MCP server, designed for LLM agents doing research.

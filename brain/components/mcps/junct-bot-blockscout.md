@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:37Z"
 ---
 ## What it is
 MCP server `Blockscout (by Junct)`, catalogued on PulseMCP. Hosted proxy for Blockscout blockchain explorer APIs with 56 auto-generated tools for on-chain data.

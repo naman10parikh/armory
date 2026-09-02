@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T13:46:47Z"
 ---
 ## What it is
 MCP server that provides real-time access to Peruvian economic indicators from the BCRP API, with persistent memory, knowledge graph, document RAG, and statistical analysis tools.

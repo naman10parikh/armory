@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:17:12Z"
 ---
 ## What it is
 Enables ChatGPT Developer Mode to operate as a local coding agent by connecting to your own repository through MCP, allowing it to read, write, search, edit files, run safe verification commands, and manage handoff context for continued work.

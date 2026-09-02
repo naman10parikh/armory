@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-09T03:38:47Z"
 ---
 ## What it is
 MCP server `Amazon Advertising`, catalogued on PulseMCP. Integrates with Amazon Advertising API to provide marketers direct access to advertiser accounts, listings, and performance data through a simple command-line interface requiring only an API key for authentication.

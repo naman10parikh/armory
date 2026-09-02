@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T22:19:13Z"
 ---
 ## What it is
 Exposes tools to send notifications, list channels, and check gateway health via the Model Context Protocol.

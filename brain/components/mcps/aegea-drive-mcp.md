@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-26T12:28:20Z"
 ---
 ## What it is
 Enables management of Google Drive files, Docs, Sheets, and Slides through natural language using MCP, with support for file operations, search, and shared drives.

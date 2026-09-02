@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-28T04:45:54Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Integrates with Google Search Console using OAuth2 or service account authentication to provide search analytics queries, SEO opportunity analysis, sitemap management, URL inspection, and automated performance reporting.

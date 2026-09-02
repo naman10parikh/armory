@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-16T02:26:32Z"
 ---
 ## What it is
 MCP server `Autonome`, catalogued on PulseMCP. Autonomous wake/sleep cycle management and cross-agent federation with scheduled messaging and async task coordination

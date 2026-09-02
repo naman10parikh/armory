@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T07:09:30Z"
 ---
 ## What it is
 Crunchyroll anime streaming MCP connector that enables AI assistants to search anime, manage watchlists, track watch history, get recommendations, and handle account authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/scrapegraphai/scrapegraph-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-07-17T08:36:14Z"
 ---
 ## What it is
 MCP server `ScapeGraph`, catalogued on PulseMCP. Integrates with ScapeGraph API to enable web scraping and graph-based data analysis for efficient extraction and processing of large-scale web data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-08T12:59:31Z"
 ---
 ## What it is
 Enables AI assistants to interact with your personal Amazon cart through browser automation, allowing search, add to cart, and view cart functionalities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T13:03:26Z"
 ---
 ## What it is
 Query iOS App Store revenue and download estimates for any app directly from your agent. Two tools: estimate_app returns monthly revenue and downloads with a confidence label (verified / calibrated / modeled), and search_apps resolves an app name to its App Store id.

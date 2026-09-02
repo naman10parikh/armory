@@ -8,11 +8,13 @@ source_url: https://github.com/bhayanak/qualys-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T13:24:57Z"
 ---
 ## What it is
 MCP server enabling AI assistants to interact with the Qualys vulnerability management platform. Supports investigation, risk assessment, compliance, remediation, security overview, and report management.

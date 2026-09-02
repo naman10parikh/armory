@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-19T07:11:31Z"
 ---
 ## What it is
 An unofficial MCP server for DevRev integration, enabling AI assistants to search, manage works, explore product hierarchies, and retrieve object details seamlessly.

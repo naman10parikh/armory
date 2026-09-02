@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-04T14:47:52Z"
 ---
 ## What it is
 Enables natural language querying and analysis of OpenTelemetry traces, metrics, and logs stored in Elasticsearch/OpenSearch, allowing AI assistants to investigate performance issues, find root causes, and explore system behavior.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-11T09:27:50Z"
 ---
 ## What it is
 Enables AI assistants to create, read, update, and delete data in local-first apps built with the Jazz framework, with support for sync, auth, and rich data types.

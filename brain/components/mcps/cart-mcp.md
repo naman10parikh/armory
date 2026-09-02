@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:50:56Z"
 ---
 ## What it is
 Computes soil resource concern ratings for an area of interest using USDA Soil Data Access and exposes them as MCP tools, resources, and prompts for AI-assisted conservation planning.

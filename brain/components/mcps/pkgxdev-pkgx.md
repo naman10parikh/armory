@@ -8,10 +8,12 @@ source_url: https://github.com/pkgxdev/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-25T18:55:28Z"
 ---
 ## What it is
 MCP server `pkgx`, catalogued on PulseMCP. Provides secure access to thousands of open-source command-line tools through pkgx, executing commands in a sandboxed environment that prevents unauthorized filesystem modifications.

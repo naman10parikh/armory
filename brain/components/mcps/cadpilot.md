@@ -8,11 +8,13 @@ source_url: https://github.com/LBurny/cadpilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:53:09Z"
 ---
 ## What it is
 AI pilots FreeCAD. Provides full control of FreeCAD for parametric modeling, assembly, geometry sensing, and more via MCP tool calls.

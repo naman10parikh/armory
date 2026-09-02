@@ -8,10 +8,12 @@ source_url: https://github.com/adhikasp/mcp-git-ingest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 307
+stars: 312
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2025-01-26T10:32:13Z"
 ---
 ## What it is
 MCP server `Git Ingest`, catalogued on PulseMCP. Fetch and analyze git repository structures and contents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:14:25Z"
 ---
 ## What it is
 Enables collection and scoring of sales chat conversations via CDP, computing response times and generating evidence-linked LLM quality reviews.

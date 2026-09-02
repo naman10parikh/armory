@@ -8,10 +8,12 @@ source_url: https://github.com/garoth/sendgrid-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-02-25T23:45:28Z"
 ---
 ## What it is
 MCP server `SendGrid`, catalogued on PulseMCP. Integrates with SendGrid's Marketing API to enable email campaign management, contact list operations, and analytics for automated marketing workflows.

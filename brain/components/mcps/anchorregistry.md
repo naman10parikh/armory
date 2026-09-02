@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-13T19:25:26Z"
 ---
 ## What it is
 MCP server `AnchorRegistry`, catalogued on PulseMCP. On-chain provenance lookup for anchored artifacts — resolve AR-IDs, hashes, and provenance trees.

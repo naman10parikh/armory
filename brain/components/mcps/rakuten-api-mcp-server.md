@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T22:42:15Z"
 ---
 ## What it is
 Enables searching and retrieving information from Rakuten services (Ichiba, Books, Travel, Recipe, Kobo, GORA) via the new API endpoints with secure authentication.

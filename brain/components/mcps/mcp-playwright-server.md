@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:55:16Z"
 ---
 ## What it is
 Enables Claude Code to control a browser via Playwright for web scraping, automation, and research, with features like navigation, screenshots, form filling, and PDF export.

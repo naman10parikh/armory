@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T15:18:34Z"
 ---
 ## What it is
 A FastMCP server that provides AI assistants with access to Microsoft Entra (Azure AD) directory services. It enables LLMs to search for users, groups, and check memberships using the Microsoft Graph API.

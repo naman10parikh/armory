@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:35:19Z"
 ---
 ## What it is
 Provides local technical documentation with hybrid search (semantic + BM25) for AI agents, ensuring access to up-to-date framework docs.

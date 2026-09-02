@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T07:48:47Z"
 ---
 ## What it is
 Enables AI agents to access and analyze Spanish electricity consumption data via the Datadis API, providing tools for supply management, consumption analysis, anomaly detection, and executive reporting.

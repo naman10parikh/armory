@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-26T18:34:04Z"
 ---
 ## What it is
 MCP server `Runframe`, catalogued on PulseMCP. Slack-native incident management and on-call scheduling with 16 tools for incidents, services, postmortems, and teams.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-28T11:07:44Z"
 ---
 ## What it is
 MCP server `KakaoTalk Emoticons`, catalogued on PulseMCP. Automates KakaoTalk emoticon creation with AI-powered generation and validation tools

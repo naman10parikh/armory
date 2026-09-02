@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T10:54:17Z"
 ---
 ## What it is
 MCP server `Colombo Stock Exchange`, catalogued on PulseMCP. Access Colombo Stock Exchange market data including stock quotes, market snapshots, and index performance.

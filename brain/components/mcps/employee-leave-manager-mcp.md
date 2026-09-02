@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:18:19Z"
 ---
 ## What it is
 Enables managing employee leave through natural language, including checking balances, applying for or canceling leave, and viewing history, with data stored in a local SQLite database.

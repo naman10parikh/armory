@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T00:01:40Z"
 ---
 ## What it is
 A starter template for building MCP Apps on deco, enabling interactive UIs powered by the Model Context Protocol through tools and HTML resources.

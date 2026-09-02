@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-25T02:36:23Z"
 ---
 ## What it is
 Persistent memory and payment safety for AI agents on Lightning. Enables agents to remember purchases, track vendor reputations, enforce budgets, and share trust signals via Nostr.

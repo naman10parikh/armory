@@ -8,10 +8,12 @@ source_url: https://github.com/runreal/unreal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 115
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-06-06T16:14:10Z"
 ---
 ## What it is
 MCP server `Unreal Engine`, catalogued on PulseMCP. Integrates with Unreal Engine to assist with game development workflows.

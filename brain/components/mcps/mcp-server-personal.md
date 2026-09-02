@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T04:07:12Z"
 ---
 ## What it is
 Personal-assistant MCP server for managing personal data including calendar events, emails (read/label only), and contacts via local files or Gmail IMAP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-02T16:19:43Z"
 ---
 ## What it is
 Enables enriched reasoning through a quantum-inspired swarm of Claude 3.7 Sonnet instances with field coherence optimization, allowing users to leverage multiple specialized LLMs working together for enhanced analysis and problem-solving.

@@ -8,10 +8,12 @@ source_url: https://github.com/agentsafe-ai/tooltrust-scanner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-09-01T14:50:17Z"
 ---
 ## What it is
 MCP server `ToolTrust Scanner`, catalogued on PulseMCP. Scans MCP servers for prompt injection, data exfiltration, and privilege escalation vulnerabilities.

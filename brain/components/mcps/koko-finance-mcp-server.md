@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:15:05Z"
 ---
 ## What it is
 A hosted MCP server for AI-powered credit card advice, enabling search, comparison, portfolio analysis, and personalized recommendations for US credit cards through natural language.

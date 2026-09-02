@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-01T17:07:56Z"
 ---
 ## What it is
 Provides unified search across multiple icon libraries with fuzzy search, caching, and comprehensive filtering for easy icon discovery and retrieval via the Model Context Protocol.

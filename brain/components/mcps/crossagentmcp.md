@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:58:37Z"
 ---
 ## What it is
 An A2A pool MCP server that enables multiple AI agents to register, collaborate in sessions, critique each other, and self-improve towards shared goals with no human intervention.

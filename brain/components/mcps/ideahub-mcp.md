@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T02:44:04Z"
 ---
 ## What it is
 An MCP server for capturing and recalling ideas, designed for both agents and humans. It provides tools for durable ideas, checkpoints, search, and deduplication.

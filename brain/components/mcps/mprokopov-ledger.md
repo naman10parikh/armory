@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-23T11:07:25Z"
 ---
 ## What it is
 MCP server `Ledger`, catalogued on PulseMCP. Access and managing ledger files.

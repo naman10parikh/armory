@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-03T01:02:01Z"
 ---
 ## What it is
 MCP server `Cosa-SAI (Gemini Docs)`, catalogued on PulseMCP. Loads entire documentation sets directly into Gemini's 2M token context window, eliminating traditional RAG limitations for comprehensive technology documentation access and specialized problem-solving tools.

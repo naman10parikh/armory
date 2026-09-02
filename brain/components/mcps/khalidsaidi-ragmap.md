@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 6
+forks: 2
+pushed_at: "2026-08-28T01:49:45Z"
 ---
 ## What it is
 MapRag: RAG-focused subregistry + MCP server to discover and route to retrieval-capable MCP servers using structured constraints and explainable ranking.

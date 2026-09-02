@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T03:15:50Z"
 ---
 ## What it is
 Enables creating and managing AWS EKS clusters via Terraform, including VPC, node groups, add-ons, and kubectl configuration.

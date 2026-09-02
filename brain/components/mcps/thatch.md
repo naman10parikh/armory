@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:01:28Z"
 ---
 ## What it is
 Enables many Claude Code sessions to connect to a single HTTP MCP server, be addressed by name, and receive pushed messages from anywhere.

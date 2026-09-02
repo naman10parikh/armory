@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:45:16Z"
 ---
 ## What it is
 Gives AI agents live research and image generation capabilities by automating a logged-in Perplexity Pro browser session.

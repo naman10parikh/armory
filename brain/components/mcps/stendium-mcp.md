@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T06:34:44Z"
 ---
 ## What it is
 Enables any MCP-compatible agent to publish tool cards to Stendium, a portfolio showcase, after user confirmation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:14:05Z"
 ---
 ## What it is
 An MCP server that checks whether a vendor API or SDK is active, deprecated, or sunset, using a curated dataset. Enables agents to verify deprecation status before upgrade/maintenance work.

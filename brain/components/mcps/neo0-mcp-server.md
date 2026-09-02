@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T04:32:25Z"
 ---
 ## What it is
 A coordinate-based semantic addressing system for AI agents, providing tools to derive immutable addresses, search concepts, and manage personae via the Model Context Protocol.

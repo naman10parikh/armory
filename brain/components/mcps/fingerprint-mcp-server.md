@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:23:19Z"
 ---
 ## What it is
 Enables MCP-compatible clients to interact with Fingerprint's identification events and management APIs, supporting both private and public modes with tool filtering and multiple transport protocols.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T16:51:58Z"
 ---
 ## What it is
 Provides AI agents with a secure PR review gateway through 9 MCP tools for managing pull requests, including context retrieval, diff, checks, and merge with two-layer access control.

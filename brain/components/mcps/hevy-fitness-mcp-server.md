@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:40:12Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI assistants with access to the Hevy fitness tracking API. This allows you to log workouts, manage routines, browse exercises, and track your fitness progress directly through AI chat interfaces.

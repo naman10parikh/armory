@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T12:22:28Z"
 ---
 ## What it is
 Analyzes images using a vision AI model to provide detailed descriptions, enabling non-vision models to understand image content.

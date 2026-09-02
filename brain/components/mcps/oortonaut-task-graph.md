@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-04T23:08:14Z"
 ---
 ## What it is
 MCP server `Task Graph`, catalogued on PulseMCP. Structured agent task workflows with phases, dependency graphs, quality gates, and multi-agent coordination.

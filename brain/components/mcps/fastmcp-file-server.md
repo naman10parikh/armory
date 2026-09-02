@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-19T08:29:13Z"
 ---
 ## What it is
 A secure file server for AI assistants that provides comprehensive file operations and text manipulation with configurable access levels and multiple connection modes.

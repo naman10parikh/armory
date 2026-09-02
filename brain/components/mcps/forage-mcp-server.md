@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-21T23:02:09Z"
 ---
 ## What it is
 An MCP server that enables AI agents to automatically discover, install, and learn to use new tools without manual configuration.

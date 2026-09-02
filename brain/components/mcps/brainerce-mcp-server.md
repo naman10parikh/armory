@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:10:14Z"
 ---
 ## What it is
 Provides AI coding assistants with domain knowledge about the Brainerce headless commerce platform, including SDK reference, type definitions, business flows, critical rules, and live store capabilities.

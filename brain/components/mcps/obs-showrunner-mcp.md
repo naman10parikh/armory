@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-05T07:09:54Z"
 ---
 ## What it is
 MCP server enabling LLMs to control OBS Studio through high-level show and effect APIs.

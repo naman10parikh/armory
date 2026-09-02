@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:37:31Z"
 ---
 ## What it is
 A Model Context Protocol server for Atlassian Jira and Confluence that bypasses corporate proxies and self-signed certificates, enabling read/write operations on issues, projects, pages, and spaces using Personal Access Tokens.

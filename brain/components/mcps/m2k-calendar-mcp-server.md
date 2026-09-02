@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:35:00Z"
 ---
 ## What it is
 Enables Claude to query and manage Mail2000 calendar events, including agenda, search, booking, updating, and deleting events through natural language.

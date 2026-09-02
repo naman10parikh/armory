@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:50:38Z"
 ---
 ## What it is
 An auditable MCP gateway with JWT authentication and PostgreSQL audit logs, exposing 4 tools for permission validation, audit logging, access request, and history queries.

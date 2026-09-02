@@ -8,10 +8,12 @@ source_url: https://github.com/fabianschurig/bitbucket-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-24T14:17:03Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Bitbucket Cloud API for MCP: complete auto-generated spec coverage with customizable prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:09:53Z"
 ---
 ## What it is
 Enables hybrid document search (BM25 + vector) with Reciprocal Rank Fusion over the Atlas corpus, returning ranked chunks from documents.

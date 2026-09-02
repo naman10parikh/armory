@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:40:01Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Perfex CRM via public web forms, enabling lead creation, ticket creation, quote requests, and health checks without API keys.

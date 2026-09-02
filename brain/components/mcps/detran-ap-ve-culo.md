@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:12Z"
 ---
 ## What it is
 A read-only MCP server hosted on api.mcp.ai that provides vehicle information queries from the official DETRAN Amapá source via a single tool, payable per query with prepaid credits, and compatible with any MCP-over-HTTP client (Claude, Cursor, VS Code, etc.).

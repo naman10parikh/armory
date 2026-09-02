@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:22:20Z"
 ---
 ## What it is
 This MCP server provides evidence-based advice on vector database backends by retrieving measured benchmarks and operational traps, enabling you to ask questions and compare backends through natural language.

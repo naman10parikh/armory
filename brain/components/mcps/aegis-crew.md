@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:01:33Z"
 ---
 ## What it is
 A secure MCP server enabling tool calls (kb_search, read_doc, publish_report) through a zero-trust CapabilityBroker with OWASP LLM Top-10 guardrails and human-in-the-loop approval.

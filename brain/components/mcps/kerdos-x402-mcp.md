@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T11:11:17Z"
 ---
 ## What it is
 Exposes Kerdos Market Intelligence APIs as tools for AI trading agents, with pay-per-call in USDC via the x402 protocol—no API keys or subscriptions required.

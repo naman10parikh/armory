@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:59:10Z"
 ---
 ## What it is
 MCP server that pushes job categories into a college org via the MySkillDB API, supporting list, get, upsert, batch push, and delete operations.

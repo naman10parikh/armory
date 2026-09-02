@@ -8,11 +8,13 @@ source_url: https://github.com/Async23/read-my-chatgpt
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:56:59Z"
 ---
 ## What it is
 Provides a read-only MCP server to access ChatGPT conversation history via a local browser process. Allows AI clients to list, get, and search conversations from the authenticated user's ChatGPT account.

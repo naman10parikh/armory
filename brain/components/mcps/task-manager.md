@@ -8,10 +8,12 @@ source_url: https://github.com/bsmi021/mcp-task-manager-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-06-11T14:37:22Z"
 ---
 ## What it is
 MCP server `Task Manager`, catalogued on PulseMCP. Provides a structured API for managing projects and tasks with dependencies, enabling hierarchical organization, priority tracking, and identification of next actionable items based on completion status.

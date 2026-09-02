@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-21T13:39:18Z"
 ---
 ## What it is
 Enables automation and monitoring of React Native apps by providing tools to tap, swipe, screenshot, inspect component state, profile renders, and mock network requests via MCP.

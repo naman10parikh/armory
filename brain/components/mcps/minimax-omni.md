@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T07:57:09Z"
 ---
 ## What it is
 MCP server for MiniMax's multimodal generation models, enabling text-to-speech, voice cloning, image, video, and music creation through natural language.

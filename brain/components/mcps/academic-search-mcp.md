@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T01:21:36Z"
 ---
 ## What it is
 MCP server for academic research using the OpenAlex API, enabling article search, details retrieval, and author profile lookup.

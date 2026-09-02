@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 110
+pushed_at: "2026-08-08T22:23:10Z"
 ---
 ## What it is
 An MCP server that enables LLMs to discover, reason about, compose, and execute sktime estimator workflows via a registry-driven semantic engine.

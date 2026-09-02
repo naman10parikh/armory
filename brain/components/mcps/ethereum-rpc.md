@@ -8,10 +8,12 @@ source_url: https://github.com/0xkoda/eth-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [crypto, mcp]
+forks: 9
+pushed_at: "2025-04-01T03:34:38Z"
 ---
 
 ## What it is

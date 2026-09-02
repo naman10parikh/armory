@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:39:52Z"
 ---
 ## What it is
 MCP server wrapping the Korean Film Council (KOFIC) Box Office API, enabling retrieval of daily/weekly box office data, movie search, and detailed movie information for use with Claude via a custom connector.

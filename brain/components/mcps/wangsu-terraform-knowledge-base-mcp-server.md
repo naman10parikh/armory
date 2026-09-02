@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:08:29Z"
 ---
 ## What it is
 A retrieval-only MCP server that searches a vectorized Wangsu Terraform Provider documentation knowledge base and returns relevant snippets with rules to guide the caller's LLM in generating accurate, provider-specific answers. It offloads all inference to the calling client, as it does not invoke a

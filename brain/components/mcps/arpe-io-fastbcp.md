@@ -8,10 +8,12 @@ source_url: https://github.com/arpe-io/fastbcp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T18:05:37Z"
 ---
 ## What it is
 MCP server `FastBCP`, catalogued on PulseMCP. High-performance parallel database export to files and cloud storage with safety-first command preview.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:35:09Z"
 ---
 ## What it is
 A bridge that converts HTTP APIs into MCP tools with dynamic toolkit loading, flexible authentication, and automatic documentation.

@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-27T09:15:07Z"
 ---
 ## What it is
 MCP server `NetTune`, catalogued on PulseMCP. Network diagnostics and TCP optimization tool for Linux servers with automated tuning profiles and safe rollback capabilities.

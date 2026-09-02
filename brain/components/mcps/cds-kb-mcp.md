@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T06:24:54Z"
 ---
 ## What it is
 A dataless MCP server that searches the SAP CDS knowledge base, allowing users to query view metadata and retrieve full view details using local or remote data sources.

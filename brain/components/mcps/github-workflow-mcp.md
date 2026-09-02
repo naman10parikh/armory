@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:19:35Z"
 ---
 ## What it is
 Automates GitHub workflows (branch creation, testing, commit/push, PR) through natural language instructions in Claude Code.

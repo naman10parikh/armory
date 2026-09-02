@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T17:23:39Z"
 ---
 ## What it is
 A proxy MCP server that connects to Tavily's official Streamable HTTP MCP, managing multiple API keys and automatically switching to the next one when the current key's quota is exhausted.

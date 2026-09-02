@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-10T17:23:50Z"
 ---
 ## What it is
 Enables solving constraint satisfaction problems, mathematical equations, and logic puzzles using the Z3 SMT solver through natural language.

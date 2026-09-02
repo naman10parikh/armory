@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T08:28:07Z"
 ---
 ## What it is
 Enables querying GitLab projects, pipelines, and jobs, and triggering manual deployment jobs after user confirmation, with secure token handling and scope restrictions.

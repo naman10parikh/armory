@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T21:34:04Z"
 ---
 ## What it is
 MCP server that connects an LLM assistant to Autodesk Civil 3D via COM, enabling direct manipulation of surfaces, alignments, COGO points, layers, profiles, and more through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/mahdin75/geoserver-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-08-16T12:14:22Z"
 ---
 ## What it is
 MCP server `GeoServer`, catalogued on PulseMCP. Provides a bridge to GeoServer's REST API for managing geospatial data, enabling workspace management, layer operations, feature querying, and map generation through WMS/WFS services.

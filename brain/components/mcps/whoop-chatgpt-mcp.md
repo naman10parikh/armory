@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:15:36Z"
 ---
 ## What it is
 Enables users to deploy a stateless remote MCP server on Cloudflare Workers and connect it to MCP clients such as Claude Desktop and Cloudflare AI Playground via the mcp-remote proxy.

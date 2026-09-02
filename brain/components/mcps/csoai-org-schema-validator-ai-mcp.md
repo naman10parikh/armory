@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:43:19Z"
 ---
 ## What it is
 MCP server `Schema Validator AI`, catalogued on PulseMCP. Python MCP server for schema validation and data integrity checks.

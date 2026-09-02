@@ -8,10 +8,12 @@ source_url: https://github.com/get-lucid/lucid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-14T14:39:00Z"
 ---
 ## What it is
 MCP server `Lucid`, catalogued on PulseMCP. Replaces outdated training data with real-time information from live sources through documentation search, package version checking, fact verification, and API reference fetching.

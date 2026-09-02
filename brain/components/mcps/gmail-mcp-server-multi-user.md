@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T07:50:28Z"
 ---
 ## What it is
 Multi-user Gmail MCP server that enables sending/receiving emails, managing accounts, and searching mail via SMTP/IMAP with per-user isolation and encrypted app passwords.

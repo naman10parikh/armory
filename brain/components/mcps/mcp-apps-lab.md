@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:06:07Z"
 ---
 ## What it is
 A FastMCP server that exposes interactive prefab apps for quizzes, weather dashboards, and live news curation, along with resources and prompts. It lets users take quizzes, check weather, and get news briefings through natural language.

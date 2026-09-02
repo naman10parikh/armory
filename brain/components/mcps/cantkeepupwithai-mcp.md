@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:20:07Z"
 ---
 ## What it is
 MCP server exposing AI trends, daily digests, toolbox search, and pipeline stats from cantkeepupwithai.com to MCP clients like Claude Desktop.

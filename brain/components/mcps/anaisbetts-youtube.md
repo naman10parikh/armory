@@ -8,10 +8,12 @@ source_url: https://github.com/anaisbetts/mcp-youtube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 524
+stars: 544
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 64
+pushed_at: "2026-08-16T10:30:36Z"
 ---
 ## What it is
 MCP server `YouTube`, catalogued on PulseMCP. Extract and analyze video subtitle data for content understanding.

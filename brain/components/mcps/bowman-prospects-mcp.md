@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T16:13:09Z"
 ---
 ## What it is
 Classifies Bowman Prospects baseball cards using image recognition, provides player statistics and market pricing data to determine card value.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T08:40:54Z"
 ---
 ## What it is
 Exposes Nerve blockchain JSON-RPC and REST APIs as MCP tools, enabling AI agents to receive, pay, swap, and query balances with local account management and no gas fees.

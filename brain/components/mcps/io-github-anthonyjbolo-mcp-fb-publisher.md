@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T00:20:26Z"
 ---
 ## What it is
 MCP server to safely publish posts to multiple Facebook Pages via Meta Graph API, with built-in guardrails for brand voice, banned topics, image requirements, and anti-duplication.

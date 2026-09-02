@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T11:42:03Z"
 ---
 ## What it is
 A powerful MCP server that enables AI assistants like Claude to access, analyze, and optimize solar energy data from FoxESS inverters.

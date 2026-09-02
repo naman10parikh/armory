@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:44:57Z"
 ---
 ## What it is
 Enables querying the existence and details of protests (protestos) for individuals and legal entities registered in notary offices across Brazil. It is a read-only MCP server that works with any MCP client over HTTP, using pre-paid credits.

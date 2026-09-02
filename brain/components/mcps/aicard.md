@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:34:52Z"
 ---
 ## What it is
 Enables AI agents to auto-generate NIST AI RMF and EU AI Act Annex IV compliant model and system cards via MCP.

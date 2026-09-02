@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:08:37Z"
 ---
 ## What it is
 Enables reverse image search using Yandex via Apify, returning structured JSON with matching pages, similar images, and more.

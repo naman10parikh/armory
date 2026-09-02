@@ -8,10 +8,12 @@ source_url: https://github.com/sinco-lab/mcp-youtube-transcript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-20T08:21:44Z"
 ---
 ## What it is
 MCP server `YouTube Transcript`, catalogued on PulseMCP. Extracts and formats YouTube video transcripts with language selection, paragraph formatting, and metadata enrichment for content analysis and research workflows.

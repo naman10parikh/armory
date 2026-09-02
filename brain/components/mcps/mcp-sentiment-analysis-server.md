@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-16T11:31:43Z"
 ---
 ## What it is
 A robust MCP server for real-time sentiment analysis with AI-powered insights, featuring multi-dimensional emotion detection, batch processing, and a Gradio web interface.

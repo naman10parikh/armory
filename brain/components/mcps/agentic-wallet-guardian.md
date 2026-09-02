@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T16:24:52Z"
 ---
 ## What it is
 A self-hosted decision engine that sits between an AI agent and blockchain execution. Agents submit a proposed action, Guardian returns an explainable ALLOW / WARN / BLOCK before anything gets signed or broadcast.

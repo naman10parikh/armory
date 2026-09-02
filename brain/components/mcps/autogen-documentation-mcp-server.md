@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-10T15:10:42Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve Microsoft AutoGen documentation across versions with smart search and fallback.

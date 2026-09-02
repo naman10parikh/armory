@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-05-16T21:11:47Z"
 ---
 ## What it is
 Enables natural language interaction for token launches, liquidity management, and treasury operations on Solana via the Model Context Protocol.

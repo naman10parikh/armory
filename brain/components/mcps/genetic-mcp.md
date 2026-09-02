@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-11T14:37:33Z"
 ---
 ## What it is
 Enables evolutionary idea generation using genetic algorithms with LLM workers, multi-objective fitness evaluation, and advanced genetic operations.

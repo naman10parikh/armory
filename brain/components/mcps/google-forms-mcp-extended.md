@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:10:01Z"
 ---
 ## What it is
 Enables creating, editing, publishing, and inspecting Google Forms from Codex, with 22 tools for question authoring, quizzes, media, item management, and response retrieval.

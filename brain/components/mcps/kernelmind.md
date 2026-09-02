@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T02:30:19Z"
 ---
 ## What it is
 Enables monitoring and optimization of Linux system kernel metrics via MCP, with ethical safeguards requiring human consent for actions.

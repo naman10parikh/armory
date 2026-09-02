@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:12Z"
 ---
 ## What it is
 MCP server `Tech Enrichment`, catalogued on PulseMCP. Detect 50+ technologies used on any website including CMS, frameworks, analytics, and CDN.

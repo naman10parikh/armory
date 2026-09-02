@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-12-21T10:01:51Z"
 ---
 ## What it is
 A comprehensive MCP server that provides access to U.S. FDA public datasets via the openFDA API, enabling querying of drug adverse events, labeling, recalls, approvals, shortages, NDC directory, and medical device regulatory data.

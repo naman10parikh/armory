@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T20:11:19Z"
 ---
 ## What it is
 Enables LLMs to query Azure service pricing via the public Azure Retail Prices API, with tools for searching prices, estimating costs, comparing regions, and listing services.

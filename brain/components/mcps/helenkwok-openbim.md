@@ -8,10 +8,12 @@ source_url: https://github.com/helenkwok/openbim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-18T04:48:40Z"
 ---
 ## What it is
 MCP server `OpenBIM`, catalogued on PulseMCP. Converts IFC building files to efficient fragment format and enables querying of BIM elements by category with configurable attributes and relations for architectural and construction workflows.

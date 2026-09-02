@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-08T13:51:25Z"
 ---
 ## What it is
 MCP server `NPM Command Runner`, catalogued on PulseMCP. Execute npm and npx commands.

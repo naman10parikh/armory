@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T07:44:50Z"
 ---
 ## What it is
 An MCP server for clinical workflows with tools for patient lookup, appointment booking, prescriptions, drug interactions, symptom triage, lab results, insurance eligibility, and telehealth, enforcing role-based access control and audit logging.

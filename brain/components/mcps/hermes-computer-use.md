@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-20T14:50:18Z"
 ---
 ## What it is
 Pixel-level browser automation MCP server that drives a real Chrome browser using screenshots as vision input and OS-level mouse/keyboard as output, evading anti-bot detection.

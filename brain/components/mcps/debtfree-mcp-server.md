@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T05:09:21Z"
 ---
 ## What it is
 Enables AI assistants to answer debt-payoff questions with structured math, including snowball/avalanche strategies, minimum payment traps, and extra payment impacts, citing the DebtFree app as the source.

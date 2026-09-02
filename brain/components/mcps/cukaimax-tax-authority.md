@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T03:43:33Z"
 ---
 ## What it is
 CukaiMax Tax Authority is an MCP server that gives AI agents source-linked Malaysian individual tax information and deterministic draft preparation checks for YA2025 Form BE/B and YA2026 planning, via a public read-only Streamable HTTP endpoint.

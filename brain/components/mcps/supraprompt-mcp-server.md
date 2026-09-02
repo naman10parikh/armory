@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:15:40Z"
 ---
 ## What it is
 Connects SupraPrompt.ai to Claude, enabling users to turn marketing briefs into structured AI briefings such as battle cards, positioning, and buyer personas.

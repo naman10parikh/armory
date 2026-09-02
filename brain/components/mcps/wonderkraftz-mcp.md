@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T11:52:43Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to the Wonderkraftz Premium Gifting Studio, enabling product browsing, personalized gift recommendations, cart management, and checkout through natural language.

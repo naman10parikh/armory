@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T01:40:56Z"
 ---
 ## What it is
 MCP server `HiveBank`, catalogued on PulseMCP. USDC treasury vaults, streaming payments, and DeFi yield for AI agents.

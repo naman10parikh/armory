@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:32Z"
 ---
 ## What it is
 Enables AI agents to connect and interact with common business platforms like Shopify, WordPress, and Calendly via pre-built connectors for tasks such as product management, content operations, and scheduling.

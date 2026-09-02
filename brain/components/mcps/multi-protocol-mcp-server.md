@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-16T06:42:22Z"
 ---
 ## What it is
 A framework that supports stdio, streamable HTTP, and SSE protocols for MCP services, enabling one-time development for multiple platforms.

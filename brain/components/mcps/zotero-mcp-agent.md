@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T11:10:24Z"
 ---
 ## What it is
 Enables research paper search and download, Zotero library management, and knowledge base export through natural language.

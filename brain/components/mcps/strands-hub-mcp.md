@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T15:03:46Z"
 ---
 ## What it is
 MCP server to manage agents, prompts, sessions, and metrics using strands-hub data stored in S3. Provides tools for listing agents, creating prompt versions, and querying run metrics.

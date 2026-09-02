@@ -8,10 +8,12 @@ source_url: https://github.com/ai-dashboad/flutter-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 268
+stars: 363
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 54
+pushed_at: "2026-09-01T11:56:02Z"
 ---
 ## What it is
 MCP server `Flutter Skill`, catalogued on PulseMCP. AI E2E testing bridge for apps across 8 platforms with 40+ tools.

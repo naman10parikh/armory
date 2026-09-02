@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:20:17Z"
 ---
 ## What it is
 Enables programming agents to capture errors and conversation signals, reflect on root causes, consolidate reusable skills, and retrieve relevant context for future tasks, providing a self-learning memory loop.

@@ -8,10 +8,12 @@ source_url: https://github.com/skymoore/grokipedia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-23T16:22:37Z"
 ---
 ## What it is
 MCP server `Grokipedia`, catalogued on PulseMCP. Integrates with Grokipedia wiki-style knowledge base to provide advanced search capabilities with filtering options, intelligent page retrieval with smart suggestions, section-based content extraction for long articles, and access to citations and related pages for research workflows.

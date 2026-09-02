@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T23:57:46Z"
 ---
 ## What it is
 MCP server `Plesk Dev Docs`, catalogued on PulseMCP. Provides hybrid semantic search across Plesk developer documentation including Admin Guide, REST API, CLI, PHP SDK, and JavaScript SDK.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-11-06T17:57:36Z"
 ---
 ## What it is
 Provides weather forecast tools via the Model Context Protocol, enabling users to query weather data for destinations through natural language.

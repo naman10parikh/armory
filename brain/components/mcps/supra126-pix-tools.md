@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T22:36:53Z"
 ---
 ## What it is
 MCP server `Pix Tools`, catalogued on PulseMCP. Generates barcodes, word clouds, color palettes, charts, identicons, and placeholder images programmatically.

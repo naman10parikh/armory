@@ -8,11 +8,13 @@ source_url: https://github.com/dpmadsen/multimodels-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-01T18:16:09Z"
 ---
 ## What it is
 Delegate tasks from Claude Code to other models (Codex CLI, DeepSeek, OpenRouter, etc.) without leaving the app.

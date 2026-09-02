@@ -8,10 +8,12 @@ source_url: https://github.com/zeparhyfar/mcp-datetime
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2024-12-13T06:39:14Z"
 ---
 ## What it is
 MCP server `Datetime Formatter`, catalogued on PulseMCP. Provides flexible, timezone-aware date and time formatting across various locales.

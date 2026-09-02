@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T02:27:21Z"
 ---
 ## What it is
 An MCP server for Splitwise that lets you manage expenses, balances, settlements, groups, and comments in natural language from any MCP client.

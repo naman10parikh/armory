@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:38:56Z"
 ---
 ## What it is
 Comprehensive MCP server for Langfuse, enabling AI assistants to access and manage traces, observations, scores, datasets, and sessions for observability.

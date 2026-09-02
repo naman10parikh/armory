@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T22:24:29Z"
 ---
 ## What it is
 MCP server `Product Source`, catalogued on PulseMCP. Real-time product data across 450+ retailers. Query any UPC for prices, images, and margin data.

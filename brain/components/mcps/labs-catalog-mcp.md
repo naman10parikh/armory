@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T06:30:45Z"
 ---
 ## What it is
 Exposes an AI labs registry as MCP tools, enabling listing labs, retrieving lab details, and searching enterprise decisions.

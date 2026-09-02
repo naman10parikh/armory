@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:04Z"
 ---
 ## What it is
 Hosted MCP server for querying official labor court (TRT15) case information via pre-paid credits, read-only, works with any MCP HTTP client.

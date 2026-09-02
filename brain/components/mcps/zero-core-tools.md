@@ -8,10 +8,12 @@ source_url: https://github.com/meltingpixelsai/zero-core-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-17T20:25:00Z"
 ---
 ## What it is
 MCP server `Zero Core Tools`, catalogued on PulseMCP. Agent utility tools for web scraping, code review, content generation, and sentiment analysis.

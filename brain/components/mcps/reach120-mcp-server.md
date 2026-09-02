@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:59:31Z"
 ---
 ## What it is
 Enables AI agents to fetch TOEFL iBT Writing practice prompts and score written responses via the Reach120 practice API, returning automated practice scores and rationales.

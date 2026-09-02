@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T16:50:00Z"
 ---
 ## What it is
 Enables interaction with SIPp, a SIP protocol testing tool, allowing users to run SIPp scenarios, create custom XML scenarios, retrieve statistics, and verify SIPp installation through natural language queries.

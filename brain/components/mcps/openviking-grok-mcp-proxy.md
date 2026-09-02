@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T02:18:32Z"
 ---
 ## What it is
 Bridges Grok CLI to an OpenViking context database over MCP, enabling memory and code tools like recall, search, and resource management.

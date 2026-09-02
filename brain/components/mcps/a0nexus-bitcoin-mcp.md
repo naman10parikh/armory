@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:23:20Z"
 ---
 ## What it is
 Provides live Bitcoin network data (fees, mempool, hashrate) and AI-powered price/fee forecasts via MCP tools, with free access to basic data and pay-per-call for advanced features.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T03:59:20Z"
 ---
 ## What it is
 An MCP server that exposes VeloDB analytics data to AI clients through a governed semantic metrics layer (MetricFlow) and raw SQL fallback, with multi-workspace isolation, staging workflows, and a web UI for managing models.

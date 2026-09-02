@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T18:04:35Z"
 ---
 ## What it is
 Resilient multi-CLI orchestration server for AI agents that routes tasks to Claude, Gemini, or Codex with automatic retry, circuit breaker, and fallback.

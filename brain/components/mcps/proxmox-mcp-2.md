@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:52:42Z"
 ---
 ## What it is
 An MCP server that exposes Proxmox VE node/cluster as tools for MCP clients, enabling management of VMs and containers including power control, resource reconfiguration, snapshots, and backups.

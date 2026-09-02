@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:43:48Z"
 ---
 ## What it is
 Enables retrieval of academic literature metadata via DOI or search using the Crossref REST API.

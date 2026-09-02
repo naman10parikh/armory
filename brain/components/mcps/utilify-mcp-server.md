@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-21T18:46:34Z"
 ---
 ## What it is
 Enables AI agents to search, compare, and sign up for Texas utility plans (electricity, internet, gas, water, trash) across all ZIP codes, returning ranked options with one-click signup links.

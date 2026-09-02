@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T06:56:33Z"
 ---
 ## What it is
 Search and retrieve US federal court cases, dockets, claims, and documents via PACER — directly from Claude and other MCP-compatible AI assistants.

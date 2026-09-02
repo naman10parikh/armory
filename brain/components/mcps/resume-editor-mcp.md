@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T01:46:24Z"
 ---
 ## What it is
 MCP server for AI-native resume optimization, providing tools to load JD, analyze match, rewrite sections, and assemble customized resumes.

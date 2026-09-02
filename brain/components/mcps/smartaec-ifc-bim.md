@@ -8,10 +8,12 @@ source_url: https://github.com/smartaec/ifcmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-08T13:29:52Z"
 ---
 ## What it is
 MCP server `IFC Building Information Modeling`, catalogued on PulseMCP. Integrates with IFC (Industry Foundation Classes) building information modeling files to extract entities, properties, spatial relationships, and geometric data for construction professionals analyzing architectural and engineering information.

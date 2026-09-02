@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-09T01:41:51Z"
 ---
 ## What it is
 Enables AI assistants to perform domain reconnaissance using theHarvester OSINT tool, including email harvesting, subdomain discovery, DNS brute force, and Shodan integration, via SSH on a Kali Linux host.

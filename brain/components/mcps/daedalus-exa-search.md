@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:26:24Z"
 ---
 ## What it is
 MCP server `Exa Search (daedalus)`, catalogued on PulseMCP. Exposes Exa web search capabilities including general search, code discovery, URL crawling, and filtered queries.

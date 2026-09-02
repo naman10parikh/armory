@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:51Z"
 ---
 ## What it is
 Enables read-only access to Bity cryptocurrency account balances, market data (ticker, order book, trades), and order history via the official API.

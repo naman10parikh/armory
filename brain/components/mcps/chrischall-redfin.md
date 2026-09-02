@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:32:35Z"
 ---
 ## What it is
 MCP server `Redfin`, catalogued on PulseMCP. Search Redfin property listings, view property details, market reports, and saved homes using your browser session.

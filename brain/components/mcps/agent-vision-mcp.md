@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T10:49:16Z"
 ---
 ## What it is
 Provides image analysis, inspection, cropping, OCR, and comparison capabilities via the Model Context Protocol, allowing AI agents to process and manipulate images using vision models.

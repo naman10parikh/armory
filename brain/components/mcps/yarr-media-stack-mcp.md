@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-02-11T17:04:53Z"
 ---
 ## What it is
 Enables natural language control of self-hosted media services like Sonarr, Prowlarr, Overseerr, and Gotify through the Model Context Protocol.

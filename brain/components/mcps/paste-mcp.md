@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:48:04Z"
 ---
 ## What it is
 Connect Paste to Claude, Codex, Cursor, and other AI tools to access your clipboard.

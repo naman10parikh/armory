@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:01:44Z"
 ---
 ## What it is
 Exposes NI SystemLink test-and-measurement data to AI clients via MCP, providing test-domain tools for yield by product revision, failing DUT steps versus spec limits, measurement-trace summaries, and calibration-due assets.

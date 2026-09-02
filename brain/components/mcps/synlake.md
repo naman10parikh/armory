@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T05:02:25Z"
 ---
 ## What it is
 MCP server `Synlake`, catalogued on PulseMCP. Compare, estimate, and deploy cloud infrastructure across AWS, GCP, and Azure for AI agents.

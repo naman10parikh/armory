@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-19T23:11:33Z"
 ---
 ## What it is
 MCP server `Brave Search SSE`, catalogued on PulseMCP. Delivers real-time Brave Search results via Server-Sent Events (SSE), maintaining persistent connections for immediate display without polling requirements.

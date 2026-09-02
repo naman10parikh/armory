@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-01T10:22:48Z"
 ---
 ## What it is
 Lets coding agents fetch real social media and web data from platforms like TikTok, Instagram, YouTube, and more, directly inside editors like Cursor and VS Code.

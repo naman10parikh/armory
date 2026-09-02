@@ -8,10 +8,12 @@ source_url: https://github.com/maxistechnology-dev/maximo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T09:31:52Z"
 ---
 ## What it is
 MCP server `Maximo Enterprise`, catalogued on PulseMCP. Integrates IBM Maximo's asset management platform via OSLC API with configurable auth modes.

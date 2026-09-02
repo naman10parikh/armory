@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-12T12:26:26Z"
 ---
 ## What it is
 Provides financial agents access to the Financial Industry Business Ontology (FIBO) for querying financial concepts, terms, and relationships through natural language.

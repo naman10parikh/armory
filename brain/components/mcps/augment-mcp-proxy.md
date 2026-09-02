@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T02:12:09Z"
 ---
 ## What it is
 Connects Augment to third-party Anthropic-compatible APIs locally, letting users keep full Augment functionality without spending Augment credits and while keeping code on their own machine.

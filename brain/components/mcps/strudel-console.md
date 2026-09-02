@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T11:48:37Z"
 ---
 ## What it is
 Enables music composition and playback using Strudel patterns in the terminal. Supports multi-track editing, effects, rendering to WAV, and AI-assisted composition via genre presets.

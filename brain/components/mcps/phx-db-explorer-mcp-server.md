@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:48:29Z"
 ---
 ## What it is
 Exposes a SQL Server database schema to AI assistants, enabling discovery of tables, views, stored procedures, functions, indexes, and foreign keys through MCP tools.

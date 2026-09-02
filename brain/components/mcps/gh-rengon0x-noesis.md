@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T14:26:20Z"
 ---
 ## What it is
 MCP server `Noesis`, catalogued on PulseMCP. Analyzes Solana blockchain tokens, wallets, and on-chain activity with 19 intelligence tools.

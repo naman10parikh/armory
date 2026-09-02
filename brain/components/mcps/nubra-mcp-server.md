@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-07T07:03:15Z"
 ---
 ## What it is
 Enables interaction with the Nubra trading platform for authentication, instrument lookup, quotes, historical data, options analytics, portfolio management, report generation, screening, backtesting, and order placement via UAT environment.

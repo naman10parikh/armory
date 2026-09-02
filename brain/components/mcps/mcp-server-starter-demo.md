@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T04:22:30Z"
 ---
 ## What it is
 A minimal TypeScript MCP server that provides echo and text_stats tools for text validation and word/character counting over stdio.

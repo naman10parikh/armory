@@ -8,10 +8,12 @@ source_url: https://github.com/disler/just-prompt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 730
+stars: 739
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 132
+pushed_at: "2025-08-10T19:05:53Z"
 ---
 ## What it is
 MCP server `Just Prompt (Multi-LLM Provider)`, catalogued on PulseMCP. Unified interface for interacting with multiple LLM providers including OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama with parallel prompt sending and response file saving capabilities.

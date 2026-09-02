@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T14:25:51Z"
 ---
 ## What it is
 MCP server `RDKit 3D Molecular Viewer`, catalogued on PulseMCP. Generates interactive 3D molecular structures from SMILES or InChI inputs with RDKit conformer generation, 3Dmol.js visualization, multiple rendering styles, and measurement tools.

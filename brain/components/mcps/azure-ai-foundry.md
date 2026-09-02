@@ -8,10 +8,12 @@ source_url: https://github.com/microsoft-foundry/mcp-foundry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 248
+stars: 259
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 120
+pushed_at: "2026-07-10T20:15:46Z"
 ---
 ## What it is
 MCP server `Azure AI Foundry`, catalogued on PulseMCP. Integrates with Microsoft Azure AI Foundry to enable model deployment, experiment tracking, dataset management, and access to Azure's cognitive services for machine learning project workflows.

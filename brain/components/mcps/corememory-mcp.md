@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-25T23:55:48Z"
 ---
 ## What it is
 Provides a local, persistent long-term memory service for MCP-compatible AI agents, enabling them to store, search, and recall information across sessions.

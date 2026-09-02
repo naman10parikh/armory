@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T15:59:25Z"
 ---
 ## What it is
 A runnable example of building interactive in-chat UI with MCP Apps, demonstrating a pizza builder widget that lets users pick options and place orders through sandboxed HTML interfaces.

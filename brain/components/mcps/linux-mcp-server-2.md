@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-26T15:15:17Z"
 ---
 ## What it is
 Enables remote execution of Linux commands via SSH, supporting system monitoring, file operations, and secure authentication with configurable safety controls.

@@ -8,10 +8,12 @@ source_url: https://github.com/eunomia-bpf/mcptrace
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-02-12T01:32:41Z"
 ---
 ## What it is
 MCP server `bpftrace`, catalogued on PulseMCP. Provides Linux kernel tracing capabilities through bpftrace integration with probe discovery, helper function documentation, asynchronous program execution with timeout protection, and buffered output retrieval for system debugging and performance monitoring.

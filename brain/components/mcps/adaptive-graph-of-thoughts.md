@@ -8,10 +8,12 @@ source_url: https://github.com/saptadey/adaptive-graph-of-thoughts-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-24T19:30:55Z"
 ---
 ## What it is
 MCP server `Adaptive Graph of Thoughts`, catalogued on PulseMCP. Processes complex scientific queries through an 8-stage Graph-of-Thoughts pipeline that decomposes questions into hypotheses, gathers evidence, builds knowledge graphs in Neo4j, and provides confidence-scored conclusions with bias detection and falsifiability assessment for systematic research analysis.

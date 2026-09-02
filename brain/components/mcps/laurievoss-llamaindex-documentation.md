@@ -8,10 +8,12 @@ source_url: https://github.com/run-llama/llamacloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 223
+stars: 225
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-08-03T18:59:25Z"
 ---
 ## What it is
 MCP server `LlamaCloud`, catalogued on PulseMCP. Provides an interface to LlamaCloud, a managed platform for data parsing, ingestion, retrieval, structured data extraction, and more

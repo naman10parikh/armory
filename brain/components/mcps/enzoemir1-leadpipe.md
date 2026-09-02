@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T21:50:40Z"
 ---
 ## What it is
 MCP server `LeadPipe`, catalogued on PulseMCP. AI-powered lead qualification engine to ingest, enrich, score, and export leads to CRMs.

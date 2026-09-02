@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-12T09:38:38Z"
 ---
 ## What it is
 Converts Markdown files and content to styled PDFs with S3 integration, Mermaid diagrams, and ApexCharts support, supporting stdio, HTTP, and SSE transport modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:13:41Z"
 ---
 ## What it is
 Local-first multi-agent delegation and approval control for Codex via MCP, with persistent task DAG, isolated worktrees, and a web console.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-09T16:48:55Z"
 ---
 ## What it is
 MCP server `Vistoya`, catalogued on PulseMCP. Fashion product search and recommendations across multiple e-commerce stores.

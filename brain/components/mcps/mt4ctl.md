@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T09:36:06Z"
 ---
 ## What it is
 An MCP server for operating headless MetaTrader 4 terminals remotely over SSH, enabling status checks, logs, screenshots, systemd control, and automated first-login.

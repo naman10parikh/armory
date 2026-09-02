@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:13:59Z"
 ---
 ## What it is
 Controls two browser sessions (Edge IE mode and Chromium Edge) simultaneously to capture and compare screenshots for visual regression testing of legacy-to-modern UI migration.

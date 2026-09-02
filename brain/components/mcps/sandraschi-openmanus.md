@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T10:43:48Z"
 ---
 ## What it is
 MCP server `OpenManus`, catalogued on PulseMCP. Bridges OpenManus AI agent framework with editor workflows, providing prompt execution, job polling, a web dashboard, and local LLM chat integration.

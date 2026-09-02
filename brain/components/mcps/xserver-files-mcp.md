@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:23:12Z"
 ---
 ## What it is
 A local stdio MCP server for managing files on XServer via SFTP, enabling secure file operations, backups, and workspace management for XServer hosting.

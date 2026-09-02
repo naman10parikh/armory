@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T07:56:57Z"
 ---
 ## What it is
 Self-contained MCP server for Zalo that enables AI agents like Claude Code and Cursor to automate Zalo Personal and Official Accounts via a 1-click sandboxed deployment.

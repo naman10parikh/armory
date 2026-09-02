@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-10T16:07:57Z"
 ---
 ## What it is
 MCP server `PRD Generator`, catalogued on PulseMCP. Transforms README files into structured Product Requirements Documents using a template-based approach for quickly bootstrapping PRD documentation from existing project files.

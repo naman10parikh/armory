@@ -8,10 +8,12 @@ source_url: https://github.com/siddharth11roy/tldraw-claude-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T07:29:18Z"
 ---
 ## What it is
 MCP server `tldraw`, catalogued on PulseMCP. Draw shapes on a live tldraw canvas in real-time with four tools for creating, updating, and deleting elements.

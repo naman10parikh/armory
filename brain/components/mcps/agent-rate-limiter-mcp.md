@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T05:26:14Z"
 ---
 ## What it is
 Fleet-wide shared rate limiter for A2A + multi-MCP deployments, providing a shared counter with sliding window, concurrency grants, and signed enforcement attestations.

@@ -8,11 +8,13 @@ source_url: https://github.com/tuskermanshu/vue-mcp-next
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-02T02:47:55Z"
 ---
 ## What it is
 Enables real-time debugging and state manipulation of Vue.js applications through MCP protocol, integrating with Vue DevTools to access component trees, states, router info, and Pinia stores.

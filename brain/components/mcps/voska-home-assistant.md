@@ -8,10 +8,12 @@ source_url: https://github.com/voska/hass-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 298
+stars: 338
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 50
+pushed_at: "2026-08-06T11:24:41Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Integrates with Home Assistant to enable natural language control of smart home devices, querying device states, troubleshooting automations, and summarizing home configurations through a Docker container that communicates with the Home Assistant API.

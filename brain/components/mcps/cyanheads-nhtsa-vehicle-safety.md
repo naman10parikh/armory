@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T23:18:32Z"
 ---
 ## What it is
 MCP server `NHTSA Vehicle Safety`, catalogued on PulseMCP. Vehicle safety data from NHTSA — recalls, complaints, crash ratings, investigations, and VIN decoding.

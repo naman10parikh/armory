@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T23:37:14Z"
 ---
 ## What it is
 Enables AI assistants to query local Migas meeting transcripts, including searching, listing meetings, and retrieving speaker contributions, all read-only.

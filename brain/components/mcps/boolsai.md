@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T13:30:20Z"
 ---
 ## What it is
 Enables AI agents to live-scan any public site's tech stack and query a pre-indexed directory of ecommerce vendors, account IDs, and quant signals, all without authentication.

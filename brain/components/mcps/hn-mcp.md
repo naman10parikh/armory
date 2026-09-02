@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-28T20:09:12Z"
 ---
 ## What it is
 MCP server enabling AI agents to interact with Hacker News, including fetching full comment trees with depth control, searching stories and comments, and retrieving user profiles.

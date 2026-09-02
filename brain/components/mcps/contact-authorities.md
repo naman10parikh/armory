@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-24T18:22:34Z"
 ---
 ## What it is
 MCP server `Contact Authorities`, catalogued on PulseMCP. Enables AI systems to log emergency contact events with rate limiting and persistent storage using Supabase for reporting suspicious activities, cybersecurity incidents, or emergency situations.

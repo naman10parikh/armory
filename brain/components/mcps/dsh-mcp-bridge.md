@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:40:34Z"
 ---
 ## What it is
 In-process DeepSeek Harness plugin that exposes a local Streamable HTTP MCP server, allowing MCP clients like Codex to submit tasks executed by DSH child agents using DSH's existing tools.

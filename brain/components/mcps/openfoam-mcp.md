@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:22:53Z"
 ---
 ## What it is
 Turns any MCP client into an OpenFOAM setup and debugging co-pilot, enabling case scaffolding, dictionary edits, mesh sizing, inlet turbulence calculations, and solver-log convergence checks through natural language.

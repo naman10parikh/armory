@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:09:57Z"
 ---
 ## What it is
 MCP server that directly queries the Korean National Tax Service tax law information system for tax law interpretations, precedents, and guidance. It supports exact document-number lookup, keyword search, and structured retrieval of ruling details and legal grounds.

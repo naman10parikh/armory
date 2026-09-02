@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T13:01:10Z"
 ---
 ## What it is
 LLM memory management system that stores corrections, preferences, decisions, and learnings in a local SQLite database with semantic search, exposed as an MCP server for automatic memory read/write by any MCP-compatible LLM harness.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T09:08:02Z"
 ---
 ## What it is
 Fetches books by genre or subject from the Open Library API without requiring an API key, returning titles, authors, and publication years.

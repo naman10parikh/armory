@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-13T16:48:32Z"
 ---
 ## What it is
 MCP server `BrianKnows`, catalogued on PulseMCP. Integrates with the BrianKnows knowledge base API to enable searches and information retrieval from specialized domain-specific databases.

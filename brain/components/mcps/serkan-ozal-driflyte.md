@@ -8,10 +8,12 @@ source_url: https://github.com/serkan-ozal/driflyte-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-10-02T05:26:35Z"
 ---
 ## What it is
 MCP server `Driflyte`, catalogued on PulseMCP. Query and retrieve topic-specific knowledge from recursively crawled and indexed web pages

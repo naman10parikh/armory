@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 5
+forks: 2
+pushed_at: "2026-02-17T21:31:25Z"
 ---
 ## What it is
 Persistent, searchable context storage across Claude Code sessions using SQLite FTS5. Save sessions with AI-generated summaries, two-tier full-text search, checkpoint recovery, and a web dashboard.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:03:04Z"
 ---
 ## What it is
 Renders charts and diagrams as live interactive UI inside the chat, supporting ECharts for charts and Cytoscape for diagrams with streaming partial updates.

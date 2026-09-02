@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-12T18:30:56Z"
 ---
 ## What it is
 Provides geocoding, reverse geocoding, location lookup, and DigiPin processing capabilities using the QuantaRoute API, enabling AI assistants to convert addresses to coordinates and retrieve administrative boundaries.

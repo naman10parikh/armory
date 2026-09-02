@@ -8,10 +8,12 @@ source_url: https://github.com/shangri-la-0428/oasyce_psyche
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-14T17:54:39Z"
 ---
 ## What it is
 MCP server `Psyche AI`, catalogued on PulseMCP. Emotional intelligence framework with neurotransmitter mood simulation, personality, and trait drift.

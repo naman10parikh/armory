@@ -8,10 +8,12 @@ source_url: https://github.com/laksh-star/mcp-server-tmdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-06-07T03:22:05Z"
 ---
 ## What it is
 MCP server `TMDB Movie Data`, catalogued on PulseMCP. Integrate TMDB movie data for search, trending, and recommendation capabilities for films.

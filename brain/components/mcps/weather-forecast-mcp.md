@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:59:35Z"
 ---
 ## What it is
 Enables querying South Korean meteorological observation data and short-term forecasts by region name or grid coordinates via the MCP protocol.

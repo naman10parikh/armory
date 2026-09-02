@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:05:42Z"
 ---
 ## What it is
 Exposes tools for enterprise AI memory buyer routes, including checkout links and paid route recommendations based on buyer context.

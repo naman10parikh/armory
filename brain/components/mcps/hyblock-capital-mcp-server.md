@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T08:51:51Z"
 ---
 ## What it is
 An MCP server exposing 53 tools covering the Hyblock Capital API for orderflow, funding, sentiment, liquidity, and more, with automatic OAuth2 token management.

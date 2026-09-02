@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:19:41Z"
 ---
 ## What it is
 Deterministic Odoo ERP calculators: implementation, migration and upgrade cost, ROI and TCO, US/Canada/EU sales tax and VAT, Canadian payroll source deductions, and inventory maths (reorder point, safety stock, EOQ, landed cost, OEE). 24 tools, each a pure function, the numbers are arithmetic rather

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-18T20:38:16Z"
 ---
 ## What it is
 MCP server `Social Search`, catalogued on PulseMCP. Search across social media platforms using SearXNG, Serper, or Google Custom Search with domain-specific filtering.

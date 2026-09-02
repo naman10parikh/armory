@@ -8,10 +8,12 @@ source_url: https://github.com/mthelm85/plutomcp.jl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-17T02:25:23Z"
 ---
 ## What it is
 MCP server `PlutoMCP.jl`, catalogued on PulseMCP. Exposes live Pluto.jl notebooks for real-time inspection and manipulation through MCP with SSE and stdio transports.

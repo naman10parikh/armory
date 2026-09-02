@@ -8,10 +8,12 @@ source_url: https://github.com/mobilehackinglab/jadx-mcp-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 96
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-02-04T20:08:59Z"
 ---
 ## What it is
 MCP server `JADX Android Decompiler`, catalogued on PulseMCP. A plugin for Jadx that exposes the MCP API, enabling intelligent navigation and automation of reverse engineering workflows — ideal for AI-assisted analysis of Android apps.

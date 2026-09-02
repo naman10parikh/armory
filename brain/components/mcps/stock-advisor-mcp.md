@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:41:49Z"
 ---
 ## What it is
 A FastMCP server that provides stock research, technical analysis, fundamental analysis, and scoring, exposed as MCP tools, resources, and prompts for AI agents.

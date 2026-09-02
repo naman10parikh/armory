@@ -8,10 +8,12 @@ source_url: https://github.com/steipete/claude-code-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1284
+stars: 1313
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 173
+pushed_at: "2026-05-15T08:26:29Z"
 ---
 ## What it is
 MCP server `Claude Code`, catalogued on PulseMCP. Provides a streamlined interface for executing complex coding tasks including file operations, Git commands, and web searches without permission interruptions by automatically bypassing constraints.

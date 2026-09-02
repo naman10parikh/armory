@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-11T03:30:29Z"
 ---
 ## What it is
 MCP server `Modal (Serverless Python)`, catalogued on PulseMCP. Integrates with Modal's serverless platform to deploy and execute Python scripts in the cloud, enabling efficient distributed computing and data processing.

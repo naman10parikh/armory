@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-25T21:29:29Z"
 ---
 ## What it is
 Connects to a GCP-hosted AOSP build VM via IAP tunnel, uploads APKs as privileged system apps, and builds system.img.

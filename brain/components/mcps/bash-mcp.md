@@ -8,11 +8,13 @@ source_url: https://github.com/tinywind/bash-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-06-28T04:56:21Z"
 ---
 ## What it is
 Enables executing shell commands without permission prompts, including running commands and managing background processes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:25:27Z"
 ---
 ## What it is
 MCP server enabling file operations and user management on FileBrowser Quantum via its REST API, with automatic authentication and multi-user support.

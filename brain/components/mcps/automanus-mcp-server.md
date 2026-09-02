@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-11T11:33:48Z"
 ---
 ## What it is
 Enables creating and deploying AI sales agents to WhatsApp and Webchat from AI coding assistants like Claude and Cursor, with automatic website research and no-code setup.

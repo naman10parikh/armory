@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:45:34Z"
 ---
 ## What it is
 A fork of Playwright MCP that adds PhiShark preflight and browser-deep security checks to block or warn on phishing and high-risk pages.

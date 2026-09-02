@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:43:07Z"
 ---
 ## What it is
 Enables AI agents to manage personal finances with deterministic, grounded tools for cash-flow projection, drift detection, reconciliation, and Todoist integration. All figures trace back to a local SQLite database.

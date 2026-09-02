@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:28:06Z"
 ---
 ## What it is
 MCP server that combines Notion document search, reading, updating, and verification into single tool calls (notion_read_document and notion_publish_document), using the official Notion MCP over Streamable HTTP. Enables conflict-safe read/publish operations with OAuth/PAT authentication via local st

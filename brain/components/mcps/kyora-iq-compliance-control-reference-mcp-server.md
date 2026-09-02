@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:54:29Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve security, privacy, and AI-governance controls from multiple compliance frameworks (e.g., NIST, HIPAA, OWASP) with cross-references, providing authoritative cited control text.

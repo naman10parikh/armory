@@ -8,11 +8,13 @@ source_url: https://github.com/businessfawcett-cloud/rebuild-dossier
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T21:52:58Z"
 ---
 ## What it is
 An MCP server that reverse-engineers a rebuild spec (CLAUDE.md, config, and mutation-tested tests) from an existing app, enabling coding agents to rebuild the app cleanly against that spec.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-07T15:19:25Z"
 ---
 ## What it is
 MCP server `Replicate`, catalogued on PulseMCP. Integrates with Replicate to provide access to AI models for image generation, with features like parameter customization and output resizing.

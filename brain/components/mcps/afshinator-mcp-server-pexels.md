@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
 stars: 2
+forks: 0
+pushed_at: "2026-05-27T22:18:06Z"
 ---
 ## What it is
 An MCP server to search for (free) stock images and videos from pexels.com.

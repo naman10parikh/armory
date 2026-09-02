@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T17:50:52Z"
 ---
 ## What it is
 An MCP server that enables Claude to interact with Google NotebookLM via browser automation, allowing management of notebooks, adding sources, and querying information.

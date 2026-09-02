@@ -8,10 +8,12 @@ source_url: https://github.com/userad/didlogic_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-09T13:52:01Z"
 ---
 ## What it is
 MCP server `DIDLogic VoIP`, catalogued on PulseMCP. Provides a natural language interface to DIDLogic telecommunications API for managing SIP accounts, phone numbers, call history, and billing information through specialized VoIP administration tools.

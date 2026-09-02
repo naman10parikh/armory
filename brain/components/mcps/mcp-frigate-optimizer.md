@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T02:57:55Z"
 ---
 ## What it is
 Enables AI agents to audit, manage, and optimize Frigate NVR configurations, including LPR tuning and recording management.

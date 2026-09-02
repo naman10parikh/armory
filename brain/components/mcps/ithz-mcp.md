@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:18:05Z"
 ---
 ## What it is
 Local-first deterministic project memory for AI coding agents, with context packs, decisions, gates, risks, scoped claims and explicit checkpoints in project-owned files.

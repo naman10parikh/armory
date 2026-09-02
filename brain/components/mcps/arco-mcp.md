@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:44:48Z"
 ---
 ## What it is
 Server for redacting, validating, and auditing ARCO rights requests under Mexican data protection law, preventing legal hallucinations by consulting controlled legal matrices.

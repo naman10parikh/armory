@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:10:19Z"
 ---
 ## What it is
 MCP server exposing UniRoboSim evidence, simulation state, camera images, and optional explicit control of owned simulation sessions.

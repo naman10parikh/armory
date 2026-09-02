@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-16T13:52:50Z"
 ---
 ## What it is
 Python-based MCP server that provides real-time and historical cryptocurrency data from 100+ exchanges via CCXT, with tools for tickers, OHLCV, markets, and order books.

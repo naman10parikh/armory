@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T04:01:11Z"
 ---
 ## What it is
 Provides MCP tools for Friday AI, enabling code indexing, Graph RAG, coding plans, and PR/MR operations via AI coding assistants like Cursor, Claude Code, and Codex.

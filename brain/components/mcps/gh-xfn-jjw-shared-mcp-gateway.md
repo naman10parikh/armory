@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-23T01:46:39Z"
 ---
 ## What it is
 MCP server `Shared MCP Gateway`, catalogued on PulseMCP. HTTP gateway that aggregates multiple MCP servers into a single endpoint with circuit breaking and health monitoring.

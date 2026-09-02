@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:59:11Z"
 ---
 ## What it is
 Exposes workspace-scoped Backend project queries via MCP, enabling explicit token pairing, status checks, and scoped sync of project docs, source artifacts, graph data, and evidence metadata without background synchronization.

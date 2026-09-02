@@ -8,10 +8,12 @@ source_url: https://github.com/receptopalak/postgis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-21T13:20:05Z"
 ---
 ## What it is
 MCP server `PostGIS`, catalogued on PulseMCP. Provides direct PostgreSQL database integration with PostGIS spatial extension support, enabling SQL query execution, spatial data analysis, geographic information systems operations, and location-based queries for both traditional relational data and geographic datasets.

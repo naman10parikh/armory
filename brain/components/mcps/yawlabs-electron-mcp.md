@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-23T20:44:14Z"
 ---
 ## What it is
 Provides 18 tools for Electron development, including secure IPC scaffolding, security audits, migration assistance, and build error diagnosis, enabling AI assistants to generate correct Electron code.

@@ -8,10 +8,12 @@ source_url: https://github.com/loftytao/ladybug-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-25T07:04:06Z"
 ---
 ## What it is
 MCP server `Ladybug Tools`, catalogued on PulseMCP. Enables AI agents to access Ladybug Tools building simulation, energy analysis, and Radiance calculations without CAD software.

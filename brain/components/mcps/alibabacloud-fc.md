@@ -8,10 +8,12 @@ source_url: https://github.com/aliyun/alibabacloud-fc-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-14T11:34:08Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud Function Compute`, catalogued on PulseMCP. Integrates with Alibaba Cloud Function Compute to deploy and manage serverless functions with multi-language runtime support, custom domain routing, and VPC configuration for automated cloud function lifecycle management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:31:07Z"
 ---
 ## What it is
 Extracts structured JSON from receipts and invoices with Australian GST/ABN validation, per-line tax codes, confidence scores, and rationale.

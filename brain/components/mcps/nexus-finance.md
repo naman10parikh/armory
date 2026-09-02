@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T06:25:53Z"
 ---
 ## What it is
 AI workbench for financial contract analysis, risk analytics (VaR/CVaR, RWA Basel III), regulatory compliance (EMIR, REMIT, MiFID II, CBAM, EUDR) and counterparty due diligence (KYB/UBO, OFAC, IMO). Zero Retention. 8 MCP tools.

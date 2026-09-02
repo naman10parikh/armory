@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:50:40Z"
 ---
 ## What it is
 Universal MCP server that enables any LLM agent (Claude, Cursor, Cline) to control a real Chrome browser with 5 perception engines, resilient heartbeat, and real-time vision streaming.

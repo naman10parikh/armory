@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T02:22:21Z"
 ---
 ## What it is
 Full-featured Notion MCP server enabling deep page reading, block editing, snapshot/restore, file uploads, table manipulation, page restore, and destructive page copying.

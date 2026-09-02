@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-15T20:39:01Z"
 ---
 ## What it is
 MCP server `Local Memory`, catalogued on PulseMCP. Local memory storage and retrieval using Ollama vector embeddings for persistent AI agent memory.

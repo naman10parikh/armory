@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:23:13Z"
 ---
 ## What it is
 Indexes Python codebases using AST and BM25, providing 8 MCP tools for code exploration and search.

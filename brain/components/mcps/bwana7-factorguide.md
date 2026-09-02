@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T03:12:22Z"
 ---
 ## What it is
 MCP server `FactorGuide`, catalogued on PulseMCP. Send a coupling matrix, get zone classifications and optimal factorization strategy.

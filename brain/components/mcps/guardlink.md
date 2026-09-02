@@ -8,10 +8,12 @@ source_url: https://github.com/bugb-technologies/guardlink
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-26T08:55:33Z"
 ---
 ## What it is
 MCP server `GuardLink`, catalogued on PulseMCP. Embeds security annotations directly in source code to maintain living threat models that update with code changes, enforced through CI validation.

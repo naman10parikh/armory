@@ -8,10 +8,12 @@ source_url: https://github.com/kbsooo/mcp_atom_of_thoughts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-14T07:44:11Z"
 ---
 ## What it is
 MCP server `Atom of Thoughts`, catalogued on PulseMCP. Enables structured problem-solving by breaking down complex tasks into atomic thought units for step-by-step reasoning and solution development

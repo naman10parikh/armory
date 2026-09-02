@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T02:29:44Z"
 ---
 ## What it is
 Multi-client MCP server for Jira, enabling project and issue management for multiple simultaneous users with efficient resource usage.

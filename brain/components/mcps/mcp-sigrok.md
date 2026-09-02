@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-17T23:13:53Z"
 ---
 ## What it is
 MCP server that exposes all functionality of sigrok-cli as MCP tools, enabling hardware initialization, signal acquisition, and protocol decoding for logic analyzers.

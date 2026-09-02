@@ -8,10 +8,12 @@ source_url: https://github.com/larrywalkerdev/mcp-immostage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-05T08:37:39Z"
 ---
 ## What it is
 MCP server `ImmoStage`, catalogued on PulseMCP. AI-powered virtual staging for real estate, transforming empty room photos into furnished spaces with style recommendations and listing optimization.

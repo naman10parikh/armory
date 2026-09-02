@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:32:59Z"
 ---
 ## What it is
 A DeepSeek-powered MCP server that provides high-accuracy web search using the native DeepSeek V4-Flash search API, offering standard and deep research tools that return cited answers and cross-verified reports.

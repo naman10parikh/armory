@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T11:19:18Z"
 ---
 ## What it is
 Enables LLM clients to search and analyze bills, members, committees, meetings, votes, and reports from the South Korean National Assembly OpenAPI through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:51:43Z"
 ---
 ## What it is
 AMZScout Skill + MCP gives AI agents live access to real Amazon marketplace data across 14 Amazon marketplaces. Analyze any ASIN, validate product ideas, research niches, compare competitors, discover profitable keywords, and build data-driven PPC strategies using trusted Amazon insights instead of 

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 20
+forks: 8
+pushed_at: "2026-04-03T15:34:43Z"
 ---
 ## What it is
 OpenStack MCP server for cloud infrastructure management based on openstacksdk.

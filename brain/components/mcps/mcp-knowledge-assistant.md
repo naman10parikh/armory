@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T06:43:05Z"
 ---
 ## What it is
 A custom MCP server providing semantic note memory (Qdrant + FastEmbed) and optional web search (Tavily) tools for a LangGraph ReAct agent.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-23T09:06:48Z"
 ---
 ## What it is
 MCP server `Safe Wallet`, catalogued on PulseMCP. Enables interaction with Safe smart contract wallets for querying transactions, retrieving multisig details, and decoding data using the Safe Transaction API.

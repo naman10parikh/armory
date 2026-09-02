@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:39:41Z"
 ---
 ## What it is
 Codebase Memory for pi. Provides cbm_* tools that answer structural questions about a codebase (symbol search, call chains, architecture, git change blast radius, and more) by querying a local tree-sitter knowledge graph, avoiding slow grep/read fallbacks.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-30T22:29:21Z"
 ---
 ## What it is
 MCP server `Keyphrases`, catalogued on PulseMCP. Extracts meaningful keyphrases from text documents using BERT-based sentence transformers and spaCy tokenization with customizable stop word filtering and configurable keyphrase counts for content analysis, document summarization, and SEO keyword research.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T04:38:13Z"
 ---
 ## What it is
 A powerful MCP server that brings AI vision capabilities to Claude Desktop. Analyze images and videos using OpenAI GPT-4o, Claude, or any compatible vision API.

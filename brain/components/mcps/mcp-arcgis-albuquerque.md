@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:33:36Z"
 ---
 ## What it is
 Enables searching and querying City of Albuquerque open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services, allowing natural language access to GIS data.

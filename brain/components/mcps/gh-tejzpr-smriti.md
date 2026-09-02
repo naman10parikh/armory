@@ -8,10 +8,12 @@ source_url: https://github.com/tejzpr/smriti-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-24T22:29:34Z"
 ---
 ## What it is
 MCP server `Smriti`, catalogued on PulseMCP. Graph-based AI memory system using EcphoryRAG retrieval and Leiden clustering for persistent, human-like memory recall.

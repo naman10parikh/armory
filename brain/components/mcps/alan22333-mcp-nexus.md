@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T10:00:02Z"
 ---
 ## What it is
 MCP server `MCP Nexus`, catalogued on PulseMCP. Go MCP gateway that converts OpenAPI and gRPC specs into AI-callable tools with rate limiting and circuit breaking.

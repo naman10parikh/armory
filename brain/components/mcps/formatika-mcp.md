@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T22:07:07Z"
 ---
 ## What it is
 Provides tools to convert, resize, compress, crop, and rotate files (images, audio, video, PDF, archives, and more) through formatika.app, processing files locally and preserving existing files.

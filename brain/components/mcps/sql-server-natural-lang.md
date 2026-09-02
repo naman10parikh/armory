@@ -8,10 +8,12 @@ source_url: https://github.com/aman-panjwani/mcp-sql-server-natural-lang
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T05:02:44Z"
 ---
 ## What it is
 MCP server `SQL Server Natural Language`, catalogued on PulseMCP. Enables natural language querying of Microsoft SQL Server databases by translating conversational input into SQL and interpreting results for database administrators and analysts

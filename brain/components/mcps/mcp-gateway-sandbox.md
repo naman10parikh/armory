@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T20:46:06Z"
 ---
 ## What it is
 Enables executing arbitrary code and Postman collections in isolated Docker sandboxes via an MCP server, with a real-time web dashboard for management.

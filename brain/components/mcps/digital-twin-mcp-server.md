@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-01T07:32:09Z"
 ---
 ## What it is
 MCP server for Digital Twin learner data, providing tools for AI Guide to explore metamodel and manage twin data with access control.

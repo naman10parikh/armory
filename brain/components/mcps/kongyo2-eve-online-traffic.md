@@ -8,10 +8,12 @@ source_url: https://github.com/kongyo2/eve-online-traffic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-03T03:43:18Z"
 ---
 ## What it is
 MCP server `EVE Online Traffic`, catalogued on PulseMCP. Integrates with EVE Online's ESI API, EVE-KILL API, and Static Data Export to provide route calculation, combat statistics analysis, station services discovery, and navigation tools for space pilots planning travel routes and analyzing PvP activity.

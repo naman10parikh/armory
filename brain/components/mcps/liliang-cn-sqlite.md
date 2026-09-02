@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-30T00:42:36Z"
 ---
 ## What it is
 MCP server `SQLite`, catalogued on PulseMCP. Provides secure SQLite database operations with multi-database switching, complete CRUD operations, transaction management, and directory-restricted access that prevents path traversal attacks while enabling dynamic database creation.

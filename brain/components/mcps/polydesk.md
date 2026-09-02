@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T10:15:52Z"
 ---
 ## What it is
 Enables automated research and trading on Polymarket prediction markets through a Notion dashboard, with AI-powered analysis and human-in-the-loop trade approval.

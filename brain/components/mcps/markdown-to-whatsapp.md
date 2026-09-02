@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:21:51Z"
 ---
 ## What it is
 Enables agents to convert Markdown into WhatsApp-compatible formatting, including styled text, lists, and tables that fit a phone's monospace width.

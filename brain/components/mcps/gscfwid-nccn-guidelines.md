@@ -8,10 +8,12 @@ source_url: https://github.com/gscfwid/nccn_guidelines_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-22T15:29:29Z"
 ---
 ## What it is
 MCP server `NCCN Guidelines`, catalogued on PulseMCP. Provides access to NCCN clinical practice guidelines through automated web scraping, PDF downloading, and content extraction with intelligent caching and targeted page retrieval for evidence-based cancer treatment protocols and clinical decision support.

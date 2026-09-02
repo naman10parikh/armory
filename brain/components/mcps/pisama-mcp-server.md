@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:31:17Z"
 ---
 ## What it is
 Enables analysis of AI agent traces to detect and fix failures using heuristic detectors, with no LLM calls required.

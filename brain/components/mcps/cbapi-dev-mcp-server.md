@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:20:14Z"
 ---
 ## What it is
 Enables AI agents to search products across affiliate networks, compare commissions, find arbitrage opportunities, and get auto-injected affiliate links via MCP.

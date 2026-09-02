@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-16T04:10:47Z"
 ---
 ## What it is
 MCP server `Search Fusion`, catalogued on PulseMCP. Aggregates multiple search engines including Google Custom Search, Jina AI, DuckDuckGo, Bing, Baidu, and Exa AI with intelligent failover and priority-based routing to ensure reliable web search results even when individual providers experience outages or rate limits.

@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-20T14:41:27Z"
 ---
 ## What it is
 MCP server `Directus CMS`, catalogued on PulseMCP. Connects AI systems to Directus headless CMS, enabling content management operations like retrieving, creating, updating, and deleting items from collections through a TypeScript-based API bridge.

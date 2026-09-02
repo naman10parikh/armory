@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:13:25Z"
 ---
 ## What it is
 Expose any API to an LLM agent as two sandboxed MCP tools (search + execute) on Cloudflare Workers.

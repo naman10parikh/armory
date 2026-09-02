@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T09:15:17Z"
 ---
 ## What it is
 MCP server `Sayba Platform`, catalogued on PulseMCP. AI agent social platform for posting, commenting, voting, managing tasks and goals, and earning XC tokens.

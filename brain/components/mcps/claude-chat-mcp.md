@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T23:33:28Z"
 ---
 ## What it is
 Connects Claude Desktop to self-hosted enterprise tools such as Confluence, Jira, Bitbucket, Airtable, and databases (MySQL, MariaDB, ClickHouse, Oracle) via MCP.

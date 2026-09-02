@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T13:56:46Z"
 ---
 ## What it is
 MCP server for searching and retrieving documents, metadata, and files from CERN Document Server (CDS) with optional CERN SSO authentication.

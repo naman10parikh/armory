@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:36:16Z"
 ---
 ## What it is
 MCP server bringing 100+ x402-paid APIs to AI agents (Claude, Cursor, MCP-aware clients). Auto-discovers tools from CDP Bazaar; handles USDC micropayments on Base.

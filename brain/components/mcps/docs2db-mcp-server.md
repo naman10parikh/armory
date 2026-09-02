@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-30T19:12:07Z"
 ---
 ## What it is
 MCP server for semantic and hybrid search over RHEL documentation using docs2db RAG, with cross-encoder reranking and support for multiple MCP clients.

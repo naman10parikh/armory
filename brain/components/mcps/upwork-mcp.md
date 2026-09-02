@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T16:27:51Z"
 ---
 ## What it is
 Connects AI agents to Upwork's GraphQL API, enabling job discovery, proposal management, profile tracking, and analytics.

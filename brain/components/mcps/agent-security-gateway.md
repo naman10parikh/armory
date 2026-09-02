@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T11:49:48Z"
 ---
 ## What it is
 MCP server that provides a security gateway for AI agents, enforcing allow/confirm/deny policies on tool calls and requiring human approval for risky operations, with full audit logging.

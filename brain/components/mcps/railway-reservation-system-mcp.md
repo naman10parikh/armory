@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-02T05:34:25Z"
 ---
 ## What it is
 Enables checking railway seat availability, berth types, and pricing for Indian trains through natural language queries.

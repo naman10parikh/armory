@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:53:12Z"
 ---
 ## What it is
 Enables querying Calgary open data from data.calgary.ca using the Socrata SODA API through natural language questions or direct tool calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:46:13Z"
 ---
 ## What it is
 Enables querying of SEC EDGAR filings and financial data via natural language, offering tools for company lookup, filing retrieval, XBRL data, and full-text search.

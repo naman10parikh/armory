@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-05T01:08:11Z"
 ---
 ## What it is
 A remote MCP server deployed on Cloudflare Workers that returns gifs based on input queries without authentication.

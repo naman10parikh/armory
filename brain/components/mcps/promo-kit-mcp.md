@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-29T11:18:13Z"
 ---
 ## What it is
 Creates a complete promotional campaign kit from a short brief using web research, images, voiceovers, and evaluation.

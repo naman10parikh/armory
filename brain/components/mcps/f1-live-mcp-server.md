@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T14:39:34Z"
 ---
 ## What it is
 Provides live Formula 1 data such as driver standings, race results, and schedule for the current season, enabling users to ask about F1 without stale training data.

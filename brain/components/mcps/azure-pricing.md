@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-02T07:29:43Z"
 ---
 ## What it is
 MCP server `Azure Pricing`, catalogued on PulseMCP. Integrates with Microsoft's Azure Retail Prices API to provide service family listings, product filtering, and monthly cost calculations for cloud pricing analysis and budget planning workflows.

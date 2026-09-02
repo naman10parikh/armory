@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T11:33:11Z"
 ---
 ## What it is
 MCP server for GEO site audits, checking 31 signals across 6 pillars and returning a score, breakdowns, and actionable fix prompts.

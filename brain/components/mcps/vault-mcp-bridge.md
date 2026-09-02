@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:28:00Z"
 ---
 ## What it is
 Read-only MCP bridge that exposes secure search and fetch tools over an Obsidian-compatible Markdown vault, enabling ChatGPT to query notes without write access.

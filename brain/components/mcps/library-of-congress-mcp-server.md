@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T00:32:07Z"
 ---
 ## What it is
 Provides access to the Library of Congress (loc.gov) data, enabling AI agents to search and retrieve information from the world's largest library.

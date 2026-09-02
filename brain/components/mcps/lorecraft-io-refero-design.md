@@ -8,10 +8,12 @@ source_url: https://github.com/fidgetcoding/refero-design-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T18:58:51Z"
 ---
 ## What it is
 MCP server `Refero Design`, catalogued on PulseMCP. Searches the Refero Styles design catalog in plain English and generates DESIGN.md files with colors, typography, and spacing for any project.

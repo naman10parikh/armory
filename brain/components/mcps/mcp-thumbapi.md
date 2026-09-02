@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:11:06Z"
 ---
 ## What it is
 It generates blogpost images, thumbnails, social post images just from the title.

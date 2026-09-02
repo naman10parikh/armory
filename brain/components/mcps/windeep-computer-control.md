@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:58:25Z"
 ---
 ## What it is
 Windows原生桌面自动化MCP服务器，提供22个工具用于窗口管理、输入控制、截图、OCR和智能元素匹配。

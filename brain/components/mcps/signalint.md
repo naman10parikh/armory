@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:32:52Z"
 ---
 ## What it is
 Signalint is an MCP server that provides JavaScript and TypeScript diagnostics by running Oxlint, TypeScript, and optionally Biome, with caching, clustering of repeated issues, and detection of oscillating diagnostics.

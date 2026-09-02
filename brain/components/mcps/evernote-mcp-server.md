@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-15T21:44:28Z"
 ---
 ## What it is
 Unofficial Evernote MCP server with 22 tools for full CRUD, semantic search, and AI features, enabling note management via natural language.

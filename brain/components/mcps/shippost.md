@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:27:51Z"
 ---
 ## What it is
 MCP server `ShipPost`, catalogued on PulseMCP. Twitter/X engagement tools for AI agents with free basic posting and premium AI-powered features.

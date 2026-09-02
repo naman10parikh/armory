@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-21T18:54:47Z"
 ---
 ## What it is
 MCP server `Hedera`, catalogued on PulseMCP. Provides a lightweight blockchain interaction toolkit for Hedera network operations, enabling developers to create wallets, check balances, build transactions, and send signed transactions with minimal overhead.

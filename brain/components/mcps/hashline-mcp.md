@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T20:26:42Z"
 ---
 ## What it is
 An MCP server for precise, hash-referenced file editing that enables atomic edits using line:hash references instead of fragile line numbers or full content reproduction.

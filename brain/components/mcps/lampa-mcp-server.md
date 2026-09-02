@@ -8,11 +8,13 @@ source_url: https://github.com/pavelpikta/lampa-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:58:21Z"
 ---
 ## What it is
 MCP server for AI-assisted development on the Lampa open-source TV app, providing read-only access to the source tree with 41 tools and 5 resources for structured analysis, planning, editing, and validation.

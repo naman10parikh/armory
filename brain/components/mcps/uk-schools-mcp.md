@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T09:30:26Z"
 ---
 ## What it is
 MCP server providing access to comprehensive UK school data from official government sources, including search, details, near-postcode, comparisons, Ofsted ratings, and DfE education datasets.

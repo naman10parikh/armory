@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:44:55Z"
 ---
 ## What it is
 Adds voice conversation capabilities to AI agents via MCP, enabling local speech recognition and synthesis with tools like speak, listen, and ask_by_voice for interactive voice interactions.

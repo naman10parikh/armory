@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:08:48Z"
 ---
 ## What it is
 Enables reading data from a Google Sheets spreadsheet via the read_sheet tool, integrating real-time sheet data with an AI reminder assistant.

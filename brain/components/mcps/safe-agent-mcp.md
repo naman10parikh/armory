@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:08:34Z"
 ---
 ## What it is
 Enables any MCP client to execute DeepSeek Harness agents and shell commands through standard MCP tools, bridging multi-agent capabilities with sandboxed execution.

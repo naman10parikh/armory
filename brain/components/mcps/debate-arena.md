@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T07:41:52Z"
 ---
 ## What it is
 Enables AI agents to engage in structured, turn-based debates with real-time message exchange and human moderation via a web UI.

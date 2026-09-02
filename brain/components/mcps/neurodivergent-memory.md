@@ -8,11 +8,13 @@ source_url: https://github.com/jmeyer1980/neurodivergent-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-28T19:23:56Z"
 ---
 ## What it is
 MCP server for knowledge graphs designed around neurodivergent thinking patterns, organizing memories into five districts with BM25 ranking and bidirectional connections.

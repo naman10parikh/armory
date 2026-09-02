@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:19:31Z"
 ---
 ## What it is
 Enables users to interact with a gallery of sample interactive MCP Apps, such as a budget allocator or cohort heatmap, by connecting a remote Streamable HTTP URL.

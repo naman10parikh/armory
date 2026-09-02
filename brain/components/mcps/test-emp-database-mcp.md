@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:20:38Z"
 ---
 ## What it is
 An employee-analytics MCP server backed by SQLite with pre-seeded sample data, providing tools for common SQL analytics such as top N earners, department averages, window functions, and subqueries.

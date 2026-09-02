@@ -8,10 +8,12 @@ source_url: https://github.com/khaoss85/mcp-orchestro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-10-13T08:05:24Z"
 ---
 ## What it is
 MCP server `Orchestro`, catalogued on PulseMCP. Project orchestration system for AI-assisted development with task decomposition and dependency tracking

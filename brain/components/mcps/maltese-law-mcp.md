@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:37:47Z"
 ---
 ## What it is
 Provides AI-readable access to over 5,000 Maltese statutes and 56,000 provisions from legislation.mt, enabling natural language search and cross-referencing of Maltese law.

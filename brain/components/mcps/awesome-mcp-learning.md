@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T07:39:30Z"
 ---
 ## What it is
 A beginner-friendly repository for learning the Model Context Protocol (MCP) using FastMCP and uv, providing step-by-step setup and development workflow.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-29T00:21:01Z"
 ---
 ## What it is
 MCP server `Engram`, catalogued on PulseMCP. Event-sourced memory system with semantic vector search, DuckDB storage, multi-tenant groups, and temporal filtering.

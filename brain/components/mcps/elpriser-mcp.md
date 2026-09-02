@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:48:41Z"
 ---
 ## What it is
 MCP server for Danish electricity prices, providing current spot price, cheapest hours, and 7-day forecast for DK1 and DK2 areas.

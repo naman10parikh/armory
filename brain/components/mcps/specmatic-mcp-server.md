@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-10T01:12:35Z"
 ---
 ## What it is
 Exposes Specmatic's API contract testing, resiliency testing, and mocking capabilities to AI coding agents via natural language, enabling automated validation and simulation of API behaviors.

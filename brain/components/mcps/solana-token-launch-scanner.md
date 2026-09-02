@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:08Z"
 ---
 ## What it is
 Scans new Solana token launches from pump.fun, Raydium, PumpSwap, and Orca with liquidity and holder data. Pay-per-call via x402 micropayments.

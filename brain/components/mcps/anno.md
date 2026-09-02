@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:13:52Z"
 ---
 ## What it is
 Local-first HTML review workspace for AI coding agents, enabling direct text and formatting edits, element comments, area annotations, and slide-aware review with durable agent handoffs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T18:50:17Z"
 ---
 ## What it is
 Exposes a tool surface for managing agent relationships and trust levels, enabling identity resolution, note saving, trust setting, and more, with data persisted to a specified directory.

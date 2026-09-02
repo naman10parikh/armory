@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-09T19:51:59Z"
 ---
 ## What it is
 MCP server `CGV Cinema`, catalogued on PulseMCP. Integrates with CGV Cinema's API to provide movie showtimes, cinema locations, and seat availability information for planning cinema outings through conversational interfaces.

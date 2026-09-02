@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2026-06-29T11:24:21Z"
 ---
 ## What it is
 Delegates work from MCP clients (like Claude Code) to the Codex CLI, allowing spawning of autonomous Codex subagents for tasks.

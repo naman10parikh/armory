@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-23T12:47:41Z"
 ---
 ## What it is
 Integrates with HuntFlow ATS to manage vacancies, candidates, resumes, and recruitment stages via 7 tools and 2 skill prompts.

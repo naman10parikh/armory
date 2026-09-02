@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T19:11:49Z"
 ---
 ## What it is
 MCP server that gives LLMs live access to warcraft.wiki.gg API documentation with behavioral notes, restrictions, and patch history for World of Warcraft APIs.

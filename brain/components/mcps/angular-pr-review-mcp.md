@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:21:29Z"
 ---
 ## What it is
 Enables automated pull-request review workflows for Angular repositories by providing tools to generate, read, and save diffs, and to fetch review templates.

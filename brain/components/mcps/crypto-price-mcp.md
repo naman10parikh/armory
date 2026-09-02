@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T10:52:01Z"
 ---
 ## What it is
 Fetches real-time cryptocurrency prices from multiple exchanges and enables price comparison, volume rankings, and listing of tradable pairs.

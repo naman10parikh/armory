@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-25T21:38:28Z"
 ---
 ## What it is
 A lightweight MCP server for basic file operations, enabling reading, writing, and listing files securely via the Model Context Protocol.

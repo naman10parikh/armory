@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T03:34:52Z"
 ---
 ## What it is
 Enables conversational AI assistants to help users discover movies, find showtimes, book seats, and process payments for AMC Theatres through a simple API interface.

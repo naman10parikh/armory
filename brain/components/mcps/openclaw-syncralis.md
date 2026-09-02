@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T19:04:44Z"
 ---
 ## What it is
 Industry-grade MCP gateway for OpenClaw environments with three core capabilities: secure file sharing via HMAC-signed time-limited links, authenticated URL downloads with MIME validation, and load-balanced web search across Tavily and Brave with automatic failover.

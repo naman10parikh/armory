@@ -8,11 +8,13 @@ source_url: https://github.com/Yrobot/cloudflare-search
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 37
+pushed_at: "2026-03-13T14:43:18Z"
 ---
 ## What it is
 Aggregated search API service that provides real-time web search capabilities for AI assistants via MCP.

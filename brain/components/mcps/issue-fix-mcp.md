@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T20:05:30Z"
 ---
 ## What it is
 A Model Context Protocol server that enables coding agents to search for and record software issue fixes with semantic search using natural language queries.

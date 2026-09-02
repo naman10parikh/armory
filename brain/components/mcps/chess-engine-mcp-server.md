@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T04:33:58Z"
 ---
 ## What it is
 Enables AI assistants to perform professional-grade chess analysis using Stockfish and optionally Leela Chess Zero, including position analysis, full game review, opening lookup, and puzzle generation.

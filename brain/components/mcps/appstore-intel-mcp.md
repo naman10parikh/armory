@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T10:04:03Z"
 ---
 ## What it is
 A remote MCP server that gives AI agents structured access to Google Play and the Apple App Store — search apps, fetch metadata, pull reviews.

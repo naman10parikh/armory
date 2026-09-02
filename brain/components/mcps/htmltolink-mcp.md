@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:17:23Z"
 ---
 ## What it is
 Deploy any HTML project to a live public URL in seconds — directly from Cursor, Claude Code, or any MCP-compatible AI agent.

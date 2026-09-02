@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:13:16Z"
 ---
 ## What it is
 Connects Claude Code to SyncPen documents as a knowledge base, enabling document search, reading, listing, creation, and update via natural language.

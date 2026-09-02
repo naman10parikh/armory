@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T07:09:06Z"
 ---
 ## What it is
 A remote MCP server for verifying Thai bank transfer slips using slip images, QR payloads, or transaction references, with OAuth 2.1 authentication and duplicate detection.

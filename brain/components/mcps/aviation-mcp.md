@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T14:54:10Z"
 ---
 ## What it is
 Provides aviation weather data (METAR, TAF, station search) with a unique assess_conditions tool that returns flight category, confidence, and an escalation gate to indicate when human review is needed.

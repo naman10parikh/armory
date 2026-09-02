@@ -8,11 +8,13 @@ source_url: https://github.com/mario03690/ai-netcafe
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T06:53:22Z"
 ---
 ## What it is
 Hosted open-source AI apps callable by agents over MCP, enabling multi-model comparisons with real metered costs and skills like PDF translation, deep research, slide generation, and direct model queries.

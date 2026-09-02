@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-11T19:53:57Z"
 ---
 ## What it is
 MCP server `Together AI Image Generation`, catalogued on PulseMCP. Integrates with Together AI's Flux.1 Schnell model to generate images from text prompts for creative and visual design tasks.

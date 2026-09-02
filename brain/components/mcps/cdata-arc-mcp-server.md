@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:15:14Z"
 ---
 ## What it is
 Enables AI assistants to manage CData Arc connectors, files, transactions, workspaces, and administrative actions through natural language interactions via the Arc Admin API.

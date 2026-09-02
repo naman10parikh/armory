@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:01:31Z"
 ---
 ## What it is
 A tiny MCP server that constructs OpenRouter request bodies from presets and energy levels, with zero data retention by default, enabling routing decisions without exposing API keys.

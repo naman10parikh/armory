@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-27T17:08:20Z"
 ---
 ## What it is
 MCP server `Device Peripherals`, catalogued on PulseMCP. Provides peripheral device interaction capabilities for computer hardware including cameras, printers, audio devices, and displays, enabling image and video capture, print job management, audio recording and playback, and screen recording with cross-platform support and automatic device detection.

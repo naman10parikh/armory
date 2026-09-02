@@ -8,11 +8,13 @@ source_url: https://github.com/UModeler/picoberry-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:08:02Z"
 ---
 ## What it is
 Enables generating game-ready 3D models, images, and animations from any MCP client via PicoBerry's multi-engine API.

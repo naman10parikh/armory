@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T07:59:58Z"
 ---
 ## What it is
 BugiaData is a hosted remote MCP server for generating relational fake data that is locale-aware and maintains foreign keys. It enables AI editors to generate realistic fake data with proper relationships and locale support via natural language.

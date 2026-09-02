@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:18:35Z"
 ---
 ## What it is
 A local OCR server using PaddleOCR that enables AI agents to extract text from images.

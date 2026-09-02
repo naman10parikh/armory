@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-24T01:10:14Z"
 ---
 ## What it is
 MCP server `Obsidian Vault Manager`, catalogued on PulseMCP. Integrates with Obsidian vaults to provide template-based note creation with variable substitution, wiki-style link management, and automated knowledge base organization with Japanese locale support.

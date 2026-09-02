@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-16T09:37:09Z"
 ---
 ## What it is
 MCP server `Autoform (Slovensko.Digital)`, catalogued on PulseMCP. Search Slovak corporate entities by name or company identification number with filtering for active companies and structured business registry data

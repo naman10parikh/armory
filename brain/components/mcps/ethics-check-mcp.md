@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-06T18:54:19Z"
 ---
 ## What it is
 An MCP server that turns Claude into a philosophical sparring partner, actively challenging confirmation bias and comfortable conversations. It scans conversations for ethical issues, forces critical thinking, and learns from past interactions to spot blind spots.

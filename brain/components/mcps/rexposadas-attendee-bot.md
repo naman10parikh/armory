@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-10T00:22:19Z"
 ---
 ## What it is
 MCP server `Attendee Bot`, catalogued on PulseMCP. Automates meeting attendance and transcription across platforms like Zoom and Google Meet, enabling automated note-taking, compliance documentation, and accessibility support through bot deployment.

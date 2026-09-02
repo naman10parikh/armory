@@ -8,10 +8,12 @@ source_url: https://github.com/chongzixuan-ai/mcp-server-website
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-01T19:37:27Z"
 ---
 ## What it is
 MCP server `Website Screenshot Fast`, catalogued on PulseMCP. Captures full web pages and automatically tiles them into 1072x1072 pixel chunks optimized for vision model processing with intelligent browser management and memory optimization.

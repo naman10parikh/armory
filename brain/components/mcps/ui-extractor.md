@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:35:24Z"
 ---
 ## What it is
 MCP server for extracting UI components, design tokens, and patterns from websites and generating production-ready React, Vue, and HTML components.

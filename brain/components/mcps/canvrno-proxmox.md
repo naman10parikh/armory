@@ -8,10 +8,12 @@ source_url: https://github.com/canvrno/proxmoxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 254
+stars: 288
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 69
+pushed_at: "2025-02-19T20:16:13Z"
 ---
 ## What it is
 MCP server `Proxmox`, catalogued on PulseMCP. Integrates with Proxmox virtualization environments to enable monitoring and management of virtual machines, containers, storage pools, and cluster resources through token-based authentication and structured API commands.

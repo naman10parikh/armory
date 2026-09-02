@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-03T10:03:55Z"
 ---
 ## What it is
 MCP server `Log Analyzer`, catalogued on PulseMCP. Debugging tool that retrieves, filters, and displays MCP logs from Claude desktop applications across macOS, Windows, and Linux for troubleshooting integration issues.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T11:17:35Z"
 ---
 ## What it is
 A production-ready Model Context Protocol (MCP) server that bridges your Symfony/PHP project with LLMs such as Claude. It exposes tools that let the AI read your project's routes, services, Twig templates, and PHP source code.

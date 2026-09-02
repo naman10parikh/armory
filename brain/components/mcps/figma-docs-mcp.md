@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T14:28:38Z"
 ---
 ## What it is
 Local MCP server that transforms Figma documentation and business rules into a semantically searchable index, exposed as a tool for Claude Code to query via natural language.

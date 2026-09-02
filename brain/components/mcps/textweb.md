@@ -8,11 +8,13 @@ source_url: https://github.com/chrisrobison/textweb
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 103
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-03-10T19:21:38Z"
 ---
 ## What it is
 Renders web pages as structured text grids for AI agents to browse and interact with, preserving spatial layout without screenshots.

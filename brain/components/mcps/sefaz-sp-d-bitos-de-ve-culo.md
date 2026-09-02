@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:00Z"
 ---
 ## What it is
 MCP server for querying vehicle debts (débitos de veículo) from SEFAZ SP, the São Paulo state tax authority. Provides a read-only tool to consult official vehicle debt information directly from the source.

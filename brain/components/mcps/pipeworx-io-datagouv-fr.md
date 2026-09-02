@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:58:11Z"
 ---
 ## What it is
 MCP server `data.gouv.fr`, catalogued on PulseMCP. Queries the French government's open data portal for datasets and resources.

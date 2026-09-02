@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-09T11:03:37Z"
 ---
 ## What it is
 MCP server `Apifox`, catalogued on PulseMCP. Integrates with Apifox platform to provide HTTP request testing and API endpoint validation with configurable methods, headers, and request bodies for comprehensive API testing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:34:34Z"
 ---
 ## What it is
 A neutral, public danger grade for MCP servers that AI agents rely on, providing A-F grades and transparency signals to vet servers before connecting.

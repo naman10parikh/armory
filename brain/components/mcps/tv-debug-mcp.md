@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T11:58:01Z"
 ---
 ## What it is
 MCP server for semi-manual QA test execution on real Smart TVs (Tizen/webOS) and local Chrome via Chrome DevTools Protocol, enabling remote control, state inspection, and profiling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:43:22Z"
 ---
 ## What it is
 실시간 수원역 지하철 도착정보를 조회하는 MCP 서버로, 1호선과 수인분당선의 도착정보를 제공합니다.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T13:12:40Z"
 ---
 ## What it is
 Enables users to retrieve Hong Kong government security incident reports from the Digital Policy Office. Provides a FastMCP interface for querying the number of reported information security incidents.

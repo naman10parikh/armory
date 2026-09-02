@@ -8,11 +8,13 @@ source_url: https://github.com/yoloshii/gigaxity-deep-research
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-17T21:33:53Z"
 ---
 ## What it is
 An open-source deep research MCP server that provides multi-source web search and synthesis with citations, enabling agents to perform citation-backed research using Qwen3-30B-A3B-Thinking and other models.

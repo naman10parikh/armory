@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T12:39:39Z"
 ---
 ## What it is
 A local MCP server that integrates ProofJSON to assess invoices before payment, providing allow/review/block decisions with confidence scores and verification capabilities.

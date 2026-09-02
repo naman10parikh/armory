@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:21:08Z"
 ---
 ## What it is
 A stateless Remote MCP server on Cloudflare Workers for operating a single Cosense (formerly Scrapbox) project. It enables page retrieval, listing, full-text search, and line insertion via natural language, protected by Cloudflare Access Managed OAuth and JWT validation.

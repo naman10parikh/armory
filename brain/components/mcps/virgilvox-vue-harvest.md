@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T02:24:43Z"
 ---
 ## What it is
 MCP server `Vue Harvest`, catalogued on PulseMCP. Extracts reusable component libraries and design tokens from Vue 3 applications with dependency graph analysis.

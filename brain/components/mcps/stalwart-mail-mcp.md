@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T02:32:19Z"
 ---
 ## What it is
 Connects AI agents to self-hosted Stalwart mail servers via a Cloudflare Worker and JMAP, enabling mailbox search, reading, listing, and two-step draft-and-send email operations through MCP.

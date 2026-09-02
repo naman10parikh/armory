@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:33:39Z"
 ---
 ## What it is
 Validates AI-generated artifacts (JSON, API responses, SQL) against a contract and returns a verdict.

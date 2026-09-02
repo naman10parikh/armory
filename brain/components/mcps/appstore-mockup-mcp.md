@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T13:56:01Z"
 ---
 ## What it is
 Wraps app screenshots in an iPhone 16 Pro frame with marketing text to produce App Store-ready preview images.

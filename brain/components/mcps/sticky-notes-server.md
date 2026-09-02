@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-02-18T19:01:50Z"
 ---
 ## What it is
 A MCP server for managing sticky notes with CRUD operations, search, tags, conversations, and a React UI.

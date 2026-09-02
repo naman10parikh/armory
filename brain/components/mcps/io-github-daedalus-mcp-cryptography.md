@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T20:38:50Z"
 ---
 ## What it is
 Exposes various cryptographic operations including key generation, symmetric/asymmetric encryption, hashing, and HMAC. Supports Fernet, AES, RSA, X.25519, and X.509 certificates.

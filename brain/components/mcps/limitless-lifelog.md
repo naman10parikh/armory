@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-30T15:07:19Z"
 ---
 ## What it is
 MCP server `Limitless Lifelog`, catalogued on PulseMCP. Enables AI access to personal lifelogs recorded via the Limitless Pendant, providing tools for retrieving, listing, and searching recordings to extract summaries, action items, and key topics.

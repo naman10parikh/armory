@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 9
+forks: 1
+pushed_at: "2026-04-04T17:44:01Z"
 ---
 ## What it is
 Unified MCP server for iOS development — build, run, screenshot, and interact with iOS Simulator.

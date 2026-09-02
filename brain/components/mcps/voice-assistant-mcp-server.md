@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-04T12:24:43Z"
 ---
 ## What it is
 Enables AI assistants to conduct phone interviews, deliver notifications, and manage HR communications through natural voice conversations using Twilio, Deepgram, and OpenAI.

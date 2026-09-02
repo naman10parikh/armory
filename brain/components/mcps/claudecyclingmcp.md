@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:00:08Z"
 ---
 ## What it is
 An MCP server that converts structured cycling workout specs into MyWhoosh .zwo and Garmin Connect workout files, with tools for validation, description, and rendering. It also includes skills for uploading workouts to both platforms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:47:20Z"
 ---
 ## What it is
 Personal local AI memory/document MCP that manages short and long-term memories and Markdown documents, with tools for import, search, and retrieval.

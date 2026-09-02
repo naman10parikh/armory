@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:00:01Z"
 ---
 ## What it is
 Enables AI assistants to inspect and automate Autodesk Fusion 360 through MCP, providing tools for CAD modeling, CAM manufacturing, and document management.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:56:13Z"
 ---
 ## What it is
 MCP server `New York State Open Data`, catalogued on PulseMCP. Query the New York State open-data portal (data.ny.gov) for government datasets via the Socrata API.

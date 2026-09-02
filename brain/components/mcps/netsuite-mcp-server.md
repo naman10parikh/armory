@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-15T05:21:07Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server providing access to NetSuite data through OAuth 2.0 with PKCE authentication. Works seamlessly with any MCP-compatible client including Claude Code, Cursor IDE, and Gemini CLI.

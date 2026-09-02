@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T09:22:35Z"
 ---
 ## What it is
 An MCP server for Xiaohongshu (xiaohongshu.com) that provides login, publishing, search, recommendations, and other automation capabilities via Puppeteer.

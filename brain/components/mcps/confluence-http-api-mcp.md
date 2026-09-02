@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T05:05:12Z"
 ---
 ## What it is
 Read-only MCP server for self-hosted Confluence that lets AI agents search pages, fetch content, and navigate page trees via the REST API.

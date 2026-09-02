@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-19T14:46:23Z"
 ---
 ## What it is
 MCP server `Tox Testing`, catalogued on PulseMCP. Executes tox commands to run tests within a project using the project's tox.ini

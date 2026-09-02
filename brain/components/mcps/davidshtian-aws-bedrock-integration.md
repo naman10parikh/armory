@@ -12,6 +12,8 @@ stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-12T09:17:41Z"
 ---
 ## What it is
 MCP server `AWS Bedrock`, catalogued on PulseMCP. Integrates AWS Bedrock, enabling natural language processing and task automation.

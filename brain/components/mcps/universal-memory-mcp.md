@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-12T10:00:37Z"
 ---
 ## What it is
 Provides any AI CLI tool with long-term memory using a three-tier architecture (sensory, short-term, long-term) for cross-session persistence, fully local and private.

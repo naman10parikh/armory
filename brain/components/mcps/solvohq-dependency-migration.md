@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T17:59:53Z"
 ---
 ## What it is
 MCP server `Dependency Migration`, catalogued on PulseMCP. Dependency upgrade briefs for LLM coding agents covering breaking changes, codemods, and manual fix patterns.

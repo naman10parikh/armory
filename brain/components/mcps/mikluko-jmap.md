@@ -8,10 +8,12 @@ source_url: https://github.com/mikluko/jmap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-05T12:13:21Z"
 ---
 ## What it is
 MCP server `JMAP Email`, catalogued on PulseMCP. Email access via the JMAP protocol for reading, searching, and managing messages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:46Z"
 ---
 ## What it is
 Browse and consult simplified NFC-e (Nota Fiscal de Consumidor Eletrônica) data from the official SEFAZ RJ channel, enabling read-only queries for invoices via any MCP-compatible assistant.

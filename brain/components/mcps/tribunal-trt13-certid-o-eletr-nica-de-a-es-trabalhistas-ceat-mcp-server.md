@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:03Z"
 ---
 ## What it is
 Enables users to query Brazilian labor court certificates (CEAT) from TRT13 through an official source. It is a read-only MCP server with pay-per-query pricing that works with any MCP-compatible client like Claude, Cursor, and VS Code.

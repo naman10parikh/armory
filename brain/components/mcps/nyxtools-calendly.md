@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T20:59:01Z"
 ---
 ## What it is
 MCP server `NyxTools Calendly`, catalogued on PulseMCP. Natural-language scheduling management connecting Calendly with tools for viewing, searching, and managing events.

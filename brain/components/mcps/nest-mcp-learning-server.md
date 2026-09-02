@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:25:58Z"
 ---
 ## What it is
 A read-only MCP server that teaches how to expose documentation as a resource and safe operations as tools, using JSONPlaceholder as the data source.

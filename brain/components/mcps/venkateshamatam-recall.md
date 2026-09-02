@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T23:58:47Z"
 ---
 ## What it is
 MCP server `Recall`, catalogued on PulseMCP. Local SQLite MCP server enabling multiple AI agents to share persistent memory with on-device vector embeddings across Claude, Cursor, and other tools.

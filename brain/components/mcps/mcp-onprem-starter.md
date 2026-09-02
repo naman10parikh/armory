@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:11:02Z"
 ---
 ## What it is
 A starter template for building single-client MCP servers that expose existing REST APIs, deployable via stdio in customer-controlled environments. It provides a structured foundation with validated config, error handling, write authorization, and a mock upstream for local development.

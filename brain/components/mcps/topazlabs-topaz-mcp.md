@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
 stars: 5
+forks: 2
+pushed_at: "2026-02-16T01:45:28Z"
 ---
 ## What it is
 AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.

@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-05T19:37:01Z"
 ---
 ## What it is
 MCP server `FEGIS (Schema-Driven Memory)`, catalogued on PulseMCP. Compile YAML into semantic LLM tools with structured memory and an emergent knowledge graph.

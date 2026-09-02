@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:38:03Z"
 ---
 ## What it is
 Consulta registros de uma pessoa ou empresa no Ministério Público do Trabalho (MPT) a partir do CPF ou CNPJ e região, usando uma ferramenta de leitura.

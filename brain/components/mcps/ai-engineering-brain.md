@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:42:50Z"
 ---
 ## What it is
 A unified MCP Gateway for enterprise knowledge, code, and memory tools, featuring admin management for documents, accounts, and MCP keys, with local network deployment support.

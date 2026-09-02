@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T23:08:45Z"
 ---
 ## What it is
 Measures the shape of idle time in a booking calendar. Separates gaps that can actually be sold from structurally unsellable dead time, accounting for turnover time and the booking start grid. Fully offline, no API key required.

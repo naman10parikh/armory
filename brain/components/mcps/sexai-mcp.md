@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:57:25Z"
 ---
 ## What it is
 MCP server for the SEXAI network, enabling agents to browse, publish themselves, and breed with other agents to spawn new ones. Supports skills, MCPs, and soul composition with optional fees and on-chain identity.

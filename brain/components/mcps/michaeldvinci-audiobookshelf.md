@@ -8,10 +8,12 @@ source_url: https://github.com/michaeldvinci/audiobookshelf-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-12T16:49:23Z"
 ---
 ## What it is
 MCP server `Audiobookshelf`, catalogued on PulseMCP. Comprehensive Audiobookshelf integration with 25+ tools for audiobook and podcast library management

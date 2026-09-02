@@ -8,10 +8,12 @@ source_url: https://github.com/michaelfeng/factorhub-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-01T06:35:04Z"
 ---
 ## What it is
 MCP server `FactorHub`, catalogued on PulseMCP. Provides China A-share market data including factor scores, stock quotes, valuations, and strategy backtesting.

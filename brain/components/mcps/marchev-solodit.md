@@ -8,10 +8,12 @@ source_url: https://github.com/marchev/claudit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 146
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-04-23T11:22:36Z"
 ---
 ## What it is
 MCP server `Solodit`, catalogued on PulseMCP. Searches Solodit's 20,000+ smart contract security audit findings from Claude Code and Codex CLI.

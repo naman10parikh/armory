@@ -8,10 +8,12 @@ source_url: https://github.com/uarlouski/testrail-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-01T18:35:36Z"
 ---
 ## What it is
 MCP server `TestRail`, catalogued on PulseMCP. Connects to TestRail test management for searching, creating, updating, and executing test cases.

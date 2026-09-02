@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T13:12:38Z"
 ---
 ## What it is
 Provides KOSPI/KOSDAQ stock data including ticker lookup, OHLCV, market capitalization, fundamentals, and trading volume by investor type.

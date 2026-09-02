@@ -8,11 +8,13 @@ source_url: https://github.com/Washington5533/guarftrain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:09:22Z"
 ---
 ## What it is
 Enables external agents to monitor and control ML training runs via 35 MCP tools. Covers training status, checkpoints, experiments, recovery, and dashboard configuration.

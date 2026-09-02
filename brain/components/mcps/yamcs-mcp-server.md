@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T03:37:54Z"
 ---
 ## What it is
 Enables AI assistants to interact with Yamcs mission control systems through natural language, providing tools and resources for telemetry, commands, links, storage, instances, and alarms.

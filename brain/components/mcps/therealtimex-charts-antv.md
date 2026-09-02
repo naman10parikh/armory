@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-09T00:52:16Z"
 ---
 ## What it is
 MCP server `Charts (AntV)`, catalogued on PulseMCP. Generate charts using AntV visualization library

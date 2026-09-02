@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:39:12Z"
 ---
 ## What it is
 Enables AI assistants to operate a Splunk SOAR instance headlessly via its REST API, supporting container triage, playbook authoring and execution, and asset management.

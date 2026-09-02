@@ -8,10 +8,12 @@ source_url: https://github.com/davidmosiah/withingsmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-29T10:29:14Z"
 ---
 ## What it is
 MCP server `Withings`, catalogued on PulseMCP. Privacy-first unofficial MCP server for Withings health, sleep, activity, and heart-rate data.

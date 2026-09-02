@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:48:05Z"
 ---
 ## What it is
 Find verified legal specialists in Georgia from any MCP client by describing your legal situation in natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/abossard/ledfx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-26T20:24:17Z"
 ---
 ## What it is
 MCP server `LedFX`, catalogued on PulseMCP. Bridges natural language commands to LedFX LED lighting systems with intelligent scene parsing, color libraries, and comprehensive device management for smart home automation and music visualization setups.

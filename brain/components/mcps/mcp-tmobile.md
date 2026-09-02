@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T01:24:16Z"
 ---
 ## What it is
 Automates T-Mobile account interactions such as viewing usage, paying bills, and checking upgrade eligibility using Playwright browser automation.

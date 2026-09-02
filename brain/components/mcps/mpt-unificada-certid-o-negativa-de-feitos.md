@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:46Z"
 ---
 ## What it is
 Enables querying the MPT Unificada negative certificate of court proceedings from the official source via natural language. Provides a read-only tool for checking labor court records.

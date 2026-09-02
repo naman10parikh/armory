@@ -8,11 +8,13 @@ source_url: https://github.com/aipper/zentao-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:23:07Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that integrates with Zentao's RESTful API to manage bugs, including listing, resolving, closing, and commenting, with support for product and project set contexts.

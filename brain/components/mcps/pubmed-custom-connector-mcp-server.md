@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-17T12:44:35Z"
 ---
 ## What it is
 Enables users to search and fetch PubMed biomedical literature articles through natural language queries in Microsoft 365 Copilot.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-09T21:24:14Z"
 ---
 ## What it is
 MCP server `Lambë`, catalogued on PulseMCP. Query, validate, and inspect JSON, YAML, TOML, HCL, XML, CSV, and TSV with a composable pipeline syntax.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:58:58Z"
 ---
 ## What it is
 A workspace of six MCP servers—grounded-cv (hybrid RAG with citations), repo-intel (GitHub repo intelligence), web-research (safe web search/extraction), ats-jobs (unified ATS job boards), outcome-ledger (durable task ledger), and coding-workflows (code review & planning)—purpose-built for agentic h

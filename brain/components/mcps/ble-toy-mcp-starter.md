@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:09:20Z"
 ---
 ## What it is
 An open-source tutorial and safe code skeleton that enables users to control their own BLE devices from ChatGPT via MCP and Secure MCP Tunnel.

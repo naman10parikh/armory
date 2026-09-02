@@ -8,10 +8,12 @@ source_url: https://github.com/kdqed/zaturn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-11-12T06:17:05Z"
 ---
 ## What it is
 MCP server `Zaturn (SQL Data Analysis)`, catalogued on PulseMCP. Connects to multiple database types to enable SQL querying with visualization capabilities while keeping data in its original location

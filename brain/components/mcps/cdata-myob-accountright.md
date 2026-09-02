@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-18T19:17:44Z"
 ---
 ## What it is
 MCP server `MYOB AccountRight`, catalogued on PulseMCP. Transforms MYOB AccountRight accounting data into SQL-queryable format using JDBC connectivity, enabling database-style access to financial records, table schemas, and metadata for reporting automation and data analysis workflows.

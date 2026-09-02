@@ -8,10 +8,12 @@ source_url: https://github.com/metoro-io/github-mcp-server-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-11T15:04:18Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Integrates with GitHub's API to enable natural language-driven repository management, code manipulation, and issue tracking for streamlined development workflows.

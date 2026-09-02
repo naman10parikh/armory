@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:17:06Z"
 ---
 ## What it is
 Converts files (PDF, DOCX, PPTX, XLSX, images via OCR) and URLs to Markdown, enabling AI clients to read them via a single MCP tool.

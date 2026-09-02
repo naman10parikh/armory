@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:59:42Z"
 ---
 ## What it is
 Torii is an OAuth 2.1 authorization server and gateway for MCP servers, providing tool-level RBAC, audit trail, and credential management. It enables Claude clients to securely access upstream MCP servers through a single authenticated front door.

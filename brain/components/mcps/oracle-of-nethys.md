@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:43:59Z"
 ---
 ## What it is
 Provides search and retrieval over a local database of Pathfinder 2e rules. Enables Claude Code to answer rules questions with cited, accurate answers from fetched entries.

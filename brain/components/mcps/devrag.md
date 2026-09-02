@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-04-15T22:43:14Z"
 ---
 ## What it is
 A lightweight RAG (Retrieval-Augmented Generation) system for Claude Code that enables semantic search over local markdown documents via MCP tools, saving tokens and time.

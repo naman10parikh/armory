@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:19:20Z"
 ---
 ## What it is
 MCP server that lets Claude Code offload simple tasks like code explanation, writing tests, and adding comments to a local Ollama model, saving Claude API tokens.

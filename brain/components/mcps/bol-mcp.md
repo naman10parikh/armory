@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-05T22:22:45Z"
 ---
 ## What it is
 MCP server for the bol.com Retailer API that enables managing orders, offers, shipments, returns, invoices, and commissions via natural language.

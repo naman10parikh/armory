@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-04T14:10:09Z"
 ---
 ## What it is
 An intelligent MCP server that acts as an AI tech lead for coding agents, providing expert validation, impact analysis, and strategic guidance before code changes are made.

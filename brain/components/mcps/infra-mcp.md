@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T06:41:10Z"
 ---
 ## What it is
 MCP server that wraps Docker, Caddy, and GitHub Actions operations on a remote VPS, enabling Claude to take read-then-write-with-confirmation infrastructure actions over SSH with a service allowlist and audit-trail-friendly responses.

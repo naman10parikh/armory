@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T22:44:40Z"
 ---
 ## What it is
 Enables Claude to manage calendars and todos on a Synology NAS or any CalDAV server, supporting listing, creation, updating, and deletion of events and tasks through natural language conversation.

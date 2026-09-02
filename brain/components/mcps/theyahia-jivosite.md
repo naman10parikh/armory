@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:38:12Z"
 ---
 ## What it is
 MCP server `JivoSite`, catalogued on PulseMCP. Integrates with JivoSite customer communication platform for accessing chats, agents, and visitor data.

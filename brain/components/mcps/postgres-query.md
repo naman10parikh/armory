@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-08T17:55:10Z"
 ---
 ## What it is
 MCP server `Postgres Query`, catalogued on PulseMCP. Provides a read-only PostgreSQL query server with strict validation, 10-second timeout, and secure database access via command-line connection strings.

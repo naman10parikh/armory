@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:16:42Z"
 ---
 ## What it is
 Provides real-time safety ratings, internet speeds, budget tiers, top sights, and trip cost estimates for Asian travel destinations to LLM agents via MCP tools.

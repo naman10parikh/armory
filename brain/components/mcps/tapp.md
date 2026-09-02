@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T15:56:02Z"
 ---
 ## What it is
 Provides autonomous QA and a deterministic ship/no-ship verdict for iOS and web apps, enabling coding agents to explore, screenshot, and test apps via MCP tools.

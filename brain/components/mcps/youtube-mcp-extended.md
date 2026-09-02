@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T14:28:50Z"
 ---
 ## What it is
 Manages YouTube channels via Claude Desktop, enabling AI-powered metadata optimization, video scheduling, playlist management, and backups with safety guardrails.

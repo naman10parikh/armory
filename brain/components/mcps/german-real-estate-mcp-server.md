@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:41:58Z"
 ---
 ## What it is
 Enables AI agents to search for German property listings (rent/buy) on immowelt.de with structured JSON output, no API key required.

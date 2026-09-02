@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T19:59:10Z"
 ---
 ## What it is
 Enables searching Austria's largest classifieds marketplace (willhaben.at) for real estate, cars, jobs, and second-hand items via natural-language queries and structured filters, with full listing details.

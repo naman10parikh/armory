@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T13:13:04Z"
 ---
 ## What it is
 Enables AI assistants to manage products, shopping carts, and orders in an online store through a well-defined MCP API.

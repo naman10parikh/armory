@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T21:16:09Z"
 ---
 ## What it is
 A read-only MCP server that exposes European day-ahead electricity prices for ~41 bidding zones via tools like hourly prices, cheapest hours, current price, and cross-zone summary, enabling AI agents to query energy market data.

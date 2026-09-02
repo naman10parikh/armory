@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T10:59:08Z"
 ---
 ## What it is
 Enables triage, installation validation, and controlled automation of X-Ways Forensics and related tools through structured MCP tools for agents.

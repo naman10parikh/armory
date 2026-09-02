@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:19:16Z"
 ---
 ## What it is
 Provides local-only MCP tools for reviewing and organizing a Naver Mail account via IMAP, with safety-first handling of credentials and mail moves requiring approved plans.

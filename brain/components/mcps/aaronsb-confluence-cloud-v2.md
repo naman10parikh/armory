@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T16:31:11Z"
 ---
 ## What it is
 MCP server `Confluence Cloud`, catalogued on PulseMCP. Session-based page editing, macro support, and navigation for Atlassian Confluence Cloud.

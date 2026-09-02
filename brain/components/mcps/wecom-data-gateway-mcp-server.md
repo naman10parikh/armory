@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T17:31:03Z"
 ---
 ## What it is
 Exposes enterprise WeChat approval, report, and check-in data reading capabilities through the MCP protocol, enabling WorkBuddy and CodeBuddy to read historical business data.

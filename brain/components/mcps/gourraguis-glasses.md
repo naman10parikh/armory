@@ -8,10 +8,12 @@ source_url: https://github.com/gourraguis/glasses-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-20T09:11:35Z"
 ---
 ## What it is
 MCP server `Glasses`, catalogued on PulseMCP. Captures website screenshots using headless Chrome automation with configurable device emulation, output formats, and full-page or viewport-only options for web development workflows and content auditing.

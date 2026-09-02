@@ -8,10 +8,12 @@ source_url: https://github.com/kyurish/mcp-dashboards
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-23T08:25:34Z"
 ---
 ## What it is
 MCP server `Dashboards by KyuRish`, catalogued on PulseMCP. Interactive charts, dashboards, and KPI widgets rendered directly inside AI conversations.

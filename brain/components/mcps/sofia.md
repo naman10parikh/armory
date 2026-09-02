@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, search-data-extraction]
+forks: 0
+pushed_at: "2025-05-19T18:58:51Z"
 ---
 ## What it is
 S.O.F.I.A. - Search-Optimized Flow-based Intelligence Agent

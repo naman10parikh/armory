@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T19:35:55Z"
 ---
 ## What it is
 Validates SAP SD sales orders (material, pricing, credit) before creation using the MCP protocol, enabling clean-core order-to-cash automation.

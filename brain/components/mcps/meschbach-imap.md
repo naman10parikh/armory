@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-05T23:18:41Z"
 ---
 ## What it is
 MCP server `IMAP`, catalogued on PulseMCP. Bridges IMAP email accounts to provide read-only access to email summaries, headers, and message content.

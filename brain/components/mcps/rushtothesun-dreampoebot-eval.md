@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-12T06:30:33Z"
 ---
 ## What it is
 MCP server `DreamPoeBot Eval`, catalogued on PulseMCP. Enables AI agents to execute C# scripts and inspect type definitions within the DreamPoeBot Path of Exile automation framework.

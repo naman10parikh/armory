@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-13T06:17:34Z"
 ---
 ## What it is
 MCP server `Tornado Cash`, catalogued on PulseMCP. Tracks Tornado Cash deposits and withdrawals through The Graph's subgraph to reveal hidden asset trails and wallet interactions for blockchain analysis and compliance investigations.

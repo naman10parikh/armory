@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:53:10Z"
 ---
 ## What it is
 Enables querying Fannie Mae's public APIs, currently supporting loan limits retrieval for US counties and territories via OAuth2.

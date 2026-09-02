@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T05:21:11Z"
 ---
 ## What it is
 Enables natural-language querying of e-commerce data (products, users, orders) from a PostgreSQL database, using a Hugging Face model for safe intent extraction and parameterized SQL execution.

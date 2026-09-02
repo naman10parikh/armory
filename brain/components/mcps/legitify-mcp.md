@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T23:50:46Z"
 ---
 ## What it is
 Enables AI agents to submit, check, and manage human attestation requests for AI actions through Legitify's approval receipt system.

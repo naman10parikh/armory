@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:10Z"
 ---
 ## What it is
 MCP server for querying the Certificate of Non-Registration from Osasco City Hall (SP, Brazil). It provides a single read-only tool to consult this certificate via official sources, hosted with pay-per-use credits.

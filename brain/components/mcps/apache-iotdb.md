@@ -8,10 +8,12 @@ source_url: https://github.com/apache/iotdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-05-15T22:06:39Z"
 ---
 ## What it is
 MCP server `Apache IoTDB`, catalogued on PulseMCP. Connects to Apache IoTDB time-series databases for executing queries, listing tables, and describing schemas through a secure Python-based interface.

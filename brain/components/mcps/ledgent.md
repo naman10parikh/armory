@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:02:45Z"
 ---
 ## What it is
 Ledgent is a secure agentic integration layer that exposes Salesforce and billing operations as MCP tools. It enforces action-level authorization, idempotency, PII tokenization, and full audit logging, enabling AI agents to safely perform writes with human approval for high-risk actions.

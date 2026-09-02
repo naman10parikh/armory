@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T13:08:08Z"
 ---
 ## What it is
 A modular MCP server exposing tools for integrating with services like GitHub, Redash, Jenkins, Figma, Jira, Confluence, Teams, Datadog, PagerDuty, Slack, and Presto, enabling users to manage these platforms through natural language via an MCP client.

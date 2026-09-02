@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:03:43Z"
 ---
 ## What it is
 Delegate coding tasks to external AI coding agents in isolated git worktrees with independent verification, enabling any MCP client to orchestrate multi-agent workflows.

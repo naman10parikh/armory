@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T23:50:19Z"
 ---
 ## What it is
 A local-only MCP server for understanding Git repositories, offering repository summary, recent changes, file hotspots, and hygiene checks without network access.

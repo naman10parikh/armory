@@ -8,10 +8,12 @@ source_url: https://github.com/drpfau/nxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-30T21:53:59Z"
 ---
 ## What it is
 MCP server `NexusDB`, catalogued on PulseMCP. Integrates with NexusDB databases to provide complete database management including schema operations, data manipulation, query execution, table maintenance, and transaction handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T10:01:02Z"
 ---
 ## What it is
 Enables AI agents to securely use secrets by running commands with environment-injected credentials and sanitizing output to prevent leakage.

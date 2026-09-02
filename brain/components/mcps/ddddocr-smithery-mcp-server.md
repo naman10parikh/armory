@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-27T09:15:04Z"
 ---
 ## What it is
 A Model Context Protocol server providing OCR and CAPTCHA recognition capabilities to AI agents, including text extraction, text detection, and slide CAPTCHA solving.

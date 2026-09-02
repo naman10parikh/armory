@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:00:56Z"
 ---
 ## What it is
 An MCP server that lets any AI tool delegate tasks to the OpenCode CLI as a subagent, with multi-session orchestration, event tracking, and task contracts.

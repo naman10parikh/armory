@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T16:08:19Z"
 ---
 ## What it is
 Enables GitHub API integration via MCP, allowing search, repository details, file contents, and issue management.

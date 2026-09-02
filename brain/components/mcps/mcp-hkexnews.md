@@ -8,11 +8,13 @@ source_url: https://github.com/agentladle/mcp-hkexnews
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:51:19Z"
 ---
 ## What it is
 MCP server for discovering, downloading, parsing, and searching Hong Kong listed company announcements from HKEXnews through 6 structured tools.

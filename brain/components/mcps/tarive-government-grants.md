@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-31T21:06:50Z"
 ---
 ## What it is
 MCP server `Government Grants`, catalogued on PulseMCP. Integrates with the Simpler Grants API to enable keyword-based searching and retrieval of government grant opportunities.

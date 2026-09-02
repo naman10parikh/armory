@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T02:05:03Z"
 ---
 ## What it is
 MCP server that analyzes TTS audio recordings, providing transcription, quality scoring, pacing analysis, and mispronunciation detection to debug voice call center audio.

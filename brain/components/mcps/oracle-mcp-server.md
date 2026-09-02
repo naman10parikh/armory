@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:48:15Z"
 ---
 ## What it is
 A read-only MCP server for exploring and querying Oracle schemas safely. Provides tools for table listing, schema description, column search, and validated SELECT execution.

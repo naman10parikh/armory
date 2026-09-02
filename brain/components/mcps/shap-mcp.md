@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:16:27Z"
 ---
 ## What it is
 A lightweight, focused Model Context Protocol (MCP) server exposing SHAP model explainability as agent-callable tools with dual stdio/HTTP transports and a built-in Web GUI.

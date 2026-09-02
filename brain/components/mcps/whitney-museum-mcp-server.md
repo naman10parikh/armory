@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:08:30Z"
 ---
 ## What it is
 Enables searching the Whitney Museum's public API for artworks, artists, exhibitions, events, and audio guides from any MCP client.

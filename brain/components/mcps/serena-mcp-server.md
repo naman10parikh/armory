@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-16T12:33:06Z"
 ---
 ## What it is
 Provides IDE-like semantic code retrieval and editing tools for LLMs, enabling precise code understanding and manipulation in large codebases via the Model Context Protocol.

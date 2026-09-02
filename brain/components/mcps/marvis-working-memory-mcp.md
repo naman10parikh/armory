@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:33:42Z"
 ---
 ## What it is
 Provides local persistent working memory for AI agents, allowing them to load rules, preferences, and project state before tasks and save validated experiences after successful completion. Works with stdio MCP clients via a local JSON file.

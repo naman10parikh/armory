@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T03:43:25Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes 23 free APIs (Steam, WHOIS, email, IP geolocation, currency, stocks, QR codes, and more) for use by AI assistants like Claude and Cursor.

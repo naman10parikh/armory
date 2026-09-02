@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T16:09:15Z"
 ---
 ## What it is
 Creates a local database of indexed technical documentation from web crawls and local files, enabling AI agents to efficiently search and retrieve documentation through MCP tools.

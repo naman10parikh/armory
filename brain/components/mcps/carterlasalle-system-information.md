@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-04T06:24:11Z"
 ---
 ## What it is
 MCP server `DevEnvInfoServer`, catalogued on PulseMCP. Gathers detailed development environment data to enhance context-aware assistance in code editors, enabling tailored coding suggestions and environment-specific troubleshooting.

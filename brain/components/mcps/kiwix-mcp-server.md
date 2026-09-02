@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T01:01:32Z"
 ---
 ## What it is
 Provides offline access to Wikipedia and other ZIM content through a local Kiwix instance, enabling search, summaries, and full article retrieval without internet.

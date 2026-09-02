@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:12:00Z"
 ---
 ## What it is
 Aki is a local stdio MCP server that gives AI coding assistants durable project memory, allowing them to remember decisions, search prior notes, and save context across sessions.

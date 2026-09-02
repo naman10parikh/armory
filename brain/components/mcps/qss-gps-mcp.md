@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T12:39:43Z"
 ---
 ## What it is
 Enables adding GPS goals and logging time directly from Claude Desktop, with support for bulk backfill and session management.

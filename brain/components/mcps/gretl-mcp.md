@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T17:59:37Z"
 ---
 ## What it is
 Enables AI agents to run Gretl/Hansl scripts, execute Gretl commands, manage packages, and interact with the Gretl GUI for econometric analysis and visualization.

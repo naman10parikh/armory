@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:15:49Z"
 ---
 ## What it is
 MCP server for fts-gate. It enables verification of FTS executable specifications through proof-carrying checks, exposing tools to run gate checks (fts_gate_check) and list available morphisms (fts_morphisms_list), with rejection of invalid proofs via structural logical fallacy detection.

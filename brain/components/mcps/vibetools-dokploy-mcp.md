@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T14:39:18Z"
 ---
 ## What it is
 Enables deploying, managing, and interacting with Dokploy applications via natural language using three core MCP tools: search, execute, and list_profiles.

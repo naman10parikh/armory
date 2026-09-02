@@ -8,11 +8,13 @@ source_url: https://github.com/leonardsellem/codex-subagents-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 161
+stars: 160
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2025-12-29T18:43:28Z"
 ---
 ## What it is
 Enables Codex CLI to delegate tasks to file-based specialized agents with isolated execution, auditability, and CI-friendly validation.

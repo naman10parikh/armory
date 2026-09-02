@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-03T18:35:30Z"
 ---
 ## What it is
 Enables AI assistants to manage Docker containers, images, volumes, networks, and Compose projects through natural language, with secret masking and destructive action grants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:35:10Z"
 ---
 ## What it is
 A local, read-only MCP server for Claude Desktop that provides 16 tools to search and read EspoCRM accounts, contacts, opportunities, and related emails via a strict allowlist.

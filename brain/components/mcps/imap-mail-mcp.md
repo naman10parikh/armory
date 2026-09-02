@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T17:11:28Z"
 ---
 ## What it is
 Enables LLM clients to read and search email via IMAP with tools for listing folders, searching messages, and fetching message content. It supports pagination, snippets, and thread context, and is designed for local AI workflows.

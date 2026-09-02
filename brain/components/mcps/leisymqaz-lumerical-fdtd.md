@@ -8,10 +8,12 @@ source_url: https://github.com/leisymqaz/lumerical-fdtd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T09:45:34Z"
 ---
 ## What it is
 MCP server `Lumerical FDTD`, catalogued on PulseMCP. Bridges Ansys Lumerical FDTD photonic simulation software with MCP clients for AI-assisted photonic design.

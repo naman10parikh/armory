@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T18:43:47Z"
 ---
 ## What it is
 An agent-capable MCP server with terminal access, filesystem control, and persistent memory. It includes sandboxing, access control, activity logging, and a file-backed memory store for context across conversations.

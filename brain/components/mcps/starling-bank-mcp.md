@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:47:06Z"
 ---
 ## What it is
 MCP server for Starling Bank API integration, enabling AI agents to manage accounts, view transactions, and send payments via natural language.

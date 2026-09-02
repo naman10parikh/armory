@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:39:10Z"
 ---
 ## What it is
 An end-to-end Model Context Protocol demo that connects Claude to ServiceNow Incident Management.

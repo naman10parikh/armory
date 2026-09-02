@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:07:59Z"
 ---
 ## What it is
 Enables AI agents to generate structured, part-aware 3D assets with named parts and real joints, allowing separate editing and integration into game engines, simulations, and AR scenes.

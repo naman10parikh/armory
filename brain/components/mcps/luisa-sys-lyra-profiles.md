@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T04:46:59Z"
 ---
 ## What it is
 MCP server `Lyra Profiles`, catalogued on PulseMCP. Access and manage Lyra user profiles, search by name or location, get gift recommendations, and generate personality insights.

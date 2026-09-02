@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-31T20:24:32Z"
 ---
 ## What it is
 Enables AI tools to query Brazilian addresses by CEP or search CEPs by address via the ViaCEP API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T09:14:26Z"
 ---
 ## What it is
 Provides Meta (Facebook/Instagram) business insights through the Graph and Marketing APIs, enabling access to ad accounts, pages, campaigns, and business assets using a System User access token.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T07:15:08Z"
 ---
 ## What it is
 Inject real-time leaked B2B SaaS pricing, historical discounts, and aggressive negotiation playbooks directly into AI agents.

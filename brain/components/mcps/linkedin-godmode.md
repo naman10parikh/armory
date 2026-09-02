@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:20:17Z"
 ---
 ## What it is
 An MCP server providing generic browser automation and HTTP primitives for operating a LinkedIn session, supporting local Chromium or cloud browsers, with deterministic tools and optional AI tasks.

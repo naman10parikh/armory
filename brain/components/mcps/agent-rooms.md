@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:59:55Z"
 ---
 ## What it is
 MCP server for real-time communication between Claude Code sessions via chat rooms.

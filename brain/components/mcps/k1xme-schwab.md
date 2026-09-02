@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-30T03:11:51Z"
 ---
 ## What it is
 MCP server `Schwab`, catalogued on PulseMCP. Charles Schwab brokerage integration with 18 tools for quotes, orders, accounts, and market data.

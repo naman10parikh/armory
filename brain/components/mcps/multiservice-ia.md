@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:58:19Z"
 ---
 ## What it is
 A local MCP server that provides a sovereign memory substrate for LLMs, enabling capture, recall, explanation, and anticipation of conversation turns with bi-temporal events and a strict read-only query surface.

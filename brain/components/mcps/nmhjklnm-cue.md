@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-24T20:43:11Z"
 ---
 ## What it is
 MCP server `Cue`, catalogued on PulseMCP. Enables persistent conversational sessions between users and assistants through a shared SQLite database with tools for establishing agent identity and sending interactive prompts.

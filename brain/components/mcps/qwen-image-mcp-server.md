@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:14:57Z"
 ---
 ## What it is
 Enables text-to-image generation and image editing via Alibaba Cloud DashScope's Qwen Image models, supporting prompt-based generation and reference-image editing with multiple model options and configurable parameters.

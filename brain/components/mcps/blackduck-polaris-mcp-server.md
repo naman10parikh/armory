@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T14:43:03Z"
 ---
 ## What it is
 An MCP server for Black Duck Polaris that enables AI coding assistants to trigger scans, manage findings, generate reports, and handle policies across SAST, SCA, and DAST tools.

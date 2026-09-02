@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T07:14:55Z"
 ---
 ## What it is
 A governed, read-only MCP server for ad inventory discovery from Google Ad Manager, exposing three tools (well_known_capabilities, discover_products, get_forecast) to buyer-side agents without modifying or accessing the ad server.

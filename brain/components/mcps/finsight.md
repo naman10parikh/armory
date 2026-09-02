@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:26:12Z"
 ---
 ## What it is
 An AI-powered financial analyst MCP server that enables stock performance analysis, company comparison, and market trend interpretation directly in your IDE using local AI.

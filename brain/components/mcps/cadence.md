@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:09:12Z"
 ---
 ## What it is
 Detects your work mode and plays Spotify music matched to the task, learning your taste over time to keep you in flow.

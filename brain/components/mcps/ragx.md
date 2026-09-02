@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T04:38:36Z"
 ---
 ## What it is
 RAGX MCP Server enables retrieval-augmented generation with document ingestion, hybrid search, and agentic answering using Claude, exposing tools for querying, searching, and managing documents.

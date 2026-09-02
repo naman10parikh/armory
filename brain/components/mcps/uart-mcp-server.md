@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T04:14:58Z"
 ---
 ## What it is
 Enables reading UART logs from Windows serial ports and sending text to the UART through MCP, with an optional Tkinter UI for local monitoring.

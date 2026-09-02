@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:14:43Z"
 ---
 ## What it is
 A universal agent gateway that integrates MCP tools (memory, reminders, web search, email, calendar, etc.) with multi-channel messaging (Telegram, QQ) and a heartbeat system for autonomous life simulation.

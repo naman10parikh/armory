@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-04T11:20:49Z"
 ---
 ## What it is
 A Model Context Protocol server for browser automation using Selenium WebDriver, enabling LLMs and teams to automate browsers with multi-browser support and a standard MCP API.

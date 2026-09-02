@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-30T16:00:00Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server example with calculator tools, built using FastMCP.

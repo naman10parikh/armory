@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T09:00:43Z"
 ---
 ## What it is
 An advanced Model Context Protocol (MCP) server for Xcode project introspection. It enables AI assistants to read schemes, build iOS/macOS projects, run tests, and check Git & SwiftLint info directly from local repositories

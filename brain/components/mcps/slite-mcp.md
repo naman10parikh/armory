@@ -8,11 +8,13 @@ source_url: https://github.com/fajarmf/slite-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T16:59:34Z"
 ---
 ## What it is
 Integrates with Slite's API to search, retrieve, create, and edit notes via the MCP protocol.

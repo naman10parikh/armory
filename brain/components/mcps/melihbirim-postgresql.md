@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-21T17:09:11Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Connects to PostgreSQL databases for executing SQL queries, retrieving table schemas, and performing database operations for data analysis and administration tasks.

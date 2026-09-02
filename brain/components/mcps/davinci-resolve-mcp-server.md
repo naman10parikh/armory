@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-05-22T03:59:59Z"
 ---
 ## What it is
 Exposes 20 tools for project, media, render, and timeline control in DaVinci Resolve 18+ via stdio MCP, enabling AI agents to operate the software through natural language.

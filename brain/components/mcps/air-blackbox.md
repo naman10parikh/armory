@@ -8,10 +8,12 @@ source_url: https://github.com/airblackbox/air-blackbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T14:11:18Z"
 ---
 ## What it is
 MCP server `Air Blackbox`, catalogued on PulseMCP. EU AI Act compliance scanning for Python AI agents with remediation tools.

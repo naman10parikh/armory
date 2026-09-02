@@ -8,10 +8,12 @@ source_url: https://github.com/tickernelz/mcp-web-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-03T08:45:25Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Provides web search capabilities and content extraction using a two-tier system that escalates from fast DuckDuckGo HTML search to Puppeteer-driven Bing search when needed, with Wikipedia summaries and semantic content processing.

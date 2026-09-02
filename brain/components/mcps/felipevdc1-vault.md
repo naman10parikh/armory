@@ -8,10 +8,12 @@ source_url: https://github.com/felipevdc1/vault-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T21:45:01Z"
 ---
 ## What it is
 MCP server `Vault`, catalogued on PulseMCP. Intelligent Claude Code skill resolver that automatically identifies the right skill for each task using multi-signal scoring and recipe workflows.

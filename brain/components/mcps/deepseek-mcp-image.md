@@ -8,11 +8,13 @@ source_url: https://github.com/Chuyuxuan0v0/deepseek-mcp-image
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:25:19Z"
 ---
 ## What it is
 Provides image recognition for text-only LLMs like DeepSeek by bridging to SenseNova multimodal model, enabling image description via the describe_image tool.

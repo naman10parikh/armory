@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T03:24:47Z"
 ---
 ## What it is
 A read-only MCP connector for searching, fetching, and citing provenance-tracked legal corpora with verifiable content hashes.

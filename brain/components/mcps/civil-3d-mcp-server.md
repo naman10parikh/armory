@@ -8,11 +8,13 @@ source_url: https://github.com/SantosSjba/mcp-to-c3d
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:33:42Z"
 ---
 ## What it is
 Enables AI assistants to write and execute C# code directly inside Autodesk Civil 3D, providing full API access through code generation and execution.

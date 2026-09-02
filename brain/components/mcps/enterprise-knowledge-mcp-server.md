@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T14:57:09Z"
 ---
 ## What it is
 Enables querying enterprise documents (DOCX, PDF, PPTX) using natural language, with hybrid search and MCP integration for Claude Desktop and other agents.

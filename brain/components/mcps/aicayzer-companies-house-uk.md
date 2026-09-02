@@ -8,10 +8,12 @@ source_url: https://github.com/aicayzer/companies-house-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-04T14:46:42Z"
 ---
 ## What it is
 MCP server `Companies House UK`, catalogued on PulseMCP. Programmatic access to UK Companies House data for company lookups, officer searches, ownership tracing, and due diligence scanning.

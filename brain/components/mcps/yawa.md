@@ -8,11 +8,13 @@ source_url: https://github.com/peterpeterparker/yawa
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T14:56:24Z"
 ---
 ## What it is
 Self-hosted web analytics platform that exposes analytics data via the Model Context Protocol, enabling natural language queries about traffic, page views, web vitals, and custom events.

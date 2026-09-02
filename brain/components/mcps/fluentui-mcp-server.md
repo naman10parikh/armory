@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-08T17:08:27Z"
 ---
 ## What it is
 Comprehensive MCP server for Fluent UI React v9 development, providing component knowledge, design tokens, code generation, and validation tools.

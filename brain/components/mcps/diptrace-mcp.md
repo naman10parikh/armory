@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T14:02:30Z"
 ---
 ## What it is
 Enables reading, analysis, and safe modification of DipTrace PCB designs via natural language, with live integration and offline XML support.

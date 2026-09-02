@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T01:41:02Z"
 ---
 ## What it is
 Lets AI agents see and control desktop applications through the accessibility layer, enabling clicking, typing, scrolling, dragging, and window/app management across macOS, Windows, and Linux entirely on the local machine.

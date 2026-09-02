@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:39:01Z"
 ---
 ## What it is
 MCP server that scores tool descriptions, estimates token costs, simulates agent tool selection, and generates reliability reports to help AI agents choose the right tools and reduce wasted tokens.

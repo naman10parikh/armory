@@ -8,11 +8,13 @@ source_url: https://github.com/Aevella/sky-pc-mcp-companion
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 144
+stars: 148
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-06-14T10:37:30Z"
 ---
 ## What it is
 本地MCP工具，通过截图、OCR、键盘和聊天输入与PC游戏《光遇》交互，支持AI客户端陪聊和实验。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T02:41:33Z"
 ---
 ## What it is
 Enables drafting, sending, and measuring Slack broadcasts from any MCP-capable agent using the Stet platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T06:12:35Z"
 ---
 ## What it is
 Enables MCP hosts like Claude Code and Codex to spawn, manage, and interact with persistent, reusable Pi coding-agent sessions, supporting task dispatch, status checks, and session lifecycle control.

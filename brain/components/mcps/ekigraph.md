@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:38:51Z"
 ---
 ## What it is
 Enables AI assistants to answer questions about Japan's railway network with accurate track-connection data, including station neighbors and local subgraphs for all 9,043 stations nationwide.

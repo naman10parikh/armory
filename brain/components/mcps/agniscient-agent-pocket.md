@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T05:39:48Z"
 ---
 ## What it is
 MCP server `Agent Pocket`, catalogued on PulseMCP. Human-in-the-loop approval bridge for AI coding agents with dashboard notifications.

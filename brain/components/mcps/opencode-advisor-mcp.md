@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:46:40Z"
 ---
 ## What it is
 An unofficial MCP server that lets Codex ask a read-only OpenCode advisor for a second review pass on Git changes.

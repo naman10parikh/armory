@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T01:28:32Z"
 ---
 ## What it is
 MCP server `Google Drive`, catalogued on PulseMCP. Community MCP integration for Google Drive and Workspace, enabling AI agents to access Docs, Sheets, Slides, and Shared Drives.

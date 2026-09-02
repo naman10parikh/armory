@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-14T09:07:31Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI assistants persistent, scoped memory by saving and retrieving short notes (mementos) across sessions and projects, enabling dynamic learning and context injection without heavy dependencies.

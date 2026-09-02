@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:11Z"
 ---
 ## What it is
 Enables querying labor court proceedings from TRT1 (Tribunal Regional do Trabalho da 1ª Região) directly from AI assistants, with read-only access and prepaid credit billing.

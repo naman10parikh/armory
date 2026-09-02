@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:34:33Z"
 ---
 ## What it is
 Enables AI agents to operate a local study lab by rolling one-time topics, choosing a card, and completing it with proof, while managing syllabi and progress locally.

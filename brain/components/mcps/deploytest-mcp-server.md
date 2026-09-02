@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T20:37:22Z"
 ---
 ## What it is
 Enables AI agents to run reusable Playwright test fixtures against live deployments, providing structured test results, screenshots, and assertions.

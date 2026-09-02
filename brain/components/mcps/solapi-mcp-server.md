@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T00:34:57Z"
 ---
 ## What it is
 Enables searching SOLAPI documentation and examples, and sending/managing SMS, LMS, MMS, RCS, and Kakao messages with safety guards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-19T15:48:30Z"
 ---
 ## What it is
 Exposes Rybbit Analytics as MCP tools for querying site traffic, page views, visitor sessions, and live visitor counts through natural language.

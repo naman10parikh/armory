@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-06T21:44:43Z"
 ---
 ## What it is
 MCP server `REE (Spain Electricity)`, catalogued on PulseMCP. Integrates with Spain's electricity system through REE API to provide real-time and historical electricity data including demand, generation by source, prices, and emissions with over 1,900 indicators and flexible time granularities for energy analysis and forecasting.

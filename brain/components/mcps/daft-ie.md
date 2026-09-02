@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-06T09:54:49Z"
 ---
 ## What it is
 MCP server `Daft.ie`, catalogued on PulseMCP. Scrapes Irish rental property data from Daft.ie with advanced filtering for location, price, bedrooms, and property type, extracting detailed information including coordinates and BER ratings for property research and market analysis.

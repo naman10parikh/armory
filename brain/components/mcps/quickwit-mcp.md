@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:29:34Z"
 ---
 ## What it is
 A read-only MCP server that exposes Quickwit log search and aggregations to LLM clients, enabling natural language log investigation.

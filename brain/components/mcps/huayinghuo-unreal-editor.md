@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T16:01:55Z"
 ---
 ## What it is
 MCP server `Unreal Editor`, catalogued on PulseMCP. Control Unreal Engine 5.3 editor via 58 MCP operations for actors, Blueprints, and widgets.

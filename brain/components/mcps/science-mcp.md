@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T14:48:57Z"
 ---
 ## What it is
 MCP server for AI-assisted research: paper ingestion, semantic search, citation graph traversal, cross-domain knowledge synthesis, and workflow automation.

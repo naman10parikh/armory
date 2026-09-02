@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:42:13Z"
 ---
 ## What it is
 Enables encrypted messaging via Signal, SimpleX, and Session through a unified API, supporting message sending, polling, and key management.

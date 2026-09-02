@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T00:53:38Z"
 ---
 ## What it is
 MCP server `MockMCP`, catalogued on PulseMCP. Hosted mock MCP endpoint with realistic fake data for rapid agent prototyping.

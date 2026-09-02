@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T12:06:14Z"
 ---
 ## What it is
 MCP server `Auto-OM`, catalogued on PulseMCP. Provides remote Linux server automation through SSH connections with tools for file management, text processing, system monitoring, process management, network operations, compression, and package management.

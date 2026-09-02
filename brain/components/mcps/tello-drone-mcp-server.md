@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T22:24:09Z"
 ---
 ## What it is
 Enables controlling a Tello drone through natural language commands in Claude. Supports takeoff, landing, movement, photo capture, and battery monitoring.

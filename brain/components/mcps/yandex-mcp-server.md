@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:43:23Z"
 ---
 ## What it is
 Enables interaction with Yandex advertising and analytics APIs (Direct, Metrika, Audience, Webmaster, AdMetrica) through MCP tools, resources, and prompts for campaign management and data retrieval.

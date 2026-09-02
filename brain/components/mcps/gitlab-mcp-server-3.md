@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-16T19:04:29Z"
 ---
 ## What it is
 Enables GitLab integration through MCP, supporting code review and project management via natural language.

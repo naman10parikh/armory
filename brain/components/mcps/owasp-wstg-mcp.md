@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:45:04Z"
 ---
 ## What it is
 MCP server exposing the OWASP Web Security Testing Guide via semantic search and knowledge graph traversal.

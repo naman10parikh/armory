@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:53:14Z"
 ---
 ## What it is
 Enables MCP-capable AI to perform read-only semantic search over a local document corpus stored in Postgres with pgvector, using mxbai-embed-large embeddings and optional reranking for confidence-gated results.

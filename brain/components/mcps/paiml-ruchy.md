@@ -8,10 +8,12 @@ source_url: https://github.com/paiml/ruchy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-11T13:05:06Z"
 ---
 ## What it is
 MCP server `Ruchy`, catalogued on PulseMCP. Code analysis, scoring, linting, formatting, and transpilation tools for the Ruchy programming language

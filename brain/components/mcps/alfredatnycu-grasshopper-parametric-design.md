@@ -8,10 +8,12 @@ source_url: https://github.com/alfredatnycu/grasshopper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-03-22T13:38:12Z"
 ---
 ## What it is
 MCP server `Grasshopper Parametric Design`, catalogued on PulseMCP. Connects Grasshopper parametric design software with Claude through a bidirectional TCP server and Python bridge, enabling natural language control of architectural and engineering modeling workflows.

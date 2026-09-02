@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:32:53Z"
 ---
 ## What it is
 An MCP server that gives AI assistants access to an entropy-based Wordle solver, providing game stats and ranked guess recommendations with expected information gain to help agents play and explain Wordle optimally.

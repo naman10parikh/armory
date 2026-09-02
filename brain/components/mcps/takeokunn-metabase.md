@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T03:44:42Z"
 ---
 ## What it is
 MCP server `Metabase`, catalogued on PulseMCP. Integrates with Metabase business intelligence platform to enable database querying, dashboard management, report generation, and administrative tasks through natural language interactions with support for both MBQL and native SQL execution.

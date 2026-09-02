@@ -8,11 +8,13 @@ source_url: https://github.com/firekula/mcp-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 222
+stars: 223
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 79
+pushed_at: "2026-07-24T03:08:32Z"
 ---
 ## What it is
 MCP server for Cocos Creator that enables AI tools to automate scene editing, resource management, and project operations via HTTP and stdio interfaces.

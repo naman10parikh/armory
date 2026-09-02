@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T10:11:55Z"
 ---
 ## What it is
 This MCP server lets AI agents read and extract data from your own logged-in Chrome browser via the HoloScrape extension, enabling private, local automation of web scraping and list extraction without uploading data.

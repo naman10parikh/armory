@@ -8,10 +8,12 @@ source_url: https://github.com/augmented-nature/pdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-12-21T10:07:20Z"
 ---
 ## What it is
 MCP server `Protein Data Bank`, catalogued on PulseMCP. Integrates with the Protein Data Bank (PDB) to provide search, retrieval, and analysis capabilities for protein structures, coordinates, quality metrics, and validation data for structural biology research.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T05:54:01Z"
 ---
 ## What it is
 Improves AI agent task performance by providing task area segmentation, hierarchical RAG, and hybrid search capabilities.

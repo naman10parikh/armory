@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:41:59Z"
 ---
 ## What it is
 Enables AI clients to access a shared, authenticated memory and project management system with durable storage, task tracking, roadmaps, and semantic search, deployed on Cloudflare.

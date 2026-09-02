@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T00:42:59Z"
 ---
 ## What it is
 Wraps the cellc CellScript compiler so that an AI can write, check, explain, and inspect CKB Cell contracts in a local agentic loop.

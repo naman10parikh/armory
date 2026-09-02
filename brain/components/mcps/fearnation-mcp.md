@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:05:32Z"
 ---
 ## What it is
 An MCP server that searches the fearnation.club news archive at item-level granularity, supporting full-text search, post retrieval, recent listing, and catalogue discovery with cross-script search and incremental updates.

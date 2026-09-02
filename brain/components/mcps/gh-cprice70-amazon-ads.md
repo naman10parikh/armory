@@ -8,10 +8,12 @@ source_url: https://github.com/cprice70/amazonads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-03T11:43:22Z"
 ---
 ## What it is
 MCP server `Amazon Ads`, catalogued on PulseMCP. Manage Amazon Advertising campaigns, keywords, bids, and performance reports.

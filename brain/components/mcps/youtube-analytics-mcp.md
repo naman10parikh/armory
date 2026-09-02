@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:16:44Z"
 ---
 ## What it is
 A local, read-only MCP server that provides Claude with private YouTube Analytics data—views, retention, traffic sources, demographics, revenue, and impressions/CTR—via authenticated Google APIs.

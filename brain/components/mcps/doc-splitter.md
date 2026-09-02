@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:27:20Z"
 ---
 ## What it is
 Conceptual document splitter that parses PDF/DOCX into study-sized chunks with safe-cut constraints, verified output, and bilingual study indexes, exposed as MCP tools for AI coding assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T18:22:04Z"
 ---
 ## What it is
 MCP server for double-entry bookkeeping with idempotent writes, immutable entries, and audit trail. Enables trustworthy financial recording and verification through natural language.

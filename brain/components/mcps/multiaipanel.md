@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:17:25Z"
 ---
 ## What it is
 A Chrome side panel hosting multiple AIs (ChatGPT, Claude, Gemini, Grok, DeepSeek) that also functions as an MCP server for downstream agents, enabling multi-model comparison and agent coordination.

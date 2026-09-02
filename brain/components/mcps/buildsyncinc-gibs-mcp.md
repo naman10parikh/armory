@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, legal]
 stars: 7
+forks: 4
+pushed_at: "2026-02-15T22:37:09Z"
 ---
 ## What it is
 Regulatory compliance (AI Act, GDPR, DORA) with article-level citations

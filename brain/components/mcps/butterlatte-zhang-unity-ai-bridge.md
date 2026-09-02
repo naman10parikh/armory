@@ -8,10 +8,12 @@ source_url: https://github.com/butterlatte-zhang/unity-ai-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-25T07:57:24Z"
 ---
 ## What it is
 MCP server `Unity AI Bridge`, catalogued on PulseMCP. Remote-control Unity Editor from AI IDEs via file-based IPC with 62 tools covering scene, GameObject, asset, profiler, and test operations.

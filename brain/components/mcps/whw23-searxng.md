@@ -8,10 +8,12 @@ source_url: https://github.com/whw23/searxng_http_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T07:49:51Z"
 ---
 ## What it is
 MCP server `SearXNG`, catalogued on PulseMCP. Wraps SearXNG with HTTP and stdio transports, offering web search across 200+ engines with autocomplete and engine discovery tools.

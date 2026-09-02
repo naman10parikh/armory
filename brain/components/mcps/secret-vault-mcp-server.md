@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:54:54Z"
 ---
 ## What it is
 AES-256-GCM encrypted local secret storage exposed as MCP tools, with secrets captured via native OS dialogs and never passing through the LLM API.

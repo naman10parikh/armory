@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:35:53Z"
 ---
 ## What it is
 Publishes normalized release notices to a configured webhook via MCP, with built-in validation, deterministic dry-run mode, and a clear boundary for authority gates.

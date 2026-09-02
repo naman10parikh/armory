@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-21T17:43:02Z"
 ---
 ## What it is
 MCP server `Agentic Research Engine`, catalogued on PulseMCP. Local research agent that retrieves, synthesizes, and self-verifies answers at zero per-query cost.

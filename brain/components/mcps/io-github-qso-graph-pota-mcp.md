@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T21:32:07Z"
 ---
 ## What it is
 MCP server for Parks on the Air (POTA) providing live activator spots, park details, activator/hunter stats, and scheduled activations through any MCP-compatible AI assistant.

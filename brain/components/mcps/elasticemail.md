@@ -8,10 +8,12 @@ source_url: https://github.com/elasticemail/elasticemail-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-03T17:58:06Z"
 ---
 ## What it is
 MCP server `Elastic Email`, catalogued on PulseMCP. Turn your favourite AI tool into a personal email agent.

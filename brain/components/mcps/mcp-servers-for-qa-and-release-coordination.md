@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T11:40:38Z"
 ---
 ## What it is
 A collection of MCP servers for Slack, Jira, Confluence, and release coordination to automate QA workflows and daily release status reporting.

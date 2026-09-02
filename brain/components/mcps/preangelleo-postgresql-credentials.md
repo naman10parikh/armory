@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-31T10:35:58Z"
 ---
 ## What it is
 MCP server `PostgreSQL Credentials`, catalogued on PulseMCP. Provides secure PostgreSQL database access through GitHub OAuth authentication with role-based permissions, direct database tools for authenticated users, and an HTTP API wrapper for deployment environments with connection limitations.

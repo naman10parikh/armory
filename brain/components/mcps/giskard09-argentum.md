@@ -8,10 +8,12 @@ source_url: https://github.com/giskard09/argentum-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-09-01T13:35:19Z"
 ---
 ## What it is
 MCP server `Giskard Argentum`, catalogued on PulseMCP. Karma economy for AI agents with community attestations and on-chain reputation on Arbitrum.

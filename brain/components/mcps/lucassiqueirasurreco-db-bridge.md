@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-10T13:34:31Z"
 ---
 ## What it is
 MCP server `DB Bridge`, catalogued on PulseMCP. Provides secure SQL query execution across MySQL, PostgreSQL, and SQLite databases with granular permission controls, transaction-based operations, and configurable write access for production environments.

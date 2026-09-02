@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:11:37Z"
 ---
 ## What it is
 Connects to real-time French power grid data (carbon intensity, consumption, generation mix) to make Kiro carbon-aware, enabling it to defer heavy jobs when the grid is dirty.

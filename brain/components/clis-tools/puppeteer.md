@@ -8,12 +8,14 @@ source_url: https://github.com/puppeteer/puppeteer
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 95490
+stars: 95535
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, puppeteer]
 mentions: 2
+forks: 9574
+pushed_at: "2026-09-01T16:03:04Z"
 ---
 ## What it is
 Google Puppeteer Node.js library and CLI for programmatic Chrome/Firefox control — headless screenshot, PDF, network interception, and DevTools protocol access; foundation for many browser-automation tools.

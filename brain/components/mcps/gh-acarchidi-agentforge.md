@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-08T17:15:07Z"
 ---
 ## What it is
 MCP server `AgentForge`, catalogued on PulseMCP. DeFi safety layer for agents with wallet checks, contract documentation, transaction decoding, approval scanning, and simulation.

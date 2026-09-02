@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T07:31:56Z"
 ---
 ## What it is
 Persistent SSH sessions for AI assistants, enabling long-running remote shell connections with features like file transfer, port forwarding, and swarm mode.

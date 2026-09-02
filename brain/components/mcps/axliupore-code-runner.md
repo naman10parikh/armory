@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-11T04:05:59Z"
 ---
 ## What it is
 MCP server `Code Runner`, catalogued on PulseMCP. Executes code snippets in isolated Docker containers with resource limits and security controls for safe testing and debugging across multiple programming languages.

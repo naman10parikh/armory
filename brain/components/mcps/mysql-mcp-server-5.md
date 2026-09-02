@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T03:01:06Z"
 ---
 ## What it is
 Provides structured MySQL database operations for Claude Desktop, converting natural language requests into safe, parameterized queries.

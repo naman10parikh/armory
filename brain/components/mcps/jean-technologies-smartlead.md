@@ -8,10 +8,12 @@ source_url: https://github.com/jonathan-politzki/smartlead-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-07-23T21:09:02Z"
 ---
 ## What it is
 MCP server `Smartlead`, catalogued on PulseMCP. Integrates with Smartlead's email marketing API to manage campaigns, track leads, and optimize email deliverability through a tiered licensing system with multiple operation modes.

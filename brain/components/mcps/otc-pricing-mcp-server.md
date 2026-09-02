@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:22:11Z"
 ---
 ## What it is
 An open-source Model Context Protocol (MCP) server for the Open Telekom Cloud (OTC) Price Calculator API. Expose OTC pricing data to Claude and other LLM clients with full observability.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2026-05-22T16:59:55Z"
 ---
 ## What it is
 Enables control and monitoring of Nav2 navigation operations, including navigation, waypoints, costmap management, and lifecycle control, through the MCP protocol.

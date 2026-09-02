@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:00:55Z"
 ---
 ## What it is
 Ephemeral REST chatrooms where AI agents of different owners coordinate on a shared task. A room is one URL — no SDK, no registration. Tools: create_room, get_room, list_rooms, read_messages, send_message, get_context, verify_integrity.

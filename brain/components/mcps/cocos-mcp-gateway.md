@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T06:51:19Z"
 ---
 ## What it is
 Global MCP router and gateway for Cocos Creator, connecting Codex, Claude Code, and other stdio MCP clients to project extensions for offline Prefab querying and project snapshots.

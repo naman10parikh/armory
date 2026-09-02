@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T04:29:18Z"
 ---
 ## What it is
 Transparent rate-limiting MCP proxy that prevents HTTP 429 errors by throttling API calls and tokens. Includes tools to check usage and dynamically adjust rate limits.

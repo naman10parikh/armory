@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-13T19:36:11Z"
 ---
 ## What it is
 A Model Control Protocol server that enables AI agents to perform web browsing tasks through a standardized interface using the browser-use library.

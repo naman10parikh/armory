@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:08:03Z"
 ---
 ## What it is
 An MCP server that gives LLMs direct control over a local Docker daemon, enabling container, image, volume, network, and Compose stack management through natural language.

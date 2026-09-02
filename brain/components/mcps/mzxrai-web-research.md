@@ -8,10 +8,12 @@ source_url: https://github.com/mzxrai/mcp-webresearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 297
+stars: 300
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 72
+pushed_at: "2024-12-18T03:38:30Z"
 ---
 ## What it is
 MCP server `Web Research`, catalogued on PulseMCP. Research topics using Google search and web scraping.

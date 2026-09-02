@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T14:17:33Z"
 ---
 ## What it is
 An MCP server for reading files from the local filesystem. Currently supports listing files in directories on the Desktop.

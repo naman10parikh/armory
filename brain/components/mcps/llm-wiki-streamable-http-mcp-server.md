@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:39:54Z"
 ---
 ## What it is
 Exposes LLM Wiki desktop capabilities via Streamable HTTP transport for MCP clients, enabling project listing, file reading, search, and knowledge graph queries through a secure API.

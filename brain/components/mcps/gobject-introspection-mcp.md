@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:53:07Z"
 ---
 ## What it is
 Exposes GObject Introspection metadata to coding agents, enabling querying of libraries, classes, functions, signals, properties, and more through MCP tools.

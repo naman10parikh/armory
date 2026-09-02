@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-03T11:54:10Z"
 ---
 ## What it is
 Enables to manage Storyblok components through natural language descriptions, including creating and updating components with various field types.

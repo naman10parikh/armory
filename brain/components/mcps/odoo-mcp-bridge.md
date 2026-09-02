@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:02:32Z"
 ---
 ## What it is
 Enables Claude to read and write data in an Odoo instance, including stock, invoices, clients, and reminders, through a secure MCP connector.

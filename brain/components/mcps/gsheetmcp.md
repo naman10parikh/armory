@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T11:10:55Z"
 ---
 ## What it is
 MCP server to read public Google Sheets data via gviz endpoint, no authentication needed. Supports column filtering and returns structured JSON.

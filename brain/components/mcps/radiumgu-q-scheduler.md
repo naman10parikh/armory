@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-15T15:57:39Z"
 ---
 ## What it is
 MCP server `Q-Scheduler`, catalogued on PulseMCP. Provides robust task scheduling and automation capabilities with cron-based scheduling, supporting shell commands, API calls, content generation, and desktop notifications with sound across Windows, macOS, and Linux.

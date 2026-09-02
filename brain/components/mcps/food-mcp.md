@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:09:12Z"
 ---
 ## What it is
 An MCP server for food-related queries powered by MiniMax AI, enabling natural language interaction via a chat API.

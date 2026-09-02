@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:58:37Z"
 ---
 ## What it is
 MCP server that turns real NFL & fantasy data into a decisive edge, offering 70+ tools for draft assistance, start/sit recommendations, trade analysis, playoff odds, and more, with live league integration.

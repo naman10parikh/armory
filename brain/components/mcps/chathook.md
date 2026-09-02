@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T20:23:02Z"
 ---
 ## What it is
 Enables AI agents to prompt users for input directly within the chat UI using MCP's elicitation capabilities, allowing for interactive multi-turn conversations without leaving the conversation interface.

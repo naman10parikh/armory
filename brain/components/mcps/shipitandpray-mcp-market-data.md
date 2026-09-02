@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 0
+pushed_at: "2026-03-25T18:17:41Z"
 ---
 ## What it is
 Live cryptocurrency market data. 8 tools for real-time prices, OHLCV, order books, and market summaries. Zero API keys required. Zero dependencies.

@@ -8,11 +8,13 @@ source_url: https://github.com/shantur/jarvis-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 93
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-09-28T14:55:26Z"
 ---
 ## What it is
 Enables voice conversations with AI assistants directly in the browser, supporting 30+ languages and remote access from any device.

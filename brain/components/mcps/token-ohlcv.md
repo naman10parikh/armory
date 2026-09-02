@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:55:09Z"
 ---
 ## What it is
 Provides historical OHLCV candlestick data for any token by CoinGecko ID or contract address, with daily, 4h, and 1h intervals, paid per call via x402 micropayments.

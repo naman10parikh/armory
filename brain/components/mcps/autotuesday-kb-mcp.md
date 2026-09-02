@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T14:24:11Z"
 ---
 ## What it is
 Enables secure access to an organizational knowledge base via Supabase (RLS), providing tools for search, retrieval, writing, version history, and change tracking.

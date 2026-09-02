@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T20:03:34Z"
 ---
 ## What it is
 Enables users to manage email accounts via IMAP/SMTP, including reading, searching, sending emails with attachments and calendar invites, all through natural language interactions with MCP-compatible clients.

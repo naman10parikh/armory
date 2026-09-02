@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-04T00:18:55Z"
 ---
 ## What it is
 Enables searching and retrieving product information from Coupang (Korean e-commerce) via affiliate API, including product search, details, category bestsellers, and affiliate link generation.

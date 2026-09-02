@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-03T07:31:12Z"
 ---
 ## What it is
 An MCP server for automatically generating Cypress page objects from frontend components like Vue, React, or CoffeeScript.

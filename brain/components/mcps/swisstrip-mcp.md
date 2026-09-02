@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T20:30:00Z"
 ---
 ## What it is
 Connects AI assistants to Swiss Federal Railways (SBB/CFF/FFS) data: train schedules, station search, ticket prices, and direct ticket purchase links.

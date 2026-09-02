@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:46:30Z"
 ---
 ## What it is
 Enables AI agents to automate social media content generation, approval, and publishing, along with blog management, SEO/GEO audits, and ad operations through natural language.

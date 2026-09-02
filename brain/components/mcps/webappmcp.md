@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T12:05:56Z"
 ---
 ## What it is
 Enables AI assistants to interact with web applications through DOM inspection, user interaction simulation, and application state management.

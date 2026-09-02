@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-01T17:19:19Z"
 ---
 ## What it is
 MCP server `Semgrep`, catalogued on PulseMCP. Integrates Semgrep static analysis capabilities for automated code scanning, vulnerability detection, and security checks in development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:00:28Z"
 ---
 ## What it is
 Enables AI agents to interact with websites by capturing browser traffic and exposing them as named MCP tools, requiring no public API.

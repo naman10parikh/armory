@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:49:16Z"
 ---
 ## What it is
 Provides secure access to Tennis Warehouse product data via natural language queries, enabling product search, availability checks, and deal discovery.

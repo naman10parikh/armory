@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T06:46:51Z"
 ---
 ## What it is
 SERP-free scholarly search MCP server that queries academic sources like arXiv, Semantic Scholar, and conference proceedings using official APIs and reverse-engineered endpoints, with no API keys required. It supports unified conference search and returns normalized paper metadata.

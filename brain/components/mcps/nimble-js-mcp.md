@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:56:55Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Nimble REST API, allowing them to explore endpoints, make test requests, and use documentation to help integrate this SDK into your application.

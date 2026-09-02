@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-20T05:20:45Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides comprehensive access to IBM QRadar security intelligence platform. Query logs, events, offenses, agents, assets, and more directly from your AI assistant.

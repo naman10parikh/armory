@@ -8,10 +8,12 @@ source_url: https://github.com/mcpware/pagecast
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-27T01:29:26Z"
 ---
 ## What it is
 MCP server `Pagecast`, catalogued on PulseMCP. Records browser sessions as GIFs, WebM, and MP4 videos for demos and documentation.

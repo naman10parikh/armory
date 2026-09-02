@@ -8,10 +8,12 @@ source_url: https://github.com/saisudhir14/linkedin-mcp-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T12:54:32Z"
 ---
 ## What it is
 MCP server `LinkedIn Job Search`, catalogued on PulseMCP. Scrapes LinkedIn job listings to provide job search, filtering by location and experience level, company research, and detailed job information retrieval without authentication requirements.

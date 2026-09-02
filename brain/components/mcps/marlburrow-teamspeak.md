@@ -8,10 +8,12 @@ source_url: https://github.com/marlburrow/teamspeak-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-07T22:09:16Z"
 ---
 ## What it is
 MCP server `TeamSpeak`, catalogued on PulseMCP. Provides TeamSpeak server administration through the ServerQuery protocol, enabling user management, channel operations, server configuration, moderation features, and file management with support for messaging, moving, kicking, banning clients, creating channels, managing permissions, and handling privilege tokens.

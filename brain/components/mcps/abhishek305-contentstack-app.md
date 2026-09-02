@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T15:29:19Z"
 ---
 ## What it is
 MCP server `Contentstack App`, catalogued on PulseMCP. Build, migrate, and audit Contentstack Marketplace apps with AI coding agents via a remotely hosted MCP server.

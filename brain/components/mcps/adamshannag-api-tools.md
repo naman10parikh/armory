@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-17T09:09:12Z"
 ---
 ## What it is
 MCP server `API Tools`, catalogued on PulseMCP. Converts JSON configuration files into callable tools for dynamic API integration, enabling rapid exposure of REST APIs through declarative schemas with parameter substitution, environment variable templating, and authentication middleware.

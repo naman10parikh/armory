@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T10:48:11Z"
 ---
 ## What it is
 MCP server `Script Tool`, catalogued on PulseMCP. Provides a secure, cross-platform command line script execution tool with built-in protections like timeout handling, output capture, and environment validation for safe remote script running across different operating systems.

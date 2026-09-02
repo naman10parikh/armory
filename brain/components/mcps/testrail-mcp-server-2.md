@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:41:05Z"
 ---
 ## What it is
 Connect your AI coding assistant to TestRail to manage test cases, runs, results, and more directly from VS Code, Cursor, Claude Desktop, or Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-09T22:51:02Z"
 ---
 ## What it is
 Provides AI-powered access to major biological databases for GWAS and bioinformatics research. Enables natural language queries for protein, gene, variant, pathway, and drug discovery analysis.

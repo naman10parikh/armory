@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T11:09:08Z"
 ---
 ## What it is
 Provides read-only investment research and audit tools for validating ETF snapshots, comparing ETF structures, and auditing backtest reports, while strictly excluding any order or trading capabilities.

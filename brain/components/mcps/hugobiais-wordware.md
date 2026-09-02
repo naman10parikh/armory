@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-02T21:49:24Z"
 ---
 ## What it is
 MCP server `Wordware`, catalogued on PulseMCP. Integrates with Wordware's deployed flows to enable founder research, lead enrichment, Notion integration, and task solving with Google search and API capabilities.

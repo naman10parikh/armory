@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T05:00:51Z"
 ---
 ## What it is
 多多进定全平台 MCP 服务是一个基于 Model Context Protocol (MCP) 的服务，支持拼多多大电商平台的链接转换和商品推广功能，商品搜索等等一系列工具

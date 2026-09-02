@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T03:16:40Z"
 ---
 ## What it is
 Provides Canadian tide predictions from the IWLS API, enabling retrieval of 7-day tide forecasts and station listings for monitoring stations across Canada.

@@ -8,10 +8,12 @@ source_url: https://github.com/coo-quack/calc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T01:03:21Z"
 ---
 ## What it is
 MCP server `Calc`, catalogued on PulseMCP. Deterministic math, randomness, dates, encoding, and hashing tools.

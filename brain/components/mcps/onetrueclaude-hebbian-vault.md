@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T12:10:44Z"
 ---
 ## What it is
 MCP server `Hebbian Vault Search`, catalogued on PulseMCP. Usage-adaptive Obsidian vault search combining Hebbian learning, PageRank, and BM25 via Reciprocal Rank Fusion.

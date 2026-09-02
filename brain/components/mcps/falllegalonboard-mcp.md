@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:03:02Z"
 ---
 ## What it is
 MCP server for the foldkit SDK that exposes 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources, enabling state folding, band classification, and operation application via natural language in any MCP client.

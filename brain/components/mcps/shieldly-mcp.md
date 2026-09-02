@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T08:35:08Z"
 ---
 ## What it is
 Enables AI assistants to analyze AWS IAM policies and CloudFormation templates for security risks.

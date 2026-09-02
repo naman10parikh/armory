@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-06T01:33:30Z"
 ---
 ## What it is
 MCP server `1inch Cross-Chain Swap`, catalogued on PulseMCP. Execute cross-chain token swaps using 1inch Fusion+

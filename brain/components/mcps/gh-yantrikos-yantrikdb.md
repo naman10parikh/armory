@@ -8,10 +8,12 @@ source_url: https://github.com/yantrikos/yantrikdb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-26T06:21:39Z"
 ---
 ## What it is
 MCP server `YantrikDB`, catalogued on PulseMCP. Cognitive memory system providing semantic recall, knowledge graphs, and contradiction detection for agent context management.

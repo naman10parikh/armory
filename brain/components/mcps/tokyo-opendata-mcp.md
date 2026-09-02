@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:44:07Z"
 ---
 ## What it is
 An MCP server that enables AI to correctly search and query Tokyo's open data by automatically handling synonym variations, warning about misleading update timestamps, and skipping empty rows in API responses.

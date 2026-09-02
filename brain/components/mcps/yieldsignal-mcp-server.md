@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T22:18:46Z"
 ---
 ## What it is
 Provides risk-weighted yield signals and MOVE/HOLD decisions for ETH staking and USDC/WETH lending, accessed via x402 payment protocol with verifiable signed responses.

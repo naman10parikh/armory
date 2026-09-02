@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:31:56Z"
 ---
 ## What it is
 A governance layer for MCP servers that classifies tools by risk, enforces agent permissions, lets safe tools earn autonomy through a track record, and keeps an audit trail. Requires human approval for irreversible actions and provides blast radius context.

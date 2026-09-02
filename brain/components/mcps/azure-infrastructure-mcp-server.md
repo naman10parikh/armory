@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T20:03:08Z"
 ---
 ## What it is
 An MCP server for managing Azure infrastructure from AI assistants, supporting subscriptions, VMs, storage, networking, identity, and more through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T22:58:40Z"
 ---
 ## What it is
 Enables AI agents to run brand-visibility audits by querying multiple AI engines, generating competitive leaderboards, and identifying growth opportunities. Integrates with any MCP-capable client to measure and act on brand discoverability in AI recommendations.

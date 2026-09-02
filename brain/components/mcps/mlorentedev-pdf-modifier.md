@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-18T01:15:04Z"
 ---
 ## What it is
 MCP server `PDF Modifier`, catalogued on PulseMCP. Read, edit, and redact PDF documents with font style and layout preservation.

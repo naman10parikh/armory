@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T01:28:38Z"
 ---
 ## What it is
 MCP server `UniFi`, catalogued on PulseMCP. Community MCP integration for Ubiquiti UniFi, enabling AI agents to analyze network fleet health, anomaly detection, and cross-site analytics.

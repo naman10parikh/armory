@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-26T01:50:26Z"
 ---
 ## What it is
 MCP server `Readwise Reader`, catalogued on PulseMCP. Integrates with Readwise Reader to retrieve saved documents from different locations (new, feed, archive, or library) based on time parameters using the FastMCP framework.

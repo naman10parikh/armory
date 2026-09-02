@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/token-minter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-04-28T12:09:32Z"
 ---
 ## What it is
 MCP server `Token Minter`, catalogued on PulseMCP. Enables AI assistants to deploy and manage ERC-20 tokens across multiple blockchain networks, providing tools for token creation, balance checking, and transfers using ethers.js and smart contracts.

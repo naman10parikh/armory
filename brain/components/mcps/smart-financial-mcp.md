@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-03T07:12:16Z"
 ---
 ## What it is
 Provides AI assistants with real-time and historical Chinese stock, ETF, index, and futures data via Tushare Pro API, enabling natural language queries for financial analysis and market monitoring.

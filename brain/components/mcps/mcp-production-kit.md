@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:34:44Z"
 ---
 ## What it is
 A production-ready MCP server template with OAuth 2.1, RBAC, and audit logging for building secure, observable tool servers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:41:07Z"
 ---
 ## What it is
 Enables discovery and analytics of Polymarket prediction markets, including trending markets, category filtering, text search, market/event details, and API usage tracking.

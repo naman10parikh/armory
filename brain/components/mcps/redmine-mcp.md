@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T12:55:48Z"
 ---
 ## What it is
 Enables to interact with Redmine issues through the MCP protocol, allowing operations like get, list, create, and update tickets.

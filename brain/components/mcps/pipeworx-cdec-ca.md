@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:47:04Z"
 ---
 ## What it is
 MCP server `California CDEC Hydrology`, catalogued on PulseMCP. Query California Data Exchange Center (CDEC) for real-time hydrology, reservoir levels, and snow water data.

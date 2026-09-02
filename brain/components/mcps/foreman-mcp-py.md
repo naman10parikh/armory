@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-11T08:10:13Z"
 ---
 ## What it is
 MCP server to interact with Foreman (Red Hat Satellite) instances, enabling management of hosts, provisioning, and configuration via natural language.

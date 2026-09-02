@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:00:35Z"
 ---
 ## What it is
 Enables querying Bank of Korea ECOS economic statistics via Open API, including searching tables, retrieving time series data, and accessing key indicators.

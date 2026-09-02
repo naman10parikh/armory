@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T20:30:00Z"
 ---
 ## What it is
 MCP server `SwissTrip`, catalogued on PulseMCP. Accesses Swiss Federal Railways data through the SwissTrip hosted service.

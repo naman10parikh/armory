@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:41:47Z"
 ---
 ## What it is
 MCP server for family meal planning and Kroger/King Soopers shopping. It helps generate weekly dinner plans, consolidate grocery lists, flag allergy risks, estimate costs, search live products, and add approved items to a Kroger cart.

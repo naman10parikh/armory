@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T23:58:34Z"
 ---
 ## What it is
 MCP server for integrating Common Room API with Amazon Q CLI and Claude Code, enabling management of activities, segments, and organizations through natural language queries.

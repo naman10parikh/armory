@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-07T06:41:18Z"
 ---
 ## What it is
 Provides speech recognition and synthesis tools via SaluteSpeech API, enabling AI assistants to handle voice input and output.

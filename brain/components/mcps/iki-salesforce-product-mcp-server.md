@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:20:13Z"
 ---
 ## What it is
 Enables creation and updates of Salesforce Product2 records via the REST API with write-only scoped access, requiring confirmation before actual writes.

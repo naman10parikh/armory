@@ -8,10 +8,12 @@ source_url: https://github.com/quantmew/patchright-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-05T23:54:29Z"
 ---
 ## What it is
 MCP server `Patchright`, catalogued on PulseMCP. Provides browser automation with session inheritance, enabling seamless web automation that maintains user authentication states and preferences from existing Chrome, Edge, or Chromium browser profiles.

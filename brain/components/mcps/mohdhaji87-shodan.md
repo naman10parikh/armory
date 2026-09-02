@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-21T22:27:35Z"
 ---
 ## What it is
 MCP server `Shodan`, catalogued on PulseMCP. A fully async implementation that exposes the complete Shodan API (REST, Streaming, and Trends) as MCP tools. Use Shodan's internet intelligence tools in your automation, research, and security workflows.

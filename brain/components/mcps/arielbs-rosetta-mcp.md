@@ -8,10 +8,12 @@ source_url: https://github.com/arielbs/rosetta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-05T20:48:25Z"
 ---
 ## What it is
 MCP server `Rosetta Protein Modeling`, catalogued on PulseMCP. Protein structure modeling via Rosetta/PyRosetta and Biotite for computational biology workflows.

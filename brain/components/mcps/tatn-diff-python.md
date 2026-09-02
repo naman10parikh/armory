@@ -8,10 +8,12 @@ source_url: https://github.com/tatn/mcp-server-diff-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-01-21T00:35:46Z"
 ---
 ## What it is
 MCP server `Text Diff (Python)`, catalogued on PulseMCP. Integrates with Python's difflib to generate unified diffs for efficient text comparison and version control tasks.

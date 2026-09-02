@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:44:15Z"
 ---
 ## What it is
 MCP server for Dataiku DSS REST APIs, enabling flow analysis and day-to-day operations on projects, datasets, recipes, jobs, scenarios, folders, variables, connections, and code environments.

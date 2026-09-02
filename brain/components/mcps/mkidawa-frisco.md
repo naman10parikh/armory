@@ -8,10 +8,12 @@ source_url: https://github.com/mkidawa/frisco-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-06T18:20:56Z"
 ---
 ## What it is
 MCP server `Frisco`, catalogued on PulseMCP. MCP server for frisco.pl Polish online grocery store with product search, cart management, and nutritional information.

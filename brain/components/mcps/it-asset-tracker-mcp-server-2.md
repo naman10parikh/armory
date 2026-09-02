@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:22:56Z"
 ---
 ## What it is
 Connects Claude Desktop to the IT Asset Tracker backend, enabling natural language management of assets, users, requests, and reports via 70+ auto-generated tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T18:54:51Z"
 ---
 ## What it is
 Free, cross-platform VM orchestration for AI workflows with built-in MCP integration, sandboxed code execution, and compliance-ready architecture (SOC 1/2/3, HIPAA, ISO 27001).

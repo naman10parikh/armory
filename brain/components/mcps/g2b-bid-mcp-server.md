@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T06:14:38Z"
 ---
 ## What it is
 Enables searching and retrieving bid notices from the Korean Public Procurement Service (G2B) through Claude.

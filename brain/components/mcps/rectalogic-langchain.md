@@ -8,10 +8,12 @@ source_url: https://github.com/rectalogic/langchain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 205
+stars: 206
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-04-02T15:18:46Z"
 ---
 ## What it is
 MCP server `LangChain Integration`, catalogued on PulseMCP. Use MCP tools within LangChain-powered applications.

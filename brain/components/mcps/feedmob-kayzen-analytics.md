@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-17T09:04:14Z"
 ---
 ## What it is
 MCP server `Kayzen Analytics`, catalogued on PulseMCP. Integrates with Kayzen Analytics API to access and analyze marketing campaign data, providing tools for report listing, data fetching with date filtering, and performance optimization insights.

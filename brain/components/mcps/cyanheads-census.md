@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/census-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T02:34:28Z"
 ---
 ## What it is
 MCP server `US Census Bureau`, catalogued on PulseMCP. Query U.S. Census Bureau demographic and geographic data, variables, and geographies.

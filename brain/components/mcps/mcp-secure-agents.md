@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T04:41:01Z"
 ---
 ## What it is
 Secure MCP server that enforces allowlist-based policies, read-only access, input validation, and human-in-the-loop for sensitive actions, enabling safe vulnerability analysis.

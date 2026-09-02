@@ -8,10 +8,12 @@ source_url: https://github.com/marin1321/mcp-devtools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T18:47:46Z"
 ---
 ## What it is
 MCP server `Dev Tools`, catalogued on PulseMCP. Production-grade MCP server providing AI-native developer tools across filesystem, database, process, and OpenAPI categories.

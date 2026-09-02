@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T20:55:20Z"
 ---
 ## What it is
 ContextCrumb compresses long text, local files, and MCP catalog descriptions into denser context for LLM agents. It helps agents load more useful information into the context window and reduce token usage without turning the input into a summary.

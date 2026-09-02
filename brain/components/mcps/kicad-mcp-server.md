@@ -8,11 +8,13 @@ source_url: https://github.com/Seeed-Studio/kicad-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 88
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-08-27T09:01:16Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to analyze schematics, inspect PCBs, trace connections, validate designs, and generate embedded code for KiCad projects.

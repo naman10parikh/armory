@@ -8,10 +8,12 @@ source_url: https://github.com/wuke3/godot-mcp-pro-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-12T13:57:54Z"
 ---
 ## What it is
 MCP server `Godot MCP Pro`, catalogued on PulseMCP. TypeScript MCP server for Godot 4 that bridges AI assistants to the Godot editor via WebSocket for project, scene, node, script, and runtime management.

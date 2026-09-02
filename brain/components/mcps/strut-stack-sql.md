@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:09:36Z"
 ---
 ## What it is
 Token-efficient MCP server for MySQL, PostgreSQL, and SQLite written in Rust, providing SQL query execution and analysis tools with strong security guards.

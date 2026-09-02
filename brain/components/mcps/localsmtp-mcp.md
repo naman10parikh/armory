@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:01:14Z"
 ---
 ## What it is
 Provides a dummy SMTP server for catching emails during development, with MCP tools to list, retrieve, and manage received messages.

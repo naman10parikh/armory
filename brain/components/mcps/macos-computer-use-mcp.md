@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:06:38Z"
 ---
 ## What it is
 Provides 146 MCP tools for AI agents to control macOS, including screenshots, mouse, keyboard, window management, app automation, file system, OCR, and built-in app semantics like Calendar, Mail, Safari, Music, Messages. Enables full control over macOS through natural language.

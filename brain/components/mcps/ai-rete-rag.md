@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:20:55Z"
 ---
 ## What it is
 Author rules from policy docs, then decide: a Rete engine gives the verdict, an LLM explains why.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T06:55:35Z"
 ---
 ## What it is
 Transforms raw business ideas into complete product strategies by orchestrating a specialized AI team for market research, competitive analysis, persona building, and financial modeling, culminating in a pitch-ready presentation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:23:10Z"
 ---
 ## What it is
 Exposes system tools (disk usage, file listing) and weather information via Open-Meteo to MCP-compatible LLMs.

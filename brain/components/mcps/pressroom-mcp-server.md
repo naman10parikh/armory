@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T06:16:25Z"
 ---
 ## What it is
 Enables headless execution of the full Pressroom pipeline via MCP, including scouting, generating, auditing, publishing content, and managing SEO, analytics, and team workflows through natural language prompts.

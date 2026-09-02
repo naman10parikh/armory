@@ -8,10 +8,12 @@ source_url: https://github.com/bettyguo/mcp-postgres
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T06:05:33Z"
 ---
 ## What it is
 MCP server `PostgreSQL Secure`, catalogued on PulseMCP. Security-hardened read-only PostgreSQL MCP server with AST-based SQL guard using pglast, per-transaction safety envelope, and JSON-Lines audit logging.

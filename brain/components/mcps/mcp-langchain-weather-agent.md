@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:22:14Z"
 ---
 ## What it is
 A weather MCP server that geocodes city names and fetches live weather from Open-Meteo, enabling a LangGraph agent to answer weather queries.

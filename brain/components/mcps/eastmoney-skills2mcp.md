@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T09:32:49Z"
 ---
 ## What it is
 Provides 11 MCP tools for querying A-share market data, financial reports, stock screening, hot topics, self-selected stocks, and LOF arbitrage using natural language, powered by East Money / Miaoxiang APIs.

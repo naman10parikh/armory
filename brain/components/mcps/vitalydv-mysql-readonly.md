@@ -8,10 +8,12 @@ source_url: https://github.com/vitalydv/mysql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-13T14:33:19Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Provides a secure bridge to MySQL databases for executing read-only queries, retrieving table schemas, and listing database tables with built-in row limits for safe data exploration.

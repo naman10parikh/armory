@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-24T04:25:18Z"
 ---
 ## What it is
 Provides real-time TypeScript diagnostics with intelligent caching for AI agents, enabling instant queries instead of running tsc repeatedly.

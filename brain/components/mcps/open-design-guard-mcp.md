@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:21:38Z"
 ---
 ## What it is
 Enforces agent design system compliance with tools to check guards, explain gaps, issue receipts, suggest fixes, and export audits.

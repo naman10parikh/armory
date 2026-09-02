@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:20:53Z"
 ---
 ## What it is
 Lets agents pay x402-protected endpoints privately on Stellar using zero-knowledge proofs, with tools to create wallets, deposit funds, and pay endpoints while revealing only a nullifier.

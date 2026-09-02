@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:26:35Z"
 ---
 ## What it is
 A minimal, dependency-free MCP server demonstrating the 2026-07-28 protocol with a toy example of sending a person to check something in the physical world and returning structured evidence, ideal for learning the protocol layer.

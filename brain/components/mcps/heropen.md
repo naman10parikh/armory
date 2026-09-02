@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:11:17Z"
 ---
 ## What it is
 A local memory server for AI agents that stores and retrieves information via MCP, keeping all data in SQLite on your machine.

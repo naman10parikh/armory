@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:41:06Z"
 ---
 ## What it is
 Secure multi-source MCP server for reading local, GitHub, GitLab, Bitbucket, and network source code with read-only-by-default access, enabling AI assistants to inspect repositories safely.

@@ -8,10 +8,12 @@ source_url: https://github.com/bituq/zendriver-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T13:43:44Z"
 ---
 ## What it is
 MCP server `ZenDriver`, catalogued on PulseMCP. Undetectable browser automation MCP server using Chrome DevTools Protocol with bot detection bypass, token-efficient DOM, and 96+ tools.

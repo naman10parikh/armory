@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:51:49Z"
 ---
 ## What it is
 An MCP server that connects coding agents to iMessage on macOS, enabling reading, sending, searching, and reacting to messages under a configurable policy system.

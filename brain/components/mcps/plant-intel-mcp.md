@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:58:17Z"
 ---
 ## What it is
 An MCP server that gives coding agents structured plant data for garden planning: species care profiles, companion checks that explain themselves, and frost-date planting windows derived from ten years of observed weather.

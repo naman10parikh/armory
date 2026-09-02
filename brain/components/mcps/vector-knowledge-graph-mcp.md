@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:23:55Z"
 ---
 ## What it is
 Enables building and querying vector-based knowledge graphs with node and edge management and semantic search.

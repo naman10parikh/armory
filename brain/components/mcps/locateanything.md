@@ -8,11 +8,13 @@ source_url: https://github.com/cognis-digital/locateanything
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:35:59Z"
 ---
 ## What it is
 A local GeoGuessr-for-real-life: reads EXIF GPS and reasons over visual clues using a local uncensored vision-language model + a reasoning model — no cloud, no API keys, nothing uploaded.

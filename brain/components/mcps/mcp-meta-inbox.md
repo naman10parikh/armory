@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:49:27Z"
 ---
 ## What it is
 MCP server that wraps Meta's Messenger Platform, Instagram Messaging, and comment moderation APIs as semantic tools for LLM agents to read inbox, reply, and moderate comments.

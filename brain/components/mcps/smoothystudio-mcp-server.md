@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T15:31:00Z"
 ---
 ## What it is
 Enables AI agents to generate and compose thumbnails using tools like get_capabilities, measure, render_thumbnail, render_variants, and get_canvas, with a document model that supports layers, effects, and masking.

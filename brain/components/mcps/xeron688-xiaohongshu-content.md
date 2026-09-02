@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-18T03:04:27Z"
 ---
 ## What it is
 MCP server `Xiaohongshu Content Generator`, catalogued on PulseMCP. Generates structured content outlines and images for Xiaohongshu with multi-page project management, AI-powered image generation, and persistent storage for content creators targeting Chinese social media.

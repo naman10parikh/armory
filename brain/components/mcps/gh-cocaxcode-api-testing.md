@@ -8,10 +8,12 @@ source_url: https://github.com/cocaxcode/api-testing-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-02T18:11:17Z"
 ---
 ## What it is
 MCP server `API Testing`, catalogued on PulseMCP. Comprehensive API testing, validation, and load testing capabilities.

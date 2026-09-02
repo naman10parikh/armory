@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:00:43Z"
 ---
 ## What it is
 Enables agents to inspect ROS topics, processes, tmux sessions, and logs, and to perform operational actions such as sending tmux commands, restarting services, executing commands in containers, and running SSH remote commands.

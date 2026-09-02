@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T08:55:20Z"
 ---
 ## What it is
 Self-hostable MCP server for the Ramzinex cryptocurrency exchange, providing tools for market data, account management, and trading with safety flags.

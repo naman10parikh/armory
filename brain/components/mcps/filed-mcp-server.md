@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T02:50:20Z"
 ---
 ## What it is
 An MCP server that gives AI agents access to US business entity data, enabling searches across 9 state registries, SEC EDGAR filings, federal contracts, and lobbying disclosures.

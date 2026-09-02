@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:09:14Z"
 ---
 ## What it is
 A stdio MCP server that exposes guard_token, guard_tx, and guard_address endpoints for pre-execution security and trust evaluation of tokens, transactions, and addresses on Base.

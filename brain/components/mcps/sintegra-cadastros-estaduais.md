@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:47:05Z"
 ---
 ## What it is
 MCP server for consulting Brazilian state taxpayer registrations (Sintegra) using CPF/CNPJ, state registration, and UF. It provides read-only, pay-per-use access via hosted HTTP MCP, compatible with any MCP client.

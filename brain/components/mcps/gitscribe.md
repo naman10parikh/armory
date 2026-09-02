@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-08T00:55:34Z"
 ---
 ## What it is
 GitScribe is an MCP server that enables intelligent web scraping of Git-based documentation with RAG capabilities, helping code assistants efficiently extract and retrieve information from documentation websites and repositories.

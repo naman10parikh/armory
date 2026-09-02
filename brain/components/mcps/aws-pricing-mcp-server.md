@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T16:51:30Z"
 ---
 ## What it is
 MCP server for generating upfront AWS service cost estimates and providing cost insights.

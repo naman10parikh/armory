@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:31:58Z"
 ---
 ## What it is
 Enables AI agents to access crypto market signals including regime, sentiment, price, risk, and text tools like summarization and fact-checking, backed by a live production-grade classifier.

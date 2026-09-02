@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T06:59:28Z"
 ---
 ## What it is
 MCP server for semantic search across llms.txt documentation sources, with hybrid two-stage retrieval and automatic background refresh.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T21:55:37Z"
 ---
 ## What it is
 MCP server `Joomil`, catalogued on PulseMCP. Searches and retrieves classified ads from Joomil.ch, Switzerland's French-speaking marketplace with over 45,000 active listings.

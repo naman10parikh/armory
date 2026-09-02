@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T04:45:12Z"
 ---
 ## What it is
 MCP server for Dameng database, providing tools to test connection, list tables, count tables, and execute SQL via environment variables.

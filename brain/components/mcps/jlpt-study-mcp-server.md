@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:34:49Z"
 ---
 ## What it is
 Connects Claude Desktop to personal Japanese study data, including Anki due cards and a study session log, enabling card retrieval, session logging, streak tracking, and interactive quizzes.

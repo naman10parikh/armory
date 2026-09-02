@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T17:24:25Z"
 ---
 ## What it is
 FastMCP server for managing a self-hosted Infisical instance, exposing tools to create, read, update, and delete projects, environments, folders, and secrets, and to render .env and shell-export formats.

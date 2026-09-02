@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:32:40Z"
 ---
 ## What it is
 Enables agents to validate data safety before storing, transmitting, or logging data, preventing GDPR/HIPAA/PCI-DSS violations with clear verdicts like SAFE_TO_PROCESS, REDACT_BEFORE_PASSING, DO_NOT_STORE, or ESCALATE.

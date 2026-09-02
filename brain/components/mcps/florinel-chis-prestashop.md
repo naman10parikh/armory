@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-24T17:50:30Z"
 ---
 ## What it is
 MCP server `PrestaShop Documentation`, catalogued on PulseMCP. Provides searchable access to PrestaShop's official documentation through locally-indexed SQLite database with FTS5 full-text search for hooks, guides, tutorials, API references, and components.

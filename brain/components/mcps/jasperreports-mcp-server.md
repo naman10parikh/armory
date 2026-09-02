@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-05T13:49:02Z"
 ---
 ## What it is
 Enables AI assistants to interact with JasperReports Server for report execution, resource management, and job scheduling via MCP tools.

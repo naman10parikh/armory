@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-24T23:15:08Z"
 ---
 ## What it is
 MCP server `Ohm`, catalogued on PulseMCP. AST-based Python refactoring and code quality analysis with safe automated refactorings and rollback

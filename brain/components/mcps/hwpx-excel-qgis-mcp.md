@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T04:52:55Z"
 ---
 ## What it is
 Local MCP server enabling Codex to inspect and edit HWPX documents, Excel spreadsheets, and QGIS QGS/QGZ projects on Windows with safety and fidelity.

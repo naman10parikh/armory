@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-06T14:24:53Z"
 ---
 ## What it is
 MCP server `Math SVG`, catalogued on PulseMCP. Converts LaTeX math expressions to crisp, scalable SVG images using MathJax with support for multiple math fonts.

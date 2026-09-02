@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-07T17:58:38Z"
 ---
 ## What it is
 A TypeScript-based MCP server for generating custom images and icons using AI (GPT Image 1), supporting .png, .svg, and .ico formats, and designed for seamless integration with Vibe Coding.

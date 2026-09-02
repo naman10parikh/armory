@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:34:03Z"
 ---
 ## What it is
 Parses Java and Xtend source code into a graph database and provides MCP tools for querying classes, methods, control flow graphs, and MC/DC conditions, enabling AI-driven unit test generation for ISO 26262 ASIL-D compliance.

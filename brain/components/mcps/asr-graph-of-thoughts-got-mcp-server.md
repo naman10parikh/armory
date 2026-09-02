@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-25T03:09:24Z"
 ---
 ## What it is
 Enables sophisticated reasoning workflows using graph-based representations for AI models.

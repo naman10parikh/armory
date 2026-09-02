@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:35:06Z"
 ---
 ## What it is
 MCP server `PubMed`, catalogued on PulseMCP. Searches and retrieves biomedical literature from PubMed.

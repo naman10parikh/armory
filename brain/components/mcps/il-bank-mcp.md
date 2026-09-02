@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-13T09:02:42Z"
 ---
 ## What it is
 Finance assistant that brings your Israeli bank data to any AI assistant, enabling transaction analysis, spending patterns, and financial insights.

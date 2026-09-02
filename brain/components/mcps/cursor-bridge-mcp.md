@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T20:54:56Z"
 ---
 ## What it is
 Enables any MCP-compatible AI tool to read and leverage Cursor's context files (rules, agents, and skills) with their activation logic, allowing teams to maintain a single source of context across different AI coding assistants.

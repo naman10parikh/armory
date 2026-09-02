@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-30T07:07:23Z"
 ---
 ## What it is
 An MCP server for reading Twitter/X engagement data and metrics, enabling AI agents to measure tweet performance, track mentions, analyze replies, and search tweets with engagement metrics.

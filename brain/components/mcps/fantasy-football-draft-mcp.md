@@ -8,11 +8,13 @@ source_url: https://github.com/zacharytran26/Fantasy-Football-Draft-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T02:05:39Z"
 ---
 ## What it is
 MCP server that acts as a live fantasy football draft assistant, syncing ESPN or Sleeper boards and providing pick recommendations with reasoning and survival odds.

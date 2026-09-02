@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:50:41Z"
 ---
 ## What it is
 Enables AI agents to fetch and render web pages (including JavaScript-heavy SPAs) with headless Chromium, extract readable content with Mozilla Readability, capture navigation links, download images, and return a clean markdown file path.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-04T10:19:08Z"
 ---
 ## What it is
 Provides AI coding agents with structured Git repository context including project state, code structure, activity, and risk analysis without modifying or uploading code.

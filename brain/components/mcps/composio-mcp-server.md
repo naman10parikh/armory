@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-03-19T06:11:14Z"
 ---
 ## What it is
 Exposes Composio tools and actions (Gmail, Linear, etc.) as MCP-compatible tools for language models to interact with in a structured way.

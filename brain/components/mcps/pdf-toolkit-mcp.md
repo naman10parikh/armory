@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:32:44Z"
 ---
 ## What it is
 A comprehensive MCP server with 37 tools for PDF operations including reading, searching, creating, merging, splitting, watermarking, form filling, and more, built on open-source libraries.

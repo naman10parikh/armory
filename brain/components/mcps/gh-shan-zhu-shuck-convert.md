@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T01:15:55Z"
 ---
 ## What it is
 MCP server `Shuck Convert`, catalogued on PulseMCP. Converts documents between DOCX, PDF, and Markdown formats with formatting preservation using Pandoc.

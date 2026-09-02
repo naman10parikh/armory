@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-29T16:18:08Z"
 ---
 ## What it is
 A plugin-based MCP server built on FastAPI that supports dynamic tool loading, hot reloading, and API key authentication for extensible AI tool integrations.

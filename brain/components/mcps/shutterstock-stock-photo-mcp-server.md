@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-18T02:15:30Z"
 ---
 ## What it is
 Enables AI agents to search for stock photography based on current location and weather conditions using the Shutterstock API.

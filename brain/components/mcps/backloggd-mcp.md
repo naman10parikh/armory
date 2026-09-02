@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:58:23Z"
 ---
 ## What it is
 An MCP server for Backloggd, the video game tracker. It lets an AI assistant search the game catalogue and read and manage your library — statuses, ratings, logs, play sessions, reviews and lists — as the signed-in you.

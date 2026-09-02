@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-25T08:33:47Z"
 ---
 ## What it is
 MCP server `HarmonyOS`, catalogued on PulseMCP. MCP server for HarmonyOS development - interact with projects, devices, and applications

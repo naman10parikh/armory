@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:56:59Z"
 ---
 ## What it is
 AI-powered expense tracking MCP server that connects LLM clients to PostgreSQL for natural language expense management.

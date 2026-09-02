@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:24:35Z"
 ---
 ## What it is
 Non-custodial Bitcoin DCA for agent treasuries on Celo: approve USDT once and an on-chain agent buys WBTC on schedule, straight back to your wallet. Budget capped by allowance, fees hard-capped on-chain.

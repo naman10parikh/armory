@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:18:48Z"
 ---
 ## What it is
 Wraps the Motorsights Quotation REST API into 30 MCP tools for Claude to manage customers, sales, bank accounts, quotations, term contents, component products, and accessories.

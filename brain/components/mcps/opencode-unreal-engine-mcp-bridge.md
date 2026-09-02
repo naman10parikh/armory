@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:42:39Z"
 ---
 ## What it is
 Bridges OpenCode to Unreal Engine 5 editor via a local TCP connection, enabling interaction with the editor such as querying project structure, managing assets and actors, and generating code.

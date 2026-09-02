@@ -8,10 +8,12 @@ source_url: https://github.com/domdomegg/google-drive-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-11T21:50:38Z"
 ---
 ## What it is
 MCP server `Google Drive`, catalogued on PulseMCP. Integrates with Google Drive API to manage files, folders, comments, and permissions with support for uploads, downloads, exports, and collaborative workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-25T15:22:35Z"
 ---
 ## What it is
 Enables real-time search of X.com (Twitter) posts, users, threads, and trends via xAI's Grok API, directly from Claude.

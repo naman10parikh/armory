@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-10T17:06:55Z"
 ---
 ## What it is
 Provides seamless integration with the XO platform for container deployment, application lifecycle management, and knowledge base operations. Enables AI assistants to deploy, manage, and interact with applications on XO infrastructure through natural language commands.

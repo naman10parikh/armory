@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T18:55:54Z"
 ---
 ## What it is
 Read-only MCP server that surfaces contradictions in an Obsidian vault's knowledge graph via semantic search and reasoning edges.

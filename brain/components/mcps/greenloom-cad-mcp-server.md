@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:59:58Z"
 ---
 ## What it is
 Enables automated CAD operations via natural language, supporting both AutoCAD LT on Windows and headless DXF generation on any platform.

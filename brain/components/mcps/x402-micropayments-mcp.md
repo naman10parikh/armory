@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-28T15:35:06Z"
 ---
 ## What it is
 Enables AI agents to discover, pay for, and sell HTTP APIs using the x402 micropayment protocol, with USDC settlement on Base mainnet. Includes tools for payment requirements, paying and fetching resources, building seller configurations, and monitoring revenue.

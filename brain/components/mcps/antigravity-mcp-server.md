@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:25:57Z"
 ---
 ## What it is
 Wraps Google's Antigravity CLI as MCP tools for Claude, enabling cost-disciplined multi-model execution with background jobs and fan-out research/review pipelines.

@@ -12,6 +12,8 @@ stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-19T01:33:59Z"
 ---
 ## What it is
 MCP server `Minecraft`, catalogued on PulseMCP. Integrates with Minecraft to enable AI control and interaction within game environments for research, education, and automation.

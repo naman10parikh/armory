@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:41:48Z"
 ---
 ## What it is
 Exposes a Congress.gov-style legislative GraphQL API to MCP clients, enabling querying bills, actions, committee activities, and cosponsors via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-06-03T21:17:04Z"
 ---
 ## What it is
 Enables AI assistants to query and interact with Shopify store data via the Storefront API, including products, collections, carts, and customer information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:09:24Z"
 ---
 ## What it is
 Marrow is a persistent multi-project memory backend that provides AI agents with MCP tools for semantic code navigation, task backlog management, and versioned artifact storage. It enables seamless, token-optimized context sharing and asynchronous handoffs between different AI models working on the 

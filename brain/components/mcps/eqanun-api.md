@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:33:22Z"
 ---
 ## What it is
 MCP server for Azerbaijan's official legal-acts database (e-qanun.az), enabling search, metadata retrieval, and full-text access to legislative and judicial documents.

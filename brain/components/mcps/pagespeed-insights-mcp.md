@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:29:16Z"
 ---
 ## What it is
 This MCP server integrates Google PageSpeed Insights to analyze website performance, accessibility, best practices, SEO, and PWA on mobile and desktop, returning detailed audits and optimization opportunities.

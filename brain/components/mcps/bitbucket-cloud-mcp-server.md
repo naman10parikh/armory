@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T08:00:00Z"
 ---
 ## What it is
 MCP server for the Bitbucket Cloud REST API v2.0, providing 32 tools across 5 toolsets for repository management, pull requests, issues, pipelines, and more with safety controls and LLM-optimized output.

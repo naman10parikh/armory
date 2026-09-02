@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T23:54:23Z"
 ---
 ## What it is
 MCP server `Secure Filesystem`, catalogued on PulseMCP. Provides secure filesystem access with strict path validation, enabling safe file operations like reading, writing, editing, and directory management through gitignore-style exclusion patterns and detailed JSON metadata.

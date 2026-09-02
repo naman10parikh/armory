@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-17T16:42:42Z"
 ---
 ## What it is
 Enables AI assistants to directly manage Dida365 (TickTick) tasks, including creating, editing, completing, and setting priorities, deadlines, subtasks, reminders, and recurring tasks via natural language.

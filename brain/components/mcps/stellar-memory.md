@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T23:27:52Z"
 ---
 ## What it is
 Provides a persistent memory layer for Stellar and Soroban projects, scanning repositories to create a knowledge graph of contracts, storage, and on-chain state. Exposes this memory to AI agents via MCP, enabling project overview, search, and context recovery.

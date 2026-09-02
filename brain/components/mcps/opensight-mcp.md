@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:07:37Z"
 ---
 ## What it is
 Multi-backend AI vision for MCP agents. Analyze images, screenshots, and documents using local Ollama models or cloud APIs like OpenAI, Google Gemini, and OpenRouter.

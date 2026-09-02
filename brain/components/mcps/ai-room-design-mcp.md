@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:18:46Z"
 ---
 ## What it is
 Read-only MCP server exposing AI Room Design's image generation styles, pricing, FAQ, and official links to MCP-compatible clients like Claude Desktop, Cursor, and Windsurf.

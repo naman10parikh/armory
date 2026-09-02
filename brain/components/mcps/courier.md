@@ -8,10 +8,12 @@ source_url: https://github.com/trycourier/courier-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-10T22:11:27Z"
 ---
 ## What it is
 MCP server `Courier`, catalogued on PulseMCP. Send notifications, manage templates, and configure integrations with Courier.

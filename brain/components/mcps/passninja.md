@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:35:33Z"
 ---
 ## What it is
 MCP server for managing Apple Wallet and Google Wallet passes via the PassNinja API. Provides tools to create, list, update, and delete pass templates, passes, and webhooks.

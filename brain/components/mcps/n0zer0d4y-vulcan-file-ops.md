@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-18T17:01:19Z"
 ---
 ## What it is
 MCP server `Vulcan File Ops`, catalogued on PulseMCP. Security-centric filesystem operations with enterprise-grade access controls and CVE protection

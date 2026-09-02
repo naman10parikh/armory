@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:34:52Z"
 ---
 ## What it is
 MCP server that exposes SonarQube data as AI agent tools, enabling project discovery, quality gates, measures, issues, hotspots, rule explanations, source code, and raw API access.

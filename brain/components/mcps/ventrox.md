@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:55:22Z"
 ---
 ## What it is
 Enables coding agents to log friction events (tried, failed, minutes lost) and allows reviewers to cluster, rank, and resolve these vents locally without network access.

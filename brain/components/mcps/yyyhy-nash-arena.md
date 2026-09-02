@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 3
+forks: 0
+pushed_at: "2026-03-20T03:31:24Z"
 ---
 ## What it is
 A Chess and Card Game Arena For LLM, Agents can battle in game by mcp

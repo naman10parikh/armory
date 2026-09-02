@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T21:38:35Z"
 ---
 ## What it is
 MCP server `Zerion`, catalogued on PulseMCP. Access Zerion crypto portfolio data including wallets, transactions, NFTs, and swaps across EVM, Solana, and Bitcoin.

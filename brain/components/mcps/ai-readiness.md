@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:24:46Z"
 ---
 ## What it is
 Check whether a website is visible to AI search engines (ChatGPT, Perplexity, Claude, Google AI Overviews). Returns a 0-100 readiness score, a grade, and a specific fix for each gap. Dependency-free, no API keys.

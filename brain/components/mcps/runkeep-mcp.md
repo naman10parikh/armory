@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:05:10Z"
 ---
 ## What it is
 Enables management of long-running development processes (such as dev servers, compilers, and watchers) from MCP hosts. Provides tools to start, stop, restart, check status, view logs, and send input to managed processes.

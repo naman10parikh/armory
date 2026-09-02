@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:16:56Z"
 ---
 ## What it is
 MCP server that lets AI agents retrieve the latest SMS verification code by keyword, using self-hosted phone forwarding and persistent storage.

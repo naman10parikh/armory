@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:52:33Z"
 ---
 ## What it is
 Analyzes ambiguous Korean chat messages by interpreting nuance, emotional tone, and context, and suggests appropriate replies for social situations like apology, refusal, or setting boundaries.

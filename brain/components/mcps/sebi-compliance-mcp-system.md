@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T18:44:25Z"
 ---
 ## What it is
 A deterministic regulatory compliance evaluation system for SEBI Research Analyst regulations, exposing MCP tools to check compliance, get applicable rules, and retrieve audit logs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:38:19Z"
 ---
 ## What it is
 Enables AI agents to place real phone calls, navigate IVR trees, and retrieve structured answers with transcripts and recordings.

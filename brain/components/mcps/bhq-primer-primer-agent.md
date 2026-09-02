@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T22:26:13Z"
 ---
 ## What it is
 MCP server `Primer Agent`, catalogued on PulseMCP. Provides research and document analysis tools for generating structured primers on topics.

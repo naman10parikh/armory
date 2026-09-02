@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 34
+forks: 14
+pushed_at: "2026-07-16T03:07:59Z"
 ---
 ## What it is
 A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.

@@ -8,10 +8,12 @@ source_url: https://github.com/nnar1o/kg
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T21:33:59Z"
 ---
 ## What it is
 MCP server `Knowledge Graph`, catalogued on PulseMCP. Local knowledge graph memory server for storing and querying interconnected information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:28:37Z"
 ---
 ## What it is
 Launches HexStrike AI with an ngrok HTTPS tunnel, starting a Flask API and MCP bridge for remote interaction.

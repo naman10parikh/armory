@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T07:59:25Z"
 ---
 ## What it is
 MCP server `Gate.io`, catalogued on PulseMCP. Exposes the full Gate.io API v4 for spot, futures, options, margin, wallet, and account operations.

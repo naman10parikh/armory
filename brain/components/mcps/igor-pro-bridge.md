@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:22:51Z"
 ---
 ## What it is
 Exposes a running Igor Pro instance to MCP clients, enabling command execution, wave data reading, compilation management, and launching/relaunching Igor Pro.

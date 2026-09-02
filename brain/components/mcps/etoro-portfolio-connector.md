@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T03:54:40Z"
 ---
 ## What it is
 A read-only MCP server that connects Claude to your eToro account, enabling queries about your portfolio, P\&L, balances, watchlists, live prices, and price history.

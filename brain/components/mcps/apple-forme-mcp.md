@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T06:18:58Z"
 ---
 ## What it is
 Exposes tools for weekly fitness summaries and acute:chronic workload ratio from Apple Watch data via Health Auto Export, plus a web dashboard for filtering and comparison.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:56Z"
 ---
 ## What it is
 Enables consulting the Negative Debt Certificate (Certidão Negativa de Débitos) from the city of Caxias do Sul, RS, Brazil, using official sources. Offers a single read-only tool for checking debt status.

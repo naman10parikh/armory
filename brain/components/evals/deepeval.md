@@ -8,11 +8,13 @@ source_url: https://github.com/confident-ai/deepeval
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 17814
+stars: 18041
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, metrics, rag, ci]
+forks: 1890
+pushed_at: "2026-09-01T19:06:18Z"
 ---
 ## What it is
 Open-source LLM evaluation framework with 14+ metrics (hallucination, faithfulness, answer relevancy) and CI support.

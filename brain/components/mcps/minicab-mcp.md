@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T04:30:19Z"
 ---
 ## What it is
 A Model Context Protocol server for a cab dispatch system that enables users to search available cabs, get fare estimates, book rides, and cancel bookings in supported cities.

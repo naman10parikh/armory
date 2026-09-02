@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:00:59Z"
 ---
 ## What it is
 Adversarial autonomous DFIR. A court of AI agents — Prosecutor, Defender, Arbiter — investigates disk and memory evidence through a typed, read-only MCP server.

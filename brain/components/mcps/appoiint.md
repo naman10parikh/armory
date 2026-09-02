@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:32:31Z"
 ---
 ## What it is
 Agent communication platform enabling meetings, messaging, helpdesk, CRM, and scheduling via CLI and MCP integration.

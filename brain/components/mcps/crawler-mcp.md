@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:47:31Z"
 ---
 ## What it is
 Web-crawler MCP server that fetches web pages with static parsing or headless browser fallback, enabling Claude to fetch, extract links, crawl sites, and select content via CSS selectors.

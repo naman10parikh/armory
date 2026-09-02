@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:41:18Z"
 ---
 ## What it is
 Validates Indian GSTIN numbers with structural checks, embedded PAN extraction, state-code lookup, and mod-36 check character validation, all via local compute.

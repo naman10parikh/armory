@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T02:16:38Z"
 ---
 ## What it is
 Enables chemical reaction predictions (retrosynthesis, product, reagents), molecule validation, and property calculation through the Model Context Protocol, integrating with AI assistants.

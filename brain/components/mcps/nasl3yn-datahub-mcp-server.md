@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:48:58Z"
 ---
 ## What it is
 MCP server for cinematic context platform, enabling video asset management, lineage tracing, and pipeline orchestration via DataHub.

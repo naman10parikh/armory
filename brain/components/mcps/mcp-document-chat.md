@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:52:09Z"
 ---
 ## What it is
 Exposes a document store over MCP tools, resources, and prompts for reading, editing, summarizing, and formatting documents in a chat interface.

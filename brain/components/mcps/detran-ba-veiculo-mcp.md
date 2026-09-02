@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:13Z"
 ---
 ## What it is
 Hosted MCP server for querying official DETRAN BA vehicle information (single read-only tool) via HTTP, with prepaid per-use credits.

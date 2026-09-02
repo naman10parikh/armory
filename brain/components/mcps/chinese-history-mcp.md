@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:41:44Z"
 ---
 ## What it is
 A traceable Chinese-history MCP server that enables querying of nine classical Chinese texts (e.g., 史记, 汉书) with citations and honest status labels. It provides four tools to search events, persons, places, and qualities, all with provenance.

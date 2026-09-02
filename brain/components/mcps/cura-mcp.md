@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:06:44Z"
 ---
 ## What it is
 Enables AI agents to slice 3D models (STL files) headlessly using UltiMaker Cura's CuraEngine, returning ready-to-print G-code and estimated print time.

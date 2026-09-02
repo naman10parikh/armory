@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T12:21:08Z"
 ---
 ## What it is
 Enforces team engineering standards across Git, code review, Rails, frontend, deployment, incidents, observability, API design, database, ADRs, and technical debt, with tools for branch name and commit message validation.

@@ -8,10 +8,12 @@ source_url: https://github.com/sailro/httpproxymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-09T19:55:00Z"
 ---
 ## What it is
 MCP server `HTTP Proxy`, catalogued on PulseMCP. HTTP/HTTPS MITM proxy that captures all traffic to SQLite and exposes 13 tools for inspecting, filtering, and analyzing network requests through natural language.

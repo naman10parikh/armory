@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:07:19Z"
 ---
 ## What it is
 Local memory MCP server that survives context compaction, learns from errors, injects fixes before the next attempt, and syncs to your git repo so your whole team shares it.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-03T15:51:34Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with the Sepolia Ethereum testnet, providing debugging tools and blockchain interaction capabilities through the MCP protocol.

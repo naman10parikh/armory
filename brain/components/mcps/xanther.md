@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T07:01:26Z"
 ---
 ## What it is
 MCP server `Xanther`, catalogued on PulseMCP. Delivers architectural context to coding agents via semantic code search, impact analysis, traceability, and codebase queries using the Xanther Context Engine with SSE transport.

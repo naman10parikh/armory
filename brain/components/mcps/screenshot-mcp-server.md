@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-04T18:24:20Z"
 ---
 ## What it is
 A modern Model Context Protocol (MCP) Server for Windows Screenshots built with .NET 10. It simulates Print Screen functionality and enables AI assistants to capture screenshots.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-24T01:37:18Z"
 ---
 ## What it is
 A high-performance MySQL database MCP server providing 29 professional tools for data operations, schema management, bulk operations, backup, monitoring, and security, with intelligent caching and enterprise-grade safety features.

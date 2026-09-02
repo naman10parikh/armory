@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T16:12:04Z"
 ---
 ## What it is
 An MCP server for semantic code search using Qdrant vector database, enabling natural language queries to find relevant code snippets across indexed codebases.

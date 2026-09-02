@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T16:39:27Z"
 ---
 ## What it is
 Enables AI assistants to forecast revenue and demand for Shopify stores using Google's TimesFM model. Provides tools for revenue forecasting, demand analysis, promotion analysis, and anomaly detection.

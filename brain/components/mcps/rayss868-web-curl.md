@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-19T04:04:55Z"
 ---
 ## What it is
 MCP server `Web Curl`, catalogued on PulseMCP. Enables web content retrieval and API interaction with customizable resource blocking, authentication options, and automatic URL/search query detection for information retrieval and web automation tasks

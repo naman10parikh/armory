@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T04:20:07Z"
 ---
 ## What it is
 MCP server `UAT Runner`, catalogued on PulseMCP. Human-in-the-loop user acceptance testing tool for agent-developed code.

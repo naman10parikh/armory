@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-17T10:27:09Z"
 ---
 ## What it is
 Enables Android APK static analysis in Cursor/Claude via GDA CLI Server, supporting reconnaissance, attack surface scanning, and code decompilation through natural language.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-12T03:01:49Z"
 ---
 ## What it is
 MCP server `OpenDigger`, catalogued on PulseMCP. Provides access to OpenDigger's open-source metrics data for analyzing project health, contributor influence, and community dynamics through a TypeScript tool that fetches GitHub and Gitee repository statistics.

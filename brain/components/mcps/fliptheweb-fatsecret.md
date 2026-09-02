@@ -8,10 +8,12 @@ source_url: https://github.com/fliptheweb/fatsecret-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-01T04:25:15Z"
 ---
 ## What it is
 MCP server `FatSecret Nutrition`, catalogued on PulseMCP. Search foods, track nutrition, manage food diaries, and browse recipes via the FatSecret API.

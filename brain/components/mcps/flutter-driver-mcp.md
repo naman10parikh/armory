@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T01:55:20Z"
 ---
 ## What it is
 An MCP server that lets AI agents see, tap, type, scroll, and assert inside live Flutter apps — no pre-written tests required.

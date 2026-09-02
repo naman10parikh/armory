@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:44:37Z"
 ---
 ## What it is
 Market intelligence MCP server enabling AI agents to buy crypto sentiment reads, divergence verdicts, and analyst answers via pay-per-call x402 micropayments on Base.

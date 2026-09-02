@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-23T07:34:27Z"
 ---
 ## What it is
 MCP server `QueryPie Database Access Control`, catalogued on PulseMCP. Provides a secure interface for monitoring and managing privileged database access, enabling administrators to review logs, detect security anomalies, and handle workflow requests through QueryPie's Database Access Control system.

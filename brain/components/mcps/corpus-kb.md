@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:56:13Z"
 ---
 ## What it is
 Local end-to-end RAG system for agentic code editors, exposing retrieval-augmented generation via MCP to any compatible client.

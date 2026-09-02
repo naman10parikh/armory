@@ -8,11 +8,13 @@ source_url: https://github.com/FareedKhan-dev/production-grade-mcp-agentic-syste
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-04-19T05:18:44Z"
 ---
 ## What it is
 A production-grade MCP server designed for multi-tenant, authenticated, and observable AI agent systems, enabling secure tool execution across heterogeneous data sources.

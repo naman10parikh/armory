@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:45:51Z"
 ---
 ## What it is
 Enables querying and retrieving municipal data from Chile's SINIM system, including 480 variables across 9 areas for 345 municipalities from 2001-2025.

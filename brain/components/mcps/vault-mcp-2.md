@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:44:01Z"
 ---
 ## What it is
 Authenticated remote MCP server that exposes a private GitHub-hosted Obsidian vault to Claude, enabling list, read, write, and search operations on notes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:45Z"
 ---
 ## What it is
 Read-only MCP server for consulting municipal tax clearance certificates (Certidão Negativa de Débitos) for Rondonópolis, MT, Brazil. It exposes a single tool that queries official sources via a hosted platform, with pay-per-query credits and no need for platform credentials.

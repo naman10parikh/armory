@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:12:18Z"
 ---
 ## What it is
 It turns natural-language requests into Microlink calls: take screenshots, generate PDFs, extract metadata or readable text, detect video/audio sources, run Lighthouse audits, scrape custom fields with CSS selectors and more

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:41:08Z"
 ---
 ## What it is
 Provides live and historical cryptocurrency prices, trending coins, and global market data via CoinGecko API, enabling AI agents to fetch real-time and historical crypto information.

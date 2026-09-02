@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:41:45Z"
 ---
 ## What it is
 MCP server for AI content generation, enabling agents to learn a voice, generate content ideas, write scripts, and produce multi-platform content deterministically.

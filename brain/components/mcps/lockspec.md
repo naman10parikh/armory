@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T23:03:52Z"
 ---
 ## What it is
 Provides AI coding agents with accurate OpenAPI contract details to prevent hallucinated API calls, supporting multi-version pinning, endpoint discovery, and request validation.

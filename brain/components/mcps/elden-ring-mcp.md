@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T07:08:56Z"
 ---
 ## What it is
 MCP server exposing Elden Ring game data (weapons, spells, talismans, armour) with optional corpus ingestion for lore, tier rankings, and community notes.

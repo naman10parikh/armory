@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T19:39:46Z"
 ---
 ## What it is
 Zero-knowledge credential injection for AI agents. Your agent authenticates to websites and APIs without ever seeing a password, TOTP code, or API key.

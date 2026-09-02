@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-01T10:29:26Z"
 ---
 ## What it is
 MCP server `Thoth`, catalogued on PulseMCP. Run AI-assisted systematic literature reviews with per-claim citation verification over an agentic SLR workspace.

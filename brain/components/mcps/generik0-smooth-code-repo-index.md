@@ -8,10 +8,12 @@ source_url: https://github.com/generic-automation-and-it/smooth-code-repo-index-
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T12:37:28Z"
 ---
 ## What it is
 MCP server `Smooth Code Repo Index`, catalogued on PulseMCP. Provides structured code indexing and retrieval for monorepos with first-class AGENTS.md support, using Lucene.Net full-text search and bounded context discovery.

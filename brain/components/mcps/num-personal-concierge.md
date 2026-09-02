@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:30:00Z"
 ---
 ## What it is
 Travel places directory by 5arz: search 2.5M places, submit businesses and promos (human-reviewed).

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-26T02:52:05Z"
 ---
 ## What it is
 MCP server `Isolator`, catalogued on PulseMCP. Provides secure code execution for Python, Go, and JavaScript through Docker containerization with network isolation, read-only filesystems, and resource limits for safely running user-provided code in sandboxed environments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:31:21Z"
 ---
 ## What it is
 An MCP server for the GitHub API that provides repo summaries, recent commit messages, raw README resources, and a prompt template for evaluating repos as portfolio pieces.

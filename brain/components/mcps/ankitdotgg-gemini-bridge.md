@@ -8,10 +8,12 @@ source_url: https://github.com/ankitdotgg/making-gemini-useful-with-claude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-13T08:34:17Z"
 ---
 ## What it is
 MCP server `Gemini Bridge`, catalogued on PulseMCP. Delegates large-context tasks from Claude to Google Gemini via subprocess, enabling token-efficient analysis of large files and codebases.

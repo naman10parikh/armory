@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T06:56:03Z"
 ---
 ## What it is
 An MCP server that enables Claude to query multiple databases (PostgreSQL, ClickHouse, MaxCompute) with automatic schema discovery and intelligent table search.

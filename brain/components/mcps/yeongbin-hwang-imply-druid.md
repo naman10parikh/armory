@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-07T15:15:43Z"
 ---
 ## What it is
 MCP server `Imply Druid`, catalogued on PulseMCP. Read-only interface for Imply Cloud and Apache Druid databases

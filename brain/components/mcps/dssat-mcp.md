@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-28T12:48:17Z"
 ---
 ## What it is
 Enables natural language interaction with the DSSAT crop model for simulation, calibration, and sensitivity analysis through LLM agents.

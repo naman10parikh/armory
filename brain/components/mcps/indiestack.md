@@ -8,10 +8,12 @@ source_url: https://github.com/pattyboi101/indiestack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-02T09:14:23Z"
 ---
 ## What it is
 MCP server `IndieStack`, catalogued on PulseMCP. Curated directory of indie SaaS tools searchable by AI coding assistants.

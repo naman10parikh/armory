@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-13T17:51:46Z"
 ---
 ## What it is
 Enables interaction with the Magic Eden NFT marketplace across multiple blockchains, providing tools for browsing collections, managing NFTs, analyzing portfolios, and detecting arbitrage opportunities through natural language.

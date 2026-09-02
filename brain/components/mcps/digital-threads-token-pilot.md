@@ -8,10 +8,12 @@ source_url: https://github.com/digital-threads/token-pilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-27T10:17:53Z"
 ---
 ## What it is
 MCP server `Token Pilot by Digital Threads`, catalogued on PulseMCP. Token-efficient code reading via AST-aware structural analysis with up to 80% token savings.

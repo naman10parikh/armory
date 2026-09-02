@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2025-07-23T22:11:56Z"
 ---
 ## What it is
 MCP server for Interactive Brokers API integration, enabling account management, trading, market data, and short selling analysis through Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T03:53:33Z"
 ---
 ## What it is
 Gives AI agents full control over Discord server creation and configuration. Exposes 36 tools covering guild lifecycle, channels, roles, members, content, messages, templates, and a declarative blueprint engine.

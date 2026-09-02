@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T13:32:34Z"
 ---
 ## What it is
 MCP server that connects AI models to Swiss federal geodata, offering tools for spatial queries like layer discovery, coordinate identification, building zones, and terrain heights.

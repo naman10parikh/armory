@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:51:31Z"
 ---
 ## What it is
 A focused local-paper RAG MCP server that imports PDFs, indexes them into SQLite and ChromaDB, and retrieves section-aware paper chunks for use with Claude Code, Codex, or any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T11:58:40Z"
 ---
 ## What it is
 MCP server for the Bring! shopping list API, enabling management of shopping lists via natural language.

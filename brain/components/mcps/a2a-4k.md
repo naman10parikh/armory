@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 4
+pushed_at: "2025-10-27T00:24:17Z"
 ---
 ## What it is
 Kotlin Implementation of the A2A Protocol

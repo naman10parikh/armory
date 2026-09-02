@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:42:31Z"
 ---
 ## What it is
 MCP server for the digihub.li content API, enabling Claude to read and write Stories, Solutions, and Sessions, and upload images for media.

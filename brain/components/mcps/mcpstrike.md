@@ -8,11 +8,13 @@ source_url: https://github.com/ente0/mcpstrike
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:16:21Z"
 ---
 ## What it is
 MCP server that connects an LLM via Ollama to security tools for autonomous or guided penetration testing from a terminal interface.

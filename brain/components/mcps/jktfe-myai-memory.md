@@ -8,10 +8,12 @@ source_url: https://github.com/jktfe/myaimemory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-24T17:55:46Z"
 ---
 ## What it is
 MCP server `myAI Memory`, catalogued on PulseMCP. Synchronizes personal memory templates across Claude interfaces, enabling consistent user preferences and response styles without manual copying.

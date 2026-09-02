@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:35:19Z"
 ---
 ## What it is
 Diagnoses scheduled GitHub Actions workflows for anomalies like stuck jobs, retry storms, duration creep, or recent failures.

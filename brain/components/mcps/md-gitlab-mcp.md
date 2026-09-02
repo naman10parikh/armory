@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T08:59:42Z"
 ---
 ## What it is
 A fully-featured GitLab MCP server that provides 25 advanced capabilities for interacting with GitLab via REST API, including repositories, merge requests, issues, and global search.

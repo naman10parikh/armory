@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 33
+pushed_at: "2025-03-31T21:26:47Z"
 ---
 ## What it is
 为HuLa即时通讯应用提供MCP服务，支持用户、群组和聊天资源的访问以及消息发送等工具操作。

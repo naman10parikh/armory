@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:24:45Z"
 ---
 ## What it is
 This server lets users submit natural-language requirements, screenshots, or Excel files and receive grounded asset-matching recommendations, with an agentic loop that judges sufficiency, iteratively corrects its own search, and explicitly reports when no asset can support a request. It supports int

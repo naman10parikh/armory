@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T10:42:20Z"
 ---
 ## What it is
 Search Recruiter Roles: live recruiter jobs, companies, sectors, locations, and market stats.

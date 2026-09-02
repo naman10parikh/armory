@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T14:55:07Z"
 ---
 ## What it is
 MCP server `Social Video`, catalogued on PulseMCP. Plays YouTube and TikTok videos through a local mpv player with full playback control, account browsing, smart recommendations, and cookie-based authentication.

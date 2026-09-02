@@ -8,10 +8,12 @@ source_url: https://github.com/wangyafu/haiguitangmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-08T03:17:57Z"
 ---
 ## What it is
 MCP server `Haiguitang Lateral Thinking Puzzles`, catalogued on PulseMCP. Hosts a collection of 'Haiguitang' lateral thinking puzzles where users ask yes/no questions to solve mysterious scenarios through interactive critical thinking exercises.

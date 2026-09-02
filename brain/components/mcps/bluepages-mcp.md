@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:15:39Z"
 ---
 ## What it is
 Enables looking up Ethereum address mappings to Twitter/X and Farcaster identities, with tools for checking and retrieving identity data.

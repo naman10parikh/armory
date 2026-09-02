@@ -8,10 +8,12 @@ source_url: https://github.com/kazuph/mcp-browser-tabs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-06-12T14:40:43Z"
 ---
 ## What it is
 MCP server `Chrome Tabs`, catalogued on PulseMCP. Integrates with Chrome on macOS to retrieve and manage browser tab information using AppleScript.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:05:14Z"
 ---
 ## What it is
 MCP server that exposes the ehr_building_data tool to query the Estonian Building Register by EHR code, returning a compact summary of building info (address, technical data, usage, energy certificate, cadastral units) excluding geometry.

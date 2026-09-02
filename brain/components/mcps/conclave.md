@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T20:12:38Z"
 ---
 ## What it is
 An MCP server that enables an AI orchestrator to convene a council of other AIs via their CLIs, deliberate, and synthesize consensus.

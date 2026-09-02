@@ -8,10 +8,12 @@ source_url: https://github.com/mudler/mcps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-25T07:02:44Z"
 ---
 ## What it is
 MCP server `Multi-Tool Suite (DuckDuckGo, Weather, Memory)`, catalogued on PulseMCP. Integrates with DuckDuckGo search API, goweather.xyz weather service, and file-based storage through three containerized Go services to provide web search capabilities, weather information retrieval, and persistent memory management.

@@ -8,10 +8,12 @@ source_url: https://github.com/ra1nyxin/allcanuse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-15T15:51:40Z"
 ---
 ## What it is
 MCP server `AllCanUse`, catalogued on PulseMCP. Control local machines on Windows and Linux with 90+ tools for file operations, process management, network diagnostics, and desktop observation.

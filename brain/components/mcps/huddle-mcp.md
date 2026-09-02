@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:49:09Z"
 ---
 ## What it is
 A broker that queues agent requests (plans, questions, FYIs) and batches them by urgency into proposed meetings, leaving actual calendar booking to an attached calendar MCP.

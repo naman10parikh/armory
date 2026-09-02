@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T05:15:31Z"
 ---
 ## What it is
 Bridges Claude Desktop to local and remote ComfyUI instances, enabling health checks, model listing, workflow queuing, status polling, and output retrieval.

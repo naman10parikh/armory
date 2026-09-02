@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:26:32Z"
 ---
 ## What it is
 Provides expanded Brazilian individual registration data from CPF, offering read-only queries with prepaid credits and no credentials.

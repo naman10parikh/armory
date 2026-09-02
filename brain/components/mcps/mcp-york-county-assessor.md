@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T23:03:13Z"
 ---
 ## What it is
 Enables AI agents to query York County, SC property tax assessor records including owner names, property addresses, vehicle registrations, assessed values, and tax payment information.

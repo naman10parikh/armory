@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-03T10:15:14Z"
 ---
 ## What it is
 Connects MCP-compatible agents with the OriginTrail Decentralized Knowledge Graph, enabling creation, retrieval, linking, and exchange of verifiable knowledge using natural language and SPARQL queries.

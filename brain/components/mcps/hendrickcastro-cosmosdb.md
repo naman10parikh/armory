@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-22T22:05:29Z"
 ---
 ## What it is
 MCP server `CosmosDB`, catalogued on PulseMCP. Integrates with Azure CosmosDB to provide database operations including container management, SQL query execution with performance metrics, document retrieval, and automated schema discovery across collections.

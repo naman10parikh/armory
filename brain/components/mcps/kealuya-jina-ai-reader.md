@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-18T01:41:12Z"
 ---
 ## What it is
 MCP server `Jina.ai Reader`, catalogued on PulseMCP. Provides a bridge to Jina.ai's reader service for fetching and parsing web content from URLs into markdown format suitable for analysis and summarization.

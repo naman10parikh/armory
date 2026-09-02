@@ -8,11 +8,13 @@ source_url: https://github.com/insung8150/AgentWebSearch-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-02-19T02:12:44Z"
 ---
 ## What it is
 An MCP server that provides web search and content fetching using real Chrome browsers via CDP, bypassing bot detection and requiring no API keys.

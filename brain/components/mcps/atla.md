@@ -8,10 +8,12 @@ source_url: https://github.com/atla-ai/atla-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-21T08:42:03Z"
 ---
 ## What it is
 MCP server `Atla`, catalogued on PulseMCP. Provides a standardized interface for evaluating LLM responses against single or multiple criteria, returning both numerical scores and textual critiques

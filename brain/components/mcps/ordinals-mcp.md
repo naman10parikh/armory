@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:40:53Z"
 ---
 ## What it is
 A Bitcoin Ordinals MCP server with 24 tools covering inscriptions, runes, BRC-20 tokens, collections, rare sats, and marketplace data, aggregating Hiro, Ordiscan, and Magic Eden APIs with intelligent caching and automatic failover.

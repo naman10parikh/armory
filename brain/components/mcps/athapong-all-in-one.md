@@ -12,6 +12,8 @@ stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-12T08:11:14Z"
 ---
 ## What it is
 MCP server `All-in-One`, catalogued on PulseMCP. Integrates GitLab, Jira, Confluence, YouTube, and Google AI to provide search capabilities and utility tools for streamlined development workflows and project management tasks.

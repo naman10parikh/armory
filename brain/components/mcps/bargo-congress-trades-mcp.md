@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:11:45Z"
 ---
 ## What it is
 Query normalized U.S. House and Senate STOCK Act disclosures, member trading histories, and aggregate trading statistics through MCP.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-01T19:29:42Z"
 ---
 ## What it is
 MCP server `Better Qdrant`, catalogued on PulseMCP. Connects AI systems to Qdrant vector database for semantic search capabilities through multiple embedding services, enabling efficient document management and similarity searches without leaving the conversation interface.

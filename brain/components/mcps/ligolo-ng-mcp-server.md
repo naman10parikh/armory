@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T01:25:26Z"
 ---
 ## What it is
 This MCP server enables AI assistants to control Ligolo-ng operations on a remote Kali Linux machine via SSH, providing tools for managing proxy, agents, tunnels, routes, and listeners for network pivoting during security assessments.

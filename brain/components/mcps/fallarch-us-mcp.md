@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:06:25Z"
 ---
 ## What it is
 Wraps @ai-native-solutions/fallarch-us-sdk as an MCP stdio server for sovereign, Ed25519-signed professional-service workflow management.

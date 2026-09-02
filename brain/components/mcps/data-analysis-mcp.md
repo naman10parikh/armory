@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:35:18Z"
 ---
 ## What it is
 Enables data analysis and visualization operations such as loading CSV/Excel/JSON files, computing summary statistics, generating charts, and exploring datasets via SSE/HTTP.

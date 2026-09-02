@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T13:36:19Z"
 ---
 ## What it is
 AI commerce platform — WooCommerce store products, flights, tours, activities and local transport via MCP. Search, availability and booking tools. No auth for public endpoint.

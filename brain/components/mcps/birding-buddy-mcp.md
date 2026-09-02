@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T03:03:50Z"
 ---
 ## What it is
 An AI-powered birding companion that connects Claude to eBird and Xeno-canto APIs, enabling personalized birding with life list tracking, route-based hotspot discovery, and recording enrichment.

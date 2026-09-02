@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 3
+forks: 0
+pushed_at: "2026-05-29T19:27:05Z"
 ---
 ## What it is
 Discord MCP server with 46 tools for channels, messages, forums, webhooks, members, roles, threads, and moderation. Zero-install via `npx -y mcp-discord-bridge`. Also runs as a standalone bot with slash commands.

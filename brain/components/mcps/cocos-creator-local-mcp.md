@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T15:47:57Z"
 ---
 ## What it is
 An MCP server for local Cocos Creator 3.8 automation, enabling coding agents to create projects, edit scenes, and build WeChat Mini Games directly on a developer machine.

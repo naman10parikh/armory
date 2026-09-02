@@ -8,10 +8,12 @@ source_url: https://github.com/danielbushman/mcp-quickbase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-03-16T11:03:32Z"
 ---
 ## What it is
 MCP server `Quickbase`, catalogued on PulseMCP. Integrates with Quickbase's JSON RESTful API for querying records, managing table relationships, handling file attachments, and user management directly within conversations.

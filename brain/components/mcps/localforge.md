@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:24:39Z"
 ---
 ## What it is
 Enables hybrid agentic coding by delegating token-heavy implementation, editing, and test-debug loops to local open-source models while frontier cloud models handle architecture and review, reducing premium API token usage and keeping code private.

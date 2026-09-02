@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:26:28Z"
 ---
 ## What it is
 A considerate, space-aware CLI and MCP server for background browser automation in Zen Browser, allowing terminal agents to control the browser without interrupting the user's active session.

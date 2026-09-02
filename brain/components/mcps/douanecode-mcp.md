@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:44:20Z"
 ---
 ## What it is
 Enables AI agents to search EU/French customs codes, get duty rates, and monitor tariff changes via natural language, using the DouaneCode API.

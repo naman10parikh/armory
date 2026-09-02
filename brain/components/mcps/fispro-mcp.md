@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:20:19Z"
 ---
 ## What it is
 MCP server for FisPro fuzzy inference systems, enabling reading .fis files, running inferences, and explaining rule firings in natural language.

@@ -8,11 +8,13 @@ source_url: https://github.com/Arjun0606/smolanalytics
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T18:55:48Z"
 ---
 ## What it is
 MCP server that provides product and web analytics capabilities, allowing AI coding assistants to query funnels, retention, trends, feature flags, A/B tests, and more in natural language.

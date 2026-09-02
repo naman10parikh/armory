@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:41:59Z"
 ---
 ## What it is
 Exposes Solana meme-coin safety data as MCP tools, enabling AI assistants to check token trust scores, rug-risk flags, holder analysis, and trending tokens directly in conversation.

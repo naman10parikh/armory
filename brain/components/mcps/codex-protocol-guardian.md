@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:56:55Z"
 ---
 ## What it is
 Validates governance evidence for Codex development tasks, enforcing requirements alignment, single-active-subject candidates, executable specifications, and independent gates for traceable review packets.

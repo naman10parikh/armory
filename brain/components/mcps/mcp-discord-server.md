@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:37:01Z"
 ---
 ## What it is
 Discord Message Sending Service for Claude Desktop and KADI Agents that enables sending messages and replies to Discord channels via the Discord REST API.

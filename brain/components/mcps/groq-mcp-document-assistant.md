@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:26:07Z"
 ---
 ## What it is
 A persistent document management and research assistant powered by Groq, enabling AI-driven document analysis, professional formatting, and long-term memory across sessions.

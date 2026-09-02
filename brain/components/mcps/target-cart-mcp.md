@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:15:31Z"
 ---
 ## What it is
 An MCP server for searching Target products and generating Shopping Cart Share links from a list of TCINs.

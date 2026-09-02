@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T22:14:04Z"
 ---
 ## What it is
 An MCP server that transforms OpenClaw into a programming tutor using PRIMM-Lite pedagogy, with tools for learner management, content delivery, code execution, and Stripe-based tier upgrades.

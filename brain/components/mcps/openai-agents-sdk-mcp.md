@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T03:49:04Z"
 ---
 ## What it is
 Provides MCP tools to list and search OpenAI Agents SDK documentation, enabling LLMs to retrieve documentation topics and content via natural language queries.

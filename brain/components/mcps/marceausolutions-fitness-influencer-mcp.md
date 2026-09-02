@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 1
+forks: 2
+pushed_at: "2026-01-14T15:02:00Z"
 ---
 ## What it is
 Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation

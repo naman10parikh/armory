@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T06:21:45Z"
 ---
 ## What it is
 A local-first MCP server providing persistent, project-scoped and global memory for AI agents using ChromaDB and Ollama embeddings, fully offline.

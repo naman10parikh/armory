@@ -8,10 +8,12 @@ source_url: https://github.com/kirkderp/rbinmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-17T20:38:54Z"
 ---
 ## What it is
 MCP server `Rbin`, catalogued on PulseMCP. Rust MCP server for binary analysis, reverse engineering, and malware triage using radare2 and Ghidra.

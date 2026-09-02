@@ -8,10 +8,12 @@ source_url: https://github.com/zambrella/at_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-20T16:32:53Z"
 ---
 ## What it is
 MCP server `atPlatform`, catalogued on PulseMCP. Integrates with the atPlatform decentralized ecosystem to provide atSign data operations including atKey listing with filtering and value retrieval, plus comprehensive atPlatform documentation for building decentralized identity applications.

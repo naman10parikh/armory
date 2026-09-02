@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T15:05:33Z"
 ---
 ## What it is
 MCP server `OpenWeatherMap`, catalogued on PulseMCP. Provides real-time weather data and 5-day forecasts to AI agents via the OpenWeatherMap API.

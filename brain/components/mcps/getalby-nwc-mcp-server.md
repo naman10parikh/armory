@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 15
+forks: 8
+pushed_at: "2025-06-20T09:16:43Z"
 ---
 ## What it is
 Bitcoin Lightning wallet integration powered by Nostr Wallet Connect

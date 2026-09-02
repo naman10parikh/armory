@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:04:11Z"
 ---
 ## What it is
 MCP server for Oracle Fusion BI Publisher that lets AI agents run queries, reports, and manage catalog objects via a secure, scoped interface.

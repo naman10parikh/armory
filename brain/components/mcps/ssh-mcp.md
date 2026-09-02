@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T01:48:24Z"
 ---
 ## What it is
 Enables LLMs to interact with remote servers via SSH, supporting command execution, file upload/download, and directory listing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-06T08:37:06Z"
 ---
 ## What it is
 MCP server exposing 43 financial data tools for A-share, HK, US stocks, crypto, and market news via open-stock-data.

@@ -8,10 +8,12 @@ source_url: https://github.com/tisddm/searxng-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-22T23:37:59Z"
 ---
 ## What it is
 MCP server `SearXNG`, catalogued on PulseMCP. Connects AI systems to SearXNG metasearch engine, enabling privacy-respecting web searches with customizable parameters for language, time range, and category filtering.

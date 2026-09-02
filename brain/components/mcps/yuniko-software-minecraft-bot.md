@@ -8,10 +8,12 @@ source_url: https://github.com/yuniko-software/minecraft-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 586
+stars: 715
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 86
+pushed_at: "2026-04-04T20:59:29Z"
 ---
 ## What it is
 MCP server `Minecraft Bot`, catalogued on PulseMCP. Enables AI control of Minecraft bots through Mineflayer-based tools for movement, block manipulation, inventory management, and environment interaction without requiring direct player input.

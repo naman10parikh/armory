@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T03:32:22Z"
 ---
 ## What it is
 MCP server for FlashID client that lets AI agents manage browser profiles, proxies, and folders, and control browser automation endpoints via natural language.

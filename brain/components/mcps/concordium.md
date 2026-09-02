@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-30T23:19:13Z"
 ---
 ## What it is
 MCP server `Concordium`, catalogued on PulseMCP. Integrates with Concordium blockchain networks to query accounts, blocks, tokens, validators, and smart contracts through natural language interactions across mainnet and testnet environments.

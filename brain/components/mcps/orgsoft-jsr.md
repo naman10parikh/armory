@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-22T22:02:08Z"
 ---
 ## What it is
 MCP server `JSR`, catalogued on PulseMCP. Integrates with JSR (JavaScript Registry) through Orama Cloud search and direct API access to provide package discovery, comparison, documentation generation, and source code exploration for the Deno ecosystem.

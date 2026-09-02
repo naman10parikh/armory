@@ -8,10 +8,12 @@ source_url: https://github.com/solomonneas/maltego-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-23T11:16:06Z"
 ---
 ## What it is
 MCP server `Maltego`, catalogued on PulseMCP. MCP server for authoring Maltego OSINT graphs with entity creation, link analysis, and threat intelligence integrations.

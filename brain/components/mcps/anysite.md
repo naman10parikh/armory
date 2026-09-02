@@ -8,10 +8,12 @@ source_url: https://github.com/anysiteio/anysite-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-08-06T23:39:21Z"
 ---
 ## What it is
 MCP server `Anysite`, catalogued on PulseMCP. Access LinkedIn, Instagram, Twitter, and Reddit data through one API. No scraping. No maintenance.

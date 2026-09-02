@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T21:02:44Z"
 ---
 ## What it is
 MCP server for TeamDesk databases, enabling CRUD operations, search, and document generation via natural language.

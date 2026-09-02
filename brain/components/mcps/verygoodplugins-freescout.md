@@ -8,10 +8,12 @@ source_url: https://github.com/verygoodplugins/mcp-freescout
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-28T00:24:13Z"
 ---
 ## What it is
 MCP server `FreeScout`, catalogued on PulseMCP. Manage FreeScout helpdesk tickets with AI-powered analysis, search filters, and structured outputs.

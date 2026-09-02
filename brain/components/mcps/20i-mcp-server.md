@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-05T22:27:32Z"
 ---
 ## What it is
 Enables natural language management of 20i web hosting services, including domains, databases, email, WordPress, and more, through AI assistants like Claude and ChatGPT.

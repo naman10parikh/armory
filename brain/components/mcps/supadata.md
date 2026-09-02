@@ -8,10 +8,12 @@ source_url: https://github.com/supadata-ai/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-06-09T20:41:55Z"
 ---
 ## What it is
 MCP server `Supadata`, catalogued on PulseMCP. Integrates with Supadata's web scraping and video transcription services to extract content from web pages into Markdown format, map website URLs for content discovery, perform batch crawling operations, and extract transcripts from YouTube, TikTok, Twitter, and video files with both synchronous and asynchronous processing modes.

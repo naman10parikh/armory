@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-27T13:33:29Z"
 ---
 ## What it is
 Enables AI assistants to dynamically generate technology-specific prompts and modular templates for PRD, codebase analysis, and bug analysis through programmable tools, supporting 31 technology stacks and multiple analysis dimensions.

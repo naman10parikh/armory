@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-22T06:34:53Z"
 ---
 ## What it is
 MCP server `Ephor Collaboration`, catalogued on PulseMCP. Facilitates collaborative debates between multiple agents through a Node.js/TypeScript server that manages multi-turn conversations in a session-based architecture for reaching consensus on user prompts.

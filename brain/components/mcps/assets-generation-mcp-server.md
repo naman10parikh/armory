@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-08T05:49:38Z"
 ---
 ## What it is
 An MCP server for AI image generation with dual-provider support for OpenAI-compatible models and Google Gemini. It returns standard MCP ImageContent blocks.

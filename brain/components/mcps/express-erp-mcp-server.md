@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-07T21:14:20Z"
 ---
 ## What it is
 Enables AI agents to verify orders in an ERP system through Supabase API, checking order existence and retrieving details.

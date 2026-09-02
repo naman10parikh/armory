@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:46:20Z"
 ---
 ## What it is
 Connects AI assistants to a ServiceNow instance, providing tools for Table API CRUD, incident lifecycle, CMDB queries, knowledge search, and user lookup.

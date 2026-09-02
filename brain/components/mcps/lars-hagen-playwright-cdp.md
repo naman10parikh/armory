@@ -8,10 +8,12 @@ source_url: https://github.com/lars-hagen/mcp-playwright-cdp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-12T01:26:21Z"
 ---
 ## What it is
 MCP server `Playwright CDP`, catalogued on PulseMCP. Integrates Playwright and Chrome DevTools Protocol to enable advanced web automation, testing, and analysis through browser control and interaction.

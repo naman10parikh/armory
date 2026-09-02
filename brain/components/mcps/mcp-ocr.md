@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:42:14Z"
 ---
 ## What it is
 Modular OCR MCP server supporting Apple Vision, PaddleOCR, and PaddleOCR-VL backends. Enables text, layout, table, formula, and chart extraction from images via natural language.

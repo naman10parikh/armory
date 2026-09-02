@@ -8,10 +8,12 @@ source_url: https://github.com/astricaelus/mcp-server-reposearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-09T02:07:19Z"
 ---
 ## What it is
 MCP server `Repository Search`, catalogued on PulseMCP. Provides efficient file search functionality within repositories, respecting ignore patterns and offering configurable text content matching for development tools and applications.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T06:36:54Z"
 ---
 ## What it is
 MCP server `ScreenStream`, catalogued on PulseMCP. Captures screenshots from ScreenStream Android screen mirroring app via MJPEG feed for visual analysis.

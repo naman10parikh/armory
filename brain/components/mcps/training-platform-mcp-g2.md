@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T00:40:41Z"
 ---
 ## What it is
 MCP server for tracking user course progress, providing tools to retrieve and save course and stage progress for authenticated users with data persisted in SQL Server.

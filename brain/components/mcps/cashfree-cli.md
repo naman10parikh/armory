@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T11:41:07Z"
 ---
 ## What it is
 Enables AI agents to test Cashfree payment integrations end-to-end by creating orders, simulating payments, listening to webhooks, and verifying signatures via MCP tools.

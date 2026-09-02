@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:04:33Z"
 ---
 ## What it is
 MCP server for Smartsheet Resource Management (10,000ft API). It enables AI agents to orchestrate time tracking, resource scheduling, projects, leaves, expenses, and custom fields.

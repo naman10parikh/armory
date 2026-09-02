@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T04:02:02Z"
 ---
 ## What it is
 Enables market-data analysis and quantitative research over a local Parquet lake with tools for bars, indicators, scans, backtests, and safe SQL queries.

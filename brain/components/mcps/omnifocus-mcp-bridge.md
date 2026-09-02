@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T01:57:08Z"
 ---
 ## What it is
 An authenticated Streamable HTTP bridge that wraps the local OmniFocus MCP server, enabling remote MCP access with bearer token authentication and optional Tailscale Serve.

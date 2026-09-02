@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-11T17:33:21Z"
 ---
 ## What it is
 An MCP server that generates beautiful images from React components using Satori. Create social cards, blog headers, quotes, and custom images directly through AI assistants like Claude.

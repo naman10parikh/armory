@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-23T21:24:48Z"
 ---
 ## What it is
 MCP server `Waldur`, catalogued on PulseMCP. Integrates with Waldur's cloud management platform API to enable natural language-driven provisioning, monitoring, and billing of multi-provider cloud resources.

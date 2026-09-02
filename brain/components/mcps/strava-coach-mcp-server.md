@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-24T21:56:32Z"
 ---
 ## What it is
 Enables AI assistants to access Strava running data, route planning, and weather information for intelligent running coaching.

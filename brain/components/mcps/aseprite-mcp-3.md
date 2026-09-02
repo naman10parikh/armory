@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T11:27:14Z"
 ---
 ## What it is
 MCP server for programmatically creating and editing Aseprite sprites, enabling AI agents to draw, manage layers and frames, and iterate until the desired result is achieved.

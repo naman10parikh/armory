@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T06:17:15Z"
 ---
 ## What it is
 Enables Claude Desktop to act as an ATS resume checker: lists resume files and evaluates them against job descriptions, providing formatting audits and keyword match scores.

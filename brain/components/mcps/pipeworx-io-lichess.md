@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:28Z"
 ---
 ## What it is
 MCP server `Lichess`, catalogued on PulseMCP. Access Lichess public API data including player ratings, game history, puzzle stats, opening explorer, and endgame tablebase lookups.

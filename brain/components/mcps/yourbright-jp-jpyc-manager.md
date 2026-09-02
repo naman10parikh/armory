@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T08:52:36Z"
 ---
 ## What it is
 MCP server `JPYC Manager`, catalogued on PulseMCP. Manages JPYC stablecoin wallets and transfers on Polygon.

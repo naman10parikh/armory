@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T05:54:38Z"
 ---
 ## What it is
 A local MCP server for Jira Cloud-driven development. Connects MCP clients to Jira for searching issues, reading tasks, parsing attachments, and mapping projects to local repos.

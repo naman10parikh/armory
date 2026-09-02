@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-06T23:47:43Z"
 ---
 ## What it is
 MCP server `JSer.info`, catalogued on PulseMCP. Provides access to JavaScript ecosystem data, trends, and library statistics from JSer.info for developers tracking the JavaScript landscape

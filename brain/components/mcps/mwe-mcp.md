@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T22:10:39Z"
 ---
 ## What it is
 A Markdown wiki-based memory server for AI agents with per-fact access control, attribution, and validity enforcement, enabling multiple users and agents to share a governed knowledge base.

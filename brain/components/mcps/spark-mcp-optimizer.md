@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-12-05T12:55:44Z"
 ---
 ## What it is
 An MCP server that optimizes Apache Spark code using Claude AI, providing intelligent code optimization suggestions and performance analysis.

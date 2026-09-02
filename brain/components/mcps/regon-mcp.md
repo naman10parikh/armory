@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:44:00Z"
 ---
 ## What it is
 Provides clean, typed access to the Polish REGON business register (GUS BIR1), enabling AI assistants to look up companies by NIP, REGON, or KRS and retrieve structured data like name, address, and legal form.

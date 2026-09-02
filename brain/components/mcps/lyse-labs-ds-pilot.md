@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T14:09:36Z"
 ---
 ## What it is
 MCP server `DS Pilot`, catalogued on PulseMCP. Expose design system components and tokens to AI agents for search, prop inspection, and token lookup.

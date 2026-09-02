@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:36:52Z"
 ---
 ## What it is
 Windows-local stdio MCP server for Chinese calendar and Four Pillars (BaZi) calculations, providing deterministic tools for day pillars, four pillars, calendar context, and natural calendar context.

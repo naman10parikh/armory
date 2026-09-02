@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T22:54:35Z"
 ---
 ## What it is
 Enables exploration of Pope Leo XIV's encyclical on AI and human dignity, providing tools to fetch chapters, sections, paragraphs, and search the full text from the Vatican website.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T13:16:53Z"
 ---
 ## What it is
 Automatically enriches BibTeX citations with missing metadata (DOI, venue, etc.) from arXiv, DBLP, and CrossRef via an MCP server for AI assistants.

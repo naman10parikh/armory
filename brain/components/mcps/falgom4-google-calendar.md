@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-16T16:05:37Z"
 ---
 ## What it is
 MCP server `Google Calendar`, catalogued on PulseMCP. Enables natural language management of Google Calendar events with OAuth2 authentication, supporting creation, updates, deletion, and search capabilities with automatic browser launch for authentication.

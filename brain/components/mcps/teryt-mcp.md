@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T15:34:57Z"
 ---
 ## What it is
 MCP server for querying the Polish TERYT registry, including territorial units, localities, streets, and locality types via tools and CLI.

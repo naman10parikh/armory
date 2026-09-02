@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T03:59:07Z"
 ---
 ## What it is
 An MCP server that reads app source code, generates contextually valid dummy data, and drives a browser through pages with narrated steps, error correction, and output reports.

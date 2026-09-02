@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [batch-operations, claude-harness]
 tags: [code-transform, deterministic, zero-llm, tooling, efficiency]
+forks: 0
+pushed_at: "2026-06-10T03:27:01Z"
 ---
 
 ## What it is

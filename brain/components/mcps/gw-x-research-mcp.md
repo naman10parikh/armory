@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:39:10Z"
 ---
 ## What it is
 A read-only MCP server that lets ChatGPT use Grok's x_search to retrieve and analyze posts and threads from specified X accounts, returning Chinese research reports with source links.

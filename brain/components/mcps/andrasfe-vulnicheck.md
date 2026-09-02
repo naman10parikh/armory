@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-22T14:45:13Z"
 ---
 ## What it is
 MCP server `VulniCheck`, catalogued on PulseMCP. Python vulnerability scanner with Docker security analysis and secrets detection

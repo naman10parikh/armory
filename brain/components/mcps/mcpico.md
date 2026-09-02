@@ -8,11 +8,13 @@ source_url: https://github.com/lxg2it/mcpico
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T14:55:28Z"
 ---
 ## What it is
 MCP proxy that bundles flat tool lists into hierarchical subcommand groups, reducing context token usage and improving tool discovery.

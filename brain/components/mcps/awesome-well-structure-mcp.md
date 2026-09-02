@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T06:13:19Z"
 ---
 ## What it is
 Automatically generates borehole structure diagrams from well data, supporting multiple well types and returning simplified image paths to reduce token usage.

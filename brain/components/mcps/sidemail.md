@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-06T11:04:56Z"
 ---
 ## What it is
 MCP server `Sidemail`, catalogued on PulseMCP. Integrates with Sidemail.io email service to send emails through a simple API interface for automated notifications, customer communications, and workflow-triggered messaging.

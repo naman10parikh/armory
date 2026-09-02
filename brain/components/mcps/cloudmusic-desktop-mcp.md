@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:48:18Z"
 ---
 ## What it is
 Controls the official NetEase Cloud Music desktop client on Windows, enabling AI to search, play, manage queues, and adjust playback settings via a local control channel.

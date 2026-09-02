@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T06:53:11Z"
 ---
 ## What it is
 MCP server that browses the web, checks conditions (price, text, stock), and takes autonomous actions like form filling, with n8n notifications and a dashboard.

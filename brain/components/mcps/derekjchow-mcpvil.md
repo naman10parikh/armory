@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-13T18:55:46Z"
 ---
 ## What it is
 MCP server `MCPvil`, catalogued on PulseMCP. Minimal Wayland compositor with integrated tools for launching applications and capturing screenshots.

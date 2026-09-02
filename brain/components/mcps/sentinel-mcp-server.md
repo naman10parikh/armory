@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:37:11Z"
 ---
 ## What it is
 Enables autonomous infrastructure health management by exposing tools for retrieving system logs, querying a knowledge base, executing SQL analytics, and simulating system commands, all integrated into an AI-driven incident response workflow.

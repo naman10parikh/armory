@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, text-to-speech]
 stars: 1
+forks: 1
+pushed_at: "2026-03-11T01:03:24Z"
 ---
 ## What it is
 AI-powered speech tools: pronunciation assessment with phoneme-level feedback, speech-to-text with language detection, and text-to-speech with multiple voices.

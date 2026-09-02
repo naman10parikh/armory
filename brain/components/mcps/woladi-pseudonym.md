@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-25T12:01:33Z"
 ---
 ## What it is
 MCP server `Pseudonym`, catalogued on PulseMCP. Intercepts and pseudonymizes sensitive data before it reaches cloud LLMs.

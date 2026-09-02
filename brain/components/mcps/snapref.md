@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:40:52Z"
 ---
 ## What it is
 Policy-gated MCP server for local-first browser automation, enabling agents to drive isolated Chromium sessions via snapshots, revision-bound refs, typed actuation, scripts, and telemetry receipts.

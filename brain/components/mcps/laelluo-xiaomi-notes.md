@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-24T06:28:10Z"
 ---
 ## What it is
 MCP server `Xiaomi Notes`, catalogued on PulseMCP. Integrates with Xiaomi's cloud-based note-taking service to provide complete note and folder management, content searching, image uploads, and automated organization workflows with persistent authentication and session handling.

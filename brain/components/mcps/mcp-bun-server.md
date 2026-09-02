@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-09T01:05:06Z"
 ---
 ## What it is
 Provides AI assistants with powerful tools to execute, optimize, and manage JavaScript/TypeScript projects using the Bun runtime.

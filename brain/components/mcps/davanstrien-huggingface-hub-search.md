@@ -12,6 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-09T10:39:06Z"
 ---
 ## What it is
 MCP server `Hugging Face Hub Search`, catalogued on PulseMCP. Provides semantic search capabilities for Hugging Face models and datasets using vector embeddings to find resources through natural language descriptions, similarity-based discovery, and trending content retrieval with detailed metadata extraction.

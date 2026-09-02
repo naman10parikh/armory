@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:03:31Z"
 ---
 ## What it is
 A lightweight Bluetooth Low Energy debug MCP server for AI agents. It provides 21 tools for BLE scanning, connection, GATT read/write, descriptor access, MTU query, notification subscription, device recon, and engine diagnostics.

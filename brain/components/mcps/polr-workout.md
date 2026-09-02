@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:48:13Z"
 ---
 ## What it is
 An MCP server that enables logging and reviewing workouts from Claude, featuring live session cards with rest timers and an editable workout history.

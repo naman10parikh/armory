@@ -8,10 +8,12 @@ source_url: https://github.com/ludobos/inkwell-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-19T21:15:23Z"
 ---
 ## What it is
 MCP server `Inkwell`, catalogued on PulseMCP. Editorial intelligence platform for newsletter writers that manages research workflows from source collection through article drafting.

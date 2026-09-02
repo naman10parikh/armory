@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 10
+forks: 8
+pushed_at: "2025-12-10T10:50:26Z"
 ---
 ## What it is
 An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.

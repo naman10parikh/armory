@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:03:25Z"
 ---
 ## What it is
 Persistence, headed Chromium browser control for MCP clients like OpenCode and Claude Code, enabling navigation, inspection, clicking, filling, and human-gated actions on JavaScript-heavy or login-walled pages.

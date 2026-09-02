@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:32:57Z"
 ---
 ## What it is
 An MCP server that provides information about IIT Guwahati campus life using a RAG pipeline backed by Qdrant Cloud.

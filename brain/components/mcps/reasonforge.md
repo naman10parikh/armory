@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:55:30Z"
 ---
 ## What it is
 Provides 8 MCP tools for deterministic, read-only reasoning: intake, routing, planning, rubric, sweep checklist, verdict gate, reflection, and evaluation. It forces scope locks, disconfirmation-first plans, blind-spot sweeps, and evidence-gated verdicts.

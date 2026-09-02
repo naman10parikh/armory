@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T21:39:03Z"
 ---
 ## What it is
 Provides tools for AI assistants to access Amanahfy APIs, enabling campaign details and IP geolocation lookups.

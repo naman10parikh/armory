@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T14:23:09Z"
 ---
 ## What it is
 MCP server `Agent Almanac`, catalogued on PulseMCP. Search the Agent Almanac catalog of MCP servers from inside any MCP-aware agent.

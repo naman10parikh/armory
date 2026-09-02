@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:12:46Z"
 ---
 ## What it is
 A persistent local MCP relay that caches tool discovery, keeps upstream servers warm, and allows agents to hot-add or refresh MCP servers through management tools.

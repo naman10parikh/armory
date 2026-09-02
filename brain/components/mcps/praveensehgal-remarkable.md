@@ -8,10 +8,12 @@ source_url: https://github.com/praveensehgal/remarkable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T01:54:08Z"
 ---
 ## What it is
 MCP server `reMarkable Tablet by praveensehgal`, catalogued on PulseMCP. Access reMarkable tablet library with full document browsing, typed text extraction, handwriting OCR, and PDF/EPUB support.

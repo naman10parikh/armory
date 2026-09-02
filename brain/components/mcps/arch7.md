@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T09:46:36Z"
 ---
 ## What it is
 Generates Excalidraw architecture diagrams with support for 60+ components including GCP, Kafka, and AI/Agentic shapes. Provides MCP tools for creating, modifying, and converting diagrams from structured input or Mermaid syntax.

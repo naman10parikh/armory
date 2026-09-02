@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:41:51Z"
 ---
 ## What it is
 Connects Tally Prime ERP data to AI assistants via MCP, enabling natural language queries for financial reports, stock summaries, and ledger balances.

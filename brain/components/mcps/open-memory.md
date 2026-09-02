@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T11:11:49Z"
 ---
 ## What it is
 Gives AI tools (Copilot, Claude, etc.) access to a personal knowledge base stored as plain markdown files, indexed and searched via QMD (BM25 + vector embeddings).

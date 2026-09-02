@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-27T21:05:24Z"
 ---
 ## What it is
 Enables AI assistants to manage and monitor Automox environments via natural language, including devices, compliance, policies, patches, and more.

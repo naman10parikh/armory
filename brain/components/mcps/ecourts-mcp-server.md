@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T17:14:44Z"
 ---
 ## What it is
 Connects LLMs to the EcourtsIndia Partner API for searching Indian court cases, retrieving orders, reading cause lists, and accessing AI summaries.

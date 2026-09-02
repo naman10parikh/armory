@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T06:26:03Z"
 ---
 ## What it is
 MCP server `AVClabs Media`, catalogued on PulseMCP. AI-powered video enhancement and image segmentation using SAM3 technology.

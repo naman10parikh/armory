@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-30T09:04:38Z"
 ---
 ## What it is
 MCP server `Python Code Sandbox`, catalogued on PulseMCP. Provides secure Python code execution in isolated Docker containers with automatic dependency installation, session persistence, and file retrieval for data analysis and visualization tasks.

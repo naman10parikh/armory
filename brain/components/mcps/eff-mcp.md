@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-13T13:07:47Z"
 ---
 ## What it is
 EFF MCP server enables ethical analysis and refinement of user stories using the Ethics Filter Framework, providing scoring, harm clauses, and acceptance criteria across five ethical dimensions, for integration with MCP-compatible agent platforms.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T20:59:49Z"
 ---
 ## What it is
 MCP server `TFT Oracle`, catalogued on PulseMCP. Provides accurate Teamfight Tactics champion, trait, item, augment, and rolling odds data sourced from CommunityDragon.

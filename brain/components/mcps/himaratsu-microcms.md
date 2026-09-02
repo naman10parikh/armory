@@ -8,10 +8,12 @@ source_url: https://github.com/microcmsio/microcms-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-24T08:01:36Z"
 ---
 ## What it is
 MCP server `microCMS`, catalogued on PulseMCP. Integrates with microCMS headless CMS to enable complete content and media management through CRUD operations, draft previews, field filtering, and file uploads for automated publishing workflows.

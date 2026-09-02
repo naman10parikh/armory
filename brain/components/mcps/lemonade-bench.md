@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:14:30Z"
 ---
 ## What it is
 Enables tool-using language models to play Lemonade Tycoon Deluxe as a text-only business benchmark, exposing game UI state and actions as semantic MCP tools without vision or shell access.

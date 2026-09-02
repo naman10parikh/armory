@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T04:38:20Z"
 ---
 ## What it is
 A read-only MCP server for AI agents to access Nostr profiles, notes, search, and relay lists through user-chosen relays, without requiring an account or keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T16:03:50Z"
 ---
 ## What it is
 Enables AI agents to search for internship and apprenticeship offers in France via the iQuesta platform, with tools for filtering by keywords, region, discipline, and contract type.

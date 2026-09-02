@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T10:04:11Z"
 ---
 ## What it is
 Enables AI assistants to introspect a Laravel application's routes, models, controllers, migrations, and more through the Model Context Protocol, running locally via php artisan commands and filesystem scanning.

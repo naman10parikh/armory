@@ -8,11 +8,13 @@ source_url: https://github.com/zackbart/connecta
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T16:09:49Z"
 ---
 ## What it is
 One MCP to rule them all. A single MCP endpoint that aggregates many downstream connectors — remote MCP servers and plain HTTP APIs — and presents agents a fixed set of nine meta-tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:21:14Z"
 ---
 ## What it is
 MCP server that verifies restaurant booking outcomes by reconciling API claims against independent re-reads, with a recovery dial for stakes-based retry policies.

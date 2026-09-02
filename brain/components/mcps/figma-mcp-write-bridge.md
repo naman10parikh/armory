@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-09T20:49:29Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI agents to programmatically create, modify, and manage Figma documents via a WebSocket bridge and Figma plugin.

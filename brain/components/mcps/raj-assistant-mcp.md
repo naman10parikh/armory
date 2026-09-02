@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:13:26Z"
 ---
 ## What it is
 A modular AI Assistant built using the Model Context Protocol that provides tools for calculator, weather, news, AI chat, currency conversion, document processing, and future RAG capabilities.

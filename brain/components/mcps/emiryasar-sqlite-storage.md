@@ -12,6 +12,8 @@ stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2024-12-05T11:00:22Z"
 ---
 ## What it is
 MCP server `SQLite`, catalogued on PulseMCP. Provides a lightweight SQLite-based storage solution, supporting basic CRUD operations for small to medium-scale projects.

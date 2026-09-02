@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-12T17:56:43Z"
 ---
 ## What it is
 MCP server `MCP Hub`, catalogued on PulseMCP. Aggregates multiple upstream MCP servers behind a single stdio interface with TOML-based configuration and resource proxying.

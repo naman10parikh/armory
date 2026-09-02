@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T20:27:51Z"
 ---
 ## What it is
 Enables LLMs to fetch Israeli weather forecasts by controlling a real browser via Playwright, simulating human interactions like typing and clicking on a weather website.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:21:30Z"
 ---
 ## What it is
 MCP server that provides read-only access to cached metadata of public activities, contests, and competitions from multiple sources via SQLite, enabling search and listing without hitting external sites.

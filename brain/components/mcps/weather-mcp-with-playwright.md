@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:55:57Z"
 ---
 ## What it is
 An MCP server that uses Google Gemini and Playwright to fetch current weather for Israeli cities, extracting data from live websites to answer queries in Hebrew or English.

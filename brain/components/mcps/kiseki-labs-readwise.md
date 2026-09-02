@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-04T06:25:53Z"
 ---
 ## What it is
 MCP server `Readwise`, catalogued on PulseMCP. Integrates with Readwise to access and manipulate reading data, enabling document search, highlight retrieval, and filtering by categories, tags, or date ranges for research and knowledge management workflows.

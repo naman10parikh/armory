@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:08Z"
 ---
 ## What it is
 MCP server `Base DeFi Yield Data`, catalogued on PulseMCP. Retrieves DeFi yield opportunities on the Base chain from Aerodrome and Moonwell with APY, TVL, and risk scores.

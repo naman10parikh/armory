@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T00:31:07Z"
 ---
 ## What it is
 MCP server for Hacker News that lets AI agents discover ranked stories, find domain experts, and get explainable quality signals for every result.

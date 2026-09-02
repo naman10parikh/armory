@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T02:15:48Z"
 ---
 ## What it is
 MCP server for Brazilian labor law (CLT), enabling article lookup, topic search, and legal analysis through tools, resources, and prompts.

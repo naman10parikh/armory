@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-17T07:59:30Z"
 ---
 ## What it is
 Converts structured Markdown into ProcessOn mind maps via API, enabling AI agents and tools to create mind maps programmatically.

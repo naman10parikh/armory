@@ -8,10 +8,12 @@ source_url: https://github.com/j3k0/mcp-brain-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-01T13:01:20Z"
 ---
 ## What it is
 MCP server `Elasticsearch Knowledge Graph`, catalogued on PulseMCP. Elasticsearch-based knowledge graph that tracks access patterns to prioritize recent, important, and frequently accessed information with advanced search capabilities and complete CRUD operations.

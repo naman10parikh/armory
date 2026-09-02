@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T10:50:05Z"
 ---
 ## What it is
 MCP server to check GitHub Copilot quota, rate-limit status, and reset times from any MCP client.

@@ -8,10 +8,12 @@ source_url: https://github.com/sanity-io/sanity-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-02-06T16:39:40Z"
 ---
 ## What it is
 MCP server `Sanity CMS`, catalogued on PulseMCP. Integrates with Sanity CMS to enable direct content creation, querying, and management through specialized tools for documents, datasets, schemas, releases, and embeddings

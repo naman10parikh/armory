@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T14:47:48Z"
 ---
 ## What it is
 MCP server `DeviceCloud`, catalogued on PulseMCP. Queries DeviceCloud test uploads, results, analytics, and artifacts for Maestro mobile testing workflows.

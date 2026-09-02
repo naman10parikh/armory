@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:58:31Z"
 ---
 ## What it is
 Turn the AI you already use into a game studio. Describe a game and Claude or Cursor builds it as a real 3D browser game: playable immediately, hosted on its own link, shareable with anyone. No engine, no build step, no code knowledge, nothing to export. Your AI ships the whole thing: it pulls free 

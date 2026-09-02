@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T08:43:22Z"
 ---
 ## What it is
 MCP server `NeuralPulse`, catalogued on PulseMCP. Personalized content feed aggregation from RSS, YouTube, and GitHub sources with channel management and filtering.

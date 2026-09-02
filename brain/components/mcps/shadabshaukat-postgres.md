@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-05T14:29:47Z"
 ---
 ## What it is
 MCP server `Enterprise PostgreSQL`, catalogued on PulseMCP. Enterprise PostgreSQL server with restricted/unrestricted access modes and Docker support.

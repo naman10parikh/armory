@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T03:04:41Z"
 ---
 ## What it is
 A conversational MCP server that provides natural-language access to Goose's live show history, setlists, and song statistics via the ElGoose.net API, including tools like latest show, this day in history, and song stats.

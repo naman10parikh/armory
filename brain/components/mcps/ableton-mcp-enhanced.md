@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T18:23:47Z"
 ---
 ## What it is
 Enables controlling Ableton Live from Cursor using natural language commands for session/transport, MIDI, arrangement, plugins, mixer, and batch operations.

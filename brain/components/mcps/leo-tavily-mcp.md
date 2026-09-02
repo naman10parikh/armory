@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:49:54Z"
 ---
 ## What it is
 Enables Leo's web_search tool to perform live web searches using the Tavily API, returning structured results as JSON. Configurable via a single API key, and pinned to a commit SHA for secure distribution.

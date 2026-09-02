@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:54:04Z"
 ---
 ## What it is
 Enables AI assistants to securely access and control a Windows machine remotely, running commands and managing files via an MCP server protected by Bearer-token authentication and exposed through a Cloudflare Tunnel.

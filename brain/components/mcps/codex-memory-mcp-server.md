@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:18:39Z"
 ---
 ## What it is
 Local stdio MCP server for long-term engineering memory, enabling Codex to store, search, and manage project facts, progress, interfaces, and troubleshooting cases.

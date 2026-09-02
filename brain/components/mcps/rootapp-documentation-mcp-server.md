@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-13T00:48:55Z"
 ---
 ## What it is
 Serves RootApp documentation files with search and retrieval capabilities, enabling users to access specific docs, browse directory structure, and search across file names and content.

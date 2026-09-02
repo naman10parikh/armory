@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:24:02Z"
 ---
 ## What it is
 MCP server for assessing credit risk of Brazilian companies by CNPJ. Provides a single read-only tool for safer credit analysis.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-13T13:38:18Z"
 ---
 ## What it is
 MCP server `Rebrandly`, catalogued on PulseMCP. Integrates with Rebrandly's URL shortening service to create branded short links with custom slashtags, titles, and workspace organization for marketing campaigns and content distribution tracking.

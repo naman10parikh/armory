@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 3
+forks: 3
+pushed_at: "2025-12-20T09:29:32Z"
 ---
 ## What it is
 MCP server for Mattermost API. List channels, read/post messages, manage threads and reactions, monitor topics. Supports flexible configuration via CLI args, environment variables, or config files.

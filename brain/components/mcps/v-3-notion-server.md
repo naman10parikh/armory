@@ -12,6 +12,8 @@ stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-02-01T02:13:16Z"
 ---
 ## What it is
 MCP server `Notion`, catalogued on PulseMCP. Interact with Notion workspaces by searching, reading, creating, and updating pages.

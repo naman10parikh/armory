@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:38:16Z"
 ---
 ## What it is
 Enables LLM agents to interact with TestLink test management system via XML-RPC API, supporting test projects, suites, cases, plans, executions, and custom fields.

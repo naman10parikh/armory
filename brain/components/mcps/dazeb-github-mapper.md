@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-07-18T01:45:17Z"
 ---
 ## What it is
 MCP server `GitHub Mapper`, catalogued on PulseMCP. Integrates with GitHub to analyze repositories, generate file structure maps, and enable code analysis workflows using TypeScript and the Octokit REST API.

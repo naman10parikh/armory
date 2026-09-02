@@ -8,11 +8,13 @@ source_url: https://github.com/pouyahasanamreji/continuum
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-05-14T07:37:02Z"
 ---
 ## What it is
 Shared memory and orchestration for coding agents, enabling persistent knowledge, multi-agent coordination, and a canonical workflow across MCP-compatible AI clients.

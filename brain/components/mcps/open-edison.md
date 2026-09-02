@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2026-01-22T14:50:10Z"
 ---
 ## What it is
 Deterministic agentic data firewall that secures, monitors, and controls AI agent interactions with data and software via MCP, preventing data leaks.

@@ -8,10 +8,12 @@ source_url: https://github.com/utk09-ncl/mini-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-04-12T11:59:46Z"
 ---
 ## What it is
 MCP server `Mini Memory`, catalogued on PulseMCP. Persistent memory storage for AI tools using SQLite with full-text search and tag-based filtering.

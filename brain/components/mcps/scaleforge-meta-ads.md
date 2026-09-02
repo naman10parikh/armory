@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T15:01:03Z"
 ---
 ## What it is
 MCP server `ScaleForge Meta Ads`, catalogued on PulseMCP. Meta Graph API wrapper with 32 tools for managing Facebook and Instagram ad campaigns — accounts, campaigns, ad sets, ads, creatives, insights, and bulk operations.

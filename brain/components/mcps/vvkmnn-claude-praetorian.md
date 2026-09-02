@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-16T12:36:34Z"
 ---
 ## What it is
 MCP server `Claude Praetorian`, catalogued on PulseMCP. Aggressive context compaction for long-running development sessions, enabling 90%+ token savings through structured snapshots with intelligent merging and full-text search.

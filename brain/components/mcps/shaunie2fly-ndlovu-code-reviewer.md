@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-10T07:18:55Z"
 ---
 ## What it is
 MCP server `Ndlovu Code Reviewer`, catalogued on PulseMCP. Combines static analysis with Gemini CLI integration to automatically detect uncommitted JavaScript, TypeScript, and Vue file changes via git diff, runs the best available linter, and returns structured JSON reviews with actionable findings categorized by severity for enhanced code quality feedback beyond basic linting.

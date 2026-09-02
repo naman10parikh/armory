@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-07T01:50:08Z"
 ---
 ## What it is
 MCP server `Notion ReadOnly`, catalogued on PulseMCP. Provides an optimized read-only interface to Notion content with parallel processing and intelligent caching for faster document analysis and knowledge retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:15:50Z"
 ---
 ## What it is
 Enables automatic saving of insights from Claude conversations as GitHub Issues, with features to create, list, and search insights by category and keyword.

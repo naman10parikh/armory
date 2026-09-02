@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T17:32:22Z"
 ---
 ## What it is
 Enables AI assistants to generate fake Nigerian data including names, addresses, phone numbers, LGAs, and states for Yoruba, Igbo, and Hausa ethnic groups.

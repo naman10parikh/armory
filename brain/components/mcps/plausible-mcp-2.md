@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-09T04:01:24Z"
 ---
 ## What it is
 Enables querying Plausible Analytics data for website statistics, traffic, engagement, and conversions through natural language, with support for filters, dimensions, and time-series.

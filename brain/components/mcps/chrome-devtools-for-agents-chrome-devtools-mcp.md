@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:13:01Z"
 ---
 ## What it is
 Lets AI coding assistants control and inspect a live Chrome browser through MCP, enabling reliable automation, debugging, and performance analysis using Chrome DevTools.

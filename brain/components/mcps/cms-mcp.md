@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-26T23:12:32Z"
 ---
 ## What it is
 Exposes codebase memory as native tools for AI agents, enabling queries, feature tracing, impact analysis, and alignment verification.

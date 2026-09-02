@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:39:39Z"
 ---
 ## What it is
 MCP server `Code Reviewer AI`, catalogued on PulseMCP. AI-powered code review and quality analysis tools.

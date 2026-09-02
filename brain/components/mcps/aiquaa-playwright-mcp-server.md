@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:26:45Z"
 ---
 ## What it is
 Converts requirements into traceable, CI-ready Playwright BDD tests connected to business rules, with support for Gherkin generation, rule mapping, and automated test pipelines.

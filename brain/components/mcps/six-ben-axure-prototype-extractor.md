@@ -8,10 +8,12 @@ source_url: https://github.com/six-ben/axure-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-10T10:39:59Z"
 ---
 ## What it is
 MCP server `Axure Prototype Extractor`, catalogued on PulseMCP. Extracts visible text and images from public Axure share pages with multi-page crawling and OCR fallback.

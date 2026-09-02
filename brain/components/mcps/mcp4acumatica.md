@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-08-31T18:54:21Z"
 ---
 ## What it is
 Enables Claude to interact with Acumatica ERP through a remote MCP server with per-user OAuth, role-based access, and 44 tools for querying and managing ERP data.

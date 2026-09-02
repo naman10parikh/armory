@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T20:47:32Z"
 ---
 ## What it is
 Relays job-setup and todo actions from Claude to the Dot Hub, enabling job creation and todo management via Streamable HTTP.

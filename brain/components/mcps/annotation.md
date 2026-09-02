@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-08T02:02:03Z"
 ---
 ## What it is
 MCP server `Annotation`, catalogued on PulseMCP. Provides persistent note-taking and task management through JSON file storage, enabling creation and management of pages with checkable annotations for structured personal knowledge bases and todo lists.

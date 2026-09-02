@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:36Z"
 ---
 ## What it is
 An open-source MCP server for AI-powered fraud prevention that detects fraudulent IPs, emails, URLs, and phone numbers using free APIs and provides actionable risk scores.

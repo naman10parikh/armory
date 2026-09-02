@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:22Z"
 ---
 ## What it is
 A safety-bounded MCP server for discovering data-acquisition devices and performing finite analog-voltage and digital-input reads through NI's nidaqmx Python package.

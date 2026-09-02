@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-10T21:25:28Z"
 ---
 ## What it is
 Enables AI assistants to manage Apple App Store Connect operations including app management, TestFlight, analytics, reviews, subscriptions, and more through 54 tools.

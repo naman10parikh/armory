@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-16T14:00:18Z"
 ---
 ## What it is
 Enables MCP clients to access and read mdbook documentation, including structure, content, and search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:16:49Z"
 ---
 ## What it is
 Enables AI agents to calculate corporate tax payments, check compliance deadlines, and generate pre-filled Gibraltar company forms (annual return, office change, incorporation pack) without API keys or rate limits.

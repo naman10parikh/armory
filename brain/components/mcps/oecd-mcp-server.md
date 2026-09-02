@@ -8,11 +8,13 @@ source_url: https://github.com/isakskogstad/OECD-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-22T09:59:48Z"
 ---
 ## What it is
 Provides AI assistants access to over 5,000 OECD economic and statistical datasets via the SDMX API for search, analysis, and comparison across 38 countries.

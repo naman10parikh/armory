@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T09:01:13Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol (MCP) server for Obsidian on macOS. It provides extensive tools for interacting with Obsidian vaults, notes, and application state through AppleScript, URI schemes, and direct file system access.

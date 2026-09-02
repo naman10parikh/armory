@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-24T08:17:22Z"
 ---
 ## What it is
 MCP server `Mission Control`, catalogued on PulseMCP. Enables task automation and validation through iterative workflows with configurable success criteria, attempt tracking, and intelligent feedback generation

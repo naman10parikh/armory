@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T21:07:19Z"
 ---
 ## What it is
 MCP server `Sudo`, catalogued on PulseMCP. MCP server for running sudo commands on Linux with encrypted password storage using Fernet encryption.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T08:07:10Z"
 ---
 ## What it is
 MCP server that mediates AI agent tool calls with Cedar authorization, enforcing complete mediation and binding execution to validated operations. It demonstrates that policy enforcement and policy adequacy are independent properties, with a hash-chained ledger for verification.

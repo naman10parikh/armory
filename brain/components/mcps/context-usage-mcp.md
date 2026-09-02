@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T19:44:40Z"
 ---
 ## What it is
 Exposes a get_context_usage tool that reports raw token usage from session transcripts for Claude Code and OpenAI Codex CLI, enabling agents to check context size and branch behavior.

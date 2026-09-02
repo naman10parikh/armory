@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T00:08:29Z"
 ---
 ## What it is
 Provides curated nonfiction book recommendations and profiles using TF-IDF scoring with concept expansion, enabling users to get ranked book suggestions by describing a situation, topic, or question.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:22:09Z"
 ---
 ## What it is
 A category-first, lightweight MCP memory server that provides persistent memory for AI agents using Markdown and SQLite FTS5, with triage classification and consolidation.

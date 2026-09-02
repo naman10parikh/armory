@@ -8,10 +8,12 @@ source_url: https://github.com/danielzhao1990/interaction-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-27T08:19:12Z"
 ---
 ## What it is
 MCP server `Interaction MCP`, catalogued on PulseMCP. Enables high-frequency communication between users and AI tools through multiple interface options, providing option selection and information requests to improve interaction efficiency by confirming approaches before execution.

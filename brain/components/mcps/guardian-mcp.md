@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:17:21Z"
 ---
 ## What it is
 Security layer for AI agents that evaluates transaction intents and returns verdicts (ALLOW/WARN/DENY) using deterministic rules, on-chain checks, and simulation.

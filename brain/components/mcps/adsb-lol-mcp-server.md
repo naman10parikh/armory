@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-04T02:21:47Z"
 ---
 ## What it is
 Provides AI assistants with real-time aircraft tracking, FAA registration, and OpenSky flight data through the Model Context Protocol.

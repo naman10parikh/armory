@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T21:57:30Z"
 ---
 ## What it is
 MCP server `Compuute Scan`, catalogued on PulseMCP. Static security scanner for MCP servers, analyzing GitHub repositories across 37 rules in 8 programming languages.

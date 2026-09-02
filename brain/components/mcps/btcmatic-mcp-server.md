@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:45:29Z"
 ---
 ## What it is
 MCP server that gives autonomous agents pay-per-call Bitcoin context (self-custody radar, fee percentiles, price change windows, condition frequencies) paid in sats over Lightning via L402 invoices, with no account or API key required.

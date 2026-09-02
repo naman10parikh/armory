@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-24T21:20:11Z"
 ---
 ## What it is
 Enables AI assistants to search, retrieve, and optionally edit pages in a WikiJS knowledge base via the Model Context Protocol.

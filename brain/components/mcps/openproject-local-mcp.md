@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T05:12:32Z"
 ---
 ## What it is
 A local STDIO server that exposes OpenProject API v3 as MCP tools, allowing MCP clients like Codex CLI and GitHub Copilot CLI to reference projects and work packages.

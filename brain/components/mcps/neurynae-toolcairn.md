@@ -8,10 +8,12 @@ source_url: https://github.com/neurynae/toolcairn-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-02T09:25:42Z"
 ---
 ## What it is
 MCP server `Toolcairn`, catalogued on PulseMCP. Discover, compare, and verify tools across 35+ registries from your MCP host.

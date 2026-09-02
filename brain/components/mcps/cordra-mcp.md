@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-04T12:51:45Z"
 ---
 ## What it is
 Provides read-only access to Cordra digital object repositories, enabling AI assistants to explore schemas, retrieve objects, and search using Lucene queries.

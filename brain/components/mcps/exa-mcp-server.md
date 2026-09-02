@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2024-11-30T18:34:38Z"
 ---
 ## What it is
 Enables AI assistants like Claude to perform web searches using the Exa AI Search API, providing real-time structured search results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:15:32Z"
 ---
 ## What it is
 Enables an AI assistant to preview, query, aggregate, and convert CSV/TSV data safely with no API key.

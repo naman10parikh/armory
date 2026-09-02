@@ -8,11 +8,13 @@ source_url: https://github.com/Samik081/mcp-adguard-home
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:08:04Z"
 ---
 ## What it is
 Enables natural language management of AdGuard Home DNS filtering, clients, DHCP, rewrites, and more via MCP.

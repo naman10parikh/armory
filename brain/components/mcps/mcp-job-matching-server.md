@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:37:29Z"
 ---
 ## What it is
 An MCP server that enables AI agents to evaluate candidate-job fit by calculating weighted match scores based on skills and requirements.

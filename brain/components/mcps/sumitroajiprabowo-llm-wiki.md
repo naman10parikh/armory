@@ -8,10 +8,12 @@ source_url: https://github.com/sumitroajiprabowo/llm-wiki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T10:37:34Z"
 ---
 ## What it is
 MCP server `LLM Wiki`, catalogued on PulseMCP. Persistent knowledge base using the LLM Wiki pattern with structured markdown files.

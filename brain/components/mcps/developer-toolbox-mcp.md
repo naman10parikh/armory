@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T08:13:04Z"
 ---
 ## What it is
 A production-ready MCP server providing file, system, math, and text utilities through a simple CLI client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T03:29:00Z"
 ---
 ## What it is
 Provides access to Kubernetes troubleshooting runbooks, enabling search, discovery, and retrieval of guides for common issues like pod crashes, node problems, and network failures.

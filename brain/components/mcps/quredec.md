@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T00:13:54Z"
 ---
 ## What it is
 MCP server `QuReDec`, catalogued on PulseMCP. Evidence-backed decision briefs with citations, confidence scores, risk analysis, and source attribution.

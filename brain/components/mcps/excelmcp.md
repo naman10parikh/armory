@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:27:02Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI agents real-time access to Excel workbooks in OneDrive, answering natural-language questions with live data. It caches only sheet structure, never cell values, and fetches current ranges via Microsoft Graph for each query.

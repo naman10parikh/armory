@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T23:25:55Z"
 ---
 ## What it is
 Enables musical analysis of MIDI and musicXML files using music21, providing tools for key detection, harmony, melody, rhythm, form analysis, counterpoint checking, and motif extraction.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-22T11:03:16Z"
 ---
 ## What it is
 MCP server `Model Council`, catalogued on PulseMCP. Run a prompt through three AI models in parallel and return all responses for comparison.

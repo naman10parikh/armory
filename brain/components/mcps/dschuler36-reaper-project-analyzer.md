@@ -8,10 +8,12 @@ source_url: https://github.com/dschuler36/reaper-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-09-02T01:02:08Z"
 ---
 ## What it is
 MCP server `Reaper`, catalogued on PulseMCP. Integrates with Reaper digital audio workstation to extract structured data from project files, enabling analysis and interaction with audio production elements.

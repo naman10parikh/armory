@@ -8,10 +8,12 @@ source_url: https://github.com/anyrxo/proton-drive-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-07T00:11:23Z"
 ---
 ## What it is
 MCP server `Proton Drive`, catalogued on PulseMCP. Provides file system access to Proton Drive through cross-platform path detection and standard file operations, enabling encrypted cloud storage management with directory listing, file reading/writing, folder creation, and deletion capabilities.

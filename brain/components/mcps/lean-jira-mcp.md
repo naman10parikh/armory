@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:11:00Z"
 ---
 ## What it is
 A lean, agent-first MCP server for JIRA Cloud that exposes 10 intent-shaped tools for searching, creating, updating issues, and more, with human-friendly references and recovery hints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-06-12T17:52:08Z"
 ---
 ## What it is
 Semantic search with 98% token reduction for AI assistants.

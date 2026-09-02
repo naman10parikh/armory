@@ -8,10 +8,12 @@ source_url: https://github.com/yevanchen/difyapp_as_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-18T16:49:51Z"
 ---
 ## What it is
 MCP server `Dify`, catalogued on PulseMCP. Integrates Dify's AI application development platform with MCP-compatible tools and services, enabling seamless extension of Dify applications with external capabilities while maintaining the familiar environment.

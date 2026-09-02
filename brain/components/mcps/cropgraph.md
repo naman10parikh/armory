@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T21:59:43Z"
 ---
 ## What it is
 MCP server `CropGraph`, catalogued on PulseMCP. Garden planning MCP with a database of 1,000 crops, climate-aware planting schedules, and companion plant relationships.

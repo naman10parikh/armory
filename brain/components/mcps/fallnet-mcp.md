@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:00:30Z"
 ---
 ## What it is
 Exposes a sovereign peer-to-peer mesh (WebRTC + BroadcastChannel) to any MCP client over stdio for peer messaging and connection handling.

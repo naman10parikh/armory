@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T19:37:27Z"
 ---
 ## What it is
 A simple MCP server that reads local images and returns them as ImageContent for LLM vision analysis.

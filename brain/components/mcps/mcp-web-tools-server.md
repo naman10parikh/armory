@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:04:04Z"
 ---
 ## What it is
 A custom MCP server that provides AI agents with tools to fetch web pages, extract readable article text, extract structured data by CSS selector, and check robots.txt permissions.

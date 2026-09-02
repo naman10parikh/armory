@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:40:31Z"
 ---
 ## What it is
 An MCP server that provides safe, read-only SQL access for AI agents to query databases (PostgreSQL, MySQL, SQLite) with schema awareness and guardrails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:35:51Z"
 ---
 ## What it is
 A client-side MCP proxy that injects OAuth 2.0 bearer tokens or API keys into MCP requests, enabling MCP clients to connect to OAuth/API-key-protected MCP servers like Amazon Bedrock AgentCore Gateway. It automatically fetches and refreshes credentials using AgentCore Identity or static values.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:22:06Z"
 ---
 ## What it is
 A read-only MCP server exposing GPON access-network tools for inventory, status, configuration diff, and alarms, enabling a LangGraph agent to audit ONT provisioning against a golden baseline. It runs against a simulated network and enforces read-only constraints at multiple levels.

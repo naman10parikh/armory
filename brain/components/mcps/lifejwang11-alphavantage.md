@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-21T01:18:08Z"
 ---
 ## What it is
 MCP server `AlphaVantage`, catalogued on PulseMCP. Bridges AlphaVantage's financial data ecosystem by providing real-time access to stock market, forex, cryptocurrency, and fundamental financial metrics for data-driven investment research and analysis.

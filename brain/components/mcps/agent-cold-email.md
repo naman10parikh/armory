@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:30:46Z"
 ---
 ## What it is
 Agent-native cold-email infrastructure providing ~12 high-level tools for domain setup, mailbox provisioning, campaign launch, inbox management, and metrics, all operated via MCP or CLI.

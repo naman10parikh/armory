@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T05:03:35Z"
 ---
 ## What it is
 Adds vision capabilities to text-only coding models via MCP, enabling image analysis, OCR, and visual reasoning without switching the main model.

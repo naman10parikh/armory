@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-24T09:20:02Z"
 ---
 ## What it is
 Enables extraction and analysis of candidate profiles from Recruitee recruitment pipelines, optimized for LLM evaluation with clean, bias-free data.

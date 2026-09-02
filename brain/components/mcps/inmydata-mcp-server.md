@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T17:47:53Z"
 ---
 ## What it is
 Exposes the inmydata agents SDK as an MCP server, enabling AI agents to access inmydata's powerful data querying capabilities through a standardized interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:39:36Z"
 ---
 ## What it is
 Provides read-only access to Nano Banana 2's image generation workflows, styles, pricing, FAQ, and official links for MCP-compatible AI clients like Claude Desktop, Cursor, Windsurf, and Continue.

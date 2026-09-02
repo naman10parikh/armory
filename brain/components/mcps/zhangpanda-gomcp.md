@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
 stars: 14
+forks: 2
+pushed_at: "2026-09-01T23:38:07Z"
 ---
 ## What it is
 A Gin-like framework for building MCP servers in Go. Struct-tag auto schema, middleware chain, auth, tool groups, adapters for Gin/OpenAPI/gRPC, async tasks, Inspector UI.

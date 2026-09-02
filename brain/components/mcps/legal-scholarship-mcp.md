@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:30:47Z"
 ---
 ## What it is
 Enables searching scholarly literature via the OpenAlex database, with tools for full-text search, work details, citation lookup, and author queries.

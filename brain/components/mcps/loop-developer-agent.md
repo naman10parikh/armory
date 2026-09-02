@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:49:32Z"
 ---
 ## What it is
 MCP server for LOOP financial infrastructure, enabling AI agents to inspect projects, generate payment integration code, and execute sandbox-validated transactions (M-Pesa, LOOP, PesaLink) with a deterministic policy engine.

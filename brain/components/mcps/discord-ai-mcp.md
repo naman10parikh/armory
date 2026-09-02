@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:42:36Z"
 ---
 ## What it is
 A free MCP server for growing Discord communities, offering tools to search public servers, analyze engagement, and draft messages, with optional premium AI features powered by DeepSeek.

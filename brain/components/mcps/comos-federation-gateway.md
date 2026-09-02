@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:15:44Z"
 ---
 ## What it is
 Shop every merchant on the ComOS commerce network over one MCP connection — catalog search, live inventory, atomic COM/USD checkout, orders, tracking, returns — or apply to sell on it in-session. ~49 tools, no API key required; OAuth 2.1 for privileged scopes.

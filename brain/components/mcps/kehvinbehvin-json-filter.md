@@ -8,10 +8,12 @@ source_url: https://github.com/kehvinbehvin/json-mcp-filter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-30T01:33:31Z"
 ---
 ## What it is
 MCP server `JSON Filter`, catalogued on PulseMCP. Converts JSON samples into TypeScript type definitions and filters large JSON files to extract only specified fields, eliminating unwanted data from LLM context through shape-based filtering with simple object notation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-30T06:33:11Z"
 ---
 ## What it is
 Enables text-to-speech generation using the Groq API, supporting multiple audio formats and optional local playback.

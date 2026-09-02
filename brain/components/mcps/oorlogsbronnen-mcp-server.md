@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-23T11:42:19Z"
 ---
 ## What it is
 Enables natural language search and exploration of the Dutch WWII Oorlogsbronnen archives, allowing users to query historical documents, photographs, and personal accounts through AI assistants.

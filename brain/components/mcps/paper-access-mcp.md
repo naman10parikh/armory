@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T21:53:41Z"
 ---
 ## What it is
 Local MCP server that enables downloading papers from arXiv, OpenReview, INFORMS, and Wiley by reusing your Chrome login state.

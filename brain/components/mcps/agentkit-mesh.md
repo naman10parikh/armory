@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:48:30Z"
 ---
 ## What it is
 Enables agent-to-agent discovery and delegation via MCP, with tools for registering agents, discovering them by keyword matching, and delegating tasks over HTTP.

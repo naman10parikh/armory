@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:03:29Z"
 ---
 ## What it is
 Prevents coding agents from repeatedly attempting the same failed fix by tracking attempts and blocking further fixes until the agent uses its own web search tool.

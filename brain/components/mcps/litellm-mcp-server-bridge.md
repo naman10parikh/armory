@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T22:20:59Z"
 ---
 ## What it is
 Connects Antigravity to a LiteLLM instance, enabling chat completions, model listing, health checks, and more via the Model Context Protocol.

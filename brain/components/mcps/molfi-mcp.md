@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:01:28Z"
 ---
 ## What it is
 Enables LLM agents to trade private prediction markets on HashKey Chain, including wallet management, funding, betting, and reward claiming via real on-chain transactions.

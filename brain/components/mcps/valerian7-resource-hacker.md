@@ -8,10 +8,12 @@ source_url: https://github.com/valerian7/resourcehacker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-28T08:25:57Z"
 ---
 ## What it is
 MCP server `Resource Hacker`, catalogued on PulseMCP. Command-line access to Resource Hacker for extracting, adding, deleting, and modifying resources in Windows PE files including icons, bitmaps, and version info.

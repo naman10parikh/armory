@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
 stars: 40
+forks: 9
+pushed_at: "2026-05-11T00:10:32Z"
 ---
 ## What it is
 Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization and interoperability.

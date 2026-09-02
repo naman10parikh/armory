@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:25:13Z"
 ---
 ## What it is
 Connect AI agents to real-time financial news covering global markets, geopolitics, and company-level events. Search and filter articles by ticker, source, country, and language; every article includes sentiment scores and tagged company entities with tickers and ISINs. Remote server with standard O

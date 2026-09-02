@@ -8,11 +8,13 @@ source_url: https://github.com/promptadvisers/bench-studio-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 86
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 41
+pushed_at: "2026-08-14T13:59:56Z"
 ---
 ## What it is
 MCP server that lets AI agents generate images and videos, build websites, and produce designed PDFs with transparent model routing, cost tracking, and local artifact mirroring.

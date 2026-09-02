@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-21T22:57:58Z"
 ---
 ## What it is
 MCP server `Reddit Ads`, catalogued on PulseMCP. Read-only Reddit Ads API integration for listing accounts, campaigns, ad groups, ads, and pulling performance reports.

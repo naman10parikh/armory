@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T23:16:46Z"
 ---
 ## What it is
 Provides cryptographic governance receipts for AI agents, enabling pre-execution evaluation and signed verdicts (EXECUTE/BLOCK/REVIEW/SHADOW) with offline-verifiable audit trails.

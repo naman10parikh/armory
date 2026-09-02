@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T14:09:55Z"
 ---
 ## What it is
 Local MCP server for on-premise face recognition, liveness detection, and identity verification, enabling AI agents to use 3DiVi Face SDK tools without cloud dependency or SDK integration code.

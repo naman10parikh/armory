@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-04-14T03:28:17Z"
 ---
 ## What it is
 MCP server `China Stock Market Data`, catalogued on PulseMCP. Provides real-time Chinese stock market data through AKShare, offering tools for market overviews, individual stock information, sector analysis, fund flows, and financial indicators across Chinese, Hong Kong, and US exchanges.

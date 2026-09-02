@@ -8,10 +8,12 @@ source_url: https://github.com/lstudlo/scholarmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-29T09:33:47Z"
 ---
 ## What it is
 MCP server `ScholarMCP`, catalogued on PulseMCP. Academic research server integrating Google Scholar, OpenAlex, Crossref, and Semantic Scholar for federated paper search, PDF ingestion, citation management, and manuscript validation.

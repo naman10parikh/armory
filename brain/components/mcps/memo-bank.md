@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:28:50Z"
 ---
 ## What it is
 Enables agents to query a git-native markdown corpus for the specs governing a file in about two reads, plus supports lexical topic search with expansion. Includes maintenance loops that surface uncovered code and stale governing docs to keep the corpus honest.

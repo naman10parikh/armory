@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T13:32:53Z"
 ---
 ## What it is
 Integrates Ollama's local AI models with MCP clients, enabling listing models, viewing model details, and asking questions to models.

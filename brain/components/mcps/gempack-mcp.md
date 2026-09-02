@@ -8,11 +8,13 @@ source_url: https://github.com/rayvapor-cell/gempack-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T03:09:37Z"
 ---
 ## What it is
 An MCP server that exposes the local GEMPACK CGE toolchain (TABLO, GEMSIM, HAR utilities) as tools Claude can call: compile models, run simulations, read solution and HAR data files, and export to CSV/Excel.

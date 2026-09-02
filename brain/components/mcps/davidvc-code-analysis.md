@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-17T17:57:23Z"
 ---
 ## What it is
 MCP server `Code Analysis`, catalogued on PulseMCP. Integrates code analysis using a Neo4j graph database to enable structural insights, quality metrics, and natural language querying of codebases.

@@ -8,10 +8,12 @@ source_url: https://github.com/xmpuspus/cloudwright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-24T12:58:56Z"
 ---
 ## What it is
 MCP server `Cloudwright`, catalogued on PulseMCP. Converts natural language infrastructure descriptions into cloud infrastructure specifications and IaC templates with 18 tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:57:13Z"
 ---
 ## What it is
 Provides access to Maltese legislation via ELI coordinates, fetching metadata and full text from the official legislation.mt portal.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:54:07Z"
 ---
 ## What it is
 A local-first Kanban system with MCP tools for AI agents to manage tickets, features, and tasks, paired with a React UI for human users.

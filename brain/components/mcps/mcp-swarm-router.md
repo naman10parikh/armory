@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:07:19Z"
 ---
 ## What it is
 This MCP server enables LLM hosts to plan large tasks and delegate subtasks to specialized local CLI agents, such as Codex and Claude Code, using tools like delegate_task and get_agent_roster.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T20:31:23Z"
 ---
 ## What it is
 Enables AI assistants to download YouTube videos and transcribe them locally using OpenAI's Whisper speech recognition model.

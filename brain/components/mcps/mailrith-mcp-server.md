@@ -8,11 +8,13 @@ source_url: https://github.com/anrawool/mailrith-agent-platform
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T05:25:56Z"
 ---
 ## What it is
 MCP server for building safe AI agent email marketing workflows with Mailrith.

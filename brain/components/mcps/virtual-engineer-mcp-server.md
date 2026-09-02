@@ -8,11 +8,13 @@ source_url: https://github.com/benkipnis/virtual_engineer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:52:58Z"
 ---
 ## What it is
 Enables AI-assisted chiller troubleshooting by exposing MCP tools to retrieve operational data, alarms, telemetry, and service history from MongoDB Atlas, plus vector and hybrid search over knowledge bases.

@@ -8,10 +8,12 @@ source_url: https://github.com/henry-insomniac/horizon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T03:23:56Z"
 ---
 ## What it is
 MCP server `Horizon`, catalogued on PulseMCP. Wraps the Horizon news pipeline for AI-driven aggregation, scoring, filtering, enrichment, and multilingual summarization of tech news from RSS feeds and search engines.

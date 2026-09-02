@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:36:10Z"
 ---
 ## What it is
 MCP server for querying SAM.gov federal contract opportunities, providing precise search, retrieval, and attachment tools with full source traceability and explicit abstention when data is absent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:05:08Z"
 ---
 ## What it is
 Extends Reasonix with multimodal processing capabilities including image OCR/vision, PDF text extraction, local audio transcription, video analysis, and Office document extraction.

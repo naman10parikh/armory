@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T02:55:47Z"
 ---
 ## What it is
 Enables interaction with the Things app for task management, allowing natural language task creation, project analysis, and priority management.

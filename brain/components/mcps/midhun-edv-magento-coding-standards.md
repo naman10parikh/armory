@@ -8,10 +8,12 @@ source_url: https://github.com/midhun-edv/magento-coding-standard-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-20T07:32:59Z"
 ---
 ## What it is
 MCP server `Magento Coding Standards`, catalogued on PulseMCP. Validates Magento 2 code against 83+ coding standard rules, 150+ discouraged functions, and theme-specific conventions for Hyva, Luma, Breeze, and Porto.

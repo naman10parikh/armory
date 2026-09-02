@@ -8,10 +8,12 @@ source_url: https://github.com/pinkpixel-dev/notification-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-12T23:01:05Z"
 ---
 ## What it is
 MCP server `Notification Chimes`, catalogued on PulseMCP. Provides audio notification system that plays platform-specific chimes when tasks complete, supporting five built-in sounds and custom audio files for non-intrusive progress alerts.

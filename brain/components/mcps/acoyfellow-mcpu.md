@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T16:49:25Z"
 ---
 ## What it is
 MCP server `MCPU`, catalogued on PulseMCP. Self-hosted Cloudflare Workers MCP server for repo management and deployment with 8 tools for code editing and committing.

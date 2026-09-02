@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:29:38Z"
 ---
 ## What it is
 Bridges Claude Desktop to the HOOPS AI WebAPI, enabling 3D CAD analysis and interactive model operations through natural language.

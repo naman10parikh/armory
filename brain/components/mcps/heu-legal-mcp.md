@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:32:54Z"
 ---
 ## What it is
 Integrates the HEU Legal API to manage native HEU documents and PDFs, enabling creation, sharing for e-signature, prompting signers, and downloading PDFs through conversation with Claude.

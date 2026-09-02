@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T17:22:15Z"
 ---
 ## What it is
 Enables direct access to Norwegian company data — lookup, search, roles, subunits, and live updates — through the free Brønnøysund Open Data API.

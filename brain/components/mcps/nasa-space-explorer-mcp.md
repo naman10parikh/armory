@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T12:21:19Z"
 ---
 ## What it is
 Provides real-time NASA data (APOD, asteroids, Mars rover photos, natural events, space weather) via natural language queries or menu-based interaction, requiring no API key for basic use.

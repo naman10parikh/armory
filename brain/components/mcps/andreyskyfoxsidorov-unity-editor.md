@@ -8,10 +8,12 @@ source_url: https://github.com/andreyskyfoxsidorov/unifiedunitymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-20T11:08:13Z"
 ---
 ## What it is
 MCP server `Unity Editor`, catalogued on PulseMCP. Integrates with Unity Editor through HTTP transport to enable real-time GameObject manipulation, component management, asset control, scene operations, and build pipeline automation for game development workflows.

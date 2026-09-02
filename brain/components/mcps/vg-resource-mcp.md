@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:55:32Z"
 ---
 ## What it is
 An MCP server for searching, browsing, and downloading game sprites, models, textures, and sounds from The VG Resource network, covering 100k+ assets across 50+ consoles.

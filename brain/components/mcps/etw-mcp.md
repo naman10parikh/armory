@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T00:58:36Z"
 ---
 ## What it is
 Enables AI assistants to analyze Windows WPR/ETW traces (.etl files) using natural language queries, with features like auto-summary, CPU sampling, DPC/ISR analysis, and symbol resolution.

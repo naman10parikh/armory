@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T04:44:20Z"
 ---
 ## What it is
 MCP server for YouTube that provides tools to fetch video metadata and transcripts, enabling natural language queries about YouTube videos.

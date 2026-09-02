@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:37:46Z"
 ---
 ## What it is
 MCP server that exposes a single tool to retrieve ChatGPT/Codex quota via the signed-in Codex CLI, reporting rate-limit windows and usage percentages.

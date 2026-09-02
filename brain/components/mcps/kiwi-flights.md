@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-07T14:06:36Z"
 ---
 ## What it is
 MCP server `Kiwi Flight Search`, catalogued on PulseMCP. Search and book flights via Kiwi.com

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T11:57:32Z"
 ---
 ## What it is
 MCP server `CodeLens`, catalogued on PulseMCP. Integrates with GitHub API and Libraries.io to provide intelligent code search, dependency health checking across multiple package managers, and package alternative discovery.

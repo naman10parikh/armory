@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-24T06:40:51Z"
 ---
 ## What it is
 MCP server `Xcode`, catalogued on PulseMCP. Integrates with Xcode development tools to execute xcodebuild commands, manage iOS/macOS simulators, and perform project operations through 25+ tools covering simulator management, building, testing, and file operations.

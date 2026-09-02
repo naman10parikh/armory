@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T22:08:58Z"
 ---
 ## What it is
 Read-only MCP server for the Daktela contact center REST API, providing 40 tools to access tickets, calls, emails, chats, contacts, CRM records, campaigns, and real-time agent status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T05:26:34Z"
 ---
 ## What it is
 Connects LLMs to a Kali Linux host over SSH for authorized penetration testing, exposing tools organized by pentest phases (recon, enumeration, exploitation) with scope guardrails.

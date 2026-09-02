@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T05:48:04Z"
 ---
 ## What it is
 MCP server for querying Kingdee Cloud K/3 data including sales orders, manufacturing orders, and material shortages.

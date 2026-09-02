@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:39:07Z"
 ---
 ## What it is
 Enables AI agents to maintain a self-hosted typed knowledge graph on Postgres and pgvector over MCP, with deduplicating writes, hybrid retrieval, and database-enforced isolation.

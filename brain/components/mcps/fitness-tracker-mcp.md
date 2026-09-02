@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:01:32Z"
 ---
 ## What it is
 Offline MCP server for logging workouts, tracking dietary macros, and retrieving daily summaries, all stored in local SQLite. Enables fitness tracking via natural language in MCP-compatible clients.

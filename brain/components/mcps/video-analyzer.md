@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T19:43:47Z"
 ---
 ## What it is
 MCP server enabling video analysis via scene detection, audio transcription, visual description, and stylistic fingerprinting, with tools for full pipeline execution and storyboard generation.

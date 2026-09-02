@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:38:08Z"
 ---
 ## What it is
 Enables electronic component search via Nexar/Octopart GraphQL API for part lookup, exact MPN search, and datasheet URL extraction.

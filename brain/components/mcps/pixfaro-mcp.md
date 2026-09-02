@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:00:12Z"
 ---
 ## What it is
 Unified MCP server for generating and editing images across multiple AI models (Nano Banana, Gemini, GPT Image) with a single prepaid API key, offering tools for image generation, editing, model listing, and balance checking.

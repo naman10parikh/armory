@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T07:44:51Z"
 ---
 ## What it is
 Consolidates git history, test results, and Copilot sessions into a searchable SQLite database for AI assistants to answer questions about development activity.

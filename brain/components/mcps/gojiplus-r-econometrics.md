@@ -8,10 +8,12 @@ source_url: https://github.com/finite-sample/rmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 211
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-31T19:15:09Z"
 ---
 ## What it is
 MCP server `R Econometrics`, catalogued on PulseMCP. Enables advanced econometric analysis by providing R-based statistical modeling capabilities for researchers and data scientists, supporting complex regression techniques, panel data modeling, and diagnostic testing across diverse research domains.

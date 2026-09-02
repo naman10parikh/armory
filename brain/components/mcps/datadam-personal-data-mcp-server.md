@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-31T02:55:38Z"
 ---
 ## What it is
 A persistent memory layer for AI tools that decouples personal data from AI's unstable memory, enabling you to mention information once and have it remembered forever across all conversations.

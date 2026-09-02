@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:17:17Z"
 ---
 ## What it is
 Turns any WordPress site into an MCP server, allowing AI clients to directly control files, database, WP-CLI, PHP, content, and more through declarative abilities without writing code.

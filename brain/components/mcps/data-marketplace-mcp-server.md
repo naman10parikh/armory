@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:26:05Z"
 ---
 ## What it is
 Enables discovery, governance, access, and publishing of data products in an internal data marketplace, with integration for Cloudera AI Workbench and Apache Atlas.

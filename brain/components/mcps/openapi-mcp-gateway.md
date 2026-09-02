@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T05:50:51Z"
 ---
 ## What it is
 Mount any OpenAPI spec as an MCP server, supporting multiple APIs with authentication and resource auto-promotion.

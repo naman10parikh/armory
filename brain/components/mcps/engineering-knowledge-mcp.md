@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T22:39:51Z"
 ---
 ## What it is
 Provides coding agents with a shared, Markdown-based engineering knowledge base to search, capture, create, and update internal conventions, API details, infrastructure configs, and development setup via lightweight MCP tools.

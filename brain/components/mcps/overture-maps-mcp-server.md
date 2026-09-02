@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-12T21:42:11Z"
 ---
 ## What it is
 An MCP server that provides AI agents with geospatial analytics by querying Overture Maps data directly from S3, enabling place analytics, building composition, land use classification, and transportation analysis.

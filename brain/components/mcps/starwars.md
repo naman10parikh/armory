@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-22T21:36:58Z"
 ---
 ## What it is
 Provides access to the SWAPI Star Wars API, enabling users to query characters, planets, films, species, vehicles, and starships with automatic pagination and caching.

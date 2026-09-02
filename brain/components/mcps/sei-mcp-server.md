@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:59:12Z"
 ---
 ## What it is
 Bridges AI agents to the Brazilian SEI system, enabling listing processes, reading documents, searching, and downloading files via session cookies.

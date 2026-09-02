@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T04:07:01Z"
 ---
 ## What it is
 A local-first Discord bridge for Codex CLI, enabling Discord-to-Codex relay, Codex-to-Discord MCP tools, and hybrid workflows with access control and attachment safety.

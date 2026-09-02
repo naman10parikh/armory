@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:48:01Z"
 ---
 ## What it is
 Enables natural-language search and retrieval of Taiwan 104 job bank listings, including job details and company-specific openings, with filters for location, salary, experience, and remote work through an MCP interface.

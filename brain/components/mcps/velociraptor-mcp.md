@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-06-28T14:15:48Z"
 ---
 ## What it is
 A proof-of-concept MCP bridge that exposes Velociraptor's forensic triage tools to LLMs, enabling natural language querying of Windows endpoints for artifacts like network connections and suspicious processes.

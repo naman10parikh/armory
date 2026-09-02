@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
+forks: 56
+pushed_at: "2025-10-18T07:18:40Z"
 ---
 ## What it is
 Claude Unified Model Context Interaction Protocol

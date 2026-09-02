@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:26:24Z"
 ---
 ## What it is
 AI-powered codebase health analysis — detects dead code, circular dependencies, coupling issues, and architectural drift. 6 MCP tools for Claude Desktop, Cursor, Windsurf, and Slack.

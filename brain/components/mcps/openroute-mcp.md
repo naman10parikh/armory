@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-31T10:25:48Z"
 ---
 ## What it is
 MCP server for planning routes (hiking, biking, driving, etc.) using the OpenRouteService API. Provides tools to find coordinates, create routes with GPX/PNG/HTML output, search POIs, and compute reachable areas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-28T01:09:35Z"
 ---
 ## What it is
 Enables searching all Claude Code conversations across projects using natural language queries and instantly provides resume commands to continue discussions.

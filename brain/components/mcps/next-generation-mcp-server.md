@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T19:34:32Z"
 ---
 ## What it is
 Enables sandboxed file operations via MCP tools, resources, and prompts, with a Claude CLI client and Groq-powered web UI for file CRUD, search, code review, and documentation generation.

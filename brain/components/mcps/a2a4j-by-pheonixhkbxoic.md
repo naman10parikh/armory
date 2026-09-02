@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 4
+pushed_at: "2025-05-25T11:38:15Z"
 ---
 ## What it is
 A Java implementation of the A2A protocol for agent-to-agent scenarios

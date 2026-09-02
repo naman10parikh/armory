@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-25T18:52:57Z"
 ---
 ## What it is
 Provides comprehensive financial data and analysis tools using Yahoo Finance, including real-time stock data, historical data with technical indicators, options chains, and financial statements.

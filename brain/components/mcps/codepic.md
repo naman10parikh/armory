@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T14:50:51Z"
 ---
 ## What it is
 Lets AI coding agents generate editable hand-drawn diagrams directly in CodePic, with support for templates and iterative updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:09:44Z"
 ---
 ## What it is
 AI-native video composition and VFX engine that exposes its capabilities as MCP tools, enabling AI agents to act as directors and create videos programmatically.

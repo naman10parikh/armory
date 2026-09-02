@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T08:01:00Z"
 ---
 ## What it is
 MCP server `Tavily Extract`, catalogued on PulseMCP. Integrates with the Tavily API to extract web page content, enabling efficient web scraping capabilities for projects requiring content extraction.

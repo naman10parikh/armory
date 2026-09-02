@@ -8,11 +8,13 @@ source_url: https://github.com/vapiai/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 27
+pushed_at: "2026-08-14T20:26:14Z"
 ---
 ## What it is
 MCP server `Vapi`, catalogued on PulseMCP. Integrates with Vapi's AI voice calling platform to manage voice assistants, phone numbers, and outbound calls with scheduling support through eight core tools for automating voice workflows and building conversational agents.

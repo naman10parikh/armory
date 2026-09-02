@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:50:18Z"
 ---
 ## What it is
 A text-adventure interpreter as an MCP server. It enables the AI to act as the player, exploring, solving puzzles, fighting trolls, and collecting treasure through tool calls.

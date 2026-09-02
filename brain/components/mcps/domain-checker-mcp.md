@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T08:32:05Z"
 ---
 ## What it is
 Enables fast domain availability checking via hybrid DNS and RDAP/WHOIS verification, with support for bulk queries and automatic name expansion across popular TLDs.

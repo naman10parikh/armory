@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T15:02:23Z"
 ---
 ## What it is
 Exposes machine-readable Japanese crypto-asset tax rules with statutory citations, tax parameters, and transition logic for AI agents.

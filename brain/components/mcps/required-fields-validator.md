@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:42:14Z"
 ---
 ## What it is
 Validates submitted fields against required field names and returns structured validation results. It is a read-only, deterministic tool that does not call external APIs or modify data.

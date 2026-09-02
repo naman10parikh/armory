@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:50:54Z"
 ---
 ## What it is
 Local-first MCP bridge for live Figma documents, enabling design inspection, editing, asset export, component authoring, and variable management through a plugin and WebSocket server without consuming Figma REST API requests.

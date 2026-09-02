@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T23:59:06Z"
 ---
 ## What it is
 Enables Claude Code to browse, create, edit, and publish Pulse workflows by exposing workflow operations as MCP tools.

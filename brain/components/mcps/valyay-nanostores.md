@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T17:59:18Z"
 ---
 ## What it is
 MCP server `Nanostores`, catalogued on PulseMCP. Nanostores state management analysis and documentation search for AI assistants.

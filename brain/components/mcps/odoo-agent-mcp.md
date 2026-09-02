@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T19:29:00Z"
 ---
 ## What it is
 A version-agnostic MCP server for Odoo that enables AI agents to interact with any Odoo app's data, schema, and source code, supporting tasks like data CRUD, schema mapping, code analysis, and feature implementation.

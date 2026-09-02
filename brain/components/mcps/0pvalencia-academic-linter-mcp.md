@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:35:13Z"
 ---
 ## What it is
 MCP server that lints academic documents (APA/structure) from Google Docs JSON, offering tools to check structure, compact headings, and find placeholders like TODO or lorem. Complements the Google Documents MCP server.

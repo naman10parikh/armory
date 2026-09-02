@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:37:35Z"
 ---
 ## What it is
 Evidence-driven quality testing for Model Context Protocol servers. It connects as a real client, captures the complete model-facing contract, identifies agent-usability risks, measures context cost, and executes only explicitly approved target calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-27T20:51:55Z"
 ---
 ## What it is
 MCP server for EasyPanel that enables AI agents to manage servers, projects, services, databases, and domains via 40 curated tools or raw tRPC access to all 347 API procedures.

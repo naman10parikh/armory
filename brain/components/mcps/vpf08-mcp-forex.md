@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T17:17:09Z"
 ---
 ## What it is
 MCP server providing tools to list, search, and manage Forex currency pairs, along with a calculator and exchange rate lookup.

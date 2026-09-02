@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T18:48:17Z"
 ---
 ## What it is
 A powerful MCP server that connects AI assistants to authoritative natural hazard data sources, enabling monitoring of earthquakes, tsunamis, volcanoes, and solar events with configurable alerts and webhooks.

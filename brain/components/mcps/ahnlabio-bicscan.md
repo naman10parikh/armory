@@ -8,10 +8,12 @@ source_url: https://github.com/ahnlabio/bicscan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-02-17T01:35:00Z"
 ---
 ## What it is
 MCP server `BICScan`, catalogued on PulseMCP. Provides a bridge to the BICScan API for assessing blockchain risk and analyzing digital assets through risk scoring and detailed holdings information

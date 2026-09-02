@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T20:13:27Z"
 ---
 ## What it is
 MCP server for Azure Service Bus that enables sending messages, inspecting queues and subscriptions, and purging test data. Complements the built-in Azure MCP server by adding write operations.

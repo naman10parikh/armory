@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T22:31:51Z"
 ---
 ## What it is
 MCP server that lets agents launch, drive, and read game instances over HTTP, with a dynamic toolset discovered from the running game.

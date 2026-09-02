@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T13:21:51Z"
 ---
 ## What it is
 Autonomous game development framework that lets AI agents program, design scenes, and run visual QA on Godot 4.x projects — all through the Model Context Protocol (MCP).

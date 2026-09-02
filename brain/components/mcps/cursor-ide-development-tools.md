@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-09T13:20:37Z"
 ---
 ## What it is
 MCP server `Cursor IDE Development Tools (Jira, GitHub, PostgreSQL)`, catalogued on PulseMCP. Provides Cursor IDE with domain-specific tools for accessing Jira, GitHub, and PostgreSQL databases through standalone TypeScript servers that enable direct interaction with development tools during AI conversations.

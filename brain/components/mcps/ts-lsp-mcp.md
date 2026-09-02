@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:32:16Z"
 ---
 ## What it is
 An MCP server that provides TypeScript 7 native language server capabilities (go to definition, find references, hover types, diagnostics) to coding agents, using the Go-based tsc compiler for fast and accurate semantic analysis.

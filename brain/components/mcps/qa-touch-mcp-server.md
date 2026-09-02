@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T05:04:57Z"
 ---
 ## What it is
 Official MCP server for QA Touch, enabling AI assistants to manage test cases, defects, test runs, and more via natural language.

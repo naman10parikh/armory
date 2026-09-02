@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:13:50Z"
 ---
 ## What it is
 A focused MCP server that provides a single web_search tool for web searches, integrating Tavily and Brave with automatic fallback and key rotation.

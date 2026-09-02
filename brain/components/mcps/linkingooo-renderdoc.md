@@ -8,10 +8,12 @@ source_url: https://github.com/linkingooo/renderdoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 153
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-03-05T18:11:24Z"
 ---
 ## What it is
 MCP server `RenderDoc`, catalogued on PulseMCP. GPU frame capture analysis using RenderDoc's Python API for graphics debugging, performance profiling, and rendering issue diagnosis.

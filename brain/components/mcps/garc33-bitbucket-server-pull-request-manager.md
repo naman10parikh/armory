@@ -8,10 +8,12 @@ source_url: https://github.com/garc33/bitbucket-server-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-06-30T14:59:27Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Integrates with Bitbucket's API to streamline pull request workflows, enabling efficient code reviews and automated PR management.

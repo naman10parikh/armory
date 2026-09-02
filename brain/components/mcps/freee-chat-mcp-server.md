@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T08:42:33Z"
 ---
 ## What it is
 Enables Claude Desktop to interact with freee accounting API for expense registration, transaction management, and receipt image processing.

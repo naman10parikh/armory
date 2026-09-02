@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-13T15:22:39Z"
 ---
 ## What it is
 Enables AI agents to perform comprehensive SEO audits on web pages, including meta tags, headings, links, images, performance, and more, via a CLI or MCP server.

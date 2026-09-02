@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 1608
+forks: 140
+pushed_at: "2025-12-25T02:10:23Z"
 ---
 ## What it is
 Coding agent with basic read, write and command line tools.

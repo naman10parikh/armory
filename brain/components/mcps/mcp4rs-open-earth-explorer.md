@@ -8,11 +8,13 @@ source_url: https://github.com/MCP4RemoteSensing/mcp4rs-open-earth
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:13:30Z"
 ---
 ## What it is
 Enables discovery, analysis, and explanation of open satellite data through MCP, with support for STAC catalogs and NASA GIBS.

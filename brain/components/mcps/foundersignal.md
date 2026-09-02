@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T20:51:14Z"
 ---
 ## What it is
 Ask Claude what SaaS ideas are worth building. Aggregates revenue data, growth signals and pain points from AppSumo, TrustMRR, Product Hunt, Indie Hackers, Reddit and more.

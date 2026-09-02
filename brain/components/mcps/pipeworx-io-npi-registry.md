@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:57Z"
 ---
 ## What it is
 MCP server `NPI Registry`, catalogued on PulseMCP. Search the CMS National Provider Identifier (NPI) Registry for US healthcare providers by name, NPI number, specialty, and location.

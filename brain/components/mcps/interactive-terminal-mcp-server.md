@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T09:34:25Z"
 ---
 ## What it is
 Provides AI agents with fully interactive terminal sessions, including TUI support, keyboard control, and screen capture across Windows, Linux, and Mac.

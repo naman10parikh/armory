@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 39638
+stars: 39680
+forks: 6240
+pushed_at: "2026-09-02T01:41:35Z"
 ---
 ## What it is
 Connect and unify data across various platforms and databases with [MindsDB as a single MCP server](https://docs.mindsdb.com/mcp/overview).

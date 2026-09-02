@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-15T06:26:54Z"
 ---
 ## What it is
 MCP server `Web to iOS Converter`, catalogued on PulseMCP. Automates web application conversion to iOS apps using Capacitor by analyzing project frameworks, detecting build configurations, and generating tailored setup guides with optimizations for Vite, Next.js, and Create React App projects.

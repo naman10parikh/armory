@@ -8,10 +8,12 @@ source_url: https://github.com/funplayai/funplay-cocos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 208
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-08-18T06:38:58Z"
 ---
 ## What it is
 MCP server `Cocos Creator`, catalogued on PulseMCP. Embedded MCP server for Cocos Creator Editor: 89 tools for AI agents to inspect and operate running Cocos projects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-02T20:22:01Z"
 ---
 ## What it is
 Provides Instagram analytics, media downloads, and search capabilities through an MCP interface for use with Claude and other MCP clients.

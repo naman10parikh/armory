@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T00:03:39Z"
 ---
 ## What it is
 Enables an infinite canvas for Codex using tldraw, with tools for canvas state, assets, images, HTML, and slide containers, all saved locally.

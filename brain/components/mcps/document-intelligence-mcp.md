@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T10:11:59Z"
 ---
 ## What it is
 Local document intelligence for AI agents — extract text, detect tables, read metadata, analyze structure, search keywords, and detect language from PDF and DOCX files. No cloud API required, no API key needed.

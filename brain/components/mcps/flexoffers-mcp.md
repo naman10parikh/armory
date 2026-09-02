@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:02:51Z"
 ---
 ## What it is
 Integrates FlexOffers API v3 as an MCP server, enabling users to manage affiliate programs, list promotions, search products, generate deeplinks, and retrieve payment reports through natural language.

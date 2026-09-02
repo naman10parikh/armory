@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T03:33:08Z"
 ---
 ## What it is
 MCP server for connecting Claude Desktop to FHIRfly healthcare reference data APIs, enabling lookup of drugs, providers, clinical codes, and more.

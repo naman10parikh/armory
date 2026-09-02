@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-31T00:06:59Z"
 ---
 ## What it is
 MCP server `Crawl4AI`, catalogued on PulseMCP. Integrates Crawl4AI's async web crawler to extract webpage content in HTML or markdown formats, capture screenshots, and perform schema-based data extraction using CSS selectors for content research and automated web monitoring.

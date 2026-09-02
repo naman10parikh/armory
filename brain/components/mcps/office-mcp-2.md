@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:16:31Z"
 ---
 ## What it is
 Automates Windows Office applications (WPS Office and Outlook) via COM automation, enabling AI assistants to perform spreadsheet, document, and email tasks.

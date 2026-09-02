@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T11:47:30Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Check app review status, read customer reviews, and download sales reports from App Store Connect.

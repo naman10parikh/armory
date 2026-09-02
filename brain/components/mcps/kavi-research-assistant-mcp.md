@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-10T13:40:09Z"
 ---
 ## What it is
 Enables AI to save, organize, search, and synthesize research materials using a local vector database with support for both OpenAI and Ollama backends.

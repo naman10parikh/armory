@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-28T08:42:35Z"
 ---
 ## What it is
 MCP server `UnityLangPX`, catalogued on PulseMCP. Multi-platform translation system that provides document and text translation through CLI, HTTP server, and Obsidian plugin interfaces with advanced terminology management, vector-based similarity search, batch processing capabilities, and intelligent caching for multilingual content creation and document localization workflows.

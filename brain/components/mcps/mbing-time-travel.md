@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T08:15:38Z"
 ---
 ## What it is
 MCP server `Time Travel`, catalogued on PulseMCP. Record, replay, and interactively debug tool call sessions between agents and servers through a transparent proxy.

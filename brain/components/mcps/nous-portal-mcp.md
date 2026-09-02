@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T01:20:21Z"
 ---
 ## What it is
 Portable, read-only MCP server for Nous Portal capabilities, providing configuration status, route derivation, and OAuth device code authentication without invoking paid tools.

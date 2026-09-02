@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T08:00:15Z"
 ---
 ## What it is
 MCP server for WeChat Mini Program debugging and automation, enabling agents to perform UI operations, screenshots, and regression testing through natural language commands.

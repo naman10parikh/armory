@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T09:50:19Z"
 ---
 ## What it is
 MCP server `CloudQuery`, catalogued on PulseMCP. Query cloud asset inventory data across AWS, Azure, GCP, and 70+ sources

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:31:45Z"
 ---
 ## What it is
 Enables agents to search, list, and read pages from a curated Markdown wiki via MCP, with live updates and tools for targeted section access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:50:18Z"
 ---
 ## What it is
 MCP server for non-custodial token swaps and honeypot/rug-pull safety checks across 8 blockchains, with free quotes and paid x402-based transaction builds and security screenings.

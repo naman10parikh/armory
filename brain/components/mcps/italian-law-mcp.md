@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T03:57:36Z"
 ---
 ## What it is
 MCP server for Italian law – indexes statutes from Normattiva such as Codice Civile, Codice Penale, and more, with EU implementation mapping.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T15:25:22Z"
 ---
 ## What it is
 A server that validates GitHub repositories against configurable rules for React applications, enabling structure, configuration, dependency, and naming checks.

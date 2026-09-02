@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T00:35:16Z"
 ---
 ## What it is
 MCP server `MCP Security Stack`, catalogued on PulseMCP. Production-grade security infrastructure with five composable MCP servers for authentication, audit logging, policy enforcement, credential management, and PII protection.

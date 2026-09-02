@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T03:12:49Z"
 ---
 ## What it is
 A collection of MCP servers that dynamically wrap existing Python SDKs (Google SecOps, SOAR, Google Cloud, Fitbit) to expose their functionality to LLMs.

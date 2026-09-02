@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-24T22:25:36Z"
 ---
 ## What it is
 MCP server that enables AI assistants to access real-time vessel tracking, port information, and maritime data through the Datalastic Marine AIS Data API.

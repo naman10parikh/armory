@@ -8,10 +8,12 @@ source_url: https://github.com/universalamateur/reclaim-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-27T08:20:01Z"
 ---
 ## What it is
 MCP server `Reclaim.ai`, catalogued on PulseMCP. Manage Reclaim.ai calendar, tasks, habits, and focus time through natural language.

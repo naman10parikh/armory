@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-05-18T11:11:58Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) Server that allows AI models to securely interact with data hosted in Azure Database for PostgreSQL. It enables natural language querying, schema exploration, and data management through MCP clients like Claude Desktop and Visual Studio Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T13:18:43Z"
 ---
 ## What it is
 Controls Aizex shared ChatGPT/Claude account pool via Playwright browser automation, exposing tools through MCP protocol for AI agents to get advanced model responses or batch generate content.

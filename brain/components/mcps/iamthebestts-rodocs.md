@@ -8,10 +8,12 @@ source_url: https://github.com/iamthebestts/rodocs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-24T02:47:58Z"
 ---
 ## What it is
 MCP server `Roblox Creator Docs`, catalogued on PulseMCP. Search Roblox Creator Hub API references and development guides.

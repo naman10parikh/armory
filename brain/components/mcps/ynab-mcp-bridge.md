@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T19:33:52Z"
 ---
 ## What it is
 Read-only MCP server for YNAB that provides tools for budgets, accounts, categories, transactions, and financial summaries via HTTP or stdio.

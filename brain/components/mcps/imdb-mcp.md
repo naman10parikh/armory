@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T12:52:05Z"
 ---
 ## What it is
 Enables semantic and similarity search across IMDB movie data using vector embeddings and PostgreSQL with pgvector, supporting traditional filters and hybrid search.

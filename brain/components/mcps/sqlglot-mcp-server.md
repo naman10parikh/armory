@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T00:27:31Z"
 ---
 ## What it is
 Provides SQL parsing, transpilation, formatting, extraction, and condition injection via MCP protocol, enabling agents to validate, analyze, and transform SQL.

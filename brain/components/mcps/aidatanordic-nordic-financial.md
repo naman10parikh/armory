@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T00:07:51Z"
 ---
 ## What it is
 MCP server `Nordic Financial`, catalogued on PulseMCP. Semantic search over Nordic company filings, reports, press releases, and macro indicators for Norway, Sweden, Denmark, and Finland.

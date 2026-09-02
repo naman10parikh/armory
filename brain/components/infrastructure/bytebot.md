@@ -8,11 +8,13 @@ source_url: https://github.com/bytebot-ai/bytebot
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 11086
+stars: 11084
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, computer-use]
+forks: 1506
+pushed_at: "2025-09-12T19:35:46Z"
 ---
 ## What it is
 Bytebot open-source computer-use agent — Docker-based Ubuntu desktop with AI-controlled mouse and keyboard; exposes an HTTP API for agents to send click, type, screenshot, and macro commands.

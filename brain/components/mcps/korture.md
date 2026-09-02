@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T07:03:37Z"
 ---
 ## What it is
 MCP server `Korture`, catalogued on PulseMCP. Analyze job descriptions with Korture's behavioral hiring platform to identify key role behaviors, assign demand levels, and generate interview questions via OAuth-authenticated MCP.

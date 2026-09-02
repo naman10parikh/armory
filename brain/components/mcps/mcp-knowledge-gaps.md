@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:04:37Z"
 ---
 ## What it is
 Identifies knowledge gaps in markdown vaults, ranks them by priority, generates research questions, and offers long-tail sampling to break confirmation bias.

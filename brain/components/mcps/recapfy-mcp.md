@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T23:52:33Z"
 ---
 ## What it is
 Exposes Recapfy's paid endpoints as MCP tools to ask questions about YouTube videos and fetch full transcripts, with automatic USDC payment on Solana per call.

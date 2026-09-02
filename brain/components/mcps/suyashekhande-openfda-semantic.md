@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-12T13:12:57Z"
 ---
 ## What it is
 MCP server `OpenFDA Semantic`, catalogued on PulseMCP. Intent-driven access to the full openFDA API ecosystem covering drugs, devices, food, and adverse event reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-27T02:21:58Z"
 ---
 ## What it is
 Provides physics simulation capabilities using PyBullet, enabling 3D physics world creation, object loading, force application, and state monitoring through MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:32:23Z"
 ---
 ## What it is
 Local RAG over hardware manuals (PDF/HTML) using ChromaDB and local embeddings, enabling Claude Code to query pinouts, registers, and schematics via a Docker container.

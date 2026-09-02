@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:11:54Z"
 ---
 ## What it is
 Read-only MCP server that exposes deterministic NTFS timestomp detection tools for autonomous forensic triage, with architectural guarantees against evidence modification.

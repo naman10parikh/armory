@@ -8,11 +8,13 @@ source_url: https://github.com/LiXia-619/qq-agent-mail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:33:57Z"
 ---
 ## What it is
 Enables natural language interaction with Tencent QQ Mail through MCP, supporting sending, reading, and managing emails securely.

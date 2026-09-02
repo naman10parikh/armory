@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:20:10Z"
 ---
 ## What it is
 Lets AI agents search travel eSIM plans by destination, get exact current prices, and hand off to a first-party checkout link without the server ever accepting email or payment credentials.

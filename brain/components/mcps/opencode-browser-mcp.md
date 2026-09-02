@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:02:40Z"
 ---
 ## What it is
 Enables AI agents to browse the web, interact with pages, fill forms, and extract data using Playwright, with 30 tools across 7 categories.

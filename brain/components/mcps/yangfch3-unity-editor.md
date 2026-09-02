@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T14:46:41Z"
 ---
 ## What it is
 MCP server `Unity Editor`, catalogued on PulseMCP. Controls a running Unity Editor instance from AI agents with 16+ built-in tools for console logs, PlayMode control, GameObject inspection, build operations, and test execution.

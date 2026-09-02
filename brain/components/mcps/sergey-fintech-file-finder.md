@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-05T10:05:33Z"
 ---
 ## What it is
 MCP server `File Finder`, catalogued on PulseMCP. Provides efficient file search and retrieval capabilities within a networked environment using TypeScript and Node.js, offering both standard and HTTP-based execution modes.

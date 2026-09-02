@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T20:28:06Z"
 ---
 ## What it is
 A domain security and privacy checker MCP server that runs locally, performing DNS, TLS, HTTP, and RDAP lookups to generate a scored report covering certificates, email authentication, DNS, and web security headers.

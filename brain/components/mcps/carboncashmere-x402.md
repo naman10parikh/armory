@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T18:59:29Z"
 ---
 ## What it is
 MCP server `x402 USDC Payments`, catalogued on PulseMCP. AI agent micropayments via x402 USDC for crypto-native tool access.

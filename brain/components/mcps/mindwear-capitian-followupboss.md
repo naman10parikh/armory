@@ -8,10 +8,12 @@ source_url: https://github.com/mindwear-capitian/followupboss-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-08-21T14:24:27Z"
 ---
 ## What it is
 MCP server `Follow Up Boss`, catalogued on PulseMCP. Integrates with Follow Up Boss CRM providing 157 tools covering all official API endpoints for contacts, deals, tasks, communication, and pipeline management.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T10:57:45Z"
 ---
 ## What it is
 MCP server `Windows Computer Use`, catalogued on PulseMCP. Control Windows desktop via MCP — mouse, keyboard, screenshots, clipboard, and application management.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
 stars: 3
+forks: 2
+pushed_at: "2026-01-04T10:19:08Z"
 ---
 ## What it is
 Local MCP server that provides structured Git repository analysis (project status, recent activity, code map, and risk hotspots) for AI coding agents.

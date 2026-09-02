@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:39Z"
 ---
 ## What it is
 Enables extracting clean, structured markdown from any URL—stripping nav, ads, and scripts—for RAG pipelines and AI research agents, with pay-per-call micropayments via x402.

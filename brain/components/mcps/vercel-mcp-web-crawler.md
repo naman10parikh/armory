@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:51:26Z"
 ---
 ## What it is
 Provides lightweight web crawling and scraping capabilities, enabling users to fetch pages as clean Markdown, recursively crawl domains, extract metadata, and perform search-and-crawl operations.

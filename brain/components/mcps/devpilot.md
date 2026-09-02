@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-12T01:27:05Z"
 ---
 ## What it is
 MCP server `DevPilot`, catalogued on PulseMCP. Automates VPS initialization and deployment workflows through SSH connections, providing tools for system setup, service installation, Nginx configuration with SSL, and GitHub CI/CD pipeline creation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T02:51:22Z"
 ---
 ## What it is
 Enables storage and semantic search of facts, and interactive 3D visualization of embeddings via MCP tools.

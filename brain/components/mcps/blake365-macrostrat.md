@@ -8,10 +8,12 @@ source_url: https://github.com/blake365/macrostrat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-09T20:02:41Z"
 ---
 ## What it is
 MCP server `Macrostrat`, catalogued on PulseMCP. Integrates the Macrostrat API to enable geological data querying and analysis for earth sciences, resource exploration, and environmental studies.

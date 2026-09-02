@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:54:52Z"
 ---
 ## What it is
 Enables cross-platform real device debugging for React Native development, supporting Android, iOS, and HarmonyOS with real-time connection status, screenshots, logs, diagnostics, evidence, and Codex context.

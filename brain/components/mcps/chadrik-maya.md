@@ -8,10 +8,12 @@ source_url: https://github.com/chadrik/maya-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-15T17:14:39Z"
 ---
 ## What it is
 MCP server `Maya`, catalogued on PulseMCP. Connects to multiple Autodesk Maya sessions through automatic discovery and command port bootstrapping, enabling Python code execution, virtual module creation, and stdout/stderr streaming for 3D modeling automation and pipeline operations.

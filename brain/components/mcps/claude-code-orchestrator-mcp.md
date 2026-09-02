@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-16T12:04:51Z"
 ---
 ## What it is
 Enables Codex to orchestrate multi-agent coding by routing tasks to local Claude Code workers via CCSwitch, managing cost and model selection for planning, execution, and review.

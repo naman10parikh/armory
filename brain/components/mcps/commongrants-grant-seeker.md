@@ -8,11 +8,13 @@ source_url: https://github.com/agilesix/cg-mcp-grant-seeker
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T16:43:41Z"
 ---
 ## What it is
 An MCP server that searches grant opportunities across multiple CommonGrants-compliant APIs from a single set of tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T08:48:56Z"
 ---
 ## What it is
 Real-time Claude.ai subscription awareness for AI coding assistants. Surfaces live utilization, forecasts limits, gates expensive operations, and measures real per-task cost.

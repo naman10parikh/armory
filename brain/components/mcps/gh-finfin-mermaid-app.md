@@ -8,10 +8,12 @@ source_url: https://github.com/finfin/mermaid-mcp-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-25T19:19:18Z"
 ---
 ## What it is
 MCP server `Mermaid App`, catalogued on PulseMCP. Renders Mermaid diagrams as interactive, zoomable UI panels inline inside Claude, VS Code, and MCP-compatible clients.

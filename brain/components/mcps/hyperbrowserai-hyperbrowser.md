@@ -8,10 +8,12 @@ source_url: https://github.com/hyperbrowserai/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 764
+stars: 789
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 73
+pushed_at: "2025-11-20T01:32:08Z"
 ---
 ## What it is
 MCP server `Hyperbrowser`, catalogued on PulseMCP. Enables web browsing capabilities through tools for content extraction, link following, and browser automation with customizable parameters for scraping, data collection, and web crawling tasks.

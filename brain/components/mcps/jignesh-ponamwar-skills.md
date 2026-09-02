@@ -8,10 +8,12 @@ source_url: https://github.com/jignesh-ponamwar/skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-29T20:14:35Z"
 ---
 ## What it is
 MCP server `Skills Registry`, catalogued on PulseMCP. Self-hostable MCP server providing a semantically-searchable agent skills registry with progressive disclosure and security scanning.

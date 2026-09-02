@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-01T03:49:00Z"
 ---
 ## What it is
 MCP server `NetBrain`, catalogued on PulseMCP. Manage network devices through SSH, Telnet, and SNMP protocols with support for configuration management, topology discovery, and real-time monitoring across Cisco and Huawei equipment

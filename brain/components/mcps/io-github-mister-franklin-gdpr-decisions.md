@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T22:09:51Z"
 ---
 ## What it is
 Provides AI-powered access to the largest EU GDPR enforcement decisions database, enabling semantic search, GDPR article lookup, and enforcement statistics across all EU/EEA Data Protection Authorities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:03:47Z"
 ---
 ## What it is
 MCP server for YouGPU REST API that enables GPU catalog browsing, instance lifecycle management (create, stop, start, delete), and balance checking.

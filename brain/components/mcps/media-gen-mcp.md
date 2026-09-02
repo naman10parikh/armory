@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-30T04:38:02Z"
 ---
 ## What it is
 MCP server for generating and editing images using OpenAI, and creating videos using OpenAI Sora and Google Veo. Enables fetching media from URLs or disk with smart output placement.

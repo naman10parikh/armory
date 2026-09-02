@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:07:01Z"
 ---
 ## What it is
 MCP server for CodeRocket Deploy providing AI-generated CI/CD workflows and AI code review as tools inside Claude Code.

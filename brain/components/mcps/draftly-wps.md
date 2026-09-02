@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:40:42Z"
 ---
 ## What it is
 AI chat sidebar inside WPS Office (Mac) that edits the live document through the real JS add-in object-model API — no keyboard/mouse simulation. Powered by the Claude Agent SDK, with streaming replies, session history, and per-document (Word/Excel/PPT) isolation.

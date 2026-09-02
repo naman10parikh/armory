@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T13:29:58Z"
 ---
 ## What it is
 MCP server `MCP Registry Search`, catalogued on PulseMCP. Search and browse every MCP server in the Model Context Protocol registry.

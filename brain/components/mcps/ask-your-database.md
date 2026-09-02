@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:17:07Z"
 ---
 ## What it is
 Enables natural language queries against a Postgres database through MCP tools for listing tables, describing schemas, and running SQL queries, with write operations blocked for safety.

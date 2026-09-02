@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T21:21:58Z"
 ---
 ## What it is
 Unofficial MCP server for Vexo analytics. Enables querying event names, counts, timelines, sessions, and recent events from Vexo Export API through natural language.

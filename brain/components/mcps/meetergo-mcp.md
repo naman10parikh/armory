@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:53:06Z"
 ---
 ## What it is
 MCP server that exposes meetergo's scheduling and CRM API as tools for AI assistants, enabling Proton Calendar-backed booking management and contact operations without Google Workspace.

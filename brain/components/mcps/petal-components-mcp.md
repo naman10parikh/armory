@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T02:59:04Z"
 ---
 ## What it is
 MCP server `Petal Components`, catalogued on PulseMCP. Provides Phoenix LiveView component schemas from petal_components to AI coding assistants.

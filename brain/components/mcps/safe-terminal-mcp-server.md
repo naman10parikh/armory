@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:10:20Z"
 ---
 ## What it is
 A secure, controlled terminal MCP server that enables executing whitelisted shell commands safely with multiple security layers.

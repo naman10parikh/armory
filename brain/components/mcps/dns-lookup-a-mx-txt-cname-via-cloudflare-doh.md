@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/dns-lookup-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5441
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:03Z"
 ---
 ## What it is
 DNS record lookup API for AI agents. Query A, AAAA, MX, TXT, CNAME, NS, SOA, and SRV records via Cloudflare DNS-over-HTTPS. Fast, reliable, privacy-preserving lookups. Tools: network_lookup_dns. Use this for domain verification, email setup debugging, infrastructure analysis, or monitoring DNS chang

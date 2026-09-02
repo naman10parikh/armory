@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:45:15Z"
 ---
 ## What it is
 Enables Claude Code sessions sharing a project root to broadcast short messages to each other via a JSONL mailbox, with sending as an MCP tool and receiving as a prompt hook.

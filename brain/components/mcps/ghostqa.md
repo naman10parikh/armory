@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-21T03:37:02Z"
 ---
 ## What it is
 MCP server `SpecterQA`, catalogued on PulseMCP. AI persona-based behavioral testing that uses vision models to navigate web apps like real users.

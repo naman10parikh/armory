@@ -8,11 +8,13 @@ source_url: https://github.com/sarthak-here/hr-assistant-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:20:28Z"
 ---
 ## What it is
 Enables local employee onboarding, leave tracking, meeting coordination, and workplace requests through any MCP-compatible client, with optional SMTP notifications.

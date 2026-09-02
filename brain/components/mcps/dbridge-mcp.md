@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T20:09:12Z"
 ---
 ## What it is
 Read-only MCP server that lets AI agents safely query SQLite, PostgreSQL, and MySQL/MariaDB. Enforces read-only transactions with column masking, row caps, query timeouts, EXPLAIN-based cost rejection, and rate limiting.

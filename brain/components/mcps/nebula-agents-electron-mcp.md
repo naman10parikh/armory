@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:04:31Z"
 ---
 ## What it is
 Embedded MCP server for Electron apps that exposes BrowserWindow surfaces and lets MCP clients drive renderers through Chrome DevTools Protocol.

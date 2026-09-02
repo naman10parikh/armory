@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-20T07:38:42Z"
 ---
 ## What it is
 Provides a user-defined list of llms.txt files and a fetch_docs tool to read documentation URLs from those files, enabling controlled and auditable documentation retrieval for MCP host applications.

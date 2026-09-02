@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:24:45Z"
 ---
 ## What it is
 An MCP server and CLI for logging food to Lose It!, enabling food search, diary management, meal logging, and weight recording via unofficial API.

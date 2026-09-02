@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-01T08:04:57Z"
 ---
 ## What it is
 MCP server `Edinburgh Festival API`, catalogued on PulseMCP. Integrates with the Edinburgh Festival API to provide searchable access to festival events and venue data with filtering by date, genre, venue, artist, and location for event planning and festival research.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T20:43:14Z"
 ---
 ## What it is
 MCP server for the Crowe Logic platform, enabling mycology expertise chat, cultivation photo analysis, grow log management, and SOP generation.

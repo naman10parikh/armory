@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T16:06:51Z"
 ---
 ## What it is
 Enables querying MySQL/MariaDB databases by alias from Claude. Supports secure connections with aliases, tags, and automatic LIMIT, and requires confirmation for destructive commands.

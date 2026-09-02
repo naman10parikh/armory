@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:09:10Z"
 ---
 ## What it is
 A Cursor plugin MCP server that enables read-only SQL queries to an FE4 Oracle database, enforcing SELECT-only access and credential pinning.

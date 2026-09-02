@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T00:36:54Z"
 ---
 ## What it is
 Enables Poke to read and update today's HabitTracker habits via Supabase, with tools for listing, completing, uncompleting habits, and viewing a dashboard summary.

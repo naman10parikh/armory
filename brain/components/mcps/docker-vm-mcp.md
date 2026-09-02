@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:10:33Z"
 ---
 ## What it is
 An MCP server that provides full lifecycle management of lightweight VMs backed by Docker containers, enabling creation, SSH access, command execution, and resource monitoring through natural language.

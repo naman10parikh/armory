@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T07:47:38Z"
 ---
 ## What it is
 Enables querying today's GitHub commits, performing local git operations (status, diff, add, commit, push), and creating GitHub issues through natural language.

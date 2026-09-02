@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-08T16:58:58Z"
 ---
 ## What it is
 Enables AI assistants to manage LM Studio models, including listing, loading, and unloading models through the LM Studio API.

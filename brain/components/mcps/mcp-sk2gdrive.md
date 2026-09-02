@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T19:52:37Z"
 ---
 ## What it is
 Enables Google Drive file operations (list, search, read, create) via MCP using OAuth2 authentication with token persistence.

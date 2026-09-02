@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T08:21:41Z"
 ---
 ## What it is
 Text to speech for MCP clients. Reads numbers, dates and order IDs correctly. 23 languages, six voices, every render watermarked. Free key with 100,000 characters, no card.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:50:27Z"
 ---
 ## What it is
 Calculates Taiyi Shenshu (太乙神數) based on a given datetime and returns structured text and a board PNG image.

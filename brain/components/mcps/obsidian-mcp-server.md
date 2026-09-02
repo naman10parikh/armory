@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T13:23:06Z"
 ---
 ## What it is
 Enables AI assistants to search, read, and append content to notes in an Obsidian vault via the MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T14:05:23Z"
 ---
 ## What it is
 MCP server for the digital3 agent protocol (d3p) — exposes all d3p services as MCP tools that any MCP client can call.

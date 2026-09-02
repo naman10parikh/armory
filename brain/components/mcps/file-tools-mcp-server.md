@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T19:11:26Z"
 ---
 ## What it is
 An MCP server that provides file and directory tools for LLMs, including project structure analysis, file reading, and project context resources, with support for .gitignore patterns.

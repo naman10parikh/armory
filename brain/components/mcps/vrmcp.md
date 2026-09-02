@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T11:02:21Z"
 ---
 ## What it is
 Enables AI to control 3D VRM models via natural language, supporting expressions, animations, and bone manipulation in real-time through a web browser.

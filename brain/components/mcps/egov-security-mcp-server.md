@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:14:50Z"
 ---
 ## What it is
 Collects, analyzes, and verifies security patches for the eGovernment framework, including PDF analysis and diff previews.

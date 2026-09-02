@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:49:27Z"
 ---
 ## What it is
 Exposes TimeTracker RX REST API as an MCP server, enabling AI tools like Claude and Cursor to manage time entries, projects, work items, and analytics with a security policy that restricts write operations to owned resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:37:15Z"
 ---
 ## What it is
 A local stdio MCP server that enables AI tools to search a self-hosted Calibre library over SSH, supporting metadata queries, full-text search, and book details.

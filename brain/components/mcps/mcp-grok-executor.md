@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T20:03:41Z"
 ---
 ## What it is
 An MCP server that turns Grok CLI into the execution agent for Claude Code, implementing an orchestrated execute-verify-autofix loop for autonomous development tasks.

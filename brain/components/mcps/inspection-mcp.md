@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T08:49:55Z"
 ---
 ## What it is
 Automates visual inspection of development servers by converting natural language test sheets into Playwright scripts and executing them repeatedly.

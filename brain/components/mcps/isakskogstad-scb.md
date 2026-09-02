@@ -8,10 +8,12 @@ source_url: https://github.com/isakskogstad/scb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-22T09:48:31Z"
 ---
 ## What it is
 MCP server `Statistics Sweden`, catalogued on PulseMCP. Access 1,200+ official Swedish statistics tables covering population, economy, environment, and labor market data

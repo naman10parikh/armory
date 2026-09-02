@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T18:56:22Z"
 ---
 ## What it is
 MCP server that gives AI coding agents a git-backed markdown wiki to read and update, enabling search, read, write, verify, ingest, promote, and lint operations on versioned knowledge documents with schema validation, staleness tracking, and contradiction detection.

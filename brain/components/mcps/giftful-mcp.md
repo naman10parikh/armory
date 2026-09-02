@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:21:41Z"
 ---
 ## What it is
 A local MCP server for managing Giftful lists and wishes programmatically, with secure authentication, credential-vault storage, and tools for lists, wishes, categories, claiming, and social browsing.

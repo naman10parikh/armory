@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:24:12Z"
 ---
 ## What it is
 Raw SQL MCP is a STDIO MCP server for executing raw SQL against SQL Server, SQLite, PostgreSQL, MySQL, and MariaDB.

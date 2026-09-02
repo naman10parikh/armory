@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:51:15Z"
 ---
 ## What it is
 Enables AI agents to query a PostgreSQL database through a small set of controlled, read-only tools for schema inspection, row lookup, and aggregate statistics.

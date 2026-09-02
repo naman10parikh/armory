@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-23T02:26:14Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Integrates with ClickUp API to enable task management within workspaces, providing tools for authentication, task retrieval, and creation with customizable properties like priorities, due dates, and tags.

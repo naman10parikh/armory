@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T06:16:13Z"
 ---
 ## What it is
 Enables candidates to apply to your open roles through an AI agent using Model Context Protocol, with Postgres, S3 storage, and an admin API for role management and applicant review.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:40:37Z"
 ---
 ## What it is
 Provides evidence-backed decision support for Codex by indexing local task history, assigning independent councillors, and verifying historical claims against local evidence.

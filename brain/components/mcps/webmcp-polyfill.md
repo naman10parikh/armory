@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:44:52Z"
 ---
 ## What it is
 Enables browsers to act as MCP servers by relaying tools, resources, and prompts to AI agents via a WebSocket-to-stdio bridge.

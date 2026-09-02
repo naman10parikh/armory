@@ -8,10 +8,12 @@ source_url: https://github.com/comfucios/second-brain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-03T09:29:06Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Connects to Obsidian vaults for intelligent search and retrieval across personal knowledge bases using hierarchical tag matching, frontmatter filtering, date range queries, and fuzzy content search with configurable weights.

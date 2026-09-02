@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:12:14Z"
 ---
 ## What it is
 MCP server that evaluates claims by mapping agreement and certainty from online sources, returning a structured contestation map with consensus, confidence, and weighted positions for agent decision-making.

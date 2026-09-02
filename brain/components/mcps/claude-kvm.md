@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-06T22:38:17Z"
 ---
 ## What it is
 MCP server that controls remote desktop environments over VNC, using a JS proxy layer and a native Swift VNC daemon.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T16:50:18Z"
 ---
 ## What it is
 Provides AI assistants with direct access to Wind Financial Terminal data, including market data, fundamentals, screening, macro economics, and portfolio management through 23 tools and a resource.

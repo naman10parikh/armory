@@ -8,11 +8,13 @@ source_url: https://github.com/shuohui-air-technology/aigc-humanizer-zh
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T10:14:02Z"
 ---
 ## What it is
 MCP server for detecting AI writing patterns in Chinese academic text and providing rewrite guidance to reduce AIGC detection rates.

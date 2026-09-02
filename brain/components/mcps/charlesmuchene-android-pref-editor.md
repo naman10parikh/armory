@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-21T04:46:16Z"
 ---
 ## What it is
 MCP server `Pref Editor (Android)`, catalogued on PulseMCP. Integrates with Android devices through ADB connectivity to read, modify, add, and delete SharedPreferences and DataStore preference files for debugging app preferences, automating testing workflows, and managing app configuration data.

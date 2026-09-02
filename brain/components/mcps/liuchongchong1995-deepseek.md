@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-27T06:20:21Z"
 ---
 ## What it is
 MCP server `DeepSeek`, catalogued on PulseMCP. Provides a bridge between AI assistants and DeepSeek's language models, enabling chat completion with automatic model fallback and context preservation through the DeepSeek API.

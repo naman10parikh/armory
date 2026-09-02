@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T11:34:17Z"
 ---
 ## What it is
 MCP server `Unity Editor`, catalogued on PulseMCP. Pure C# Unity Editor integration providing 80 built-in tools for scene management, GameObject operations, asset management, and build processes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T04:43:22Z"
 ---
 ## What it is
 Enables AI coding agents to access and manage multiple dev infrastructure providers (Vercel, GitHub, Supabase, Cloudflare, GCP) through a single MCP token and unified API.

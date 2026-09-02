@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:46:09Z"
 ---
 ## What it is
 MCP server for advanced Arabic Microsoft Word document creation, formatting, XML manipulation, and text repair with full RTL support. It enables users to generate, inspect, and modify .docx files through natural language and 13 specialized tools.

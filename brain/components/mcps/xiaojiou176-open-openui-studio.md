@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T21:43:02Z"
 ---
 ## What it is
 MCP server `OpenUI Studio`, catalogued on PulseMCP. Transforms natural-language UI briefs into React and shadcn component files with review and acceptance gates.

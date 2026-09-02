@@ -8,10 +8,12 @@ source_url: https://github.com/agenticstore/agentic-store-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T15:21:08Z"
 ---
 ## What it is
 MCP server `AgenticStore`, catalogued on PulseMCP. Open-source AI agent toolkit providing code analysis, security scanning, web search, and persistent memory tools.

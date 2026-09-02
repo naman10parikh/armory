@@ -8,10 +8,12 @@ source_url: https://github.com/yawlabs/caddy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T19:59:39Z"
 ---
 ## What it is
 MCP server `Caddy`, catalogued on PulseMCP. Manages Caddy web servers via the admin API with full coverage of config, routes, reverse proxies, TLS, PKI, metrics, and snapshots.

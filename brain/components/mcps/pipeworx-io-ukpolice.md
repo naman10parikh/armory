@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:26Z"
 ---
 ## What it is
 MCP server `UK Police`, catalogued on PulseMCP. UK police data via the Police API — query crime statistics, outcomes, stop-and-search data, and force information by location.

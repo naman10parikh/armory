@@ -8,10 +8,12 @@ source_url: https://github.com/pavelsukhachev/mcp-server-coolify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-28T03:55:03Z"
 ---
 ## What it is
 MCP server `Coolify`, catalogued on PulseMCP. Integrates with Coolify's self-hosted PaaS platform through its REST API, enabling management of applications, databases, services, servers, and deployments via natural language commands with over 40 tools for operations like creating Git-based applications, setting up databases, managing environment variables, and monitoring deployment logs.

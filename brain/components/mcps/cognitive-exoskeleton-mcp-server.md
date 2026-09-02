@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T12:30:28Z"
 ---
 ## What it is
 Builds a dynamic knowledge graph from your notes and uses LLM reasoning to discover blindspots, hidden cross-domain connections, track concept evolution, and spark creative inspiration.

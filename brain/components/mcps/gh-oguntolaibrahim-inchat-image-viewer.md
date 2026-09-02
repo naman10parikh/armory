@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-20T17:29:48Z"
 ---
 ## What it is
 MCP server `InChat Image Viewer`, catalogued on PulseMCP. View images inline in AI chat by providing a file path.

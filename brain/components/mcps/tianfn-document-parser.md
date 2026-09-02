@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-17T08:45:10Z"
 ---
 ## What it is
 MCP server `Document Parser`, catalogued on PulseMCP. Parses PDF, Word, Excel, and PowerPoint documents to Markdown format using the Niutrans document API

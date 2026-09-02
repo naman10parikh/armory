@@ -8,11 +8,13 @@ source_url: https://github.com/Sam-AEC/aec-model-bridge
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-08-26T13:58:00Z"
 ---
 ## What it is
 Open, secure runtime that puts Revit, Rhino, Navisworks, and Power BI behind one MCP call center, enabling an AI agent to orchestrate them directly instead of manually dumping data between disconnected apps.

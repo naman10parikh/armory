@@ -8,10 +8,12 @@ source_url: https://github.com/dilane-kamga/brvm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T09:55:29Z"
 ---
 ## What it is
 MCP server `BRVM`, catalogued on PulseMCP. Provides live market data from West Africa's BRVM regional stock exchange with 7 tools for quotes, company info, and market summaries.

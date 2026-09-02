@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T11:05:49Z"
 ---
 ## What it is
 Provides AI agents with access to a structured compliance dataset covering privacy and AI regulations across jurisdictions, enabling verifiable answers to regulatory questions via tools and resources.

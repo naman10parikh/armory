@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:50:41Z"
 ---
 ## What it is
 Self-hosted MCP server for storing and serving structured team knowledge, enabling AI sessions to load relevant team context without re-prompting.

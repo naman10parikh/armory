@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-05T17:29:39Z"
 ---
 ## What it is
 Unofficial MCP server implementation for Facebook Business API. Enables LLMs to manage ad campaigns and ads via natural language.

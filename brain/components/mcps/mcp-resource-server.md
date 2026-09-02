@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:54:27Z"
 ---
 ## What it is
 Serves read-mostly MCP tools across ten mock verticals and investment use cases, each backed by bundled SQLite databases, with optional proxying of investment tools to a user-supplied banking API. It enables clients to query realistic vertical data through OAuth-protected MCP endpoints over HTTP or 

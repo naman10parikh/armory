@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:14:50Z"
 ---
 ## What it is
 Enables users to visualize the impact of edits in internal documents and emails by structuring content as a graph and tracing dependency chains.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-03T18:10:20Z"
 ---
 ## What it is
 MCP server `Alpha Vantage Financial Data`, catalogued on PulseMCP. Integrates with Alpha Vantage API to provide stock quotes and historical data for financial analysis and market research tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:43:48Z"
 ---
 ## What it is
 One MCP server for Belgian public APIs. It bundles Belgian transport, official statistics, open data, addresses, weather, air quality, and geospatial services.

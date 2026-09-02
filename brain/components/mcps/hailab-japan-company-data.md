@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:14:19Z"
 ---
 ## What it is
 MCP server to search Japanese companies by corporate number or name and retrieve financial, subsidy, and procurement information from gBizINFO public data. Enables AI agents to query Japanese company data through natural language.

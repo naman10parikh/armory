@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:09:46Z"
 ---
 ## What it is
 MCP server providing 200 compressed enterprise careers with tools for listing, searching, and retrieving career profiles. Part of the MESIE Career MCP Triple Protocol.

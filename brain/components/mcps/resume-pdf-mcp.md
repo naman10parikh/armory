@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:28:27Z"
 ---
 ## What it is
 Compiles LaTeX resumes into PDFs via MCP tools, including validation, preview, template compilation, and LaTeX export, with security defaults like path isolation and no shell escapes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T06:49:00Z"
 ---
 ## What it is
 Enables AI agents to discover and recommend other agents through a searchable directory of over 50 agents across 10 categories.

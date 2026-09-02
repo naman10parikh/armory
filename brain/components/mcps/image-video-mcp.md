@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:10:21Z"
 ---
 ## What it is
 An MCP server that enables generating images via OpenAI and images/videos via Google Gemini (including Veo video generation), saving outputs to local asset folders. It integrates with Claude Code and any MCP client using your own API keys.

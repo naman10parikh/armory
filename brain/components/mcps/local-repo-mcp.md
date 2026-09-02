@@ -8,11 +8,13 @@ source_url: https://github.com/cloud-Xolt/local-repo-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:33:58Z"
 ---
 ## What it is
 Secure agent coding runtime for local Git repos with policy enforcement, RBAC, sessions, approval workflow, and sandboxed writes, optionally connectable to ChatGPT via Secure MCP Tunnel.

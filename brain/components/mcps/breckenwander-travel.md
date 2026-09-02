@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:55:25Z"
 ---
 ## What it is
 A keyless, read-only MCP connector for BreckenWander, an independent travel platform. It searches flights, hotels, and experiences at all-in prices — every mandatory tax and fee included — and returns a link to complete the booking on breckenwander.com.

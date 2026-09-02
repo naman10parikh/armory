@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:52:54Z"
 ---
 ## What it is
 MCP server for stock analysis providing 30 tools across technical analysis, Yahoo Finance, IDX/BEI, backtesting, news sentiment, and trade math, with no TradingView Desktop required and VPS compatibility.

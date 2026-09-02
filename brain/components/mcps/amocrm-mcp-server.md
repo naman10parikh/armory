@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-18T11:18:43Z"
 ---
 ## What it is
 Minimal MCP server for integrating with amoCRM (API v4): manage deals, contacts, notes, and OAuth2 authentication.

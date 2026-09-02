@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:17:41Z"
 ---
 ## What it is
 Verifies npm package names for safety, detecting typosquats and nonexistent packages before your coding agent installs them.

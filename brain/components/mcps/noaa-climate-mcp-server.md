@@ -8,11 +8,13 @@ source_url: https://github.com/cyanheads/noaa-climate-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:56:21Z"
 ---
 ## What it is
 Enables searching NOAA climate stations and datasets, and fetching historical weather observations via the Model Context Protocol (MCP).

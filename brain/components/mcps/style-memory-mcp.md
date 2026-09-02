@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:47:58Z"
 ---
 ## What it is
 A tiny local MCP server that learns a user's conversational style, catchphrases, dialect markers, emoji habits, tone preferences, and concrete collaboration preferences without storing private memories.

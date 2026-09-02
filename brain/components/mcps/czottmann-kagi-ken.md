@@ -8,10 +8,12 @@ source_url: https://github.com/czottmann/kagi-ken-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-02-15T18:15:12Z"
 ---
 ## What it is
 MCP server `Kagi Ken`, catalogued on PulseMCP. JavaScript-based Kagi search and summarization server that provides web search and document summarization capabilities through the kagi-ken package with concurrent query processing and flexible authentication options.

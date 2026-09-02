@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-18T18:14:39Z"
 ---
 ## What it is
 Enables AI agents to search, explore, and analyze Québec open data (Données Québec, Ville de Montréal, IGO) via natural language, including SQL queries, geocoding, and spatial operations.

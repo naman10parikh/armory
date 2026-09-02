@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T14:34:35Z"
 ---
 ## What it is
 MCP server `KiCad EDA`, catalogued on PulseMCP. Comprehensive KiCad 9.x integration with 39 tools for schematic editing, PCB layout, library search, design rule checking, and manufacturing file export.

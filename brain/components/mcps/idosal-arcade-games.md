@@ -8,10 +8,12 @@ source_url: https://github.com/idosal/mcp-apps-arcade
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-30T20:06:21Z"
 ---
 ## What it is
 MCP server `Arcade Games (Archive.org)`, catalogued on PulseMCP. Enables browsing and playing verified classic arcade games from archive.org including DOOM, Wolfenstein 3D, and Commander Keen directly within MCP-enabled clients.

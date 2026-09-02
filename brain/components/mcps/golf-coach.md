@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T09:34:46Z"
 ---
 ## What it is
 Analyzes your Trackman golf data to diagnose weaknesses and generate personalized practice plans with drills and progress tracking, acting as a data-driven coach.

@@ -8,11 +8,13 @@ source_url: https://github.com/vid-factory/convertagent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T15:30:01Z"
 ---
 ## What it is
 File conversion built for AI agents. CLI, REST API, and MCP server — all sharing one engine.

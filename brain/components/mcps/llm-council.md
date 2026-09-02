@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:00:28Z"
 ---
 ## What it is
 Blind multi-model councils with anonymous LLM seats and direct 1:1 chat as a local MCP server. Enables asking one question to get independent answers from multiple model CLIs, then blind scoring and reveal.

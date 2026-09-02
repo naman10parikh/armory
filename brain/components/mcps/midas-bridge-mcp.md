@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:15:32Z"
 ---
 ## What it is
 Enables Claude to directly control Midas Civil NX for bridge structural analysis, allowing users to model, apply loads, and perform analysis through natural language descriptions.

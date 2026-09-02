@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T06:50:54Z"
 ---
 ## What it is
 MCP server `Performance Co-Pilot`, catalogued on PulseMCP. Collects, archives, and analyzes system performance metrics through Performance Co-Pilot (PCP).

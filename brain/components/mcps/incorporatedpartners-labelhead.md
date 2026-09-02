@@ -8,10 +8,12 @@ source_url: https://github.com/paperclipai/paperclip
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67645
+stars: 79838
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14653
+pushed_at: "2026-09-02T03:31:16Z"
 ---
 ## What it is
 MCP server `Labelhead Artist Momentum`, catalogued on PulseMCP. Trending hip-hop artist momentum scores across four cultural dimensions.

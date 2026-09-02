@@ -8,10 +8,12 @@ source_url: https://github.com/aringad/fattureincloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-09-01T13:31:13Z"
 ---
 ## What it is
 MCP server `Fatture in Cloud`, catalogued on PulseMCP. Integrates with Fatture in Cloud to manage Italian electronic invoicing workflows including invoice creation, client data management, payment tracking, and automated compliance with Italy's SDI tax system.

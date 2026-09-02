@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T15:17:55Z"
 ---
 ## What it is
 MCP server for accessing real-time Izmir public transport data (IZBAN, ESHOT, Tram, Metro, Ferry, Train) including bus locations, schedules, and stop information.

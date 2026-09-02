@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T15:26:29Z"
 ---
 ## What it is
 Sandbox-first command safety layer for MCP-compatible coding agents, protecting commands executed through its safe_exec tool by blocking destructive operations and requiring human approval for ambiguous commands.

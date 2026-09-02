@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T05:02:29Z"
 ---
 ## What it is
 Auto-managed SPICE kernels for heliophysics missions. Enables querying spacecraft positions, trajectories, and coordinate transforms via natural language.

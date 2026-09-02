@@ -8,10 +8,12 @@ source_url: https://github.com/dstrupl/vardoger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T20:21:59Z"
 ---
 ## What it is
 MCP server `Vardoger`, catalogued on PulseMCP. Personalizes AI coding assistants by analyzing local conversation history on-device.

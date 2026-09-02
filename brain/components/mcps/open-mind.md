@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:30:24Z"
 ---
 ## What it is
 MCP server that builds a deterministic, source-traceable knowledge index of any codebase, enabling glossary lookup, code graphs, and exact-token search with every fact linked to its source file and line.

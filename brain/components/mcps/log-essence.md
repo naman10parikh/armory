@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T08:14:49Z"
 ---
 ## What it is
 Enables LLMs to analyze logs by extracting patterns, redacting secrets, and providing token-efficient summaries from files, Docker containers, or journald.

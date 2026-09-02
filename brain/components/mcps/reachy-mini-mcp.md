@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:44:47Z"
 ---
 ## What it is
 MCP server for Reachy Mini robot that exposes robot state and motion control to LLM frontends like Claude Desktop.

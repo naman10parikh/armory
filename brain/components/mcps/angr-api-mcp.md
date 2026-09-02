@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T00:06:40Z"
 ---
 ## What it is
 MCP server for angr binary analysis API workflow retrieval. Extracts real API usage patterns from angr's source code and angr-doc examples, then indexes them with semantic search so LLMs can query correct API call sequences.

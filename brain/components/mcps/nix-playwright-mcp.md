@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-26T03:16:53Z"
 ---
 ## What it is
 A Nix-wrapped version of the Playwright MCP server with Chromium from Nixpkgs, enabling browser automation on NixOS.

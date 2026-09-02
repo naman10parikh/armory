@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T14:40:00Z"
 ---
 ## What it is
 Enables AI assistants to connect to and interact with PostgreSQL, MySQL, SQLite, and MongoDB databases through natural language, supporting schema exploration, query execution, data export, and more.

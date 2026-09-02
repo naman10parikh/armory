@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:08Z"
 ---
 ## What it is
 Provides tamper-proof audit logging for AI agents using SHA-256 hash chains, integrity verification, and compliance reporting for the EU AI Act.

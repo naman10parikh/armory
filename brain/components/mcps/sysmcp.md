@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T13:11:42Z"
 ---
 ## What it is
 MCP server that exposes live host metrics (CPU, memory, processes, network) to Cursor/Claude via /proc and optional eBPF, enabling system monitoring dashboards and natural language queries.

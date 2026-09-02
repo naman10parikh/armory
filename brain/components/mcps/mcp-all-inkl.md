@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-31T14:53:51Z"
 ---
 ## What it is
 MCP server for managing All-Inkl.com web hosting via the KAS SOAP API, providing tools for domains, DNS, email, databases, cronjobs, and SSL certificates.

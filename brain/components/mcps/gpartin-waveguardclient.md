@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 4
+forks: 1
+pushed_at: "2026-04-13T16:50:53Z"
 ---
 ## What it is
 Physics-based anomaly detection via MCP. Uses Klein-Gordon wave equations on GPU to detect anomalies with high precision (avg 0.90). 9 tools: scan, fingerprint, compare, token risk, wallet profiling, volume check, price manipulation detection.

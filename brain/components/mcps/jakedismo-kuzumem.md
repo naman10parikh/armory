@@ -8,10 +8,12 @@ source_url: https://github.com/jakedismo/kuzumem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-14T21:03:35Z"
 ---
 ## What it is
 MCP server `KuzuMem`, catalogued on PulseMCP. Provides distributed graph memory storage for coding agents using KuzuDB with structured development workflow states, unified tools for architectural decisions and dependency tracking, and persistent memory across sessions for maintaining project context and decision history.

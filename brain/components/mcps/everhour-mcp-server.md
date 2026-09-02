@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-23T12:14:45Z"
 ---
 ## What it is
 Provides complete integration with the Everhour API for time tracking, project and task management, enabling AI assistants to manage productivity workflows.

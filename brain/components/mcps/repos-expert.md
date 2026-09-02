@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:25:57Z"
 ---
 ## What it is
 MCP server that studies a folder of code repositories, generates markdown documentation (architecture, interfaces, activity), and serves answers over MCP with live ripgrep search and file reads so AI assistants can query codebases and their relationships.

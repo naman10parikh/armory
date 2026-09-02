@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-28T14:27:23Z"
 ---
 ## What it is
 Enables Jira integration with dynamic configuration, time logging, task creation, issue updates, and bulk imports through natural language.

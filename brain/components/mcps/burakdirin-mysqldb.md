@@ -8,10 +8,12 @@ source_url: https://github.com/burakdirin/mysqldb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-18T00:01:16Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Enables direct SQL query execution and database connections to MySQL databases through a simple interface that returns results in JSON format.

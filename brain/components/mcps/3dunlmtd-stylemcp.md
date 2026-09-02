@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T05:05:48Z"
 ---
 ## What it is
 MCP server `StyleMCP`, catalogued on PulseMCP. Brand rules for AI outputs. Validate and rewrite text to match your brand voice.

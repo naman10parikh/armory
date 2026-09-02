@@ -8,10 +8,12 @@ source_url: https://github.com/aptro/zerodha-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-04-08T18:07:05Z"
 ---
 ## What it is
 MCP server `Zerodha`, catalogued on PulseMCP. Integrates with Zerodha trading platform to enable authentication, portfolio management, order placement, market data retrieval, and SIP setup for automated trading workflows.

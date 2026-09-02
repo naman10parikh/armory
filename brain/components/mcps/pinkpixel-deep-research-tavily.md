@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-13T01:35:24Z"
 ---
 ## What it is
 MCP server `Deep Research (Tavily)`, catalogued on PulseMCP. Enables comprehensive web research by leveraging Tavily's Search and Crawl APIs to aggregate information from multiple sources, extract detailed content, and structure data specifically for generating technical documentation and research reports.

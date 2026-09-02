@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-28T23:02:56Z"
 ---
 ## What it is
 MCP server `Sola`, catalogued on PulseMCP. Integrates with the Social Layer (Sola) platform API to retrieve event details, search events by date ranges and keywords, fetch group information, user profiles, and venue data for event discovery and community management.

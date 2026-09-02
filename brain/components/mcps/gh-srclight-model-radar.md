@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T17:46:14Z"
 ---
 ## What it is
 MCP server `Model Radar`, catalogued on PulseMCP. Pings and ranks 130+ free coding LLM models across 17 providers by latency in real-time.

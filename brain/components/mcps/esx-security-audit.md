@@ -8,10 +8,12 @@ source_url: https://github.com/qianniuspace/mcp-security-audit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-18T09:03:21Z"
 ---
 ## What it is
 MCP server `Security Audit`, catalogued on PulseMCP. Integrates with npm-audit-report and npm-registry-fetch to analyze and report potential vulnerabilities in Node.js project dependencies, offering actionable security insights for development teams.

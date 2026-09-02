@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:41:15Z"
 ---
 ## What it is
 An MCP server that gives Jan AI terminal and code execution capabilities, enabling shell commands, multi-language code execution, file manipulation, and git operations locally.

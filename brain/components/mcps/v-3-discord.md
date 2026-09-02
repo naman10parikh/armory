@@ -8,10 +8,12 @@ source_url: https://github.com/v-3/discordmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 227
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 97
+pushed_at: "2025-01-21T06:22:19Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Integrates with the Discord API to enable direct interaction with channels, supporting automated messaging and conversation management within servers.

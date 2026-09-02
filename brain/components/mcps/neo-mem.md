@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:23:00Z"
 ---
 ## What it is
 Provides persistent, graph-based memory for AI agents using Neo4j and vector embeddings, enabling semantic recall across sessions via MCP.

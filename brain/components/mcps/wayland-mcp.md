@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-09-24T09:39:07Z"
 ---
 ## What it is
 Provides screenshot, analysis, mouse and keyboard control tools for modern Linux desktops via Wayland.

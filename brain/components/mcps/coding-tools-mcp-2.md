@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:31:40Z"
 ---
 ## What it is
 Enables AI agents to develop within a local project workspace by reading and modifying files, running commands and tests, checking Git state, and persisting progress as history sessions that can be restored in later conversations.

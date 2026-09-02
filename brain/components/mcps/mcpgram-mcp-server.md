@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:56:51Z"
 ---
 ## What it is
 Model Context Protocol server for MCPGRAM that enables MCP clients to interact with connectors like GitHub, Slack, and Notion through stdio or Streamable HTTP transports.

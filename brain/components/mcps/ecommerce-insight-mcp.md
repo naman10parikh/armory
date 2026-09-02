@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:22:40Z"
 ---
 ## What it is
 An MCP server that scrapes e-commerce product and category pages into structured JSON, enabling Claude to build presentations, market analyses, and competitive product comparisons. Currently optimized for Trendyol.

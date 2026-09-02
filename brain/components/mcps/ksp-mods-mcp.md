@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T13:44:49Z"
 ---
 ## What it is
 MCP server for searching Kerbal Space Program mods from the CKAN index, with tools for mod search, recommendations, parts listing, and CKAN download cache integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-16T14:13:30Z"
 ---
 ## What it is
 Analyzes codebases to produce a persistent code knowledge graph and an MCP server with 9 tools for AI coding agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T20:10:37Z"
 ---
 ## What it is
 Local-first MCP server for semantic C# analysis, navigation, validation, and refactoring using Roslyn on real .NET workspaces.

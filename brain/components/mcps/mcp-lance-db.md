@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-02-26T04:06:25Z"
 ---
 ## What it is
 Enables storing and retrieving semantic memories using LanceDB vector database, with tools to add memories and search by similarity.

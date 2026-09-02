@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:58:40Z"
 ---
 ## What it is
 A basic MCP server for managing a todo list stored in a local JSON file, enabling task creation, completion, listing, and daily summary generation.

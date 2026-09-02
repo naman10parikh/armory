@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:51:04Z"
 ---
 ## What it is
 Provides an HTTP wrapper around the FIO Bank MCP server, enabling secure access to FIO Bank account data over HTTPS for Cursor and Railway via MCP Streamable HTTP with Bearer authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T12:20:05Z"
 ---
 ## What it is
 An MCP server that lets any MCP-capable agent spawn and drive Claude Code sessions — effectively turning Claude Code into an orchestratable sub-agent fleet.

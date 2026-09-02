@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T18:59:15Z"
 ---
 ## What it is
 Provides B2B positioning and messaging tools based on the IMPACT Framework, enabling analysis of champions, competitors, and value propositions to craft compelling messages and execute strategic audits.

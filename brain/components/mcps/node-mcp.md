@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:53:36Z"
 ---
 ## What it is
 An MCP server that offers arithmetic operations (addition and division) and current weather data from OpenWeatherMap. It serves as a learning project for building MCP servers with Node.js and TypeScript, supporting both stdio and Streamable HTTP transports.

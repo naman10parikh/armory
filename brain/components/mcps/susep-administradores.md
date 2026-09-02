@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:30Z"
 ---
 ## What it is
 Enables querying official SUSEP administrators' data via an MCP server with a single read-only tool, using hosted, pre-paid access and working across any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T15:51:02Z"
 ---
 ## What it is
 An MCP server that enables searching across multiple RSS feed sources simultaneously, with support for extensible feed sources and both STDIO and HTTP modes.

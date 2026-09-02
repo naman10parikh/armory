@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T12:19:34Z"
 ---
 ## What it is
 Relay MCP server enabling synchronous multi-turn communication between Hermes agents, allowing one agent to delegate tasks and await replies without third-party dependencies.

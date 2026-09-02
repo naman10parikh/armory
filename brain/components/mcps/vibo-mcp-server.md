@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:03:36Z"
 ---
 ## What it is
 Provides persistent memory (L1/L2/L3 encrypted), web-search savings, and thread memory for AI agents, enabling token savings and context retention across MCP clients.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 38
+forks: 4
+pushed_at: "2026-08-23T16:21:53Z"
 ---
 ## What it is
 Native macOS markdown preview app with MCP server. Open and render Markdown files in MarkView directly from AI assistants via `npx mcp-server-markview`.

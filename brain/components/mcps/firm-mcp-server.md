@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T09:02:58Z"
 ---
 ## What it is
 Python MCP server that bridges VS Code Copilot agents to the Firm Gateway ecosystem.

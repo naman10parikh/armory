@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T17:38:18Z"
 ---
 ## What it is
 A basic MCP server for daily notes, currently exposing a hello world prompt and tool, deployable to Vercel and installable as a plugin for Claude Code and Codex.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-02T21:25:12Z"
 ---
 ## What it is
 Enables running a remote MCP server on Cloudflare Workers with OAuth login, allowing AI clients like Claude to interact with tools via SSE.

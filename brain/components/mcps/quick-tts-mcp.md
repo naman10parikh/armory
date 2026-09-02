@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T10:24:23Z"
 ---
 ## What it is
 Provides text-to-speech functionality using OpenAI's TTS API, enabling text-to-speech conversion, voice listing, and model listing.

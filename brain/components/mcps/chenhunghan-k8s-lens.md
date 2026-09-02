@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-12T21:18:38Z"
 ---
 ## What it is
 MCP server `Kubernetes Lens`, catalogued on PulseMCP. Bridges Claude with the Kubernetes Lens desktop application through Playwright automation, enabling cluster analysis and management via UI interactions and console log capture.

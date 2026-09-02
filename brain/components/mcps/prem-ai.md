@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-10T04:08:47Z"
 ---
 ## What it is
 MCP server `Prem AI`, catalogued on PulseMCP. Provides direct access to Prem AI's chat completions and RAG capabilities through tools for chat interactions, document uploads, and template-based prompting for knowledge retrieval and contextual responses.

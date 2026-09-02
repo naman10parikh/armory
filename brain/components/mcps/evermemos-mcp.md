@@ -8,11 +8,13 @@ source_url: https://github.com/tt-a1i/evermemos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-09T13:52:17Z"
 ---
 ## What it is
 Long-term memory for AI coding assistants. Remembers context once and recalls it across sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T10:03:07Z"
 ---
 ## What it is
 MCP server for Microsoft SQL Server enabling safe read-only queries, schema discovery, and natural-language query via LangChain.

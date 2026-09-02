@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-15T22:00:24Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Enables secure interaction with specified directories on a user's system through a command-line interface for file management and system automation tasks.

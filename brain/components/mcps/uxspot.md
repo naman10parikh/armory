@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:01:35Z"
 ---
 ## What it is
 A remote MCP server exposing uxspot.io's curated UX glossary, AI tools directory, checklists, and Learn UX curriculum as callable tools. Enables AI assistants to search for UX terms, tools, and checklists via natural language.

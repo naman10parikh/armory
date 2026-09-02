@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-24T04:05:21Z"
 ---
 ## What it is
 MCP server `Chrome Browser Automation`, catalogued on PulseMCP. Enables AI-driven web automation through Chrome browser integration for tasks like navigation, interaction, form filling, and content extraction via WebSocket protocol.

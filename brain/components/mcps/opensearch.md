@@ -8,10 +8,12 @@ source_url: https://github.com/opensearch-project/project-website
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 545
+pushed_at: "2026-08-24T17:56:34Z"
 ---
 ## What it is
 MCP server `OpenSearch`, catalogued on PulseMCP. Central documentation hub for the OpenSearch project providing comprehensive artifact listings, community resources, event calendars, and project governance information with automated content management workflows.

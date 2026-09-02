@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:46:56Z"
 ---
 ## What it is
 Enables sales data analysis from CSV files using MCP tools, resources, and prompts, including metrics like revenue, profit, top products, and monthly trends.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T10:58:58Z"
 ---
 ## What it is
 Enforces a structured planning-before-building workflow for AI coding agents via an MCP server, maintaining a project diary and protocol to ensure agents understand context and success criteria.

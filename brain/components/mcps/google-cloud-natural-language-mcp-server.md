@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-22T22:35:32Z"
 ---
 ## What it is
 Enables Claude to analyze sentiment, extract entities, classify content, and analyze syntax via Google Cloud Natural Language API.

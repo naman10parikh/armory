@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T00:27:56Z"
 ---
 ## What it is
 A self-hosted MCP server that proxies MCP clients to Power BI, using your own Entra tenant and Azure subscription. It enables DAX queries, workspace listing, and dataset management while preserving user-specific row-level security.

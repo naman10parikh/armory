@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-06T08:06:49Z"
 ---
 ## What it is
 Integrates nb command-line note-taking with Claude Code, enabling adding, listing, searching, and showing notes organized by project directory.

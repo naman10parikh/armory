@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:31:54Z"
 ---
 ## What it is
 A local MCP server giving Claude access to Trimble Connect, with 40 tools for projects, folder trees, files, versions, members, groups, and permissions via the Core API v2.

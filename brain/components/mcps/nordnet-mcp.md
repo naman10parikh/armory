@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:54:53Z"
 ---
 ## What it is
 Exposes Nordnet's public market data (quotes, charts, news, trades, profiles, FX) via MCP, requiring no API key or authentication.

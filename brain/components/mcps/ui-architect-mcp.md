@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T13:48:30Z"
 ---
 ## What it is
 Enables AI assistants to generate production-ready, professional UI design systems and components from simple descriptions, with real images, animated components, and automated quality checks.

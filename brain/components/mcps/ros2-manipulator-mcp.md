@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:01:43Z"
 ---
 ## What it is
 This MCP server enables inspecting ROS 2 manipulators, computing kinematics, planning motion, and managing primitive MoveIt planning-scene objects via a typed API, with no physical execution support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:04:55Z"
 ---
 ## What it is
 Enables automated testing and demo video creation using Playwright, with login, session orchestration, narration, and video compilation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T11:32:39Z"
 ---
 ## What it is
 Enables read/write access to Apple Calendar on macOS by bypassing permission restrictions via JXA scripts, allowing users to manage calendar events through natural language.

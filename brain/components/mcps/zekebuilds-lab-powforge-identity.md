@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T02:33:08Z"
 ---
 ## What it is
 MCP server `PowForge Identity`, catalogued on PulseMCP. Exposes chaintip-anchored Depth-of-Identity scoring for Nostr public keys, with L402 Lightning-priced lookups and offline Schnorr certificate verification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-20T08:19:59Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides web scraping capabilities using the ScrapingBee API, allowing users to extract structured data from web pages using CSS/XPath selectors and other features.

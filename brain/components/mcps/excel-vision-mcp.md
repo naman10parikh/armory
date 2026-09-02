@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-31T09:33:53Z"
 ---
 ## What it is
 Enables AI agents to read Excel files with full content extraction, including embedded images, cell data, formulas, and merged cells, returning multimodal content for vision-capable models.

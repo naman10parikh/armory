@@ -8,11 +8,13 @@ source_url: https://github.com/RatulMaharaj/viberoom
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:59:01Z"
 ---
 ## What it is
 Agent-driven RAW photo manager and non-destructive editor with Lightroom-style library and develop tools, controllable via MCP and REST.

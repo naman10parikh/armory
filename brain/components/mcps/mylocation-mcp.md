@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-02T18:23:10Z"
 ---
 ## What it is
 Provides location information from coordinates or IP addresses using IPInfo.io, with a health check endpoint.

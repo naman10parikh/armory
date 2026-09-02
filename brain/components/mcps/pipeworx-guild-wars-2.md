@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:11:53Z"
 ---
 ## What it is
 MCP server `Pipeworx Guild Wars 2`, catalogued on PulseMCP. Access Guild Wars 2 public game data including worlds, items, achievements, and commerce.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T01:35:35Z"
 ---
 ## What it is
 Enables scraping and comparison of LLM inference pricing from multiple providers like Cloudrift, DeepInfra, Fireworks, and Groq, storing results in a SQLite database.

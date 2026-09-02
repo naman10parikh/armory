@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:05:11Z"
 ---
 ## What it is
 Enables checking domain name availability and pricing, and provides a registration link. Read-only: no purchases in chat.

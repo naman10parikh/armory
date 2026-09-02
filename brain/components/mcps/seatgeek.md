@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:35Z"
 ---
 ## What it is
 MCP server `SeatGeek`, catalogued on PulseMCP. SeatGeek event and ticket search via a Pipeworx-hosted MCP endpoint.

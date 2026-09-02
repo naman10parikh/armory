@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T00:33:25Z"
 ---
 ## What it is
 Provides real-time and historical crypto market data via WebSocket and REST for MCP clients, supporting multiple exchanges, 73 technical indicators, and advanced chart analysis tools.

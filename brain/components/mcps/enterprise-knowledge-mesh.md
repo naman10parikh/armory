@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:31:18Z"
 ---
 ## What it is
 Enables AI agents to query structured knowledge across enterprise domains (legal, HR, compliance) with metadata-driven filtering and TF-IDF ranking.

@@ -8,10 +8,12 @@ source_url: https://github.com/thomasmarches/substrate-mcp-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-12T10:56:46Z"
 ---
 ## What it is
 MCP server `Substrate Blockchain`, catalogued on PulseMCP. Enables direct interaction with Substrate blockchain networks for querying account balances, accessing storage, submitting transactions, and retrieving blockchain data with optional transaction signing capabilities.

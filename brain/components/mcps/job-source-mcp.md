@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T03:20:47Z"
 ---
 ## What it is
 Searches job listings from Taiwanese job boards (104 and Yourator) and returns normalized results.

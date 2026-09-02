@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T12:17:46Z"
 ---
 ## What it is
 An MCP server for programmatic video editing using ffmpeg, enabling draft creation and refinement via natural language.

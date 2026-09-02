@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:45:26Z"
 ---
 ## What it is
 Postfader is an AI copilot for FL Studio. It lets MCP clients inspect running projects, measure bounces, and make verified mixer and plug-in changes on macOS.

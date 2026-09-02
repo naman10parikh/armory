@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T00:11:05Z"
 ---
 ## What it is
 MCP server `Schwab Market Data`, catalogued on PulseMCP. Unofficial MCP server for Charles Schwab Market Data API with 14 tools for quotes, price history, option chains, and market hours.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-09T03:52:31Z"
 ---
 ## What it is
 MCP server `MariaDB Cloud Hybrid RAG Search`, catalogued on PulseMCP. Combines MariaDB's native vector search with real-time web search through Brave API integration, enabling hybrid retrieval workflows that query both internal knowledge bases and external web results simultaneously.

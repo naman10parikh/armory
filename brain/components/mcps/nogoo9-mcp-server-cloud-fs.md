@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T16:48:07Z"
 ---
 ## What it is
 A cloud replacement for mcp-server-filesystem that provides 30 tools for S3, Azure Blob, and Google Cloud Storage, deployable locally via STDIO or remotely over HTTP/WebSocket with OAuth 2.1 authentication.

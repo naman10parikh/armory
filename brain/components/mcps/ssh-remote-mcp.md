@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T03:33:49Z"
 ---
 ## What it is
 A secure SSH-based MCP server for diagnosing remote servers. It allows AI agents to execute read-only commands and read files automatically, while requiring user confirmation for write operations.

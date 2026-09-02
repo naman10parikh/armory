@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T17:28:28Z"
 ---
 ## What it is
 MCP server `Angel One SmartAPI`, catalogued on PulseMCP. Integrates Angel One SmartAPI for trading operations, portfolio management, and market data access via natural language.

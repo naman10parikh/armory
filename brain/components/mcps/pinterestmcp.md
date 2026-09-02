@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:51:27Z"
 ---
 ## What it is
 Read-only MCP server for exposing Pinterest boards, sections, pins, and imagery as a visual reference library. Enables ChatGPT and other clients to list, search, and retrieve Pinterest content through natural language.

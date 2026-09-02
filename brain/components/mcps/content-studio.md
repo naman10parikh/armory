@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:09:03Z"
 ---
 ## What it is
 MCP server for content-studio, enabling AI agents to manage content ideas, channels, personas, and drafts with approval-based edits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-16T01:35:49Z"
 ---
 ## What it is
 MCP server that enables AI agents to generate, verify, and set up Starship configurations for the Hyperweb platform.

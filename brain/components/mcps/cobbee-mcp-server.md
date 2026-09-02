@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T15:28:17Z"
 ---
 ## What it is
 Enables AI agents to manage creator profiles, sell digital products, and make USDC payments on Base using the x402 payment protocol through the Cobbee platform.

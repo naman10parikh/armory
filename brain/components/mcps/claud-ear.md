@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T00:17:55Z"
 ---
 ## What it is
 An MCP server that gives AI agents the ability to listen to and understand music/audio files, enabling semantic analysis, stem separation, lyrics transcription, and signal processing via tool calls.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-10T07:56:09Z"
 ---
 ## What it is
 MCP server `Git-Spice Documentation Search`, catalogued on PulseMCP. Provides instant access to git-spice documentation within your IDE, enabling real-time searching and automatic assistance for developers working with git-spice commands and usage examples.

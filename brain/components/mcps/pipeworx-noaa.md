@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T16:58:26Z"
 ---
 ## What it is
 MCP server `NOAA Weather`, catalogued on PulseMCP. NOAA National Weather Service forecasts, alerts, and observation station data for US locations.

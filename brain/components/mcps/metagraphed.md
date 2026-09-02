@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 93
+pushed_at: "2026-09-01T22:58:52Z"
 ---
 ## What it is
 MCP server that enables AI agents to explore Bittensor subnets, check their health and economics, and discover their public APIs and schemas.

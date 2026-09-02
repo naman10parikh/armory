@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T03:35:14Z"
 ---
 ## What it is
 Audits AI agent skills for safety using static, semantic, adversarial, and supply-chain analysis, providing scores and risk flags. Can be run via CLI, CI, or as an MCP tool from Claude Code, Cursor, and Codex.

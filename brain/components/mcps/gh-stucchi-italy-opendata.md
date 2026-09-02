@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T11:12:03Z"
 ---
 ## What it is
 MCP server `Italy Open Data`, catalogued on PulseMCP. Italian open data for municipalities, provinces, regions, postal codes, and coordinates.

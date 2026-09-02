@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T15:19:30Z"
 ---
 ## What it is
 MCP server for WeChat PC automation, enabling message sending, voice/video calls, and AI-powered listening through Cursor or WorkBuddy.

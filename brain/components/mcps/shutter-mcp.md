@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:50:50Z"
 ---
 ## What it is
 A local, read-only MCP server that lets AI agents inspect and analyze photo libraries by scanning files, aggregating EXIF stats, finding duplicates, scoring blur, and generating cull reports without uploading any data.

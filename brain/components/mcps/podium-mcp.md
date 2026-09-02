@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-30T16:04:55Z"
 ---
 ## What it is
 One MCP endpoint, 43 tools for iOS-simulator E2E — native UI automation, Maestro flows, trustworthy oracle-ladder assertions, WebView DOM + network (JSON/HAR), and React Native debugging (Metro logs/network/state). macOS + Xcode.

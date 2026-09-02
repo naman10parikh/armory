@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T10:03:41Z"
 ---
 ## What it is
 Enables enterprise-grade OneTick tick data analytics with 18 tools for market data retrieval, metadata discovery, and analytics computations across 200+ global exchanges.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-01T23:27:54Z"
 ---
 ## What it is
 An MCP server that enables managing podcasts through the Podbean API via natural language conversations, including episode management, analytics, and podcast information retrieval.

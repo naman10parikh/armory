@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T16:27:18Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for ERPNext - manage timesheets, leave applications, projects, and software releases via Claude, Gemini, or any MCP-compatible AI assistant.

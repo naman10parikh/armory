@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:10:41Z"
 ---
 ## What it is
 Exposes a RAG agent built with LangGraph, enabling retrieval-augmented question answering over a PostgreSQL/pgvector corpus via the MCP protocol.

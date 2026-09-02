@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:28:18Z"
 ---
 ## What it is
 MCP server for LeekWars game enabling AI management, fight operations, item handling, and real-time socket communication via authenticated session.

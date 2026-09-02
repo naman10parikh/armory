@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:35:08Z"
 ---
 ## What it is
 Provides an AI agent with a fixed, isolated Linux desktop workspace, enabling bounded screen capture, input control, and application launching via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:28:53Z"
 ---
 ## What it is
 Fetches GitHub Code Scanning alerts and applies minimal local patches to fix vulnerabilities, without creating branches, commits, or PRs.

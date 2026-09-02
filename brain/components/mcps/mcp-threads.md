@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:42:35Z"
 ---
 ## What it is
 MCP server for Meta's Threads API that enables publishing posts and reply chains, reading timelines and insights, and managing long-lived credentials with proactive refresh and safety checks.

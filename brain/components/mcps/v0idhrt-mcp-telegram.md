@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T17:41:00Z"
 ---
 ## What it is
 MCP server `MCP Telegram`, catalogued on PulseMCP. Remote control Claude Code sessions via Telegram with tool approval gating, task monitoring, and bidirectional file transfer.

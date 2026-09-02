@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:16:14Z"
 ---
 ## What it is
 MCP server for Pi-hole v6 that enables management of blocklists, DNS blocking, domain allow/deny lists, and query diagnostics through natural language.

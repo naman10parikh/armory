@@ -8,10 +8,12 @@ source_url: https://github.com/rikouu/search-stack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-07T20:50:24Z"
 ---
 ## What it is
 MCP server `Search Stack`, catalogued on PulseMCP. Combines multiple search providers with headless browser rendering, cookie management, and proxy routing for web content extraction.

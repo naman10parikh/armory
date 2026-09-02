@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T09:28:07Z"
 ---
 ## What it is
 An MCP server for querying the Qianxin Hunter network asset mapping platform, enabling asset search, batch queries, and export tasks.

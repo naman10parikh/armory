@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T14:39:18Z"
 ---
 ## What it is
 An MCP server that enables LLMs to interact with NEXT structured data, providing tools for retrieving highlights and clusters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:44:04Z"
 ---
 ## What it is
 Enables conversational assessment and migration of Domo estates to Databricks, allowing AI clients to discover, analyze, and transpile Domo assets into Databricks pipelines.

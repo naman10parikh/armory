@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T04:51:56Z"
 ---
 ## What it is
 MCP server `PixelVault`, catalogued on PulseMCP. Community MCP integration for PixelVault, an AI-native marketplace for searching and licensing pre-cleared media assets.

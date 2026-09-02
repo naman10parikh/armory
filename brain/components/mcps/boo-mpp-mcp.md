@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:27:05Z"
 ---
 ## What it is
 MCP server enabling AI agents to access crypto and web3 data via pay-per-call on the MPP/Tempo rail (USDC.e). It includes unique tools like Vietnamese crypto news and company registry lookup, with built-in spend caps and no API key needed.

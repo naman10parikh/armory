@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T07:51:08Z"
 ---
 ## What it is
 Provides read-only SQL Server health diagnostics (server health, blocking queries, missing indexes) via MCP, with a GUI installer that automatically configures AI clients like Claude Desktop.

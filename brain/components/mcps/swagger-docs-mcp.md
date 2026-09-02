@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:32:39Z"
 ---
 ## What it is
 Connects AI agents with Swagger/Knife4j API documentation, enabling real-time retrieval, search, and structured understanding of API interfaces, parameters, and schemas.

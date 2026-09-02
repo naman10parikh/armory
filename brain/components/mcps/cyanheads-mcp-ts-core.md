@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 27
+pushed_at: "2026-08-21T07:51:54Z"
 ---
 ## What it is
 A TypeScript framework for building MCP servers with declarative tool, resource, and prompt definitions, built-in auth, multi-backend storage, and observability.

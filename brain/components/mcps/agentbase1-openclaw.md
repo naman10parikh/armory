@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-17T11:11:40Z"
 ---
 ## What it is
 MCP server `OpenClaw Agent Instruction Registry`, catalogued on PulseMCP. Search and retrieve agent instruction files including system prompts, skills, and workflows.

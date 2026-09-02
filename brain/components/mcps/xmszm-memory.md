@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T08:36:12Z"
 ---
 ## What it is
 Multi-user, file-backed MCP memory server enabling isolated namespaces and persistent memory across sessions and AI clients.

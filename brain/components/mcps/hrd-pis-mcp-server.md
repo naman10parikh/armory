@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T07:48:54Z"
 ---
 ## What it is
 Enables AI assistants to interact with the HRD-PIS API for HR profile management, including authentication and various HR operations.

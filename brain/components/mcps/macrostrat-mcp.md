@@ -8,11 +8,13 @@ source_url: https://github.com/blake365/macrostrat-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8285
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 7
+pushed_at: "2026-08-09T20:02:41Z"
 ---
 ## What it is
 Explore global geologic data to answer questions about bedrock, formations, ages, and stratigraphy. Retrieve units, columns, minerals, timescales, and definitions for any location to build accurate geological context. Generate geology map tiles for quick visualization of areas of interest.

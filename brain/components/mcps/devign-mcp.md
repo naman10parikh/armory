@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T11:10:34Z"
 ---
 ## What it is
 Enables any AI model to create, read, and edit Figma designs in real time through the Model Context Protocol.

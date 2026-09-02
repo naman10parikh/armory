@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T02:15:11Z"
 ---
 ## What it is
 MCP server for local Ollama vision analysis, enabling text-only agents like Claude Code to inspect images via a single tool. Processes images locally with Ollama, keeping image bytes on the machine and returning text reports.

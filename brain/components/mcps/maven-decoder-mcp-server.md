@@ -8,11 +8,13 @@ source_url: https://github.com/salitaba/maven-decoder-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-10T11:43:37Z"
 ---
 ## What it is
 A comprehensive MCP server for analyzing Maven jar files in the local repository, enabling AI agents to understand dependencies, analyze bytecode, and extract source code.

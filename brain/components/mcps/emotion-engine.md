@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-29T13:22:57Z"
 ---
 ## What it is
 Local-first stdio MCP server for agent relationship-continuity state: PAD mood, affective pulse, trust, decay, and boundary signals kept beside factual memory.

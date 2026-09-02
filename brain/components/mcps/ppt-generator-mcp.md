@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:05:45Z"
 ---
 ## What it is
 MCP server that converts HTML templates into deliverable pages (PPT/proposals/solutions) with 7 atomic tools for template selection, content filling, icon rendering, image generation, page assembly, and quality validation.

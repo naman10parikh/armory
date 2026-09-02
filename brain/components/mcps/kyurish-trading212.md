@@ -8,10 +8,12 @@ source_url: https://github.com/kyurish/trading212-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-20T07:45:33Z"
 ---
 ## What it is
 MCP server `Trading212`, catalogued on PulseMCP. Interact with the Trading 212 API for portfolio management, orders, pies, dividends, and analytics.

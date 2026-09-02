@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T07:34:12Z"
 ---
 ## What it is
 A local MCP server that adds computer-vision tools to coding agents and models that do not support native image input, using Codex OAuth credentials and the ChatGPT/Codex Responses backend.

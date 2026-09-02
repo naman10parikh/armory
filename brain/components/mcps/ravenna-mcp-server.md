@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T06:02:13Z"
 ---
 ## What it is
 Allows LLMs to create, update, and retrieve tickets directly from the Ravenna help desk platform.

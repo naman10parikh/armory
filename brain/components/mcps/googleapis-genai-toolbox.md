@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
-stars: 16246
+stars: 16293
+forks: 1706
+pushed_at: "2026-09-02T03:30:22Z"
 ---
 ## What it is
 Open source MCP server specializing in easy, fast, and secure tools for Databases.

@@ -8,10 +8,12 @@ source_url: https://github.com/mightydillah/apple-doc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 617
+stars: 632
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-05-13T18:22:19Z"
 ---
 ## What it is
 MCP server `Apple Developer Documentation`, catalogued on PulseMCP. Provides seamless access to Apple Developer Documentation with smart search capabilities and wildcard pattern support for iOS, macOS, SwiftUI, and UIKit development, featuring priority-based framework searching and intelligent caching for efficient API discovery and symbol documentation retrieval.

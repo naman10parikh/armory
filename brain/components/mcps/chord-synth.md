@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T04:20:28Z"
 ---
 ## What it is
 Generates chord progression WAV files with 28 presets, 22 arpeggio patterns, 7 instruments, and drum tracks via MCP tools like generate_wav and list_options.

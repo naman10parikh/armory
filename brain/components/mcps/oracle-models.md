@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T00:35:24Z"
 ---
 ## What it is
 Classifies development task complexity (LIGHT/MEDIUM/HEAVY) and recommends the most cost-efficient AI model per provider, enabling optimized model selection for coding tasks.

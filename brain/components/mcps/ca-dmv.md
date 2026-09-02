@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:03Z"
 ---
 ## What it is
 Access California DMV data on vehicle registrations, EV adoption, field offices, forms, insurer NAIC codes, and driver licenses by county.

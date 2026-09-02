@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T00:32:24Z"
 ---
 ## What it is
 A curriculum that teaches AI agents how to spend their own money. Sixteen lessons from "what is a wallet" to your first x402 purchase. Teacher, not butler — never signs, pays, or holds keys.

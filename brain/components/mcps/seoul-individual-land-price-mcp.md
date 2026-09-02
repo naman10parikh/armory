@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:01:00Z"
 ---
 ## What it is
 MCP server providing Seoul's individual publicly announced land prices via Seoul Open Data Plaza, allowing queries by district, year, and optional land parcel filters, with Korean language support.

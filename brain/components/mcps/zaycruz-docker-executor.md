@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-11T20:18:29Z"
 ---
 ## What it is
 MCP server `Docker Executor`, catalogued on PulseMCP. Provides a secure Docker-based environment for executing code in isolated containers, enabling safe running of commands and scripts in any language with robust error handling and resource management.

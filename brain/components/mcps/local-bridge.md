@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:40:34Z"
 ---
 ## What it is
 Connects local tools (browser, shell) to a remote MCP server via reverse-MCP, enabling the server agent to control your local browser and execute shell commands.

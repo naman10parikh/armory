@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T17:59:05Z"
 ---
 ## What it is
 MCP server `DeepL Translator`, catalogued on PulseMCP. Integrates with DeepL API to provide high-quality text translation between multiple languages with comprehensive error handling and request validation

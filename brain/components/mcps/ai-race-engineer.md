@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:34:58Z"
 ---
 ## What it is
 MCP server that provides F1 telemetry analysis, tyre degradation modeling, and pit strategy recommendations, delivering race engineer-style calls grounded in real data. It exposes tools for degradation fits, fuel correction, and strategy reasoning via LangGraph.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:01:14Z"
 ---
 ## What it is
 Enables AI to read-only access Apple Health data (current status, sleep, trends) via a Cloudflare-deployed MCP server, using iPhone shortcuts to sync data.

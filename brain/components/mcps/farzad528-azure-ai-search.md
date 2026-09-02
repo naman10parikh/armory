@@ -8,10 +8,12 @@ source_url: https://github.com/farzad528/mcp-server-azure-ai-agents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-03-18T16:45:13Z"
 ---
 ## What it is
 MCP server `Azure AI Search`, catalogued on PulseMCP. Integrates with Azure AI Search to enable keyword, vector, and hybrid search capabilities for retrieving information from search indexes in readable markdown format.

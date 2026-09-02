@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T23:23:10Z"
 ---
 ## What it is
 Bridges multiple lyrics providers (LRCLIB, Genius, Musixmatch, Melon) into a single toolchain accessible via MCP, HTTP, or CLI.

@@ -8,10 +8,12 @@ source_url: https://github.com/sicks3c/hackerone-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-04-01T16:38:12Z"
 ---
 ## What it is
 MCP server `Sicks3c HackerOne`, catalogued on PulseMCP. Access your HackerOne reports, programs, earnings, and scope data through the HackerOne API.

@@ -8,11 +8,13 @@ source_url: https://github.com/jdshfhds/northcinder
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1207
+stars: 1219
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-22T12:11:30Z"
 ---
 ## What it is
 NorthCinder is an MCP server that enables AI agents to compare products against a brief, rank them with explanations, and support approved checkout, all while running locally with privacy controls.

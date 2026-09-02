@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:22:12Z"
 ---
 ## What it is
 Local-first shared memory and task coordination for AI coding agents. One Go binary, MCP server, markdown files you own. Hooks for Claude Code and Codex CLI (and their desktop apps).

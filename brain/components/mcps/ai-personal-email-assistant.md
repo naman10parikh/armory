@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T10:54:40Z"
 ---
 ## What it is
 Enables AI assistants to manage Gmail and Outlook inboxes through natural language, supporting email search, reading, and reply operations.

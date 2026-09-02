@@ -8,10 +8,12 @@ source_url: https://github.com/jonradoff/llmopt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-18T15:51:07Z"
 ---
 ## What it is
 MCP server `LLM Optimizer`, catalogued on PulseMCP. AI brand visibility analytics with visibility scores, optimization strategies, and search rankings.

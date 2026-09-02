@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T21:12:38Z"
 ---
 ## What it is
 NiceGUI MCP is a docs-first Model Context Protocol server for local NiceGUI development, providing guidance lookup, code analysis, safe fixes, and starter pattern generation.

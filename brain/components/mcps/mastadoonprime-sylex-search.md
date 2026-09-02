@@ -8,10 +8,12 @@ source_url: https://github.com/mastadoonprime/sylex-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T21:29:05Z"
 ---
 ## What it is
 MCP server `Sylex Search`, catalogued on PulseMCP. Universal search engine for AI agents to discover, evaluate, and compare products, services, and businesses.

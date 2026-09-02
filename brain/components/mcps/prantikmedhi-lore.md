@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-24T13:05:01Z"
 ---
 ## What it is
 MCP server `Lore`, catalogued on PulseMCP. Automates NotebookLM workflows to transform raw sources into cited reports, PPTX decks, and study packs via MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-27T05:27:48Z"
 ---
 ## What it is
 A backend server that interacts with the Instagram Graph API to fetch post engagement metrics and insights for Business/Creator accounts, enabling analysis and strategy suggestions.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T21:13:47Z"
 ---
 ## What it is
 MCP server `Swiss Health Insurance Premiums`, catalogued on PulseMCP. Query Swiss health insurance premium data from the BAG Priminfo database covering 2016-2026.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:30:30Z"
 ---
 ## What it is
 An MCP server that wraps the WellSaid Labs text-to-speech API, enabling Claude to generate lifelike voiceovers with voice selection, prosody control, and caption support directly from text.

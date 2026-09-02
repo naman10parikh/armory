@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T11:03:16Z"
 ---
 ## What it is
 Enables AI assistants and teams to collaborate in a shared workspace by building and querying tables, writing documents, uploading files, and publishing live dashboards through any MCP-compatible client.

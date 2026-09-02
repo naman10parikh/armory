@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-20T16:48:51Z"
 ---
 ## What it is
 Enables AI assistants to search for images on Wikimedia Commons, returning structured metadata and a composite thumbnail grid for visual comparison.

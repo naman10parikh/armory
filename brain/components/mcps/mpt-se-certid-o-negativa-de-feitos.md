@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:54Z"
 ---
 ## What it is
 MCP server for consulting negative certificates of court cases (Certidão Negativa de Feitos) from the Ministério Público do Trabalho in Sergipe, Brazil, via a single read-only tool.

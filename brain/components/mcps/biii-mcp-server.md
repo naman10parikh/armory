@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:33:11Z"
 ---
 ## What it is
 Enables agents to vet merchants, create and verify USDC charges and invoices, assess trust and tokenized-asset authenticity, and manage provable books on Base, all non-custodially.

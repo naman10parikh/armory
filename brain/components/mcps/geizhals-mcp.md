@@ -8,11 +8,13 @@ source_url: https://github.com/jnslmk/geizhals-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:41:58Z"
 ---
 ## What it is
 An MCP server that lets an LLM search Geizhals, a leading German/DACH price-comparison site, for the cheapest offers on new products.

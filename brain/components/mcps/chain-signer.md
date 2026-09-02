@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:00:21Z"
 ---
 ## What it is
 Non-custodial agent wallet with a transaction preflight that decodes an unsigned EVM tx and flags drain patterns (unlimited/large approval, approve-all, token & NFT transferFrom, proxy upgrade, on-chain permit, approvals hidden in multicall) before signing.

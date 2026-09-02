@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:29:39Z"
 ---
 ## What it is
 Enables querying World of Warcraft character equipment, talents, profile, achievements, and realm lists via Blizzard's API, backed by shared caches and audit logging.

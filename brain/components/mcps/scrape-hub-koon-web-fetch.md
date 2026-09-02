@@ -8,10 +8,12 @@ source_url: https://github.com/scrape-hub/koon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-18T20:59:18Z"
 ---
 ## What it is
 MCP server `Koon Web Fetch`, catalogued on PulseMCP. Browser-impersonating web fetch that bypasses bot detection using Rust and BoringSSL.

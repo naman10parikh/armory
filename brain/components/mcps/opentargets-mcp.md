@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-15T00:11:17Z"
 ---
 ## What it is
 MCP server that exposes the Open Targets Platform GraphQL API as a set of tools for querying biomedical data such as targets, diseases, drugs, and genetic evidence.

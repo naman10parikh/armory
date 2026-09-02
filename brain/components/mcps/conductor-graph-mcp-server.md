@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T13:26:36Z"
 ---
 ## What it is
 Exposes a CognOS agent system as a machine-readable JSON graph, enabling Claude to get a full system snapshot and inspect node status, edges, and blocked nodes.

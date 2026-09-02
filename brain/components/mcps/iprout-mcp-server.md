@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T02:16:44Z"
 ---
 ## What it is
 Provides GeoIP and ASN intelligence lookup for IP addresses, enabling AI agents to retrieve location and network information via the IPRout API.

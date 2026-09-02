@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-08T16:28:01Z"
 ---
 ## What it is
 MCP server `ClimateTriage`, catalogued on PulseMCP. Connects to the ClimateTriage API for searching and filtering open source climate change and sustainability issues across GitHub repositories, enabling developers to find and contribute to environmental projects.

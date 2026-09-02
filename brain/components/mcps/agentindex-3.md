@@ -8,11 +8,13 @@ source_url: https://github.com/agentidx/agentindex
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1303
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-07-27T05:04:45Z"
 ---
 ## What it is
 Discovery platform for AI agents. Find any AI agent by capability — search 20,000+ indexed agents across GitHub, npm, MCP, and HuggingFace.

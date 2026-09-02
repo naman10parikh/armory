@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:58:05Z"
 ---
 ## What it is
 Converts large comic archives (CBZ/CBR) into Kindle-optimized EPUB volumes with GPU acceleration, smart chunking under Amazon's 200MB limit, and device-specific profiles for manga/comics.

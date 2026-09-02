@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T17:12:21Z"
 ---
 ## What it is
 Routes tasks to the optimal AI model based on task type and benchmark scores across 25+ platforms. Automatically selects the best model for coding, reasoning, writing, and more using public benchmark data.

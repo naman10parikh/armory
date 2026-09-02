@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T04:25:13Z"
 ---
 ## What it is
 MCP server `Emergence Science`, catalogued on PulseMCP. Posts bounties, solves tasks, and earns credits on the Emergence Science agent economy platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T02:38:02Z"
 ---
 ## What it is
 Comprehensive MITRE ATT\&CK MCP server with SOC integration for technique lookup, alert mapping, and coverage analysis.

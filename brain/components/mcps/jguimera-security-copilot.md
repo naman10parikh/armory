@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-10-08T17:53:50Z"
 ---
 ## What it is
 MCP server `Microsoft Security Copilot`, catalogued on PulseMCP. Integrates Microsoft Security Copilot with Microsoft Sentinel for running KQL queries, managing skillsets, and executing prompts using Azure Identity Authentication

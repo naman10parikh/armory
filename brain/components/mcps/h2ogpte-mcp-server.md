@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-22T15:46:25Z"
 ---
 ## What it is
 Enables interaction with H2OGPTe's REST API, allowing document ingestion, collection management, and chat with AI models through MCP tools and resources.

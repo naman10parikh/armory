@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:17:47Z"
 ---
 ## What it is
 A uniform API for agents to read, write, and search across papers, documents, code, and personal state, using PostgreSQL with pgvector for hybrid retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-17T06:59:42Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze Amazon seller data from Sellfox, including sales, advertising, profits, inventory, and reviews, through natural language.

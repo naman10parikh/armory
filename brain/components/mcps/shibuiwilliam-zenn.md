@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-13T07:56:01Z"
 ---
 ## What it is
 MCP server `Zenn`, catalogued on PulseMCP. Integrates with Zenn.dev's developer API to fetch and filter technical articles and books from the popular Japanese publication platform.

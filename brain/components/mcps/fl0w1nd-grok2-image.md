@@ -8,10 +8,12 @@ source_url: https://github.com/fl0w1nd/grok-image-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-03T11:11:57Z"
 ---
 ## What it is
 MCP server `Grok2 Image Generator`, catalogued on PulseMCP. Enables AI assistants to generate images through the Grok2 model using stdio transport for seamless integration into existing workflows.

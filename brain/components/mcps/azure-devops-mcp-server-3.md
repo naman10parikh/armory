@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-01T19:16:42Z"
 ---
 ## What it is
 Enables interaction with Azure DevOps services including work items, builds, releases, test plans, repositories, and search via natural language commands from a code editor.

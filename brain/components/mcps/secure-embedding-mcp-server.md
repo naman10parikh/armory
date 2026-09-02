@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-14T05:50:33Z"
 ---
 ## What it is
 Provides secure text embeddings with privacy-preserving features using the Mirror SDK, supporting operations like embedding, masking, and analysis with configurable security levels.

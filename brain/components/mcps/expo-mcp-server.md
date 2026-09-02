@@ -8,11 +8,13 @@ source_url: https://github.com/Rukafuu/ExpoMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:17:35Z"
 ---
 ## What it is
 A secure local MCP server that allows AI assistants to inspect and diagnose Expo-based React Native projects, offering read-only tools for project summary, doctor checks, dependency validation, and public config retrieval.

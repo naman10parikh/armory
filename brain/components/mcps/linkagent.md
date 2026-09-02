@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:44:42Z"
 ---
 ## What it is
 LinkAgent is a Python MCP server that extracts structured data from any website via Chrome DevTools Protocol. It features a plugin architecture with LinkedIn-specific extractors for feed, profiles, companies, jobs, and search, plus a Chrome extension bridge for authenticated browsing.

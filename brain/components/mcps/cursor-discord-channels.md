@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-13T07:45:16Z"
 ---
 ## What it is
 Bridges Discord channels to Cursor's headless agent, enabling always-on Discord MCP interactions on a server.

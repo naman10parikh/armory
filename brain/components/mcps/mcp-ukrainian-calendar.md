@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-08T11:45:01Z"
 ---
 ## What it is
 Provides access to Ukrainian pagan calendar with holidays, deities, folk wisdom, and birth charms, enabling users to query today's holidays, upcoming events, deity details, and personal birth charms.

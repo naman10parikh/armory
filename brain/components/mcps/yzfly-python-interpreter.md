@@ -8,10 +8,12 @@ source_url: https://github.com/yzfly/mcp-python-interpreter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2026-07-02T09:05:18Z"
 ---
 ## What it is
 MCP server `Python Interpreter`, catalogued on PulseMCP. Provides a secure Python execution environment with isolated working directories, enabling code execution, file operations, and package management for development, data analysis, and educational tasks.

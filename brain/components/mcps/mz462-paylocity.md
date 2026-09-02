@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-06T04:28:10Z"
 ---
 ## What it is
 MCP server `Paylocity`, catalogued on PulseMCP. Integrates with Paylocity's HR and payroll API to enable secure access to employee data and payroll information directly within conversations, eliminating the need to switch to the Paylocity platform.

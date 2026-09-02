@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:49:57Z"
 ---
 ## What it is
 Enables AI agents to route tasks requiring human judgment (e.g., content moderation, refund decisions, data verification) to a vetted worker pool, with verified results returned via Lightning Network payments.

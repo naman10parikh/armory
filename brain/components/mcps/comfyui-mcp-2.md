@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T10:01:49Z"
 ---
 ## What it is
 Exposes a remote ComfyUI instance for image generation through an on-demand GPU wrapper, allowing users to generate PNG images from prompts and manage the ComfyUI lifecycle via MCP tools.

@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-03T03:11:20Z"
 ---
 ## What it is
 MCP server `Terminal Session`, catalogued on PulseMCP. Provides stateful, TUI-compatible terminal sessions for executing commands and running interactive applications, enabling persistent interaction with command-line interfaces and programs.

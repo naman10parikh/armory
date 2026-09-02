@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T16:25:20Z"
 ---
 ## What it is
 Local MCP server that exposes tools for a TODO list, acting as an adapter between an AI agent and a REST API (localhost:8000).

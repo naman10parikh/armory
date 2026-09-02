@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:40:19Z"
 ---
 ## What it is
 A lightweight OpenAPI proxy MCP server that turns any openapi.yaml into MCP tools with zero code, including a built-in OAuth 2.1 server for Claude.ai Web connection.

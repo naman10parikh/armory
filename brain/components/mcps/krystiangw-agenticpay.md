@@ -8,10 +8,12 @@ source_url: https://github.com/krystiangw/agenticpay
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T14:01:20Z"
 ---
 ## What it is
 MCP server `AgenticPay`, catalogued on PulseMCP. x402 USDC paywall bridge enabling pay-per-tool-call micropayments on the Solana blockchain.

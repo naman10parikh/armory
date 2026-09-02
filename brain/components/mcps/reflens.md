@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T13:06:01Z"
 ---
 ## What it is
 An MCP server that indexes reference repositories and provides tools for AI coding agents to retrieve lossless code context, enabling reasoning over codebases larger than the agent's context window.

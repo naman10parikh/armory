@@ -8,10 +8,12 @@ source_url: https://github.com/jamjet-labs/jamjet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-31T12:45:30Z"
 ---
 ## What it is
 MCP server `Engram`, catalogued on PulseMCP. Provides durable memory for AI agents with fact extraction, hybrid retrieval, and a temporal knowledge graph stored in SQLite.

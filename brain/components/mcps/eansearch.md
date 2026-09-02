@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-15T15:08:04Z"
 ---
 ## What it is
 MCP server `EAN-Search`, catalogued on PulseMCP. Search products by barcode (EAN, UPC, GTIN) or keyword using the EAN-Search.org database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T06:54:06Z"
 ---
 ## What it is
 A minimal MCP server that gives AI agents the ability to pause execution by waiting a specified number of seconds, with support for local and AWS AgentCore deployment.

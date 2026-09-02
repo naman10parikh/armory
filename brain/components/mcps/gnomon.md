@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:59:00Z"
 ---
 ## What it is
 Manages a vault of articles and talk pages using an article/talk split pattern, enabling reading, editing, and librarian operations on the vault through MCP.

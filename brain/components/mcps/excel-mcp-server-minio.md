@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T07:22:07Z"
 ---
 ## What it is
 基于Excel MCP Server扩展，支持通过Minio远程存储访问和编辑Excel文件，实现上传、读取、修改及下载链接返回。

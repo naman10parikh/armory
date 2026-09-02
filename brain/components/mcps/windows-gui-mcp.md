@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T08:48:24Z"
 ---
 ## What it is
 Enables AI coding agents to automate Windows desktop applications through semantic UI Automation instead of brittle coordinate clicks, with tools for discovering windows, finding controls by stable identifiers, and verifying actions.

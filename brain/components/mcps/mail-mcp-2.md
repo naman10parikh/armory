@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T18:06:37Z"
 ---
 ## What it is
 Enables secure mailbox access and email management via IMAP/SMTP, with tools for reading, searching, organizing, sending, and deleting emails, designed for local use and compatible with MCP clients like ChatGPT.

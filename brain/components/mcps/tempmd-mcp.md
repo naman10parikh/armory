@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T03:23:56Z"
 ---
 ## What it is
 Enables publishing and updating web artifacts (HTML, Markdown, CSV, Mermaid) to get stable public URLs that update in place; supports lifecycle management like expiry and restoration.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-28T14:37:50Z"
 ---
 ## What it is
 MCP server `NBA Stats`, catalogued on PulseMCP. Provides a Python-based interface to NBA statistics and live game data, offering tools for accessing game information, player statistics, team data, and league standings without requiring knowledge of the underlying API structure.

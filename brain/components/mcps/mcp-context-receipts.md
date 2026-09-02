@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:47:23Z"
 ---
 ## What it is
 Privacy-first, tamper-evident receipts for MCP tool calls. It hashes and signs arguments/results so you can verify what ran, when, without storing raw payloads.

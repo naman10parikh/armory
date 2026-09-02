@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-31T05:58:43Z"
 ---
 ## What it is
 An MCP server for executing Malloy queries and managing Malloy resources.

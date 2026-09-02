@@ -8,10 +8,12 @@ source_url: https://github.com/jonashertner/caselaw-repo-1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-09-01T19:33:37Z"
 ---
 ## What it is
 MCP server `ch.opencaselaw/swiss-caselaw`, catalogued on PulseMCP. 956k Swiss court decisions: full-text search, citation graph, statute lookup (DE/FR/IT)

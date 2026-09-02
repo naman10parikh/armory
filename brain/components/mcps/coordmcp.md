@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T20:44:01Z"
 ---
 ## What it is
 A coordination server that enables multiple AI coding agents to work together on the same project by providing shared memory, file locking, decision tracking, and architecture guidance, preventing conflicts and maintaining consistency across sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T13:02:17Z"
 ---
 ## What it is
 Official remote MCP server for Lobby, the bilingual AI receptionist. Five free no-auth tools: business phone scripts and IVR menus (English + Mexican Spanish), ElevenLabs agent system prompts, missed-call cost math, and a hire-a-receptionist verdict.

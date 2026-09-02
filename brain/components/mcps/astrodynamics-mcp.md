@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T01:57:55Z"
 ---
 ## What it is
 An MCP server that equips LLM clients with authoritative astrodynamics tools including TLE/SGP4 propagation, Lambert solving, ground-station access, time-scale and coordinate-frame conversions, and more.

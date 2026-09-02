@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-03T13:34:50Z"
 ---
 ## What it is
 MCP server `Envibe`, catalogued on PulseMCP. Granular permission layer controlling AI agent access to environment variables with five access levels.

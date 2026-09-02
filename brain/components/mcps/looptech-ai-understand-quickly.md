@@ -8,10 +8,12 @@ source_url: https://github.com/looptech-ai/understand-quickly
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-08T16:44:30Z"
 ---
 ## What it is
 MCP server `Understand Quickly`, catalogued on PulseMCP. Access a public registry of code-knowledge graphs to help AI agents instantly understand codebases via list, fetch, and search tools.

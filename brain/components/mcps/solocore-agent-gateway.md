@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:17:29Z"
 ---
 ## What it is
 Enables local agents to securely connect to a managed hub via outbound connections, exposing controlled capabilities to MCP and A2A clients without requiring public inbound ports.

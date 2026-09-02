@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:20:23Z"
 ---
 ## What it is
 E-signature for AI agents. One unauthenticated call returns a sandbox API key (no account, no browser), then the agent can send documents for signature, check status, and download the sealed PDF plus Certificate of Completion.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:38:13Z"
 ---
 ## What it is
 MCP server for interacting with Letters to the Future on Base mainnet, enabling posting time-locked messages, listing them, minting on-chain SVG NFTs, and checking wallet info via natural language.

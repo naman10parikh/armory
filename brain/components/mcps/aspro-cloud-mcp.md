@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T20:42:05Z"
 ---
 ## What it is
 Enables AI assistants to manage CRM deals and tasks on Aspro Cloud, including CRUD operations on deals, tasks, users, pipelines, and workflows.

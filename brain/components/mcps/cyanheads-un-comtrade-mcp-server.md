@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:32:44Z"
 ---
 ## What it is
 Access UN Comtrade international merchandise and services trade statistics via MCP tools for country lookups, HS commodity search, bilateral trade flows, balances, rankings, and data availability.

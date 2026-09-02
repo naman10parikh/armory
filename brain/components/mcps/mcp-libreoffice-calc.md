@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T23:10:37Z"
 ---
 ## What it is
 An MCP server that enables spreadsheet operations on LibreOffice Calc workbooks through UNO, including reading, writing, formatting, and hyperlink management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-16T20:14:13Z"
 ---
 ## What it is
 An MCP server for Microsoft Defender Advanced Hunting that enables AI assistants to investigate security events using natural language by translating queries to KQL and executing them against Defender.

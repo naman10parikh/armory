@@ -8,10 +8,12 @@ source_url: https://github.com/szeider/mcp-solver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 169
+stars: 181
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-08-04T12:12:46Z"
 ---
 ## What it is
 MCP server `MiniZinc Complex Logic Solver`, catalogued on PulseMCP. Solve complex logic/optimization problems using MiniZinc syntax.

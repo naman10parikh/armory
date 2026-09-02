@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:55:05Z"
 ---
 ## What it is
 MCP server for a Plane CE instance enabling management of pages (via direct database and live converter) and work items through Plane's REST API, with multi-workspace support.

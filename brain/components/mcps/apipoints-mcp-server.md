@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:56:55Z"
 ---
 ## What it is
 Enables real-time access to LLM pricing, benchmarks, deprecation alerts, and cost optimization for over 30 models across 8 providers, allowing AI agents to make cost-effective model selections.

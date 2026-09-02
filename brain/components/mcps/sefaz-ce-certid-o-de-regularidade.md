@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:01Z"
 ---
 ## What it is
 Enables users to query SEFAZ CE regularity certificates (Certidão de Regularidade) from official sources, providing read-only access for tax compliance verification in the state of Ceará, Brazil.

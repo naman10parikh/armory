@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:27:57Z"
 ---
 ## What it is
 Usage tracking and credit/quota access-gating for enlace MCP connectors, providing policy-based metering with ledger recording and fail-closed FastMCP middleware to enforce per-principal credit and call caps.

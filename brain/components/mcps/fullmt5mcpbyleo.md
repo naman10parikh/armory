@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:44:09Z"
 ---
 ## What it is
 Universal MCP server that enables AI assistants to control MetaTrader 5 directly, executing trades, managing data, and automating MT5 operations through natural language.

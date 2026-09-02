@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:21:46Z"
 ---
 ## What it is
 Provides read-only access to live Bay Area transit data, including routes, stops, real-time departures, vehicle positions, and service alerts, for use by large language models.

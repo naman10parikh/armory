@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T14:56:40Z"
 ---
 ## What it is
 MCP server for controlling B&K Precision and Manson bench power supplies, enabling voltage/current setting, output switching, and power cycling.

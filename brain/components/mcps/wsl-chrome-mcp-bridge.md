@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T15:38:13Z"
 ---
 ## What it is
 A bridge to launch Chrome on Windows from WSL2 and proxy Chrome DevTools MCP tools. It enables browser automation via Claude Code in WSL2 by managing Chrome's lifecycle and exposing debugging capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T19:45:18Z"
 ---
 ## What it is
 Enables querying the Dutch IND public register of recognised sponsors for work/residence permits. Offers tools to search sponsors by name or KvK number and check register status.

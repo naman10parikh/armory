@@ -8,10 +8,12 @@ source_url: https://github.com/vizioz/swagger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 163
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-12-03T19:30:24Z"
 ---
 ## What it is
 MCP server `Swagger API`, catalogued on PulseMCP. Integrates with Swagger API specifications to download, cache, and extract endpoints, HTTP methods, models, and service connections for generating API interfaces from Swagger documentation.

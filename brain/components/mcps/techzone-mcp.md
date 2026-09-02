@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:33:43Z"
 ---
 ## What it is
 MCP server for IBM Technology Zone: manage reservations end-to-end and search the catalog from Claude.

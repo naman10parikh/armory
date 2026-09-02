@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:43:19Z"
 ---
 ## What it is
 MCP server that aggregates and deduplicates job listings from multiple public sources, ranks them against a user's resume, and exposes tools for searching, viewing details, explaining fit, and tracking applications.

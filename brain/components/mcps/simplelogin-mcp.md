@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:33:36Z"
 ---
 ## What it is
 An MCP server that exposes SimpleLogin alias management endpoints, enabling creation, listing, searching, updating, and toggling email aliases with configurable permission levels.

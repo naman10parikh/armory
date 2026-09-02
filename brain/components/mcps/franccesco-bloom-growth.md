@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-26T23:53:44Z"
 ---
 ## What it is
 MCP server `Bloom Growth`, catalogued on PulseMCP. Integrates with Bloom Growth's GraphQL API to enable interaction with growth management and analytics tools for AI-assisted workflows.

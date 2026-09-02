@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-31T09:08:41Z"
 ---
 ## What it is
 Enables natural-language control of Apple Mail with 53 tools, including millisecond SQLite-powered search across large mailboxes, mailbox and message management, composing and batch operations.

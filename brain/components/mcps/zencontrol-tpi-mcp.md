@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:38:37Z"
 ---
 ## What it is
 MCP server for controlling zencontrol TPI Classic and Advanced lighting systems, enabling DALI dimming, on/off, and fault queries via Docker and SSE transport.

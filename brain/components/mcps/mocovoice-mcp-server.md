@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T14:33:17Z"
 ---
 ## What it is
 Enables transcription of audio and video files using mocoVoice API, allowing users to start transcription jobs and retrieve results directly from Claude Desktop.

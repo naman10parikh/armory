@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:29:31Z"
 ---
 ## What it is
 Provides AI agents with local file-processing capabilities for token counting, RAG chunking, CSV/JSON conversion, QR generation, and more, while keeping documents private on the user's machine.

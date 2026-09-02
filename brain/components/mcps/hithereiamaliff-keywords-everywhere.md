@@ -8,10 +8,12 @@ source_url: https://github.com/hithereiamaliff/mcp-keywords-everywhere
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-02T08:25:30Z"
 ---
 ## What it is
 MCP server `Keywords Everywhere`, catalogued on PulseMCP. Provides access to the Keywords Everywhere API for SEO research and keyword analysis.

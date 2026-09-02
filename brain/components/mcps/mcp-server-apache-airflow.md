@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T07:11:57Z"
 ---
 ## What it is
 Enables interaction with Apache Airflow through the Model Context Protocol, allowing users to manage DAGs, task instances, variables, connections, pools, XComs, and datasets.

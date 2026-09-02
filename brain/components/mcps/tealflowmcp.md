@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-01T13:58:33Z"
 ---
 ## What it is
 Enables LLMs to discover, understand, and generate Teal R Shiny applications for clinical trial data analysis.

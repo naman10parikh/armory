@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:49:18Z"
 ---
 ## What it is
 Provides AI governance and action-assurance primitives, enabling trust scoring, policy-based allow/deny decisions, risk assessment, EU AI Act compliance checks, and an emergency kill-switch for autonomous agents.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-23T12:24:31Z"
 ---
 ## What it is
 MCP server `YouTube Watch Later`, catalogued on PulseMCP. Integrates with YouTube API to manage Watch Later playlists, enabling content curation, video recommendations, and automated playlist management.

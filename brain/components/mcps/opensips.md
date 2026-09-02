@@ -8,10 +8,12 @@ source_url: https://github.com/opensips/opensips-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-28T12:01:16Z"
 ---
 ## What it is
 MCP server `OpenSIPS`, catalogued on PulseMCP. AI-powered control plane for OpenSIPS SIP servers with 236 tools, 25 scenario templates, and 22 prompts for management and configuration.

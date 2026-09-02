@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-21T07:50:02Z"
 ---
 ## What it is
 MCP server `Local Web Search`, catalogued on PulseMCP. Integrates with a headless browser to perform Google searches and extract web content, enabling local web search capabilities for up-to-date information retrieval and research tasks.

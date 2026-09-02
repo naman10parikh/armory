@@ -8,11 +8,13 @@ source_url: https://github.com/plone/plone-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-09-01T11:48:15Z"
 ---
 ## What it is
 Enables AI assistants to manage Plone CMS content, search, workflows, and Volto blocks via REST API.

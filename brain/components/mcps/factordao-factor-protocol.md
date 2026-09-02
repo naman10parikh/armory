@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T04:23:14Z"
 ---
 ## What it is
 MCP server `Factor Protocol`, catalogued on PulseMCP. Enables interaction with Factor Protocol's DeFi vault infrastructure across Arbitrum, Base, and Ethereum networks through specialized tools for vault creation, asset management, strategy execution, and automated yield farming operations.

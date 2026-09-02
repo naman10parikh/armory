@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:32:59Z"
 ---
 ## What it is
 A read-only MCP server that exposes Turkish open banking data (accounts, balances, transactions, cash flow, and cards) to AI agents via the ÖHVPS 2.0.0 standard.

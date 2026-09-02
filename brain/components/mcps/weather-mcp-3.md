@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:48:26Z"
 ---
 ## What it is
 A FastMCP server that provides current weather, forecasts, and rule-based umbrella/jacket recommendations via Open-Meteo, deployable to Databricks Agent Bricks.

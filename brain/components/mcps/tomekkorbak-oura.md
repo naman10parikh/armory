@@ -8,10 +8,12 @@ source_url: https://github.com/tomekkorbak/oura-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-02-27T20:09:56Z"
 ---
 ## What it is
 MCP server `Oura`, catalogued on PulseMCP. Integrates with the Oura API to retrieve and analyze personal sleep, readiness, and resilience data for health and wellness tracking.

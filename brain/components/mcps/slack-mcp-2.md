@@ -8,11 +8,13 @@ source_url: https://github.com/redhat-community-ai-tools/slack-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 47
+pushed_at: "2026-08-29T07:10:57Z"
 ---
 ## What it is
 Enables AI assistants to interact with Slack workspaces, providing tools for reading messages, posting content, managing channels, and more.

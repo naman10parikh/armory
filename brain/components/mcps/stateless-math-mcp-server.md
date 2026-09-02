@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:35:37Z"
 ---
 ## What it is
 A stateless MCP server exposing mathematical tools (such as the "soma" addition tool) over stdio transport, demonstrated with an asynchronous client that discovers and invokes available tools dynamically.

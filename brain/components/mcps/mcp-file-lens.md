@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-22T07:50:38Z"
 ---
 ## What it is
 An MCP server that provides a flexible lens into directory structures and files, enabling LLM clients to efficiently navigate and understand codebases with minimal noise. It offers secure, gitignore-aware file access with tools like directory listing, file reading, and grep-like search.

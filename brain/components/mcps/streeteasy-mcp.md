@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T22:44:41Z"
 ---
 ## What it is
 A remote MCP server that wraps the StreetEasy GraphQL API to enable LLM agents to search and parse NYC rental listings.

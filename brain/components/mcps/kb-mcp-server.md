@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T14:19:40Z"
 ---
 ## What it is
 将 pgvector 知识库检索能力封装为标准 MCP 服务器，支持 Tools、Resources 和 Prompts，使 Claude Desktop 等客户端可通过自然语言查询知识库。

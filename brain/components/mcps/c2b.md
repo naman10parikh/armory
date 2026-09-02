@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:42:54Z"
 ---
 ## What it is
 Enables Claude to recall context from a merged knowledge graph of your Obsidian vault and code projects, providing tools to search, find neighbors, and discover paths before editing files. Works offline by reading a local brain.json.

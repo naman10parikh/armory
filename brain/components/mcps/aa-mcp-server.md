@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T23:15:56Z"
 ---
 ## What it is
 An MCP server that gives Claude (or any MCP-compatible LLM) read-only access to your American Airlines AAdvantage account — mile balance, Loyalty Points progress, transaction history, upcoming trips, travel credits, and partner offers.

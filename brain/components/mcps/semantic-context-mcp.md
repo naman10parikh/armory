@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:45:36Z"
 ---
 ## What it is
 An MCP server that gives models semantic context about a data warehouse, including table meaning, units, lineage, and health, to reduce guessing.

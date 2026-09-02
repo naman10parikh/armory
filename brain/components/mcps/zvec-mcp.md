@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-26T10:36:08Z"
 ---
 ## What it is
 Enables AI agents to store, search, and manage a local vector database for RAG knowledge retrieval and long-term memory, powered by zvec.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T21:26:36Z"
 ---
 ## What it is
 Enables management of App Store Connect resources including app reviews, TestFlight crashes, analytics reports, and Xcode Cloud workflows through natural language or AI agents.

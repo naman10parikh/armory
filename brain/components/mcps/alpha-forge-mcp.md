@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:09:43Z"
 ---
 ## What it is
 The MCP server for AlphaForge — the agent-native quant CLI: write strategies in JSON, optimize with Optuna TPE, validate with walk-forward, export to TradingView Pine v6. This server lets your AI agent drive the whole pipeline over MCP.

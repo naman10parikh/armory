@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T10:03:48Z"
 ---
 ## What it is
 Provides context compression via the tokenslim engine, enabling MCP hosts to reduce token usage while preserving key information. Offers compress, retrieve, and stats tools for managing compressed content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:15:01Z"
 ---
 ## What it is
 Team-aware memory for AI coding assistants that tracks intent, records decisions, and surfaces real-time team conflicts before commit.

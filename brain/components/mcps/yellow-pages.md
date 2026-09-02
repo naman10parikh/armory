@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T21:41:19Z"
 ---
 ## What it is
 Exposes two MCP tools (discover and execute) that enable agents to query an OpenAPI schema via natural language and execute matched API operations.

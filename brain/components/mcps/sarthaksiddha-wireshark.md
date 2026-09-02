@@ -8,10 +8,12 @@ source_url: https://github.com/sarthaksiddha/wireshark-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-06T08:58:27Z"
 ---
 ## What it is
 MCP server `Wireshark`, catalogued on PulseMCP. Extracts, structures, and transmits network packet data from Wireshark for security analysis, anomaly detection, and network troubleshooting without manual formatting.

@@ -8,10 +8,12 @@ source_url: https://github.com/335234131/agent-browser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 212
+stars: 241
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-04-15T12:32:29Z"
 ---
 ## What it is
 MCP server `Agent Browser`, catalogued on PulseMCP. Controls a locally-running Chrome browser with preserved login states, supporting CDP commands, screenshots, and keyboard/mouse input.

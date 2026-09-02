@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-07T21:00:05Z"
 ---
 ## What it is
 Unofficial MCP server for Yahoo! Transit that provides Japanese train route search (including last/first train), real-time service disruption info, and station timetables as MCP tools.

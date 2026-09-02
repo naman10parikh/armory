@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T08:57:28Z"
 ---
 ## What it is
 Exposes Cloudflare HTTP traffic and firewall analytics to Claude Code via MCP tools, including a deterministic suspicion scorer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T15:31:48Z"
 ---
 ## What it is
 Enables project creation with validated flow and automatic registration via MCP, supporting scaffold, bootstrap, and validation tools.

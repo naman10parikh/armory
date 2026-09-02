@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T12:54:25Z"
 ---
 ## What it is
 Enables automated LinkedIn growth by posting, commenting, and managing connections through Claude Code, with daily scheduled tasks for inbox replies and connection requests.

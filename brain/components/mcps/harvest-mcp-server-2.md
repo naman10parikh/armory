@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T20:56:31Z"
 ---
 ## What it is
 Integrates with Harvest time tracking to allow AI assistants to log time, view projects, manage tasks, and track work hours, with optional Azure DevOps integration for automated time logging from work items.

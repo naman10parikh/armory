@@ -8,10 +8,12 @@ source_url: https://github.com/microsoft/playwright-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33017
+stars: 36722
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3084
+pushed_at: "2026-09-01T03:24:23Z"
 ---
 ## What it is
 MCP server `Playwright Browser Automation`, catalogued on PulseMCP. Enables web browser control for navigating websites, capturing page snapshots, interacting with elements, and taking screenshots through Playwright's automation capabilities.

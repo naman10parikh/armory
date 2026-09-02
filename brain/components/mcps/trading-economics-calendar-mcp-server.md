@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-22T05:28:31Z"
 ---
 ## What it is
 A Model Context Protocol server that provides access to economic calendar events from Trading Economics, allowing filtering by country, importance, and date range.

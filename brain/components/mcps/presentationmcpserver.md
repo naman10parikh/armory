@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T09:32:30Z"
 ---
 ## What it is
 Autonomously generates university-level educational presentations as interactive Reveal.js decks with time-synced presenter scripts from source materials, respecting target audience pedagogical level.

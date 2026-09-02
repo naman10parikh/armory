@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T16:04:02Z"
 ---
 ## What it is
 Read-only MCP server exposing Brewfather brewing data—batches, recipes, fermentation readings, and inventory—as tools for natural language queries.

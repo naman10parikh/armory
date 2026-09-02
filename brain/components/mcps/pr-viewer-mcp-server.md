@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T16:51:23Z"
 ---
 ## What it is
 Enables PR review workflows by launching a diff visualizer against a git repo and returning 'accepted' or 'rejected' based on user decision.

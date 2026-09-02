@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T09:34:41Z"
 ---
 ## What it is
 Allows Claude Code to request an independent code review from Google Antigravity (Gemini, Claude, or GPT-OSS) via the Antigravity CLI, providing a second opinion on plans or diffs.

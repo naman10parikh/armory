@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-19T03:29:52Z"
 ---
 ## What it is
 A local MCP gateway that unifies multiple LLM providers, API keys, routing, and multi-model discussions into a single tool surface.

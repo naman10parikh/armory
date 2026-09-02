@@ -8,10 +8,12 @@ source_url: https://github.com/paulopalaoro/cortex-mcp-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T15:44:33Z"
 ---
 ## What it is
 MCP server `Cortex Debug Bridge`, catalogued on PulseMCP. VSCode extension exposing embedded systems debug data from Cortex-Debug sessions via a local SSE server.

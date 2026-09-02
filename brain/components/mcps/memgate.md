@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T15:56:04Z"
 ---
 ## What it is
 Access control, conflict resolution, and audit for shared agent memory. Policy-gated memory tools over Postgres + pgvector, exposed via MCP.

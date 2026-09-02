@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:47:41Z"
 ---
 ## What it is
 Exposes multifamily rental data including average rent by market, occupancy anomalies, and property summaries to LLM tools via MCP.

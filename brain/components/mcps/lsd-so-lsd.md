@@ -8,10 +8,12 @@ source_url: https://github.com/lsd-so/lsd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-29T22:42:49Z"
 ---
 ## What it is
 MCP server `LSD SQL`, catalogued on PulseMCP. Enables querqying and analyzing web content using LSD SQL, a DSL for extracting structured data from websites in real-time.

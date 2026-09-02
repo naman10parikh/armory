@@ -8,11 +8,13 @@ source_url: https://github.com/stdevMac/grok-in-codex
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-04T13:15:32Z"
 ---
 ## What it is
 Enables Codex to delegate code reviews, coding tasks, image/video generation, and background investigations to Grok via MCP tools.

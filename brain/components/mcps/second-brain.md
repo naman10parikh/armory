@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:33:05Z"
 ---
 ## What it is
 Persistent, semantically-searchable memory for AI agents using local PostgreSQL, pgvector, and Ollama embeddings, exposed via MCP with hybrid retrieval, knowledge graph, and auto-recall hook.

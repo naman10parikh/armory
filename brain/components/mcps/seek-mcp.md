@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T05:31:12Z"
 ---
 ## What it is
 Australian job-search MCP server that provides job listing search, market statistics, and ad count tools via the Adzuna API. It enables querying job ads with filters like location, salary, and recency, plus insights on hiring employers and salary trends.

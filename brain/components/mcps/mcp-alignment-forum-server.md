@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:50:08Z"
 ---
 ## What it is
 Enables semantic search and retrieval of AI alignment articles from Alignment Forum and LessWrong, allowing users to explore research and discover unknown unknowns through natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T07:11:06Z"
 ---
 ## What it is
 MCP server for generating images using Volcano Engine's Jimeng AI, supporting the latest Seedream4.0 model.

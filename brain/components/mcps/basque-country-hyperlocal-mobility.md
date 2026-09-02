@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:10:26Z"
 ---
 ## What it is
 Servidor MCP (roadmap L5) sobre los endpoints públicos de emap. No existe otro MCP de movilidad hiperlocal: búsqueda semántica local ES/EU, contexto de lugar, rutas multimodales con infraestructura propia (OSRM/OTP) y "el monte en transporte público".

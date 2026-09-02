@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:07:37Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that gives AI agents live, structured ad intelligence across Facebook, Google, and Instagram — data that no base model can produce from training alone. Powered by Apify actors. Works with any MCP-compatible client: Cursor, Claude, etc.

@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-29T19:03:54Z"
 ---
 ## What it is
 MCP server `Spiral Writer`, catalogued on PulseMCP. Provides a FastMCP-powered interface for generating text, processing file content, and extracting article data from URLs with asynchronous operations and robust error handling for content generation workflows.

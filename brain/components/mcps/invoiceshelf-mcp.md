@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:27:37Z"
 ---
 ## What it is
 An MCP server that acts as a secure, multi-tenant proxy to the InvoiceShelf API, enabling AI assistants to manage invoices, estimates, customers, payments, expenses, and more with 109 tools and TOON compression for efficient token usage.

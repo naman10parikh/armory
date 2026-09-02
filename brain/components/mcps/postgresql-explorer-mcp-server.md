@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T06:36:22Z"
 ---
 ## What it is
 A FastMCP server for read-only introspection of PostgreSQL databases, providing tools to list databases, schemas, tables, columns, and relations.

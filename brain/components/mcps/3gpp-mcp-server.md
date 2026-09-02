@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T23:51:09Z"
 ---
 ## What it is
 Exposes 3GPP Release 18 OpenAPI specifications as tools for AI assistants, enabling querying and searching of 5G network function APIs via natural language.

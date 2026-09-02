@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T18:09:55Z"
 ---
 ## What it is
 Monitors MCP server uptime, auth failures, schema drift, and SLA evidence.

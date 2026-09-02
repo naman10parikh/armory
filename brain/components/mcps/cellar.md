@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:56:43Z"
 ---
 ## What it is
 An interactive notebook server that enables humans and AI agents to collaboratively edit and run Jupyter notebooks on a shared kernel, with real-time streaming and automatic MCP integration for agent access.

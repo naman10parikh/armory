@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-12T19:46:45Z"
 ---
 ## What it is
 A URL security scanner and MCP server that enables AI agents to analyze URLs for phishing, malware, and other threats before navigation, with optional intent alignment checks.

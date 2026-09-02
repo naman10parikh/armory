@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T16:23:55Z"
 ---
 ## What it is
 Enables searching and reading ESP-IDF documentation online, with support for multiple versions and chip targets.

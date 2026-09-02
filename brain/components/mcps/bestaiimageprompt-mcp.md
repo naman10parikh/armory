@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:23:41Z"
 ---
 ## What it is
 Exposes Best AI Image Prompt's curated prompt library, styles, pricing, and FAQ to MCP-compatible AI clients for image generation workflows.

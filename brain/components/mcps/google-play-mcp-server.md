@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T16:14:25Z"
 ---
 ## What it is
 MCP server that connects AI assistants to the Google Play Developer API for automated app publishing, subscription management, review monitoring, and tester management.

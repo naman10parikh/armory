@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:48:21Z"
 ---
 ## What it is
 QQ MCP Server with Auto-Wake, message send/receive, group management, file sharing, and timed tasks. Connects via NapCatQQ (OneBot v11). One-click setup with quickstart.ps1.Based on Amadeus-QQ-MCP.

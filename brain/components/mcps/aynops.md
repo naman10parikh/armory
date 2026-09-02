@@ -8,11 +8,13 @@ source_url: https://github.com/AynOps/AynOps
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 35
+pushed_at: "2026-09-02T03:15:14Z"
 ---
 ## What it is
 An Open Sourced Model Context Protocol (MCP) Local server that gives Claude real-time cybersecurity reconnaissance capabilities

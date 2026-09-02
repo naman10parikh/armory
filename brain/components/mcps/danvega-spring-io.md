@@ -8,10 +8,12 @@ source_url: https://github.com/danvega/spring-io-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-16T19:21:57Z"
 ---
 ## What it is
 MCP server `Spring I/O`, catalogued on PulseMCP. Provides access to Spring I/O 2025 conference session data including talks, workshops, speakers, room assignments, and scheduling details for building conference navigation tools and scheduling assistants.

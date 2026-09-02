@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-01T15:03:24Z"
 ---
 ## What it is
 MCP server `Fantasy Premier League`, catalogued on PulseMCP. Integrates with the official Fantasy Premier League API to retrieve player statistics, team information, fixture data, and league standings for fantasy football analysis and transfer decisions.

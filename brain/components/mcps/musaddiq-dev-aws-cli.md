@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T06:24:03Z"
 ---
 ## What it is
 MCP server `AWS CLI`, catalogued on PulseMCP. Executes and suggests AWS CLI commands, lists regions, and checks caller identity with validation that blocks shell operators and destructive commands.

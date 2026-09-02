@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T06:10:26Z"
 ---
 ## What it is
 Minimal MCP server for testing SkyStage's self-auth auto-detection feature. It includes tools like ping, echo, server_info, and read_secret, and uses a mock OAuth provider for login.

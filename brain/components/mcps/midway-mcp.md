@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:21Z"
 ---
 ## What it is
 Connects your Midway account via Open Finance Brasil to AI assistants, enabling natural language queries for balances, transactions, credit card bills, and investments, all read-only.

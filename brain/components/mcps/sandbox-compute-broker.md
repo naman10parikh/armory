@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:55:39Z"
 ---
 ## What it is
 Enables AI agents to run compute tasks in secure sandboxes with optional interactive UIs, brokering between agents and isolated execution environments.

@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-05T21:25:15Z"
 ---
 ## What it is
 MCP server `gRPC Reflection`, catalogued on PulseMCP. Integrates with gRPC services using grpcurl, enabling method invocation, service listing, and description with custom header support for versatile API interactions.

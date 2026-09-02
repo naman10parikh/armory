@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:29:13Z"
 ---
 ## What it is
 A read-only MCP server providing 56 tools to query Qobrix real-estate CRM data, covering listings, leads, viewings, offers, contracts, analytics, and more, with RESO Data Dictionary alignment and caching support.

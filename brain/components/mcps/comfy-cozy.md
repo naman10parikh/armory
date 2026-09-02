@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:35:47Z"
 ---
 ## What it is
 A plain-English co-pilot for ComfyUI that lets you describe image generation changes in natural language, automatically loading workflows, swapping models, tweaking parameters, and running generations while learning your preferences.

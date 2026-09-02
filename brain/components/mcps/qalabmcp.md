@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T01:43:33Z"
 ---
 ## What it is
 A local MCP server providing 7 QA testing tools for client validation, test case generation, percentile calculation, HTTP error classification, SLA evaluation, API response validation, and customer lookup, intended for use with OpenCode or VS Code Copilot.

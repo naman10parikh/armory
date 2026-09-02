@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T10:34:51Z"
 ---
 ## What it is
 MCP server `TypeGen`, catalogued on PulseMCP. Generates typed TypeScript client code from MCP server definitions to reduce tool-calling token consumption.

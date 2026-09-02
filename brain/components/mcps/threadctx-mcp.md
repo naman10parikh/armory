@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:51:50Z"
 ---
 ## What it is
 Shared memory MCP server for AI coding agents, enabling context sharing across sessions with local SQLite or cloud-based semantic search, compatible with Claude Code and Cursor.

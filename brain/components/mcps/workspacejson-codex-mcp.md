@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:20:00Z"
 ---
 ## What it is
 Gives OpenAI Codex behavioral history from workspace.json, exposing file fragility and co-change partners as tools to enforce safer edits and block incomplete patches.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T05:03:44Z"
 ---
 ## What it is
 Official MCP server for twitterapi.io — Twitter/X data access (search tweets, users, followers, replies, trends) via Claude Desktop, Cursor, VS Code Copilot, or any MCP-compatible client. 12 read-only tools, stdio transport.

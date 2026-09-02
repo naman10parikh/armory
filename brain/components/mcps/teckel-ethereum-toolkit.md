@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T22:07:06Z"
 ---
 ## What it is
 MCP server `Ethereum Toolkit`, catalogued on PulseMCP. Provides read-only access to Ethereum blockchain data including gas prices, account balances, and transaction information on Mainnet and Sepolia testnet.

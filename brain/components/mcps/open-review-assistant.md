@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:37:10Z"
 ---
 ## What it is
 Provides a privacy-first adaptive review engine with local SQLite storage, enabling item creation, due review retrieval, grading, and statistics via MCP tools.

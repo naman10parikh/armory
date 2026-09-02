@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:17:17Z"
 ---
 ## What it is
 Exposes a time series forecasting model as an MCP tool with built-in audit logging for every call, enabling trustworthy autonomous forecasting.

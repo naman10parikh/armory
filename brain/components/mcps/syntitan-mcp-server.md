@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:25:53Z"
 ---
 ## What it is
 Lets Claude and other MCP-compatible clients securely connect to Syntitan, an AI-Ready Data Platform, through natural language for data management and analytics.

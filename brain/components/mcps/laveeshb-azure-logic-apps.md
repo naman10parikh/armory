@@ -8,10 +8,12 @@ source_url: https://github.com/laveeshb/logicapps-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-11T19:54:46Z"
 ---
 ## What it is
 MCP server `Azure Logic Apps`, catalogued on PulseMCP. Debug workflows, manage runs, and author Azure Logic Apps configurations.

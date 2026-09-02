@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:05Z"
 ---
 ## What it is
 Connects 99Pay accounts to AI assistants via Open Finance Brazil, enabling natural language queries about balances, statements, card bills, and investments in read-only mode.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:28:13Z"
 ---
 ## What it is
 Analyzes Salesforce permission architecture (profiles, permission sets, groups) to support RBAC remediation. It snapshots the permission model into DuckDB and provides tools for diffs, sensitive access detection, and verified decomposition proposals.

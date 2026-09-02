@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:23Z"
 ---
 ## What it is
 Tether MOS site telemetry, mining intelligence, and energy arbitrage agent.

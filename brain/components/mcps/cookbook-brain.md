@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T00:08:45Z"
 ---
 ## What it is
 An MCP server that gives AI agents persistent, file-based memory stored as plain markdown files in a local git repository, enabling agents to remember, recall, and build on information across sessions.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-15T22:13:55Z"
 ---
 ## What it is
 MCP server `Microsoft To Do`, catalogued on PulseMCP. Manage tasks and lists with Microsoft Entra ID authentication

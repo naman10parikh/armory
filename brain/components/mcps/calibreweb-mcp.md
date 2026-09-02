@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:14:58Z"
 ---
 ## What it is
 A read-only MCP server that connects to Calibre-Web ebook libraries via OPDS feeds, enabling AI assistants to search and browse books, shelves, covers, and library statistics.

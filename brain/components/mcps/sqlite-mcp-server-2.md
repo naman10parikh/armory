@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T17:53:26Z"
 ---
 ## What it is
 Enables AI models to execute SQL queries against a SQLite database and receive results as JSON.

@@ -8,10 +8,12 @@ source_url: https://github.com/farhanaliraza/claude-context-local
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 231
+stars: 236
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-11-13T15:42:17Z"
 ---
 ## What it is
 MCP server `Claude Context Local`, catalogued on PulseMCP. Provides local semantic code search using EmbeddingGemma embeddings and FAISS vector indexing with intelligent AST chunking for Python, JavaScript, TypeScript, JSX, TSX, and Svelte codebases, featuring incremental Merkle tree-based change detection and 100% local operation for private code exploration and contextual assistance.

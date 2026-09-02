@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T17:34:00Z"
 ---
 ## What it is
 Centralized MCP server that intelligently routes user queries to appropriate MCP tools, aggregates responses from multiple servers, and supports both rule-based and AI-powered routing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T08:40:26Z"
 ---
 ## What it is
 Enables Claude Code Desktop to call OpenAI Codex/GPT-5 and Gemini APIs via stdio MCP, without requiring local CLI tools.

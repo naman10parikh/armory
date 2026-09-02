@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:51:45Z"
 ---
 ## What it is
 A local MCP server that lets Claude read macOS Mail.app via JXA, with tools for listing accounts/mailboxes, searching and reading messages. Read-only by default, with optional opt-in write tools for compose drafts and Apple Calendar events.

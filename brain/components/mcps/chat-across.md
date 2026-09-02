@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:37:56Z"
 ---
 ## What it is
 Enables AI coding agents to collaborate on the same project by sharing session briefs and reading each other's native transcripts, memories, and instructions in place, with zero-copy, across different agent tools.

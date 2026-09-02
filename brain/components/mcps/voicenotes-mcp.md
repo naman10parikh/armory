@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:55:27Z"
 ---
 ## What it is
 Enables seamless interaction with Voicenotes through natural language, allowing users to search, create, edit, tag, and organize their notes via an MCP client like Claude.

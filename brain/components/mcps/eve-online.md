@@ -8,10 +8,12 @@ source_url: https://github.com/kongyo2/eve-online-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-25T11:34:51Z"
 ---
 ## What it is
 MCP server `EVE Online`, catalogued on PulseMCP. Integrates with EVE Online's API to provide real-time market data, item prices, and game information for analyzing market trends and making informed trading decisions.

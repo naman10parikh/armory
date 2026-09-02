@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:39:33Z"
 ---
 ## What it is
 Enables MCP-compatible supervisors to delegate coding and review tasks to Claude Code CLI with persistent sessions and strict permission controls.

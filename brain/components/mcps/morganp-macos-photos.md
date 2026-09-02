@@ -8,10 +8,12 @@ source_url: https://github.com/morganp/photos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-07T12:45:48Z"
 ---
 ## What it is
 MCP server `macOS Photos`, catalogued on PulseMCP. Provides access to macOS Photos.app libraries through Apple's PhotoKit framework for photo search, album management, asset export, and organization.

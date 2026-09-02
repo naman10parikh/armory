@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T04:28:17Z"
 ---
 ## What it is
 Read-only crypto safety MCP server that helps AI agents and wallets verify token honeypot risks, decode EIP-712 signatures, scan approval risks, and simulate transactions before signing.

@@ -8,10 +8,12 @@ source_url: https://github.com/aiondadotcom/mcp-ssh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-10T14:34:30Z"
 ---
 ## What it is
 MCP server `SSH`, catalogued on PulseMCP. Provides secure remote server management capabilities through SSH connections, automatically discovering hosts from SSH configuration files and executing commands, transferring files, and managing connectivity using native SSH and SCP commands.

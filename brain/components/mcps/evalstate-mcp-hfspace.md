@@ -12,6 +12,8 @@ stars: 387
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2025-06-13T17:05:31Z"
 ---
 ## What it is
 MCP server `HuggingFace Spaces Connector`, catalogued on PulseMCP. MCP server that seamlessly integrates Hugging Face Spaces with AI assistants, enabling easy access to diverse AI models and tools without manual configuration.

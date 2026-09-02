@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-04T20:13:07Z"
 ---
 ## What it is
 MCP server `Make`, catalogued on PulseMCP. Integrates with Make (formerly Integromat) to enable automated workflows and task execution using AI assistants and Make's extensive app integration library.

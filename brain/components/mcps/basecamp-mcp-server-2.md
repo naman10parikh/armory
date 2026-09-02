@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T09:33:40Z"
 ---
 ## What it is
 Enables Claude to interact with Basecamp API for project and to-do management via OAuth authentication.

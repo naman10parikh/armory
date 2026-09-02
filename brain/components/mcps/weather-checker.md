@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T07:36:03Z"
 ---
 ## What it is
 Enables real-time weather lookup for any location via MCP, returning concise summaries from wttr.in.

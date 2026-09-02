@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:01:23Z"
 ---
 ## What it is
 An MCP server for inspecting MEV-relevant activity on Polygon, providing tools to check pending swaps, confirmed swap history, and gas price percentiles, while honestly reporting coverage limitations.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-12T15:32:28Z"
 ---
 ## What it is
 MCP server `Solana Blockchain`, catalogued on PulseMCP. Enables interaction with the Solana blockchain for deploying tokens, fetching asset information, checking balances, transferring funds, minting NFTs, trading, and resolving domains without switching context.

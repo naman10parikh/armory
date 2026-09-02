@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-04T17:59:31Z"
 ---
 ## What it is
 Enables LLMs to access Jenkins job data, trigger builds, and manage Jenkins tasks through a standardized interface.

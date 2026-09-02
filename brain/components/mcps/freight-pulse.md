@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T17:55:02Z"
 ---
 ## What it is
 Ocean and multimodal freight intelligence suite providing cross-validated rates, total landed cost, transit reliability, customs, risk, emissions, and unified ship decisions through 47 tools.

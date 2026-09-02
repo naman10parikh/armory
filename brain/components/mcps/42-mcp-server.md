@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-05T03:37:46Z"
 ---
 ## What it is
 Exposes 42's intranet API via the Model Context Protocol, enabling LLM agents to access user information, projects, and campus data.

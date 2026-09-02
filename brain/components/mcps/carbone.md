@@ -8,10 +8,12 @@ source_url: https://github.com/carboneio/carbone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-19T10:01:30Z"
 ---
 ## What it is
 MCP server `Carbone`, catalogued on PulseMCP. Generate PDF, DOCX, XLSX, and PPTX from templates and JSON data.

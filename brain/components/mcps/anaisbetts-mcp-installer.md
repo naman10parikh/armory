@@ -8,10 +8,12 @@ source_url: https://github.com/anaisbetts/mcp-installer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1526
+stars: 1533
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 193
+pushed_at: "2024-11-26T20:05:09Z"
 ---
 ## What it is
 MCP server `MCP Installer`, catalogued on PulseMCP. Install and configure additional MCP servers dynamically.

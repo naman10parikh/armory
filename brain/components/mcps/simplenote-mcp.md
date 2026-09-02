@@ -8,10 +8,12 @@ source_url: https://github.com/automattic/simplenote-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-27T18:42:50Z"
 ---
 ## What it is
 MCP server `Simplenote`, catalogued on PulseMCP. MCP server for reading Simplenote notes across macOS, Linux, and Windows.

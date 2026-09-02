@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:35:53Z"
 ---
 ## What it is
 Drive a Flipper Zero wirelessly over Bluetooth LE from Claude.

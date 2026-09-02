@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T03:05:10Z"
 ---
 ## What it is
 AI-powered comic book authentication, grading, and valuation, secured on the Casper blockchain.

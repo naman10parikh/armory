@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T02:34:35Z"
 ---
 ## What it is
 MCP server for witnessd, enabling agents to create tamper-evident, signed, and Merkle-anchored certificates of any public URL or API response at a moment in time.

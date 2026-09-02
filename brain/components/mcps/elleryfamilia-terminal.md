@@ -8,10 +8,12 @@ source_url: https://github.com/elleryfamilia/terminal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-08-21T13:56:23Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Provides direct access to a headless terminal emulator with tools for typing text, sending special keys, reading output, and capturing terminal state for interactive command-line operations and system administration.

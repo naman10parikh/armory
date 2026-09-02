@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T02:55:55Z"
 ---
 ## What it is
 A production-ready MCP server that turns any MCP-compatible AI assistant into an AI-powered ServiceNow Incident Management Assistant, exposing incidents, users, CMDB records, and knowledge articles through validated tools.

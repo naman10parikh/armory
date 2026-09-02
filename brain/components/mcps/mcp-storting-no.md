@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:11Z"
 ---
 ## What it is
 Provides access to the Norwegian Parliament's open data via Stortinget's API, enabling querying of parliamentary information through natural language.

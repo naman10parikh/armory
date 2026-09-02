@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T03:28:05Z"
 ---
 ## What it is
 Enterprise-grade dynamic MCP proxy that eliminates token bloat by lazy-loading tool schemas based on semantic intent, enabling efficient orchestration of multiple backend tools from a single endpoint.

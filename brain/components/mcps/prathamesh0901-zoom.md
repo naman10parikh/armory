@@ -8,10 +8,12 @@ source_url: https://github.com/prathamesh0901/zoom-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-08T15:53:00Z"
 ---
 ## What it is
 MCP server `Zoom`, catalogued on PulseMCP. Provides a bridge between Zoom API and virtual meeting management, enabling creation, updating, deletion, and fetching of meetings without navigating the Zoom interface or handling authentication flows.

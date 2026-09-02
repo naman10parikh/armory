@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T06:57:26Z"
 ---
 ## What it is
 Enables AI agents to discover and invoke kernel tools and capabilities via the Model Context Protocol (MCP), supporting stdio, SSE, and Streamable HTTP transports for bidirectional communication.

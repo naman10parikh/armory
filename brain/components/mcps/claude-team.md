@@ -8,10 +8,12 @@ source_url: https://github.com/7836246/claude-team-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
+forks: 6
+pushed_at: "2026-04-14T07:23:19Z"
 ---
 
 ## What it is

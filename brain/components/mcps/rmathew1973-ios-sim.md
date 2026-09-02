@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T03:13:26Z"
 ---
 ## What it is
 MCP server `iOS Simulator`, catalogued on PulseMCP. Drives the iOS Simulator via semantic accessibility-tree snapshots with sub-200ms response times.

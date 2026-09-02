@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T21:28:38Z"
 ---
 ## What it is
 MCP server `NextRole`, catalogued on PulseMCP. MCP proxy bridging AI assistants to NextRole's CV and cover letter tailoring services with multiple professional tiers.

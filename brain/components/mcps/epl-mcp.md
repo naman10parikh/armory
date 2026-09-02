@@ -8,11 +8,13 @@ source_url: https://github.com/abneeshsingh21/EPL
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3796
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 4
+pushed_at: "2026-08-29T16:51:31Z"
 ---
 ## What it is
 # EPL Language MCP Server The official Model Context Protocol (MCP) server for the EPL (English Programming Language) ecosystem. This server provides AI coding assistants with direct access to the EPL runtime, compiler, and documentation. It empowers AI models to securely run EPL code, execute test 

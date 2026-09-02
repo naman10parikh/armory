@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:41:18Z"
 ---
 ## What it is
 A read-only PostgreSQL MCP server for AI coding agents that exposes database schema and sample data as tools, with LLM-powered semantic search enriched by a user-authored semantic layer.

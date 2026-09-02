@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:58:14Z"
 ---
 ## What it is
 Provides simulated tools for querying student profiles, filtering attention lists, writing follow-up records, and generating class dashboards, enabling data-driven student management.

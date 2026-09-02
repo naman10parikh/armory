@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T21:15:34Z"
 ---
 ## What it is
 Provides AI assistants and MCP clients with API access to manage Firewalla MSP resources including boxes, devices, alarms, rules, flows, and target lists.

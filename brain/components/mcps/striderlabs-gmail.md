@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-18T01:07:10Z"
 ---
 ## What it is
 MCP server `Strider Labs Gmail`, catalogued on PulseMCP. Gmail integration for sending, reading, searching, and listing emails via Google APIs.

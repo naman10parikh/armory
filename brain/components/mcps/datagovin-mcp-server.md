@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T11:47:08Z"
 ---
 ## What it is
 Exposes India's open government data (data.gov.in) APIs via the Model Context Protocol, enabling agentic AI data exploration.

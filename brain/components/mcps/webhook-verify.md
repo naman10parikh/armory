@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T21:19:28Z"
 ---
 ## What it is
 Provides timing-safe, replay-resistant webhook signature verification for Stripe, GitHub, Slack, Shopify, and Twilio, returning valid/invalid with precise failure reasons.

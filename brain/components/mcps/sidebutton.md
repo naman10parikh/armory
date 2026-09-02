@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T02:51:09Z"
 ---
 ## What it is
 MCP server `SideButton`, catalogued on PulseMCP. Enables AI assistants to trigger and respond to SideButton workflow automations.

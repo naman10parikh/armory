@@ -8,10 +8,12 @@ source_url: https://github.com/richardhan/mssql_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 351
+stars: 386
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 121
+pushed_at: "2025-11-02T12:51:25Z"
 ---
 ## What it is
 MCP server `Microsoft SQL Server (MSSQL)`, catalogued on PulseMCP. Securely integrates with Microsoft SQL Server databases for data analysis, reporting, and management.

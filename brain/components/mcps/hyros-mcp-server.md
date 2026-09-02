@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:15:59Z"
 ---
 ## What it is
 Bridges Hyros attribution data to Claude via MCP tools, enabling real ROAS/revenue reconciliation by campaign and ad account.

@@ -8,11 +8,13 @@ source_url: https://github.com/TeleAI-UAGI/telemem
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 484
+stars: 486
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 35
+pushed_at: "2026-08-31T14:12:58Z"
 ---
 ## What it is
 Long-term and multimodal memory for AI agents. Store facts and conversations with add_memory, recall them with search_memories — 8 tools over stdio/SSE/HTTP. Per-character memory isolation, LLM-based semantic deduplication, FAISS + JSON storage, and a fully local option (Ollama, no API key). Drop-in

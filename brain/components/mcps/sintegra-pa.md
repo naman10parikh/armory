@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:18Z"
 ---
 ## What it is
 MCP server for consulting SINTEGRA PA official tax registration data, read-only with pay-per-use credits.

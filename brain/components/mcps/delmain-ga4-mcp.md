@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T21:19:37Z"
 ---
 ## What it is
 Enables querying Google Analytics 4 properties using natural language through MCP clients. Supports customizable reports with any dimensions and metrics, listing properties, and real-time data.

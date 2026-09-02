@@ -8,10 +8,12 @@ source_url: https://github.com/benoitliard/touch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T12:39:47Z"
 ---
 ## What it is
 MCP server `TouchDesigner`, catalogued on PulseMCP. Control TouchDesigner live from AI assistants via a persistent WebSocket bridge, with tools for nodes, parameters, connections, scripting, and rendering.

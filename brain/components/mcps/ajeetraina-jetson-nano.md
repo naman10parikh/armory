@@ -8,10 +8,12 @@ source_url: https://github.com/ajeetraina/jetsonmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-05T07:15:43Z"
 ---
 ## What it is
 MCP server `Jetson Nano Management`, catalogued on PulseMCP. Provides remote management capabilities for NVIDIA Jetson Nano edge computing systems through SSH connections, enabling hardware control, thermal management, GPIO operations, CUDA verification, ML framework installation, TensorRT model optimization, system administration, and container orchestration with GPU acceleration.

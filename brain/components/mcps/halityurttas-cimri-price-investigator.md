@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T20:59:33Z"
 ---
 ## What it is
 MCP server `Cimri Price Investigator`, catalogued on PulseMCP. Scrapes real-time product pricing data from Cimri.com, a Turkish price comparison website, enabling users to find current market rates without leaving their conversation interface.

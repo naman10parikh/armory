@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:36:41Z"
 ---
 ## What it is
 An MCP server for creating calendar events in Fantastical on macOS with verification by reading back from the calendar store.

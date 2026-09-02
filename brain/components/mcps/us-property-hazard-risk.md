@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:30:02Z"
 ---
 ## What it is
 Assesses natural hazard exposure (flood, wildfire, earthquake, coastal proximity) for a single US property address using only free, keyless public data.

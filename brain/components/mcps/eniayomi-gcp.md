@@ -8,10 +8,12 @@ source_url: https://github.com/eniayomi/gcp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 200
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2025-05-05T09:50:04Z"
 ---
 ## What it is
 MCP server `Google Cloud Platform`, catalogued on PulseMCP. Integrates with Google Cloud Platform services, providing tools for interacting with Compute Engine, Cloud Storage, Cloud Functions, Cloud Run, BigQuery, and more using official client libraries and robust error handling.

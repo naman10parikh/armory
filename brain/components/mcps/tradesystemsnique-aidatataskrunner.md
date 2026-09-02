@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T22:07:58Z"
 ---
 ## What it is
 MCP server `AI Data Task Runner`, catalogued on PulseMCP. Controls MetaTrader 5 data generation and ML model training workflows via AI agents.

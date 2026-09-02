@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:11:54Z"
 ---
 ## What it is
 Enables natural language management of blog posts and comments through a decoupled architecture using Ollama and JSON-RPC. Supports creating, updating, deleting posts and comments via AI chatbot or MCP clients.

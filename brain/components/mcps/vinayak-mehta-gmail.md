@@ -8,10 +8,12 @@ source_url: https://github.com/vinayak-mehta/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-03T18:36:27Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Integrates with Gmail to enable email search, retrieval, and interaction for natural language-driven email management and analysis tasks.

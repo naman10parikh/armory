@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T11:15:03Z"
 ---
 ## What it is
 飞书云文档 MCP Server，为 Claude Code 提供飞书文档的创建、读取、编辑能力，支持 OAuth 认证和 token 自动刷新。

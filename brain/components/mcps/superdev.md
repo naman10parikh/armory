@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:10:17Z"
 ---
 ## What it is
 SuperDev is a local-first desktop app + MCP server that gives AI coding agents (Claude Code, Codex, Cursor — anything MCP-compatible) access to the runtime: live and historical logs across services, breakpoints in already-running processes (same PID, no restart), real browser control, and DAG deploy

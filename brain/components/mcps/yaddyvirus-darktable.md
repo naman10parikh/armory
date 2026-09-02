@@ -8,10 +8,12 @@ source_url: https://github.com/yaddyvirus/darktable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-06T19:48:06Z"
 ---
 ## What it is
 MCP server `Darktable`, catalogued on PulseMCP. Controls Darktable photo editing software via natural language, supporting RAW and JPEG processing, non-destructive adjustments, batch editing, and JPEG, PNG, and TIFF export.

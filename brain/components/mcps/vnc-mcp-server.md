@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T08:46:50Z"
 ---
 ## What it is
 Empowers AI agents to see, reason, and control computers via VNC, providing advanced vision features like OCR and image search, human-like input control, and optional SSH remote command execution.

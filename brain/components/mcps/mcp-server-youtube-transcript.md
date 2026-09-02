@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T01:32:33Z"
 ---
 ## What it is
 Enables retrieval of transcripts from YouTube videos, supporting multiple URL formats, language selection, timestamps, and ad filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-04T19:47:54Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides access to a trip tracking SQLite database. This server enables AI assistants to query and manage flight trip information including users, airports, and flight details.

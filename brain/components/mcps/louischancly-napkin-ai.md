@@ -8,10 +8,12 @@ source_url: https://github.com/louischancly/napkin-ai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-05T10:21:25Z"
 ---
 ## What it is
 MCP server `Napkin AI`, catalogued on PulseMCP. Generate infographics and visuals from text input with multiple output formats and storage destinations

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T21:36:44Z"
 ---
 ## What it is
 Enables AI assistants like Claude to interact with Atomicwork tickets, requests, and workflows through natural language, providing tools for listing, searching, and managing tickets.

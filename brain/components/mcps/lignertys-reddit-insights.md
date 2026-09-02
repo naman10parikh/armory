@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-29T02:30:42Z"
 ---
 ## What it is
 MCP server `Reddit Insights`, catalogued on PulseMCP. AI-powered Reddit search. Search millions of posts semantically, explore subreddits, and discover trending topics and insights.

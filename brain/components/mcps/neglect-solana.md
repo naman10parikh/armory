@@ -8,10 +8,12 @@ source_url: https://github.com/neglectapp/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-18T17:54:53Z"
 ---
 ## What it is
 MCP server `Solana DeFi`, catalogued on PulseMCP. Billions of Solana DeFi TXNs, decoded and accessible via LLM

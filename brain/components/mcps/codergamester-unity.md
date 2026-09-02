@@ -8,10 +8,12 @@ source_url: https://github.com/codergamester/mcp-unity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1720
+stars: 1883
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 239
+pushed_at: "2026-08-26T23:19:48Z"
 ---
 ## What it is
 MCP server `Unity`, catalogued on PulseMCP. Integrate with the Unity Editor game engine.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-16T09:07:49Z"
 ---
 ## What it is
 Integrates Rize.io's time tracking and productivity analytics with AI assistants via the Model Context Protocol, enabling natural language queries about productivity metrics, focus sessions, and project management.

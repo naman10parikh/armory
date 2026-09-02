@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-22T15:55:19Z"
 ---
 ## What it is
 MCP server `SuperiorAPIs`, catalogued on PulseMCP. Provides a bridge between AI systems and external APIs, enabling structured communication with third-party services through a set of callable tools built on the fastmcp framework.

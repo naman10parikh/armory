@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T20:21:10Z"
 ---
 ## What it is
 A demo MCP server for exploring Massachusetts town data (housing, schools, crime, distance to Boston) via tools and resources, designed to teach MCP architecture with dual-host setup.

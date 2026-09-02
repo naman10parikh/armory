@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T20:49:34Z"
 ---
 ## What it is
 Exposes Mavis's coding tools (bash, edit, git, supabase) to Claude Code via the Model Context Protocol, enabling Claude to reason and execute commands in a sandboxed workspace.

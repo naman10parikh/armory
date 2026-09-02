@@ -8,10 +8,12 @@ source_url: https://github.com/llllxxlllll/excel-mcp-server-xlwings
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T09:04:21Z"
 ---
 ## What it is
 MCP server `Excel xlwings`, catalogued on PulseMCP. Enables real-time Excel file editing through xlwings library with support for formulas, charts, pivot tables, formatting, VBA execution, and multiple transport modes including stdio and streamable HTTP.

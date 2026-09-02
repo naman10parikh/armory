@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-18T03:19:29Z"
 ---
 ## What it is
 MCP server `Brazilian CEP`, catalogued on PulseMCP. Integrates with Brazilian postal code (CEP) APIs to retrieve address details for location validation and geolocation services in Node.js applications.

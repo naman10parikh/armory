@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:51Z"
 ---
 ## What it is
 MCP server for querying SEFAZ AL DEC Caixa Postal data from the official source, enabling reading and writing via one tool in any MCP-compatible client. It is hosted with prepaid per-use credits and requires no platform credentials.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T17:12:45Z"
 ---
 ## What it is
 Enables AI agents to fetch, clean, and extract readable content from web pages, optionally including links and images, via the scrape_url tool.

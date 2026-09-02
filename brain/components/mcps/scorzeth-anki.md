@@ -8,10 +8,12 @@ source_url: https://github.com/scorzeth/anki-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 181
+stars: 184
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-01-08T00:38:19Z"
 ---
 ## What it is
 MCP server `Anki`, catalogued on PulseMCP. Integrates with Anki to enable AI-driven flashcard creation, retrieval, and review processes for enhanced spaced repetition learning.

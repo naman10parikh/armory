@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T23:27:01Z"
 ---
 ## What it is
 Unified MCP server for managing Meta Ads, LinkedIn Ads, Google Ads, GA4, and Search Console with 89 read/write tools, multi-account support, OAuth setup, and safe dry-run mutations.

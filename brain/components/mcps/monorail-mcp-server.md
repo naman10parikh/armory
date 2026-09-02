@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-17T09:03:32Z"
 ---
 ## What it is
 Enables AI agents to fetch real-time quotes, token information, and trade transaction data from Monorail's aggregation of 11 exchanges and 7000+ tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:14:12Z"
 ---
 ## What it is
 Enables AI tools to search and retrieve automotive brand data, logos, and color palettes from the Motomarks car logo API, and generate authenticated CDN image URLs for embedding.

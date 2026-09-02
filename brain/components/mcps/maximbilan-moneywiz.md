@@ -8,10 +8,12 @@ source_url: https://github.com/maximbilan/moneywiz-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-22T11:09:57Z"
 ---
 ## What it is
 MCP server `MoneyWiz`, catalogued on PulseMCP. Integrates with MoneyWiz personal finance data through SQLite database exports to provide account management, transaction analysis, spending trend insights, savings recommendations, and net worth calculations for budgeting and financial planning workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/bobbyhyam/ultimate-brain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T13:13:18Z"
 ---
 ## What it is
 MCP server `Ultimate Brain`, catalogued on PulseMCP. Integrates with Notion's Ultimate Brain template for managing tasks, notes, projects, and areas with GTD-style productivity workflows.

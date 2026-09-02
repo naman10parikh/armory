@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T15:55:39Z"
 ---
 ## What it is
 Self-hosted service providing unified memory search and write operations across file-based memory, vector embeddings, and the Graphiti temporal knowledge graph, accessible via HTTP API or MCP stdio transport.

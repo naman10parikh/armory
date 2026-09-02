@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:41:01Z"
 ---
 ## What it is
 Provides AI agents with a headless personal accounting system via REST API and MCP stdio, enabling account management, transaction recording, transfers, and reporting without a GUI.

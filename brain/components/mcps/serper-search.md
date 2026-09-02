@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T02:55:15Z"
 ---
 ## What it is
 A Model Context Protocol server that enables web searching using the Serper API for Google search results, with optional web page content fetching.

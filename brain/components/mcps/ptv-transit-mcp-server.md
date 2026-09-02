@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:25:42Z"
 ---
 ## What it is
 Exposes Victoria's public transport (PTV) GTFS timetable data as MCP tools, allowing LLMs to answer natural-language questions about routes, stops, and departure times.

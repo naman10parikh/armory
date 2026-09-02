@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-12T00:11:46Z"
 ---
 ## What it is
 MCP server connector for Target retail shopping. Enables AI assistants to search products, manage carts, and track orders on Target.com via browser automation.

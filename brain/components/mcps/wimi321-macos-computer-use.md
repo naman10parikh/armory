@@ -8,10 +8,12 @@ source_url: https://github.com/wimi321/macos-computer-use-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-19T23:32:54Z"
 ---
 ## What it is
 MCP server `macOS Computer Use`, catalogued on PulseMCP. macOS computer use automation with screenshot capture, mouse/keyboard control, app launching, and clipboard access.

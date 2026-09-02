@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T17:32:01Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Business Profiles by creating posts, replying to reviews, listing locations, and more through natural language commands.

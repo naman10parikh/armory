@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T18:45:24Z"
 ---
 ## What it is
 Enables AI agents to search and read Metabase dashboards and cards, explore database schema, and run read-only query previews through the Model Context Protocol.

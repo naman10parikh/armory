@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T01:38:53Z"
 ---
 ## What it is
 Enables querying the Chzzk live-streaming platform for channels, live broadcasts, search, and VODs using natural language.

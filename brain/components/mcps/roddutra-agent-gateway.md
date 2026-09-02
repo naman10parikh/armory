@@ -12,6 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-02T00:36:47Z"
 ---
 ## What it is
 MCP server `Agent Gateway`, catalogued on PulseMCP. Aggregates multiple MCP servers behind single interface with on-demand tool discovery and per-agent access control

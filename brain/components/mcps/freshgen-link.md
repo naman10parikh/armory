@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:23:47Z"
 ---
 ## What it is
 Self-hosted MCP server that integrates Kie.ai image and video generation into GoHighLevel's AI tools, enabling AI agents to create media on demand.

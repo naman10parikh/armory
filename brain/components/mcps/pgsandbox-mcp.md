@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:35:35Z"
 ---
 ## What it is
 PGSandbox MCP is a local Rust MCP server for disposable Postgres databases. It creates tracked database/role pairs, returns scoped sandbox credentials, supports bounded SQL and schema tools, and cleans up expired sandboxes with TTLs.

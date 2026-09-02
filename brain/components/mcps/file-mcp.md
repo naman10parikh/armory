@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:15:05Z"
 ---
 ## What it is
 Educational MCP server for basic file operations (read/write) via the Model Context Protocol.

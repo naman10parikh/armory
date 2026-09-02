@@ -8,10 +8,12 @@ source_url: https://github.com/allenporter/mcp-server-home-assistant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-03-02T18:08:50Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Interact with Home Assistant for querying and controlling smart home devices.

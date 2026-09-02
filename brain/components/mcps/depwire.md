@@ -8,10 +8,12 @@ source_url: https://github.com/depwire/depwire
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-30T21:07:00Z"
 ---
 ## What it is
 MCP server `DepWire`, catalogued on PulseMCP. Builds compiler-accurate dependency graphs at the symbol level, enabling impact analysis, architecture health scoring, dead code detection, security scanning, and arc diagram visualization.

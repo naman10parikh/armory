@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:22:37Z"
 ---
 ## What it is
 Controls kd.exe for KDNET kernel debugging on Windows, often paired with winrm-mcp for guest VM setup over WinRM.

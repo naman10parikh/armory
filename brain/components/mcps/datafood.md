@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T12:32:22Z"
 ---
 ## What it is
 DataFood is a remote MCP server that gives AI agents one-call access to 16 cross-niche data sources — crypto, DeFi, security, weather, news, finance, web3 — through a single Streamable-HTTP endpoint.

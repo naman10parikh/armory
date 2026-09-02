@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T07:39:33Z"
 ---
 ## What it is
 MCP server `Cuentica`, catalogued on PulseMCP. MCP server for the Cuentica accounting API, supporting invoice management, expense tracking, and financial operations via natural language.

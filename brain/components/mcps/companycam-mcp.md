@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T00:12:24Z"
 ---
 ## What it is
 Enables managing CompanyCam projects, photos, tags, comments, and users through natural language, using the CompanyCam API.

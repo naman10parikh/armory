@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-17T03:13:49Z"
 ---
 ## What it is
 MCP server `Word of the Day`, catalogued on PulseMCP. Provides word definition lookup and random word generation using the Dictionary API, offering comprehensive definitions with pronunciation, etymology, meanings, examples, synonyms, and antonyms, plus curated random words by difficulty level for vocabulary learning and writing assistance.

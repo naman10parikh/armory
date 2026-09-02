@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:57:24Z"
 ---
 ## What it is
 A remote MCP server that sends push notifications to your phone via Pushover, exposing a single notify_me tool for notifying you when long-running tasks complete.

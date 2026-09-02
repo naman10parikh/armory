@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:48:59Z"
 ---
 ## What it is
 Provides MCP tools for hybrid knowledge base search, grounded Q&A with citations, agent execution, and ticket/account lookups.

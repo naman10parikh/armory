@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T01:43:34Z"
 ---
 ## What it is
 MCP server `DataClawe`, catalogued on PulseMCP. AI-native database utility that translates natural language into SQL for MySQL and PostgreSQL.

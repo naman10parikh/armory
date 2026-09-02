@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T01:47:44Z"
 ---
 ## What it is
 Enables Claude to create, modify, and delete parts and scripts in OVERDARE Studio worlds via natural language, with automatic backup and rollback for safe operations.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:02Z"
 ---
 ## What it is
 MCP server `Diff Checker`, catalogued on PulseMCP. Compare two texts line-by-line showing additions, deletions, and unchanged lines.

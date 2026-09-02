@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T15:06:31Z"
 ---
 ## What it is
 MCP server `Portainer`, catalogued on PulseMCP. Manages Docker containers and stacks through the Portainer API.

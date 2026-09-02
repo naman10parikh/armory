@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:49Z"
 ---
 ## What it is
 Enables querying official first-degree court case information from the São Paulo Court of Justice (TJSP). It provides a read-only MCP tool, accessible via HTTP, with pay-per-use pricing and no platform credentials required.

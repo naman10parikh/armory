@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:19:24Z"
 ---
 ## What it is
 An MCP server that exposes Estuary Flow pipeline operations as typed tools, enabling agents to inspect pipeline health, publish captures and materializations, edit/restart tasks, and read landed documents via tool calls.

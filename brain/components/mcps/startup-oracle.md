@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:43:22Z"
 ---
 ## What it is
 Evaluates startup ideas with a humorous, brutal verdict, including number of pivots required, a funny comparable, and a realistic YC rejection reason.

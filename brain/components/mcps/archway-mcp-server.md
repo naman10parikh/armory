@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:55:15Z"
 ---
 ## What it is
 Provides governance posture assessment, engagement scoping, and R&D risk screening tools via MCP, deployed on Cloudflare Workers.

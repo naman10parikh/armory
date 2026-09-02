@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [devops, mcp]
+forks: 6
+pushed_at: "2026-03-27T13:43:07Z"
 ---
 
 ## What it is

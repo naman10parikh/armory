@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T04:13:03Z"
 ---
 ## What it is
 Enables AI models to generate, validate, and deploy network topologies directly into Cisco Packet Tracer from natural-language prompts.

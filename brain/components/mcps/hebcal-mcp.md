@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T16:25:45Z"
 ---
 ## What it is
 MCP server for Hebcal, enabling users to generate Jewish holiday lists, convert Hebrew dates, look up Shabbat candle lighting times, Torah readings, and yahrzeits.

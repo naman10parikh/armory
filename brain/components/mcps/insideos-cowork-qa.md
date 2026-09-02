@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T14:26:05Z"
 ---
 ## What it is
 MCP server `Cowork QA`, catalogued on PulseMCP. Goal-driven Playwright browser sessions for AI agents with full action traces and automated QA workflows.

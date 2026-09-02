@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:47:32Z"
 ---
 ## What it is
 Bridges GammaRay probe introspection data into MCP tools, enabling LLMs to inspect and debug Qt Quick/QML scene graphs, items, geometry, materials, and Qt Widgets.

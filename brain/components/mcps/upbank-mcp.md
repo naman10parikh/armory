@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:53:51Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the Up Banking API to LLM clients, providing 19 tools and 2 resources for accounts, transactions, categories, tags, attachments, and webhooks.

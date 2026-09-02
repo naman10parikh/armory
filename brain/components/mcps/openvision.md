@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-18T06:31:13Z"
 ---
 ## What it is
 MCP server `OpenRouter Vision`, catalogued on PulseMCP. Integrates with OpenRouter's vision models to analyze images from file paths, URLs, or base64 data using configurable queries and system prompts across multiple model providers including Claude, GPT-4o, and Qwen variants.

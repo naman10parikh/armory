@@ -8,10 +8,12 @@ source_url: https://github.com/opensvm/zig-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-23T19:33:38Z"
 ---
 ## What it is
 MCP server `Zig`, catalogued on PulseMCP. Integrates with Zig tooling to provide code optimization, analysis, and generation capabilities for efficient Zig development.

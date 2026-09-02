@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T02:51:29Z"
 ---
 ## What it is
 Automatically update AWS credential files with temporary STS tokens and retrieve credential info, enabling secure credential management via Agent tools.

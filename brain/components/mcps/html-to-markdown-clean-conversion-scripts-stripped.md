@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/html-to-markdown-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4235
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:23Z"
 ---
 ## What it is
 HTML to Markdown converter API for AI agents. Convert HTML to clean Markdown: strips scripts, styles, and tracking, preserves headings, links, lists, images, and tables. Tools: text_convert_html_to_markdown. Use this for content migration, email processing, or preparing HTML content for LLM consumpt

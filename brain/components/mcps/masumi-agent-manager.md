@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-13T10:06:07Z"
 ---
 ## What it is
 Connects AI clients to decentralized agent discovery, hiring, monitoring, and payment systems on the Masumi Network.

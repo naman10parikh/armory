@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:51:54Z"
 ---
 ## What it is
 Enables AI agents to post real-world tasks, match them to people, and release payments through a delegation-based authorization system that enforces scoped, spend-capped permissions.

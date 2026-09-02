@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:12:32Z"
 ---
 ## What it is
 Enables AI agents to query Neo4j graph databases and Box document storage using natural language through a single MCP endpoint.

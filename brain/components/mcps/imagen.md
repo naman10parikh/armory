@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:56:53Z"
 ---
 ## What it is
 MCP server for generating pixel-art sprites with transparent backgrounds using any diffusers-compatible text-to-image model.

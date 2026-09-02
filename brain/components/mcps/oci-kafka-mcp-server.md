@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-17T14:38:45Z"
 ---
 ## What it is
 An AI-native control interface for OCI Streaming with Apache Kafka that enables LLM agents to securely manage Kafka clusters through structured tool execution with safety guardrails.

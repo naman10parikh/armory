@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:59:33Z"
 ---
 ## What it is
 MCP server that provides tools for evaluating LLM agent reliability, including adversarial task generation, automated LLM-as-judge assessment, and confidence statistics.

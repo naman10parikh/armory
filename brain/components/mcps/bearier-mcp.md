@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T02:26:09Z"
 ---
 ## What it is
 Bearier MCP lets two desktop AI agents collaborate asynchronously through a shared local task queue — no API keys, no IDE, no cloud. Just one SQLite file bridging agents that otherwise can't talk to each other.

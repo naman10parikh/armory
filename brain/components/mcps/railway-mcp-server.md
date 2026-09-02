@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-20T05:27:05Z"
 ---
 ## What it is
 MCP server with Streamable HTTP transport, deployed on Railway, offering tools like weather, BMI calculator, greetings, and question generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-10T05:46:18Z"
 ---
 ## What it is
 Enables searching and retrieving files from SharePoint and OneDrive within Microsoft 365, with local caching for efficiency.

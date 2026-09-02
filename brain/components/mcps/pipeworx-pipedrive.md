@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:39Z"
 ---
 ## What it is
 MCP server `Pipedrive`, catalogued on PulseMCP. Pipedrive CRM data via the REST API v1 — deals, contacts, organizations, and unified search.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-03T14:03:49Z"
 ---
 ## What it is
 MCP server `Pylpex`, catalogued on PulseMCP. Provides code execution, tokenization, and interpreter state management for the Pylpex programming language with Python-like syntax supporting functions, loops, conditionals, and basic data structures.

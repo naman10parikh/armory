@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-29T09:39:58Z"
 ---
 ## What it is
 Enables AI models to interactively explore, analyze, and manage Salesforce organizations through OAuth2 authentication and standardized tools.

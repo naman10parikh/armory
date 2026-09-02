@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T00:44:56Z"
 ---
 ## What it is
 MCP server `Storybook Preview`, catalogued on PulseMCP. Renders Storybook component previews inside the IDE as components are edited.

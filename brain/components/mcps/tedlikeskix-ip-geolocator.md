@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-31T17:22:08Z"
 ---
 ## What it is
 MCP server `IP Geolocator`, catalogued on PulseMCP. Integrates with IP-API.com to provide IP geolocation services, enabling location-based insights without API keys or complex integrations.

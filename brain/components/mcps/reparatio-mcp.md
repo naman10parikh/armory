@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T16:28:58Z"
 ---
 ## What it is
 MCP server for Reparatio that lets AI assistants inspect, convert, merge, append, and query local data files in over 25 formats.

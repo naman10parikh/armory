@@ -8,10 +8,12 @@ source_url: https://github.com/manitgupta/nse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-29T11:04:08Z"
 ---
 ## What it is
 MCP server `NSE India`, catalogued on PulseMCP. Provides live Indian stock market data from NSE with 17 tools for bulk deals, institutional flows, market quotes, corporate events, and short data.

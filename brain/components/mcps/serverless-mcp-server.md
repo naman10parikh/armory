@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T09:25:35Z"
 ---
 ## What it is
 A minimal, production-ready MCP server running on AWS Lambda with Streamable HTTP transport, enabling deployment of custom tools behind API Gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T05:17:45Z"
 ---
 ## What it is
 Minimal MCP server allowing Python functions to be served as MCP tools over stdio or HTTP, with a built-in client for connecting to MCP servers.

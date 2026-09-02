@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:45:57Z"
 ---
 ## What it is
 An MCP server that automates the SimScale Workbench through a visible Microsoft Edge browser using Playwright, enabling UI-based interactions like navigation, clicking, filling forms, uploading CAD files, and running simulations without the enterprise API.

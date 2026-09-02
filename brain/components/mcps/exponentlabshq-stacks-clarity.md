@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-06T15:26:22Z"
 ---
 ## What it is
 MCP server `Stacks Clarity`, catalogued on PulseMCP. Provides comprehensive Stacks blockchain development tools including SIP standards access, NFT and fungible token creation, security analysis with mandatory post-conditions, performance optimization, account management, and production-ready Clarity contract generation with test suites for building DeFi protocols, NFT marketplaces, and DAOs.

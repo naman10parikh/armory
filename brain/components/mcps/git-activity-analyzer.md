@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:36:36Z"
 ---
 ## What it is
 MCP server that analyzes git activity from a repository mounted at /repo, exposing an SSE interface and health check endpoint.

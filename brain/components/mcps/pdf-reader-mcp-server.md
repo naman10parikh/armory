@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-25T12:58:24Z"
 ---
 ## What it is
 An MCP server providing comprehensive PDF processing capabilities with 18 tools for text extraction, OCR, image conversion, metadata management, and optimization.

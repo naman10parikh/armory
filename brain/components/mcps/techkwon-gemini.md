@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-30T13:21:44Z"
 ---
 ## What it is
 MCP server `Gemini with Web Search`, catalogued on PulseMCP. Integrates Google's Gemini model with real-time web search and YouTube data to enhance AI responses with up-to-date information from the internet.

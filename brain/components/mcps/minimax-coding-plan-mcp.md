@@ -8,11 +8,13 @@ source_url: https://github.com/MiniMax-AI/MiniMax-Coding-Plan-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 100
+stars: 101
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 29
+pushed_at: "2026-08-20T12:07:01Z"
 ---
 ## What it is
 Specialized MCP server for coding workflows with web search and image analysis tools.

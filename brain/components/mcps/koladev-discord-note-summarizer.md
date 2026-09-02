@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-13T13:15:23Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Integrates Discord chat, enabling message sending and reading.

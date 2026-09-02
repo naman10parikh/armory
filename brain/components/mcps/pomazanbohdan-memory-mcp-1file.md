@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 24
+forks: 7
+pushed_at: "2026-05-28T16:40:43Z"
 ---
 ## What it is
 A self-contained Memory server with single-binary architecture (embedded DB & models, no dependencies). Provides persistent semantic and graph-based memory for AI agents.

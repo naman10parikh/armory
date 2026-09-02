@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:57:51Z"
 ---
 ## What it is
 MCP server for self-hosted qTest Manager, enabling natural-language management of projects, modules, test cases, requirements, traceability, and test execution via the qTest REST API.

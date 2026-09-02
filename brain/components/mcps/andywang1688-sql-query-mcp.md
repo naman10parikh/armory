@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 6
+forks: 0
+pushed_at: "2026-06-26T07:20:18Z"
 ---
 ## What it is
 A general-purpose MCP server that lets AI work with multiple databases within clear boundaries. Supports PostgreSQL and MySQL today with schema discovery, sampling, read-only queries, and query-plan inspection.

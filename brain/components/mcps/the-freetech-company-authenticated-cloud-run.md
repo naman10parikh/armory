@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-05T14:38:20Z"
 ---
 ## What it is
 MCP server `Authenticated Cloud Run`, catalogued on PulseMCP. Enables secure hosting on Google Cloud Run with user-based IAM authentication, providing controlled access to custom servers over the internet for team collaboration.

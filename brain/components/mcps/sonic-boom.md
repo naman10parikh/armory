@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T15:38:46Z"
 ---
 ## What it is
 Encodes a TypeScript/JavaScript codebase into a deterministic PNG heatmap that vision-capable AI models can read to bypass token limits for codebase-scale audits.

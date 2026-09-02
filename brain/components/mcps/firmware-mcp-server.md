@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:10:54Z"
 ---
 ## What it is
 A local stdio MCP server for embedded firmware automation that exposes tools to build, flash, reset devices, and capture serial logs through a device configuration file.

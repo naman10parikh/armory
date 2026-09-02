@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-27T04:15:50Z"
 ---
 ## What it is
 MCP server `esa`, catalogued on PulseMCP. Provides a bridge to esa's API for document management, enabling search, creation, updates, and deletion of posts and comments with member management and categorization capabilities

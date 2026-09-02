@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-13T18:00:05Z"
 ---
 ## What it is
 MCP server `Leave Management System`, catalogued on PulseMCP. Provides comprehensive leave management functionality including request submission, approval workflows, balance tracking, and HR reporting for streamlined organizational leave processes.

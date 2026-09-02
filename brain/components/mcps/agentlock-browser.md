@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:12Z"
 ---
 ## What it is
 Enables an agent to drive a real browser while enforcing provenance-based gating so URLs and form values must trace to the user or an allowlist, never to untrusted page content.

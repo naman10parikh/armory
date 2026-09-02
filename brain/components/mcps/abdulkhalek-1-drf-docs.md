@@ -8,10 +8,12 @@ source_url: https://github.com/abdulkhalek-1/drf-mcp-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-09T15:14:06Z"
 ---
 ## What it is
 MCP server `DRF Docs`, catalogued on PulseMCP. Exposes Django REST Framework API documentation through MCP for AI coding agents to generate frontend integration code.

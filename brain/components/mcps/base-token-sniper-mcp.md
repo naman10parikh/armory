@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:36:41Z"
 ---
 ## What it is
 An MCP server for AI agents to discover and trade new token launches on Base chain.

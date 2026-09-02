@@ -8,11 +8,13 @@ source_url: https://github.com/aide-memory/aide-memory
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T23:29:53Z"
 ---
 ## What it is
 Auto-captured, auto-recalled, path-scoped memory for AI coding agents and teams.

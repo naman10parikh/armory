@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T04:41:56Z"
 ---
 ## What it is
 A read-only MCP server that exposes Kettle Logic's published whitepapers, playbooks, and industry pages to AI agents through tools and resources, fetching content live from the public website.

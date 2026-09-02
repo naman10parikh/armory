@@ -8,10 +8,12 @@ source_url: https://github.com/ichigo3766/audio-transcriber-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-25T19:50:51Z"
 ---
 ## What it is
 MCP server `Audio Transcriber (OpenAI Whisper)`, catalogued on PulseMCP. Provides speech-to-text transcription capabilities using OpenAI's Whisper API with configurable language settings and optional file saving

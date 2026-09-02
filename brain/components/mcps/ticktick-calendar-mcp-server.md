@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T07:19:15Z"
 ---
 ## What it is
 Integrates TickTick calendar with Obsidian/Claude Code, enabling users to register events from markdown text or files via natural language.

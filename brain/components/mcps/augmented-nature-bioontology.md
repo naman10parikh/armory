@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-21T10:10:26Z"
 ---
 ## What it is
 MCP server `BioPortal`, catalogued on PulseMCP. Integrates with BioPortal's API to search, annotate, and explore over 1,200 biological ontologies including medical terminologies like NCIT, DOID, and MESH with batch processing, text annotation, and analytics capabilities for bioinformatics research and clinical text processing.

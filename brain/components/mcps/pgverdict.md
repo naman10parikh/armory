@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:43:29Z"
 ---
 ## What it is
 Postgres performance MCP server that analyzes hotspots, explains query plans, and detects dead-weight indexes. It aims to produce evidence-backed recommendations through a verification loop.

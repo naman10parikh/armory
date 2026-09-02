@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T20:05:20Z"
 ---
 ## What it is
 Offline RAG MCP server that indexes documents into SQLite with hybrid vector and lexical search, and enables natural language queries via Claude.

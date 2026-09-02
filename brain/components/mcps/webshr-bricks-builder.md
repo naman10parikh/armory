@@ -8,10 +8,12 @@ source_url: https://github.com/webshr/bricks-builder-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-03T11:28:32Z"
 ---
 ## What it is
 MCP server `Bricks Builder`, catalogued on PulseMCP. Programmatically manage WordPress Bricks Builder pages, templates, and elements through natural language commands.

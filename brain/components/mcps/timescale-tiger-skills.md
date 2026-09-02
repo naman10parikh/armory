@@ -8,10 +8,12 @@ source_url: https://github.com/timescale/tiger-skills-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-01T10:14:52Z"
 ---
 ## What it is
 MCP server `Tiger Skills`, catalogued on PulseMCP. Provider-agnostic skills framework for extending LLM capabilities

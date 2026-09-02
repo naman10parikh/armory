@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:58:46Z"
 ---
 ## What it is
 Official MCP server for Agni Folio, a free multi-currency wealth & portfolio tracker. 23 tools for holdings, performance, FIRE planning, crypto P&L, and confirm-gated writes — hosted endpoint with OAuth 2.1, plus a Docker stdio bridge in this repo.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T13:01:06Z"
 ---
 ## What it is
 A Model Context Protocol server that connects AI assistants to UNESCO Institute for Statistics data, enabling natural language search, retrieval, and comparison of indicators across countries.

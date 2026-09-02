@@ -8,10 +8,12 @@ source_url: https://github.com/inaniwaudon/illustrator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-25T05:07:38Z"
 ---
 ## What it is
 MCP server `Adobe Illustrator`, catalogued on PulseMCP. Enables AI to manipulate Adobe Illustrator documents with tools for text styling, image placement, shape drawing, and element organization through ExtendScript communication

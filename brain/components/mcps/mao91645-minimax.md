@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T09:04:30Z"
 ---
 ## What it is
 MCP server `MiniMax`, catalogued on PulseMCP. Provides 11 tools powered by MiniMax APIs for speech synthesis, video and image generation, music creation, web search, and image understanding.

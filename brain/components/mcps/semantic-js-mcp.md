@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:16:45Z"
 ---
 ## What it is
 Provides structured semantic context for JavaScript/TypeScript codebases, enabling coding agents to navigate, review, and change code with explicit uncertainty.

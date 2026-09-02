@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-30T05:36:50Z"
 ---
 ## What it is
 Enterprise-grade MCP server integrating Claude AI capabilities, enabling AI-powered conversations, file operations, and system tools via the Model Context Protocol.

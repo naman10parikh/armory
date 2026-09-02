@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:17:52Z"
 ---
 ## What it is
 Enables Claude to guide developers through structured complexity estimation using BCP Plus methodology, counting 13 dimensions and persisting results for H/BCP tracking.

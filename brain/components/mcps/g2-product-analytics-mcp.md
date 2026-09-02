@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T05:15:03Z"
 ---
 ## What it is
 Provides a governed analytics layer over synthetic product data, exposing MCP tools for investigating product metrics, slicing by dimensions, and comparing periods while preventing unrestricted SQL access.

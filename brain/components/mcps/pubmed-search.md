@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:49:30Z"
 ---
 ## What it is
 Enables searching PubMed using natural language questions by translating queries to PubMed syntax and returning semantically relevant results. It also supports related articles, citation chains, and bibliography export via MCP tools.

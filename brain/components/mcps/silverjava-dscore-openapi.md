@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-24T06:23:11Z"
 ---
 ## What it is
 MCP server `DS Core Open API`, catalogued on PulseMCP. Integrates with DS Core Open API healthcare system to provide search and retrieval of patient records, DICOM studies, digital impressions, and clinical documents with pagination, filtering, and comprehensive medical data access.

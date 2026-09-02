@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2024-12-15T01:30:29Z"
 ---
 ## What it is
 MCP server `LanceDB`, catalogued on PulseMCP. Integrates with LanceDB vector database to enable efficient storage, retrieval, and similarity search of vector embeddings with associated metadata for semantic search and recommendation systems.

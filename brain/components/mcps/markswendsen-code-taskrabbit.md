@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-17T13:51:40Z"
 ---
 ## What it is
 MCP server `TaskRabbit`, catalogued on PulseMCP. Automates TaskRabbit interactions through browser automation for booking home services and managing tasker assignments.

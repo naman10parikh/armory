@@ -8,10 +8,12 @@ source_url: https://github.com/wangyihang/multipass-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-05T02:41:04Z"
 ---
 ## What it is
 MCP server `Multipass`, catalogued on PulseMCP. Manages Multipass virtual machine instances with lifecycle operations, snapshots, file transfers, directory mounting, and command execution.

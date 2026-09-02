@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T16:14:46Z"
 ---
 ## What it is
 Transforms messy commit histories into clean, secure repositories by scanning for secrets, sanitizing history, and generating professional reports.

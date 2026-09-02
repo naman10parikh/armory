@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:37:32Z"
 ---
 ## What it is
 MCP server providing access to Russian Railways ticket API, enabling train search, station lookup, and trip information.

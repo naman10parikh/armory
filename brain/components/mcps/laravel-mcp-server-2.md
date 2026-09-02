@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:19:45Z"
 ---
 ## What it is
 Exposes Laravel development tools (artisan, migrations, config, schema, logs) as MCP tools for use with compatible clients.

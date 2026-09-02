@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T21:50:56Z"
 ---
 ## What it is
 Provides web, image, and news search capabilities via the 4get meta search engine API, with caching, retry logic, and configurable engine shorthands.

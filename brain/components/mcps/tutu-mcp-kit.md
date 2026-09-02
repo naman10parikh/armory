@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:31:11Z"
 ---
 ## What it is
 MCP server for searching multi-transport routes and hotels, enabling trip planning with combined ticket and hotel options and deep links to purchase on Tutu.ru.

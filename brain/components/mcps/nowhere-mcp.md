@@ -8,11 +8,13 @@ source_url: https://github.com/zuohang20100323/nowhere-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T08:00:47Z"
 ---
 ## What it is
 Gives AI a virtual body to explore real locations on Earth using authentic terrain, weather, sky, radio, wildlife, and cultural data, with tools for walking, observing, asking about history, and collecting souvenirs—fully offline-capable.

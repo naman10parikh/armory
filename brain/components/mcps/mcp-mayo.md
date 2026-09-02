@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:26:16Z"
 ---
 ## What it is
 MCP server that exposes MAYO Apollo HRM platform's Foundation, Attendance, and Payroll APIs as AI-callable tools, enabling natural language queries for employee profiles, attendance summaries, and payroll reports.

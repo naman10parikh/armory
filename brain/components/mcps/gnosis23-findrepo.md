@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T07:13:07Z"
 ---
 ## What it is
 MCP server `GitHub Trending Repositories (FindRepo)`, catalogued on PulseMCP. Provides access to GitHub trending repositories with optional language filtering through the findrepo.work API, enabling developers to stay updated on popular open-source projects without leaving their conversation.

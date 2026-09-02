@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T00:54:43Z"
 ---
 ## What it is
 Enables Claude to generate interactive quizzes from conversations to test understanding and reinforce learning.

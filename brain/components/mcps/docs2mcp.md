@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:38:08Z"
 ---
 ## What it is
 Enables any compatible MCP client or AI agent to retrieve documentation from a local directory of Markdown, HTML, or TXT files via a remote, read-only MCP server.

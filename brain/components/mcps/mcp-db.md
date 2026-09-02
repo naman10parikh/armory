@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:35:32Z"
 ---
 ## What it is
 MCP server for exploring metadata of corporate databases: table structures, relationships, dependencies, and export to UML diagrams.

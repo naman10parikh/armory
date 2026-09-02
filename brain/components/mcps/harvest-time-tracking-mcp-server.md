@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-25T17:55:20Z"
 ---
 ## What it is
 Enables LLM clients to interact with Harvest time tracking accounts for managing clients, projects, users, and time entries via natural language.

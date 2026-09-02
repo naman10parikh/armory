@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:24:57Z"
 ---
 ## What it is
 Enables AI assistants to securely read and analyze local files such as CSV, JSON, and PDF from the project directory, allowing tasks like spending analysis.

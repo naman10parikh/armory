@@ -8,10 +8,12 @@ source_url: https://github.com/arthur-ficial/apfel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-09T15:17:51Z"
 ---
 ## What it is
 MCP server `Apfel`, catalogued on PulseMCP. Token-budget-optimized MCP servers for Apple FoundationModels: URL fetching, DuckDuckGo search, and combined search-and-fetch.

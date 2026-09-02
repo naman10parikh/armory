@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-03T16:57:33Z"
 ---
 ## What it is
 Enables AI agents to read email data (threads, messages, contacts, folders, labels) via the Model Context Protocol using Mailspring's DatabaseStore API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:56:06Z"
 ---
 ## What it is
 MCP server `POS.DO`, catalogued on PulseMCP. Restaurant discovery MCP for 356K+ venues across 50+ countries with reviews, cultural context, and booking support.

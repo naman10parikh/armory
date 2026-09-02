@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-18T17:33:03Z"
 ---
 ## What it is
 MCP server `CoreDash`, catalogued on PulseMCP. Real User Monitoring platform for Core Web Vitals, providing LCP, INP, and CLS performance data from real site visitors.

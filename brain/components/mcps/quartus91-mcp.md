@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-07T18:27:44Z"
 ---
 ## What it is
 Wraps Quartus II 9.1 command-line tools into MCP tools, enabling AI agents to create projects, assign pins, generate simulation waveforms, run simulations, compile, read reports, and program devices.

@@ -8,10 +8,12 @@ source_url: https://github.com/himanshusanecha/mcp-osint-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-12T16:44:46Z"
 ---
 ## What it is
 MCP server `OSINT Toolkit`, catalogued on PulseMCP. Provides a unified interface for network reconnaissance with parallel execution of OSINT tools including WHOIS, Nmap, DNS lookups, and typosquatting detection for security researchers and network administrators.

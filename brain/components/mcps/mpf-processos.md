@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:42Z"
 ---
 ## What it is
 Consulta processos do Ministério Público Federal em fonte oficial, via MCP, somente leitura, com pagamento por uso.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T12:29:42Z"
 ---
 ## What it is
 Enables sending text messages, files, and images to Feishu (Lark) group chats via MCP, with support for automatic default group configuration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:13:33Z"
 ---
 ## What it is
 Enables searching and accessing OCR text from millions of digitized documents in Gallica, the digital library of the Bibliothèque nationale de France, through MCP tools for text search, snippet retrieval, and full-text download.

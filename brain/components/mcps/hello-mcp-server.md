@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T18:18:29Z"
 ---
 ## What it is
 A minimal stateless MCP server for Cloudflare Workers that provides a greeting tool, demonstrating the use of createMcpHandler from the Agents SDK.

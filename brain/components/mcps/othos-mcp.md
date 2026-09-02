@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T21:24:57Z"
 ---
 ## What it is
 MCP server for the Othos platform that enables AI agents to manage organizations, projects, columns, and tickets via OAuth or bearer token authentication.

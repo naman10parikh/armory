@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T21:52:13Z"
 ---
 ## What it is
 MCP server for official statistics from Statistics Finland (Tilastokeskus) — the StatFin database, exposed through the PxWeb API. Search 3000+ tables, inspect their dimensions, and pull data as JSON-stat2.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-24T17:17:51Z"
 ---
 ## What it is
 MCP server `PostgreSQL Database Explorer`, catalogued on PulseMCP. Enables AI systems to query and explore PostgreSQL databases with tools for schema exploration, data searching, and executing safe SQL queries

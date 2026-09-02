@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T21:38:37Z"
 ---
 ## What it is
 An open MCP server that gives AI agents a transparent, operator-sanctioned place to pause, reflect, converse, or formally decline tasks. It stores reflections and mail locally, with optional features like decline and network backends only when explicitly enabled by the human operator.

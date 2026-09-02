@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:06:09Z"
 ---
 ## What it is
 Enables control of Tuvio/Tuya robot vacuum cleaners via a local hub, supporting commands such as start, pause, home, set mode, suction, water level, and more.

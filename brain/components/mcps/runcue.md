@@ -8,11 +8,13 @@ source_url: https://github.com/lihei12345/RunCue
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:52:26Z"
 ---
 ## What it is
 RunCue MCP enables coding agents to navigate, inspect, and verify iOS app UI using natural language tasks via WebDriverAgent. It provides tools for running UI flows, checking UI state, listing devices, and diagnosing WDA setup.

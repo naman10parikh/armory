@@ -8,11 +8,13 @@ source_url: https://github.com/lumalabs/luma-api-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-04-18T02:27:08Z"
 ---
 ## What it is
 Enables image and video generation using Luma's API, supporting multiple models, aspect ratios, and advanced features like keyframes and style references.

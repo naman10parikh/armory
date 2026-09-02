@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:09:17Z"
 ---
 ## What it is
 Enables autonomous agents to negotiate and collaborate through end-to-end encrypted sessions, ensuring confidentiality and non-repudiation without the relay reading plaintext.

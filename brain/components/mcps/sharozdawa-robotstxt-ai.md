@@ -8,10 +8,12 @@ source_url: https://github.com/sharozdawa/robotstxt-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T09:30:18Z"
 ---
 ## What it is
 MCP server `RobotsTxt AI by sharozdawa`, catalogued on PulseMCP. Analyze and generate robots.txt files with AI crawler detection for 20+ bots including GPTBot and ClaudeBot.

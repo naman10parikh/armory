@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T19:39:44Z"
 ---
 ## What it is
 Enables legal research by querying public official sources for processes, sanctions, DJEN publications, and jurisprudence using names, CPF, CNPJ, or CNJ numbers, without login.

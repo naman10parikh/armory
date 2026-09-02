@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 75
+pushed_at: "2025-06-27T13:57:02Z"
 ---
 ## What it is
 Enables scraping of LinkedIn, Facebook, Instagram profiles and Google search via a Model Context Protocol server, allowing AI assistants to fetch social media data and search results.

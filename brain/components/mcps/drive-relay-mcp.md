@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:52:04Z"
 ---
 ## What it is
 Uploads a file that already exists on a persona container's local disk to Microsoft OneDrive/Graph without round-tripping the bytes through an MCP tool-call argument.

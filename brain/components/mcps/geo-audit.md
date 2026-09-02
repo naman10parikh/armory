@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:30:03Z"
 ---
 ## What it is
 Evaluates any website's AI visibility with 15 checks across crawlability, structure, content, and connectivity, and provides actionable fixes.

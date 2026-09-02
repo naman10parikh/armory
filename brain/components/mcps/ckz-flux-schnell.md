@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-02T06:39:09Z"
 ---
 ## What it is
 MCP server `Flux Schnell`, catalogued on PulseMCP. Integrates with the Flux Schnell model on Replicate to generate images from text prompts, enabling visual content creation and creative workflows.

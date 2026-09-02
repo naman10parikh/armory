@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T08:23:10Z"
 ---
 ## What it is
 Enables AI assistants to manage Toggl Track time entries, projects, and workspaces through natural language, supporting CRUD operations and past date time slots.

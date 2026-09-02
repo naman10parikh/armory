@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-05-09T20:06:18Z"
 ---
 ## What it is
 An MCP server for local testing that enables file management operations, requiring authentication via Microsoft identity platform credentials.

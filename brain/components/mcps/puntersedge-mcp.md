@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:12:38Z"
 ---
 ## What it is
 MCP server that brings live Australian racing and sports odds from 12 bookmaker/exchange sources into AI assistants, with per-price age data and tools for next races, best odds, results, and movers.

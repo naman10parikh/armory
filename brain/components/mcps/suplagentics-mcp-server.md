@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:39:00Z"
 ---
 ## What it is
 Enables importing Claude Code and opencode session history into a searchable memory store and surfacing improvement suggestions, accessible from any MCP-capable client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T20:53:53Z"
 ---
 ## What it is
 Enables AI assistants to query gene annotations, expression, pathways, variants, and more via the MyGene.info API, supporting batch operations and multiple biological data sources.

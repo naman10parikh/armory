@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-11T23:28:08Z"
 ---
 ## What it is
 MCP server `Cookwith`, catalogued on PulseMCP. Recipe generation and transformation tools powered by Cookwith's culinary AI

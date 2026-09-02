@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-09-01T21:59:07Z"
 ---
 ## What it is
 Enables AI assistants to perform file system operations within a specified project directory, including reading, writing, editing, and managing files, with optional read-only access to reference projects.

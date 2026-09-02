@@ -8,10 +8,12 @@ source_url: https://github.com/ethanhenrickson/math-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 138
+stars: 174
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-05-30T16:32:13Z"
 ---
 ## What it is
 MCP server `Math`, catalogued on PulseMCP. Provides basic mathematical and statistical functions for accurate numerical computations within AI-assisted applications.

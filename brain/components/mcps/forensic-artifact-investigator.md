@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:01:30Z"
 ---
 ## What it is
 MCP server for read-only forensic analysis of evidence files using local utilities (file, ExifTool, strings, Volatility).

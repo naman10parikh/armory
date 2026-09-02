@@ -8,10 +8,12 @@ source_url: https://github.com/smartbear/smartbear-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2026-09-01T15:09:44Z"
 ---
 ## What it is
 MCP server `SmartBear`, catalogued on PulseMCP. Integrates SmartBear's testing and monitoring tools

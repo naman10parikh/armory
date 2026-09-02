@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-15T21:46:59Z"
 ---
 ## What it is
 MCP server `Exa AI Security Scanner`, catalogued on PulseMCP. Integrates with Exa AI to scan projects for security vulnerabilities through a containerized JSON-RPC service that reads requests from stdin and writes responses to stdout.

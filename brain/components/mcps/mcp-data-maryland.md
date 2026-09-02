@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:55:17Z"
 ---
 ## What it is
 Enables querying Maryland government open data (state, health, transportation, budget, environment) via the Socrata SoQL API, with tools to search datasets, run queries, and retrieve metadata.

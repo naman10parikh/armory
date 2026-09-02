@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T15:54:28Z"
 ---
 ## What it is
 Exposes Rebind as computer-use tools for remote control and automation, including screenshot, click, type, and window control.

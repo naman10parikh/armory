@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:44Z"
 ---
 ## What it is
 MCP server `ENS (by Junct)`, catalogued on PulseMCP. Hosted proxy for Ethereum Name Service APIs with 23 auto-generated tools for ENS resolution and lookups.

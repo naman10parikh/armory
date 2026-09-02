@@ -8,10 +8,12 @@ source_url: https://github.com/dixonjones/waikay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T16:59:24Z"
 ---
 ## What it is
 MCP server `Waikay`, catalogued on PulseMCP. MCP server for the Waikay brand visibility API, tracking brand mentions across ChatGPT, Claude, Gemini, and Perplexity with competitive analysis.

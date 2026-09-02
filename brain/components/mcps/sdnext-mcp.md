@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T06:00:14Z"
 ---
 ## What it is
 Enables LLM hosts to control SD.Next (Stable Diffusion Next) WebUI via 125 MCP tools for text-to-image, image-to-image, upscaling, control, tagging, model management, and more.

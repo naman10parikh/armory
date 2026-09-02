@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T19:16:22Z"
 ---
 ## What it is
 A coordination server for Claude Code agents that provides a shared chat room and task board with atomic ownership, enabling seamless collaboration across machines.

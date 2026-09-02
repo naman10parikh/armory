@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T11:51:46Z"
 ---
 ## What it is
 MCP server `Godalo`, catalogued on PulseMCP. Affiliate product search across 30,000+ merchants with full-text and SQL-based querying.

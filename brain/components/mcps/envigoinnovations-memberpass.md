@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T13:23:18Z"
 ---
 ## What it is
 MCP server `MemberPass`, catalogued on PulseMCP. Connect AI assistants to MemberPass Telegram community monetization with 42 tools for projects, subscriptions, members, payments, and webhooks.

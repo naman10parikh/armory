@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:50Z"
 ---
 ## What it is
 MCP server `Scope Guard`, catalogued on PulseMCP. Enforces scope boundaries in multi-agent systems to prevent drift and duplicate work.

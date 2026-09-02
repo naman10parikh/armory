@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T07:50:31Z"
 ---
 ## What it is
 MCP server `InvestBuddy`, catalogued on PulseMCP. AI-powered stock predictions with 10-day forecasts and portfolio analysis

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-09T21:28:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables AI assistants to query and understand PeopleSoft HCM databases. It provides semantic tools for HR, Payroll, Benefits, Performance, and PeopleTools metadata, allowing natural language questions to be answered with accurate SQL queries.

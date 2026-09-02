@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T22:24:41Z"
 ---
 ## What it is
 Enables secure management of a cPanel reseller account, including account operations, diagnostics, and governance with RBAC and audit trails.

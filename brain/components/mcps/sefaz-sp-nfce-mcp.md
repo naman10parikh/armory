@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:00Z"
 ---
 ## What it is
 Read-only MCP server for querying Brazilian SEFAZ SP NFC-e tax documents from official sources, with a single tool and prepaid usage.

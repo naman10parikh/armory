@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-09T19:20:10Z"
 ---
 ## What it is
 Streams Apple Watch health metrics (HRV, sleep, heart rate, etc.) to Claude via iOS Shortcuts and Redis, enabling personalized daily health briefings and training guidance.

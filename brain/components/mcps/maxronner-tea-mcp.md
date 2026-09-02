@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T11:13:04Z"
 ---
 ## What it is
 Enables AI assistants to manage Gitea repositories, issues, and pull requests via the tea CLI, including full PR review workflows.

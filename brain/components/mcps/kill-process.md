@@ -8,10 +8,12 @@ source_url: https://github.com/misiektoja/kill-process-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-02-06T23:28:58Z"
 ---
 ## What it is
 MCP server `Kill Process`, catalogued on PulseMCP. Provides cross-platform process management with intelligent filtering, sorting, and termination capabilities, featuring macOS-style memory reporting, CPU monitoring, and built-in safety measures to prevent system process interference.

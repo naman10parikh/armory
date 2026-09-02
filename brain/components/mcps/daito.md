@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T21:39:39Z"
 ---
 ## What it is
 MCP server for screening Indian stocks and mutual funds by wrapping screener.in and Morningstar India, enabling fundamental queries from Claude or Cursor.

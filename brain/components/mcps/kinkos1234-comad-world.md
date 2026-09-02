@@ -8,10 +8,12 @@ source_url: https://github.com/kinkos1234/comad-world
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-27T23:59:03Z"
 ---
 ## What it is
 MCP server `Comad World`, catalogued on PulseMCP. Personal knowledge graph system with 30+ MCP tools for RSS crawling, paper discovery, and knowledge management.

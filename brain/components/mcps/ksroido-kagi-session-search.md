@@ -8,10 +8,12 @@ source_url: https://github.com/ksroido/kagi-session2api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 136
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-26T08:49:31Z"
 ---
 ## What it is
 MCP server `Kagi Session Search`, catalogued on PulseMCP. Provides Kagi web search and content summarization using browser session tokens, with support for search operators and multi-token rotation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:33:05Z"
 ---
 ## What it is
 A Model Context Protocol server that provides real-time weather data, detailed forecasts, and alerts for locations in Israel and the United States. It uses web automation for Israeli data and dedicated services for US data.

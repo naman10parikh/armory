@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T11:42:58Z"
 ---
 ## What it is
 A read-only MCP server for evidence retrieval in Yellow River Basin human–earth systems reviews, exposing PostgreSQL-backed tools for searching and comparing evidence, entities, and spatiotemporal data while preserving source provenance.

@@ -8,10 +8,12 @@ source_url: https://github.com/ente0/mcpstrike
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T19:16:21Z"
 ---
 ## What it is
 MCP server `MCPStrike`, catalogued on PulseMCP. Autonomous penetration testing framework combining LLM analysis with 14 security tools for vulnerability discovery, exploitation, and reporting.

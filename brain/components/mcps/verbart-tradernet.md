@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-17T22:53:51Z"
 ---
 ## What it is
 MCP server `Tradernet`, catalogued on PulseMCP. Portfolio management, orders, and quotes via the Tradernet/Freedom24 trading API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-11T09:43:14Z"
 ---
 ## What it is
 Enables natural language file operations and intelligent file analysis via MCP, supporting CRUD actions and multi-step reasoning for directory management.

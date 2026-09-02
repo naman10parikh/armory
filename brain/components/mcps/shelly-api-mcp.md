@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T21:22:39Z"
 ---
 ## What it is
 Provides read-only access to Shelly Cloud energy data, including live power, lifetime energy, and historical consumption with cost, enabling AI agents to monitor electricity usage without device control.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T16:50:33Z"
 ---
 ## What it is
 MCP server `SQLite Database Operations`, catalogued on PulseMCP. FastMCP server providing 9 tools for SQLite database operations including queries, CRUD, and schema inspection.

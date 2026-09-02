@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T13:01:47Z"
 ---
 ## What it is
 MCP server `GetCourse`, catalogued on PulseMCP. Integrates with GetCourse LMS for user management and deals.

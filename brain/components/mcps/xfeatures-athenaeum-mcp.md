@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:30:12Z"
 ---
 ## What it is
 A Model Context Protocol server providing secure, authenticated access to an organization's knowledge layer—exact facts, documents, and semantic search—with per-call authorization and audit, never letting callers directly touch D1, R2, or AI Search.

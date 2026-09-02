@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T02:08:25Z"
 ---
 ## What it is
 A developer toolkit MCP server offering seven utilities: HTTP requests, JWT decoding, hashing, UUID generation, regex testing, cron explanation, and text encoding.

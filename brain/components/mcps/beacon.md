@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T13:43:53Z"
 ---
 ## What it is
 Enables AI agents to communicate with humans using notify and ask semantics, supporting session management and blocking or non-blocking messages.

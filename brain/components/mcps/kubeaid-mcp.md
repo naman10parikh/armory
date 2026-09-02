@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:08:23Z"
 ---
 ## What it is
 Exposes a Kubernetes cluster to MCP-compatible AI clients, enabling read-only and optional write operations on cluster resources like pods, deployments, and namespaces through natural language.

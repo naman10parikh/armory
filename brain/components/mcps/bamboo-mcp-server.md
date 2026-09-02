@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:03:19Z"
 ---
 ## What it is
 Enables management of Atlassian Bamboo CI/CD pipelines, projects, plans, builds, and deployments through natural language commands.

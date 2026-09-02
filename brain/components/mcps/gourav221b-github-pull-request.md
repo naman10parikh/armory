@@ -8,10 +8,12 @@ source_url: https://github.com/gourav221b/github-pr-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-23T20:27:34Z"
 ---
 ## What it is
 MCP server `GitHub Pull Request`, catalogued on PulseMCP. Retrieves detailed GitHub pull request information including files, diffs, comments, and reviews for code review assistance, PR summarization, or change analysis workflows.

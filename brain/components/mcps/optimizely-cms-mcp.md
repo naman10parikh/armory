@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-13T10:50:45Z"
 ---
 ## What it is
 Enables AI assistants to interact with Optimizely CMS via its GraphQL and Content Management APIs, supporting dynamic content discovery, retrieval, and management.

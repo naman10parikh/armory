@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T20:39:25Z"
 ---
 ## What it is
 An MCP server that analyzes upcoming weather at alpine peaks and trailheads worldwide, ranking the best windows for climbing and ascent using high-resolution forecast models.

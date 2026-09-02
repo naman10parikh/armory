@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-06T19:39:47Z"
 ---
 ## What it is
 MCP server `CodeIntel`, catalogued on PulseMCP. AI-powered semantic code search using vector embeddings for contextual code loading.

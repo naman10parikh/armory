@@ -8,11 +8,13 @@ source_url: https://github.com/Pigyon/MCPwner
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-20T21:42:22Z"
 ---
 ## What it is
 Model Context Protocol server for security research automation, integrating multiple security testing tools into LLM-driven workflows for secret scanning, static analysis, and vulnerability discovery.

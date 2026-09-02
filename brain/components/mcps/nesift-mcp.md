@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T20:27:29Z"
 ---
 ## What it is
 MCP server for local semantic search over web content, enabling AI agents to ingest, index, and query pages with hybrid retrieval and token budget control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:00:27Z"
 ---
 ## What it is
 Query your MLflow experiments in plain English using Claude Desktop. No dashboards, no SQL — just ask.

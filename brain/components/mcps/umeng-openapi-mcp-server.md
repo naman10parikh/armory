@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T02:56:25Z"
 ---
 ## What it is
 MCP server for 友盟 U-App mobile analytics, enabling AI agents to query app statistics, retention, channels, versions, custom events, and more via the OpenAPI.

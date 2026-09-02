@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:08:34Z"
 ---
 ## What it is
 Enables a supervisor LLM to delegate coding tasks to a persistent OpenCode server, block until the turn completes or needs input, and resume the same turn with answers or permission decisions.

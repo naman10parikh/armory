@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T00:03:17Z"
 ---
 ## What it is
 A Python-based MCP server that generates creative dad joke prompts on any topic in various styles, enabling AI agents to produce dad jokes through natural language requests.

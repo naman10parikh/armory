@@ -8,10 +8,12 @@ source_url: https://github.com/pdavis68/repomapper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 171
+stars: 200
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2025-12-08T14:26:13Z"
 ---
 ## What it is
 MCP server `RepoMapper`, catalogued on PulseMCP. Generates intelligent repository maps and code navigation by analyzing source code definitions, references, and relationships using Tree-sitter parsing and PageRank algorithms to prioritize important files and elements within token-aware overviews.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 157
+forks: 42
+pushed_at: "2026-03-19T11:23:44Z"
 ---
 ## What it is
 MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.

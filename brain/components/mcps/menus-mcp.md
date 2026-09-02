@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T06:21:21Z"
 ---
 ## What it is
 Recommends dishes from a global cuisine knowledge base based on user preferences (keywords, cuisine, price, etc.) via weighted random selection with bias correction and diversity.

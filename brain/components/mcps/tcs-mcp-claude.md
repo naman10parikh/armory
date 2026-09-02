@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:58:41Z"
 ---
 ## What it is
 MCP server that integrates Claude with the Kyushu University supercomputer Genkai's TCS (PJM) job scheduler. It enables natural language control of job submission, status monitoring, deletion, resource queries, and reading output files.

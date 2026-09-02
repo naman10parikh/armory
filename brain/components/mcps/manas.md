@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:07:41Z"
 ---
 ## What it is
 Enables interaction with a local knowledge repository via MCP, providing tools for capturing, indexing, and searching Markdown notes with Git version control and optional semantic search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:20:43Z"
 ---
 ## What it is
 MCP server for Toggl Focus 2.0, enabling project, task, and time-entry management with live timer control through natural language.

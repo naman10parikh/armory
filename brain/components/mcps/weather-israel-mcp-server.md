@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:19:52Z"
 ---
 ## What it is
 Enables users to query weather forecasts for Israeli cities through natural language using browser automation and Gemini.

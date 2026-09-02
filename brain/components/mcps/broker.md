@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T09:09:46Z"
 ---
 ## What it is
 Enables AI agents to securely perform privileged actions like creating GitHub issues by minting short-lived, single-purpose tokens on demand, with policy enforcement and audit logging.

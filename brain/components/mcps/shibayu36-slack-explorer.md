@@ -8,10 +8,12 @@ source_url: https://github.com/shibayu36/slack-explorer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-03T12:53:23Z"
 ---
 ## What it is
 MCP server `Slack Explorer`, catalogued on PulseMCP. Retrieves Slack messages, threads, and user profiles with advanced search and filtering capabilities.

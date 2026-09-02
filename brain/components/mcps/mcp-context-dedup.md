@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:10:30Z"
 ---
 ## What it is
 Compresses verbose MCP output by deduplicating repeated lines and summarizing JSON arrays, achieving 60-80% token savings for LLM prompts.

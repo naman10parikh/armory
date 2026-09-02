@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:12:53Z"
 ---
 ## What it is
 Enables AI-driven DevOps project analysis and automation through dynamic tool selection for file inspection, Dockerfile analysis, health checks, and test execution.

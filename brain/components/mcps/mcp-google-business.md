@@ -8,11 +8,13 @@ source_url: https://github.com/A1-x-Tech/mcp-google-business
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:36:11Z"
 ---
 ## What it is
 Enables managing Google Business Profiles through natural language: list locations, reply to reviews, create local posts, and fetch performance metrics.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T12:57:15Z"
 ---
 ## What it is
 MCP server `Apache HTTP Server Docs`, catalogued on PulseMCP. MCP server for querying Apache HTTP Server 2.4 documentation with tools for modules, directives, and full-text search.

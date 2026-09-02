@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-19T19:54:56Z"
 ---
 ## What it is
 Enables AI assistants to manage WHM hosting accounts and server administration tasks including account management, server stats, updates, SSL, backups, and email through a secure API.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T20:39:13Z"
 ---
 ## What it is
 MCP server `NUCES FLEX Student Portal`, catalogued on PulseMCP. Automates access to NUCES FLEX Student Portal using Selenium authentication and session management to retrieve academic data including attendance, grades, transcripts, and fee reports.

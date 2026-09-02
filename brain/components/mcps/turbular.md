@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-08-01T09:34:44Z"
 ---
 ## What it is
 Provides a unified API to connect LLMs to various databases, with schema normalization and query transformation for seamless interaction.

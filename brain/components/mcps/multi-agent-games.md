@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:01:36Z"
 ---
 ## What it is
 MCP server allowing two agents to play chess or Connect Four against each other, with a live rendered board and emotion signaling.

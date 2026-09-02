@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:36:58Z"
 ---
 ## What it is
 Enables an AI agent to query a patient-records SQLite database with tools for schema inspection, safe SQL queries, patient risk assessment, and readmission risk analysis.

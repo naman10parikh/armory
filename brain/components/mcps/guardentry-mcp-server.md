@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T18:53:21Z"
 ---
 ## What it is
 Exposes the Agent Policy Router (APR) as MCP tools, allowing any MCP-compatible AI agent to gate its actions through compliance policies before execution.

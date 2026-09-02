@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-12T00:11:46Z"
 ---
 ## What it is
 MCP server `Target`, catalogued on PulseMCP. Automates Target.com shopping through browser automation for product search, cart management, and order tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T08:12:59Z"
 ---
 ## What it is
 Hosted Streamable HTTP MCP server (https://epublys.com/mcp) with 9 tools for EPUB/PDF manipulation: merge, split, compress, EPUB↔PDF conversion, metadata read/edit, validation with auto-fix, and AI cover generation. Free API key, no install. Listed on the official MCP registry as com.epublys/epublys

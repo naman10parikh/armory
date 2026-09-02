@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-30T22:59:25Z"
 ---
 ## What it is
 MCP server `SSH Linux Administration`, catalogued on PulseMCP. Enables secure remote Linux administration through SSH connections with built-in safety mechanisms for destructive commands.

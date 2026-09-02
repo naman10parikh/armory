@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
 stars: 51
+forks: 10
+pushed_at: "2026-08-31T06:38:56Z"
 ---
 ## What it is
 A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:05:39Z"
 ---
 ## What it is
 Enables testing an MCP v2 streamable HTTP server protected by Supabase OAuth 2.1, including Dynamic Client Registration, consent flow, and token-based identity verification for Claude clients.

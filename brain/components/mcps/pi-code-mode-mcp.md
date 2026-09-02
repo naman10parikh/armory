@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:30:36Z"
 ---
 ## What it is
 Composes arbitrary MCP tools using JavaScript, enabling discovery, composition, and execution of other MCP servers through a single 'exec' tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-12T14:22:30Z"
 ---
 ## What it is
 Enables agent-style remote development over SSH with file operations and command execution, exposing native tools for searching, editing, and transferring files on remote machines.

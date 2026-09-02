@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-26T01:47:20Z"
 ---
 ## What it is
 MCP server `Trendy Post (Xiaohongshu)`, catalogued on PulseMCP. Transforms screenshot images into trending Xiaohongshu social media posts by extracting text content through OCR and generating culturally appropriate Chinese titles, content, and hashtags using the Zhipu API.

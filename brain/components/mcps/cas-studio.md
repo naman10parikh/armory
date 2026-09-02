@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:16:35Z"
 ---
 ## What it is
 Enables AI hosts to design and simulate complex adaptive systems, including managing agent types, running simulations, and analyzing emergent behavior, feedback loops, and sensitivities.

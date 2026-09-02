@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T20:03:39Z"
 ---
 ## What it is
 Enables AI assistants to conduct academic research workflows such as paper discovery, literature mapping, citation chasing, author pivots, citation repair, and regulatory or species document retrieval.

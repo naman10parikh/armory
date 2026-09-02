@@ -8,11 +8,13 @@ source_url: https://github.com/cdot65/pan-os-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-25T21:13:19Z"
 ---
 ## What it is
 Enables MCP clients to interact with Palo Alto Networks firewalls and Panorama, providing tools to retrieve address objects, security zones, policies, and system information.

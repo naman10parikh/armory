@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:58:00Z"
 ---
 ## What it is
 A security-hardened MCP server for managing Technitium DNS Server via its HTTP API, offering tools for DNS zones, records, blocking, cache, settings, and diagnostics.

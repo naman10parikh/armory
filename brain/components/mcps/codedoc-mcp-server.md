@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-26T18:26:39Z"
 ---
 ## What it is
 Enforces code quality, security, and architectural integrity by auditing, refactoring, and documenting codebases within Cursor and Claude.

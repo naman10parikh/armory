@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-18T18:51:47Z"
 ---
 ## What it is
 MCP server `WASS`, catalogued on PulseMCP. Integrates Nikto and Wapiti vulnerability scanners with persistent execution history for conducting authorized penetration testing and maintaining audit trails of security scans.

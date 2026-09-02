@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:38Z"
 ---
 ## What it is
 Read-only MCP server for querying official nursing council registration data from São Paulo, Brazil. Enables natural-language lookups of professional cadastros via a hosted API.

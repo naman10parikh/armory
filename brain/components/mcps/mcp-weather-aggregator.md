@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T15:44:06Z"
 ---
 ## What it is
 AI-powered weather aggregation from 6 sources with intelligent deduction, working as both a REST API and MCP Server for AI assistants like Claude and Cursor.

@@ -8,11 +8,13 @@ source_url: https://github.com/RFingAdam/mcp-rs-cmw500
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:08:21Z"
 ---
 ## What it is
 MCP server that lets AI agents control a Rohde & Schwarz CMW500 radio communication tester via direct TCP/IP SCPI, providing 84 tools for LTE signaling, WLAN, Bluetooth/BLE, and GPRF measurements, with built-in safety limits and a simulator for evaluation.

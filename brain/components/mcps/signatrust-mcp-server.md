@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T23:35:19Z"
 ---
 ## What it is
 Enables AI assistants to manage document signing workflows via natural language, including creating envelopes, uploading documents, analyzing contracts, and verifying blockchain anchors.

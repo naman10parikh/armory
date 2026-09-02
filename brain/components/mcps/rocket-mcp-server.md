@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T05:22:21Z"
 ---
 ## What it is
 Multi-MCP orchestration hub connecting GHL, Stripe, Shopify, Supabase, and more through a single AI interface, enabling workflow automation and CRM management.

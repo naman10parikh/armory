@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T15:25:59Z"
 ---
 ## What it is
 Fetches and parses METAR/TAF aviation weather data from NOAA with caching and human-readable formatting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T07:38:15Z"
 ---
 ## What it is
 Enables AI agents to communicate with business agents across company boundaries using Google's A2A protocol, with tools for discovery, messaging, and connection management.

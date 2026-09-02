@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:35:32Z"
 ---
 ## What it is
 Enables price verification via the Serper API, providing tools to check product prices on Google Shopping and scrape specific merchant pages. It returns compact, token-efficient results to avoid overwhelming LLM contexts.

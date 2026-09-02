@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T10:17:24Z"
 ---
 ## What it is
 Enables AI agents to submit podcast URLs and retrieve clips, trailer, show notes, guest-share link, and transcript via the Clypt API.

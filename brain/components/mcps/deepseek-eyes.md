@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:45:03Z"
 ---
 ## What it is
 An MCP server that grants image recognition to text-only models like DeepSeek by forwarding images to vision models and returning text descriptions. Supports clipboard, pasted session images, and batch folder image recognition.

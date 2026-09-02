@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T03:44:43Z"
 ---
 ## What it is
 Autodesk Construction Cloud integration via APS — Manage projects, issues, RFIs, documents, and submittals.

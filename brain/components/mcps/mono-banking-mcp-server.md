@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-09-08T10:18:21Z"
 ---
 ## What it is
 Enables AI assistants to perform Nigerian banking operations including account management, payments, and identity verification through the Mono Open Banking API.

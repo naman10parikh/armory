@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T02:55:52Z"
 ---
 ## What it is
 MCP server that guides an AI agent through stack trace triage, from raw error to the commit and PR that introduced it.

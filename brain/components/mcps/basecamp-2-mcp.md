@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T15:41:38Z"
 ---
 ## What it is
 Connects AI assistants to the Basecamp 2 API, enabling management of projects, todos, messages, and people directly through natural language.

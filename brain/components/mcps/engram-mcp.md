@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T22:21:30Z"
 ---
 ## What it is
 MCP plugin that connects Cursor, Claude, and other hosts to an Engram workspace for searching and citing indexed GitHub and Notion content.

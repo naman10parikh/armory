@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T14:02:40Z"
 ---
 ## What it is
 Connects claude.ai to a private GitHub repo of markdown files as a personal second brain, providing guarded read and write tools for knowledge management.

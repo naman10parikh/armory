@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:52:09Z"
 ---
 ## What it is
 Local MCP server for Survey Solutions Headquarters workflows, enabling connection profile management, read operations, export handling, and guarded fieldwork/admin actions through natural language.

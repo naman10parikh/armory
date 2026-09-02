@@ -8,10 +8,12 @@ source_url: https://github.com/elsahafy/ux-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T21:35:54Z"
 ---
 ## What it is
 MCP server `UX Toolkit by elsahafy`, catalogued on PulseMCP. UX design toolkit with 28 knowledge resources, 23 analysis tools, and 4 workflow prompts.

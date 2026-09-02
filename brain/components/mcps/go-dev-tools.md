@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-19T09:05:00Z"
 ---
 ## What it is
 MCP server `Go Development Tools`, catalogued on PulseMCP. Automates Go development workflows with six core tools for building, testing, running, dependency management, formatting, and static analysis across single projects and multi-module workspaces.

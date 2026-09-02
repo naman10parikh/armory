@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:24:27Z"
 ---
 ## What it is
 Enables agents to query real-time and historical metrics for locally served Ollama and vLLM instances, including request rates, latency, token counts, and GPU utilization, over stdio.

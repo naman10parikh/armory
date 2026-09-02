@@ -8,11 +8,13 @@ source_url: https://github.com/InventivetalentDev/minecraft-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-07T15:09:41Z"
 ---
 ## What it is
 A set of MCP servers that allow AI assistants to control a Minecraft server and client, including running commands, managing plugins, taking screenshots, and calling arbitrary API methods via reflection.

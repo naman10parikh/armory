@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-29T12:30:55Z"
 ---
 ## What it is
 MCP server `Forward Networks`, catalogued on PulseMCP. Integrates with Forward Networks API for network topology analysis, path tracing, device management, and configuration auditing with semantic search of network queries using embedding-based similarity matching.

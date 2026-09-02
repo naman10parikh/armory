@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:08:26Z"
 ---
 ## What it is
 An open-source MCP gateway for AI operators, connecting any LLM to a hot-reloadable connector registry with production-grade approval gates and a built-in control plane for session management.

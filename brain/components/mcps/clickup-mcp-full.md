@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:24:28Z"
 ---
 ## What it is
 Enables reading entire nested ClickUp subtask trees in a single call, plus task, list, folder, comment, tag, and time-tracking operations through natural language.

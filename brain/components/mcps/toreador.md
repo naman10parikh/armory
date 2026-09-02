@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T06:19:00Z"
 ---
 ## What it is
 MCP server `Toreador`, catalogued on PulseMCP. Generate crypto QR codes for BTC, ETH, SOL, USDC, USDT, and EURC and manage payment sessions.

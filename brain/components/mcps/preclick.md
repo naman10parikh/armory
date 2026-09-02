@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-12T19:46:45Z"
 ---
 ## What it is
 MCP server `PreClick`, catalogued on PulseMCP. URL preflight scanning service that analyzes links for security threats and verifies alignment with the agent's intended browsing goal.

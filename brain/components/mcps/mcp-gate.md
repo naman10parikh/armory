@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:40:05Z"
 ---
 ## What it is
 Enables serving multiple MCP toolkits behind one server with capability-based access control, so different callers see and can call only the tools they are authorized for, over stdio or streamable HTTP with bearer-token auth.

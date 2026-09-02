@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:01:04Z"
 ---
 ## What it is
 A satirical MCP server that diagnoses Kubernetes incidents through theological doctrine and provides real kubectl remediation steps.

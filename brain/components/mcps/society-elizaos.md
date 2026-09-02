@@ -8,10 +8,12 @@ source_url: https://github.com/wearesociety/elizaos_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-19T10:35:20Z"
 ---
 ## What it is
 MCP server `ElizaOS Agents`, catalogued on PulseMCP. Connects Cursor IDE to ElizaOS agents through a local server, enabling developers to list, select, and chat with agents without leaving their coding environment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T09:17:50Z"
 ---
 ## What it is
 Provides a unified context layer for Cursor's agent with lossless token savings and verifiable memory, enabling efficient code exploration and cross-session continuity.

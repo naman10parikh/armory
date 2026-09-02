@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:07:19Z"
 ---
 ## What it is
 MCP server enabling AI agents to play fantasy football on Solana through Fantopy Arena, with tools for contests, lineups, and payouts.

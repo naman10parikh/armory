@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:36:38Z"
 ---
 ## What it is
 OAuth-protected FastMCP server exposing eight read-only public APIs (currency, weather, art, pets, dictionary, random images, vehicles) via MCP tools, with optional Gemini LLM-based routing for query selection.

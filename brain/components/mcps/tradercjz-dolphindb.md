@@ -8,10 +8,12 @@ source_url: https://github.com/tradercjz/dolphindb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-20T05:18:28Z"
 ---
 ## What it is
 MCP server `DolphinDB`, catalogued on PulseMCP. Provides a bridge between DolphinDB time-series database and natural language interaction, enabling data querying and manipulation without complex database code for financial analysts and data scientists.

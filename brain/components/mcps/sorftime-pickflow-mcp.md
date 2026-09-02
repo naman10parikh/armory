@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T02:47:24Z"
 ---
 ## What it is
 An MCP server for Amazon product discovery, offering 15 tools for keyword research, ASIN scoring, and market screening via the Sorftime API.

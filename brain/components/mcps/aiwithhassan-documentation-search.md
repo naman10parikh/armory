@@ -8,10 +8,12 @@ source_url: https://github.com/aiwithhassan/mcp-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-06T16:36:10Z"
 ---
 ## What it is
 MCP server `Documentation Search (Groq + Serper)`, catalogued on PulseMCP. Combines web search through Serper API with Groq's language models to intelligently extract and structure clean, readable content from documentation sites for popular libraries like LangChain, LlamaIndex, OpenAI, and UV package manager.

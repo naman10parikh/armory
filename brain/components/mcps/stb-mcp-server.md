@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:07:49Z"
 ---
 ## What it is
 MCP server for full control of STB (Amlogic S9xx / Armbian) via SSH, enabling shell commands, file management, Docker operations, AdGuard Home configuration, and system monitoring.

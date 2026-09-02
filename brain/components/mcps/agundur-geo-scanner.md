@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T07:58:27Z"
 ---
 ## What it is
 Checks whether a website is readable and citable by AI search engines — llms.txt, Schema.org structured data, AI-bot access in robots.txt, content freshness, answer directness, E-E-A-T signals, plus a LocalBusiness Rich Results validator. Free, no API key, remote Streamable HTTP.

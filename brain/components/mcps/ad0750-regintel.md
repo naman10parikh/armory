@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T13:00:37Z"
 ---
 ## What it is
 MCP server `RegIntel`, catalogued on PulseMCP. Provides regulatory intelligence data across 41 jurisdictions and 212 regulations via the RegIntel API.

@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-30T01:05:19Z"
 ---
 ## What it is
 MCP server `Stockflow (Yahoo Finance)`, catalogued on PulseMCP. Integrates with the Yahoo Finance API to provide real-time stock market data and analysis tools for financial research and trading strategies.

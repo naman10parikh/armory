@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:19:40Z"
 ---
 ## What it is
 MCP server enabling AI agents to manage APK release pipelines, automating RSS monitoring, watchlist matching, downloads via Real-Debrid/JDownloader, and Nextcloud storage organization with notifications.

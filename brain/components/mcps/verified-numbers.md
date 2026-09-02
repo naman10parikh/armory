@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:06:29Z"
 ---
 ## What it is
 Current, source-cited US federal tax constants and freelancer calculators for tax year 2026, including the July 1 mid-year mileage change. Every response carries its IRS/SSA primary source and a last-verified date; refuses rather than guesses.

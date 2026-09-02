@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T09:23:09Z"
 ---
 ## What it is
 Enables Claude Code to offload routine code generation and text processing tasks to a local Ollama LLM, saving Cloud API tokens and costs with automatic model selection and security features.

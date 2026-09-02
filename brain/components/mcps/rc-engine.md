@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-18T15:02:41Z"
 ---
 ## What it is
 An AI-native product development pipeline that guides users from idea to shipping with structured research, architecture, build, validation, and traceability using 52 tools across 4 domains.

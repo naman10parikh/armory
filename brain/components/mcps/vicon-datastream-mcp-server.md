@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-25T07:25:12Z"
 ---
 ## What it is
 Enables AI agents and LLMs to interact with Vicon motion capture systems for real-time streaming of kinematic data, markers, force plates, eye trackers, and camera calibration.

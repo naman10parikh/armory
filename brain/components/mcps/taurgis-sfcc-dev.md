@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-30T08:58:29Z"
 ---
 ## What it is
 MCP server `SFCC Development Tools`, catalogued on PulseMCP. Connects to Salesforce B2C Commerce Cloud instances via WebDAV for real-time log monitoring, debugging, and comprehensive SFCC API documentation querying with intelligent caching and OAuth support.

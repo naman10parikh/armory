@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:07:09Z"
 ---
 ## What it is
 MCP server for codebase intelligence. Point it at any public GitHub repo to ask questions about code with cited answers, search code, files, symbols, and repo stats.

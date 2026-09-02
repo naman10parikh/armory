@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T15:11:24Z"
 ---
 ## What it is
 Enables AI agents to map cross-repository dependencies, detect breaking changes in API contracts, and assess impact across services.

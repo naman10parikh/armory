@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-15T03:32:20Z"
 ---
 ## What it is
 Detects Chinese sensitive/forbidden words across platforms like Xiaohongshu, Douyin, Kuaishou, and Bilibili, with risk levels and replacement suggestions.

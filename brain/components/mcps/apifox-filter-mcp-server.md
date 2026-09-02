@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T05:27:10Z"
 ---
 ## What it is
 Precisely filter and fetch API documentation from Apifox or any OpenAPI URL, reducing context bloat by fetching only needed endpoints.

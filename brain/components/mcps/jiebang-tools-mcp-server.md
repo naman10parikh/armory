@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:36:51Z"
 ---
 ## What it is
 Offers 29 free tools for text processing, AI-powered generation, SEO optimization, utilities, cron tasks, file processing, and ideas management, all without requiring an API key.

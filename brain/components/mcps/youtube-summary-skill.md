@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:11:33Z"
 ---
 ## What it is
 A local MCP server that generates bilingual (English + Traditional Chinese) study-oriented HTML summaries from YouTube URLs, including key points, quiz, and timestamped transcript.

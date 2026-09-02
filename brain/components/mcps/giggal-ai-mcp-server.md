@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:15:55Z"
 ---
 ## What it is
 Giggal.ai is an email verification tool that runs a deep mailbox existence check on every address and verifies catch-all/accept-all and even SEG protected emails. Your bounce rate stays under 5%, and the 30% of every B2B list that other tools flag as "Risky" becomes deliverable again.

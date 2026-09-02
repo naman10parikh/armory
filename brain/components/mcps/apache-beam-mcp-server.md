@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-21T18:39:02Z"
 ---
 ## What it is
 Enables AI-controlled management of Apache Beam data pipelines across different runners (Flink, Spark, Dataflow, Direct) via the Model Context Protocol.

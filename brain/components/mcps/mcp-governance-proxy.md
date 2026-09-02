@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:43:54Z"
 ---
 ## What it is
 An MCP server that acts as a governance proxy for AI agents, evaluating each tool call against policies before execution, enabling secure and controlled access to systems like Slack, GitHub, and AWS without exposing credentials to the agent.

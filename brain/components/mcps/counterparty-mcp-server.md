@@ -8,11 +8,13 @@ source_url: https://github.com/XCP/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T15:09:48Z"
 ---
 ## What it is
 Enables AI agents to interact with the Counterparty protocol on Bitcoin, allowing queries of balances, assets, orders, and dispensers, as well as composing, signing, and broadcasting transactions.

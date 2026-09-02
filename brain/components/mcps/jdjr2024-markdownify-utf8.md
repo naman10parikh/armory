@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-15T12:42:57Z"
 ---
 ## What it is
 MCP server `Markdownify`, catalogued on PulseMCP. Integrates with the markitdown library to convert various document formats including PDF, Word, and HTML to standardized Markdown, enabling efficient document processing and format unification.

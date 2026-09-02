@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T23:17:38Z"
 ---
 ## What it is
 Connects AI clients to retail customer, inventory, sales, order, and support capabilities through the Model Context Protocol.

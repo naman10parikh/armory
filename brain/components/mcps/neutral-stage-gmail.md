@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-08T10:38:17Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Manages Gmail with 20 tools covering search, compose, send, organize, label management, attachments, and bulk operations up to 1000 emails via OAuth.

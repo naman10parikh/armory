@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:49:41Z"
 ---
 ## What it is
 A public MCP server that lets AI agents read live web pages as clean Markdown, with tools to fetch, search, extract metadata, and extract links from URLs.

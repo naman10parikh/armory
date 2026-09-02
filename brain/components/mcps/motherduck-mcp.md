@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T06:25:38Z"
 ---
 ## What it is
 MCP server for SQL analytics on DuckDB and MotherDuck databases, enabling AI assistants and IDEs to query data via natural language.

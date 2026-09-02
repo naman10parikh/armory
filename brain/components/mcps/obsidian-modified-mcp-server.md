@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T15:59:47Z"
 ---
 ## What it is
 TypeScript MCP server for Obsidian with core vault operations, graph analytics, and semantic search.

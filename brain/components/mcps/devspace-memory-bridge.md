@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:23:38Z"
 ---
 ## What it is
 A non-invasive MCP bridge that makes DevSpace search tools memory-aware by augmenting search/list tool responses with codebase memory context.

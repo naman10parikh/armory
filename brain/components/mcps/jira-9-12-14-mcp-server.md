@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-17T00:12:48Z"
 ---
 ## What it is
 Enables AI models to search Jira issues using JQL and retrieve issue details through the Jira 9.12.14 API.

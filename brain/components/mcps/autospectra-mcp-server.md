@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-12T16:49:12Z"
 ---
 ## What it is
 All-in-one automation platform for AI agents, providing browser automation, API testing, debugging, and testing tools via the MCP protocol.

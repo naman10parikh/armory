@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T19:55:22Z"
 ---
 ## What it is
 MCP server `GammaInfra`, catalogued on PulseMCP. Smart LLM routing across every major provider via a single OpenAI-compatible API.

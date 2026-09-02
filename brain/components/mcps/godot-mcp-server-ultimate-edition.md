@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T18:49:32Z"
 ---
 ## What it is
 Advanced MCP server for Godot 4.6+ with 63 professional tools, enabling AI-assisted game development with backup/rollback, deep script validation, and project health diagnostics.

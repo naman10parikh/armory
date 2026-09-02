@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:52:55Z"
 ---
 ## What it is
 A generic single-upstream MCP authentication proxy that wraps remote Streamable HTTP MCP servers behind Horizon OAuth, enabling clients to connect securely without carrying upstream API keys. It adds a fixed authentication header to upstream requests and supports bearer tokens, API keys, and custom 

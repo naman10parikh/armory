@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T07:25:44Z"
 ---
 ## What it is
 Provides chemical informatics endpoints for converting between chemical names and SMILES, processing molecule structures, and comparing molecules, with MCP compatibility.

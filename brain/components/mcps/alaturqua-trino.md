@@ -8,10 +8,12 @@ source_url: https://github.com/alaturqua/mcp-trino-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-12-01T00:44:46Z"
 ---
 ## What it is
 MCP server `Trino (SQL Query Engine)`, catalogued on PulseMCP. Connects AI systems to Trino/Iceberg databases for SQL execution, data exploration, and table optimization with seamless connection management and catalog navigation.

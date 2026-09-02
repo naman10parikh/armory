@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:35:34Z"
 ---
 ## What it is
 Connects AI agents to Telegram via the official TDLib library, enabling tools like getting user info, listing dialogs, and searching messages.

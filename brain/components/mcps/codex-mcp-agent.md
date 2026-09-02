@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-23T12:08:43Z"
 ---
 ## What it is
 Enables Claude Code, Cursor, and other AI tools to call OpenAI Codex for task execution, with safe and writable modes.

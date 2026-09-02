@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-07T14:31:18Z"
 ---
 ## What it is
 MCP server `AI Conversation Logger`, catalogued on PulseMCP. Automatically captures and organizes AI conversations across multiple platforms, storing them in structured markdown format with intelligent project detection and daily logging for persistent conversation history without manual intervention.

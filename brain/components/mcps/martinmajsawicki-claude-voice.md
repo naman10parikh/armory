@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T07:49:14Z"
 ---
 ## What it is
 MCP server `Claude Voice`, catalogued on PulseMCP. Adds macOS voice interaction to Claude Code with text-to-speech, speech-to-text via local Whisper, and combined conversational mode.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-21T17:06:22Z"
 ---
 ## What it is
 Brings GDPR compliance knowledge directly into your IDE, enabling developers to identify and address data protection requirements early in the development lifecycle.

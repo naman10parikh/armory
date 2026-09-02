@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:00:23Z"
 ---
 ## What it is
 Enables deploying stateless MCP servers on Cloudflare Workers with minimal setup, using createMcpHandler to handle MCP protocol details and tool registration.

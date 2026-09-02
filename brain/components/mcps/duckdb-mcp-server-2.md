@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:25:29Z"
 ---
 ## What it is
 A beginner-friendly MCP server that exposes a run_sql tool for querying a DuckDB employee database, returning results as Markdown tables. It enables AI assistants to run SQL queries through the Model Context Protocol.

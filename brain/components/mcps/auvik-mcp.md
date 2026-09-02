@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-31T23:56:19Z"
 ---
 ## What it is
 An MCP server for Auvik network management, enabling monitoring, management, and visibility of network devices and infrastructure through Auvik's API.

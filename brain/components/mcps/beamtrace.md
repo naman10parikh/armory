@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:18:28Z"
 ---
 ## What it is
 Connects AI assistants to Beamtrace's remote MCP for read-only visibility insights, offering tools to retrieve visibility scores, topic rollups, prompt metrics, competitor leaderboards, and content improvement suggestions.

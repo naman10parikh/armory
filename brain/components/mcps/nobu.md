@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T03:00:35Z"
 ---
 ## What it is
 A game-agnostic MCP toolkit for composing chiptune/retro MIDI and rendering game audio, enabling AI agents to generate multi-track MIDI files and render them to OGG/WAV.

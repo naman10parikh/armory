@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T19:06:00Z"
 ---
 ## What it is
 MCP server exposing SPARQL query functionalities for LLMs, enabling query execution, validation, and graph exploration across SPARQL endpoints.

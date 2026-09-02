@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:02:01Z"
 ---
 ## What it is
 An MCP server that lets AI assistants drive Adobe Photoshop on Windows through ExtendScript and COM automation, offering ~122 tools for documents, layers, text, filters, color, selections, masks, layout QA, and design systems.

@@ -8,11 +8,13 @@ source_url: https://github.com/l-margiela/olx-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-26T16:03:14Z"
 ---
 ## What it is
 Enables searching and retrieving details from OLX classifieds across multiple domains (Portugal, Poland, Bulgaria, Romania, Ukraine) using browser automation.

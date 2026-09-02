@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T19:17:42Z"
 ---
 ## What it is
 MCP server for the Norwegian Central Coordinating Register for Legal Entities (Enhetsregisteret), providing tools to search companies, get full register records, list recent registrations, and retrieve registered roles.

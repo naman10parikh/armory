@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:29:18Z"
 ---
 ## What it is
 MCP server for iOS Frida exploration enabling app control, UI interaction, and media import via spawn sessions on jailbroken devices.

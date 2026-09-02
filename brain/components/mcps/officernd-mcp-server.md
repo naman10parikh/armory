@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:07:55Z"
 ---
 ## What it is
 Enables AI clients to interact with OfficeRnD coworking space management platform via natural language, exposing 130+ tools for CRUD operations and business logic.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T13:40:14Z"
 ---
 ## What it is
 Provides persistent memory storage for AI agents with full-text search, tagging, and importance levels, enabling agents to store and retrieve memories efficiently.

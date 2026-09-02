@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:36:32Z"
 ---
 ## What it is
 This MCP server enables AI assistants to interact with a SQLite database through a spreadsheet-like interface, supporting operations such as querying, editing, importing Excel/CSV, and managing table structures via natural language.

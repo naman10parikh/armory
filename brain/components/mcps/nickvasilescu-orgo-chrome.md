@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T07:50:15Z"
 ---
 ## What it is
 MCP server `Orgo Chrome`, catalogued on PulseMCP. Provides DOM-level Chrome browser automation for Orgo virtual machines via Chrome DevTools Protocol with 16 tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-09T14:38:18Z"
 ---
 ## What it is
 Enables AI assistants to execute browser automation, perform QA tasks, and generate test code through natural language commands using Playwright.

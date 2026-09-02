@@ -8,10 +8,12 @@ source_url: https://github.com/mladensu/cli-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 170
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2025-07-04T21:02:36Z"
 ---
 ## What it is
 MCP server `CLI Secure`, catalogued on PulseMCP. Execute shell commands with strict security policies.

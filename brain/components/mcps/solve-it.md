@@ -8,11 +8,13 @@ source_url: https://github.com/CKE-Proto/mcp_solve-it
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T12:18:59Z"
 ---
 ## What it is
 MCP server that provides programmatic access to the SOLVE-IT digital forensics knowledge base, enabling LLMs to query, navigate, and search forensic techniques, weaknesses, mitigations, objectives, and citations.

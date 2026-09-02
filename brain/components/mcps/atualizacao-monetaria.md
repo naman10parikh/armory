@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:34:24Z"
 ---
 ## What it is
 MCP server that updates judicial and non-judicial credits by applying the applicable normative rules per period, producing month-by-month calculation details with source indices. It also verifies calculations against official tables and can identify common errors in opposing party's calculations.

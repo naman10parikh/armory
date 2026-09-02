@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 14
+forks: 5
+pushed_at: "2025-04-23T03:13:56Z"
 ---
 ## What it is
 A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.

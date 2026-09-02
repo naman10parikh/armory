@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T03:58:35Z"
 ---
 ## What it is
 A small, autonomous, pay-per-call MCP server that AI agents discover and pay for per call, with revenue landing directly in a USDC wallet on Base via the x402 payment protocol.

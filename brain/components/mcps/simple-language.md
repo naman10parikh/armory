@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:19:42Z"
 ---
 ## What it is
 MCP server `Simple Language`, catalogued on PulseMCP. Code intelligence, debugging, build, test, and VCS tools for the Simple programming language.

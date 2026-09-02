@@ -8,10 +8,12 @@ source_url: https://github.com/stream29/ideaktsreplmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-22T09:07:51Z"
 ---
 ## What it is
 MCP server `IntelliJ Kotlin REPL`, catalogued on PulseMCP. IntelliJ IDEA plugin exposing a stateful Kotlin REPL as an MCP server for AI agents to interact with IDE internals via HTTP.

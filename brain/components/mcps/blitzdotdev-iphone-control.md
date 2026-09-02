@@ -8,10 +8,12 @@ source_url: https://github.com/blitzdotdev/iphone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-04-01T06:07:58Z"
 ---
 ## What it is
 MCP server `iPhone Control`, catalogued on PulseMCP. Controls real iPhones and simulators on macOS through Facebook's idb and WebDriverAgent for automated device discovery, UI interaction, screenshot capture, and app testing.

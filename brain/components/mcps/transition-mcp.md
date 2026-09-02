@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T21:41:20Z"
 ---
 ## What it is
 AI-powered coaching for runners, cyclists, swimmers, and triathletes, enabling personalized workouts, training plan adaptation, performance analytics, and AI coaching via Claude, MCP clients, or HTTP.

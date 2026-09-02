@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T23:01:08Z"
 ---
 ## What it is
 A Model Context Protocol server that integrates PHP Insights code analysis with AI assistants. It enables automated code quality checks, fixes, and summaries within Cursor and VS Code.

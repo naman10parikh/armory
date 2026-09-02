@@ -8,11 +8,13 @@ source_url: https://github.com/petarov/starghlist
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T12:34:57Z"
 ---
 ## What it is
 MCP server to manage your GitHub starred repositories and lists

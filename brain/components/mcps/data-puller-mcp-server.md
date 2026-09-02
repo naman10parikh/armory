@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:05:28Z"
 ---
 ## What it is
 Enables fetching live crypto market data from Binance, Bybit, and Hyperliquid via MCP tools, including klines, orderbook, funding rates, technical indicators, and market breadth for real-time analysis by LLMs.

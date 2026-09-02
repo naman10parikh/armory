@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T06:14:19Z"
 ---
 ## What it is
 MCP server `Cybersec`, catalogued on PulseMCP. 323 cybersecurity prompts and 7 workflows covering red team, blue team, SOC, cloud security, and OSINT operations.

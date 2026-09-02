@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:34:50Z"
 ---
 ## What it is
 Ultra-fast, memory-efficient Rust implementation of the Filesystem MCP server with bounded IO, regex search, and optional terminal execution.

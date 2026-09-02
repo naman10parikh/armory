@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:59:13Z"
 ---
 ## What it is
 Hybrid MCP server that combines Graphify’s structural code graphs with Understand-Anything’s semantic knowledge bases, exposing both as MCP tools for code analysis and natural-language questioning.

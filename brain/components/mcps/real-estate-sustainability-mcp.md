@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T23:38:27Z"
 ---
 ## What it is
 MCP server for analyzing building sustainability metrics via Excel, PDF, and frameworks like ESG, LEED, BREEAM, DGNB with IFC integration.

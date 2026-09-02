@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T09:18:37Z"
 ---
 ## What it is
 A multi-source academic bibliography search server that retrieves papers from 7 databases with automatic language detection, LLM-powered query planning, and relevance scoring.

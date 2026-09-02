@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:09:21Z"
 ---
 ## What it is
 Exposes a Neo4j knowledge-graph index over personal markdown notes to LLM agents via MCP, enabling semantic search, tag navigation, and relationship discovery.

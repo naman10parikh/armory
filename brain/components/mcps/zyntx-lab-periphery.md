@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-22T20:21:19Z"
 ---
 ## What it is
 MCP server `Periphery Swift Analysis`, catalogued on PulseMCP. Swift code analysis tool that detects unused code and improves code quality in iOS and macOS projects

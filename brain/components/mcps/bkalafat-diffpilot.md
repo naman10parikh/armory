@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-14T11:21:45Z"
 ---
 ## What it is
 MCP server `DiffPilot`, catalogued on PulseMCP. Provides Git workflow tools for code review including diff analysis, PR generation, commit messages, and secret scanning

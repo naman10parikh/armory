@@ -8,10 +8,12 @@ source_url: https://github.com/hugohow/mcp-music-analysis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-12T18:46:06Z"
 ---
 ## What it is
 MCP server `Music Analysis`, catalogued on PulseMCP. Integrates librosa's audio processing capabilities to provide detailed music and audio analysis tools for extracting features like tempo, spectral characteristics, and onset detection directly within conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:19:11Z"
 ---
 ## What it is
 A deterministic guard layer that blocks unauthorized tool calls and validates arguments before execution, preventing tool poisoning and jailbreak attacks on MCP servers.

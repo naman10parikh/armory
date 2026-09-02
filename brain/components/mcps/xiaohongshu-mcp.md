@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T04:49:04Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and publish notes on Xiaohongshu (Little Red Book) via MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T12:50:21Z"
 ---
 ## What it is
 A unified MCP server for biomedical research that connects AI systems to resources like Ensembl, EuropePMC, STRING, and more, enabling retrieval of verified domain-specific information.

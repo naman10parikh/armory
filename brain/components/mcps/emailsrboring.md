@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:34:15Z"
 ---
 ## What it is
 A safe, redacting MCP server for Apple Mail on macOS that enables an LLM to read, search, triage, draft, and confirm sending email while stripping secrets and blocking dangerous actions.

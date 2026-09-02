@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T01:07:10Z"
 ---
 ## What it is
 Provides AI assistants instant access to WHO ICD-10 and ICD-11 classification systems for code lookup, search, autocoding, validation, and hierarchy browsing via 12 tool actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T22:54:16Z"
 ---
 ## What it is
 Enables searching, fetching SVG, and discovering icons from Iconify's 200,000+ icon library across 150+ sets.

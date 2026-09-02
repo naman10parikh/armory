@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-04-15T05:44:21Z"
 ---
 ## What it is
 An MCP server that provides access to Semantic Scholar's academic paper database, enabling paper search, detailed retrieval, author info, and citation export.

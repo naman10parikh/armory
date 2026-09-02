@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T15:14:24Z"
 ---
 ## What it is
 A Model Context Protocol server that enables LLMs to perform IP geolocation, reverse geocoding, and detect the host's public IP without requiring API keys.

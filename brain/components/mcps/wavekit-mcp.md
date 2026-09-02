@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:22:17Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with a persistent, sandboxed Python environment for waveform analysis, enabling loading and manipulation of VCD/FST/FSDB files and temporal pattern matching.

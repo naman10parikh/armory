@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T18:45:22Z"
 ---
 ## What it is
 MCP server `Helper Tools`, catalogued on PulseMCP. Provides utility functions for encoding/decoding, geolocation, cryptography, QR code generation, and timezone conversions with intelligent caching and rate limiting for optimized external API access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:14:19Z"
 ---
 ## What it is
 MCP server that compares grocery basket prices across Blinkit, Zepto, BigBasket, and Amazon Now in real time, identifying the cheapest platform for the entire basket.

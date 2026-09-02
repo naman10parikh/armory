@@ -8,10 +8,12 @@ source_url: https://github.com/xmannii/nobitex-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-05T19:55:35Z"
 ---
 ## What it is
 MCP server `Nobitex Cryptocurrency Market Data`, catalogued on PulseMCP. Provides real-time cryptocurrency market data from Nobitex exchange, enabling users to access current prices, trading statistics, and overall market information for informed trading decisions.

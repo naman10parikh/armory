@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-11T14:39:38Z"
 ---
 ## What it is
 Enables LLMs to fetch and extract web content using browser automation, OCR, and multiple extraction methods, handling JavaScript rendering and anti-scraping techniques.

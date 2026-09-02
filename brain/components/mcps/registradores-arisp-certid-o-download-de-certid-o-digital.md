@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:43Z"
 ---
 ## What it is
 Enables read-only querying and downloading of digital certificates from Registradores (ARISP) via prepaid credits, using a single tool for official source consultation.

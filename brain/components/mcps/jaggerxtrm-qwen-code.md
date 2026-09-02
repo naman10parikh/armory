@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-29T22:42:33Z"
 ---
 ## What it is
 MCP server `Qwen Code`, catalogued on PulseMCP. Bridges Qwen's code analysis capabilities through CLI integration, providing file-referenced queries with @filename syntax, automatic model fallback, and configurable execution modes for code review, codebase exploration, and automated refactoring workflows.

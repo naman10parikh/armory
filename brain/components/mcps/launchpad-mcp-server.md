@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:54:37Z"
 ---
 ## What it is
 Read-only MCP server that exposes Launchpad bug-tracking data for a single project to AI agents, enabling search and retrieval of bugs, milestones, and comments with canonical URLs.

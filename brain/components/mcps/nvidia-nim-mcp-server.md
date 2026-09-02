@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T09:13:30Z"
 ---
 ## What it is
 Enables local task execution using the user's NVIDIA NIM API quota, with tools to process file contents through LLMs, send chat prompts, and list available models.

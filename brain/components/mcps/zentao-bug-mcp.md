@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-06T06:02:15Z"
 ---
 ## What it is
 MCP server for Zentao that reads bugs, extracts reproduction steps, and allows AI to update bug status after fixing.

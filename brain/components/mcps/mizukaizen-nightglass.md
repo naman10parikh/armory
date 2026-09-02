@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T09:10:06Z"
 ---
 ## What it is
 MCP server `Nightglass`, catalogued on PulseMCP. Captures website screenshots in multiple formats with customizable viewport dimensions and dark mode support.

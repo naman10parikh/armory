@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T17:50:29Z"
 ---
 ## What it is
 Generates flashcards from Obsidian notes using obsidianki, with support for note patterns, card count, and deck selection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:24:43Z"
 ---
 ## What it is
 Serves as a machine perception and action hub, enabling heartbeat monitoring, screen/window/clipboard sensing, todo management, long-term memory, and web/file operations through both CLI and MCP interfaces.

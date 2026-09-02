@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T20:12:47Z"
 ---
 ## What it is
 Enables local file exchange between users and CLI agents via a web UI and MCP server, allowing agents to read/uploads and deliver artifacts without copy-paste.

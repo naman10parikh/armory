@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T09:28:51Z"
 ---
 ## What it is
 An MCP server that exposes the Wunder Mobility v2 end-user API as tools, enabling clients to browse vehicles, manage rentals, and create reservations on behalf of a signed-in user.

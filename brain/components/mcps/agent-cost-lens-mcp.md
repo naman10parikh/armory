@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:32:29Z"
 ---
 ## What it is
 Provides cost analysis of AI agent usage by previewing scrubbed metadata before upload and analyzing spend, cache-hit rates, and waste recovery through a local or remote server.

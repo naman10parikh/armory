@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T02:28:45Z"
 ---
 ## What it is
 An MCP server integrating Google Analytics 4, Search Console, and Indexing API, enabling AI agents to run reports, inspect URLs, manage properties, and request indexing.

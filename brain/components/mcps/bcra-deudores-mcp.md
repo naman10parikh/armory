@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:01:09Z"
 ---
 ## What it is
 Enables consultation of Argentine credit situations (Central de Deudores) via BCRA API, providing tools for current status, historical trends, rejected checks, and consolidated reports.

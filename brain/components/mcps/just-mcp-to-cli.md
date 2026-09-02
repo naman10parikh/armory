@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T15:02:44Z"
 ---
 ## What it is
 MCP server `Just MCP to CLI`, catalogued on PulseMCP. MCP client library that converts MCP server tools into native bash CLI commands compatible with just-bash.

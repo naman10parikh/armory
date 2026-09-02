@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T18:42:18Z"
 ---
 ## What it is
 MCP server `NanoBanana`, catalogued on PulseMCP. AI image generation and editing powered by Google Gemini with local and remote deployment.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-26T18:19:39Z"
 ---
 ## What it is
 MCP server `QuantRisk`, catalogued on PulseMCP. MCP server for portfolio risk analytics including VaR calculations, Monte Carlo simulations, and stress testing.

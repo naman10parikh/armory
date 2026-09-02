@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T09:34:14Z"
 ---
 ## What it is
 MCP server `Belgian E-Invoicing`, catalogued on PulseMCP. Handles Belgian e-invoicing with Peppol BIS 3.0, UBL 2.1, PINT-BE, and Mercurius network support.

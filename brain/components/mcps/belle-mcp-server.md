@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:00:15Z"
 ---
 ## What it is
 A reference Model Context Protocol (MCP) server that exposes real Belle Realty property-management data — properties, tenants, leases, maintenance tickets, rent roll — as tools that Claude Desktop, Cursor, or any MCP-compatible client can call directly.

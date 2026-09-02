@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T07:12:37Z"
 ---
 ## What it is
 An MCP server that receives emails on your domain and allows AI assistants to search, read, and manage them via natural language queries.

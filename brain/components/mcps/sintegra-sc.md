@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:23Z"
 ---
 ## What it is
 Consulta em fonte oficial do SINTEGRA: SC via MCP, permitindo consultar dados com uma ferramenta somente leitura e pagamento por uso.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:39:43Z"
 ---
 ## What it is
 Consulta dados completos de Notas Fiscais Eletrônicas (NFe) a partir da chave de acesso. Servidor MCP hospedado, somente leitura, com pagamento por consulta via créditos pré-pagos.

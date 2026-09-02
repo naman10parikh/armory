@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-16T07:49:08Z"
 ---
 ## What it is
 MCP server for PostgreSQL that enables Cursor and other MCP clients to execute SQL queries, list tables, and explore database schemas via HTTP.

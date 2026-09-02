@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-09T02:11:55Z"
 ---
 ## What it is
 MCP server `OParl`, catalogued on PulseMCP. Integrates with parliamentary information systems through the OParl API to provide structured access to government bodies, elected officials, meetings, documents, and legislative processes across multiple implementations including Munich, Cologne, and Hamburg.

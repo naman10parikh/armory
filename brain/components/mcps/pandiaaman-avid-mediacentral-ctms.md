@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-19T22:18:41Z"
 ---
 ## What it is
 MCP server `Avid MediaCentral CTMS`, catalogued on PulseMCP. Integrates with Avid MediaCentral CTMS to provide direct access to content and traffic management systems, enabling asset browsing, project management, and media cataloging across PAM and MAM workflows with OAuth authentication and service discovery.

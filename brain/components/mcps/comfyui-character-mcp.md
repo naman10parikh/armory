@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T04:05:33Z"
 ---
 ## What it is
 Exposes ComfyUI-generated character avatars as tools, allowing control of expressions and poses via preset workflows with adjustable parameters.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-25T09:26:12Z"
 ---
 ## What it is
 MCP server `Backstage`, catalogued on PulseMCP. Provides comprehensive Backstage knowledge base with search functionality and plugin scaffold generator for building internal developer portals and custom plugins

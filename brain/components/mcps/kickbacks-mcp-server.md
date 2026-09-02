@@ -8,11 +8,13 @@ source_url: https://github.com/Manas8114/kickbacks-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T17:03:14Z"
 ---
 ## What it is
 MCP server for Kickbacks.ai that pays developers ad revenue from AI coding agent spinners. Provides tools to check balance, earnings, status, ad history, and toggle ads.

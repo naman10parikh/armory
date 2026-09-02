@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-30T19:29:14Z"
 ---
 ## What it is
 Provides access to CoinCap's cryptocurrency market data and technical analysis tools via MCP, supporting assets, exchanges, markets, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/inferensys/contextful
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T08:34:00Z"
 ---
 ## What it is
 MCP server `Contextful`, catalogued on PulseMCP. Efficient context management layer for AI coding agents: code search, evidence packs, and cross-session memory.

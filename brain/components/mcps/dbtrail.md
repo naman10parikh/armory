@@ -8,10 +8,12 @@ source_url: https://github.com/dbtrail/bintrail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-02T03:24:06Z"
 ---
 ## What it is
 MCP server `DBTrail`, catalogued on PulseMCP. Track MySQL database changes with row-level recovery, forensic attribution, and compliance reporting.

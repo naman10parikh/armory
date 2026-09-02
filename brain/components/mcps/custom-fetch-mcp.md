@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T07:58:32Z"
 ---
 ## What it is
 Enables Claude Code users with third-party APIs to fetch web pages locally, extracting main content without relying on the official Anthropic API.

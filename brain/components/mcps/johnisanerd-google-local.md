@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T20:07:29Z"
 ---
 ## What it is
 MCP server `Google Local Search`, catalogued on PulseMCP. Find local businesses on Google with name, address, phone, hours, ratings, and photos.

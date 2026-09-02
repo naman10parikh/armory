@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:15:41Z"
 ---
 ## What it is
 MCP server that provides search and retrieval of AI system failure modes from the Fail Modes taxonomy, covering factuality, alignment, planning, and more.

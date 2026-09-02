@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-08T17:26:09Z"
 ---
 ## What it is
 MCP server `Grep`, catalogued on PulseMCP. Exposes the system grep binary's functionality for searching files with regular expressions, supporting common options like case-insensitive matching, context lines, and recursive directory searching.

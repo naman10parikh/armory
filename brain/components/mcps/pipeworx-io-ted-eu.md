@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:45:30Z"
 ---
 ## What it is
 MCP server `TED EU`, catalogued on PulseMCP. Tenders Electronic Daily EU public procurement database for searching contract notices, award data, and supplier information via Pipeworx.

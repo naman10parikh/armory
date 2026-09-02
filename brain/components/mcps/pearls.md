@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T05:43:58Z"
 ---
 ## What it is
 A remote MCP server that enables AI instance continuity by allowing AI instances to leave transmissions for future instances, creating a persistent memory layer across conversations.

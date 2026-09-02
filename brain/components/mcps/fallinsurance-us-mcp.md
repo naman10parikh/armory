@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:10:20Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server wrapping the fallinsurance-us-sdk, enabling offline-capable insurance operations for autonomous agents.

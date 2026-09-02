@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-22T20:00:50Z"
 ---
 ## What it is
 Provides access to 227+ expert-crafted Fabric AI patterns for tasks like summarizing, analyzing, and extracting wisdom, all through Claude Desktop with no API keys needed.

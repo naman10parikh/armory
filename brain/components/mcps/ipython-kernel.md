@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-20T05:50:57Z"
 ---
 ## What it is
 An MCP server that connects to existing IPython kernels, allowing Claude to execute code in a shared persistent environment with your IDE.

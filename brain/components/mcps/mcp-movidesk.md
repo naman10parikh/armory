@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T18:43:08Z"
 ---
 ## What it is
 Enables natural language interaction with the Movidesk public API for managing tickets and persons/organizations, including CRUD operations and file attachments.

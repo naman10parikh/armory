@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-20T22:40:17Z"
 ---
 ## What it is
 MCP server for the Overlord C2 framework that gives AI agents 66+ tools for management, monitoring, debugging, and plugin development across clients, plugins, builds, users, audit logs, database, configurations, proxies, and notifications.

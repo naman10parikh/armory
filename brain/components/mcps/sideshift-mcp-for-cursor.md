@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:29:55Z"
 ---
 ## What it is
 Official Cursor plugin enabling natural-language management of your SideShift company—discovering creators, managing campaigns and contracts, communicating with your network, and inspecting analytics through a secure OAuth-linked MCP server.

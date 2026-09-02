@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:19:23Z"
 ---
 ## What it is
 Enables read-only investigation of payment transactions by building normalized timelines, detecting anomalies like duplicate charges and stuck refunds, and creating diagnostic escalations for human review. Never executes or modifies payment actions.

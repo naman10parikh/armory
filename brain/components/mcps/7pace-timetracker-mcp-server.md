@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T11:05:18Z"
 ---
 ## What it is
 Enables natural language time tracking through AI assistants, integrating with Azure DevOps to log, view, and report work hours without context switching.

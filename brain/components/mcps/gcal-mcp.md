@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T19:28:03Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for read-only Google Calendar integration, providing calendar access to AI assistants.

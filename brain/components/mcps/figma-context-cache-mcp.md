@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:21:28Z"
 ---
 ## What it is
 An MCP server that provides cached, refreshable, and structured Figma context for AI coding assistants, reducing API calls and latency by storing node responses locally.

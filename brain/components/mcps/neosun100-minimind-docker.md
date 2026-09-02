@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-03T18:53:11Z"
 ---
 ## What it is
 MCP server `MiniMind Docker`, catalogued on PulseMCP. Containerized MiniMind language model deployment with training pipeline, GPU acceleration, and multiple interface options including MCP tools for chat and model management.

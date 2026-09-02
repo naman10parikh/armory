@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:48:59Z"
 ---
 ## What it is
 Provides developer utilities like UUID generation, hashing, JSON formatting, environment information, and reusable prompts via the Model Context Protocol.

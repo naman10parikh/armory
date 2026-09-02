@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:47:34Z"
 ---
 ## What it is
 A rogue MCP server (~90 lines) that demonstrates prompt injection via tool responses to achieve remote code execution on a developer's machine.

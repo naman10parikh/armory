@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:13:53Z"
 ---
 ## What it is
 An MCP server for searching current class-action settlement records by keywords and structured filters, retrieving settlement details, and performing batch searches to identify plausible claim matches.

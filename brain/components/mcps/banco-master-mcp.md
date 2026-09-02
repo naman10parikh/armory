@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:11Z"
 ---
 ## What it is
 Connects Banco Master accounts to AI assistants via Open Finance Brazil for read-only queries on balances, transactions, credit card bills, and investments.

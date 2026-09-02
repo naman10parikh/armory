@@ -8,10 +8,12 @@ source_url: https://github.com/nickjlamb/pubcrawl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T22:40:58Z"
 ---
 ## What it is
 MCP server `PubCrawl`, catalogued on PulseMCP. PubMed literature search and US/UK drug labelling.

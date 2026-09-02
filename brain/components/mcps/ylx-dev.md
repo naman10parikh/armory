@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:13:12Z"
 ---
 ## What it is
 Development assistant for YLx photo proofing platform, enabling PR review, codebase queries, feature suggestions, audits, test generation, and deployment monitoring.

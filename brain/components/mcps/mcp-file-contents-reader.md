@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T21:05:49Z"
 ---
 ## What it is
 Enables reading and analysis of PDF, Excel, Word, and PowerPoint files through the Model Context Protocol, supporting content extraction, document search, and file upload.

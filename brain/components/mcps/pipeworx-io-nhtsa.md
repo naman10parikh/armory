@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:04Z"
 ---
 ## What it is
 MCP server `NHTSA`, catalogued on PulseMCP. Query NHTSA vehicle safety data including recalls, complaints, and crash test ratings.

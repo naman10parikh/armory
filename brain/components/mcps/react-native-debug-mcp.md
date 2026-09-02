@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T05:16:37Z"
 ---
 ## What it is
 Enables AI agents to inspect, log, and control React Native apps on Android emulators or iOS simulators, including UI tree, tap, scroll, and hot reload.

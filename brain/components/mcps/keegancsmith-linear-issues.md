@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-23T01:14:22Z"
 ---
 ## What it is
 MCP server `Linear Issues`, catalogued on PulseMCP. Integrates with Linear issue tracking to provide read-only access to issue details and comments without switching contexts.

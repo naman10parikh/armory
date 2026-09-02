@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T00:46:27Z"
 ---
 ## What it is
 A demo MCP server for validating security scanning capabilities, featuring intentional security anti-patterns such as email exfiltration, SSRF, and hardcoded fake secrets.

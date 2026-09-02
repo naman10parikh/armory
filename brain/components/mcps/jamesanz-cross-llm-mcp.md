@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 16
+forks: 6
+pushed_at: "2026-04-17T04:41:35Z"
 ---
 ## What it is
 An MCP server that enables cross-LLM communication and memory sharing, allowing different AI models to collaborate and share context across conversations.

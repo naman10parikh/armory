@@ -8,10 +8,12 @@ source_url: https://github.com/chentyjpm/ncnn_llm-mcp-sdimggen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-19T02:58:17Z"
 ---
 ## What it is
 MCP server `Stable Diffusion NCNN`, catalogued on PulseMCP. CPU-based Stable Diffusion image generation using the ncnn framework for offline text-to-image workflows

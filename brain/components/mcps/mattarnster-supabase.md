@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-04T22:27:10Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Integrates with the Supabase CLI to enable project management, database operations, and automated workflows for Supabase projects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-22T01:16:25Z"
 ---
 ## What it is
 An MCP server that provides full-text search over documentation using Whoosh, enabling AI assistants to find up-to-date, authoritative answers.

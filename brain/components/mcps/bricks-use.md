@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-09T17:50:42Z"
 ---
 ## What it is
 MCP server for executing Databricks SQL queries and comparing table data, supporting CLI and VS Code integration.

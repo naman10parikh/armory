@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:12:13Z"
 ---
 ## What it is
 A zero-dependency MCP proxy/gateway server that aggregates multiple MCP servers, routes tools by prefix, load balances, and enforces authentication and rate limits.

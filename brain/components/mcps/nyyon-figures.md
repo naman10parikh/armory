@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:17:23Z"
 ---
 ## What it is
 A local MCP server that renders nyyon's editorial diagrams and featured covers from a spec, without network requests.

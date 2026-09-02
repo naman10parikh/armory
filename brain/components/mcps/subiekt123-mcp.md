@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:54:26Z"
 ---
 ## What it is
 Stateless MCP server for invoicing in Subiekt 123 using the InsERT API, enabling tools to preview and create invoices, manage documents, and fetch exchange rates.

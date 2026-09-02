@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T06:48:56Z"
 ---
 ## What it is
 Grades MCP servers on agent usability (A–F) — description quality, schema design, tool naming and token cost, the properties that decide whether a model picks the right tool. Benchmarked across 36 popular servers; a third scored D or F.

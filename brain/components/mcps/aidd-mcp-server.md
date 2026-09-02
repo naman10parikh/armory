@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2025-01-14T03:58:53Z"
 ---
 ## What it is
 Provides AI-driven development tools including file system operations, multi-language code analysis with tree-sitter, Git operations, code execution, and system information retrieval.

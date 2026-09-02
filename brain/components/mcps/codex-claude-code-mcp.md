@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:04:15Z"
 ---
 ## What it is
 Enables Codex to delegate long-running work to Claude Code via blocking MCP calls, with tools for model discovery, run, and resume without polling.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-09T11:08:53Z"
 ---
 ## What it is
 MCP server `Midnight + Next.js`, catalogued on PulseMCP. Provides tools for Midnight blockchain smart contract development and Next.js dApp building.

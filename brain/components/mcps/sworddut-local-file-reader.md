@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-19T08:30:46Z"
 ---
 ## What it is
 MCP server `Local File Reader`, catalogued on PulseMCP. Provides a lightweight server for reading local text files, enabling AI tools to access file content from the filesystem without leaving the conversation interface.

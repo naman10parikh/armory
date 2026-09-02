@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T20:22:54Z"
 ---
 ## What it is
 Lightweight MCP server for Jira, Confluence, and Bitbucket — read, create, and update from your AI IDE.

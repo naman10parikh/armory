@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T09:25:46Z"
 ---
 ## What it is
 A production-grade macOS MCP server exposing 33 tools for full desktop automation, including mouse, keyboard, screenshot, clipboard, and window control.

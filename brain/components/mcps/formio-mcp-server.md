@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T12:18:15Z"
 ---
 ## What it is
 Enables AI agents to interact with the FormIO API for dynamic form creation, submission management, and user roles using natural language.

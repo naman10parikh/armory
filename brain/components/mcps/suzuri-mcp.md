@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:17:42Z"
 ---
 ## What it is
 Enables AI assistants to create custom merchandise on SUZURI, including uploading images, generating text designs, and placing them on 450+ items, as well as searching and managing products.

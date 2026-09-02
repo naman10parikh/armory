@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:36:12Z"
 ---
 ## What it is
 A lightweight, modular MCP server for the Linka ecosystem, providing read-only runtime diagnostics, teach artifact management, and controlled actions via a clear contract layer.

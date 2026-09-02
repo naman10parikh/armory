@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:26:36Z"
 ---
 ## What it is
 Safe Vision MCP enables safe and efficient local image inspection by generating thumbnails, contact sheets, and statistics, avoiding large images in LLM context.

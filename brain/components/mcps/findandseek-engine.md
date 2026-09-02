@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T02:49:51Z"
 ---
 ## What it is
 A local-first file intelligence engine that indexes documents, code, and email on your machine using on-device models, and exposes that memory to any AI assistant over MCP for semantic search and structured fact retrieval.

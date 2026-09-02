@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T06:52:33Z"
 ---
 ## What it is
 A lightweight MCP server for parsing HTML, fetching URLs, rendering terminal-style screenshots, and executing JavaScript on static HTML without external dependencies.

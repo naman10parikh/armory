@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T04:32:38Z"
 ---
 ## What it is
 Query Luxembourgish data protection data — regulations, decisions, and requirements from CNPD directly from Claude, Cursor, or any MCP-compatible client.

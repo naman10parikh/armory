@@ -12,6 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-10T02:58:30Z"
 ---
 ## What it is
 MCP server `Claude Web Search`, catalogued on PulseMCP. Enables real-time web searches with configurable domain filtering and result limits for accessing up-to-date information beyond training data

@@ -8,10 +8,12 @@ source_url: https://github.com/humansignal/label-studio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-30T10:03:53Z"
 ---
 ## What it is
 MCP server `Label Studio`, catalogued on PulseMCP. Integrates with Label Studio's data labeling platform to manage annotation projects, import tasks, handle predictions, and streamline machine learning data preparation workflows.

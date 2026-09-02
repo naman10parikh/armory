@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:18:48Z"
 ---
 ## What it is
 Enables natural-language querying of a mock legacy healthcare database and returns validated FHIR resources (Patient, Observation, Condition).

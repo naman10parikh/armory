@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:10:40Z"
 ---
 ## What it is
 An MCP server that enforces context validity declarations, ensuring agents refuse stale context with a disclosure naming the accountable steward instead of answering confidently with outdated information.

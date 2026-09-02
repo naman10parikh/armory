@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:48:08Z"
 ---
 ## What it is
 An MCP server that enables LLMs to securely query synthetic clinical data through validated, scoped tools (patient summaries, conditions, medications, lab trends, encounters) while maintaining audit logs and access controls.

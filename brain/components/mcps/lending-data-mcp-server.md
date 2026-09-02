@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:01:33Z"
 ---
 ## What it is
 Exposes a governed lending portfolio (loans, customers, risk-tier history) to any MCP-compatible AI client via read-only tools, schema resources, and analysis prompts, wrapping an existing API gateway instead of connecting directly to the database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T08:43:43Z"
 ---
 ## What it is
 Enables AI assistants to control FEFLOW 7.5 groundwater simulation software through MCP, supporting model loading, mesh operations, parameter management, and result export.

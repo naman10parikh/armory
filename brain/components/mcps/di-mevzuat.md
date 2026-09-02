@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:46:42Z"
 ---
 ## What it is
 A local FastMCP server that enables searching and reviewing Turkish health and dental clinic promotional content against regulatory sources, with tools for source management and AI-assisted analysis.

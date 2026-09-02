@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-14T14:52:15Z"
 ---
 ## What it is
 MCP server for Russia's Chestnyi Znak product labelling system, allowing AI assistants to query marking codes, documents, warehouse balances, and participant data via natural language.

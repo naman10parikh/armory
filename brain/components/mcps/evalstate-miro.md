@@ -8,10 +8,12 @@ source_url: https://github.com/evalstate/mcp-miro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 111
+stars: 112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2024-12-23T15:11:21Z"
 ---
 ## What it is
 MCP server `Miro`, catalogued on PulseMCP. Create and manage content on Miro whiteboards.

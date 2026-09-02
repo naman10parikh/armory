@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:31:54Z"
 ---
 ## What it is
 A self-hosted work dashboard for AI agent teams, where agents create and manage tickets through MCP tools and humans review an awaiting-human queue backed by an append-only event log. Enables ticket lifecycle management and evidence-based provenance tracking.

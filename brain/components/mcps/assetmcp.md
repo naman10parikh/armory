@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T22:37:08Z"
 ---
 ## What it is
 Provides normalized reads and unsigned transaction payloads for ASA, ARC-200, and ARC-72 assets on Algorand and Voi mainnets via the Model Context Protocol.

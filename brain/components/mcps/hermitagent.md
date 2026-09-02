@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T03:23:40Z"
 ---
 ## What it is
 MCP executor lane for Claude Code, Codex, and Hermes Agent that offloads mechanical repo tasks like edits, tests, and commits to a cheaper or local model.

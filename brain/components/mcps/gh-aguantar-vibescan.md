@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T04:27:33Z"
 ---
 ## What it is
 MCP server `VibeScan`, catalogued on PulseMCP. Security scanner for leaked secrets, dangerous code patterns, and git hygiene issues.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 14
+forks: 11
+pushed_at: "2025-11-16T02:10:37Z"
 ---
 ## What it is
 An MCP server that provides real-time whale alerts on Hyperliquid, flagging positions with a notional value exceeding $1 million.

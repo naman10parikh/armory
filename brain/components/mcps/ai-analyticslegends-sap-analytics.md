@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:07:39Z"
 ---
 ## What it is
 Read-only MCP server providing curated SAP analytics market data, including firms, opportunities, news, concepts, and day-rate benchmarks, with citations and public tools requiring no credentials.

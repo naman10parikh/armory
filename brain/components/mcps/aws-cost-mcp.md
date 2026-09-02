@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-03-27T08:07:19Z"
 ---
 ## What it is
 Enables querying AWS Cost and Usage Report data via Amazon Athena for cost-effective and detailed cost analysis.

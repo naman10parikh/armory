@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
+forks: 0
+pushed_at: "2026-03-27T20:52:31Z"
 ---
 ## What it is
 Genesis Playground <> Automation Agents

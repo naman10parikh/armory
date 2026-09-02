@@ -8,10 +8,12 @@ source_url: https://github.com/conechoai/openai-websearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-09-12T08:44:52Z"
 ---
 ## What it is
 MCP server `OpenAI WebSearch`, catalogued on PulseMCP. Enables AI assistants to search the web in real-time through OpenAI's websearch functionality, retrieving up-to-date information beyond training data cutoffs with configurable search parameters.

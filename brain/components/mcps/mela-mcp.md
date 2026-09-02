@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:26:35Z"
 ---
 ## What it is
 A read-only MCP server for searching and reading recipes stored in the Mela macOS app, offering tools to search recipes, retrieve full details with photos, and list tags.

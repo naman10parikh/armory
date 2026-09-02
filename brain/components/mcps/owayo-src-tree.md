@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-24T05:31:45Z"
 ---
 ## What it is
 MCP server `Source Tree Generator`, catalogued on PulseMCP. Generates source code directory trees using Python and pathspec for flexible path matching, enabling code analysis and project structure visualization.

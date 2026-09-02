@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-05-09T13:24:32Z"
 ---
 ## What it is
 Enables AI agents to create hosted checkouts, charge mobile wallets, query transactions, and process refunds via the JazzCash payment API.

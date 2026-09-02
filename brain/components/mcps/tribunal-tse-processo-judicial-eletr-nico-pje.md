@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-dir/tribunal_tse_pje-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:26Z"
 ---
 ## What it is
 Provides read-only consultation of Brazilian TSE electronic judicial processes (PJe) from official sources, with prepaid per-query access and no platform credentials required.

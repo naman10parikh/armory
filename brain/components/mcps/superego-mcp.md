@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-25T21:58:23Z"
 ---
 ## What it is
 Superego MCP is an intelligent tool-call review system for AI agents that provides configurable security rules and automated guardrails.

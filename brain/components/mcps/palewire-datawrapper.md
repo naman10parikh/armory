@@ -8,10 +8,12 @@ source_url: https://github.com/palewire/datawrapper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-07-01T02:54:16Z"
 ---
 ## What it is
 MCP server `Datawrapper`, catalogued on PulseMCP. Create and manage Datawrapper charts and visualizations

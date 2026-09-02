@@ -8,11 +8,13 @@ source_url: https://github.com/devnullvoid/mcp-ssh-tmux
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-05T06:47:34Z"
 ---
 ## What it is
 A high-performance MCP server that manages persistent SSH sessions via a local tmux instance, enabling command execution, file transfer, and session monitoring for AI agents.

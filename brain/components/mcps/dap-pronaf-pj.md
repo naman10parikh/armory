@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:33:35Z"
 ---
 ## What it is
 Enables querying the Pronaf Aptitude Declaration (DAP) for a legal entity by CNPJ, allowing users to check if a CNPJ has a Pronaf DAP through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:51:21Z"
 ---
 ## What it is
 AI-powered penetration testing reasoning engine (MCP server) for attack path planning, step scoring, and tool recommendations using Beam Search and Monte Carlo Tree Search.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-08T19:21:31Z"
 ---
 ## What it is
 MCP server `CEP (Brazilian Postal Code)`, catalogued on PulseMCP. Provides a simple interface for querying Brazilian postal codes (CEPs) via the ViaCEP API, enabling address validation and expansion without leaving conversation context.

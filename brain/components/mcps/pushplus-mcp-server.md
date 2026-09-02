@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T07:50:14Z"
 ---
 ## What it is
 Enables AI assistants to send push notifications to WeChat, email, and other channels via PushPlus, supporting multiple message formats and channels.

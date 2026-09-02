@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:04Z"
 ---
 ## What it is
 Read-only MCP server for querying SEFAZ Tocantins (SEFAZ TO) NFC-e (electronic consumer invoice) data from official government sources via natural language, working with any MCP-compatible client such as Claude, Cursor, VS Code, and more.

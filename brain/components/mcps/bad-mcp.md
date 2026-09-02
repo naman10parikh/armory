@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:57:21Z"
 ---
 ## What it is
 A harness for building test MCP servers that reproduce common attack patterns, enabling detection evaluation via streaming HTTP or stdio.

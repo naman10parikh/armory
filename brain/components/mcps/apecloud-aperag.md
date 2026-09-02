@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 1303
+stars: 1305
+forks: 147
+pushed_at: "2026-05-02T05:01:36Z"
 ---
 ## What it is
 Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your own Knowledge Graph and for Context Engineering

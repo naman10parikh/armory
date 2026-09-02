@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:10:57Z"
 ---
 ## What it is
 Incident Triage MCP is a Model Context Protocol (MCP) server for incident triage. It provides safe, auditable tools for evidence retrieval, deterministic summaries, ticket workflows, and notifications.

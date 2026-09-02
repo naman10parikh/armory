@@ -8,10 +8,12 @@ source_url: https://github.com/huoji120/mcp-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-19T18:34:37Z"
 ---
 ## What it is
 MCP server `Web Research`, catalogued on PulseMCP. Web research via DuckDuckGo search with local knowledge caching and markdown synthesis.

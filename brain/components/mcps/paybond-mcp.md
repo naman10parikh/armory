@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:06:09Z"
 ---
 ## What it is
 Tenant-bound MCP server for agent spend authorization, policy guardrails, evidence, escrow settlement, and portable receipts. Works with Cursor and Claude Code via stdio; npm (@paybond/kit) and Python (paybond-kit).

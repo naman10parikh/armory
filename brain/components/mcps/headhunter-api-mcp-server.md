@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-08T17:14:55Z"
 ---
 ## What it is
 Enables AI assistants to access and manage HeadHunter job platform data, including vacancies, resumes, negotiations, and employer settings via 167+ tools.

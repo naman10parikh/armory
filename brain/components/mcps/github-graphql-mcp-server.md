@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-08-17T17:35:03Z"
 ---
 ## What it is
 Enables executing arbitrary GraphQL queries and mutations against GitHub's API through a single MCP tool.

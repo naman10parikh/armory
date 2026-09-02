@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T21:04:24Z"
 ---
 ## What it is
 Enables any MCP client to request an independent second opinion from a fresh Claude Code session without blocking, useful for plans, architecture, debugging, security reviews, and final checks.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-08T12:28:04Z"
 ---
 ## What it is
 MCP server `LocalPro`, catalogued on PulseMCP. Verified US local service provider data across contractor trades, with ratings, services, and pricing.

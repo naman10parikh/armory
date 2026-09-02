@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T21:04:41Z"
 ---
 ## What it is
 A Model Context Protocol server implementing a Getting Things Done assistant with tools for tasks, projects, inbox, next actions, and statistics. Supports local SQLite and Databricks deployment.

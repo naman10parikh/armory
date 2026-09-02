@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T00:01:12Z"
 ---
 ## What it is
 An MCP server that gives Claude the ability to read, validate and write EDIFACT, ANSI X12 and cXML messages.

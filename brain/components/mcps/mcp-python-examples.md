@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:16:44Z"
 ---
 ## What it is
 Provides two MCP server examples in Python: a minimal greeting tool and a weather tool that fetches real-time data from Open-Meteo API.

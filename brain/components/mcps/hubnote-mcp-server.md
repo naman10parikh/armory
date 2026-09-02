@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T16:38:28Z"
 ---
 ## What it is
 MCP server for hubNote, enabling AI assistants to manage workspaces, pages, and data rows via natural language.

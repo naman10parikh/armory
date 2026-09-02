@@ -8,10 +8,12 @@ source_url: https://github.com/maxtedu/bilibili_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T14:40:51Z"
 ---
 ## What it is
 MCP server `Bilibili`, catalogued on PulseMCP. Interact with Bilibili to send danmaku, comments, likes, coins, and favorites on videos.

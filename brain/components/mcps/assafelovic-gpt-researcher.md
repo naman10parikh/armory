@@ -8,10 +8,12 @@ source_url: https://github.com/assafelovic/gptr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 347
+stars: 368
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 63
+pushed_at: "2025-11-07T07:46:52Z"
 ---
 ## What it is
 MCP server `GPT Researcher`, catalogued on PulseMCP. Enables real-time web research, information gathering, and report generation with tools for conducting deep research, quick searches, and comprehensive source tracking.

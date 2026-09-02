@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T17:11:21Z"
 ---
 ## What it is
 MCP server for Dunn and GITT battery analysis, enabling calculation of kinetic parameters and diffusion coefficients from cyclic voltammetry and titration data.

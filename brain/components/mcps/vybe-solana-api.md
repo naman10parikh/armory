@@ -8,10 +8,12 @@ source_url: https://github.com/vybenetwork/solana-mcp-vybe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 1226
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 96
+pushed_at: "2026-08-24T18:00:23Z"
 ---
 ## What it is
 MCP server `Vybe Solana API`, catalogued on PulseMCP. Real-time Solana blockchain data for tokens, wallets, trades, and DeFi protocols via the Vybe API.

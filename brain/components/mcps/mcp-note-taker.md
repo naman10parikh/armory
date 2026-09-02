@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-12T12:30:48Z"
 ---
 ## What it is
 A proof-of-concept MCP server for AI assistant note-taking, enabling adding notes, fetching the latest note, and summarizing all notes.

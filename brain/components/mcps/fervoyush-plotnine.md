@@ -8,10 +8,12 @@ source_url: https://github.com/fervoyush/plotnine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-26T16:36:11Z"
 ---
 ## What it is
 MCP server `Plotnine`, catalogued on PulseMCP. Creates grammar of graphics visualizations by loading data from files, URLs, or JSON and building customizable plots with multiple geometry layers, aesthetic mappings, scales, themes, facets, and statistical transformations.

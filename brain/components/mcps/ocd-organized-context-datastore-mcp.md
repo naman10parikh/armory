@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T05:38:39Z"
 ---
 ## What it is
 Give your AI persistent, structured memory and let humans see it too. It stores project knowledge as Markdown files in a hierarchical tree, accessible via MCP tools and a built-in Web UI.

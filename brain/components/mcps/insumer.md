@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T15:20:38Z"
 ---
 ## What it is
 MCP server `Insumer`, catalogued on PulseMCP. Read-first blockchain verification returning ECDSA-signed booleans across 32 chains without exposing wallet balances.

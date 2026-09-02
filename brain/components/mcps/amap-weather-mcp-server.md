@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-04-08T13:11:29Z"
 ---
 ## What it is
 基于高德地图API的中国城市天气查询MCP服务，支持实时天气和未来几天天气预报查询。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:54:05Z"
 ---
 ## What it is
 Enables backtesting of limit-order strategies on Polymarket's BTC 5-minute markets using historical data, with tools to browse markets, get price series, and run simulations.

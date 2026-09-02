@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T10:38:09Z"
 ---
 ## What it is
 MCP server `VibeFix`, catalogued on PulseMCP. Integrates with VibeFix bug bounty platform for browsing bounties, posting bugs, submitting fixes, and running diagnostics.

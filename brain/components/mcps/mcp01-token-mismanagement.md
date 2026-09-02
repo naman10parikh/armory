@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T08:49:14Z"
 ---
 ## What it is
 A deliberately vulnerable MCP server demonstrating API key exposure through hardcoding, plaintext logging, and returning secrets to the model, part of the OWASP MCP Top 10 security lab.

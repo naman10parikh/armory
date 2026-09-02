@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T15:10:54Z"
 ---
 ## What it is
 Enables Claude Code to delegate tasks to OpenAI's Codex CLI (GPT-5.4) with structured execution traces, parallel execution, session persistence, and adversarial code review.

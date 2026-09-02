@@ -8,10 +8,12 @@ source_url: https://github.com/holdmybeer-gg/bad-ass-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-28T11:21:30Z"
 ---
 ## What it is
 MCP server `Desktop GUI Automation`, catalogued on PulseMCP. Cross-platform desktop GUI automation via OS-native accessibility APIs on macOS, Linux, and Windows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:25:18Z"
 ---
 ## What it is
 Enables local models to query GitHub read-only through nine compact tools that return small, capped results, such as repositories, issues, pull requests, commits, code search, and file contents.

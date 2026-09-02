@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:19:09Z"
 ---
 ## What it is
 Enables AI-powered conversion of any website into native Android and iOS apps by managing drafts, uploading assets, and triggering builds through MCP.

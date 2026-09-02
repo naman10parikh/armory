@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:30:51Z"
 ---
 ## What it is
 A read-only MCP server that enables AI assistants to query 1,224 public DHCS participating-provider records for California's Medi-Cal Assisted Living Waiver, compare counties, and retrieve statewide enrollment and waitlist figures while preserving source limitations.

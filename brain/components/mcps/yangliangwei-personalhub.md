@@ -8,10 +8,12 @@ source_url: https://github.com/yangliangwei/personalizationmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-24T05:02:11Z"
 ---
 ## What it is
 MCP server `PersonalHub`, catalogued on PulseMCP. Centralizes personal data from Steam, YouTube, and Bilibili platforms through modular integrations that provide gaming statistics, video content, and user activity data with plans for Spotify, Twitter, and GitHub expansion.

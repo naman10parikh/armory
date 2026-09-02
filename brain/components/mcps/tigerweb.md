@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T21:12:11Z"
 ---
 ## What it is
 Enables access to US Census Bureau TIGERweb geographic boundary data, returning GeoJSON for states, counties, census tracts, places, ZCTAs, and congressional districts.

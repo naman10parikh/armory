@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:20:06Z"
 ---
 ## What it is
 MCP server for remote debugging of Apps in Toss mini-apps, providing CDP relay and test runner capabilities.

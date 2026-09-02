@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-23T13:02:27Z"
 ---
 ## What it is
 An unofficial MCP server that provides 17 tools for Yandex/Google rank tracking via the Topvisor API v2, enabling project management, keyword import, asynchronous position checks, and retrieval of history and SERP snapshots.

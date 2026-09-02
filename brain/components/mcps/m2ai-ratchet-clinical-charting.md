@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T05:42:48Z"
 ---
 ## What it is
 MCP server `Ratchet Clinical Charting`, catalogued on PulseMCP. Clinical charting with Claude — document patient visits and send to EMR systems.

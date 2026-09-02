@@ -8,10 +8,12 @@ source_url: https://github.com/jem-computer/capacities-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-04-21T17:42:48Z"
 ---
 ## What it is
 MCP server `Capacities`, catalogued on PulseMCP. Integrates with Capacities knowledge management platform to search content across knowledge bases, save weblinks with metadata, add content to daily notes, and create structured summaries, research notes, and meeting notes.

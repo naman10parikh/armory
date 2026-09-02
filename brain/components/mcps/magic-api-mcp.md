@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-30T08:59:04Z"
 ---
 ## What it is
 Enables AI to manage and interact with a running magic-api instance, including CRUD operations on APIs, groups, functions, and datasources, with built-in magic-script knowledge.

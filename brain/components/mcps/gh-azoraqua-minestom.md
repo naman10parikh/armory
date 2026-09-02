@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-28T23:55:54Z"
 ---
 ## What it is
 MCP server `Minestom`, catalogued on PulseMCP. Provides Minestom Minecraft server documentation and development guidance.

@@ -8,11 +8,13 @@ source_url: https://github.com/OpenCodice-Research/openreview-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T11:44:31Z"
 ---
 ## What it is
 MCP server for searching and retrieving submissions, reviews, meta-reviews, rebuttals, and decisions from OpenReview venues like NeurIPS and ICLR, enabling peer review analysis.

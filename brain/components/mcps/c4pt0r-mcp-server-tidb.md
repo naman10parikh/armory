@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 24
+forks: 8
+pushed_at: "2025-04-15T08:34:55Z"
 ---
 ## What it is
 TiDB database integration with schema inspection and query capabilities

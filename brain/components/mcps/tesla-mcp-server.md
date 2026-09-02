@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-11T15:59:03Z"
 ---
 ## What it is
 Connects Claude with the Tesla Owner API, enabling authentication and data retrieval for Tesla vehicles and solar systems.

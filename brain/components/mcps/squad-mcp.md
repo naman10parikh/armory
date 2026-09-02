@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-01T09:36:06Z"
 ---
 ## What it is
 Exposes the squad-dev workflow as deterministic MCP tools, enabling task classification, risk scoring, specialist reviewer selection, and advisory verdict consolidation for code changes.

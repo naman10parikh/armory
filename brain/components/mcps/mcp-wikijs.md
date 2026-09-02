@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:36:13Z"
 ---
 ## What it is
 Connects Claude to a Wiki.js instance, enabling page search, retrieval, listing, and creation.

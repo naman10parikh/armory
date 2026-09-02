@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T19:33:23Z"
 ---
 ## What it is
 Exposes an agent-based simulation of post-scarcity governance as callable tools for AI agents, including simulation runs, compliance checks, and test execution.

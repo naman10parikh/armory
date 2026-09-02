@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T01:16:24Z"
 ---
 ## What it is
 Local RAG system that ingests documents into a vector database using FAISS and SQLite, then enables Claude to search over them via MCP tools, all running locally with no API key required.

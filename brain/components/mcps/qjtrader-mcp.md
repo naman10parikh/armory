@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:39:59Z"
 ---
 ## What it is
 MCP server for QJ Trader AI Trading APIs, enabling LLMs to watch live Canadian market data and place simulated orders.

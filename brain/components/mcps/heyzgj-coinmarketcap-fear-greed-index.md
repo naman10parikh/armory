@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-16T16:04:22Z"
 ---
 ## What it is
 MCP server `CoinMarketCap Fear & Greed Index`, catalogued on PulseMCP. Integrates with CoinMarketCap API to provide real-time cryptocurrency data, market metrics, and Fear & Greed Index through TypeScript tools with smart caching and detailed error handling.

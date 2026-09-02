@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T19:45:08Z"
 ---
 ## What it is
 Enables deploying apps, managing servers, domains/DNS, VPS lifecycle, and account balance on Impreza Host via AI in VS Code.

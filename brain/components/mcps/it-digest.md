@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:00:15Z"
 ---
 ## What it is
 MCP server for RSS aggregation and LLM summarization, allowing users to fetch latest articles, search archives, and generate topic-specific digests via natural language.

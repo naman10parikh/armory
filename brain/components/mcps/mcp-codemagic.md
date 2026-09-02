@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:24:11Z"
 ---
 ## What it is
 This MCP server enables users to manage Codemagic CI/CD builds directly from Claude Code, including listing apps, triggering builds, checking status, and canceling builds.

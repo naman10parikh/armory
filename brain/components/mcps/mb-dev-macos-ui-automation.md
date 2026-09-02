@@ -8,10 +8,12 @@ source_url: https://github.com/mb-dev/macos-ui-automation-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-02T04:35:55Z"
 ---
 ## What it is
 MCP server `macOS UI Automation`, catalogued on PulseMCP. Enables desktop automation on macOS through native accessibility APIs for clicking UI elements, typing text, taking screenshots, and navigating application interfaces via natural language commands.

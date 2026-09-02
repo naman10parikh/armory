@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T20:27:29Z"
 ---
 ## What it is
 MCP server `nesift`, catalogued on PulseMCP. Local semantic search MCP server with hybrid BM25 and vector retrieval, session indexing, and token-aware result curation.

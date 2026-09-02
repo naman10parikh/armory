@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:35:55Z"
 ---
 ## What it is
 MCP server for querying the Kaggle 'All Natural Disasters 1900-2021 / EOSDIS' CSV dataset via pandas, exposing search and statistics tools.

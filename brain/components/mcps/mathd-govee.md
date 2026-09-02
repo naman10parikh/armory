@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-21T04:17:03Z"
 ---
 ## What it is
 MCP server `Govee`, catalogued on PulseMCP. Integrates with Govee smart lighting devices to enable natural language control of brightness, color, and power settings for home automation and ambient lighting scenarios.

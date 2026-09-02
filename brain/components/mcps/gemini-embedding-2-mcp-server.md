@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-25T00:23:32Z"
 ---
 ## What it is
 A multimodal local memory MCP server that lets AI agents search across text, PDFs, images, audio, and video using Gemini Embedding 2 and a local ChromaDB.

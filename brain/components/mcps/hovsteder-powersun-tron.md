@@ -8,10 +8,12 @@ source_url: https://github.com/hovsteder/powersun-tron-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T08:59:39Z"
 ---
 ## What it is
 MCP server `PowerSun Tron`, catalogued on PulseMCP. Tron blockchain tools for wallet management, TRX transfers, and smart contract interaction.

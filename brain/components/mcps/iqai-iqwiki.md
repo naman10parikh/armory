@@ -8,10 +8,12 @@ source_url: https://github.com/iqaicom/mcp-iqwiki
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T14:40:17Z"
 ---
 ## What it is
 MCP server `IQ.wiki`, catalogued on PulseMCP. Provides structured access to IQ.wiki's blockchain encyclopedia data through GraphQL queries for retrieving specific wikis, user contributions, and detailed content change histories

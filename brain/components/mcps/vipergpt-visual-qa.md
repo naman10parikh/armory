@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-18T23:17:52Z"
 ---
 ## What it is
 MCP server `ViperGPT Visual Question Answering`, catalogued on PulseMCP. Provides visual question-answering capabilities through a mixture-of-experts approach that combines multiple vision models to handle visual grounding, compositional image analysis, and knowledge-dependent visual reasoning tasks by generating and executing Python code.

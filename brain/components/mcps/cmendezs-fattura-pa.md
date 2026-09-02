@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T13:01:24Z"
 ---
 ## What it is
 MCP server `FatturaPA`, catalogued on PulseMCP. Generate, validate, and analyze Italian FatturaPA XML electronic invoices using 21 MCP tools.

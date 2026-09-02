@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:02:52Z"
 ---
 ## What it is
 Statically analyzes exported n8n automation workflows for security issues and returns structured findings.

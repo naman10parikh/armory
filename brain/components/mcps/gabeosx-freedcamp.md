@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-15T00:09:31Z"
 ---
 ## What it is
 MCP server `Freedcamp`, catalogued on PulseMCP. Integrates with Freedcamp's task management platform to create, update, list, and delete tasks with bulk operations and secure HMAC-SHA1 authentication.

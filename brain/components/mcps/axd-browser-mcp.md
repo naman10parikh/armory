@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:51:05Z"
 ---
 ## What it is
 A high-performance MCP server for browser automation via Chrome DevTools Protocol, enabling fast, low-cost, and anti-bot web interactions.

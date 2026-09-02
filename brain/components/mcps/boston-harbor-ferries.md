@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T20:11:25Z"
 ---
 ## What it is
 MCP server to track Boston Harbor commuter ferries in real-time, providing vessel positions, routes, and schedules.

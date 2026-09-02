@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:07:06Z"
 ---
 ## What it is
 An MCP server that lets you log and query your own spending through natural conversation with Claude, instead of a spreadsheet or app.

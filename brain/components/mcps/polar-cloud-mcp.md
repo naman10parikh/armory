@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:23:57Z"
 ---
 ## What it is
 Enables generating 3D models, slicing them with Polar Cloud defaults, and queuing prints from MCP clients.

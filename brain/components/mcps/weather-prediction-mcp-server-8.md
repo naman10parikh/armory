@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:10:41Z"
 ---
 ## What it is
 A Streamable HTTP MCP server backed by Open-Meteo, plus the prompt and registration metadata for a Databricks Agent Bricks weather agent.

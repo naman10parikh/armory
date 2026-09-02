@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:32:55Z"
 ---
 ## What it is
 Enables read-only access to Pocket Agent's product information, public persona templates, and app catalog. No authentication required.

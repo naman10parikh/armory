@@ -8,11 +8,13 @@ source_url: https://github.com/krVatsal/illustrator-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 137
+stars: 143
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-07-04T08:46:45Z"
 ---
 ## What it is
 Enables AI agents to generate vector graphics in Adobe Illustrator using natural language prompts, by sending ExtendScript commands via a local MCP server.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T14:17:05Z"
 ---
 ## What it is
 MCP server `DNS Security Analysis`, catalogued on PulseMCP. Real-time DNS security analysis with DNSSEC validation, email authentication auditing, and RDAP lookups for SOC investigations.

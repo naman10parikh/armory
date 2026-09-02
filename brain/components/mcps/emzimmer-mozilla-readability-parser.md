@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-01-28T21:38:47Z"
 ---
 ## What it is
 MCP server `Fetch (Mozilla Readability)`, catalogued on PulseMCP. Integrates Mozilla's Readability algorithm to extract and transform webpage content into clean, LLM-optimized Markdown.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-13T14:44:21Z"
 ---
 ## What it is
 MCP server `Atlas Vector Search Docs`, catalogued on PulseMCP. Provides semantic search and document retrieval using MongoDB Atlas Vector Search with Voyage AI embeddings, enabling intelligent querying across markdown documentation with hierarchical chunking and contextual understanding.

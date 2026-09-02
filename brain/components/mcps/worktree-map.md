@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:56:44Z"
 ---
 ## What it is
 MCP server that visualizes git branch genealogy and worktree locations within a repository, marking the current session position. Supports creating branches/worktrees, safe deletion/cleanup, and session navigation with fallback guidance.

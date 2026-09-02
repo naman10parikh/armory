@@ -8,10 +8,12 @@ source_url: https://github.com/ilyagulya/gradle-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-14T04:25:14Z"
 ---
 ## What it is
 MCP server `Gradle`, catalogued on PulseMCP. Enables interaction with Gradle projects for retrieving metadata and executing tasks remotely via the Gradle Tooling API with stdio and SSE transport support

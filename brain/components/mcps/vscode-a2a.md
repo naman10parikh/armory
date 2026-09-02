@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:37:50Z"
 ---
 ## What it is
 An MCP bridge that exposes A2A agents as tools in VS Code agent chat, enabling natural language delegation to remote agents with multi-turn conversation and configurable authentication.

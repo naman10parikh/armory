@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:22:00Z"
 ---
 ## What it is
 Cross-platform remote debugging agent with MCP support for launching processes, screenshotting, hooking APIs/addresses, and reading/writing memory via Frida.

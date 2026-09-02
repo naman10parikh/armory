@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:49:37Z"
 ---
 ## What it is
 Privacy-first Telegram MCP server enabling maintainers to triage chats, inspect context, search messages, draft replies, and send authorized messages locally without a cloud relay.

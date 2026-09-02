@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T11:31:07Z"
 ---
 ## What it is
 Enables read-only searches of official sources from Italian local entities by forwarding queries to the Fonti Ufficiali API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:05:10Z"
 ---
 ## What it is
 A local AI agent workspace that allows users to interact with simulated data files via custom slash commands and context mentions, powered by Google GenAI SDK and MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:06:28Z"
 ---
 ## What it is
 A pure SQLite structured long-term memory MCP server for AI agents, featuring adaptive Ebbinghaus forgetting curves, hierarchical memory tiers, trust feedback, and anomaly detection—all fully offline with deterministic scoring.

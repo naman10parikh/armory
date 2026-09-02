@@ -8,10 +8,12 @@ source_url: https://github.com/ferrazpiai/ekyte_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-07T15:09:36Z"
 ---
 ## What it is
 MCP server `Ekyte`, catalogued on PulseMCP. Integrates Claude and other AI assistants with the Ekyte task management and time-tracking platform for reading workspaces and recording hours.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:53:41Z"
 ---
 ## What it is
 Enables AI agents to edit Word documents using track changes, allowing lawyers to review each modification via Word's revision interface.

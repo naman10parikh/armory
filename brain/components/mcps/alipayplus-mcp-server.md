@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-16T06:29:25Z"
 ---
 ## What it is
 Integrates Ant International's AlipayPlus payment APIs, enabling AI assistants to handle payment and refund operations seamlessly.

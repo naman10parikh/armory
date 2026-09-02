@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:55Z"
 ---
 ## What it is
 Enables querying negative debt certificates from the Natal city government using an official source.

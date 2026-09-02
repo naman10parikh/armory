@@ -8,10 +8,12 @@ source_url: https://github.com/yuki-yano/sdd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-13T08:50:17Z"
 ---
 ## What it is
 MCP server `Spec-Driven Development`, catalogued on PulseMCP. Enforces structured software development workflows through 10 specialized tools that guide projects from specification to test-driven implementation with EARS format requirements, technical design creation, task breakdown, and validation gates for maintaining consistent development practices and thorough documentation.

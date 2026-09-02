@@ -8,10 +8,12 @@ source_url: https://github.com/b-nnett/codex-plusplus-project-home
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-30T11:44:59Z"
 ---
 ## What it is
 MCP server `Codex++ Project Home`, catalogued on PulseMCP. Kanban-style issue tracking MCP server with Linear sync support for per-project task management.

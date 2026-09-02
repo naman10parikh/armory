@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-15T11:13:00Z"
 ---
 ## What it is
 Enables building MSBuild projects and solutions by dynamically locating MSBuild and providing customizable build options, with clear error reporting and cross-client compatibility.

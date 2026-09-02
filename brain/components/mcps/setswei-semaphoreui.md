@@ -8,10 +8,12 @@ source_url: https://github.com/setswei/semaphoreui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T22:15:21Z"
 ---
 ## What it is
 MCP server `Semaphore UI`, catalogued on PulseMCP. MCP server for managing Semaphore UI CI/CD projects, tasks, templates, and schedules.

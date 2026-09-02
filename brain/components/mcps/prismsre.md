@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:53:31Z"
 ---
 ## What it is
 PrismSRE is an AI-powered Kubernetes troubleshooting agent that uses Google's Gemini models and the Model Context Protocol to provide autonomous diagnostics and real-time insights for cluster issues. It features a glassmorphism dashboard and secure read-only access to pods, logs, and deployments.

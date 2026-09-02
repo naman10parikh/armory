@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:01:33Z"
 ---
 ## What it is
 MCP server for generating and editing PowerPoint-native framework diagrams from paper descriptions. Supports spec-based generation, incremental edits, snapshot rollback, and structure validation while preserving manual modifications.

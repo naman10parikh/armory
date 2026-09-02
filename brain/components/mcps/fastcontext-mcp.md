@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-17T15:26:54Z"
 ---
 ## What it is
 Wraps FastContext-1.0 as a repo-exploration subagent for Claude Code, enabling efficient codebase navigation by returning file paths and line ranges as grounded citations, reducing main-agent token consumption by up to 60%.

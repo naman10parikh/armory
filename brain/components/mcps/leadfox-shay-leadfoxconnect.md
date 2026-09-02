@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T06:34:26Z"
 ---
 ## What it is
 MCP server `LeadFox Connect`, catalogued on PulseMCP. Marketo Engage integration with 130 purpose-built tools for Adobe Marketo operations.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T07:59:05Z"
 ---
 ## What it is
 MCP server `Hive Compute`, catalogued on PulseMCP. Distributed LAN compute cluster pooling idle machines for AI agent workloads.

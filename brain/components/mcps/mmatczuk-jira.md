@@ -8,10 +8,12 @@ source_url: https://github.com/mmatczuk/jira-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-24T10:28:51Z"
 ---
 ## What it is
 MCP server `Jira by mmatczuk`, catalogued on PulseMCP. Integrates with Jira using 3 focused tools designed for minimal context overhead in issue management.

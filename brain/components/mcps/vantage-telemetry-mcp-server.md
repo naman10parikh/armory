@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:53:47Z"
 ---
 ## What it is
 MCP server that captures and exposes usage, cost, productivity, and activity metrics for local-first software engineering teams, including LLM token usage, cloud cost savings, and developer activity tracking.

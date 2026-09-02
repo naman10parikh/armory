@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:29:35Z"
 ---
 ## What it is
 A simulation engine for retirement planning, accessible via an MCP server that allows AI agents to create financial plans, manage income, expenses, loans, taxes, and portfolios, and run Monte Carlo simulations.

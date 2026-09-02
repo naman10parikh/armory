@@ -8,11 +8,13 @@ source_url: https://github.com/pasie15/meshy-ai-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-18T13:22:47Z"
 ---
 ## What it is
 Wraps the Meshy AI API to enable generative 3D tools via Model Context Protocol, allowing creation of 3D models, textures, animations, and more from text or images.

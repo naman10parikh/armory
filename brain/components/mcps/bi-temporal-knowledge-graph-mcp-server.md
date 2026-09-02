@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-19T11:14:15Z"
 ---
 ## What it is
 Combines a bi-temporal knowledge graph with dynamic automation tool generation for AI agents, enabling persistent memory with temporal tracking and custom tool creation.

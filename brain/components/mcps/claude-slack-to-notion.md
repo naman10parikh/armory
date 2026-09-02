@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:07:01Z"
 ---
 ## What it is
 Enables automatic collection and AI analysis of Slack messages to create organized Notion pages, supporting custom analysis directions like meeting minutes, issue extraction, and topic classification.

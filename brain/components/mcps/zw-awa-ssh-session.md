@@ -8,10 +8,12 @@ source_url: https://github.com/zw-awa/ssh-session-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-25T13:16:48Z"
 ---
 ## What it is
 MCP server `SSH Session`, catalogued on PulseMCP. Persistent SSH PTY session manager for shared human-AI terminal collaboration.

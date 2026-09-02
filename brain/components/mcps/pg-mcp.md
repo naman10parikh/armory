@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-26T08:26:13Z"
 ---
 ## What it is
 A lightweight Postgres MCP server for safe database exploration and query analysis, read-only by default, with multi-database support.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-11-26T20:05:09Z"
 ---
 ## What it is
 MCP server `MCP Installer`, catalogued on PulseMCP. Simplifies MCP server installation through natural language commands, handling package management, environment configuration, and automatic Claude Desktop setup without manual editing.

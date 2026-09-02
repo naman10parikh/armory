@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T17:46:27Z"
 ---
 ## What it is
 Turns Django models into MCP tools and a REST API from a single class, and can generate a Django project from a MySQL or Postgres schema.

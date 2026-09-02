@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T07:39:54Z"
 ---
 ## What it is
 Converts Figma designs into production-ready React components with design token extraction, widget registry integration, and micro-frontend module generation.

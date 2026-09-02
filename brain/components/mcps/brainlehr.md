@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:19:19Z"
 ---
 ## What it is
 A local MCP knowledge store that enforces provenance, flags missing citations, and measures retrieval quality, enabling natural language search and management of verified knowledge via SQLite.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T00:25:33Z"
 ---
 ## What it is
 Enables AI assistants to access Published NFT documentation, NFT collections, Flow blockchain info, pricing, and other literary marketplace data through MCP tools.

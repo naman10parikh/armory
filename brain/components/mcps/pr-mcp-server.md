@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T15:17:10Z"
 ---
 ## What it is
 MCP server to automate Pull Request creation with AI. Analyzes Git branches, generates descriptions, titles, suggests reviewers, and performs code reviews.

@@ -8,10 +8,12 @@ source_url: https://github.com/higress-group/himarket
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1166
+stars: 1281
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 177
+pushed_at: "2026-08-20T03:38:05Z"
 ---
 ## What it is
 MCP server `HiMarket`, catalogued on PulseMCP. Enterprise marketplace platform for packaging, publishing, and managing AI assets like Model APIs and MCP Servers with developer onboarding, subscription management, and automated approval workflows.

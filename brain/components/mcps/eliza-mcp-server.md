@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T18:34:36Z"
 ---
 ## What it is
 Provides a Model Context Protocol interface to interact with the classic ELIZA chatbot, enabling stateful conversations with tools for chatting, resetting, and retrieving greetings/farewells.

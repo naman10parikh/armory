@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T06:03:59Z"
 ---
 ## What it is
 Enables AI assistants to create and manipulate Microsoft Office documents (PowerPoint, Word, Excel) on macOS via AppleScript automation.

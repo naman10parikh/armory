@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T18:15:46Z"
 ---
 ## What it is
 Hosted MCP server that exposes your self-hosted Bugsink error tracker as tools for LLMs, enabling issue management, release tracking, and stacktrace retrieval via chat prompts.

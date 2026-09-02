@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-04T16:24:43Z"
 ---
 ## What it is
 MCP server `PostgreSQL and MySQL`, catalogued on PulseMCP. Unified database connectivity for PostgreSQL and MySQL with connection pooling, parameterized queries, and schema introspection.

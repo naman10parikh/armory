@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T04:34:08Z"
 ---
 ## What it is
 An MCP server that enables Claude and other LLM agents to manage and monitor Pexip Infinity deployments through natural language, with 122 tools for configuration, status, history, and command operations.

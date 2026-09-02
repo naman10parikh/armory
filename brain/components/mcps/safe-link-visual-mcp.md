@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:20:03Z"
 ---
 ## What it is
 Checks URLs for phishing risks using URL, DNS, HTTP, HTML, and mobile rendering signals, and provides a 1024x1024 PNG visual summary of the page.

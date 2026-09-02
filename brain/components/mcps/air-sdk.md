@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T04:13:47Z"
 ---
 ## What it is
 MCP server `AIR SDK`, catalogued on PulseMCP. Collective intelligence for browser automation agents with resilient selectors and site capability awareness.

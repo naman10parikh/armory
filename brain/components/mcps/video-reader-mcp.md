@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T03:55:08Z"
 ---
 ## What it is
 Enables Claude to read and watch online videos (YouTube, TikTok, Douyin, Facebook, Instagram) by pasting a link, providing summaries, transcripts, frame analysis, and metadata.

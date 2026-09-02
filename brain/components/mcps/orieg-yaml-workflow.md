@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:31:21Z"
 ---
 ## What it is
 A lightweight, powerful, and flexible workflow engine that executes tasks defined in YAML configuration files.

@@ -8,10 +8,12 @@ source_url: https://github.com/groundcobra009/hourei-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-10-28T03:30:22Z"
 ---
 ## What it is
 MCP server `e-Gov (Japanese Legal Database)`, catalogued on PulseMCP. Integrates with Japan's official e-Gov legal database to provide search and retrieval of Japanese laws and regulations for legal research, compliance checking, and regulatory analysis.

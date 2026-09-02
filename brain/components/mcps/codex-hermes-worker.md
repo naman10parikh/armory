@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:56:34Z"
 ---
 ## What it is
 A Windows-first, dual-mode MCP bridge that delegates bounded work to Hermes Agent and a local Qwen model via an OpenAI-compatible endpoint, providing restricted batch or trusted full execution modes.

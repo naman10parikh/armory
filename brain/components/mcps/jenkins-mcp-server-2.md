@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T08:44:56Z"
 ---
 ## What it is
 Provides Jenkins CI/CD integration for AI assistants through the Model Context Protocol, enabling job management, build control, and system administration via natural language commands.

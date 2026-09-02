@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:24:29Z"
 ---
 ## What it is
 Enables natural-language automation of DIgSILENT PowerFactory for engineering tasks such as load-flow studies, short-circuit calculations, and network switching.

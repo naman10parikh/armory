@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T23:15:39Z"
 ---
 ## What it is
 Company technographics: search 760,000+ companies by the technologies they use — with direction of change (adopting / replacing / evaluating) — enrich any domain with firmographics and hiring signals, and browse a 10,000+ technology catalog. Remote server at https://api.echoloc.ai/mcp (Streamable HT

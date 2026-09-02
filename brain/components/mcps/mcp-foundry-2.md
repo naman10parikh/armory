@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:05:10Z"
 ---
 ## What it is
 Automatically generates, validates, and deploys remote MCP servers from natural language descriptions, with a web dashboard for management.

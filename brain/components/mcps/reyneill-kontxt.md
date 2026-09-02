@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-29T20:48:44Z"
 ---
 ## What it is
 MCP server `Kontxt`, catalogued on PulseMCP. Provides AI-driven codebase analysis by connecting to local repositories and using Gemini 2.0 Flash's 1M input window to generate context based on user queries without manual indexing.

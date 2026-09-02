@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:59:01Z"
 ---
 ## What it is
 Enables Claude to access Klaviyo campaign and flow reporting, including email and SMS performance metrics, via MCP stdio or a Flask REST API.

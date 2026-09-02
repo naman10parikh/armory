@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T06:01:57Z"
 ---
 ## What it is
 Cloudflare Worker implementation of the Cypht email MCP, providing eight email tools for account management, email sending, listing, viewing, searching, and deletion via IMAP.

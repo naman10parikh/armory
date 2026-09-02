@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T07:48:11Z"
 ---
 ## What it is
 Enables AI to analyze real-time HTTP(S) traffic captured by ProxyPin, with tools to browse, search, and inspect requests and responses, as well as access saved history sessions.

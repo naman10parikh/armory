@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:16:46Z"
 ---
 ## What it is
 Search Japan's National Diet records (1947-present): ministerial statements, committee Q&A, and policy debates with speaker, party, and citation URLs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T11:50:20Z"
 ---
 ## What it is
 Enables AI assistants to draft content such as PR descriptions, tickets, or messages, with a review window for live preview, editing, and approval before submission.

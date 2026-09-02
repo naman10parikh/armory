@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:44:29Z"
 ---
 ## What it is
 An MCP server that gives AI agents full access to Follow Up Boss CRM via natural language, enabling CRUD operations on people, deals, appointments, and more through 160 tools.

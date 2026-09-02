@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T07:40:16Z"
 ---
 ## What it is
 Enables AI assistants to search and access data from Indonesia's Science and Technology Index (SINTA), including lecturer profiles, journal accreditation, and scientific publications.

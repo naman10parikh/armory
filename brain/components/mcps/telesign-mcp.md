@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T02:33:32Z"
 ---
 ## What it is
 Enables AI assistants to send SMS messages, verify phone numbers via OTP, assess fraud risk, and access TeleSign API documentation through natural language.

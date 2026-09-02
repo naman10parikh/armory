@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T01:21:07Z"
 ---
 ## What it is
 A native TypeScript AI orchestration engine and MCP server that coordinates autonomous sub-agents for complex coding tasks using DAG-based parallel execution and multi-agent consensus validation, with a real-time web dashboard.

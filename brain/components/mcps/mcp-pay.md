@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:23:00Z"
 ---
 ## What it is
 Enables AI agents to discover and pay for MCP tools on a sub-cent, pay-per-call basis using x402 and Algorand USDC settlements.

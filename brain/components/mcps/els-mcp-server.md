@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T10:57:16Z"
 ---
 ## What it is
 Enables LLM agents to query the Explore Local Statistics API for local area data like employment rates and demographics.

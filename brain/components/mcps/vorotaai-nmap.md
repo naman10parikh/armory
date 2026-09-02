@@ -8,10 +8,12 @@ source_url: https://github.com/vorota-ai/nmap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-11T18:48:45Z"
 ---
 ## What it is
 MCP server `Vorota AI Nmap`, catalogued on PulseMCP. Wraps Nmap for automated security assessments with port scanning, host discovery, service detection, OS fingerprinting, and vulnerability scanning.

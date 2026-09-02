@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-04T02:52:30Z"
 ---
 ## What it is
 MCP server `Email Service`, catalogued on PulseMCP. Provides email sending capabilities through SMTP and AWS SES integration with unified interface for notifications, reports, and automated communications.

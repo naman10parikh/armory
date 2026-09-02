@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-11T22:19:13Z"
 ---
 ## What it is
 MCP server `Intervals.icu`, catalogued on PulseMCP. Integrates with Intervals.icu training data for querying activities, managing workouts, and tracking fitness metrics.

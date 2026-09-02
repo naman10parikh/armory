@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-28T12:34:44Z"
 ---
 ## What it is
 Lightweight persistent memory for AI agents using a single SQLite file with hybrid search (keywords + semantics). Zero to 12MB install, no cloud or server required.

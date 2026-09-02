@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T18:05:12Z"
 ---
 ## What it is
 MCP server `Desktop Pilot`, catalogued on PulseMCP. macOS desktop automation MCP server enabling AI assistants to control applications, windows, and system interactions via Swift.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T03:12:37Z"
 ---
 ## What it is
 Provides tools to look up patient-friendly health education links from MedlinePlus Connect using clinical codes or medication names, enabling AI agents to retrieve trustworthy reference material without accessing private health records.

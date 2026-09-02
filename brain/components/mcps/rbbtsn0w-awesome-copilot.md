@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-02T00:33:47Z"
 ---
 ## What it is
 MCP server `Awesome Copilot`, catalogued on PulseMCP. Access and search GitHub awesome-copilot agents and collection resources with metadata indexing and on-demand content fetching.

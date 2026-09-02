@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-13T14:11:30Z"
 ---
 ## What it is
 MCP server `Markdown to PDF`, catalogued on PulseMCP. Converts Markdown content to PDF documents using Playwright's Chromium browser engine with configurable formatting options including paper size, orientation, and GitHub-style CSS styling for professional document generation workflows.

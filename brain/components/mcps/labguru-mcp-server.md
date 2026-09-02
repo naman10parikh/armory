@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T08:28:17Z"
 ---
 ## What it is
 Enables natural language interaction with the Labguru laboratory management system, providing 63 tools across experiments, protocols, inventory, and more.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-09T22:01:52Z"
 ---
 ## What it is
 MCP server `HyperD`, catalogued on PulseMCP. DeFi data and analytics platform providing token security, yield recommendations, DEX quotes, and wallet analysis via x402 micropayments.

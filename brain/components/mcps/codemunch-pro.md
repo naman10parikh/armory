@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-02T12:56:27Z"
 ---
 ## What it is
 Provides intelligent code indexing with 15 MCP tools for symbol extraction, hybrid search (FTS5+vector), call graphs, and incremental indexing of local folders and remote repos, enabling token-efficient code retrieval for AI agents.

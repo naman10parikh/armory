@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:18:01Z"
 ---
 ## What it is
 A standard Python MCP server for AVAS Food: browse menus, build and quote carts, complete bank-transfer ordering with explicit confirmation, track deliveries, and analyze delivery spending.

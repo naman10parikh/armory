@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T01:36:41Z"
 ---
 ## What it is
 Enables LLMs to create, read, and append notes in Apple Notes through AppleScript, with append-only operations restricted to a single folder for safety.

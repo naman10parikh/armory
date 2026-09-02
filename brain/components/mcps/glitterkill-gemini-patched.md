@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T14:47:42Z"
 ---
 ## What it is
 MCP server `Gemini AI (Patched)`, catalogued on PulseMCP. Windows-compatible Gemini CLI integration with intelligent quota management, automatic model fallback, brainstorming tools, and changeMode formatting for Claude-compatible edit instructions.

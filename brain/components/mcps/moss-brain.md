@@ -8,11 +8,13 @@ source_url: https://github.com/Naut1cal5/moss-brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T19:48:55Z"
 ---
 ## What it is
 MCP server that provides semantic memory with search, related-content traversal, and write-back capabilities, all powered by local embeddings of your notes, documents, and chat histories.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T13:01:26Z"
 ---
 ## What it is
 MCP server `OpenDART`, catalogued on PulseMCP. Retrieves corporate financial disclosures, periodic statements, shareholding reports, and securities registration documents from South Korea's DART electronic filing system.

@@ -8,10 +8,12 @@ source_url: https://github.com/dkships/substack-publisher-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T16:07:40Z"
 ---
 ## What it is
 MCP server `Substack Publisher`, catalogued on PulseMCP. Queries Substack post analytics, subscriber counts, and publication data through the official Publisher API.

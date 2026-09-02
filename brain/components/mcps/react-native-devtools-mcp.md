@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-01T20:45:39Z"
 ---
 ## What it is
 Bridges React Native DevTools, enabling AI assistants to debug, profile, and inspect React Native applications through a standardized protocol.

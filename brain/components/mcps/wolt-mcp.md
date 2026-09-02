@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T15:33:55Z"
 ---
 ## What it is
 A thin MCP server that exposes Wolt's public consumer endpoints to AI agents, enabling discovery of nearby venues and fetching their menus with live prices and deal signals.

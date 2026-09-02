@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T08:54:49Z"
 ---
 ## What it is
 Enables querying and searching for real estate listings, complexes, prices, and school information from Naver Land (Korean real estate platform) through a set of MCP tools. Supports region hierarchy navigation, coordinate-based search, and various trade types like sale, jeonse, and monthly rent.

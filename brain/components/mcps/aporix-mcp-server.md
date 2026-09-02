@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T22:27:16Z"
 ---
 ## What it is
 Exposes the Aporix document optimization API as an MCP tool for AI agents, enabling document compression and token/cost savings analysis.

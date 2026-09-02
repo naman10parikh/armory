@@ -8,10 +8,12 @@ source_url: https://github.com/the-momentum/fhir-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-10-23T13:06:54Z"
 ---
 ## What it is
 MCP server `FHIR Healthcare`, catalogued on PulseMCP. Integrates with FHIR healthcare systems and medical document repositories to provide natural language access to electronic health records, clinical observations, patient data management, and medical literature search through OAuth2-authenticated FHIR servers and vector-based document analysis.

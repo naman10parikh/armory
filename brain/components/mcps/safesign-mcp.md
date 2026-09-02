@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:11:33Z"
 ---
 ## What it is
 Analyzes contracts for safety score and risk assessment, identifying dangerous clauses and dispute patterns, with recommendations for improvements.

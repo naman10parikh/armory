@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T11:42:44Z"
 ---
 ## What it is
 A local, read-only stdio MCP server that bridges Codex to the COROS MCP gateway, enabling sport data queries through an allowlisted set of tools while excluding file and write operations.

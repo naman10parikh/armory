@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-08T14:01:19Z"
 ---
 ## What it is
 Measures AI-detection risk in text and provides a line-by-line rewrite plan to lower the score.

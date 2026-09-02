@@ -8,11 +8,13 @@ source_url: https://github.com/piephai/mcp-image-optimizer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-25T19:29:25Z"
 ---
 ## What it is
 A Model Context Protocol server for image optimization with advanced transformations powered by Sharp, enabling resize, convert, batch process, crop, watermark, and favicon generation from URLs or local files.

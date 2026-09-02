@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-05T00:11:08Z"
 ---
 ## What it is
 MCP server `Pimp My Ride`, catalogued on PulseMCP. Provides car customization and racing build management with vehicle configuration options, driver persona selection, and performance scoring for interactive automotive experiences.

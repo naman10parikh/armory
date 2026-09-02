@@ -8,10 +8,12 @@ source_url: https://github.com/ricardodeazambuja/browser-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-01T21:27:23Z"
 ---
 ## What it is
 MCP server `Browser Automation (Playwright)`, catalogued on PulseMCP. Universal browser automation server using Playwright that provides web navigation, element interaction, media control, network monitoring, security testing, and performance profiling with intelligent Chrome instance detection.

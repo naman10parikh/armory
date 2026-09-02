@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T14:35:27Z"
 ---
 ## What it is
 A tool for SHACL-based assessment, comparison, and coverage analysis of digital passport data models, designed for AI-agent orchestration.

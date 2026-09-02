@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T11:39:01Z"
 ---
 ## What it is
 Non-custodial BVCC Agent Wallet MCP server: let an AI agent check balances, send native/ERC-20, approve, and swap on Uniswap v3/v4 across Ethereum, BNB Chain, Arbitrum and Base, within on-chain enforced limits.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 5
+forks: 4
+pushed_at: "2025-06-30T17:51:34Z"
 ---
 ## What it is
 MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.

@@ -8,10 +8,12 @@ source_url: https://github.com/aeon-seraph/searxng-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-08T01:27:55Z"
 ---
 ## What it is
 MCP server `SearXNG`, catalogued on PulseMCP. Enables language models to perform web searches through SearXNG, a privacy-focused metasearch engine, with customizable parameters like categories, time ranges, and pagination.

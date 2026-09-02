@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T10:02:34Z"
 ---
 ## What it is
 High-strategic intelligence platform for life sciences that enables real-time clinical trial audits, competitive landscape mapping, regulatory cross-referencing, and financial milestone correlation using the Model Context Protocol.

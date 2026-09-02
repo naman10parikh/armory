@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T20:01:51Z"
 ---
 ## What it is
 MCP server `Apidog Tests`, catalogued on PulseMCP. Manage Apidog test cases, scenarios, suites, and test data from AI agents.

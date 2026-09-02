@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:13:51Z"
 ---
 ## What it is
 Exposes tools to manage and inspect an OpenMediaVault NAS, running on the NAS and communicating over SSH with any MCP-capable coding harness.

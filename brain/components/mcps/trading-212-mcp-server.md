@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:11:45Z"
 ---
 ## What it is
 Exposes Trading 212 trading account, instruments, orders, history, and pies as MCP tools. Allows placing and canceling real orders (defaults to demo/paper environment).

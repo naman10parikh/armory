@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T18:41:01Z"
 ---
 ## What it is
 Enables AI agents to manage products across multiple Korean e-commerce platforms (Naver SmartStore, Coupang, 11st, Gmarket) including listing, updating, and suspending, with preview and approval before execution.

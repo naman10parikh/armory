@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T03:44:40Z"
 ---
 ## What it is
 Enables querying Rubrik Security Cloud protection and threat data in Microsoft Sentinel via KQL-based custom MCP tools for backup posture, compliance, anomaly triage, and recovery readiness.

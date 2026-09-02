@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:08:01Z"
 ---
 ## What it is
 An MCP server providing domain tools for validating, risk-assessing, and replanning multi-day hiking itineraries in the Chornohora range using curated trail data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:57:12Z"
 ---
 ## What it is
 MCP server that wraps the NY Senate OpenLegislation API to look up and search the New York Criminal Procedure Law by citation or keyword.

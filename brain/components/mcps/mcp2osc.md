@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:29:48Z"
 ---
 ## What it is
 Enables natural language control of OSC (OpenSoundControl) messages, allowing users to generate, interpret, validate, and debug OSC messages through an LLM interface for parametric control of multimedia devices.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T17:52:20Z"
 ---
 ## What it is
 Deterministic, offline root-cause analysis for coding agents: find the commit that introduced a bug, and verify a fix is complete before committing.

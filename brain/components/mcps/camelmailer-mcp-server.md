@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T07:05:18Z"
 ---
 ## What it is
 Lets AI assistants send and inspect transactional email via the CamelMailer platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:49:27Z"
 ---
 ## What it is
 Enables data analysis on CSV/Excel files using pandas. Supports profiling, column interpretation, sandboxed code execution, and interactive chart generation.

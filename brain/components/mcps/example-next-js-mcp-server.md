@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-30T16:19:35Z"
 ---
 ## What it is
 Provides a template to run an MCP server in a Next.js project using the Vercel MCP Adapter, with SSE transport supported via Redis.

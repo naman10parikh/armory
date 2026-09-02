@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/crypto-feargreed-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-05-10T14:16:11Z"
 ---
 ## What it is
 MCP server `Crypto Fear & Greed Index`, catalogued on PulseMCP. Provides real-time and historical cryptocurrency market sentiment data through the Fear & Greed Index API for analyzing market psychology and potential price movements.

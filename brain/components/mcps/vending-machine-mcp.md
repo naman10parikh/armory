@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T07:33:54Z"
 ---
 ## What it is
 A marketplace of 13 specialist AI agents for coding assistants, offering tools to hire agents, run scripts, audit code, and manage vector stores with async job execution.

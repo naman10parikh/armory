@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:20:34Z"
 ---
 ## What it is
 Enables AI coding agents to diagnose and repair Python Selenium UI automation using real evidence from live DOM and test runs, with enforced safety boundaries and verifiable fixes.

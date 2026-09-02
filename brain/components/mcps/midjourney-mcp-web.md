@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T00:30:45Z"
 ---
 ## What it is
 Unofficial MCP server for generating images via Midjourney web app using authentication cookies. Enables text-to-image generation with customizable parameters.

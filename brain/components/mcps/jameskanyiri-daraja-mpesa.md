@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-29T16:36:59Z"
 ---
 ## What it is
 MCP server `M-Pesa (Safaricom Daraja API)`, catalogued on PulseMCP. Enables AI systems to initiate and process M-Pesa mobile payment transactions through the Safaricom Daraja API, allowing users to authorize payments directly from conversations.

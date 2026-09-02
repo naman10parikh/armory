@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-22T12:25:53Z"
 ---
 ## What it is
 Enables AI agents to securely interact with IBM OpenPages GRC platform through a standardized interface, supporting CRUD operations on objects like issues and controls.

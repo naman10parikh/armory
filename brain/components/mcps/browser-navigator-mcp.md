@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:58:57Z"
 ---
 ## What it is
 Controls the Brave browser via CDP for web automation, OSINT, and social media crawling, including navigation, CAPTCHA detection, session persistence, and video control.

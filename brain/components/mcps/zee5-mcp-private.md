@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:17:42Z"
 ---
 ## What it is
 MCP server providing synthetic subscriber data (profiles, watch history, billing) for personalization in a Stream Discovery ADK agent.

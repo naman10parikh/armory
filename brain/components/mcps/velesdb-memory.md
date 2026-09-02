@@ -8,11 +8,13 @@ source_url: https://github.com/cyberlife-coder/VelesDB
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-09-02T03:30:14Z"
 ---
 ## What it is
 Local-first agent-memory MCP server with a why() tool: recall a fact together with its connected subgraph (multi-hop), so linked memories surface even when they share no words with the query. remember/recall/relate/forget/why over one fused vector + graph + columnar engine a single offline Rust bina

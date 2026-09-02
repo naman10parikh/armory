@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T01:19:07Z"
 ---
 ## What it is
 Turns a single concept image into a game-ready textured 3D model (GLB) locally on Apple Silicon by wrapping Hunyuan3D-MLX, with tools for generation, finishing, preview, and setup diagnostics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:38:59Z"
 ---
 ## What it is
 Generates startup names with live .com availability checks and screens them against US and EU trademark registers.

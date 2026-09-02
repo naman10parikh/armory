@@ -12,6 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-17T12:14:47Z"
 ---
 ## What it is
 MCP server `Text Editor`, catalogued on PulseMCP. Implements Claude's text editor tool as a server, enabling viewing, editing, and creating text files with persistent state across command calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:04:50Z"
 ---
 ## What it is
 Enables AI agents to analyze the polarized SLD e+e- collision dataset through agent-callable tools for data inspection, hadronic event selection, leptonic asymmetry measurements, and electroweak physics plotting (A_LR extraction, event shapes, weak-mixing angles).

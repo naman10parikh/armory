@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 8
+forks: 0
+pushed_at: "2026-04-01T20:53:13Z"
 ---
 ## What it is
 Versioned, structured memory for AI agents. Stores facts as keypaths with full version history, automatic conflict detection, and O(1) token retrieval.

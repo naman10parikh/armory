@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T20:07:45Z"
 ---
 ## What it is
 Enables AI assistants to manage CRM prospects, activities, reminders, and mailbox via natural language commands through the Model Context Protocol.

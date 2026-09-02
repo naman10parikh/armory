@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:36:24Z"
 ---
 ## What it is
 MCP server for reading and exporting GameMaker data files via UndertaleModCli. Enables entity listing, decompilation, and export through clean JSON output.

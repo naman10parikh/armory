@@ -8,11 +8,13 @@ source_url: https://github.com/badlogic/vs-claude
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-08-11T19:17:04Z"
 ---
 ## What it is
 MCP server that integrates with VS Code to enable file operations, git diffs, and line highlighting via MCP clients like Claude.

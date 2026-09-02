@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-03T08:44:39Z"
 ---
 ## What it is
 MCP server `zaj-MySQL`, catalogued on PulseMCP. Integrates with MySQL databases to enable SQL query execution, schema analysis, and automated business insight generation through data reading, writing, and continuous memo updates.

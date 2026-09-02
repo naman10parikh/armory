@@ -8,10 +8,12 @@ source_url: https://github.com/milescool/rednote-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-26T10:37:50Z"
 ---
 ## What it is
 MCP server `Xiaohongshu`, catalogued on PulseMCP. Integrates with Xiaohongshu (Red Note) using web automation to search and extract detailed note content, author information, engagement metrics, tags, and images for market research and social media monitoring in the Chinese lifestyle platform.

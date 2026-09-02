@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:41:56Z"
 ---
 ## What it is
 Parses NACHA/ACH files into structured JSON and summaries, performing structural and arithmetic validation with IAT support, enabling automated file inspection and validation through MCP clients.

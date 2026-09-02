@@ -8,10 +8,12 @@ source_url: https://github.com/the-momentum/apple-health-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 193
+stars: 259
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-07-09T10:57:10Z"
 ---
 ## What it is
 MCP server `Apple Health`, catalogued on PulseMCP. Query Apple Health data with natural language using ElasticSearch under the hood.

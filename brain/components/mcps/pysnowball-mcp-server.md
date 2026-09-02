@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:59:22Z"
 ---
 ## What it is
 MCP server that provides 56 API interfaces covering real-time quotes, financial data, funds, indices, and more from Xueqiu stock data, supporting both MCP and REST protocols.

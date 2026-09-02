@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:11:26Z"
 ---
 ## What it is
 Enables searching and retrieving startup job listings from Wellfound with salary, equity, and company signals like Y Combinator backing, funding stage, and remote status.

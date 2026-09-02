@@ -8,10 +8,12 @@ source_url: https://github.com/base/base-mcp-legacy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 346
+stars: 350
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 138
+pushed_at: "2026-05-13T20:07:50Z"
 ---
 ## What it is
 MCP server `Base Blockchain`, catalogued on PulseMCP. Enables Claude to interact with the Base blockchain and Coinbase API for cryptocurrency operations including wallet management, fund transfers, and smart contract deployments.

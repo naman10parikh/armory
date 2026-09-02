@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T05:49:02Z"
 ---
 ## What it is
 Enables inter-session messaging for Claude Code, allowing sessions on different machines to send messages to each other, with delivery as user turns and support for offline queuing.

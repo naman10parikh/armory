@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T17:42:35Z"
 ---
 ## What it is
 A lightweight MCP server that enables AI coding assistants to interact with Google's Gemini AI through the official CLI.

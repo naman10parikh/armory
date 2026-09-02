@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:06:32Z"
 ---
 ## What it is
 An observability control plane for Paper's MCP that acts as a passive proxy to meter, attribute, and live-stream every tool call with budgets and a real-time dashboard.

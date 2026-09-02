@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-21T22:48:18Z"
 ---
 ## What it is
 A Model Context Protocol server for TrackJS error monitoring that allows you to query and analyze your JavaScript errors.

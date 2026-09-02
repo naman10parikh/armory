@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T11:30:29Z"
 ---
 ## What it is
 A zero-trust gateway for securely brokering interactions between AI models and internal tools via the Model Context Protocol, with DLP, prompt injection defense, and LLM-as-a-Judge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T11:05:52Z"
 ---
 ## What it is
 State-aware Windows automation MCP server for AI agents, enabling app control, UI interaction, COM Office, and more via 59 tools with fallback layers and audit logging.

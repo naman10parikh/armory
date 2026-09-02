@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:52:36Z"
 ---
 ## What it is
 Enables Claude Code to manage Overleaf projects by auto-discovering them and reading/editing files across all projects, with a review-before-push local-workspace workflow.

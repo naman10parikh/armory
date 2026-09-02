@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T07:35:05Z"
 ---
 ## What it is
 Enables agents to manage and organize local documents by listing, inspecting, extracting text, searching, and renaming files, with optional Google Drive integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-18T09:45:58Z"
 ---
 ## What it is
 Captures browser console messages (log, warn, error, etc.) and makes them available to AI language models like Claude Code and Gemini CLI for seamless debugging and development.

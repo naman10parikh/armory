@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-05T21:16:39Z"
 ---
 ## What it is
 Enables AI assistants to securely access Snowflake data warehouses through natural language, executing SQL queries and retrieving insights with support for multiple authentication methods.

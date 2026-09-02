@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:41:20Z"
 ---
 ## What it is
 An MCP server that exposes CoinGecko crypto market data as tools — get spot prices and find cross-exchange arbitrage spreads without needing an API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-27T19:32:16Z"
 ---
 ## What it is
 AI-powered CRM assistant for Kommo/amoCRM that provides natural language management via Telegram bot and MCP protocol, enabling analytics, entity operations, and CRM setup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T00:26:41Z"
 ---
 ## What it is
 AI-powered project management intelligence and workflow optimization for ClickUp, including project health analysis, smart sprint planning, task decomposition, resource optimization, and workflow intelligence.

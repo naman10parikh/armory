@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T15:28:42Z"
 ---
 ## What it is
 Enables running the lead scoring and outbound pipeline by talking to Claude, including scraping healthcare job postings, scoring against buyer ICP, gating on company size, and managing sequences.

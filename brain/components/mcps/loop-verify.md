@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T03:31:07Z"
 ---
 ## What it is
 An MCP server that performs independent verification of artifacts against criteria using a different AI model lineage (codex, OpenAI, or Gemini) to catch defects that same-family checks might miss.

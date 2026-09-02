@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:48:09Z"
 ---
 ## What it is
 An MCP server for interacting with Atlassian Jira, enabling issue management, attachments, and other operations via natural language.

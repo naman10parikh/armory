@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-16T05:25:24Z"
 ---
 ## What it is
 MCP server `Cardea Web Search (Tavily)`, catalogued on PulseMCP. Provides web search capabilities through the Tavily API, returning structured results with titles, URLs, content snippets, and relevance scores for reliable information retrieval.

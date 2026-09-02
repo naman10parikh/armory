@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:08:23Z"
 ---
 ## What it is
 Enables AI agents to safely test and debug PowerShell, CMD/BAT scripts, and system utilities inside isolated Hyper-V virtual machines, with snapshot rollback, host-to-guest file transfer, PowerShell Direct execution, and autonomous self-correction on failures.

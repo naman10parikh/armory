@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:18:16Z"
 ---
 ## What it is
 Lets ChatGPT or MCP clients work with files on your machine, with tools for reading, editing, searching, git operations, and safety checks.

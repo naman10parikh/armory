@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T09:26:30Z"
 ---
 ## What it is
 Enables AI models to speak and sing using retro-style formant speech synthesis, converting text or phoneme strings to WAV audio via MCP tools.

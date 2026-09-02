@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T02:34:12Z"
 ---
 ## What it is
 MCP server for Dameng database that enables querying and managing database objects via JDBC, including tools for schemas, tables, views, indexes, and more.

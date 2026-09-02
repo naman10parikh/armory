@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T18:52:00Z"
 ---
 ## What it is
 MCP server `Camoufox Browser Automation`, catalogued on PulseMCP. Browser automation using Camoufox anti-detection technology with tools for navigation, interaction, form handling, and session management.

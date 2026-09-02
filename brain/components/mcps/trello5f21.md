@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-25T07:49:38Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Integrates with Trello to enable board, list, and card management with automatic rate limiting and input validation for seamless task tracking and organization

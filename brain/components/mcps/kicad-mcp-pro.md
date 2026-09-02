@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-04-16T17:50:42Z"
 ---
 ## What it is
 AI-powered PCB and schematic design with KiCad. Works with Claude, Cursor, VS Code, Claude Code, and any MCP-compatible client.

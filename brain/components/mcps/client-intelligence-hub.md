@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T19:09:40Z"
 ---
 ## What it is
 Central source of truth for all client data. Syncs every connected platform on a schedule, normalizes it into one client workspace, and serves it to MTOS and AI agents over MCP.

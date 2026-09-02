@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-17T12:25:57Z"
 ---
 ## What it is
 MCP server `EnrichB2B`, catalogued on PulseMCP. Integrates with EnrichB2B API to provide real-time LinkedIn data access for B2B research, sales intelligence, and professional networking analysis.

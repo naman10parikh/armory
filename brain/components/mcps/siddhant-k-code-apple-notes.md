@@ -8,10 +8,12 @@ source_url: https://github.com/siddhant-k-code/mcp-apple-notes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-13T07:33:12Z"
 ---
 ## What it is
 MCP server `Apple Notes`, catalogued on PulseMCP. Bridges AI systems with macOS Notes application through AppleScript automation, enabling note creation, search, and content retrieval without switching context.

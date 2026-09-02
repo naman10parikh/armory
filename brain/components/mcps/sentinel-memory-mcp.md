@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T11:56:22Z"
 ---
 ## What it is
 A lightweight MCP server that records and reuses prompt gaps — essential context missing from initial instructions — so your AI assistant learns from every session using a plain JSONL file tracked by Git.

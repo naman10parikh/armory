@@ -8,10 +8,12 @@ source_url: https://github.com/ubie-oss/mcp-vertexai-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-09-01T00:06:29Z"
 ---
 ## What it is
 MCP server `Vertex AI Search`, catalogued on PulseMCP. Integrates with Google's Vertex AI and Discovery Engine APIs to enable advanced search and retrieval operations on large datasets, supporting semantic search and natural language understanding.

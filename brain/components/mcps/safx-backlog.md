@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-08T05:32:19Z"
 ---
 ## What it is
 MCP server `Backlog`, catalogued on PulseMCP. Integrates with Backlog project management platform to provide issue tracking, project metadata retrieval, user management, and file operations across projects, git repositories, wikis, and shared documents.

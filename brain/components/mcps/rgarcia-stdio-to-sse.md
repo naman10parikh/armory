@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-07T22:37:24Z"
 ---
 ## What it is
 MCP server `Stdio to SSE MCP`, catalogued on PulseMCP. Transforms stdio-based MCP servers into websocket-accessible servers, enabling network-based communication and simplified client development.

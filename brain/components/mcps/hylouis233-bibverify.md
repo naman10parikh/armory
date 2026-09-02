@@ -8,10 +8,12 @@ source_url: https://github.com/hylouis233/bibverify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T04:39:51Z"
 ---
 ## What it is
 MCP server `BibVerify`, catalogued on PulseMCP. Verifies and updates BibTeX references through multiple academic databases with DOI-first lookup.

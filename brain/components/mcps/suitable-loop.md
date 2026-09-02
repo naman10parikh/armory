@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T17:50:54Z"
 ---
 ## What it is
 Local production engineering platform that indexes Python codebases and exposes semantic code analysis, git risk scoring, and log correlation through MCP tools for AI assistants.

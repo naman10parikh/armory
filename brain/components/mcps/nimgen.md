@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T03:16:30Z"
 ---
 ## What it is
 First MCP server for NVIDIA NIM FLUX. Generate and edit images using FLUX.1 models with your existing NVIDIA API key.

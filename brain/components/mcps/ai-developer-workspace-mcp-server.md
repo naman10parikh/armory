@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:17:24Z"
 ---
 ## What it is
 Enables AI agents to manage local project files and Git operations through MCP tools, including file CRUD, search, Git status, recent commits, and project summaries.

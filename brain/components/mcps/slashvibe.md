@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T10:49:29Z"
 ---
 ## What it is
 MCP server `SlashVibe`, catalogued on PulseMCP. Social layer for AI coding - DMs, presence, discovery, and games between developers in their editors.

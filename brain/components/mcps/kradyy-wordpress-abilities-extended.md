@@ -8,10 +8,12 @@ source_url: https://github.com/kradyy/wordpress-wae
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-03T10:02:11Z"
 ---
 ## What it is
 MCP server `WordPress Abilities Extended`, catalogued on PulseMCP. WordPress plugin providing comprehensive MCP abilities for content management, Gutenberg patterns, user administration, plugin control, media handling, and taxonomy operations through WordPress 6.9+ Abilities API.

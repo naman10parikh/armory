@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-12T21:30:32Z"
 ---
 ## What it is
 Enables AI-driven interaction with Twilio call services, including initiating outbound calls and retrieving call history via FastMCP tools.

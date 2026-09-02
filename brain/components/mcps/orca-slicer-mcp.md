@@ -8,11 +8,13 @@ source_url: https://github.com/dmikushin/orca-slicer-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T16:25:23Z"
 ---
 ## What it is
 An MCP server that drives OrcaSlicer headlessly on a virtual display, enabling an agent to import 3D models, slice them, and export G-code without a physical screen or GUI automation.

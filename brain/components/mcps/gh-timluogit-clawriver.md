@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T06:56:04Z"
 ---
 ## What it is
 MCP server `ClawRiver`, catalogued on PulseMCP. AI Agent experience sharing platform for knowledge exchange and collaboration.

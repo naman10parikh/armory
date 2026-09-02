@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:29:50Z"
 ---
 ## What it is
 MCP server for astrological calculations including natal charts, planetary positions, aspects, transits, and progressions using Swiss Ephemeris.

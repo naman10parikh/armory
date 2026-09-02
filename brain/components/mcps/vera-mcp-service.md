@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:52:42Z"
 ---
 ## What it is
 MCP Tools Server that bridges the Agent Service with data services, currently enabling knowledge base search via the kb_search tool.

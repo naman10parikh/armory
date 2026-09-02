@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-11T21:16:03Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search and retrieve Beninese government services, procedures, and requirements from service-public.bj with real-time data and smart provider routing.

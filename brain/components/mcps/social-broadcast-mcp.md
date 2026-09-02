@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:06:46Z"
 ---
 ## What it is
 Enables publishing to Facebook, Instagram, and YouTube through official APIs using your own OAuth credentials, with support for images, videos, Reels/Stories, and scheduled posts.

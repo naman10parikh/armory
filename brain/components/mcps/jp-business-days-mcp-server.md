@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T23:36:53Z"
 ---
 ## What it is
 Provides Japanese business day calculations: add or subtract business days, count between dates, check whether a date is a business day, and reverse-calculate deadlines. Handles national holidays and year-end periods fully offline with no API keys required.

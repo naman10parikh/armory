@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T19:07:43Z"
 ---
 ## What it is
 Local, read-only MCP server for inspecting DBC files and decoding CAN capture logs, with bounded and composable tools.

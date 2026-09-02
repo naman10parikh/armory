@@ -8,11 +8,13 @@ source_url: https://github.com/ryaker/outlook-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 431
+stars: 434
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 160
+pushed_at: "2026-03-30T19:25:20Z"
 ---
 ## What it is
 Connects Claude with Microsoft 365 services including Outlook, OneDrive, and Power Automate, enabling email, calendar, files, and flow management through natural language.

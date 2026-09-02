@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T20:35:32Z"
 ---
 ## What it is
 MCP server `Agent Resources`, catalogued on PulseMCP. Trust cards, signed telemetry, ERC-8004 identity, and x402 payments for the agent economy.

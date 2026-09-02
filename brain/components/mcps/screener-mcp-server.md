@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T07:58:20Z"
 ---
 ## What it is
 An MCP server for Screener.in to search Indian companies, fetch financial ratios, statements, peer comparisons, and run custom screens.

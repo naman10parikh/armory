@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T20:15:28Z"
 ---
 ## What it is
 Query your Apple Health data including sleep, heart rate, steps, workouts, and more by ingesting an exported XML archive into a local SQLite database.

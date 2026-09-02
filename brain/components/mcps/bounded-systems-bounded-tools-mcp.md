@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:52:51Z"
 ---
 ## What it is
 Local, read-only MCP server that provides verified access to bounded.tools' signed static API, including the Web-Build Conformance report and SPDX SBOM, with byte-for-byte verification against a Sigstore-signed manifest.

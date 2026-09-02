@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:14:14Z"
 ---
 ## What it is
 Reachability-filtered browser perception and actions for AI agents. Filters snapshots to elements a user could actually reach (removes modal-occluded, closed-drawer, off-screen and inert elements), with ref-stable snapshots and state diffs.

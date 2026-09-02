@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 4
+forks: 0
+pushed_at: "2026-08-17T09:37:02Z"
 ---
 ## What it is
 MCP server for Jungle Grid, an agentic GPU execution layer that lets AI agents estimate, submit, monitor, and fetch logs for inference, training, fine-tuning, and batch workloads.

@@ -8,10 +8,12 @@ source_url: https://github.com/gologinapp/gologin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-06-19T11:39:47Z"
 ---
 ## What it is
 MCP server `GoLogin`, catalogued on PulseMCP. Manage your GoLogin browser profiles and automation directly through AI conversations. This MCP server connects to the GoLogin API, letting you create, configure, and control browser profiles using natural language.

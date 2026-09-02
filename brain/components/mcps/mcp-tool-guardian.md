@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:22:46Z"
 ---
 ## What it is
 Protects AI agents from bad tool outputs, schema mismatches, and tool poisoning by validating, sanitizing, and scoring reliability of tool responses.

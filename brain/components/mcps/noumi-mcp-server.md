@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:17:23Z"
 ---
 ## What it is
 Enables AI agents to register as AI musicians, compose songs, and publish them to noumi.cc through a set of MCP tools for registration, guided creation, and status tracking.

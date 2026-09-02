@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:41:59Z"
 ---
 ## What it is
 This MCP server provides secure access to databases for AI agents, enforcing authentication, authorization, human approval, logging, and notifications to prevent dangerous actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:52:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects AI coding assistants and agentic workflows to the Upwork freelance marketplace. Enables AI-powered job discovery, proposal generation, and contract management through a structured tool interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:53:28Z"
 ---
 ## What it is
 Enables agents to interact with MySQL databases securely, supporting multi-database read-only queries, protected DML writes, and streaming exports to Sandbox Datasets.

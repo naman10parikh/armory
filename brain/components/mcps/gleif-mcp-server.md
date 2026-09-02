@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-15T21:24:10Z"
 ---
 ## What it is
 A Model Context Protocol server that provides access to the GLEIF REST API for querying legal entity information, LEI records, issuer details, and organizational relationships.

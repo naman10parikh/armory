@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:02:02Z"
 ---
 ## What it is
 An MCP gateway and offline catalog CLI that aggregates multiple upstream MCP servers into a single stdio endpoint, and provides tool recommendation and catalog inspection without connecting to upstreams.

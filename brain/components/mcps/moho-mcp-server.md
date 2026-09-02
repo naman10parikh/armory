@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:29:57Z"
 ---
 ## What it is
 An MCP server for Moho Pro 14 that lets MCP clients inspect documents, edit layers and animation, render frames, capture the Moho window, and send mouse or keyboard input.

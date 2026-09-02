@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:15:14Z"
 ---
 ## What it is
 An MCP server for the University of Vienna's course catalogue (u:find), enabling natural language queries for courses, programmes, staff, and schedules. Read-only, no account or API key required.

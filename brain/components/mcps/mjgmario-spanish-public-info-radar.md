@@ -8,10 +8,12 @@ source_url: https://github.com/mjgmario/spanish-public-info-radar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-25T13:40:34Z"
 ---
 ## What it is
 MCP server `Spanish Public Info Radar`, catalogued on PulseMCP. Provides real-time access to Spanish government open data through 26 specialized tools covering grants, legislation, company registry, statistics, and national datasets for legal research, business intelligence, and policy analysis.

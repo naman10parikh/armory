@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T17:08:24Z"
 ---
 ## What it is
 Enables designing and rendering urban street cross-sections from natural language descriptions, and importing real streets from OpenStreetMap.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T00:41:55Z"
 ---
 ## What it is
 Exposes 26 structured analytical tools over Climate Finance Update datasets, enabling fund-level financial analysis, portfolio aggregations, and data quality diagnostics without requiring the client to write data access code.

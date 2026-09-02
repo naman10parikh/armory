@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:42Z"
 ---
 ## What it is
 Broker-only MCP server that surfaces real on-chain insurance coverage listings from third-party underwriters and routes quote requests to their own endpoints, without underwriting or holding premiums.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:33:15Z"
 ---
 ## What it is
 A self-hosted, notebook-scoped RAG pipeline with contextual retrieval, delivered as an MCP server. Enables ingestion of documents into named notebooks and semantic search returning raw ranked chunks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:25:37Z"
 ---
 ## What it is
 An MCP server that executes shell commands and intelligently compresses, filters, and extracts errors from verbose output to save AI agent context windows. It strips ANSI, collapses repetitive lines, and always preserves error information.

@@ -12,6 +12,8 @@ stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-11-14T19:40:26Z"
 ---
 ## What it is
 MCP server `SonarQube`, catalogued on PulseMCP. Integrates with SonarQube to provide code quality metrics, issue tracking, and quality gate status information for software development projects

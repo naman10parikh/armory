@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-24T12:39:48Z"
 ---
 ## What it is
 MCP server `Mood Booster`, catalogued on PulseMCP. Delivers uplifting messages with USDC tipping and on-chain reputation feedback via the ERC-8004 protocol.

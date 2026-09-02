@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:49:25Z"
 ---
 ## What it is
 Provides two MCP tools for querying a synthetic marketing SQLite database and running agent evaluation cases, with read-only SQL guarding and deterministic planning. The server communicates over stdio and supports initialization handshake and tool listing.

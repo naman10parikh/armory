@@ -8,10 +8,12 @@ source_url: https://github.com/tanob/mcp-desktop-automation
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-11-11T09:25:01Z"
 ---
 ## What it is
 MCP server `Desktop Automation`, catalogued on PulseMCP. Enables desktop automation with RobotJS for screen capture, keyboard input, and mouse control, allowing direct interaction with desktop applications without manual intervention.

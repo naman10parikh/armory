@@ -8,11 +8,13 @@ source_url: https://github.com/ruriazz/xlsx-tools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:59:06Z"
 ---
 ## What it is
 MCP server for accurately reading and writing Excel .xlsx files while preserving structure, styles, and formulas. Provides tools for inspecting, editing, and aggregating spreadsheet data, with optional LibreOffice recalculation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-24T06:10:18Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides financial trading tools and market analysis capabilities, enabling AI assistants to access real-time market data, execute trades, analyze portfolios, and perform comprehensive financial analysis.

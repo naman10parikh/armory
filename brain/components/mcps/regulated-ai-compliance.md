@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T08:41:22Z"
 ---
 ## What it is
 EU AI Act · APRA · NIST AI RMF · ISO 42001 · AU AI Safety — grounded compliance citations for any MCP client.

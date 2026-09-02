@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T08:29:52Z"
 ---
 ## What it is
 Enables collection, enhancement, and quality scoring of authentic Amharic datasets, with integration for AI models like Gemini and Qwen.

@@ -8,11 +8,13 @@ source_url: https://github.com/qubyyang/awesome-ios-sim
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:32:38Z"
 ---
 ## What it is
 Enables AI agents to manage iOS Simulator state declaratively through MCP tools for inventory, snapshot, diff, planning, and safe apply operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-07T22:03:48Z"
 ---
 ## What it is
 Local MCP server for safe inspection and dry-run cleanup of leftover subprocesses from AI coding agents, providing ownership-based classification and reproducible evidence.

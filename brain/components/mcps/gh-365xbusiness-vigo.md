@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T11:13:47Z"
 ---
 ## What it is
 MCP server `Vigo HK Regulatory Intelligence`, catalogued on PulseMCP. Hong Kong SFC regulatory intelligence with bilingual EN/ZH compliance queries.

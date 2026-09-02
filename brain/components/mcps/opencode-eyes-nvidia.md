@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:30:20Z"
 ---
 ## What it is
 MCP server that gives non-multimodal models 'eyes' by describing images via NVIDIA NIM's MiniMax-M3 model, with tools to describe images and list available vision models. It supports multiple NVIDIA API keys with automatic failover and rotation.

@@ -8,10 +8,12 @@ source_url: https://github.com/citizen4our/ssh-liaison-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-30T13:41:08Z"
 ---
 ## What it is
 MCP server `SSH Liaison`, catalogued on PulseMCP. Provides secure remote server access and command execution through SSH connections with persistent shell sessions.

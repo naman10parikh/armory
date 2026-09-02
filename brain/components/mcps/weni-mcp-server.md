@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T18:07:50Z"
 ---
 ## What it is
 MCP server that enables querying the Weni Insights Engine API for conversation metrics such as totals, resolved, unresolved, and transferred conversations.

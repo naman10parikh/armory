@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-09T18:35:24Z"
 ---
 ## What it is
 Enables to calculate property prices and check availability via BeTrusty API, supporting MCP-compatible clients like Claude Desktop and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T01:20:22Z"
 ---
 ## What it is
 Connects Claude Code to Microsoft Excel add-ins via the Chrome DevTools Protocol, enabling inspection, automation, and lifecycle management of add-ins running in WebView2.

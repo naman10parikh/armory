@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:38:06Z"
 ---
 ## What it is
 Query Lithuanian cybersecurity data — regulations, decisions, and requirements from NKSC — directly from AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T20:58:06Z"
 ---
 ## What it is
 Enables querying and searching Ben Milne's personal site content, including essays, API endpoints, and PDF books, via MCP tools.

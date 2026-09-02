@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T11:12:26Z"
 ---
 ## What it is
 Enables AI agents to securely use API keys by storing them in an encrypted vault and injecting them on demand with user approval, without exposing the key values to the model.

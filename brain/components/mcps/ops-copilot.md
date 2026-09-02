@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:07:42Z"
 ---
 ## What it is
 An MCP server that enables commerce operations specialists to resolve delayed, lost, or disputed deliveries and make refund decisions end-to-end, with built-in safety controls and carrier verification.

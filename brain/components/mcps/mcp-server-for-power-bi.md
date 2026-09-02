@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-20T08:16:41Z"
 ---
 ## What it is
 Enables exploring Microsoft Fabric / Power BI workspaces and semantic models, and executing ad-hoc DAX queries.

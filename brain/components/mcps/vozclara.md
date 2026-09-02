@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:54:01Z"
 ---
 ## What it is
 Generate Knowledge Packs — summary, flashcards, quiz, transcript — from any YouTube video. Plus OAuth-gated library search, Q\&A, and Anki export.

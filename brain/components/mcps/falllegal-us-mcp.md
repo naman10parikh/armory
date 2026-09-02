@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:08:31Z"
 ---
 ## What it is
 MCP server for sovereign US legal workflows, providing Ed25519-signed manifests and offline-capable access via your own infrastructure.

@@ -8,10 +8,12 @@ source_url: https://github.com/quantgeekdev/mongo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 172
+stars: 175
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2025-03-15T23:32:51Z"
 ---
 ## What it is
 MCP server `MongoDB`, catalogued on PulseMCP. Query and analyze MongoDB databases via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T06:36:51Z"
 ---
 ## What it is
 Enables AI assistants to discover and invoke KakaoCloud OpenAPI endpoints for managing cloud resources like VMs, VPCs, load balancers, and databases.

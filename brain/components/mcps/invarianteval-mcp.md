@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:43:04Z"
 ---
 ## What it is
 Enables AI agents to run safety-invariant checks on structured outputs, ensuring locked fields are never auto-filled by the model without human confirmation. The server provides two tools: check_invariants and list_invariants for deterministic eval of high-stakes extractions.

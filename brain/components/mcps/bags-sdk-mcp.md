@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T21:31:55Z"
 ---
 ## What it is
 Provides 46 MCP tools to interact with the Bags.fm platform, allowing AI agents to launch coins, trade, claim fees, and scout trends on Solana.

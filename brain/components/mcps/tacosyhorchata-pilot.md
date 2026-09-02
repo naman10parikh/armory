@@ -8,10 +8,12 @@ source_url: https://github.com/tacosyhorchata/pilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-28T07:15:05Z"
 ---
 ## What it is
 MCP server `Pilot`, catalogued on PulseMCP. Fast browser automation for AI agents with persistent Chromium, ref-based interaction, and cookie import.

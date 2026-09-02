@@ -8,10 +8,12 @@ source_url: https://github.com/elara-labs/code-context-engine
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 138
+stars: 408
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 62
+pushed_at: "2026-08-23T19:54:42Z"
 ---
 ## What it is
 MCP server `Code Context Engine`, catalogued on PulseMCP. Indexes codebases for AI semantic search, reducing token usage by up to 94% versus file re-reading.

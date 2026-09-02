@@ -8,10 +8,12 @@ source_url: https://github.com/crispvibe/mcp-document-studio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T10:25:50Z"
 ---
 ## What it is
 MCP server `Document Studio`, catalogued on PulseMCP. Reads documents in multiple formats (PDF, DOCX, XLSX, EPUB, and more) and generates Word and PowerPoint files.

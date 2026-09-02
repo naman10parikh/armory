@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:03:12Z"
 ---
 ## What it is
 A local MCP server that exposes the SAIR Competition Public API as tools for MCP clients, enabling account introspection, competition browsing, submissions, playground operations, cheatsheet management, and Contributor Network interactions.

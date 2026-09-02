@@ -8,10 +8,12 @@ source_url: https://github.com/superyuser/linkedin-scraper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-23T10:22:03Z"
 ---
 ## What it is
 MCP server `LinkedIn Scraper`, catalogued on PulseMCP. Automates LinkedIn profile data extraction using Selenium WebDriver with anti-detection measures and progressive scrolling to scrape personal details, work experience, education, skills, and contact information for recruitment and lead generation.

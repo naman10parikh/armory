@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:44:39Z"
 ---
 ## What it is
 Read-only MCP server for searching migrated Papertrail logs via SolarWinds Observability API. Provides tools to list environments and perform bearer-authenticated log queries through stdio.

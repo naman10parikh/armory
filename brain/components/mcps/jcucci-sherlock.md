@@ -8,10 +8,12 @@ source_url: https://github.com/jcucci/dotnet-sherlock-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-06T14:26:46Z"
 ---
 ## What it is
 MCP server `Sherlock`, catalogued on PulseMCP. .NET assembly introspection and reflection analysis

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:30:53Z"
 ---
 ## What it is
 Provides local MCP access to RocketReach's REST API, enabling person and company search, profile lookups, and account management without OAuth.

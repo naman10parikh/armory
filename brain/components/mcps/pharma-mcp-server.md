@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-22T21:50:51Z"
 ---
 ## What it is
 Enables drug safety, interactions, adverse events, and regulatory data queries using free sources like DrugBank, WHO, FDA FAERS, and more. Provides tools for checking drugs, interactions, adverse events, and searching across pharmaceutical databases.

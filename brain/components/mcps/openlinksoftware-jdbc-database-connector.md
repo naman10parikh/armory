@@ -8,10 +8,12 @@ source_url: https://github.com/openlinksoftware/mcp-jdbc-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-07-22T21:23:32Z"
 ---
 ## What it is
 MCP server `JDBC Database Connector`, catalogued on PulseMCP. Provides a bridge between relational databases and language models through JDBC connections, enabling SQL, SPARQL, and SPASQL queries with special optimizations for Virtuoso DBMS features like knowledge graph exploration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:26:48Z"
 ---
 ## What it is
 Provides a single read-only tool to fetch extended Brazilian company registration data from a CNPJ number, including basic details. Works over HTTP MCP with any client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-07T21:34:36Z"
 ---
 ## What it is
 Controls JupyterCAD using natural language, enabling creation, modification, and boolean operations on 3D CAD models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:18:04Z"
 ---
 ## What it is
 MCP server that enables AI agents to operate WhatsApp via Visto Azul API: send text, media, PIX charges, manage campaigns and contacts, and configure webhooks using natural language.

@@ -8,11 +8,13 @@ source_url: https://github.com/Topman-14/console-stream-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T01:57:30Z"
 ---
 ## What it is
 Enables AI coding agents to access live console logs, errors, and network requests from web applications via a local WebSocket connection, without copying data to chat.

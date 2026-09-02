@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T22:00:17Z"
 ---
 ## What it is
 Enables LLM agents to interact with the Mammoth Protocol on Solana for discovering cycles, getting quotes, and executing buys via bounded-curve mechanics.

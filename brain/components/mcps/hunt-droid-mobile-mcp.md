@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T13:56:23Z"
 ---
 ## What it is
 An MCP server that enables AI agents to drive real Android apps, capture API traffic, and test mobile-native attack surfaces, similar to Playwright for mobile.

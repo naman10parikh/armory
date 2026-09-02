@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:39:35Z"
 ---
 ## What it is
 An MCP server that enables LLM agents to control a two-joint MuJoCo robot arm through tools for moving, reading state, and resetting. It deliberately omits inverse kinematics, so the agent must infer joint angles from observations.

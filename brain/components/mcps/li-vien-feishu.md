@@ -8,10 +8,12 @@ source_url: https://github.com/vienli/lark-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-14T07:01:34Z"
 ---
 ## What it is
 MCP server `Feishu`, catalogued on PulseMCP. Integrates with Feishu (Lark) to retrieve document content from collaborative workspaces, enabling direct access to stored information without manual copying and pasting.

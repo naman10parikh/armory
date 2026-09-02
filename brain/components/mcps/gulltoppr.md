@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:30:04Z"
 ---
 ## What it is
 Enables AI agents to resolve smart contract ABIs, read, encode, simulate, and prepare transactions across multiple blockchains via a REST API or MCP server, with no signing required.

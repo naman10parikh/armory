@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T17:41:38Z"
 ---
 ## What it is
 MCP server for text-to-speech synthesis using Azure Speech Services, supporting 6 languages with high-quality neural voices and smart voice selection.

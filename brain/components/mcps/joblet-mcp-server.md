@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T14:37:50Z"
 ---
 ## What it is
 Enables AI assistants to manage distributed computing jobs through the Joblet platform, supporting job orchestration, workflows, storage, networks, and monitoring.

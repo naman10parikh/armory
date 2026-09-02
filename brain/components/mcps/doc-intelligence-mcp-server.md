@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T06:08:54Z"
 ---
 ## What it is
 Enables LLMs to dynamically search, scrape, and query official documentation of libraries like uv, OpenAI, LangChain, and LlamaIndex via Google Serper and Groq.

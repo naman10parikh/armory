@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T15:43:16Z"
 ---
 ## What it is
 MCP server `Jaeger`, catalogued on PulseMCP. Search Jaeger distributed traces, inspect spans, and map service dependencies with read-only access.

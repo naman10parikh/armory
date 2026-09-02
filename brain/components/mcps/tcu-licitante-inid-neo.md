@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:51:15Z"
 ---
 ## What it is
 Provides negative certificate of ineligible bidder from TCU for a person or company using CPF or CNPJ. Hosted on the platform, no credentials required, pay per query with prepaid credits.

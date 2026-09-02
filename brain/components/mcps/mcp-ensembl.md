@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:03:55Z"
 ---
 ## What it is
 Enables querying Ensembl genomic data including gene lookup, sequence retrieval, homology, variation, and variant effect prediction via MCP tools.

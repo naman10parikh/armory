@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T05:42:36Z"
 ---
 ## What it is
 Enables AI assistants to search and read Materio's educational PDF resources directly, without manual file uploads.

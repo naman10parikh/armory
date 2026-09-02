@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T21:12:25Z"
 ---
 ## What it is
 MCP server `Peeky Search`, catalogued on PulseMCP. Privacy-focused web search using local SearXNG with BM25 scoring to extract relevant content snippets from web pages.

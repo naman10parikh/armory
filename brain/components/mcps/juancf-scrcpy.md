@@ -8,10 +8,12 @@ source_url: https://github.com/juancf/scrcpy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-21T01:47:11Z"
 ---
 ## What it is
 MCP server `Scrcpy Android Control`, catalogued on PulseMCP. Android device vision and control via ADB and scrcpy with fast screenshot capture, input automation, and UI inspection.

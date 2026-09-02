@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T09:04:57Z"
 ---
 ## What it is
 Enables AI agents to present interactive code walkthroughs with voice narration, opening files, highlighting code, and showing inline explanations with synchronized text-to-speech.

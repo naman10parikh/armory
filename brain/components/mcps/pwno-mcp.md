@@ -8,11 +8,13 @@ source_url: https://github.com/pwno-io/pwno-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 279
+stars: 280
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2026-03-12T16:30:29Z"
 ---
 ## What it is
 A stateful debugging and binary research system for LLM agents, integrating GDB + pwndbg with MCP for deterministic exploit workflows and multi-session support.

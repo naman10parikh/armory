@@ -8,10 +8,12 @@ source_url: https://github.com/ctvidic/strava-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-05T01:47:38Z"
 ---
 ## What it is
 MCP server `Strava`, catalogued on PulseMCP. Integrates with the Strava API to enable access to fitness tracking data and activity information for analyzing workout patterns and athletic performance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T17:59:53Z"
 ---
 ## What it is
 Provides structured migration briefs for LLM coding agents covering breaking changes, codemod coverage, and hallucination warnings for major version bumps of packages like tailwindcss, next, and react.

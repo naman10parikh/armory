@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:10:19Z"
 ---
 ## What it is
 Enables AI agents to execute SSH commands, read files, and list directories on remote hosts with a configurable command-safety policy.

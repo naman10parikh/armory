@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-29T03:34:23Z"
 ---
 ## What it is
 MCP server `OracleDB`, catalogued on PulseMCP. Provides a bridge to Oracle Database, enabling dynamic table and column discovery, secure query execution, and metadata retrieval through natural language interactions for data analysts and developers.

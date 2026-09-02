@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T07:12:11Z"
 ---
 ## What it is
 Enables AI-powered UI/UX design generation and management via Google Stitch, handling OAuth authentication automatically for MCP clients like Claude Code and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:01:56Z"
 ---
 ## What it is
 MCP server that exposes the wallet-watch subscription-tracking REST API as tools for AI assistants, enabling natural language management of subscriptions including listing, renewal forecasts, spend summaries, and actions like snoozing or downgrading.

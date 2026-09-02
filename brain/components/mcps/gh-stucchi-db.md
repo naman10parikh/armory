@@ -8,10 +8,12 @@ source_url: https://github.com/stucchi/db-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-24T18:58:48Z"
 ---
 ## What it is
 MCP server `DB`, catalogued on PulseMCP. Database connectivity for MySQL, PostgreSQL, and MongoDB with SSH tunneling.

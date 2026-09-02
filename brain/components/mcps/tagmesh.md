@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:17:22Z"
 ---
 ## What it is
 Enables querying and managing markdown journal entries via tags, full-text search, and CRUD operations, plus workspace statistics, through a native edge MCP interface.

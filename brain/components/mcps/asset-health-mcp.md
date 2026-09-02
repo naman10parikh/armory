@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:05:45Z"
 ---
 ## What it is
 Provides data-quality validation and anomaly scoring tools so an AI agent can decide whether to dispatch a field technician, while refusing to act on untrusted data.

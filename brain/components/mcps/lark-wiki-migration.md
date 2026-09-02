@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:21:06Z"
 ---
 ## What it is
 MCP server for migrating Feishu/Lark wiki spaces, preserving the document tree structure via the migrate_feishu_wiki tool.

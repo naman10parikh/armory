@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:42Z"
 ---
 ## What it is
 Full-text search and retrieval over official congressional documents (hearings, committee reports, Congressional Record) with citations and govinfo.gov links, designed for grounding AI answers in the official record.

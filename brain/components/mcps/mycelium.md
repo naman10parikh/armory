@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:42:21Z"
 ---
 ## What it is
 An on-call agent for data incidents, built on a bio-inspired context protocol. It triages data quality and freshness issues using DataHub, computing severity, blast radius, and ownership from the catalogue before generating prose.

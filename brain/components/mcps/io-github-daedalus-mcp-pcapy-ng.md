@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:31Z"
 ---
 ## What it is
 Enables network packet capture and analysis by listing interfaces, opening live or offline captures, reading packets, and managing BPF filters.

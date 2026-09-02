@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T04:45:08Z"
 ---
 ## What it is
 Memory for AI agents that can't hallucinate — answers only from stored facts with a citation, or honestly abstains. Provable forgetting (GDPR), valid-time, Merkle proofs, deterministic. MCP server, CPU-only, zero dependencies.

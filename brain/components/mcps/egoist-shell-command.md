@@ -8,10 +8,12 @@ source_url: https://github.com/egoist/shell-command-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-07T13:56:10Z"
 ---
 ## What it is
 MCP server `Shell Command`, catalogued on PulseMCP. Secure shell command execution server that allows running system commands in a controlled environment through an allowlist system, returning results in YAML format.

@@ -8,10 +8,12 @@ source_url: https://github.com/davidorex/git-forensics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-05T03:15:47Z"
 ---
 ## What it is
 MCP server `Git Forensics`, catalogued on PulseMCP. Provides deep git repository analysis tools for branch overview, time period examination, and merge recommendations to optimize development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-10T12:44:03Z"
 ---
 ## What it is
 Enables static analysis and patching of .NET binaries through decompilation, IL analysis, renaming, and IL patching over the Model Context Protocol.

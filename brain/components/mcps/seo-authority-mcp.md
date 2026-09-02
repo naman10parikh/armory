@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:41:35Z"
 ---
 ## What it is
 Provides AI agents with typed SEO tools for domain authority, keyword opportunities, competitor gap analysis, content briefs, site audits, and internal links, backed by Common Crawl graph data and optional x402 payment settlement.

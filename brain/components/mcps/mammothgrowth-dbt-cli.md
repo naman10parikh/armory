@@ -8,10 +8,12 @@ source_url: https://github.com/mammothgrowth/dbt-cli-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-06-26T16:12:03Z"
 ---
 ## What it is
 MCP server `dbt CLI`, catalogued on PulseMCP. Bridges Claude with dbt Core CLI, enabling direct execution of data transformation workflows, model management, and pipeline analysis within conversation interfaces.

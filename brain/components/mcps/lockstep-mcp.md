@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-28T19:27:52Z"
 ---
 ## What it is
 Enables multiple AI agents like Claude and Codex to coordinate on the same project through shared tasks, file locks, and a real-time dashboard, preventing conflicts and streamlining collaborative development.

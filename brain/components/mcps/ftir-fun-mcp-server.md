@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:05:14Z"
 ---
 ## What it is
 Enables analysis of FTIR spectra by accepting peak lists, natural-language descriptions, or base64-encoded spectrum files and returning spectral-library candidates from the FTIR.fun API.

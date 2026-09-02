@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-01-19T09:12:27Z"
 ---
 ## What it is
 Enables natural language interaction with Taiga project management systems, allowing management of projects, sprints, user stories, tasks, and issues through conversational AI.

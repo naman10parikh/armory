@@ -12,6 +12,8 @@ stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-03-12T08:44:10Z"
 ---
 ## What it is
 MCP server `X Twitter`, catalogued on PulseMCP. Create and manage X/Twitter posts.

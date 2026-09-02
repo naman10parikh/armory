@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T18:37:36Z"
 ---
 ## What it is
 Official MCP server for FormaCV, enabling AI-powered CV formatting, anonymization, tailoring, and ATS push-back from AI agents like Claude Desktop and Cursor.

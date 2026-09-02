@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 1
+forks: 2
+pushed_at: "2025-09-11T06:03:23Z"
 ---
 ## What it is
 A simple memory tool for coding agents using DuckDB and VoyageAI.

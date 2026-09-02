@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:07:04Z"
 ---
 ## What it is
 Enables searching arXiv papers, extracting paper information, listing paper topics, and generating structured research prompts through MCP tools, resources, and prompts.

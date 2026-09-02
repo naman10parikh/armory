@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T09:38:16Z"
 ---
 ## What it is
 MCP server `Newsletter Tools`, catalogued on PulseMCP. Provides text processing, subject line generation, and content analysis tools for newsletter workflows.

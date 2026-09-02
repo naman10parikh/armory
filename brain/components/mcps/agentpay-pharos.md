@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:44:52Z"
 ---
 ## What it is
 A drop-in MCP skill that gives AI agents a real on-chain wallet on Pharos — check balances, read live prices, move tokens, pay only when conditions are met, screen for scams, and buy x402 pay-per-use APIs, all from natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:51:38Z"
 ---
 ## What it is
 Private OAuth-backed MCP server for ChatGPT, supporting GPT Apps via MCP Streamable HTTP and GPT Actions via REST endpoints with OpenAPI 3.1.

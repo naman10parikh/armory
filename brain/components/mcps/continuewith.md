@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:56:55Z"
 ---
 ## What it is
 MCP server for coding agents (Cursor, Claude Code, Codex) to install and configure the ContinueWith AI handoff widget on any website.

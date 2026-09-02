@@ -8,10 +8,12 @@ source_url: https://github.com/wilddatax/suppr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 251
+stars: 255
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-05T14:07:37Z"
 ---
 ## What it is
 MCP server `Suppr`, catalogued on PulseMCP. AI-powered document translation and academic literature search with support for PDF, DOCX, and PPTX across 11 languages

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: [cc-notify, claude-hooks]
 tags: [claude-code, hooks]
 stars: 113
+forks: 8
+pushed_at: "2026-08-06T19:29:36Z"
 ---
 ## What it is
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.

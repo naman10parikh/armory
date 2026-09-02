@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-25T07:38:40Z"
 ---
 ## What it is
 Provides AI assistants with access to sales data from a Northwind-style database through GraphQL queries, enabling natural language requests for orders, customers, products, and analytics.

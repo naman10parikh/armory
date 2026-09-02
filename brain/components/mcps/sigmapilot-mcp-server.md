@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T01:08:13Z"
 ---
 ## What it is
 A remote Model Context Protocol (MCP) server for real-time cryptocurrency and stock market analysis. Provides AI-powered market intelligence tools with 9 theory-based analysis engines, multi-chain DEX discovery, and enterprise features.

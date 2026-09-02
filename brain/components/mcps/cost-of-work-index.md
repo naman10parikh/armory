@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:43:31Z"
 ---
 ## What it is
 Per-unit cost of 13 back-office tasks done by a person vs by software, in the US, Greece and Ukraine, with an official statistic behind every hourly wage. Bundled data, works offline.

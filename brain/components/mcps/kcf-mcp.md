@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:33:18Z"
 ---
 ## What it is
 MCP server that lets Claude, ChatGPT, or VS Code build a complete, machine-checked model of your domain and generate an app from it.

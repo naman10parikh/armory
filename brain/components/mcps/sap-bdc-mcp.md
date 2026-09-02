@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-06T16:22:20Z"
 ---
 ## What it is
 Enables AI agents to safely discover and validate SAP Business Data Cloud contracts (ORD, CSN, share plans) with enterprise guardrails like redaction and read-only defaults.

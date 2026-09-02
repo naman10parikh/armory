@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:07:08Z"
 ---
 ## What it is
 Enables AI assistants to control the 3Dawn 3D marketplace, including generating 3D models, managing assets, browsing marketplace listings, and viewing earnings, all through natural language.

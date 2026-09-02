@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-28T18:25:20Z"
 ---
 ## What it is
 Generates professional invoices from Claude Desktop using RapidInvoice and stores them in Supabase, with support for multi-currency, public share links, and user-specific billing limits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-02T09:07:22Z"
 ---
 ## What it is
 A network analysis MCP server providing 23 tools for packet capture, protocol analysis, and cryptographic inspection, including TLS handshake, certificate extraction, and SM2/SM3/SM4 support.

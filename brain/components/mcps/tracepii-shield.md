@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:09:33Z"
 ---
 ## What it is
 MCP server `TracePII Shield`, catalogued on PulseMCP. LLM trace PII scanning, payload redaction, sensitive field classification, and privacy receipts for AI agent systems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T19:45:06Z"
 ---
 ## What it is
 A portable MCP server that exposes Lighter trading to any MCP-capable agent with safety-first features like mode-based gating, two-step confirmations, and audit logging.

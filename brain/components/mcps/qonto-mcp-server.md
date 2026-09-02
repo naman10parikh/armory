@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-06-22T17:03:03Z"
 ---
 ## What it is
 Enables AI assistants to access Qonto financial data including organization info, account balances, transaction history, and business operations through natural language.

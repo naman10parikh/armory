@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:58:00Z"
 ---
 ## What it is
 MCP server for embedded board debugging, providing structured serial capture, crash decoding, and flash-safe port arbitration via bounded CLI and MCP tools.

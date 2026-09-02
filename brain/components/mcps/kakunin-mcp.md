@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T07:30:58Z"
 ---
 ## What it is
 Enables AI agents to self-verify their authorized scope, check risk scores, and log behavioral events via the Kakunin compliance API.

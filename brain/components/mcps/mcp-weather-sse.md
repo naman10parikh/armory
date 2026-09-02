@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2024-12-05T19:56:58Z"
 ---
 ## What it is
 An SSE-based MCP server for retrieving real-time weather data for a specified location, supporting current conditions and forecasts.

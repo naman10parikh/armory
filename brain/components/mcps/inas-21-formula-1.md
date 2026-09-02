@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T16:45:43Z"
 ---
 ## What it is
 MCP server `Formula 1`, catalogued on PulseMCP. Real-time and historical Formula 1 data including standings, race results, and schedules via OpenF1 API.

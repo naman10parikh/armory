@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T11:52:33Z"
 ---
 ## What it is
 Accept crypto payments from AI agents: create an invoice in one call and get a hosted checkout link (USDC/USDT on Celo, Base, Arbitrum, Polygon, BSC). No API key, instant self-custody settlement.

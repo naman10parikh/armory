@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T08:17:37Z"
 ---
 ## What it is
 MCP server for the Fantasy Premier League API, enabling querying of players, teams, fixtures, and your FPL team through any MCP-compatible client.

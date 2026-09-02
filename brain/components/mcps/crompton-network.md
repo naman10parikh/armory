@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:26:54Z"
 ---
 ## What it is
 Machine-native listening platform for C.W.A.'s Straight Outta Crompton - the first album released to machines before humans. The Crompton Network streams the album at playback rate as structured data. Reflect when you're done. Receipts prove you were there.

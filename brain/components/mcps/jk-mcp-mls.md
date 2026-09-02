@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:11:53Z"
 ---
 ## What it is
 MCP server that gives Claude live access to Major League Soccer data — teams, matches, standings, rosters, and schedule-strength analytics — via the ESPN public API.

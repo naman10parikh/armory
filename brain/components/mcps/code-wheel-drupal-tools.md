@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-24T21:42:35Z"
 ---
 ## What it is
 MCP server `Drupal Tools`, catalogued on PulseMCP. Drupal module providing read-only analysis tools for site health monitoring, content management, configuration inspection, user administration, and security auditing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T09:48:10Z"
 ---
 ## What it is
 Enables AI assistants to interact with the BitOasis cryptocurrency exchange, including market data, account management, order placement, and deposit/withdrawal operations through natural language.

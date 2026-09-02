@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T08:17:49Z"
 ---
 ## What it is
 Self-hosted, cookie-aware web-automation engine that turns any website into callable MCP tools, with stateful browser sessions, web search, and multi-page crawling.

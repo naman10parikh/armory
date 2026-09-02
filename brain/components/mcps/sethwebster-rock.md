@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T20:41:58Z"
 ---
 ## What it is
 MCP server `Rock (Website Crawler)`, catalogued on PulseMCP. Documentation crawler that indexes websites into SQLite with full-text search, enabling AI agents to search, read, and expand on crawled content on demand.

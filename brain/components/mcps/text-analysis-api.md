@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:58:18Z"
 ---
 ## What it is
 Algorithmic text and NLP analysis server providing sentiment, readability, keyword extraction, language detection, stats, and more via REST and MCP.

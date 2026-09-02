@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-02T00:32:52Z"
 ---
 ## What it is
 MCP server `agntcy Agent Directory`, catalogued on PulseMCP. MCP server for the agntcy OASF agent directory, enabling AI agents to create, validate, search, and manage agent records using the Open Agent Schema Framework.

@@ -8,10 +8,12 @@ source_url: https://github.com/alexai-mcp/cc-channel-mem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-29T03:47:13Z"
 ---
 ## What it is
 MCP server `Channel Memory`, catalogued on PulseMCP. Stores Discord and Telegram channel messages locally for persistent memory across Claude Code sessions.

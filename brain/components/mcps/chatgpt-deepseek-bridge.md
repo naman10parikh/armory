@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:59:57Z"
 ---
 ## What it is
 Enables ChatGPT (or any MCP client) to delegate coding tasks to a local Hermes-backed agent with async job management, supporting read-only investigation, implementation, and continuation of sessions via secure MCP tunnel.

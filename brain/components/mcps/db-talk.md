@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T21:50:24Z"
 ---
 ## What it is
 Enables natural language interaction with SQLite databases using LangChain and FastMCP, allowing users to query, insert, update, and delete data via conversation with safety confirmations.

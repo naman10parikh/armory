@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-23T13:12:02Z"
 ---
 ## What it is
 MCP server `Azure Function Apps`, catalogued on PulseMCP. Enables testing of Azure Function Apps through a command-line interface supporting various HTTP methods, custom headers, and multiple authentication options.

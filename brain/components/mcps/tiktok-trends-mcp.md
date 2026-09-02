@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T14:52:02Z"
 ---
 ## What it is
 Provides TikTok hashtag trend data including volume growth, viral spikes, and historical time series, enabling AI assistants to spot emerging trends before they go mainstream.

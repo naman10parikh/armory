@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-20T10:00:39Z"
 ---
 ## What it is
 MCP server `Binance Smart Chain`, catalogued on PulseMCP. Enables blockchain operations on Binance Smart Chain including token deployment, trading, and asset management through Web3.py integration with PancakeSwap V3 for cryptocurrency workflows.

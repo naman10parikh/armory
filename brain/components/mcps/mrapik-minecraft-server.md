@@ -8,10 +8,12 @@ source_url: https://github.com/mrapik/minecraftservermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T07:39:44Z"
 ---
 ## What it is
 MCP server `Minecraft Server`, catalogued on PulseMCP. Spigot/Paper plugin embedding an MCP server inside Minecraft for filesystem, command, and player management.

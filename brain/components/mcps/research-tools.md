@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:36:58Z"
 ---
 ## What it is
 Exposes web search and page fetching tools via the MCP protocol, allowing integration with AI editors like Cursor for autonomous research workflows.

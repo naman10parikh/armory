@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:39:22Z"
 ---
 ## What it is
 Search Google Flights for one-way, round-trip and multi-city fares, with offline airport lookup and nearby-airport resolution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T11:56:33Z"
 ---
 ## What it is
 Enables persistent session memory for LLMs by trust-scoring and injecting verified context between conversations.

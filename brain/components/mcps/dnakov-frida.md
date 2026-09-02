@@ -8,10 +8,12 @@ source_url: https://github.com/dnakov/frida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 325
+stars: 428
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 56
+pushed_at: "2025-05-12T12:25:32Z"
 ---
 ## What it is
 MCP server `Frida`, catalogued on PulseMCP. Enables dynamic instrumentation of mobile and desktop applications through Frida toolkit, providing capabilities for process management, device enumeration, and script injection for application analysis and debugging workflows.

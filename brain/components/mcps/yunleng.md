@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:33:50Z"
 ---
 ## What it is
 A camera vision MCP server that lets AI agents capture frames, control camera parameters, recognize gestures, detect objects, and analyze scenes via local vision models.

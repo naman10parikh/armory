@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T23:34:35Z"
 ---
 ## What it is
 Provides persistent, Markdown-based memory for Kimi Code CLI, enabling cross-session context recovery and structured knowledge management.

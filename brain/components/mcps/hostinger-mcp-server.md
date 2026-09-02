@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:07:32Z"
 ---
 ## What it is
 Connect any MCP-compatible AI agent to the full Hostinger platform. Manage VPS, domains, DNS, hosting, WordPress, email, ecommerce, and more through natural language.

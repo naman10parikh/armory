@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T19:53:33Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Provides direct PostgreSQL database access with schema discovery, table exploration, DDL retrieval, data sampling, and SQL execution capabilities with configurable row limits and automatic query protection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:08:32Z"
 ---
 ## What it is
 Exposes the Django admin as an MCP server, letting authorized staff interact with admin models via natural language while delegating all permissions to the existing ModelAdmin.

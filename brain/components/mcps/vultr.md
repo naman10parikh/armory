@@ -8,10 +8,12 @@ source_url: https://github.com/rsp2k/mcp-vultr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-21T02:36:30Z"
 ---
 ## What it is
 MCP server `Vultr`, catalogued on PulseMCP. Integrates with Vultr's cloud infrastructure API to manage DNS records, compute instances, storage, networking, and billing operations through conversational commands with smart identifier resolution and zone file import/export capabilities.

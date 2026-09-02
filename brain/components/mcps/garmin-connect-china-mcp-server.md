@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T13:55:22Z"
 ---
 ## What it is
 Enables AI assistants to read Garmin health and fitness data from the Chinese version (garmin.cn) via MCP protocol.

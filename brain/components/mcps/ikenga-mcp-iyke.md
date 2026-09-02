@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:20:38Z"
 ---
 ## What it is
 MCP server that exposes the Ikenga desktop app's iyke control bridge, allowing MCP clients to drive a running Ikenga session via tools for navigation, runtime inspection, and project management.

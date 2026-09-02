@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T21:54:09Z"
 ---
 ## What it is
 MCP server `NexusFeed`, catalogued on PulseMCP. Real-time LTL fuel surcharge rates for 10 US carriers and ABC liquor license compliance data with verifiable provenance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T07:39:35Z"
 ---
 ## What it is
 Enables automatic literature discovery, screening, and ranking across OpenAlex, Semantic Scholar, and arXiv, with tools for exporting to Zotero and generating research ideas.

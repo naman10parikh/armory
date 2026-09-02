@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:33:24Z"
 ---
 ## What it is
 Public tri-channel AdsAgent plugin: Meta, Google Ads, and TikTok hosted MCP URLs via OAuth, plus agent skills for insights, templates, and prepare/confirm writes.

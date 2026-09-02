@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 25
+forks: 6
+pushed_at: "2026-05-31T20:14:14Z"
 ---
 ## What it is
 A personal MCP (Model Context Protocol) server for securely storing and accessing API keys across projects using the macOS Keychain.

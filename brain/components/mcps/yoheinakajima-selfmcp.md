@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-10T23:06:52Z"
 ---
 ## What it is
 MCP server `SelfMCP`, catalogued on PulseMCP. Self-extending MCP server with a skill registry, search, and execution runtime.

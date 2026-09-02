@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-21T16:24:36Z"
 ---
 ## What it is
 An open-source MCP server that gives AI assistants full read-write access to Figma, enabling creation, editing, and deletion of designs directly without plugins or API keys.

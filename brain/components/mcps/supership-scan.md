@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-04T18:09:45Z"
 ---
 ## What it is
 MCP server `Supership Scan`, catalogued on PulseMCP. Pre-deploy AI code security scanner with 80+ vulnerability patterns, built for AI editors.

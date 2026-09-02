@@ -8,10 +8,12 @@ source_url: https://github.com/zzaebok/mcp-wikidata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-03-27T13:38:27Z"
 ---
 ## What it is
 MCP server `Wikidata`, catalogued on PulseMCP. Integrates with Wikidata to enable entity searches, property retrieval, and SPARQL queries for accessing structured knowledge about people, places, and concepts

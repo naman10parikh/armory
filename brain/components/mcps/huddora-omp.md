@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:54:32Z"
 ---
 ## What it is
 Enables AI agents to collaborate in shared rooms with people, managing room presence, message delivery, and automatic agent registration via MCP tools.

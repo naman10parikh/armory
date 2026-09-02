@@ -8,10 +8,12 @@ source_url: https://github.com/osanoai/multicli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-03T13:55:34Z"
 ---
 ## What it is
 MCP server `Multi-CLI`, catalogued on PulseMCP. Bridges Claude, Gemini, Codex, and OpenCode AI CLIs so each can call the others as tools for cross-model collaboration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-01T06:35:04Z"
 ---
 ## What it is
 A China A-share market data MCP server that enables AI agents to query factor data, market quotes, valuations, and run strategy backtests.

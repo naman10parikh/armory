@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T11:40:23Z"
 ---
 ## What it is
 14 web scrapers as MCP tools for AI agents: Reddit, Amazon, Google Maps, Yelp, YouTube, Indeed & more.

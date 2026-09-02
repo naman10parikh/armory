@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:29:20Z"
 ---
 ## What it is
 Connects AI tools to PingRep AI Representatives, enabling profile retrieval, directory search, Q&A, and contact management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T01:57:07Z"
 ---
 ## What it is
 Provides a visual memory and attention layer for AI agents, enabling indexing of images and videos and then searching, inspecting, tracking, and retrieving the right frame in milliseconds via MCP tools.

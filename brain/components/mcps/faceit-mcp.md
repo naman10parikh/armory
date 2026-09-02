@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T06:13:47Z"
 ---
 ## What it is
 Enables AI assistants to query the FACEIT platform for players, matches, hubs, and tournaments through typed MCP tools generated from the FACEIT Data API v4.

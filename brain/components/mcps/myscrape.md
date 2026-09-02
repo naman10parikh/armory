@@ -8,11 +8,13 @@ source_url: https://github.com/Bonifatius94/myscrape
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T18:34:51Z"
 ---
 ## What it is
 A self-contained web-research MCP server that lets local LLM agents search, fetch, and synthesize web content using tools like web_search, web_fetch, and web_research.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-05T02:38:54Z"
 ---
 ## What it is
 Wraps TheBrain knowledge graph as an MCP server, enabling AI assistants to search, create, and manage thoughts, links, and notes via natural language.

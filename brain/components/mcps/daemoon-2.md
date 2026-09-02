@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T04:43:22Z"
 ---
 ## What it is
 Gives AI coding agents (Claude Code, Cursor, etc.) unified, secure access to dev infrastructure (Vercel, GitHub, Supabase, Cloudflare, GCP) via a single MCP token.

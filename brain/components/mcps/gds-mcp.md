@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T07:52:18Z"
 ---
 ## What it is
 Exposes Levit design system (GDS) metadata to AI coding tools, enabling queries about color tokens and component usage via natural language.

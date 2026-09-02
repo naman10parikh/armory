@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-24T12:35:32Z"
 ---
 ## What it is
 MCP server providing access to the Earth616 Defense Supply Chain and Documentation Ontology with tools for ontology lookup and testing.

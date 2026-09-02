@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-14T09:43:49Z"
 ---
 ## What it is
 A Web3 MCP evaluation marketplace enabling standardized Inspect evals with Walrus-backed results, ENS identity, Chainlink attestation, and x402 nanopayments on Arc.

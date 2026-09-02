@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T04:03:27Z"
 ---
 ## What it is
 A standalone MCP server for the bexio REST API, enabling interaction with bexio resources like contacts, invoices, and projects through natural language from any MCP client.

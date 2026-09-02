@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:54:01Z"
 ---
 ## What it is
 Enables Claude to manage NVIDIA API keys through an OAuth-secured MCP connector, including listing, dispensing, rotating, and revoking keys with RBAC and audit trail.

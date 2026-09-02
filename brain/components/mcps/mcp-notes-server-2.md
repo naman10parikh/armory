@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-12T11:03:33Z"
 ---
 ## What it is
 A beginner-friendly MCP server for managing personal notes. Enables Claude to create, list, read, search, update, and delete notes saved as Markdown files.

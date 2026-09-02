@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:06Z"
 ---
 ## What it is
 MCP server to query São Paulo Military Police Fire Department licenses (CLCB, AVCB, TAACB) from official sources. Enables read-only consultation of license data through natural language in MCP-compatible clients.

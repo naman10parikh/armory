@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-03T12:36:52Z"
 ---
 ## What it is
 MCP server `Peach AI WhatsApp`, catalogued on PulseMCP. Send and manage WhatsApp messages, contacts, templates, and events via Peach AI.

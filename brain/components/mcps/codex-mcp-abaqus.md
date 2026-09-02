@@ -8,11 +8,13 @@ source_url: https://github.com/Zhangyoupeng1996/Codex_MCP_Abaqus
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T09:34:53Z"
 ---
 ## What it is
 Enables to interact with Abaqus FEA software through an MCP bridge, supporting connection checks, script execution, model queries, job submission, and simulation automation.

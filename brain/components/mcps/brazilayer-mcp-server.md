@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T18:37:12Z"
 ---
 ## What it is
 Enables AI agents to access Brazilian public data including company registry and official sanction lists via MCP tools, with pay-per-call via USDC.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T06:23:47Z"
 ---
 ## What it is
 MCP server `n8n Monitoring`, catalogued on PulseMCP. Monitors n8n workflow automation health by analyzing execution history, tracking KPIs like success rates and timing data, and providing detailed error diagnostics for failed workflows.

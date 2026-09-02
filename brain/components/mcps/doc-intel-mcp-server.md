@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:59:06Z"
 ---
 ## What it is
 Enables AI agents to extract structured data from PDFs with confidence scores and provenance, and to search, review, and correct documents via MCP tools, resources, and prompts.

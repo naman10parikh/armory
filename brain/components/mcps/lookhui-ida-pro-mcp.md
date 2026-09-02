@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T11:07:27Z"
 ---
 ## What it is
 MCP server `IDA Pro MCP Pro`, catalogued on PulseMCP. Extended IDA Pro MCP server and plugin collection with 147 reverse engineering tools accessible via stdio, HTTP, and SSE transports.

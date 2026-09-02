@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T10:01:22Z"
 ---
 ## What it is
 An AI-native web browser that exposes a full MCP server, letting Claude Code, Codex CLI, and Gemini CLI see and control the browser in real time.

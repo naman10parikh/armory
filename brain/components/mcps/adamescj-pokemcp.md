@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T22:57:21Z"
 ---
 ## What it is
 MCP server `PokeMCP`, catalogued on PulseMCP. Play Pokemon Fire Red through mGBA emulator with AI-controlled battles and gameplay.

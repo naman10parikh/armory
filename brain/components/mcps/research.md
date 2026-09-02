@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-02T05:35:41Z"
 ---
 ## What it is
 MCP server `uk.co.propbar/research`, catalogued on PulseMCP. UK property research tools - crime stats, schools, demographics, valuations for AI.

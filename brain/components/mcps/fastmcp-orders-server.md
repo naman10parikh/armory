@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:50:26Z"
 ---
 ## What it is
 Enables querying customer orders from a PostgreSQL database by customer ID or email, with optional minimum amount filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-05T11:01:41Z"
 ---
 ## What it is
 Enables WordPress content management through the Model Context Protocol, allowing AI agents to create, read, update, and delete posts, metadata, taxonomies, and terms, as well as interact with Gutenberg blocks.

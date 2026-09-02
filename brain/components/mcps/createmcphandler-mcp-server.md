@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T07:38:58Z"
 ---
 ## What it is
 Simplest way to run a stateless MCP server on Cloudflare Workers, using createMcpHandler from the Agents SDK to handle MCP protocol details in one line.

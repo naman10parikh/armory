@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:47:35Z"
 ---
 ## What it is
 MCP server for controlling X Browser (com.mmbox.xbrowser) via HTTP, exposing 439 tools for navigation, JavaScript execution, page content retrieval, and deep browser control.

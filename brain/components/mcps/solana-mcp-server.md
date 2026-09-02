@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:29:34Z"
 ---
 ## What it is
 Enables AI agents to read chain data, execute transactions, swap tokens, and manage wallets on Solana through 38 tools across 7 modules. Supports write operations with a private key and includes built-in prompts for common workflows.

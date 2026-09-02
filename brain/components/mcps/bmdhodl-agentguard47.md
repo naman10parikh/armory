@@ -8,10 +8,12 @@ source_url: https://github.com/bmdhodl/agent47
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-29T12:35:48Z"
 ---
 ## What it is
 MCP server `AgentGuard47`, catalogued on PulseMCP. Read-only MCP server for inspecting AgentGuard47 runtime safety framework traces, alerts, costs, and usage metrics.

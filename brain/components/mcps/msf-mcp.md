@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:55:13Z"
 ---
 ## What it is
 A minimal MCP server that exposes Metasploit Framework tools to LLMs via msfrpcd, enabling automated penetration testing and exploitation.

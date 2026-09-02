@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:46:25Z"
 ---
 ## What it is
 MCP server providing witness, recovery, and continuity primitives for AI agents, enabling them to articulate failure, preserve state across sessions, and coordinate via MCP, A2A, or REST.

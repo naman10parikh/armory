@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T06:27:00Z"
 ---
 ## What it is
 Helps AI assistants optimize Linux workloads on Arm64 by parsing perf report output, recommending NEON SIMD intrinsics for hot loops, and auditing Python dependency manifests for arm64 wheel availability — all offline and structured.

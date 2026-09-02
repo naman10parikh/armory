@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T01:35:15Z"
 ---
 ## What it is
 An MCP server that provides tools for privacy-oriented context API including encrypted fact storage, commitment-based proofs, and semantic search, enabling users, AI agents, and back-office systems to securely manage and prove personal facts without exposing raw data.

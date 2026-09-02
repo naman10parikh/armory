@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-14T11:56:46Z"
 ---
 ## What it is
 Manage your entire Docker infrastructure through natural language with 180 tools.

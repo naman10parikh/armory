@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:12:04Z"
 ---
 ## What it is
 MCP server for querying the GWAS Catalog (EBI/NHGRI), a curated catalog of genome-wide association studies. It enables AI agents to search and retrieve study data via natural language or direct tool calls.

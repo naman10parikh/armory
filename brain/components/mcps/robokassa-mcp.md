@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T23:36:48Z"
 ---
 ## What it is
 MCP server for the Robokassa payment gateway, enabling AI agents to create invoices, check payments, process refunds, manage recurring subscriptions, and handle fiscal receipts via natural language.

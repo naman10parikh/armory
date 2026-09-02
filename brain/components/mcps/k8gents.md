@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T22:27:21Z"
 ---
 ## What it is
 A Kubernetes diagnostic agent that provides on-demand root cause analysis and human-in-the-loop remediation via Slack, using LLM reasoning with OPA-bounded security controls.

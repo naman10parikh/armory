@@ -8,10 +8,12 @@ source_url: https://github.com/promptexecution/just-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-15T23:27:04Z"
 ---
 ## What it is
 MCP server `Just`, catalogued on PulseMCP. Execute Justfile recipes safely through curated command automation

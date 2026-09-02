@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T22:34:17Z"
 ---
 ## What it is
 Exposes Ayoa mindmapping services as MCP tools, enabling mindmap creation, listing, OPML import, and presenter slide capture.

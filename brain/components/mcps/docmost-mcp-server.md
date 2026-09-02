@@ -8,11 +8,13 @@ source_url: https://github.com/MrMartiniMo/docmost-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-02-01T03:24:54Z"
 ---
 ## What it is
 Enables AI agents to search, create, modify, and organize documentation pages and spaces in Docmost.

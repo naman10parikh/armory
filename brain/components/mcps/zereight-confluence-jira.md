@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-11T01:58:10Z"
 ---
 ## What it is
 MCP server `Confluence and JIRA`, catalogued on PulseMCP. Integrates with Confluence and JIRA APIs to enable querying and management of Atlassian project data, documentation, and issues.

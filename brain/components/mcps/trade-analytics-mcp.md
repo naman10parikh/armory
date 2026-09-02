@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:54:13Z"
 ---
 ## What it is
 Enables AI to analyze trade quality by fetching real price action around fills, generating annotated candlestick charts, and computing metrics like MAE/MFE, R-multiple, and capture efficiency.

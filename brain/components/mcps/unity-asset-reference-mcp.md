@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:45:13Z"
 ---
 ## What it is
 Indexes Unity project assets into a SQLite reference graph and provides an MCP server for querying asset dependencies, references, unused assets, and broken references.

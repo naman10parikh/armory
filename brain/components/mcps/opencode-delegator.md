@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:29:34Z"
 ---
 ## What it is
 MCP server that delegates code writing, editing, and execution to OpenCode, allowing AI assistants to focus on decision-making.

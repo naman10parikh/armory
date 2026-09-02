@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T12:44:40Z"
 ---
 ## What it is
 Acts as an anonymizing proxy between AI agents and databases, detecting PII and replacing it with realistic fake data so agents never see real data.

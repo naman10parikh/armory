@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T01:27:34Z"
 ---
 ## What it is
 Local, encrypted password vault with AES-256-GCM and PBKDF2, exposing MCP tools for secure credential management, password generation, and search.

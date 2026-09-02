@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:11:39Z"
 ---
 ## What it is
 Enables querying internal documents indexed in Glean through a natural-language chat interface, returning answers with cited sources.

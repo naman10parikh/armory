@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T09:37:12Z"
 ---
 ## What it is
 MCP server that wraps PinchTab's HTTP API for browser automation, enabling AI agents to control Chrome via actions like navigation, clicking, typing, and screenshots.

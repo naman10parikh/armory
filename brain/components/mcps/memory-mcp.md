@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:43:30Z"
 ---
 ## What it is
 Persistent project memory for AI models and coding agents. Memory MCP stores architecture, decisions, tasks, warnings, preferences, and session state in Supabase so OpenCode, Claude Code CLI, Qwen Code, Codex, or any MCP-compatible client can resume work without losing context.

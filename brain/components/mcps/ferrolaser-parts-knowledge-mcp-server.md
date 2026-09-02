@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T08:36:56Z"
 ---
 ## What it is
 Provides structured knowledge about fiber laser machine parts and components, enabling AI assistants to answer questions about specifications, alarm codes, wiring, and consumables from official manuals.

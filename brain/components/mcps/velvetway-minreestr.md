@@ -8,10 +8,12 @@ source_url: https://github.com/velvetway/minreestr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T23:01:49Z"
 ---
 ## What it is
 MCP server `Russian Software Catalog`, catalogued on PulseMCP. Search Russia's official software catalog (каталогпо.рф) to discover domestic software alternatives and FSTEC/FSB-certified products.

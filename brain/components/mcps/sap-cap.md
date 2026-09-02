@@ -8,10 +8,12 @@ source_url: https://github.com/cap-js/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-08-27T16:23:34Z"
 ---
 ## What it is
 MCP server `SAP CAP`, catalogued on PulseMCP. AI-assisted development of SAP Cloud Application Programming Model applications.

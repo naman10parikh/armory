@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:53:03Z"
 ---
 ## What it is
 Open-source, self-hosted translation management system with an MCP server that enables AI agents to manage projects, locales, keys, and translations via natural language, and includes a CLI for deterministic file syncing.

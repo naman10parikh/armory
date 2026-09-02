@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T22:43:14Z"
 ---
 ## What it is
 Enables AI agents to create and manage crypto crowdfunding campaigns on Fundchain.ai, including creating campaigns, checking status, and donating via x402 protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:50:13Z"
 ---
 ## What it is
 Computes biorhythm values (physical, emotional, intellectual) and generates a PNG chart showing sine curves based on birth date and optional target date.

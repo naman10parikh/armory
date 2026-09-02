@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T01:48:01Z"
 ---
 ## What it is
 A commit-aware code context manager for LLMs that indexes Git repositories into a multi-tier knowledge hierarchy (repo overviews, file summaries, symbol details) with SQLite vector search, serving context via the Model Context Protocol.

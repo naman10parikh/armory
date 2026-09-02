@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T05:20:39Z"
 ---
 ## What it is
 MCP server `SSH Remote (Xiyueyy)`, catalogued on PulseMCP. Executes remote commands and transfers files over SSH with configurable authentication, whitelisting, and AstrBot admin validation.

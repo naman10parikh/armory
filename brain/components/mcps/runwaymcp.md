@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:23:19Z"
 ---
 ## What it is
 runwayMCP enables job seekers to evaluate US job postings by automatically checking a company's H-1B sponsorship history using real USCIS data, helping them avoid wasting time on roles that won't sponsor visas.

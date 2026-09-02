@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:39:28Z"
 ---
 ## What it is
 Secure file exchange MCP server enabling AI agents to upload, share, fetch, and revoke files with SHA-256 verification, malware scanning, expiry, access restrictions, and human approval workflows.

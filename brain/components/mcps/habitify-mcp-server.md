@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-08T17:14:50Z"
 ---
 ## What it is
 Enables AI assistants to manage Habitify habits, journals, moods, and notes through the Habitify API, with tools for adding, deleting, and retrieving habit logs and other data.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-02T13:50:58Z"
 ---
 ## What it is
 MCP server `Aider Multi-Coder`, catalogued on PulseMCP. Provides a bridge between Aider pair programming tool and AI models, enabling parallel execution of multiple coding tasks with configurable file access permissions and comprehensive error handling.

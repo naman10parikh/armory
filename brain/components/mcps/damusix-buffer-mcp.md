@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:26:02Z"
 ---
 ## What it is
 Manage posts, channels, organizations, and ideas through any MCP-compatible LLM client.

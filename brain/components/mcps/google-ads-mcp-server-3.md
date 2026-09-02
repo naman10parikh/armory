@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T08:02:07Z"
 ---
 ## What it is
 Connects MCP clients to the Google Ads API v23, enabling account listing, GAQL queries, campaign management, and performance reporting through natural language.

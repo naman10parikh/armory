@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:47:46Z"
 ---
 ## What it is
 Provides geometry utilities like hypotenuse calculation and shape registration, allowing users to perform geometry operations through natural language in VS Code.

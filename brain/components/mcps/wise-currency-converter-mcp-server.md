@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T03:57:35Z"
 ---
 ## What it is
 Provides currency conversion using the Wise API, supporting real-time and historical rates with caching and cross-rate calculation.

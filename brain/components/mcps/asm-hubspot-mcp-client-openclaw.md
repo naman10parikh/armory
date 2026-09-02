@@ -8,11 +8,13 @@ source_url: https://github.com/jnorberg/asm-hubspot-mcp-client-openclaw
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T03:05:07Z"
 ---
 ## What it is
 Bridges AI assistants to HubSpot CRM via OAuth2.1+PKCE, enabling tool access through OpenClaw or stdio MCP.

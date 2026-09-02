@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-05T15:42:16Z"
 ---
 ## What it is
 Enables exploration and decompilation of Minecraft source code, allowing users to list versions, search classes, and decompile .class files on-the-fly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:06:37Z"
 ---
 ## What it is
 An MCP server suite for administering LiteLLM gateways, exposing tools to manage models, keys, teams, users, and spending, along with an admin GUI and an encrypted reverse proxy for secure access.

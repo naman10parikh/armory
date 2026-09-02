@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-30T10:57:44Z"
 ---
 ## What it is
 MCP server `Opendata.cat`, catalogued on PulseMCP. Search and query 2,800+ datasets from Catalan public institutions including the Generalitat and Barcelona councils.

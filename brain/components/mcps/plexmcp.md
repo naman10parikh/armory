@@ -8,10 +8,12 @@ source_url: https://github.com/plexmcp/plexmcp-oss
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-09T13:26:20Z"
 ---
 ## What it is
 MCP server `PlexMCP`, catalogued on PulseMCP. Self-hostable orchestration platform providing centralized management, routing, and multi-tenant access control for multiple MCP servers with enterprise-grade security and billing integration.

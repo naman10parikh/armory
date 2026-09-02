@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T08:58:09Z"
 ---
 ## What it is
 Enables AI applications to interact with Tableau through tools for querying data, exploring content, and retrieving views.

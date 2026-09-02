@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T17:05:07Z"
 ---
 ## What it is
 MCP server that exposes AI credit usage data from OpenMeter to the TAIS AI chat service, automatically scoped to the calling tenant and restricted to admin users.

@@ -8,10 +8,12 @@ source_url: https://github.com/tinker-lgd2026/cls-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-02T12:53:45Z"
 ---
 ## What it is
 MCP server `Tencent Cloud Log Service`, catalogued on PulseMCP. Tencent Cloud Log Service integration with 37 observability tools.

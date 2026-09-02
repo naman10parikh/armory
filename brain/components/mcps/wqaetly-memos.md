@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-15T15:58:40Z"
 ---
 ## What it is
 MCP server `MemOS`, catalogued on PulseMCP. MCP server for MemOS local memory management, providing tools to add, search, delete, and manage memory entries and user profiles.

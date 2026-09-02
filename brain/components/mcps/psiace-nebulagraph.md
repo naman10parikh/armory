@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-17T16:04:17Z"
 ---
 ## What it is
 MCP server `NebulaGraph`, catalogued on PulseMCP. Provides a lightweight server for seamless access to NebulaGraph 3.x graph databases, enabling graph schema exploration, query execution, and advanced graph-based operations like path finding and neighbor discovery.

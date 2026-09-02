@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:04:44Z"
 ---
 ## What it is
 Official remote MCP server for searching, analyzing, and monitoring channels and publications in the MAX messenger.

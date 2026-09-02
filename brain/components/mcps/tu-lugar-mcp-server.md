@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:25:08Z"
 ---
 ## What it is
 Search real estate listings, development projects, companies, and market data in Paraguay and Latin America directly from any MCP client.

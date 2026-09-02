@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:12:39Z"
 ---
 ## What it is
 Local TypeScript MCP server for creating authorized song-practice projects for GarageBand. It enables users to create practice workspaces from MIDI, generate bar practice assets, and open projects in GarageBand.

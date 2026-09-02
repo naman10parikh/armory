@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T23:45:24Z"
 ---
 ## What it is
 MCP server that exposes OSSEC HIDS security monitoring capabilities as tools, resources, and prompts for AI assistants.

@@ -8,10 +8,12 @@ source_url: https://github.com/itspecialist111/microsoftgraph_transcript_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-28T12:03:40Z"
 ---
 ## What it is
 MCP server `Microsoft Teams Transcripts`, catalogued on PulseMCP. Retrieves and cleans Microsoft Teams meeting transcripts via Microsoft Graph API with delegated OAuth 2.0 On-Behalf-Of authentication.

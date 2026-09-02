@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:45:57Z"
 ---
 ## What it is
 MCP server for Google NotebookLM that lets AI agents chat with notebooks, add sources, generate audio overviews, and extract citations via a real Chrome browser.

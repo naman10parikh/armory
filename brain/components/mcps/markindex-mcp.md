@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T12:49:12Z"
 ---
 ## What it is
 Enables LLMs to accurately navigate and retrieve information from complex documents using Page Index RAG methodology.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T10:45:52Z"
 ---
 ## What it is
 An MCP server that provides read-only snapshots and change detection for Xiaomi smart home devices, enabling AI clients to get structured home status with a single call.

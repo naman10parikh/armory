@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T15:26:00Z"
 ---
 ## What it is
 Enables interactive chat with AI models via Anthropic API, supporting document retrieval and extensible command-based tool integrations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T10:28:12Z"
 ---
 ## What it is
 A lightweight MCP server that provides offline text-to-speech via native OS speech engines. It allows AI assistants to speak task summaries instantly with no network calls.

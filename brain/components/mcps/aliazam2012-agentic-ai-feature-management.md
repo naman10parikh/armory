@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-15T23:27:46Z"
 ---
 ## What it is
 MCP server `Agentic AI Feature Management`, catalogued on PulseMCP. Automates feature management by processing Jira webhook tickets to extract structured requests from natural language descriptions and execute feature toggles across customer accounts.

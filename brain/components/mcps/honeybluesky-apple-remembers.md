@@ -8,10 +8,12 @@ source_url: https://github.com/honeybluesky/my-apple-remembers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-07T06:28:46Z"
 ---
 ## What it is
 MCP server `My Apple Remembers`, catalogued on PulseMCP. Enables AI assistants to access and save memories from Apple Notes on remote macOS systems via SSH connections, providing memory recall for notes, calendar events, messages, and files, plus memory persistence with timestamped entries for maintaining context across conversations.

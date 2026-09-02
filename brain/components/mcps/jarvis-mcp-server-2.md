@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:56:28Z"
 ---
 ## What it is
 MCP server providing time retrieval and echo tools, running as an independent network process over Streamable HTTP.

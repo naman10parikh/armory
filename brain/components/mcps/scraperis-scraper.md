@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-02T03:52:01Z"
 ---
 ## What it is
 MCP server `Scraper.is`, catalogued on PulseMCP. Integrates with Scraper.is API to enable web content extraction, structured data parsing, and Markdown conversion for tasks like product research, news aggregation, and content analysis.

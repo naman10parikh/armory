@@ -8,11 +8,13 @@ source_url: https://github.com/LokmenoWer/best-cad-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:12:17Z"
 ---
 ## What it is
 Enables agent-driven CAD automation by inspecting, editing, and validating DWG drawings through a handle-first workflow, with support for visual grounding, CADPlan execution, and local SQLite workspace management.

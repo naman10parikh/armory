@@ -8,10 +8,12 @@ source_url: https://github.com/gsaccardi/dichiarino-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T13:16:50Z"
 ---
 ## What it is
 MCP server `Dichiarino`, catalogued on PulseMCP. Assists with compiling the Italian Modello 730 pre-filled annual income tax return.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T06:33:36Z"
 ---
 ## What it is
 MCP server `Spanning Cloud Backup`, catalogued on PulseMCP. Manage Spanning Cloud Backup for Microsoft 365, Google Workspace, and Salesforce.

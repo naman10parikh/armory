@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T09:10:10Z"
 ---
 ## What it is
 Enables management of Apache Ranger access policies, masking, tag-based policies, roles, users, and groups via agentic workflows with Knox authentication.

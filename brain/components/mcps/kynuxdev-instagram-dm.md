@@ -8,10 +8,12 @@ source_url: https://github.com/kynuxdev/mcp-instagram-dm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T04:04:26Z"
 ---
 ## What it is
 MCP server `Instagram DM`, catalogued on PulseMCP. Read, send, search, and manage Instagram direct messages through AI assistants using cookie-based auth.

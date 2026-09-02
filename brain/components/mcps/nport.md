@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:58:23Z"
 ---
 ## What it is
 MCP server serving a normalized graph of fund holdings and service providers built from SEC Form N-PORT and N-CEN data joined to the GLEIF LEI register. Currently only the ingest layer is implemented, with the MCP server not yet built.

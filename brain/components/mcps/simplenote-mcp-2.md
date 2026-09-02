@@ -8,11 +8,13 @@ source_url: https://github.com/Automattic/simplenote-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-27T18:42:50Z"
 ---
 ## What it is
 Enables AI tools to read and optionally write Simplenote notes via local database or API, supporting offline use on macOS.

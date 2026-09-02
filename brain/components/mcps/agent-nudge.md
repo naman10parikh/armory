@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T22:12:53Z"
 ---
 ## What it is
 A local-first MCP server for AI coding agents that shares structured execution state, routes context deltas, and provides preflight nudges to prevent conflicts and stale decisions.

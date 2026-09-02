@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-21T10:45:34Z"
 ---
 ## What it is
 MCP server `Smart Customer Support`, catalogued on PulseMCP. Automates e-commerce customer support by handling product inquiries, order status requests, and seamlessly transitioning to human agents when needed

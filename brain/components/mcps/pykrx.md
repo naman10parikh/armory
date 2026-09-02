@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-01T02:52:09Z"
 ---
 ## What it is
 MCP server `pykrx`, catalogued on PulseMCP. Provides Korean stock market data from KRX including KOSPI, KOSDAQ, and KONEX prices, fundamentals, and ETF tracking.

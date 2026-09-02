@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 8
+stars: 9
+forks: 0
+pushed_at: "2026-05-13T13:17:32Z"
 ---
 ## What it is
 Free MCP web search server with 5 engines (DuckDuckGo, Bing, Google SerpAPI, Tavily). No API key required. Auto rate limiting, 300s cache, multi-language support. Install: `uvx heventure-search-mcp`.

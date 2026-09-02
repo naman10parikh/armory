@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T14:38:08Z"
 ---
 ## What it is
 An MCP server for managing the Zopio framework with scenario-based setup, allowing users to install, start, stop, and check status of specific applications like web, API, and email, with Turkish language support and beginner tutorials.

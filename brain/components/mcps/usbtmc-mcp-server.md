@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:14:02Z"
 ---
 ## What it is
 Enables controlling multiple USBTMC (USB Test and Measurement Class) devices simultaneously using SCPI commands through a unified MCP interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:42:21Z"
 ---
 ## What it is
 A remote MCP server that lets LLM agents reason over a user's real financial data using the user's own Supabase JWT for security, offering tools for reading accounts, transactions, spending summaries, and drafting rules with human approval.

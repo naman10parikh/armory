@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:44:28Z"
 ---
 ## What it is
 MCP server that provides tools to interact with SNU eTL (Canvas LMS), including viewing courses, assignments, announcements, grades, downloading and organizing course files, with persistent local storage and automatic sync.

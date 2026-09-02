@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T22:10:53Z"
 ---
 ## What it is
 Controls Oculus Browser via WebSocket CDP protocol, enabling full browser automation with Playwright-like API for navigation, interaction, content extraction, and more.

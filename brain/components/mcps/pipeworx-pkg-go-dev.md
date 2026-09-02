@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:33:03Z"
 ---
 ## What it is
 MCP server `pkg.go.dev`, catalogued on PulseMCP. Go module and package documentation via the Go proxy API through Pipeworx's managed gateway.

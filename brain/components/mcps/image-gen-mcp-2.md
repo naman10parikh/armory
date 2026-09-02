@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:10:51Z"
 ---
 ## What it is
 Generates and edits images via OpenAI's gpt-image-2, saving them directly to specified file paths for production assets like banners and icons.

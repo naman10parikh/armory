@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:17:59Z"
 ---
 ## What it is
 A standalone Model Context Protocol server for Microsoft OneNote desktop, connecting via the Windows COM API through a PowerShell bridge to enable page CRUD, search, export, and organization tools without an API key.

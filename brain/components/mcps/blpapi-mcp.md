@@ -8,11 +8,13 @@ source_url: https://github.com/djsamseng/blpapi-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-04-19T09:26:10Z"
 ---
 ## What it is
 Enables access to Bloomberg financial data via MCP, requiring a Bloomberg Terminal.

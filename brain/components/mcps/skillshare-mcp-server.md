@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T06:11:22Z"
 ---
 ## What it is
 An MCP server that enables AI agents to interact with the SkillShare registry, including searching, reading, creating, and managing resources like skills, MCP configurations, and notes.

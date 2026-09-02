@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:22:40Z"
 ---
 ## What it is
 Schedule, manage, generate, and analyze social posts across 11 networks (Instagram, TikTok, X, LinkedIn, YouTube, Facebook, Pinterest, Threads, Bluesky, Mastodon, Telegram) from any AI agent — 13 tools covering scheduling, media upload, AI caption generation, best-times, analytics, listening, and co

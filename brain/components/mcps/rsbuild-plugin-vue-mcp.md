@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:49:31Z"
 ---
 ## What it is
 This server runs inside an Rsbuild or Rspack dev server to expose MCP tools for inspecting and editing live Vue component state, component trees, Vue Router info, and Pinia stores.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T13:10:02Z"
 ---
 ## What it is
 Provides an instant MongoDB MCP server that can be used from any AI agent without local installation.

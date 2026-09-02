@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T10:16:11Z"
 ---
 ## What it is
 MCP server giving Claude full control over ElevenLabs Conversational AI agents, conversations, knowledge base, tools, tests, telephony, and workspace settings.

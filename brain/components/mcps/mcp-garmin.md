@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:16:17Z"
 ---
 ## What it is
 MCP server for Garmin Connect that provides read-only access to daily health metrics, activities, workouts, and body composition data.

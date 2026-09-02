@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:09:24Z"
 ---
 ## What it is
 A thin stdio client that proxies to the Second Eyes API, enabling wallet-equipped agents to pay via x402 and receive deterministic verdicts.

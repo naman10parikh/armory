@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:33:43Z"
 ---
 ## What it is
 A read-only MCP server that enables searching and extracting to-dos from local macOS WeChat chat databases. It decrypts and queries local WeChat data without sending messages or modifying databases.

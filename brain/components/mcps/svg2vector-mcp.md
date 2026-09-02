@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-19T17:39:45Z"
 ---
 ## What it is
 MCP server for converting SVG files to Android Vector Drawable XML, enabling seamless integration with Figma MCP for Android development.

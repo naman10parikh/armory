@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:05:53Z"
 ---
 ## What it is
 Enables querying real-time and historical server performance metrics (CPU, memory, disk IO, load, TCP) from Prometheus via Node Exporter.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
 stars: 4
+forks: 4
+pushed_at: "2026-01-28T21:58:50Z"
 ---
 ## What it is
 MCP server providing AI assistants with access to Dota 2 statistics via OpenDota API. 20+ tools for player stats, hero data, and match analysis with natural language support.

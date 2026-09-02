@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:13:16Z"
 ---
 ## What it is
 MCP server that wraps the Vast.ai REST API to enable LLM agents to search GPU marketplace, rent machines, manage instance lifecycle, run commands, and inspect billing.

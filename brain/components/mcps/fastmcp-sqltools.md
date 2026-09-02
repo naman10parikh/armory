@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-06T19:30:22Z"
 ---
 ## What it is
 Provides SQL database access via MCP, supporting PostgreSQL, MySQL, and SQLite with tools for listing tables, getting schemas, and executing queries.

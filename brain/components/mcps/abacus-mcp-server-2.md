@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-30T16:51:25Z"
 ---
 ## What it is
 Enables AI-driven first-principles calculations for quantum chemistry and materials science using ABACUS, with tools for SCF, structure optimization, molecular dynamics, band structure, and intelligent parameter suggestions.

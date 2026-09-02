@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:58Z"
 ---
 ## What it is
 MCP server that provides read-only access to consult unified certificates from Brazilian Federal Justice courts, with a single tool that queries official sources via a hosted HTTP单词actually means horse 🌚 symbol for dragon 🔥 , without requiring platform credentials and on a prepaid per-*se u. ( des

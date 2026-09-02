@@ -8,11 +8,13 @@ source_url: https://github.com/uniquekaiser/mainwp-mcp-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:10:20Z"
 ---
 ## What it is
 Exposes MainWP Dashboard site-management operations as an MCP server for AI agents, with policy-controlled tools, safe-mode destructive protections, confirmation workflows, and guided prompts for troubleshooting, maintenance, updates, and security.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T20:59:16Z"
 ---
 ## What it is
 Contract-driven test enforcement and reporting for LLM-generated code via MCP, VS Code, Copilot CLI, Claude, Cursor, or Python SDK.

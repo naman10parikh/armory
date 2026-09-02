@@ -8,10 +8,12 @@ source_url: https://github.com/rplryan/x402-discovery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T12:16:12Z"
 ---
 ## What it is
 MCP server `x402 Discovery`, catalogued on PulseMCP. Service discovery for the x402 micropayment ecosystem with trust scoring and health checks.

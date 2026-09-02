@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T21:10:44Z"
 ---
 ## What it is
 MCP server `Objekt Upload`, catalogued on PulseMCP. File storage for AI agents with CDN, IPFS, and Arweave options, accessible via MCP, REST, or CLI.

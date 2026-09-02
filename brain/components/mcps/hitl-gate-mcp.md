@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T11:10:56Z"
 ---
 ## What it is
 Human-in-the-Loop approval gate for AI agents to assess risky operations and require user approval via Cursor forms.

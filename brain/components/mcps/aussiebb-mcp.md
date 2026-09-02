@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:39:27Z"
 ---
 ## What it is
 MCP server for Aussie Broadband NBN diagnostics, enabling AI assistants to run connection tests, check outages, speed tests, and fault tickets via the MyAussie API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:19:02Z"
 ---
 ## What it is
 An MCP server that replicates Sonarr/Radarr/Lidarr functionality driven by an LLM, enabling automated torrent management for TV shows and movies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T20:33:07Z"
 ---
 ## What it is
 Provides AI agents with direct access to Polyrank's skill analytics for Polymarket, including leaderboards, trader skill metrics, calibration, market consensus, and live activity tracking.

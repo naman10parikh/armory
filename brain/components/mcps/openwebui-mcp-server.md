@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-26T18:28:06Z"
 ---
 ## What it is
 Connects Claude to Open WebUI, enabling chat management, RAG knowledge bases, files, functions, and prompts directly from Claude.

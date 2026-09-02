@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-22T18:45:20Z"
 ---
 ## What it is
 MCP server `Mobile Development Validator`, catalogued on PulseMCP. Enforces structured development practices for mobile projects by validating code architecture, preventing oversized files, and detecting breaking changes across Flutter, React Native, iOS, and Android platforms.

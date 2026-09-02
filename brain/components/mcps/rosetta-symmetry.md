@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T05:49:53Z"
 ---
 ## What it is
 MCP server `Rosetta Symmetry`, catalogued on PulseMCP. Generates symmetry definition files from protein structures for computational modeling of symmetric protein complexes, supporting non-crystallographic, crystallographic, and helical symmetries with customizable parameters.

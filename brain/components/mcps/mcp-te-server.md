@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-08T03:32:50Z"
 ---
 ## What it is
 MCP proxy server for ThinkingEngine with automatic browser-based authentication. Automates the login → token extraction → proxy flow so you never need to manually copy tokens.

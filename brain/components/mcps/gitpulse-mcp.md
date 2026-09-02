@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T04:50:12Z"
 ---
 ## What it is
 Exposes GitHub engineering-analytics tools to LLM clients, enabling queries about code review bottlenecks, stale PRs, and commit hygiene.

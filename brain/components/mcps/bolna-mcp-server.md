@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T04:36:18Z"
 ---
 ## What it is
 Manage voice AI agents, make calls, run campaigns, and control phone numbers through natural language.

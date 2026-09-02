@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T04:32:50Z"
 ---
 ## What it is
 A job queue-based FFmpeg wrapper enabling AI assistants to perform video processing tasks such as trimming, format conversion, resolution change, and subtitle conversion through natural language.

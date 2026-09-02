@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T19:10:35Z"
 ---
 ## What it is
 MCP server `A2A ADK MCP Pipeline`, catalogued on PulseMCP. Multi-agent pipeline combining A2A protocol, Google ADK, and MCP for secure database query processing with PII masking.

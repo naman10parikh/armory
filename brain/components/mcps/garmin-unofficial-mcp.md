@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:04:25Z"
 ---
 ## What it is
 A local, read-only MCP server that gives Claude access to your Garmin health and training data, exposing tools for health snapshots, training status, run details, body metrics, and training analysis.

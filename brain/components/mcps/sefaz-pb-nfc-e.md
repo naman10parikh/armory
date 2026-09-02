@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:33Z"
 ---
 ## What it is
 Provides read-only access to official SEFAZ PB NFC-e (Brazilian electronic invoice) data via a single query tool, enabling natural language consultation from any MCP-compatible client.

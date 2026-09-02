@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-08T20:28:50Z"
 ---
 ## What it is
 Enables semantic search over your Cursor IDE chat history by vectorizing prompts and storing them in LanceDB. Provides a Dockerized API to perform vector similarity searches against your chat history.

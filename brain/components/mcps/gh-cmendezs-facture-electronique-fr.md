@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T13:01:12Z"
 ---
 ## What it is
 MCP server `Facture Électronique France`, catalogued on PulseMCP. Implements AFNOR XP Z12-013 standard for French electronic invoicing with flow and directory service tools.

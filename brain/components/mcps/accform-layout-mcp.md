@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:45:46Z"
 ---
 ## What it is
 Local MCP server and CLI for Access layout files, rendered to SVG without Microsoft Access. Enables visual verification of form/report layout changes.

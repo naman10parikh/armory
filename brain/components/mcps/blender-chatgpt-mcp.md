@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T06:14:23Z"
 ---
 ## What it is
 An MCP server that enables AI assistants like Codex or ChatGPT to inspect and control a local Blender scene, including creating objects, editing materials, setting cameras and lights, rendering previews, and saving safe copies of .blend files.

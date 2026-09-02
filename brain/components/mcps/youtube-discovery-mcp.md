@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:00:29Z"
 ---
 ## What it is
 Enables discovering YouTube videos across multiple languages with personalized recommendations, feedback, and explanation of results, using YouTube Data API v3.

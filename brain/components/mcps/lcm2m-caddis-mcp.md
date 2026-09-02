@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:30:38Z"
 ---
 ## What it is
 Enables read-only access to LCM2M Caddis VM2M API for equipment, runs, telemetry, alarms, etc., via MCP tools.

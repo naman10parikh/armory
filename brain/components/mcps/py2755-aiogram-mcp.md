@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 3
+forks: 0
+pushed_at: "2026-03-16T04:23:54Z"
 ---
 ## What it is
 MCP server middleware for aiogram Telegram bots — 30 tools, 7 resources, 3 prompts covering messaging, rich media, moderation, interactive keyboards, real-time event streaming, rate limiting, permissions, and audit logging.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T07:54:10Z"
 ---
 ## What it is
 MCP server `Health Check AI`, catalogued on PulseMCP. Tools for performing and reporting system health checks and monitoring status.

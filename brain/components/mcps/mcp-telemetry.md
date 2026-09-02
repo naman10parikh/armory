@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:24:42Z"
 ---
 ## What it is
 Streams live progress from long-running MCP tool calls to any connected client. Instrument a tool call with mcp-telemetry-sdk, and telemetry_subscribe pushes its steps, logs, cost, and completion over notifications/progress — no polling, and a job started in one session can be watched from a differe

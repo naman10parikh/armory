@@ -8,10 +8,12 @@ source_url: https://github.com/tomtom-international/tomtom-maps-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-09-01T07:16:40Z"
 ---
 ## What it is
 MCP server `TomTom`, catalogued on PulseMCP. Integrates with TomTom's location services APIs to provide geocoding, reverse geocoding, POI search, routing with waypoints, reachable range calculations, traffic incident data, and static map generation for building location-aware applications.

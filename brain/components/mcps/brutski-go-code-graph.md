@@ -8,10 +8,12 @@ source_url: https://github.com/brutski/go-code-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-17T00:51:48Z"
 ---
 ## What it is
 MCP server `Go Code Graph`, catalogued on PulseMCP. Analyzes Go codebases using AST parsing and Neo4j graph storage to enable natural language queries about code structure, dependencies, architectural patterns, and refactoring impact through interactive visualization and conversational interfaces.

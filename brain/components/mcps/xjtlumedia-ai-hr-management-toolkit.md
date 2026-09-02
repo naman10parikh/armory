@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-05T12:50:41Z"
 ---
 ## What it is
 MCP server `AI HR Management Toolkit`, catalogued on PulseMCP. Twenty-four MCP tools for resume parsing, skill extraction, and applicant tracking system management.

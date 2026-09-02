@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:04:44Z"
 ---
 ## What it is
 Provides Claude with read-only access to your WhatsApp chat history entirely on your local machine, enabling natural language search, summarization, and retrieval of messages without sending data to the cloud.

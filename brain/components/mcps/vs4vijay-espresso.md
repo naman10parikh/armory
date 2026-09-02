@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-06T19:02:44Z"
 ---
 ## What it is
 MCP server `Espresso Testing Framework`, catalogued on PulseMCP. Integrates with Espresso testing framework to enable automated Android application testing through test execution, result analysis, and mobile UI interaction capabilities.

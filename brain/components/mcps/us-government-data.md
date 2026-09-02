@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:33:08Z"
 ---
 ## What it is
 Search official US government data from any MCP client: building permits from 10 city open-data portals, federal contract opportunities from SAM.gov with contracting-officer contacts, and the CMS NPI healthcare-provider registry. Open-source TypeScript server; data delivered via Apify's pay-per-resu

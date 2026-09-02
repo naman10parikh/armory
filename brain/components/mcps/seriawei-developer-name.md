@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-18T12:22:39Z"
 ---
 ## What it is
 MCP server `Developer Name`, catalogued on PulseMCP. Provides customizable developer information through a lightweight Node.js server that can be run via npx command or deployed as a Docker container.

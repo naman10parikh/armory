@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:06:08Z"
 ---
 ## What it is
 Searches rule34.xxx posts by tag through the site's API, returning each post's page, file, dimensions, score, rating, and full tag list along with the total match count. It requires a user's rule34.xxx API key and user ID to operate.

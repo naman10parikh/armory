@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-03T04:25:55Z"
 ---
 ## What it is
 Automatically extracts actionable methodologies from articles and URLs, stores them in a vector database, and retrieves relevant methods to enhance user prompts for more effective AI interactions.

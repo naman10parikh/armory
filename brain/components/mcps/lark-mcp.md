@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:21:44Z"
 ---
 ## What it is
 Enables AI assistants to interact with Feishu/Lark Open Platform APIs for tasks like document processing, chat management, and calendar scheduling.

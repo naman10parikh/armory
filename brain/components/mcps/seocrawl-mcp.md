@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T08:17:27Z"
 ---
 ## What it is
 SEO + GEO MCP server: live Google Search Console & GA4 data, keyword and page analysis, AI-visibility tracking across ChatGPT, Claude, Gemini & Perplexity, site audit and SEO task management — all from chat.

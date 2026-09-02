@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-10T16:59:59Z"
 ---
 ## What it is
 MCP server `Directus`, catalogued on PulseMCP. Integrates with Directus CMS instances to manage content, schema, files, workflows, and user permissions through CRUD operations, automation triggers, and dynamic prompt management.

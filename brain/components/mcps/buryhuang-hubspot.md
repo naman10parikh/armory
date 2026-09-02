@@ -8,10 +8,12 @@ source_url: https://github.com/baryhuang/mcp-hubspot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 124
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 60
+pushed_at: "2025-11-11T18:22:30Z"
 ---
 ## What it is
 MCP server `HubSpot`, catalogued on PulseMCP. Integrates with HubSpot CRM to enable AI-driven contact and company management, lead processing, and automated data analysis.

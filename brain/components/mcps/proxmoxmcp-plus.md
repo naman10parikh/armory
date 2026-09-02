@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T00:22:38Z"
 ---
 ## What it is
 Enables comprehensive management of Proxmox virtualization environments, including VM and container lifecycle, snapshots, backups, monitoring, and OpenAPI integration.

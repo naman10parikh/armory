@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:28:07Z"
 ---
 ## What it is
 MCP server for OrcaTrace, a pay-per-call Polymarket intelligence feed for AI agents. It provides tools to track smart money, whale entries with calibration, market repricings, and digests across 42K prediction markets, with payments settled via x402 on Base.

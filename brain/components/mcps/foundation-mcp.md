@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:10:18Z"
 ---
 ## What it is
 Atom-first long-term memory server for MCP clients with durable knowledge storage, hybrid search, typed relations, and context packing for AI prompts.

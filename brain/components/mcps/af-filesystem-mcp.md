@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:31:43Z"
 ---
 ## What it is
 Gives Analysis Facility users read-only browse, read, stat, and grep access to their own files on shared NFS home and Ceph data areas, with kernel-enforced per-user permissions.

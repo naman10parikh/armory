@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-09T03:55:19Z"
 ---
 ## What it is
 MCP server `Gemini Nanobanana (Image Generation)`, catalogued on PulseMCP. Integrates with Google's Gemini 2.5 Flash Image API to provide text-to-image generation, single image editing with prompts, multi-image composition, and style transfer capabilities with automatic file saving and collision handling.

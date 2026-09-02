@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-31T10:27:46Z"
 ---
 ## What it is
 MCP server `NPM Helper`, catalogued on PulseMCP. Provides specialized tools for searching npm packages, fetching documentation, checking outdated dependencies, and safely upgrading Node.js packages with version constraint management

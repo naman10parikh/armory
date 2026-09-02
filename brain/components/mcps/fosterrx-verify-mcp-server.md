@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:16:50Z"
 ---
 ## What it is
 Enables read-only verification of Foster Rx certificates against the public Ed25519 trust anchor, returning verdicts such as verified, signature_invalid, not_found, or tool_fault, and also allows retrieval of certificate records and trust anchor material.

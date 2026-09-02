@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:02:57Z"
 ---
 ## What it is
 Universal CLI and MCP server providing unified payment links, customer prefilling, expiring checkouts, refund management, fee comparison, and HMAC-verified webhook proxying across Stripe, Razorpay, and LemonSqueezy.

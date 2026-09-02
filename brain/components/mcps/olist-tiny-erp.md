@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:49Z"
 ---
 ## What it is
 Read-only MCP server for Olist Tiny ERP, enabling querying of products, inventory, orders, invoices, accounts, contacts, shipping, purchase orders, CRM, and price lists via the official REST API v3.

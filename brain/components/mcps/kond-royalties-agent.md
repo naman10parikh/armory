@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T01:33:03Z"
 ---
 ## What it is
 MCP server for querying artist royalty performance in Brazilian Portuguese, using natural language, charts, and PDF reports from a Postgres database.

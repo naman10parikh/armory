@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-21T07:26:48Z"
 ---
 ## What it is
 Enables AI assistants to manage Apache Ambari clusters, including services, hosts, alerts, and configurations via the MCP protocol.

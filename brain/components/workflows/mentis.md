@@ -8,11 +8,13 @@ source_url: https://github.com/foreveryh/mentis
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 297
+stars: 296
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
+forks: 23
+pushed_at: "2025-05-16T21:50:40Z"
 ---
 ## What it is
 A powerful multi-agent orchestration framework built on LangGraph

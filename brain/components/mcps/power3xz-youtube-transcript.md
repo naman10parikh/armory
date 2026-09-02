@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T13:10:58Z"
 ---
 ## What it is
 MCP server `YouTube Transcript`, catalogued on PulseMCP. Retrieves and processes YouTube video transcripts and playlist metadata, enabling content analysis without manual transcription or viewing.

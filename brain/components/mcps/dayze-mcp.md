@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:39:10Z"
 ---
 ## What it is
 Hosted people and life-in-days knowledge API for AI agents, providing notable packs with day-of-life numbers, similar people, and birthday peers.

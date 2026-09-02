@@ -8,11 +8,13 @@ source_url: https://github.com/alvinindra/figma-mcp-rust
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-08-19T10:34:46Z"
 ---
 ## What it is
 An MCP server that enables AI tools to read and write Figma designs via a plugin bridge, bypassing the Figma REST API and rate limits.

@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-07-24T14:38:51Z"
 ---
 ## What it is
 MCP server `AWS EC2 Pricing`, catalogued on PulseMCP. Provides real-time AWS EC2 instance pricing data with powerful filtering capabilities for cost optimization and infrastructure planning

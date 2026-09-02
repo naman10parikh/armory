@@ -8,10 +8,12 @@ source_url: https://github.com/mihailo2501/potter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-26T14:01:18Z"
 ---
 ## What it is
 MCP server `Potter`, catalogued on PulseMCP. MCP server providing B2B GTM research tools for LinkedIn data, web scraping, and decision-maker discovery.

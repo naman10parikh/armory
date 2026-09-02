@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:02:39Z"
 ---
 ## What it is
 Provides fully local, privacy-preserving semantic search over file names and paths via MCP, using BGE embeddings for fuzzy matching and supporting incremental updates, watch mode, and a loopback-only HTTP server.

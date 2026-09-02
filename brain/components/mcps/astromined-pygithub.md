@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-13T05:31:13Z"
 ---
 ## What it is
 MCP server `PyGithub`, catalogued on PulseMCP. Integrates with GitHub's API through PyGithub to enable repository management, issue tracking, and pull request operations with automatic authentication, rate limiting, and error recovery.

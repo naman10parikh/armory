@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 29
+pushed_at: "2026-06-30T08:59:54Z"
 ---
 ## What it is
 MCP server for web search powered by Google AI Mode (Gemini). Enables any AI agent to search the web in real-time for free and without rate limits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:49:51Z"
 ---
 ## What it is
 Model Context Protocol server that bridges design and development, giving AI assistants complete access to Figma for extraction, creation, debugging, and bidirectional token sync.

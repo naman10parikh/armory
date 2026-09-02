@@ -8,10 +8,12 @@ source_url: https://github.com/coleam00/mcp-crawl4ai-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2165
+stars: 2246
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 579
+pushed_at: "2025-07-25T15:17:13Z"
 ---
 ## What it is
 MCP server `Crawl4AI RAG`, catalogued on PulseMCP. Integrates web crawling with RAG functionality to enable website content retrieval, storage in vector databases, and semantic searching over crawled data for enhanced knowledge access

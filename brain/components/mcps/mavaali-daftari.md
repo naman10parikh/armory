@@ -8,10 +8,12 @@ source_url: https://github.com/mavaali/daftari
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:45:23Z"
 ---
 ## What it is
 MCP server `Daftari`, catalogued on PulseMCP. Provides a curated markdown knowledge vault with hybrid search, RBAC, and git provenance tracking.

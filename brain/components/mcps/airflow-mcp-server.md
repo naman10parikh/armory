@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:33:55Z"
 ---
 ## What it is
 Enables Claude to inspect and operate Apache Airflow over its REST API, providing read tools and safe write operations (gated by read-only mode) for managing DAGs, runs, tasks, and pools.

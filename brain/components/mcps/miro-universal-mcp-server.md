@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:35:21Z"
 ---
 ## What it is
 This repository contains an implementation of an Miro Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Miro's tools and services through a unified API.

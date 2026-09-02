@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-13T21:11:37Z"
 ---
 ## What it is
 MCP server `Tavily Search`, catalogued on PulseMCP. Integrates Tavily's AI-powered search capabilities to provide web searches with AI-generated summaries and result caching for up-to-date information retrieval.

@@ -8,10 +8,12 @@ source_url: https://github.com/samuraikun/aws-s3-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-02-14T10:37:26Z"
 ---
 ## What it is
 MCP server `AWS S3`, catalogued on PulseMCP. Provides direct access to Amazon S3 storage for listing buckets, browsing objects, and retrieving file contents with automatic text extraction from PDFs and other file types.

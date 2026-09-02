@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-14T09:21:49Z"
 ---
 ## What it is
 A server that provides translation capabilities using TranslationX API, enabling users to translate files and content through natural language commands.

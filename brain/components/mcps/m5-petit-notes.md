@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:10:57Z"
 ---
 ## What it is
 A note-taking MCP server for Claude-based agents that provides persistent markdown files for easily referable notes, supporting create, read, update, append, and delete operations.

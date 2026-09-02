@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T07:42:18Z"
 ---
 ## What it is
 Enables calendar management via Infomaniak's API, allowing users to list calendars, search events, and create events.

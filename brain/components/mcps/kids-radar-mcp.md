@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:58:27Z"
 ---
 ## What it is
 MCP server for Kids Experience Radar, enabling users to search and retrieve local kids experience events and programs from verified official sources with location-based filtering and daily digest support.

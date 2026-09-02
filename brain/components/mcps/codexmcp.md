@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-15T17:19:09Z"
 ---
 ## What it is
 A FastMCP server that wraps OpenAI Codex CLI to provide AI-powered code generation, refactoring, and documentation via a standardized API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:38:43Z"
 ---
 ## What it is
 Enables AI agents to analyze Screaming Frog SEO Spider crawl files directly, offering SEO audits, issue summaries, custom SQL queries, and comparisons without manual exports.

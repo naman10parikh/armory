@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-01-25T16:19:56Z"
 ---
 ## What it is
 MCP server `Outlook Email Processor`, catalogued on PulseMCP. Integrates with Outlook to provide email processing, semantic search, and metadata storage capabilities using MongoDB and SQLite, enabling advanced analysis and retrieval of email data in Windows environments.

@@ -8,10 +8,12 @@ source_url: https://github.com/zhound420/d365fo-claude-connector
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T18:26:27Z"
 ---
 ## What it is
 MCP server `Dynamics 365 F&O Connector`, catalogued on PulseMCP. Multi-environment Microsoft Dynamics 365 Finance and Operations access with OData queries, aggregation, and CRUD operations.

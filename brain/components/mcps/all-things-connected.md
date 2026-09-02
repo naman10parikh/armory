@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, knowledge-research]
+forks: 0
+pushed_at: "2025-10-17T14:01:22Z"
 ---
 ## What it is
 Knowledge connection system

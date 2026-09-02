@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:51:21Z"
 ---
 ## What it is
 Automates generation of Work Breakdown Structure (WBS) diagrams and project documents. Supports Mermaid, PNG, and .docx export for project MINTRANET.

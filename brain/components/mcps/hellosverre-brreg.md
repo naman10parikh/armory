@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T17:22:15Z"
 ---
 ## What it is
 MCP server `Brønnøysund Business Registry`, catalogued on PulseMCP. Norwegian business registry lookup, search, and role queries via the Brønnøysund open API.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-03T06:42:56Z"
 ---
 ## What it is
 MCP server `Lark Bitable`, catalogued on PulseMCP. Connects to Lark Bitable for SQL-like querying of structured data, enabling table listing, schema inspection, and read operations using Lark API credentials.

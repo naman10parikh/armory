@@ -8,10 +8,12 @@ source_url: https://github.com/windymelt/mcp-scala
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-11T01:34:53Z"
 ---
 ## What it is
 MCP server `JSON-RPC 2.0`, catalogued on PulseMCP. Type-safe JSON-RPC 2.0 server implementation in Scala 3 that enables structured communication between assistants and backend services with comprehensive error handling.

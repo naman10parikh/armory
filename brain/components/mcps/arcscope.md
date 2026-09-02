@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:16:18Z"
 ---
 ## What it is
 A local MCP server that gives AI coding agents symbol definitions, dependency graphs, and a live architecture vocabulary for TypeScript/JavaScript repos, with no network or embeddings.

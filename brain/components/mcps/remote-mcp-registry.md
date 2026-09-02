@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-09T11:37:28Z"
 ---
 ## What it is
 MCP server `Remote Registry`, catalogued on PulseMCP. Search and retrieve information from the official MCP registry

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:53:17Z"
 ---
 ## What it is
 Connects an AI assistant to local Docker and Kubernetes environments, enabling real-time command execution and log inspection with user approval.

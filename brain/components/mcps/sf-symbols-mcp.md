@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T18:42:25Z"
 ---
 ## What it is
 An MCP server that helps AI agents pick the right SF Symbol for a UI function without hallucinating symbol names, using layered retrieval and verified catalog entries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:40:15Z"
 ---
 ## What it is
 A governance MCP server that lets employees use natural language to safely execute batch operations on the be2 product backend, featuring draft-only human approval, identity pass-through, and full audit trails.

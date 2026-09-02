@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T05:11:58Z"
 ---
 ## What it is
 MCP server for EU AI Act compliance, providing risk classification of AI features and Article 50 transparency notices.

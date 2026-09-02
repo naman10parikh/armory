@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/uniswap-trader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-07T17:23:28Z"
 ---
 ## What it is
 MCP server `Uniswap Trader`, catalogued on PulseMCP. Enables AI-driven cryptocurrency trading on Uniswap across multiple blockchains, providing tools for price quotes, optimal routing, and transaction management for automated trading strategies.

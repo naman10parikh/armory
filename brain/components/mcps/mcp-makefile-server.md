@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-03T11:27:01Z"
 ---
 ## What it is
 Exposes Makefile targets as MCP tools, allowing AI agents to execute project automation tasks like build, test, and deploy through natural language.

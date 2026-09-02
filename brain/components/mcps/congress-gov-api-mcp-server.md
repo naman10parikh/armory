@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-01T21:33:31Z"
 ---
 ## What it is
 Enables querying U.S. legislative data from Congress.gov API using MCP resources for direct lookups and tools for searching and retrieving related data.

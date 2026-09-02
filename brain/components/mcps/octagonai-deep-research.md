@@ -8,10 +8,12 @@ source_url: https://github.com/octagonai/octagon-deep-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-02-09T21:48:47Z"
 ---
 ## What it is
 MCP server `Octagon Deep Research`, catalogued on PulseMCP. Integrates with Octagon API to provide multi-source data aggregation, web scraping, academic research synthesis, competitive analysis, market intelligence, technical analysis, policy research, and trend analysis for professional-grade research capabilities.

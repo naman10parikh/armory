@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:41:19Z"
 ---
 ## What it is
 Read-only MCP server for searching and listing components in Nexus Repository Manager 3 (Docker, Maven, npm, PyPI, etc.) with tools for repositories, components, Docker tags, and latest version.

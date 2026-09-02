@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:05:45Z"
 ---
 ## What it is
 MCP server for rendering Object-Process Methodology (OPM) models from YAML to SVG diagrams and OPL sentences, with validation and generation capabilities.

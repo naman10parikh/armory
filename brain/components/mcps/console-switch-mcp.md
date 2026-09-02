@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T11:35:17Z"
 ---
 ## What it is
 Enables control of network switches via serial console ports, supporting Huawei, H3C, and Cisco devices for command execution and configuration.

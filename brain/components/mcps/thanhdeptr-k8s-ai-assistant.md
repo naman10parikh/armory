@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-15T08:22:09Z"
 ---
 ## What it is
 MCP server `Kubernetes AI Assistant`, catalogued on PulseMCP. Integrates with Kubernetes clusters through kubectl and Helm to provide unified resource management, diagnostics, and operations with configurable safety controls for production environments.

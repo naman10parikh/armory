@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:05:32Z"
 ---
 ## What it is
 A fully local MCP server that provides web search via self-hosted SearXNG and page-to-markdown conversion (static and JS-rendered), all aggregated behind a single endpoint for use with AI assistants.

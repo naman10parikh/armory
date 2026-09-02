@@ -8,11 +8,13 @@ source_url: https://github.com/frappe/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 157
+stars: 159
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 52
+pushed_at: "2026-05-29T08:46:55Z"
 ---
 ## What it is
 Allows Frappe Framework apps to function as MCP servers, exposing Python-defined tools for LLM interaction.

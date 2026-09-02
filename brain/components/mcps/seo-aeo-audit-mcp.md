@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:16:39Z"
 ---
 ## What it is
 Generates a comprehensive 5-section PDF audit for any website covering SEO, AEO, technical, authority, and AI visibility using Ahrefs, CrUX, and OpenAI.

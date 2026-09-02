@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:52:49Z"
 ---
 ## What it is
 Vector illustration tools for AI agents — create scenes, characters, and graphics with shapes, armatures, materials, and rendering.

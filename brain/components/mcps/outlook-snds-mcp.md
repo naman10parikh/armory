@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:49:24Z"
 ---
 ## What it is
 Brings Outlook.com Smart Network Data Services (SNDS) API into MCP clients, allowing users to query IP reputation data such as volume, complaint rates, and spam verdicts using natural language.

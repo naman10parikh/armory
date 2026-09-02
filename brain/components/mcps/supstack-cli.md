@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:09:48Z"
 ---
 ## What it is
 Evidence-based supplement intelligence in your terminal, exposed as an MCP server for AI agents to research, compare, stack, and manage supplements.

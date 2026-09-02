@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:45:46Z"
 ---
 ## What it is
 Builds a local, citation-aware wiki from an approved project scope and exposes it as an MCP server with a single read-only tool for agents to explore the wiki.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T10:51:39Z"
 ---
 ## What it is
 MCP server `Llama Swap`, catalogued on PulseMCP. Hot-swap llama.cpp models in a running Claude Code session without losing conversation context.

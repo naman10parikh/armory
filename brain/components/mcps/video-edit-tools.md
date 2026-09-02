@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-15T04:49:47Z"
 ---
 ## What it is
 Enables AI agents to perform deterministic video editing operations like trim, resize, add text, and more using MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/automations-project/vscode-airtable-formula
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-03T17:01:04Z"
 ---
 ## What it is
 MCP server `Airtable User`, catalogued on PulseMCP. Community MCP server for Airtable with 30 tools for schema inspection, field CRUD, view configuration, and formula validation.

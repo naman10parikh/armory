@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T16:40:57Z"
 ---
 ## What it is
 MCP server with built-in Google OAuth 2.0 authentication, enabling secure tool access via Google sign-in with automatic token lifecycle management and optional domain restriction for Google Workspace organizations.

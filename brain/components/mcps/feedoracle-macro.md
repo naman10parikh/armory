@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T10:24:47Z"
 ---
 ## What it is
 MCP server `FeedOracle Macro`, catalogued on PulseMCP. Real-time macroeconomic signals for AI trading agents with 86 FRED series and deterministic regime classification.

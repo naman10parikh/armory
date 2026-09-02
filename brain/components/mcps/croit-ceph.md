@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-14T16:33:08Z"
 ---
 ## What it is
 MCP server `Croit Ceph`, catalogued on PulseMCP. Integrates with Croit platform's OpenAPI to dynamically generate tools for Ceph cluster management operations including storage administration, monitoring, and configuration through automatically fetched API specifications.

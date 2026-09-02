@@ -8,10 +8,12 @@ source_url: https://github.com/jonathanfischer97/juliadoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-07T19:01:29Z"
 ---
 ## What it is
 MCP server `Julia Documentation`, catalogued on PulseMCP. Integrates Julia documentation and source code retrieval for quick reference and exploration within AI workflows.

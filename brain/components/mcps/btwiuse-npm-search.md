@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-02-20T23:48:35Z"
 ---
 ## What it is
 MCP server `Npm Search`, catalogued on PulseMCP. Enables npm package searches via CLI, facilitating JavaScript library discovery and dependency management

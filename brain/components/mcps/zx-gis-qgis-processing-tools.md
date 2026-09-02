@@ -8,10 +8,12 @@ source_url: https://github.com/zx-gis/qgistoolmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-19T06:21:31Z"
 ---
 ## What it is
 MCP server `QGIS Processing Tools`, catalogued on PulseMCP. Provides access to QGIS processing algorithms through 14 specialized servers handling vector analysis, raster processing, buffer operations, and GDAL tools with isolated subprocess execution.

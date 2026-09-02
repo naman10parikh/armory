@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T01:02:17Z"
 ---
 ## What it is
 Enables natural language control of Blender via Claude by converting MCP JSON-RPC calls to Blender's custom TCP protocol for scene manipulation, object creation, and Python execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:21:47Z"
 ---
 ## What it is
 Provides MCP tools to migrate or compress conversation sessions between models based on context window capacity, including querying model context windows and listing known models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:30Z"
 ---
 ## What it is
 Provides read-only consultation of official SEFAZ Paraíba negative debt certificates, enabling users to check tax debt status via a single tool.

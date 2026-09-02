@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:13:03Z"
 ---
 ## What it is
 MCP server for Zoho Mail that enables searching, reading, sending, and managing email messages across folders via natural language.

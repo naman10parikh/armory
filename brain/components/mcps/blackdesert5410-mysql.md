@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-21T12:56:19Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Connects to MySQL databases through command-line credentials for secure database operations, query execution, and schema management without exposing connection details in configuration files.

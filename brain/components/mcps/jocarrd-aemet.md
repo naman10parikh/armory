@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T04:23:04Z"
 ---
 ## What it is
 MCP server `AEMET Spain Weather`, catalogued on PulseMCP. Spanish weather data from AEMET OpenData: forecasts, CAP warnings, and station observations.

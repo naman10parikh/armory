@@ -8,10 +8,12 @@ source_url: https://github.com/bv-venky/excalidraw-architect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 109
+stars: 147
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-25T19:10:17Z"
 ---
 ## What it is
 MCP server `Excalidraw Architect`, catalogued on PulseMCP. Generates Excalidraw architecture diagrams with automatic hierarchical layout, technology-aware styling for 50+ components, and stateful editing through natural language.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T19:24:42Z"
 ---
 ## What it is
 MCP server `Llama Local LLM`, catalogued on PulseMCP. Bridges MCP clients with local LLM models via llama-server or Ollama for GPU-accelerated text and code generation.

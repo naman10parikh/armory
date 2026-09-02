@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:11:02Z"
 ---
 ## What it is
 Enables hybrid semantic and full-text search over OpenClaw documentation, with tools for chunk navigation, page outlines, and index statistics.

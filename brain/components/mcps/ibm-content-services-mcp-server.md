@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T05:31:28Z"
 ---
 ## What it is
 Enables AI models to interact with IBM FileNet Content Manager for document lifecycle management, metadata extraction, legal holds, and AI-powered search, summaries, and Q\&A.

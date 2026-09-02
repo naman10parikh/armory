@@ -8,10 +8,12 @@ source_url: https://github.com/attalla1/photopea-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-05T10:24:10Z"
 ---
 ## What it is
 MCP server `Photopea`, catalogued on PulseMCP. Enables AI-driven image editing through Photopea's browser-based design application with 34 specialized tools.

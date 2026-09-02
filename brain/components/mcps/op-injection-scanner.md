@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T09:28:48Z"
 ---
 ## What it is
 An MCP server for prompt injection boundary enforcement that scans URL content using a tiered LLM model strategy.

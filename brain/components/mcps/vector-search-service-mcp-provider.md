@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T02:50:06Z"
 ---
 ## What it is
 A clean architecture backend API that registers and semantically searches data using vector embeddings, acting as an MCP context provider to connect AI models to external data.

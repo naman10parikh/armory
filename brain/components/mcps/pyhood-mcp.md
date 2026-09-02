@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T17:02:02Z"
 ---
 ## What it is
 Connect your Robinhood account to Claude Code (or any MCP client) for conversational portfolio management and automated trading.

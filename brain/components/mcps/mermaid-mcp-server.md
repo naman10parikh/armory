@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-01T15:56:08Z"
 ---
 ## What it is
 Provides MCP tools to validate Mermaid diagram syntax, render diagrams to SVG, and get documentation links.

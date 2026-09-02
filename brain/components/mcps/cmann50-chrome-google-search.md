@@ -8,10 +8,12 @@ source_url: https://github.com/cmann50/mcp-chrome-google-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-01T21:41:02Z"
 ---
 ## What it is
 MCP server `Google Search (via Chrome)`, catalogued on PulseMCP. Integrates Google search and webpage content extraction via Chrome browser automation, enabling access up-to-date web information for tasks like fact-checking and research.

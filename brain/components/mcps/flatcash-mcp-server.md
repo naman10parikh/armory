@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:08:45Z"
 ---
 ## What it is
 Enables AI agents to buy, hold, and transfer CPI-pegged FLAT stablecoin without wallets or gas. Provides tools for earning through tasks, trading, and managing balances via MCP.

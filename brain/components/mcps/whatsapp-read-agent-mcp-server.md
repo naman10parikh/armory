@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:23:37Z"
 ---
 ## What it is
 Enables read-only access to your own WhatsApp history and attachments via the Model Context Protocol, allowing AI assistants to enumerate chats, page history deterministically, and retrieve approved attachment bytes.

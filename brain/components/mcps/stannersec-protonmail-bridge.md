@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-19T05:27:33Z"
 ---
 ## What it is
 MCP server `ProtonMail Bridge`, catalogued on PulseMCP. Integrates with ProtonMail through Proton Bridge to enable encrypted email operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-08T18:06:20Z"
 ---
 ## What it is
 Connects to Jira with Xray Test Management to extract test cases related to tickets and list test executions.

@@ -8,11 +8,13 @@ source_url: https://github.com/krisgnyc/bitslicer-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:33:58Z"
 ---
 ## What it is
 Safety-bounded MCP server bridging Codex to Bit Slicer's memory inspection engine on macOS ARM64, enabling process attach, memory reads, scans, pointer chains, and disassembly with explicit approval.

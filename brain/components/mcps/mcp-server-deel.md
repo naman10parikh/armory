@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T14:30:49Z"
 ---
 ## What it is
 A production-quality MCP server for the Deel API that enables managing global HR, payroll, contractors, invoices, payments, and compliance through 48 tools.

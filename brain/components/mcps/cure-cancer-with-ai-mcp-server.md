@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:44:02Z"
 ---
 ## What it is
 Provides oncology data (research, news, FDA approvals, clinical trials) and IBM MAMMAL biomedical predictions (PPI, DTI, ClinTox) as MCP tools. Allows AI agents to query cancer datasets and run predictions through a remote MCP server.

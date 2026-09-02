@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-28T21:36:51Z"
 ---
 ## What it is
 MCP server `WordPress`, catalogued on PulseMCP. Enables AI interaction with WordPress sites through secure authentication and REST API endpoint discovery, allowing content management and data retrieval without manual API configuration.

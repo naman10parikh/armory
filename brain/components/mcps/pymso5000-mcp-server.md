@@ -8,11 +8,13 @@ source_url: https://github.com/mabl/pyMSO5000
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:19:10Z"
 ---
 ## What it is
 Enables AI agents to control Rigol MSO5000 oscilloscopes through VISA, including acquisition, channels, trigger, timebase, waveform generator, display, and front-panel controls, with risk-based permission gating for direct SCPI operations.

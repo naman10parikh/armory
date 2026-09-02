@@ -8,10 +8,12 @@ source_url: https://github.com/hyunjae-labs/lore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-13T04:37:54Z"
 ---
 ## What it is
 MCP server `Lore`, catalogued on PulseMCP. Semantic search across Claude Code conversations using hybrid vector and keyword search, fully local with no API keys required.

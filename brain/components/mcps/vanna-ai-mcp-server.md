@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-27T12:12:20Z"
 ---
 ## What it is
 An MCP server that uses Vanna AI and Azure OpenAI to translate natural language questions into SQL queries and execute them against a SQLite financial database, with detailed logging and cost tracking.

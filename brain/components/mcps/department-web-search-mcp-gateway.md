@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T01:28:39Z"
 ---
 ## What it is
 A self-hosted web-search gateway that reuses a single logged-in browser session to handle intranet/SSO logins once, providing web_search and read_webpage tools for any MCP client.

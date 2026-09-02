@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T14:10:26Z"
 ---
 ## What it is
 Enables orchestrating data quality checks, transformation, and deduplication pipelines via an MCP interface. Offers tools for listing pipeline stages, validating wiring, running the full check-transform-match pipeline, and explaining configurations.

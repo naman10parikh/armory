@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-16T08:23:56Z"
 ---
 ## What it is
 MCP server `Random Generation`, catalogued on PulseMCP. Provides diverse random generation utilities including UUIDs, numbers, strings, passwords, and more.

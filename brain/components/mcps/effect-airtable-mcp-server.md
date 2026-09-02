@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T21:38:33Z"
 ---
 ## What it is
 A production-ready MCP server for Airtable that enables programmatic management of bases, tables, fields, and records through Claude Desktop or other MCP clients using Effect for type-safe and robust API interactions.

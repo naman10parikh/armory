@@ -8,10 +8,12 @@ source_url: https://github.com/deepwired/mcp-jira
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T02:20:03Z"
 ---
 ## What it is
 MCP server `Jira (Scoped Tokens)`, catalogued on PulseMCP. Manage Jira Cloud issues, projects, and workflows using modern scoped API tokens with server-side scope enforcement.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:48:22Z"
 ---
 ## What it is
 Enables LLMs to process, validate, and analyze XBRL financial filings with tools for filing operations, fact extraction, taxonomy exploration, and SEC EDGAR integration.

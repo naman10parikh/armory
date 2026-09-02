@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-01T19:35:25Z"
 ---
 ## What it is
 Provides full access to the ZenHub GraphQL API. Enables project management operations like creating issues, epics, workspaces, and sprints through natural language.

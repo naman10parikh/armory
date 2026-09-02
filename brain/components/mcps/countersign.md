@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:37:54Z"
 ---
 ## What it is
 Kill switch + spend guard for AI agents that spend money: one policy, one sub-second freeze, and one signed audit ledger across every wallet vendor at once (Coinbase, Turnkey, Openfort + cards). Tools include a pre-flight request_spend guard, freeze, apply_policy, ledger, and x402/AP2 payment-mandat

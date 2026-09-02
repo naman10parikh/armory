@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:41Z"
 ---
 ## What it is
 Provides agent-ready access to Curve's DeFi protocol via MCP, with hosted, free, and no-auth endpoints that map to real Curve API endpoints.

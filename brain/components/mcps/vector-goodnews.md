@@ -12,6 +12,8 @@ stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-07-17T21:16:49Z"
 ---
 ## What it is
 MCP server `GoodNews`, catalogued on PulseMCP. Filters and ranks news articles from NewsAPI based on positive sentiment, delivering uplifting headlines amid potentially negative media cycles.

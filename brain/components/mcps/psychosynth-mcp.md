@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T11:33:38Z"
 ---
 ## What it is
 Psychosynth is an agent-native, on-chain psychometric data marketplace. It delivers high-variance, human-curated personality profiles and profile-conditioned behavioral responses to autonomous systems. Settle transactions query-by-query in USDC on Base using the x402 micro-payment protocol—completel

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:26:59Z"
 ---
 ## What it is
 An MCP server that lets an AI assistant design a trade-show or vending-event floor plan from plain language, including placing booths, ensuring fire-code aisles, assigning vendors, validating for overlaps, and exporting an SVG map.

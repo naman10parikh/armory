@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T16:40:25Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that exposes Polestar 2 vehicle data to AI assistants like Claude. Query your car's battery status, vehicle info, and health data through natural conversation.

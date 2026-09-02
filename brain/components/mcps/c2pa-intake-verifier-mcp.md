@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:33:58Z"
 ---
 ## What it is
 A hosted remote MCP server for verifying C2PA intakes, classifying source risk, issuing media receipts, and exporting intake logs. Designed for AI governance, trust and safety, and compliance teams.

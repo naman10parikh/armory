@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T10:42:13Z"
 ---
 ## What it is
 Enables LLMs to fetch real-time weather data for any city and perform basic arithmetic operations like addition.

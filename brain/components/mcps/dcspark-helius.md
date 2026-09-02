@@ -8,10 +8,12 @@ source_url: https://github.com/dcspark/mcp-server-helius
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-30T18:34:16Z"
 ---
 ## What it is
 MCP server `Helius (Solana Blockchain)`, catalogued on PulseMCP. Integrates with the Helius API to provide real-time Solana blockchain data access, enabling wallet balance checks and block height retrieval for blockchain monitoring and analysis.

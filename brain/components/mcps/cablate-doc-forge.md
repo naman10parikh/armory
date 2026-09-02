@@ -8,10 +8,12 @@ source_url: https://github.com/cablate/mcp-doc-forge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-02T01:29:22Z"
 ---
 ## What it is
 MCP server `Document Forge`, catalogued on PulseMCP. Integrates document processing libraries to enable extraction, conversion, and manipulation across multiple file formats including PDF, DOCX, HTML, CSV, and EPUB.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T05:43:47Z"
 ---
 ## What it is
 Enables browser automation using Playwright, allowing LLMs to interact with web pages, take screenshots, generate test code, scrape web pages, and execute JavaScript in a real browser environment.

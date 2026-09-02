@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-26T05:32:07Z"
 ---
 ## What it is
 An MCP server that provides tools for querying Swedish monetary-policy data from Sveriges Riksbank, including GDP, unemployment, CPI, and policy rates, enabling LLMs and clients to fetch economic indicators and forecasts.

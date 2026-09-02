@@ -8,11 +8,13 @@ source_url: https://github.com/wandb/weave
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1121
+stars: 1123
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
+forks: 166
+pushed_at: "2026-09-02T00:20:12Z"
 ---
 ## What it is
 W&B Weave provides lightweight LLM tracing, evaluation, and dataset management with first-class support for OpenAI, Anthropic, and LangChain.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:37:53Z"
 ---
 ## What it is
 Enables AI agents to safely operate Express applications through a permission-scoped MCP server, with static analysis and audit logging.

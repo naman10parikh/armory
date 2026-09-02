@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-08T02:29:36Z"
 ---
 ## What it is
 MCP server for UNICEF child development statistics. Query 790+ child-focused indicators across 200+ countries with disaggregations by sex, age, wealth quintile, and residence. No API key required.

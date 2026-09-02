@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T20:35:32Z"
 ---
 ## What it is
 Operational MCP server for Agent Resources, enabling Trust Card lookup, signed telemetry, memory operations, and signing-key management.

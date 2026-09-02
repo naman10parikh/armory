@@ -8,11 +8,13 @@ source_url: https://github.com/sera-cx/sera-mcp-v2
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-09-01T16:35:47Z"
 ---
 ## What it is
 Enables AI assistants to query market data, check balances, execute swaps, and manage orders on the Sera stablecoin exchange platform through natural language.

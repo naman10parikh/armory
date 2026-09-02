@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:26Z"
 ---
 ## What it is
 Consulta o histórico de multas de trânsito da Polícia Rodoviária Federal por RENAVAM, incluindo canceladas, em aberto ou pagas, via uma ferramenta somente leitura.

@@ -8,10 +8,12 @@ source_url: https://github.com/mrphrazer/binary-ninja-headless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 206
+stars: 242
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-05-20T10:45:30Z"
 ---
 ## What it is
 MCP server `Binary Ninja Headless`, catalogued on PulseMCP. Exposes Binary Ninja's disassembly, decompilation, and analysis capabilities through 181 tools for headless reverse engineering workflows.

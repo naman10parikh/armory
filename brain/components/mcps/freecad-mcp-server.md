@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-02T15:58:16Z"
 ---
 ## What it is
 Enables AI assistants to perform 3D modeling and CAD operations in FreeCAD, including geometry creation, boolean operations, and document management.

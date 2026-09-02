@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:10:00Z"
 ---
 ## What it is
 Enables interaction with GLPI (ITSM) through 71 tools covering tickets, assets, problems, changes, knowledge base, projects, users, and more, using SSE or stdio transport.

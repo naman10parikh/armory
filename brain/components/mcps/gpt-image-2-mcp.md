@@ -8,11 +8,13 @@ source_url: https://github.com/Borys520/gpt-image-2-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-11T09:46:15Z"
 ---
 ## What it is
 Exposes OpenAI's gpt-image-2 (image generation and editing) as an MCP server for tools like generate_image, edit_image, and iterative edit sessions.

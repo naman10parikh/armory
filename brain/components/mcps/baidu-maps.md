@@ -8,10 +8,12 @@ source_url: https://github.com/baidu-maps/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 427
+stars: 440
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2025-08-22T03:30:09Z"
 ---
 ## What it is
 MCP server `Baidu Maps`, catalogued on PulseMCP. Integrates with Baidu Maps API for location-based operations including geocoding, route planning, and location search within the Baidu Maps ecosystem.

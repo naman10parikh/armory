@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-01T03:55:05Z"
 ---
 ## What it is
 Provides MCP tools for high-performance computing (HPC) and converged computing, enabling agentic interactions with HPC resources and workflows.

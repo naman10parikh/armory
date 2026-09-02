@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T11:13:47Z"
 ---
 ## What it is
 MCP server `MoviePilot`, catalogued on PulseMCP. Manage subscriptions, downloads, and media search in MoviePilot.

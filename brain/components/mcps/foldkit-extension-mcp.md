@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:51:03Z"
 ---
 ## What it is
 Exposes foldkit's 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources for MCP clients like Claude Code, Claude Desktop, Cursor, Cline, and Windsurf.

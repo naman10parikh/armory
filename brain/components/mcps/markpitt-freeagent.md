@@ -8,10 +8,12 @@ source_url: https://github.com/markpitt/freeagent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-04T23:48:53Z"
 ---
 ## What it is
 MCP server `FreeAgent`, catalogued on PulseMCP. Integrates with FreeAgent API to enable time tracking management, including timeslip and timer operations for project tracking and reporting.

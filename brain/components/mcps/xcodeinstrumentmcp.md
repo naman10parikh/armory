@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T23:33:21Z"
 ---
 ## What it is
 Local-first CLI and MCP server for turning Xcode Instruments artifacts into bounded, agent-sized evidence, with support for analyses like Time Profiler, Allocations, Network, and more.

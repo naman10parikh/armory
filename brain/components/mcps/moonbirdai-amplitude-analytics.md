@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-17T17:07:39Z"
 ---
 ## What it is
 MCP server `Amplitude Analytics`, catalogued on PulseMCP. Track analytics events in Amplitude, supporting custom events, page views, user properties, and revenue tracking.

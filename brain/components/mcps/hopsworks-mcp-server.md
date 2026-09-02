@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-18T06:15:40Z"
 ---
 ## What it is
 Enables LLMs to interact with Hopsworks for platform management, feature store operations, model lifecycle, jobs, and integrations.

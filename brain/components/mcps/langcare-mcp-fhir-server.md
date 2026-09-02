@@ -8,11 +8,13 @@ source_url: https://github.com/langcare/langcare-mcp-fhir
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-04-14T16:47:04Z"
 ---
 ## What it is
 Enterprise-grade MCP Server for FHIR-based EMRs. Enables AI agents to read, search, create, and update any FHIR R4 resource across major EHR systems like EPIC, Cerner, and OpenEMR.

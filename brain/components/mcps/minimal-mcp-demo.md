@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:20:42Z"
 ---
 ## What it is
 This MCP server demonstrates basic Model Context Protocol architecture by exposing a get_weather tool that returns fake weather data, communicating over stdio.

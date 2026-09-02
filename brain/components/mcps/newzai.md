@@ -8,10 +8,12 @@ source_url: https://github.com/gauraviitkgp/news-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T05:18:07Z"
 ---
 ## What it is
 MCP server `NewzAI`, catalogued on PulseMCP. Real-time headlines and custom news search across 7 regions, free with Google sign-in.

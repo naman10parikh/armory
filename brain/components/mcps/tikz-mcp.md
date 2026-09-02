@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T08:49:11Z"
 ---
 ## What it is
 Compiles TikZ code into high-resolution PNG images, enabling AI assistants to render and preview LaTeX/TikZ diagrams during conversations.

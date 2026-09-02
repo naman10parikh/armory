@@ -8,10 +8,12 @@ source_url: https://github.com/ashex/atproto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-08T15:46:49Z"
 ---
 ## What it is
 MCP server `AT Protocol Documentation`, catalogued on PulseMCP. Searchable knowledge base for the AT Protocol ecosystem including protocol documentation, lexicon schemas, Bluesky developer API docs, and cookbook examples powered by semantic search.

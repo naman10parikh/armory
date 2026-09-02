@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:06:07Z"
 ---
 ## What it is
 Provides a consolidated 0DTE options cockpit for SPX/SPXW, including chain, Greeks, dealer exposure, volatility term structure, and economic events, using free delayed market data.

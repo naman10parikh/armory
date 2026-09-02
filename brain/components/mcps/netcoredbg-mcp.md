@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T12:57:48Z"
 ---
 ## What it is
 Enables AI coding agents to debug .NET applications with breakpoints, stepping, variable inspection, and GUI automation for WPF, WinForms, and Avalonia apps.

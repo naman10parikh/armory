@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-05T11:31:45Z"
 ---
 ## What it is
 Enables AI assistants to save and recall information from files or free-form notes using natural language, acting as a long-term memory system.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:44:34Z"
 ---
 ## What it is
 MCP server `Australian Economic Data (RBA & ABS)`, catalogued on PulseMCP. MCP server for Australian macroeconomic data from the Reserve Bank of Australia (RBA) and Australian Bureau of Statistics (ABS).

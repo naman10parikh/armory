@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T18:12:42Z"
 ---
 ## What it is
 MCP server `Desktop Notifications`, catalogued on PulseMCP. Sends desktop notifications from AI agents via stdio transport.

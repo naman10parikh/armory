@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T21:08:54Z"
 ---
 ## What it is
 Analyzes npm dependency upgrades to reveal which files and functions in your codebase break, with confidence tiers and transitive call chain tracing.

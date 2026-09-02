@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:11:48Z"
 ---
 ## What it is
 Enables natural-language Q&A over customer support ticket data. Provides tools for schema inspection, SQL-based ticket counts and grouping, and full-text search for customer wording without requiring API keys.

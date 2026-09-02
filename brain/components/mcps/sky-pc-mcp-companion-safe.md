@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:07:37Z"
 ---
 ## What it is
 A local MCP server for the Windows version of Sky: Children of the Light that enables AI clients to read validated game windows, perform local OCR, and send limited game keystrokes or chat text when explicitly permitted.

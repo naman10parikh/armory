@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T09:15:41Z"
 ---
 ## What it is
 Exposes SEO and AI-readability audit tools to AI agents, enabling one-shot anonymous audits or full authenticated audits with PDF reports and organic traffic data.

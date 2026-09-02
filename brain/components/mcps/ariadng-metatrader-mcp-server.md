@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 767
+stars: 785
+forks: 254
+pushed_at: "2026-03-28T18:39:29Z"
 ---
 ## What it is
 Enable AI LLMs to execute trades using MetaTrader 5 platform

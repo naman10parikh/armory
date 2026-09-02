@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-05T18:53:49Z"
 ---
 ## What it is
 MCP server `Droid CLI`, catalogued on PulseMCP. Wraps Factory.ai's Droid CLI for AI-assisted coding tasks with configurable autonomy levels and safety controls.

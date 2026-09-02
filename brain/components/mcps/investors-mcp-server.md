@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T07:08:21Z"
 ---
 ## What it is
 Enables semantic search and ingestion of investor content using Upstash Vector and Vercel Blob storage, with optional filtering by author, company, and date.

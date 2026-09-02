@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-14T14:52:15Z"
 ---
 ## What it is
 MCP server `Chestnyi Znak`, catalogued on PulseMCP. Access Russia's national product marking system for labeling codes, documents, and warehouse balances.

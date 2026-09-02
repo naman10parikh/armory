@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-29T16:18:09Z"
 ---
 ## What it is
 Persistent shared memory for AI coding agents that turns a folder of markdown files into searchable memory across sessions, repos, and machines.

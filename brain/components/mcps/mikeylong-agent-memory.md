@@ -8,10 +8,12 @@ source_url: https://github.com/mikeylong/agent-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-12T06:38:20Z"
 ---
 ## What it is
 MCP server `Agent Memory`, catalogued on PulseMCP. Local-first cross-agent memory layer using SQLite with optional Ollama semantic embeddings for shared durable memory across Codex and Claude Code sessions.

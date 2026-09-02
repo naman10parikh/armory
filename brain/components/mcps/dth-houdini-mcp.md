@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:44:39Z"
 ---
 ## What it is
 MCP server exposing a live Houdini session for inspecting and debugging the DazToHue pipeline, currently providing a read-only ping tool with authenticated, loopback-only access.

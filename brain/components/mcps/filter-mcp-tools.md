@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:57:58Z"
 ---
 ## What it is
 A deterministic MCP tool-list relay that lets operators filter tools by include/exclude rules and exposes a filtered stdio MCP server to local clients.

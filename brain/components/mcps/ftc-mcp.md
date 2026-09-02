@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T08:13:31Z"
 ---
 ## What it is
 MCP server that injects verified FTC documentation and code examples into AI assistants, enabling teams to write correct, competition-ready Java robot code through natural language.

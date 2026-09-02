@@ -8,10 +8,12 @@ source_url: https://github.com/divinci-ai/opus-advisor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T06:13:40Z"
 ---
 ## What it is
 MCP server `Opus Advisor`, catalogued on PulseMCP. Lets Claude Code on Sonnet or Haiku consult Claude Opus as a strategic advisor during complex tasks via the local claude CLI.

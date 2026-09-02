@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-15T17:03:11Z"
 ---
 ## What it is
 Enables natural language interaction with the Dossin database system, allowing users to query trucking and logistics data, execute SQL queries, and compile React components via the backend API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:16:28Z"
 ---
 ## What it is
 Enables agent runtimes to look up, classify, and fetch Hermai schemas as MCP tools, including read-only data retrieval via hosted endpoints (with optional API key).

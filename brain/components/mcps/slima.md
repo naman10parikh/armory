@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T17:08:41Z"
 ---
 ## What it is
 MCP server `Slima`, catalogued on PulseMCP. Connect Slima AI Writing IDE books to any MCP-compatible tool for reading, editing, and AI beta reader feedback.

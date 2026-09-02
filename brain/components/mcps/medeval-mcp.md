@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:55:53Z"
 ---
 ## What it is
 Enables MCP clients to operate MedEval regulatory workspaces, including evidence retrieval, generation, evaluation, and immutable document revisions, all through a local, secure gateway.

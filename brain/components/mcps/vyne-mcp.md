@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:04:01Z"
 ---
 ## What it is
 MCP server for vyne, a Solana DeFi automation engine, enabling creation, testing, and monitoring of multi-step workflows via 32 tools, 11 resources, and guided prompts.

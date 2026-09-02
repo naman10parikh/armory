@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-29T15:32:28Z"
 ---
 ## What it is
 Provides Claude with access to BigTime's time tracking and project management API, enabling retrieval of clients, projects, staff, time entries, and daily totals.

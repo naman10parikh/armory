@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:29:32Z"
 ---
 ## What it is
 A self-hosted, read-only MCP service that searches public YouTube and Bilibili videos and produces compact evidence packages with verified metadata, timestamped captions or ASR, frames, OCR, and contact sheets for ChatGPT/Codex analysis.

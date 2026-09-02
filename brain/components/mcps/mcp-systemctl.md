@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T17:45:06Z"
 ---
 ## What it is
 An MCP server that reports on and manages systemd services using systemctl and journalctl, enabling service listing, status, logs, and control operations.

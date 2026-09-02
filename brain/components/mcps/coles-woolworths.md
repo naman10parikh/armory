@@ -8,10 +8,12 @@ source_url: https://github.com/hung-ngm/coles-woolworths-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-18T11:37:36Z"
 ---
 ## What it is
 MCP server `Coles & Woolworths`, catalogued on PulseMCP. Integrates with Coles and Woolworths APIs to fetch real-time product information and prices, enabling grocery price comparison across Australia's two major supermarket chains for optimized shopping decisions.

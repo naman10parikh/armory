@@ -8,10 +8,12 @@ source_url: https://github.com/antonpme/auralis-commander
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T12:00:35Z"
 ---
 ## What it is
 MCP server `Auralis Commander`, catalogued on PulseMCP. Windows-native system operations server providing shell command execution, file management, process control, and system monitoring through PowerShell and native Windows APIs.

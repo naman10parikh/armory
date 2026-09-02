@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T06:09:33Z"
 ---
 ## What it is
 Provides container shipping intelligence for AI agents, enabling demurrage & detention calculations, local charges, inland haulage rates, and CFS tariffs across multiple shipping lines, with pay-per-request USDC payments via x402.

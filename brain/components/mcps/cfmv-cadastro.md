@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:16Z"
 ---
 ## What it is
 Consulta o cadastro de profissionais no Conselho Federal de Medicina Veterinária (CFMV) em fonte oficial, permitindo verificar registros de médicos-veterinários e zootecnistas via linguagem natural.

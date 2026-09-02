@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:26:26Z"
 ---
 ## What it is
 This MCP server provides a browser-based board for managing threaded feedback sessions with an agent, enabling users to respond to multiple review findings or questions at their own pace with quick replies and batched submission.

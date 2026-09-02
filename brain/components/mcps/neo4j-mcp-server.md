@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-15T23:10:43Z"
 ---
 ## What it is
 Enables interaction with Neo4j databases from the Cursor IDE by executing Cypher queries, managing connections, and retrieving database information.

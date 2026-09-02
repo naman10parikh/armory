@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:14:57Z"
 ---
 ## What it is
 Semantic search and comparative retrieval over a multi-tradition corpus of sacred and foundational texts, exposed as an MCP server.

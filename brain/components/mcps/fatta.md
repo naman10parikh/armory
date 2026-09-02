@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T23:19:17Z"
 ---
 ## What it is
 MCP server for code comprehension indices and test maps. It answers what must be known to change a function and which tests pin its behavior, using compiler type information.

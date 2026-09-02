@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 4
+pushed_at: "2026-08-03T00:21:45Z"
 ---
 ## What it is
 Permissionless wallet infrastructure for AI agents. 29 tools for wallet creation, transaction signing, token transfers, and x402 payments across all EVM chains and Solana. No KYC, no API keys — agents pay with USDC.

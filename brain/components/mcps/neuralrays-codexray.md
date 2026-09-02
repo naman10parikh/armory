@@ -8,10 +8,12 @@ source_url: https://github.com/neuralrays/codexray
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-10T05:00:40Z"
 ---
 ## What it is
 MCP server `CodeXRay`, catalogued on PulseMCP. Semantic knowledge graph that indexes codebases into a local SQLite graph database for dead code detection, impact analysis, hotspot identification, and complexity reporting.

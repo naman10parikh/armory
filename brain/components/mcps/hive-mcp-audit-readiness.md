@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:26:40Z"
 ---
 ## What it is
 Computes multi-jurisdictional AI compliance readiness scores with sourced penalty math, enabling gap analysis and audit tier recommendations.

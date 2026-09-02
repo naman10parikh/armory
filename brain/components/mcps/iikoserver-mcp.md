@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:58:54Z"
 ---
 ## What it is
 Exposes iiko restaurant management system REST API as 42+ LLM-callable tools over stdio, enabling natural language interaction with products, employees, orders, payments, OLAP reports, and assembly charts.

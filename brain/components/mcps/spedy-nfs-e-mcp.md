@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:01:19Z"
 ---
 ## What it is
 Enables issuing, consulting, and listing Brazilian NFS-e invoices through Spedy's API over an authenticated HTTP endpoint.

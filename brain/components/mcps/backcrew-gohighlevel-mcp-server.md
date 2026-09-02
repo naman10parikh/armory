@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:32:08Z"
 ---
 ## What it is
 Enables AI assistants to interact with GoHighLevel CRM via natural language for lead lookup, pipeline management, messaging, and calendar operations, with read-only mode by default.

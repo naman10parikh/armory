@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-27T11:35:11Z"
 ---
 ## What it is
 Enables comprehensive statistical analysis including descriptive statistics, hypothesis testing, regression, and more via a FastMCP-based API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:38:09Z"
 ---
 ## What it is
 MCP server that completes prompts with automatic provider fallback across OpenAI, Anthropic Claude, and Google Gemini. It is rate-limit aware, retries on transient failures, and provides a transparent attempt log.

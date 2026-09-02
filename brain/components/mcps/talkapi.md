@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T16:14:26Z"
 ---
 ## What it is
 Enables conversational API testing via MCP, allowing users to make HTTP requests, decode JWT tokens, and validate JSON schemas through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/retio-ai/retio-pagemap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-21T08:23:20Z"
 ---
 ## What it is
 MCP server `PageMap`, catalogued on PulseMCP. Compresses web pages into structured, actionable maps at 97% fewer tokens while preserving interactive elements for browsing automation.

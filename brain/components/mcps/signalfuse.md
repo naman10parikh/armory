@@ -8,10 +8,12 @@ source_url: https://github.com/hypeprinter007-stack/signalfuse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T21:44:15Z"
 ---
 ## What it is
 MCP server `SignalFuse`, catalogued on PulseMCP. Fused crypto trading signals combining sentiment analysis, macro regime classification, and market structure metrics.

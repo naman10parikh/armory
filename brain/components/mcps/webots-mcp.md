@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T21:12:42Z"
 ---
 ## What it is
 Bridges AI agents with Webots robotics simulation, enabling natural language control of Nao robots and visual perception.

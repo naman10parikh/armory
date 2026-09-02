@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-28T04:57:21Z"
 ---
 ## What it is
 AutoFlow enables AI agents to automate Windows desktop tasks by visually recognizing screen elements and simulating keyboard and mouse actions, with 18 MCP tools for workflow control.

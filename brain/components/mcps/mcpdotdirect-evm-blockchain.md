@@ -8,10 +8,12 @@ source_url: https://github.com/mcpdotdirect/evm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 377
+stars: 379
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 103
+pushed_at: "2026-08-01T15:41:26Z"
 ---
 ## What it is
 MCP server `EVM Blockchain`, catalogued on PulseMCP. Integrates with EVM-compatible blockchains to enable querying data, transferring tokens, reading smart contracts, and resolving ENS names across Ethereum, Optimism, Arbitrum, and Base networks.

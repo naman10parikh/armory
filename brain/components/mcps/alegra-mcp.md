@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-25T02:01:18Z"
 ---
 ## What it is
 Enables querying and managing Alegra inventory and products through natural language, including stock checks and product searches.

@@ -8,10 +8,12 @@ source_url: https://github.com/quantoracledev/quantoracle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-19T01:39:04Z"
 ---
 ## What it is
 MCP server `QuantOracle`, catalogued on PulseMCP. Calculate options pricing, derivatives metrics, and risk management analytics.

@@ -8,11 +8,13 @@ source_url: https://github.com/ForkPoint/agent-lighthouse
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T22:05:11Z"
 ---
 ## What it is
 Enables AI coding agents like Claude and Cursor to audit websites for AI agent readiness, checking 199 rules across agentic discovery, content structure, and technical SEO.

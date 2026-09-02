@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:56:50Z"
 ---
 ## What it is
 Bootstrap MCP server for future data exploration and querying across multiple databases, currently only provides a hello_world tool with no actual data connectivity.

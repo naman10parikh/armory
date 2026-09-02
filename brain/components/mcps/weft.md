@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-02T19:17:53Z"
 ---
 ## What it is
 Enables AI assistants to access and search your local browsing knowledge graph via MCP resources and tools.

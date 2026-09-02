@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:10:50Z"
 ---
 ## What it is
 Enables querying TrustRadius B2B software reviews to extract alternatives considered, feature-level ratings, pros/cons, and business outcomes for competitive intelligence.

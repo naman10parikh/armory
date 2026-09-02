@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-28T04:58:40Z"
 ---
 ## What it is
 An MCP server that automates pull request reviews using multiple LLM providers (OpenAI, Claude, Gemini, Groq, Perplexity) and supports GitHub and Bitbucket with real-time webhook integration and interactive AI assistant commands.

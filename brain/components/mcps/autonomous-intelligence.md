@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:22:28Z"
 ---
 ## What it is
 Enables AI agents to perform workspace file operations (read/write/recover) with transaction-safe guarantees, durable recovery, and explicit human approval via a separate Broker.

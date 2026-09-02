@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:38:55Z"
 ---
 ## What it is
 Local-first CLI + MCP server for meeting recordings - Whisper transcription,

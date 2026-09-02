@@ -8,11 +8,13 @@ source_url: https://github.com/brandonyoungdev/tldx
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1915
+stars: 1919
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 80
+pushed_at: "2026-08-25T04:21:23Z"
 ---
 ## What it is
 An MCP server for tldx that allows AI agents to brainstorm brand names and instantly verify domain availability using lightning-fast, concurrent RDAP lookups.

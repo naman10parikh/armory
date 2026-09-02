@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:45:46Z"
 ---
 ## What it is
 Enables AI agents to visualize tasks on a collaborative Sketchbord whiteboard by composing content into diagrams, editing them incrementally, and reading back the board including user-drawn additions.

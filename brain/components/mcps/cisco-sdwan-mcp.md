@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T23:25:27Z"
 ---
 ## What it is
 An MCP server for Cisco Catalyst SD-WAN that lets LLM clients query fabric inventory, device health, alarms, and path quality from vManage. It is read-only by default, with configuration-changing tools available only when explicitly enabled and requiring human confirmation.

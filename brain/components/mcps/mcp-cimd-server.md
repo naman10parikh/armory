@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:50:22Z"
 ---
 ## What it is
 MCP server that provides a hello world tool and implements server-side CIMD (Client ID Metadata Documents) processing, enabling OAuth authorization servers to fetch and validate client metadata documents with SSRF protections.

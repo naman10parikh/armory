@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T00:26:21Z"
 ---
 ## What it is
 Enables trading on GMO Coin FX through natural language, including placing, modifying, and canceling orders, retrieving account assets, and managing open positions.

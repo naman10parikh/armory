@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-10-08T14:10:00Z"
 ---
 ## What it is
 MCP server `Memos`, catalogued on PulseMCP. Integrates Memos note-taking application to automate note management, organization, and retrieval tasks.

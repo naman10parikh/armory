@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:25:11Z"
 ---
 ## What it is
 Enables Claude Code to interact with network devices over serial and SSH with command safety classification and a persistent knowledge base.

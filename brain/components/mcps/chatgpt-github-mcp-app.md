@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T22:39:03Z"
 ---
 ## What it is
 This MCP server bridges ChatGPT to GitHub, letting you use natural language to read repositories, modify code, create branches, and open pull requests while enforcing security policies like repository whitelists and branch protection.

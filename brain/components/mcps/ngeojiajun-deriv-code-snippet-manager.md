@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-14T13:40:09Z"
 ---
 ## What it is
 MCP server `Code Snippet Manager`, catalogued on PulseMCP. Manages and stores code snippets across languages, enabling creation, listing, and deletion with flexible filtering and tagging.

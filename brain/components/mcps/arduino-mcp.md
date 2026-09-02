@@ -8,11 +8,13 @@ source_url: https://github.com/JShort-bufr/arduino-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:47:33Z"
 ---
 ## What it is
 A local stdio MCP server wrapping arduino-cli to let agents detect boards, manage cores/libraries, compile and upload sketches, and communicate over serial, enabling hardware control without shell gymnastics.

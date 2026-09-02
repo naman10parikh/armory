@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T09:37:15Z"
 ---
 ## What it is
 Provides access to Claude models, message creation, token counting, and batch processing via the Anthropic API with Type 3 DAuth authentication.

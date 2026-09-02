@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T18:06:19Z"
 ---
 ## What it is
 Exposes manimgl mathematical animation functionality as MCP tools, enabling LLMs to create animated scenes with narration and background music, and render to video.

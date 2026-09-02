@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-26T03:42:50Z"
 ---
 ## What it is
 A PyGhidra-based MCP server that exposes Ghidra's reverse engineering capabilities to AI agents, enabling binary analysis via tools like overview, search, view, list, edit, script execution, and version control.

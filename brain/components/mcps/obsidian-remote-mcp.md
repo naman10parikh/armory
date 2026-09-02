@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T18:51:20Z"
 ---
 ## What it is
 Self-hosted MCP server that provides remote AI clients with read and write access to Obsidian vaults over HTTPS without needing the Obsidian desktop app running.

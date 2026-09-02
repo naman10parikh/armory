@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T02:03:22Z"
 ---
 ## What it is
 Enables AI assistants to search, download, and use Pictogrammers icons (Material Design Icons, MDI Light, Memory) with visual coherence by pinning a project to a single library and variant.

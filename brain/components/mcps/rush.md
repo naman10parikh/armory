@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T00:10:09Z"
 ---
 ## What it is
 Agentic code-quality CLI and stdio MCP server that runs real Python and JS/TS quality engines (Ruff, pytest, ESLint, Prettier, Vitest, etc.) for linting, testing, and reviewing code.

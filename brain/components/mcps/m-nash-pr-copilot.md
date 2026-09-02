@@ -8,10 +8,12 @@ source_url: https://github.com/m-nash/pr-copilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-05T20:46:54Z"
 ---
 ## What it is
 MCP server `PR Copilot`, catalogued on PulseMCP. Monitors GitHub pull requests with automated state machine-driven CI checks, review comment handling, merge conflict detection, and TUI dashboard visualization.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T02:45:59Z"
 ---
 ## What it is
 MCP server `Plant Genomics`, catalogued on PulseMCP. Access 32 plant genomics tools across 11 biological databases via MCP.

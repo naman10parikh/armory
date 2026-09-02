@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T23:19:04Z"
 ---
 ## What it is
 Scans text and files for common secrets (AWS, GitHub, etc.) and redacts them to prevent credential leakage in AI-assisted development. Runs entirely locally with no telemetry.

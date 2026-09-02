@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:42:32Z"
 ---
 ## What it is
 Provides AI agents with access to Vruum's AI revenue platform, enabling outbound, deals, pipeline, and CRM automation with 155 tools for searching, managing people, deals, outreach, and engagement, while your AI harness authors all sales and marketing prose.

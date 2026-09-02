@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-14T23:55:14Z"
 ---
 ## What it is
 Provides GraphQL access to Airtable and Google Sheets data, enabling natural language queries for data exploration, schema introspection, and record management.

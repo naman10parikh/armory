@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T23:55:10Z"
 ---
 ## What it is
 Enables answering Formula 1 FAQ questions via vector search and web search using Bright Data.

@@ -8,10 +8,12 @@ source_url: https://github.com/thehesiod/psquare-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-27T21:24:10Z"
 ---
 ## What it is
 MCP server `ParentSquare`, catalogued on PulseMCP. Access ParentSquare school-parent communication platform data including feeds, calendar events, messages, directories, and student information.

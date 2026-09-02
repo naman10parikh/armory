@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T16:54:26Z"
 ---
 ## What it is
 MCP server `myque08 Savvy Scratch`, catalogued on PulseMCP. Access the Savvy Scratch lottery analysis platform through AI assistants, covering scratch-off game data across 19 U.S. states.

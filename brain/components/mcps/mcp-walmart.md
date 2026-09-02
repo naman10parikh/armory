@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-16T04:04:30Z"
 ---
 ## What it is
 Enables AI agents to search products, manage cart, and track orders on Walmart.com via browser automation.

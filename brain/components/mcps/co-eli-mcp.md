@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:55:27Z"
 ---
 ## What it is
 Enables searching and verifying citations of Colombian Constitutional Court decisions using datos.gov.co open data, returning metadata such as magistrate, date, and relatoria URL.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-15T12:14:44Z"
 ---
 ## What it is
 MCP server `Subconscious`, catalogued on PulseMCP. Local-first semantic memory layer for MCP agents with recall, remember, forget, and stats tools backed by ChromaDB.

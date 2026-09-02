@@ -8,11 +8,13 @@ source_url: https://github.com/Dalomeve/codex-chatgpt-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-27T05:46:00Z"
 ---
 ## What it is
 Local MCP bridge enabling ChatGPT web to access approved local files and execute tasks via local Codex.

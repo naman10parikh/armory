@@ -8,10 +8,12 @@ source_url: https://github.com/flagify-com/nmap-mcp-http
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-26T08:19:26Z"
 ---
 ## What it is
 MCP server `Nmap`, catalogued on PulseMCP. Integrates with nmap network scanning tools through HTTP endpoints to perform network discovery, port scanning, and host enumeration with asynchronous task management and configurable timeouts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T21:13:53Z"
 ---
 ## What it is
 Budget management and cost tracking MCP server for autonomous agents, enabling budget creation, cost recording, spending projections, and alert rules.

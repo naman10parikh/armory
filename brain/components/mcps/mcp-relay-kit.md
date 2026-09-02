@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T17:10:59Z"
 ---
 ## What it is
 A unified MCP gateway that reduces context token usage by exposing all services through just two tools (search and execute), supporting built-in services like Asana and Sentry as well as proxied external MCP servers.

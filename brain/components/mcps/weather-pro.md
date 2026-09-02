@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T08:03:11Z"
 ---
 ## What it is
 A production-grade MCP server that provides real-time weather data and demonstrates the complete MCP protocol surface including tools, resources, prompts, and structured output.

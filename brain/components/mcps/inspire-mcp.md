@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:47:03Z"
 ---
 ## What it is
 An MCP server for the INSPIRE-HEP API, enabling literature search, author lookups, DOI/arXiv/ORCID resolution, citation export, and bibliography generation with configurable detail levels.

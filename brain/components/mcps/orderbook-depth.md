@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:51:19Z"
 ---
 ## What it is
 Enables AI agents to analyze Uniswap V3 pool liquidity depth and estimate price impact at 1%, 2%, 5%, and 10% levels before large trades, with pay-per-call micropayments via x402.

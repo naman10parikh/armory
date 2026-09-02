@@ -8,10 +8,12 @@ source_url: https://github.com/artk0de/tearags-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-15T15:35:40Z"
 ---
 ## What it is
 MCP server `TeaRAGs`, catalogued on PulseMCP. Provides semantic code search across large codebases using vector embeddings and AST-aware chunking with git metadata integration for intelligent code discovery and analysis.

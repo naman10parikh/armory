@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:27:04Z"
 ---
 ## What it is
 Enables AI assistants to interact with Vikunja task management via ergonomic and raw REST tools for projects, tasks, labels, and comments.

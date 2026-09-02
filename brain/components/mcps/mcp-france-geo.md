@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:28:50Z"
 ---
 ## What it is
 Provides French address data from DVF, Géorisques, and SSMSI sources, including property prices, risks, and crime statistics.

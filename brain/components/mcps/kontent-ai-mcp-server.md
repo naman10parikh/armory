@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-31T06:24:59Z"
 ---
 ## What it is
 Enables AI tools to manage Kontent.ai content through natural language, supporting content types, items, assets, workflows, and more.

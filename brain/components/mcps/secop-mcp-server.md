@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-15T17:12:33Z"
 ---
 ## What it is
 An MCP server to query Colombian public procurement data from SECOP I and II in real time, enabling contract research, transparency oversight, and data journalism.

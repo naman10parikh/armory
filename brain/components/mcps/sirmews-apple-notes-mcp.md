@@ -8,10 +8,12 @@ source_url: https://github.com/sirmews/apple-notes-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 131
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2024-12-11T08:20:57Z"
 ---
 ## What it is
 MCP server `Apple Notes`, catalogued on PulseMCP. Access and search local Apple Notes databases.

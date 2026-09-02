@@ -8,10 +8,12 @@ source_url: https://github.com/lensesio/lenses-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-25T21:55:06Z"
 ---
 ## What it is
 MCP server `Lenses`, catalogued on PulseMCP. Explore, transform, and join data in Kafka topics across multiple clusters

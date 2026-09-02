@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T15:21:24Z"
 ---
 ## What it is
 MCP server `Pyomo`, catalogued on PulseMCP. MCP server for the Pyomo optimization modeling library with tools for model inspection, solver management, and expression evaluation.

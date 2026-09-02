@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:18:28Z"
 ---
 ## What it is
 An MCP server that gives an AI agent scoped, safe access to your Postgres databases with per-connection access control, row caps, timeouts, and defense-in-depth read-only enforcement.

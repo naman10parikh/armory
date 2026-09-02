@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T09:24:20Z"
 ---
 ## What it is
 MCP server that enables AI coding agents to read and write to a local-first HTML/CSS design canvas, bridging visual design and code generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T21:15:00Z"
 ---
 ## What it is
 A read-only MCP server for electronics engineers to search DigiKey parts, get detailed product information, plan and validate BOMs, and export order lists, using the official DigiKey API.

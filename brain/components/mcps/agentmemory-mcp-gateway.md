@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:05:13Z"
 ---
 ## What it is
 Enables remote MCP clients to securely access AgentMemory tools like memory_recall, memory_smart_search, and memory_save through OAuth 2.1 and Streamable HTTP, while keeping the AgentMemory backend secret private.

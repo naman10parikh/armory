@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:22:45Z"
 ---
 ## What it is
 Enables remote shell control of Linux and network devices via SSH/Telnet, with session management and file transfer capabilities.

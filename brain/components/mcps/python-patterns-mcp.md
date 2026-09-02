@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:42:36Z"
 ---
 ## What it is
 Exposes the 23 Gang of Four design patterns to AI coding agents for generation, canonical examples, AST-based detection, validation, and anti-pattern refactoring in Python codebases.

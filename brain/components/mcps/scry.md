@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T00:42:44Z"
 ---
 ## What it is
 MCP server `Scry`, catalogued on PulseMCP. MCP server by TunnelMind for data querying and analytics operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:33:02Z"
 ---
 ## What it is
 Provides 6 MCP tools for semantic search, JS/TS code validation, and template generation based on TradingView Lightweight Charts documentation.

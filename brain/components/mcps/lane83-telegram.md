@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-18T21:00:13Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Integrates with Telegram chats via the Bot API to enable secure, whitelisted messaging and AI-powered interactions for automated workflows and communication channels.

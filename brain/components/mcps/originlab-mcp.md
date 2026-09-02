@@ -8,11 +8,13 @@ source_url: https://github.com/Yike-Ye/OriginLab-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:56:53Z"
 ---
 ## What it is
 Enables controlling OriginLab Origin through MCP to read and write worksheets, build and style multi-panel graphs, and export figures, reporting what Origin actually did rather than what it was asked to do. Works from macOS or Linux against Origin running in a Windows VM.

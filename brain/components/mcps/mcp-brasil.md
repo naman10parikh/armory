@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T02:53:45Z"
 ---
 ## What it is
 MCP Server for accessing 36 Brazilian public data sources and 1 agent, enabling AI agents to query government data on economy, legislation, transparency, judiciary, elections, environment, health, and more.

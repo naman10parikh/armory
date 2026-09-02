@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:49:06Z"
 ---
 ## What it is
 Monitors BTC, ETH, and RENDER for volatility-driven anomalies, emitting tiered P0/P1/P2 alerts with cooldown and hysteresis, and produces Feishu-ready events for immediate or digest delivery.

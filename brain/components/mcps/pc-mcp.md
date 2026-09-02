@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-23T11:16:42Z"
 ---
 ## What it is
 An MCP server that provides weather alerts and forecasts, system shutdown/restart, smart browser search, and screenshot capture.

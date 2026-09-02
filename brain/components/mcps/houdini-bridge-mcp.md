@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:50:51Z"
 ---
 ## What it is
 Drive SideFX Houdini from an AI chat — a security-first, data-only control surface where the AI authors validated wrangles, never arbitrary code.

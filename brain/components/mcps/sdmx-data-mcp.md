@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:29:11Z"
 ---
 ## What it is
 An MCP server that lets AI assistants discover and retrieve official statistics from SDMX services, returning actual data observations rather than just query URLs.

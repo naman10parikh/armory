@@ -8,11 +8,13 @@ source_url: https://github.com/nickjlamb/pubcrawl
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T22:40:58Z"
 ---
 ## What it is
 PubCrawl provides LLMs with access to PubMed, FDA/UK drug labeling, and ClinicalTrials.gov. It enables searching literature, retrieving abstracts and full texts, comparing US and UK drug labels, and exploring clinical trials.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:19:19Z"
 ---
 ## What it is
 A data-incident triage agent for DataHub that traverses downstream lineage, ranks affected assets by criticality, resolves owners, and records incidents back into the catalog.

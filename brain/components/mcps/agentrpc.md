@@ -8,10 +8,12 @@ source_url: https://github.com/agentrpc/agentrpc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-06-22T10:53:17Z"
 ---
 ## What it is
 MCP server `AgentRPC`, catalogued on PulseMCP. A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.

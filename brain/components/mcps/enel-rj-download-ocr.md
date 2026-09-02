@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:31Z"
 ---
 ## What it is
 Enables consultation of Enel RJ electricity bills through official sources, featuring download and OCR capabilities. It is a read-only MCP server that works with any MCP-compatible client, using prepaid credits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-17T22:03:14Z"
 ---
 ## What it is
 MCP server to search Mercari Japan listings with query, price range, and exclude keywords.

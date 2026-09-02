@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:24:57Z"
 ---
 ## What it is
 A review-only MCP server that provides tools for reviewing trade records against a live TradingView Desktop chart over Chrome DevTools Protocol on localhost.

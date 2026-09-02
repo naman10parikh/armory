@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:40:06Z"
 ---
 ## What it is
 Cleared Check before pay for x402 agents — look up merchants, run a trust check, and route through the Gateway without burning catalog. Tools: lookup_merchant, cleared_check, route_gateway.

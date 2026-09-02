@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-01T13:18:51Z"
 ---
 ## What it is
 MCP server `Transport for London`, catalogued on PulseMCP. Provides real-time London transport data including tube line status, detailed disruption information, and comprehensive journey planning between any London locations or UK postcodes with intelligent location disambiguation and multi-modal route options.

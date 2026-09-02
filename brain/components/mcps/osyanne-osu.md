@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T21:05:42Z"
 ---
 ## What it is
 MCP server `osu!`, catalogued on PulseMCP. Queries osu! game data including beatmaps, scores, user profiles, and rankings via the osu! API.

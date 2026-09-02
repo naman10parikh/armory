@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:55:42Z"
 ---
 ## What it is
 Enables querying and interacting with a SQLite CRM database of sales leads using natural language, offering tools for pipeline summaries, lead search, and weighted forecasting.

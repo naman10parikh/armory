@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-15T10:52:10Z"
 ---
 ## What it is
 MCP server `Buttondown`, catalogued on PulseMCP. Integrates with Buttondown newsletter API for managing email campaigns through tools for listing, creating, analyzing, and scheduling newsletters with secure API key handling and ISO 8601 datetime formatting.

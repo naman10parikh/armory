@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:59Z"
 ---
 ## What it is
 Provides a single read-only MCP tool to query the official Brazilian SEC (CVM) database on registered participants, hosted with prepaid per-query pricing and no platform credentials.

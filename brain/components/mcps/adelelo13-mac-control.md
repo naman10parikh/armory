@@ -8,10 +8,12 @@ source_url: https://github.com/adelelo13/mac-control-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-06T15:56:30Z"
 ---
 ## What it is
 MCP server `Mac Control`, catalogued on PulseMCP. Native Swift MCP server for macOS automation — screenshots, mouse/keyboard control, UI automation, Safari/Chrome, and window management across 63 tools.

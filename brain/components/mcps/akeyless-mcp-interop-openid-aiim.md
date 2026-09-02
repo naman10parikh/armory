@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:19:27Z"
 ---
 ## What it is
 Implements an MCP server with OAuth 2.1 Protected Resource Metadata, enabling token-based authentication for MCP tools like ping.

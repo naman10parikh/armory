@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-10T15:34:47Z"
 ---
 ## What it is
 Enables AI assistants to programmatically control interactive terminal applications through HT sessions, supporting session management, key sending, snapshots, and command execution.

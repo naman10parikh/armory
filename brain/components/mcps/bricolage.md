@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-26T19:09:26Z"
 ---
 ## What it is
 An agentic system that turns free-tier cloud resources into working outcomes. It orchestrates six specialist agents to plan, acquire, and assemble free services into deployable applications.

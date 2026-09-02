@@ -8,10 +8,12 @@ source_url: https://github.com/arkapravasinha/groww-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-10T15:11:59Z"
 ---
 ## What it is
 MCP server `Groww`, catalogued on PulseMCP. Integrates with Groww trading platform API to enable stock market operations including instrument search, order management, portfolio tracking, margin calculations, and live market data retrieval across NSE and BSE exchanges for Indian equity and F&O trading workflows.

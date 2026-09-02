@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T00:36:01Z"
 ---
 ## What it is
 Enables searching and running an AI council (Grok, Claude, GPT, Gemini) on Polymarket events to produce structured verdicts from any MCP client.

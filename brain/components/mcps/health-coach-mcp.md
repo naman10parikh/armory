@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T23:27:53Z"
 ---
 ## What it is
 A personal health and fitness MCP server that provides tools for managing profile data, goals, body measurements, nutrition, workouts, sleep, check-ins, life events, analytics, and coach memories via Supabase Postgres.

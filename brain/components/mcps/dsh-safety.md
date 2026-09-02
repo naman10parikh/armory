@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:50:11Z"
 ---
 ## What it is
 An MCP server that audits DeepSeek Harness (DSH) plugins for security threats using static and dynamic analysis. It enables automatic safety reviews of community plugins before installation, detecting risks like credential theft and prompt injection.

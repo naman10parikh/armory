@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:12:55Z"
 ---
 ## What it is
 Provides League of Legends mode-specific data including Arena augments, ARAM balance numbers, and mode mechanics, supporting both Chinese and English queries.

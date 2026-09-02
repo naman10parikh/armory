@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T10:49:35Z"
 ---
 ## What it is
 MCP server for creating interactive Vega-Lite data visualizations that render inline in chat via MCP Apps.

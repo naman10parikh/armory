@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, architecture-design]
 stars: 4
+forks: 0
+pushed_at: "2026-05-03T15:45:35Z"
 ---
 ## What it is
 Generate premium iOS mobile UI mockups (PNG + HTML) from a single text prompt. Pairs Claude (Opus 4.7 by default) with a Playwright headless renderer. Two backends — `claude` CLI (uses your Claude Code subscription) or Anthropic API. Stdio + HTTP transports, MIT.

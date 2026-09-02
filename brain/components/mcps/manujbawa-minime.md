@@ -8,10 +8,12 @@ source_url: https://github.com/manujbawa/minime-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-02-11T04:36:59Z"
 ---
 ## What it is
 MCP server `MiniMe`, catalogued on PulseMCP. Provides persistent memory management and meta-learning capabilities for software development workflows, featuring sequential thinking, task extraction, pattern detection, and real-time analytics through a React dashboard with local LLM processing via Ollama and PostgreSQL storage.

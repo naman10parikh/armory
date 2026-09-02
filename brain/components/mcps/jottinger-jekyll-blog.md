@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-05T15:20:07Z"
 ---
 ## What it is
 MCP server `Jekyll Blog`, catalogued on PulseMCP. Indexes Jekyll blog posts and drafts with keyword search, category filtering, and content retrieval to enable content analysis, duplicate detection, and AI-assisted writing workflows.

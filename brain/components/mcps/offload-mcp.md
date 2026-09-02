@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T17:31:59Z"
 ---
 ## What it is
 Delegates real-world digital tasks to vetted humans directly from AI chat. Provides tools to get quotes, post tasks, and check status with escrow protection.

@@ -8,10 +8,12 @@ source_url: https://github.com/869413421/build_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-06-26T07:32:05Z"
 ---
 ## What it is
 MCP server `Build MCP`, catalogued on PulseMCP. Integrates with build and deployment systems through HTTP-based APIs to enable CI/CD operations, pipeline management, and automated deployment workflows with configurable endpoints and error handling.

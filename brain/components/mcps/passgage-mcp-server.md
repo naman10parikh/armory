@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T10:58:35Z"
 ---
 ## What it is
 Integrates with the Passgage workforce management system via the Passgage Public API, providing 130+ tools for HR, time tracking, approvals, and more through natural language.

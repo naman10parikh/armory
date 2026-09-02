@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-20T20:09:57Z"
 ---
 ## What it is
 Enables taking screenshots of the entire desktop or specific windows, with automatic clipboard integration and support for Windows, macOS, and Linux.

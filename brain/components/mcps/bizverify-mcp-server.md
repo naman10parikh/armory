@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T08:08:34Z"
 ---
 ## What it is
 Enables AI agents to verify and search business entities across US state and international company registries, providing real-time confirmation of legal existence, status, and filings.

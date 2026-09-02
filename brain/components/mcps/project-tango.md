@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T10:25:30Z"
 ---
 ## What it is
 A local-first Model Context Protocol server that provides LLM agents with structured access to e-commerce data (products, inventory, orders, sales analytics) using a realistic mock dataset, zero configuration, and a swappable DataProvider interface for live APIs.

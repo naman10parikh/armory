@@ -8,11 +8,13 @@ source_url: https://github.com/rome-protocol/rome-cli
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:07:15Z"
 ---
 ## What it is
 Provides grounded chain facts and build patterns for Rome Protocol, enabling agents to access live registry data and SDK patterns read-only.

@@ -8,11 +8,13 @@ source_url: https://github.com/FunplayAI/funplay-godot-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-31T04:00:09Z"
 ---
 ## What it is
 The most advanced MCP server for Godot Editor that lets AI assistants operate directly inside your running Godot project for scene creation, script generation, UI authoring, and more.

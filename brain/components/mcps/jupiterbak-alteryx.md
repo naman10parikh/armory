@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-29T14:52:29Z"
 ---
 ## What it is
 MCP server `Alteryx Server`, catalogued on PulseMCP. Integrates with Alteryx Server's REST API to enable workflow execution, collection management, user administration, schedule automation, job monitoring, and credential management for data analytics operations.

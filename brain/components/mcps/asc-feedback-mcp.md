@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T22:30:51Z"
 ---
 ## What it is
 MCP server that exposes App Store Connect TestFlight beta feedback including screenshot submissions, crash submissions, crash logs, and screenshot downloads as tools for MCP-capable clients.

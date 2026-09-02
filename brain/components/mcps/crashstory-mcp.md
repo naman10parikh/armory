@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T02:48:02Z"
 ---
 ## What it is
 A read-only MCP server that provides access to Colorado crash records, attorney discovery, and AI-analyzed review intelligence for use in AI workflows.

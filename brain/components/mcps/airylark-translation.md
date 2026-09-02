@@ -8,10 +8,12 @@ source_url: https://github.com/wizd/airylark-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-06T03:41:58Z"
 ---
 ## What it is
 MCP server `AiryLark Translation`, catalogued on PulseMCP. Provides multilingual translation capabilities for applications by integrating with external translation APIs through a containerized Node.js server.

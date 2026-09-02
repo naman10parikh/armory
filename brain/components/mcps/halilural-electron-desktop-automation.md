@@ -8,10 +8,12 @@ source_url: https://github.com/halilural/electron-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 63
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-06T13:24:22Z"
 ---
 ## What it is
 MCP server `Electron Desktop Automation`, catalogued on PulseMCP. Automates Electron desktop applications through Chrome DevTools Protocol integration, enabling screenshot capture, JavaScript execution, console monitoring, and window management with intelligent project detection and debugging configuration.

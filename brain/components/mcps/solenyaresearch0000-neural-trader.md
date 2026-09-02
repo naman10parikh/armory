@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T11:58:02Z"
 ---
 ## What it is
 MCP server `Neural Trader`, catalogued on PulseMCP. Provides AI-driven trading signal generation and portfolio analysis tools.

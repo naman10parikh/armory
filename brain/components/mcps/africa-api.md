@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T17:32:33Z"
 ---
 ## What it is
 MCP server `Africa API`, catalogued on PulseMCP. Structured data on all 54 African countries including indicators, elections, markets, and trade.

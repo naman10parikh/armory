@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:43:54Z"
 ---
 ## What it is
 Enables operations teams to diagnose and resolve stuck orders via natural-language queries. It provides evidence-based resolution proposals, but any state-changing action requires explicit human confirmation.

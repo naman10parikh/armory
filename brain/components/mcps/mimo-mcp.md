@@ -8,11 +8,13 @@ source_url: https://github.com/Frank-ay/mimo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-28T12:10:18Z"
 ---
 ## What it is
 Enables Claude Code and Codex to directly invoke Xiaomi MiMo's full-modal capabilities including multimodal dialogue, image/video understanding, TTS, voice cloning, and ASR through MCP tools.

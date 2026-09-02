@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:31:41Z"
 ---
 ## What it is
 Product management over a shared product spine — link customer feedback and insights to features, tasks, sprints and releases, then read closed-loop analytics (customer 360, funnels, retention, NRR) on the same records. Local stdio server via npx @aioproductoscom/mcp; also a 38-tool hosted remote (O

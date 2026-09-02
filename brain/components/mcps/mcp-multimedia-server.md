@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:08:47Z"
 ---
 ## What it is
 Provides multimedia understanding tools for LLM agents, enabling image, video, audio analysis and speech transcription via cloud-based MiMo V2.5 through OpenAI-compatible endpoints.

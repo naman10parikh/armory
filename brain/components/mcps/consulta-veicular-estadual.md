@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:31:39Z"
 ---
 ## What it is
 MCP server to query vehicle information from Brazilian state transit (DETRAN) databases by license plate, including debts and vehicle status. Read-only, with a single tool for vehicle consultation.

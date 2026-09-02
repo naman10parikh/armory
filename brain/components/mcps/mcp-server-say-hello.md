@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-29T09:11:35Z"
 ---
 ## What it is
 MCP server that provides a greeting tool to say hello to users.

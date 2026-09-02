@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:32:11Z"
 ---
 ## What it is
 MCP server `AI Studio Android Release Gate`, catalogued on PulseMCP. Android release readiness gate for AI Studio with structured receipts, audit logs, and reviewer-ready evidence.

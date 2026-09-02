@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T16:14:31Z"
 ---
 ## What it is
 An MCP server that lets Claude Code create, edit, and publish Google Forms, including quizzes and response management, using OAuth with a verified Google app. It provides 15 tools for form building, publishing, and analyzing responses.

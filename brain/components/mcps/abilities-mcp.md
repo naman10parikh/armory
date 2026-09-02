@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-15T02:28:20Z"
 ---
 ## What it is
 Open-source MCP bridge that connects any AI client to your WordPress sites through the WordPress Abilities API. Supports multi-site routing, OAuth 2.1 or Application Password authentication, and zero npm dependencies.

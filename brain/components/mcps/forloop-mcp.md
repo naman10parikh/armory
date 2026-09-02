@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T16:44:55Z"
 ---
 ## What it is
 Enables AI harnesses to run iterative loops on code repositories with built-in quality evaluations, security gates, and approval workflows for tasks like fixing tests or implementing features.

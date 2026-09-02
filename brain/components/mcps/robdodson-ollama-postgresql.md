@@ -12,6 +12,8 @@ stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-07-01T05:44:56Z"
 ---
 ## What it is
 MCP server `Ollama PostgreSQL Data Analysis`, catalogued on PulseMCP. Integrates natural language querying with PostgreSQL databases to enable AI-interpreted data analysis without manual SQL writing.

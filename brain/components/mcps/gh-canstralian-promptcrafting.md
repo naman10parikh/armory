@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-20T03:31:04Z"
 ---
 ## What it is
 MCP server `PromptCrafting`, catalogued on PulseMCP. Security-hardened prompt engineering framework with structured template compilation, RBAC enforcement, and audit logging on Cloudflare Workers.

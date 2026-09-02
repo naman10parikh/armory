@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T08:37:53Z"
 ---
 ## What it is
 MCP server for local-first agent handoff: enables AI sessions to publish curated context, list/read updates, route handoffs to specialists, and advance per-consumer cursors, with SQLite persistence and no shell or network access.

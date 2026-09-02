@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T17:37:26Z"
 ---
 ## What it is
 Agency-grade MCP server for WordPress Elementor — multi-site management for 120+ WordPress sites with safe edits (backup + auto-rollback + post-write verification), template export/import, global widget detection, CSS flush, WP-CLI escape hatch, and headless Chrome screenshots. 34 tools across pages

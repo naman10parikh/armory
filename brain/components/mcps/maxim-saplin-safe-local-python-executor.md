@@ -8,10 +8,12 @@ source_url: https://github.com/maxim-saplin/mcp_safe_local_python_executor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-07-17T10:42:27Z"
 ---
 ## What it is
 MCP server `Safe Local Python Executor`, catalogued on PulseMCP. Wraps LocalPythonExecutor from HuggingFace's smolagents framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.

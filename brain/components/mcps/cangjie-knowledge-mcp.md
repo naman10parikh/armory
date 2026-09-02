@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:01:33Z"
 ---
 ## What it is
 MCP server for Cangjie knowledge retrieval, enabling Java-to-Cangjie translation with API search, class members, examples, Java mappings, and error hints.

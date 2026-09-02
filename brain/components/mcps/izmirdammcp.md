@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T15:09:02Z"
 ---
 ## What it is
 FastMCP server that provides daily water status and occupancy rates for dams in Izmir, Turkey by fetching data from the official IZSU API.

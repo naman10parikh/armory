@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T08:43:31Z"
 ---
 ## What it is
 Enables MCP clients to call MIKO's on-chain analytics tools including fact-checking, persona analysis, narrative tracking, and market insights via a REST API, with authentication tied to $MIKO token holdings.

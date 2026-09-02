@@ -8,10 +8,12 @@ source_url: https://github.com/dkruyt/mcp-hetzner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-04-10T07:58:13Z"
 ---
 ## What it is
 MCP server `Hetzner Cloud`, catalogued on PulseMCP. Integrates with Hetzner Cloud API to enable management of cloud infrastructure resources including servers, volumes, firewalls, and SSH keys for automated provisioning and infrastructure-as-code scenarios.

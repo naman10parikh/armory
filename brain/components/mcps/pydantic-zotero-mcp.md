@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:10:22Z"
 ---
 ## What it is
 An MCP server that gives AI agents read access to a Zotero library, enabling search, item metadata, collections, tags, notes, and full-text search of attached PDFs.

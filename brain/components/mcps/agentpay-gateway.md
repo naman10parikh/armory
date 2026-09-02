@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:52:58Z"
 ---
 ## What it is
 Provides a single MCP endpoint for 90+ tools across 42 backend servers (search, legal, domain, etc.) with per-call credit billing and a single API key.

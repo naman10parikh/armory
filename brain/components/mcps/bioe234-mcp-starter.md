@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 32
+pushed_at: "2026-03-17T13:44:56Z"
 ---
 ## What it is
 Framework for building bioengineering automation tools that AI assistants can call via the Model Context Protocol, handling server registration and tool discovery automatically.

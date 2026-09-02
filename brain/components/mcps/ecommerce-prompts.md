@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:39:59Z"
 ---
 ## What it is
 Provides AI assistants with access to a library of 924 free ecommerce marketing prompts across 43 categories, enabling tools to list collections, search prompts, and retrieve full templates with variables and recommended AI models.

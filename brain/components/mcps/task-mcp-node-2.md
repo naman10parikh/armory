@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T11:12:05Z"
 ---
 ## What it is
 A simple MCP server for managing tasks via a local JSON file, demonstrating resources, tools, and prompts for task reading, creation, and analysis.

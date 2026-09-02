@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-03T20:02:28Z"
 ---
 ## What it is
 MCP server `Apple Notes`, catalogued on PulseMCP. Integrates with Apple Notes to enable listing, searching, creating, and indexing notes using semantic and full-text search capabilities, leveraging LanceDB for efficient data storage and on-device embeddings for natural language interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T18:15:23Z"
 ---
 ## What it is
 Assesses code change risk with ultra-low token budget (50-100 tokens) and provides structured risk metadata for AI agents in IDEs.

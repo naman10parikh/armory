@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T12:39:51Z"
 ---
 ## What it is
 Enables AI assistants to autonomously interact with Kommo CRM, providing tools for managing pipelines, leads, contacts, and custom fields via the Kommo API v4.

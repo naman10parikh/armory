@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:57Z"
 ---
 ## What it is
 MCP server for querying official court process data from TRF5 (Brazil's 5th Regional Federal Court) in read-only mode, with pay-per-use credit. Enables natural language consultation of tribunal processes via MCP-compatible clients.

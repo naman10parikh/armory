@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:43:33Z"
 ---
 ## What it is
 A minimal MCP server providing greeting, addition, and time zone tools, plus static and templated resources.

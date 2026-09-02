@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:12:57Z"
 ---
 ## What it is
 Provides AI agents with full programmatic access to a FunPay account, enabling reading chats and orders, managing lots, processing refunds, and more via FunPay's web API.

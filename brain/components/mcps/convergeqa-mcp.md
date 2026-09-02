@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:57:45Z"
 ---
 ## What it is
 MCP servers for multi-model document review with critique/iterate and compare/due-diligence tools, using public verification receipts.

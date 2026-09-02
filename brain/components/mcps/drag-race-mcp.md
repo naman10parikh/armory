@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:04:44Z"
 ---
 ## What it is
 An MCP server for Drag Race knowledge, enabling search of queens, seasons, episodes, winners, and comparisons. It provides structured information through community-maintained data.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T15:17:17Z"
 ---
 ## What it is
 MCP server `SQLMesh`, catalogued on PulseMCP. Interact with SQLMesh data transformation pipelines for model management and plan application.

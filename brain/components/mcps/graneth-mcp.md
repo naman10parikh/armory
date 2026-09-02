@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T21:04:18Z"
 ---
 ## What it is
 An account-free MCP server that checks AI-written changes before they are committed, detecting nonexistent packages, dependency risk shapes, and hardcoded secrets.

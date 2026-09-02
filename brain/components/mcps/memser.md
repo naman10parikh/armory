@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:14:52Z"
 ---
 ## What it is
 Provides MCP agents with persistent memory operations (store, recall, forget, consolidate, list) backed by Redis, Postgres, and pgvector, including semantic search and background consolidation.

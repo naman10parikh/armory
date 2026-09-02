@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-14T12:35:34Z"
 ---
 ## What it is
 MCP server `Jarvis`, catalogued on PulseMCP. Go-based system administration server that provides secure filesystem operations, terminal command execution, web content fetching, and multi-file editing with configurable security controls including directory restrictions, command blocking, and backup mechanisms.

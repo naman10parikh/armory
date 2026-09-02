@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, cc-sessions]
 tags: [claude-code, tooling]
-stars: 14534
+stars: 14545
+forks: 1917
+pushed_at: "2026-06-14T08:27:00Z"
 ---
 ## What it is
 Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.

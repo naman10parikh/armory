@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:13:14Z"
 ---
 ## What it is
 MCP server for foldkit that exposes 10 tools and 4 resources for 7-prime spine, κ-bands, and fold operations, enabling interaction with foldkit via natural language in any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:32:53Z"
 ---
 ## What it is
 Enables an LLM to dynamically discover and call tools across multiple MCP servers (file, GitHub, SQL, Python execution) with authentication, rate limiting, and observability, supporting parallel execution and secure deployment.

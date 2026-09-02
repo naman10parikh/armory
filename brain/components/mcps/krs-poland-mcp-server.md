@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:28:56Z"
 ---
 ## What it is
 Enables querying the Polish National Court Register (KRS) to retrieve current and historical entity data.

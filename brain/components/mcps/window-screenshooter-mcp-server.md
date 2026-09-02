@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-12T19:48:04Z"
 ---
 ## What it is
 An MCP server that enables AI agents to capture targeted screenshots of specific application windows on Windows and Linux, with smart window state restoration and focus management.

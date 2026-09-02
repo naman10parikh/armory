@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-09T18:22:35Z"
 ---
 ## What it is
 MCP server `fal.ai`, catalogued on PulseMCP. Integrates with fal.ai's AI model ecosystem to enable discovery, execution, and management of generative AI workflows including image generation, content creation, and specialized AI tasks with support for file uploads, streaming responses, and queue-based processing.

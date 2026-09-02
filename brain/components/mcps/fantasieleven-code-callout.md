@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 3
+forks: 2
+pushed_at: "2026-03-11T06:31:16Z"
 ---
 ## What it is
 Multi-perspective architecture review for AI-assisted development. Nine expert viewpoints (CTO, Security, Product, DevOps, Customer, Strategy, Investor, Unicorn Founder, Solo Entrepreneur) analyze your project and produce actionable findings. Includes AI collaboration coaching and quantitative idea scoring.

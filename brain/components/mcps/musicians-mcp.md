@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T20:30:52Z"
 ---
 ## What it is
 A Python MCP server for managing a classical musicians database in Supabase/PostgreSQL, enabling search, review, and enrichment of musician profiles from MusicBrainz and Wikidata.

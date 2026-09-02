@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T22:31:04Z"
 ---
 ## What it is
 A Model Context Protocol server for Max messenger that lets AI assistants send and read messages, manage chats, and interact with the Max platform API.

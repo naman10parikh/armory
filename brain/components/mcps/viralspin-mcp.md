@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T00:51:06Z"
 ---
 ## What it is
 Enables AI agents to edit video assemblies from A-roll and B-roll, add captions, and publish to social media platforms.

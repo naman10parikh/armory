@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:26:16Z"
 ---
 ## What it is
 MCP server `NuGet`, catalogued on PulseMCP. Search NuGet for .NET and C# packages by name, description, tags, and author using the NuGet package search API.

@@ -8,10 +8,12 @@ source_url: https://github.com/pwilkin/mcp-searxng-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-05-23T13:24:10Z"
 ---
 ## What it is
 MCP server `SearXNG Public`, catalogued on PulseMCP. Queries public SearXNG instances to extract structured search results with time-range filtering and fallback mechanisms for reliable web search capabilities

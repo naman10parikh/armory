@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T10:21:03Z"
 ---
 ## What it is
 MCP server `Hit The Road Rentals`, catalogued on PulseMCP. Search campervans and motorhomes for rent worldwide across 8 countries.

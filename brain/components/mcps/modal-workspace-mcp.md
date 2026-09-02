@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:30:39Z"
 ---
 ## What it is
 A remote MCP bridge that lets MCP clients use Modal sandboxes for Linux execution, dependency installation, Git operations, GPU jobs, and invoking deployed Modal Functions.

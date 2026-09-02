@@ -8,10 +8,12 @@ source_url: https://github.com/securitahguy/rapid7-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-18T09:34:44Z"
 ---
 ## What it is
 MCP server `Rapid7`, catalogued on PulseMCP. Queries vulnerability and threat data across Rapid7 InsightVM, InsightIDR, and Metasploit Pro using natural language.

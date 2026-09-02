@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T08:43:31Z"
 ---
 ## What it is
 MCP server `Moneyflow`, catalogued on PulseMCP. Models money flows between state, citizens, and enterprises with policy simulation and cohort comparison tools.

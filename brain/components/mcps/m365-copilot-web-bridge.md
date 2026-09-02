@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T16:11:32Z"
 ---
 ## What it is
 Exposes a user-authenticated Microsoft 365 Copilot Chat browser session as a stdio MCP server, enabling AI-powered chat interactions via MCP tools like copilot_chat and copilot_status.

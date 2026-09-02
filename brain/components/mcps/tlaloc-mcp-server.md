@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T02:42:59Z"
 ---
 ## What it is
 Provides AI assistants with live, authenticated access to official Mexican data sources including CURP, RFC, postal codes, phone numbers, SPEI payments, CFDI status, DOF semantic search, and geocoding via INEGI/INE.

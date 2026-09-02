@@ -8,10 +8,12 @@ source_url: https://github.com/jcorderop02/packet-tracer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T06:13:09Z"
 ---
 ## What it is
 MCP server `Packet Tracer`, catalogued on PulseMCP. Configure Cisco Packet Tracer 9 simulations with live IOS, OSPF, BGP, NAT, VLAN, and wireless commands.

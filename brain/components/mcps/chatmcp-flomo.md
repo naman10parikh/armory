@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-10T03:33:55Z"
 ---
 ## What it is
 MCP server `Flomo`, catalogued on PulseMCP. Enables direct note-taking in Flomo by capturing Markdown content from conversations and posting it to your knowledge base via webhook integration

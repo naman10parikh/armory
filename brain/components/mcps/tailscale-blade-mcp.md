@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:50:15Z"
 ---
 ## What it is
 Enables AI agents to securely interact with Tailscale tailnets for device inventory, ACL review, key hygiene, and more, with token-efficient output and write-gated mutations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:52:43Z"
 ---
 ## What it is
 An MCP server that enables AI agents to interact with GEICO insurance services, including getting quotes, managing policies, filing claims, making payments, retrieving ID cards, requesting roadside assistance, and reporting accidents.

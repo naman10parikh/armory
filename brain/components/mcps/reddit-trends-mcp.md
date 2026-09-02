@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:51:59Z"
 ---
 ## What it is
 Provides Reddit discussion volume trends, growth rates, and top trending topics for any keyword, accessible via MCP tools and Python client.

@@ -8,10 +8,12 @@ source_url: https://github.com/kartik-2239/pokemon-nds-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-29T09:24:19Z"
 ---
 ## What it is
 MCP server `Pokemon NDS DeSmuME`, catalogued on PulseMCP. Controls Nintendo DS emulation through DeSmuME, enabling button presses, touchscreen input, screenshot capture, save state management, and persistent memory tracking for automated gameplay.

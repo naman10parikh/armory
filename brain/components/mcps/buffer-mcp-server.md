@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:30:07Z"
 ---
 ## What it is
 Enables publishing and scheduling posts to Buffer via the createPost GraphQL mutation, extending beyond Buffer's official read-only MCP connector.

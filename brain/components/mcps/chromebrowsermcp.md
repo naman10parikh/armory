@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T23:35:09Z"
 ---
 ## What it is
 A read-only bridge that lets ChatGPT inspect open Chrome tabs, exposing tools to list, read, and search tabs without accessing sensitive data.

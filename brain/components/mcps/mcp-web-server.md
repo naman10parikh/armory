@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T03:45:49Z"
 ---
 ## What it is
 A local MCP server providing free network access capabilities including HTTP requests, web search, webpage content extraction, and optional screenshots, designed for integration with Claude Desktop or Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T18:39:24Z"
 ---
 ## What it is
 Enables LLMs to securely interact with MongoDB, GitHub, and a sandboxed file system, eliminating information silos.

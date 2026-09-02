@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:35:02Z"
 ---
 ## What it is
 MCP server that lets you analyze your own LinkedIn profile with a local LLM (LM Studio). It uses Playwright to reuse your browser session, fetch profile data as JSON, and provides tools for session management and profile analysis.

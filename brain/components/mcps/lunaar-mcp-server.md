@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T08:59:26Z"
 ---
 ## What it is
 Lets MCP-compatible hosts like Claude and Cursor use Lunaar's AI building blocks — including sketch-to-render, virtual try-on, jewelry/glasses compositing, body measurement extraction, image-to-3D, AR viewer publishing, and upscaling — as native tools called by name from chat.

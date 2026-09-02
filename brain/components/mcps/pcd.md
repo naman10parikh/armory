@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:16:27Z"
 ---
 ## What it is
 Provides a portable context layer for MCP clients, letting users load containers with structured context, work state, and accumulated knowledge across different AI environments. It enables persistent, cross-client context management through a single MCP endpoint.

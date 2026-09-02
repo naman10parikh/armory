@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T14:02:55Z"
 ---
 ## What it is
 Enables checking domain availability across 600+ TLDs on Namecheap with purchase links.

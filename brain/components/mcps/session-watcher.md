@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T01:08:24Z"
 ---
 ## What it is
 Session Watcher treats your prompt cache as inventory — it uses EOQ theory to tell you whether the current context is still worth carrying, and when to restart. Works with any session-based coding agent.

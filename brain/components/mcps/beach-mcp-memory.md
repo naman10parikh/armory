@@ -8,10 +8,12 @@ source_url: https://github.com/beach55607-max/mcp-memory-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-05T16:22:32Z"
 ---
 ## What it is
 MCP server `Memory`, catalogued on PulseMCP. Long-term memory system for AI coding agents on Cloudflare Workers with OAuth 2.1 and 7 memory management tools.

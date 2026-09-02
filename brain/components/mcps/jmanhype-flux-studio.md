@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-25T16:55:49Z"
 ---
 ## What it is
 MCP server `Flux Studio`, catalogued on PulseMCP. Bridges Flux's image generation capabilities to coding environments, enabling text-to-image, image-to-image, inpainting, and structural control operations directly within IDEs through TypeScript-to-CLI command translation.

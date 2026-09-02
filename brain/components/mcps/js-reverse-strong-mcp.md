@@ -8,11 +8,13 @@ source_url: https://github.com/lwjjike/JSReverser-Strong-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 67
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-04-01T05:38:06Z"
 ---
 ## What it is
 Standardizes front-end JavaScript reverse engineering workflows by providing tools for browser observation, runtime sampling, hooking, debugging, network analysis, and local environment reproduction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T12:31:35Z"
 ---
 ## What it is
 Enables AI agents to extract clean, structured web content (articles, tables, links, visual layouts) optimized for LLM token efficiency, with fast response times and optional JavaScript support.

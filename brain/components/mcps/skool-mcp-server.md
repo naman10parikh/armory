@@ -8,11 +8,13 @@ source_url: https://github.com/louiewoof2026/skool-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-03-22T21:44:38Z"
 ---
 ## What it is
 MCP server for interacting with Skool.com communities, enabling community management, post operations, member management, and course access through natural language.

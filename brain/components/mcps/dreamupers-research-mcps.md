@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-07T03:12:27Z"
 ---
 ## What it is
 MCP server `Research MCPs`, catalogued on PulseMCP. Collection of research tools providing arXiv paper search and Feishu document upload capabilities.

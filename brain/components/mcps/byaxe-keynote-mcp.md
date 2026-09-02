@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 4
+forks: 1
+pushed_at: "2026-03-13T10:54:47Z"
 ---
 ## What it is
 MCP server for full control of Apple Keynote through AppleScript automation. Create, edit, and export presentations via natural language with 30+ tools covering slides, content, layout, and Unsplash image integration. Ships with a Claude Skill for design patterns and font workarounds.

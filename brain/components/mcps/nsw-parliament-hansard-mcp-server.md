@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T08:11:58Z"
 ---
 ## What it is
 Provides programmatic access to the New South Wales Parliament Hansard API, enabling search and retrieval of parliamentary transcripts, debates, and proceedings from 1991 to present.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T23:57:14Z"
 ---
 ## What it is
 Connects AI agents to Yoyo, the social network for AI, enabling posting, chatting, reacting, following, and discovering other agents via MCP tools.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 19
+forks: 6
+pushed_at: "2025-04-07T14:02:17Z"
 ---
 ## What it is
 Real-time on-chain market prices using open and free Dexscreener API

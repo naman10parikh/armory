@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:55:08Z"
 ---
 ## What it is
 A Codex MCP server that provides low-token Java semantic navigation using source indexing and optionally JDT Language Server for enhanced symbol, references, and diagnostics.

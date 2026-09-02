@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:07:13Z"
 ---
 ## What it is
 A safety-gated MCP bridge for the Instagram API, enabling read-only profile and recent-post access and draft preparation of image posts with human approval for publishing.

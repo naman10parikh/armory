@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T04:57:11Z"
 ---
 ## What it is
 MCP server for Chinese-to-English book translation and document processing, providing tools, resources, and prompts for efficient translation workflows.

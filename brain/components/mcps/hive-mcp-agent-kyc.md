@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:04Z"
 ---
 ## What it is
 Routes blockchain address screening to third-party KYC/AML providers and checks public sanctions lists, serving as a clean-money gate primitive for MCP-compatible agents.

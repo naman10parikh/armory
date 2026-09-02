@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:27:09Z"
 ---
 ## What it is
 Enables AI agents to drive the local Yakit engine for HTTP packet replay, GUI visualization, and screenshotting via CDP. Supports automatic protocol detection, batch replay, history management, and CDP-based GUI automation.

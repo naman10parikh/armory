@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:00:01Z"
 ---
 ## What it is
 An autonomous virtual software agency MCP server that generates production-grade software projects from a description, with 27 senior personas debating and cross-examining every artifact.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T17:14:05Z"
 ---
 ## What it is
 MCP server `Razorpay`, catalogued on PulseMCP. Read-only MCP server for Razorpay payment data: payments, subscriptions, refunds, and analytics.

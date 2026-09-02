@@ -8,10 +8,12 @@ source_url: https://github.com/zijian-ni/mcp-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T09:27:53Z"
 ---
 ## What it is
 MCP server `MCP Gateway`, catalogued on PulseMCP. Lightweight gateway aggregating multiple MCP servers behind a single HTTP endpoint with routing, auth, rate limiting, and caching.

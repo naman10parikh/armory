@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:40:36Z"
 ---
 ## What it is
 MCP server for querying Percolate's specialty coffee database with read-only access to 1,100+ coffees, tasting profiles, brew recipes, pairings, and recommendations.

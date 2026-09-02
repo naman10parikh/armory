@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-12T12:39:56Z"
 ---
 ## What it is
 Enables mathematical computation via Wolfram Language/Mathematica integration, supporting calculations, equation solving, calculus, matrix operations, and symbolic mathematics.

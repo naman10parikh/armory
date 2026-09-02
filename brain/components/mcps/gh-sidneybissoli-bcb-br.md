@@ -8,10 +8,12 @@ source_url: https://github.com/sidneybissoli/bcb-br-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:32:16Z"
 ---
 ## What it is
 MCP server `Brazilian Central Bank (BCB)`, catalogued on PulseMCP. Brazilian Central Bank time series data — economic indicators, exchange rates, and financial data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T07:07:47Z"
 ---
 ## What it is
 Enables search and retrieval of industry research reports, including company research, macro strategy, and thematic reports, with filtering and detail lookup via natural language.

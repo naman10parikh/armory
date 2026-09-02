@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:24:48Z"
 ---
 ## What it is
 MCP server for brainmem, providing memory search, write, outcome, explain, and status tools to give LLM agents auditable long-term memory. It prioritizes failures, gates writes on surprise, and supports validity intervals for beliefs.

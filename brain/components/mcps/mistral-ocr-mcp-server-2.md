@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-15T09:53:42Z"
 ---
 ## What it is
 Extracts text content from PDFs and images using Mistral's OCR API, enabling OCR capabilities in MCP-compatible clients like Cursor and Claude Desktop.

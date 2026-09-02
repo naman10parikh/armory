@@ -8,11 +8,13 @@ source_url: https://github.com/cameronking4/google-earth-engine-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-11T12:08:44Z"
 ---
 ## What it is
 MCP server for interacting with Google Earth Engine, enabling geospatial analysis such as dataset visualization, statistics computation, and search via AI assistants.

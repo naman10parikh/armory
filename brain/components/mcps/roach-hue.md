@@ -8,10 +8,12 @@ source_url: https://github.com/roach/airglow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-20T03:03:27Z"
 ---
 ## What it is
 MCP server `Hue`, catalogued on PulseMCP. Controls Philips Hue smart lighting with 9 tools for light control, status, and color management.

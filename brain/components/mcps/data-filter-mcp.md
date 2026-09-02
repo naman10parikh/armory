@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-15T19:14:09Z"
 ---
 ## What it is
 Local MCP server that registers restricted Python filters and runs them against local JSON, YAML, and TXT files, enabling safe data filtering and file conversion.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T02:49:43Z"
 ---
 ## What it is
 MCP server `Guardrly`, catalogued on PulseMCP. Non-invasive monitoring and audit layer that intercepts and logs AI agent tool calls.

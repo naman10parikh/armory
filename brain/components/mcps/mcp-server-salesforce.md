@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-05T06:22:34Z"
 ---
 ## What it is
 Provides AI agents with secure access to Salesforce data and operations, enabling natural language interaction with CRM for sales, marketing, and executive teams.

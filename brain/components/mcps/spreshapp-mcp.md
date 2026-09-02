@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T14:10:52Z"
 ---
 ## What it is
 Connects Claude to SpreshApp's Facebook ad intelligence platform, enabling competitor research, ad angle analysis, brand ad tracking, and library search directly from Claude.

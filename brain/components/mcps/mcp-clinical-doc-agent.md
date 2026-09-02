@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T01:03:38Z"
 ---
 ## What it is
 Enables analysis of clinical trial protocols using MCP tools for document listing, entity extraction, adverse event clustering, and summarization.

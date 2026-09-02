@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T20:24:54Z"
 ---
 ## What it is
 Diagnose MCP servers — health checks, tool testing, token cost audits, conflict detection, and security scanning with 50+ prompt injection patterns. Works as CLI or MCP server inside Claude Desktop.

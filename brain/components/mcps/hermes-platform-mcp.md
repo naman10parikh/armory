@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:16:53Z"
 ---
 ## What it is
 Bridges Hermes Agent to the Hermes Intelligence Platform API, enabling tools to read/write learning loop data (context, feedback, signals, memory, etc.) via stdio.

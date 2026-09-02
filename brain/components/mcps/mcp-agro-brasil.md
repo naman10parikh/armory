@@ -8,11 +8,13 @@ source_url: https://github.com/DeHor-Labs/mcp-agro-brasil
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-08-31T14:27:49Z"
 ---
 ## What it is
 Provides Brazilian agribusiness data such as livestock, crop prices, weather, exchange rates, and news through MCP tools.

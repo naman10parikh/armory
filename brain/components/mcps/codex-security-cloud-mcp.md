@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:26:08Z"
 ---
 ## What it is
 MCP server for the Codex Security Cloud service, enabling agents to list, inspect, close, reopen findings, request PRs, and apply generated patches.

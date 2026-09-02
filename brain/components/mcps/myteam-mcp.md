@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:15:40Z"
 ---
 ## What it is
 MCP server for the HR platform 'МояКоманда' that enables AI assistants to access and interact with HR data like employees, teams, calendar, absences, requests, knowledge base, surveys, and more via its REST API.

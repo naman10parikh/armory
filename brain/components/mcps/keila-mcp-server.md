@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:27:15Z"
 ---
 ## What it is
 Secure multi-tenant proxy exposing 34 MCP tools to manage Keila contacts, campaigns, forms, segments, templates, and transactional messaging through the Keila REST API.

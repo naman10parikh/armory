@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:39:27Z"
 ---
 ## What it is
 Credential vault for LLM agents that stores credentials encrypted and exposes MCP tools for authenticated HTTP requests, web scraping, and credential management, preventing AI assistants from seeing secrets.

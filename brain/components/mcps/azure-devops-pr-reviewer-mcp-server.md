@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:03:47Z"
 ---
 ## What it is
 An MCP server for automated code reviews on Azure DevOps pull requests, enabling AI assistants to fetch PR details, validate requirements, post inline comments, and set review votes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T12:41:29Z"
 ---
 ## What it is
 Enables external AI (ChatGPT, Claude) to securely access a local workspace via Cloudflare Tunnel, providing file operations, shell commands, Git operations, and more with bearer token authentication and sandbox isolation.

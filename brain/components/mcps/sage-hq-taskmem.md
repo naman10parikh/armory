@@ -8,10 +8,12 @@ source_url: https://github.com/sage-hq/agentcortex-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-27T07:19:08Z"
 ---
 ## What it is
 MCP server `TaskMem`, catalogued on PulseMCP. Provides AI assistants with persistent memory and task management capabilities through semantic search, project organization, and task tracking with priorities and statuses.

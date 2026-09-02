@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-17T10:16:34Z"
 ---
 ## What it is
 Enables AI agents to interact with Firebase services including Authentication, Firestore Database, and Cloud Storage through a standardized MCP protocol.

@@ -8,11 +8,13 @@ source_url: https://github.com/tkmawarire/sql-sentinel
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T08:34:53Z"
 ---
 ## What it is
 A production-ready MCP server for SQL Server monitoring, diagnostics, and database operations, with native connectivity, session management, deadlock and blocking analysis, and health checks.

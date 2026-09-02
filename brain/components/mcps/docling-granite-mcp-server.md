@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T08:11:05Z"
 ---
 ## What it is
 Converts PDF documents to Markdown with automatic image description generation using IBM Granite Vision, supporting streaming and page range selection.

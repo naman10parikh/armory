@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T11:51:38Z"
 ---
 ## What it is
 Provides a read-only context gateway for the Mindway operating protocol, enabling AI clients to load startup context, search public guidelines, and retrieve protocol documentation safely with path traversal protection.

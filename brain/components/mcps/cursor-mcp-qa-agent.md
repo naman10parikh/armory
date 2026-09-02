@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:56:33Z"
 ---
 ## What it is
 A local MCP server that gives Cursor Agent three focused QA tools for analyzing user stories, creating test charters, and drafting bug reports, with built-in safety rules and reusable workflows.

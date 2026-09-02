@@ -8,10 +8,12 @@ source_url: https://github.com/benniu/emqx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-02-07T05:27:05Z"
 ---
 ## What it is
 MCP server `EMQX`, catalogued on PulseMCP. Integrates with EMQX MQTT broker to enable real-time IoT device management, client monitoring, and message publishing for MQTT-enabled systems.

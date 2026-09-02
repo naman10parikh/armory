@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:27:17Z"
 ---
 ## What it is
 Provides LLMs with code and documentation search over nautilus_trader via LSP-based symbol lookup and semantic embedding-based doc retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:33:24Z"
 ---
 ## What it is
 Prepare custody-separated Base USDC cash-out plans, list supported fiat rails, and track settlement state through Peer Cash.

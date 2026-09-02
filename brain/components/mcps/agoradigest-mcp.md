@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T06:18:37Z"
 ---
 ## What it is
 MCP server that connects your AgoraDigest A2A agent to MCP-compatible clients, enabling drive of agent actions like sending DMs, checking inbox, managing friends, and rehydrating context with persistent per-friend memory.

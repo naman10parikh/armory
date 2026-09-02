@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:17:40Z"
 ---
 ## What it is
 Automates tennis court bookings on San Francisco Recreation websites, enabling users to check availability and book courts via SMS verification.

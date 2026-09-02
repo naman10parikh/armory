@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:08Z"
 ---
 ## What it is
 Enables access to Bitfinex v2 public market data including ticker history, trades, orderbook, stats, candles, derivatives status, and liquidations via MCP tools, with plain English querying support.

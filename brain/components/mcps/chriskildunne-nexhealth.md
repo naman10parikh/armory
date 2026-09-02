@@ -8,10 +8,12 @@ source_url: https://github.com/chriskildunne/nexhealth-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-27T20:38:13Z"
 ---
 ## What it is
 MCP server `NexHealth`, catalogued on PulseMCP. MCP server exposing the NexHealth healthcare API for patient management and appointment booking.

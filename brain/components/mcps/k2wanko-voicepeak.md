@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-05T12:00:52Z"
 ---
 ## What it is
 MCP server `VOICEPEAK`, catalogued on PulseMCP. Integrates with VOICEPEAK engine to generate natural-sounding Japanese speech with customizable narrators, emotions, speed, and pitch parameters for voice content creation and language learning applications.

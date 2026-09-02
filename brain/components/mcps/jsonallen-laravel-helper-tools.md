@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-17T21:49:56Z"
 ---
 ## What it is
 MCP server `Laravel Helper Tools`, catalogued on PulseMCP. Integrates with Laravel projects to provide log analysis, error tracking, and Artisan command execution for streamlined development workflows.

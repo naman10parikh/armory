@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:56:41Z"
 ---
 ## What it is
 A powerful MCP server that provides comprehensive Android device automation capabilities through ADB, enabling AI agents to interact with Android devices for testing, automation, and device control tasks.

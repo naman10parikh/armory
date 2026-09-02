@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-22T11:38:44Z"
 ---
 ## What it is
 MCP server `Xiaomi Mijia`, catalogued on PulseMCP. Controls Xiaomi smart home devices through cloud API with discovery, monitoring, and automation.

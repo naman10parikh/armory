@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T00:36:48Z"
 ---
 ## What it is
 MCP server `JetBrains IDE WebSocket Monitor`, catalogued on PulseMCP. JetBrains MCP Server fork that broadcasts real-time WebSocket monitoring of all tool calls between clients and IDEs for debugging and extending integration functionality.

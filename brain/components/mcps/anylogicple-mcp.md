@@ -8,11 +8,13 @@ source_url: https://github.com/umbaman/anylogicPLE-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-22T12:19:16Z"
 ---
 ## What it is
 Generates AnyLogic simulation models from natural-language prompts in Claude Code, allowing users to describe queueing systems, factories, or ERs and obtain runnable .alp files.

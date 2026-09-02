@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T23:41:52Z"
 ---
 ## What it is
 MCP server `Weishaupt WEM Portal`, catalogued on PulseMCP. Control and monitor Weishaupt heating systems via the WEM Portal.

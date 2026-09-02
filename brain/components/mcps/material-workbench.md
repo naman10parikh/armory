@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T16:28:20Z"
 ---
 ## What it is
 Exposes procedural material and isometric terrain generation as MCP tools, allowing agents to create deterministic PBR textures and 2:1 isometric tiles from JSON recipes.

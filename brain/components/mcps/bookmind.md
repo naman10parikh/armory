@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T01:24:26Z"
 ---
 ## What it is
 An intelligent bookkeeping MCP server for QuickBooks Online that enables natural language control over categorization, reconciliation, monthly close, and anomaly detection.

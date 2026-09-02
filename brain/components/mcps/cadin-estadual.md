@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:27:23Z"
 ---
 ## What it is
 MCP server to query Brazilian state CADIN registry for CPF/CNPJ, providing debt situation across state finance departments. Read-only and works with any MCP client.

@@ -8,10 +8,12 @@ source_url: https://github.com/trsdn/mcp-server-ppt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T22:36:21Z"
 ---
 ## What it is
 MCP server `PowerPoint Automation`, catalogued on PulseMCP. Automates PowerPoint with AI through 33 specialized tools covering slides, shapes, text, charts, tables, animations, transitions, VBA macros, and more using Windows COM automation.

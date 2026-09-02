@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:49:08Z"
 ---
 ## What it is
 Build a paid MCP server that charges AI agents per call in USDC, with automatic payment handling via HTTP 402 and EIP-3009.

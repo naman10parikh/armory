@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T09:36:25Z"
 ---
 ## What it is
 Enables AI agents to inspect, search, and edit Unreal Engine animation data including sequences, montages, blend spaces, animation blueprints, skeletons, and skeletal meshes via 62 tools over MCP.

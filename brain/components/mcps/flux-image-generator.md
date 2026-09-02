@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-25T10:48:28Z"
 ---
 ## What it is
 MCP server `FLUX Image Generator (Black Forest Lab)`, catalogued on PulseMCP. Provides a bridge to Black Forest Lab's FLUX model for generating images with customizable parameters like dimensions and safety settings through natural language requests

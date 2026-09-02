@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-08T10:09:56Z"
 ---
 ## What it is
 MCP server for Atomic CRM that enables agents to read and write CRM data via SQL queries, with OAuth authentication and Row Level Security enforced.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-13T14:05:34Z"
 ---
 ## What it is
 Production-ready MCP server implementations for creative applications, enabling control of Blender and other tools through the Model Context Protocol.

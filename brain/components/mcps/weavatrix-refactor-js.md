@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:13:37Z"
 ---
 ## What it is
 Provides evidence-backed, transactional code refactoring for JavaScript/TypeScript and other languages via MCP, enabling semantic renames, signature changes, edits, and safe bulk operations with preview, atomic apply, and rollback.

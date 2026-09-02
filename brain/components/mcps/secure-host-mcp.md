@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:12:10Z"
 ---
 ## What it is
 Exposes a Windows or Linux host terminal to remote MCP clients via Streamable HTTP, enabling command execution, tunnel management, and privileged operations with security features like OAuth and audit logging.

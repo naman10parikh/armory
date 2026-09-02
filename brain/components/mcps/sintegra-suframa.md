@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:25Z"
 ---
 ## What it is
 Enables consultation of SINTEGRA registration data from the official SUFRAMA source, with read-only access and pay-per-use credit system, compatible with any MCP client.

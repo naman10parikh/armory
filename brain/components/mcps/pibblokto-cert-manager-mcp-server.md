@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 24
+forks: 4
+pushed_at: "2025-08-25T10:16:29Z"
 ---
 ## What it is
 /🐧 ☁️ - mcp server for [cert-manager](https://github.com/cert-manager/cert-manager) management and troubleshooting

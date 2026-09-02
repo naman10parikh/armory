@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T23:42:24Z"
 ---
 ## What it is
 MCP server `AI Context Inspector`, catalogued on PulseMCP. Comprehensive scanner for AI ecosystem configuration across 19 tools.

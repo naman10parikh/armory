@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T14:06:04Z"
 ---
 ## What it is
 A self-hostable Gmail MCP server that enables Gmail search/read, sending, replies, drafts, labels, and attachment downloads via MCP tools with OAuth authorization. Supports stdio and streamable HTTP transports.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:41:49Z"
 ---
 ## What it is
 MCP server `Slack Connect`, catalogued on PulseMCP. Slack workspace integration for reading channels, messages, posting to channels, and managing users with a bot token.

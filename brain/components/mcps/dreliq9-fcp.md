@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-13T05:39:57Z"
 ---
 ## What it is
 MCP server `Final Cut Pro`, catalogued on PulseMCP. 88 tools for Final Cut Pro — FCPXML engine, live FCP control, media analysis, and AI puppets.

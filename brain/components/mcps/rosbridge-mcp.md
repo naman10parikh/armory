@@ -8,11 +8,13 @@ source_url: https://github.com/hieutachi/rosbridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:58:17Z"
 ---
 ## What it is
 Connects AI agents to ROS 2 robots via rosbridge, enabling observation, inspection, and control of robot topics, services, and actions through natural language.

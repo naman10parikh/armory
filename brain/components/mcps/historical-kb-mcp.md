@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:48:23Z"
 ---
 ## What it is
 Stores and retrieves completed defect-triage analyses to find similar past defects during new ticket triage. Provides tools for storing, searching, updating, and listing historical defect records with hybrid retrieval (dense + BM25).

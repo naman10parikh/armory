@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-17T10:59:40Z"
 ---
 ## What it is
 MCP server `Secure Chain`, catalogued on PulseMCP. Integrates with vulnerability databases and dependency graphs to provide software supply chain security assessment through package status checking, vulnerability lookup, exploit information retrieval, and CWE analysis across multiple package managers.

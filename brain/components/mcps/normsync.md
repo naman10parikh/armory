@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:26Z"
 ---
 ## What it is
 Pre-commit norm gate for AI-generated PRs — enforces coding and contribution norms, blocking violations before they land.

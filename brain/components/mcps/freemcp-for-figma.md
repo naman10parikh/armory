@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:24:00Z"
 ---
 ## What it is
 Enables AI coding agents to read and write a user's Figma file through the Figma Plugin API, offline and privately, without API tokens or rate limits.

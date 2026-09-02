@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:14:29Z"
 ---
 ## What it is
 Provides a read-only interface to Kubernetes clusters, enabling LLMs to list pods, get pod status and logs, fetch deployment manifests, and perform pod health analysis with resource trend tracking.

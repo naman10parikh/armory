@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:13:13Z"
 ---
 ## What it is
 Enables extraction of brand identity from websites, Figma, and PDFs, and compiles governance, design tokens, and voice rules into a portable .brand/ directory for consistent brand use across AI tools.

@@ -8,11 +8,13 @@ source_url: https://github.com/coderadius-ai/coderadius
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T07:14:22Z"
 ---
 ## What it is
 Enables AI agents to query architecture context, data contracts, and blast radius to prevent cross-repo architectural breakage before merging.

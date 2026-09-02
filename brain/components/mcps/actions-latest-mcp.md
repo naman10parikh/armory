@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T12:16:08Z"
 ---
 ## What it is
 Fetches the latest version numbers for popular GitHub Actions from simonw/actions-latest, allowing users to easily check and update workflow versions.

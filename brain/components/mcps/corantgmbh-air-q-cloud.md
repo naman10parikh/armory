@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T18:44:10Z"
 ---
 ## What it is
 MCP server `air-Q Cloud`, catalogued on PulseMCP. Access air quality data from air-Q devices via the cloud REST API.

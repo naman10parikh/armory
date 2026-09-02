@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:23:47Z"
 ---
 ## What it is
 MCP server for Matrix that lets Claude list rooms, search/read messages, send messages and files, react, create rooms, and invite users, with multi-homeserver support and safe-by-default writes; no end-to-end encryption.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-09T08:16:45Z"
 ---
 ## What it is
 Semantic code search MCP server that reduces token usage by ~95% by returning top relevant code chunks instead of full files.

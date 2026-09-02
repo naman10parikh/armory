@@ -8,10 +8,12 @@ source_url: https://github.com/icraft2170/youtube-data-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-10-17T14:15:43Z"
 ---
 ## What it is
 MCP server `YouTube Data`, catalogued on PulseMCP. Integrates with YouTube Data API to retrieve and analyze video content, transcripts, channel statistics, and engagement metrics across different regions and categories without leaving the conversation interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:23Z"
 ---
 ## What it is
 Provides a read-only tool to query SINTEGRA RS (Brazilian state tax registration) data from official sources via natural language. It is a hosted, pay-per-use service.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:16:35Z"
 ---
 ## What it is
 Windows GUI automation MCP server for Claude Code, enabling deterministic desktop app control via 32 tools including window management, input, pixel search, and file verification, leveraging the AutoIt backend.

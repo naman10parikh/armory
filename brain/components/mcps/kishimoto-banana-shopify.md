@@ -8,10 +8,12 @@ source_url: https://github.com/kishimoto-banana/shopify-py-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-18T02:43:52Z"
 ---
 ## What it is
 MCP server `Shopify`, catalogued on PulseMCP. Integrates with the Shopify API to enable e-commerce data management and operations for online stores, including product, order, and customer information handling.

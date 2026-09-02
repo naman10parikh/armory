@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T05:24:30Z"
 ---
 ## What it is
 MCP server `Impact Preview`, catalogued on PulseMCP. Simulate and preview the impact of proposed policy changes on affected populations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-20T20:43:30Z"
 ---
 ## What it is
 Enables remote attestation of MCP servers using Intel SGX and RA-TLS, allowing clients to verify the exact code running on the server.

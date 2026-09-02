@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T04:12:19Z"
 ---
 ## What it is
 Local image manager MCP server for Windows, enabling AI assistants to search, preview, tag, favorite, and sync local images while keeping originals read-only.

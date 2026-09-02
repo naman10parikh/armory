@@ -8,10 +8,12 @@ source_url: https://github.com/nazruden/clickup-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-05-07T08:11:04Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Integrates with ClickUp to enable task creation, project management, and workflow automation for teams using AI-powered assistants.

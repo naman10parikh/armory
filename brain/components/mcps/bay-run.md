@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T03:26:45Z"
 ---
 ## What it is
 Enables agents to discover, evaluate, and serve task-specialist models (embeddings, reranking, classification, extraction) with OpenAI-compatible endpoints and MCP tools for routing, embedding, reranking, and extraction.

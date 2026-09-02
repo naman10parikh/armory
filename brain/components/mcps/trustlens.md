@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T21:07:19Z"
 ---
 ## What it is
 A pay-per-call MCP server that evaluates AI agents on the OKX.AI marketplace, providing a hiring-trust score, grade, and breakdown based on review authenticity, sales velocity, and price fairness.

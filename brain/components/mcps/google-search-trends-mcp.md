@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T12:20:48Z"
 ---
 ## What it is
 Provides Google Search trend data as an MCP tool, with historical series, growth percentages, and live trending searches, no scraping or rate limits.

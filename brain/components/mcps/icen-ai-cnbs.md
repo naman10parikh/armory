@@ -8,10 +8,12 @@ source_url: https://github.com/icen-ai/mcp-cnbs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-12T03:21:30Z"
 ---
 ## What it is
 MCP server `China National Bureau of Statistics`, catalogued on PulseMCP. Queries China National Bureau of Statistics data with search, time series, batch comparison, and regional breakdowns.

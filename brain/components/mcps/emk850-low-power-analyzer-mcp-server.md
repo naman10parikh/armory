@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:30:16Z"
 ---
 ## What it is
 Enables programmatic control of the Yingjia EMK850+ low-power analyzer via a serial port, exposing FastAPI endpoints for reading power, version, configuration, clearing the baseline, and managing the serial port.

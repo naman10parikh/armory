@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T14:14:22Z"
 ---
 ## What it is
 MCP server `PubMed`, catalogued on PulseMCP. Provides direct access to PubMed's medical literature database for searching articles, fetching detailed abstracts with metadata, and generating concise summaries for systematic literature reviews and medical research.

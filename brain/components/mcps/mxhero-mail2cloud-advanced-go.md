@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T15:08:31Z"
 ---
 ## What it is
 MCP server `mxHERO Mail2Cloud Advanced (Go)`, catalogued on PulseMCP. Integrates with mxHERO's Mail2Cloud Advanced service to search across massive multi-account email repositories using vector database technology, providing secure links to original emails and filtering capabilities that exceed LLM context limitations.

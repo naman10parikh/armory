@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:59:11Z"
 ---
 ## What it is
 Enables conversational product search and validation for e-commerce catalogs, with hybrid retrieval and live price/stock checks from a database.

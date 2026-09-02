@@ -8,10 +8,12 @@ source_url: https://github.com/bobaba76/engram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T08:05:33Z"
 ---
 ## What it is
 MCP server `Engram`, catalogued on PulseMCP. Local-first code intelligence server providing semantic code search, dependency analysis, review history tracking, and symbol context for Python and TypeScript repositories.

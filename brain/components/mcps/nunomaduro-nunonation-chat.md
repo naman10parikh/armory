@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-09-19T18:01:36Z"
 ---
 ## What it is
 MCP server `Nuno Nation Chat`, catalogued on PulseMCP. Laravel-based chat system that stores messages in SQLite with user identity validation, preventing generic names and encouraging real first names for persistent conversational interfaces

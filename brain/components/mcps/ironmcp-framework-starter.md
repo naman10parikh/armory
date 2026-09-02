@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T07:10:22Z"
 ---
 ## What it is
 A framework for building MCP servers with standardized tools, authentication, logging, and multiple transports. Enables rapid development of secure, auditable MCP tools.

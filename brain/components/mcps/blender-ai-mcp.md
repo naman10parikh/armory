@@ -8,11 +8,13 @@ source_url: https://github.com/PatrykIti/blender-ai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 56
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-06-27T17:00:32Z"
 ---
 ## What it is
 Enables AI assistants to control Blender 3D modeling software through a stable, goal-oriented tool API for safer and more reliable 3D scene manipulation.

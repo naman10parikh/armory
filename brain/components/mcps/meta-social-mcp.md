@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T02:43:33Z"
 ---
 ## What it is
 Enables publishing and managing organic Facebook Page and Instagram content directly through Meta's Graph API without paid third-party services.

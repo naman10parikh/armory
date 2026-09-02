@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-29T14:23:42Z"
 ---
 ## What it is
 Enables Claude to read and write product requirement documents section by section via 33 MCP tools, drastically reducing token consumption by loading only relevant sections and summaries instead of the full document.

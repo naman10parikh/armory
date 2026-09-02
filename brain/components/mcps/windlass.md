@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:40:16Z"
 ---
 ## What it is
 Enables running and managing automated tasks with retry loops and machine-checkable success criteria via MCP tools.

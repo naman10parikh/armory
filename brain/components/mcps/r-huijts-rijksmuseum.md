@@ -8,10 +8,12 @@ source_url: https://github.com/r-huijts/rijksmuseum-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-02-07T09:28:40Z"
 ---
 ## What it is
 MCP server `Rijksmuseum Amsterdam`, catalogued on PulseMCP. Integrates with the Rijksmuseum API to enable artwork search, detailed information retrieval, and high-resolution image access for art research and cultural exploration.

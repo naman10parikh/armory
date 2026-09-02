@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T19:54:44Z"
 ---
 ## What it is
 Fashion discovery MCP server for Indian Gen Z that enables AI assistants to search and discover fashion products from Klydo's platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:07:15Z"
 ---
 ## What it is
 Enables Claude to write, compile, and execute formal verification models in Alloy and read raw mathematical graph structures back into its context window.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:57:50Z"
 ---
 ## What it is
 Unofficial MCP server for SberBank Online, enabling agents to read banking products and operations and perform transfers between own accounts directly via HTTP, with human confirmation for transfers. Also provides an async SDK and CLI for use without an agent.

@@ -8,11 +8,13 @@ source_url: https://github.com/halilertekin/advanced-seo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-22T22:37:02Z"
 ---
 ## What it is
 Provides AI agents with professional-grade SEO capabilities including on-page analysis, technical audits, PageSpeed insights, and Ahrefs data integration.

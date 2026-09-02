@@ -8,10 +8,12 @@ source_url: https://github.com/hrs-asano/claude-mcp-trello
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-06-10T09:10:03Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Integrates with Trello to enable task management operations like retrieving cards, managing lists, and monitoring board activity for project planning and workflow automation.

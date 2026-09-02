@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-15T02:30:29Z"
 ---
 ## What it is
 MCP server `Swell`, catalogued on PulseMCP. Manage Swell e-commerce products, orders, and customers via AI assistants.

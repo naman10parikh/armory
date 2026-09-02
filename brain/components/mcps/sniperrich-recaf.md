@@ -8,10 +8,12 @@ source_url: https://github.com/sniperrich/recafmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-21T13:35:21Z"
 ---
 ## What it is
 MCP server `Recaf`, catalogued on PulseMCP. Bridges Recaf 4.x Java bytecode editor with decompilation, bytecode analysis, call graph exploration, JASM assembly, and workspace management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:41:14Z"
 ---
 ## What it is
 Provides secure, read-only access to Snowflake data warehouses, enabling AI assistants to explore schemas, write queries, and analyze data with SSO authentication and smart caching.

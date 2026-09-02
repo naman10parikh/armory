@@ -8,10 +8,12 @@ source_url: https://github.com/rhinocap/raven-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T00:11:33Z"
 ---
 ## What it is
 MCP server `Raven`, catalogued on PulseMCP. Design intelligence for AI-generated UI — principles, patterns, brand voice, design tokens, and accessibility guidelines.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:09:04Z"
 ---
 ## What it is
 Local MCP server for preparing previews and publishing single image posts to Instagram after explicit user confirmation, with OAuth and safety safeguards.

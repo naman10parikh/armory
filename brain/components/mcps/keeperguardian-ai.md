@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:55:17Z"
 ---
 ## What it is
 An autonomous self-healing and chaos-resilient agent operations platform for KeeperHub, enabling fault injection, transaction self-healing, and onchain job management via MCP v1.0.

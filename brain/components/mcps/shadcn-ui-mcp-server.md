@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-22T18:31:40Z"
 ---
 ## What it is
 Enables AI assistants to access and manage shadcn/ui v4 components, including source code, demos, blocks, and CLI integration.

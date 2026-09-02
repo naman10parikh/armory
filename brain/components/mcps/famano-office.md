@@ -12,6 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-04-29T12:49:23Z"
 ---
 ## What it is
 MCP server `MS Word`, catalogued on PulseMCP. Integrates with Microsoft Word documents to enable reading, writing, and editing of text, tables, and images for automated document processing and content generation.

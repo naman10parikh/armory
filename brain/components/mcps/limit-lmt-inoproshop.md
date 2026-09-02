@@ -8,10 +8,12 @@ source_url: https://github.com/limit-lmt/inoproshop_limit_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-07T17:07:54Z"
 ---
 ## What it is
 MCP server `InoProShop`, catalogued on PulseMCP. Enables AI agents to control Inovance InoProShop PLC IDE with 24 tools for project creation, code editing, and hardware configuration.

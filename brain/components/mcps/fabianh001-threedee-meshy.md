@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-17T12:20:17Z"
 ---
 ## What it is
 MCP server `Threedee (Meshy)`, catalogued on PulseMCP. Enables text-to-3D model generation through the Meshy API with tools for creating previews, refining models with PBR textures, and converting images to 3D objects.

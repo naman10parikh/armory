@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:52:09Z"
 ---
 ## What it is
 An MCP server that showcases intent-based access control and ReBAC with OpenFGA, providing team and salary listing tools protected by semantic and deterministic gates.

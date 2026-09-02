@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:54:30Z"
 ---
 ## What it is
 MCP server for the Gravv payments API that lets AI assistants onboard customers, run KYC, open accounts, move money, issue cards, and exchange currency, with built-in documentation search and safety confirmations for money-moving operations.

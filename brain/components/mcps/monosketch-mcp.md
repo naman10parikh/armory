@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-13T21:45:25Z"
 ---
 ## What it is
 An MCP server that enables AI agents to create beautiful ASCII diagrams using Unicode box-drawing characters, with support for stateful canvas operations, multiple shape types, and style customization.

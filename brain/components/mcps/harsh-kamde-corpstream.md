@@ -8,10 +8,12 @@ source_url: https://github.com/harsh-kamde/corpstream
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T09:58:10Z"
 ---
 ## What it is
 MCP server `CorpStream`, catalogued on PulseMCP. Query freshly registered company data from Companies House, SEC EDGAR, MCA India, and OpenCorporates through five natural-language tools.

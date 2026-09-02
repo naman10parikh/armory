@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-03T14:47:42Z"
 ---
 ## What it is
 Enables AI assistants to read, inspect, and manipulate OpenUSD 3D scenes, including scene graph traversal, property querying, mesh export, and variant switching.

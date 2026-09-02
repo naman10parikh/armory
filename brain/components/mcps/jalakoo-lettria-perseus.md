@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T21:16:34Z"
 ---
 ## What it is
 MCP server `Lettria Perseus`, catalogued on PulseMCP. Wraps Lettria's Perseus text-to-graph engine to ingest documents, run ontology-driven extraction, and build knowledge graphs exportable to Neo4j and FalkorDB.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:58:28Z"
 ---
 ## What it is
 Exposes the full Telnyx API as Model Context Protocol tools and enables deploying autonomous AI voice agents from a YAML spec.

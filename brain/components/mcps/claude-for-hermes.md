@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:39:33Z"
 ---
 ## What it is
 A local MCP server that lets Hermes supervise Claude Code, delegating focused coding, research, or review tasks to the Claude Code CLI and managing worker sessions, background jobs, cancellations, and read-only reviews.

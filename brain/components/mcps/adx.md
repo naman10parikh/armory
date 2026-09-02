@@ -8,10 +8,12 @@ source_url: https://github.com/pab1it0/adx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-03-25T20:37:34Z"
 ---
 ## What it is
 MCP server `Azure Data Explorer`, catalogued on PulseMCP. Integrates with Azure Data Explorer to enable executing KQL queries, discovering database resources, exploring table schemas, and sampling data for data analysis and insights generation.

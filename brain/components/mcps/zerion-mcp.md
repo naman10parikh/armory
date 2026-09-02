@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T21:38:35Z"
 ---
 ## What it is
 MCP server that provides live crypto portfolio data, token info, gas prices, swap offers, and Bitcoin balance via Zerion and Blockstream APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:52Z"
 ---
 ## What it is
 Read-only MCP server to query legal process information from the Brazilian Federal Regional Court of the 2nd Region (TRF2) from official sources. Pay-per-use with prepaid credits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:00:53Z"
 ---
 ## What it is
 MCP server exposing foldkit's 7-prime spine, κ-bands, and fold operations as tools and resources for AI assistants, enabling fold arithmetic, band classification, and state transformations.

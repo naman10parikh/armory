@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:33:17Z"
 ---
 ## What it is
 Public MCP front door for Spala agent discovery, providing onboarding, documentation search, and template/addon listings for planning backend workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T22:01:40Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Tasks, including listing, creating, updating, deleting, and completing tasks via the Google Tasks API.

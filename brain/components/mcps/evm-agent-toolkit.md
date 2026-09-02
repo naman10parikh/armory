@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:17:28Z"
 ---
 ## What it is
 An MCP server that gives autonomous coding agents deterministic, schema-validated tools for EVM smart contract development — security scanning, gas profiling, compiler diagnostics, and transaction simulation.

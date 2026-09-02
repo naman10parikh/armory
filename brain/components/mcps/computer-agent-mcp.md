@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T18:17:14Z"
 ---
 ## What it is
 A black-box desktop automation MCP server that handles screenshots, coordinates, and clicks internally to complete tasks given by the user.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:37:44Z"
 ---
 ## What it is
 Enables LLM clients to query live and historical metal and commodity prices from metalsmarket.net through an MCP server.

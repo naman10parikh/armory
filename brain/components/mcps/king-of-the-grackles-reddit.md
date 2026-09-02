@@ -8,10 +8,12 @@ source_url: https://github.com/king-of-the-grackles/reddit-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 117
+stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-08-14T11:17:12Z"
 ---
 ## What it is
 MCP server `Reddit Research`, catalogued on PulseMCP. Turn Reddit into structured insights with full citations

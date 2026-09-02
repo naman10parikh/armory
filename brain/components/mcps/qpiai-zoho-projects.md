@@ -8,10 +8,12 @@ source_url: https://github.com/qpiai/zoho-projects-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-10-21T01:43:08Z"
 ---
 ## What it is
 MCP server `Zoho Projects`, catalogued on PulseMCP. Integrates with Zoho Projects API to manage projects, tasks, issues, milestones, and users across portals with OAuth authentication, multi-session support, and 20 specialized tools for project lifecycle management and workflow automation.

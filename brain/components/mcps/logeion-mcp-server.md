@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-19T21:19:03Z"
 ---
 ## What it is
 Enables LLMs to search and retrieve Latin word definitions and lemmas from the Logeion dictionary database, with support for automatic lemmatization via spaCy.

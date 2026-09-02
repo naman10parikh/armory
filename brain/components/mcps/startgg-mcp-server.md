@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:06:05Z"
 ---
 ## What it is
 Enables MCP clients to discover tournaments, inspect events, entrants, sets, standings, and streams for any game on start.gg using natural language.

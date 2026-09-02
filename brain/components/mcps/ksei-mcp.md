@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T10:08:21Z"
 ---
 ## What it is
 An unofficial MCP server for accessing KSEI (AKSes) portfolio data, including cash balances, equity holdings, mutual funds, bonds, and other investments.

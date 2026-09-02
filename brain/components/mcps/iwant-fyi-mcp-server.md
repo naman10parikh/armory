@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T12:18:35Z"
 ---
 ## What it is
 Implements the iwant.fyi demand-side protocol, enabling AI agents to express structured purchase intent, receive matched supply from multiple sources, and report outcomes.

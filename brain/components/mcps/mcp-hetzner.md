@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T14:24:04Z"
 ---
 ## What it is
 Enables conversational management of Hetzner Cloud, DNS, and Storage Box infrastructure through 137 MCP tools for CRUD operations and actions like server power control, DNS zone management, and storage box snapshots.

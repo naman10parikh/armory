@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:24:32Z"
 ---
 ## What it is
 Local MCP server that provides a search_documents tool to query a RAG pipeline built with Ollama embeddings and ChromaDB, enabling Claude Desktop to retrieve relevant document chunks.

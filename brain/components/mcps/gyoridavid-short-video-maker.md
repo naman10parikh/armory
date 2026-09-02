@@ -8,10 +8,12 @@ source_url: https://github.com/gyoridavid/short-video-maker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1151
+stars: 1326
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 418
+pushed_at: "2025-06-21T11:17:09Z"
 ---
 ## What it is
 MCP server `Short Video Maker`, catalogued on PulseMCP. Automates short-form video creation by combining text-to-speech, captions, background videos, and music for platforms like TikTok, Instagram Reels, and YouTube Shorts.

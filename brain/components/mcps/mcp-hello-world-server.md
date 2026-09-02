@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T00:40:08Z"
 ---
 ## What it is
 A simple hello world MCP server with a greeting tool, deployable on Railway.

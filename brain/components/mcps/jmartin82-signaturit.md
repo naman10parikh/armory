@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-28T14:22:23Z"
 ---
 ## What it is
 MCP server `Signaturit`, catalogued on PulseMCP. Integrates with Signaturit API to enable electronic signature management, including creation, tracking, and workflow automation for digital document signing processes.

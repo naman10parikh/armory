@@ -8,10 +8,12 @@ source_url: https://github.com/wide-moat/open-computer-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-09-02T00:39:49Z"
 ---
 ## What it is
 MCP server `Open Computer Use`, catalogued on PulseMCP. Managed Docker sandbox for LLMs with live browser, terminal, code execution, and autonomous sub-agent support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:31:42Z"
 ---
 ## What it is
 Connects Claude Code to xAI's Grok for real-time web and X (Twitter) search with multi-agent architecture and 2M token context.

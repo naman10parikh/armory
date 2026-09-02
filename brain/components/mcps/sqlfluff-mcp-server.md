@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:51:31Z"
 ---
 ## What it is
 MCP server that exposes SQLFluff's linting, fixing, and parsing capabilities, enabling MCP-aware clients to lint and fix SQL directly.

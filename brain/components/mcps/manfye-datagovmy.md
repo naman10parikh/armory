@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-08T09:17:16Z"
 ---
 ## What it is
 MCP server `Malaysia Government Data (data.gov.my)`, catalogued on PulseMCP. Integrates with Malaysia's official government data through data.gov.my API and GitHub metadata repository to enable discovery, exploration, and analysis of Malaysian datasets including population statistics, economic indicators, and public service data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:07:08Z"
 ---
 ## What it is
 Provides a guarded semantic layer for text-to-SQL, offering tools for schema discovery, semantic profiling, and query verification to enable safe and reliable SQL generation on enterprise databases.

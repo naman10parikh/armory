@@ -8,10 +8,12 @@ source_url: https://github.com/misanthropic-ai/ddg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-13T02:25:43Z"
 ---
 ## What it is
 MCP server `DuckDuckGo Search`, catalogued on PulseMCP. Integrates with DuckDuckGo to provide web, image, news, and video search capabilities with configurable parameters for region, safesearch, and time limits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:45:31Z"
 ---
 ## What it is
 An MCP server that gives AI coding agents the ability to analyze a Python repository's test health: coverage, flaky tests, and ML-based pull-request risk prediction.

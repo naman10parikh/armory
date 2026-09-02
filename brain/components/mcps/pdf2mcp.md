@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T10:11:24Z"
 ---
 ## What it is
 Turn any PDF folder into a searchable MCP server with semantic, hybrid, or keyword search.

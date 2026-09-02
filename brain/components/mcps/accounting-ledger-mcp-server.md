@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-02T23:09:33Z"
 ---
 ## What it is
 Provides double-entry accounting ledger creation, transaction recording, and financial reporting capabilities via MCP.

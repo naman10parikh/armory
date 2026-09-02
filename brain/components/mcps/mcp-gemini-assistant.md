@@ -8,11 +8,13 @@ source_url: https://github.com/peterkrueck/mcp-gemini-assistant
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-07-22T15:08:37Z"
 ---
 ## What it is
 Enables Claude Code to consult Gemini for complex coding problems with session management, file attachments, and conversation persistence.

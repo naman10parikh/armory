@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T22:31:49Z"
 ---
 ## What it is
 Enables planning bike routes using the BRouter engine, with support for waypoints, route profiles, and exporting routes as GPX or other formats.

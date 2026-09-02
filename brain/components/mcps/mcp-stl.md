@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T14:51:51Z"
 ---
 ## What it is
 Enables editing of STL 3D model files through the Model Context Protocol, providing tools for reading, writing, transforming, and creating primitive shapes.

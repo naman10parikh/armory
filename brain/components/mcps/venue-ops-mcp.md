@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:29:34Z"
 ---
 ## What it is
 Provides read-only access to daily trading figures for multi-site restaurant groups, detecting anomalies in control blocks such as void rates and labor percentages to uncover subtle financial leaks.

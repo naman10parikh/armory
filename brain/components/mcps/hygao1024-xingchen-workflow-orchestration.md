@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-10T12:51:46Z"
 ---
 ## What it is
 MCP server `Xingchen Workflow Orchestration`, catalogued on PulseMCP. Bridges AI assistants with iFlytek's workflow orchestration system, enabling complex business automation tasks through configurable sequential, parallel, loop, and nested execution modes.

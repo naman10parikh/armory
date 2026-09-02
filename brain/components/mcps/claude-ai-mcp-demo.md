@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T16:28:03Z"
 ---
 ## What it is
 MCP server that enables Claude to dynamically rebrand and restock a themeable micro-storefront, including content and look-and-feel control via MCP tools.

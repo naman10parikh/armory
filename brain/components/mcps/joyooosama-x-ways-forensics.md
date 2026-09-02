@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T13:50:16Z"
 ---
 ## What it is
 MCP server `X-Ways Forensics`, catalogued on PulseMCP. Integrates X-Ways Forensics 20.0 with AI clients via 32 tools, 10 resources, and 5 prompts for case management, evidence analysis, and automated forensic workflows.

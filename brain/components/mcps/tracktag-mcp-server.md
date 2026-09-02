@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:17:04Z"
 ---
 ## What it is
 Enables AI agents to analyze local or URL-hosted audio files with TrackTag, returning professional music metadata such as BPM, key, genres, moods, and 35+ fields. Runs locally on your machine, using your TrackTag API key and credit balance for analyses.

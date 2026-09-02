@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, benchmark, google, academic]
+forks: 618
+pushed_at: "2024-07-19T11:57:37Z"
 ---
 ## What it is
 Google's Beyond the Imitation Game benchmark: 200+ diverse tasks designed to probe capabilities beyond standard NLP benchmarks.

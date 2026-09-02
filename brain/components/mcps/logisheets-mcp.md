@@ -8,11 +8,13 @@ source_url: https://github.com/logisky/logisheets-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-09-01T10:06:44Z"
 ---
 ## What it is
 Enables AI agents to work with a real Excel-compatible spreadsheet engine, allowing them to create and manipulate structured data blocks, write and evaluate formulas, and save genuine .xlsx files with live formulas for human verification and reuse.

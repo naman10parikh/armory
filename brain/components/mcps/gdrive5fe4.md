@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-19T01:54:08Z"
 ---
 ## What it is
 MCP server `Google Drive`, catalogued on PulseMCP. Provides a bridge to Google Drive for searching files and retrieving document content without manual browsing, enabling document analysis and reference material access.

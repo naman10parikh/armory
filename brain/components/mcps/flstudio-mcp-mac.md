@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T18:09:49Z"
 ---
 ## What it is
 Enables controlling FL Studio on macOS via MCP, including transport, mixer, channel, MIDI export, and Piano Roll note insertion.

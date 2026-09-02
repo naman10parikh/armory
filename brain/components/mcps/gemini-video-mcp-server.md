@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T20:50:32Z"
 ---
 ## What it is
 Enables AI coding assistants like Claude Code and Cursor to analyze and understand video content using Google's Gemini AI, supporting long videos, segment analysis, and Q\&A.

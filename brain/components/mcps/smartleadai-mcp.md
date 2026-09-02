@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T13:46:00Z"
 ---
 ## What it is
 An unofficial MCP server for Smartlead that exposes the SmartProspect API and core Smartlead operations, enabling agents to search for leads, manage campaigns, and control credit spending with configurable safety modes.

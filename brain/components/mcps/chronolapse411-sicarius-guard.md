@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 2
+forks: 0
+pushed_at: "2026-05-20T17:49:08Z"
 ---
 ## What it is
 Solana token safety oracle for AI agents and trading bots. Byte-level SPL mint analysis, honeypot detection, freeze/mint authority checks, Birdeye market enrichment, and composite risk scoring. Deployed on Google Cloud Run.

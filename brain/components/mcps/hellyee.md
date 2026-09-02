@@ -8,11 +8,13 @@ source_url: https://github.com/guvense/hellyee
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:01:24Z"
 ---
 ## What it is
 MCP server that enables natural language control of Ableton Live for music production, including track, clip, device, automation, and mixing operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T09:57:02Z"
 ---
 ## What it is
 Enables musicians and their agents to manage AI licensing, register tracks by ISRC, issue/revoke licences, access compliance audit trails, and run their artist platform (merch, events, subscriptions, crowdfunding) through natural language with 46 tools.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-22T20:32:48Z"
 ---
 ## What it is
 MCP server `Archai Hexagonal Architecture Analyzer`, catalogued on PulseMCP. Enforces hexagonal architecture principles in Java applications through static code analysis that validates architectural rules including dependency limitations, domain isolation, naming conventions, and proper email handling.

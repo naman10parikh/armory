@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:12:00Z"
 ---
 ## What it is
 A multi-agent AI system that reads Indian contracts, flags unfair clauses with severity scores, and provides citations to Indian law. Runs as an MCP server in Claude Desktop.

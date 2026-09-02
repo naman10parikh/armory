@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T00:35:58Z"
 ---
 ## What it is
 A sandboxed computer-use MCP server that lets an AI agent drive a real browser and desktop apps, confined to a nested X11 window so it cannot touch your real screen or files.

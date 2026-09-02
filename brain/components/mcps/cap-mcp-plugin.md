@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2026-07-17T02:05:38Z"
 ---
 ## What it is
 A CAP plugin that automatically generates MCP servers from your CAP services, transforming OData services into AI-accessible resources, tools, and prompts with minimal configuration.

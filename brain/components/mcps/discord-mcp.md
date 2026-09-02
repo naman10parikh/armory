@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-12T11:32:09Z"
 ---
 ## What it is
 Enables LLMs to read and send Discord messages, list servers and channels, and monitor unread messages via a selfbot that uses a user token (violates Discord ToS).

@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-09-13T17:05:57Z"
 ---
 ## What it is
 MCP server `Compiler Explorer`, catalogued on PulseMCP. Connects to Compiler Explorer API for listing programming languages, retrieving available compilers, and compiling source code with customizable options, enabling developers to compare compiler behaviors and explore language features without context switching.

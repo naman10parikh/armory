@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T11:23:54Z"
 ---
 ## What it is
 Enables parsing, analysis, and export of power measurement data from Monsoon Power Monitor PT5 files, including summary statistics, sample retrieval, trend analysis, and CSV export.

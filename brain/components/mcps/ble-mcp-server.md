@@ -8,11 +8,13 @@ source_url: https://github.com/es617/ble-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-30T03:00:31Z"
 ---
 ## What it is
 A stateful Bluetooth Low Energy (BLE) MCP server that enables AI agents to scan, connect, read/write characteristics, and subscribe to notifications on BLE devices.

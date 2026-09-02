@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:23:43Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Leapd, enabling them to launch and manage an AI-run business by creating tasks, deploying sites, and accessing business documents.

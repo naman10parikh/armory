@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T03:06:06Z"
 ---
 ## What it is
 Provides 8 WebDAV file operations as MCP tools for AI agents to interact with remote WebDAV servers.

@@ -8,11 +8,13 @@ source_url: https://github.com/V1xel/mixamo-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-05T15:17:52Z"
 ---
 ## What it is
 Enables Claude Code to automate Mixamo: browse/search animations, upload custom characters via Auto-Rigger, set animation parameters, and download animations with your character.

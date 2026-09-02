@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:44:06Z"
 ---
 ## What it is
 Memory-palace graph MCP server for AI agent memory, exposing memory_add / get / like / record_window / walk / retrieve / neighbors / rooms / misshelved / rehome operations over a zero-dependency, append-only, provenance-tracking knowledge graph with decay, PMI-derived adjacency, and spatial coordina

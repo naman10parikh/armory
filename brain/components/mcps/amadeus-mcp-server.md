@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-05-08T13:59:30Z"
 ---
 ## What it is
 Integrates with Amadeus Flight Offers Search API to provide flight search capabilities through natural language interfaces, enabling users to search for flight options between two locations with specific dates.

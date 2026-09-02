@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-27T21:09:55Z"
 ---
 ## What it is
 Enables AI assistants to control Sonos audio devices over a local network using UPnP/SOAP protocols, supporting playback, volume, queue management, zone grouping, and music library browsing.

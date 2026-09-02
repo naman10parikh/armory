@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T18:35:54Z"
 ---
 ## What it is
 An intentionally vulnerable MCP server designed as a live demo target for the MCP Trust security scanner. It contains deliberate insecure patterns to demonstrate scanning capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T21:46:10Z"
 ---
 ## What it is
 Implements the Recursive Language Model pattern, enabling LLMs to process arbitrarily long contexts through session-based document management, on-demand chunking, BM25 search, and artifact storage.

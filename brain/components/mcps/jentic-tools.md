@@ -8,10 +8,12 @@ source_url: https://github.com/jentic/jentic-sdks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-12T13:51:53Z"
 ---
 ## What it is
 MCP server `Jentic`, catalogued on PulseMCP. Enables AI assistants to discover and execute external APIs and workflows through a Python SDK that leverages the Open Agentic Knowledge repository for standardized API access and execution.

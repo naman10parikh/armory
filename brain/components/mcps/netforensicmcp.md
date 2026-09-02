@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-18T07:11:57Z"
 ---
 ## What it is
 An MCP server for offline network forensic analysis and threat intelligence, enabling LLMs to analyze PCAP files, extract streams, detect threats, and identify credentials using tshark.

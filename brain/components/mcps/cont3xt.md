@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-09T19:16:51Z"
 ---
 ## What it is
 Virtual Infinite Context for Agents and LLMs - maintains a continuous rolling context window, surfacing relevant memories while respecting token budgets.

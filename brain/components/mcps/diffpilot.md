@@ -8,11 +8,13 @@ source_url: https://github.com/bkalafat/DiffPilot
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-18T19:11:59Z"
 ---
 ## What it is
 A local AI code review MCP server that provides tools for pre-PR review, diff analysis, secret scanning, and commit message generation, all running locally without cloud dependencies.

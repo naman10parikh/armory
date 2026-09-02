@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 5
+forks: 1
+pushed_at: "2026-03-10T06:10:48Z"
 ---
 ## What it is
 Send real physical postcards worldwide via AI agents. Bulk send up to 500 recipients. Volume pricing from $0.72/card.

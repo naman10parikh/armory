@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-03T16:03:40Z"
 ---
 ## What it is
 MCP server `mcp-lint`, catalogued on PulseMCP. Lints MCP tool schemas for cross-client compatibility and agent preflight safety.

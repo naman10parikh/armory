@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:57:23Z"
 ---
 ## What it is
 Enables AI agents to plan weather-aware trips across Thailand by providing real-time sky conditions, area search, and weather-fit itinerary generation for 150+ locations through Arnfa's API.

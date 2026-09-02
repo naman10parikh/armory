@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:53:34Z"
 ---
 ## What it is
 MCP server that exposes an in-browser AI ERP (CRM, stock, invoices, HR) with role-aware agents, enabling natural language chat and confirm-before-write actions.

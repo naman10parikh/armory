@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:07:02Z"
 ---
 ## What it is
 Control real iPhones from Claude through MCP, enabling AI to read screens, plan multi-step tasks, and execute human-like touch gestures on stock iOS devices without jailbreak.

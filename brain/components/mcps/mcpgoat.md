@@ -8,11 +8,13 @@ source_url: https://github.com/SabyasachiDhal/MCPGoat
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T14:12:08Z"
 ---
 ## What it is
 A deliberately insecure MCP server for practicing penetration testing, featuring 26 challenges at three difficulty levels with flags to capture, covering vulnerabilities like RCE, SSRF, SQLi, and more.

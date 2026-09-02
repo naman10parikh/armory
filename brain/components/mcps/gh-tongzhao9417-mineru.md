@@ -8,10 +8,12 @@ source_url: https://github.com/tongzhao9417/mineru_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-19T09:20:30Z"
 ---
 ## What it is
 MCP server `MinerU`, catalogued on PulseMCP. Document-to-Markdown conversion server wrapping MinerU API for PDFs, Word, PowerPoint, and images with OCR support.

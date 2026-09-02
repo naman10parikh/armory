@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T08:55:14Z"
 ---
 ## What it is
 MCP server `License Audit`, catalogued on PulseMCP. Audits npm project dependencies for license compatibility, flagging GPL/AGPL conflicts and generating compliance reports.

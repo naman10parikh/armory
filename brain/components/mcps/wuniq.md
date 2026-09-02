@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:05:31Z"
 ---
 ## What it is
 Local-first structured project memory for AI coding agents. Keeps decisions, constraints, intent, and human reasoning in readable sidecars beside project files; requires the free Wuniq desktop app.

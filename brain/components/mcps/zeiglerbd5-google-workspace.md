@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T00:53:36Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. MCP server for Gmail, Google Calendar, Docs, and Sheets via OAuth 2.0 with configurable per-service permission levels.

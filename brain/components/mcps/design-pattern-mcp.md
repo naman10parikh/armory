@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T00:00:00Z"
 ---
 ## What it is
 Provides design pattern templates and anti-pattern guidance to AI coding agents for correct pattern implementation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T21:22:02Z"
 ---
 ## What it is
 MCP server for managing cPanel hosting accounts via UAPI. Enables domains, DNS, email, MySQL, file management, and arbitrary UAPI calls through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-03T10:27:43Z"
 ---
 ## What it is
 Enables AI agents to control Linux/X11 desktops by providing tools for taking screenshots, clicking, typing, and managing windows via AT-SPI and xdotool.

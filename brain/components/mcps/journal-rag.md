@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:39:12Z"
 ---
 ## What it is
 Hybrid retrieval MCP server for searching team markdown journals using BM25 and local vector embeddings, with tools for search, browse, and regex lookup.

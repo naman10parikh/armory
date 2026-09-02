@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T04:24:39Z"
 ---
 ## What it is
 A local, model-independent DAG task coordinator for AI coding agents, with a static visual UI, validated state machine, resumable JSON progress, and MCP tools.

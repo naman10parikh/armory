@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-20T11:57:52Z"
 ---
 ## What it is
 MCP server `Lingvanex Translate`, catalogued on PulseMCP. Provides multilingual text translation using the Lingvanex API, allowing translation between more than 100 languages.

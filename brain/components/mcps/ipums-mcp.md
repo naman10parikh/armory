@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T14:32:26Z"
 ---
 ## What it is
 An MCP server that exposes the IPUMS API as LLM tools for browsing metadata, creating and downloading extracts, and generating reproducible R/Python code.

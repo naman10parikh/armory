@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:08:21Z"
 ---
 ## What it is
 Provider-neutral MCP transport for Parent Main, Child Main, and Role Child conversation operations, enabling agents to create child conversations, send results, request user decisions, and manage missions via HMAC-signed capabilities without exposing credentials.

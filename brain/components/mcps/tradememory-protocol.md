@@ -8,11 +8,13 @@ source_url: https://github.com/mnemox-ai/tradememory-protocol
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 643
+stars: 1411
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 166
+pushed_at: "2026-08-11T17:55:53Z"
 ---
 ## What it is
 AI trading memory layer for MT5/forex. 3-tier architecture (L1 raw trades → L2 pattern discovery → L3 strategy adjustment). 15 MCP tools: store/recall trades, performance analytics, reflections, evolution engine, and Outcome-Weighted Memory (OWM).

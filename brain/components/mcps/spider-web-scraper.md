@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-14T05:54:11Z"
 ---
 ## What it is
 MCP server `Spider Web Scraper`, catalogued on PulseMCP. Provides web scraping capabilities using Puppeteer and Cheerio to search Bing, extract webpage content, and convert pages to Markdown format with batch processing support for competitive research and content analysis.

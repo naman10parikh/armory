@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-21T10:59:33Z"
 ---
 ## What it is
 MCP server `Health Reminder`, catalogued on PulseMCP. Provides automated desktop notifications for wellness activities like water intake, posture breaks, and eye rest with configurable reminder intervals and customizable messages.

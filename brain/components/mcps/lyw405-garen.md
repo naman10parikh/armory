@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-26T07:30:03Z"
 ---
 ## What it is
 MCP server `GarenMCP`, catalogued on PulseMCP. Transforms natural language descriptions into production-ready React components through XML-based artifact parsing with support for multiple AI providers including Anthropic Claude, OpenAI GPT, DeepSeek, and Ollama.

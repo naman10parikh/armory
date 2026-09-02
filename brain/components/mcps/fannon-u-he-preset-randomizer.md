@@ -8,10 +8,12 @@ source_url: https://github.com/fannon/u-he-preset-randomizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-10T10:03:44Z"
 ---
 ## What it is
 MCP server `u-he Preset Randomizer`, catalogued on PulseMCP. Generate and randomize u-he synthesizer presets through AI-assisted workflows

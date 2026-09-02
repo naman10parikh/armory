@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T14:07:03Z"
 ---
 ## What it is
 MCP server `Claude Web Cache`, catalogued on PulseMCP. Persistent cross-session WebFetch cache for Claude Code using SQLite with a 7-day time-to-live.

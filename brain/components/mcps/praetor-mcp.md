@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T11:07:57Z"
 ---
 ## What it is
 Provides a local synthetic MCP stdio service for querying maintenance evidence and preparing human-review-gated advisory packets, with deterministic governance, evidence boundary tracing, and Agent K integrity scoring to separate retrieved evidence from model inference while preserving human review 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T21:21:17Z"
 ---
 ## What it is
 MCP server for Citizen of the Cloud — agent identity verification, trust scoring, and registry access for any AI runtime that speaks the Model Context Protocol.

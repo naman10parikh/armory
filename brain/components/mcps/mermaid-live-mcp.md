@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-30T04:07:07Z"
 ---
 ## What it is
 MCP server that generates Mermaid diagrams with live browser preview, supports real-time rendering and SVG/PNG export.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-01T00:02:26Z"
 ---
 ## What it is
 A powerful Model Context Protocol (MCP) server that provides comprehensive Google Analytics 4 (GA4), Google Search Console (GSC), and Google Merchant Center (GMC) integration for Claude Desktop and other MCP clients.

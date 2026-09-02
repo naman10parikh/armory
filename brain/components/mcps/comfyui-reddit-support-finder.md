@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:55:33Z"
 ---
 ## What it is
 Enables read-only, user-initiated searches of public r/comfyui troubleshooting discussions, returning titles, excerpts, and direct Reddit links to help find existing solutions before posting duplicate support questions.

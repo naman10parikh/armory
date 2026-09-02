@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-08T08:24:10Z"
 ---
 ## What it is
 Enables AI assistants to interact with Google Drive, supporting file operations like list, search, read, create, update, delete, share, and manage permissions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:38:02Z"
 ---
 ## What it is
 A read-only MCP server that lets Unsloth Studio retrieve earlier local chat sessions from its SQLite database, providing tools to list, get, recall, and search sessions while excluding system messages and redacting sensitive patterns.

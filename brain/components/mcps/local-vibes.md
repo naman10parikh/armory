@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:03:01Z"
 ---
 ## What it is
 A generic OpenAI-compatible subagent MCP server that lets Claude Code delegate coding grunt-work to a local model via a tool-calling agent loop, with configurable concurrency and backend.

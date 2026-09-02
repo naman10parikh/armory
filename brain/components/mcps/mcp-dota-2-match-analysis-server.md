@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T07:54:21Z"
 ---
 ## What it is
 FastMCP server for Dota 2 match analysis using replay files and OpenDota API, with built-in coaching instructions for LLMs.

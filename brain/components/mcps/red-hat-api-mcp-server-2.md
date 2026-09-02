@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T15:40:27Z"
 ---
 ## What it is
 MCP server providing tools to search Red Hat KCS solutions, retrieve solution details, search cases, and get case details via Red Hat APIs.

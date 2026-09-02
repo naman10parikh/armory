@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T05:10:04Z"
 ---
 ## What it is
 AI Agent Hub is a pay-per-call API platform for AI agents Every call is billed automatically in USDC using the x402 protocol - there is no API key, no account, and no signup. Agents get instant access to data queries, file storage, and ad impressions, paying only for what they actually use. The same

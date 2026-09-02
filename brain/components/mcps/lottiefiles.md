@@ -8,10 +8,12 @@ source_url: https://github.com/junmer/mcp-server-lottiefiles
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-29T14:06:46Z"
 ---
 ## What it is
 MCP server `LottieFiles`, catalogued on PulseMCP. Integrates with the LottieFiles API to enable search and retrieval of animations by keywords, popular collections, and detailed information without leaving the conversation interface.

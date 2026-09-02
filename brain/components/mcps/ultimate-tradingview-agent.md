@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-08T01:54:57Z"
 ---
 ## What it is
 AI-powered trading toolkit with backtesting, live sentiment, Yahoo Finance, and 30+ technical analysis tools for MCP clients.

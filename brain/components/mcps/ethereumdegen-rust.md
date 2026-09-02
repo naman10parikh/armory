@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-03T22:34:57Z"
 ---
 ## What it is
 MCP server `Ethereal Rust`, catalogued on PulseMCP. Provides a flexible, type-safe Rust foundation for building applications with tool management, authentication handling, and custom middleware support, offering both stdio and SSE transports.

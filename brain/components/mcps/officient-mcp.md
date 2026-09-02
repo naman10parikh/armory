@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:56:11Z"
 ---
 ## What it is
 An MCP server that provides typed tools for AI assistants to read and write data from the Officient HR API, including people, calendars, contracts, expenses, and more.

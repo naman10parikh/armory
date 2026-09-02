@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:35:47Z"
 ---
 ## What it is
 A local MCP server for RGPD-compliant document Q&A, enabling Claude Code to ingest, query, search, delete, and audit personal documents entirely on-device.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-28T15:53:35Z"
 ---
 ## What it is
 Enables AI models to interact with MySQL databases through MCP protocol, supporting queries, table schema inspection, and data manipulation operations.

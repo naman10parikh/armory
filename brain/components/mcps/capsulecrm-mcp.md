@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-22T09:26:31Z"
 ---
 ## What it is
 Enables natural language customer and sales management by connecting AI assistants directly to CapsuleCRM, allowing users to search, create, and update CRM data via plain English commands.

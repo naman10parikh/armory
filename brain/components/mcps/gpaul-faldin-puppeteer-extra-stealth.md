@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-20T00:53:38Z"
 ---
 ## What it is
 MCP server `Puppeteer Extra Stealth`, catalogued on PulseMCP. Enables stealthy web automation with Puppeteer-Extra and Stealth Plugin for navigating websites, capturing screenshots, interacting with elements, and executing JavaScript while avoiding detection as automation.

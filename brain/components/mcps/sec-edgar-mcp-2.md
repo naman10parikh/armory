@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:17Z"
 ---
 ## What it is
 Hosted MCP server that gives AI agents real-time access to SEC EDGAR filings search, 10-K/8-K reading, XBRL financial facts, and insider-trade (Form 4) alerts.

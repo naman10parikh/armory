@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-08T12:17:34Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Enables AI assistants to interact with web browsers through a FastAPI server for web browsing, content extraction, and automation tasks with configurable LLM providers and browser modes.

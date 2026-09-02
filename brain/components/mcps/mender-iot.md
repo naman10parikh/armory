@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-27T07:34:46Z"
 ---
 ## What it is
 MCP server `Mender IoT`, catalogued on PulseMCP. Integrates with Mender IoT device management platform to provide secure access to device fleets, deployments, artifacts, releases, and audit logs with automatic credential masking and comprehensive error handling for production IoT monitoring workflows.

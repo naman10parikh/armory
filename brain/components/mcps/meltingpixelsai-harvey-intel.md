@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T21:00:26Z"
 ---
 ## What it is
 MCP server `Harvey Intel`, catalogued on PulseMCP. Token safety analysis, trading signals, and social intelligence for crypto markets.

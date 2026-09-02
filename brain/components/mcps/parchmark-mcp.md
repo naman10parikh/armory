@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T22:56:06Z"
 ---
 ## What it is
 MCP server for managing ParchMark notes via Claude Code/Desktop. Provides tools to list, get, create, update, and delete notes through natural language.

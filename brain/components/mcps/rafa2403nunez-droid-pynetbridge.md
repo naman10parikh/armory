@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-04T09:23:36Z"
 ---
 ## What it is
 MCP server `PyNet Bridge`, catalogued on PulseMCP. Bridges AI agents with PyNet Platform for BIM and engineering automation in Autodesk tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T12:40:24Z"
 ---
 ## What it is
 An MCP server that provides Lucide icons as SVG, allowing clients to list, search, and retrieve icons by name.

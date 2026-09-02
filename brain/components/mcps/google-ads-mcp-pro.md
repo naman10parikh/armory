@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:25:12Z"
 ---
 ## What it is
 A Model Context Protocol server providing full read and write control over Google Ads, enabling AI assistants to build campaigns, fix targeting, rewrite ads, and manage bidding strategies without opening a browser.

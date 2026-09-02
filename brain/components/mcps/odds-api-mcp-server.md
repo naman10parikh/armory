@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T12:57:21Z"
 ---
 ## What it is
 Enables AI assistants to access sports betting odds data from 265+ bookmakers across 34 sports, including events, odds, historical data, arbitrage, and value bets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T16:20:17Z"
 ---
 ## What it is
 Official MCP server for INBIO's URL shortener with click analytics and customizable QR codes. Enables link shortening, QR code generation, and link management with optional authentication for advanced features.

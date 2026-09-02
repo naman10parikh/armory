@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T12:10:47Z"
 ---
 ## What it is
 MCP server for Obsidian vault structural health checks. Find broken wikilinks, orphaned notes, and missing frontmatter, with optional auto-repair.

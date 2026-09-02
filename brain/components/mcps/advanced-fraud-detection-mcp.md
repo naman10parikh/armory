@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:59:26Z"
 ---
 ## What it is
 Detects financial fraud and AI agent transaction risks using machine learning, behavioral biometrics, network graph analysis, and agent-to-agent protection.

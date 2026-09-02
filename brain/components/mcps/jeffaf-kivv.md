@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T18:06:09Z"
 ---
 ## What it is
 MCP server `Kivv`, catalogued on PulseMCP. Automates academic paper discovery from arXiv with daily collection, relevance scoring, and summarization, providing personalized research feeds and reading status management for researchers.

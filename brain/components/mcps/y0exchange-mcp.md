@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T00:04:21Z"
 ---
 ## What it is
 An MCP server that gives AI agents real-time access to DeFi across multiple chains, enabling non-custodial crypto trading, portfolio queries, and transaction execution.

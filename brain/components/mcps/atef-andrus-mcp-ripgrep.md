@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:10:37Z"
 ---
 ## What it is
 An MCP server that wraps ripgrep to provide powerful text search, search-and-replace, file listing, and file type listing capabilities within a defined scope.

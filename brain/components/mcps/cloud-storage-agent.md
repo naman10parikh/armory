@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T20:26:37Z"
 ---
 ## What it is
 An MCP server deployed on Cloud Run that enables reading Cloud Storage and leveraging Vertex AI models via natural language.

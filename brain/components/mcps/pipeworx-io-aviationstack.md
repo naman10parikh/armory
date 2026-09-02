@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:42:49Z"
 ---
 ## What it is
 MCP server `Aviationstack`, catalogued on PulseMCP. Query real-time and historical global flight data including schedules, live flight status, airport info, and airline details via the Aviationstack API.

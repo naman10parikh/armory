@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:45Z"
 ---
 ## What it is
 Enables consulting official data from the Tribunal TJSP Colégio Recursal and Turma de Uniformização via a single read-only tool, supporting any MCP client with prepaid credits.

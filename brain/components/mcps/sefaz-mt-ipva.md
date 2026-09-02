@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:27Z"
 ---
 ## What it is
 MCP server for consulting IPVA (vehicle property tax) in Mato Grosso, Brazil, from the official SEFAZ MT source. It provides a single read-only tool that works with any MCP client over HTTP.

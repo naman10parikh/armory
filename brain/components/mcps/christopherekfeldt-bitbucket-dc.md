@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-28T12:39:07Z"
 ---
 ## What it is
 MCP server `Bitbucket Data Center`, catalogued on PulseMCP. Integrates with Bitbucket Data Center for code search, file browsing, pull request management, and repository exploration through the REST API.

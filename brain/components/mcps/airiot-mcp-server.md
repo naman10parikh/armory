@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T03:36:02Z"
 ---
 ## What it is
 MCP server for the AIRIOT IoT platform, enabling AI assistants to manage data tables, records, devices, alarms, files, and more through natural language.

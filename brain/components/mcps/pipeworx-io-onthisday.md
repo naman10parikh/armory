@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:22Z"
 ---
 ## What it is
 MCP server `On This Day`, catalogued on PulseMCP. Retrieve historical events, births, and deaths that occurred on any given date.

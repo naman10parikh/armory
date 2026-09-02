@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T17:49:41Z"
 ---
 ## What it is
 MCP server `Mansa African Markets`, catalogued on PulseMCP. Live African stock market data from NGX, GSE, NSE, JSE, BRVM, and 8 more exchanges.

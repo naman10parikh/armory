@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T17:22:49Z"
 ---
 ## What it is
 Enables discovery and control of Philips Hue lighting devices via a local bridge using the CLIP v2 API, without any cloud dependency.

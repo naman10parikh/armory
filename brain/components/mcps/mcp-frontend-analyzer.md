@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T18:25:12Z"
 ---
 ## What it is
 A comprehensive MCP server for frontend analysis. It provides Google Lighthouse audits, code quality checks, SEO metadata verification, accessibility analysis, and bundle optimization for React and Next.js projects.

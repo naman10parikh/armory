@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T16:05:46Z"
 ---
 ## What it is
 A local-first MCP server for PageIndex — the vectorless, reasoning-based RAG framework. It lets local AI agents index and query local PDF and Markdown documents through a self-hosted PageIndex installation, without requiring any PageIndex cloud API key.

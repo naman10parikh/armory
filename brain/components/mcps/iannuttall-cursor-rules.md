@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-24T15:02:25Z"
 ---
 ## What it is
 MCP server `Cursor Rules`, catalogued on PulseMCP. Provides a bridge to Playbooks Rules API for listing, searching, and retrieving rules with tools for processing URL-based slugs and formatting rule files with metadata

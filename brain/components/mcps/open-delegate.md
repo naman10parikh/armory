@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:29:56Z"
 ---
 ## What it is
 Delegate a Cursor task to a real, unattended background OpenCode agent — cheaper model, isolated history — through five small MCP tools.

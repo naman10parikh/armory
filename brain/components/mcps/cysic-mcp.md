@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T20:11:28Z"
 ---
 ## What it is
 Exposes the Cysic AI model to any MCP client over stdio, with server-side session memory and a tone-rewriting tool.

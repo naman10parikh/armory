@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:14:40Z"
 ---
 ## What it is
 Provides XGBoost-based directional predictions (UP/DOWN) for EURUSD and GBPUSD forex pairs via MCP tools, including feature extraction and signal generation.

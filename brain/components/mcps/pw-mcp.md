@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:06:23Z"
 ---
 ## What it is
 It enables each agent session to have its own isolated Chrome browser with a persistent profile, avoiding profile-lock conflicts and shared tab spaces, while resumed sessions reattach to the same browser and tabs. It can also seed new sessions with a saved login template so they start signed in.

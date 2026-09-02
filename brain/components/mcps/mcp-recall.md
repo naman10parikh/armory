@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:54:46Z"
 ---
 ## What it is
 A self-hosted MCP memory server that gives AI assistants persistent, semantic memory by storing facts as vector embeddings locally, supporting semantic search and swappable embedding models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T15:48:49Z"
 ---
 ## What it is
 A local MCP server that parses Terraform .tfstate files and lets AI agents audit enterprise infrastructure for security misconfigurations without requiring direct cloud credentials.

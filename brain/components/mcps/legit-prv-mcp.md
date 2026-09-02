@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:38:08Z"
 ---
 ## What it is
 MCP server for Legit Security that answers questions about security issues, Actions, inventory, posture, and platform usage across one or multiple tenants.

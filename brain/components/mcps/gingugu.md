@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:43:04Z"
 ---
 ## What it is
 Persistent long-term memory for AI coding assistants. Local SQLite, no cloud - 16 MCP tools to store, search, relate, and consolidate typed memories with a confidence lifecycle, hybrid BM25 + semantic search, namespaces, a knowledge graph, and a built-in OS keychain credential vault.

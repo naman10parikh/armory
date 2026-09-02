@@ -8,10 +8,12 @@ source_url: https://github.com/kshern/image-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-26T04:59:55Z"
 ---
 ## What it is
 MCP server `Image Dimensions`, catalogued on PulseMCP. Retrieves image dimensions from URLs and local files with optional compression capabilities through the Tinify API for image analysis and processing tasks.

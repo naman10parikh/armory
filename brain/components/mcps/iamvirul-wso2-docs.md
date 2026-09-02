@@ -8,10 +8,12 @@ source_url: https://github.com/iamvirul/wso2-docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T04:57:54Z"
 ---
 ## What it is
 MCP server `WSO2 Docs`, catalogued on PulseMCP. Provides RAG-based semantic search over WSO2 product documentation including API Manager, Choreo, Ballerina, and Micro Integrator using pgvector embeddings.

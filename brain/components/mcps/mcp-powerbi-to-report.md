@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T04:41:47Z"
 ---
 ## What it is
 Enables discovery of Fabric/Power BI workspaces and semantic models, execution of DAX queries, and generation of executive HTML reports with visualizations.

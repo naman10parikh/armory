@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-18T12:53:30Z"
 ---
 ## What it is
 MCP server `VM Terminal`, catalogued on PulseMCP. Provides a secure web-based terminal interface for remote VM command execution through WebSocket connections and automatic tunnel creation, eliminating the need for direct SSH access.

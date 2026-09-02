@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:37:44Z"
 ---
 ## What it is
 MCP server that gives coding agents persistent, verified memory of codebase decisions, conventions, and skills, with evidence-based claims that are re-checked via git hooks and human-gated review. Enables memory search, propose/approve, chat harvesting, and critique across MCP-compatible tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:54:30Z"
 ---
 ## What it is
 MCP server for Kubernetes FinOps that finds over-provisioned workloads, proposes right-sizing, and enforces safety guardrails with dry-run by default and audit logging.

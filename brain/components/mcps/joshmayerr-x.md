@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-21T20:55:11Z"
 ---
 ## What it is
 MCP server `X (Twitter)`, catalogued on PulseMCP. Integrates with X using real browser APIs to bypass rate limits and enable extensive social media operations and data analysis.

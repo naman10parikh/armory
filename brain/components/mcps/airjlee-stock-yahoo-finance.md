@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-19T05:26:20Z"
 ---
 ## What it is
 MCP server `Yahoo Finance`, catalogued on PulseMCP. Integrates with Yahoo Finance to provide real-time stock market data, financial statements, company information, earnings reports, and news for informed investment analysis and research.

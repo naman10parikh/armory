@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:05:06Z"
 ---
 ## What it is
 Cross-agent messaging for MCP clients, enabling agents to discover one another, exchange threaded messages, and resume work in a persistent project room.

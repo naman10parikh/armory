@@ -8,10 +8,12 @@ source_url: https://github.com/zth0828/mmx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-25T15:29:48Z"
 ---
 ## What it is
 MCP server `MiniMax`, catalogued on PulseMCP. Unified MCP server for MiniMax multimodal AI covering text, image, speech, video, and music generation.

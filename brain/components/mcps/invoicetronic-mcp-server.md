@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T10:53:17Z"
 ---
 ## What it is
 MCP server for Italian electronic invoicing via the Invoicetronic API, enabling management of invoices through SDI with 20 tools for sending, receiving, exporting, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-18T07:04:59Z"
 ---
 ## What it is
 Provides web and news search via DuckDuckGo with support for region filtering, time ranges, and token optimization for AI assistants.

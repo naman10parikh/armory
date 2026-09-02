@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:06:52Z"
 ---
 ## What it is
 MCP server for academic research with shared token bucket governance, evidence-based read depth, and archival inscription. Uses multiple sources with failover to avoid rate limits.

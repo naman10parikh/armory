@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T21:47:25Z"
 ---
 ## What it is
 A unified MCP server for querying and managing multiple database types (PostgreSQL, MySQL, SQL Server, etc.) via natural language through AI assistants.

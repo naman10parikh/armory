@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T08:33:40Z"
 ---
 ## What it is
 Enables human-in-the-loop AI development where Trello tickets drive analysis, implementation, commits, and board sync in Cursor.

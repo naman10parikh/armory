@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T06:33:06Z"
 ---
 ## What it is
 Provides read-only access to legacy MongoDB instances (<4.0) via the Model Context Protocol, enabling AI models to query databases, collections, and run aggregations safely.

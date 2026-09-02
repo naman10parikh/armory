@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:32:42Z"
 ---
 ## What it is
 MCP server that lets AI agents scrape web pages as clean markdown for a micro-payment in USDC, using the x402 protocol on Base network. No API keys or signup required.

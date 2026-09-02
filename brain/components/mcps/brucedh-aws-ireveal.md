@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-11T14:05:41Z"
 ---
 ## What it is
 MCP server `AWS IReveal`, catalogued on PulseMCP. Integrates with AWS security services to enable incident response and investigation through CloudTrail logs, Athena queries, CloudWatch events, GuardDuty findings, and IAM Access Analyzer for comprehensive security event analysis and threat detection.

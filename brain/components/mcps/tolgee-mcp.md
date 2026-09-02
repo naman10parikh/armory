@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T00:54:37Z"
 ---
 ## What it is
 An MCP server that wraps the Tolgee localization platform API, enabling LLMs to manage translation projects, keys, translations, languages, and related workflows.

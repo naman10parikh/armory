@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T18:16:43Z"
 ---
 ## What it is
 A laptop maintenance agent for Claude Desktop that inspects your machine, explains findings, recommends actions, and remembers history, with safety gates enforced by the server.

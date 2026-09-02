@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-11T00:15:28Z"
 ---
 ## What it is
 MCP server `SparkMango`, catalogued on PulseMCP. Converts Solidity smart contracts into RESTful API implementations, enabling applications to interact with blockchain contracts without requiring deep blockchain knowledge.

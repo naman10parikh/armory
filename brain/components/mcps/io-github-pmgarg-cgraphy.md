@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:21:02Z"
 ---
 ## What it is
 Enables AI coding agents to query a codebase as a knowledge graph, providing token-budgeted context, search, and impact analysis via MCP tools.

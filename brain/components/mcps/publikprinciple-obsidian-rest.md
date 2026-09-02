@@ -8,10 +8,12 @@ source_url: https://github.com/publikprinciple/obsidian-mcp-rest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-02-03T17:13:59Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian via a local REST API to enable reading, writing, and searching notes.

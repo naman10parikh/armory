@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:19:57Z"
 ---
 ## What it is
 Enables AI assistants to procedurally generate, edit, quantize, and export 2D retro pixel art textures and tilesets for game development, with built-in palettes, dithering, and pixel-level manipulation tools.

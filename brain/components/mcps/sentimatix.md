@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-25T21:15:46Z"
 ---
 ## What it is
 MCP server `Sentimatix`, catalogued on PulseMCP. Real-time Indian stock market sentiment analysis delivering NSE/BSE news NLP scores, technical indicators, and RAG-based news search for AI agents.

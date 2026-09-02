@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-06-29T01:35:00Z"
 ---
 ## What it is
 Enables AI assistants to interact with the full range of Paystack APIs, allowing operations like transaction management, customer creation, and payments through natural language.

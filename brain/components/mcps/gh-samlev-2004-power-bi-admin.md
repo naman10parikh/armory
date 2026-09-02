@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T19:58:14Z"
 ---
 ## What it is
 MCP server `Power BI Admin`, catalogued on PulseMCP. Full Power BI administration with 43 tools covering workspaces, reports, datasets, DAX queries, and governance.

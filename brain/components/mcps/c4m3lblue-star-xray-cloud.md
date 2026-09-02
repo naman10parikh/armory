@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-24T06:27:15Z"
 ---
 ## What it is
 MCP server `Xray Cloud`, catalogued on PulseMCP. Integrates with Xray Cloud API to provide test management capabilities including test case creation, execution tracking, test planning, and JQL-based searches across all test artifacts for QA workflow automation and CI/CD pipeline integration.

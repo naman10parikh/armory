@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-08T09:04:55Z"
 ---
 ## What it is
 MCP server `PDF Parser`, catalogued on PulseMCP. MCP server for PDF text extraction optimized for LLMs, with figure detection using spatial heuristics and page screenshot rendering without GPU or API keys.

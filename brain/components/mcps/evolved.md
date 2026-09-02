@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T08:30:39Z"
 ---
 ## What it is
 An MCP server that provides the complete operations brain of an industrial-services company, enabling agents to manage quoting, booking, invoicing, safety, and finances end-to-end.

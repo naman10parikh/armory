@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-09-01T16:53:34Z"
 ---
 ## What it is
 Connect Claude to your IFS Cloud instance and interact with your ERP through natural conversation.

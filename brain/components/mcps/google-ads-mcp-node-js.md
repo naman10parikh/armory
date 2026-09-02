@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-01-07T10:20:35Z"
 ---
 ## What it is
 Enables AI to securely access and query Google Ads account data without Google Cloud setup, using GAQL.app as a backend.

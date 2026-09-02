@@ -8,10 +8,12 @@ source_url: https://github.com/kalivaraprasad-gonapa/react-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-10-31T16:05:42Z"
 ---
 ## What it is
 MCP server `React Development Assistant`, catalogued on PulseMCP. Integrates with React applications to enable AI-assisted development workflows, providing tools for project management, terminal command execution, and file operations.

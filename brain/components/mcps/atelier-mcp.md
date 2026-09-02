@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T01:58:01Z"
 ---
 ## What it is
 Post-generation quality gate MCP server that audits and fixes AI-generated code for UI/UX design compliance and backend architecture robustness via tools like critique_ui, critique_backend, and generate_fix.

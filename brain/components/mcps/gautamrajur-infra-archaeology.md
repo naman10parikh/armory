@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T05:52:10Z"
 ---
 ## What it is
 MCP server `Infrastructure Archaeology`, catalogued on PulseMCP. Tracks AWS resource ownership and creation history by searching CloudTrail logs to identify who created EC2 instances, RDS databases, and S3 buckets with timestamps, creation methods, and source IP addresses.

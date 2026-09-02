@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:13:05Z"
 ---
 ## What it is
 A data-loss-prevention (DLP) layer for AI agents that intercepts document reads, scans for sensitive data, and redacts or blocks it before it reaches the model, with audit logging.

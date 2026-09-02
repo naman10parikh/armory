@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T20:20:58Z"
 ---
 ## What it is
 Self-hosted RAG-powered knowledge base that surfaces context from structured notes and transcripts, exposing each project as an MCP tool.

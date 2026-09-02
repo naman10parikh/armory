@@ -8,10 +8,12 @@ source_url: https://github.com/r3352/redact-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-23T13:52:57Z"
 ---
 ## What it is
 MCP server `Redact`, catalogued on PulseMCP. Automatic PII detection and obfuscation using regex pattern matching and AI-powered Named Entity Recognition for secure data handling during penetration testing workflows.

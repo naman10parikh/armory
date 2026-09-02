@@ -8,10 +8,12 @@ source_url: https://github.com/priyankark/a11y-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-22T15:23:46Z"
 ---
 ## What it is
 MCP server `A11y`, catalogued on PulseMCP. Perform accessibility audits on webpages using axe-core. Use the results in an agentic loop with your favorite AI assistants (Cline/Cursor/GH Copilot) and let them fix a11y issues for you.

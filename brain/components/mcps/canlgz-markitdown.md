@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-30T19:50:13Z"
 ---
 ## What it is
 MCP server `MarkItDown`, catalogued on PulseMCP. Converts various file formats including PDF, PowerPoint, Word, Excel, images, audio, HTML, and text-based formats to Markdown through a simple '/md' command.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T17:07:37Z"
 ---
 ## What it is
 An enhanced MCP server for Zoho Projects API integration, enabling AI assistants to manage projects, tasks, issues, milestones, comments, attachments, and more with automatic OAuth token refresh.

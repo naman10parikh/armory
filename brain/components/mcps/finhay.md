@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-21T22:30:22Z"
 ---
 ## What it is
 MCP server `Finhay`, catalogued on PulseMCP. Vietnamese securities market data and portfolio management for AI assistants.

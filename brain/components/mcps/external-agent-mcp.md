@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T06:32:53Z"
 ---
 ## What it is
 Bridges Codex to external CLI coding agents for read-only code analysis and deterministic quality fixes.

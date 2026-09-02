@@ -8,11 +8,13 @@ source_url: https://github.com/Jasper0122/CLI-Anything-Arcgis-Pro
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-22T16:03:49Z"
 ---
 ## What it is
 Drive Esri's ArcGIS Pro from an AI agent — the ArcGIS Pro counterpart to QGIS MCP. A headless ArcPy CLI plus an in-process .NET 8 add-in that exposes the live Pro session as MCP tools (ping, zoom_to, query, run_gp, export_layout) so an agent drives the running project while you watch.

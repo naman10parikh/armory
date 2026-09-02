@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-16T00:00:27Z"
 ---
 ## What it is
 MCP server `Wait`, catalogued on PulseMCP. Provides a simple waiting functionality that pauses execution for specified durations (0-300 seconds) with progress reporting in 10% increments for synchronizing processes between tasks.

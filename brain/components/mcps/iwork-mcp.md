@@ -8,11 +8,13 @@ source_url: https://github.com/reichenbach/iwork_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-19T21:14:16Z"
 ---
 ## What it is
 An MCP server that provides 113 tools for automating Apple iWork apps (Numbers, Pages, Keynote) via JavaScript for Automation, enabling AI assistants to create, edit, and export documents, spreadsheets, and presentations.

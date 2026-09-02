@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-19T19:18:48Z"
 ---
 ## What it is
 MCP server `Dafny Verifier`, catalogued on PulseMCP. Integrates with Dafny to verify code correctness through analysis of formal specifications and proofs.

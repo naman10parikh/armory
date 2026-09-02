@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-09T12:12:04Z"
 ---
 ## What it is
 Enables AI agents to discover and access 800TB+ of public geospatial data from Source Cooperative, with tools for listing organizations, products, files, and fuzzy search.

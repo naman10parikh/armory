@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-03-14T16:52:11Z"
 ---
 ## What it is
 MCP server `Mixpanel`, catalogued on PulseMCP. Integrates with Mixpanel's API to enable querying of events data, retention, and funnels for on-demand analytics and custom report generation.

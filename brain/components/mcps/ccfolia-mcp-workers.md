@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-03T13:49:44Z"
 ---
 ## What it is
 A Cloudflare Workers MCP server for the TRPG online session tool ccfolia, enabling character generation, NPC batch generation, session analysis, random events, and rule assistance.

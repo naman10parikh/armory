@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:11:44Z"
 ---
 ## What it is
 Exposes foldkit's 7-prime spine, 7 κ-bands, and 6 fold operations as MCP tools and resources for AI agents to fold/unfold states, classify utterances, and apply fold operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T22:34:38Z"
 ---
 ## What it is
 Enables MCP tools to be gated behind per-call USDC micropayments with direct on-chain verification and settlement, removing the need for third-party payment facilitators.

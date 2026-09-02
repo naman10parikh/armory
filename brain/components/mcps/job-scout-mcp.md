@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T00:07:06Z"
 ---
 ## What it is
 MCP server that scours job openings from public, ToS-clean sources (Greenhouse, Lever, Ashby, HN, RemoteOK, Adzuna, USAJobs) and provides tools for job search, company listings, and salary context.

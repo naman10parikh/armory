@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 3
+forks: 3
+pushed_at: "2025-09-13T07:37:24Z"
 ---
 ## What it is
 MCP server for accessing the Shahnameh (Book of Kings) Persian epic poem by Ferdowsi, including sections, verses and explanations.

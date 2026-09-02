@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-10-15T20:03:09Z"
 ---
 ## What it is
 MCP server `PRIMS (Python Runtime)`, catalogued on PulseMCP. Provides secure Python code execution in isolated Docker containers with session-persistent workspaces, configurable pip requirements, file mounting capabilities, and automatic artifact capture for data analysis workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-12T22:14:27Z"
 ---
 ## What it is
 Enables AI agents to search the web, fetch pages, and synthesize research through three tools: web_search, fetch_page, and research_topic, all in a single pay-per-use API call.

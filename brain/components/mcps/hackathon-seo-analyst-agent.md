@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:23:25Z"
 ---
 ## What it is
 Enables analysis of raw SEO data by ingesting nested JSON datasets and converting them into clean, actionable metrics through the Model Context Protocol.

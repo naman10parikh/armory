@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T02:06:07Z"
 ---
 ## What it is
 Enables instant U.S. vehicle recall lookup by make, model, and year using official NHTSA data.

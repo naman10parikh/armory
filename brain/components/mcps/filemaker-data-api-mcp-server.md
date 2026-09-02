@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-27T11:15:10Z"
 ---
 ## What it is
 Provides AI agents with direct access to FileMaker databases through the FileMaker Data API, enabling natural language interactions for querying, managing records, and database introspection.

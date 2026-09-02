@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-27T11:55:53Z"
 ---
 ## What it is
 MCP server `WonGames`, catalogued on PulseMCP. Provides a GraphQL interface to retrieve video game data from Strapi CMS, enabling filtered access to game collections, pricing information, and metadata for conversational interfaces.

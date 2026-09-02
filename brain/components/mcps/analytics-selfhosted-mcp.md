@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:32:39Z"
 ---
 ## What it is
 Self-hosted MCP server for Google Analytics over HTTP, providing URL-addressable access with API key auth. It enables clients to run reports, list accounts/properties, and use compact paginated reports for token efficiency.

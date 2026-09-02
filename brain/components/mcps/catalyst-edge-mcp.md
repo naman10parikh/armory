@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T23:50:37Z"
 ---
 ## What it is
 Provides read-only tools to retrieve source-linked catalyst evidence dossiers for public-company tickers, including deterministic catalyst scores and paged source records.

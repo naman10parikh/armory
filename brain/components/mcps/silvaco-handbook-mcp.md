@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:54:04Z"
 ---
 ## What it is
 Provides AI assistants fast, bounded access to Silvaco TCAD manuals and official Deckbuild example decks via search/read tools, with full-text indexing and PDF page references.

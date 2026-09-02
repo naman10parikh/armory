@@ -8,10 +8,12 @@ source_url: https://github.com/math280h/safe-pkgs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-31T23:24:55Z"
 ---
 ## What it is
 MCP server `Safe Packages`, catalogued on PulseMCP. Analyzes npm and Cargo packages for security risks through typosquatting detection, version analysis, and advisory scanning.

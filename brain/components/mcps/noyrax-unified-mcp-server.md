@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:37:38Z"
 ---
 ## What it is
 Unified MCP server that orchestrates 5D Database and Documentation System plugins, providing AI agents with centralized tools for database queries, semantic search, documentation validation, and workflow coordination.

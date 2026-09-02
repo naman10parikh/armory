@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-24T14:04:15Z"
 ---
 ## What it is
 MCP server `EU Audit Trail`, catalogued on PulseMCP. Tamper-evident audit trail for EU AI Act and GDPR compliance with PII scanning and hash chain verification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T07:08:22Z"
 ---
 ## What it is
 Provides an async Python server for interacting with the PubTator3 API, exposing multiple biomedical text-mining tools compatible with the MCP agent protocol.

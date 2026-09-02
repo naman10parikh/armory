@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T11:00:45Z"
 ---
 ## What it is
 Read public Telegram channels from AI agents — channel metadata, posts, comments, and search. No MTProto, no Telethon, no api_id.

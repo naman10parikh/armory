@@ -8,10 +8,12 @@ source_url: https://github.com/daisys-ai/daisys-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-31T21:47:29Z"
 ---
 ## What it is
 MCP server `Daisys AI Text-to-Speech`, catalogued on PulseMCP. Provides a bridge to the Daisys AI text-to-speech API, enabling high-quality voice audio generation with control over characteristics like gender, pace, pitch, and expression.

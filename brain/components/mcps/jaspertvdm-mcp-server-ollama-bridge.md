@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 4
+forks: 2
+pushed_at: "2026-06-10T06:03:25Z"
 ---
 ## What it is
 Bridge to local Ollama LLM server. Run Llama, Mistral, Qwen and other local models through MCP.

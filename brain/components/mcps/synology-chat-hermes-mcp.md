@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:06:10Z"
 ---
 ## What it is
 Provides AI agents with read/write access to a fixed Synology NAS SMB share through strict path jail, size limits, and active-content rejection. Built for secure file operations via FastMCP HTTP server.

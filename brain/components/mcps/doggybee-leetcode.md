@@ -8,10 +8,12 @@ source_url: https://github.com/doggybee/mcp-server-leetcode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-04-02T14:27:05Z"
 ---
 ## What it is
 MCP server `LeetCode`, catalogued on PulseMCP. Provides structured access to LeetCode's problem database, user profiles, and contest information through GraphQL queries for exploring challenges, tracking progress, and analyzing performance.

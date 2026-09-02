@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:19:32Z"
 ---
 ## What it is
 Enables AI assistants to interact with the pons token launchpad on Robinhood Chain for token discovery, verification, price tracking, and trading with built-in safety controls and user approval.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T11:26:26Z"
 ---
 ## What it is
 MCP server `4Q Tokenz`, catalogued on PulseMCP. Intelligent MCP proxy that reduces token usage by exposing only mcp_search and mcp_call tools.

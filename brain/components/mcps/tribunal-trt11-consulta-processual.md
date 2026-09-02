@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:01Z"
 ---
 ## What it is
 Consulta processual em fonte oficial do Tribunal Regional do Trabalho da 11ª Região (TRT11), com ferramenta somente leitura para agentes de IA via MCP over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-19T13:33:58Z"
 ---
 ## What it is
 Provides tools for AI-driven development workflows including file system operations, code analysis, code execution, web fetching, and search.

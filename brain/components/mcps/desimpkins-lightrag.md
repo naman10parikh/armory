@@ -8,10 +8,12 @@ source_url: https://github.com/desimpkins/daniel-lightrag-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-08-22T02:52:23Z"
 ---
 ## What it is
 MCP server `Daniel LightRAG`, catalogued on PulseMCP. Connects to local LightRAG instances via HTTP API for document management, knowledge graph operations, hybrid querying, and pipeline monitoring through 22 specialized tools.

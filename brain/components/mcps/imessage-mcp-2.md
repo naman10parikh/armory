@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:53:23Z"
 ---
 ## What it is
 Local MCP server for reading macOS Messages history and sending iMessages, with security features like opt-in send tools and recipient allowlists.

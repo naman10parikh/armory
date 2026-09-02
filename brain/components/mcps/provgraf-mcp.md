@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:13:27Z"
 ---
 ## What it is
 Read-only MCP server exposing a W3C PROV knowledge graph of verified facts with provenance, enabling AI agents to list, search, and check facts while enforcing that writes remain CLI-only.

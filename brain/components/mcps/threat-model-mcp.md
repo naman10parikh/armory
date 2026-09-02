@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:17:30Z"
 ---
 ## What it is
 Serves any STRIDE threat model to MCP-capable LLMs, enabling natural language querying of threat registers and export to the Microsoft Threat Modeling Tool.

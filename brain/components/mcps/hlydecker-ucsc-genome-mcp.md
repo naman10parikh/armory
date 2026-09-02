@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
 stars: 6
+forks: 4
+pushed_at: "2025-11-13T04:06:30Z"
 ---
 ## What it is
 MCP server to interact with the UCSC Genome Browser API, letting you find genomes, chromosomes, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T12:39:17Z"
 ---
 ## What it is
 Enables querying ERP data via an external API with adaptive caching, and accessing data from Google Sheets or local Excel/CSV files through dual MCP endpoints.

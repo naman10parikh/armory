@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-24T06:54:26Z"
 ---
 ## What it is
 SQLGenius is an MCP server that enables natural language querying of BigQuery databases using Gemini Pro, with features like schema exploration and query history.

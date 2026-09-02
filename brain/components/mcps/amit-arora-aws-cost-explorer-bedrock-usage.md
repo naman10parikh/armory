@@ -8,10 +8,12 @@ source_url: https://github.com/aarora79/aws-cost-explorer-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 126
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-04-14T02:39:53Z"
 ---
 ## What it is
 MCP server `AWS Cost Explorer and Bedrock Usage Analytics`, catalogued on PulseMCP. Integrates with AWS Cost Explorer and CloudWatch to analyze cloud spending patterns and Bedrock model usage statistics for detailed cost monitoring and optimization.

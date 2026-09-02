@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-20T02:51:35Z"
 ---
 ## What it is
 MCP server `SaaSus Platform Docs`, catalogued on PulseMCP. Integrates with SaaSus Platform documentation to provide search, content retrieval, and sitemap navigation with Japanese language support and HTML-to-Markdown conversion for accessing platform documentation and support workflows.

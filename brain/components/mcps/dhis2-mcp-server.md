@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T08:09:51Z"
 ---
 ## What it is
 Connects DHIS2 health information systems to AI assistants via the Model Context Protocol, enabling natural language queries for analytics, metadata, and tracker data.

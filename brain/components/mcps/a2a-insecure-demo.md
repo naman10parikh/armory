@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, experimental-implementations]
+forks: 0
+pushed_at: "2025-04-25T16:35:48Z"
 ---
 ## What it is
 Demonstration of A2A protocol with insecure settings

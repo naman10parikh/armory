@@ -8,10 +8,12 @@ source_url: https://github.com/pouriamrt/claude-mesh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T00:43:05Z"
 ---
 ## What it is
 MCP server `Claude Mesh`, catalogued on PulseMCP. MCP server enabling peer-to-peer messaging, broadcasting, and threading between Claude Code instances.

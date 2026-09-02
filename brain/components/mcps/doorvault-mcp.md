@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T19:31:12Z"
 ---
 ## What it is
 Enables AI assistants to analyze rental property deals using DoorVault IDEAL Scoring v2.0, including Section 8 FMR lookup, tax deduction checklists, and rental metrics calculations.

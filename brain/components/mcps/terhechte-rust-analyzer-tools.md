@@ -12,6 +12,8 @@ stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-05-12T19:53:39Z"
 ---
 ## What it is
 MCP server `Rust Analyzer Tools`, catalogued on PulseMCP. Integrates with Rust Analyzer to provide type information, documentation, references, implementations, and Cargo commands for Rust development projects

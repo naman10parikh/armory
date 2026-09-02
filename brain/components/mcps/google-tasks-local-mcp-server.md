@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T15:42:53Z"
 ---
 ## What it is
 Google Tasks MCP Server is a local MCP server that provides AI agents with full, granular access to the Google Tasks API.

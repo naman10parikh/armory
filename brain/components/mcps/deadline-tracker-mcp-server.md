@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:35:08Z"
 ---
 ## What it is
 This MCP server helps users manage deadlines and study schedules, providing tools to add, list, and complete deadlines, a read-only resource for all deadlines, and a prompt for weekly planning.

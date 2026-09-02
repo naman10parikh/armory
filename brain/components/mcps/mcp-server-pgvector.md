@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:35:31Z"
 ---
 ## What it is
 An MCP server that gives LLM agents first-class access to pgvector-backed embedding tables in PostgreSQL: similarity search, hybrid (vector + full-text) search, upserts, and HNSW/IVFFlat index management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-18T03:41:30Z"
 ---
 ## What it is
 Enables AI agents to interact with Odoo ERP to perform sales tasks such as searching clients and products, and creating and confirming quotations via the MCP protocol.

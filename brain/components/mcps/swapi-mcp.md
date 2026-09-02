@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:35:18Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes Star Wars API data as MCP tools. It enables users to list available categories and retrieve character information.

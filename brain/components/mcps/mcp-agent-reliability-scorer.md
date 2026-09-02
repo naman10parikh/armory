@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:35:57Z"
 ---
 ## What it is
 Scores AI agent trajectories and detects silent failures, loops, and reliability issues with zero external API cost.

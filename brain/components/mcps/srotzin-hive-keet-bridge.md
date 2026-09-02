@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:18Z"
 ---
 ## What it is
 MCP server `Hive Keet Bridge`, catalogued on PulseMCP. MCP bridge connecting Keet identity keys to the Hive agentic identity network.

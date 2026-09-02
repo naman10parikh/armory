@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:08:39Z"
 ---
 ## What it is
 MCP server for Rhodium11 that exposes 19 tools for managing projects, schedules, orders, wallet, and feedback through any MCP-compatible AI agent.

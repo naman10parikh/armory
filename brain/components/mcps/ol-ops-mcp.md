@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:22:57Z"
 ---
 ## What it is
 Enables secure SSH-based operations on Oracle Linux 8+ hosts through a curated, YAML-defined capability catalog, with typed parameters, two-phase confirmations for mutations, and full audit logging.

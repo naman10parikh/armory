@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-24T11:06:51Z"
 ---
 ## What it is
 Official MCP server for OpenWeb Ninja: 40+ real-time web data and SERP APIs (Google Maps, Amazon, jobs, Zillow, Trustpilot, web search, news, finance) exposed as MCP tools.

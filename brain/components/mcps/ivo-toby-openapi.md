@@ -8,10 +8,12 @@ source_url: https://github.com/ivo-toby/mcp-openapi-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 263
+stars: 289
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 62
+pushed_at: "2026-06-15T14:57:25Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Integrates with OpenAPI specifications to expose REST API endpoints as MCP resources, enabling dynamic discovery and utilization of many web services.

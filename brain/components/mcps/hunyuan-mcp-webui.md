@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:14:37Z"
 ---
 ## What it is
 MCP server for generating 3D assets from images or text using Hunyuan3D on Apple Silicon Mac, with web UI and Codex Image Gen integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:04:42Z"
 ---
 ## What it is
 Enables complete Office document lifecycle management for AI agents, including creation, editing, conversion, and templating of DOCX, XLSX, PPTX, PDF, and EML files.

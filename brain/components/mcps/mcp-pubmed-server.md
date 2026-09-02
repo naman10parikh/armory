@@ -8,11 +8,13 @@ source_url: https://github.com/hhx465453939/mcp-pubmed-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-19T13:51:46Z"
 ---
 ## What it is
 A PubMed MCP server that enables LLMs to search, retrieve details, and download full-text articles from PubMed, with support for batch queries, cross-referencing, and EndNote export.

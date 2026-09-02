@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T19:49:40Z"
 ---
 ## What it is
 A learning MCP server providing synthetic FHIR patient data with read tools and a gated write workflow (propose → human approve → commit) with structured audit logging.

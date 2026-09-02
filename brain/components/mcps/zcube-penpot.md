@@ -8,10 +8,12 @@ source_url: https://github.com/zcube/penpot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-06-24T04:40:49Z"
 ---
 ## What it is
 MCP server `Penpot`, catalogued on PulseMCP. Integrates with Penpot's design platform API to create, read, update, and manipulate design files, pages, and objects including shapes, text, images, and visual properties for automated design workflows and batch operations.

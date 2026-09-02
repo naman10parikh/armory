@@ -8,10 +8,12 @@ source_url: https://github.com/rachittshah/llmcouncil
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-23T13:07:04Z"
 ---
 ## What it is
 MCP server `LLM Council`, catalogued on PulseMCP. Multi-LLM deliberation council with voting, debate, synthesis, critique, and verification protocols.

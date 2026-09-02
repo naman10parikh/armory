@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-10T22:39:51Z"
 ---
 ## What it is
 Enables AI assistants to send SMS and manage messaging workflows through ClickSend, including pricing estimates, contact lists, templates, history, and statistics.

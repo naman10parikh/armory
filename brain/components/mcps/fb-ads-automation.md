@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T04:37:14Z"
 ---
 ## What it is
 Enables full read/write management of Facebook ad campaigns, ad sets, ads, and creatives via the Meta Marketing API through natural language, with AI creative generation, performance analytics, and PDF reporting.

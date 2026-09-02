@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T00:23:29Z"
 ---
 ## What it is
 Free remote MCP server for fetching public web pages through a rotating proxy pool. Provides tools to scrape pages as Markdown, text, or HTML, check usage quotas, and service status.

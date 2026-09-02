@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T17:50:30Z"
 ---
 ## What it is
 Enables AI agents to control a web browser programmatically, allowing navigation, interaction, and data extraction from websites via the BabelWrap API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T15:04:25Z"
 ---
 ## What it is
 A PDF MCP server for extracting text, rendered pages, tables, links, annotations, outlines, metadata, and text statistics from PDF files.

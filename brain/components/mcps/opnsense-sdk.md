@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T19:56:56Z"
 ---
 ## What it is
 Provides complete programmatic access to OPNsense core APIs, enabling firewall automation, VPN management, and system administration through a comprehensive MCP server.

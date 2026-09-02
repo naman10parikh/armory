@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T05:23:09Z"
 ---
 ## What it is
 Provides AI agents with real-time Solana data and agent-swarm intelligence as tools, with auto-paid per-call micropayments in CIRC via x402.

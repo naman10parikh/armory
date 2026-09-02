@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T13:29:58Z"
 ---
 ## What it is
 MCP server `psyXe`, catalogued on PulseMCP. Apple Notes, Reminders, and Contacts for AI assistants with BERT semantic search on macOS.

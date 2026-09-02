@@ -8,10 +8,12 @@ source_url: https://github.com/siva010928/multi-chat-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-10-05T03:07:17Z"
 ---
 ## What it is
 MCP server `Google Chat`, catalogued on PulseMCP. Integrates with Google Chat API to send messages, search conversations, manage spaces, and retrieve user information with OAuth 2.0 authentication, automatic token refresh, and multiple search modes including regex, substring, and semantic similarity matching.

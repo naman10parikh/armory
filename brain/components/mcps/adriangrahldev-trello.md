@@ -8,10 +8,12 @@ source_url: https://github.com/adriangrahldev/advanced-trello-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-18T11:28:59Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Integrates with Trello's REST API to manage boards, lists, cards, labels, and actions with batch operations, comment management, and comprehensive project tracking capabilities.

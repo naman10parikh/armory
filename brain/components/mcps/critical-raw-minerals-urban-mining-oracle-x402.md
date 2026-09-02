@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T05:36:36Z"
 ---
 ## What it is
 Deterministic Web3 x402 Critical Minerals & Urban Mining Scrap Valuation Oracle for Autonomous AI Agents on Base (USDC)

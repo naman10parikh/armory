@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:44:23Z"
 ---
 ## What it is
 MCP server for hyde.trade enabling LLM agents to discover and trade hyde coins on Robinhood Chain. Provides tools to list coins, get signals, quote trades, and build signable transactions.

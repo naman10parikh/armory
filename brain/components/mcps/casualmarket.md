@@ -8,11 +8,13 @@ source_url: https://github.com/sacahan/CasualMarket
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-12-07T08:52:08Z"
 ---
 ## What it is
 A Taiwan stock trading MCP server providing over 23 tools for real-time stock prices, financial analysis, market information, and simulated trading.

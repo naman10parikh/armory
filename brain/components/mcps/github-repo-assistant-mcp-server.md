@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T19:13:52Z"
 ---
 ## What it is
 Enables creating GitHub repositories under a fixed owner and pushing multiple files in a single commit via the Git Data API, designed for deployment as a Vercel serverless function.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-14T17:09:49Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Enables web search capabilities by scraping Google search results without API keys, returning structured data with titles, URLs, and descriptions for quick information retrieval.

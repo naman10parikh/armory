@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T01:35:14Z"
 ---
 ## What it is
 Slimdex is a local MCP server that helps coding agents retrieve code narrowly—outlines, line ranges, symbol bodies, references, and intent-based searches—instead of reading whole files into context, featuring a persistent index and tools for exploration, editing, and session memory.

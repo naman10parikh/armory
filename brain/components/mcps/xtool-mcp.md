@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T21:11:39Z"
 ---
 ## What it is
 Provides tools and resources for interacting with xTool laser machines, enabling material settings recommendations, design generation, troubleshooting, and machine knowledge through natural language.

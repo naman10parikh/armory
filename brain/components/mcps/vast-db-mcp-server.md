@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-24T19:48:45Z"
 ---
 ## What it is
 Enables AI agents to securely query VAST Data databases for schema, metadata, and sample data via read-only SQL and MCP resources.

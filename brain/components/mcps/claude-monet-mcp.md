@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-11T14:54:11Z"
 ---
 ## What it is
 A lightweight sketch canvas that lets users draw ideas and sync them in real-time to AI via MCP, enabling visual communication without exports.

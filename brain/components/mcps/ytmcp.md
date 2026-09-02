@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-16T10:21:29Z"
 ---
 ## What it is
 Enables AI assistants to fetch YouTube video transcripts with precise timestamps, multi-language support, and time-range filtering.

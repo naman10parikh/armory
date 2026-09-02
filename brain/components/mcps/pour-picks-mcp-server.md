@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:40:34Z"
 ---
 ## What it is
 Enables querying the Pour Picks bourbon & whiskey database with tools for search, bottle details, recommendations, comparisons, and trending, providing structured tasting profiles, prices, pairings, and ratings.

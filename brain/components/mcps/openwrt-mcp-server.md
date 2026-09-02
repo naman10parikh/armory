@@ -8,11 +8,13 @@ source_url: https://github.com/haode01/openwrt-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T03:36:33Z"
 ---
 ## What it is
 Enables management of OpenWrt routers via SSH, providing tools for network configuration, system administration, file operations, and package management through natural language.

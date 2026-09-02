@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T23:12:24Z"
 ---
 ## What it is
 Manages ESPN fantasy football teams post-draft, enabling lineup optimization, waiver/free agent recommendations, injury tracking, trade analysis, and playoff odds via read-only tools.

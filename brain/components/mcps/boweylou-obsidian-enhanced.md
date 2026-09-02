@@ -8,10 +8,12 @@ source_url: https://github.com/boweylou/obsidian-mcp-server-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-15T08:44:14Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian vaults through the Local REST API plugin to provide file operations, search, frontmatter management, Dataview queries, block references, templates, periodic notes, and graph analysis for knowledge management workflows.

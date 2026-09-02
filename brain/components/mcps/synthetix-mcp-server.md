@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:57Z"
 ---
 ## What it is
 Provides an agent-ready API for Synthetix via a hosted MCP server, enabling AI agents to interact with Synthetix endpoints without authentication.

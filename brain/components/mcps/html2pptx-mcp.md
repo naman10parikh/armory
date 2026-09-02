@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:49:27Z"
 ---
 ## What it is
 Converts slide-oriented HTML into editable PowerPoint files via an MCP server, using Chromium for layout measurement and supporting editable text, shapes, images, and raster fallbacks.

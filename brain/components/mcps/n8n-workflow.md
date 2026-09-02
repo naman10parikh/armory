@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-15T03:53:49Z"
 ---
 ## What it is
 MCP server `n8n Workflow`, catalogued on PulseMCP. Enables AI assistants to execute n8n workflows directly via WebSocket, creating a bridge between conversation context and n8n's workflow engine in a sandboxed environment.

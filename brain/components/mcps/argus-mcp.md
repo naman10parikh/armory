@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-25T10:20:23Z"
 ---
 ## What it is
 Enables AI-powered, zero-trust code review with multiple models, supporting single files, git diffs, and multiple files, with security, performance, and architecture checks across 10+ languages.

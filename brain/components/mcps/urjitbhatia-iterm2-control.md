@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-13T01:25:42Z"
 ---
 ## What it is
 MCP server `iTerm2 Control`, catalogued on PulseMCP. Controls iTerm2 terminal sessions with 40 tools across session, window, tab, profile, and broadcast management with tiered permissions.

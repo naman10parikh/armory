@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T21:19:22Z"
 ---
 ## What it is
 Enables AI agents to create, schedule, and manage social media posts across 10 platforms via a unified API.

@@ -8,10 +8,12 @@ source_url: https://github.com/wrale/mcp-server-tree-sitter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 306
+stars: 310
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2026-05-21T01:35:36Z"
 ---
 ## What it is
 MCP server `Tree-sitter`, catalogued on PulseMCP. Provides code analysis capabilities through tree-sitter parsing, enabling structured understanding and manipulation of source code across multiple programming languages for tasks like code review, refactoring, and documentation generation.

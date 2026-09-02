@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:43:15Z"
 ---
 ## What it is
 Race nutrition planning for endurance athletes. Calculates carb, sodium and fluid targets for marathons, ultras, cycling and triathlons. Returns personalised Lecka product recommendations by race type, conditions and athlete weight.

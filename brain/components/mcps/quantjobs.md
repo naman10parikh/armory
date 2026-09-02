@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T20:26:42Z"
 ---
 ## What it is
 Enables conversational management of quant job search, tailored CV generation, and skill gap analysis through MCP tools. Allows Claude to search, ingest, score jobs, and build/iterate LaTeX CVs.

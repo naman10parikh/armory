@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T09:42:07Z"
 ---
 ## What it is
 Enables analytics and management of Facebook Pages through the Meta Graph API, including posts, insights, audience, and publishing.

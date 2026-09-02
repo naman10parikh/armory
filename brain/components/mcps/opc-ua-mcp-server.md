@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-24T18:32:34Z"
 ---
 ## What it is
 Connects to any OPC UA server and exposes its node tree and data via MCP, with tools to read values and search nodes.

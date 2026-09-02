@@ -8,10 +8,12 @@ source_url: https://github.com/jasonwilbur/oci-pricing-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-03T22:48:05Z"
 ---
 ## What it is
 MCP server `OCI Pricing`, catalogued on PulseMCP. Oracle Cloud Infrastructure pricing data with cost calculators and comparisons.

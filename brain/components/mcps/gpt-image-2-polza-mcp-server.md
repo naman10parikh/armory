@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T18:22:51Z"
 ---
 ## What it is
 Enables generating and editing images using OpenAI's GPT Image 2 model via the Polza API, with support for multiple modes, reference images, and local file storage.

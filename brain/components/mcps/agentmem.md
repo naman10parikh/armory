@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:37:58Z"
 ---
 ## What it is
 Enables AI coding agents to store and retrieve persistent contextual memories locally, with support for tagging and querying through CLI or MCP integration.

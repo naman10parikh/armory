@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:38:17Z"
 ---
 ## What it is
 Enables AI agents to perform security audits on pull request diffs by detecting secrets, dangerous code patterns, and new dependencies, outputting structured JSON for generating PR review comments.

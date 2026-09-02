@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T07:49:18Z"
 ---
 ## What it is
 Enables AI agents to inspect debug state, control execution, and set breakpoints in VS Code by exposing the Debug Adapter Protocol as an MCP server.

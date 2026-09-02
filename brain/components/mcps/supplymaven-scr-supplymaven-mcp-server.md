@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 0
+pushed_at: "2026-06-25T17:32:15Z"
 ---
 ## What it is
 Real-time supply chain risk intelligence for AI agents. 25 tools across 3 tiers: Global Disruption Index, Manufacturing Index, commodity prices, port congestion, border delays, chokepoints, air cargo, trade policy, energy, rail, freight, economic indicators, predictive signals, and AI intelligence briefs.

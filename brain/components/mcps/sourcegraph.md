@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T13:42:03Z"
 ---
 ## What it is
 MCP server `Sourcegraph`, catalogued on PulseMCP. Connects AI agents to Sourcegraph's code search, semantic search, code navigation, and diff search capabilities across your codebase.

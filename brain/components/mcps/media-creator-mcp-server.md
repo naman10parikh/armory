@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-02-07T15:24:44Z"
 ---
 ## What it is
 Provides tools to generate images using Amazon Nova Canvas and videos using Amazon Nova Reel models via Amazon Bedrock and S3.

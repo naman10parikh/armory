@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T14:35:20Z"
 ---
 ## What it is
 MCP server for AI agents to create and manage P2P escrow deals on Base (ETH or ERC-20).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-08-18T04:07:42Z"
 ---
 ## What it is
 Bridges STDIO MCP clients to Streamable HTTP MCP servers, allowing any STDIO-supported client to use Streamable HTTP servers immediately.

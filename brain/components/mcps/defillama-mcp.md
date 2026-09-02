@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T18:27:09Z"
 ---
 ## What it is
 Enables querying live DeFi data from DefiLlama, including chain and protocol TVL, token prices, yield pools, and stablecoin supply, through MCP tools.

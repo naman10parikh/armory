@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T02:35:37Z"
 ---
 ## What it is
 Enables LLMs to manage Clerk applications, domains, application transfers, instance users, JWT templates, and instance configuration via the Clerk Platform API.

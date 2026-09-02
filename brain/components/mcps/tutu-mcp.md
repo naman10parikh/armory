@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:16:05Z"
 ---
 ## What it is
 Enables searching for buses and trains, and when direct routes are unavailable, it provides the underlying data needed to assemble multi-leg itineraries with transfers.

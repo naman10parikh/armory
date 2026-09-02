@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T03:52:34Z"
 ---
 ## What it is
 Provides AI agents with access to Hacker News data including top stories, story details, comment threads, and full-text search for content research and trend monitoring.

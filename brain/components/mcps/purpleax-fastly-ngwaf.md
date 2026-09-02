@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-25T07:27:24Z"
 ---
 ## What it is
 MCP server `Fastly NGWAF`, catalogued on PulseMCP. Integrates with Fastly's Next-Gen Web Application Firewall API to manage security configurations, monitor attack patterns, handle IP lists, configure rules, set up alerts, and analyze security analytics for web application protection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:46:20Z"
 ---
 ## What it is
 Enables querying GoldSrc game servers (e.g., Half-Life, Counter-Strike 1.6) for server info, player lists, rules, and RCON commands.

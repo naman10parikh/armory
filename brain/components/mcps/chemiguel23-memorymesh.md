@@ -8,10 +8,12 @@ source_url: https://github.com/chemiguel23/memorymesh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 342
+stars: 353
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 49
+pushed_at: "2026-03-01T22:27:33Z"
 ---
 ## What it is
 MCP server `MemoryMesh`, catalogued on PulseMCP. Store and query structured data in local knowledge graphs.

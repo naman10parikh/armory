@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:09:11Z"
 ---
 ## What it is
 Enables agents to interact with any S3-compatible storage (AWS S3, LocalStack, MinIO) via MCP, providing tools like list, read, write, delete objects and buckets.

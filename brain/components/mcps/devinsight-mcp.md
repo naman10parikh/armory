@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T16:11:45Z"
 ---
 ## What it is
 Enables Claude to inspect, analyze, and grade local Git repositories with tools for stats, TODO scanning, git history, large file detection, health scores, and tech stack fingerprinting.

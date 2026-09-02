@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:52Z"
 ---
 ## What it is
 Enables consultation of the MPT PR (Brazilian Labor Prosecution) official record of cases (Certidão Negativa de Feitos) through a read-only MCP server, allowing users to query official certification data via natural language.

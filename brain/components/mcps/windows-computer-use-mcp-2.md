@@ -8,11 +8,13 @@ source_url: https://github.com/betrayzl/windows-computer-use-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T10:15:19Z"
 ---
 ## What it is
 An MCP server that gives AI agents human-like control over Windows via visual perception and simulated mouse and keyboard input, enabling automation of any application without APIs.

@@ -8,10 +8,12 @@ source_url: https://github.com/michaelrice/zendesk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-20T15:33:28Z"
 ---
 ## What it is
 MCP server `Zendesk`, catalogued on PulseMCP. Zendesk integration for Claude Code and MCP clients — manage tickets, knowledge base, and support workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:11:52Z"
 ---
 ## What it is
 Provides AI coding assistants with real-time security scanning superpowers, including SAST, secrets detection, dependency CVE scanning, and web vulnerability assessment.

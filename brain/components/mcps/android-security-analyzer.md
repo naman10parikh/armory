@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T22:06:00Z"
 ---
 ## What it is
 MCP server for static security analysis of Android application source code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-03-11T02:41:19Z"
 ---
 ## What it is
 Provides D3 visualization documentation, chart recommendations, and code generation through the MCP protocol.

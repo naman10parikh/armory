@@ -8,10 +8,12 @@ source_url: https://github.com/yifanyifan897645/webcheck-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T13:57:56Z"
 ---
 ## What it is
 MCP server `WebCheck`, catalogued on PulseMCP. Analyzes website health across SEO, accessibility, performance, and security dimensions with broken link detection and page comparison.

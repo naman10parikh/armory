@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-30T16:23:36Z"
 ---
 ## What it is
 MCP server `Local Utilities`, catalogued on PulseMCP. Provides access to system utilities for retrieving local information including time, hostname, IP address, directory listings, Node.js version, and port process checks

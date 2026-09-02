@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T13:36:17Z"
 ---
 ## What it is
 Provides real-time threat intelligence for AI agents, enabling checks on IPs, domains, URLs, hashes, CVEs, prompt-injection payloads, and malicious AI-skill/MCP-tool definitions against a free database of 890K+ IOCs.

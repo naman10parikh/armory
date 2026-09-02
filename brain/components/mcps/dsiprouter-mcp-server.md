@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T07:54:26Z"
 ---
 ## What it is
 Enables AI assistants to manage dSIPRouter operations such as endpoint groups, carrier groups, inbound mappings, and call data retrieval through natural language.

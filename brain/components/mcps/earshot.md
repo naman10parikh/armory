@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:43:33Z"
 ---
 ## What it is
 MCP server for Earshot, a buying-intent radar for the open social web. Lets agents monitor scored leads, search stored conversations, ask questions, and manage watch lists.

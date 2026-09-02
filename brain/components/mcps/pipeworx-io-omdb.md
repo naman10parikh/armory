@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:15Z"
 ---
 ## What it is
 MCP server `OMDb`, catalogued on PulseMCP. OMDb IMDB-derived movie, TV show, and episode metadata by title or IMDb ID via the Pipeworx gateway.

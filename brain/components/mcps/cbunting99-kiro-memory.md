@@ -8,10 +8,12 @@ source_url: https://github.com/cbunting99/enhanced-mcp-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-08-04T15:36:52Z"
 ---
 ## What it is
 MCP server `Kiro Memory`, catalogued on PulseMCP. Provides intelligent memory management and task tracking for software development projects with automatic project detection, semantic search, and SQLite-based persistence that maintains context across coding sessions through memory classification, relationship building, and context-aware task creation.

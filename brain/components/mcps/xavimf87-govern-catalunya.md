@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-25T20:40:07Z"
 ---
 ## What it is
 MCP server `Govern Catalunya`, catalogued on PulseMCP. Public transparency and corruption detection tool for Catalan, Barcelona, and Spanish government open data sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:01:36Z"
 ---
 ## What it is
 Adapter-driven MCP server for Cisco CBS220 switches, Catalyst Center/DNA Center, and Meraki Dashboard, enabling read-only device queries and dry-run write operations via shared Pydantic schemas.

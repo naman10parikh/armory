@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T19:23:32Z"
 ---
 ## What it is
 MCP server `Polymarket by Quantish`, catalogued on PulseMCP. Self-hosted trading server for Polymarket prediction markets on Polygon.

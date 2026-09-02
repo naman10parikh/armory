@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T08:53:45Z"
 ---
 ## What it is
 MCP server for Google Gemini image generation, editing, and processing, with two tools and no bloat.

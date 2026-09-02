@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-09T15:51:54Z"
 ---
 ## What it is
 Enables MCP clients to check text content using chakoshi's guardrail API for safety and moderation, returning assessment results.

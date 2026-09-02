@@ -8,10 +8,12 @@ source_url: https://github.com/shinpr/sub-agents-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-09-01T09:49:38Z"
 ---
 ## What it is
 MCP server `Sub-Agents`, catalogued on PulseMCP. Delegates tasks to specialized AI assistants in Cursor and Claude Code CLI tools by automatically discovering agent definition files and providing execution with timeout management and performance monitoring for building orchestration workflows and task delegation systems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T21:58:10Z"
 ---
 ## What it is
 MCP server that provides tools to add to, search, and manage a wiki knowledge base, enabling AI chat tools to contribute and retrieve information from the wiki via natural language prompts.

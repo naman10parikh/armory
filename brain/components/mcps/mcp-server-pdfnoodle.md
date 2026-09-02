@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-19T15:07:17Z"
 ---
 ## What it is
 Enables AI assistants to generate PDF documents from templates or raw HTML using natural language, with tools for template creation, PDF generation, and utility operations.

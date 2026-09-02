@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:17:20Z"
 ---
 ## What it is
 Enables CRUD operations and search on an Excel-backed product catalog, allowing users to list, search, add, update, and delete products.

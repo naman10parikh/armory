@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:32:41Z"
 ---
 ## What it is
 MCP server that lets AI coding agents report task progress and milestones, providing a real-time web dashboard and macOS notifications for monitoring multiple AI workbenches.

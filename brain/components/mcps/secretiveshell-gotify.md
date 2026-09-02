@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-31T12:56:36Z"
 ---
 ## What it is
 MCP server `Gotify Notifications`, catalogued on PulseMCP. Sends push notifications with customized titles and messages to any Gotify server through environment variable configuration.

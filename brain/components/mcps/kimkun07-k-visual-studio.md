@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T08:09:24Z"
 ---
 ## What it is
 MCP server `Visual Studio`, catalogued on PulseMCP. Controls Visual Studio 2022 through COM/DTE automation for file operations, building, and debugging.

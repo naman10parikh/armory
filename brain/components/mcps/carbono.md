@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T01:52:58Z"
 ---
 ## What it is
 Enables AI to generate images by describing them with HTML using Tailwind CSS and DaisyUI, which are rendered to PNG images.

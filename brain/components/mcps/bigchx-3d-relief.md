@@ -8,10 +8,12 @@ source_url: https://github.com/bigchx/mcp_3d_relief
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-27T09:51:10Z"
 ---
 ## What it is
 MCP server `3D Relief Generator`, catalogued on PulseMCP. Converts 2D images into 3D relief STL files for 3D printing by generating depth maps from brightness values and creating triangulated mesh surfaces with configurable dimensions and detail levels.

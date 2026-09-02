@@ -8,10 +8,12 @@ source_url: https://github.com/mrserzhan/ah-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-03-21T18:31:16Z"
 ---
 ## What it is
 MCP server `Albert Heijn`, catalogued on PulseMCP. Retrieves product information, prices, and store data from the Albert Heijn Dutch supermarket.

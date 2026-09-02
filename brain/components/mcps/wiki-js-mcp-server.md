@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-05-23T09:49:11Z"
 ---
 ## What it is
 An MCP server that provides a unified interface to manage Wiki.js pages, users, and groups via GraphQL API, enabling AI agents to create, read, update, and delete content and perform administrative tasks.

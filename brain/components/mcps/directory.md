@@ -8,10 +8,12 @@ source_url: https://github.com/unlikefraction/silicon-friendly
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T19:35:13Z"
 ---
 ## What it is
 MCP server `Silicon Friendly`, catalogued on PulseMCP. Directory rating websites on AI-agent-friendliness with search, lookup, and submission tools.

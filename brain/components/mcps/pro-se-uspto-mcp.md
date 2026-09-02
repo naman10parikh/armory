@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:22:53Z"
 ---
 ## What it is
 Helps independent inventors calculate USPTO fees, determine entity status, track patent deadlines, and understand procedural rules without needing an attorney.

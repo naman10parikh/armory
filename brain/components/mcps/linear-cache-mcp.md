@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T13:05:47Z"
 ---
 ## What it is
 Cache-first MCP server for Linear that provides tools to search, read, create, update, and comment on issues and projects, caching data locally to reduce API calls and respect rate limits.

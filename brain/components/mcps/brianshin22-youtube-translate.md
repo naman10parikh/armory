@@ -8,10 +8,12 @@ source_url: https://github.com/brianshin22/youtube-translate-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-17T04:34:40Z"
 ---
 ## What it is
 MCP server `YouTube Translate`, catalogued on PulseMCP. Enables access to YouTube video transcripts, translations, summaries, and subtitle generation through a simple API interface for research, content analysis, and multilingual video accessibility workflows.

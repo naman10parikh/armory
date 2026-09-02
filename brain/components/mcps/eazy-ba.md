@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:58:41Z"
 ---
 ## What it is
 Captures and organizes requirements as markdown, tracks relationships between personas, requirements, use cases, and user stories.

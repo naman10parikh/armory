@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-22T07:37:23Z"
 ---
 ## What it is
 Provides current weather and forecasts for any city via natural language, using OpenWeatherMap API and OpenAI for conversational interface.

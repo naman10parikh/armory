@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-17T02:17:34Z"
 ---
 ## What it is
 MCP server `Apache Solr`, catalogued on PulseMCP. Integrates with Apache Solr to provide search, indexing, and collection management capabilities including advanced filtering, faceting, pagination, schema-less document indexing, health monitoring, and performance metrics collection.

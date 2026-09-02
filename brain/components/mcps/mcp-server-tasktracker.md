@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:19:37Z"
 ---
 ## What it is
 An MCP server that exposes the full Task-Tracker REST API as MCP tools, enabling AI agents to manage trackers, tasks, notes, checklists, and projects conversationally.

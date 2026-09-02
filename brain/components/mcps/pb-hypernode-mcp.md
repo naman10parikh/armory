@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:28:56Z"
 ---
 ## What it is
 Enables AI assistants to create, sanitize, and manage disposable Hypernode Brancher preview environments cloned from production, with automatic PII anonymization, credential reset, and sandbox-forcing before any access URL is revealed.

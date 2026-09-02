@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-23T22:29:25Z"
 ---
 ## What it is
 Enables AI assistants and MCP clients to interact with PocketBase databases for authentication, data management, and administrative operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:42:19Z"
 ---
 ## What it is
 Enables AI agents to securely operate SSH-connected servers through MCP, with credentials kept locally, dual permission modes, and an interactive sudo approval flow.

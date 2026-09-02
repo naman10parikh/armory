@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T23:05:27Z"
 ---
 ## What it is
 Enables AI agents to control N.I.N.A. astronomy software remotely, including mount, camera, sequencer, and other equipment via the ninaAPI plugin.

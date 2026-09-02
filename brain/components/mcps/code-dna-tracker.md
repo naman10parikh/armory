@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T20:27:11Z"
 ---
 ## What it is
 Tracks the complete lineage and DNA of every line of code, enabling impact analysis, bug risk prediction, and code archaeology through deterministic analysis of git history and AST.

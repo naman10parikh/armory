@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-07T18:13:24Z"
 ---
 ## What it is
 Search and read arXiv papers directly from Claude. Supports keyword, author, category, and date filtering plus full PDF text extraction so Claude can read, summarise, and reason over entire papers, not just abstracts.

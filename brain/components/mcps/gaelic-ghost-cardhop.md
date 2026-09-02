@@ -8,10 +8,12 @@ source_url: https://github.com/gaelic-ghost/cardhop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T17:21:26Z"
 ---
 ## What it is
 MCP server `Cardhop`, catalogued on PulseMCP. Integrates with Cardhop contacts app on macOS using AppleScript and URL schemes to parse natural language contact information, add new contacts, and update existing entries.

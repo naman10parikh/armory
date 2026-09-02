@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-22T18:04:28Z"
 ---
 ## What it is
 DuckDuckGo Search MCP Server. Scrapes DuckDuckGo Lite directly — no API key required, no rate limits, robust anti-bot protection.

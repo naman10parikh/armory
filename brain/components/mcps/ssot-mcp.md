@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T18:44:52Z"
 ---
 ## What it is
 A free, open-source system that indexes multiple Git repositories (e.g., GitHub, GitLab) and enables semantic and lexical search through MCP-capable tools like Cursor.

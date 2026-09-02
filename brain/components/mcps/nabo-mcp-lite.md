@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T15:06:21Z"
 ---
 ## What it is
 A local MCP browser control bridge that enables control of Chrome browser via 14 tools for tabs, navigation, page reading, and interaction.

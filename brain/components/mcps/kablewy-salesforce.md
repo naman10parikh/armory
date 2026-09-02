@@ -8,10 +8,12 @@ source_url: https://github.com/kablewy/salesforce-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-08-10T20:33:25Z"
 ---
 ## What it is
 MCP server `Salesforce`, catalogued on PulseMCP. Integrates with Salesforce's REST API to enable querying, metadata retrieval, and CRUD operations on Salesforce data for tasks like customer analysis and CRM automation.

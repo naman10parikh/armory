@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T01:10:11Z"
 ---
 ## What it is
 A read-only Figma MCP server for GitHub Copilot that renders screenshots locally inside Figma via exportAsync, avoiding any public S3 URLs or outbound HTTP. It provides 9 tools to inspect Figma files, components, variables, and FigJam boards through a private tunnel.

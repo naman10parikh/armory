@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T03:35:07Z"
 ---
 ## What it is
 Enables management of Ambient Code Platform (ACP) sessions, including creating, viewing, and deleting sessions, with support for labels and bulk operations.

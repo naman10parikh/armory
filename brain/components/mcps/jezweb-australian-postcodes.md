@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-27T21:59:30Z"
 ---
 ## What it is
 MCP server `Australian Postcodes`, catalogued on PulseMCP. Provides fast postcode and suburb lookup services for Australia with fuzzy matching, phonetic search, and geographic radius queries using SQLite database of 17,000 locations.

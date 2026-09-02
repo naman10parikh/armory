@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:42:38Z"
 ---
 ## What it is
 MCP server for Meshwright, enabling agents to create 3D models from text prompts via a LangGraph pipeline. Supports configurable image providers, background removal, and TRELLIS reconstruction backends.

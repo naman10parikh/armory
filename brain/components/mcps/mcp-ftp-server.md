@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-10T23:19:27Z"
 ---
 ## What it is
 Enables FTP file operations such as upload, download, list, and delete directly from Claude Desktop or Claude CLI.

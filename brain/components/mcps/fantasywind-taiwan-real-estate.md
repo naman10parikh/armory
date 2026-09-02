@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T04:11:11Z"
 ---
 ## What it is
 MCP server `Taiwan Real Estate`, catalogued on PulseMCP. Queries Taiwan's official real estate transaction data, including sales, pre-sales, and rentals.

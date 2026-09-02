@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T13:37:10Z"
 ---
 ## What it is
 MCP server `Knowledge Gaps`, catalogued on PulseMCP. MCP server for identifying concepts mentioned but not explained in markdown knowledge bases like Obsidian and Logseq vaults.

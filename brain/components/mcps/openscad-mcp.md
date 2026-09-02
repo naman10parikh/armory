@@ -8,11 +8,13 @@ source_url: https://github.com/petrijr/openscad-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-25T18:25:28Z"
 ---
 ## What it is
 Exposes OpenSCAD CLI as MCP tools for validating, rendering, and exporting parametric 3D models. Enables LLM clients to interactively create and manipulate OpenSCAD designs.

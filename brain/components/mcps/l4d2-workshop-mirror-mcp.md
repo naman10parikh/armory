@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:03:47Z"
 ---
 ## What it is
 Enables one-click download of L4D2 workshop campaigns via MCP, including search, campaign detection, dependency resolution, and dead map blocking. Integrates with bots like AstrBot so users can request maps in natural language.

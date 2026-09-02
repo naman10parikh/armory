@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-13T08:42:00Z"
 ---
 ## What it is
 MCP server `Character Tools`, catalogued on PulseMCP. 14+ specialized tools for character-level text analysis including letter counting, frequency analysis, word spelling, character positioning, and text comparison

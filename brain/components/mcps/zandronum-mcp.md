@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T03:23:28Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Zandronum game engine for development, including running commands, spawning actors, and loading maps.

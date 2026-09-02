@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T19:20:19Z"
 ---
 ## What it is
 Deterministic code-churn measurement and AI-agent detection from the CodeDelta engine: measure churn between two directories or git refs, scan for code that runs AI agents, and get AI-authorship pointers. Runs fully locally.

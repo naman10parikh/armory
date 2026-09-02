@@ -8,11 +8,13 @@ source_url: https://github.com/p-gentili/justetf-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:46:40Z"
 ---
 ## What it is
 Provides read-only access to justETF data including ETF search, profiles, charts, comparisons, and live quotes via MCP tools.

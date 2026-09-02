@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-30T18:26:58Z"
 ---
 ## What it is
 MCP server `Web Content Explorer`, catalogued on PulseMCP. Fetches and explores web content with recursive link-following capabilities, using a dual-strategy approach with axios and puppeteer fallback to provide reliable document retrieval within time constraints.

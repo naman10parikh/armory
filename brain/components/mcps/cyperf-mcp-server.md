@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T15:55:27Z"
 ---
 ## What it is
 Exposes Keysight CyPerf network performance and security testing as 100 tools across 15 categories, enabling AI assistants to orchestrate tests, manage agents, and analyze results through natural language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T18:37:12Z"
 ---
 ## What it is
 MCP server `Team Docs`, catalogued on PulseMCP. MCP server for semantic search over team documentation using local embeddings and vector similarity search.

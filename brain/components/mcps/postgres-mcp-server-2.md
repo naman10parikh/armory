@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T13:47:07Z"
 ---
 ## What it is
 Acts as a secure bridge connecting PostgreSQL databases to AI models, enabling natural language querying, schema analysis, and controlled write operations with multi-layer security.

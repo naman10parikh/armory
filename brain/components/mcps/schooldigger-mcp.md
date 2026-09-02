@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-06T07:54:38Z"
 ---
 ## What it is
 Integrates with SchoolDigger's API to search schools, get rankings, and find districts by location. Enables querying school data through natural language.

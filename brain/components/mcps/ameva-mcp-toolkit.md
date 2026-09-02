@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T00:17:37Z"
 ---
 ## What it is
 A Model Context Protocol server integrating developer tools including Git control, document conversion, remote SSH execution, database operations, and utilities for automation and development productivity.

@@ -8,10 +8,12 @@ source_url: https://github.com/areso/safe-ssh-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-19T14:23:08Z"
 ---
 ## What it is
 MCP server `Safe SSH`, catalogued on PulseMCP. Executes curated read-only diagnostic commands over SSH for safe remote system monitoring.

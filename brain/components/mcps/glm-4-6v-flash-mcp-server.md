@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:54:25Z"
 ---
 ## What it is
 A Model Context Protocol server that wraps the free GLM-4.6V-Flash vision model, enabling text-only LLM clients like Codex, Cursor, and Claude Desktop to analyze images, videos, and files (PDF/TXT) through standard MCP tools.

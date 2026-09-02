@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:07:58Z"
 ---
 ## What it is
 MCP server that generates Word documents for biweekly sessions from an institutional template, with tools to fetch template info, create the document, and check file availability.

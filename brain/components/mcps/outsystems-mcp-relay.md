@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:12:35Z"
 ---
 ## What it is
 Enables MCP clients to connect to remote servers that have OAuth issuer mismatches (e.g., OutSystems) by relaying stdio and handling OAuth flows with optional issuer override.

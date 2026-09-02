@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:11:41Z"
 ---
 ## What it is
 deepidv MCP is an MCP server that exposes the deepidv AI-powered verification engine’s operations as structured tools for MCP-compatible clients. It enables AI agents to perform identity verification, face liveness, deepfake detection, AML screening, and more via remote OAuth-based access.

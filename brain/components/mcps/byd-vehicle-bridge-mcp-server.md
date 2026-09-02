@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:20:49Z"
 ---
 ## What it is
 A secure, read-only MCP server that connects to BYD electric vehicles via the BYD cloud API, enabling AI agents to query real-time vehicle data such as battery SOC, range, tire pressures, door states, and GPS.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T14:26:21Z"
 ---
 ## What it is
 PolicyPulse connects your AI assistant directly to your Kubernetes policy engines. Instead of switching between three dashboards and two CLIs, you ask in plain English and get answers enriched with CIS Kubernetes, PCI-DSS, NIST 800-53, and SOC 2 framework references.

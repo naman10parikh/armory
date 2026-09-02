@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:40:07Z"
 ---
 ## What it is
 Provides AI assistants with real-estate visual tools including virtual staging, photo enhancement, decluttering, day-to-night conversion, plot signs, and cinematic property videos via the Pixly API.

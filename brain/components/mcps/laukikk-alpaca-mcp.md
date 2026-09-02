@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 36
+forks: 15
+pushed_at: "2025-07-14T01:20:02Z"
 ---
 ## What it is
 An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data.

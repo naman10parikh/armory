@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T10:29:05Z"
 ---
 ## What it is
 MCP server `Commit Message Court`, catalogued on PulseMCP. MCP server that reviews git commit messages and diffs, flags vague descriptions or risky changes, and requests clarification before commit.

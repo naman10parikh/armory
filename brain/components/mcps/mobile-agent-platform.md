@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:37:51Z"
 ---
 ## What it is
 MCP server for operating and testing Android devices with AI agents. Provides observation and action tools for interactive control and spreadsheet-driven test runs.

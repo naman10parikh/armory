@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:12:26Z"
 ---
 ## What it is
 Calendar API purpose-built for AI agents. Exposes tools to manage agents, calendars, and events, find meeting times, run scheduling proposals, set availability rules, manage webhooks, and subscribe to iCal feeds.

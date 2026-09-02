@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:53:20Z"
 ---
 ## What it is
 Enables document conversion to Markdown or OKF format, and provides 14 okf_* tools for OKF bundle operations via MCP.

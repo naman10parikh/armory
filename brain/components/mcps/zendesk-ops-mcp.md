@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T21:58:38Z"
 ---
 ## What it is
 An MCP server that provides operational tooling over the Zendesk Support API — ticket triage, SLA monitoring, agent workload analysis, and system health audits.

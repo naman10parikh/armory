@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:17:17Z"
 ---
 ## What it is
 Enables AI agents to safely observe and troubleshoot Kubernetes workloads, with limited recovery actions like pod deletion and Helm rollbacks, while preventing dangerous modifications.

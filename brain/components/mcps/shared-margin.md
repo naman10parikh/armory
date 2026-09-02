@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T16:04:36Z"
 ---
 ## What it is
 Shared Margin is a Codex-native room for reading books and watching films together one moment at a time. It enables human and GPT-5.6 to linearly experience media, capture anchored observations, and maintain a durable trail.

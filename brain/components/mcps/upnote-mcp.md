@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-12-21T23:31:07Z"
 ---
 ## What it is
 Enables AI assistants to interact with Upnote via its x-callback-url API, allowing creation of notes, notebooks, tag management, and search. It also supports navigation to various Upnote sections and custom filters.

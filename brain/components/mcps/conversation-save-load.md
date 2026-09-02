@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-28T09:48:56Z"
 ---
 ## What it is
 MCP server `Conversation Save Load`, catalogued on PulseMCP. Provides persistent conversation storage through local file system operations with save and load tools for maintaining dialogue context across sessions.

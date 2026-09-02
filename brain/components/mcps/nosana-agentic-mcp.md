@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:14:10Z"
 ---
 ## What it is
 This MCP server enables AI agents to manage Nosana compute network deployments, jobs, scaling, and secrets through natural language.

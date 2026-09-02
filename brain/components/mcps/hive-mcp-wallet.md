@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T22:37:45Z"
 ---
 ## What it is
 Public MCP server for HiveWallet, enabling agent-native wallets with USDC transfers and HiveDNA 3-proof receipts on Base.

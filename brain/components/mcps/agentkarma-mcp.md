@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T09:16:15Z"
 ---
 ## What it is
 Exposes AgentKarma's read-only trust and reputation tools (karma, agents, succession, bonds, check_trust) to any MCP client for checking on-chain agent reputation.

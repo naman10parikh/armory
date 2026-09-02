@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:58:51Z"
 ---
 ## What it is
 A local MCP server that enables full-text and semantic search over your own Telegram chats using your personal MTProto login, with everything running locally.

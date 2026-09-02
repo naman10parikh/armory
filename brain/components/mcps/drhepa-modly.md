@@ -8,10 +8,12 @@ source_url: https://github.com/drhepa/modly_cli_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-08T17:53:22Z"
 ---
 ## What it is
 MCP server `Modly`, catalogued on PulseMCP. Headless CLI and MCP server for automating Modly 3D mesh processing workflows and operations.

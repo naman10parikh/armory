@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:38:49Z"
 ---
 ## What it is
 An MCP server that provides offline searchable Microsoft 365 roadmap data and live Azure status, enabling AI agents to answer questions about upcoming features, roadmap changes, and Azure incidents.

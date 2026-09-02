@@ -8,11 +8,13 @@ source_url: https://github.com/Sagargupta16/itr-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-29T01:51:50Z"
 ---
 ## What it is
 Local-first MCP server for Indian income tax computation, enabling users to compute taxes, compare regimes, plan advance tax, and parse Form 26AS without sending data to the cloud.

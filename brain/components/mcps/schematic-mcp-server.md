@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:39:21Z"
 ---
 ## What it is
 Enables AI assistants to manage billing, plans, features, and entitlements via Schematic. Supports company lookup, plan management, feature creation, and override configuration through natural language.

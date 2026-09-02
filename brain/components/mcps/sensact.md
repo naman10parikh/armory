@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T03:42:22Z"
 ---
 ## What it is
 Sensact is a Supabase-hosted remote MCP server that lets LLM clients discover and invoke device capabilities on user-owned devices, using OAuth 2.1 for authorization and Postgres+Realtime as the control plane.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-18T12:42:19Z"
 ---
 ## What it is
 A comprehensive MCP server that turns any AI assistant into a powerful mathematical computation engine, providing 52 advanced functions, 158 unit conversions, financial calculations, and secure AST-based evaluation.

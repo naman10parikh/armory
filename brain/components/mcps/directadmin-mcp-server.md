@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:50:31Z"
 ---
 ## What it is
 An MCP server that enables AI agents to manage DirectAdmin hosting panels via the Model Context Protocol, covering tasks like SSL certificate management, firewall/CSF controls, user/domain administration, and system operations through a secure, role-based interface.

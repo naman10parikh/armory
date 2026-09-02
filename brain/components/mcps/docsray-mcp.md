@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-07T16:21:49Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with advanced document perception capabilities including text extraction, structure analysis, and deep content understanding through multiple tools and providers.

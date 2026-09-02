@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-03T17:24:42Z"
 ---
 ## What it is
 Automates deployment of applications to Timeweb Cloud via the Model Context Protocol.

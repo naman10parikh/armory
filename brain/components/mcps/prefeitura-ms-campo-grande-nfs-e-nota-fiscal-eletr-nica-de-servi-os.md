@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:42Z"
 ---
 ## What it is
 MCP server for querying official Campo Grande (MS) electronic service invoices (NFS-e) data in read-only mode, with a single consult tool and prepaid credit pricing.

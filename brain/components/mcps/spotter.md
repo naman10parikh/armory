@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:09:18Z"
 ---
 ## What it is
 Enables automated sound design spotting from Claude Code: analyze video, generate cue sheets, search or generate SFX, and export DAW-synchronized stems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T17:44:20Z"
 ---
 ## What it is
 MCP server for accessing NCBI PubMed/PMC databases, enabling search, retrieval of summaries and full records, citation export, and ID conversion through various APIs.

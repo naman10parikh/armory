@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:42:17Z"
 ---
 ## What it is
 Enables safe, authenticated access to GitHub via local GitHub CLI, providing read-only operations such as listing repositories, issues, and pull requests.

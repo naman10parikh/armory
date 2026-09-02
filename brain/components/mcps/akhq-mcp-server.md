@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T11:56:14Z"
 ---
 ## What it is
 Enables AI assistants to interact with Apache Kafka clusters through AKHQ's REST API. Supports multi-environment configuration, flexible authentication, and comprehensive coverage of topics, consumer groups, schema registry, Kafka Connect, ksqlDB, and ACLs.

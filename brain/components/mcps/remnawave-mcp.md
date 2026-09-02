@@ -8,11 +8,13 @@ source_url: https://github.com/folexz/remnawave-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T05:23:21Z"
 ---
 ## What it is
 Enables MCP clients to manage a Remnawave panel through its full API, covering users, nodes, hosts, subscriptions, and more with configurable tool profiles and read/write token access.

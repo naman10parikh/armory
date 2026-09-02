@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-14T07:34:06Z"
 ---
 ## What it is
 MCP server `Slack Search`, catalogued on PulseMCP. Integrates with Slack workspaces to provide direct access to users, channels, messages, and search functionality through a TypeScript-based server that handles pagination and API errors automatically.

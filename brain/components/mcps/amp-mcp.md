@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:38:25Z"
 ---
 ## What it is
 Enables MCP-compatible coding harnesses to read Amp threads as Markdown, with pagination and filtering options, through a read-only interface.

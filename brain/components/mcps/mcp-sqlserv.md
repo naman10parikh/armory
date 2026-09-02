@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:25:12Z"
 ---
 ## What it is
 Enables AI agents to safely read SQL Server databases via MCP with structured queries, default-deny table permissions, OAuth authentication, and full audit logging.

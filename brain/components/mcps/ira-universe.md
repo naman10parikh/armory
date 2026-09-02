@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:53:04Z"
 ---
 ## What it is
 Public-safe visitor MCP for Claude Code and Cursor that explains what Ira is, how it is built, and how to adopt a factory-specific fork without sensitive data.

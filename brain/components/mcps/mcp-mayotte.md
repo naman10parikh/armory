@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:11:27Z"
 ---
 ## What it is
 MCP server for Mayotte public data, vigilance, administrative references, and local risk discovery, enabling users to search datasets, list communes, and fetch official information.

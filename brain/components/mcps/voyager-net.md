@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:45:39Z"
 ---
 ## What it is
 Voyager-net is a read-only, authorized network auditing MCP server that scans a single host or domain for DNS, port, TLS, and HTTP hygiene issues, returning findings with severity and suggested fixes. It enables AI agents to audit infrastructure safely without mutation, requiring explicit authorizat

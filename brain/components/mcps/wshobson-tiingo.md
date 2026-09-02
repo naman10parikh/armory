@@ -8,10 +8,12 @@ source_url: https://github.com/major7apps/tiingo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-29T19:18:02Z"
 ---
 ## What it is
 MCP server `Tiingo`, catalogued on PulseMCP. Access Tiingo financial data for stocks, forex, crypto, news, and fundamentals.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:13:43Z"
 ---
 ## What it is
 A lightweight MCP server that connects to the PayPal REST API, handling token lifecycle automatically and providing read-only tools for transactions, invoices, orders, disputes, and subscriptions by default.

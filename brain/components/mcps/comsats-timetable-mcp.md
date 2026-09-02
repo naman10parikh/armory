@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T18:52:28Z"
 ---
 ## What it is
 Enables fetching and analyzing COMSATS University timetables via natural language, bridging Claude Desktop with the live university timetable system.

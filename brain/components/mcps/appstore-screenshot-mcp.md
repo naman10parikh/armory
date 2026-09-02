@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T03:19:56Z"
 ---
 ## What it is
 Automates App Store screenshot capture from iOS Simulator, optimized for 2026 requirements with iPhone 6.9" and iPad 13" buckets.

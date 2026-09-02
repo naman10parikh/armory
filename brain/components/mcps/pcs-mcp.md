@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:55:49Z"
 ---
 ## What it is
 MCP server exposing ProCyclingStats teams, riders, and races data by scraping site pages, enabling custom rankings and historical result analysis.

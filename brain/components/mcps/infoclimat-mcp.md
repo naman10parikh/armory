@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T23:10:46Z"
 ---
 ## What it is
 Enables querying French weather data from Infoclimat via MCP, including station search, observations, and precipitation summaries.

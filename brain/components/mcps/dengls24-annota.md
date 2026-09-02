@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 19
+forks: 0
+pushed_at: "2026-04-17T05:39:48Z"
 ---
 ## What it is
 AI-powered paper annotation MCP server. Reads papers, highlights key findings with semantic color coding, explains formulas, and writes structured reading notes — all saved back to Zotero. Features two-phase workflow for large PDFs (63–80% context savings) and batch annotations.

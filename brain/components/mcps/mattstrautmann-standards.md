@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-30T18:16:42Z"
 ---
 ## What it is
 MCP server `Standards`, catalogued on PulseMCP. Automatically captures tool executions from development workflows and extracts patterns to continuously improve project standards and documentation through significance scoring, temporal knowledge graphs, and validation engines that learn from corrections and failures.

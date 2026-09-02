@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:15:59Z"
 ---
 ## What it is
 MCP server for managing MikroTik RouterOS devices, enabling reading device state and performing guarded write operations such as setting identity via natural language.

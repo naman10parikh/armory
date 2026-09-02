@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/ens-resolver-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4623
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:08Z"
 ---
 ## What it is
 ENS name resolution API for AI agents. Resolve ENS names (vitalik.eth) to Ethereum addresses and reverse-resolve addresses to ENS names. Includes avatar URLs and text records. Tools: crypto_resolve_ens. Use this for displaying human-readable names, identity verification, or building wallet UIs. The 

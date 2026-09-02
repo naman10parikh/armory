@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:58:32Z"
 ---
 ## What it is
 Enables AI assistants to programmatically manage Bitbucket Cloud resources, including pull requests, repositories, and branches, automating code review workflows.

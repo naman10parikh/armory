@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:39:55Z"
 ---
 ## What it is
 MCP server for querying the CONAPESCA historical fishing landings database (2001–2026) from Mexico's Pacific and Gulf coasts, providing tools to extract and analyze standardized landing records (avisos de arribo).

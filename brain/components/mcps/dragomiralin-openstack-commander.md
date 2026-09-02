@@ -8,10 +8,12 @@ source_url: https://github.com/dragomiralin/openstack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-02T18:54:18Z"
 ---
 ## What it is
 MCP server `OpenStack Commander`, catalogued on PulseMCP. Enables secure management of OpenStack infrastructure through natural language commands for server, project, flavor, and image operations via authenticated CLI interactions.

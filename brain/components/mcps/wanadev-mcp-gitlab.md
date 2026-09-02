@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-02T11:18:46Z"
 ---
 ## What it is
 Provides full control over GitLab epics, issues, merge requests, pipelines, and more via a conversational interface, with dry-run safety.

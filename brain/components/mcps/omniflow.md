@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:57:12Z"
 ---
 ## What it is
 Enables AI clients to automate Windows desktop applications through window manipulation, image recognition, OCR, keyboard/mouse simulation, and memory operations via the MCP protocol.

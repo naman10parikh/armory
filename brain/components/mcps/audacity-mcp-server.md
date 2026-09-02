@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T09:06:13Z"
 ---
 ## What it is
 Enables LLM-driven audio pipelines by controlling Audacity through mod-script-pipe, allowing generative audio, effects, and export via MCP tool calls.

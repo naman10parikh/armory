@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T04:00:05Z"
 ---
 ## What it is
 MCP server `MarkdownPointer`, catalogued on PulseMCP. Markdown viewer for AI-assisted document review with element-level path and line number copying.

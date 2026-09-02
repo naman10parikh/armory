@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T06:08:58Z"
 ---
 ## What it is
 A comprehensive MCP server for university faculty administration, enabling management of students, faculty, courses, grades, and documents with AI-powered chat and multiple access patterns.

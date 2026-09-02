@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [skill-creator, harness-rubric, agentbench, deep-think]
 tags: [meta, audit, harness-engineering, token-efficiency]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

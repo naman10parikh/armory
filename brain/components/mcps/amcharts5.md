@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T08:09:44Z"
 ---
 ## What it is
 MCP server `amCharts 5`, catalogued on PulseMCP. On-demand access to the complete amCharts 5 knowledge base including documentation, code examples, and API references.

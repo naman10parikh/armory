@@ -8,10 +8,12 @@ source_url: https://github.com/3dcreationsbychad/fusion360-cam-assistant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-13T16:44:31Z"
 ---
 ## What it is
 MCP server `Fusion 360 CAM Assistant`, catalogued on PulseMCP. Analyzes Fusion 360 part geometry to suggest optimal machining strategies, toolpath operations, and stock setup with intelligent feature detection, preference learning, and feeds/speeds calculations.

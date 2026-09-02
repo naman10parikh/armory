@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T18:47:33Z"
 ---
 ## What it is
 Live Excel MCP server for macOS that interacts with running Excel instances in real time via AppleScript, enabling instant read/write, formula support, and VBA macro execution.

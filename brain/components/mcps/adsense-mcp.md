@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T06:21:40Z"
 ---
 ## What it is
 MCP server for Google AdSense management. Create ad units, generate framework-specific ad code, manage earnings reports, and automate ads.txt — all from your AI assistant.

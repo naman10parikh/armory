@@ -8,11 +8,13 @@ source_url: https://github.com/TypeWhisper/typewhisper-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T22:38:54Z"
 ---
 ## What it is
 Connects to the TypeWhisper macOS app to let coding agents transcribe local files, inspect model status, search history, and manage dictionary terms and corrections.

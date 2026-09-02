@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:39:36Z"
 ---
 ## What it is
 MCP server for college library management, enabling book issuance, returns, inventory management, and availability checks via MySQL.

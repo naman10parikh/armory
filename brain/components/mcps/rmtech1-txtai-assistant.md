@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-22T17:59:25Z"
 ---
 ## What it is
 MCP server `txtai`, catalogued on PulseMCP. Configurable server environment for efficient memory-based operations with customizable settings and flexible limits for scalable applications.

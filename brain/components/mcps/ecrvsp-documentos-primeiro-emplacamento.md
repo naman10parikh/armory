@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:59Z"
 ---
 ## What it is
 Consulta em fonte oficial para documentos ECRVSP de primeiro emplacamento, com ferramenta somente leitura.

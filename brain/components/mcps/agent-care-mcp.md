@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 27
+pushed_at: "2025-02-17T04:46:03Z"
 ---
 ## What it is
 Integrates with EMRs like Cerner and Epic via FHIR to retrieve patient data, and provides medical research tools (PubMed, clinical trials, FDA) for clinical analysis.

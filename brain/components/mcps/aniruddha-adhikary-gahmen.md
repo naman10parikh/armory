@@ -8,10 +8,12 @@ source_url: https://github.com/aniruddha-adhikary/gahmen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-11T16:16:08Z"
 ---
 ## What it is
 MCP server `Gahmen`, catalogued on PulseMCP. Integrates with Singapore's government data APIs (data.gov.sg and SingStat) to enable browsing, searching, filtering, and downloading of open datasets for policy research, economic analysis, demographic studies, and data journalism.

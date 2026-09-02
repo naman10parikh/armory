@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-16T15:36:06Z"
 ---
 ## What it is
 MCP server `AI Furniture Hub`, catalogued on PulseMCP. MCP server for furniture and home product search with millimeter-precision dimension matching and replacement intelligence.

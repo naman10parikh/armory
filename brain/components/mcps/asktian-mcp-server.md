@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T09:43:17Z"
 ---
 ## What it is
 Provides Chinese metaphysical tools (bazi, qimen, five elements) as MCP tools for AI agents to give personalized advice on timing, compatibility, and daily energy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:25:55Z"
 ---
 ## What it is
 MCP server for managing LinkedIn content workflows. It generates images via OpenAI, stores assets in Cloudinary, and queues drafts through Buffer with mandatory human approval.

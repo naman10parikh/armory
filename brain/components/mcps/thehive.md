@@ -8,10 +8,12 @@ source_url: https://github.com/gbrigandi/mcp-server-thehive
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-06T03:44:14Z"
 ---
 ## What it is
 MCP server `TheHive`, catalogued on PulseMCP. Integrates with TheHive incident response platform to retrieve alerts and cases, promote alerts to cases, and create new cases for automated security workflows and case management operations.

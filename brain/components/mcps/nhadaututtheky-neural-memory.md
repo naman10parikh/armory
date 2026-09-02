@@ -8,10 +8,12 @@ source_url: https://github.com/nhadaututtheky/neural-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 200
+stars: 240
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 67
+pushed_at: "2026-08-16T12:01:30Z"
 ---
 ## What it is
 MCP server `Neural Memory`, catalogued on PulseMCP. Persistent memory for AI agents with 55 MCP tools and spreading activation recall.

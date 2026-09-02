@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T02:05:32Z"
 ---
 ## What it is
 This MCP server integrates with a Windows tray app that reminds users to take breaks, providing tools to query status, start breaks, snooze reminders, pause reminders, view daily stats and summaries, update settings, and acknowledge reminders via stdio over a named pipe.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:19:52Z"
 ---
 ## What it is
 Enables managing RunPod compute for the Learning-to-Swim replication through natural language, including pod lifecycle, SSH/rsync file transfer, detached training jobs, and supervised runs with cost guardrails.

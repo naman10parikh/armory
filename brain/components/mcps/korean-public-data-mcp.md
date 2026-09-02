@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T23:59:41Z"
 ---
 ## What it is
 Enables AI to query real-time Korean public data including weather, real estate prices, air quality, economic indicators, and business registration via natural language.

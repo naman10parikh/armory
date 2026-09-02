@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T05:35:30Z"
 ---
 ## What it is
 A strict, beginner-friendly MCP server for Deluge syntax support, providing tools for validation, health checks, and curated knowledge packs.

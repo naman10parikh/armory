@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T00:50:54Z"
 ---
 ## What it is
 MCP server `Scientific Paper Analyzer (Gemini)`, catalogued on PulseMCP. Integrates with Google's Gemini API to enable searching, analyzing and exploring academic research papers with tools for citation graphs and detailed paper information retrieval

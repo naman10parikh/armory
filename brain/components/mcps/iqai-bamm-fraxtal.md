@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-16T12:04:23Z"
 ---
 ## What it is
 MCP server `BAMM (Fraxtal DeFi)`, catalogued on PulseMCP. Enables DeFi operations on Fraxtal blockchain by providing tools for managing BAMM positions, lending Fraxswap LP tokens, and borrowing against collateral

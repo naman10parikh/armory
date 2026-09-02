@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 6
+forks: 3
+pushed_at: "2025-10-05T02:40:07Z"
 ---
 ## What it is
 Bring structure and preserve context in vibe coding by automatically tracking issues.

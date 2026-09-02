@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-04T19:02:43Z"
 ---
 ## What it is
 MCP server `SigNoz`, catalogued on PulseMCP. Integrates with SigNoz observability platform to provide dashboard management, custom metrics querying with PromQL support, and APM metrics collection for performance analysis and troubleshooting workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:24:50Z"
 ---
 ## What it is
 Connects Windows-based Codex to the Cursor Agent CLI in WSL, providing a run_cursor tool to execute tasks in specified working directories and resume sessions per directory.

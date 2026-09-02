@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:37:43Z"
 ---
 ## What it is
 Enables AI assistants to access free, open agronomic data for field briefings, spray windows, water balance, pest pressure, and more, using only public data sources without API keys.

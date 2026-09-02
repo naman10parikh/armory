@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T08:10:48Z"
 ---
 ## What it is
 A focused MCP server for reading comments on Google Drive files — Docs, Sheets, and Slides, with read-only OAuth scope.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:01:17Z"
 ---
 ## What it is
 Provides a governance gateway for LLM and agent traffic via MCP, blocking prompt injection, redacting PII, enforcing per-tenant token budgets, and caching repeat questions semantically. Enables AI agents to route model calls through the same guardrails instead of calling providers directly.

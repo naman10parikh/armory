@@ -8,10 +8,12 @@ source_url: https://github.com/napthaai/http-oauth-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-05-07T17:46:37Z"
 ---
 ## What it is
 MCP server `HTTP OAuth Auth0`, catalogued on PulseMCP. Provides secure OAuth 2.0 authentication for MCP implementations with flexible token storage and horizontal scalability through Auth0 integration.

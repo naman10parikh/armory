@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-11T10:12:38Z"
 ---
 ## What it is
 MCP server `File Operations`, catalogued on PulseMCP. Enhances file and directory management with streaming, patching, and change tracking for advanced manipulation, real-time monitoring, and integration into automated workflows.

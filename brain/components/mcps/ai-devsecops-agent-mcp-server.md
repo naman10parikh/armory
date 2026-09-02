@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:53:17Z"
 ---
 ## What it is
 Enables LLM clients to access DevSecOps tooling such as CI/CD pipeline status, vulnerability triage, log search, and dependency scanning through MCP, turning AI copilots into security-aware engineering partners.

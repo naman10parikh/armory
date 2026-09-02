@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T14:42:32Z"
 ---
 ## What it is
 Enterprise MCP Skill Hub is a locally runnable reference implementation of a governed reusable skill layer for enterprise agents, exposing approved skills through FastAPI and an MCP-compatible adapter with tools, resources, and prompts.

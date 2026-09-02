@@ -8,10 +8,12 @@ source_url: https://github.com/yohasacura/drawio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-09T17:50:13Z"
 ---
 ## What it is
 MCP server `Draw.io Diagrams`, catalogued on PulseMCP. Creates and edits draw.io XML diagram files with support for flowcharts, UML, ER, C4, BPMN, architecture, and network diagrams.

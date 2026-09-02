@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-07T05:11:47Z"
 ---
 ## What it is
 MCP server `Mailgun`, catalogued on PulseMCP. Enables direct email sending from desktop applications using the Mailgun API, providing flexible content options like plain text and HTML for streamlined communication workflows.

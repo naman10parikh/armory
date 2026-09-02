@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T09:20:03Z"
 ---
 ## What it is
 A Model Context Protocol server for querying Japanese pesticide registration information from FAMIC CSV data. Provides tools to search pesticides, retrieve applications, and check registered uses with detailed safety notices.

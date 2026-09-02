@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T15:41:43Z"
 ---
 ## What it is
 Wraps the Plaky project-management REST API as MCP tools for managing spaces, boards, items, comments, files, and more via natural language.

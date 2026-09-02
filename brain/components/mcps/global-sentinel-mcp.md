@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T02:24:15Z"
 ---
 ## What it is
 Unifies prediction markets, global news events, aviation state, and internet-infrastructure telemetry into a single async MCP server for macro and financial analysis.

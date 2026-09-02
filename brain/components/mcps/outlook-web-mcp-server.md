@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:10:12Z"
 ---
 ## What it is
 Enables interaction with Outlook Web through its internal API, supporting email search, folder listing, email retrieval, read state changes, calendar events, and reply drafts without Microsoft Graph or COM.

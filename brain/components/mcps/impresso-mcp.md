@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T03:45:15Z"
 ---
 ## What it is
 Provides access to the impresso corpus of digitized historical newspapers, enabling article search with keyword-in-context snippets, filtering, facets, and source metadata retrieval.

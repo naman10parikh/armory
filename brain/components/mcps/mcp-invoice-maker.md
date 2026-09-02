@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T12:33:17Z"
 ---
 ## What it is
 A local-first MCP server for creating PDF invoices from SQLite data, supporting client management and invoice generation.

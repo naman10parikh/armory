@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:19:08Z"
 ---
 ## What it is
 Turns product ideas into implementation-ready planning packages including PRD, requirements, user flow, wireframes, data schema, API contracts, and SDK boundaries, with an MCP handoff for coding agents.

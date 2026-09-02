@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-27T09:56:26Z"
 ---
 ## What it is
 Enables streaming text-to-speech generation using ElevenLabs with real-time audio playback and voice listing.

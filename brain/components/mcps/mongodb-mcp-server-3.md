@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T10:32:23Z"
 ---
 ## What it is
 Enables AI assistants to interact natively with MongoDB databases, including schema discovery, CRUD operations, aggregation pipelines, and index management via natural language.

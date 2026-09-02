@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:08:42Z"
 ---
 ## What it is
 Enables control and inspection of a Factorio 2.0 server via RCON, with tools for administration, player management, game state queries, and Lua execution.

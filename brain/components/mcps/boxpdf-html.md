@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:45:36Z"
 ---
 ## What it is
 An MCP server that converts HTML to PDF with built-in fonts, CSS, and streaming, enabling AI agents to generate static PDFs from HTML strings.

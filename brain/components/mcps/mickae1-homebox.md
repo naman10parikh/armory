@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T13:53:31Z"
 ---
 ## What it is
 MCP server `Homebox`, catalogued on PulseMCP. Enables interaction with Homebox home inventory management for searching items and listing storage locations.

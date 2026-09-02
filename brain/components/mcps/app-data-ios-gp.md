@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:22:07Z"
 ---
 ## What it is
 Enables AI assistants to query the FoxData API for iOS and Google Play app analytics, including downloads, revenue, rankings, keywords, competitor insights, and ad data across 200+ countries. Supports natural-language requests to retrieve app intelligence and market data.

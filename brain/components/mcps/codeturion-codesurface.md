@@ -8,10 +8,12 @@ source_url: https://github.com/codeturion/codesurface
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-28T20:04:18Z"
 ---
 ## What it is
 MCP server `CodeSurface`, catalogued on PulseMCP. Code analysis toolkit for extracting API surfaces, dependency graphs, and structural patterns.

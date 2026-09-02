@@ -8,12 +8,14 @@ source_url: https://github.com/tmux/tmux
 license: unknown
 cli_compat: []
 maturity: curated
-stars: 48787
+stars: 48975
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [terminal]
+forks: 2865
+pushed_at: "2026-09-01T23:20:23Z"
 ---
 
 # tmux

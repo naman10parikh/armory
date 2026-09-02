@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T04:21:35Z"
 ---
 ## What it is
 Provides AI agents with honest benchmark rankings (Agentic Memory Index and Agentic Search Index) for AI tools, plus graded checks and telemetry for x402 endpoints.

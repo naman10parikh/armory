@@ -8,10 +8,12 @@ source_url: https://github.com/victoriametrics/mcp-vmanomaly
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-28T07:15:58Z"
 ---
 ## What it is
 MCP server `vmanomaly`, catalogued on PulseMCP. VictoriaMetrics anomaly detection for time series data

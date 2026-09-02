@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-07T02:45:01Z"
 ---
 ## What it is
 MCP server `OpenFGA`, catalogued on PulseMCP. Enables large language models to interact with OpenFGA authorization stores by providing tools to read, search, and manipulate fine-grained access control policies with support for checking permissions and generating access decision explanations.

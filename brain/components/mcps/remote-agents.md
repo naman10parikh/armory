@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:22:55Z"
 ---
 ## What it is
 A unified MCP-compatible system for controlling fleets of remote machines through AI agents.

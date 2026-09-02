@@ -8,10 +8,12 @@ source_url: https://github.com/hi-godot/godot-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 369
+stars: 2077
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 127
+pushed_at: "2026-09-02T03:17:18Z"
 ---
 ## What it is
 MCP server `Godot Studio`, catalogued on PulseMCP. Control a live Godot editor with 120+ tools for creating scenes, editing scripts, wiring signals, and managing game assets.

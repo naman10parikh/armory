@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-19T01:19:33Z"
 ---
 ## What it is
 MCP server for Beaker lab automation, enabling system provisioning, job management, distro discovery, and failure diagnosis through 25 tools.

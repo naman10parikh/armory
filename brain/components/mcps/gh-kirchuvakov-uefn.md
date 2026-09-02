@@ -8,10 +8,12 @@ source_url: https://github.com/kirchuvakov/uefn-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-03-20T11:55:31Z"
 ---
 ## What it is
 MCP server `UEFN`, catalogued on PulseMCP. Controls Unreal Editor for Fortnite from Claude Code with 28 tools for actors, assets, levels, viewport, and Python execution.

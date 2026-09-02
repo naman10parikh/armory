@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T19:56:15Z"
 ---
 ## What it is
 MCP server for Lakehouse42, enabling code-first tool discovery, hybrid search, document management, and Iceberg time-travel queries with optimized responses.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T03:54:20Z"
 ---
 ## What it is
 MCP server `KMP API Lookup`, catalogued on PulseMCP. Indexes Kotlin/Native iOS klib APIs into SQLite for fast symbol lookup in KMP projects.

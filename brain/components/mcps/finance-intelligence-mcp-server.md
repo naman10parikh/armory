@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:46:45Z"
 ---
 ## What it is
 A production-grade MCP server that provides AI assistants with real-time financial market data, company metrics, and historical prices using yfinance and FastMCP.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-23T21:50:45Z"
 ---
 ## What it is
 MCP server `Promptopia`, catalogued on PulseMCP. Manage, organize, and reuse prompt templates with variable substitution and multi-message conversation structures.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-01T03:56:28Z"
 ---
 ## What it is
 MCP server `Rs Fast MCP`, catalogued on PulseMCP. High-performance async Rust framework for building MCP servers with OAuth2/OIDC authentication, rate limiting, and caching middleware.

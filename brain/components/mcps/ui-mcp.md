@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T11:21:14Z"
 ---
 ## What it is
 Gives MCP clients access to a registry of elite UI patterns, components, and motion configs with real, copy-pasteable React/TSX implementations.

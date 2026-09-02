@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T22:28:10Z"
 ---
 ## What it is
 Local Files MCP server that lets MCP-compatible clients read, search, and modify files inside a sandboxed directory. Provides file management and coding workflow tools with security controls like path boundary enforcement and disabled deletion by default.

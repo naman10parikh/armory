@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-11T20:45:14Z"
 ---
 ## What it is
 An MCP server providing access to 554+ generative AI models with spend safety guardrails, enabling text-to-image, image-to-video, and more through a simple 4-call workflow.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T13:37:21Z"
 ---
 ## What it is
 Provides project-wide semantic PHP refactoring tools (find references, rename classes/members, move class, class info) for AI assistants by wrapping Phpactor.

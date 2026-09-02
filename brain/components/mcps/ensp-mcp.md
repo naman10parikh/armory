@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-27T04:52:36Z"
 ---
 ## What it is
 MCP server for managing Huawei eNSP network simulation experiments, enabling topology management, Telnet device interaction, configuration deployment, and verification through natural language or API.

@@ -12,6 +12,8 @@ stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-03T09:58:05Z"
 ---
 ## What it is
 MCP server `Codex MCP Go`, catalogued on PulseMCP. Wraps the Codex CLI tool to enable secure, sandboxed code generation, debugging, and automation with three security levels and session persistence for iterative development workflows.

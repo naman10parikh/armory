@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-06T14:52:12Z"
 ---
 ## What it is
 MCP server `DuckDB`, catalogued on PulseMCP. Provides direct access to DuckDB's analytical capabilities through file loading, table management, schema inspection, and SQL query execution for fast local processing of CSV, JSON, and Parquet files without database setup overhead.

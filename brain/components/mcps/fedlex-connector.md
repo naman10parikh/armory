@@ -8,10 +8,12 @@ source_url: https://github.com/jaytheskier/fedlex-connector
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-30T12:57:21Z"
 ---
 ## What it is
 MCP server `Fedlex Connector`, catalogued on PulseMCP. Search Swiss federal legislation: laws, articles, and amendments via the Fedlex SPARQL endpoint.

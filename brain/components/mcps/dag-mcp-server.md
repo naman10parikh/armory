@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-05T03:40:03Z"
 ---
 ## What it is
 Provides intelligent, version-aware access to npm library documentation. Supports semantic search, API validation, and version comparison to assist developers in using libraries correctly.

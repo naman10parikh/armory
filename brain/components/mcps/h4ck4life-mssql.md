@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-14T00:34:06Z"
 ---
 ## What it is
 MCP server `MSSQL`, catalogued on PulseMCP. Enables read-only SQL queries against Microsoft SQL Server databases with configurable timeouts, connection pooling, and write operation detection for secure data analysis

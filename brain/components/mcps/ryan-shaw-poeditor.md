@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T20:07:16Z"
 ---
 ## What it is
 MCP server `POEditor`, catalogued on PulseMCP. Integrates with POEditor's translation management platform to streamline localization workflows by enabling bulk translation operations, term management, and project coordination across multiple languages.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-29T22:12:36Z"
 ---
 ## What it is
 MCP server `Pandas Data Tools`, catalogued on PulseMCP. Provides data processing capabilities for CSV and Parquet files through pandas-based tools with file reading, data summarization, sample generation, and Discord bot launching functionality for development workflows requiring quick file inspection and external application management.

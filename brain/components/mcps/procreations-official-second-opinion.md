@@ -8,10 +8,12 @@ source_url: https://github.com/procreations-official/second-opinion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-03T20:17:11Z"
 ---
 ## What it is
 MCP server `Second Opinion`, catalogued on PulseMCP. Enables getting second opinions from multiple AI models across OpenAI, Google Gemini, xAI Grok, and Anthropic Claude platforms with conversation history management and cross-platform response comparison for improved decision making and research validation.

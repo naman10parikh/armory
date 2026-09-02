@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:39:42Z"
 ---
 ## What it is
 Give your AI agent live Google Maps search, review, and photo data through one secure MCP connection.

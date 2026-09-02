@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
 stars: 6
+forks: 5
+pushed_at: "2025-05-28T02:50:27Z"
 ---
 ## What it is
 MCP Server for the Aiwen IP Location, Get user network IP location, get IP details (country, province, city, lat, lon, ISP, owner, etc.)

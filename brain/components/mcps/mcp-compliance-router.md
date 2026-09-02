@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:42:29Z"
 ---
 ## What it is
 Screens text for PHI/PII, classifies it, redacts sensitive content, and routes it to approved model tiers based on a declarative policy, with built-in evaluation metrics.

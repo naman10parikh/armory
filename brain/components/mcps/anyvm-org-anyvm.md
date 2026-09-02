@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T10:51:23Z"
 ---
 ## What it is
 MCP server `anyvm`, catalogued on PulseMCP. Controls BSD and Illumos VMs using natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T10:04:26Z"
 ---
 ## What it is
 Provides 13 Solana DeFi intelligence tools for AI agents, paid per-call via micropayments (USDC). Enables pulling live DeFi data and automatic payment settlement.

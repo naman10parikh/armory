@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T03:08:52Z"
 ---
 ## What it is
 Generate 3D models from text or image. Browse 10K+ free 3D models. AI creative platform with API

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:22:14Z"
 ---
 ## What it is
 MCP server for Microsoft Dynamics 365 Business Central that enables AI assistants to query and manage Business Central data via full CRUD operations.

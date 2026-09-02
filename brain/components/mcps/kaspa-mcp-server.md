@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-14T18:20:03Z"
 ---
 ## What it is
 Model Context Protocol server for Kaspa operations using WASM SDK. Enables LLMs to interact with the Kaspa network through standardized MCP tools.

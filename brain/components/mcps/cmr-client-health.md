@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T16:20:28Z"
 ---
 ## What it is
 Enables client success teams to get instant, natural-language health reads on client accounts with tools for overall health, low-performing courses, and launcher-only clients.

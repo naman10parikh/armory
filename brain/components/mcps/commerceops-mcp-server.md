@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:05:26Z"
 ---
 ## What it is
 CommerceOps MCP Server is an AI-native Model Context Protocol server for e-commerce operations, enabling AI agents to autonomously diagnose and resolve operational exceptions such as stuck orders, missed payment webhooks, warehouse delays, and oversold inventory, with built-in safety guardrails and 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:29:42Z"
 ---
 ## What it is
 MCP server for securely connecting LLMs to customer data, providing customer profile retrieval, semantic search of interaction history, and exact financial summaries via SQL aggregation, with audit logging and prompt injection protection.

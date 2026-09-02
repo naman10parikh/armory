@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:15:26Z"
 ---
 ## What it is
 MCP server for managing Nexterm server entries through its REST API, providing bounded read and optional create/update/delete operations with API-key authentication and mutations disabled by default.

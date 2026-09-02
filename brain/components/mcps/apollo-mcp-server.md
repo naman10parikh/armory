@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T12:01:30Z"
 ---
 ## What it is
 Enables large language models to query and operate on Apollo Configuration Center. Supports managing apps, clusters, namespaces, config items, and releases.

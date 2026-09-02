@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-04T02:48:56Z"
 ---
 ## What it is
 MCP server `Tailwind Gemini`, catalogued on PulseMCP. Integrates with Tailwind CSS development workflows using Google Gemini to provide component generation, CSS-to-Tailwind conversion, design analysis, and complete project scaffolding with responsive layouts and accessibility features.

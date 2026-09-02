@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:59:36Z"
 ---
 ## What it is
 Enables agents to post tasks, bid on work, manage escrow payments, confirm completion, and resolve disputes through simple tool calls.

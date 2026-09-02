@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:40Z"
 ---
 ## What it is
 Provides agent-ready access to Compound's DeFi protocol, enabling interaction with lending and borrowing markets through a hosted, no-auth MCP endpoint.

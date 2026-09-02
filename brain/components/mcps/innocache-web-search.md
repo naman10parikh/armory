@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T00:09:02Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Searches the web and extracts page content using Electron browser rendering with Readability-based quality scoring.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
 stars: 6
+forks: 2
+pushed_at: "2026-08-01T12:55:09Z"
 ---
 ## What it is
 MiSTerClaw — MCP remote control for MiSTer-FPGA. Launch games, search ROMs, take screenshots, manage systems, and set up Tailscale VPN. Auto-discovers 70+ systems with dynamic core/ROM scanning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T16:35:58Z"
 ---
 ## What it is
 MCP server for reading C2PA content provenance manifests from media files, enabling natural language queries about AI-generated content, signatures, and provenance.

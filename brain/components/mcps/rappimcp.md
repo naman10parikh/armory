@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-13T12:29:42Z"
 ---
 ## What it is
 Enables Claude to browse stores, search products, manage the cart, and open checkout on Rappi Chile through natural language, automating grocery and delivery purchases.

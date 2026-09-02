@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T02:07:57Z"
 ---
 ## What it is
 Enables AI clients to directly launch, control, and analyze AMD/Xilinx Vivado on Windows and Linux, supporting project management, synthesis, implementation, bitstream generation, timing/resource analysis, and simulation through a persistent Tcl session.

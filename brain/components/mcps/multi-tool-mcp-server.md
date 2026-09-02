@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T19:54:35Z"
 ---
 ## What it is
 A Docker-based FastMCP server for dynamic Python code execution with support for multiple MCP clients, automatic validation, runtime installation, and browser automation.

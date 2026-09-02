@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-31T16:46:26Z"
 ---
 ## What it is
 MCP server `ConnectWise Automate`, catalogued on PulseMCP. Community MCP integration for ConnectWise Automate RMM, enabling AI agents to manage computers, clients, and alerts.

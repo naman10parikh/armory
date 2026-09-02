@@ -8,10 +8,12 @@ source_url: https://github.com/dosugamea/voicevox-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-23T19:53:30Z"
 ---
 ## What it is
 MCP server `VOICEVOX`, catalogued on PulseMCP. Connects AI systems to VOICEVOX text-to-speech engine for Japanese voice synthesis, supporting both default transport and Server-Sent Events with configurable speaker options.

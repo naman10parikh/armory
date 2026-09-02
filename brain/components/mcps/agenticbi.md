@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T16:58:50Z"
 ---
 ## What it is
 Connect your business data to any MCP client. AgenticBI agents find the right data, join across systems, run queries, build dashboards, generate reports, and automate analytics workflows. No SQL required.

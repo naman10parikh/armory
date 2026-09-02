@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T17:08:22Z"
 ---
 ## What it is
 MCP server for managing Git reference repositories, enabling AI assistants to add, load, and sync reference code from any Git repository.

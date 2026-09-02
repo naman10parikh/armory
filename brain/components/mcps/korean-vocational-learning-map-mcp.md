@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T02:16:50Z"
 ---
 ## What it is
 MCP server providing a local learning graph for the Korean vocational high school curriculum (2022 revised), including 8,425 achievement standards, topics, and 10 tools for searching standards, topics, prerequisites, and learning roadmaps.

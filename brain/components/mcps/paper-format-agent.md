@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-29T06:29:51Z"
 ---
 ## What it is
 A local DOCX formatter for theses and papers that also provides an optional MCP server with tools for formatting, extracting rules, and scoring papers.

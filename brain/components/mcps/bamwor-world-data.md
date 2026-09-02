@@ -8,10 +8,12 @@ source_url: https://github.com/bamwor-dev/bamwor-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-02T14:44:34Z"
 ---
 ## What it is
 MCP server `Bamwor World Data`, catalogued on PulseMCP. Structured access to 261 countries and 13.4 million cities with population, coordinates, and statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T05:12:25Z"
 ---
 ## What it is
 A calculator-focused MCP server template with tools, resources, and prompts built on NitroStack.

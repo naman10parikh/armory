@@ -8,10 +8,12 @@ source_url: https://github.com/tonypan2/minesweeper-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 107
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-20T20:04:34Z"
 ---
 ## What it is
 MCP server `Minesweeper`, catalogued on PulseMCP. Enables Claude to play Minesweeper through a bridge that translates game actions into API calls and returns game states as images for visual puzzle-solving.

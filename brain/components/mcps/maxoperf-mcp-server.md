@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:15:42Z"
 ---
 ## What it is
 Remote MCP server enabling AI agents to manage the MaxoPerf performance testing platform via natural language, including creating tests, launching cloud load runs, viewing results, and diagnosing failures.

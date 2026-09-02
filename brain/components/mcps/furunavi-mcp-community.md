@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:53:58Z"
 ---
 ## What it is
 An unofficial MCP server for the Furusato Nozei site 'Furunavi', enabling product search, detail retrieval, browser login, and favorite management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T16:00:57Z"
 ---
 ## What it is
 A FastMCP server that provides access to Statistics Sweden's PxWebApi v2, enabling querying of statistical tables on employment, wages, and other Swedish civil data.

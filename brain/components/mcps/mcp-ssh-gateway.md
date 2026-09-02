@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T11:19:26Z"
 ---
 ## What it is
 Enables managing Linux servers via SSH with tools for command execution, file operations, service management, and log analysis.

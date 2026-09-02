@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T18:00:02Z"
 ---
 ## What it is
 Provides read-only SQL Server health and diagnostic tools using DMVs, enabling users to query server health, active queries with blocking, and missing indexes through natural language.

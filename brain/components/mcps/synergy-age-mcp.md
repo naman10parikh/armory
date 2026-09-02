@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-25T22:34:34Z"
 ---
 ## What it is
 MCP server providing structured access to the SynergyAge database of synergistic genetic interventions affecting lifespan, enabling AI assistants to query longevity research data via SQL.

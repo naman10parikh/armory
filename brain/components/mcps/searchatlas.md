@@ -8,10 +8,12 @@ source_url: https://github.com/search-atlas-group/mcp-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-28T09:43:58Z"
 ---
 ## What it is
 MCP server `SearchAtlas`, catalogued on PulseMCP. All-in-one SEO, GEO, Google Ads, local SEO, content generation, digital PR, and link building platform with 112 marketing tools.

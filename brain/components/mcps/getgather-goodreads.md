@@ -8,10 +8,12 @@ source_url: https://github.com/remotebrowser/mcp-getgather-goodreads
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-05T17:25:56Z"
 ---
 ## What it is
 MCP server `Goodreads`, catalogued on PulseMCP. Integrates with Goodreads through GetGather service to retrieve personal book libraries and reading information for book recommendation workflows and reading list management.

@@ -8,10 +8,12 @@ source_url: https://github.com/mcp-use/supabase-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-18T14:44:47Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Bridges Supabase databases with interactive React widgets for data visualization, providing sortable tables, SQL query editors with syntax highlighting, and schema explorers for read-only database exploration.

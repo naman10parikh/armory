@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T12:43:47Z"
 ---
 ## What it is
 Provides tools to manage Notion job records via MCP, including finding customers by phone, creating job entries, scheduling follow-ups, and querying jobs.

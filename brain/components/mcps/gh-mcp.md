@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T10:45:54Z"
 ---
 ## What it is
 A thin MCP server wrapping GitHub CLI body operations to avoid shell escaping issues, enabling creation and editing of issues and pull requests.

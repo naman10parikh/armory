@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:13:58Z"
 ---
 ## What it is
 Web search for AI agents. Up to 10 results for $0.001 USDC via x402 on Base. No API key.

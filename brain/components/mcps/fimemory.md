@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:35:06Z"
 ---
 ## What it is
 Enables AI assistants to read and write a local, encrypted-by-default memory store, so they can share persistent notes and context across sessions and models on your machine.

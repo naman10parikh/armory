@@ -8,10 +8,12 @@ source_url: https://github.com/leonaiuv/seedance-2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T10:24:39Z"
 ---
 ## What it is
 MCP server `Seedance 2`, catalogued on PulseMCP. Exposes Volcengine ARK Seedance 2.0 video generation for text-to-video and image-to-video through MCP tools.

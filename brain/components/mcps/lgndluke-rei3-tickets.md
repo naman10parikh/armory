@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-11T19:17:40Z"
 ---
 ## What it is
 MCP server `REI3 Tickets`, catalogued on PulseMCP. Integrates with REI3 ticketing system to provide ticket creation, worklog management, information retrieval, and closure operations with configurable authentication and formatting for streamlined issue tracking workflows.

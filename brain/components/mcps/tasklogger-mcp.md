@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:57:32Z"
 ---
 ## What it is
 MCP server enabling AI agents to create, update, search, assign, and complete tasks on TaskLogger.io via the TaskLogger REST API, with secure local credential management and token persistence.

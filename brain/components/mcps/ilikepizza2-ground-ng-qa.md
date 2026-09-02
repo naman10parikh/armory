@@ -12,6 +12,8 @@ stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-11-29T11:31:22Z"
 ---
 ## What it is
 MCP server `GroundNG (QA for Cursor)`, catalogued on PulseMCP. Automates web testing by putting the client in a feedback loop. Test recording, execution, and discovery with robust element identification and vision-based fallback mechanisms.

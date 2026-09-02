@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:56Z"
 ---
 ## What it is
 Enables users to consult official SEFAZ SE negative debt certificates through a read-only MCP tool. It provides one tool, sefaz_se_certidao_debitos_consultar, and works with any MCP-compatible client over HTTP.

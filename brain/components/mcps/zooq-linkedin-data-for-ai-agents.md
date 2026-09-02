@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:29:45Z"
 ---
 ## What it is
 Live LinkedIn data for AI agents: 44 tools for profiles, companies, jobs, posts, people search, job-change signals and email finding. Hosted remote server (streamable HTTP) - your agent never touches your own LinkedIn account. 300 free credits on signup, no card. Dockerfile in repo bridges stdio cli

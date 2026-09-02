@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T03:24:10Z"
 ---
 ## What it is
 Remote MCP server for read-only Sorftime Enterprise API access, enabling product, category, and keyword data queries with per-user JWT authentication and audit logging.

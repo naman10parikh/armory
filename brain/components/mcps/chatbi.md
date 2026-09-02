@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-17T11:47:25Z"
 ---
 ## What it is
 MCP server `ChatBI`, catalogued on PulseMCP. Transforms CSV and Excel files into conversational data analysis by generating and executing Python code to answer natural language questions about datasets with automatic error correction and visualization capabilities.

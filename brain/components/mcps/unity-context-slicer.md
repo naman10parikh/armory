@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:54:52Z"
 ---
 ## What it is
 Graph-based context extraction engine and MCP server for Unity projects, providing targeted code context slicing and compression for LLMs.

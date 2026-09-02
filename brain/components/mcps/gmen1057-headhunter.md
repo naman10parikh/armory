@@ -8,10 +8,12 @@ source_url: https://github.com/gmen1057/headhunter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-10-13T09:49:16Z"
 ---
 ## What it is
 MCP server `HeadHunter (hh.ru)`, catalogued on PulseMCP. Integrates with HeadHunter (hh.ru) job search platform to enable vacancy searching with advanced filtering, resume management, job applications, and automated job matching analysis with CSV reporting for systematic job hunting on Russia's largest job board.

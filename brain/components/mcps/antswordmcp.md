@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:28:58Z"
 ---
 ## What it is
 Exposes AntSword (蚁剑) shell management capabilities as an MCP server via SSE, enabling AI clients to execute commands, manage files, databases, and shells.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T05:07:23Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with fal.ai models and services, enabling listing, searching, generating content, managing queues, and uploading files.

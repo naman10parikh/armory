@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T18:40:24Z"
 ---
 ## What it is
 MCP server `MCPpedia Search`, catalogued on PulseMCP. Enables discovery, evaluation, and comparison of 17,000+ MCP servers from the MCPpedia catalog with integrated security scoring.

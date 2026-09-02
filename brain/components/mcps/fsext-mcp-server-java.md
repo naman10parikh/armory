@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T08:27:52Z"
 ---
 ## What it is
 A full-featured secure MCP server for local file system operations, with built-in image processing, OCR and media tools.

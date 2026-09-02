@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T14:43:35Z"
 ---
 ## What it is
 Routes tasks from AI agents to human workers via webhook providers with smart matching, fallback chains, and proof-of-completion tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T14:49:57Z"
 ---
 ## What it is
 Enables Claude to read, analyze, optimize, and execute IP-Symcon PHP scripts via JSON-RPC API, turning automation development into a dialogue.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:45:33Z"
 ---
 ## What it is
 A persistent, pooled PowerShell MCP server that keeps long-lived named pwsh sessions with clean I/O, enabling stateful command execution and multi-session isolation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T17:05:08Z"
 ---
 ## What it is
 Enables AI agents to query commerce metrics data such as orders, carts, and returns via breakdowns, stats, and searches through the Commerce Layer Metrics API.

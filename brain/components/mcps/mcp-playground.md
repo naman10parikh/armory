@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-05T21:47:26Z"
 ---
 ## What it is
 Research and analysis toolkit offering real-time data access via MCP, including web search, stock prices, YouTube transcription, weather, and Toronto crime statistics.

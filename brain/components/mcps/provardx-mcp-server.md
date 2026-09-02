@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-24T12:14:30Z"
 ---
 ## What it is
 Connects AI assistants to Provar projects for automated test generation, validation, and quality scoring using 170+ rules via Quality Hub API or local validation.

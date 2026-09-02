@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:56Z"
 ---
 ## What it is
 Consulta em fonte oficial ECRVSP ATPV (Intenção de Venda) via um servidor MCP somente leitura, hospedado e pago por uso com créditos pré-pagos. Funciona com qualquer cliente MCP compatível com HTTP, como Claude, Cursor e VS Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T19:05:04Z"
 ---
 ## What it is
 MCP server for iOS automation via rpcclient, enabling AI agents to connect to iOS RPC servers and perform actions like launching apps, clicking, typing, and gesture control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:43:11Z"
 ---
 ## What it is
 Converts text or transcripts into MP3 audio using Microsoft Edge's free neural voices. Provides text-to-speech and voice listing tools with no API key required.

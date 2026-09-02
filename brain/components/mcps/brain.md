@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T17:43:44Z"
 ---
 ## What it is
 A personal memory engine and MCP server that stores durable facts in markdown files managed via git, enabling hybrid search (lexical + semantic) through an MCP interface for persistent context across LLM sessions.

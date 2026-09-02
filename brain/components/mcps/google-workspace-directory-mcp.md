@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:08:12Z"
 ---
 ## What it is
 Read-only MCP server for narrowly scoped Google Workspace user lookups via the Admin SDK Directory API, providing user status, search, aliases, and summary tools with strict domain and trust-boundary controls.

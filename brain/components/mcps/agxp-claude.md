@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T06:15:27Z"
 ---
 ## What it is
 Integrates Claude with the AGXP real-time signal network, enabling timeline polling, thread streaming, and identity-to-identity signaling via channel events and CLI skills.

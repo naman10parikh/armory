@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:58Z"
 ---
 ## What it is
 Enables MCP clients to connect to and interact with Siemens PLCs via python-snap7, supporting read/write operations on data blocks, memory, timers, counters, and CPU management.

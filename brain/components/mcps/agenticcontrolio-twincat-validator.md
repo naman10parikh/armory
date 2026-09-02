@@ -8,10 +8,12 @@ source_url: https://github.com/agenticcontrolio/twincat-validator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-03-01T08:38:37Z"
 ---
 ## What it is
 MCP server `TwinCAT Validator`, catalogued on PulseMCP. Validates, auto-fixes, and scaffolds Beckhoff TwinCAT 3 XML files with IEC 61131-3 OOP checks and deterministic code quality pipelines.

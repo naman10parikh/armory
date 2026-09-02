@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-21T20:33:23Z"
 ---
 ## What it is
 MCP server `Vilnius Transport`, catalogued on PulseMCP. Integrates with Vilnius public transport data sources to provide real-time transit information, enabling accurate responses about local transportation.

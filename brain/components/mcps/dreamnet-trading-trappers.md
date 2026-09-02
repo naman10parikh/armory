@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:36:33Z"
 ---
 ## What it is
 Enables agents to capture and validate market research including theses, entry conditions, targets, and invalidation, and bundle them into Warper Keeper bundles.

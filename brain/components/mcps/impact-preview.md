@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T05:24:30Z"
 ---
 ## What it is
 MCP server that provides impact preview and approval workflow for AI agent actions, allowing users to see diffs and risk assessments before any changes are executed.

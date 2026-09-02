@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:35Z"
 ---
 ## What it is
 Wraps the Confluence Cloud REST API v2 (OAuth) to enable AI agents to interact with Confluence spaces and content via MCP. Part of the Pipeworx MCP gateway for connecting to 250+ data sources.

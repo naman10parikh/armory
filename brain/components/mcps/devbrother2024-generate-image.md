@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-25T13:56:52Z"
 ---
 ## What it is
 MCP server `Image Generation`, catalogued on PulseMCP. Provides image generation capabilities by connecting to various models via Gradio clients, enabling creation of images from text prompts for creative workflows and visual design tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:21:44Z"
 ---
 ## What it is
 Exposes local DuckDB pizza sales data as MCP tools for querying store-level and total sales metrics via natural language, enabling local LLMs to perform real-time analytical queries.

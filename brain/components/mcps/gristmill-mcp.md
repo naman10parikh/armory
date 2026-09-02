@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:54:42Z"
 ---
 ## What it is
 An MCP server that inspects AI-generated code and returns a deterministic list of structural and safety violations, so an AI coding agent can fix its own output before the code lands.

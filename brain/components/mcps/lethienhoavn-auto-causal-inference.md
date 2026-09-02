@@ -8,10 +8,12 @@ source_url: https://github.com/lethienhoavn/auto-causal-inference
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-28T13:46:58Z"
 ---
 ## What it is
 MCP server `Auto Causal Inference`, catalogued on PulseMCP. Automates causal inference analysis on SQLite banking data by using LLM-guided variable classification to generate causal graphs and estimate Average Treatment Effects through DoWhy statistical methods with plain-language business summaries.

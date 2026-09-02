@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:53:38Z"
 ---
 ## What it is
 MCP server that connects to the GitHub API to list and create issues, comment on issues, and list pull requests with diff summaries. It enables natural language management of GitHub repositories from MCP-compatible clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:00:41Z"
 ---
 ## What it is
 Provides an evidence-oriented MCP interface for Evidence RAG Pilot, enabling retrieval of evidence packages, chunks, and evidence images from PDF-based corpora.

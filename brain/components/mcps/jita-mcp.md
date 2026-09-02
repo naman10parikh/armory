@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T20:23:12Z"
 ---
 ## What it is
 Remote MCP server for EVE Online that validates ship fittings with actual stats, DPS/EHP, and live market prices, enabling LLMs to answer whether a fit works and what it costs.

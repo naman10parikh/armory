@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-25T09:36:30Z"
 ---
 ## What it is
 MCP server `UseScraper`, catalogued on PulseMCP. Integrates with UseScraper API to extract web content in various formats with advanced proxy options and custom data extraction capabilities.

@@ -8,10 +8,12 @@ source_url: https://github.com/gebalamariusz/cloud-audit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-21T08:53:31Z"
 ---
 ## What it is
 MCP server `Cloud Audit`, catalogued on PulseMCP. Open-source AWS security scanner with attack chain detection, breach cost estimation, and copy-paste remediation across 47 checks and 15 AWS resource types.

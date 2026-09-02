@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T08:07:28Z"
 ---
 ## What it is
 Enables reinforcement fine-tuning of Qwen3-8B on the CLBench poker task using the eval-protocol MCP-Gym framework on Fireworks infrastructure, with structured tool calls via MCP.

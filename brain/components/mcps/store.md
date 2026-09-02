@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:58:46Z"
 ---
 ## What it is
 Single MCP server that manages multiple personal collections (todos, bookmarks, etc.) with only six generic tools, driven by a YAML registry for validation.

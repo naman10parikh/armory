@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T03:51:49Z"
 ---
 ## What it is
 Enables agents to search a verified directory of machine-payable services, inspect service and wallet reputation, and get pre-payment checks before spending.

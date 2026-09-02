@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T17:48:03Z"
 ---
 ## What it is
 Enables efficient analysis of recorded meetings by transcribing audio, extracting only non-people frames (e.g., slides), and associating them with timestamps for compact LLM input.

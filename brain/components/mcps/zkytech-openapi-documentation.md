@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-10T15:23:48Z"
 ---
 ## What it is
 MCP server `OpenAPI Documentation`, catalogued on PulseMCP. Transforms OpenAPI specifications into dynamic tools for interacting with external services, handling authentication, validation, and request routing without custom code.

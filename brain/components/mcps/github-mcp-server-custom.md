@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:01:22Z"
 ---
 ## What it is
 Enables AI agents to perform full CRUD operations on GitHub, including repositories, issues, pull requests, branches, comments, reviews, and merges through the Model Context Protocol.

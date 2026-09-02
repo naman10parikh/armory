@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T22:54:12Z"
 ---
 ## What it is
 A message relay MCP server enabling two separate Claude Code instances to exchange direct questions and answers asynchronously without sharing context.

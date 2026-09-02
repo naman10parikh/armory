@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-08T17:22:23Z"
 ---
 ## What it is
 MCP server `File Control`, catalogued on PulseMCP. Provides comprehensive filesystem operations including directory analysis, content search, Git integration, and full file editing capabilities with atomic batch operations and rollback support for code refactoring and project management workflows.

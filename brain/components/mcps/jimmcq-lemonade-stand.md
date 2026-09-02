@@ -8,10 +8,12 @@ source_url: https://github.com/jimmcq/lemonade-stand-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-21T05:49:48Z"
 ---
 ## What it is
 MCP server `Lemonade Stand`, catalogued on PulseMCP. Enables playing the classic Lemonade Stand business simulation game directly within Claude Desktop through an interactive interface that manages game state and player decisions.

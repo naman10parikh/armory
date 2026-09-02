@@ -12,6 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-03-18T08:17:39Z"
 ---
 ## What it is
 MCP server `CrewAI Workflow`, catalogued on PulseMCP. Lightweight Python server for dynamically loading CrewAI multi-agent workflows from YAML configurations, enabling flexible task orchestration with minimal custom code and seamless tool integration.

@@ -8,11 +8,13 @@ source_url: https://github.com/langchain-ai/langsmith-sdk
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1031
+stars: 1043
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, langchain, dataset, regression]
+forks: 288
+pushed_at: "2026-09-01T21:20:19Z"
 ---
 ## What it is
 LangSmith SDK evaluation layer: run datasets, custom evaluators, and regression tests for LangChain and custom LLM pipelines.

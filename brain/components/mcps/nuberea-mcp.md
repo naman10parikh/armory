@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T00:32:22Z"
 ---
 ## What it is
 Enables AI assistants to perform scholarly biblical research, including cross-references, Greek/Hebrew word studies, exegesis, and manuscript analysis, using NuBerea's theological tools.

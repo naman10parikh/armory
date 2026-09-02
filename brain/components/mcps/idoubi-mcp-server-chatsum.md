@@ -8,10 +8,12 @@ source_url: https://github.com/chatmcp/mcp-server-chatsum
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1032
+stars: 1029
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 98
+pushed_at: "2024-12-04T02:58:20Z"
 ---
 ## What it is
 MCP server `WeChat Summarizer`, catalogued on PulseMCP. Hook into your WeChat history and pull summaries of conversations.

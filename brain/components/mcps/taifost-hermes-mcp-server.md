@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:13:19Z"
 ---
 ## What it is
 Exposes two MCP tools for saving drafts and publishing content to Taifost Core, with secure authentication and idempotent behavior.

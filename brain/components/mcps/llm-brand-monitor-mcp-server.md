@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T19:10:32Z"
 ---
 ## What it is
 Manages brand monitoring projects, runs scans across 350+ LLMs, and analyzes results through natural language.

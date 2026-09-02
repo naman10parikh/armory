@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-19T01:55:11Z"
 ---
 ## What it is
 MCP server `Korean Tax Depreciation`, catalogued on PulseMCP. Fixed asset depreciation calculations based on South Korean corporate tax law standards.

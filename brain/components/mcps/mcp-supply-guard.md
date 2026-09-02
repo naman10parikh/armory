@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:12:24Z"
 ---
 ## What it is
 Enables supply-chain integrity for MCP tools by locking tool-definition hashes after review and detecting added, removed, modified, or risky tool definitions.

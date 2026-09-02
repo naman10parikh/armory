@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T18:57:38Z"
 ---
 ## What it is
 Maps function and component dependencies in Haskell and ReScript codebases, providing LLMs with a real dependency graph for accurate test generation and change-impact analysis.

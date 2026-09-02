@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-23T06:36:25Z"
 ---
 ## What it is
 Aggregates logs from multiple processes and provides an MCP server for AI agents to access, search, and manage logs in real-time.

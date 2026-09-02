@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, analytics, evals]
+forks: 35
+pushed_at: "2025-07-17T12:47:12Z"
 ---
 ## What it is
 Phospho is a text analytics and evaluation platform for LLM apps — logs sessions, runs clustering, detects failures, and surfaces actionable insights.

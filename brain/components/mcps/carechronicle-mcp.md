@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:54:03Z"
 ---
 ## What it is
 Enables LLMs to interact with clinical patient records using tools for document ingestion, structured conversion, patient profiling, record listing, search, and secure Q&A over patient documentation.

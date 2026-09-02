@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T12:15:42Z"
 ---
 ## What it is
 Enables LLMs to read and write Discord messages, search content, and compute channel statistics via a Discord bot.

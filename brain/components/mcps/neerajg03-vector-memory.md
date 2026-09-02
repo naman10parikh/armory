@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-05T11:31:45Z"
 ---
 ## What it is
 MCP server `Vector Memory`, catalogued on PulseMCP. Semantic document memory using Redis vector store

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T05:33:09Z"
 ---
 ## What it is
 Checks whether a supplier RFP response addresses each requirement explicitly stated by the buyer, using deterministic text rules for requirement extraction and coverage checking.

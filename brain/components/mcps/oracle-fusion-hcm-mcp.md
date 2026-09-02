@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:35:38Z"
 ---
 ## What it is
 Enables interaction with Oracle Fusion HCM via REST, SOAP, SQL, and BPM, supporting catalog search, operation execution, ESS processes, BI Publisher reports, security diagnostics, and workflow management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T10:31:38Z"
 ---
 ## What it is
 Wraps the Smart Farm Korea Open API into MCP tools, allowing LLMs to query farm environment data using friendly metric names like temperature, humidity, and CO2.

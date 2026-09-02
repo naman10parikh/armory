@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T01:30:16Z"
 ---
 ## What it is
 Enables local AI agents to access DeepSeek V4 models and perform coding tasks via Pi's agent SDK.

@@ -8,10 +8,12 @@ source_url: https://github.com/ccc0168/modes-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-25T15:40:02Z"
 ---
 ## What it is
 MCP server `Custom Modes (Roo Code)`, catalogued on PulseMCP. Enables custom behavioral mode management for defining, loading, and applying tailored AI behaviors through configuration files in Roo Code

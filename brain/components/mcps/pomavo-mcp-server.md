@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T04:42:55Z"
 ---
 ## What it is
 Enables managing tickets, projects, and iterations in the Pomavo system through natural language, supporting CRUD operations, state transitions, comments, linking, and search with a DSL query language.

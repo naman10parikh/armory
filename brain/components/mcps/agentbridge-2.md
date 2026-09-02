@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T08:12:14Z"
 ---
 ## What it is
 Enables agents to access Google Calendar events, search Gmail, and semantically search local notes through MCP tools, with safety guardrails and human-in-the-loop approval.

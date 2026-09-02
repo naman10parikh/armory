@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-11T00:34:07Z"
 ---
 ## What it is
 A policy and audit firewall for agent actions that sits between an agent and a credential broker, ensuring actions are authorized and bound to the original human intent.

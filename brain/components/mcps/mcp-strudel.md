@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:21:16Z"
 ---
 ## What it is
 Enables conversion between Strudel mini-notation patterns and MIDI notes, allowing Claude to generate and manipulate musical patterns and write them into Ableton clips via integration with AbletonMCP.

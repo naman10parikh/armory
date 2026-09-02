@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T17:15:42Z"
 ---
 ## What it is
 Provides access to Mexico's INEGI (national statistics office) indicators API, enabling AI agents to query statistical data through natural language or direct tool calls.

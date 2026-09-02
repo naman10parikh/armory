@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:11:27Z"
 ---
 ## What it is
 Agent-first analytics MCP server for querying stats, funnels, and web/agent traffic, with server-side event ingestion and self-serve signup.

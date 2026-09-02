@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-04-09T16:23:47Z"
 ---
 ## What it is
 Enables interaction with IcePanel for architectural diagram management via MCP clients, such as Claude Desktop, Cursor, and Windsurf. Deprecated in favor of a remote MCP server.

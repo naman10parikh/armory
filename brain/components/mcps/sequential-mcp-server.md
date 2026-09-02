@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:12:01Z"
 ---
 ## What it is
 Enables task management with dependency tracking and workflow orchestration, allowing sequential and parallel execution of tasks with automatic progression and retry logic.

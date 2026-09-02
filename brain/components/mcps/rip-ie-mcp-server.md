@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-11T05:04:13Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) compliant server that provides access to the RIP.ie GraphQL backend, allowing users to query and retrieve death notices and related information from RIP.ie.

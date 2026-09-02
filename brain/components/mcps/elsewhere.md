@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:36:54Z"
 ---
 ## What it is
 MCP server that provides coding agents with scoped, temporary network egress sessions, enabling requests to exit from specified locations without changing the host's connection. It verifies egress, prevents leaks, and supports multiple adapters like gluetun and SSH.

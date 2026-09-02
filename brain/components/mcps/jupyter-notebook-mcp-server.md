@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-07T04:17:03Z"
 ---
 ## What it is
 Enables AI agents to read, edit, execute cells, and capture outputs from Jupyter notebooks directly within VS Code or Cursor via the Model Context Protocol.

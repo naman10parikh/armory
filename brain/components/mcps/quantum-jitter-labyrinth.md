@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T10:41:16Z"
 ---
 ## What it is
 Short Description (概要): An MCP server providing quantum-inspired entropy injection and topological graph-search tools (explore_quantum_labyrinth) to help LLM agents escape decision-space local minima.

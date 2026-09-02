@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T06:58:28Z"
 ---
 ## What it is
 Enables AI agents to run comprehensive Chinese convertible bond analysis with 21 signal detectors, option pricing, and backtest reports.

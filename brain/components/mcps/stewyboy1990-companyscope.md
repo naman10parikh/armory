@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T09:37:12Z"
 ---
 ## What it is
 MCP server `CompanyScope`, catalogued on PulseMCP. Aggregates company intelligence from 10 public sources including SEC EDGAR, GitHub, Wikipedia, and patent databases.

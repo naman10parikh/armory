@@ -8,10 +8,12 @@ source_url: https://github.com/zfinix/cbn_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-22T10:31:11Z"
 ---
 ## What it is
 MCP server `Central Bank of Nigeria`, catalogued on PulseMCP. Integrates with the Central Bank of Nigeria API to fetch, search, and filter regulatory circulars and policy documents by date range and category, providing direct PDF access for compliance analysis and regulatory research.

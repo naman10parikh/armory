@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T07:48:39Z"
 ---
 ## What it is
 A local AI-powered research agent that searches the web, fetches real content, and generates grounded answers using a local Ollama model, exposed as an MCP tool for Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:26:06Z"
 ---
 ## What it is
 A remote MCP server for Google Contacts, deployed on Cloudflare Workers, that enables Claude to create, search, list, get, and update your Google contacts via the People API. Designed as a custom connector for claude.ai, it supports OAuth and can extract contact details from business card photos.

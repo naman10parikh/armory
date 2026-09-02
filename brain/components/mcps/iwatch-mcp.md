@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T17:51:51Z"
 ---
 ## What it is
 Enables real-time Apple Watch heart rate monitoring via MCP tools, reading data from macOS HealthKit.

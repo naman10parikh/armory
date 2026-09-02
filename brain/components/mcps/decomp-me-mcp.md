@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-26T06:59:54Z"
 ---
 ## What it is
 This MCP server enables AI assistants to interact with decomp.me for video game decompilation projects, providing tools to fetch scratches, compile code, analyze diffs, search contexts, and iterate on improvements.

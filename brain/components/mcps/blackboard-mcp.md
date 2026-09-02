@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T00:11:31Z"
 ---
 ## What it is
 Cross-session coordination server for Claude Code that manages file claims, build locks, shared knowledge, and provides a real-time dashboard to prevent conflicts across multiple sessions.

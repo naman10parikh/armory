@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:10:18Z"
 ---
 ## What it is
 Remote MCP server enabling Claude to generate images and videos via the Higgsfield AI API, including photorealistic photos, reference-guided images, and video generation from multiple models.

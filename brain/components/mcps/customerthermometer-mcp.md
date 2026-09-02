@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:25:52Z"
 ---
 ## What it is
 MCP server for Customer Thermometer, enabling email-based CSAT/NPS survey reporting and sending via MCP tools.

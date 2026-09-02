@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-01T19:07:05Z"
 ---
 ## What it is
 Enables Claude to plan trips by performing live searches against Google Flights, hotels, vacation rentals, activities, and events, plus weather and currency conversion.

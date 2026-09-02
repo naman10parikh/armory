@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T18:16:49Z"
 ---
 ## What it is
 Connects Claude to the Ticketmaster API to let users discover local events by city, category, keyword, or weekend through natural conversation.

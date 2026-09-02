@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-25T21:26:29Z"
 ---
 ## What it is
 A Model Context Protocol server for ROS 2, enabling AI assistants to introspect and interact with ROS 2 systems.

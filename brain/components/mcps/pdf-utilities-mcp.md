@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T18:35:02Z"
 ---
 ## What it is
 Enables AI assistants to read, create, merge, split, and edit PDF files through natural language commands in GitHub Copilot Chat.

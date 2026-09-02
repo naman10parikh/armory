@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-14T15:03:46Z"
 ---
 ## What it is
 Comprehensive MCP server for PTC Windchill PLM, providing 64+ tools across 7 agents for part, document, change, workflow, project, data admin, and server management, with dynamic server switching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:35:15Z"
 ---
 ## What it is
 An MCP server that enforces deterministic authorization boundaries for AgentTeams workflows by verifying evidence and policy, returning ALLOW, BLOCK, or REQUIRE_APPROVAL decisions before actions are executed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:02:03Z"
 ---
 ## What it is
 Enables multi-AI collaboration with Claude and GLM for C# codebases, providing auto-learning, persistent memory, and creative brainstorming to assist development.

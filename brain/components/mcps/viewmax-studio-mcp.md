@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T00:54:27Z"
 ---
 ## What it is
 Enables Claude to generate AI videos using ViewMax Studio's video generation tools, including prompt and script creation, smart model selection, cost preview, and task status tracking.

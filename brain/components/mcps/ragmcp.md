@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:27:18Z"
 ---
 ## What it is
 Retrieval augmented generation server for policy documents, exposing search, grounded Q&A with verified citations, and source management as MCP tools. Runs with local Ollama models for free or managed AWS backends, with an evaluation harness for retrieval and grounding metrics.

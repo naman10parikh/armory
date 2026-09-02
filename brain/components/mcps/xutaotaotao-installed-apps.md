@@ -8,10 +8,12 @@ source_url: https://github.com/xutaotaotao/mcp-get-installed-apps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-24T15:01:26Z"
 ---
 ## What it is
 MCP server `Installed Apps`, catalogued on PulseMCP. Retrieves a complete list of all installed applications on the user's computer for system analysis and software management tasks.

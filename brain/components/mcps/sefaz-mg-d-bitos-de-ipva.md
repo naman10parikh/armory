@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:18Z"
 ---
 ## What it is
 MCP server to consult IPVA (vehicle property tax) debts from SEFAZ MG (Minas Gerais state). It offers a read-only tool that queries official debt data, hosted on a pay-per-query basis.

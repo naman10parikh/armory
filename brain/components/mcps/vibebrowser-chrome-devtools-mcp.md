@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T07:45:51Z"
 ---
 ## What it is
 A fork of Chrome DevTools MCP that adds Streamable HTTP transport for multiple AI agents to concurrently control and inspect a live Chrome browser via the Model Context Protocol.

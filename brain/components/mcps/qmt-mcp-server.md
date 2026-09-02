@@ -8,11 +8,13 @@ source_url: https://github.com/beamof/qmt-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:53:24Z"
 ---
 ## What it is
 Wraps the miniQMT interface to enable AI assistants to query A-share market data, account information, and place/cancel orders.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T09:06:36Z"
 ---
 ## What it is
 MCP server for remote Linux/Unix server management via SSH, enabling command execution, system monitoring, file operations, and diagnostics through natural language.

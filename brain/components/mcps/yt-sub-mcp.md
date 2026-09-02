@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T14:18:47Z"
 ---
 ## What it is
 MCP server for reading YouTube subtitles without authentication or external binaries, using YouTube's internal get_panel endpoint to avoid rate limits and fetch full subtitles in a single request.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T10:17:17Z"
 ---
 ## What it is
 Protects agent skills from being distilled during multi-agent collaboration by automatically filtering sensitive content, with features for skill declaration, output filtering, audit logging, and license management.

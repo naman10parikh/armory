@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T18:03:56Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Google Maps — routing, place discovery, and commute comparison over stdio.

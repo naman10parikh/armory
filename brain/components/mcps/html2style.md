@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:38:02Z"
 ---
 ## What it is
 Extracts design evidence from web pages across responsive conditions and packages it into a reusable design package for Agent-driven style transfer and reconstruction.

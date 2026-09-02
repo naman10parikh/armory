@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:21:29Z"
 ---
 ## What it is
 MCP server exposing a university course catalog with tools for searching courses, looking up prerequisites and instructors, and generating prerequisite graphs, plus resources and a prompt template for AI academic advisors.

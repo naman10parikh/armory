@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T15:46:27Z"
 ---
 ## What it is
 Enables safe, read-only SQL access to SQLite databases for AI agents, allowing schema exploration and SELECT queries with defense-in-depth protections.

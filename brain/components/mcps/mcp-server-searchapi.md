@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T04:43:57Z"
 ---
 ## What it is
 An MCP server for SearchApi that provides Google web, news, scholar, and YouTube search as agent-ready MCP tools.

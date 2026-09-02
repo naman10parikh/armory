@@ -8,10 +8,12 @@ source_url: https://github.com/yuchen20/memory-plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-25T16:26:32Z"
 ---
 ## What it is
 MCP server `Memory Plus`, catalogued on PulseMCP. Lightweight, local RAG memory store for MCP agents. Easily record, retrieve, update, delete, and visualize persistent "memories" across sessions.

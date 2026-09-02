@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T21:52:49Z"
 ---
 ## What it is
 MCP server for Syncro MSP that enables managing customers, tickets, assets, contacts, and invoices through a decision tree architecture for efficient tool navigation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:15:02Z"
 ---
 ## What it is
 An MCP server that lets AI agents manage Aurify financial data—wallets, transactions, budgets, investments, and profile—by translating MCP calls into the same REST API the web frontend uses.

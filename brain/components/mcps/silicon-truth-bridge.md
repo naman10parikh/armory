@@ -8,11 +8,13 @@ source_url: https://github.com/nomatic163/silicon_truth_bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T17:00:06Z"
 ---
 ## What it is
 A read-only MCP evidence server for chip verification and RTL debugging that exposes structured design and waveform data from Synopsys Verdi databases via MCP tools and CLI. It provides auditable evidence like contexts, objects, connectivity, traces, waveforms, and source mappings without modifying 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:55:33Z"
 ---
 ## What it is
 Universal MCP server for readonly-first access to Oracle, SQL Server, PostgreSQL, MySQL/MariaDB, SQLite, MongoDB, and Qdrant vector search.

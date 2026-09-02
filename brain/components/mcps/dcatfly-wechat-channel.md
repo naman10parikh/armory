@@ -8,10 +8,12 @@ source_url: https://github.com/dcatfly/weixin_claude_code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-03-26T11:09:28Z"
 ---
 ## What it is
 MCP server `WeChat Channel (dcatfly)`, catalogued on PulseMCP. Bidirectional messaging between WeChat and Claude Code via Channel plugin.

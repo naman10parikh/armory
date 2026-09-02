@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T21:05:54Z"
 ---
 ## What it is
 An MCP server that gives any MCP-compatible LLM client full control over a live JupyterLab instance.

@@ -8,10 +8,12 @@ source_url: https://github.com/admica/filescopemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 293
+stars: 302
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-05-10T23:41:16Z"
 ---
 ## What it is
 MCP server `FileScope`, catalogued on PulseMCP. Analyzes codebases to identify important files based on dependency relationships, providing structural understanding of projects with importance scores and visualizations for more effective development assistance.

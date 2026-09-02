@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-04T16:26:58Z"
 ---
 ## What it is
 A FastMCP wrapper server that provides API access to the ChEMBL database, enabling users to query drug discovery data such as activities, assays, targets, and molecules.

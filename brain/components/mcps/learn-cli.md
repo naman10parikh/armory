@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T13:51:52Z"
 ---
 ## What it is
 An MCP server and CLI for step-by-step learning, enabling humans and agents to learn subjects like language tutoring through a structured prompt system.

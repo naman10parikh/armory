@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-15T10:06:10Z"
 ---
 ## What it is
 MCP server `Development Tools`, catalogued on PulseMCP. Combines code analysis tools like ESLint and security scanners with web scraping capabilities using Cheerio and Playwright for automated code reviews, vulnerability detection, and data extraction workflows.

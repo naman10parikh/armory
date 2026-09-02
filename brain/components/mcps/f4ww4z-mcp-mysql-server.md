@@ -8,10 +8,12 @@ source_url: https://github.com/f4ww4z/mcp-mysql-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 168
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2025-11-14T08:30:28Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Interact with MySQL databases to execute queries and manage connections.

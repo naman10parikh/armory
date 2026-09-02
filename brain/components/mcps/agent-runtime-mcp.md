@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T01:36:22Z"
 ---
 ## What it is
 Enables persistent task and goal management with AI-powered decomposition, cross-session continuity, and fault-tolerant multi-agent pipelines.

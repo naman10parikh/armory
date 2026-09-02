@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T05:13:13Z"
 ---
 ## What it is
 MCP server `Claude Code Bridge`, catalogued on PulseMCP. Bridges Claude Code sessions with Claude Chat by providing session log access and synchronization.

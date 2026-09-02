@@ -8,10 +8,12 @@ source_url: https://github.com/b0x42/super-productivity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-30T12:53:00Z"
 ---
 ## What it is
 MCP server `Super Productivity`, catalogued on PulseMCP. MCP server integrating AI assistants with the Super Productivity task manager, with 25+ tools for task creation, project management, tagging, and batch operations.

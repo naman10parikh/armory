@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T01:30:50Z"
 ---
 ## What it is
 Enables debugging of programs through GDB/MI, allowing breakpoints, stepping, and register analysis via natural language.

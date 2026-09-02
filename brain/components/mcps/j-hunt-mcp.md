@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:48:41Z"
 ---
 ## What it is
 A local job-hunting MCP server for discovering jobs across pluggable web sources, tracking applications through a status lifecycle, and managing profiles/resumes, with geo/map-region search.

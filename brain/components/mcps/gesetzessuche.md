@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-13T20:57:02Z"
 ---
 ## What it is
 MCP server for accessing and searching German federal law documents from gesetze-im-internet.de. Provides tools to retrieve specific paragraphs, perform full-text searches, and list available laws.

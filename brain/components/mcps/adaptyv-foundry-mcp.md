@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T09:22:07Z"
 ---
 ## What it is
 Exposes the Adaptyv Foundry protein characterization API as MCP tools, enabling AI assistants to interact with experiments, targets, sequences, and results in natural language.

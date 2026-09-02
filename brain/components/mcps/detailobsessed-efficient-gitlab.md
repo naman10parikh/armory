@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-22T20:02:48Z"
 ---
 ## What it is
 MCP server `Efficient GitLab`, catalogued on PulseMCP. Token-efficient GitLab management with progressive disclosure for ~90% token savings

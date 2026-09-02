@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:20:33Z"
 ---
 ## What it is
 This MCP server exposes industrial maintenance and work-order intelligence tools, allowing users to search assets, retrieve and correlate alarm events, and query CMMS work orders through a standardized protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T01:07:21Z"
 ---
 ## What it is
 Embedded memory and retrieval engine for AI agents, providing local-first memory with MCP support for multi-agent access control.

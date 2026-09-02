@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:57:31Z"
 ---
 ## What it is
 Exposes authorized ChatGPT, DeepSeek, Kimi, and Grok web sessions to agents as MCP tools, including chat and local file attachments over HTTP or stdio.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:05:20Z"
 ---
 ## What it is
 Enables scanning and querying stock market data across thousands of US tickers and top cryptos, with tools for signal analysis, historical replay, and webhook subscriptions.

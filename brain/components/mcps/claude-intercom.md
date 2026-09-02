@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-18T15:48:50Z"
 ---
 ## What it is
 Enables real-time messaging between Claude Code instances, allowing agents to send, receive, and reply to messages instantly via file-based communication with auto-notification.

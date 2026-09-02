@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-07T18:21:07Z"
 ---
 ## What it is
 Enables AI assistants to manage Bricks Builder pages, templates, and elements via natural language, with multi-site and CPT support.

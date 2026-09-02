@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T05:42:12Z"
 ---
 ## What it is
 A free native MCP server for running, understanding, and debugging Linux containers on macOS using Apple's container tool, with audit trail and configurable safety modes.

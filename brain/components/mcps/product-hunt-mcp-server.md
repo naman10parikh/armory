@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-10T08:35:27Z"
 ---
 ## What it is
 Provides access to Product Hunt data via the Product Hunt API v2, enabling queries for posts, collections, users, topics, comments, goals, and maker groups.

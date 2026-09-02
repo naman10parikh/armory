@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:16:25Z"
 ---
 ## What it is
 A task manager MCP server that demonstrates core MCP concepts (resources, tools, prompts, stdio) and syncs data with a Next.js web app.

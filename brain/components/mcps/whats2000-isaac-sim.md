@@ -8,10 +8,12 @@ source_url: https://github.com/whats2000/isaacsim-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-09-01T13:37:36Z"
 ---
 ## What it is
 MCP server `Isaac Sim`, catalogued on PulseMCP. Control NVIDIA Isaac Sim robotics simulator through natural language with a comprehensive tool set.

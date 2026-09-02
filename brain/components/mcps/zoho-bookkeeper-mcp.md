@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-05T15:23:20Z"
 ---
 ## What it is
 MCP server for Zoho Books integration, enabling AI agents to perform bookkeeping operations like managing journals, expenses, bills, invoices, and file attachments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:50:44Z"
 ---
 ## What it is
 Connects Claude to your personal Telegram and Slack accounts, letting it read real DMs, groups, channels, unread messages, and search chats, with optional sending enabled by the user.

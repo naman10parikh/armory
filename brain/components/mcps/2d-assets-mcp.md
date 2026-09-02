@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:14:23Z"
 ---
 ## What it is
 Generates mock 2D PNG assets for game prototypes, supporting gradients, patterns, text, spritesheets, and embedded metadata.

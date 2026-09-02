@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:47:30Z"
 ---
 ## What it is
 An MCP server that lets Claude manage Google Tasks, including listing, creating, updating, completing, moving, and deleting tasks and task lists. It supports both local and remote deployments and can be used with Claude Desktop or as a Cloudflare Worker.

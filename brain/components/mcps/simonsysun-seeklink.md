@@ -8,10 +8,12 @@ source_url: https://github.com/simonsysun/seeklink
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-08T00:35:32Z"
 ---
 ## What it is
 MCP server `SeekLink`, catalogued on PulseMCP. Semantic search for local Markdown vaults via natural-language queries.

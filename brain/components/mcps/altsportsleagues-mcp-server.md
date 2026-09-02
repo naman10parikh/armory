@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T18:29:57Z"
 ---
 ## What it is
 Enables AI agents and sportsbooks to discover, evaluate, and monitor alternative sports leagues with tools for discovery, valuation, fingerprinting, and market data.

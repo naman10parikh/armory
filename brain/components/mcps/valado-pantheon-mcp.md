@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 8
+forks: 4
+pushed_at: "2025-09-27T11:32:30Z"
 ---
 ## What it is
 🤖 - MCP server providing task specific agentic instructions. No more outdated Markdown files and synchronisation overhead.

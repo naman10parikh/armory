@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:55:29Z"
 ---
 ## What it is
 An MCP server that adds vision capability to any LLM by forwarding images to OpenRouter vision models, returning text analysis. Supports image analysis, model listing, and config diagnostics.

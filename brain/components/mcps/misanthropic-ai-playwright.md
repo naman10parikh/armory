@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-13T05:35:16Z"
 ---
 ## What it is
 MCP server `Playwright Browser Automation`, catalogued on PulseMCP. Enables LLM-powered browser automation for web tasks including navigation, interaction, and content extraction through Playwright's comprehensive browser control capabilities.

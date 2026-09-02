@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T07:14:00Z"
 ---
 ## What it is
 This MCP server enables automated captcha solving for Cloudflare challenges and provides a comprehensive JSVMP offline replay pipeline for signature recovery and analysis.

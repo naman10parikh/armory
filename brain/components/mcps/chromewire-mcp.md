@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T22:02:17Z"
 ---
 ## What it is
 Real browser tabs for AI agents through a safe localhost MCP bridge, enabling control of Chrome tabs via MCP-compatible AI CLIs.

@@ -8,10 +8,12 @@ source_url: https://github.com/idleprocesscc/co-reading-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-08-28T07:50:23Z"
 ---
 ## What it is
 MCP server `Co-Reading`, catalogued on PulseMCP. Enables collaborative reading between humans and Claude by importing EPUB or text files, supporting chapter navigation, full-text search, margin annotations, and synchronized progress.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:58:20Z"
 ---
 ## What it is
 Integrates Xiaomi MiMo's multimodal API to enable understanding of images, audio, and video through natural language prompts.

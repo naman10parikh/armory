@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:44:44Z"
 ---
 ## What it is
 Dynamic MCP server that exposes IrishTaxHub API operations as tools via OpenAPI-powered discovery and invocation, allowing users to list endpoints, get request schemas, and call any API endpoint dynamically.

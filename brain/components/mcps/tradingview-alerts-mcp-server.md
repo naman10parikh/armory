@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-04T16:00:32Z"
 ---
 ## What it is
 Enables programmatic management of TradingView alerts via MCP, including creating, listing, pausing, resuming, and deleting alerts with optional webhooks and bulk operations. Authenticates using session cookies and works with strategy alerts.

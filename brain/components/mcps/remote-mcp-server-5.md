@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-08T17:03:45Z"
 ---
 ## What it is
 Enables running a remote MCP server on Cloudflare Workers with OAuth authentication, allowing MCP clients to connect and use defined tools via SSE.

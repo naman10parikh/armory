@@ -8,10 +8,12 @@ source_url: https://github.com/julianoczkowski/mcp-modus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-06T14:50:29Z"
 ---
 ## What it is
 MCP server `Modus Design System`, catalogued on PulseMCP. Provides access to Trimble's Modus design system documentation, component specifications, design rules, and implementation guides for HTML/React projects through automated indexing and structured search capabilities.

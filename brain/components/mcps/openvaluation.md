@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T22:12:15Z"
 ---
 ## What it is
 Provides startup valuation methods with auditable calculations, readiness checks, and explanations through MCP tools.

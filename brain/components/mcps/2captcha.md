@@ -8,10 +8,12 @@ source_url: https://github.com/2captcha/mcp-captcha-solver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-16T09:03:55Z"
 ---
 ## What it is
 MCP server `2Captcha`, catalogued on PulseMCP. Solves captchas and automates browser interactions during web automation tasks using the 2Captcha service.

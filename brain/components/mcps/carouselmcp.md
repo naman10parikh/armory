@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:53:05Z"
 ---
 ## What it is
 Generates ready-to-post Instagram carousel PNGs from a topic string, using AI (Gemini or Claude) for content and storing images in S3.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T01:33:44Z"
 ---
 ## What it is
 Tamper-evident receipts for AI agent actions. The notary layer for agent-to-agent transactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:18Z"
 ---
 ## What it is
 An MCP server that exposes NumPy functionality as tools, enabling array creation, manipulation, mathematical operations, linear algebra, random sampling, statistics, and element-wise math through natural language.

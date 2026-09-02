@@ -8,10 +8,12 @@ source_url: https://github.com/watertian/wechat-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 127
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-08-28T07:45:12Z"
 ---
 ## What it is
 MCP server `WeChat DevTools`, catalogued on PulseMCP. Automate WeChat Mini Program development and testing through the WeChat DevTools CLI.

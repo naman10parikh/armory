@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:09:55Z"
 ---
 ## What it is
 Provides real-time account intelligence, deal signals, and strategic openers to AI agents and MCP-compatible orchestrators, enabling automated sales workflows such as pre-call battlecards, deal reactivation, and territory monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T11:48:21Z"
 ---
 ## What it is
 MCP server for fetching Bilibili video metadata and subtitles. Supports running locally via stdio transport for integration with MCP clients like Cursor or Claude Desktop.

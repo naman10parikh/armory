@@ -8,10 +8,12 @@ source_url: https://github.com/anthony-maio/cartograph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T13:12:57Z"
 ---
 ## What it is
 MCP server `Cartograph`, catalogued on PulseMCP. Repository analysis tool that ranks files, maps dependencies, and generates task-specific context.

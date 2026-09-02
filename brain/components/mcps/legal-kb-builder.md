@@ -8,11 +8,13 @@ source_url: https://github.com/Youchu-lawhub/legal-kb-builder
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T00:21:52Z"
 ---
 ## What it is
 A local legal knowledge base construction factory that provides a consultation agent with multi-source retrieval, supporting MCP server for external services.

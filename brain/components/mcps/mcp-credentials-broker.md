@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T10:22:54Z"
 ---
 ## What it is
 Provides secure OAuth2-based credential management for MCP servers, allowing agents to obtain short-lived token references without exposing raw secrets.

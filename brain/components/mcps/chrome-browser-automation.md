@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-10T15:36:53Z"
 ---
 ## What it is
 MCP server `Chrome Browser Automation`, catalogued on PulseMCP. Enables browser automation through Selenium WebDriver, allowing direct interaction with Chrome for web scraping, testing, and navigation tasks without requiring complex automation code.

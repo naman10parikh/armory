@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:09:17Z"
 ---
 ## What it is
 Provides MCP tools that give LLM agents a full QA engineer workflow: scanning projects, generating deterministic test suites, executing them across browser/API/mobile, diagnosing failures, and proposing fixes that require human approval.

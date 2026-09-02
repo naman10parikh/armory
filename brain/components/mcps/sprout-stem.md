@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T01:31:56Z"
 ---
 ## What it is
 A customer-service MCP server for a fictional plant nursery that handles order management with layered guardrails, including refund caps and human escalation.

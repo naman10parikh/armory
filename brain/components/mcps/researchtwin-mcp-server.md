@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:21:54Z"
 ---
 ## What it is
 Enables an OpenTrek-hosted agent to persist research activities, project status, and advisor requirements, and generate evidence-based progress reports via MCP tools.

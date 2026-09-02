@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T16:21:35Z"
 ---
 ## What it is
 MCP server for managing Ory Kratos identities, sessions, and authentication flows, enabling AI assistants to perform identity management tasks via natural language.

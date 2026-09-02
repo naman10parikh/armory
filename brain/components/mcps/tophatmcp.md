@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:05:21Z"
 ---
 ## What it is
 An authenticated OpenAI-compatible inference gateway with an async job broker that bridges a coding agent to a ChatGPT MCP worker, enabling ChatGPT to process inference requests via a tunnel.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-13T15:49:56Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server with Retrieval-Augmented Generation (RAG) for answering questions about imaginary SuperNova documentation. Enables semantic search over documentation using HuggingFace embeddings.

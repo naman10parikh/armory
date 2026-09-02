@@ -8,10 +8,12 @@ source_url: https://github.com/crawleo/crawleo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-31T16:13:02Z"
 ---
 ## What it is
 MCP server `Crawleo`, catalogued on PulseMCP. Provides real-time web search and website crawling capabilities with zero data retention.

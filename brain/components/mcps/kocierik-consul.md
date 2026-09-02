@@ -8,10 +8,12 @@ source_url: https://github.com/kocierik/consul-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-24T20:20:21Z"
 ---
 ## What it is
 MCP server `Consul`, catalogued on PulseMCP. Provides a bridge to HashiCorp Consul for service discovery, health checks, key-value operations, and configuration management without leaving your assistant environment.

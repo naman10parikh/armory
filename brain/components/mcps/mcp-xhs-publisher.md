@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-05-19T10:18:58Z"
 ---
 ## What it is
 MCP server for automatically publishing text, image, and video notes to Xiaohongshu (Little Red Book).

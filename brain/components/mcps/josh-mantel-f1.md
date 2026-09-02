@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-24T23:09:07Z"
 ---
 ## What it is
 MCP server `Formula 1 (FastF1)`, catalogued on PulseMCP. Integrates with Formula 1 data through the FastF1 Python package to provide race schedules, session results, driver standings, constructor standings, and detailed lap timing with telemetry information for motorsport analysis and visualization applications.

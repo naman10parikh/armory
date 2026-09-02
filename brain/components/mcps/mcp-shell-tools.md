@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T08:32:18Z"
 ---
 ## What it is
 A full-featured MCP server for local development with filesystem, shell, editor, session persistence, and security features.

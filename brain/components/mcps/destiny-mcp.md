@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:03:16Z"
 ---
 ## What it is
 Manage your Destiny 2 inventory, weapons, and loadouts through AI. Integrates with MCP clients like Claude Code.

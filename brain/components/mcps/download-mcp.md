@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-03T00:56:05Z"
 ---
 ## What it is
 Enables AI models to manage file downloads with multi-threading, progress monitoring, and task control through standardized MCP interfaces.

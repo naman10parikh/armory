@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T17:19:35Z"
 ---
 ## What it is
 Enables an AI assistant to control Apple Logic Pro DAW including transport, mixing, playhead positioning, MIDI region read/write, and more, via MCP.

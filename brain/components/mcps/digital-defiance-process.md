@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-08T18:05:37Z"
 ---
 ## What it is
 MCP server `Process`, catalogued on PulseMCP. Enterprise-grade process management with resource monitoring and security boundaries

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-20T14:28:13Z"
 ---
 ## What it is
 MCP server `CodeAnalysis (Roslyn)`, catalogued on PulseMCP. Analyzes .NET solutions and projects using Roslyn to detect unreferenced code members including classes, methods, properties, and fields with configurable filtering options for public members, entry points, and project-specific analysis to help identify dead code for cleanup and refactoring.

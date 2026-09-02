@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-21T17:36:01Z"
 ---
 ## What it is
 Manages ChatGPT conversations and Codex Cloud tasks through MCP, enabling list, search, rename, archive, export, and permanent deletion from any MCP-compatible client.

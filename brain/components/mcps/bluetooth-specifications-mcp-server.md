@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T12:19:48Z"
 ---
 ## What it is
 Enables natural language search over Bluetooth specification PDFs with hybrid search (BM25 + semantic embeddings), returning precise answers with citations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:26:00Z"
 ---
 ## What it is
 Manchu-Chinese bidirectional translation and morphological analysis server with RESTful API.

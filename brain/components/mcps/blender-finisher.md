@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T18:46:35Z"
 ---
 ## What it is
 An MCP server that integrates with Blender to turn rough meshes into game-ready assets with automated measurement, verification, and rollback to ensure form preservation.

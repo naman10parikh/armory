@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 131
+forks: 26
+pushed_at: "2025-04-02T04:37:21Z"
 ---
 ## What it is
 connects Jupyter Notebook to Claude AI, allowing Claude to directly interact with and control Jupyter Notebooks.

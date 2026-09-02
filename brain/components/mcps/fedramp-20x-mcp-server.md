@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T17:06:09Z"
 ---
 ## What it is
 Provides access to FedRAMP 20x security requirements and controls with Azure-first guidance.

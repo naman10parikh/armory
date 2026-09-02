@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 9
+forks: 6
+pushed_at: "2026-07-08T23:35:31Z"
 ---
 ## What it is
 Interact with Edge Delta anomalies, query logs / patterns / events, and pinpoint root causes and optimize your pipelines.

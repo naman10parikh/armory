@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-14T21:54:23Z"
 ---
 ## What it is
 An MCP server that enables AI agents to perform comprehensive GitHub security audits across org settings, repositories, Actions workflows, secrets, supply chain, and access control using 39 tools and 45 checks.

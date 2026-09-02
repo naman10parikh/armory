@@ -8,10 +8,12 @@ source_url: https://github.com/sh3ll3x3c/native-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-05-31T10:41:20Z"
 ---
 ## What it is
 MCP server `Native DevTools`, catalogued on PulseMCP. Native app testing with screenshot, OCR, and interaction tools.

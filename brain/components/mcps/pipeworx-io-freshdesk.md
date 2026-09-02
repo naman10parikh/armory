@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:08:06Z"
 ---
 ## What it is
 MCP server `Freshdesk`, catalogued on PulseMCP. Freshdesk helpdesk ticket and contact management via the Freshdesk API v2 with a user-provided API key.

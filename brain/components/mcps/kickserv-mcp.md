@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T07:24:46Z"
 ---
 ## What it is
 MCP server for Kickserv field service management that enables AI agents to read and manage customers, jobs, and invoices through natural language.

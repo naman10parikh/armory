@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T14:03:03Z"
 ---
 ## What it is
 Calculates saju (four pillars) for a given birth year, month, day, hour, minute, and gender. Returns a compact or markdown string with the results using the ssaju engine.

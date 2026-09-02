@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T01:56:41Z"
 ---
 ## What it is
 Enables semantic search and AI-powered Q&A over ingested GitHub documentation repositories via MCP tools.

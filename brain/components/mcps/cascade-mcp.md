@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:52:25Z"
 ---
 ## What it is
 Exposes a hybrid conflict resolution router as MCP tools, deciding per conflict whether a multi-agent write wins, forks to a human, or must be recomputed.

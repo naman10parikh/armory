@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T10:20:46Z"
 ---
 ## What it is
 A production-grade persistent memory service for AI agents. Agents forget everything between sessions by default — memex fixes that. It stores, retrieves, and ranks conversation memory using semantic search with recency decay, so agents surface what's relevant and recent, not just what's semanticall

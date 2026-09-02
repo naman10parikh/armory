@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T00:53:22Z"
 ---
 ## What it is
 MCP server for scaffolding, building, and flashing bare-metal STM32C011 firmware using the STM32CubeCLT toolchain. Exposes tools for project scaffold, build, flash, and probe listing.

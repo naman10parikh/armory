@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-02T12:19:40Z"
 ---
 ## What it is
 MCP server `OpenDirectories Business Data`, catalogued on PulseMCP. Search 12M+ verified businesses across 10 countries via government registers with competitor analysis and market density tools.

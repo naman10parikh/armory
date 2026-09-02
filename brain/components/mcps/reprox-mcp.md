@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:29:39Z"
 ---
 ## What it is
 Enables coding agents to search and retrieve persistent repository memory created by Cliper, providing context, gaps, architecture, and timeline information via MCP tools.

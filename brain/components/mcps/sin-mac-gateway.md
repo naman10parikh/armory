@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T17:29:36Z"
 ---
 ## What it is
 Enables remote MCP clients to securely access a trusted macOS machine's local file system and command execution tools (mcp-combiner) via OAuth-authenticated HTTPS through Cloudflare Tunnel, without opening router ports.

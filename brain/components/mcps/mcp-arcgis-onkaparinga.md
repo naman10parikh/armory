@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:39:25Z"
 ---
 ## What it is
 Provides access to City of Onkaparinga's open geospatial data via ArcGIS, enabling searches and queries of parcels, zoning, and city services through natural language.

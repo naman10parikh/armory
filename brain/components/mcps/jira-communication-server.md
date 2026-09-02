@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-23T08:55:48Z"
 ---
 ## What it is
 Provides tools to interact with Jira, including JQL queries, ticket creation, editing, deletion, attachment, and project listing.

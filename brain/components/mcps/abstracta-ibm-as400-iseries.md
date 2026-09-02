@@ -8,10 +8,12 @@ source_url: https://github.com/abstracta/ibm-as-400-iseries-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-25T14:52:24Z"
 ---
 ## What it is
 MCP server `IBM AS/400 iSeries`, catalogued on PulseMCP. Connects to IBM AS/400 and iSeries mainframe systems through RTE protocols (TN5250, TN3270, VT420) with YAML-configurable terminal interaction flows for automated login sequences, menu navigation, and screen output retrieval.

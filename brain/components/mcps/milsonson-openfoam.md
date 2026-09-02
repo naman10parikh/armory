@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-25T08:49:22Z"
 ---
 ## What it is
 MCP server `OpenFOAM`, catalogued on PulseMCP. Natural language-driven OpenFOAM CFD simulation setup with predefined templates, automated mesh generation, and post-processing.

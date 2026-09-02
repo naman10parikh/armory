@@ -8,10 +8,12 @@ source_url: https://github.com/nannykeeper/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T07:40:37Z"
 ---
 ## What it is
 MCP server `NannyKeeper`, catalogued on PulseMCP. Calculate US household employer taxes across all 50 states.

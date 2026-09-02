@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T16:52:22Z"
 ---
 ## What it is
 An MCP server for interacting with Ghost CMS blogs through AI assistants, supporting both read-only content and full admin operations.

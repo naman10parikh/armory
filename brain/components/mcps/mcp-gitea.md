@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T13:17:47Z"
 ---
 ## What it is
 MCP server for interacting with Gitea, enabling issue and PR management, repository browsing, file reading, and safe git command execution.

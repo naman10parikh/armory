@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T16:22:05Z"
 ---
 ## What it is
 A Claude skill + MCP server that tells you how Deutsche Bahn delays will affect your trip — not just whether your train is late.

@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-06T07:39:57Z"
 ---
 ## What it is
 MCP server `SSI Stock (Vietnamese Market Data)`, catalogued on PulseMCP. Provides a bridge to the SSI Financial Connector Data API for accessing Vietnamese stock market data, including securities listings, stock information, index components, OHLC data, price movements, and foreign trading activities.

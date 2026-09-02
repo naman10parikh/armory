@@ -8,11 +8,13 @@ source_url: https://github.com/rookietopred02-gif/photoshop-mcp-windows-first
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T14:09:02Z"
 ---
 ## What it is
 An MCP server for controlling Adobe Photoshop from AI assistants, with Windows-first workflow, structured state, smoke-tested action playback, and a bundled Codex skill for image editing.

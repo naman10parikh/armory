@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T05:53:33Z"
 ---
 ## What it is
 MCP server exposing content contract validators (SEO.md, PRODUCTHUNT.md, LINKEDIN.md) as tools so AI agents can verify generated content against concrete rules without maintaining linters. It provides linting and JSON-LD export tools with config and content passed as parameters, not file paths.

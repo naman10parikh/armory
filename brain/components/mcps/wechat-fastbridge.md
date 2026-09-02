@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-22T08:16:54Z"
 ---
 ## What it is
 Local macOS MCP server for verified WeChat reading, sending, media, and token-efficient allowlisted monitoring. Its Docker image supports registry introspection only; real WeChat automation requires macOS Accessibility.

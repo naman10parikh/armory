@@ -8,10 +8,12 @@ source_url: https://github.com/niklauslee/frame0-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-06-17T11:10:45Z"
 ---
 ## What it is
 MCP server `Frame0 Diagramming`, catalogued on PulseMCP. Provides a bridge to the Frame0 diagramming application for creating and manipulating visual elements like shapes, text, and connectors with customizable properties for diagram generation and mockup creation.

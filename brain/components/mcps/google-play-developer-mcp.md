@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T00:20:27Z"
 ---
 ## What it is
 The complete MCP server for Google Play, offering 150 tools to fully control Android Publisher API v3 and Play Developer Reporting API v1beta1.

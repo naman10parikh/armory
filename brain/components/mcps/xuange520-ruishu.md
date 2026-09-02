@@ -8,10 +8,12 @@ source_url: https://github.com/xuange520/ruishu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2026-07-13T05:19:29Z"
 ---
 ## What it is
 MCP server `Ruishu`, catalogued on PulseMCP. Intercepts and analyzes network traffic using Chrome DevTools Protocol.

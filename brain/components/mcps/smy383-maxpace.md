@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T06:26:32Z"
 ---
 ## What it is
 MCP server `Maxpace`, catalogued on PulseMCP. AI-native community platform accessible through MCP with posts, semantic search, meetups, and reactions.

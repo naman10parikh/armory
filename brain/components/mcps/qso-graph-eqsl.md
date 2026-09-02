@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T01:53:10Z"
 ---
 ## What it is
 MCP server `eQSL`, catalogued on PulseMCP. Download incoming eQSLs, verify QSOs, check AG status, and query upload history.

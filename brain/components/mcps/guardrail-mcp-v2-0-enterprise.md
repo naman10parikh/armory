@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:07:27Z"
 ---
 ## What it is
 GuardRail MCP is an enterprise agent security server that provides multi-language code analysis, dependency scanning, and container security checks, with RBAC, policy packs, and audit logging.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T20:13:03Z"
 ---
 ## What it is
 MCP server `Paladin Swap`, catalogued on PulseMCP. Multi-aggregator DeFi swap routing for AI agents on Base with non-custodial execution.

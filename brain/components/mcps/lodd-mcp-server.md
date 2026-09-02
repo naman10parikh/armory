@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T10:03:55Z"
 ---
 ## What it is
 First-party web analytics MCP server for AI agents, providing 42 tools to query traffic, events, funnels, conversions, sources, and performance data.

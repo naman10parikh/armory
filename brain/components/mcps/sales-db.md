@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:34:39Z"
 ---
 ## What it is
 Enables natural language querying of a sales SQLite database. Provides read-only SQL execution and database statistics tools, allowing AI to answer sales questions using everyday Japanese.

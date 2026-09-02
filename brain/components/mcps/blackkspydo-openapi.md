@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-12T15:48:27Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Loads OpenAPI specifications from URLs or files to provide endpoint discovery, schema analysis, payload validation, sample data generation, and cURL command creation for REST API integration workflows.

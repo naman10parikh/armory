@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-03T16:00:17Z"
 ---
 ## What it is
 An MCP server that exposes Prof. Null, an uncensored cybersecurity professor, as a set of specialized tools for learning hacking, CTFs, and security concepts through Q\&A, roadmaps, cheatsheets, labs, and more.

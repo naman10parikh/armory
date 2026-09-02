@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:22:27Z"
 ---
 ## What it is
 Enables AI assistants to read and write Super Productivity tasks through the Nextcloud sync file, preserving local-first data and safely handling concurrent edits from other devices.

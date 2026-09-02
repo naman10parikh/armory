@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:22:16Z"
 ---
 ## What it is
 MCP server for querying Google Analytics accounts, properties, reports, and realtime data using the Data API and Admin API.

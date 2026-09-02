@@ -12,6 +12,8 @@ stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-03-06T16:29:54Z"
 ---
 ## What it is
 MCP server `Hyperliquid`, catalogued on PulseMCP. Integrates with the Hyperliquid SDK to provide real-time cryptocurrency market data, including mid prices, historical candlesticks, and L2 order book information for traders and analysts.

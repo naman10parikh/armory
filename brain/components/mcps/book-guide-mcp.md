@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:51:37Z"
 ---
 ## What it is
 An MCP server that transforms books into agent-callable skill packages, enabling AI agents to use books as guides for evidence, procedures, and tutoring.

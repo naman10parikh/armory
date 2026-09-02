@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T17:26:14Z"
 ---
 ## What it is
 Provides tools to list, retrieve metadata, editions, latest observations, and time series from the UK Office for National Statistics (ONS) datasets.

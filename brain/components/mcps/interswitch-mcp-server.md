@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T01:36:33Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Interswitch APIs for payments, transfers, VAS, cardless paycodes, Transaction Search, Card 360, lending, payouts, agency banking, and fintech card-processing utilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T09:18:04Z"
 ---
 ## What it is
 Render HTML/CSS to PNG/JPG/WebP directly from Claude Desktop, Claude Code, Cursor, or any MCP-compatible client.

@@ -8,10 +8,12 @@ source_url: https://github.com/crexative/colombia-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-16T02:29:13Z"
 ---
 ## What it is
 MCP server `Colombia Geographic Data`, catalogued on PulseMCP. Colombian geographic and administrative data including departments, municipalities, tourist attractions, and regional information

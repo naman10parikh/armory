@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T09:20:05Z"
 ---
 ## What it is
 A proof-of-concept MCP server that augments the Canva CLI with custom tools for generating design briefs and staging assets for the Canva API.

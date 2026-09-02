@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T17:33:44Z"
 ---
 ## What it is
 Provides LLMs with access to food nutrition data from Open Food Facts, enabling barcode lookup, product search, and nutrition score comparisons.

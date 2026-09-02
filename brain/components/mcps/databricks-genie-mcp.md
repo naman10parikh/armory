@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-18T05:49:40Z"
 ---
 ## What it is
 Connects to the Databricks Genie API, enabling LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.

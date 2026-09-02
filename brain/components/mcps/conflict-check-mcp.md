@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T06:04:45Z"
 ---
 ## What it is
 Enables natural language conflict-of-interest checks, historical relationship analysis, and contract review using Verdantas project data and Deltek records.

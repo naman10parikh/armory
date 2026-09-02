@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:41:43Z"
 ---
 ## What it is
 A local stdio MCP server that wraps Qt 5.14.2 + MinGW toolchain into Python tools, enabling AI assistants to scaffold, build, run, test, format, deploy, and analyze Qt C++ projects directly in conversation.

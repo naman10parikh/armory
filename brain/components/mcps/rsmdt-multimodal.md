@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T20:02:33Z"
 ---
 ## What it is
 MCP server `Multimodal`, catalogued on PulseMCP. Multi-provider media generation for images, video, audio, and transcription via a unified interface.

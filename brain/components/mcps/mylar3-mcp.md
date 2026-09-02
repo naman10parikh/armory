@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:04:57Z"
 ---
 ## What it is
 MCP server that exposes Mylar3's HTTP API as tools, letting an LLM read and manage a comic library including watchlist, wanted issues, upcoming, history, logs, story arcs, and providers.

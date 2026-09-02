@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:24:28Z"
 ---
 ## What it is
 MCP server `Agent Audit Logger`, catalogued on PulseMCP. Hash-chained HMAC-signed audit log for agent-to-agent calls with tamper-evident records of every tool invocation.

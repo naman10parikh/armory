@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-05T22:54:56Z"
 ---
 ## What it is
 Enables managing your iOS app's entire lifecycle with natural language through App Store Connect, offering 48 tools across 14 categories for ASO, reviews, analytics, subscriptions, pricing, and more.

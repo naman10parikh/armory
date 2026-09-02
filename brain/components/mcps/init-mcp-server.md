@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:26:49Z"
 ---
 ## What it is
 Deployable MCP server enabling Gemini to connect via SSE and use utility tools for echoing text, adding numbers, getting the current time, and reversing strings.

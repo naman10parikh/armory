@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:46:45Z"
 ---
 ## What it is
 Enables AI chat backends to fetch public webpages and return cleaned, readable text, with tools for simple fetching and article extraction.

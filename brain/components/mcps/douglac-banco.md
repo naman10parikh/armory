@@ -8,10 +8,12 @@ source_url: https://github.com/douglac/banco-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-15T13:49:27Z"
 ---
 ## What it is
 MCP server `Banco`, catalogued on PulseMCP. Brazilian Open Finance integration with 30+ banks including Itaú, Bradesco, and Nubank.

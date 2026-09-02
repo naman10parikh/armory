@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T20:39:42Z"
 ---
 ## What it is
 Ripplecheck is a counterfactual schema migration compiler powered by the DataHub MCP Server. Paste breaking warehouse DDL and it projects the metadata graph, proves a bounded release policy, routes an executable migration DAG to owners, writes a hash-sealed decision capsule back to DataHub, and gene

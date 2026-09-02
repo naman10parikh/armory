@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-16T12:51:39Z"
 ---
 ## What it is
 A production-grade long-term memory MCP server that enables AI agents to persist and recall memories across sessions with importance weighting, confidence calibration, and efficient context window management.

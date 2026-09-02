@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:46Z"
 ---
 ## What it is
 Enables querying unified court proceedings from the São Paulo State Court (TJSP) via the Eproc system, providing read-only access to official case information through a single consultation tool.

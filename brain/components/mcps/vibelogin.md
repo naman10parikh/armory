@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T15:34:23Z"
 ---
 ## What it is
 MCP server `VibeLogin`, catalogued on PulseMCP. Add authentication to any app without leaving your IDE.

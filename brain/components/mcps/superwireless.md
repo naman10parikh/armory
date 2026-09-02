@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:53:09Z"
 ---
 ## What it is
 Enables AI agents to validate wireless communication ideas by providing standardized channel instances and physical measurements through MCP, eliminating the need to write simulations from scratch.

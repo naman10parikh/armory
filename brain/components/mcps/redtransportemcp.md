@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:12:23Z"
 ---
 ## What it is
 Private MCP server adapter for RedTransporteAPI, providing read-only access to Santiago de Chile public transit data including stops, routes, real-time iBus/RED predictions, and RAPTOR journey planning, secured with deny-by-default bearer token authentication over stdio or streamable HTTP.

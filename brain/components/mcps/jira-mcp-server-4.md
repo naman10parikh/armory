@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:55:46Z"
 ---
 ## What it is
 Enables Claude AI and other MCP clients to interact with Jira Server/Data Center through tools like listing issues, logging work, and updating issues, requiring user confirmation for write operations.

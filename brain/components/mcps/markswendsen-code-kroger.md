@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T04:07:56Z"
 ---
 ## What it is
 MCP server `Kroger`, catalogued on PulseMCP. Automates Kroger grocery shopping through browser automation for product search, cart management, and order placement.

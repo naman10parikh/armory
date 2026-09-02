@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:32:34Z"
 ---
 ## What it is
 Enables multiple AI agents to collaborate on the same git repository by coordinating work via a shared claims branch, detecting file conflicts before they happen.

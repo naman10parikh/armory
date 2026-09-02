@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-26T09:38:35Z"
 ---
 ## What it is
 MCP server that provides Semantic Scholar academic search capabilities, including paper search, detail query, citation analysis, author search, and intelligent recommendations.

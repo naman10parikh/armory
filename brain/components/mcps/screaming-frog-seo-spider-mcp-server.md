@@ -8,11 +8,13 @@ source_url: https://github.com/bzsasson/screaming-frog-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 79
+stars: 81
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-31T08:48:05Z"
 ---
 ## What it is
 Enables AI assistants to crawl websites, export crawl data, and manage crawl storage using Screaming Frog SEO Spider through the MCP protocol.

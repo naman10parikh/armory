@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-05T03:51:18Z"
 ---
 ## What it is
 MCP server `Rendi`, catalogued on PulseMCP. Cloud-based FFmpeg video and audio processing through Rendi API for transcoding, format conversion, and media analysis

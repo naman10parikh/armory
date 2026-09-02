@@ -8,10 +8,12 @@ source_url: https://github.com/jaalbin24/wikijs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-20T22:53:29Z"
 ---
 ## What it is
 MCP server `Wiki.js`, catalogued on PulseMCP. Integrates with Wiki.js instances through GraphQL API to enable full CRUD operations for wiki pages including search, retrieval, creation, updating, deletion, moving, plus page tree navigation and tag management with authentication support.

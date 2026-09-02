@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-05T10:17:34Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and discover second-hand items on Vinted via a Model Context Protocol server.

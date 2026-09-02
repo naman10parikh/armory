@@ -8,10 +8,12 @@ source_url: https://github.com/signoz/signoz-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2026-09-01T04:42:41Z"
 ---
 ## What it is
 MCP server `SigNoz`, catalogued on PulseMCP. Access metrics, traces, logs, alerts, and dashboards from SigNoz observability platform

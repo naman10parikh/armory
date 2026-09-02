@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:43Z"
 ---
 ## What it is
 Enables querying negative debt certificates (Certidão Negativa de Débitos) from the Naviraí city government (Prefeitura MS Naviraí) through an official source, providing read-only consultation via natural language.

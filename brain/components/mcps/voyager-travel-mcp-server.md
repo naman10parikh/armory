@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T06:57:21Z"
 ---
 ## What it is
 A MakeMyTrip-style travel-booking MCP server with flights, hotels, trains, and bookings, featuring risk-tiered tools and role-based access control.

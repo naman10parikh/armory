@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T01:24:34Z"
 ---
 ## What it is
 An MCP server for managing and querying RSS/news feeds, enabling real-time fetching, searching, and retrieval of feed items.

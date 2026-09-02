@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:33:41Z"
 ---
 ## What it is
 Enables AI coding tools to call Grok and Antigravity CLIs as peer reviewers for code review, planning, debugging, and collaborative sessions.

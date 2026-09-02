@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:29:13Z"
 ---
 ## What it is
 Sandboxed filesystem connector for urirun/ifURI, providing query and command routes for file operations like list, read, stat, move, and write, with dry-run and sandboxing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T21:28:06Z"
 ---
 ## What it is
 A read-only MCP server for the official Maldives Government Gazette, enabling search and retrieval of gazette records and Iulaan announcements, including attachments.

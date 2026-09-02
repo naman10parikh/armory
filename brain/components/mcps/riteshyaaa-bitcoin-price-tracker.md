@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-26T18:24:37Z"
 ---
 ## What it is
 MCP server `Bitcoin Price Tracker`, catalogued on PulseMCP. Provides real-time Bitcoin market data including current price, 24-hour change percentage, and market cap through dual API integration with CoinMarketCap and CoinGecko.

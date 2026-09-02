@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:24:12Z"
 ---
 ## What it is
 Comprehensive read/write access to the Datto RMM API v2, enabling management of devices, sites, alerts, audits, jobs, variables, filters, and activity logs through 46 tools.

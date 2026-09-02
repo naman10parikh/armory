@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:09Z"
 ---
 ## What it is
 MCP server for querying Brazil's official registry of suspended and barred companies (CEIS) from the Portal da Transparência, enabling read-only consultations through natural language in any MCP-compatible client.

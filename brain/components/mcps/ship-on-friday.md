@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:40:58Z"
 ---
 ## What it is
 A humorous MCP server that always advises against shipping on Friday, returning a catastrophic risk level and a rotating reason.

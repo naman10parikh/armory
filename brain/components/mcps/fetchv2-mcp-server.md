@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-06T01:42:16Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for web content fetching and extraction. Enables fetching webpages, extracting clean content using Trafilatura, discovering links, and batch fetching up to 10 URLs.

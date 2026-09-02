@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:46:17Z"
 ---
 ## What it is
 A dynamic MCP server orchestrator and multiplexer that routes requests to multiple remote and local sub-MCP servers, with hot-reload config, SSE/Streamable HTTP support, and a summary endpoint to reduce context token usage.

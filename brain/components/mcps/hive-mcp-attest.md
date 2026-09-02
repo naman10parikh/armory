@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:09:28Z"
 ---
 ## What it is
 Reference implementation of HiveAttest claims for autonomous agents, exposing 19 tools for attestation, custody, cargo, warranty, and gate evaluation with real Ed25519 signatures.

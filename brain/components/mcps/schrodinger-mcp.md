@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T17:23:01Z"
 ---
 ## What it is
 Enables AI assistants to execute computational chemistry and drug discovery workflows using Schrödinger Suites 2026, including protein preparation, docking, ADMET, QM/MM calculations, and job management.

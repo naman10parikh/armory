@@ -8,10 +8,12 @@ source_url: https://github.com/kazz187/mcp-google-spreadsheet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-02T14:49:43Z"
 ---
 ## What it is
 MCP server `Google Spreadsheet`, catalogued on PulseMCP. Integrates with Google Drive and Sheets to enable document management, file operations, and spreadsheet manipulation without switching contexts.

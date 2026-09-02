@@ -8,11 +8,13 @@ source_url: https://github.com/albert850904/gpt-image-2-skill
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:33:45Z"
 ---
 ## What it is
 Enables generating images from text prompts using OpenAI's GPT-Image-2 model within Claude Code and Codex conversations.

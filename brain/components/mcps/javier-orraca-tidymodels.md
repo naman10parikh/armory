@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-22T05:13:06Z"
 ---
 ## What it is
 MCP server `Tidymodels`, catalogued on PulseMCP. Provides access to the tidymodels R ecosystem, enabling function search, package exploration, template code generation, and GitHub issue tracking for data science and machine learning workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-16T14:30:59Z"
 ---
 ## What it is
 Turns hundreds of Alfresco MCP REST endpoints into a small set of tools for a local LLM, enabling natural language interaction with Alfresco while keeping everything local and secure.

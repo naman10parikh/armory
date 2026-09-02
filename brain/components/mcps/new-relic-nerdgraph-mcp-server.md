@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-08-13T22:34:47Z"
 ---
 ## What it is
 Enables users to query and manage New Relic account data and features through natural language or specific commands, including NRQL queries, entity search, APM, Synthetics, and alerts management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T08:34:12Z"
 ---
 ## What it is
 An MCP server that auto-generates presentations from a topic using AI, supporting slide editing, visual QA, and export to HTML/PPTX.

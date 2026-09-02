@@ -8,11 +8,13 @@ source_url: https://github.com/kopias/loreto-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-12T14:33:23Z"
 ---
 ## What it is
 Turn any YouTube video, article, PDF, or image into a reusable Claude Code skill — without leaving your editor.

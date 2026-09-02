@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T19:12:18Z"
 ---
 ## What it is
 Connects SideFX Houdini to Claude via the Model Context Protocol, enabling node creation, modification, and code execution through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:11:10Z"
 ---
 ## What it is
 Enables recording hormone dosing events and querying predicted blood concentration for estradiol and testosterone using pharmacokinetic algorithms, supporting multiple administration routes.

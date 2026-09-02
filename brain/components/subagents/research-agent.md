@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [troubleshoot, architect, resource-integration-pipeline]
 tags: [research, web-search, synthesis, sub-agent, context-protection]
+forks: 0
+pushed_at: "2026-06-10T03:53:18Z"
 ---
 
 ## What it is

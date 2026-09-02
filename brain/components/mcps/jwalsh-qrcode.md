@@ -8,10 +8,12 @@ source_url: https://github.com/jwalsh/mcp-server-qrcode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-05T19:08:58Z"
 ---
 ## What it is
 MCP server `QR Code Generator`, catalogued on PulseMCP. Integrates with the qrencode utility to generate QR codes dynamically, supporting various output formats and configuration options for flexible use in applications and workflows.

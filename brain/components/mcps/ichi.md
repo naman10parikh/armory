@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:18:55Z"
 ---
 ## What it is
 A persistent character and memory layer for coding agents over MCP. It remembers user interactions, reinforces standards, and provides emotional continuity across sessions.

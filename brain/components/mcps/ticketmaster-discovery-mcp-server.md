@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:52:50Z"
 ---
 ## What it is
 Enables discovery of events, venues, and attractions through the Ticketmaster Discovery API, with flexible search filters and multiple output formats.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T07:49:12Z"
 ---
 ## What it is
 MCP server `AgentMart`, catalogued on PulseMCP. AI agent e-commerce marketplace with 74+ AI products, MCP protocol integration, and Alipay payments.

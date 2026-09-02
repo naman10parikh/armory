@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T17:34:00Z"
 ---
 ## What it is
 MCP server `GreenCore Solutions CPG`, catalogued on PulseMCP. CPG-to-retail grocery node intelligence — 2,235 banners across 28 markets for AI supply chain workflows.

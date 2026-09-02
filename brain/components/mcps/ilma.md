@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:02:45Z"
 ---
 ## What it is
 Framework-agnostic MCP server for agent memory with Postgres + pgvector, enabling persistent memory, recall, and task management across sessions.

@@ -8,10 +8,12 @@ source_url: https://github.com/ryancodrai/sourced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-06T13:34:15Z"
 ---
 ## What it is
 MCP server `Sourced`, catalogued on PulseMCP. Source code search for every package on PyPI and npm.

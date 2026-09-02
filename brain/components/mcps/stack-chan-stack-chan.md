@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
-stars: 1667
+stars: 1689
+forks: 215
+pushed_at: "2026-09-01T00:18:26Z"
 ---
 ## What it is
 A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.

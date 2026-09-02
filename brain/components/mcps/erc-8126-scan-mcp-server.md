@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:08:29Z"
 ---
 ## What it is
 Enables users to search the on-chain index of 378,000+ ERC-8004 agents and read Cybercentry verification results spanning token, code, media, web, and wallet dimensions.

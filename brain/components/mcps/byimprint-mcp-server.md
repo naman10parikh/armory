@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T06:32:27Z"
 ---
 ## What it is
 Retired MCP server for byImprint's historical creator-intelligence experiment. It is no longer active.

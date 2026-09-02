@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T21:21:16Z"
 ---
 ## What it is
 Relays a result screenshot to Slack so you can review a coding agent's output without opening the app.

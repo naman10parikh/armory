@@ -8,10 +8,12 @@ source_url: https://github.com/madebytokens/deobfuscate-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-13T00:09:24Z"
 ---
 ## What it is
 MCP server `Deobfuscate`, catalogued on PulseMCP. Transforms minified JavaScript bundles into searchable databases using webcrack unpacking and Babel AST parsing to enable semantic search, selective code retrieval, and architectural mapping for reverse engineering workflows.

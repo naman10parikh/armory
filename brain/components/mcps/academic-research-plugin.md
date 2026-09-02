@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:26:05Z"
 ---
 ## What it is
 A stdio MCP server for traceable scholarly retrieval and evidence-grounded literature review, with deterministic provider fusion, conservative ID canonicalization, and provenance-preserving citation traversal.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T15:08:59Z"
 ---
 ## What it is
 Provides seamless access to the Protein Data Bank in Europe (PDBe) API and search capabilities, enabling AI clients to query protein structures, perform advanced searches, and retrieve structural biology data.

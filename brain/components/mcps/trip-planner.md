@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:37:58Z"
 ---
 ## What it is
 MCP server for creating day-by-day trip itineraries in SQLite, with a planner agent that uses a Tavily search scout via tool boundaries. Enforces guard rails like rejecting activities on out-of-range days.

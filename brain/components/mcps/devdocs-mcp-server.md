@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T17:30:38Z"
 ---
 ## What it is
 Enables AI assistants like Claude to search and retrieve technical documentation from a local DevDocs instance for hundreds of programming languages and frameworks.

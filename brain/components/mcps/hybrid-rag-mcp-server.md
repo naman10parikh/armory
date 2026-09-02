@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-22T05:43:03Z"
 ---
 ## What it is
 Enables natural language search over PDF documents using vector search, allowing MCP clients like Claude Desktop to query PDF content.

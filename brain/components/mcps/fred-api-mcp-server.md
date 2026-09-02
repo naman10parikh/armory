@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-29T08:05:28Z"
 ---
 ## What it is
 Enables searching and retrieving economic data from the Federal Reserve Economic Data (FRED) API, including time series, categories, releases, and popular indicators.

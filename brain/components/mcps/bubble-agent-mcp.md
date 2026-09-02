@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:39:30Z"
 ---
 ## What it is
 MCP server that brings live Bubble Agent intelligence into Claude, Codex, Cursor, and other clients, enabling users to discover emerging conversation clusters, analyze momentum, compare opportunities, and generate evidence-based content drafts.

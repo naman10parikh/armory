@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T05:50:56Z"
 ---
 ## What it is
 MCP server for Duplicati backup management. Enables checking status, running backups, viewing logs, and controlling the scheduler.

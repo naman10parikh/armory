@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T10:49:30Z"
 ---
 ## What it is
 Connects AI assistants to the Lanten property management API, allowing them to manage tenants, units, and work orders using natural language.

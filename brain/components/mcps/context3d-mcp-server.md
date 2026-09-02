@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-16T05:26:15Z"
 ---
 ## What it is
 Enables AI-powered 3D model generation from text and images with PBR textures, supporting blockchain authentication and MCP integration.

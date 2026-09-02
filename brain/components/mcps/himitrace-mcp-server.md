@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:05:52Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server connecting AI agents to the Polygon blockchain for product origin verification and supply chain timeline auditing

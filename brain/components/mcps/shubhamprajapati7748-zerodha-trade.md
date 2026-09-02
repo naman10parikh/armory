@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-10T06:48:57Z"
 ---
 ## What it is
 MCP server `Zerodha Trade`, catalogued on PulseMCP. Integrates with Zerodha's trading platform to enable real-time stock trading operations including profile viewing, portfolio monitoring, and order execution directly through conversation

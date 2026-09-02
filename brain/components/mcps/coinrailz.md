@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-13T12:57:54Z"
 ---
 ## What it is
 MCP server `Coin Railz`, catalogued on PulseMCP. Blockchain data, trading signals, prediction markets, and crypto analytics via x402 micropayments

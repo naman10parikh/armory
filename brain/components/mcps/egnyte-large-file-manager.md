@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:09:52Z"
 ---
 ## What it is
 Enables downloading real binary files from Egnyte and uploading large files with chunked support, complementing the official Egnyte MCP connector.

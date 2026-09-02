@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:46:01Z"
 ---
 ## What it is
 A multi-user remote MCP server exposing 413 Autodesk Construction Cloud / Forma API tools with per-user Autodesk sign-in, enabling management of issues, RFIs, submittals, sheets, and more while each user only sees their own data.

@@ -8,11 +8,13 @@ source_url: https://github.com/AlexAI-MCP/PlantOntology
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-11T11:50:57Z"
 ---
 ## What it is
 Enables querying a plant knowledge graph for companion planting, climate suitability, and landscape design recommendations via natural language.

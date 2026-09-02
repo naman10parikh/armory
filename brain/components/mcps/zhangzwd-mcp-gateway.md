@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T03:27:36Z"
 ---
 ## What it is
 A lightweight MCP gateway that aggregates multiple MCP services into a unified stdio interface, automatically prefixing tool names with the service name to avoid conflicts.

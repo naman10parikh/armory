@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:41:27Z"
 ---
 ## What it is
 Provides verified game rules, official links, and FAQ for the 17-0 NFL roster strategy game to MCP-compatible AI clients.

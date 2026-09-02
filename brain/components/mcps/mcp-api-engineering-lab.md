@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:50:37Z"
 ---
 ## What it is
 A public MCP server demonstrating how an AI agent can retrieve database schemas and manage local OpenAPI contracts via tools for CRUD operations.

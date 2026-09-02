@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T11:29:16Z"
 ---
 ## What it is
 Enables AI assistants to create interactive charts, diagrams, and tables displayed on a real-time dashboard, supporting multiple data sources with privacy-focused local execution.

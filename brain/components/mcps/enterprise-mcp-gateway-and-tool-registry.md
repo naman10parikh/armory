@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:59:51Z"
 ---
 ## What it is
 Enables AI agents to discover and execute tools via a secure MCP server with JWT authentication, RBAC, rate limiting, and audit logging.

@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [fractal-delegation, ceo-launch-grid, recursive-grid, harness-review]
 tags: [orchestration, ceo, grid, automation, swarm]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

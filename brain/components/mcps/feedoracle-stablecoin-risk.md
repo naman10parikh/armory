@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T10:24:47Z"
 ---
 ## What it is
 MCP server `FeedOracle Stablecoin Risk`, catalogued on PulseMCP. 7-signal stablecoin risk scoring with SAFE/CAUTION/AVOID verdicts for 28+ tokens.

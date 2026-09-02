@@ -8,10 +8,12 @@ source_url: https://github.com/joehaddad2000/claude-todo-emulator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-21T21:43:21Z"
 ---
 ## What it is
 MCP server `Claude Todo Emulator`, catalogued on PulseMCP. Emulates Claude Code's task management system with persistent todo functionality, providing workspace-local storage and validation rules that ensure unique IDs and allow only one in-progress task at a time.

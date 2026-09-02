@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:16:43Z"
 ---
 ## What it is
 Multi-agent local browser automation MCP server with per-agent WebSocket paths, configurable ports, and fixes for upstream issues like port collisions and recursion bugs.

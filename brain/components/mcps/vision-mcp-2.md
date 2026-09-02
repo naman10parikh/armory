@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:52:03Z"
 ---
 ## What it is
 Gives text-only coding agents the ability to 'see' images, videos, and screenshots by routing them to a vision model and returning structured text.

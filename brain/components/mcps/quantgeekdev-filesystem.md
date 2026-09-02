@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-17T00:45:02Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Provides a robust filesystem server enabling precise file system interactions like reading, writing, creating directories, moving files, and retrieving file metadata through TypeScript-based tools with detailed error handling.

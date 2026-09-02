@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:29:21Z"
 ---
 ## What it is
 MCP-native auditor for LLM hallucination and grounding issues in RAG systems. Provides prioritized findings in table, JSON, or SARIF format for CI gating and AI agent integration.

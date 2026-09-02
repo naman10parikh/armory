@@ -8,10 +8,12 @@ source_url: https://github.com/offorte/offorte-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-19T14:36:07Z"
 ---
 ## What it is
 MCP server `Offorte`, catalogued on PulseMCP. Integrates with Offorte's proposal management platform to enable contact management, proposal creation and sending, and template access for streamlining sales workflows and client relationship management.

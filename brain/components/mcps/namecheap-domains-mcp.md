@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-03-11T20:57:32Z"
 ---
 ## What it is
 Integrates Namecheap's domain API with Cursor AI to check domain availability, get pricing, and register domains directly through the AI interface.

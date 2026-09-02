@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-12T16:06:07Z"
 ---
 ## What it is
 MCP server `Documentation Search`, catalogued on PulseMCP. Enables searching and retrieving up-to-date content from popular documentation sites including LangChain, LlamaIndex, and OpenAI through Google search integration and content processing.

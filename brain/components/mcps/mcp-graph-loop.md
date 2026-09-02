@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:37:25Z"
 ---
 ## What it is
 Enables AI agents to orchestrate tasks as a DAG with automated validation loops, executing validation commands, tracking statuses, and allowing iterative code fixes until tasks pass.

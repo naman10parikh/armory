@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 5
+forks: 1
+pushed_at: "2026-03-09T00:48:27Z"
 ---
 ## What it is
 Argentine exchange rates for AI agents via DolarAPI. Dollar blue, oficial, MEP, CCL, crypto, tarjeta — plus currency conversion and spread calculator.

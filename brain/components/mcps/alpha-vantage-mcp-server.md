@@ -8,11 +8,13 @@ source_url: https://github.com/alphavantage/alpha_vantage_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 202
+stars: 207
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 49
+pushed_at: "2026-08-30T13:45:25Z"
 ---
 ## What it is
 Enables LLMs and agentic workflows to access real-time and historical stock market data through the Model Context Protocol.

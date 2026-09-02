@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-06T03:27:30Z"
 ---
 ## What it is
 MCP server `Google Forms`, catalogued on PulseMCP. Enables programmatic interaction with Google Forms by generating refresh tokens and establishing OAuth authentication for automating form-related workflows and data retrieval.

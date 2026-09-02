@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:08:18Z"
 ---
 ## What it is
 Lightweight MCP server for Gmail and Google Calendar, enabling email and calendar management via natural language with per-account processes.

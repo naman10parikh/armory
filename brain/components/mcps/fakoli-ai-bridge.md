@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-18T09:22:52Z"
 ---
 ## What it is
 MCP server `AI Bridge`, catalogued on PulseMCP. Secure bridge to OpenAI and Google Gemini APIs with multi-layer security protection including prompt injection detection, content filtering, input sanitization, and configurable rate limiting to prevent API abuse while maintaining access to all major models.

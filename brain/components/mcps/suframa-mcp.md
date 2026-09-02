@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:50:42Z"
 ---
 ## What it is
 Consulta a situação de empresas na Suframa (Zona Franca de Manaus) a partir do CNPJ. Servidor somente leitura, hospedado, com uma ferramenta e pago por uso via créditos pré-pagos.

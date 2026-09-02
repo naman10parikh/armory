@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T20:44:29Z"
 ---
 ## What it is
 Enables AI assistants to back up, list, and restore n8n workflows and PostgreSQL databases via natural language, using S3-compatible storage for backups.

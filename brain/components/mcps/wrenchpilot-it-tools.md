@@ -8,10 +8,12 @@ source_url: https://github.com/wrenchpilot/it-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-24T23:19:05Z"
 ---
 ## What it is
 MCP server `IT Tools`, catalogued on PulseMCP. Provides 50+ developer utilities including cryptographic operations, text processing, data format conversion, network calculations, and encoding functions through a containerized TypeScript server with security features and rate limiting.

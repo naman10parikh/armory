@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-23T12:54:45Z"
 ---
 ## What it is
 Secure read-only access to Coddie project planning data, enabling AI assistants to manage and query projects, phases, and steps.

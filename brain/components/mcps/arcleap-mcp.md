@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:30:21Z"
 ---
 ## What it is
 MCP server that lets AI agents bridge native USDC between networks (Ethereum, Base, Arbitrum, OP Mainnet, Polygon, Avalanche, and testnets) via Circle CCTP V2, featuring idempotent transfers, disk-persisted state, balance/gas checks, and configurable limits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:14:00Z"
 ---
 ## What it is
 A reusable template for building MCP servers that act as OAuth 2.1 resource servers, verifying bearer tokens against Microsoft Entra ID or any standards-compliant OIDC authorization server.

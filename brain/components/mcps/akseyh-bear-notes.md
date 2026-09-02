@@ -8,10 +8,12 @@ source_url: https://github.com/akseyh/bear-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-26T14:55:08Z"
 ---
 ## What it is
 MCP server `Bear Notes`, catalogued on PulseMCP. Integrates with Bear notes on macOS, providing direct database access for efficient retrieval and analysis of personal note content.

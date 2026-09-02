@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T12:50:17Z"
 ---
 ## What it is
 GhostHunt is an MCP server that scans your development machine for API keys, tokens, and credentials hiding in places you forgot to check.

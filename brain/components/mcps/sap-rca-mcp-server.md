@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:59:20Z"
 ---
 ## What it is
 Enables AI agents to perform root cause analysis on SAP systems by querying Azure Log Analytics data, offering schema discovery, validated KQL execution, result analysis, and automated 8-step RCA workflows.

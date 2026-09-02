@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-15T08:57:47Z"
 ---
 ## What it is
 A multi-graph memory MCP server that traces cause-effect chains across semantic, entity, temporal, and causal graphs to answer 'why' questions with confidence-scored paths, enabling agents to reason beyond simple similarity retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:08:03Z"
 ---
 ## What it is
 Suparch is an open-source MCP server for searching, comparing, and calculating structured supplement facts.

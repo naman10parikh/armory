@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:15:09Z"
 ---
 ## What it is
 Enables MCP-compatible clients to delegate senior software engineering tasks like code generation, review, Jira management, and architecture recommendations to a model with a senior engineer persona.

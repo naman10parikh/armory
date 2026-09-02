@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:51:06Z"
 ---
 ## What it is
 A Model Context Protocol server that uses Google Vertex AI and Gemini 3.5 Flash to perform deep research with high thinking capability and live Google Search grounding, enabling intelligent, multi-source research via a single tool.

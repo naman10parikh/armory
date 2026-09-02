@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:30:33Z"
 ---
 ## What it is
 MCP server that gives AI agents a Solana wallet with a capped, revocable token allowance from a user-owned vault, enforced on-chain by SPL Token delegations plus local guardrails, without exposing the owner's private key.

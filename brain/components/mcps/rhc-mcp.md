@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T06:20:50Z"
 ---
 ## What it is
 Enables AI agents to read Robinhood Chain stock-token positions, quote swaps, and execute swaps through the Model Context Protocol, bridging on-chain assets that Robinhood's own off-chain MCP cannot reach.

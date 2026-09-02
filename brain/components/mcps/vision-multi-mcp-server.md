@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:39:38Z"
 ---
 ## What it is
 This MCP server enables image analysis through a single tool that supports multiple vision models and API providers, with automatic failover and persistent state management.

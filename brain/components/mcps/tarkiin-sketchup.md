@@ -8,10 +8,12 @@ source_url: https://github.com/tarkiin/sketchup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-29T12:51:16Z"
 ---
 ## What it is
 MCP server `SketchUp`, catalogued on PulseMCP. Control SketchUp for AI-driven 3D modeling with 21 tools via an HTTP bridge to a SketchUp Ruby plugin.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T02:57:17Z"
 ---
 ## What it is
 MCP server `AI Cost Optimizer`, catalogued on PulseMCP. AI API cost optimization API, deployed via Cloudflare Workers with REST and MCP interfaces.

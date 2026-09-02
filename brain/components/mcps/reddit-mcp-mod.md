@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T01:45:26Z"
 ---
 ## What it is
 Enables Reddit moderation through tool-based access: reading, posting, mod queue management, user management, and report handling.

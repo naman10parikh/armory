@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-04T15:51:19Z"
 ---
 ## What it is
 MCP server `KubeVirt`, catalogued on PulseMCP. Enables natural language management of virtual machines in Kubernetes environments through KubeVirt API, allowing users to list, start, and stop VMs without writing complex kubectl commands.

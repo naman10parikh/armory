@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 36
+pushed_at: "2026-03-22T04:29:03Z"
 ---
 ## What it is
 Enables Claude Code to receive and reply to WeChat messages via the WeChat iLink Bot API, using long-polling without requiring a public webhook.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T20:46:10Z"
 ---
 ## What it is
 Provides offline full-text search across 35,000+ Swiss laws from all cantons and federal level using SQLite FTS5 indexing. Enables querying laws, articles, and metadata through natural language.

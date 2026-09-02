@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:01:14Z"
 ---
 ## What it is
 A local MCP server for on-premises Microsoft Exchange, connecting via EWS and NTLM. It provides mail, template, availability, and calendar workflow tools through stdio, with draft-first safety and Windows Credential Manager integration.

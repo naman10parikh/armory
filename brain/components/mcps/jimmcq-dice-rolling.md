@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-13T22:58:31Z"
 ---
 ## What it is
 MCP server `Dice Rolling`, catalogued on PulseMCP. Provides advanced dice rolling capabilities for tabletop gaming and RPGs with support for standard notation, advantage/disadvantage mechanics, exploding dice, reroll mechanics, keep/drop highest/lowest, success counting, and special dice types including fudge dice and percentile dice.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T15:45:31Z"
 ---
 ## What it is
 Enables AI assistants to interact with Databricks workspaces, running SQL queries, managing jobs, and exploring schemas via the Model Context Protocol.

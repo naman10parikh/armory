@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-21T16:20:55Z"
 ---
 ## What it is
 MCP server `Documentation Markdown Converter`, catalogued on PulseMCP. Provides AI assistants with access to documentation through a configurable server that converts HTML to Markdown and enables auditing of tool calls and returned context.

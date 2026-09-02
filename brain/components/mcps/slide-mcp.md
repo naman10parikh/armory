@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:37:59Z"
 ---
 ## What it is
 Create designed Figma Slides by chatting with GitHub Copilot or Claude. It generates polished, multi-layout decks with 31 layouts and 17 design systems directly in Figma.

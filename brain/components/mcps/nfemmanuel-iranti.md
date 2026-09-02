@@ -8,10 +8,12 @@ source_url: https://github.com/nfemmanuel/iranti
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-06T00:32:36Z"
 ---
 ## What it is
 MCP server `Iranti`, catalogued on PulseMCP. Persistent, shared memory for AI coding tools using entity-key-value triples stored in PostgreSQL.

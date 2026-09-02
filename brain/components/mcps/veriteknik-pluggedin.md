@@ -8,10 +8,12 @@ source_url: https://github.com/veriteknik/pluggedin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2026-07-30T20:40:52Z"
 ---
 ## What it is
 MCP server `PluggedIn`, catalogued on PulseMCP. A unified interface for managing all your MCP servers.

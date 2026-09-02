@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T09:26:19Z"
 ---
 ## What it is
 Turns raw engineering signals into narrative reports by exposing GitHub data via MCP, enabling AI agents to generate structured, shareable engineering summaries.

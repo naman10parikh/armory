@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:50:54Z"
 ---
 ## What it is
 Estimates Claude API costs with interactive sliders, live comparison across five models, and returns the selected model to the conversation.

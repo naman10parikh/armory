@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:37:52Z"
 ---
 ## What it is
 MCP server for SiliconDust HDHomeRun network TV tuners, providing tools to control and query tuners, manage DVR recordings, and run diagnostics.

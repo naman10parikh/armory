@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:37:58Z"
 ---
 ## What it is
 This MCP server provides a cost-optimized personal-knowledge brain, enabling AI agents to query imported documents via hybrid search and synthesis at minimal monthly spend.

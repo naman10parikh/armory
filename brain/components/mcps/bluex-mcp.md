@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T16:31:52Z"
 ---
 ## What it is
 MCP server for live X/Twitter and web search, driven by your locally logged-in Grok CLI and leveraging your X Premium or SuperGrok subscription quota.

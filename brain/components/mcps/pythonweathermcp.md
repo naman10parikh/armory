@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:57:09Z"
 ---
 ## What it is
 MCP server that provides US National Weather Service forecasts and active weather alerts through MCP tools, using no API key but supporting US locations only.

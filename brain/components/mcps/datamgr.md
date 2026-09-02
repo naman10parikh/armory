@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:05:15Z"
 ---
 ## What it is
 Enables AI assistants to discover and inspect research datasets via a read-only MCP server, offering search, variable listing, and metadata retrieval without reading data files.

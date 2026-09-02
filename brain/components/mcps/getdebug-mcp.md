@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T00:43:32Z"
 ---
 ## What it is
 Lets MCP-compatible AI clients read your getdebug projects, findings, and proposed fixes using your existing bearer token.

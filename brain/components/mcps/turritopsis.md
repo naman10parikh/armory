@@ -8,11 +8,13 @@ source_url: https://github.com/anhe2021212-spec/Turritopsis
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-25T20:35:03Z"
 ---
 ## What it is
 Provides a shared project knowledge and handoff layer for coding agents, offering tools to list, search, retrieve, and update stages of project information to maintain continuity across long-running projects

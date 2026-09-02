@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-31T10:28:09Z"
 ---
 ## What it is
 MCP server `Google Maps`, catalogued on PulseMCP. Integrates with Google Maps API to provide geocoding, place search, and routing capabilities for location-based applications and services.

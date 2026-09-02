@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:49:42Z"
 ---
 ## What it is
 MCP server `Coinpaprika`, catalogued on PulseMCP. Access cryptocurrency market data from Coinpaprika including prices, historical data, coin details, and exchange information.

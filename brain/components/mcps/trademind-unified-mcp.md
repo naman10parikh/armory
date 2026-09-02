@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T07:19:01Z"
 ---
 ## What it is
 Enables unified access to portfolio management, market data, risk analysis, trade records, compliance checks, and Slack notifications through a single MCP server.

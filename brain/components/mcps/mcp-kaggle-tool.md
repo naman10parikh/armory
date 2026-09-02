@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-14T19:30:06Z"
 ---
 ## What it is
 MCP server for Kaggle API integration that allows creating, running, and managing Kaggle notebooks programmatically.

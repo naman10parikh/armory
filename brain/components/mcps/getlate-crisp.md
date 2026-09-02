@@ -8,10 +8,12 @@ source_url: https://github.com/zernio-dev/crisp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-29T15:54:19Z"
 ---
 ## What it is
 MCP server `Crisp`, catalogued on PulseMCP. Integrates with the Crisp customer messaging platform for managing conversations, accessing visitor information, and handling support workflows.

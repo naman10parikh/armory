@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:26:51Z"
 ---
 ## What it is
 MCP server that turns operator-authorized local or synthetic source records into auditable research briefs, with every finding linked to exact excerpts and hashes. Exposes a single build_research_brief tool over deterministic, no-network stdio.

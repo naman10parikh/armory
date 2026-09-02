@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T23:19:09Z"
 ---
 ## What it is
 A locally-run, read-only MCP server that lets an LLM client diagnose a self-hosted *arr media stack by aggregating across Sonarr, Radarr, Prowlarr, qBittorrent, Tdarr, and Profilarr.

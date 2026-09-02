@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-28T07:35:59Z"
 ---
 ## What it is
 Turns your Readwise library into a blazing-fast semantic search engine with a streaming MCP server for LLM clients, supporting vector search, nightly syncs, and deployment on serverless platforms like Vercel.

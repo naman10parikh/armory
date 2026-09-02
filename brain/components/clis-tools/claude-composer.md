@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 671
+stars: 670
+forks: 23
+pushed_at: "2025-07-31T02:29:50Z"
 ---
 ## What it is
 A tool that adds small enhancements to Claude Code.

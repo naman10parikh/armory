@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T11:33:09Z"
 ---
 ## What it is
 Enables web scraping of URLs, including extracting text, links, images, metadata, taking screenshots, and using CSS selectors for structured data extraction.

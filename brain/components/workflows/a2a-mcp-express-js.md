@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 0
+pushed_at: "2025-06-23T18:59:47Z"
 ---
 ## What it is
 This repository implements a Node.js AI agent using Express, LangChain, the Model Context Protocol (MCP), and the Agent-to-Agent (A2A) protocol

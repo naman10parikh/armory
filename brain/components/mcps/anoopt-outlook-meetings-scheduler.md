@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-12-24T12:15:35Z"
 ---
 ## What it is
 MCP server `Outlook Meetings Scheduler`, catalogued on PulseMCP. Integrates with Microsoft Outlook to create, read, update, and delete calendar events, find people, and schedule meetings with specific parameters like time, location, and attendees.

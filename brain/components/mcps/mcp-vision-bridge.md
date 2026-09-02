@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-08T13:09:08Z"
 ---
 ## What it is
 MCP server that gives text-only coding agents vision by converting any image into an exhaustive text description via a single analyze_image tool, using your choice of vision models (OpenAI-compatible, Anthropic, or Gemini).

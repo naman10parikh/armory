@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:51Z"
 ---
 ## What it is
 Enables AI agents to query official judicial certificates from the Tribunal de Justiça do Tocantins (TJTO) through a single read-only MCP tool.

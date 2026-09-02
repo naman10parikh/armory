@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:55:18Z"
 ---
 ## What it is
 An MCP server for the Google Tag Manager API v2 that enables AI assistants to query GTM accounts, containers, tags, triggers, variables, and unpublished changes.

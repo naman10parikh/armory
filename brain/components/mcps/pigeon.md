@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T14:17:57Z"
 ---
 ## What it is
 Forwards browser console errors, warnings, and unhandled rejections to Claude Code via MCP, enabling natural language debugging.

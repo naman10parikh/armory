@@ -8,10 +8,12 @@ source_url: https://github.com/swarmpit/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T21:34:48Z"
 ---
 ## What it is
 MCP server `Swarmpit`, catalogued on PulseMCP. Official Swarmpit MCP server for Docker Swarm management covering services, stacks, networks, and volumes.

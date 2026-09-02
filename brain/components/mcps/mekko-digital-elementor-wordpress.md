@@ -8,10 +8,12 @@ source_url: https://github.com/mekko-digital/elementor-mcp-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-15T08:39:10Z"
 ---
 ## What it is
 MCP server `Elementor WordPress`, catalogued on PulseMCP. Manages Elementor WordPress widgets, templates, and page configurations with comprehensive tooling for theme and content operations.

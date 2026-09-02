@@ -8,10 +8,12 @@ source_url: https://github.com/gitmaxd/dubco-mcp-server-npm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-15T18:04:50Z"
 ---
 ## What it is
 MCP server `Dub.co`, catalogued on PulseMCP. Provides a streamlined interface for creating, updating, and deleting short links through the Dub.co URL shortening service with robust error handling and automatic domain selection.

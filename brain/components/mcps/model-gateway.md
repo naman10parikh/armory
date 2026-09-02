@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:27:22Z"
 ---
 ## What it is
 Configurable MCP server that lets you define LLM-powered tools via JSON, enabling easy integration of multiple models (GPT, Gemini, Claude, etc.) as MCP tools without writing Python code.

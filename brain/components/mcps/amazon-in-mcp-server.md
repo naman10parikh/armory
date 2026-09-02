@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T05:59:00Z"
 ---
 ## What it is
 Enables searching products, viewing orders, and analyzing order trends on Amazon.in via a persistent Playwright browser session.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:04:32Z"
 ---
 ## What it is
 A local MCP server that delegates coding tasks to local Qwen and cloud Gemini models, enabling orchestrators like Claude Code to offload routine code generation and receive verified results with automatic correction logging.

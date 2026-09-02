@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:58:26Z"
 ---
 ## What it is
 Enables private email hosting provisioning and management via MCP tools, including domain deployment, mailbox creation, DNS configuration, tracked email sending, and analytics.

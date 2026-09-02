@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-28T09:40:02Z"
 ---
 ## What it is
 MCP server `Location`, catalogued on PulseMCP. Integrates with geolocation APIs to provide location-based functionality, enabling personalized recommendations and localized content delivery based on user IP addresses.

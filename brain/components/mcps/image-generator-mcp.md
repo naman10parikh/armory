@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:07:09Z"
 ---
 ## What it is
 Exposes generate_image for general image generation and hatch-pet specific workflows: canonical base generation, identity reference, multi-image input, layout guides, and single-action row chroma-key source images.

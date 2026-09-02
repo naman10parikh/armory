@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T10:38:10Z"
 ---
 ## What it is
 Parses SEC EDGAR Exhibit 107 XBRL fee disclosures from registration statements and returns structured fee data through the Model Context Protocol. No API keys required.

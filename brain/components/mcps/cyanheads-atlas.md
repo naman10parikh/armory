@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/atlas-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 474
+stars: 477
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 65
+pushed_at: "2025-07-22T05:17:41Z"
 ---
 ## What it is
 MCP server `ATLAS`, catalogued on PulseMCP. ATLAS enables AI assistants to manage complex projects by breaking them down into hierarchical tasks with rich content support.

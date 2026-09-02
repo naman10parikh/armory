@@ -8,11 +8,13 @@ source_url: https://github.com/codersag/mechanical-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T04:42:26Z"
 ---
 ## What it is
 Enables natural language interaction with ANSYS Mechanical simulation software via gRPC, allowing users to manage geometry, mesh, boundary conditions, solve analyses, and generate reports through MCP-compatible AI clients.

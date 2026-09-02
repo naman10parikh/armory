@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:28:20Z"
 ---
 ## What it is
 Integrates the Korea Tourism Organization's API to provide tourist spot recommendations and detailed information, including attractions, food, and accommodation.

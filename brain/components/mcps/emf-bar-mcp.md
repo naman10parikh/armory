@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:48:48Z"
 ---
 ## What it is
 MCP server for the EMF Camp bar API that enables fuzzy drink discovery by one or two keywords, showing the bar and live stock for each drink.

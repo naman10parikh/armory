@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T22:29:56Z"
 ---
 ## What it is
 Enables AI agents to investigate corporate ownership, trace ultimate beneficial owners, screen sanctions, detect offshore exposure, and access fully cited dossiers from 130M+ entities across 31 global registries.

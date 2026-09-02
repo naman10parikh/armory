@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T08:47:03Z"
 ---
 ## What it is
 Enables natural language control of an esieabot robot (motors, servo, camera) through Claude Desktop or MCP Inspector.

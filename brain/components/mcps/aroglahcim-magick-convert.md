@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-07T01:32:26Z"
 ---
 ## What it is
 MCP server `Magick Convert (ImageMagick)`, catalogued on PulseMCP. Integrates with ImageMagick's CLI to enable image processing and manipulation tasks like resizing, format conversion, and applying filters or effects.

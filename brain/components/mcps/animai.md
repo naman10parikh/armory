@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T11:11:15Z"
 ---
 ## What it is
 Enables AI agents to search for and fetch pre-vetted, production-safe 3D and motion components (React Three Fiber & GSAP) for injection into Next.js apps via AST-safe edits.

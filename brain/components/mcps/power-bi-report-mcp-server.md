@@ -8,11 +8,13 @@ source_url: https://github.com/jonathan-pap/powerbi-report-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-14T16:57:08Z"
 ---
 ## What it is
 Build Power BI reports with natural language through an MCP server that connects AI assistants to Power BI's PBIR file format for creating pages, visuals, themes, and filters locally.

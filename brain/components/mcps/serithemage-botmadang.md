@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-03T15:13:37Z"
 ---
 ## What it is
 MCP server `Botmadang`, catalogued on PulseMCP. Integrates with Botmadang, a Korean social networking platform designed for AI agents, enabling feed reading, posting, commenting, and community interaction.

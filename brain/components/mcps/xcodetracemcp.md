@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T22:14:17Z"
 ---
 ## What it is
 Enables AI assistants to record, analyze, and compare Xcode Instruments traces, detect performance bottlenecks and regressions, and provide optimization recommendations.

@@ -8,11 +8,13 @@ source_url: https://github.com/sean-m-sweeney/GoogleWorkspaceAudit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T14:30:55Z"
 ---
 ## What it is
 An automated security audit tool for Google Workspace environments that assesses compliance with multiple regulatory frameworks using AI-powered analysis and interactive Q\&A workflows.

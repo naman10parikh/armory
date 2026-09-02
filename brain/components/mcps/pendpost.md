@@ -8,11 +8,13 @@ source_url: https://github.com/pendpost/pendpost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-24T10:07:47Z"
 ---
 ## What it is
 Pendpost MCP server — exposes ~43 tools for posting, scheduling, and managing content via the Pendpost platform.

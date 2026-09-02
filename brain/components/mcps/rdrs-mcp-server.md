@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-23T13:51:36Z"
 ---
 ## What it is
 Enables natural language interaction with Rocket Data Replicate and Sync (RDRS) through AI assistants. Supports management of agents, data sources, processes, and replication tasks.

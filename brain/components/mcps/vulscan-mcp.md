@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-09T04:50:48Z"
 ---
 ## What it is
 MCP server that scans project dependencies for security vulnerabilities (CVEs) and provides fix instructions directly in VS Code via Copilot.

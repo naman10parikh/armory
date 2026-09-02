@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T20:36:14Z"
 ---
 ## What it is
 Enables Claude to interact with AMPERA Mission Control to read and write organizational data (initiatives, tasks, risks, decisions, etc.) with role-scoped permissions via the Mission Control REST API.

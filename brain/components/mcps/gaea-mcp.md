@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-22T11:57:05Z"
 ---
 ## What it is
 MCP server for Gaea 2.0 terrain generation tool, providing CLI build automation and graph manipulation of .terrain files.

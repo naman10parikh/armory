@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:30:55Z"
 ---
 ## What it is
 Read visual bug reports from Feedbug in your AI coding agent: screenshot, console logs, failed network requests, session replay and the DOM context of the element the tester clicked. Trace the bug to its source file, comment and resolve without leaving the editor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:45:54Z"
 ---
 ## What it is
 Provides deterministic, stateless tools for common data work including JSON, CSV, text, encoding, hashing, IDs, date/time, and number statistics.

@@ -8,10 +8,12 @@ source_url: https://github.com/cookjohn/teammcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-06-15T15:23:42Z"
 ---
 ## What it is
 MCP server `TeamMCP`, catalogued on PulseMCP. MCP server for team collaboration, providing tools to manage shared tasks, notes, and communication within AI workflows.

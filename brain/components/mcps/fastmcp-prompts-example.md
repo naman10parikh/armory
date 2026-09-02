@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:06:11Z"
 ---
 ## What it is
 A tutorial demonstrating how to build reusable, parameterized MCP prompt templates using FastMCP, including patterns for research, summarization, and code review.

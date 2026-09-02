@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-08T03:21:39Z"
 ---
 ## What it is
 MCP server `Hubitat Elevation`, catalogued on PulseMCP. Connects to Hubitat Elevation home automation hubs via Maker API for device inspection, control, event history, and command execution on local networks.

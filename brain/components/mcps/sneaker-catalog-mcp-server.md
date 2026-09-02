@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:33:06Z"
 ---
 ## What it is
 Provides tools for searching a sneaker catalog (hybrid keyword and semantic search), retrieving product details, and checking inventory stock.

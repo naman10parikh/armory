@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 5
+pushed_at: "2025-05-05T17:42:56Z"
 ---
 ## What it is
 Tracking stablecoin peg integrity across multiple blockchains.

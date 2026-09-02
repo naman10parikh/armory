@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-24T20:05:46Z"
 ---
 ## What it is
 Universal MCP server for extracting text from various document formats including PDF, Excel, Word, CSV, and more, with support for streaming, limits, and markdown conversion.

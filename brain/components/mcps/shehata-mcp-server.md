@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:51:32Z"
 ---
 ## What it is
 Shehata Git MCP enables coding agents to perform policy-checked Git operations (stage, commit, pull, push) on repositories pinned to specific GitHub identities. It guards against credential exposure and blocks destructive commands like force push or reset.

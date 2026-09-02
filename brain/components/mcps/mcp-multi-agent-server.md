@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:58:59Z"
 ---
 ## What it is
 A multi-domain multi-agent system served over MCP (Model Context Protocol) with FastMCP, exposing specialized domain agents as tools to automate business workflows.

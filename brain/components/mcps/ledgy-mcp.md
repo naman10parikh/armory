@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T16:29:41Z"
 ---
 ## What it is
 Official MCP server for the Ledgy expense tracker. Log, query, and edit expenses, budgets, and accounts in plain English from Claude, ChatGPT, Cursor, or any MCP-compatible client, with OAuth 2.1 sign-in.

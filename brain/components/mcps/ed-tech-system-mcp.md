@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T05:06:45Z"
 ---
 ## What it is
 Domain-Driven MCP server for ed-tech workflows, exposing validated MCP tools backed by LangGraph agents, Supabase document retrieval, web search, and YouTube video discovery.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:45:53Z"
 ---
 ## What it is
 Exposes tools to query and analyze energy monitoring sessions stored in CSV files, enabling users to get consumption stats, compare sessions, and view historical data through natural language in Claude Desktop.

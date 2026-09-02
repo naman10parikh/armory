@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T04:18:10Z"
 ---
 ## What it is
 Enables AI-powered chat and DeFi operations (swap, transfer) via MCP-compliant tools, integrating with LLMs for onchain actions.

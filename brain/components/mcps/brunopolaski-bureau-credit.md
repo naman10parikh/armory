@@ -8,10 +8,12 @@ source_url: https://github.com/brunopolaski/mcp-servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T21:56:58Z"
 ---
 ## What it is
 MCP server `Bureau Credit`, catalogued on PulseMCP. Orchestrates credit bureau integrations and standardizes credit data responses via MCP and HTTP boundaries.

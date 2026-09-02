@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T19:40:15Z"
 ---
 ## What it is
 Exposes file system operations to AI clients via MCP, enabling secure read, write, and management of files and folders.

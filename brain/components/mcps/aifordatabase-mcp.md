@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T13:00:29Z"
 ---
 ## What it is
 Give your AI agent safe, plain-English access to any database via MCP. Ask questions in natural language, get SQL queries and results, run read-only queries, and set up scheduled alerts.

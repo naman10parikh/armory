@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-25T04:05:27Z"
 ---
 ## What it is
 MCP server `Cyber`, catalogued on PulseMCP. Integrates with the Cyber blockchain network to create semantic connections between IPFS content through cyberlinks, search the decentralized knowledge graph, and retrieve content for building censorship-resistant web applications.

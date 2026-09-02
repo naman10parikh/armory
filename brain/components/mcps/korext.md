@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T19:00:00Z"
 ---
 ## What it is
 MCP server `Korext`, catalogued on PulseMCP. Governance copilot for AI-assisted coding with architecture rules and proof bundles.

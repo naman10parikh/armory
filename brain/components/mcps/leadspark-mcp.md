@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T15:07:46Z"
 ---
 ## What it is
 Enables AI agents to research companies and find contacts with structured data from multiple free sources, including company info, tech stack, and email addresses.

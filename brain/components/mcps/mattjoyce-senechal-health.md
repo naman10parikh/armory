@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-02T06:53:18Z"
 ---
 ## What it is
 MCP server `Senechal Health`, catalogued on PulseMCP. Integrates with the Senechal health data API to enable access and analysis of personal health information for use cases like personalized wellness recommendations or long-term health monitoring.

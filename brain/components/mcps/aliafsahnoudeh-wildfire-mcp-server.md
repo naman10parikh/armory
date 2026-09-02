@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, environment-nature]
 stars: 1
+forks: 2
+pushed_at: "2025-12-27T11:43:15Z"
 ---
 ## What it is
 MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.

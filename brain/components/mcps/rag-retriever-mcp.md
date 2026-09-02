@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T01:10:59Z"
 ---
 ## What it is
 A local-first document retrieval engine that mounts as an MCP tool for agents to index files, search for relevant passages, and let the agent's own LLM answer.

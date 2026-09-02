@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-22T11:03:16Z"
 ---
 ## What it is
 Runs a task through 3 parallel AI models (China or USA preset) and returns concise responses for Claude to synthesize.

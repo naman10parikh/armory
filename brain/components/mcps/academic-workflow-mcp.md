@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:22:34Z"
 ---
 ## What it is
 Connects Zotero and Obsidian for an AI-assisted academic reading workflow, enabling paper fetching, structured note creation, highlight syncing, and review management.

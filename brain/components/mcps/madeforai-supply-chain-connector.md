@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:03:32Z"
 ---
 ## What it is
 Enables authorized manufacturing order-intake and supply-chain task management by forwarding requests from MCP clients to the hosted MadeForAI service.

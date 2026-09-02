@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:08:13Z"
 ---
 ## What it is
 Provides a persistent, cross-tool memory layer for AI coding agents via MCP, enabling storage and retrieval of decisions, preferences, and context across different tools and models.

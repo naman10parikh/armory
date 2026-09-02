@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:05:59Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to visually inspect and interact with rendered web pages via a persistent headless Chromium browser, supporting navigation, screenshots, clicks, viewport resizing, and console log retrieval.

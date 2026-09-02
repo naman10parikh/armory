@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:23:04Z"
 ---
 ## What it is
 Enables conversational control of a Korean stock paper trading simulator. Users can view positions, adjust strategy parameters, and run backtests through natural language in Claude Desktop.

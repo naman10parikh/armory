@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:59:55Z"
 ---
 ## What it is
 Enables AI to control RIGOL DHO/HDO oscilloscopes and SIGLENT SDG1000X signal generators via SCPI commands through a local stdio MCP server.

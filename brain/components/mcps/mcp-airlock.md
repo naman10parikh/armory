@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:01:38Z"
 ---
 ## What it is
 A zero-infrastructure, local proxy that wraps any stdio MCP server to add audit logging, policy enforcement with regex guards, and per-session/per-day budgets.

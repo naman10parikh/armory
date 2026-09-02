@@ -8,10 +8,12 @@ source_url: https://github.com/erickwendel/erickwendel-contributions-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 241
+stars: 339
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-01-08T00:41:38Z"
 ---
 ## What it is
 MCP server `Erick Wendel Contributions`, catalogued on PulseMCP. Provides access to Erick Wendel's technical content contributions across platforms through specialized tools for filtering and querying talks, posts, and videos by language, title, and country.

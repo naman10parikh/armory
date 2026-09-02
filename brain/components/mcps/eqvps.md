@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T00:34:01Z"
 ---
 ## What it is
 No-KYC crypto VPS hosting with an MCP server that lets AI agents provision VPS programmatically. Pay with USDC/USDT on Base and Ethereum, no accounts or verification required.

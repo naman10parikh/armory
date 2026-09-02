@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:50:44Z"
 ---
 ## What it is
 Enables managing restaurant table bookings through natural language conversations with an AI assistant, with built-in safety measures like no deletion and explicit write enable.

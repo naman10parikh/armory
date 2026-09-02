@@ -8,10 +8,12 @@ source_url: https://github.com/trade-it-inc/trade-it-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-03-26T01:16:53Z"
 ---
 ## What it is
 MCP server `Trade It`, catalogued on PulseMCP. Execute stock, crypto, and options trades through natural language commands

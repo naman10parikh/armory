@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-27T17:32:19Z"
 ---
 ## What it is
 Publish HTML or markdown artifacts (reports, dashboards, demos) as instant shareable links with TTL expiry, social preview cards, and optional password protection. Works with the hosted service or a self-hosted instance.

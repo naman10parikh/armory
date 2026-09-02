@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T03:15:24Z"
 ---
 ## What it is
 MCP server that enables calling Anthropic Claude models from OpenAI Codex Desktop/GUI, supporting API key or OAuth authentication and providing chat, model listing, and diagnostic tools.

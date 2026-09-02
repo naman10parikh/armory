@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T19:39:35Z"
 ---
 ## What it is
 MCP server for integrating with Hilo, the WhatsApp messaging platform. It provides API contracts, verification tools, and a guided plan for agents to build the integration.

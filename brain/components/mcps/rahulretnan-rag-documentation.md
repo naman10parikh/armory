@@ -8,10 +8,12 @@ source_url: https://github.com/rahulretnan/mcp-ragdocs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-06-26T01:40:32Z"
 ---
 ## What it is
 MCP server `RAG Documentation`, catalogued on PulseMCP. Integrates Qdrant vector search with documentation retrieval to enable context-aware responses and semantic querying for enhanced knowledge access.

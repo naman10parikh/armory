@@ -8,10 +8,12 @@ source_url: https://github.com/xeo786/autohotkeyv2_mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-12T16:10:29Z"
 ---
 ## What it is
 MCP server `AutoHotkey v2`, catalogued on PulseMCP. Bridges AI assistants with AutoHotkey v2 for script validation, execution, debugging, and window inspection on Windows.

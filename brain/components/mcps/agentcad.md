@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T14:22:56Z"
 ---
 ## What it is
 Enables engineering agents to perform parametric CAD operations through a controlled MCP gateway built on FreeCAD, with transactions, diagnostics, and reproducible verification.

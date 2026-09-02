@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:50:00Z"
 ---
 ## What it is
 Enables access to Wordnik word data, including definitions, random words, and word search, through an MCP gateway.

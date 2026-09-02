@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T01:28:29Z"
 ---
 ## What it is
 Connects MCP clients to Kongen Labs' Pattern Intelligence API for reasoning regime detection, structural transfer scoring, and intelligent model routing.

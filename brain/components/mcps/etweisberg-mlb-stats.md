@@ -8,10 +8,12 @@ source_url: https://github.com/etweisberg/mlb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-12T03:06:42Z"
 ---
 ## What it is
 MCP server `MLB Stats`, catalogued on PulseMCP. Integrates with MLB Stats API and pybaseball library to provide comprehensive baseball statistics, Statcast data, player lookups, team standings, schedules, prospect information, and generates matplotlib visualizations including strike zone plots and spray charts for sports analytics and performance evaluation.

@@ -8,10 +8,12 @@ source_url: https://github.com/genm/switchbot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-23T19:38:47Z"
 ---
 ## What it is
 MCP server `SwitchBot`, catalogued on PulseMCP. Integrates with SwitchBot devices to enable smart home automation, device control, and status monitoring using the SwitchBot API.

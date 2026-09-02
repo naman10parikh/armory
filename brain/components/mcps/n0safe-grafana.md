@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-18T16:37:21Z"
 ---
 ## What it is
 MCP server `Grafana`, catalogued on PulseMCP. Connects AI systems to Grafana monitoring dashboards, enabling access to visualization data, dashboards, folders, and datasources for enhanced monitoring workflows and infrastructure troubleshooting.

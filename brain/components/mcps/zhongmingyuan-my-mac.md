@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-15T16:27:59Z"
 ---
 ## What it is
 MCP server `My Mac`, catalogued on PulseMCP. Provides AI with real-time Mac system information through a lightweight local server that safely executes verified commands for hardware specs, configuration, and resource usage data.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-02T06:50:23Z"
 ---
 ## What it is
 MCP server `MySQL Read-Only`, catalogued on PulseMCP. Provides read-only access to MySQL databases for inspecting schemas and executing SQL queries without modifying underlying data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T09:19:04Z"
 ---
 ## What it is
 Automates Spine asset pipeline tasks such as export, texture packing, resource validation, and file summarization through the Spine CLI.

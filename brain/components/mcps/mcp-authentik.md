@@ -8,11 +8,13 @@ source_url: https://github.com/Samik081/mcp-authentik
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T09:08:13Z"
 ---
 ## What it is
 MCP server for Authentik identity management, enabling natural language management of users, groups, applications, flows, policies, providers, and more.

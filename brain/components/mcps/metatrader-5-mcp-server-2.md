@@ -8,11 +8,13 @@ source_url: https://github.com/Qoyyuum/mcp-metatrader5-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 211
+stars: 214
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 78
+pushed_at: "2026-08-31T00:06:27Z"
 ---
 ## What it is
 Enables AI assistants to connect to MetaTrader 5 for trading, market data access, and account management through the Model Context Protocol.

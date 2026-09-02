@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T05:20:36Z"
 ---
 ## What it is
 An AI job-hunt copilot that enables searching live job boards, shortlisting openings, tracking application pipelines, and generating tailored resumes and cover letters from any MCP client.

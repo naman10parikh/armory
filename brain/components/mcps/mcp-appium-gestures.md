@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-07-17T17:18:48Z"
 ---
 ## What it is
 Provides resources and tools for generating Appium mobile gesture code (tap, swipe, scroll, etc.) in JavaScript and Java.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-13T06:26:00Z"
 ---
 ## What it is
 Official MCP server for Lovable, enabling Claude and other clients to create, edit, deploy, and manage Lovable projects through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:33:00Z"
 ---
 ## What it is
 An open-source, vendor-agnostic MCP governance proxy that sits between AI clients and tool servers to apply response projection, metering, and retry policies, reducing token bloat and providing per-tool cost visibility.

@@ -8,10 +8,12 @@ source_url: https://github.com/rello/nextcloud-dynamic-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T21:26:07Z"
 ---
 ## What it is
 MCP server `Nextcloud Dynamic`, catalogued on PulseMCP. Dynamically generates MCP tools from a Nextcloud instance's installed apps at startup via its OpenAPI specifications.

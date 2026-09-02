@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-05T10:25:24Z"
 ---
 ## What it is
 MCP server `Pearl`, catalogued on PulseMCP. Integrates with Pearl's platform to provide access to both automated responses and human expert assistance across medical, legal, technical, and lifestyle domains through three interaction modes: AI-only for quick responses, AI-expert for screened human support, and direct expert consultation.

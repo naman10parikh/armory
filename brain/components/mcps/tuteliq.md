@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T22:06:43Z"
 ---
 ## What it is
 MCP server `Tuteliq`, catalogued on PulseMCP. Detect grooming, bullying, fraud, and 16+ online threats across text, voice, image, and video.

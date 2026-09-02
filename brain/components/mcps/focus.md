@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-14T07:00:39Z"
 ---
 ## What it is
 MCP server `Datafocus`, catalogued on PulseMCP. Interface with Datafocus data tables via natural language.

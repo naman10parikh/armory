@@ -8,10 +8,12 @@ source_url: https://github.com/sengokudaikon/aider-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-14T13:42:46Z"
 ---
 ## What it is
 MCP server `Aider`, catalogued on PulseMCP. Enables file editing, creation, code extraction, and git operations directly within conversations through tools like edit_files, create_files, and git_status.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-27T16:34:52Z"
 ---
 ## What it is
 MCP server `Langbase Reasoning`, catalogued on PulseMCP. Structured reasoning with Langbase Pipes integration supporting nine modes including linear, tree-based, divergent thinking, and Graph-of-Thoughts

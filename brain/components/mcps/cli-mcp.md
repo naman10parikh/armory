@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2024-12-04T23:03:47Z"
 ---
 ## What it is
 Enables adding and running arbitrary CLI commands through natural language, with recursive help parsing.

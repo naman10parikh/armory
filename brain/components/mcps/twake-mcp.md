@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T16:47:18Z"
 ---
 ## What it is
 Connects AI assistants to Linagora's Twake Workplace, enabling interaction with chat, email, and drive services through natural language.

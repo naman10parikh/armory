@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T20:02:41Z"
 ---
 ## What it is
 Creates AI-powered slide decks directly from Claude Desktop with live progress and QA scores.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-07T10:31:31Z"
 ---
 ## What it is
 MCP server `CosmWasm Social Graph`, catalogued on PulseMCP. Enables interaction with CosmWasm-based social graph smart contracts for creating, updating, querying, and deleting decentralized relationship data through blockchain transactions.

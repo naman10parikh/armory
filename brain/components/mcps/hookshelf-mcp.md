@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:44:41Z"
 ---
 ## What it is
 Enables coding agents to receive and inspect real webhook payloads locally, send signature-valid test events for seven providers, and replay deliveries — all without leaving the machine.

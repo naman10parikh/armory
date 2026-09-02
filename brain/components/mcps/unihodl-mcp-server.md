@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T21:19:38Z"
 ---
 ## What it is
 Hands a human's working browser session — tabs, scroll positions, video timestamps, and reasoning thread — to any MCP agent as a signed, scoped, revocable Resume Token. The resume tool lets Claude, Cursor, or any MCP client pick up exactly where the human left off instead of starting cold.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T06:19:11Z"
 ---
 ## What it is
 MCP server that gives AI agents read/write access to your Things3 tasks via the Things API.

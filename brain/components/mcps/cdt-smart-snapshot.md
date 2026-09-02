@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:08:53Z"
 ---
 ## What it is
 A token-efficient MCP server for Chrome DevTools Protocol that provides smart snapshots, diffing, and screenshot-to-disk tools, reducing token usage dramatically compared to official snapshots.

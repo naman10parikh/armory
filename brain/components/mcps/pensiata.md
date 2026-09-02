@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T12:23:01Z"
 ---
 ## What it is
 MCP server `Pensiata`, catalogued on PulseMCP. Bulgarian pension fund analytics with NAV data, performance metrics, rankings, and benchmarks.

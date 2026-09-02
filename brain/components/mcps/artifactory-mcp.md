@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T08:57:22Z"
 ---
 ## What it is
 Enables AI assistants to query Maven artifacts in JFrog Artifactory by reusing credentials from ~/.m2/settings.xml and providing tools like getting latest stable versions, listing artifacts, and checking dependency updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-05T18:51:20Z"
 ---
 ## What it is
 MCP server that provides a persistent IPython kernel for executing Python code with pre-loaded numpy, pandas, and matplotlib, supporting stateful computation and inline visualizations.

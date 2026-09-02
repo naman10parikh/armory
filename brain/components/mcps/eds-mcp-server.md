@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:55:59Z"
 ---
 ## What it is
 MCP server for Adobe Edge Delivery Services (AEM EDS). 20 tools for preview, publish, bulk operations, content reading, Core Web Vitals, 404 tracking, A/B experiments, and site configuration. Works with Claude Code, Cursor, and VS Code Copilot.

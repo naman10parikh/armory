@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T03:55:41Z"
 ---
 ## What it is
 A production-ready generic FastMCP server template with SQLAlchemy async CRUD, enabling rapid bootstrapping of MCP data-management services. It provides registry-driven CRUD, FK resolution, conflict versioning, and multiple transports.

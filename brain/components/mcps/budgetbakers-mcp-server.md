@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T15:27:58Z"
 ---
 ## What it is
 Integrates Claude with the BudgetBakers Wallet API to access financial data including accounts, transactions, categories, and spending analytics.

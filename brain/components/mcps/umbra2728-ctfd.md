@@ -8,10 +8,12 @@ source_url: https://github.com/umbra2728/ctfd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-04T17:14:31Z"
 ---
 ## What it is
 MCP server `CTFd`, catalogued on PulseMCP. Integrates with CTFd platforms for cybersecurity competitions, enabling challenge browsing, flag submission, file retrieval, and dynamic container management.

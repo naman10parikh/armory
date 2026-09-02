@@ -8,10 +8,12 @@ source_url: https://github.com/mccartykim/goose_fm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-13T04:24:04Z"
 ---
 ## What it is
 MCP server `Goose FM Radio`, catalogued on PulseMCP. Integrates with RTL-SDR hardware to enable FM radio tuning, playback control, and audio analysis for smart home and voice-controlled applications.

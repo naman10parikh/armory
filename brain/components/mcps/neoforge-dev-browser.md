@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-10T10:19:47Z"
 ---
 ## What it is
 MCP server `Browser`, catalogued on PulseMCP. Provides a headless browser interface for testing and analyzing frontend applications, enabling screenshot capture, DOM extraction, CSS analysis, accessibility testing, and responsive design verification across different viewports.

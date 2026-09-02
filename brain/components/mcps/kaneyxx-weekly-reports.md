@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T04:22:26Z"
 ---
 ## What it is
 MCP server `Weekly Reports`, catalogued on PulseMCP. Lightweight server for processing weekly reports via Google Sheets, providing development mode and automated validation for team tracking workflows.

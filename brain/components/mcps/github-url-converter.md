@@ -8,10 +8,12 @@ source_url: https://github.com/kongyo2/github-url-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-06T11:03:25Z"
 ---
 ## What it is
 MCP server `GitHub URL Converter`, catalogued on PulseMCP. Converts and validates GitHub URLs between different formats including standard repository URLs, raw file URLs, and other GitHub URL variants with input validation and comprehensive testing.

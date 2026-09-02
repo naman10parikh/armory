@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-21T21:37:14Z"
 ---
 ## What it is
 STARLOG is a documentation workflow MCP server for Claude Code that manages project rules, debug diaries with GitHub issue integration, and session tracking for context continuity.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T03:49:55Z"
 ---
 ## What it is
 MCP server for managing store replenishment, including listing stores, raising orders, checking order status, and viewing SKU reports with observability and key rotation handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T12:38:31Z"
 ---
 ## What it is
 Enables AI agents to inspect schemas, analyze performance, check security, and troubleshoot SQL Server 2019+ databases through a safe, controlled interface.

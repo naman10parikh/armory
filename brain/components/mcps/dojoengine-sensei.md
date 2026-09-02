@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-30T03:48:10Z"
 ---
 ## What it is
 MCP server `Sensei (Dojo)`, catalogued on PulseMCP. Provides specialized guidance for Starknet ecosystem development with Cairo programming and Entity Component System (ECS) framework expertise through TypeScript-based tools for Dojo developers building onchain games and applications.

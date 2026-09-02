@@ -8,10 +8,12 @@ source_url: https://github.com/odysseus0/mcp-server-shell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2024-12-12T00:12:02Z"
 ---
 ## What it is
 MCP server `Shell`, catalogued on PulseMCP. Enables secure execution of shell commands on host systems for tasks like system diagnostics, file manipulation, and automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T01:13:27Z"
 ---
 ## What it is
 Enables AI assistants to interact with serial port devices by sending commands, capturing output, and managing connections, with real-time browser-based terminal monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T22:23:54Z"
 ---
 ## What it is
 Mailforce is an MCP server that provides a policy layer for AI agents to safely interact with email, controlling which accounts, recipients, and actions are allowed, with optional human approval for sends.

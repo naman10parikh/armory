@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T07:44:36Z"
 ---
 ## What it is
 An MCP server that aggregates search results from Baidu, Bing, and Sogou without requiring any API keys, with built-in caching and anti-crawl strategies.

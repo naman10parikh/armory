@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:06:55Z"
 ---
 ## What it is
 Enables querying real disclosed salary data across 20 regions, with tools to search jobs, retrieve salary statistics, and find similar roles.

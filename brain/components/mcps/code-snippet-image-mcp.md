@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-03T18:07:04Z"
 ---
 ## What it is
 Generates beautiful code snippet images with syntax highlighting and customizable themes for sharing on social media.

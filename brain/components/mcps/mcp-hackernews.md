@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:37:45Z"
 ---
 ## What it is
 Enables searching, reading, and watching Hacker News topics, including item retrieval, feed listing, and persistent topic watches with watermarks.

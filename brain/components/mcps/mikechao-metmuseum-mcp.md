@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 33
+forks: 14
+pushed_at: "2026-04-27T22:07:59Z"
 ---
 ## What it is
 Metropolitan Museum of Art Collection API integration to search and display artworks in the collection.

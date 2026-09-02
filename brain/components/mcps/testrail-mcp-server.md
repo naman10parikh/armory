@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T16:31:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with TestRail test management system, supporting full CRUD operations on projects, suites, sections, test cases, runs, results, plans, and milestones.

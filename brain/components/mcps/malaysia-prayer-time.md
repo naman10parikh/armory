@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-21T01:47:05Z"
 ---
 ## What it is
 MCP server `Malaysia Prayer Time`, catalogued on PulseMCP. Provides accurate Islamic prayer times for Malaysia by integrating with the waktusolat.app API, offering tools to retrieve prayer schedules, list geographical zones, and get current prayer status information.

@@ -8,11 +8,13 @@ source_url: https://github.com/Jason26214/computer-use-omni
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T08:10:15Z"
 ---
 ## What it is
 Enables Windows desktop automation via MCP, allowing AI agents to control mouse, keyboard, and screen capture with the same interface as Anthropic's computer-use tool.

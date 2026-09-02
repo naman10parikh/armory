@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-11-05T06:11:39Z"
 ---
 ## What it is
 A multi-modal AI toolbox based on Model Context Protocol, integrating Zhipu GLM, Pollinations.AI, SiYuan Notes, and Perplexity web search to enable image/video analysis, image/text/audio generation, note management, and intelligent web search.

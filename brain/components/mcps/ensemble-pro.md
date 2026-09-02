@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:53:59Z"
 ---
 ## What it is
 Multi-model AI council MCP server that lets multiple LLMs debate, critique, and vote on questions to reach a consensus, with automatic failover and hot-swap of models during debates.

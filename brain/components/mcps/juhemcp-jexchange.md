@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-19T06:21:04Z"
 ---
 ## What it is
 MCP server `JExchange`, catalogued on PulseMCP. Provides a lightweight, asynchronous Python server for connecting AI models with external services through a simple, deployable foundation built on asyncio.

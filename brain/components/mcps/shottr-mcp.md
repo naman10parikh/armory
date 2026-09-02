@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:58:52Z"
 ---
 ## What it is
 An Effect-native MCP server that lets local agents silently capture macOS windows, displays, and exact regions, then produce Shottr-style PNGs with programmable annotations, backgrounds, padding, rounded corners, and shadows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T09:50:59Z"
 ---
 ## What it is
 MCP server for posting to Twitter/X, Reddit, LinkedIn, Instagram, and email via CLI or AI agents, with Telegram bot control and security confirmations.

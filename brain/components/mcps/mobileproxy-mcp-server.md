@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T14:45:36Z"
 ---
 ## What it is
 MCP server that gives Claude and other agents direct control over mobile proxies, enabling proxy management and rotation tasks.

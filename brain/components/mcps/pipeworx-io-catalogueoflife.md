@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:43Z"
 ---
 ## What it is
 MCP server `Catalogue of Life`, catalogued on PulseMCP. Searches the global taxonomic index of ~2.2 million accepted species names.

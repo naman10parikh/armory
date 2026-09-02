@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T14:09:21Z"
 ---
 ## What it is
 An MCP server that exposes tools for querying a bookstore inventory, allowing AI agents to search and retrieve book information via the Model Context Protocol.

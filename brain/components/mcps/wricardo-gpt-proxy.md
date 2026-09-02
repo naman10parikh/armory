@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-13T22:56:35Z"
 ---
 ## What it is
 MCP server `GPT-MCP-Proxy`, catalogued on PulseMCP. Bridges HTTP clients with tool servers, enabling tool discovery and execution via REST endpoints, featuring automatic HTTPS exposure and OpenAPI 3.1.0 specification for seamless integration with custom GPTs and AI-assisted applications.

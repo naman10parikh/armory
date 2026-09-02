@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:46:02Z"
 ---
 ## What it is
 Enables scheduling polls for group chats to find common available times, with tools to create polls, get results, add candidate slots, and finalize appointments.

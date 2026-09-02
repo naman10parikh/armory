@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-30T05:24:11Z"
 ---
 ## What it is
 MCP server `Knowledge Graph`, catalogued on PulseMCP. Knowledge graph for student learning with spaced repetition scheduling and multi-dimensional mastery tracking.

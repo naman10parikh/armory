@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T07:17:36Z"
 ---
 ## What it is
 WordPress plugin that provides an MCP server for governed, agent-assisted Gutenberg content creation and revision with validation and design contracts.

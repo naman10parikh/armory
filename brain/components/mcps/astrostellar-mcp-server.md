@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T02:26:01Z"
 ---
 ## What it is
 An MCP server for Zi Wei Dou Shu (Purple Star Astrology) that enables users to construct and interpret natal charts through natural language conversation, integrating a knowledge base of classical texts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T19:56:47Z"
 ---
 ## What it is
 Enables enterprise-managed authorization for MCP on Azure App Service, with deployable Entra OAuth and a local EMA ID-JAG lab exposing whoami and authorization_model tools.

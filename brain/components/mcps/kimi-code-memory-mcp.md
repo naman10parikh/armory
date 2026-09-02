@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T10:42:39Z"
 ---
 ## What it is
 Exposes TencentDB Agent Memory as MCP tools for Kimi Code CLI, providing long-term memory across sessions with L0-L3 memory capabilities (raw storage, atomic facts, scene blocks, user persona).

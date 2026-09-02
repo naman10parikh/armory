@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T01:48:27Z"
 ---
 ## What it is
 Model Context Protocol server for conversation compression that reduces token consumption using deterministic, embedding-free compression with mode-aware strategies.

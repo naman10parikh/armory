@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:38:50Z"
 ---
 ## What it is
 Enables Claude to parse CVs, search job boards (Remotive, Arbeitnow, Adzuna, Greenhouse/Lever), tailor resumes and cover letters, and prepare application packages with direct apply links—without ever auto-submitting. It runs 100% locally and free, storing jobs and applications as JSON files.

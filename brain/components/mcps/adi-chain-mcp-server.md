@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:10:19Z"
 ---
 ## What it is
 Enables AI agents to query and execute ADI Chain operations, including canonical bridge deposits/withdrawals, CCIP transfers, balance checks, and funding path planning.

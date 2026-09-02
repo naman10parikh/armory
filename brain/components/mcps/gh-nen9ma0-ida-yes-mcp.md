@@ -8,10 +8,12 @@ source_url: https://github.com/nen9ma0/ida-yes-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-23T16:23:03Z"
 ---
 ## What it is
 MCP server `IDA-YES-MCP Export Plugin`, catalogued on PulseMCP. Exports IDA Pro decompiled code into AI-optimized chunk files for reverse engineering workflows.

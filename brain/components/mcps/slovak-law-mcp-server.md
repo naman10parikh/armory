@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:34:50Z"
 ---
 ## What it is
 Enables querying and analyzing Slovak legislation via natural language, including full-text search, provision retrieval, and EU law integration.

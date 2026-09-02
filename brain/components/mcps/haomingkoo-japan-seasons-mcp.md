@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
 stars: 1
+forks: 0
+pushed_at: "2026-08-28T09:44:27Z"
 ---
 ## What it is
 Live Japan seasonal travel — cherry blossom forecasts, autumn leaves, flower spots, fruit picking & festivals. 1,700+ GPS-tagged spots from Japan Meteorological Corporation. Updated daily.

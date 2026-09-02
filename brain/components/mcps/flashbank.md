@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:52:28Z"
 ---
 ## What it is
 P2P Crypto and Flashloans. Lets AI agents browse, quote and (optionally) transact with the FlashBank contracts — the P2P term-loan escrow and the flash-loan router — on Ethereum, Base, Arbitrum and the Sepolia playground.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-24T05:51:01Z"
 ---
 ## What it is
 A Node.js MCP server that wraps the Finnhub API to provide stock market data, technical analysis, news sentiment, and cryptocurrency market information.

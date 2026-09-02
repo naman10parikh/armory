@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-22T03:40:55Z"
 ---
 ## What it is
 MCP server `ListenHub`, catalogued on PulseMCP. Create podcasts and FlowSpeech episodes through natural conversation with multiple generation modes and speaker management

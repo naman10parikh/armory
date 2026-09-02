@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-17T13:52:51Z"
 ---
 ## What it is
 MCP server `Southwest Airlines`, catalogued on PulseMCP. Automates Southwest Airlines interactions through browser automation for flight search and booking management.

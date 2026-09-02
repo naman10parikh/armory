@@ -8,10 +8,12 @@ source_url: https://github.com/tsuchijo/matlab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-24T23:49:12Z"
 ---
 ## What it is
 MCP server `MATLAB`, catalogued on PulseMCP. Integrates MATLAB's numerical computing capabilities, enabling execution of MATLAB scripts and functions for data analysis, signal processing, and visualization.

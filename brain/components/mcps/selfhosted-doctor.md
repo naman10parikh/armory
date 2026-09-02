@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T10:27:18Z"
 ---
 ## What it is
 Read-only MCP server that scans Docker Compose, Cloudflare Tunnel, and .env files for security risks in self-hosted homelabs.

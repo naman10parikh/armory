@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T14:02:03Z"
 ---
 ## What it is
 Exposes FastAPI API-key management and request-making routes as MCP tools, enabling users to manage and interact with their APIs via Claude.

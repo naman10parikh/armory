@@ -8,10 +8,12 @@ source_url: https://github.com/seym0n/tiktok-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 193
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-08-19T22:28:27Z"
 ---
 ## What it is
 MCP server `TikTok`, catalogued on PulseMCP. Integrates with TikTok through TikNeuron's API to retrieve video subtitles, content details, and engagement metrics for analyzing virality factors and enabling conversational interactions with TikTok videos.

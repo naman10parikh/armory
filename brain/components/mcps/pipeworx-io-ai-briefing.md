@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:32:21Z"
 ---
 ## What it is
 MCP server `AI Briefing`, catalogued on PulseMCP. Daily briefings on new MCP servers, APIs, SDKs, AI models, and developer tools from HackerNews, GitHub, and HuggingFace.

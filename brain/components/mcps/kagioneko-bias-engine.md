@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-25T18:54:03Z"
 ---
 ## What it is
 MCP server `Bias Engine`, catalogued on PulseMCP. Manages cognitive biases for AI agents with configurable bias profiles and preset templates.

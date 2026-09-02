@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-29T08:22:36Z"
 ---
 ## What it is
 Provides 45 tools for managing Office 365 via Microsoft Graph API, enabling email, calendar, file, contact, Teams, and task operations through natural language in Claude Code CLI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:44:10Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides YouTube Data API v3 integration for content discovery and analytics. It enables AI assistants to search for videos, channels, playlists, and retrieve detailed metrics.

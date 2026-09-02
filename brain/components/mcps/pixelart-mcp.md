@@ -8,11 +8,13 @@ source_url: https://github.com/light-vp/pixelart-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:51:08Z"
 ---
 ## What it is
 A local MCP server for creating and editing pixel art canvases as PNG files, with drawing tools, animation support, and various canvas operations.

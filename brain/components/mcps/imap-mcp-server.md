@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T18:51:01Z"
 ---
 ## What it is
 Bridges an MCP-capable agent to an IMAP4 mailbox, enabling folder exploration, message search, retrieval, keyword management, PGP/MIME decryption, and draft creation.

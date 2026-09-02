@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-06T10:34:10Z"
 ---
 ## What it is
 Enables AI-powered music production by integrating with REAPER DAW via MCP protocol, allowing users to control project settings, MIDI editing, and VST plugins through natural language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T15:07:16Z"
 ---
 ## What it is
 MCP server `Shelby`, catalogued on PulseMCP. Knowledge-graph memory server with typed relationships, BM25 search, and zero-dependency binary.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T19:22:36Z"
 ---
 ## What it is
 Enables AI agents to browse and apply for builder perks (free credits, discounts, etc.) via a single semantic endpoint, with optional user-controlled autonomy for signups.

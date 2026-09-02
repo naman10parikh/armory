@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 7
+forks: 8
+pushed_at: "2025-03-04T20:31:13Z"
 ---
 ## What it is
 MCP server `DeepResearch`, catalogued on PulseMCP. Provides a stateful web research system that iteratively explores topics using Firecrawl for searches and GPT-4 for analysis, generating citation-rich reports without manual search management.

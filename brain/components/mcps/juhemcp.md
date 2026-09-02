@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T12:21:44Z"
 ---
 ## What it is
 MCP server `JNews`, catalogued on PulseMCP. Lightweight Python FastAPI server implementation for streamlined server-side interactions, using modern tooling like uv for dependency management and GitHub Actions for automated testing and deployment.

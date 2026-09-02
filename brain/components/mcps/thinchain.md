@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T05:57:25Z"
 ---
 ## What it is
 MCP server that sanitizes bad broker data and compresses 500-row options chains to strategy-specific slices for AI trading agents. 95% token reduction. Handles ghost quotes, inverted spreads, and impossible greeks automatically.

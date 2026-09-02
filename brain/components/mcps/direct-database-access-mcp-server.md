@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T11:20:57Z"
 ---
 ## What it is
 Enables chat-based interaction with PostgreSQL databases, supporting table listing, queries, write operations, and saved parameterized queries, deployable as a remote MCP server via Cloudflare Workers.

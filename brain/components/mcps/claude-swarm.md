@@ -8,11 +8,13 @@ source_url: https://github.com/cj-vana/claude-swarm
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 111
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-02-11T23:10:28Z"
 ---
 ## What it is
 Orchestrates parallel Claude Code worker swarms with protocol-based behavioral governance for multi-hour autonomous coding sessions.

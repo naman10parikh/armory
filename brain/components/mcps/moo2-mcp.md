@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:25:49Z"
 ---
 ## What it is
 Enables AI to observe and control the DOS game Master of Orion 2 by reading emulator memory and simulating mouse/keyboard input.

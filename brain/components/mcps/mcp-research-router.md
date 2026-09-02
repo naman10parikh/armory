@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T00:57:02Z"
 ---
 ## What it is
 Aggregates and routes multiple MCP servers with intelligent tool recommendation and batch parallel execution, enabling unified access and efficient tool usage.

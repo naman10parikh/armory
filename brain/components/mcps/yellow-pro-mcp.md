@@ -8,11 +8,13 @@ source_url: https://github.com/layer-3/yellow-pro-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T10:55:07Z"
 ---
 ## What it is
 MCP server exposing the yellow_pro exchange to AI agents, providing market data, account state, and optional trading with read-only by default and rate limiting.

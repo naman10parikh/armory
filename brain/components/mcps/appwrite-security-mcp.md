@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T12:09:23Z"
 ---
 ## What it is
 MCP server for Appwrite security audits that scans permissions and provides structured fix proposals, with active live leak confirmation via anonymous fetch.

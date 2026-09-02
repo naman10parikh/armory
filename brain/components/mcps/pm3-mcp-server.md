@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:09:43Z"
 ---
 ## What it is
 Enables AI assistants to control Proxmark3 RFID hardware for MIFARE Classic card reading, writing, and cloning via magic-safe write workflows, with automatic card generation detection, verification, and fallback handling.

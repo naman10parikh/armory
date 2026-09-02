@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T20:07:35Z"
 ---
 ## What it is
 Enables AI agents to discover, search, and call any REST API described by an OpenAPI or Swagger document. Supports multiple API endpoints with authentication and parameter handling.

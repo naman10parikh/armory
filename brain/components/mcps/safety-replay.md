@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T10:16:05Z"
 ---
 ## What it is
 MCP server `Safety Replay`, catalogued on PulseMCP. Safety replays, policy gates, evaluation receipts, and release evidence for AI agent deployments.

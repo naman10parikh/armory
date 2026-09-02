@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:13Z"
 ---
 ## What it is
 Computes the sum of dictionary values for keys less than or equal to a given key, treating the dictionary as sorted by key order. Returns 0 for an empty dictionary or when no keys satisfy the condition.

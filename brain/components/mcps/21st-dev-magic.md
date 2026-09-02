@@ -8,10 +8,12 @@ source_url: https://github.com/21st-dev/magic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4921
+stars: 5773
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 440
+pushed_at: "2026-09-01T23:08:51Z"
 ---
 ## What it is
 MCP server `Magic (21st.dev)`, catalogued on PulseMCP. Create beautiful, modern UI components instantly through natural language descriptions.

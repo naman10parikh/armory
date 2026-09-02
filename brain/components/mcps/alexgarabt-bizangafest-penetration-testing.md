@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-25T06:57:28Z"
 ---
 ## What it is
 MCP server `Bizangafest Penetration Testing`, catalogued on PulseMCP. Autonomous penetration testing server that performs network reconnaissance with nmap scanning and vulnerability discovery through searchsploit, automatically generating security assessment reports for automated security auditing workflows.

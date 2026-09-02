@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T04:55:28Z"
 ---
 ## What it is
 MCP server for Wiki.js that exposes 29 tools for managing pages, comments, tags, assets, users, navigation, and more via HTTP/SSE with built-in mutation safety.

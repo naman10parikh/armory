@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:47:45Z"
 ---
 ## What it is
 Cross-platform desktop automation MCP server that lets AI agents capture screenshots, run OCR with UI-element classification, control mouse/keyboard, and launch programs on Linux, macOS, and Windows.

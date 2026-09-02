@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-04T08:04:16Z"
 ---
 ## What it is
 MCP server `clj-kondo`, catalogued on PulseMCP. Provides Clojure, ClojureScript, and EDN linting capabilities using the clj-kondo static analyzer to identify code quality issues including unused namespaces and private variables.

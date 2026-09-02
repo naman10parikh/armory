@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T02:31:30Z"
 ---
 ## What it is
 Enables AI agents to perform PIX to USDC/USDT exchange operations via the Ashar Exchange API, including quotes, payins, payouts, transfers, wallet management, bank accounts, stats, customers, and admin provisioning.

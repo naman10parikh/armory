@@ -8,10 +8,12 @@ source_url: https://github.com/dumplingai/mcp-server-dumplingai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-07-10T00:42:33Z"
 ---
 ## What it is
 MCP server `Dumpling AI`, catalogued on PulseMCP. Provides a bridge to Dumpling AI's data extraction API for performing web searches, scraping content, extracting structured data, and processing various document formats through 20+ specialized tools.

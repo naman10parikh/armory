@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-30T06:12:06Z"
 ---
 ## What it is
 A Model Context Protocol server that generates random UUIDs (v4) for MCP-compatible clients like Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:01:17Z"
 ---
 ## What it is
 Enables querying the Dutch RCE Cultural Heritage Objects linked data endpoint via SPARQL, with ontology guidance and query validation for safe, accurate results.

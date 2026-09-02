@@ -8,11 +8,13 @@ source_url: https://github.com/ivantacca/anytype-mcp-remote-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:39:21Z"
 ---
 ## What it is
 Exposes the official Anytype MCP server (which only speaks stdio) as a remote Streamable HTTP endpoint, enabling Claude mobile/web to connect securely via bearer-token auth and Tailscale Funnel.

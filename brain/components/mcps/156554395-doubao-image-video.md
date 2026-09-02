@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-30T02:34:42Z"
 ---
 ## What it is
 MCP server `Doubao Image Video`, catalogued on PulseMCP. Integrates with Doubao (ByteDance's AI platform) to generate images from text prompts, create videos from descriptions, and check video generation status.

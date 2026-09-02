@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T13:26:35Z"
 ---
 ## What it is
 Provides access to IFRC GO Admin API for disaster relief emergency fund (DREF) data, including operations, appeals, and emergencies.

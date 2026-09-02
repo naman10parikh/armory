@@ -8,10 +8,12 @@ source_url: https://github.com/shlomico-tr/etoroportfoliomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-12T08:32:15Z"
 ---
 ## What it is
 MCP server `eToro Portfolio`, catalogued on PulseMCP. Integrates with eToro's API to fetch financial portfolios, instrument details, and search capabilities for investment analysis and portfolio tracking without CORS restrictions.

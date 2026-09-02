@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T17:17:00Z"
 ---
 ## What it is
 A TypeScript-based MCP server for NewsAPI, enabling search for news articles, fetch top headlines, and discover sources through natural language.

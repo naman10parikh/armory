@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:31:29Z"
 ---
 ## What it is
 MCP server that provides current weather for any city using Open-Meteo APIs. It exposes a single tool 'get_weather' returning temperature, humidity, wind, and other weather data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:42:32Z"
 ---
 ## What it is
 Generates compiled Flutter apps from JSON Product Requirements Documents. Exposes endpoints for PRD validation, schema, payment terms, and build status.

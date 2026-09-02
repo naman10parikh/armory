@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T01:36:51Z"
 ---
 ## What it is
 An MCP server for Tenable Vulnerability Management and the Tenable One platform, enabling LLMs to query assets, vulnerabilities, scans, exposure metrics, attack paths, and more via natural language.

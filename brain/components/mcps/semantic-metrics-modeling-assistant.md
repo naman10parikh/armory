@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T01:42:01Z"
 ---
 ## What it is
 A production-ready MCP agent that helps data teams define, validate, and visualize semantic metrics with enterprise-grade persistence, trust scoring, and BI integrations.

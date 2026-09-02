@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T03:26:36Z"
 ---
 ## What it is
 Enables Claude Code to interact with Abaqus FEM software for model generation, job submission, log monitoring, and result extraction from ODB files.

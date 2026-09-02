@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T16:26:40Z"
 ---
 ## What it is
 A local MCP filesystem wrapper that previews file mutations, requires user approval, and records verifiable undo information for supported clients like Claude Desktop, OpenCode, and Codex.

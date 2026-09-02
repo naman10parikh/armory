@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:50Z"
 ---
 ## What it is
 Enables EU AI Act compliance for AI agent systems by providing risk classification, audit trails, gap analysis, and evidence package generation.

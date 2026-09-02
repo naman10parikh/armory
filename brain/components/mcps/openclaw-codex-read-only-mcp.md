@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:59:31Z"
 ---
 ## What it is
 Provides read-only access to OpenClaw and Codex operational data like status, tasks, sessions, logs, and Git changes. Ensures safety via redaction, allowlists, and bounded outputs.

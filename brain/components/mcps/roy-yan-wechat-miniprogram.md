@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-28T03:09:07Z"
 ---
 ## What it is
 MCP server `WeChat MiniProgram`, catalogued on PulseMCP. Enables Claude to control WeChat MiniProgram development environments through HTTP requests for navigation, element interaction, and JavaScript evaluation.

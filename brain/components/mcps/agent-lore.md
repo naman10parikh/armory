@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T22:34:45Z"
 ---
 ## What it is
 A machine-local, agent-writable knowledge base MCP server that lets coding agents autonomously record and retrieve hard-won operational facts, incidents, and corrections as markdown pages in a git repo, with provenance, talk pages, and search.

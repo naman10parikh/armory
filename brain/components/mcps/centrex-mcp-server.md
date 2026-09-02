@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T21:01:13Z"
 ---
 ## What it is
 Enables Claude to interact with the Centrex CRM & LOS API, providing direct access to contacts, advances, documents, alerts, users, teams, and lender submissions.

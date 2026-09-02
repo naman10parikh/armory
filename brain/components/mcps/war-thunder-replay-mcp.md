@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T10:59:12Z"
 ---
 ## What it is
 Downloads War Thunder server replay .wrpl fragments by user and session ID, storing them in organized local folders.

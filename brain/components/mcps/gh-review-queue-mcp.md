@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:34:13Z"
 ---
 ## What it is
 MCP server that ranks and deduplicates your GitHub pull request review queue across direct requests, team requests, and your own waiting PRs into a single prioritized list via one get_review_queue tool.

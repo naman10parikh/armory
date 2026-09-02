@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:20:12Z"
 ---
 ## What it is
 MCP server that lets LLMs play a terminal Space Invaders game with the SUPERHOT rule: time only moves when the agent moves. Exposes tools to start a game, inspect the board state, and act by holding left/right/fire for N frames.

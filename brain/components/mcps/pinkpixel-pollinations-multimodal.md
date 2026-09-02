@@ -8,10 +8,12 @@ source_url: https://github.com/pinkpixel-dev/mcpollinations
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-12T02:32:11Z"
 ---
 ## What it is
 MCP server `Pollinations Multimodal`, catalogued on PulseMCP. Enables multimodal content generation through Pollinations APIs, providing image, text, and audio creation capabilities without requiring authentication.

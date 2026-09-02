@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T00:05:45Z"
 ---
 ## What it is
 An OAuth-protected MCP sidecar for Frappe applications, enabling secure access to Frappe tool packs (e.g., personal health metrics) by validating OAuth tokens and issuing internal assertions.

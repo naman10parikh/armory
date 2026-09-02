@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T03:57:33Z"
 ---
 ## What it is
 Local-first MCP integration for Freeplane on Apple Silicon macOS, currently exposing status and capabilities over STDIO.

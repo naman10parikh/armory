@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T04:11:16Z"
 ---
 ## What it is
 Exposes the Tenable Identity Exposure (TIE) REST API as tools for LLM clients, enabling queries on security profiles, activity timelines, AD objects, and more.

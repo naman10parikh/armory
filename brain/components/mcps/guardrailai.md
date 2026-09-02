@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T11:07:33Z"
 ---
 ## What it is
 An MCP server that evaluates file write requests for sensitive data and compliance using deterministic policies and Google Gemini reasoning, providing auditable governance and risk scoring.

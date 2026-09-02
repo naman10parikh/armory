@@ -8,10 +8,12 @@ source_url: https://github.com/aptro/superset-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 185
+stars: 190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 59
+pushed_at: "2025-07-28T06:44:54Z"
 ---
 ## What it is
 MCP server `Superset`, catalogued on PulseMCP. Integrates with Apache Superset to enable data visualization, SQL query execution, dashboard management, and analytics workflows through authenticated API calls without leaving your conversational interface.

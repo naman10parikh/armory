@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:17:06Z"
 ---
 ## What it is
 A prompt-injection-aware MCP server demonstrating guardrails for agentic tool use, including permission tiers, untrusted-content quarantine, and heuristic injection detection, with a fictional ticket-triage assistant.

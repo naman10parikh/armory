@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:13:10Z"
 ---
 ## What it is
 Enables AI agents to run arbitrary Python scripts on Modal's serverless infrastructure with on-demand CPU, memory, and GPU resources, providing scalable compute without maintaining always-on servers.

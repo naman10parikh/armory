@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T13:36:00Z"
 ---
 ## What it is
 Personal, remotely hosted memory service for Claude, Codex, and other MCP clients that preserves research, project state, and decisions in an auditable revision store with a web UI.

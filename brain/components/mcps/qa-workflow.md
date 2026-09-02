@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T15:35:41Z"
 ---
 ## What it is
 QA bug-fix workflow MCP server that waits for bug reports with source locations, enables Claude Code to automatically fix bugs, and cycles through pending issues.

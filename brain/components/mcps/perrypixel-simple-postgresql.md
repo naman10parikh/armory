@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-15T16:39:05Z"
 ---
 ## What it is
 MCP server `Simple PostgreSQL`, catalogued on PulseMCP. Provides direct SQL query execution against PostgreSQL databases with configurable read-only and write operation modes, connection pooling, and built-in query validation for database analysis and administrative tasks.

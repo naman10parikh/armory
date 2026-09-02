@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:35:47Z"
 ---
 ## What it is
 Read-only MCP server exposing ActiveView's external API for querying price rules, domain/network reports, and A/B testing redirects, enabling Claude to analyze ad performance data without modifications.

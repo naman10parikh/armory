@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T12:26:00Z"
 ---
 ## What it is
 Enables AI agents to securely use real secrets (API keys, database passwords) by requiring human approval for each release, ensuring secrets never enter the model's context.

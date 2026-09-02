@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-26T00:58:38Z"
 ---
 ## What it is
 MCP server that audits web pages using Lighthouse and Puppeteer to find performance bottlenecks and generate CPU profiles for optimization.

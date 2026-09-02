@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T17:06:51Z"
 ---
 ## What it is
 A zero-dependency MCP server that enables searching and reading local Claude Code and Codex chat sessions, supporting full-text search, grep, and knowledge indexing from chat history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:52:41Z"
 ---
 ## What it is
 Enables LLM-based clients to perform Indic language processing including translation, transliteration, language identification, and chat with the SarvamAI-M model.

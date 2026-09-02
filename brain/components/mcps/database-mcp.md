@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T02:44:49Z"
 ---
 ## What it is
 Read-only Text-to-SQL MCP server for PostgreSQL and MySQL that lets users query databases using natural language, with robust multi-layer safety guarantees against writes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T17:38:27Z"
 ---
 ## What it is
 Enables searching, fetching, and customizing Mechanic tasks and documentation for Shopify automation. Provides offline access to bundled task library and docs with tools for task code, docs content, and similar task suggestions.

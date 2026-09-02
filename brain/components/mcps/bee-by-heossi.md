@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:02:23Z"
 ---
 ## What it is
 Bee by HEOSSI is a governed MCP server exposing 14 tools for specialist intelligence, code, security, research, provenance, usage, tenant-scoped documents and memory, and Quantum Reasoning Lab workflows. Hosted calls are authenticated, plan- and policy-gated, and metered.

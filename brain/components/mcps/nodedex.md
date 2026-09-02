@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T23:11:09Z"
 ---
 ## What it is
 A local knowledge graph server that captures and provides access to a project's decision history, enabling AI agents to navigate past decisions, dead-ends, and constraints via MCP tools.

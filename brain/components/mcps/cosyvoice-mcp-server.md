@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-08T02:32:02Z"
 ---
 ## What it is
 Text-to-speech synthesis server with multiple AI character voices, supporting streaming playback and Claude Desktop integration.

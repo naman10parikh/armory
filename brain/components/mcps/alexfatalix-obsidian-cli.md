@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T21:37:37Z"
 ---
 ## What it is
 MCP server `Obsidian CLI (alexfatalix)`, catalogued on PulseMCP. Bridge MCP clients to a local Obsidian vault using the official Obsidian CLI, with configurable safety modes for write operations.

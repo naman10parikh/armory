@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:57:54Z"
 ---
 ## What it is
 Enables AI agents to purchase Telegram Stars, Premium, and TON top-ups by building unsigned transactions for the agent's TON wallet to sign.

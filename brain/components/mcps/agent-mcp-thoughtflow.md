@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:42:42Z"
 ---
 ## What it is
 Unifies structured reasoning (Tree of Thoughts) with reliable task execution, enabling LLM agents to think, commit, execute, and trace cognitive provenance through a single MCP server.

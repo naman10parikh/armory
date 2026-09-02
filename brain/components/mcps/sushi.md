@@ -8,10 +8,12 @@ source_url: https://github.com/maverickg59/sushimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-19T06:33:59Z"
 ---
 ## What it is
 MCP server `SushiMCP`, catalogued on PulseMCP. Delivers documentation context from various technology sources to improve code generation by fetching and serving relevant llms.txt documentation on demand.

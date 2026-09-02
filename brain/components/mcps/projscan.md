@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:13:02Z"
 ---
 ## What it is
 An MCP server that provides AI coding agents with AST-accurate, context-budget-aware codebase querying, safety gates, and team policy integration via structured tools and a local plugin layer.

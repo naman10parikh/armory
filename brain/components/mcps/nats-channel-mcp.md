@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T01:33:42Z"
 ---
 ## What it is
 Bridges NATS pub/sub into Claude Code sessions, enabling agents to receive and respond to NATS messages as channel tags with a reply tool.

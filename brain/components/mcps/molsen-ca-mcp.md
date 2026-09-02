@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T15:41:39Z"
 ---
 ## What it is
 Enables LLMs to access Mike Olsen's essays on AI governance, professional accountability, and the future of technical work via the Model Context Protocol.

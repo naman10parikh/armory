@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:12:09Z"
 ---
 ## What it is
 Connects AI agents to Prowlarr and TorBox for autonomous torrent searching, downloading, and media extraction via MCP.

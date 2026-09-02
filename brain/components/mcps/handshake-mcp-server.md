@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T23:39:06Z"
 ---
 ## What it is
 Enables AI assistants to connect to Handshake to search jobs, browse employers, explore events, and pull student or employer profiles.

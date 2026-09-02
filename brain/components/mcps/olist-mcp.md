@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T21:04:40Z"
 ---
 ## What it is
 Open-source MCP server for Olist/Tiny ERP API V2, exposing 92 REST endpoints as individual tools with input schemas and write protection.

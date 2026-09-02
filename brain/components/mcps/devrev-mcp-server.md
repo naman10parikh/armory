@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-21T13:04:45Z"
 ---
 ## What it is
 Enables searching, retrieving, creating, and updating issues and tickets in DevRev using natural language.

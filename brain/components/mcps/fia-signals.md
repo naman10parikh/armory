@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T21:45:13Z"
 ---
 ## What it is
 MCP server `FIA Signals`, catalogued on PulseMCP. Crypto market intelligence with regime detection, funding rates, DeFi yields, and trading signals.

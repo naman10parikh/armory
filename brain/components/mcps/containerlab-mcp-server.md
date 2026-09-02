@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-28T14:23:03Z"
 ---
 ## What it is
 Enables network configuration, connectivity testing, and routing management for ContainerLab Linux containers through an MCP interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T07:53:34Z"
 ---
 ## What it is
 Enables AI agents to extract PDF text, search with PDF++ citations, access vault files, manage tags, and run Dataview queries in Obsidian via MCP.

@@ -8,11 +8,13 @@ source_url: https://github.com/Waganawa-Megumin/togaf10_EAP_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:37:44Z"
 ---
 ## What it is
 TOGAF-based EA consulting MCP server providing ADM phase reference, situation-driven consulting, engagement tracking, and live-updating dashboards.

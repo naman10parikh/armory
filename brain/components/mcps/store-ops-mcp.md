@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T22:24:31Z"
 ---
 ## What it is
 Enables store operations including inventory and sales queries and automated replenishment ordering through natural language.

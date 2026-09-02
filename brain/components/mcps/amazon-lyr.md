@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:43:49Z"
 ---
 ## What it is
 Enables AI agents to research and shop on Amazon using their own logged-in browser session, supporting product search, details, reviews, cart, wishlist, and order tracking without API keys.

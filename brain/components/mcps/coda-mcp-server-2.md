@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-16T15:16:21Z"
 ---
 ## What it is
 Enables AI-powered document automation and data manipulation with Coda.io through the Model Context Protocol, supporting document, page, table, row, and formula operations.

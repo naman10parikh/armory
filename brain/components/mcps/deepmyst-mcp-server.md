@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-10T16:35:32Z"
 ---
 ## What it is
 Enables intelligent LLM optimization and routing for Claude Desktop and HTTP clients, reducing token usage and automatically selecting the best model for each query.

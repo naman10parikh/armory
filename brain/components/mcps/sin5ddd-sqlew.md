@@ -8,10 +8,12 @@ source_url: https://github.com/sqlew-io/sqlew
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-19T04:51:37Z"
 ---
 ## What it is
 MCP server `SQLew`, catalogued on PulseMCP. Optimizes multi-agent coordination through intelligent SQLite database design with normalized tables, integer enums, and pre-aggregated views to achieve 96% token reduction in context sharing for decision tracking, agent messaging, file change monitoring, and constraint management.

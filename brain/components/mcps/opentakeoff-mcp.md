@@ -8,11 +8,13 @@ source_url: https://github.com/Kentucky-ai/opentakeoff
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 36
+pushed_at: "2026-09-02T02:25:16Z"
 ---
 ## What it is
 Drive the OpenTakeoff construction takeoff engine from any MCP client: open plan PDFs, set and verify drawing scale, one-click room areas, measure lengths, and export takeoff quantities. Runs locally over stdio via npx -y opentakeoff-mcp.

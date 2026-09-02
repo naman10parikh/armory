@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-01-18T20:31:05Z"
 ---
 ## What it is
 Enables Claude to manage a personal todo list in Notion, with capabilities to add, view, and complete tasks.

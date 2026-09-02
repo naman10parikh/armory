@@ -8,10 +8,12 @@ source_url: https://github.com/trypeggy/instagram_dm_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 169
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2025-08-13T17:14:26Z"
 ---
 ## What it is
 MCP server `Instagram Direct Messages`, catalogued on PulseMCP. Integrates with Instagram Direct Messages to enable sending messages, managing chat threads, handling message requests, and converting between usernames and user IDs for social media automation and customer service workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:29:54Z"
 ---
 ## What it is
 Exposes REST API endpoints defined by OpenAPI specifications as MCP tools, enabling LLMs to discover and interact with those APIs through MCP.

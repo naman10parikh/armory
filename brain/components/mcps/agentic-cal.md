@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-03T18:19:36Z"
 ---
 ## What it is
 Unified email and calendar management with AI agent, supporting email operations, calendar availability, and time blocking via MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-18T08:02:16Z"
 ---
 ## What it is
 Fleet management in your assistant — vehicles, routes, drivers and HOS compliance over Samsara's public API.

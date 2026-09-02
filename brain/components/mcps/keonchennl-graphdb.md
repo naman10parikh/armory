@@ -8,10 +8,12 @@ source_url: https://github.com/keonchennl/mcp-graphdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-02T14:38:20Z"
 ---
 ## What it is
 MCP server `GraphDB`, catalogued on PulseMCP. Provides read-only access to Ontotext GraphDB repositories, enabling exploration of RDF graphs through SPARQL queries and structured views of repository data including class lists, predicates, statistics, and sample data.

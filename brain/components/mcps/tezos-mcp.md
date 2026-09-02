@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T17:48:24Z"
 ---
 ## What it is
 RAG-powered MCP server that indexes and searches Tezos protocol specs, TZIPs, and Octez source code, enabling semantic search and expert guidance on Tezos topics.

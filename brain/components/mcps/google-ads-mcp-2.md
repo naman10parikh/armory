@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T00:31:41Z"
 ---
 ## What it is
 Enables managing Google Ads campaigns through an AI assistant with read-only reporting, recommendations, and gated write operations for bids, budgets, and statuses, all backed by preview and audit logging.

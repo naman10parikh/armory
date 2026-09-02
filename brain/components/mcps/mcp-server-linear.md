@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-29T13:36:34Z"
 ---
 ## What it is
 MCP server for accessing and managing Linear resources like issues, projects, and comments with full CRUD operations and search.

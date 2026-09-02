@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:27:55Z"
 ---
 ## What it is
 Enables natural-language discovery of available car parking, including searching by area, location, price, and viewing parking details and reviews.

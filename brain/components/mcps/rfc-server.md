@@ -8,11 +8,13 @@ source_url: https://github.com/xiaobenyang-com/1777316659312643
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1186
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-01-09T07:06:15Z"
 ---
 ## What it is
 Search and fetch RFCs by keyword or number. Jump directly to specific sections for precise citations. Speed up standards research and technical writing.

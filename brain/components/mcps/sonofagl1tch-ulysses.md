@@ -8,10 +8,12 @@ source_url: https://github.com/sonofagl1tch/ulysses-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-08T15:47:43Z"
 ---
 ## What it is
 MCP server `Ulysses`, catalogued on PulseMCP. Integrates with Ulysses writing application on macOS through x-callback-url API to create sheets, manage groups, insert text, attach notes and keywords, read content, and navigate library structure for automated writing workflows and content management.

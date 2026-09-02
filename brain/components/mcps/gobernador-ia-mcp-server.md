@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T22:39:41Z"
 ---
 ## What it is
 MCP server de auditoría de compliance de IA que expone el motor de reglas de Gobernador IA como tools para agentes Claude, contra Ley 21.719 (Chile), ISO/IEC 42001:2023, y el EU AI Act.

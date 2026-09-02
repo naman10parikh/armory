@@ -8,10 +8,12 @@ source_url: https://github.com/prabureddy/ai-research-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-09T09:07:25Z"
 ---
 ## What it is
 MCP server `AI Research Agent`, catalogued on PulseMCP. Autonomous research agent that combines web search, document indexing, code execution, and workspace management to gather information, analyze data with Python libraries, and generate comprehensive reports with self-evaluation metrics.

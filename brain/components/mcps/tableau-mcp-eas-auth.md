@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T14:16:38Z"
 ---
 ## What it is
 An experimental fork of tableau-mcp that adds an EAS (external authorization server) authentication mode, enabling per-user embedding and REST sign-in with RS256-signed JWTs for Tableau Cloud.

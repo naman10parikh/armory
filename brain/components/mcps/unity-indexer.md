@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:45:09Z"
 ---
 ## What it is
 Indexes Unity projects into a SQLite database and exposes 23 MCP tools for Claude to explore scenes, prefabs, scripts, and assets via structured queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:36:33Z"
 ---
 ## What it is
 Compresses context for AI agents by storing memories in compact markdown files with FTS5 search, enabling fast retrieval of relevant information while saving tokens.

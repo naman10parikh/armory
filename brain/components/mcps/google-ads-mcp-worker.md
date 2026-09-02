@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T23:52:09Z"
 ---
 ## What it is
 Remote MCP server for the Google Ads API running on Cloudflare Workers. Provides read-only access to Google Ads data through GAQL, including customer listing, MCC expansion, paginated search, and resource metadata retrieval.

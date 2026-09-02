@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:54:22Z"
 ---
 ## What it is
 Enables transforming grounded AI answers into interactive information views such as comparisons, plans, checklists, timelines, and decision views, while preserving a plain-language fallback.

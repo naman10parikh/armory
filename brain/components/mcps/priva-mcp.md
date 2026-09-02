@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T06:48:47Z"
 ---
 ## What it is
 A man-in-the-middle MCP proxy that sits between Claude and an internal API, automatically masking sensitive banking data before returning to Claude.

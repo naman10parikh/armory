@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T08:59:05Z"
 ---
 ## What it is
 A multi-platform fitness MCP server that syncs data from Garmin, Strava, Google Fit, and Suunto into a local DuckDB database and provides analytics tools via MCP.

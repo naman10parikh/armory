@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:24:32Z"
 ---
 ## What it is
 Enables AI tools to route high-speed inference and code analysis to Groq's LLaMA 3.3 70B engine via fast chat and code summarization tools.

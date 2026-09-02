@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T15:42:46Z"
 ---
 ## What it is
 Enables LLMs to send HTTP requests to a local development server, allowing interaction with APIs running on localhost.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:26Z"
 ---
 ## What it is
 Track top 50 Hyperliquid trader positions by PnL, direction, size, leverage, entry price, and unrealized PnL. Pay-per-call via x402 micropayments (USDC on Base L2) — no API key or signup required.

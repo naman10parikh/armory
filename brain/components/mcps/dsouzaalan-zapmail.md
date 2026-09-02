@@ -8,10 +8,12 @@ source_url: https://github.com/dsouzaalan/zapmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-27T15:43:03Z"
 ---
 ## What it is
 MCP server `Zapmail`, catalogued on PulseMCP. Integrates with Zapmail API to enable domain purchasing, bulk mailbox creation, email automation workflows, and platform exports for large-scale cold email operations through natural language commands with advanced workflow orchestration.

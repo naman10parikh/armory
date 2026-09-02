@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:16:52Z"
 ---
 ## What it is
 Enables workforce and labor market analysis for Specified Skilled Workers in Japan by aggregating public census data to provide regional and industry insights, labor supply-demand gaps, competitive landscape, and wage trends.

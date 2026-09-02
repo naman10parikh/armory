@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T03:53:40Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Apify Actor providing API-based access to Figma design files, components, assets, and project management through 15+ specialized tools

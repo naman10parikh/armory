@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:36:04Z"
 ---
 ## What it is
 Generates legally-compliant weekly shift schedules for Korean workplaces through conversation, using OR-Tools CP-SAT to enforce labor laws such as the 52-hour weekly cap and minor worker protections.

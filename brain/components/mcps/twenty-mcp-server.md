@@ -8,11 +8,13 @@ source_url: https://github.com/Jdu278/twenty-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-28T21:10:13Z"
 ---
 ## What it is
 Enables integration with Twenty CRM, allowing users to manage contacts, tasks, notes, and other CRM data through natural language commands.

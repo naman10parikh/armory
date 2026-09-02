@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:16:56Z"
 ---
 ## What it is
 Enables querying a PostgreSQL database using natural language by retrieving context from Azure AI Search and generating SQL with Azure OpenAI, with validation and optional execution.

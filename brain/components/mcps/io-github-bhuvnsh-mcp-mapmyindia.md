@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T16:38:21Z"
 ---
 ## What it is
 Enables geocoding, reverse geocoding, place search, nearby discovery, routing, and distance calculations using Mappls/MapMyIndia location data for India.

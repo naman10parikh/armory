@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-02-02T03:59:38Z"
 ---
 ## What it is
 Provides AI coding assistants with local access to 4500+ MQL5 documentation files and supplementary ebooks via MCP, enabling efficient search, browsing, and error diagnosis for MQL5 development.

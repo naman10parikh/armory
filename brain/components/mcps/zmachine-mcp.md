@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T01:57:06Z"
 ---
 ## What it is
 Enables AI agents to play Z-Machine text adventure games (e.g., Zork) via MCP, REST, or WebSocket interfaces, with session management and optional Redis persistence.

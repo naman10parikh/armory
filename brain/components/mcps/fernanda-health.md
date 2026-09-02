@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:32:31Z"
 ---
 ## What it is
 A private, read-only MCP server that lets Claude retrieve your Oura Ring health data for a daily check-in, self-hosted on Cloudflare with OAuth authentication.

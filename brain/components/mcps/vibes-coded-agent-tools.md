@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:35:18Z"
 ---
 ## What it is
 pay-per-call x402 API endpoints as MCP tools — web search, page-to-markdown, PDF extract, JSON repair/validate, crypto price, weather, IP geo, DNS, markdown lint + 20 agent-commerce aliases. Each tool proxies to vibes-coded.com and settles via x402 (USDC/Solana). Free-trial endpoints need no auth; p

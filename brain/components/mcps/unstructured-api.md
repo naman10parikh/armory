@@ -12,6 +12,8 @@ stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-07-21T16:00:43Z"
 ---
 ## What it is
 MCP server `Unstructured API`, catalogued on PulseMCP. Integrates with the Unstructured API to enable document processing operations including managing connectors and workflows for extracting structured information from documents without switching tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-20T16:20:28Z"
 ---
 ## What it is
 MCP server for secure, session-based Python code execution in Docker containers, enabling LLM applications to run code, manage state, and access files.

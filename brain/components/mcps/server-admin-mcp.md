@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T11:13:11Z"
 ---
 ## What it is
 Enables remote administration of a Debian stage server over SSH, including monitoring, Docker Compose, PostgreSQL, logs, Nginx, firewall, and automation with 82 tools.

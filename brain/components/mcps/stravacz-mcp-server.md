@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T07:39:57Z"
 ---
 ## What it is
 Provides tools to interact with the strava.cz meal ordering system, enabling users to view menus, check and place orders, and manage their canteen account.

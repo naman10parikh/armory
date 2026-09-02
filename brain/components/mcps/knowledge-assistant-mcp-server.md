@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T03:35:24Z"
 ---
 ## What it is
 A multi-agent RAG MCP server that answers questions from your documents with a human-in-the-loop approval step, using a coordinator, retriever, and synthesizer agents.

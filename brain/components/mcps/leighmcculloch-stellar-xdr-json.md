@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-08T05:46:11Z"
 ---
 ## What it is
 MCP server `Stellar XDR-JSON`, catalogued on PulseMCP. Decodes Stellar blockchain data by converting complex XDR format to human-readable JSON, enabling analysis of transactions and contract events without manual binary decoding

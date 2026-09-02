@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:35:42Z"
 ---
 ## What it is
 Unofficial MCP server that provides GPT subagent tools using a ChatGPT subscription via OAuth, enabling access to GPT models for orchestrated tasks.

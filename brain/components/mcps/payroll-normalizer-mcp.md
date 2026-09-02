@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T08:07:49Z"
 ---
 ## What it is
 Enables AI tools to normalize messy payroll spreadsheets (xlsx/xls/csv) into a standardized 10-column template for social insurance calculation, with automatic column detection, net-to-gross conversion, and cross-entity/month merging.

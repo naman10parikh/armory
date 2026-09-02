@@ -8,10 +8,12 @@ source_url: https://github.com/kylastech/kylas-crm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T09:43:17Z"
 ---
 ## What it is
 MCP server `Kylas CRM`, catalogued on PulseMCP. Create, search, and manage leads in Kylas CRM through AI assistants.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-12T13:31:52Z"
 ---
 ## What it is
 MCP server `Kusto (Azure Data Explorer)`, catalogued on PulseMCP. Integrates with Azure Data Explorer to enable read-only querying, table listing, and schema retrieval for large-scale telemetry data analysis.

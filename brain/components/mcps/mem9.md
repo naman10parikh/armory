@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:19:17Z"
 ---
 ## What it is
 Mem9 is an open-source, project-scoped memory service for Codex, Claude, and other MCP-compatible coding agents. It keeps durable project knowledge and CLI session metadata available across tools and conversations.

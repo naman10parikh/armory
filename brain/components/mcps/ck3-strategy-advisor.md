@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:15:22Z"
 ---
 ## What it is
 Enables Claude to read Crusader Kings III save files and retrieve strategic game information such as realm overview, military, succession, diplomacy, vassals, factions, and expansion options.

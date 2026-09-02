@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:56:38Z"
 ---
 ## What it is
 MCP server that fetches Bombay Stock Exchange filings, converts PDFs into clean Markdown, and exposes search/read tools for AI agents to analyze financial documents.

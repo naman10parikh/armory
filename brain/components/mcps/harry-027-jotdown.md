@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 22
+forks: 7
+pushed_at: "2026-02-24T02:35:09Z"
 ---
 ## What it is
 An MCP server to create/update pages in Notion app & auto generate mdBooks from structured content.

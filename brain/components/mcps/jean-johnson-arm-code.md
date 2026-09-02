@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T06:27:00Z"
 ---
 ## What it is
 MCP server `ARM Code Optimizer`, catalogued on PulseMCP. MCP server for optimizing Linux workloads on ARM64 via NEON SIMD intrinsic recommendations and dependency auditing.

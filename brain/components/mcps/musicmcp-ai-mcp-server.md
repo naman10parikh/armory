@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-24T01:13:40Z"
 ---
 ## What it is
 Enables AI-powered music generation through natural language commands, supporting both inspiration and custom modes with automatic polling for async generation.

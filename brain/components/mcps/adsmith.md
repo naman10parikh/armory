@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T21:18:31Z"
 ---
 ## What it is
 A Google Ads MCP server that enables safe, auditable management of ad accounts through natural language, including proposing, reviewing, applying, and rolling back changes with guardrails and dry-runs.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-08T23:17:02Z"
 ---
 ## What it is
 MCP server `LocalStack`, catalogued on PulseMCP. Manages local AWS service emulations through LocalStack including S3, SQS, SNS, EventBridge, Kinesis, DynamoDB, Lambda, Secrets Manager, SSM, and SES.

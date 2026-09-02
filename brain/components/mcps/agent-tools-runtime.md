@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:44:20Z"
 ---
 ## What it is
 Persistent MCP server runtime for progressively discovering and loading MCP, REST, and local CLI adapters, with host-side credentials and explicit confirmation for mutations.

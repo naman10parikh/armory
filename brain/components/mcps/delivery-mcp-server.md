@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T05:24:21Z"
 ---
 ## What it is
 Enables searching and retrieving delivery program documents (SOW, status reports, QBR notes, risk register) from indexed Chroma collections via MCP hosts like Claude Desktop or Claude Code, with per-account isolation.

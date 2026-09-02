@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T10:02:14Z"
 ---
 ## What it is
 An MCP server for Yeelight home metadata and management workflows. It provides a guarded task interface for managing homes, rooms, devices, groups, scenes, automations, and account operations.

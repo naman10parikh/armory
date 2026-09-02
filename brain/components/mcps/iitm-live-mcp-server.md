@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:54:40Z"
 ---
 ## What it is
 Deploys a Streamable HTTP MCP server with one tool solve_challenge that computes a SHA-256 hash from a challenge header.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T05:05:49Z"
 ---
 ## What it is
 Integrates AI Consensus into coding agents, routing decisions through three frontier AI models for independent analysis and cross-examination, returning a recommendation and strongest dissent.

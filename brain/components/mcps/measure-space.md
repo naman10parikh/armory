@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T01:24:03Z"
 ---
 ## What it is
 MCP server `Measure Space`, catalogued on PulseMCP. Weather, climate, air quality, agriculture, pollen, and geocoding forecast services.

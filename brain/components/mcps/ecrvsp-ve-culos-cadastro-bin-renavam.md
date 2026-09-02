@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:09Z"
 ---
 ## What it is
 Enables querying vehicle registration information (BIN RENAVAM) from the official ECRVSP source. Read-only, prepaid per use, works with any MCP client.

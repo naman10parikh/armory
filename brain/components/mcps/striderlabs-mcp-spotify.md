@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T07:05:13Z"
 ---
 ## What it is
 MCP server for Spotify that lets AI agents search music, control playback, and manage playlists via the Spotify Web API.

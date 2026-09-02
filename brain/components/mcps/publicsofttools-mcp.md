@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T16:06:18Z"
 ---
 ## What it is
 14 utility tools via the PublicSoftTools API: QR code generation, PDF compress/merge/split/convert/unlock, cryptographic hashing (MD5/SHA-1/SHA-256/SHA-512), UUID generation, base64 encode/decode, secure password generation, IP geolocation, DNS records, SSL certificate check, and WHOIS lookup. Free 

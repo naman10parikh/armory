@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:29:47Z"
 ---
 ## What it is
 Read-only MCP server that serves inactive definitions from XRefKit repositories, including Markdown content, workflow catalog, knowledge catalog, skill metadata, and distributable Python tools for client-side execution.

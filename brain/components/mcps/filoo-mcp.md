@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T21:49:32Z"
 ---
 ## What it is
 MCP server `Filoo`, catalogued on PulseMCP. Create short links, track click analytics, and generate QR codes via the Filoo URL shortener API.

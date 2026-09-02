@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T10:52:53Z"
 ---
 ## What it is
 Enables AI agents to control Siglent SDG-series signal generators, configure waveforms, and switch outputs via natural language.

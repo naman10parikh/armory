@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T17:41:39Z"
 ---
 ## What it is
 Enables looking up free-to-read versions of scholarly papers by DOI and searching article titles for Open Access matches via the Unpaywall API.

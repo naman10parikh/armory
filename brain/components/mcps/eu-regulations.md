@@ -8,10 +8,12 @@ source_url: https://github.com/ansvar-systems/eu_compliance_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-22T10:34:20Z"
 ---
 ## What it is
 MCP server `EU Regulations`, catalogued on PulseMCP. Query 61 EU regulations (GDPR, NIS2, DORA, AI Act +57) via Ansvar Gateway. 50 free queries/day.

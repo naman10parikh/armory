@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T11:17:30Z"
 ---
 ## What it is
 MCP bridge for Nemeton — control native macOS virtual machines (Apple Virtualization.framework) from Claude Desktop, Claude Code, or any MCP client. 50+ tools across VM lifecycle, snapshots, console, files, networking, and host metrics. Bridge open-source (MIT), Nemeton app is commercial.

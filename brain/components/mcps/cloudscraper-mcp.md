@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T00:25:22Z"
 ---
 ## What it is
 Enables AI agents to bypass Cloudflare protection and scrape web content, returning clean Markdown with smart chunking and file export.

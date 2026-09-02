@@ -8,10 +8,12 @@ source_url: https://github.com/tokidoo/mcp-obsidian-advanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-17T01:29:59Z"
 ---
 ## What it is
 MCP server `Obsidian Advanced`, catalogued on PulseMCP. Integrates with Obsidian vaults through the Local REST API plugin to provide advanced note management, search, batch operations, graph analysis, and workflow automation capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:40:26Z"
 ---
 ## What it is
 Scans diffs, files, and snippets for leaked secrets like AWS keys, GitHub tokens, and private keys, returning redacted findings while running fully locally without network calls.

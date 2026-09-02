@@ -8,10 +8,12 @@ source_url: https://github.com/mephistophelesbits/rssdeck-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T00:56:56Z"
 ---
 ## What it is
 MCP server `RSSdeck`, catalogued on PulseMCP. Token-efficient RSS aggregation service for AI agents with feed monitoring, deduplication, relevance scoring, and sentiment analysis.

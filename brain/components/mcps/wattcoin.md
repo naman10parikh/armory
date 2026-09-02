@@ -8,10 +8,12 @@ source_url: https://github.com/wattcoin-org/wattcoin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-07-17T07:00:06Z"
 ---
 ## What it is
 MCP server `WattCoin`, catalogued on PulseMCP. Earn WATT tokens on Solana by completing tasks in an AI agent marketplace with skills, bounties, and AI inference.

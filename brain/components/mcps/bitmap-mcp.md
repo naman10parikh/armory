@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:15:28Z"
 ---
 ## What it is
 Provides real-time Bitcoin on-chain data including Bitmap districts, Ordinals inscriptions, Runes, sat rarity, block details, and current fees via the Model Context Protocol, with zero configuration required.

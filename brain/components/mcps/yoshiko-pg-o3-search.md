@@ -8,10 +8,12 @@ source_url: https://github.com/yoshiko-pg/o3-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 286
+stars: 288
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 42
+pushed_at: "2026-07-09T04:08:39Z"
 ---
 ## What it is
 MCP server `OpenAI o3 Search`, catalogued on PulseMCP. Provides web search capabilities using OpenAI's o3 model with configurable reasoning effort levels for finding current information and solving complex problems beyond traditional search engines.

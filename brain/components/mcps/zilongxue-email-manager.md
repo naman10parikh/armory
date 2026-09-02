@@ -8,10 +8,12 @@ source_url: https://github.com/zilongxue/claude-post
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 113
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-06-01T19:34:39Z"
 ---
 ## What it is
 MCP server `Email Manager`, catalogued on PulseMCP. Integrates with email systems through IMAP and SMTP protocols to enable searching, retrieving, analyzing, and sending emails directly within conversations.

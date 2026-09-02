@@ -8,10 +8,12 @@ source_url: https://github.com/mkearl/dependency-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-14T09:42:29Z"
 ---
 ## What it is
 MCP server `Dependency Analysis`, catalogued on PulseMCP. Manage and analyze project dependencies, offering caching and flexible configuration for efficient tracking across complex software ecosystems.

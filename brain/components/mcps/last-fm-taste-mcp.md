@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T11:14:22Z"
 ---
 ## What it is
 Provides Last.fm listening analytics and recommendations by combining Last.fm and MusicBrainz metadata, maintaining a local listening index, and recording explicit preferences. Enables queries for listening summaries, taste profiles, artist context, and evidence-backed recommendations via MCP tools.

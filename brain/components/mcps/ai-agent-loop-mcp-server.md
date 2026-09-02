@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:43:52Z"
 ---
 ## What it is
 An AI debugging agent MCP server that enables autonomous plan-act-observe debugging workflows, allowing repository exploration, code inspection, human-approved edits, and test execution through structured MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-23T14:51:08Z"
 ---
 ## What it is
 A secure and optimized MCP server for integrating ClickUp project management, enabling task CRUD operations, workspace organization, file attachments, and natural language date parsing.

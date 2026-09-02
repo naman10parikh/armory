@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:08:48Z"
 ---
 ## What it is
 MCP server `GDELT`, catalogued on PulseMCP. Access the GDELT Project's global event and news data for geopolitical analysis and research.

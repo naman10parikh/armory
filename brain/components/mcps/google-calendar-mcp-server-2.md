@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-08T19:39:04Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Calendar events, check availability, and handle scheduling tasks through natural language.

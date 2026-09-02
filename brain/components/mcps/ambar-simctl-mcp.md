@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 20
+forks: 6
+pushed_at: "2025-08-22T05:31:46Z"
 ---
 ## What it is
 A MCP server implementation for iOS Simulator control.

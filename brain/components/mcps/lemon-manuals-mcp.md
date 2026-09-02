@@ -8,11 +8,13 @@ source_url: https://github.com/kelchm/lemon-manuals-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T20:08:11Z"
 ---
 ## What it is
 Enables browsing and searching a self-hosted LEMON/CHARM car-repair manual archive, with tools to list makes, search vehicles, and fetch manual pages as markdown.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:47Z"
 ---
 ## What it is
 MCP server `Euler by Junct`, catalogued on PulseMCP. Hosted integration with Euler DeFi protocol for on-chain analytics and contract interactions via Junct platform.

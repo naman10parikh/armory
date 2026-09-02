@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:52:06Z"
 ---
 ## What it is
 Exposes the Elevor ERP360 API to MCP clients, enabling listing customers, checking credit limits, querying orders, syncing product catalog and stock, and creating e-commerce orders with stock updates, subject to scope-specific bearer tokens and write permissions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T02:30:48Z"
 ---
 ## What it is
 Enables AI agents to create, read, and edit Word documents with tracked changes, comments, and template manipulation, including bulk text replacement and paragraph-level operations.

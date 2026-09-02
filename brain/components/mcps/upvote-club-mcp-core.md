@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T09:26:54Z"
 ---
 ## What it is
 Provides tools to interact with the Upvote.club Public API, including creating tasks, checking task status, listing platforms, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:33:52Z"
 ---
 ## What it is
 MCP stdio server that exposes 95 headless it-tools utilities (crypto, encoding, converters, generators, text, math, and more) through three routing tools (categories, list, execute), with flat JSON schemas, worked examples, and deterministic seeded execution designed for small router models.

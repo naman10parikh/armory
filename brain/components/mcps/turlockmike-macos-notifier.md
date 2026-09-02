@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-21T16:35:01Z"
 ---
 ## What it is
 MCP server `macOS Notifier`, catalogued on PulseMCP. Enables interaction with macOS notifications and system dialogs for desktop alerts, user input, and system operations.

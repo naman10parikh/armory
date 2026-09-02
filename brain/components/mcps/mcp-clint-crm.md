@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T20:11:44Z"
 ---
 ## What it is
 Servidor MCP para integração com o Clint CRM. Gerencie contatos, negócios, tags, organizações e toda a configuração do seu CRM diretamente através de assistentes de IA compatíveis com MCP.

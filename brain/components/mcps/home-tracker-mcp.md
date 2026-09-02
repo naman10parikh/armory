@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T01:29:19Z"
 ---
 ## What it is
 A personal MCP server for tracking household expenses and shared notes, with pre-built email templates to keep you and your wife in sync.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-05-11T00:10:32Z"
 ---
 ## What it is
 MCP server for mapping clinical terminology to OMOP concepts using LLMs, with vocabulary search and batch processing capabilities.

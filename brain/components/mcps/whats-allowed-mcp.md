@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T21:37:28Z"
 ---
 ## What it is
 Analyzes all permission settings files for coding agents, showing which settings take precedence and identifying rules that are accepted but ignored. Helps users understand and debug their agent's actual permission behavior.

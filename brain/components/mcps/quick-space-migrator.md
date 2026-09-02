@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:13:13Z"
 ---
 ## What it is
 MCP server that migrates Amazon Quick Suite resources (Spaces, Chat Agents, Action Connectors, and S3 Knowledge Bases) between AWS accounts, preserving permissions and linkages, with idempotency and preview dry-run support.

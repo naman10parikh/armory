@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T23:19:27Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Go-based Discord bot integration for sending messages, fetching history, listing guilds, and resolving channels with both MCP and CLI modes.

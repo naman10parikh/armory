@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-02T18:28:56Z"
 ---
 ## What it is
 MCP server `DBT Semantic Layer`, catalogued on PulseMCP. Integrates with the DBT Semantic Layer API to enable querying and analysis of data models defined in DBT, supporting report generation, ad-hoc analysis, and data-driven application development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T11:41:23Z"
 ---
 ## What it is
 A comprehensive MCP server for SEO, performance, GEO, and UX audits with 37 tools covering technical SEO, Lighthouse performance, AI search optimization, content analysis, accessibility, security, and more.

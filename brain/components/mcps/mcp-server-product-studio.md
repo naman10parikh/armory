@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T10:15:26Z"
 ---
 ## What it is
 A full-feature MCP server that serves as a product-development copilot, providing RAG search, SQL queries, and inline chart visualizations from seeded product data, with per-user identity and its own OAuth login.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:06:32Z"
 ---
 ## What it is
 Provides Claude Code integration to capture LLM usage events and surface cost, carbon, and savings reports via tools and hooks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-06T11:02:32Z"
 ---
 ## What it is
 MCP server for querying and analyzing logs from VMware Aria Operations for Logs, enabling log search, incident detection, and vROps correlation.

@@ -8,10 +8,12 @@ source_url: https://github.com/syedazharmbnr1/claude-outlook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-06-05T14:21:45Z"
 ---
 ## What it is
 MCP server `Outlook for macOS`, catalogued on PulseMCP. Integrates with Microsoft Outlook for macOS using AppleScript to enable email, calendar, and contact management operations for automated workflows and scheduling assistance.

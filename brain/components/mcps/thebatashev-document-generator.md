@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-03T13:45:25Z"
 ---
 ## What it is
 MCP server `Document Generator`, catalogued on PulseMCP. Generates professional DOCX and PDF documents with styled paragraphs, structured tables, and customizable formatting through both immediate creation and incremental session-based building workflows.

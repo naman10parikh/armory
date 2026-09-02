@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T11:10:41Z"
 ---
 ## What it is
 An MCP server that provides structural load and stability math (tipping, support reactions, beam checks) that language models often get wrong, enabling AI assistants to compute accurate engineering estimates.

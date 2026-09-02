@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-14T08:03:38Z"
 ---
 ## What it is
 MCP server `Code Intelligence`, catalogued on PulseMCP. Analyzes private codebases and libraries to recommend relevant UI components and utility functions based on user requirements, while redesigning prompts for better development assistance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T02:49:53Z"
 ---
 ## What it is
 Exposes TopoLift's atom-grounded negotiation reasoning to MCP-capable agents, providing tools to fetch a negotiation vocabulary and perform structured negotiation with traceable citations.

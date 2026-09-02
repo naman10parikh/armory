@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T00:41:42Z"
 ---
 ## What it is
 Controls an OBSBOT Tiny 2 camera gimbal, zoom, and wake/sleep over UVC/USB without any vendor SDK.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T11:59:11Z"
 ---
 ## What it is
 MCP server that provides pre-checkout basket tools and a local API/viewer, enabling agents to research products and manage a shopping cart through natural language.

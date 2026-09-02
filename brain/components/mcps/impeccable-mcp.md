@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:58:19Z"
 ---
 ## What it is
 MCP server that wraps impeccable's design-lint engine to scan URLs and raw HTML for 59 deterministic anti-patterns, returning structured findings grouped by slop vs quality via headless Chrome.

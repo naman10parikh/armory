@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T19:49:28Z"
 ---
 ## What it is
 MCP server `FD Commercial Property Finance`, catalogued on PulseMCP. UK property finance calculators: bridging costs, development appraisal, BTL stress test, and stamp duty.

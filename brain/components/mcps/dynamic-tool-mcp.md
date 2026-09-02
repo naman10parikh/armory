@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:51:37Z"
 ---
 ## What it is
 A FastMCP server that dynamically loads tools from Python/YAML file pairs, acting as a stand-in for the Tools Framework in agentic-assembly-framework.

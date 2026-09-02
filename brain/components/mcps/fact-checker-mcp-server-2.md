@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-12T14:04:11Z"
 ---
 ## What it is
 Enables verification of simple factual claims (e.g., capital cities) by checking against Wikidata, returning accuracy and confidence scores.

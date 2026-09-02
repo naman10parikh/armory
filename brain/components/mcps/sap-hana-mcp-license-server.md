@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:40:34Z"
 ---
 ## What it is
 Backend server that issues and validates alphanumeric software licenses tied to hardware IDs for SAP MCP servers (hana-b1, sap-btp, sap-cpi), storing products, licenses, and telemetry in PostgreSQL with online validation of expiry, revocation, and hardware matching.

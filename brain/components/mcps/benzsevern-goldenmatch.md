@@ -8,10 +8,12 @@ source_url: https://github.com/benseverndev-oss/goldenmatch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-09-02T03:23:42Z"
 ---
 ## What it is
 MCP server `GoldenMatch`, catalogued on PulseMCP. Entity resolution toolkit for deduplication, record matching, golden records, and PPRL.

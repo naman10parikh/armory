@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:58:30Z"
 ---
 ## What it is
 Enables querying the Historisches Grundbuch Basel corpus, including full-text search, person lookups, and property dossier retrieval, through MCP-compatible clients like Claude.

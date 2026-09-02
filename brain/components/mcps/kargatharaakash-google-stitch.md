@@ -8,10 +8,12 @@ source_url: https://github.com/kargatharaakash/stitch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-02-13T09:16:39Z"
 ---
 ## What it is
 MCP server `Google Stitch`, catalogued on PulseMCP. Integrates with Google Stitch design platform to enable automated UI/UX design workflows, component generation, and cross-platform design system management for designers and developers.

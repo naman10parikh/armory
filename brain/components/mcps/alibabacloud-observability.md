@@ -8,10 +8,12 @@ source_url: https://github.com/aliyun/alibabacloud-observability-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2026-08-12T03:12:45Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud Observability`, catalogued on PulseMCP. Integrates with Alibaba Cloud's monitoring and logging services, enabling log structure queries, log searches, application monitoring, and trace data analysis for troubleshooting cloud applications

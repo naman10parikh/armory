@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T20:38:12Z"
 ---
 ## What it is
 AI's home on your Mac: gives AI agents remote access to iMessage, Notes, Reminders, Contacts, and more via MCP.

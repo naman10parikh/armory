@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:46:40Z"
 ---
 ## What it is
 Provides a search_movie tool to search Tamil movies by name and return links from moviesdatamil.net, enabling natural language movie lookups in MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T03:14:45Z"
 ---
 ## What it is
 Enables Claude AI to interact with Paperless-NGX document management through natural language, offering 50 tools for full CRUD operations and management.

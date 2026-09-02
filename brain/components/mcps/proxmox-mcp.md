@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:18:27Z"
 ---
 ## What it is
 Provides tools to manage Proxmox VE clusters via Claude Code, enabling listing nodes, VMs, templates, power actions, and creation of LXC containers and VMs through the Proxmox REST API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T01:20:41Z"
 ---
 ## What it is
 Connects a model to OlaOla supplement store data for personalized supplement recommendations, order history, and cart planning.

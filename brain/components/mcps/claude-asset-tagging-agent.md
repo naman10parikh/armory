@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T02:47:01Z"
 ---
 ## What it is
 An MCP server that enables AI agents to read files from public Google Drive folders, automatically categorize and tag them using Claude, and write the tags back to file metadata.

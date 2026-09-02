@@ -8,10 +8,12 @@ source_url: https://github.com/openadaptai/omnimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-29T16:55:41Z"
 ---
 ## What it is
 MCP server `OmniParser`, catalogued on PulseMCP. Provides a robust UI automation framework leveraging advanced computer vision techniques for precise element detection, interaction, and verification across different interfaces

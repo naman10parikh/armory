@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T07:07:23Z"
 ---
 ## What it is
 MCP server `Bitcoin Signer`, catalogued on PulseMCP. Enables Bitcoin address generation and transaction signing using private keys in WIF format and partially signed Bitcoin transactions (PSBTs) through secure cryptographic operations.

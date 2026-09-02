@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T03:33:14Z"
 ---
 ## What it is
 Transforms a NestJS REST API into an MCP server for AI agents to manage tasks securely via standardized tools.

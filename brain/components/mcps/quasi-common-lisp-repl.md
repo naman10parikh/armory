@@ -8,10 +8,12 @@ source_url: https://github.com/quasi/cl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-01T14:37:06Z"
 ---
 ## What it is
 MCP server `Common Lisp REPL`, catalogued on PulseMCP. Provides persistent Common Lisp REPL environment with comprehensive error handling, session state management, and Quicklisp system loading.

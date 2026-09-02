@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T13:40:51Z"
 ---
 ## What it is
 MCP server `Agentic Observability`, catalogued on PulseMCP. Agent tracing, cost tracking, and anomaly detection for LLM-based agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T14:39:18Z"
 ---
 ## What it is
 MCP server providing AI coding assistants with documentation and source code for @gaddario98 React packages, including tools for listing packages, retrieving docs and types, and searching source.

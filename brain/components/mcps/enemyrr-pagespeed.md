@@ -8,10 +8,12 @@ source_url: https://github.com/enemyrr/mcp-server-pagespeed
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-11T17:17:58Z"
 ---
 ## What it is
 MCP server `PageSpeed Insights`, catalogued on PulseMCP. Integrates with Google PageSpeed Insights to analyze webpage performance and provide optimization recommendations for improved loading speed and user experience

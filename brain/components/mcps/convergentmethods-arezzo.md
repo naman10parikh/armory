@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T07:21:02Z"
 ---
 ## What it is
 MCP server `Arezzo`, catalogued on PulseMCP. Deterministic Google Docs compiler that handles UTF-16 index arithmetic so AI agents stop corrupting documents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T02:39:51Z"
 ---
 ## What it is
 Exposes ModelSim/QuestaSim command-line tools as 57 MCP tools for FPGA simulation automation, covering library management, compilation, simulation, waveform analysis, and coverage collection.

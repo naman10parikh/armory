@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T16:33:32Z"
 ---
 ## What it is
 MCP server `API Docs Generator AI`, catalogued on PulseMCP. AI-powered tools for generating and updating API documentation from code.

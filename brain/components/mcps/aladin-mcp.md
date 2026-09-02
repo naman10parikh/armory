@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-29T06:35:10Z"
 ---
 ## What it is
 Enables real-time book search, detailed information, and bestsellers from the Aladin OpenAPI, integrated with Claude Desktop via MCP.

@@ -8,10 +8,12 @@ source_url: https://github.com/lling0000/siftmarks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-14T02:19:54Z"
 ---
 ## What it is
 MCP server `SiftMarks`, catalogued on PulseMCP. Local bookmark management MCP server exposing a personal bookmark library to AI clients with search and organization tools.

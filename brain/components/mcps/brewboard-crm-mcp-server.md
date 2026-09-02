@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T17:11:15Z"
 ---
 ## What it is
 Connects Claude.ai to the BrewBoard Supabase database for analytics and post-visit customer messaging, exposing tools like revenue summary, peak hours, orders, and a simulated revisit message.

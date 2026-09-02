@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:35:10Z"
 ---
 ## What it is
 An MCP server that exposes the Roboflow API to MCP-compatible clients like Claude Code, Claude Desktop, and Cursor. Use it to manage datasets, upload and tag images, push annotations, and inspect projects without leaving your editor.

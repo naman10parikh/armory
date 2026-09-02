@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T22:58:16Z"
 ---
 ## What it is
 MCP server `Nelly the Elephant`, catalogued on PulseMCP. Search and resume past Claude Code conversations from your local session history.

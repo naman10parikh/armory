@@ -8,10 +8,12 @@ source_url: https://github.com/kggzs/apkmcp-auto
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 195
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-04-09T08:51:35Z"
 ---
 ## What it is
 MCP server `APK Reverse Engineering`, catalogued on PulseMCP. Android reverse engineering toolkit with JADX, APKTool, ADB, and Frida integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T17:36:10Z"
 ---
 ## What it is
 A small MCP server that scrapes and returns semantic event data from configured sources, supporting tools to list sources, validate scrapers, and retrieve events by time period or date.

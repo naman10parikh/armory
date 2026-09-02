@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:53:39Z"
 ---
 ## What it is
 Enables building safe, programmable Code Mode MCP servers from upstream tool sources, with model-authored TypeScript running in a sandbox and tool calls routed to trusted host-side providers.

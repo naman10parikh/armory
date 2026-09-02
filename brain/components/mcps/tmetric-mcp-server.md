@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-14T08:28:14Z"
 ---
 ## What it is
 Integrates with TMetric for time tracking, enabling project listing, timer start/stop, and deletion of entries, with GitLab issue support.

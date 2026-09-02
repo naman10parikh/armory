@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-30T22:14:56Z"
 ---
 ## What it is
 Automates Cole Medin's context engineering methodology to generate high-quality Product Requirements Prompts (PRPs) by analyzing existing codebases, asking contextual questions, and synthesizing insights.

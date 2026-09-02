@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-15T13:48:53Z"
 ---
 ## What it is
 Enables AI assistants to interact with and manage multiple database types (PostgreSQL, MySQL, SQLite, SQL Server, MongoDB, Redis) through natural language, supporting query analysis, schema management, data analysis, backup/restore, and security analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:52:33Z"
 ---
 ## What it is
 Enables Claude Desktop to connect to Anthra Studio for AI-powered web design generation and multi-page suite management via the Model Context Protocol.

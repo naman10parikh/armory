@@ -8,10 +8,12 @@ source_url: https://github.com/lazy-importer/d.i.e-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-27T00:49:37Z"
 ---
 ## What it is
 MCP server `Detect It Easy (DIE)`, catalogued on PulseMCP. Bridges with Detect It Easy (DIE) executable analysis tool to provide file analysis, metadata extraction, and threat detection capabilities for security researchers and malware analysts.

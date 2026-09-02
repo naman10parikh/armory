@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:32:52Z"
 ---
 ## What it is
 A read-only MCP server that provides information about Mistral's Le Chat AI, including models, pricing, FAQ, and official links, without requiring API keys.

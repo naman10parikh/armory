@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:05:15Z"
 ---
 ## What it is
 MCP server for building knowledge graphs from documents. It ingests PDF/PPTX/DOCX files, transcribes to Markdown, and uses LLM to bootstrap entity patterns and build a JSONL knowledge graph with RAG chunks.

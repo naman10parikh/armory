@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T19:51:52Z"
 ---
 ## What it is
 A FastMCP server that turns JSON data into Plotly figures, deployable as an isolated service on Modal. Data goes in as JSON; a validated Plotly figure (JSON) or a rendered PNG comes back over the Model Context Protocol.

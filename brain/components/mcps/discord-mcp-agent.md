@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-26T20:47:05Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Discord-based AI agent-user communication. Enables AI agents to communicate with users through Discord instead of IDE chat interfaces.

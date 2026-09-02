@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:04:14Z"
 ---
 ## What it is
 Enables building MCP servers with HMAC signing and verification, providing server scaffolding and middleware for secure request authentication.

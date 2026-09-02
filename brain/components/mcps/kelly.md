@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:10:27Z"
 ---
 ## What it is
 A local MCP server for CalDAV that gives Claude read access to your calendar, enabling planning, conflict checking, and schedule summaries.

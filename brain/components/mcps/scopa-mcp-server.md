@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T06:08:22Z"
 ---
 ## What it is
 An MCP server for playing the Italian card game Scopa, supporting 2-4 players, Redis-backed event logging, real-time synchronization, and an optional LLM opponent.

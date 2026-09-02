@@ -8,10 +8,12 @@ source_url: https://github.com/hoklims/stacksfinder-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-29T05:14:01Z"
 ---
 ## What it is
 MCP server `StacksFinder`, catalogued on PulseMCP. Access StacksFinder's tech stack analysis and recommendation tools.

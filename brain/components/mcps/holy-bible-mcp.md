@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:02:11Z"
 ---
 ## What it is
 Universal Multilingual Bible MCP Server (800+ languages, 11.9M verses, 100% offline, zero-latency FTS5, Merkle proof)

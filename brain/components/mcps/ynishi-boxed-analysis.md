@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T20:18:35Z"
 ---
 ## What it is
 MCP server `Boxed Analysis`, catalogued on PulseMCP. Container-sandboxed code analysis running in Docker via MCP.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-12T13:53:14Z"
 ---
 ## What it is
 MCP server `3D Asset Processing`, catalogued on PulseMCP. Processes and optimizes 3D glTF/GLB models with analysis, validation, format conversion, compression, and geometry simplification tools for web, mobile, and game engine compatibility.

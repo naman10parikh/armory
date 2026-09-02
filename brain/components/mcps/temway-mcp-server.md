@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:52:59Z"
 ---
 ## What it is
 Let your AI assistant design beautiful emails & layouts — in your Temway workspace. It turns Claude, ChatGPT, Cursor and friends into a visual email & layout authoring studio.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-24T16:28:24Z"
 ---
 ## What it is
 Official reference MCP server for A202, the Verifiable Agreement Protocol for Agent-Led Commerce. Gives an agent the seven capabilities two organisations need to buy and sell directly: issue a mandate, check what an agent may do under it, approve an act needing a person, form an agreement, exchange 

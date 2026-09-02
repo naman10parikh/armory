@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-18T08:24:41Z"
 ---
 ## What it is
 MCP server `Agentic Loop Memory`, catalogued on PulseMCP. Persistent memory and state manager for long-running agentic workflows with self-healing and context compaction.

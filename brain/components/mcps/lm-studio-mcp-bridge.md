@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T00:46:06Z"
 ---
 ## What it is
 Enables MCP clients to interact with local LLMs via LM Studio, supporting dynamic chat, vision, RAG, file interaction, and model orchestration.

@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-dir/jus-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:52Z"
 ---
 ## What it is
 Enables access to comprehensive Brazilian legal data through a single MCP connection, including court cases, DJEN publications, jurisprudence, judicial calculations, procurement from PNCP, TCU decisions, compliance checks, and official certificates—all without login.

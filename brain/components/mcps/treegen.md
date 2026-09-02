@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:53:12Z"
 ---
 ## What it is
 MCP server for generating deterministic, stylized low-poly 3D trees. It supports multiple presets and can export GLB or OBJ assets.

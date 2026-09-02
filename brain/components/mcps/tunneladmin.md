@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:41:00Z"
 ---
 ## What it is
 Web-based SSH connection manager with an MCP server that enables AI agents to manage remote hosts via terminals, file transfers, and port forwarding, featuring human-in-the-loop approval for secure access.

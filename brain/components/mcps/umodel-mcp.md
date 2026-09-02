@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:36:31Z"
 ---
 ## What it is
 MCP server that enables natural language listing, unpacking, and exporting of Unreal Engine game resources via umodel, including AES-encrypted pak support.

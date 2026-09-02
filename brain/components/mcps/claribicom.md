@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T13:50:11Z"
 ---
 ## What it is
 clariBI is an AI-powered business intelligence platform that lets SaaS and ecommerce teams ask plain-English questions across Stripe, HubSpot, Google Analytics, ad platforms, and 30+ other sources. The AI engine picks the right visualization from 24 chart types and generates dashboards automatically

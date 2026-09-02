@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T16:02:43Z"
 ---
 ## What it is
 A safe, local MCP server that lets Claude drive a controlled software-development loop (inspect, read, plan, patch, apply, check, analyze, fix, summarize) on a project, using deterministic tools and real diffs/test runs.

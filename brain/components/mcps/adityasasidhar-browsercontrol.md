@@ -8,10 +8,12 @@ source_url: https://github.com/adityasasidhar/browsercontrol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-05T13:19:52Z"
 ---
 ## What it is
 MCP server `BrowserControl`, catalogued on PulseMCP. Enables browser automation through visual interaction using numbered screenshots where interactive elements are marked for precise clicking, form filling, and web scraping with persistent sessions and debugging capabilities.

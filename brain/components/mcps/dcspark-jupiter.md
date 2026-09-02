@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-17T21:44:10Z"
 ---
 ## What it is
 MCP server `Jupiter`, catalogued on PulseMCP. Integrates with Jupiter's swap API on the Solana blockchain, enabling operations like getting quotes, building swap transactions, and sending swap transactions for decentralized exchange functionality.

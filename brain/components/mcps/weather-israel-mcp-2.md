@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:06:47Z"
 ---
 ## What it is
 MCP server that enables LLMs to retrieve weather forecasts for Israeli cities by automating a browser with Playwright, and also provides US weather alerts and forecasts via NWS API.

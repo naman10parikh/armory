@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T17:32:32Z"
 ---
 ## What it is
 Enables AI assistants to read and write XMind mind map files, allowing generation, editing, and analysis of mind maps directly in XMind.

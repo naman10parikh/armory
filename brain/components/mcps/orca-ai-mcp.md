@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T11:56:26Z"
 ---
 ## What it is
 Integrates with Orca AI's HUNT Platform API to search for information about people, companies, and entities, enabling AI assistants to access investigative intelligence and due diligence data.

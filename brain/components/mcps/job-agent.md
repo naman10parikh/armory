@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:35:56Z"
 ---
 ## What it is
 An AI-powered job search and application assistant that enables multi-source job hunting, OpenAI matching, cover letter generation, and hybrid application automation via Playwright, Chrome CDP, screen OCR, and manual assist.

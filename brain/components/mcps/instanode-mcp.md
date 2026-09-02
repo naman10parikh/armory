@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:39:31Z"
 ---
 ## What it is
 Enables AI coding agents to instantly provision ephemeral developer infrastructure like Postgres, Redis, MongoDB, and container deployments over HTTPS, with no Docker or signup required for the free anonymous tier.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T10:54:00Z"
 ---
 ## What it is
 Enables querying the Verified Human Cert registry to verify human-made music certifications by ISRC, artist, track, or cert number.

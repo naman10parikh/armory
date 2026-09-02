@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-14T09:13:49Z"
 ---
 ## What it is
 Provides access to Hong Kong Observatory weather data APIs, enabling retrieval of forecasts, earthquake info, tide data, and more via natural language.

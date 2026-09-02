@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-22T14:55:33Z"
 ---
 ## What it is
 Enables evaluation of AI-generated code across 45 specialized dimensions using deterministic pattern matching and optional LLM-powered deep review, acting as an independent quality gate.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T06:36:35Z"
 ---
 ## What it is
 Enables previewing base64-encoded images in a native GUI window using Slint, with support for window reuse, always-on-top, and show/hide functionality.

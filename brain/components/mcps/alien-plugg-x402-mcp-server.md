@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T23:38:11Z"
 ---
 ## What it is
 MCP server exposing 10 curated tools for AI agents, providing crypto trading signals, on-chain analysis, and web utilities via pay-per-call x402 endpoints on the Base network.

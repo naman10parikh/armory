@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T19:19:48Z"
 ---
 ## What it is
 Enables real browser automation as tools in Cursor, Claude Desktop, Windsurf, and any MCP-compatible client, allowing AI agents to interact with web pages through natural language.

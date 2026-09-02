@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:28:44Z"
 ---
 ## What it is
 Enables management of ForwardEmail domains, aliases, emails, sieve filters, contacts, calendars, and more via natural language, using 71 MCP tools.

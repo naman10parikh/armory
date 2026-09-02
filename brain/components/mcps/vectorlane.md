@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:48:38Z"
 ---
 ## What it is
 Provides a local vector memory store for AI agents with semantic search, offline embeddings, and MCP integration, enabling tools like Claude and Cursor to store and retrieve information without cloud dependencies.

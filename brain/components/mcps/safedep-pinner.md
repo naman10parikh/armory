@@ -8,10 +8,12 @@ source_url: https://github.com/safedep/pinner-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-05T03:15:35Z"
 ---
 ## What it is
 MCP server `Pinner`, catalogued on PulseMCP. Secures software supply chains by pinning dependencies to immutable versions, resolving GitHub references to commit SHAs and Docker image tags to digests to prevent dependency substitution attacks.

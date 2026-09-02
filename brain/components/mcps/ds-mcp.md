@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T17:25:24Z"
 ---
 ## What it is
 A read-only MCP server that provides AI coding agents with a queryable contract for design system tokens, components, patterns, and anti-patterns.

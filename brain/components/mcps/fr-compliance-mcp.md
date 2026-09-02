@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T06:56:59Z"
 ---
 ## What it is
 French compliance and KYC MCP server offering VAT validation (VIES), BODACC legal announcements, and company risk scoring using open data.

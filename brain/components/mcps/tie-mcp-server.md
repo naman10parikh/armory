@@ -8,11 +8,13 @@ source_url: https://github.com/taherkaraki/tie-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:47:39Z"
 ---
 ## What it is
 MCP server for the Tenable Identity Exposure API, providing 131 tools for complete API coverage with multi-tenant support and granular security controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-10T03:05:14Z"
 ---
 ## What it is
 An advanced MCP server powered by PHREEQC for industrial wastewater treatment modeling, offering 17 tools for chemical equilibrium, kinetic reactions, and optimization like lime softening and phosphorus removal.

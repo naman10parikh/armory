@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-06T19:02:43Z"
 ---
 ## What it is
 MCP server `OpenWeather`, catalogued on PulseMCP. Provides real-time weather data through the OpenWeather API with structured temperature, humidity, and location information for current conditions and forecasting.

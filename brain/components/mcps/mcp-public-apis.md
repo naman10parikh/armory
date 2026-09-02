@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T21:40:52Z"
 ---
 ## What it is
 An MCP server that gives AI coding agents real-time access to the public-apis dataset, enabling search, live probing, and code snippet generation for 1,500+ free public APIs.

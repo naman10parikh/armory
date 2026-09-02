@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T00:36:47Z"
 ---
 ## What it is
 Enables AI agents to read any URL by using an escalating open-source unlocker to bypass common bot walls, returning clean Markdown content.

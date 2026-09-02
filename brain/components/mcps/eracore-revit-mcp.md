@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:27:18Z"
 ---
 ## What it is
 Connects LLM assistants to Autodesk Revit BIM models, enabling reading metadata, listing elements, creating geometry, batch parameter updates, and exporting schedules. Supports fake mode for testing without Revit and pyRevit mode for live integration.

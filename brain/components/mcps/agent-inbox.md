@@ -8,11 +8,13 @@ source_url: https://github.com/gsd-build/agent-inbox
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-10T06:29:50Z"
 ---
 ## What it is
 Enables AI agents to create temporary email addresses, receive confirmation emails, and extract verification links, automating sign-up and email verification workflows without manual intervention.

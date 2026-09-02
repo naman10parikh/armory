@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T20:18:06Z"
 ---
 ## What it is
 Enables AI assistants to retrieve and analyze Garmin Connect health data, including daily summaries, sleep, HRV, workouts, and raw FIT files, while also supporting SQL queries on the underlying database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:19:24Z"
 ---
 ## What it is
 Adds persistent QA state to browser automation, enabling AI agents to maintain session-scoped artifacts and generate reports across multiple steps.

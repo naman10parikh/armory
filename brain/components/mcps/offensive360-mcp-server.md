@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:26:05Z"
 ---
 ## What it is
 Enables AI assistants to run Offensive360 SAST scans on local codebases, returning security findings with file/line, severity, and fixes, plus scan status tracking.

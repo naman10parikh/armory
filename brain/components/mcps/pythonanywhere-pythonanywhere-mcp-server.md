@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 17
+forks: 9
+pushed_at: "2026-08-04T09:11:33Z"
 ---
 ## What it is
 MCP server implementation for PythonAnywhere cloud platform.

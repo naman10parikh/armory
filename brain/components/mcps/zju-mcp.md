@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T02:35:03Z"
 ---
 ## What it is
 Enables interaction with Zhejiang University's learning platform (学在浙大 / 智云课堂) via MCP tools, allowing natural language commands to check todos, view schedules, fetch lecture transcripts, and submit homework.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T15:09:12Z"
 ---
 ## What it is
 Enables managing audit findings in a SQLite database via natural language, allowing queries and updates without writing SQL.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:10:51Z"
 ---
 ## What it is
 MCP server giving AI assistants read-only access to a Jamf fleet via the Jamf Platform API Gateway using OAuth2 client credentials, with tools for fleet overview, device queries, group membership, automation auditing, and passthrough requests.

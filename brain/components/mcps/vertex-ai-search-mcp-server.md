@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-29T11:30:51Z"
 ---
 ## What it is
 Enables integration with Google Cloud Vertex AI Search for enterprise search capabilities through a stdio-based MCP server.

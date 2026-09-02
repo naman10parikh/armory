@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T04:27:07Z"
 ---
 ## What it is
 specgate is an MCP server that verifies UI design fidelity by comparing a live DOM against Figma specs, reporting specific CSS property deltas so agents know exactly what to fix. It also freezes measurement results into lock files for fast offline regression detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T15:21:34Z"
 ---
 ## What it is
 Lets an LLM plan hikes anywhere in Switzerland by combining named routes, elevation profiles, weather forecasts, and public transport.

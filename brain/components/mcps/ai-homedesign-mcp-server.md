@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T12:32:29Z"
 ---
 ## What it is
 Open-source MCP server for AI virtual staging and real-estate photography editing. It turns the AI HomeDesign photo API into natural-language tools for virtual staging, redesign, photo enhancement, and more.

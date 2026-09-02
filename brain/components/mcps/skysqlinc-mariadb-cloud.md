@@ -8,10 +8,12 @@ source_url: https://github.com/skysqlinc/skysql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-27T20:36:50Z"
 ---
 ## What it is
 MCP server `MariaDB Cloud`, catalogued on PulseMCP. Launch free official MariaDB Serverless DB, execute SQL, and use DB level AI Agents through SkySQL's cloud database platform.

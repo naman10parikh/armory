@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T00:58:04Z"
 ---
 ## What it is
 Simulates real users navigating your app and delivers qualitative UX feedback, including persona-driven testing, auto-friction detection, and WCAG accessibility audits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T05:08:37Z"
 ---
 ## What it is
 Service-boundary-aware document exchange center for coordinating heterogeneous LLM code agents via MCP. Versioned Markdown store, pub-sub notifications, and diff-aware update protocol.

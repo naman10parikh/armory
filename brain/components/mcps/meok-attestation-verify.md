@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:34:41Z"
 ---
 ## What it is
 Verifies MEOK AI Labs compliance attestations (DORA, NIS2, CRA, EU AI Act, etc.) using HMAC-SHA256. Enables piping a signed certificate on stdin to get VALID/INVALID output.

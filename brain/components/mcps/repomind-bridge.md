@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:29:07Z"
 ---
 ## What it is
 Enables coding agents to receive and act on voice-captured tasks delivered as GitHub issues, including retrieving full context, adding notes, asking the developer questions, and closing tasks when complete.

@@ -8,11 +8,13 @@ source_url: https://github.com/i-ninte/grad-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T11:53:10Z"
 ---
 ## What it is
 An autonomous MCP agent that helps you apply to fully funded MS and PhD programs by discovering professors, verifying faculty status, matching projects, and drafting cold emails.

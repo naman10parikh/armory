@@ -8,11 +8,13 @@ source_url: https://github.com/Wh0am123/MCP-Kali-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 801
+stars: 808
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 160
+pushed_at: "2026-03-17T21:13:13Z"
 ---
 ## What it is
 Connects MCP clients to a Kali Linux terminal for AI-assisted penetration testing and CTF challenge solving by executing commands like Nmap, Metasploit, and custom scripts.

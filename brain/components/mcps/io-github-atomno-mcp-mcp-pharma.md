@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:29:57Z"
 ---
 ## What it is
 Russian drug reference for AI agents: check ГРЛС registration, get a drug card, look up ЖНВЛП price caps, check recalls, and link the official instruction straight from the state registers.

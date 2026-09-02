@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T03:16:31Z"
 ---
 ## What it is
 MCP server `Stunt Double`, catalogued on PulseMCP. Deploy AI user personas to validate user journeys at scale and find UX friction before real users do.

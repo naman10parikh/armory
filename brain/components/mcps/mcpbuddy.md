@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:46:14Z"
 ---
 ## What it is
 An account-scoped MCP connection hub for Claude, OpenAI and Grok, enabling private MCP endpoints, OAuth sign-in, Solana wallet binding, and content publishing via MCP tools.

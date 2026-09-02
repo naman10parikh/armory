@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-05T12:47:58Z"
 ---
 ## What it is
 Enables AI assistants to control and communicate with MeshCore mesh network devices via HTTP, providing tools for sending messages, managing contacts, and syncing device clocks.

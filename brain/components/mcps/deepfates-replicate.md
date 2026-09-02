@@ -12,6 +12,8 @@ stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-09-24T19:15:10Z"
 ---
 ## What it is
 MCP server `Replicate`, catalogued on PulseMCP. Bridges Replicate's AI model hosting platform, enabling seamless interaction with diverse machine learning models for tasks like image generation and text processing.

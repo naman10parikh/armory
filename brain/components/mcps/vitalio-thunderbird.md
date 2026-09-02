@@ -8,10 +8,12 @@ source_url: https://github.com/vitalio-sh/thunderbird-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-04T10:00:46Z"
 ---
 ## What it is
 MCP server `Thunderbird Email`, catalogued on PulseMCP. Full read/write email access for AI agents via Mozilla Thunderbird, with zero credential exposure.

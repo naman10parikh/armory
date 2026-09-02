@@ -8,10 +8,12 @@ source_url: https://github.com/yawlabs/aws-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T20:12:35Z"
 ---
 ## What it is
 MCP server `AWS`, catalogued on PulseMCP. Calls any AWS API from AI agents with built-in SSO re-login via device-code flow.

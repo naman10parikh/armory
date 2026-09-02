@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-09T05:45:30Z"
 ---
 ## What it is
 Handles log file management and analysis with tools to list, read, search, filter, and generate analytics on log files.

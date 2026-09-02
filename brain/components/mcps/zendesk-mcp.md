@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:51:02Z"
 ---
 ## What it is
 Connects AI assistants to your Zendesk account with 14 curated tools for managing tickets, users, organizations, and help center articles, running locally with no third-party services.

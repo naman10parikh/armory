@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-10T13:29:38Z"
 ---
 ## What it is
 Enforces 21 critical rules derived from 96+ documented failure patterns to prevent common AI assistant mistakes. Provides automatic compliance checklists, rule summaries, and auto-updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:49:33Z"
 ---
 ## What it is
 Enables AI agents to interact with the GIWA blockchain, including balance queries, contract interactions, Flashblocks preconfirmations, Dojang attestations, and UP ID resolution.

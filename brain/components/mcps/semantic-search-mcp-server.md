@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-09T01:48:09Z"
 ---
 ## What it is
 Enables semantic search over documentation stored in a Vectorize database using the Cloudflare Agents SDK, allowing users to query indexed content via natural language.

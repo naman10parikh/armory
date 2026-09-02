@@ -8,11 +8,13 @@ source_url: https://github.com/square/square-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 26
+pushed_at: "2026-04-09T18:13:35Z"
 ---
 ## What it is
 MCP server `Square`, catalogued on PulseMCP. Provides a bridge between Square's complete API ecosystem and conversational interfaces, enabling comprehensive e-commerce and payment processing capabilities including payments, orders, inventory, and customer management.

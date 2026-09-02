@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:17:58Z"
 ---
 ## What it is
 Hosted workflow discovery, validation, execution, and lifecycle facade for Stromy, with Entra ID role-based scoping and Azure Container Apps integration.

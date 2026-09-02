@@ -8,10 +8,12 @@ source_url: https://github.com/saramali15792/agentrag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T14:41:43Z"
 ---
 ## What it is
 MCP server `AgentRAG`, catalogued on PulseMCP. Agentic RAG MCP server providing persistent semantic memory over private data for Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T19:57:42Z"
 ---
 ## What it is
 A cross-platform MCP server for querying and introspecting PostgreSQL databases with SSH tunnel support, featuring multi-layered query safety and read-only enforcement.

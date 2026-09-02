@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T13:33:10Z"
 ---
 ## What it is
 MCP server `Trans.eu`, catalogued on PulseMCP. Freight exchange integration for Trans.eu platform with offer search, load management, and XMPP messaging.

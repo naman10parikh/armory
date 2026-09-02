@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:55:23Z"
 ---
 ## What it is
 Enables security investigation and threat hunting through Microsoft Defender and Entra ID, with 31 tools for KQL queries, alerts, threat intelligence, identity investigation, and advanced threat hunting.

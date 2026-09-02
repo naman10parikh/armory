@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:22:32Z"
 ---
 ## What it is
 Enables AI-assisted SOC workflows by connecting Claude Desktop to Splunk Enterprise for security event analysis and incident response.

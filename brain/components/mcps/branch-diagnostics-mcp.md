@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T22:44:14Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to diagnose network and service problems by walking a structured funnel of cURL timing metrics, identifying which hop is at fault, and providing targeted recommendations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:10Z"
 ---
 ## What it is
 Enables URL parsing and building from components, plus query string parsing, all without keys or online dependencies.

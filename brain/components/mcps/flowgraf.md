@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:01:11Z"
 ---
 ## What it is
 AI-native architecture diagramming for MCP clients (Claude Code, Cursor, Windsurf). The calling agent authors the graph (nodes, groups, edges); Flowgraf validates it, lays it out deterministically with ELK, renders an SVG + Mermaid, and returns a link to a live, editable canvas you can refine by cha

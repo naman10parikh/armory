@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:58:47Z"
 ---
 ## What it is
 An MCP server for SSH session management with browser-based terminal monitoring, supporting persistent connections, command execution, SFTP file operations, and multi-session management.

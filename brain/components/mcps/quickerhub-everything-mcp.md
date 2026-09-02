@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T10:07:17Z"
 ---
 ## What it is
 Enables fast cross-project file search on Windows using Voidtools Everything. Agents can locate files and folders across the whole machine in milliseconds.

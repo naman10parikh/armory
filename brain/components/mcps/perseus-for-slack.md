@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:08:29Z"
 ---
 ## What it is
 Brings live project context into Slack via MCP, enabling developer teams to check service health, recall team decisions, search code, and query project context directly from chat.

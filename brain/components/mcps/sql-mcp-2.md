@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T04:35:46Z"
 ---
 ## What it is
 Formats SQL queries with support for 14 dialects, keyword casing, and tab width.

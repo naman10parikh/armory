@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-08T11:19:01Z"
 ---
 ## What it is
 Enables interaction with the HaloPSA API for managing tickets, clients, assets, and more through natural language commands in Claude Desktop.

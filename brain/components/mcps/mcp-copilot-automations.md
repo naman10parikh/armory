@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:28:53Z"
 ---
 ## What it is
 Bridges LLMs with enterprise IT operations by resolving user intents via Dataverse, creating ServiceNow service requests, and triggering Azure Automation Webhooks.

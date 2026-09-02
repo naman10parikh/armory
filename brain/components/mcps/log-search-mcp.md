@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-14T09:05:28Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search logs across multiple remote servers via SSH and grep, with support for pattern matching and time range filtering.

@@ -8,10 +8,12 @@ source_url: https://github.com/citedy/citedy-seo-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-09T10:09:31Z"
 ---
 ## What it is
 MCP server `Citedy SEO Agent`, catalogued on PulseMCP. Automates SEO content marketing workflows including trend scouting, competitor analysis, article generation, and social media publishing.

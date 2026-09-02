@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-04T20:42:11Z"
 ---
 ## What it is
 MCP server `Infura`, catalogued on PulseMCP. Provides access to Ethereum and Polygon blockchain data through Infura's JSON-RPC APIs, offering 35+ tools for querying balances, transactions, blocks, gas prices, and smart contract data with support for both read-only operations and raw transaction broadcasting.

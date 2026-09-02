@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T00:54:18Z"
 ---
 ## What it is
 Enables AI assistants to look up uptime commitments, service credits, and per-service SLAs for cloud and SaaS vendors directly from SLA.directory.

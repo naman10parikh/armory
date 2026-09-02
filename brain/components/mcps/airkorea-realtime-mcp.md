@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:59:32Z"
 ---
 ## What it is
 Enables querying real-time air quality measurements, integrated air quality index (CAI), and monitoring station information from Korea's Air Korea OpenAPI, including station search and nearby station lookup.

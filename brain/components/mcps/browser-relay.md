@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T11:17:52Z"
 ---
 ## What it is
 MCP server that drives a user's real Chrome browser via a WebSocket-connected MV3 extension, enabling tab management, navigation, page interaction, screenshots, and script evaluation through natural language.

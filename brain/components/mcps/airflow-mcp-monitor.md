@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T07:54:41Z"
 ---
 ## What it is
 Provides read-only monitoring of Apache Airflow DAGs, including listing active DAGs, fetching recent runs, and analyzing execution history and performance metrics.

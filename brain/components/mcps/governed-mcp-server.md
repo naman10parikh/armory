@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:04:25Z"
 ---
 ## What it is
 An MCP server reference implementation adding enterprise layers (identity, authorization, audit) around MCP, with sample shipment status and delayed shipment tools over a stateless transport.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:40:16Z"
 ---
 ## What it is
 Webhound is a research engine with an explicit effort control: a prompt defines the investigation and a dollar budget defines how much work it deserves. It returns cited reports or sourced datasets with the working documents, claims, sources, limitations, and evidence pack behind the answer.

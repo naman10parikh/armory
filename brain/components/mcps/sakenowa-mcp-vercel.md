@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T06:43:15Z"
 ---
 ## What it is
 Enables querying Japanese sake data (prefectures, sakes, flavors, rankings) via MCP protocol, deployed as a Vercel serverless function.

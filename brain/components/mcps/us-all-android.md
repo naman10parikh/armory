@@ -8,10 +8,12 @@ source_url: https://github.com/us-all/android-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T01:28:27Z"
 ---
 ## What it is
 MCP server `Android`, catalogued on PulseMCP. Community MCP integration for Android via ADB, enabling AI agents to control devices, inspect apps, stream logcat, and debug.

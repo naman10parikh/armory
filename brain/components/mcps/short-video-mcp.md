@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T19:19:20Z"
 ---
 ## What it is
 Generates TikTok-style short videos narrated by Peter and Stewie Griffin from any content, using ElevenLabs for voice and FFmpeg for video assembly.

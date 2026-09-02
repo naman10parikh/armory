@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:10:25Z"
 ---
 ## What it is
 Provides honest A/B test verdicts using interactive cards, with statistical calculations for conversion rates, sample sizes, and Bayesian probability-to-beat.

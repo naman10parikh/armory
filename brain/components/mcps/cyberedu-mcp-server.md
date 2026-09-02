@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-28T13:34:17Z"
 ---
 ## What it is
 Official MCP server for the CyberEdu CTF platform that automatically discovers and exposes all CyberEduClient methods as tools, enabling seamless interaction with the platform through MCP-compatible clients.

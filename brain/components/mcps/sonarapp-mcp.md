@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:11:02Z"
 ---
 ## What it is
 Provides App Store Optimization tools for AI agents, enabling app lookup, keyword research, ASO audit, review mining, and revenue estimation across iOS and Google Play.

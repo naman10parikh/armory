@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-17T21:47:20Z"
 ---
 ## What it is
 MCP server `OpenRouter Conversation Manager`, catalogued on PulseMCP. Provides a unified conversation management system for OpenRouter's language models with features like token counting, context window management, and filesystem persistence across multiple AI providers.

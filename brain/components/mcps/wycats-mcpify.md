@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-08-15T21:05:17Z"
 ---
 ## What it is
 MCP server `MCPify (OpenAPI)`, catalogued on PulseMCP. Transforms OpenAPI/Swagger specifications into dynamic MCP tools on the fly, enabling interaction with any REST API without custom implementation for each service.

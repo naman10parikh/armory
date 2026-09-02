@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-01T06:04:20Z"
 ---
 ## What it is
 MCP server `MicroManage (Task Flowchart Visualizer)`, catalogued on PulseMCP. Task management system that visualizes development work as interactive flowcharts, enabling structured breakdown of tickets into minimal PRs and commits with progress tracking capabilities.

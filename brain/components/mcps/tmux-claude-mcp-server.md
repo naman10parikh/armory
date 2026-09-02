@@ -8,11 +8,13 @@ source_url: https://github.com/michael-abdo/tmux-claude-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-07-04T23:47:13Z"
 ---
 ## What it is
 Enables hierarchical orchestration of Claude instances via tmux with a bridge pattern architecture reducing memory usage by 85%.

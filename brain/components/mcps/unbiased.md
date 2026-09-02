@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:08:18Z"
 ---
 ## What it is
 Reads your GitHub profile and provides developer context (stack, projects, experience) to MCP clients like Claude and Cursor via a single URL.

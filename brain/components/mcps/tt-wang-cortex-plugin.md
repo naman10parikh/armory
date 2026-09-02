@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 31
+stars: 32
+forks: 1
+pushed_at: "2026-09-01T09:33:25Z"
 ---
 ## What it is
 Persistent, self-evolving memory plugin for Claude Code. Background miner extracts durable lessons (decisions, conventions, bug fixes) from completed sessions via Claude Haiku, stores them as human-readable markdown in an Obsidian vault, and assembles query-tailored context briefings at session start. Local-first, no cloud, no API keys. Self-healing install via uv bootstrap shim, `/cortex-doctor` preflight, graceful FTS-only degraded mode when `claude` CLI missing. MIT.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:30:23Z"
 ---
 ## What it is
 Enables querying and analyzing receipt data with SQL-style grouped statistics, filtering, and receipt lookup through natural language via MCP-compatible clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T02:37:07Z"
 ---
 ## What it is
 An MCP server that gives AI agents real-time observability into Apache Kafka clusters, enabling natural language queries for broker health, consumer lag, and diagnostics.

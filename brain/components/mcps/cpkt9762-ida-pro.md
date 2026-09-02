@@ -8,10 +8,12 @@ source_url: https://github.com/cpkt9762/ida-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-08T17:09:45Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. Exposes IDA Pro 9.2+ reverse engineering capabilities headlessly through 73 tools for decompilation, disassembly, cross-references, call graphs, and type reconstruction.

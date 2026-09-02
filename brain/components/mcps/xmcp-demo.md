@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:14:03Z"
 ---
 ## What it is
 A demo MCP server built with the xmcp framework, providing a structured way to define custom tools, prompts, and resources.

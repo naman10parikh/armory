@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-07T15:15:43Z"
 ---
 ## What it is
 A read-only MCP server for Imply Cloud/Druid databases, enabling AI assistants to execute SQL queries, list tables, and explore dashboards and data cubes.

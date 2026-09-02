@@ -8,10 +8,12 @@ source_url: https://github.com/echelon-ai-labs/servicenow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 254
+stars: 297
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 227
+pushed_at: "2026-04-26T15:45:58Z"
 ---
 ## What it is
 MCP server `ServiceNow ITSM`, catalogued on PulseMCP. Provides a bridge to ServiceNow ITSM functionality for managing incidents, service catalogs, change requests, workflows, and changesets through natural language interaction.

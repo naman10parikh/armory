@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:05:01Z"
 ---
 ## What it is
 Enables querying cross-repo code dependencies, HTTP routes, database tables, and queues via an MCP server using Cypher queries.

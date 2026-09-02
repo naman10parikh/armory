@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T01:34:27Z"
 ---
 ## What it is
 Generic MCP server exposing Nexusm core capabilities (memory, conversation, knowledge, feedback, context) to MCP clients via stdio and Streamable HTTP transports.

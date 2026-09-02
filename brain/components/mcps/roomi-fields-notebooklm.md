@@ -8,10 +8,12 @@ source_url: https://github.com/roomi-fields/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 171
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 53
+pushed_at: "2026-08-21T08:09:06Z"
 ---
 ## What it is
 MCP server `NotebookLM`, catalogued on PulseMCP. Integrates with Google NotebookLM through browser automation to enable document analysis, question answering, and notebook library management with persistent authentication.

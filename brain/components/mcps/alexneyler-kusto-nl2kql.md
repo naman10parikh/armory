@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-29T19:48:21Z"
 ---
 ## What it is
 MCP server `Kusto NL2KQL`, catalogued on PulseMCP. Enables natural language querying of Azure Data Explorer (Kusto) databases by translating questions into KQL queries without requiring KQL expertise

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T01:35:15Z"
 ---
 ## What it is
 MCP server `zkShare`, catalogued on PulseMCP. Privacy-preserving context storage with encrypted facts, verifiable proofs, and semantic search via a stdio MCP server.

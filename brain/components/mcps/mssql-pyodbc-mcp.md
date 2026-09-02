@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:34:55Z"
 ---
 ## What it is
 Local stdio MCP server for read-only Microsoft SQL Server access through Python and pyodbc, providing test connection, list tables, describe table, and query tools.

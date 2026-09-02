@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:39:08Z"
 ---
 ## What it is
 Secure broker gateway and stateful trading SaaS that bridges LLM AI agents with brokerage accounts via MCP, encrypting credentials and supporting connectors for Bybit, MetaTrader 5, TradingView, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:50:41Z"
 ---
 ## What it is
 An MCP server implementing a 7-stage agentic frontend workflow—from design audit to PR review—including AI-driven component generation, browser validation, E2E testing, and CI self-healing.

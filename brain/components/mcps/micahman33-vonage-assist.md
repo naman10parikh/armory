@@ -8,10 +8,12 @@ source_url: https://github.com/micahman33/vonageaicodeassist
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-07T21:24:38Z"
 ---
 ## What it is
 MCP server `Vonage Assist`, catalogued on PulseMCP. Integrates with Vonage APIs to provide targeted documentation search and retrieval for developers implementing communication features like SMS, voice, verification, and video.

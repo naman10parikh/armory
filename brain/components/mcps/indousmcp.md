@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-23T11:15:45Z"
 ---
 ## What it is
 Agent-first data layer for the Indian-American diaspora, enabling LLM agents to search and retrieve information about Indian restaurants, temples, groceries, and more across the USA.

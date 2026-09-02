@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T20:25:06Z"
 ---
 ## What it is
 A local-first, model-agnostic MCP server that stores personal health data in a SQLite file and provides analysis-ready views for any AI client to log, retrieve, and reason over health records.

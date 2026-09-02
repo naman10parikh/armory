@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:35:56Z"
 ---
 ## What it is
 Enables AI agents to query language intelligence over MCP, including definitions, references, symbols, and code relationship graphs across many languages, all in one native process with no external language servers.

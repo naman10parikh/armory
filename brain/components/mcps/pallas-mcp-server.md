@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T12:01:02Z"
 ---
 ## What it is
 Connects an AI agent to Figma and Panda CSS for two-way design system sync, component creation, and variable binding.

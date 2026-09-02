@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-20T09:56:06Z"
 ---
 ## What it is
 An agent orchestration layer that wraps expert agents as MCP tools, enabling integration with Claude Desktop, Cursor, and other MCP-compatible environments.

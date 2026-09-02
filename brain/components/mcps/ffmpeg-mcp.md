@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T12:03:59Z"
 ---
 ## What it is
 Enables LLMs to safely execute ffmpeg and ffprobe operations by passing arguments as arrays, avoiding shell injection, with support for probe, convert, trim, concat, thumbnail, watermark, speed, loudnorm, and batch processing.

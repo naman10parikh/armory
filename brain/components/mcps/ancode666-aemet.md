@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-27T18:36:35Z"
 ---
 ## What it is
 MCP server `AEMET (Spain's Meteorological Agency)`, catalogued on PulseMCP. Provides direct access to Spain's State Meteorological Agency (AEMET) data for querying historical climate data, monthly summaries, and beach conditions across Spanish weather stations.

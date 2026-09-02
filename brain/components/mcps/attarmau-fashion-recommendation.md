@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-01T05:16:16Z"
 ---
 ## What it is
 MCP server `Fashion Recommendation System`, catalogued on PulseMCP. Analyzes fashion images using CLIP to extract clothing attributes like style, color, and fabric, then generates personalized recommendations based on detected tags and user behavior.

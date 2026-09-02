@@ -8,10 +8,12 @@ source_url: https://github.com/raiansar/claude_code-gemini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 42
+pushed_at: "2025-06-10T23:49:53Z"
 ---
 ## What it is
 MCP server `Gemini Collaboration`, catalogued on PulseMCP. Enables Claude to collaborate with Google's Gemini AI through question answering, configurable code review, and brainstorming sessions for multi-model pair programming workflows.

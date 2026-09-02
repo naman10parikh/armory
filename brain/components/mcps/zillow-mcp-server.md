@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-05-08T19:33:21Z"
 ---
 ## What it is
 Provides real-time access to Zillow real estate data, enabling property search, details, Zestimates, market trends, and mortgage calculations via natural language.

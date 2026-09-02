@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:57:37Z"
 ---
 ## What it is
 Enables AI assistants to access buyer intent signals, MEDDIC qualification data, and lead intelligence from Parsley accounts for lead qualification and follow-up.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:21:58Z"
 ---
 ## What it is
 Classifies job titles into department and seniority using deterministic rules, and optionally verifies if a person is listed on their employer's website via the Mamba Labs Contact Classifier Apify actor.

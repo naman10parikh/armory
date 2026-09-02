@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T10:16:40Z"
 ---
 ## What it is
 AI-powered job matching and CV generation tool that searches jobs on LinkedIn and Seek, analyzes CV fit, and generates tailored CVs.

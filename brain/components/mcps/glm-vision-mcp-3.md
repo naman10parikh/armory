@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:49:23Z"
 ---
 ## What it is
 Enables AI assistants to recognize and extract information from images via GLM-4V, supporting automatic screenshot recognition and MCP-based local image file reading for non-vision models like DeepSeek.

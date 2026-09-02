@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T20:42:46Z"
 ---
 ## What it is
 MCP server for CrewOne that enables AI agents to query Taiwan film equipment rates, studio rentals, and photographer/director style references, and optionally generate full pre-production packages with an API key.

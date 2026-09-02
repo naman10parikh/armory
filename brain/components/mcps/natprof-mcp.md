@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T02:45:07Z"
 ---
 ## What it is
 macOS native profiling and debugging MCP server that wraps sample, atos, vmmap, leaks, and lldb to enable an agent to profile, symbolicate, and debug running or freshly launched processes without manual path or port handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T20:45:59Z"
 ---
 ## What it is
 An MCP server that turns your Sell The Trend account into an AI-drivable product-research engine and generates detailed, decision-ready PDF dossiers for any niche.

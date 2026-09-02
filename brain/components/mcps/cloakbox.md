@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T17:13:40Z"
 ---
 ## What it is
 Let LLMs analyze sensitive data safely by querying a tokenized, join-preserving copy of the database, with fail-closed PII scanning and provable numeric equivalence.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:50:17Z"
 ---
 ## What it is
 The first cognitive memory server for AI assistants, providing persistent memory, knowledge graph, identity awareness, contradiction detection, and belief tracking across sessions.

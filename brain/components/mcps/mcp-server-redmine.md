@@ -8,11 +8,13 @@ source_url: https://github.com/jesusr00/mcp-server-redmine
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:59:53Z"
 ---
 ## What it is
 Exposes 30 tools to manage Redmine resources (issues, projects, users, time entries, wiki pages, news, files, roles) via the REST API using stdio transport.

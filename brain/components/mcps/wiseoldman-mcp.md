@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:44:46Z"
 ---
 ## What it is
 MCP server wrapping the Wise Old Man OSRS stat-tracking API, exposing 54 tools for players, groups, competitions, records, deltas, name changes, and efficiency (EHP/EHB) for MCP-compatible clients.

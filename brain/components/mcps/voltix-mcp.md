@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T18:59:09Z"
 ---
 ## What it is
 A set of nine tools for AI agents with micropayments in USDC on Base, including on-chain intelligence, web search, document parsing, and more.

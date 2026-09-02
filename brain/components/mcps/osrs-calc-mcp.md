@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:29Z"
 ---
 ## What it is
 Provides read-only access to OSRS Calc's skill calculators, training plans, FAQ, and official links for Old School RuneScape planning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T17:25:35Z"
 ---
 ## What it is
 Enables AI agents to discover, browse, and trade structured sports tokens on the SPRTX network via JSON-RPC 2.0 over Streamable HTTP.

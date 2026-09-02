@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:27:15Z"
 ---
 ## What it is
 MCP server enabling AI assistants to search Steam games, retrieve official store metadata, and analyze player review sentiment via public Steam Storefront JSON APIs without an API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T21:42:07Z"
 ---
 ## What it is
 Remote MCP server that exposes Airspeed/Glyphic call data to Claude web, enabling tools to list, retrieve, and query calls, transcripts, snippets, and playbooks.

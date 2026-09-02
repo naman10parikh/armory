@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T17:26:34Z"
 ---
 ## What it is
 Enables consuming and managing Groups.io mailing lists programmatically via the Groups.io REST API. Provides tools to list subscriptions, fetch group details, search archives, manage members, and access files, events, and databases.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:13:27Z"
 ---
 ## What it is
 Connects any MCP-compatible AI assistant to your Firefly III personal finance instance, enabling natural language queries about your finances.

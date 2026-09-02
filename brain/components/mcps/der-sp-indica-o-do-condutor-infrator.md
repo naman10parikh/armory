@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:05Z"
 ---
 ## What it is
 Enables consulting the indication of the offending driver (condutor infrator) from official DER SP (São Paulo State Highway Department) sources. It is a read-only HTTP MCP server with pre-paid credits, compatible with any MCP client.

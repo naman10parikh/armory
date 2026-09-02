@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T06:40:34Z"
 ---
 ## What it is
 Contract and wills legal tools for AI agents: statute-cited requirements per contract type and US state, non-compete enforceability for all 50 states + DC, intake schemas, async multi-agent contract drafting with free previews, and contract risk analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T15:50:35Z"
 ---
 ## What it is
 Enables AI agents to trade tokenized stocks (e.g., NVDA, TSLA) on Robinhood Chain via MCP, with non-custodial keys and spending caps.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:01:46Z"
 ---
 ## What it is
 Enables persistent storage and retrieval of Tree of Thought search states in PostgreSQL, allowing the travel agent to maintain reasoning context across multi-turn itinerary optimization.

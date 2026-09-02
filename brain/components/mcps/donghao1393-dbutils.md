@@ -8,10 +8,12 @@ source_url: https://github.com/donghao1393/mcp-dbutils
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-12T17:21:01Z"
 ---
 ## What it is
 MCP server `MCP DB Utils`, catalogued on PulseMCP. DButils is an all-in-one MCP service that enables your AI to do data analysis by accessing versatile types of database (sqlite, mysql, postgres, and more) within a unified connection configuration in a safe way.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 24
+forks: 8
+pushed_at: "2026-02-08T06:03:15Z"
 ---
 ## What it is
 An MCP server that enable all IDEs/CLIs to access Claude Code Skills capabilities.

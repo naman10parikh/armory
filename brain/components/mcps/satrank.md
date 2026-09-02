@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T07:45:27Z"
 ---
 ## What it is
 MCP server `SatRank`, catalogued on PulseMCP. Lightning trust and audit oracle for L402 endpoints with Ed25519 receipts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T03:52:55Z"
 ---
 ## What it is
 Enables Claude to search AI/ML jobs across Greenhouse, Lever, and Adzuna, with resume tailoring and referral outreach assistance.

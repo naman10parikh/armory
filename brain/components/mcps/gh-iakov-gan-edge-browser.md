@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-13T13:23:49Z"
 ---
 ## What it is
 MCP server `Microsoft Edge Browser Automation`, catalogued on PulseMCP. Automate Microsoft Edge browser via Selenium.

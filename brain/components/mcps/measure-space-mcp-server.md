@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T01:24:03Z"
 ---
 ## What it is
 Provides weather, climate, air quality, agriculture, pollen, and geocoding data from measurespace.io through the Model Context Protocol.

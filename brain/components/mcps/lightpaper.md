@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T10:09:06Z"
 ---
 ## What it is
 MCP server `Lightpaper`, catalogued on PulseMCP. API-first publishing platform where AI agents publish markdown as permanent, beautifully typeset web pages with quality scoring.

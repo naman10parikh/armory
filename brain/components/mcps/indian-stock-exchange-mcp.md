@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T06:09:19Z"
 ---
 ## What it is
 Provides comprehensive financial data and insights for stocks listed on BSE and NSE, including stock details, historical data, news, IPOs, and mutual funds.

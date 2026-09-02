@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:34:22Z"
 ---
 ## What it is
 An MCP server that captures the rationale behind code changes at the moment they are written, binding decisions to commits with full provenance, and serves that context later without guessing. It records 'why code exists' and tracks anchor health over time.

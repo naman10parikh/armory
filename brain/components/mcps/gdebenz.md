@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:07:50Z"
 ---
 ## What it is
 Enables AI assistants to query real-time fuel availability (92/95/98/100/diesel) at Russian petrol stations from two crowd-sourced maps, including queue status, prices, and location-based search.

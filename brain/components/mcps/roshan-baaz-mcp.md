@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:43:47Z"
 ---
 ## What it is
 Enables semantic search and retrieval for Persian content through Roshan AI's Baaz service, wrapped as MCP tools with support for multi-instance self-hosted deployments.

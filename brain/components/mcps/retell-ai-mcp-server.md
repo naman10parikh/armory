@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T08:05:11Z"
 ---
 ## What it is
 Provides complete programmatic access to the Retell AI platform, enabling autonomous management of voice and text agents, telephony, and monitoring.

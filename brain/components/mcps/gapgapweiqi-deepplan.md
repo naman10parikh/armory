@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-15T13:42:43Z"
 ---
 ## What it is
 MCP server `DeepPlan Architecture by gapgapweiqi`, catalogued on PulseMCP. Analyze and plan software architecture with intelligent design assistance tools.

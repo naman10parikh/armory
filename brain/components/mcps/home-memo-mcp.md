@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:01:43Z"
 ---
 ## What it is
 Enables searching personal knowledge notes stored in markdown files via MCP, using Cloudflare AI Search for RAG and secured with Cloudflare Access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T02:02:26Z"
 ---
 ## What it is
 MCP server providing layered, PostgreSQL-backed long-term memory for AI agents with versioned, audited writes and sensitive candidate filtering. Agents persist only explicitly requested facts, preferences, and project context via MCP tools.

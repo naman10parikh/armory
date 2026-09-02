@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T11:50:20Z"
 ---
 ## What it is
 MCP server `Draft Review`, catalogued on PulseMCP. Opens a local browser-based review window for editing, approving, or rejecting AI-generated drafts before they are sent to their destination.

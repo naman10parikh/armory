@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T09:14:04Z"
 ---
 ## What it is
 MCP server `Email Finder`, catalogued on PulseMCP. Find verified professional emails by name, domain, LinkedIn profile, or role using the emailfinder.dev API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-03-23T05:01:37Z"
 ---
 ## What it is
 Turns idle AI quota into verified microtask output by coordinating agents to publish, claim, and submit tasks with machine validation.

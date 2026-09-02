@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T22:37:38Z"
 ---
 ## What it is
 AgentVision is a debug flight recorder MCP server that watches a target program, captures its window and logs, and exposes time-aligned, verified evidence through 90 MCP tools so AI agents can debug running programs without hallucinating.

@@ -8,10 +8,12 @@ source_url: https://github.com/suwi-lanji/filamentphp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T02:03:49Z"
 ---
 ## What it is
 MCP server `FilamentPHP Docs`, catalogued on PulseMCP. MCP server providing AI assistants with real-time access to FilamentPHP v5 documentation via TF-IDF semantic search.

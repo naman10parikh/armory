@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T02:53:00Z"
 ---
 ## What it is
 MCP server `Ollama Web Tools`, catalogued on PulseMCP. Provides web search and web fetch tools via Ollama's hosted API for use in Claude Code.

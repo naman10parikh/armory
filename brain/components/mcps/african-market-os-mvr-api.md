@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T15:36:50Z"
 ---
 ## What it is
 Read-only relational-readiness preflight for AI agents evaluating market trust, permission, evidence gaps, pilot readiness, and scale readiness in African and other high-context markets.

@@ -8,10 +8,12 @@ source_url: https://github.com/duolingo/slack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-23T21:09:42Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Provides secure multi-user OAuth authentication and read-only access to Slack workspaces with comprehensive search capabilities, message retrieval, user profiles, and workspace information through session-based access control and CSRF protection.

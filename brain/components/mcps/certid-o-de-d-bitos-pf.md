@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:29:39Z"
 ---
 ## What it is
 Emite a certidão conjunta de débitos federais de uma pessoa física a partir do CPF, com uma ferramenta de leitura somente para consulta.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T06:06:22Z"
 ---
 ## What it is
 Enables Claude to interact with a document processing backend, providing tools for listing, retrieving, uploading, and processing documents, as well as resources for pending documents and statistics.

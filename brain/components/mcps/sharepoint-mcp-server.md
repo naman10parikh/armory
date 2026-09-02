@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T13:10:53Z"
 ---
 ## What it is
 Enables AI assistants to manage Microsoft SharePoint documents and folders through natural language, supporting operations like listing, reading, uploading, updating, deleting, and creating Office files.

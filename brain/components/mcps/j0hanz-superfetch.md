@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T19:15:44Z"
 ---
 ## What it is
 MCP server `SuperFetch`, catalogued on PulseMCP. Fetches and transforms web content into structured JSONL or markdown formats

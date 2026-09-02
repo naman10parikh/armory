@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-08T17:57:08Z"
 ---
 ## What it is
 MCP server `8th Wall`, catalogued on PulseMCP. Enables building WebAR experiences through natural language by providing orchestration tools for A-Frame/Three.js projects and 8th Wall Desktop integration, featuring asset discovery, code generation for custom components, pre-built templates, and complete XR application scaffolding for rapid AR prototyping.

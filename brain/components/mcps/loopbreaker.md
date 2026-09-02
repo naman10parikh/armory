@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T23:29:31Z"
 ---
 ## What it is
 Provides tools for agents to manage a local review graph, tracking acceptance behaviors, evidence, review passes, and human waivers to decouple review convergence from shipping readiness.

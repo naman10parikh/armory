@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 5
+forks: 1
+pushed_at: "2026-04-14T14:30:46Z"
 ---
 ## What it is
 Full WordPress management via WP-CLI with 30+ tools for themes, plugins, posts, menus, users, database, scaffolding, and cache. Works locally or over SSH to remote servers.

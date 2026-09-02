@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:59:14Z"
 ---
 ## What it is
 Hosted MCP server that lets staff search and retrieve AskElephant call transcripts from claude.ai, with tools for listing meetings, searching transcript excerpts, and fetching full transcripts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:23:59Z"
 ---
 ## What it is
 Provides codebase intelligence over Git repositories with tools for code search, symbol lookup, dependency tracing, and commit history. It also rewrites its own tool descriptions and schemas based on usage telemetry to improve tool selection.

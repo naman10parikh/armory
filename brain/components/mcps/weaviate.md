@@ -8,10 +8,12 @@ source_url: https://github.com/weaviate/mcp-server-weaviate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 161
+stars: 162
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2026-05-26T15:59:36Z"
 ---
 ## What it is
 MCP server `Weaviate`, catalogued on PulseMCP. Integrate with Weaviate, the AI-native database.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:50:36Z"
 ---
 ## What it is
 MCP server `Hash Utils AI`, catalogued on PulseMCP. Cryptographic hash calculation, verification, and digest utilities.

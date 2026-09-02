@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:06:30Z"
 ---
 ## What it is
 A read-only IBM MQ diagnostic MCP server that safely provides AI agents with typed root-cause analysis and verified IBM documentation, while incorporating prompt-injection defense, OIDC+RBAC, and tamper-evident audit.

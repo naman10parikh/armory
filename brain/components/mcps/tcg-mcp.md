@@ -8,11 +8,13 @@ source_url: https://github.com/seanlok/tcg-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T00:53:26Z"
 ---
 ## What it is
 A Pokemon TCG MCP server that looks up graded cards, manages a local SQLite collection, queries pricing providers, tracks a watchlist with target prices, and snapshots PSA pop counts for trend analysis.

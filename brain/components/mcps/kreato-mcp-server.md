@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T09:15:49Z"
 ---
 ## What it is
 Enables AI agents to perform Web3 creator monetization actions like tipping creators, buying digital products, and managing memberships through natural language.

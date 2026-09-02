@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T23:16:28Z"
 ---
 ## What it is
 MCP server for local speech-to-text using Whisper Large V3 (MLX), enabling audio transcription with text/timestamps/SRT output and LLM-based correction, all running offline on Apple Silicon.

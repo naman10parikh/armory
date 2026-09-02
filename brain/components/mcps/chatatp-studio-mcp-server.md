@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:38:55Z"
 ---
 ## What it is
 Exposes ChatATP Studio's backend API as MCP tools over Streamable HTTP, enabling clients to manage agents, knowledge bases, MCP connections, HTTP APIs, LLM providers, messaging platforms, and teams with forwarded authorization.

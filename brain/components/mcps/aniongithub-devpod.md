@@ -8,10 +8,12 @@ source_url: https://github.com/aniongithub/devcontainer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T17:23:16Z"
 ---
 ## What it is
 MCP server `DevPod`, catalogued on PulseMCP. Manages development containers via DevPod, Docker, and GitHub Codespaces with 45 MCP tools for AI agents.

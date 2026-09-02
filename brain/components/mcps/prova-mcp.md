@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T16:30:32Z"
 ---
 ## What it is
 An MCP server that exposes the Prova reasoning verifier, enabling AI agents to verify their own reasoning and kernel-check Lean 4 proofs before outputting answers.

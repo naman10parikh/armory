@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T16:04:35Z"
 ---
 ## What it is
 Enables natural language management of Motion tasks, projects, schedules, and more via the Model Context Protocol, integrating with LLMs like Claude and ChatGPT.

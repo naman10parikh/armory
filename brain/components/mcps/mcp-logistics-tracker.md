@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:03:01Z"
 ---
 ## What it is
 MCP server for tracking Japanese logistics carriers (Yamato, Sagawa, Japan Post) via mock or AfterShip adapter. Enables AI agents to query shipment status and history in natural language.

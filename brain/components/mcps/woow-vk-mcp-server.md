@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T04:57:18Z"
 ---
 ## What it is
 Three-piece MCP service for Vibe Kanban that exposes 33 tools via authenticated SSE/StreamableHttp, enabling AI agents to manage workspaces, repositories, issues, and Kanban boards.

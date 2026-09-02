@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:52:17Z"
 ---
 ## What it is
 MCP server that provides educational resources and curriculum planning by integrating Open Library, Wikipedia, Dictionary, and arXiv APIs with grade-level filtering and educational metadata.

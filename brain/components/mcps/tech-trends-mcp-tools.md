@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:43:36Z"
 ---
 ## What it is
 Tech Trends MCP Tools: 3 real-time data extraction tools for AI agents, powered by the Apify MCP server. Hacker News trend tracker (caught the Stripe/OpenRouter $7B acquisition rumor in real time), Product Hunt daily launch tracker, and GitHub trending repositories tracker. Pay-per-use at $0.10 per 

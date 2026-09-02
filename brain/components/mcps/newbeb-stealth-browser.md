@@ -8,10 +8,12 @@ source_url: https://github.com/brian-ln/stealth-browser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-06-29T20:01:08Z"
 ---
 ## What it is
 MCP server `Stealth Browser`, catalogued on PulseMCP. Provides stealth browser capabilities using Playwright and anti-detection techniques for evading bot detection systems during web scraping and automated testing.

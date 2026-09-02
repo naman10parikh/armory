@@ -8,10 +8,12 @@ source_url: https://github.com/auctalis/nocturnusai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T13:32:02Z"
 ---
 ## What it is
 MCP server `NocturnusAI`, catalogued on PulseMCP. Deterministic context compression engine that extracts and ranks facts from AI agent conversations.

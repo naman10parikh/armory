@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:20:44Z"
 ---
 ## What it is
 A remote, read-only MCP server for the CAN-IMMUNE cancer neoantigen platform, enabling AI agents to query the database in plain language. It provides tools for searching genes, cell lines, mutations, and MHC binding data.

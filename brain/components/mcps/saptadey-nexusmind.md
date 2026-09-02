@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-16T22:46:03Z"
 ---
 ## What it is
 MCP server `NexusMind`, catalogued on PulseMCP. Scientific reasoning server that processes complex queries through an eight-stage Graph-of-Thoughts approach, maintaining a multi-layer graph structure with confidence vectors that quantify certainty across multiple dimensions.

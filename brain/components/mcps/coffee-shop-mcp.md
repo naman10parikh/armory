@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:44:00Z"
 ---
 ## What it is
 An MCP project that orchestrates coffee orders by coordinating a Barista server and machine servers (grinder, brew unit, steamer, dispenser) through an LLM.

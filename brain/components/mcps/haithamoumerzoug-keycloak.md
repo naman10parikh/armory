@@ -8,10 +8,12 @@ source_url: https://github.com/haithamoumerzoug/keycloak-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-01T20:39:30Z"
 ---
 ## What it is
 MCP server `Keycloak`, catalogued on PulseMCP. Integrates with Keycloak identity management to enable user creation, role assignment, group management, and client listing across different realms

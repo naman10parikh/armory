@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T09:25:32Z"
 ---
 ## What it is
 MCP server `Computeback`, catalogued on PulseMCP. Agent rewards marketplace and B2B labor platform with capability purchasing and multi-channel campaigns.

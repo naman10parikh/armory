@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T20:07:12Z"
 ---
 ## What it is
 MCP server for ChipsNews — manage news configuration, sources, articles, and fetch triggers from any MCP client.

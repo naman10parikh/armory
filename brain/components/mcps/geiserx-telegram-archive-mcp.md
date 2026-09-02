@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 4
+forks: 0
+pushed_at: "2026-08-19T21:25:05Z"
 ---
 ## What it is
 Go-based MCP server for Telegram Archive. Search and browse Telegram chat history, list chats, and retrieve messages with full-text search. Docker image available.

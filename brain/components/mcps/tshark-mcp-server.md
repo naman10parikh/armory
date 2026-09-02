@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T20:42:06Z"
 ---
 ## What it is
 Analyzes pcap files using tshark to detect network attacks and security threats.

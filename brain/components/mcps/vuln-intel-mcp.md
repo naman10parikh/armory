@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:18:02Z"
 ---
 ## What it is
 Provides CVE lookup, search, and exploit intelligence from public vulnerability sources (NVD, CISA KEV, EPSS) for AI agents to produce remediation guidance without consuming LLM tokens for data fetching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:36:19Z"
 ---
 ## What it is
 Enables pre-approving deliveries and visitors at your gate via the NoBrokerHood resident app, so you or an LLM can automate gate access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T13:41:24Z"
 ---
 ## What it is
 Enables interaction with the Onto platform through MCP, providing tools for managing realms, templates, entities, diagrams, and relations.

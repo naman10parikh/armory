@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T02:22:08Z"
 ---
 ## What it is
 Real-time web search with answer-ready results for Claude, Cursor and any MCP client. A Tavily alternative: same speed, 20.2% fewer tokens, higher answer quality (60.7% of decided duels won) on a public benchmark. Hosted on mcp.serpdive.com or npx serpdive-mcp.

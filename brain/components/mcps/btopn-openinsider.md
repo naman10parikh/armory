@@ -8,10 +8,12 @@ source_url: https://github.com/btopn/openinsider-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-07T15:13:27Z"
 ---
 ## What it is
 MCP server `OpenInsider`, catalogued on PulseMCP. Investment research MCP server with 16 tools for insider trades, SEC filings, FINRA short interest, and live stock quotes.

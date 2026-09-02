@@ -8,10 +8,12 @@ source_url: https://github.com/guzus/grok-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-25T15:22:35Z"
 ---
 ## What it is
 MCP server `Grok X.com`, catalogued on PulseMCP. Real-time X.com search through xAI's Grok API with post, user, thread, and trend discovery capabilities.

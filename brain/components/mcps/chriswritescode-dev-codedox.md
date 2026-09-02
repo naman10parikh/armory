@@ -8,10 +8,12 @@ source_url: https://github.com/chriswritescode-dev/codedox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-25T17:07:04Z"
 ---
 ## What it is
 MCP server `CodeDox`, catalogued on PulseMCP. Crawls documentation websites and extracts code snippets using tree-sitter parsing, automatically categorizing and enriching them with metadata to build searchable code databases for technical documentation.

@@ -8,10 +8,12 @@ source_url: https://github.com/hidai25/eval-view
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 111
+stars: 133
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-08-23T15:52:35Z"
 ---
 ## What it is
 MCP server `EvalView`, catalogued on PulseMCP. Regression testing for AI agents with golden baselines, CI/CD integration, and multi-framework support.

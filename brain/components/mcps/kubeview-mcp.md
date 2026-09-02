@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-12T18:40:37Z"
 ---
 ## What it is
 Read-only MCP server for safe Kubernetes inspection, diagnosis, and debugging. Supports Kubernetes core, Helm, Argo Workflows, and Argo CD.

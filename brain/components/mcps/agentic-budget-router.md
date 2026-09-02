@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:10:40Z"
 ---
 ## What it is
 MCP server `Agentic Budget Router`, catalogued on PulseMCP. Budget approvals, policy checks, spend receipts, and usage evidence for agentic workflows.

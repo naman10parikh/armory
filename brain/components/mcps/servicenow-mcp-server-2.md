@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T00:05:53Z"
 ---
 ## What it is
 Enables natural language interaction with ServiceNow instances for managing incidents, changes, CMDB, service catalog, users, groups, and knowledge base via MCP.

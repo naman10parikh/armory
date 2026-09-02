@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T00:38:59Z"
 ---
 ## What it is
 MCP server `Vox`, catalogued on PulseMCP. Native macOS voice I/O for AI assistants using SFSpeechRecognizer and optional ElevenLabs TTS.

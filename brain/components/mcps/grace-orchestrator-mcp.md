@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:36:41Z"
 ---
 ## What it is
 MCP server orchestrating local multi-agent workflows with gated lifecycle, handoff events, and host-level continuation.

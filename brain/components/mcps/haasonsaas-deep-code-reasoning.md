@@ -8,10 +8,12 @@ source_url: https://github.com/evalops/deep-code-reasoning-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-09-02T01:22:45Z"
 ---
 ## What it is
 MCP server `Deep Code Reasoning`, catalogued on PulseMCP. Enables intelligent routing between Claude and Google's Gemini AI for complementary code analysis, leveraging Gemini's 1M token context window for large codebase analysis while Claude handles local operations, with conversational AI-to-AI dialogue capabilities for multi-turn problem-solving sessions.

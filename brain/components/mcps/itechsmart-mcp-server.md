@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T02:00:05Z"
 ---
 ## What it is
 Enables AI agents to verify cryptographic ProofLink receipts, query UAIO platform status, and simulate infrastructure attacks, providing autonomous IT operations with audit trails.

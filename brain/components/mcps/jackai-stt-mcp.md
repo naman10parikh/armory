@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:53:32Z"
 ---
 ## What it is
 Transcribes audio files by referencing them in chat, using OpenAI's speech-to-text models locally without uploading audio, and supports speaker diarization.

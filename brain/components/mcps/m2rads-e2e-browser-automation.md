@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-27T03:00:48Z"
 ---
 ## What it is
 MCP server `E2E Browser Automation`, catalogued on PulseMCP. Enables end-to-end testing and web automation through browser interaction capabilities for extracting content, following links, and executing automated browsing workflows with configurable headless operation.

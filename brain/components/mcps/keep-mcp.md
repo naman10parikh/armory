@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-28T13:36:43Z"
 ---
 ## What it is
 Enables users to create, search, and retrieve Google Keep notes via natural language commands.

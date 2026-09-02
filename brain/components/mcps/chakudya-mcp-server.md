@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:04:01Z"
 ---
 ## What it is
 Exposes the Chakudya Nutrition Registry API as MCP tools, enabling clients to search Malawian food data, perform clinical nutrition lookups, and query a RAG knowledge base.

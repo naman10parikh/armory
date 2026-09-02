@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T09:32:52Z"
 ---
 ## What it is
 Enables users to ingest PDF/DOCX/TXT/MD documents and ask natural language questions about them, using local embeddings and Groq-powered retrieval-augmented generation.

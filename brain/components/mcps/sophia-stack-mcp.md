@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-27T12:58:37Z"
 ---
 ## What it is
 Enables external AI agents to edit and manage a self-hosted website via a token-gated MCP server, including page content, data, media, and sandboxed functions with validation and rollback.

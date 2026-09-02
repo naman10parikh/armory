@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T03:38:48Z"
 ---
 ## What it is
 MCP server that exposes local Granola meeting notes, summaries, and transcripts to AI assistants via SQLite-backed search and retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-04T15:47:54Z"
 ---
 ## What it is
 Enables natural language interaction with Django REST Framework APIs by auto-discovering ViewSets and providing CRUD tools, requiring minimal setup.

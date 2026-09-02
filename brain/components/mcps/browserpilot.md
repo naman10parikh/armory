@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-05T03:12:13Z"
 ---
 ## What it is
 Enables AI to control browsers via natural language for web automation, testing, and data scraping. Supports Chrome-based browsers and integrates with any MCP-compatible AI tool.

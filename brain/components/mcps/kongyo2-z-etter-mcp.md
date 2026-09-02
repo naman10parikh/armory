@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T12:24:40Z"
 ---
 ## What it is
 MCP server to create text posts on Zetter (z-etter.com) from any MCP host, with posts automatically receiving an AI badge.

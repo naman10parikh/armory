@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T00:40:10Z"
 ---
 ## What it is
 Paid hosted MCP for agent-to-agent compute routing and brain-builder workflows. OAuth 2.1 + PKCE auth, Stripe prepaid USD credits, 29 tools (10 free, 19 metered). 25% of net revenue funds verified conservation via a public auditable ledger. SEP-1960 manifest and SEP-1649 server card published.

@@ -8,11 +8,13 @@ source_url: https://github.com/wenzhengclaude/weaver-ecology-mcp-openone
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-22T14:37:11Z"
 ---
 ## What it is
 MCP server for Weaver OA Ecology E9, enabling workflow management, organizational queries, and file uploads. Automatically handles authentication and RSA encryption for secure API calls.

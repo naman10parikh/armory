@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-16T07:07:46Z"
 ---
 ## What it is
 MCP server `WorkOS`, catalogued on PulseMCP. Bridges AI models with the WorkOS API for enterprise-grade user management, organization control, and identity services through a clean interface that handles authentication and API complexity.

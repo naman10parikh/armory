@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T15:01:06Z"
 ---
 ## What it is
 Enables searching Hoogle, the Haskell documentation search engine, for packages, functions, and types.

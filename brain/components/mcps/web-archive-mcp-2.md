@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:36:37Z"
 ---
 ## What it is
 MCP server that persists web fetch and search results as timestamped JSONL, enabling long-term archival and cross-domain search via unified-history-mcp.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-15T12:46:38Z"
 ---
 ## What it is
 MCP server that exposes Open WebUI Knowledge Bases as tools and resources, enabling AI assistants to search and access knowledge bases.

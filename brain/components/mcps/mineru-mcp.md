@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:18:37Z"
 ---
 ## What it is
 MCP server for parsing PDF, images, and Office documents into Markdown using MinerU, with tools for document parsing and reading previous results.

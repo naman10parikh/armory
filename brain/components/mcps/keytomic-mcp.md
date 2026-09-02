@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:56:26Z"
 ---
 ## What it is
 Enables AI clients to perform bounded website Quick Audits via MCP tools, covering crawlability, indexability, and metadata.

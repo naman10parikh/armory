@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:31:11Z"
 ---
 ## What it is
 Enables AI agents to search for cheap flights, InPost parcel lockers, and hotels via the Perun.search API for trip planning in Poland.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:52:47Z"
 ---
 ## What it is
 MCP server for querying live CISA KEV, EPSS, and enriched vulnerability feeds with full provenance. Enables natural-language access to auditable security-intelligence data from Claude Desktop and other MCP clients.

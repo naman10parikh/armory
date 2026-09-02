@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-28T07:04:58Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud Supabase`, catalogued on PulseMCP. Integrates Supabase project management and Alibaba Cloud GPDB with tools for database operations, Edge Functions deployment, storage management, and cloud infrastructure automation.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-16T06:40:14Z"
 ---
 ## What it is
 MCP server `OpenAPI Search`, catalogued on PulseMCP. Loads OpenAPI specifications from URLs and provides tools for searching endpoints, exploring schemas, and extracting authentication configurations to help developers quickly understand API structures without manually parsing complex documentation files.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-07T07:44:17Z"
 ---
 ## What it is
 MCP server `Crypto Stocks`, catalogued on PulseMCP. Tracks real-time market data for major crypto-related stocks like Coinbase and MicroStrategy using yfinance, providing tools to list crypto-adjacent equities, fetch current prices with timestamps, and retrieve historical price data for traditional equity analysis of the blockchain sector.

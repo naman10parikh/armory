@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T04:01:28Z"
 ---
 ## What it is
 An MCP server that enables agents to delegate asynchronous tasks to registered humans, with support for threaded conversation, result review, and delivery via web, email, or Telegram.

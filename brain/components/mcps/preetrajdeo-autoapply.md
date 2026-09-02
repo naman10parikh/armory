@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-20T02:57:29Z"
 ---
 ## What it is
 MCP server `AutoApply`, catalogued on PulseMCP. Automates job applications using a real browser to fill forms on Greenhouse, Lever, Workday, and LinkedIn.

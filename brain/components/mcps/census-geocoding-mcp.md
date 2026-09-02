@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T02:30:55Z"
 ---
 ## What it is
 Provides access to the U.S. Census Bureau Geocoding Services API, enabling geocoding addresses, reverse geocoding coordinates, and retrieving Census geographies without an API key.

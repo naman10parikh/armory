@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-20T09:41:33Z"
 ---
 ## What it is
 MCP server `Heroku Platform API`, catalogued on PulseMCP. Search and execute Heroku Platform API operations with token-efficient Code Mode pattern.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:07:17Z"
 ---
 ## What it is
 A demo MCP server that lets AI clients search, read, and list recipes from a local CookLikeHOC checkout, with original source links.

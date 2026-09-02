@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T05:42:50Z"
 ---
 ## What it is
 Enables AI assistants to interact with mem.ai memory through a standardized interface, providing complete API coverage with tools for notes, collections, and memory operations.

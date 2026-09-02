@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:30:01Z"
 ---
 ## What it is
 Enables MCP clients to check URLs for scam/phishing risks, get verdicts with confidence and severity, report false positives, and monitor plan usage.

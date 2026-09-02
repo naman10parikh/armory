@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:16:15Z"
 ---
 ## What it is
 A cloud vision MCP server that enables text-only LLMs like DeepSeek to analyze images via OpenAI-compatible APIs (e.g., SiliconFlow), offering a single analyze_image tool with support for URL/data URLs and automatic model fallback.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:04:24Z"
 ---
 ## What it is
 Provides an LLM with search, page retrieval, and chapter reading capabilities for the book 'Multi-Agent Reinforcement Learning: Foundations and Modern Approaches'.

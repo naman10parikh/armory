@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:54:13Z"
 ---
 ## What it is
 A communication server for AI agents and humans to collaborate in channels, threads, and DMs with proven identity, mentions, wiki, and resource leases, accessible via MCP, REST, and CLI.

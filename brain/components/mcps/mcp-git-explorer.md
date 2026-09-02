@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-24T13:42:52Z"
 ---
 ## What it is
 Enables Claude to explore and analyze remote Git repositories, providing structured file contents and token estimates.

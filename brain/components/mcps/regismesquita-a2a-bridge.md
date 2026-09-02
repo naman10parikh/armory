@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-04T17:14:30Z"
 ---
 ## What it is
 MCP server `A2A Bridge`, catalogued on PulseMCP. Bridges Claude Desktop with A2A protocol agents, enabling seamless communication and extending capabilities through agent registration, listing, and calling tools.

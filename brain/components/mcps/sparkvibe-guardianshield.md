@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-03T04:02:02Z"
 ---
 ## What it is
 MCP server `GuardianShield`, catalogued on PulseMCP. AI security layer with code scanning, PII detection, prompt injection defense, and CVE checking.

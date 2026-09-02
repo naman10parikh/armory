@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-12T22:01:07Z"
 ---
 ## What it is
 Transforms single-attempt coding into a multi-attempt, test-validated refinement loop by running your actual test suite and feeding failures back to the LLM as structured directives.

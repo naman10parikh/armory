@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-07T17:47:08Z"
 ---
 ## What it is
 MCP server `InstantDB`, catalogued on PulseMCP. Provides a robust InstantDB server for executing database queries, retrieving results, and serving code examples across admin, CLI, and data modeling contexts.

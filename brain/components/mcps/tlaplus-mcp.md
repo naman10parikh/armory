@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T20:45:23Z"
 ---
 ## What it is
 Exposes the TLA+ toolchain (TLC, SANY, PlusCal, TLATeX) as structured JSON tools via the Model Context Protocol, enabling AI assistants to parse, check, simulate, and typeset TLA+ specifications.

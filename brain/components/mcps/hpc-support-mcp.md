@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:20:40Z"
 ---
 ## What it is
 A read-only MCP server exposing SLURM, GPFS, Prometheus (node exporter + DCGM GPU metrics) and generic Elasticsearch exploration as diagnostic tools for LLM-based HPC support assistants.

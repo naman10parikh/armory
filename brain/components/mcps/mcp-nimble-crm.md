@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T20:26:07Z"
 ---
 ## What it is
 MCP server for the Nimble CRM API that enables managing contacts, deals, pipelines, notes, tasks, tags, fields metadata, and message drafts from any MCP client.

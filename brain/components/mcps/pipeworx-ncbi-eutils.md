@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:24:37Z"
 ---
 ## What it is
 MCP server `NCBI E-utilities`, catalogued on PulseMCP. Search and fetch biomedical records across NCBI Entrez databases via E-utilities.

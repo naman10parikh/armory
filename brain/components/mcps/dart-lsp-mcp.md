@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:16:22Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides Dart language analysis capabilities to Claude Code, enabling real-time diagnostics, code navigation, and symbol search for Dart projects.

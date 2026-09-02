@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:29:15Z"
 ---
 ## What it is
 Enables AI assistants to scrape pages, batch-process URLs, and crawl entire websites with AI-powered extraction.

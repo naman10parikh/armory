@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-10T09:28:02Z"
 ---
 ## What it is
 Enables humans and AI agents to collaboratively control serial ports via MCP tools or Web UI, with real-time data sharing across all participants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T21:13:49Z"
 ---
 ## What it is
 MCP server for Cosense (formerly Scrapbox) that enables page creation, editing, deletion, and searching with WebSocket-based operations. Extends the original server with page-deletion and line-editing tools.

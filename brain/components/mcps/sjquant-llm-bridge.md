@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-23T08:22:14Z"
 ---
 ## What it is
 MCP server `LLM Bridge`, catalogued on PulseMCP. Provides a unified interface to multiple large language model providers (OpenAI, Anthropic, Google, DeepSeek) through a containerized server with customizable parameters for seamless model switching within applications.

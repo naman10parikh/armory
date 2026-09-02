@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:12:09Z"
 ---
 ## What it is
 MCP server that provides LLM tools to interact with Lyrion Music Server (LMS), enabling player control, playback management, playlist operations, and music library search.

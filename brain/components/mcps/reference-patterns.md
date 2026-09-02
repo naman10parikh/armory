@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:30:01Z"
 ---
 ## What it is
 Provides access to self-contained, runnable implementation patterns across multiple programming languages via MCP tools for searching and retrieving documentation and code examples.

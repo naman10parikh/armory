@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T06:10:36Z"
 ---
 ## What it is
 MCP server for managing Hikvision NVRs and IP cameras via ISAPI, providing tools for device info, camera channels, user management, and configuration changes with safety confirmations.

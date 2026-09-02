@@ -8,11 +8,13 @@ source_url: https://github.com/AsherDLL/jadx-rpc
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T20:18:46Z"
 ---
 ## What it is
 MCP server for analyzing Android APK, DEX, or JAR files via a headless jadx engine, enabling LLM agents to query decompiled code, symbols, call graphs, and more.

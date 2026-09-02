@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T09:14:04Z"
 ---
 ## What it is
 MCP server for emailfinder.dev that enables AI assistants to find verified professional email addresses via name/domain, LinkedIn URLs, company domains, roles, and email validation.

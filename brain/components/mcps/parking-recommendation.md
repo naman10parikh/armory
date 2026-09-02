@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:59:13Z"
 ---
 ## What it is
 Provides destination-based public parking lot recommendations in Seoul. It converts destinations to coordinates, finds nearby public parking lots, and estimates wait times using real-time availability and historical statistics.

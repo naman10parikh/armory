@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:52:04Z"
 ---
 ## What it is
 Enables MCP clients to interact with Up Bank accounts and transactions, including reading balances, summarizing spending, and categorizing or tagging transactions.

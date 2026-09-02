@@ -8,10 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-words
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:50:05Z"
 ---
 ## What it is
 MCP server `Words`, catalogued on PulseMCP. Word finding and linguistic data via the Datamuse API — find words by meaning, rhymes, sounds-like, and contextual associations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T20:33:36Z"
 ---
 ## What it is
 An MCP server providing AI agents with a stealth Chromium browser that uses hybrid accessibility-object-model and set-of-mark vision for token-lean snapshots and reliable action via ref ids.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:41:53Z"
 ---
 ## What it is
 Composite MCP server for Things 3 on macOS that bundles multiple read calls into single requests, enables batch writes, and provides a self-healing read path to handle TCC protection issues.

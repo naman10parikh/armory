@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:27:04Z"
 ---
 ## What it is
 Query current and historical UK official figures (tax bands, minimum wage, benefits, energy price cap and 100+ more) with effective dates and links to official government sources. Data refreshed whenever the official sources change.

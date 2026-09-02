@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:14:00Z"
 ---
 ## What it is
 Provides AI agents with AV/IT device integration knowledge (control protocols, ports, field-tested notes) via a pay-per-lookup API using the x402 protocol and USDC micropayments.

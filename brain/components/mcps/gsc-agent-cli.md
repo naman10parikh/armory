@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:08:02Z"
 ---
 ## What it is
 Enables querying Google Search Console data, Core Web Vitals, and PageSpeed insights from the terminal or via MCP tools.

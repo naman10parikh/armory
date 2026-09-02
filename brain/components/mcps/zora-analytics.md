@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:35:44Z"
 ---
 ## What it is
 Enables querying live Zora token data and analytics methodology through SQL and document retrieval tools, providing guarded access to on-chain holder, transfer, and token information.

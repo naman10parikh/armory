@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:42:28Z"
 ---
 ## What it is
 A local MCP server that lets you interact with Asana using a personal access token, providing tools to list projects and tasks, search tasks, create and update tasks, and add comments via the Asana REST API.

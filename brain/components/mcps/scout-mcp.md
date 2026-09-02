@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T16:06:35Z"
 ---
 ## What it is
 Enables AI assistants to look up real estate agents, search MLS listings, submit buyer/seller leads, and access proprietary seller-intent signals in SC and GA.

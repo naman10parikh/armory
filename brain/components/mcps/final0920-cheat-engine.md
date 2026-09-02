@@ -8,10 +8,12 @@ source_url: https://github.com/final0920/ce-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T03:35:07Z"
 ---
 ## What it is
 MCP server `Cheat Engine MCP`, catalogued on PulseMCP. Cheat Engine plugin exposing an HTTP MCP endpoint for AI-driven memory inspection, disassembly, and breakpoint operations on Windows.

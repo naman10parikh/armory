@@ -8,10 +8,12 @@ source_url: https://github.com/navya-tecnologia/planka-v2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T12:14:47Z"
 ---
 ## What it is
 MCP server `Planka v2 (navya-tecnologia)`, catalogued on PulseMCP. Planka v2.x kanban board management with task lists, time tracking, and membership control.

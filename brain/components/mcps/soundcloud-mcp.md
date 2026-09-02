@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T20:01:17Z"
 ---
 ## What it is
 Enables uploading and managing SoundCloud tracks via the official API, with support for metadata, artwork, and automated token refresh.

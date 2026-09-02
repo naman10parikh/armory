@@ -8,11 +8,13 @@ source_url: https://github.com/proofsh/granola-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 93
+stars: 94
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-06-01T16:42:02Z"
 ---
 ## What it is
 Bridges Granola.ai meeting intelligence with Claude Desktop, enabling natural language access to meeting transcripts, notes, and insights.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:41:16Z"
 ---
 ## What it is
 US tax classification for on-chain transactions: tx hash in → canonical category, tax treatment, confidence, and review flags out. 80+ chains.

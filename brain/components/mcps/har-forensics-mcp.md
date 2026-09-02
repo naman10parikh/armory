@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:35:15Z"
 ---
 ## What it is
 Audits HAR captures locally with MCP tools for triage, findings, vendor blast radius, CSP generation, and sanitization—no network calls, redacted by default.

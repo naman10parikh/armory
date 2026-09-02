@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:45:15Z"
 ---
 ## What it is
 Enables AI assistants to manage shopping lists, recipes, meal plans, and shared expenses with a KitchenOwl instance via its REST API.

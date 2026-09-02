@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-18T02:46:50Z"
 ---
 ## What it is
 MCP server `CodeCompass`, catalogued on PulseMCP. Integrates with GitHub repositories and OpenRouter to provide deep codebase analysis, dependency mapping, code refactoring, component extraction, and template generation for modernizing legacy code and architectural analysis.

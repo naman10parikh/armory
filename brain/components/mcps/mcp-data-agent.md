@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:23:34Z"
 ---
 ## What it is
 A real MCP server exposing data-analyst tools (SQL querying, schema introspection, stats, charting) over a sales database, with a Gemini agent that discovers and calls those tools at runtime via the standard MCP protocol.

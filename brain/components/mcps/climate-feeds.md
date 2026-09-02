@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:33Z"
 ---
 ## What it is
 Provides tools to list curated climate and energy feeds, read feed items, and fetch any RSS/Atom feed with robust fallback handling.

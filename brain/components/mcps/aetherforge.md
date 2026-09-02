@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:09:36Z"
 ---
 ## What it is
 An AI-native game engine MCP server that enables AI agents to create, modify, and run games using 53 tools for scene creation, physics, audio, 3D rendering, and AI-generated images and music.

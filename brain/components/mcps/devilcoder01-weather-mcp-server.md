@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
 stars: 24
+forks: 19
+pushed_at: "2025-08-21T14:18:45Z"
 ---
 ## What it is
 Access real-time weather data for any location using the WeatherAPI.com API, providing detailed forecasts and current conditions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:09:20Z"
 ---
 ## What it is
 Sanitizes Continue.dev session exports and reformats them as readable Obsidian chat Markdown, with MCP tools that return only metadata (paths, counts) for privacy.

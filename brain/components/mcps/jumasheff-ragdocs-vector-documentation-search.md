@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-16T09:51:20Z"
 ---
 ## What it is
 MCP server `RAGDocs (Vector Documentation Search)`, catalogued on PulseMCP. Enables semantic documentation search and retrieval using vector databases, allowing for URL extraction, source management, and indexing queues with support for multiple embedding providers including Ollama and OpenAI.

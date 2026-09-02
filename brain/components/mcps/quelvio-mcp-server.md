@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T07:12:03Z"
 ---
 ## What it is
 Search your company's connected knowledge from any AI tool that speaks the Model Context Protocol. Supports querying across sources like Drive, SharePoint, Confluence, Slack, and Notion with permission filtering.

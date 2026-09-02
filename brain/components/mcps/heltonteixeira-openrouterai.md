@@ -8,10 +8,12 @@ source_url: https://github.com/heltonteixeira/openrouterai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-11-08T14:21:40Z"
 ---
 ## What it is
 MCP server `OpenRouter`, catalogued on PulseMCP. Unifies access to diverse AI models via OpenRouter, enabling flexible model selection and usage for applications like chatbots and content generation.

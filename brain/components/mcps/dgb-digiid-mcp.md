@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:27:09Z"
 ---
 ## What it is
 Gives AI agents a verifiable identity using Digi-ID passwordless authentication on DigiByte, enabling them to prove who they are by signing challenges without revealing private keys.

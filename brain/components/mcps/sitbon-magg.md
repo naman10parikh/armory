@@ -8,10 +8,12 @@ source_url: https://github.com/sitbon/magg
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 134
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-08-02T20:56:21Z"
 ---
 ## What it is
 MCP server `MAGG`, catalogued on PulseMCP. Meta-MCP server that aggregates and manages multiple MCP servers through intelligent discovery from sources like Glama.ai and GitHub, enabling dynamic server installation, configuration, and unified tool access with automatic conflict resolution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:31:50Z"
 ---
 ## What it is
 Local-first MCP Work Model for coding agents: retrieves scored memory, records commitments, and credits outcomes from tests, reviews, replies, or owner approval. Public repo includes Apache-2.0 integration glue; the local engine binary is proprietary.

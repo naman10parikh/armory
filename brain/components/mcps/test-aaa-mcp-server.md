@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T12:51:53Z"
 ---
 ## What it is
 Auto-generated MCP server wrapping a Petstore API, providing tools for managing pets, store inventory, orders, and users via natural language or MCP clients.

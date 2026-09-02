@@ -8,11 +8,13 @@ source_url: https://github.com/VxASI/blender-mcp-vxai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 298
+stars: 299
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2025-03-21T16:24:25Z"
 ---
 ## What it is
 Enables natural language control of Blender 3D through MCP clients, allowing creation, modification, and manipulation of 3D models, animations, and scenes.

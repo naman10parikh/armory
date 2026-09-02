@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T23:42:24Z"
 ---
 ## What it is
 Scans projects to discover all AI configuration files, MCP servers, agents, and memories across 19 tools, enabling export and import of the entire AI ecosystem.

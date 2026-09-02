@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:53:08Z"
 ---
 ## What it is
 TouchBridge is a local-first MCP server for iOS simulators and physical devices, enabling AI to see, control, test, and redesign iPhone screens through a structured screenshot bridge and tool surface.

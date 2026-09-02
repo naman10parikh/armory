@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-06T05:35:55Z"
 ---
 ## What it is
 An MCP-based intelligent video generation system that automatically adds subtitles, synthesizes voice, and edits video clips.

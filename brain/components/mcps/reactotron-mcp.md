@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-25T21:17:57Z"
 ---
 ## What it is
 Acts as a proxy between your app and Reactotron, enabling AI assistants to read logs, inspect state, monitor network requests, and trigger custom commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T15:51:43Z"
 ---
 ## What it is
 MCP server for Google Tag Manager API, enabling users to manage containers, tags, and triggers through natural language using Google Application Default Credentials.

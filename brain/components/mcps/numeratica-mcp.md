@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:47:49Z"
 ---
 ## What it is
 A thin MCP bridge that connects any MCP client to the Numeratica financial-planning API — retirement Monte Carlo, taxes, RMDs, Social Security, Roth conversions, and more.

@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/ssl-checker-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5042
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:09Z"
 ---
 ## What it is
 SSL/TLS certificate checker API for AI agents. Verify certificate validity, expiry date, issuer chain, protocol version, cipher strength, and security grade for any domain. Tools: security_check_ssl. Use this for security monitoring, expiry alerting, or SSL audit automation. IMPORTANT: For comprehen

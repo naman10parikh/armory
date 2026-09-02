@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T23:49:43Z"
 ---
 ## What it is
 Generates frontend UI code from text descriptions, screenshots, or iterative refinement using Gemini 2.5 Flash.

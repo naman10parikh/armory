@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T09:43:26Z"
 ---
 ## What it is
 Approval receipts for AI browser purchases. Enables purchase evaluation, approval recording, budget alerts, and receipt export.

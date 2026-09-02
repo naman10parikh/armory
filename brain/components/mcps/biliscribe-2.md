@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-20T20:18:42Z"
 ---
 ## What it is
 Extracts and formats Bilibili video content into structured text for LLM processing and analysis.

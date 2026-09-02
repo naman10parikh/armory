@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:56Z"
 ---
 ## What it is
 Enables querying the Regional Dental Council of Rio Grande do Sul (Brazil) professional registration database through a read-only MCP tool. Works with any MCP client via HTTP with prepaid credits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T02:11:32Z"
 ---
 ## What it is
 Enables advanced mathematics operations including linear algebra, vector math, symbolic computation, and calculus through MCP tools. Designed for use with Claude and other MCP-compatible LLMs.

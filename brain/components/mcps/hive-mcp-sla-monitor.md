@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T04:50:41Z"
 ---
 ## What it is
 SLA observation broker for the A2A network: agents register public health endpoints with target uptime and latency, and the shim probes them to record breaches.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T09:48:55Z"
 ---
 ## What it is
 MCP server `SAIHM`, catalogued on PulseMCP. Sovereign encrypted persistent memory for AI agents with GDPR erasure and Filecoin-backed storage.

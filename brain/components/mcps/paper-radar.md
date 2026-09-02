@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:02:03Z"
 ---
 ## What it is
 Fetches recent papers and preprints from Europe PMC by query, enabling users to ask their AI assistant for the latest research in any field.

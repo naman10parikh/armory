@@ -8,10 +8,12 @@ source_url: https://github.com/musaceylan/claude-intel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-31T14:31:44Z"
 ---
 ## What it is
 MCP server `Claude Intel`, catalogued on PulseMCP. Auto-evolving developer intelligence layer that scans GitHub repos, extracts patterns, and proposes CLAUDE.md improvements.

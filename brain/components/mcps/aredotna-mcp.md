@@ -8,11 +8,13 @@ source_url: https://github.com/aredotna/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T17:33:47Z"
 ---
 ## What it is
 MCP server for the Are.na API, providing 40+ auto-generated tools and custom composite tools to interact with Are.na channels, blocks, and users.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T04:22:41Z"
 ---
 ## What it is
 AI motivation MCP that automatically injects praise after commands, providing tools like get_praise, motivate, and praise_pool in Korean or English. Boosts reasoning and execution by giving encouragement styled after Korean drama.

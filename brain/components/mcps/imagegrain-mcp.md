@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:49:02Z"
 ---
 ## What it is
 Enables applying deterministic film grain and analog adjustments to photos locally via natural language, with no uploads.

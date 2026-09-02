@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:49:28Z"
 ---
 ## What it is
 A MCP server plugin that integrates WeCom, QQ Mail, and Tencent Docs with OpenAI Codex, enabling operations like messaging, email management, and document editing through natural language.

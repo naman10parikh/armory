@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:08:53Z"
 ---
 ## What it is
 A read-only MCP server that wraps the Scalable Capital CLI to expose broker data (portfolio, holdings, transactions, analytics, quotes, news) to any MCP-capable client.

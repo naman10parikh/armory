@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-04T16:42:16Z"
 ---
 ## What it is
 A service for calculating Islamic prayer times, Qiblah direction, and moon visibility using the islamic_times library.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:26:16Z"
 ---
 ## What it is
 An MCP server that allows starting an iwoca business finance application from within a ChatGPT conversation, supporting drafting, submitting, and checking status of applications.

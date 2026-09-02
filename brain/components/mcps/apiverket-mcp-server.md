@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T05:55:49Z"
 ---
 ## What it is
 Query Swedish public data from AI tools. Includes company data, SCB statistics, weather, transport, public agencies, and more through the Apiverket API.

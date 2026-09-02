@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T20:06:17Z"
 ---
 ## What it is
 A local MCP server that renders a database schema as an interactive, dbdiagram.io-style ER diagram in your browser.

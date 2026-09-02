@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T03:42:42Z"
 ---
 ## What it is
 MCP server `SWOTPal`, catalogued on PulseMCP. SWOT, TOWS, and PESTLE analysis tools with access to 100+ pre-built examples and PDF/text/URL conversion.

@@ -8,10 +8,12 @@ source_url: https://github.com/dustland/genesis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-20T15:44:55Z"
 ---
 ## What it is
 MCP server `Genesis World`, catalogued on PulseMCP. Bridges AI assistants with Genesis World simulations, enabling execution of customizable agent-based simulations and virtual world creation for analyzing emergent behaviors directly within conversations.

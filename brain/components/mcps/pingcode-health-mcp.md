@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:49:31Z"
 ---
 ## What it is
 An MCP server for monitoring PingCode project health, enabling PMs to query project status, sprint progress, and risk items directly from Claude Code.

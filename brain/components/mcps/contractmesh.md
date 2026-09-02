@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T02:44:01Z"
 ---
 ## What it is
 ContractMesh is an MCP server that provides a trust-aware engineering knowledge layer, enabling agents to retrieve confirmed decisions, constraints, and known risks with provenance. It grounds AI changes in explicit engineering knowledge rather than inference alone.

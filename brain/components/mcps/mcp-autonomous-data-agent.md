@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:54:44Z"
 ---
 ## What it is
 Enables secure, read-only analytical querying of financial data through natural language, with built-in SQL injection defense and automatic query repair.

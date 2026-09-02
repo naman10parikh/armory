@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T05:47:58Z"
 ---
 ## What it is
 A starter MCP server for running local tools and resources on a home machine or NAS, enabling secure access from AI assistants like Kody.

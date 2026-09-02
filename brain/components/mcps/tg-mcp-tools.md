@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T17:13:09Z"
 ---
 ## What it is
 A local MCP server for Cursor and Claude Desktop that reads Telegram subscriptions over MTProto and exposes channel posts for digests and natural-language queries.

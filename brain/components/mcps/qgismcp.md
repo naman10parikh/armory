@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T01:23:25Z"
 ---
 ## What it is
 QGISMCP connects QGIS to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control QGIS for project creation, layer loading, code execution, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:44:31Z"
 ---
 ## What it is
 A demo MCP server for training purposes, providing mocked tools for exchange rates, mortgage calculations, and branch information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T15:54:39Z"
 ---
 ## What it is
 Interactive dashboard that works as an MCP server, allowing Claude Code to create and manage workspaces, widgets, tasks, and reminders in real-time via Socket.io.

@@ -8,11 +8,13 @@ source_url: https://github.com/techtemplemy/e-invoice-malaysia-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T02:25:38Z"
 ---
 ## What it is
 Enables issuing and managing validated Malaysian e-invoices via MyInvois (LHDN) directly from MCP clients, with tools for TIN validation, invoice drafting, submission, and document management.

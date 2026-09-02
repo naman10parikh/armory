@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T00:34:13Z"
 ---
 ## What it is
 An MCP server for the Logiwa IO (WMS) API that lets MCP clients work with warehouse data through tools for products, inventory, orders, and reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:50:56Z"
 ---
 ## What it is
 Enables local-first LLM orchestration with persistent memory, knowledge management, routing, swarm patterns, API probing, tests, automation planning, and plugin discovery via a stdio MCP server, using SQLite for offline storage.

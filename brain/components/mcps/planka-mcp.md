@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-02-03T23:13:28Z"
 ---
 ## What it is
 MCP server enabling AI agents to manage PLANKA kanban boards with full CRUD support for cards, tasks, labels, comments, and lists.

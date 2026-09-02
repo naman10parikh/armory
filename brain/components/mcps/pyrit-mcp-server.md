@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:33:10Z"
 ---
 ## What it is
 Exposes Microsoft's PyRIT AI red-teaming framework as structured tools for MCP-compatible agents, enabling authorized AI security assessments through engagements, targets, attacks, scoring, and reporting.

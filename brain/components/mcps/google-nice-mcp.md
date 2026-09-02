@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T13:29:51Z"
 ---
 ## What it is
 A read-only MCP server for Gmail and Drive with only 5 tools, designed to be friendly to small local LLMs by minimizing context usage and simplifying inputs.

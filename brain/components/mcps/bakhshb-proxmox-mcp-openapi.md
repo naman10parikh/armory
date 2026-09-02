@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T15:55:03Z"
 ---
 ## What it is
 An OpenAPI-driven MCP server for Proxmox VE that provides 2 generic tools to execute any of 480+ API operations dynamically, plus tools for executing commands inside VMs and containers, saving ~95% tokens.

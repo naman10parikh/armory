@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T10:27:39Z"
 ---
 ## What it is
 Connect any MCP-compatible AI assistant to your WordPress site running the WPCafe restaurant plugin. Once connected, your AI assistant can manage reservations, food orders, locations, QR codes, settings, analytics, and every other feature available in the WPCafe admin panel.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:13:46Z"
 ---
 ## What it is
 Enables secure remote development on Windows by allowing LLM clients to manage files, run commands, and automate browsers within sandboxed workspaces, with multi-project switching and OAuth authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T23:48:22Z"
 ---
 ## What it is
 An MCP server that exposes certifications, projects, and an AI engineering learning roadmap as callable tools for MCP clients like Claude Desktop.

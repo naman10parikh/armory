@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/cryptopanic-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2025-12-09T11:21:15Z"
 ---
 ## What it is
 MCP server `CryptoPanic`, catalogued on PulseMCP. Integrates with CryptoPanic to provide real-time cryptocurrency news, analysis, and video content with configurable pagination for financial analysis and investment decision support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T11:15:26Z"
 ---
 ## What it is
 Enables AI assistants to manage invoices, contacts, purchases, journal entries, and other accounting operations via the Fiken API.

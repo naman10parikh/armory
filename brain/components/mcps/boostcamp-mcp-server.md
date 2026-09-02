@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-06T00:56:14Z"
 ---
 ## What it is
 Integrates with the Boostcamp fitness platform to provide access to training history, workout programs, custom exercises, and analytics through Claude.

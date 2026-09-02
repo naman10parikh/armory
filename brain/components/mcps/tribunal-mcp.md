@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T03:04:46Z"
 ---
 ## What it is
 Enables fact-checking claims by providing a verify_claim tool that returns a verdict (True/False/Misleading/Unverifiable) with confidence score and citations, using adversarial multi-agent RAG pipeline.

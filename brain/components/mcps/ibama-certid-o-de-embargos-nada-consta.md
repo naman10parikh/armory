@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:18Z"
 ---
 ## What it is
 MCP server for consulting IBAMA's official embargo certificate (Certidão de Embargos/Nada Consta), providing read-only queries through a single tool.

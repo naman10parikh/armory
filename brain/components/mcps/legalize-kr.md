@@ -8,10 +8,12 @@ source_url: https://github.com/legalize-kr/cli-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-01T14:45:39Z"
 ---
 ## What it is
 MCP server `Legalize KR`, catalogued on PulseMCP. Queries Korean statutes, court precedents, administrative rules, and local ordinances via ten MCP tools.

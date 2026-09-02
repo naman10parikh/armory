@@ -8,10 +8,12 @@ source_url: https://github.com/augmented-nature/ensembl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-21T10:09:20Z"
 ---
 ## What it is
 MCP server `Ensembl`, catalogued on PulseMCP. Integrates with Ensembl's genomic database through 20+ specialized tools for gene lookup, sequence retrieval, comparative genomics, variant analysis, and regulatory features across all supported organisms.

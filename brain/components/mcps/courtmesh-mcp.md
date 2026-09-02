@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:03:14Z"
 ---
 ## What it is
 An MCP server for the CourtMesh public API that enables AI clients to search and analyze Indian court case law, covering over 310 million case records from the Supreme Court, High Courts, District Courts, and tribunals.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T07:29:24Z"
 ---
 ## What it is
 MCP server `Prizmad`, catalogued on PulseMCP. Generate AI UGC video ads from any product URL.

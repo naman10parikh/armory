@@ -8,10 +8,12 @@ source_url: https://github.com/vivekhaldar/emacs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-06T00:50:42Z"
 ---
 ## What it is
 MCP server `Emacs Lisp Generator`, catalogued on PulseMCP. Enables AI to interact with Emacs by generating and executing Elisp code for buffer manipulation, text editing, and configuration changes without requiring users to write Elisp themselves.

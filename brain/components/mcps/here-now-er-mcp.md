@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T02:14:38Z"
 ---
 ## What it is
 An MCP server that provides real-time emergency room availability, open hospitals, pharmacies, and drug information for Korean users, especially useful during non-business hours.

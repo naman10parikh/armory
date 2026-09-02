@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:14:08Z"
 ---
 ## What it is
 MCP server for Overton, an admission control daemon that gates coding agent dispatch based on per-account and per-project budget allocation. It lets agents ask for permission to run, returning verdicts such as go, wait, ask, or deny with retry timing to prevent overspending.

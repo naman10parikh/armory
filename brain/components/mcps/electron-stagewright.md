@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:23:59Z"
 ---
 ## What it is
 Drive, inspect, and assert on real Electron desktop apps from an AI agent — agent-native, Playwright-style automation with accessibility refs, stable error codes, and retrying assertions

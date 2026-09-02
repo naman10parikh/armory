@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:52:21Z"
 ---
 ## What it is
 Local MCP server enabling Codex and ChatGPT to read/write files, execute commands, manage processes, use Git, and inspect images on the user's machine with full privileges.

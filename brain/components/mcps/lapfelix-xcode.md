@@ -8,10 +8,12 @@ source_url: https://github.com/lapfelix/xcodemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-05T01:09:05Z"
 ---
 ## What it is
 MCP server `Xcode`, catalogued on PulseMCP. Automates Xcode build processes and project management through JavaScript for Automation scripts, enabling project opening, building with specific schemes and destinations, test execution, debugging, and intelligent build log analysis with error reporting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:33:57Z"
 ---
 ## What it is
 Zero-dependency stdio MCP server for token-aware prompt version diffs. Compare prompts or files and get machine-readable token delta reports with confidence labels.

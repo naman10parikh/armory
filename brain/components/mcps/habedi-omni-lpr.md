@@ -8,10 +8,12 @@ source_url: https://github.com/habedi/omni-lpr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-05T19:30:55Z"
 ---
 ## What it is
 MCP server `Omni-LPR`, catalogued on PulseMCP. Self-hostable automatic license plate recognition

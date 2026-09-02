@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-03-06T09:25:51Z"
 ---
 ## What it is
 An MCP server for Aster Futures and Spot APIs, enabling AI agents to query market data, place orders, and check positions and accounts securely.

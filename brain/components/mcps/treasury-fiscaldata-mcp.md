@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T21:43:03Z"
 ---
 ## What it is
 Enables querying U.S. Treasury fiscal data including debt, interest rates, auctions, and more via natural language, with no API key required.

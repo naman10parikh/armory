@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:46:42Z"
 ---
 ## What it is
 Enables buyer-side spend-routing preflights before larger paid agent tool calls, with bounded planning and public-data evidence.

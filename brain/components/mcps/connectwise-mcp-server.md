@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-03-07T03:34:38Z"
 ---
 ## What it is
 Integrates with ConnectWise Manage API to enable ticket, company, and contact management operations. Supports filtering, pagination, and CRUD actions.

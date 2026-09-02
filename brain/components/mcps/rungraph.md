@@ -8,11 +8,13 @@ source_url: https://github.com/fayzan123/rungraph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-24T22:41:37Z"
 ---
 ## What it is
 rungraph is an MCP server (stdio, npx rungraph mcp) that turns Claude Code and Codex transcripts into an interactive run graph. Seven tools: list_runs, get_graph, find_nodes, get_detail, focus_nodes, get_current_view, open_visualization. Reads transcripts post-hoc, no hooks, local-only, zero runtime

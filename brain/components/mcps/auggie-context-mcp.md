@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-15T22:58:28Z"
 ---
 ## What it is
 Enables AI agents like Claude and Cursor to query codebases using Augment's context engine via the Auggie CLI.

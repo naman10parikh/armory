@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-27T04:05:51Z"
 ---
 ## What it is
 MCP server `Journal RAG`, catalogued on PulseMCP. Enables semantic search through personal markdown journal entries using vector database technology for effortless retrieval of past experiences, thoughts, and activities.

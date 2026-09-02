@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:38:29Z"
 ---
 ## What it is
 MCP server that automates a Chrome profile to sign in to Unsplash+, search Plus-only images, and download them with metadata and checksums.

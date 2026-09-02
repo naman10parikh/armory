@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/text-to-speech-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2769
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:15Z"
 ---
 ## What it is
 Text-to-speech API for AI agents. Convert text to natural speech audio in 20+ languages via Google TTS engine. Returns base64-encoded MP3 ready for playback. Tools: media_text_to_speech. Use this for voice notifications, accessibility features, audio content generation, or building voice interfaces.

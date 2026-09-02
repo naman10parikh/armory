@@ -8,10 +8,12 @@ source_url: https://github.com/adfin-engineering/mcp-server-adfin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-20T14:09:47Z"
 ---
 ## What it is
 MCP server `Adfin Financial Management`, catalogued on PulseMCP. Integrates with Adfin's financial management platform to enable credit control checks, invoice creation, and document uploads through dynamically generated API tools and specialized file system capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:07:56Z"
 ---
 ## What it is
 Search for AI internship and early-career roles in Bengaluru using Tavily, save leads to a local JSON database, and render a Prefab dashboard UI.

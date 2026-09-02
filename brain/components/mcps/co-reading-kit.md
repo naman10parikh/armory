@@ -8,11 +8,13 @@ source_url: https://github.com/Youxuuuuu/co-reading-kit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-14T00:23:11Z"
 ---
 ## What it is
 A low-token human-AI co-reading MCP tool that imports local EPUB/TXT/Markdown books into chunks, enabling AI to read only relevant fragments and write co-reading results to long-term reading notes and progress files.

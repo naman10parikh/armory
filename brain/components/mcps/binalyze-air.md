@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-02T18:12:46Z"
 ---
 ## What it is
 MCP server `Binalyze AIR`, catalogued on PulseMCP. Bridges to the Binalyze AIR digital forensics platform, enabling security teams to query endpoint data, monitor status, and manage investigations through a secure API connection.

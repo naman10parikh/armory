@@ -8,11 +8,13 @@ source_url: https://github.com/BenDaSpur/openrct2-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:09:44Z"
 ---
 ## What it is
 Bridges a running OpenRCT2 game to AI agents, enabling them to read park state, optimize parks, and build roller coasters.

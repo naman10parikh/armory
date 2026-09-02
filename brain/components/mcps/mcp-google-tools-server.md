@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-27T06:58:02Z"
 ---
 ## What it is
 A full-featured Model Context Protocol server that gives AI assistants real-time access to Google Workspace services including Drive, Gmail, Calendar, Sheets, Docs, and Apps Script.

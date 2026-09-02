@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T14:41:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides real-time news intelligence using NewsAPI.ai. This server enables LLMs to search articles, track events, and analyze news through natural conversation.

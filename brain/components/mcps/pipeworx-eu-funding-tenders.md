@@ -8,11 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-eu-funding-tenders
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:54Z"
 ---
 ## What it is
 Enables searching and retrieving detailed information on EU grant calls and tenders from the EU Funding & Tenders Portal, including deadlines, budgets, and topic details.

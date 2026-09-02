@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:33:10Z"
 ---
 ## What it is
 MCP server for the Spanish Cadastre, enabling local queries of official INSPIRE parcel data (area, geometry, neighboring parcels, searches) and online queries to the OVC and electronic headquarters for additional details, with rate limiting and caching.

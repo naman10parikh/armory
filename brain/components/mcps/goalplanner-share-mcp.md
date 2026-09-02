@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T18:38:03Z"
 ---
 ## What it is
 An MCP server that generates RuneLite Goal Planner import strings from natural language goal descriptions, enabling assistants to create paste-ready share codes for Old School RuneScape goal planning.

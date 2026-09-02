@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T17:46:57Z"
 ---
 ## What it is
 A read-only MCP server connecting AI assistants to Azure DevOps Server (on-premises) for browsing projects, repos, builds, work items, releases, pipelines, and test results.

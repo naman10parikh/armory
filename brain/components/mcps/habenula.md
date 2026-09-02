@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:53:44Z"
 ---
 ## What it is
 A personal agent control harness that governs AI agents by checking every consequential action against user-defined rules, logging all actions to a tamper-evident audit chain, and providing a global kill switch. It runs as an MCP server sidecar to coding agents or standalone, keeping users in charge

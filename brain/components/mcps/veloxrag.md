@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:19:11Z"
 ---
 ## What it is
 A provider-neutral RAG service for agents offering knowledge base management, dense retrieval, and answer generation via an MCP server.

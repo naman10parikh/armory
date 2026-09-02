@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:04:22Z"
 ---
 ## What it is
 Durable MCP control plane for coordinating agent networks, with message ledger, idempotent delivery, and cryptographic identity for each orchestrator.

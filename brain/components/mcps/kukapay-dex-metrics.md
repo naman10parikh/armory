@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-17T10:25:37Z"
 ---
 ## What it is
 MCP server `DEX Metrics (Dune Analytics)`, catalogued on PulseMCP. Integrates with Dune Analytics APIs to retrieve and format trading volume data across DEX platforms, blockchain networks, aggregators, frontends, and Telegram bots with support for daily, weekly, monthly, and year-over-year analysis.

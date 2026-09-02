@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T10:40:23Z"
 ---
 ## What it is
 Provides 634+ curated production-ready AI skills for any MCP-compatible client, covering areas like security, frontend, backend, infrastructure, AI/ML, and architecture. Enables AI agents to access best practices, patterns, and solutions across multiple domains.

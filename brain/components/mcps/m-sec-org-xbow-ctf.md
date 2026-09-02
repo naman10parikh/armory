@@ -8,10 +8,12 @@ source_url: https://github.com/m-sec-org/ez-xbow-platform-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-03T05:37:12Z"
 ---
 ## What it is
 MCP server `XBow CTF Platform`, catalogued on PulseMCP. Integrates with XBow CTF platforms and Docker containers to enable participation in cybersecurity challenges through automated vulnerability assessment, hint retrieval, solution submission, and penetration testing tool execution.

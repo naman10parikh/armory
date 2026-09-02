@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-22T05:16:03Z"
 ---
 ## What it is
 MCP server `Command Executor`, catalogued on PulseMCP. Enables secure execution of pre-approved system commands for automation tasks, system management, and controlled access to host resources.

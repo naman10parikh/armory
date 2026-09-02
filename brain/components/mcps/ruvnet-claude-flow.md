@@ -8,10 +8,12 @@ source_url: https://github.com/ruvnet/ruflo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55047
+stars: 70157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8375
+pushed_at: "2026-09-02T02:00:47Z"
 ---
 ## What it is
 MCP server `Claude Flow`, catalogued on PulseMCP. Agent orchestration platform with multi-agent swarms, workflow coordination, and conversational AI systems

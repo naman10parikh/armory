@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T16:01:20Z"
 ---
 ## What it is
 MCP server `Razorpay Refund Agent`, catalogued on PulseMCP. MCP server enabling AI agents to execute Razorpay refunds safely with idempotency, rollback, and audit trail support.

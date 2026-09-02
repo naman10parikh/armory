@@ -8,10 +8,12 @@ source_url: https://github.com/cturkieh/france-data-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T11:09:03Z"
 ---
 ## What it is
 MCP server `France Data`, catalogued on PulseMCP. Cross-references French public health, business, and geographic registries including INSEE SIRENE, FINESS, RPPS, Ameli, IGN, and DINUM.

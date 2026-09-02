@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:57:11Z"
 ---
 ## What it is
 Generates peer comparison reports on emissions trends, reduction targets, and gaps for companies in a given SICS sector/sub-sector using live data from the Climate Data Utility (CDU).

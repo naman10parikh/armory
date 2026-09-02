@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:07:57Z"
 ---
 ## What it is
 Enables AI agents to perform headless video editing through 35 tools for project creation, clip manipulation, rendering, quality control, and semantic search, all via JSON-RPC 2.0 over stdio.

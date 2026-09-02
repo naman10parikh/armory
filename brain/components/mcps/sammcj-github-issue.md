@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-02-02T05:52:24Z"
 ---
 ## What it is
 MCP server `GitHub Issue Fetcher`, catalogued on PulseMCP. Fetches GitHub issues and transforms them into structured task descriptions for software development workflows and project management.

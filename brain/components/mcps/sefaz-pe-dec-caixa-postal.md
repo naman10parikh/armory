@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:35Z"
 ---
 ## What it is
 Provides a single tool to consult SEFAZ PE DEC Caixa Postal data from an official source, using prepaid credits and magic-link authentication.

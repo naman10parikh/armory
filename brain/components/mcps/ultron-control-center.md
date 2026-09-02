@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:03:42Z"
 ---
 ## What it is
 An MCP server that provides persistent, governed memory for Claude Code, enabling local storage and retrieval of decisions, architecture, and context across sessions with audit trails and hybrid semantic recall.

@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-07T23:00:22Z"
 ---
 ## What it is
 MCP server `ctx++`, catalogued on PulseMCP. Semantic code search and indexing using tree-sitter AST analysis across 13+ languages with call graph traversal and hybrid vector-keyword ranking.

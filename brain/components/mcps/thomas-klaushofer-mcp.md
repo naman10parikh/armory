@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T18:53:19Z"
 ---
 ## What it is
 MCP server that provides Thomas Klaushofer's professional profile including career history, skills, projects, and achievements, allowing AI assistants to answer questions about his background.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
 stars: 1
+forks: 0
+pushed_at: "2026-04-27T19:17:26Z"
 ---
 ## What it is
 Reach for andrealufino/aapl-ads-mcp when you need the MCP server it provides.

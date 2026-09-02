@@ -8,10 +8,12 @@ source_url: https://github.com/hannesj/mcp-openapi-schema
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-03-13T13:50:01Z"
 ---
 ## What it is
 MCP server `OpenAPI Schema`, catalogued on PulseMCP. Transforms OpenAPI specifications into YAML-formatted tools for exploring API paths, operations, parameters, schemas, and security definitions, enabling seamless API documentation navigation and understanding.

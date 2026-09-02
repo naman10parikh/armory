@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:44:04Z"
 ---
 ## What it is
 Exposes configured log files as MCP tools, enabling agents to list, query, and follow logs from local and SSH sources.

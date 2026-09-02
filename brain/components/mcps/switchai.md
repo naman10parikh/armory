@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:39:11Z"
 ---
 ## What it is
 AI agent for Italian energy tariff comparison. Analyzes electricity and gas bills, compares 44+ offers from 13 providers, estimates savings with full ARERA regulated cost breakdown

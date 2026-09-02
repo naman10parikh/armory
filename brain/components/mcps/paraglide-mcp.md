@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T10:23:10Z"
 ---
 ## What it is
 Enables translation of i18n messages in Paraglide JS projects by serving small batches, validating translations against source structure, and saving them per locale through inlang's SDK.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-09T04:38:11Z"
 ---
 ## What it is
 MCP server `Armor Wallet`, catalogued on PulseMCP. Multi-blockchain cryptocurrency portfolio management with 30+ tools for trading, DCA, staking, and cross-chain operations

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T11:49:14Z"
 ---
 ## What it is
 MCP server that builds a queryable graph of codebases using Language Server Protocol analysis, enabling AI agents to understand code relationships, call chains, and impact across multiple languages.

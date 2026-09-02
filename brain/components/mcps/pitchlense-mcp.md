@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-24T16:40:08Z"
 ---
 ## What it is
 AI-driven startup risk analysis server using Gemini, providing comprehensive assessments across market, product, team, financial, and other risk categories via MCP tools.

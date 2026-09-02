@@ -8,10 +8,12 @@ source_url: https://github.com/adamsmaka/flutter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [database, mcp]
+forks: 15
+pushed_at: "2025-12-09T11:08:45Z"
 ---
 
 ## What it is

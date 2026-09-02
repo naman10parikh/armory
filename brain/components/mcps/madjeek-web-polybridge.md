@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T23:01:52Z"
 ---
 ## What it is
 MCP server `Polybridge`, catalogued on PulseMCP. Bridges multiple MCP tools and services through a unified API gateway interface.

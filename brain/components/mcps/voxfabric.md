@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:46:02Z"
 ---
 ## What it is
 VoxFabric is an MCP server for speech I/O, enabling TTS playback via Edge TTS and optional local ASR listening from any MCP host.

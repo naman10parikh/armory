@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:34:03Z"
 ---
 ## What it is
 MCP server for MAIMAI DX arcade game, enabling song/score/statistics queries and image generation, accessible via command line or LLM agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:55:44Z"
 ---
 ## What it is
 Enables interaction with ESP32/MicroPython boards via tools for flashing firmware, running REPL code, file management, and serial capture, with support for progress notifications, cancellation, and error handling.

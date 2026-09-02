@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:46:58Z"
 ---
 ## What it is
 Wraps the 0xPdf HTTP API to enable AI agents to parse PDF invoices and forms into JSON using configurable schemas, with support for synchronous and asynchronous parsing.

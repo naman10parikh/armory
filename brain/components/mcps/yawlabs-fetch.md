@@ -8,10 +8,12 @@ source_url: https://github.com/yawlabs/fetch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T20:44:20Z"
 ---
 ## What it is
 MCP server `Fetch`, catalogued on PulseMCP. HTTP fetch server with SSRF protection, HTML-to-markdown conversion, reader mode, and metadata extraction.

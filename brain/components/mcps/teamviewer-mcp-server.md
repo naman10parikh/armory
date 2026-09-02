@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:32:50Z"
 ---
 ## What it is
 Exposes the TeamViewer Web API as MCP tools, enabling AI assistants to manage devices, users, groups, sessions, and more via natural language.

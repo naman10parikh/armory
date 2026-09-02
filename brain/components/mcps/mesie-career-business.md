@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:09:21Z"
 ---
 ## What it is
 Provides access to 200 compressed business career profiles across strategy, finance, operations, marketing, and sales via MCP tools for listing, searching, and retrieving career data.

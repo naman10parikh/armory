@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-11T10:45:42Z"
 ---
 ## What it is
 A read-only MCP server that gives AI agents the web as compact, ranked, verified evidence — no API keys, no cloud retrieval, all models local.

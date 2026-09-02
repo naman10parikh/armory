@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-03T11:02:34Z"
 ---
 ## What it is
 MCP server `Solana Alpha Tracker`, catalogued on PulseMCP. Monitor Solana blockchain trading activity from key opinion leaders and custom watchlists, with entry scoring, cluster detection, and real-time webhook alerts.

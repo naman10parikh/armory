@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:04:24Z"
 ---
 ## What it is
 A read-only MCP server for the Qualys PCI Merchant API that lets LLM assistants answer questions about PCI compliance posture, such as which hosts are failing PCI or listing high findings.

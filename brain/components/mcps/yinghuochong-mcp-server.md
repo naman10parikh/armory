@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:57:27Z"
 ---
 ## What it is
 Read-only business data adapter for Yinghuochong MySQL database, exposing order and user queries as structured MCP tools for safe inspection by Codex.

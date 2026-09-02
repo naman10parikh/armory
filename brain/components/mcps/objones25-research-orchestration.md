@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-26T22:54:29Z"
 ---
 ## What it is
 MCP server `Research Orchestration`, catalogued on PulseMCP. Orchestrates intelligent research workflows by selecting and executing specialized tools (Brave Search, Tavily, GitHub, arXiv, news APIs) based on query context, synthesizing results into well-cited answers with iterative refinement and source attribution.

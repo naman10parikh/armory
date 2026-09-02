@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T15:51:08Z"
 ---
 ## What it is
 Self-hosted MCP server for searching and discovering books using Anna's Archive and Goodreads datasets, enabling full-text search, ISBN/md5 lookup, similarity matching, and optional download URL retrieval.

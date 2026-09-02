@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:38:49Z"
 ---
 ## What it is
 Enables AI agents to fetch and analyze Product Hunt trending products over 1-4 week periods, generating trend reports, top product lists, and category insights via MCP tools.

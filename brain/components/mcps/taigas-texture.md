@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:44:28Z"
 ---
 ## What it is
 MCP server for procedural material generation and inspection via a deterministic Texture DSL, exposing tools to list, validate, render, and multiscale-inspect materials.

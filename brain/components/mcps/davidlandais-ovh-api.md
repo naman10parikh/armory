@@ -8,10 +8,12 @@ source_url: https://github.com/davidlandais/ovh-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-15T03:06:57Z"
 ---
 ## What it is
 MCP server `OVH API`, catalogued on PulseMCP. Explore and call any OVH API endpoint via sandboxed JavaScript execution.

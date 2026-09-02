@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T02:15:14Z"
 ---
 ## What it is
 Bridges AI agents to Chinese internet services like Baidu, Bilibili, and Chinese web page extraction without requiring API keys.

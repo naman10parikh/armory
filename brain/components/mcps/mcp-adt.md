@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T14:31:26Z"
 ---
 ## What it is
 Facilitates interaction with SAP ABAP systems via ADT APIs, enabling object management, transport handling, and code analysis.

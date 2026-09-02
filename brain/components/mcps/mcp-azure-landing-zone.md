@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T22:18:24Z"
 ---
 ## What it is
 Enables AI assistants to inspect and audit Azure Landing Zones by inventorying resources, auditing tagging, evaluating policy compliance, and detecting infrastructure drift, all in read-only mode.

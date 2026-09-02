@@ -8,10 +8,12 @@ source_url: https://github.com/jay4242/goose_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-27T04:22:28Z"
 ---
 ## What it is
 MCP server `Goose Extensions`, catalogued on PulseMCP. Extends Goose AI assistant with five specialized servers for Plex Media Server interaction, Rotten Tomatoes scraping, eBay sales data retrieval, SearxNG web searches, and Taskwarrior task management.

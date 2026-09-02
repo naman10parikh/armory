@@ -8,11 +8,13 @@ source_url: https://github.com/sanchit0496/engineering-intelligence-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:33:42Z"
 ---
 ## What it is
 Enables AI clients to inspect backend systems through structured engineering tools including Git history, Winston logs, OpenAPI contracts, and sandboxed source code.

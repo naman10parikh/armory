@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T13:01:49Z"
 ---
 ## What it is
 Generates printable 3D CAD models (e.g., bottle caps) from photos by combining client-side dimension extraction with CadQuery precision modeling, mesh repair, and optional AI-based visual mesh generation via Meshy.

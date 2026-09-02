@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-17T12:38:22Z"
 ---
 ## What it is
 MCP server `Software Documentation Analysis`, catalogued on PulseMCP. Parses through README documentation/project files on your local filesystem to guide development workflows.

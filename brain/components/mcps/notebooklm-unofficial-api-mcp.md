@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:19:12Z"
 ---
 ## What it is
 A thin MCP wrapper around the unofficial Google NotebookLM Python client, enabling notebook management, source handling, chat, artifact generation, deep research, and sharing via MCP tools.

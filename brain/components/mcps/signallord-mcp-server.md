@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T18:36:17Z"
 ---
 ## What it is
 Bitcoin market intelligence MCP server. Exposes Signal Lord's composite gauge scoring, on-chain and macro regime signals, and market data to AI agents.

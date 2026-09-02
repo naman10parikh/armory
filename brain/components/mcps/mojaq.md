@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T12:58:07Z"
 ---
 ## What it is
 Read-only MCP server for MOJAQ: give any AI assistant natural-language access to your EU-hosted app's deploys, errors, logs, uptime and incidents.

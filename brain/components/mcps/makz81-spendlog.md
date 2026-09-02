@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T02:24:50Z"
 ---
 ## What it is
 MCP server `Spendlog`, catalogued on PulseMCP. Expense tracking for freelancers with income logging, invoice generation, budget management, and accounting exports.

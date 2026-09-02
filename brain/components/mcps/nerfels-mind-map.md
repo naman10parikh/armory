@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-18T05:00:30Z"
 ---
 ## What it is
 MCP server `Mind Map`, catalogued on PulseMCP. Code intelligence platform with AST parsing and context analysis

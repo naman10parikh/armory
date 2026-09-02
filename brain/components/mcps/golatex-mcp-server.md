@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:04:57Z"
 ---
 ## What it is
 Enables AI agents to read, write, and compile LaTeX projects locally, view PDF pages as images, and manage project files, with live updates reflected in a web-based editor.

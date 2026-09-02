@@ -8,11 +8,13 @@ source_url: https://github.com/astein91/stacksherpa
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1241
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-02-24T02:31:45Z"
 ---
 ## What it is
 Compare API providers based on real-time pricing, performance benchmarks, and known issues. Evaluate detailed project profiles and past decision data to make informed architectural choices. Identify the most cost-effective and reliable solutions across various service categories for your infrastruct

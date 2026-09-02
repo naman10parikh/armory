@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:29:51Z"
 ---
 ## What it is
 Local-first task governance board for AI agents, enabling session registration, task creation, progress updates, and evidence reporting via MCP, with separation of agent claims and human acceptance.

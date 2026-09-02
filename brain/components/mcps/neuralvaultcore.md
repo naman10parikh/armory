@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T10:13:42Z"
 ---
 ## What it is
 An MCP server that provides persistent long-term memory for AI agents via local SQLite storage with low token overhead, enabling memory storage, retrieval, and management across sessions.

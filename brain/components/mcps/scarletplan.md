@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:09:52Z"
 ---
 ## What it is
 Local-first Rutgers course planning assistant that answers 'what should I take and when?' using a CP-SAT solver, real transcript data, and live SOC data, connected to Claude via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:52:37Z"
 ---
 ## What it is
 Integrates Aliyun domain API to allow AI assistants to check domain availability, query domain details, list domains, and create registration orders.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:04:59Z"
 ---
 ## What it is
 Provides persistent, searchable memory for AI agents across any MCP-compatible client, storing project context, user preferences, and session learnings locally in SQLite with tools to save, retrieve, search, and manage them.

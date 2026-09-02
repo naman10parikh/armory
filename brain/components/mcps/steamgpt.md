@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:32:28Z"
 ---
 ## What it is
 MCP server for Steam data, backed by steamgpt.net - a free Steam data API for AI agents. Steam profiles, SteamID conversion, VAC / game / community / trade bans, FACEIT stats, public friend graph, batch lookups and player comparison. No API key, no registration, no tracking.

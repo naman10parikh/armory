@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-11T21:53:36Z"
 ---
 ## What it is
 MCP server `IntelliGlow Smart Lighting`, catalogued on PulseMCP. Provides intelligent smart lighting control through UDP network communication, enabling discovery, connection, and control of physical smart bulbs on local networks with voice command integration for comprehensive bulb management including RGB color control, brightness adjustment, and power management.

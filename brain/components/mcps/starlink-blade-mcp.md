@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T04:57:43Z"
 ---
 ## What it is
 Local-first Starlink dish monitoring and control via the Model Context Protocol. Talks directly to your dish over the local gRPC interface with no cloud dependency.

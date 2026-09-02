@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:43:08Z"
 ---
 ## What it is
 MCP server for Korean public institution information, enabling AI clients to search, compare, and analyze disclosure data, public services, laws, and news.

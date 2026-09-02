@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:50:12Z"
 ---
 ## What it is
 Enables generating secure passwords, exposing password policies, and providing reusable prompt templates for secure password creation through MCP primitives.

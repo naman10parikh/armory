@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T14:21:47Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Provides a bridge to the Spotify API for retrieving artist information, enabling seamless music data exploration through a TypeScript-based implementation.

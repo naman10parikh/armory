@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T07:45:22Z"
 ---
 ## What it is
 This MCP server provides tools for AI agents to search the web, fetch page content, and query specific elements from pages using DuckDuckGo.

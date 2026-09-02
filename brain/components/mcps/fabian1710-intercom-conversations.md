@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-12-21T22:40:00Z"
 ---
 ## What it is
 MCP server `Intercom`, catalogued on PulseMCP. Integrates with Intercom to provide filtered access to conversations and chats, enabling detailed analysis of customer interactions and support trends.

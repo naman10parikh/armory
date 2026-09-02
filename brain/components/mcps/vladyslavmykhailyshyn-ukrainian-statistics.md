@@ -8,10 +8,12 @@ source_url: https://github.com/vladyslavmykhailyshyn/ukrainian-stats-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-30T20:34:34Z"
 ---
 ## What it is
 MCP server `Ukrainian Statistics`, catalogued on PulseMCP. Integrates with Ukraine's State Statistics Service SDMX API to provide access to official government statistical data across energy, trade, and demographics with flexible filtering by dimensions and time periods for economic research and policy analysis.

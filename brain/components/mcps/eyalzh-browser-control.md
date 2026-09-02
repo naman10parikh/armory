@@ -8,10 +8,12 @@ source_url: https://github.com/eyalzh/browser-control-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 286
+stars: 320
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 75
+pushed_at: "2026-08-23T18:44:48Z"
 ---
 ## What it is
 MCP server `Browser Control`, catalogued on PulseMCP. Enables browser automation through a Firefox extension for tab management, webpage content extraction, history searching, and text highlighting via secure WebSocket communication.

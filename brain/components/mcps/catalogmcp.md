@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:42:22Z"
 ---
 ## What it is
 Enables natural-language setup and management of a governed digital product catalog, including schema, products, and rules, with dry-run previews, audit logging, and two-phase confirmations for destructive actions.

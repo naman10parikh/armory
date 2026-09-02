@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-23T06:00:53Z"
 ---
 ## What it is
 MCP server `Etherscan Tools`, catalogued on PulseMCP. Integrates with Etherscan's API to provide Ethereum blockchain data tools for balance checking, transaction tracking, and smart contract interactions.

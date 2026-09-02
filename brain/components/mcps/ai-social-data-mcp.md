@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:40:36Z"
 ---
 ## What it is
 MCP server that provides AI agents with access to public social media data, including hot lists, searches, content details, user profiles, posts, and comments from platforms like Douyin, Xiaohongshu, Bilibili, and Weibo.

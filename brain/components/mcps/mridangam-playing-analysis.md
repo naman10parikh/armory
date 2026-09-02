@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T05:33:07Z"
 ---
 ## What it is
 Analyzes timing and tempo accuracy of percussion practice recordings via onset detection, reporting per-gap deviations and consistency stats to MCP clients.

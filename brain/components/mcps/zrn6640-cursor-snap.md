@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T04:03:47Z"
 ---
 ## What it is
 MCP server `Cursor Snap`, catalogued on PulseMCP. Interactive feedback server for Cursor IDE with one-click agent interrupt, screenshot capture, system tray integration, and hook-based workflow control.

@@ -8,10 +8,12 @@ source_url: https://github.com/agenticempire/axint
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-01T02:54:34Z"
 ---
 ## What it is
 MCP server `Axint`, catalogued on PulseMCP. Compile TypeScript or Python definitions to native Swift — App Intents, SwiftUI, WidgetKit, and full apps.

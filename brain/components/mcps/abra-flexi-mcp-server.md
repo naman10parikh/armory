@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:58:13Z"
 ---
 ## What it is
 Connects to ABRA Flexi over its REST API to read companies, evidence, partners, products, balances, and overdue items, while supporting guarded write flows with validation and audit logging.

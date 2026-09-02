@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T23:42:45Z"
 ---
 ## What it is
 Analyzes GitHub repositories using Gemini AI and generates comprehensive documentation including overviews, architecture guides, and file insights. Works with any MCP-compatible client.

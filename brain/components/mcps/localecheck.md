@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T08:25:11Z"
 ---
 ## What it is
 Verified locale data for AI agents: dates, phone numbers, currency formatting, VAT/sales-tax by date, public holidays, and addresses (UK & US). Returns checked answers and flags impossible inputs instead of guessing.

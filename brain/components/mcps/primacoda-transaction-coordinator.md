@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T20:44:49Z"
 ---
 ## What it is
 Enables AI assistants to coordinate real estate transactions, extract contract data, track deadlines, search case law, and draft motions via PrimaCoda's platform.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T05:39:31Z"
 ---
 ## What it is
 MCP server `InstaNode`, catalogued on PulseMCP. MCP server for InstaNode that lets AI agents provision ephemeral Postgres databases and webhook receivers instantly without signup.

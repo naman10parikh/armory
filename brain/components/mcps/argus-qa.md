@@ -8,11 +8,13 @@ source_url: https://github.com/ironclawdevs27/Argus
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:16:33Z"
 ---
 ## What it is
 AI-powered QA testing platform — catches JS errors, accessibility failures, visual regressions, API loops, security issues, and more via Chrome DevTools MCP

@@ -8,10 +8,12 @@ source_url: https://github.com/sam-aec/autodesk-revit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-08-26T13:58:00Z"
 ---
 ## What it is
 MCP server `Autodesk Revit`, catalogued on PulseMCP. Bridges Autodesk Revit with AI assistants through a Python MCP server and C# add-in, enabling document operations, structural element creation, MEP systems, export workflows, and parameter management for AEC workflows.

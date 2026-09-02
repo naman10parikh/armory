@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-18T14:00:55Z"
 ---
 ## What it is
 MCP server `RSS3`, catalogued on PulseMCP. Integrates with RSS3 API to enable querying data across decentralized chains, social media platforms, and the RSS3 network for real-time open web data access within conversations.

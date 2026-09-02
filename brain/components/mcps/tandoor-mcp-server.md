@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-03-29T19:46:42Z"
 ---
 ## What it is
 MCP server for managing Tandoor recipes, meal plans, and shopping lists. Enables creation, retrieval, and management of recipes, meal plans, and shopping list items via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-28T12:47:40Z"
 ---
 ## What it is
 An MCP server that integrates Dify knowledge bases, enabling AI assistants to retrieve and search content from Dify via tools like list datasets, get dataset details, and knowledge retrieval.

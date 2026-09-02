@@ -8,10 +8,12 @@ source_url: https://github.com/xlisp/datomic-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-19T15:11:51Z"
 ---
 ## What it is
 MCP server `Datomic`, catalogued on PulseMCP. Provides direct access to Datomic databases through nine specialized tools covering connection management, schema installation, data loading with Datalog queries, entity retrieval with temporal queries, transaction history analysis, and relationship path finding between entities.

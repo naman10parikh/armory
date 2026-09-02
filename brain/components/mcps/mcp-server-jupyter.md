@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-02-01T16:05:15Z"
 ---
 ## What it is
 Enables programmatic interaction with Jupyter notebooks, allowing reading, editing, and executing cells via Claude.

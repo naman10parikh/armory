@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:19:21Z"
 ---
 ## What it is
 Lets agents fetch web data and manage rotating proxies through the Floppydata API v2 directly from MCP clients.

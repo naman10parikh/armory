@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T09:57:51Z"
 ---
 ## What it is
 MCP server `Swarm Agent Orchestrator`, catalogued on PulseMCP. Orchestrates parallel Claude agent workloads in isolated Docker containers with functional combinators and lazy result references.

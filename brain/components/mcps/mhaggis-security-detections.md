@@ -8,10 +8,12 @@ source_url: https://github.com/mhaggis/security-detections-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 440
+stars: 478
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 75
+pushed_at: "2026-06-16T14:17:13Z"
 ---
 ## What it is
 MCP server `Security Detections`, catalogued on PulseMCP. Aggregates security detection rules from Sigma, Splunk ESCU, Elastic, and KQL into a unified searchable SQLite database with MITRE ATT&CK mappings and CVE tracking for security analysts and threat hunters.

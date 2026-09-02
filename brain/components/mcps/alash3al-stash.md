@@ -8,10 +8,12 @@ source_url: https://github.com/alash3al/stash
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 701
+stars: 767
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2026-06-14T20:57:09Z"
 ---
 ## What it is
 MCP server `Stash`, catalogued on PulseMCP. Persistent agent memory with 8-stage knowledge consolidation using PostgreSQL and pgvector.

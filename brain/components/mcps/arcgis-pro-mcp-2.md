@@ -8,11 +8,13 @@ source_url: https://github.com/Knight60/ArcGIS-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T02:24:14Z"
 ---
 ## What it is
 Lets AI assistants control a live ArcGIS Pro session through arcpy, including layer management, attribute queries, geoprocessing, symbology, and export.

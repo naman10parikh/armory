@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-22T17:02:39Z"
 ---
 ## What it is
 MCP server `Tribal (Error Knowledge Base)`, catalogued on PulseMCP. Stores and retrieves programming error knowledge through vector similarity search, enabling development teams to build a shared database of errors and solutions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-22T15:54:06Z"
 ---
 ## What it is
 Enables interaction with Azure AI Agent Service by automatically discovering agents and creating MCP tools for querying and managing agent workflows.

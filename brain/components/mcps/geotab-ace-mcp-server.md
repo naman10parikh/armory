@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-10T15:40:58Z"
 ---
 ## What it is
 Enables Claude to ask questions about your fleet data via the Geotab ACE AI service, with support for multi-account authentication, async queries, and DuckDB caching for large datasets.

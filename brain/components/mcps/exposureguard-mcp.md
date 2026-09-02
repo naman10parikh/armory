@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T14:25:29Z"
 ---
 ## What it is
 MCP server `ExposureGuard`, catalogued on PulseMCP. Domain security scanning for AI agents with A-F grades, 8 checks, and fix snippets.

@@ -8,10 +8,12 @@ source_url: https://github.com/madarco/ragrabbit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 133
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-01-05T12:17:27Z"
 ---
 ## What it is
 MCP server `RagRabbit`, catalogued on PulseMCP. Integrates with RagRabbit to crawl websites, generate vector embeddings, and enable search and question answering from indexed content for domain-specific information retrieval.

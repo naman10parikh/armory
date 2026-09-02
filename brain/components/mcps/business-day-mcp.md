@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T13:48:42Z"
 ---
 ## What it is
 MCP server for business-day arithmetic with country-aware holiday calendars. It offers tools to check, calculate, and list business days and holidays for over 60 countries.

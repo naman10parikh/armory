@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-23T10:00:47Z"
 ---
 ## What it is
 MCP server `SearchAgora`, catalogued on PulseMCP. Connects AI systems to SearchAgora, a universal product search engine, enabling natural language interactions for discovering, viewing, and purchasing products from thousands of online stores without leaving the conversation interface.

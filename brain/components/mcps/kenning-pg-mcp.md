@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:24:43Z"
 ---
 ## What it is
 A secure PostgreSQL Model Context Protocol server that provides read-only database access through tools like schema listing, object inspection, query execution, and EXPLAIN analysis, with database-enforced access control via read-only transactions and a minimal role rather than SQL text parsing.

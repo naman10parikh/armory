@@ -8,10 +8,12 @@ source_url: https://github.com/cantian-ai/bazi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 381
+stars: 427
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 162
+pushed_at: "2025-10-11T07:56:23Z"
 ---
 ## What it is
 MCP server `BaZi Astrology`, catalogued on PulseMCP. Provides a bridge to Chinese BaZi astrology calculations, enabling fortune-telling and personality analysis based on birth date and time without specialized knowledge of the complex calculation systems.

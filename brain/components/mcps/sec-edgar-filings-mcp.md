@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T15:44:25Z"
 ---
 ## What it is
 SEC EDGAR filing MCP for equity research agents: search 10-K/10-Q/8-K with CompanyFacts metrics, preview a free sample, and purchase full structured JSON via x402 USDC on Polygon. Public endpoint on xpay.tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:39:35Z"
 ---
 ## What it is
 An open-source, Strava-first remote MCP server that enables users to authorize with Strava and ask AI about their training data.

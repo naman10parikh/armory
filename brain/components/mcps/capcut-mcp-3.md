@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:52:37Z"
 ---
 ## What it is
 An MCP server that assembles CapCut International projects by reading and writing local project files, adding captions, subtitles, overlays, and more so editors start with a mostly-done timeline. It includes tools for inspecting projects, restyling captions, importing subtitles, and rendering alpha-

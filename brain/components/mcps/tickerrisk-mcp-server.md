@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:47:49Z"
 ---
 ## What it is
 Checks an options trade for hidden catalysts such as earnings, FDA decisions, and court dates, scoring risk over a specified expiry window.

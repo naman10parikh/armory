@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-24T17:26:04Z"
 ---
 ## What it is
 MCP server `Playwright`, catalogued on PulseMCP. Integrates Playwright browser automation with AI models to enable intelligent web interactions, testing, and data extraction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T05:51:37Z"
 ---
 ## What it is
 MCP server that enables full-text search and link navigation over Markdown files as a knowledge graph.

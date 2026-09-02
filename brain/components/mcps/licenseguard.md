@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T01:36:22Z"
 ---
 ## What it is
 LicenseGuard is an MCP server that checks whether dependency licenses impose legal obligations based on your distribution model, enabling informed decisions before adding dependencies.

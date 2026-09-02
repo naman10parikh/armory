@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:41:52Z"
 ---
 ## What it is
 Pulls real and estimated shipping costs from Shiprocket and Delhivery into Claude, with rollup summaries for yesterday, last 7 days, MTD, and last 30 days.

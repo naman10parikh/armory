@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T14:22:57Z"
 ---
 ## What it is
 Enables AI assistants to manage Rundeck operations including jobs, executions, projects, nodes, system management, key storage, webhooks, and ACL policies via natural language.

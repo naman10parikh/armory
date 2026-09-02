@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T02:23:36Z"
 ---
 ## What it is
 Audits KiCad PCB designs against South-East Asian fab capabilities using an IPC-compatible DFM rules engine with optional AI review via Ollama.

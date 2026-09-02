@@ -8,11 +8,13 @@ source_url: https://github.com/thepiruthvirajan/autocad-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2025-07-28T14:59:30Z"
 ---
 ## What it is
 Enables programmatic control of AutoCAD through COM automation, allowing natural language commands to create structures, manage layers, and manipulate entities via MCP clients like Claude.

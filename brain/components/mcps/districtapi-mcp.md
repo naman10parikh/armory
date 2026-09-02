@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:38:06Z"
 ---
 ## What it is
 MCP server for districtapi.dev that enables AI assistants to look up US school district and school information by address, name, or ID, including schools near a location.

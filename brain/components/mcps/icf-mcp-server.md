@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T01:06:29Z"
 ---
 ## What it is
 Enables lookup, search, browsing, and explanation of WHO's International Classification of Functioning, Disability and Health (ICF) codes and qualifiers via the WHO ICD-API.

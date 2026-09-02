@@ -12,6 +12,8 @@ stars: 140
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-04-21T12:13:36Z"
 ---
 ## What it is
 MCP server `SystemPrompt Code Orchestrator`, catalogued on PulseMCP. Orchestrates Claude Code CLI and Gemini CLI sessions to perform complex coding tasks through unified task management, agent coordination, and progress tracking with persistent state storage.

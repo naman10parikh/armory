@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:19:37Z"
 ---
 ## What it is
 Provides access to AI Swap Face's image generation styles, pricing, FAQ, and official links. Enables AI clients to retrieve information about this online face-swapping tool.

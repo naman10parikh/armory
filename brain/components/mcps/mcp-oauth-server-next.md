@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T15:23:54Z"
 ---
 ## What it is
 A proof-of-concept HTTP MCP server requiring OAuth 2.0 authentication before tool use. Demonstrates the full authentication flow with Claude Code, including discovery, client registration, PKCE authorization, and bearer token verification.

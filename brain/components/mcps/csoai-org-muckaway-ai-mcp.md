@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-28T03:20:21Z"
 ---
 ## What it is
 MCP server `Muckaway AI`, catalogued on PulseMCP. Python MCP server for waste removal and disposal management tools.

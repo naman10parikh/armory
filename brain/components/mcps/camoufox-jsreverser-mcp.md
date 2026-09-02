@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-16T02:43:20Z"
 ---
 ## What it is
 A JavaScript reverse engineering MCP server for Firefox with stealth capabilities, providing tools for debugging, hooking, network analysis, and anti-detection via Camoufox.

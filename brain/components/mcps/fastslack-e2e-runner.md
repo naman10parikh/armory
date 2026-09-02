@@ -8,10 +8,12 @@ source_url: https://github.com/fastslack/mtw-e2e-runner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T01:13:25Z"
 ---
 ## What it is
 MCP server `Matware E2E Runner`, catalogued on PulseMCP. JSON-driven end-to-end test runner with parallel execution against a shared Chrome pool.

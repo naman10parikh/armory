@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:16:33Z"
 ---
 ## What it is
 MCP server that reads OPC policy information from the OPC personal tool station via API key, enabling users to query policy updates.

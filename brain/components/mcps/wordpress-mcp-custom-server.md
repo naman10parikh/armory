@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:08:21Z"
 ---
 ## What it is
 WordPress MCP server with versioned capability-based tools, safe REST write policies, W3C validation, playbooks, SEO checklists, and A/B benchmark reporting for managing WordPress content and sites.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T08:42:55Z"
 ---
 ## What it is
 MCP server `World Weather Online`, catalogued on PulseMCP. Real-time weather, forecasts, historical data, marine, ski, and astronomy from World Weather Online.

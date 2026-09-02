@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:37:11Z"
 ---
 ## What it is
 Provides read-only access to the MLA Citation Generator's site overview, FAQs, and official links for AI clients to fetch canonical information about the free MLA 9th edition citation tool.

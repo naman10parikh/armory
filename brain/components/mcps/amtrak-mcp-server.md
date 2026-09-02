@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:33:11Z"
 ---
 ## What it is
 Enables real-time Amtrak train tracking and information via the community Amtraker API.

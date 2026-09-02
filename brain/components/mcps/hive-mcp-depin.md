@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:36Z"
 ---
 ## What it is
 Enables listing and discovery of DePIN infrastructure capacity (storage, compute, GPU, etc.) with real USDC/USDT settlement across multiple chains.

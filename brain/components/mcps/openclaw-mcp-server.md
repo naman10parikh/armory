@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T14:09:47Z"
 ---
 ## What it is
 Exposes your OpenClaw assistant to Claude Desktop via Streamable HTTP transport, enabling interaction between the two AI systems.

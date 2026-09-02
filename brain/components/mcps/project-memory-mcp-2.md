@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:51:39Z"
 ---
 ## What it is
 An MCP server that implements Project Memory Protocol (PMP) to manage shared project memory in the .ai/ directory, providing 13 tools for project context, tasks, decisions, and conversation summaries.

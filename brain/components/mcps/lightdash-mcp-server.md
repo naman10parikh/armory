@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-01T19:42:07Z"
 ---
 ## What it is
 A Model Context Protocol server for interacting with Lightdash, enabling AI assistants to discover data, create charts, and manage dashboards programmatically.

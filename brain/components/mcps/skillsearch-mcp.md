@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:21:55Z"
 ---
 ## What it is
 Semantic skill-library search MCP server that finds relevant skills or Markdown knowledge files from local directories using embeddings, SQLite vector storage, and Reciprocal Rank Fusion.

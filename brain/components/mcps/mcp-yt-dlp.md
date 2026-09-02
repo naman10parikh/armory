@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T13:36:26Z"
 ---
 ## What it is
 MCP server wrapping yt-dlp for downloading videos and audio from URLs, providing tools to check dependencies, retrieve video metadata, and perform downloads.

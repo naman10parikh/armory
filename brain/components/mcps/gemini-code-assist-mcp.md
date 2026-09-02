@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-07-11T20:23:03Z"
 ---
 ## What it is
 An MCP server that integrates Google Gemini CLI with Claude Code for AI-powered development assistance, enabling code review, bug analysis, feature planning, and code explanation without requiring an API key.

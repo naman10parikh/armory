@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:40:14Z"
 ---
 ## What it is
 MCP server that makes the CVI Platform a native tool for AI assistants, enabling stock screening, company analysis, and point-in-time research via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-30T03:14:06Z"
 ---
 ## What it is
 Implements a distributed AI worker pattern over MCP, enabling clients to register as workers, poll for tasks, process prompts with AI, and submit results back to the server continuously.

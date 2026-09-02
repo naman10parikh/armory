@@ -8,10 +8,12 @@ source_url: https://github.com/telagod/kooix-godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-23T01:21:09Z"
 ---
 ## What it is
 MCP server `Godot`, catalogued on PulseMCP. Integrates with Godot game engine projects to provide project analysis, scene management, script generation, networking systems, debugging capabilities, and performance optimization recommendations for game development workflows.

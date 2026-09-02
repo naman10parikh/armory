@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T18:36:32Z"
 ---
 ## What it is
 An MCP server that masters audio with a professional signal chain using ffmpeg, enabling loudness analysis, vocal-over-beat mixing, full mastering to target LUFS, and Dolby codec export.

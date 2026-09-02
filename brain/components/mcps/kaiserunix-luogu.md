@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-19T15:53:19Z"
 ---
 ## What it is
 MCP server `Luogu`, catalogued on PulseMCP. MCP server for the Luogu competitive programming platform with 10 read-only tools for problem search, topic exploration, and user profile retrieval.

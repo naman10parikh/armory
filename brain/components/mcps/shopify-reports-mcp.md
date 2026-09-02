@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:34:13Z"
 ---
 ## What it is
 Enables AI agents to query Shopify analytics with ShopifyQL via the Admin GraphQL endpoint, executing queries and interpreting results like 'show me the products with the highest margins'.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-14T05:23:27Z"
 ---
 ## What it is
 Enables AI agents to interact with the Nexus blockchain, providing tools for querying blockchain data, smart contract calls, transaction submission, and event monitoring.

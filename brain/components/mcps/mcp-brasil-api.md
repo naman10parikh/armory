@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-20T07:01:17Z"
 ---
 ## What it is
 Enables LLMs to query Brazilian public data such as CEP, CNPJ, DDD, exchange rates, banks, and holidays via the Model Context Protocol.

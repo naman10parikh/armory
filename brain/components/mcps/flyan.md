@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T19:29:52Z"
 ---
 ## What it is
 Unofficial Python SDK and MCP server for Ryanair flight search. Find one-way fares, explore destinations grouped by country or region, and discover the cheapest day to fly between any two airports. No API keys.

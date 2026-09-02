@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T08:49:32Z"
 ---
 ## What it is
 Enables AI assistants to find questions where they name competitors instead of you, write pages to close those gaps, publish them, and measure the resulting visibility changes. Provides tools to list gaps, draft content, publish pages, and track before/after delta for AI search engine mentions.

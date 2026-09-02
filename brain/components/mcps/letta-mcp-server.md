@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-19T09:11:24Z"
 ---
 ## What it is
 Connects any MCP-compatible AI client to Letta.ai's stateful agents for agent conversations, memory management, and tool orchestration.

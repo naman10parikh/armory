@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T06:49:20Z"
 ---
 ## What it is
 A standalone MCP Tool Registry server providing generic tool search and discovery for MCP clients, reducing token consumption and improving tool selection accuracy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-15T00:56:36Z"
 ---
 ## What it is
 SassyMCP is a comprehensive MCP server that replaces 75+ individual servers with one 34MB executable. It provides 274 tools for file operations, shell, desktop automation, GitHub/Git, Android interaction, network/security auditing, SSH, OCR, and Windows system management.

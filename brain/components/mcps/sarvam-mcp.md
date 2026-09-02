@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T18:21:16Z"
 ---
 ## What it is
 A type-safe MCP server for the Sarvam AI API that enables chat, translation, transliteration, language detection, speech-to-text, and text-to-speech across 10 Indic languages and English.

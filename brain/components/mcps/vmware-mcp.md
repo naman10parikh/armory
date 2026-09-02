@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:42:28Z"
 ---
 ## What it is
 Enables managing VMware Workstation Pro VMs via MCP tools, including power operations, snapshots, guest processes, and network configuration through the vmrest, vmrun, and vmcli interfaces.

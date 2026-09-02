@@ -8,11 +8,13 @@ source_url: https://github.com/caravanglory/cocos-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-02-26T15:26:36Z"
 ---
 ## What it is
 Enables AI assistants to directly control the Cocos Creator 3.8.x editor via MCP protocol, providing over 130 tools for scene, node, component, asset, and project operations.

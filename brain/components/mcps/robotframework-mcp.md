@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T12:10:20Z"
 ---
 ## What it is
 Enables generating Robot Framework test cases with SeleniumLibrary, creating page object models, and performing performance monitoring through natural language.

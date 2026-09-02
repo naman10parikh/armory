@@ -8,10 +8,12 @@ source_url: https://github.com/hiromitsusasaki/raindrop-io-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-06-04T14:44:30Z"
 ---
 ## What it is
 MCP server `Raindrop.io`, catalogued on PulseMCP. Integrates with Raindrop.io API to enable creating, searching, and managing bookmarks with features like tag filtering.

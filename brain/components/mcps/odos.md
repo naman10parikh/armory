@@ -8,10 +8,12 @@ source_url: https://github.com/odos-xyz/odos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-11T18:43:57Z"
 ---
 ## What it is
 MCP server `Odos`, catalogued on PulseMCP. Integrates with Odos API and Zerion platform to provide DeFi trading capabilities including swap quotes, zap operations, token price data, and comprehensive wallet portfolio analysis with transaction history and performance metrics across multiple blockchain networks.

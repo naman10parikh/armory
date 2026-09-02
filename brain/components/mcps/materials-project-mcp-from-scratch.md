@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T20:04:55Z"
 ---
 ## What it is
 An educational MCP server that wraps the Materials Project API, exposing tools to search chemical systems, get material summaries, find semiconductors by band gap, and retrieve crystal structure facts.

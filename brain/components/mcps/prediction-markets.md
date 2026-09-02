@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:54Z"
 ---
 ## What it is
 Provides AI agents with real-time prediction market odds from Polymarket and Kalshi, enabling them to browse active markets, retrieve detailed probabilities and trading data, and discover trending markets via x402 micropayments.

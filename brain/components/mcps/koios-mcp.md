@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T12:24:14Z"
 ---
 ## What it is
 An MCP server that provides LLMs with access to 95 tools covering the Koios Cardano blockchain REST API, enabling queries for on-chain data like transactions, addresses, assets, and governance.

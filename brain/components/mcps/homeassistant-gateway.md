@@ -8,11 +8,13 @@ source_url: https://github.com/vypdev/homeassistant-gateway
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:17:52Z"
 ---
 ## What it is
 Enables secure, auditable access to Home Assistant through MCP, with a read-only observer profile and an operator profile for controlled mutations.

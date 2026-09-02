@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T11:47:21Z"
 ---
 ## What it is
 Extract and structure any web page into clean JSON using the ClawPage API. Provides tools for registration, extraction, account management, and wallet integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-30T17:26:51Z"
 ---
 ## What it is
 A file management MCP server enabling complete file and directory operations, including advanced editing, templates, and batch processing through natural language.

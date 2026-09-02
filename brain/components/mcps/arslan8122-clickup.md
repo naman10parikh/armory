@@ -8,10 +8,12 @@ source_url: https://github.com/arslan8122/clickup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-06T12:09:20Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Manages ClickUp tasks, time tracking, and standup posts via natural language through AI assistants.

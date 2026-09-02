@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T21:52:32Z"
 ---
 ## What it is
 Exposes network-monitoring tools (query metrics, analyze windows, compare, logs, status, runbooks, speed tests) as an MCP server for agentic workflows. Designed with evaluation suites, cost-aware model routing, and semantic tool retrieval.

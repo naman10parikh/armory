@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:23:31Z"
 ---
 ## What it is
 Enables AI agents to autonomously search, pay, and book travel by integrating Travala's travel inventory with FurlPay's payment rails, supporting both crypto-native and legacy payment methods.

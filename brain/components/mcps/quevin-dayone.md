@@ -8,10 +8,12 @@ source_url: https://github.com/quevin/mcp-dayone
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-14T18:00:37Z"
 ---
 ## What it is
 MCP server `Day One Journal`, catalogued on PulseMCP. Integrates with Day One Journal through CLI and database access to create, read, and search journal entries with attachments, location data, tags, and 'On This Day' functionality for automated journaling workflows and personal data analysis.

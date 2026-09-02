@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T10:44:53Z"
 ---
 ## What it is
 MCP server for managing Memoh AI agents from Claude Code, Cursor, or any MCP-compatible client, providing 26 tools for bots, containers, files, skills, memory, chat, settings, and health.

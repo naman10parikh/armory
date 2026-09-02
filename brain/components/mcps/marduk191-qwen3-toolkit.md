@@ -8,10 +8,12 @@ source_url: https://github.com/marduk191/qwen3_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-09T11:34:58Z"
 ---
 ## What it is
 MCP server `Qwen3 Toolkit`, catalogued on PulseMCP. Comprehensive toolkit providing 80+ tools across file operations, command execution, git management, web search, memory persistence, planning, and skills management with extensible GitHub-based instruction packages and specialized ComfyUI workflow support.

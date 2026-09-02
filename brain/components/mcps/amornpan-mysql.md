@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-07T07:21:04Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Provides a MySQL database interaction server that enables listing tables, reading contents, and executing SQL queries through flexible tool configurations.

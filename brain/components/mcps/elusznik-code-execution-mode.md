@@ -8,10 +8,12 @@ source_url: https://github.com/elusznik/mcp-server-code-execution-mode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 332
+stars: 338
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-12-05T11:39:38Z"
 ---
 ## What it is
 MCP server `Code Execution Mode`, catalogued on PulseMCP. Execute Python in isolated containers while bridging access to other MCP servers through auto-discovered proxies

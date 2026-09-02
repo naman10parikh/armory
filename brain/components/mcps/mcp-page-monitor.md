@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T17:54:26Z"
 ---
 ## What it is
 Enables monitoring web pages for changes using Playwright, storing snapshots in SQLite, and optionally analyzing changes with an LLM for business impact assessment.

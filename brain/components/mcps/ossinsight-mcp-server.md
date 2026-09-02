@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:44:58Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for querying GitHub repository analytics from OSSInsight, providing repo metadata, trending repos, curated collections, search, compare, and collection rankings without an API key.

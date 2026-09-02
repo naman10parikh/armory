@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-01T08:33:31Z"
 ---
 ## What it is
 Provides natural language querying of open-source community data, including health scores, PR/Issue statistics, contributor analysis, and CLA signings via Claude Desktop.

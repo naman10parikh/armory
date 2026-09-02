@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-28T04:14:13Z"
 ---
 ## What it is
 MCP server `GuoZaoKe`, catalogued on PulseMCP. Integrates with GuoZaoKe (果早客) Chinese technology news platform using web scraping to provide access to news feeds, topic discussions, and community content for staying informed about Chinese tech industry trends and market analysis.

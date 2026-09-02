@@ -8,11 +8,13 @@ source_url: https://github.com/Anil-matcha/seedance-2.5-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-03T11:25:27Z"
 ---
 ## What it is
 MCP server for generating Seedance 2.5 videos via MuAPI, enabling text-to-video, image-to-video, first/last frame, and omni reference workflows with 720p/480p resolution selection.

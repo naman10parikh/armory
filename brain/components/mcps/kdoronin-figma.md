@@ -8,10 +8,12 @@ source_url: https://github.com/kdoronin/figma_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-08T20:15:06Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Enables AI to interact with Figma design files through WebSocket communication, providing tools for document inspection, node manipulation, text modification, and component management for design automation workflows.

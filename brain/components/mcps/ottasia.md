@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T22:57:57Z"
 ---
 ## What it is
 Find where to watch any movie or TV show across 30 Asian and Middle Eastern streaming markets. Works with Netflix, Disney+ Hotstar, Shahid, Wavve, JioCinema, and 20+ more regional services.

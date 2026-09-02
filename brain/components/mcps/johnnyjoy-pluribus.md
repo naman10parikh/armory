@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-05T23:21:11Z"
 ---
 ## What it is
 MCP server `Pluribus`, catalogued on PulseMCP. Persistent memory control plane for AI agents with Postgres-backed durable storage and situation-shaped recall.

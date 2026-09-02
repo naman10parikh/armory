@@ -8,10 +8,12 @@ source_url: https://github.com/sind00/flippa-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-11T21:44:01Z"
 ---
 ## What it is
 MCP server `Flippa`, catalogued on PulseMCP. Search, analyze, and evaluate online businesses for sale on the Flippa.com marketplace.

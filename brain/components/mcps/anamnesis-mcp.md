@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T22:29:58Z"
 ---
 ## What it is
 Provides AI coding agents with persistent, traceable memory across projects by storing cue-pointer records that link back to full original contexts, enabling recollection of past decisions, patterns, and solutions.

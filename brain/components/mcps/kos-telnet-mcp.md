@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T10:58:25Z"
 ---
 ## What it is
 This MCP server enables AI agents to control kOS computers in Kerbal Space Program, providing tools for scripting, telemetry, and simulation management via telnet and file system integration.

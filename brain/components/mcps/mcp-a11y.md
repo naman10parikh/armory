@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T14:08:16Z"
 ---
 ## What it is
 Enables auditing web pages for WCAG violations, applying deterministic fixes and PRs, all through MCP clients like Claude Desktop.

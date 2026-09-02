@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T03:46:37Z"
 ---
 ## What it is
 Enables sending SMS messages and checking delivery status and credit balance via the web2sms.ro Romanian SMS gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T17:34:12Z"
 ---
 ## What it is
 Captures ideas from conversations and organizes them into a persistent, hierarchical mindmap. Supports search, deduplication, export, import, and cloud sync.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T03:42:17Z"
 ---
 ## What it is
 Enables AI assistants to perform password security auditing using John the Ripper on a remote Kali system via SSH, supporting cracking, hash management, and session control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T13:39:38Z"
 ---
 ## What it is
 Enables AI assistants to query FusionReactor Cloud metrics, logs, and alerts via MCP tools.

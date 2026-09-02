@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-24T08:49:01Z"
 ---
 ## What it is
 A simple Model Context Protocol server that provides an addition tool for adding two numbers.

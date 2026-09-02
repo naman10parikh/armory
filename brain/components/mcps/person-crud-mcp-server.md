@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T00:04:41Z"
 ---
 ## What it is
 Enables managing person records in a PostgreSQL database (Neon) via Claude Desktop, supporting create, read, update, delete, and search operations through natural language.

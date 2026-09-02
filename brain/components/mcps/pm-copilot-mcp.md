@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T05:22:05Z"
 ---
 ## What it is
 An AI-powered Product Management Operating System that provides tools for PRDs, user stories, prioritization, competitor analysis, roadmaps, KPIs, meeting notes, and product strategy via MCP clients.

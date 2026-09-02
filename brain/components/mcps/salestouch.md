@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T20:49:29Z"
 ---
 ## What it is
 MCP server for AI-native LinkedIn prospecting. It enables lead research, audience building, conversation management, and controlled outreach actions such as messaging and publishing through an OAuth-protected remote endpoint.

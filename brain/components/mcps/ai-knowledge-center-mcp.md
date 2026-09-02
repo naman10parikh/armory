@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T16:22:33Z"
 ---
 ## What it is
 Local-first MCP server that provides project context, verification gates, and structured tools for coding agents to discover knowledge, run diagnostics, and execute allowlisted commands within a repository.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:18:36Z"
 ---
 ## What it is
 Acts as a bridge between AI agents and Feishu/Lark, enabling document search and reading with adaptive format conversion to Markdown.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-18T19:18:23Z"
 ---
 ## What it is
 MCP server `SAP BusinessObjects BI`, catalogued on PulseMCP. Connects to SAP BusinessObjects BI databases through JDBC drivers, enabling natural language queries of business intelligence data with table discovery, metadata retrieval, and SQL execution returned in CSV format.

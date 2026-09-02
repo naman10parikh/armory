@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:23:30Z"
 ---
 ## What it is
 Enables MCP clients to access the eGordian JOC Service, including the AEO nine-stage deterministic estimating pipeline and the licensed Gordian CTC catalogue, with scoped authentication and deliberate safeguards.

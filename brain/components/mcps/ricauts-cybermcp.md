@@ -8,10 +8,12 @@ source_url: https://github.com/ricauts/cybermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-28T05:19:08Z"
 ---
 ## What it is
 MCP server `CyberMCP (API Security Testing)`, catalogued on PulseMCP. Provides API security testing tools for authentication testing, SQL injection detection, data leakage analysis, and vulnerability scanning with detailed severity ratings and remediation recommendations.

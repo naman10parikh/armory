@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T19:22:21Z"
 ---
 ## What it is
 An MCP server that tracks your favorite YouTube creators and tells you when they've posted something new — right from Claude.

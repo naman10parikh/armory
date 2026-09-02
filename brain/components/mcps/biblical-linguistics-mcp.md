@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T21:58:00Z"
 ---
 ## What it is
 Provides Hebrew & Greek word study, full morphological parsing, cross-references, LXX alignment, and more from open-licensed data sources, usable by any MCP-compatible client.

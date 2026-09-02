@@ -8,10 +8,12 @@ source_url: https://github.com/cyberillo/kali-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-18T15:36:32Z"
 ---
 ## What it is
 MCP server `Kali Linux`, catalogued on PulseMCP. Exposes 21 Kali Linux offensive security tools including Nmap, SQLMap, Metasploit, and password crackers via Docker.

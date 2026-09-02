@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T06:06:49Z"
 ---
 ## What it is
 Local-first context retrieval engine that serves precise documentation chunks to coding agents via MCP, ensuring high-confidence context for code generation.

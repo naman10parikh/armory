@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T15:51:39Z"
 ---
 ## What it is
 MCP server `mcp2cli-rs`, catalogued on PulseMCP. Rust CLI MCP client with on-demand schema loading, OAuth 2.1 support, and multiple transports.

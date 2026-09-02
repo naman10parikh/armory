@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:52:34Z"
 ---
 ## What it is
 MCP server integrating Google Search Console, Google Analytics 4, and GitHub, enabling AI clients to query search analytics, traffic data, and repository information.

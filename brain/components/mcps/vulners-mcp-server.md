@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-13T07:04:16Z"
 ---
 ## What it is
 Enables AI assistants to query the Vulners vulnerability database for CVEs, security bulletins, and software package audits through natural language.

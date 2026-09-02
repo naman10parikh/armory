@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T19:33:16Z"
 ---
 ## What it is
 Manages SteamOS Devkit devices, enabling discovery, pairing, title upload, and remote diagnostics via SSH, ADB, and devkit protocols.

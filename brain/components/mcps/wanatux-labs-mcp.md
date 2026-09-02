@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:07:32Z"
 ---
 ## What it is
 Enables MCP clients to query the Open Science Framework for public research project metadata, abstracts, and component listings using OSF project IDs or URLs.

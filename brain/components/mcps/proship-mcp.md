@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:44:02Z"
 ---
 ## What it is
 Stateless MCP server that enables AI agents to create Thailand Post shipments, print labels, and track parcels through the ProShip API.

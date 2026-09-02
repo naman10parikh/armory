@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T15:34:04Z"
 ---
 ## What it is
 Enables browsing and collecting course materials from Brightspace through Chrome DevTools Protocol, allowing snapshotting, downloading media, and automating page navigation.

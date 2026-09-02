@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:39:25Z"
 ---
 ## What it is
 Enables users to brainstorm brandable domain names from a description, check their real-time availability across domains and GitHub/npm/PyPI namespaces, and get ranked buy candidates via RDAP.

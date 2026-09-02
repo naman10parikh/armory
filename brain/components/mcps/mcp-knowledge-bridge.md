@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:11:32Z"
 ---
 ## What it is
 MCP-compatible knowledge bridge with tools, resources, prompts, local BM25 KB, and a token-guarded HTTP companion for Cursor and custom agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:05:24Z"
 ---
 ## What it is
 Privacy-first local MCP server for personal @163.com mailboxes, connecting via IMAP/SMTP with read-only search and write operations guarded by confirmation tokens.

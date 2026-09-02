@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-08T14:13:01Z"
 ---
 ## What it is
 Enables hierarchical problem analysis using logic trees with MECE validation, hypothesis generation, and feasibility assessment for structured decision-making.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T11:29:42Z"
 ---
 ## What it is
 Exposes internal tools from agent harnesses (Claude Code, Codex, etc.) as a standard MCP server by intercepting LLM API calls.

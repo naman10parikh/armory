@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:03:35Z"
 ---
 ## What it is
 Enables search, analytics, and visualization of Claude Code sessions with MCP tools for session management, recovery, and insights.

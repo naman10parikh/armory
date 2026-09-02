@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:36:24Z"
 ---
 ## What it is
 Enables natural language control of Adaptyv Bio's Foundry lab API through Claude Desktop/Code, allowing users to create experiments, check status, and retrieve results using plain English commands.

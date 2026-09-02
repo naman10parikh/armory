@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T13:59:02Z"
 ---
 ## What it is
 A remote MCP server deployed on Cloudflare Workers with GitHub OAuth authentication, providing tools like add, user info, and image generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T12:31:43Z"
 ---
 ## What it is
 A networked long-term memory server that enables AI agents to maintain persistent context across sessions via Server-Sent Events (SSE), with secure multi-tenancy and autonomous memory lifecycle management.

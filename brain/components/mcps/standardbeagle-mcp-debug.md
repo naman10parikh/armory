@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-07T14:56:24Z"
 ---
 ## What it is
 MCP server `MCP Debug`, catalogued on PulseMCP. Debug and develop MCP servers with hot-swapping, session recording, and playback testing.

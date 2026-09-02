@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-24T00:28:33Z"
 ---
 ## What it is
 Enables LLMs to execute Python code in isolated sandboxes with file operations and MCP integration, supporting multi-round execution and plot capture.

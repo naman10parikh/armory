@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-03T21:42:25Z"
 ---
 ## What it is
 Fetches metadata and README documentation for NPM packages, with local caching via SQLite for improved performance.

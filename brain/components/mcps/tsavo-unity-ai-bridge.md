@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-08T06:44:56Z"
 ---
 ## What it is
 MCP server `Unity-AI Bridge`, catalogued on PulseMCP. Bridge between Unity game environments and AI systems for executing C# code, querying game objects, and performing asynchronous operations like automated testing and scene analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:59:36Z"
 ---
 ## What it is
 FastMCP server that pages on-call via 100+ notification channels (WhatsApp, Telegram, Slack, etc.) built on Apprise, with credential redaction and channel filtering.

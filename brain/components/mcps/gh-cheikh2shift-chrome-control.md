@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-23T23:56:09Z"
 ---
 ## What it is
 MCP server `Chrome Browser Control (cheikh2shift)`, catalogued on PulseMCP. Controls Chrome browser through a companion extension using Go and WebSocket for tab navigation, content extraction, and interaction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:09:36Z"
 ---
 ## What it is
 An MCP server that lets an AI assistant look at your boat's Signal K data and help you design and install KIP dashboards.

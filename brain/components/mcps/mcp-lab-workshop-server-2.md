@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:00:31Z"
 ---
 ## What it is
 An educational MCP server that controls a live dashboard on Cloudflare Workers, enabling real-time toggling of features, updating stats, and setting messages via 8 MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-02T10:32:02Z"
 ---
 ## What it is
 Enables building encrypted, on-chain chatbots on the PFTL network. Allows LLMs to send and receive encrypted messages, register bots, and manage wallet operations.

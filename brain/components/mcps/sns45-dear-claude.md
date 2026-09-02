@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T21:53:41Z"
 ---
 ## What it is
 MCP server `Dear Claude`, catalogued on PulseMCP. Spawns local Claude Code instances from GitHub, Linear, Jira, GitLab, Notion, and Obsidian when "Dear Claude" is mentioned.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:55:45Z"
 ---
 ## What it is
 Enables AI assistants to send, read, search, and organize email from Proton Mail accounts via SMTP and IMAP.

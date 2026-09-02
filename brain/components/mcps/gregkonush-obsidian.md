@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-10T07:18:57Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Lightweight server for reading, modifying, searching, and navigating Obsidian notes through the Obsidian Local REST API, enabling granular content manipulation across Markdown files.

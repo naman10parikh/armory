@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-02T08:58:44Z"
 ---
 ## What it is
 MCP server `Hub Router`, catalogued on PulseMCP. Centralized hub for managing and routing multiple MCP servers through a web-based dashboard with smart routing capabilities that uses vector embeddings to automatically select the most appropriate server for tool calls.

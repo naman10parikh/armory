@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:41:52Z"
 ---
 ## What it is
 Enables generating deterministic, cited research findings from caller-supplied source metadata and excerpts via a local-fixture MCP tool, supporting English and Spanish.

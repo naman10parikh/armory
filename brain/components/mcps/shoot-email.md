@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:14:23Z"
 ---
 ## What it is
 An MCP server that provides AI agents with a persistent, agent-native email mailbox for sending, receiving, and managing emails through bounded-context retrieval, idempotent operations, and explicit acknowledgement.

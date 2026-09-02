@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, education]
-stars: 31
+stars: 38
+forks: 16
+pushed_at: "2026-08-29T19:42:12Z"
 ---
 ## What it is
 MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.

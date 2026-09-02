@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:12:19Z"
 ---
 ## What it is
 Provides tools to discover and summarize French open energy data from multiple public sources, including electricity mix helpers.

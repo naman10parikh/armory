@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-10T18:28:54Z"
 ---
 ## What it is
 Provides persistent storage for Claude's context by enabling saving, loading, searching, and managing memories across categories with version control and backup capabilities.

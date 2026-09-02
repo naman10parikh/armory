@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-16T17:27:04Z"
 ---
 ## What it is
 MCP server `Case Management`, catalogued on PulseMCP. Converts natural language questions about legal case management into safe SQL queries with validation, business glossary mapping, and security controls.

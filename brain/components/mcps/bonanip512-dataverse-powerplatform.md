@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-18T14:24:52Z"
 ---
 ## What it is
 MCP server `Dataverse (Microsoft PowerPlatform)`, catalogued on PulseMCP. Integrates with Microsoft's PowerPlatform API to enable querying and interaction with Dataverse entities, providing access to metadata, attributes, relationships, and records through authenticated requests without navigating complex API structures.

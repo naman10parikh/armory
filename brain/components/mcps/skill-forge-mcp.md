@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T15:47:24Z"
 ---
 ## What it is
 An MCP server that exposes the Agent Skill creation guide (9 phases) as MCP resources, enabling AI agents to build SKILL.md files on demand.

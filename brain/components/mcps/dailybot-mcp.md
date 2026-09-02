@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:26:56Z"
 ---
 ## What it is
 Enables Littlebird to read and submit DailyBot check-ins through the DailyBot CLI.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-01T08:35:10Z"
 ---
 ## What it is
 MCP server `Holaspirit`, catalogued on PulseMCP. Integrates with Holaspirit's API to provide access to organizational data for tasks like structure analysis, role management, and policy review.

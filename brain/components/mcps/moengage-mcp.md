@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T09:02:32Z"
 ---
 ## What it is
 MCP server for MoEngage marketing platform, exposing campaign and email-template tools with full campaign targeting filter tree via API-key auth.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:03:22Z"
 ---
 ## What it is
 A public MCP server about Boris Churzin's builds, decisions, and ops doctrine, allowing agents to interrogate his judgment instead of parsing a PDF.

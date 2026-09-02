@@ -8,10 +8,12 @@ source_url: https://github.com/krishnagutta/workday-studio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-20T16:07:19Z"
 ---
 ## What it is
 MCP server `Workday Studio`, catalogued on PulseMCP. Enables AI assistants to navigate and edit Workday Studio integration workspaces locally with 20 tools for files, assemblies, validation, and diagnostics.

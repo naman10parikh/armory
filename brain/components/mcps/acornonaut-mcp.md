@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:46:38Z"
 ---
 ## What it is
 AI-powered YouTube playlist to flashcards with spaced repetition (SM-2 algorithm). 18 tools for playlist management, semantic search, and Anki export.

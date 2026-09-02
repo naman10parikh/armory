@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T14:52:22Z"
 ---
 ## What it is
 Enables LLMs to generate safe, accessible scroll-driven web animations by translating natural language requests into validated JSON specs, then compiling them into GSAP or WAAPI/CSS code with built-in reduced-motion and pause controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:31:34Z"
 ---
 ## What it is
 A guardrail layer between AI agents and Ethereum wallets that enforces programmable spend limits and audit trails, enabling agents to make payments without risking the wallet.

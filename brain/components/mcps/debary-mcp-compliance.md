@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:55:35Z"
 ---
 ## What it is
 Provides deterministic fair-housing and advertising compliance checks for US real-estate listings, with rule explanations and rewrite suggestions, ensuring models cannot override the verdict.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T19:10:14Z"
 ---
 ## What it is
 EcoOracle is an MCP server that retrieves canonical usage recipes and API cards from a registry of R/Python packages, enabling users to build scripts using ecosystem packages.

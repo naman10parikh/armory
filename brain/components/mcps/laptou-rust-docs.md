@@ -12,6 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-03T04:34:47Z"
 ---
 ## What it is
 MCP server `Rust Docs`, catalogued on PulseMCP. Integrates with Rust documentation from docs.rs, enabling search for crates, retrieval of documentation, type information, feature flags, versions, and source code for Rust projects.

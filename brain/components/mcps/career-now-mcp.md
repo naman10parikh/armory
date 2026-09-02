@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T21:31:58Z"
 ---
 ## What it is
 Enables AI agents to search and explore a large database of tech job listings with filtering options.

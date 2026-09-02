@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-24T14:20:40Z"
 ---
 ## What it is
 MCP server `ThingsBoard`, catalogued on PulseMCP. Connects AI to ThingsBoard IoT platforms for retrieving device telemetry data and attributes, enabling monitoring and analysis of IoT device information.

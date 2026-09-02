@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T20:59:05Z"
 ---
 ## What it is
 MCP server `QuickBooks`, catalogued on PulseMCP. Connect Claude to QuickBooks Online — query finances, create invoices, and run reports.

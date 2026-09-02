@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-09T09:45:13Z"
 ---
 ## What it is
 MCP server `LSP Tools`, catalogued on PulseMCP. Provides regex-based text analysis capabilities for developers to precisely locate character and line positions of pattern matches within files, with robust security checks to prevent unauthorized file access.

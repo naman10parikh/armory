@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T16:51:20Z"
 ---
 ## What it is
 MCP server `MCP Helmet`, catalogued on PulseMCP. Production middleware toolkit for building MCP servers, adding authentication, health checks, rate limiting, and graceful shutdown to MCP applications.

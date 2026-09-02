@@ -8,11 +8,13 @@ source_url: https://github.com/ismailakdag/cst-studio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:06:19Z"
 ---
 ## What it is
 Python-first MCP server for CST Studio Suite (2024–2026) that lets AI assistants drive CST from Windows: open projects, build geometry, set materials and ports, run solvers, read S-parameters and farfield metrics, and generate design reports.

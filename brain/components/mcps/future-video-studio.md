@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T01:32:42Z"
 ---
 ## What it is
 MCP server `Future Video Studio`, catalogued on PulseMCP. AI video production platform that creates cinematic sequences with consistent characters and style across entire productions.

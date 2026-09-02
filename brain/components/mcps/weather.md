@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-07T21:00:34Z"
 ---
 ## What it is
 MCP server `NWS Weather`, catalogued on PulseMCP. Integrates with the National Weather Service API to retrieve weather alerts by state and forecasts by coordinates for basic weather information access.

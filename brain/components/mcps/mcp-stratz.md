@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:14Z"
 ---
 ## What it is
 Enables querying Dota 2 data (hero stats, player matches, player heroes) via the STRATZ API, with support for arbitrary GraphQL queries.

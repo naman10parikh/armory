@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:20:24Z"
 ---
 ## What it is
 A production-ready MCP server that provides AI agents secure access to Exa web search with OAuth-based authentication, scoping, and auditing via ScaleKit.

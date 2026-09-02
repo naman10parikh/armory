@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:12:15Z"
 ---
 ## What it is
 Query your income by month and source, and log new monthly income, from any MCP client. Backed by IncomeOS, an open-source income tracker with Stripe sync plus manual entries for sources without an API.

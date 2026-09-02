@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:00:38Z"
 ---
 ## What it is
 Lets MCP clients control a live Zen/Firefox browser to navigate, click, fill forms, screenshot, and execute JavaScript through a persistent server and browser extension.

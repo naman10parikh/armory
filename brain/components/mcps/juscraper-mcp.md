@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:25:44Z"
 ---
 ## What it is
 Public MCP server for querying Brazilian court jurisprudence, processes, and communications without authentication. Supports courts like TJSP, TJRS, TJRJ, TJGO, and more via eSAJ, Datajud, and CNJ systems.

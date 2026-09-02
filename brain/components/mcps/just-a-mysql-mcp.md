@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:12:47Z"
 ---
 ## What it is
 Read-only MySQL MCP server that lets AI agents list tables, describe schemas, and run SELECT/SHOW/EXPLAIN queries with a row cap, bound to a single database for safety.

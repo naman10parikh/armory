@@ -8,10 +8,12 @@ source_url: https://github.com/bornpresident/volatility-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-07T12:20:52Z"
 ---
 ## What it is
 MCP server `Volatility 3 Memory Forensics`, catalogued on PulseMCP. Integrates the Volatility 3 memory forensics framework with Claude and other MCP-compatible LLMs.

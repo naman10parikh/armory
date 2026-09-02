@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:46Z"
 ---
 ## What it is
 Provides a single read-only tool to consult Certidão Negativa de Débitos (negative debt certificates) from SEFAZ RN, the state tax authority of Rio Grande do Norte, Brazil.

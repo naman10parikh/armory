@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:01:44Z"
 ---
 ## What it is
 MCP server `Airbrake`, catalogued on PulseMCP. Integrates with Airbrake's error tracking platform to monitor application errors, manage error states, track deployments, analyze trends, and facilitate team collaboration through comments and issue linking.

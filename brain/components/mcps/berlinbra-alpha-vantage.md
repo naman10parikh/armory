@@ -8,10 +8,12 @@ source_url: https://github.com/berlinbra/alpha-vantage-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 96
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2025-10-22T01:17:15Z"
 ---
 ## What it is
 MCP server `Alpha Vantage`, catalogued on PulseMCP. Integrates with Alpha Vantage API to provide real-time financial market data for stock quotes, company information, cryptocurrency rates, and historical prices.

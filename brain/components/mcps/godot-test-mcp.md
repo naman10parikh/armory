@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T12:02:34Z"
 ---
 ## What it is
 MCP server for automated Godot 4 game testing. Enables launching games, capturing errors, and verifying changes from Claude Code or any MCP client.

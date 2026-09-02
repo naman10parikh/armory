@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-29T14:34:57Z"
 ---
 ## What it is
 Enables querying Graylog log management system for messages using natural language, supporting multiple instances and flexible search parameters.

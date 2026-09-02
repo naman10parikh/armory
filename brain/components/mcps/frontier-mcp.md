@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:06:41Z"
 ---
 ## What it is
 An MCP server that exposes the markdown issue tracker under .scratch/ as a queryable graph, letting agents see open, blocked, or takeable issues without re-parsing prose.

@@ -8,10 +8,12 @@ source_url: https://github.com/m-pineapple/claude-project-coordinator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-02T19:04:15Z"
 ---
 ## What it is
 MCP server `Claude Project Coordinator`, catalogued on PulseMCP. Provides Xcode and Swift project management with lifecycle tracking, task management, technology stack detection, analytics including activity heat maps and health scoring, plus security validation and Swift/SwiftUI knowledge base for iOS/macOS development workflows.

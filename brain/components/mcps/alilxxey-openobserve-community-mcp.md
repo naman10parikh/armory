@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 17
+forks: 1
+pushed_at: "2026-03-24T07:57:24Z"
 ---
 ## What it is
 Read-only MCP server for OpenObserve Community Edition via REST API. Search logs, traces, stream schemas, and dashboards without requiring the Enterprise license.

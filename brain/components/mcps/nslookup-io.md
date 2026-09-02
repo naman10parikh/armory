@@ -8,10 +8,12 @@ source_url: https://github.com/nslookup-io/nslookup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-17T18:22:51Z"
 ---
 ## What it is
 MCP server `NsLookup.io`, catalogued on PulseMCP. DNS lookups, SSL certificate checks, security scanning, and domain intelligence via nslookup.io.

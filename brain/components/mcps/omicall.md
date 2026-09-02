@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T09:59:29Z"
 ---
 ## What it is
 MCP server `OMICall`, catalogued on PulseMCP. Call center and multi-channel platform providing 80+ tools for telephony, ticketing, Zalo, Facebook, Telegram, and LiveTalk.

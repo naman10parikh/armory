@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:24:42Z"
 ---
 ## What it is
 MCP server for scanning AI systems and code for demographic, occupational, and geographic biases. Enables CI integration and AI agent-driven bias detection.

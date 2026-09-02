@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:25Z"
 ---
 ## What it is
 MCP server `Twitter Scraper`, catalogued on PulseMCP. Scrape Twitter/X profiles, tweets, and search results without an API key.

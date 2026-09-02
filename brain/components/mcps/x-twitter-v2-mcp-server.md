@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-04-20T13:28:30Z"
 ---
 ## What it is
 An MCP server for interacting with the Twitter/X API v2, enabling AI assistants to retrieve tweets, post content, reply, quote, and more programmatically.

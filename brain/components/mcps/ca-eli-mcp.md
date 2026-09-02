@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:55:10Z"
 ---
 ## What it is
 Enables retrieval of Canadian federal legislation (Acts and regulations) from the Justice Laws Website by code, providing metadata and full consolidated text in English and French.

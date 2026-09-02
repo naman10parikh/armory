@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:59:22Z"
 ---
 ## What it is
 Enables AI assistants to publish and manage blog posts on Misar.Blog, including drafts, series, AI content generation, and analytics.

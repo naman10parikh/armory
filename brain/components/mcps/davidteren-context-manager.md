@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-19T06:53:00Z"
 ---
 ## What it is
 MCP server `Context Manager`, catalogued on PulseMCP. Enhances Claude's capabilities with context management across sessions, knowledge organization through hierarchical project contexts, and continuous conversation threads stored in a well-structured directory.

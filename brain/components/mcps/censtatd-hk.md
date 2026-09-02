@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:47:11Z"
 ---
 ## What it is
 Enables querying Hong Kong Census and Statistics Department open data via natural language or direct tool calls through the Pipeworx gateway.

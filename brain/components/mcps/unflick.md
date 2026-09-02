@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T02:12:23Z"
 ---
 ## What it is
 Video player for humans and AI. GUI + CLI + a built-in MCP server (39 tools) to drive playback, clip, transcribe, and search your media library from Claude, Cursor, or any MCP client. Local Whisper subtitles. MIT, local-first.

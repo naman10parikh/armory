@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-17T05:39:07Z"
 ---
 ## What it is
 Connects AI coding assistants to the JFrog platform, enabling natural-language queries for resource management, artifact discovery, security monitoring, and catalog curation.

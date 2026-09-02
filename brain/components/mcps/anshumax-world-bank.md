@@ -8,10 +8,12 @@ source_url: https://github.com/anshumax/world_bank_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-17T09:14:37Z"
 ---
 ## What it is
 MCP server `World Bank Data`, catalogued on PulseMCP. Connects to World Bank open data API for exploring and analyzing global socioeconomic indicators and development trends.

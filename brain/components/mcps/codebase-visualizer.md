@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T20:29:26Z"
 ---
 ## What it is
 Provides a code graph querying and visualization MCP server, enabling users to search, trace, and describe code components, overlay diffs, and explore architecture through natural language.

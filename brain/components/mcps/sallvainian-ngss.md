@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T00:19:25Z"
 ---
 ## What it is
 MCP server `NGSS Standards`, catalogued on PulseMCP. Provides access to Next Generation Science Standards for middle school education with 3D framework filtering, full-text search, and configurable response detail levels for standards-aligned lesson planning and curriculum development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T18:58:28Z"
 ---
 ## What it is
 Cost-first memory layer for MCP-capable agents that stores memories cheaply and recalls relevant slices under a hard token budget, logging receipts for every recall.

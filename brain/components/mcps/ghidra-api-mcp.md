@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T22:15:30Z"
 ---
 ## What it is
 Helps LLMs write correct Ghidra scripts by providing API call-flows extracted from Ghidra's source code.

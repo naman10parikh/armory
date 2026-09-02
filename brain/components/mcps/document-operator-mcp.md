@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T08:38:03Z"
 ---
 ## What it is
 Enables AI assistants to read, modify, and create Word (.docx) and Excel (.xlsx) files through natural language commands, including batch queries and temporary table management.

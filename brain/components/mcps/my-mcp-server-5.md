@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:44:58Z"
 ---
 ## What it is
 A TypeScript MCP server boilerplate that provides tools like calculator, weather, geocoding, and image generation via HuggingFace, supporting both Streamable HTTP (for Vercel deployment) and stdio transports.

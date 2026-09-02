@@ -8,10 +8,12 @@ source_url: https://github.com/1shin-7/ya-frida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, memory, security]
+forks: 3
+pushed_at: "2026-08-31T12:37:23Z"
 ---
 
 ## What it is

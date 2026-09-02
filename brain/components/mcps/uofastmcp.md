@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T06:21:44Z"
 ---
 ## What it is
 Enables interaction with U2 UniData/UniVerse databases through MCP tools for file, record, dictionary, and BP program operations, with built-in admin UI, JWT authentication, RBAC, and audit logging.

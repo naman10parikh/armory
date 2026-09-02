@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T05:37:57Z"
 ---
 ## What it is
 A local MCP server that discovers and shares session file paths between AI coding agents, enabling cross-referencing without modifying existing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-30T18:02:59Z"
 ---
 ## What it is
 Enables one AI coding agent to delegate tasks to, and build consensus across, multiple other coding CLIs (Claude Code, Codex, etc.) by orchestrating them as headless subprocesses.

@@ -8,10 +8,12 @@ source_url: https://github.com/weidwonder/crawl4ai-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 152
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2026-01-23T06:16:26Z"
 ---
 ## What it is
 MCP server `Google Custom Search`, catalogued on PulseMCP. Integrates with Google Custom Search Engine to enable automated web crawling, content extraction, and search result parsing for data collection and analysis at scale.

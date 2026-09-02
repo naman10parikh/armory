@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:07:48Z"
 ---
 ## What it is
 Enables AI agents to manage a Facebook Fanpage via the official Graph API, supporting posting, scheduling, comment moderation, and analytics, without scraping or accessing private messages.

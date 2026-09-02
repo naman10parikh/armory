@@ -8,11 +8,13 @@ source_url: https://github.com/sergeyfedyakov/v8unpack-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T19:38:04Z"
 ---
 ## What it is
 MCP server for full lifecycle of 1C binary files (CF/CFE/EPF/ERF) without EDT import: unpack to a temporary directory, read and edit code/forms/help, search, diff, repack, and cleanup. Enables code analysis, patching, and bytecode decompilation of protected modules via natural language.

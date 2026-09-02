@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-06-05T18:32:47Z"
 ---
 ## What it is
 MCP server `MSSQL`, catalogued on PulseMCP. Enables secure AI-driven interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and intelligent database management.

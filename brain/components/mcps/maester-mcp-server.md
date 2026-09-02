@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:47:19Z"
 ---
 ## What it is
 Exposes the Maester security test framework for Microsoft 365/Entra/Defender as MCP tools, enabling AI agents to run tests, audit AI agents and MCP servers, and investigate security posture.

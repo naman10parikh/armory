@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T20:10:05Z"
 ---
 ## What it is
 Manages GitHub Projects v2 as a personal kanban board, allowing you to create, move, and prioritize draft items without linking to real issues.

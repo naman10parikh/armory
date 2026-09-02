@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:49:31Z"
 ---
 ## What it is
 Enables Claude to read and interact with BILLZ 2.0 data such as products, sales, customers, and categories via the BILLZ REST API.

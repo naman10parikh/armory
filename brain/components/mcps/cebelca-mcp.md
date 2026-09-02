@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:26:22Z"
 ---
 ## What it is
 An MCP server that wraps the cebelca.biz accounting API, exposing tools for operations like managing partners, invoices, proformas, and fetching PDFs.

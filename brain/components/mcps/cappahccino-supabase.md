@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-21T20:13:22Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Enables Claude and other LLMs to interact with Supabase databases and Edge Functions through a secure API for performing CRUD operations and invoking custom payloads without requiring integration code.

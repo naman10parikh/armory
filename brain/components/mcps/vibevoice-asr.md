@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T22:40:26Z"
 ---
 ## What it is
 Local speech-to-text transcription using Microsoft's VibeVoice-ASR model with speaker diarization, enabling audio transcription directly in AI tools like Claude Code, Cursor, and OpenCode.

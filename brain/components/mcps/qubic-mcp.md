@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T12:54:58Z"
 ---
 ## What it is
 MCP server `Qubic MCP`, catalogued on PulseMCP. Qubic blockchain tools for balances, prices, transfers, and wallets.

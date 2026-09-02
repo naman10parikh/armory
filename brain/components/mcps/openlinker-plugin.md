@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:13:35Z"
 ---
 ## What it is
 An MCP bridge that lets Codex and Claude Code interact with OpenLinker agents, and allows the host to serve as a callable agent in the OpenLinker network.

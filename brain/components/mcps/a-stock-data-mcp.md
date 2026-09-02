@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:59:38Z"
 ---
 ## What it is
 MCP server adapter that exposes A-share stock data tools, prompts, and resources via FastMCP, enabling querying of stocks, K-lines, financials, sectors, and market hot spots through natural language.

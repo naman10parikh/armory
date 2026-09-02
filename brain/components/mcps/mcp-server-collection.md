@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-11T08:28:03Z"
 ---
 ## What it is
 A modular framework for building and running multiple MCP servers with file operations, system information, and extensible tool/prompt/resource support.

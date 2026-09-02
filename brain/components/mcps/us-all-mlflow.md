@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T01:28:34Z"
 ---
 ## What it is
 MCP server `MLflow`, catalogued on PulseMCP. Community MCP integration for MLflow, enabling AI agents to access experiments, runs, registered models, and ML traces.

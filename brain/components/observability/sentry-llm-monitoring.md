@@ -8,11 +8,13 @@ source_url: https://github.com/getsentry/sentry
 license: FSL-1.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 44608
+stars: 44709
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, errors, apm]
+forks: 4832
+pushed_at: "2026-09-02T01:19:27Z"
 ---
 ## What it is
 Sentry's error and performance monitoring extended to LLM applications — captures exceptions, latency, and AI token usage with OpenTelemetry integration.

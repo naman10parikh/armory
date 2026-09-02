@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-13T05:04:18Z"
 ---
 ## What it is
 Provides a complete MCP server for managing Proxmox VE infrastructure with 115 specialized tools, enabling AI assistants and automation systems to perform complex virtualization tasks seamlessly.

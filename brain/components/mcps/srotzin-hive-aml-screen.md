@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:32Z"
 ---
 ## What it is
 MCP server `Hive AML Screen`, catalogued on PulseMCP. Screens blockchain addresses for AML risk using OFAC SDN list and Base mainnet on-chain analysis.

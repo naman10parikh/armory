@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-08T13:39:29Z"
 ---
 ## What it is
 Enables AI assistants to leverage VS Code's language intelligence for code navigation, refactoring, and analysis via the MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:16:46Z"
 ---
 ## What it is
 Analyzes Claude Code session token usage and cost locally — where spend actually lands across cache-read, cache-write and output, and what is consuming the context window. Read-only and offline: it parses your own session files and exposes analyze_claude_cost, get_cost_benchmark and tokenscope_share

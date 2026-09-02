@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T23:48:07Z"
 ---
 ## What it is
 MCP server `BrokerIA`, catalogued on PulseMCP. Brazilian real estate platform MCP server for property search, mortgage simulation, CRM lead registration, and visit scheduling.

@@ -8,10 +8,12 @@ source_url: https://github.com/elyin/codex-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 103
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-03T06:31:24Z"
 ---
 ## What it is
 MCP server `Codex Bridge`, catalogued on PulseMCP. Bridges Claude with OpenAI's Codex through the official CLI, enabling direct consultation, stdin-piped execution for CI/CD workflows, and batch processing for automated code analysis and reviews.

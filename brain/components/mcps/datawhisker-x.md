@@ -8,10 +8,12 @@ source_url: https://github.com/datawhisker/x-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-06-21T10:12:28Z"
 ---
 ## What it is
 MCP server `X (Twitter)`, catalogued on PulseMCP. Integrates with the X (Twitter) API to enable posting tweets, retrieving user data, and analyzing trends.

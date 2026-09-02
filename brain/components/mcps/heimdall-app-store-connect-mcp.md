@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T22:25:10Z"
 ---
 ## What it is
 Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:28:36Z"
 ---
 ## What it is
 Enables AI assistants to perform electronic circuit power tree analysis, including opening projects, solving margins, validating designs, editing elements, managing waivers, and exporting reports.

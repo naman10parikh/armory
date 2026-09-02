@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-12T10:14:36Z"
 ---
 ## What it is
 MCP server for conversation recording and review management, supporting recording, querying, and statistical analysis of conversation history with dual transport mode.

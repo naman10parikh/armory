@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:33:01Z"
 ---
 ## What it is
 Enables AI assistants to perform deep Indian stock research with fundamentals, forensic scores, DCF valuation, screening, and news for 6000+ NSE/BSE stocks.

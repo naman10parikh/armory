@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T16:45:10Z"
 ---
 ## What it is
 MCP server `mcpgo`, catalogued on PulseMCP. Manage Claude Code MCP servers by talking to Claude — list, restart, wrap for auto-recovery, and more.

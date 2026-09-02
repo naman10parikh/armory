@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:24:26Z"
 ---
 ## What it is
 MCP server for local, offline-capable library documentation. It resolves library IDs and retrieves up-to-date docs via hybrid search from a persistent SQLite cache.

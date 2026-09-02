@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T10:59:35Z"
 ---
 ## What it is
 Enables AI clients to manage app store projects via the GetStoreReady API, including creating projects, uploading screenshots, applying templates, updating listings, and checking project status.

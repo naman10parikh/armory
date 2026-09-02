@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:39:50Z"
 ---
 ## What it is
 MCP server `SendPulse`, catalogued on PulseMCP. Integrates with SendPulse email marketing API for managing mailing lists, sending emails, and viewing campaign statistics.

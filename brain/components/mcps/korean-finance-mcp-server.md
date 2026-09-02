@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:37:18Z"
 ---
 ## What it is
 Integrates with Claude Desktop to provide Korean financial data including stock prices, bonds, real estate transactions, and economic indicators from multiple sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:50:04Z"
 ---
 ## What it is
 An MCP server that exposes causal inference methods (difference-in-differences, synthetic control, propensity matching, and assumption checks) as callable tools, enabling AI agents to run deterministic statistical analyses instead of computing them inline.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:38:09Z"
 ---
 ## What it is
 An MCP server for React Native Upgrade Helper diffs. It fetches the same generated template diffs used by React Native Upgrade Helper, backed by react-native-community/rn-diff-purge, and exposes them as MCP tools that agents can call directly.

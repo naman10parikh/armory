@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T20:08:45Z"
 ---
 ## What it is
 A multi-agent system for code rules management using MCP, supporting search, generation, and architectural validation through specialized agents.

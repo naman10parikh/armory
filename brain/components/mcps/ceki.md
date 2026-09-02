@@ -8,10 +8,12 @@ source_url: https://github.com/ceki-me/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-27T12:34:36Z"
 ---
 ## What it is
 MCP server `Ceki`, catalogued on PulseMCP. Hire specialists by the hour — search, schedule, and pay via MCP for IT freelancers, lawyers, and professionals.

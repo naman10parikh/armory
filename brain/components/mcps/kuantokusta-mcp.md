@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:30:25Z"
 ---
 ## What it is
 Enables searching for products on KuantoKusta.pt with filters and retrieving detailed product information including prices from multiple stores.

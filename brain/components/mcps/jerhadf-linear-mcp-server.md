@@ -8,10 +8,12 @@ source_url: https://github.com/jerhadf/linear-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 344
+stars: 348
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 56
+pushed_at: "2025-05-01T19:45:31Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Track and manage issues via Linear's project management API.

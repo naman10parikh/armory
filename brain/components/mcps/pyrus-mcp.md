@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:50:51Z"
 ---
 ## What it is
 Enables authorized employees and AI hosts to perform Pyrus operations over the Model Context Protocol (MCP) with production-grade security and observability.

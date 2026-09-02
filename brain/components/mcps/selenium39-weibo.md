@@ -8,10 +8,12 @@ source_url: https://github.com/selenium39/mcp-server-weibo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-09-09T07:08:49Z"
 ---
 ## What it is
 MCP server `Weibo`, catalogued on PulseMCP. Enables scraping of Weibo user information, feeds, and search functionality with tools for user discovery, profile retrieval, and feed access

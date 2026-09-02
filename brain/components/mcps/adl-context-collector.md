@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:29:25Z"
 ---
 ## What it is
 MCP server providing persistent memory for LLMs via semantic search over captures, structured facts with temporal tracking, and document ingestion. Enables any MCP-compatible client to maintain a searchable knowledge base across sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:43:39Z"
 ---
 ## What it is
 Enables AI agents to discover, reserve, and dispatch inference to GPU nodes via MCP tools, using signed handles for stateless reservation management.

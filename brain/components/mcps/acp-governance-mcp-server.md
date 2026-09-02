@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T22:46:16Z"
 ---
 ## What it is
 Governs AI agent tool calls by checking them against Agentic Control Plane policies, returning allow/deny/ask decisions with audit logging and identity attribution for MCP clients like Claude and ChatGPT. Exposes acp_check and acp_status tools for policy enforcement and connection verification.

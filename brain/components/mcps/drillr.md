@@ -8,10 +8,12 @@ source_url: https://github.com/little-grebe-inc/drillr-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T09:20:27Z"
 ---
 ## What it is
 MCP server `Drillr`, catalogued on PulseMCP. Financial data MCP for AI agents: 90+ SQL tables, SEC filings, earnings transcripts, and alternative data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-26T17:36:44Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Polar Lightning that enables AI assistants to manage Bitcoin Lightning Network test environments, including network creation, node management, Bitcoin operations, Lightning channel management, and Taproot Assets.

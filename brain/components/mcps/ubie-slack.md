@@ -12,6 +12,8 @@ stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-06-29T02:54:12Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Enables AI interaction with Slack workspaces through nine tools for channel management, messaging, user profiles, and reactions using both Bot and User OAuth tokens

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:27:27Z"
 ---
 ## What it is
 A Python MCP server for deterministic fuzzy text matching using RapidFuzz. It enables text normalization, string comparison, best-match ranking, duplicate grouping, and match explanation via configurable profiles and strategies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:29:45Z"
 ---
 ## What it is
 Generates production-ready, white-labeled web architectures (Next.js + Supabase or static) from vertical packs and blueprints. Enables AI agents to scaffold inventory sites, SaaS platforms, and custom verticals, including Supabase provisioning, edge functions, and deployment.

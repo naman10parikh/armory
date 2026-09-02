@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T15:54:02Z"
 ---
 ## What it is
 Enables AI agents to ask clarification questions and receive structured user input through a Human-in-the-Loop interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T02:50:28Z"
 ---
 ## What it is
 A Python-based MCP server for interacting with Odoo ERP, offering example tools such as health checks, customer search, customer details, and listing sale orders.

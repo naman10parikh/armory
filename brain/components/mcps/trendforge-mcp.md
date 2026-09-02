@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:08:41Z"
 ---
 ## What it is
 Enables querying YouTube gaming opportunity rankings to answer 'what should I record?' by providing tools for top games, game breakdowns with AI video ideas, and live topic checks.

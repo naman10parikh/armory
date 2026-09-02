@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T03:00:04Z"
 ---
 ## What it is
 Cross-sectional funding-carry rankings for Hyperliquid perpetual futures, metered per call in USDC via x402 on Base.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T13:57:42Z"
 ---
 ## What it is
 MCP server `Webflow`, catalogued on PulseMCP. Enables direct management of Webflow sites through API access to retrieve site information, handle custom domains, configure localization settings, and manage collections without switching contexts.

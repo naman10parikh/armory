@@ -8,10 +8,12 @@ source_url: https://github.com/alphavantage/alpha_vantage_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 156
+stars: 207
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 49
+pushed_at: "2026-08-30T13:45:25Z"
 ---
 ## What it is
 MCP server `Alpha Vantage`, catalogued on PulseMCP. Real-time financial market data: stocks, forex, crypto, commodities, and economic indicators

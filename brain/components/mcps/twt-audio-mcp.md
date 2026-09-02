@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T18:49:26Z"
 ---
 ## What it is
 Converts Twitter/X tweets to spoken audio (MP3) using free Edge-TTS, enabling any MCP-compatible AI assistant to read tweets aloud.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:48:29Z"
 ---
 ## What it is
 Scaffolds stateless MCP servers with explicit state handles, a pluggable state store, and a visual inspector for debugging.

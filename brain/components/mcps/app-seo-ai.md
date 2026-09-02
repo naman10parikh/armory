@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-08T19:13:16Z"
 ---
 ## What it is
 MCP server `SEO AI (Google Ads Keyword Planner)`, catalogued on PulseMCP. Connects AI systems to Google Ads Keyword Planner API for SEO automation through keyword research, SERP analysis, and competitor insights without leaving conversations.

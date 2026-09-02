@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:23:52Z"
 ---
 ## What it is
 This MCP server enables managing CI patch verification workflows by creating, running, tracing, previewing, and canceling patch verification tasks through local stdio tools.

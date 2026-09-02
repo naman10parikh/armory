@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:32:00Z"
 ---
 ## What it is
 Enables AI assistants to flash firmware, program memory, modify option bytes, erase chips, reset boards, and capture SWO printf traces for STM32 microcontrollers via STM32CubeCLT.

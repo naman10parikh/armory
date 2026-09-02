@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:55:50Z"
 ---
 ## What it is
 An MCP server that converts Markdown into True Corporation branded PowerPoint decks, offering tools for validation, generation, preview, and delivery of presentations.

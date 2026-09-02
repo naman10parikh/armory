@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-09-14T09:02:24Z"
 ---
 ## What it is
 MCP server `Kakao Navigation`, catalogued on PulseMCP. Integrates with Kakao Maps and Mobility APIs to enable route planning, geocoding, and location searches within Korea.

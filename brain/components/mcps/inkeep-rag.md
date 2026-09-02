@@ -8,10 +8,12 @@ source_url: https://github.com/inkeep/mcp-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-10T19:49:05Z"
 ---
 ## What it is
 MCP server `Inkeep RAG`, catalogued on PulseMCP. Enables Claude to search and retrieve relevant documentation through Inkeep's RAG API, returning structured citation data for technical support and knowledge-based interactions.

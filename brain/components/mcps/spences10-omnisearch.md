@@ -8,10 +8,12 @@ source_url: https://github.com/spences10/mcp-omnisearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 312
+stars: 347
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 53
+pushed_at: "2026-09-01T02:35:16Z"
 ---
 ## What it is
 MCP server `Omnisearch`, catalogued on PulseMCP. Unifies search and content processing by dynamically selecting optimal providers like Tavily, Brave, and Perplexity to enable flexible information retrieval and enhancement across multiple domains.

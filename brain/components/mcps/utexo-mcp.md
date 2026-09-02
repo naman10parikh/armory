@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T21:41:05Z"
 ---
 ## What it is
 A hosted Model Context Protocol server providing secret-free, read-only Bitcoin and RGB tools for AI clients like Claude, with no API keys or installation required.

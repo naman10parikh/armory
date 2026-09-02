@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-30T13:50:19Z"
 ---
 ## What it is
 MCP server for T-Bank's Time Messenger (Mattermost-based) that enables AI assistants to read and send messages, manage threads, search channels and users, and track unread messages.

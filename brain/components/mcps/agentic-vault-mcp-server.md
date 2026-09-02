@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T14:37:40Z"
 ---
 ## What it is
 Exposes an EVM wallet to AI agents via MCP, using AWS KMS for HSM-backed signing and a deny-by-default policy engine for secure DeFi transaction approvals.

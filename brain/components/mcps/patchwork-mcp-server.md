@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T04:56:59Z"
 ---
 ## What it is
 Enables LLM agents to query Patchwork kernel patches, series, CI checks, and comments via natural language through a read-only MCP server.

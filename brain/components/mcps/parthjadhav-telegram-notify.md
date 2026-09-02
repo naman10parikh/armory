@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-13T14:20:55Z"
 ---
 ## What it is
 MCP server `Telegram Notify`, catalogued on PulseMCP. Send text messages, images, and files to Telegram as notifications from AI agent workflows.

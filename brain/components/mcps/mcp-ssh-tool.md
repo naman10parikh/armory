@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-06T22:25:30Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) SSH client server that provides autonomous SSH operations for GitHub Copilot and VS Code. Enable natural language SSH automation without manual prompts or GUI interactions.

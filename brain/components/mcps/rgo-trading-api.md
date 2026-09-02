@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:24:01Z"
 ---
 ## What it is
 Enables AI assistants to read positions, deals, and orders from the RGO trading platform via natural language, with optional trading capabilities when explicitly enabled.

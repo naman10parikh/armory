@@ -8,10 +8,12 @@ source_url: https://github.com/mark3labs/mcp-filesystem-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 644
+stars: 679
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 112
+pushed_at: "2025-11-24T15:46:55Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Read, write, and manipulate local files through a controlled API.

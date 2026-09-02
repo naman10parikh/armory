@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T02:34:59Z"
 ---
 ## What it is
 Crypto news aggregation MCP server with AI ratings, trading signals, and real-time updates. Enables searching, filtering, and subscribing to news from various sources.

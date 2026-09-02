@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T19:10:01Z"
 ---
 ## What it is
 MCP server `Swarm.at`, catalogued on PulseMCP. Settlement protocol for AI agent swarms with hash-chained ledger, trust scoring, blueprints, and cross-vendor agent coordination.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T00:27:38Z"
 ---
 ## What it is
 MCP server to manage and inspect a ZTE ZXHN F680 GPON router, enabling conversational control of NAT/port forwarding and reading WiFi, DHCP, DMZ, WAN, and device status from MCP-compatible clients.

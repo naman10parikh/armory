@@ -8,10 +8,12 @@ source_url: https://github.com/mirodn/mcp-server-public-transport
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-31T10:02:48Z"
 ---
 ## What it is
 MCP server `European Public Transport`, catalogued on PulseMCP. Integrates with European public transport APIs from Switzerland, UK, and Belgium to provide real-time connection searches, station lookups, live departures, and vehicle information for travel planning applications.

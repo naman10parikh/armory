@@ -8,11 +8,13 @@ source_url: https://github.com/Mr-Tomahawk/codex-cli-mcp-tool
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-19T07:26:11Z"
 ---
 ## What it is
 An MCP server that allows Claude Code to interact with the OpenAI Codex CLI.

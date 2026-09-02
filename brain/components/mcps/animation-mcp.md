@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:43:18Z"
 ---
 ## What it is
 Enables AI coding assistants to create and refine Roblox combat animations through tool calls, supporting the full pipeline from motion composition to Roblox Studio import.

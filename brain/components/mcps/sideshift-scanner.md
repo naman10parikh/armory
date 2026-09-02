@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:30:03Z"
 ---
 ## What it is
 An MCP server that pulls UGC creator-program data from SideShift, enabling creator profiling, content performance tracking, and creator recommendations for briefs or formats.

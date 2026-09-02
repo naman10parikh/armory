@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:30:24Z"
 ---
 ## What it is
 MCP server `Canvas Parent`, catalogued on PulseMCP. Accesses Canvas LMS data for courses, grades, assignments, planner, and files via Claude.

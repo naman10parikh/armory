@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-19T01:13:53Z"
 ---
 ## What it is
 Enables visual drag-and-drop editing of Mermaid diagrams through Claude, allowing iterative refinement of software architecture designs.

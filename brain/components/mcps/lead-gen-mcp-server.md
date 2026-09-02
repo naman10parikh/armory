@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T21:45:26Z"
 ---
 ## What it is
 A free MCP server that runs a full B2B outbound pipeline inside a Claude conversation, enabling lead scraping, Google Sheets integration, and Instantly campaign creation.

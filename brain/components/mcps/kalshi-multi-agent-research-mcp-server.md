@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T21:52:09Z"
 ---
 ## What it is
 Exposes Kalshi prediction market data as tools for Claude, enabling multi-agent research pipelines that analyze markets and produce confidence-rated trade signals.

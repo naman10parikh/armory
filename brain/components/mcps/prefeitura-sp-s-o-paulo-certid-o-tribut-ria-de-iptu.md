@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:20Z"
 ---
 ## What it is
 Enables consultation of São Paulo city property tax (IPTU) certificates from official sources. Read-only tool for querying tax certificate data through natural language in any MCP client.

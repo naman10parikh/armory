@@ -8,10 +8,12 @@ source_url: https://github.com/abtdomain/domainkits-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T22:00:37Z"
 ---
 ## What it is
 MCP server `DomainKits`, catalogued on PulseMCP. Domain intelligence tools for NS reverse lookup and newly registered domain search

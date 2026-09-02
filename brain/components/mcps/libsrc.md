@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T08:01:04Z"
 ---
 ## What it is
 Resolves project dependencies and provides local source code paths for AI agent inspection by auto-detecting the build system, resolving dependencies, cloning source repos, and checking out correct versions as git worktrees.

@@ -8,10 +8,12 @@ source_url: https://github.com/lveillard/factorio-ai-companion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-17T18:11:55Z"
 ---
 ## What it is
 MCP server `Factorio AI Companion`, catalogued on PulseMCP. Enables AI companion control for Factorio through RCON integration, supporting bidirectional chat communication for in-game AI interactions.

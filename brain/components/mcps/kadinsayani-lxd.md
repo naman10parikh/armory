@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-05T22:54:46Z"
 ---
 ## What it is
 MCP server `LXD`, catalogued on PulseMCP. Manages LXD containers and virtual machines with complete lifecycle operations including creation, deletion, start/stop/restart, freezing, configuration updates, image management, and command execution.

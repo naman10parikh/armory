@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T15:50:56Z"
 ---
 ## What it is
 Exposes baby-gpt's tools (shell, filesystem, search, memory, GitHub integration, etc.) to Claude Desktop or Cursor, enabling natural language interaction with these capabilities.

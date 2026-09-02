@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:10:27Z"
 ---
 ## What it is
 MCP server for editing Adobe InDesign via natural language in Cursor. It bridges to InDesign through AppleScript and ExtendScript, providing semantic tools for batch operations, styles, assets, and layout fixes.

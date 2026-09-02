@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:38:09Z"
 ---
 ## What it is
 Enables fetching web pages via Jina Reader API, returning Markdown or JSON, with options for parallel fetches.

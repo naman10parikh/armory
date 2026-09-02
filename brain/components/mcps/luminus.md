@@ -8,11 +8,13 @@ source_url: https://github.com/kitfunso/luminus
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:18:05Z"
 ---
 ## What it is
 Provides real-time European and GB electricity grid data via MCP, including generation, prices, carbon intensity, and grid infrastructure.

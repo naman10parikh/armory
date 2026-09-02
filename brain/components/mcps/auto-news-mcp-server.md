@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-23T18:38:55Z"
 ---
 ## What it is
 Enables AI assistants to access and manage an Indonesian stock market news pipeline, including checking news status, running scraping, and reading reports.

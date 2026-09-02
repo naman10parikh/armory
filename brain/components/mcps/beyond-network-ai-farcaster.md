@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-19T20:32:53Z"
 ---
 ## What it is
 MCP server `Beyond Social (Farcaster)`, catalogued on PulseMCP. Integrates with social platforms like Farcaster to provide standardized access to user profiles, content search, thread analysis, and trending topics through flexible stdio and HTTP/SSE transports.

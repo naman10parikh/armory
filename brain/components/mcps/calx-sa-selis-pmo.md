@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T13:28:02Z"
 ---
 ## What it is
 MCP server `Selis PMO`, catalogued on PulseMCP. Manages PMO entities in the Selis transformation management platform via natural language.

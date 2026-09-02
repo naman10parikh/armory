@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-12T12:09:53Z"
 ---
 ## What it is
 MCP server `LoadRunner Cloud`, catalogued on PulseMCP. Integrates with LoadRunner Cloud's performance testing platform to manage load tests, analyze performance data, and monitor test executions with OAuth authentication and comprehensive error handling for DevOps teams running automated testing pipelines.

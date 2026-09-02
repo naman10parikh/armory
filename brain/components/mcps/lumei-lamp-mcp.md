@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T11:43:15Z"
 ---
 ## What it is
 Enables remote control of a virtual LUMEI lamp via Claude, allowing users to adjust power, brightness, mode, tracking, and view product info or battery status.

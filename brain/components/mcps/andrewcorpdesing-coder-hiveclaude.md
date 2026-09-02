@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T03:03:52Z"
 ---
 ## What it is
 MCP server `HiveClaude`, catalogued on PulseMCP. Multi-agent MCP broker for coordinating multiple Claude Code instances with shared state, task management, and file locking.

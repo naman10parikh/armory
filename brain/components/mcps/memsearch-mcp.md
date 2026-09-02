@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:36:50Z"
 ---
 ## What it is
 Provides hybrid vector+BM25+reranker search and index-refresh tools over agent memory stored in markdown files, enabling forge agents to query memory across session, working, and docs tiers without direct file access.

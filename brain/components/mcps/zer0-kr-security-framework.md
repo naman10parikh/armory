@@ -8,10 +8,12 @@ source_url: https://github.com/zer0-kr/security-framework-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-26T13:53:33Z"
 ---
 ## What it is
 MCP server `Security Framework`, catalogued on PulseMCP. Unified NIST and OWASP security frameworks MCP server with 41 tools covering vulnerability triage, compliance mapping, and threat modeling.

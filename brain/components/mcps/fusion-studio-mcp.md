@@ -8,11 +8,13 @@ source_url: https://github.com/bigsbypuglise/fusion-studio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:02:25Z"
 ---
 ## What it is
 MCP server for inspecting and controlling Blackmagic Fusion Studio through its scripting API.

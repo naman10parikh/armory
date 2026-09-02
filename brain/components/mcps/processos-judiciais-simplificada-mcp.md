@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:44:41Z"
 ---
 ## What it is
 Enables simplified consultation of Brazilian judicial cases for individuals or companies using CPF or CNPJ, read-only, hosted, and paid per query with prepaid credits.

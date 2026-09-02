@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:31:44Z"
 ---
 ## What it is
 Enables least-privilege UFW firewall rule management over MCP, with safety checks to prevent silent no-op allows and audit trails tied to authenticated identity.

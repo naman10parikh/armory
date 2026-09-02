@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:51:25Z"
 ---
 ## What it is
 Remote MCP server for Leporis WhatsApp Business platform, enabling AI agents to send and read WhatsApp messages through exposed REST API tools.

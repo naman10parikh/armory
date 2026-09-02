@@ -8,10 +8,12 @@ source_url: https://github.com/zacarx/javasinktracer_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-10-07T04:28:38Z"
 ---
 ## What it is
 MCP server `Java Sink Tracer`, catalogued on PulseMCP. Analyzes Java applications for security vulnerabilities by tracing data flow through parsed code to identify potential SQL injection, XSS, and other security sink points with automated vulnerability reporting and code extraction capabilities.

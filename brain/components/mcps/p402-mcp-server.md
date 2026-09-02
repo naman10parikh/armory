@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T12:44:46Z"
 ---
 ## What it is
 AI payment router for routing across 300+ LLM models with per-request USDC settlement on Base and Tempo, session budgets, and x402 payments via the MCP protocol.

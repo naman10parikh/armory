@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-19T05:56:37Z"
 ---
 ## What it is
 MCP server `Code Firewall`, catalogued on PulseMCP. Structural similarity-based code filter that blocks malicious patterns before execution.

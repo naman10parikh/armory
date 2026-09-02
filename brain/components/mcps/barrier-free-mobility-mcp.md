@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:36:22Z"
 ---
 ## What it is
 This MCP server provides accessibility risk assessment for Seoul subway trips, considering wheelchair, stroller, and other mobility constraints. It offers tools to check station facilities, elevator status, and calculates risk scores for routes based on a deterministic engine.

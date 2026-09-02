@@ -8,10 +8,12 @@ source_url: https://github.com/edrich13/mcp-jira-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-27T10:58:09Z"
 ---
 ## What it is
 MCP server `Jira (edrich13)`, catalogued on PulseMCP. Connects to self-hosted Jira instances using Personal Access Token authentication

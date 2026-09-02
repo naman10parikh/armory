@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-26T10:07:39Z"
 ---
 ## What it is
 MCP server `API2MCPTools`, catalogued on PulseMCP. Converts JSON API definitions into executable tools, enabling seamless integration of external APIs without modifying core server code.

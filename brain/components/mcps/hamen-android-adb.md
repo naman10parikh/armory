@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-11T11:09:10Z"
 ---
 ## What it is
 MCP server `Android ADB`, catalogued on PulseMCP. Provides Android device automation through ADB integration, enabling screenshots, UI hierarchy dumps, key events, coordinate tapping, text input, activity launching, and element interaction by text or content description for mobile app testing and remote device control.

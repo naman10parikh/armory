@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T02:17:52Z"
 ---
 ## What it is
 Provides AI assistants with progressive code intelligence to explore repository structure, find symbols, and assess the impact of changes using ast-grep.

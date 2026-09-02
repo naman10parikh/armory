@@ -8,10 +8,12 @@ source_url: https://github.com/jhostinaleck/brightspace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-03T11:07:36Z"
 ---
 ## What it is
 MCP server `Brightspace`, catalogued on PulseMCP. Exposes D2L Brightspace LMS data including courses, grades, assignments, and calendar through 15 tools with multi-strategy authentication.

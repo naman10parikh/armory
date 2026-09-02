@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T10:13:11Z"
 ---
 ## What it is
 MCP server `AWS Cost Explorer`, catalogued on PulseMCP. Integrates with AWS Cost Explorer through OAuth 2.0 authentication to provide cost analysis, usage forecasting, dimension discovery, and cost comparison capabilities for financial analysis and cloud cost optimization workflows.

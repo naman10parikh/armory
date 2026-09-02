@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:29:35Z"
 ---
 ## What it is
 Enables ChatGPT and Codex to safely work with explicitly authorized local project folders through MCP, providing constrained file reading, searching, patch editing, Git inspection, and whitelisted tasks without exposing arbitrary shell, deletion, or deployment capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:20:32Z"
 ---
 ## What it is
 Enables querying the FoundryIQ RFP knowledge base via Azure AI Search, returning relevant grounding chunks for answer synthesis.

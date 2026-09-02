@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-13T05:11:39Z"
 ---
 ## What it is
 MCP server `Credo (Cheqd DID)`, catalogued on PulseMCP. Bridges Claude with the Credo decentralized identity framework, enabling resolution and interaction with DIDs on the cheqd network for identity verification and credential management workflows.

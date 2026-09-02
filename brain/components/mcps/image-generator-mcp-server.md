@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T09:15:08Z"
 ---
 ## What it is
 Enables MCP-compatible clients like Claude or ChatGPT to generate images from text prompts using AI, with options for aspect ratio and quality.

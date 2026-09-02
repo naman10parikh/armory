@@ -8,11 +8,13 @@ source_url: https://github.com/tarunlnmiit/autopilot-jobhunt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 204
+stars: 206
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 50
+pushed_at: "2026-08-09T04:42:50Z"
 ---
 ## What it is
 Scans 130+ company careers pages and scores every role against your resume with an LLM (0–100), surfacing top matches. Drafts tailored cover letters and resume bullets for any job on demand, and exports scan results to CSV.

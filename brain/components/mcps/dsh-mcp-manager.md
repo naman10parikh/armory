@@ -8,11 +8,13 @@ source_url: https://github.com/xxxyz/DeepSeekHarness-MCP-Manager
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T01:53:22Z"
 ---
 ## What it is
 A durable MCP server manager for DeepSeek Harness that provides a settings page and model tools to add, list, enable/disable, restart, import/export MCP servers while surviving DSH restarts and upgrades.

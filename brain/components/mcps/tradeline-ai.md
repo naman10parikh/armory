@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, financial-services]
+forks: 0
+pushed_at: "2025-04-22T23:52:19Z"
 ---
 ## What it is
 Credit Economy for AI Agents

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-11T01:18:35Z"
 ---
 ## What it is
 Provides circuit simulation capabilities via MCP, enabling creation, simulation (DC, AC, transient), and analysis of electronic circuits using PySpice.

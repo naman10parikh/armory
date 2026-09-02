@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:55:23Z"
 ---
 ## What it is
 Lets MCP clients like Codex delegate independent sub-tasks to DeepSeek as a sub-agent via a single tool, with optional context, custom system prompts, and configurable model/temperature settings.

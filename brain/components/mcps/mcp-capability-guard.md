@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T05:34:07Z"
 ---
 ## What it is
 Demonstrates capability-token write authorization for MCP servers, enforcing per-mutation single-use warrants and human confirmations over an in-memory CRM to prevent unauthorized or destructive actions.

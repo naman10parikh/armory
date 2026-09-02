@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T10:04:31Z"
 ---
 ## What it is
 A small, local, network-free MCP server for the RISEN prompt-engineering framework. It gives any MCP client tools to build, validate, save, and reuse structured prompts.

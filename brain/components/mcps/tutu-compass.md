@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:56:32Z"
 ---
 ## What it is
 A travel negotiation agent for Russian trips that turns one natural-language request into a plan_trip MCP tool, surfacing budget-vs-connection trade-offs and offering instant plan B rerouting.

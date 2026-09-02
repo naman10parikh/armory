@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T08:28:31Z"
 ---
 ## What it is
 Enables AI assistants to search for hotels globally via the MCP protocol, supporting filters like city, landmark, star rating, and distance.

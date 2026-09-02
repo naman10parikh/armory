@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-24T13:40:48Z"
 ---
 ## What it is
 Injects structured professional domain expertise into AI agents, providing access to decision frameworks, workflows, terminology, and regulatory context across 24 professional domains.

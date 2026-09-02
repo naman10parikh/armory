@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T19:21:43Z"
 ---
 ## What it is
 Enables AI assistants to browse, search, and extract code examples from the public Kendo UI for Angular documentation, providing an accessible alternative to official premium MCPs.

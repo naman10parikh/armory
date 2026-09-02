@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-31T10:56:38Z"
 ---
 ## What it is
 MCP server `Feedbk`, catalogued on PulseMCP. Create AI-moderated interviews and surveys with intelligent follow-up probing and shareable participant links.

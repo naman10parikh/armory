@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
 stars: 10
+forks: 3
+pushed_at: "2026-04-04T21:41:07Z"
 ---
 ## What it is
 Access live and historical NBA statistics including player stats, game scores, team data, and advanced analytics via Model Context Protocol

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T12:51:22Z"
 ---
 ## What it is
 MCP server for HuntFlow ATS API v2, providing tools to manage vacancies, candidates, resumes, pipeline stages, rejection reasons, comments, and accounts.

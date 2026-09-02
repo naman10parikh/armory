@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:14:31Z"
 ---
 ## What it is
 MCP server for Cursor IDE offering tools for Human Design chart analysis, partner matching, n8n workflow management, and utility functions like UUID generation and calculation.

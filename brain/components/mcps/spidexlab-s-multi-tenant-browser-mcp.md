@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T18:21:41Z"
 ---
 ## What it is
 Enables multiple autonomous agents to concurrently control separate tabs in a single Chrome instance, with features like semantic search and network monitoring.

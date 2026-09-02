@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:45Z"
 ---
 ## What it is
 MCP server for querying case lists from the TJSP court (eproc) via official sources. It provides one read-only tool to consult court cases through natural language in any MCP-compatible client.

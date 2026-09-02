@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T23:49:22Z"
 ---
 ## What it is
 MCP server `Gengeo`, catalogued on PulseMCP. Merchant verification registry for AI shopping agents to validate seller identity and trustworthiness.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T15:22:22Z"
 ---
 ## What it is
 A Model Context Protocol server that provides document analysis capabilities to LLM applications, including extraction, chunking, summarization, and semantic search for PDF, DOCX, and plaintext documents.

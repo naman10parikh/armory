@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-05T23:18:56Z"
 ---
 ## What it is
 MCP server `AppsAI`, catalogued on PulseMCP. Official MCP server for AppsAI, enabling full-stack Next.js app development and deployment with tools for React, AWS, and MongoDB.

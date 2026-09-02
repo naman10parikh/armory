@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T13:44:47Z"
 ---
 ## What it is
 Campaign orchestration MCP server for AI agents — dependency DAGs, parallel fan-out, failure policies, and embedded notes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:24:17Z"
 ---
 ## What it is
 Enables local-first Instagram reel production entirely over MCP, turning raw footage, URLs, or topics into finished reels with script generation, stock media, voiceover, and captions.

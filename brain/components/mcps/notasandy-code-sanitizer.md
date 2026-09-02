@@ -8,10 +8,12 @@ source_url: https://github.com/notasandy/mcp-code-sanitizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T21:28:02Z"
 ---
 ## What it is
 MCP server `Code Sanitizer`, catalogued on PulseMCP. Strict AI code reviewer powered by Groq that detects bugs and security vulnerabilities in code.

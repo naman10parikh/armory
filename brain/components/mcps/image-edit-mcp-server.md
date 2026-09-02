@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T12:14:17Z"
 ---
 ## What it is
 AI-powered image editing and generation server using Model Context Protocol, enabling intelligent image manipulation, cleanup, and generation via Google's Gemini AI models.

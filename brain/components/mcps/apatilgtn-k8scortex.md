@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T08:25:48Z"
 ---
 ## What it is
 MCP server `K8sCortex`, catalogued on PulseMCP. Kubernetes management tools for GKE, AKS, and EKS clusters with RBAC, audit logging, and GitOps support.

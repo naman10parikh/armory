@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T06:25:50Z"
 ---
 ## What it is
 MCP server `Windows Screenshot`, catalogued on PulseMCP. Captures Windows screenshots using Windows Graphics Capture, exposing screen and window capture tools over HTTP or stdio.

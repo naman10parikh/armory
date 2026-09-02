@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:42:59Z"
 ---
 ## What it is
 MCP server `BambooHR`, catalogued on PulseMCP. BambooHR HR platform integration for employee directory, time-off requests, and file access via API v1.

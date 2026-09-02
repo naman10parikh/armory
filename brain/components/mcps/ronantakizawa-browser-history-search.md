@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-28T04:30:27Z"
 ---
 ## What it is
 MCP server `Browser History Search`, catalogued on PulseMCP. Provides secure access to browsing history from major browsers across all platforms with specialized tools for searching by terms, retrieving recent entries, and finding most visited sites for productivity analysis and research assistance.

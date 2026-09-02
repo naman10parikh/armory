@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-28T04:31:46Z"
 ---
 ## What it is
 Comprehensive MCP server for local Microsoft Outlook automation, providing 64 tools across email, calendar, contacts, tasks, notes, and Exchange features on both Windows and macOS.

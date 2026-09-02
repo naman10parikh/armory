@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:01:29Z"
 ---
 ## What it is
 Enables users to check whether an Australian field-service job can be worked at a location on a given day for a specific trade, using live weather forecasts, daylight hours, and public holiday data.

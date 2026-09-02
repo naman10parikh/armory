@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-17T01:42:52Z"
 ---
 ## What it is
 Provides AI assistants with read-only access to Secureframe's compliance data, enabling querying of security controls, tests, users, vendors, and more across frameworks like SOC 2 and ISO 27001.

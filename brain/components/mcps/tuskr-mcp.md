@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T10:01:31Z"
 ---
 ## What it is
 MCP server for Tuskr test management that allows browsing, searching, reading, creating, and updating test cases, suites, sections, and test runs from any MCP host like Cursor.

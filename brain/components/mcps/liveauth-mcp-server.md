@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:40:11Z"
 ---
 ## What it is
 Authentication, pay-per-call metering, and signed receipts for AI agents and MCP tools using Bitcoin and Lightning Network.

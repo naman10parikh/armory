@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T07:10:15Z"
 ---
 ## What it is
 Zero-human Web3 micropayment MCP agent for LLM-ready clean web scraping, YouTube transcripts, PDF paper extraction, and plain text on Polygon Mainnet.

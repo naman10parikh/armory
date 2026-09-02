@@ -8,10 +8,12 @@ source_url: https://github.com/lark-base-team/lark-base-mcp-node-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-26T14:19:59Z"
 ---
 ## What it is
 MCP server `Lark Base`, catalogued on PulseMCP. Integrates with Lark Base (formerly Feishu Bitable) to enable data retrieval, field management, and table manipulation across collaborative spreadsheets and databases using app tokens and personal base tokens for authentication.

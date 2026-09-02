@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T14:34:44Z"
 ---
 ## What it is
 MCP server `Aegis Protocol`, catalogued on PulseMCP. Trustless escrow for AI agent-to-agent transactions on Base L2 with USDC.

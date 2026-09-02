@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:25:47Z"
 ---
 ## What it is
 A lightweight mock MCP server for local testing and resilience experiments, providing predictable tool responses with simulated latency and errors.

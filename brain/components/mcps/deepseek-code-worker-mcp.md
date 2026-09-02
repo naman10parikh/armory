@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-05-29T03:02:09Z"
 ---
 ## What it is
 Offloads expensive code reading, editing, and checking tasks to DeepSeek through Claude Code, saving Codex main-thread tokens by 40-60%.

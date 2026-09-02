@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:15:59Z"
 ---
 ## What it is
 An MCP server that exposes governed CXone WFM Intraday tools to an AI assistant, enabling real-time analyst workflows like risk assessment and SLA recovery using synthetic data.

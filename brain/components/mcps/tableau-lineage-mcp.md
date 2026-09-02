@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T22:30:01Z"
 ---
 ## What it is
 Enables AI assistants to read and audit Tableau .twbx workbooks locally, providing tools for dependency tracing, field listing, SQL queries, filters, and semantic diffs.

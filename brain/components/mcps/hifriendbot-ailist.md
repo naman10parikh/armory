@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T17:59:02Z"
 ---
 ## What it is
 MCP server `AiList`, catalogued on PulseMCP. Search, discover, and submit AI projects to a curated directory from within AI coding assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:23:59Z"
 ---
 ## What it is
 Enables persistent, distilled memory for AI assistants, allowing recall and storage of durable facts across sessions and subagents via MCP.

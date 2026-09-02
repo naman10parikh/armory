@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:45:13Z"
 ---
 ## What it is
 MCP server to query the existence and details of protests (protestos) for individuals and companies in São Paulo state notary offices. It offers a read-only tool for checking protest records via natural language.

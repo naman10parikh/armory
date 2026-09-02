@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T20:01:12Z"
 ---
 ## What it is
 Enables natural language access to Google Ads campaigns, accounts, and performance metrics via Claude, with tools for managing ad groups, keywords, budgets, and visualizing data.

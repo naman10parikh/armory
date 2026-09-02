@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T05:51:40Z"
 ---
 ## What it is
 Enables natural language queries to be converted into policy-verified SQL, vector search, and knowledge graph plans, with evidence-backed answers and an audit log.

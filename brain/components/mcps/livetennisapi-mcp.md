@@ -8,11 +8,13 @@ source_url: https://github.com/livetennisapi/livetennisapi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 190
+stars: 158
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 56
+pushed_at: "2026-08-30T09:03:24Z"
 ---
 ## What it is
 Real-time tennis data for ATP, WTA, Challenger and ITF: live scores, player rankings, match-winner odds, and model win-probability. 12 read-only tools; a tier-gated endpoint returns a plain-English explanation of which plan it needs rather than a bare 403. Requires a paid API key.

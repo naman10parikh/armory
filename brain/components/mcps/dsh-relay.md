@@ -8,11 +8,13 @@ source_url: https://github.com/tonytanglab/deepseek-harness-relay-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:26:27Z"
 ---
 ## What it is
 Diagnoses the Codex MCP launch path and writes host configuration so Codex, Cursor, or Claude Code can spawn the dsh profile. It does not run the MCP stdio server in the Web process.

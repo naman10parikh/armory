@@ -8,11 +8,13 @@ source_url: https://github.com/ising-tech/isingq-toolkit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:05:20Z"
 ---
 ## What it is
 MCP server for modeling optimization problems as QUBO and solving them via IsingQ cloud with local validation and user confirmation.

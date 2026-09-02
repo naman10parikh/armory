@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:18:31Z"
 ---
 ## What it is
 Exposes a save_collection tool to store collection data in Supabase, enabling payment commitment and callback tracking.

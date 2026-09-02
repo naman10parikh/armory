@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-13T15:18:37Z"
 ---
 ## What it is
 Provides RAG (Retrieval Augmented Generation) access to technical documentation through MCP, enabling LLMs to search and retrieve relevant documentation on-demand.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T06:14:39Z"
 ---
 ## What it is
 Enables LLMs to search and read email from a notmuch archive, providing tools for searching threads, retrieving messages, and listing tags through an MCP endpoint.

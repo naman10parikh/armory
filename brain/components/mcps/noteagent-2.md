@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:37:22Z"
 ---
 ## What it is
 An MCP server that connects AI coding agents with Apple Notes for developer workflows like capturing debug sessions, logging commits, and saving code snippets.

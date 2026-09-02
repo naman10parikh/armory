@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:12:42Z"
 ---
 ## What it is
 Enables to manage Redmine projects, issues, users, and time entries through natural language using the Redmine REST API.

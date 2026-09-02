@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-09T10:04:32Z"
 ---
 ## What it is
 MCP server `v0 Platform`, catalogued on PulseMCP. Generates multi-screen UI prototypes and manages incremental development workflows using Vercel's v0 model API.

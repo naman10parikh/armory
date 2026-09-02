@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T04:31:00Z"
 ---
 ## What it is
 Exposes a tool to look up motor-claim statuses from a claims system, enabling an AI assistant to answer claim-related queries with real data.

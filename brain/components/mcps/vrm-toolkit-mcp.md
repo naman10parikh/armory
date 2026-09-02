@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:14:10Z"
 ---
 ## What it is
 An MCP server that enables AI agents to inspect, validate, and preview VRM/VRMA 3D avatar files locally, with tools for metadata extraction, validation, and rendering snapshots or animations via headless Chrome.

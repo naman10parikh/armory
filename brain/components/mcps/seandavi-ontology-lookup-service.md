@@ -8,10 +8,12 @@ source_url: https://github.com/seandavi/ols-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-16T18:02:17Z"
 ---
 ## What it is
 MCP server `Ontology Lookup Service`, catalogued on PulseMCP. Integrates with the Ontology Lookup Service API to search biomedical ontology terms, retrieve detailed ontology information, explore term hierarchies, and discover semantically similar terms across standardized ontologies like Gene Ontology and Human Phenotype Ontology.

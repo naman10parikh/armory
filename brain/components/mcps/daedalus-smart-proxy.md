@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T14:58:25Z"
 ---
 ## What it is
 MCP server `Smart Proxy (daedalus)`, catalogued on PulseMCP. Token-efficient MCP gateway that uses semantic vector search to route tool calls across multiple upstream servers, reducing prompt token consumption.

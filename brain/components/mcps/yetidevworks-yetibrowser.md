@@ -8,10 +8,12 @@ source_url: https://github.com/yetidevworks/yetibrowser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-22T21:18:59Z"
 ---
 ## What it is
 MCP server `YetiBrowser`, catalogued on PulseMCP. Provides direct browser control through a Chrome/Firefox extension and WebSocket bridge, enabling real-time web automation, form interactions, DOM snapshots, and screenshot capture on the user's actual browser tab rather than a headless environment.

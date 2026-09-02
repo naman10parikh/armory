@@ -8,10 +8,12 @@ source_url: https://github.com/ayaanisthebest/applemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-21T04:46:57Z"
 ---
 ## What it is
 MCP server `Apple Ecosystem`, catalogued on PulseMCP. Integrates with macOS applications including Messages, Contacts, Notes, Mail, Reminders, Calendar, and Maps through AppleScript automation and direct database queries for native Apple ecosystem control and productivity automation.

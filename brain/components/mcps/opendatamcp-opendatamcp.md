@@ -8,10 +8,12 @@ source_url: https://github.com/opendatamcp/opendatamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 154
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2024-12-20T17:37:45Z"
 ---
 ## What it is
 MCP server `OpenDataMCP`, catalogued on PulseMCP. Connect to open data from millions of open government, NGO, and company datasets.

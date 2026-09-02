@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:57:37Z"
 ---
 ## What it is
 Lets MCP clients discover and run AppleScript or JavaScript for Automation (JXA) to control macOS applications, inspect the system, or reuse scripts from a bundled knowledge base.

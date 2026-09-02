@@ -8,11 +8,13 @@ source_url: https://github.com/w4zu/impots-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:39:33Z"
 ---
 ## What it is
 Transforms Claude into a French tax assistant specialized in French taxation, covering income tax, corporate tax, wealth tax, capital gains, crypto, retirement, and professional status comparisons.

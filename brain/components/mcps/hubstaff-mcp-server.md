@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-14T04:14:34Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Hubstaff API integration, enabling seamless time tracking, project management, and team collaboration through AI assistants.

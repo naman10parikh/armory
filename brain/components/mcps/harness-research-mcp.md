@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-31T10:39:38Z"
 ---
 ## What it is
 Enables AI agents to perform professional-grade deep research by aggregating real-time data from multiple sources, evaluating source credibility, and generating comprehensive reports.

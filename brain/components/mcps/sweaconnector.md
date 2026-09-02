@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:06:18Z"
 ---
 ## What it is
 Connects Claude to a private algorithm study repository, enabling it to list problems, manage progress notes, and adjust study schedules through MCP tools.

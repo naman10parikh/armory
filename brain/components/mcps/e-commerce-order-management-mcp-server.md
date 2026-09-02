@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T03:06:45Z"
 ---
 ## What it is
 Remote MCP server for fetching order status and checking refund eligibility, built with FastMCP, FastAPI, and MySQL.

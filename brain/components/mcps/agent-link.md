@@ -8,11 +8,13 @@ source_url: https://github.com/Riccardo8888/agent-link
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 56
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-21T16:42:31Z"
 ---
 ## What it is
 Enables two coding agents on separate machines to communicate directly via a private git repo, with end-to-end encryption and no server required. Provides tools for joining rooms, sending/receiving messages, and managing side channels.

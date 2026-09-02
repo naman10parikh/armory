@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T06:19:38Z"
 ---
 ## What it is
 A local-first Codex plugin that bundles an MCP server to safely interact with Mattermost, enabling channel/thread summarization, conversation search, and reviewed post publishing via the Mattermost REST API.

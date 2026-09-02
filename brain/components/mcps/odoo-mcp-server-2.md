@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T13:22:06Z"
 ---
 ## What it is
 Provides read-only access to Odoo databases via OdooRPC, allowing AI assistants to query and analyze Odoo data through the MCP protocol.

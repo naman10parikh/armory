@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T21:06:26Z"
 ---
 ## What it is
 MCP server that wraps open Norwegian neighborhood data, enabling queries for public transport coverage, traffic noise, and green areas around a location.

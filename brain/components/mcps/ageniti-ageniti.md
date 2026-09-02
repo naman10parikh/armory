@@ -8,10 +8,12 @@ source_url: https://github.com/ageniti/ageniti
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-10T15:51:43Z"
 ---
 ## What it is
 MCP server `Ageniti`, catalogued on PulseMCP. SDK that exposes React and TypeScript app actions as MCP tools without restructuring the application.

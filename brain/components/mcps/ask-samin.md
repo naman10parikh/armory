@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:53:32Z"
 ---
 ## What it is
 Enables users to search Samin Yasar's video library and receive full-video recommendations grounded in transcript evidence with links to exact matched caption cues.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:35:49Z"
 ---
 ## What it is
 A decentralized, secure agent orchestration framework for monitoring and managing distributed edge servers, Docker hosts, and Kubernetes nodes via outbound SSH tunnels with zero inbound ports.

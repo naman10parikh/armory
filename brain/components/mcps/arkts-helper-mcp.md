@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-03-10T13:50:32Z"
 ---
 ## What it is
 Provides documentation search, reading, and AI-powered Q\&A for ArkTS/ArkUI development, enabling AI coding assistants to answer questions and retrieve official docs.

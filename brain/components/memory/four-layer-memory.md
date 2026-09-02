@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [memory-compression, learnings-append-only, server-memory, mem0-mcp]
 tags: [memory, architecture, layers, persistence, knowledge]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

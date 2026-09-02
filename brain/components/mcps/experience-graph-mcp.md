@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:13:15Z"
 ---
 ## What it is
 Bridges Claude Code to bastion's Experience Graph (long-term memory) and 33 security skills. Provides MCP tools to search/record experiences and preview/run skills, reusing bastion source unchanged.

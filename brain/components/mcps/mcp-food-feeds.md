@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:41Z"
 ---
 ## What it is
 MCP server for curated food and dining feeds, providing tools to list, read, and fetch RSS/Atom feeds. Part of the Pipeworx gateway.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T13:31:09Z"
 ---
 ## What it is
 MCP server `WhatsApp Human-in-the-Loop`, catalogued on PulseMCP. Enables AI agents to interact with users via WhatsApp for runtime confirmations, permission requests, and status updates.

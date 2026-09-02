@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:35:34Z"
 ---
 ## What it is
 Vision-capable MCP server for controlling Amazon Fire TV through Home Assistant, providing screenshot-guided observation, remote commands, and app/URI actions via authenticated REST calls.

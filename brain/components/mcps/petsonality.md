@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-11T13:41:16Z"
 ---
 ## What it is
 A terminal companion that reacts to your coding activity with personalized ASCII pets, offering encouragement and commentary based on MBTI personality types.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T18:56:16Z"
 ---
 ## What it is
 MCP server `CMXFlow`, catalogued on PulseMCP. Composable cheminformatics pipelines for ligand preparation, clustering, virtual screening, and Bayesian optimization.

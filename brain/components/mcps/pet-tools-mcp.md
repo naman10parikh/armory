@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:23:38Z"
 ---
 ## What it is
 Enables AI agents to code and debug Commodore PET software using the VICE emulator, with CLI and MCP tools for session control, screen reading, memory manipulation, and testing.

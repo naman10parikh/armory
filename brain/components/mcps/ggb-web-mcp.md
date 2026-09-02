@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T12:23:15Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI to interact with GeoGebra for mathematical visualization, offering over 25 tools for geometry, functions, algebra, and more.

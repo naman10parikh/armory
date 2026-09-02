@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T02:34:42Z"
 ---
 ## What it is
 Provides 100 IT/programming quiz questions with tools to retrieve questions by category, get random questions, check answers, and list categories, usable via Claude Desktop MCP or REST API.

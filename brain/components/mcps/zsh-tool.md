@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T13:16:38Z"
 ---
 ## What it is
 A Zsh execution tool for Claude Code providing yield-based command execution, PTY mode for interactive programs, circuit breaker for timeout protection, and adaptive learning (A.L.A.N.) for retry detection and proactive insights.

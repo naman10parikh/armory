@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T03:58:05Z"
 ---
 ## What it is
 MCP server for remote debugging with gdbserver, offering full debugging capabilities including breakpoint control, stepping, memory inspection, and process management.

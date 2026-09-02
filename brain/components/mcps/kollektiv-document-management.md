@@ -12,6 +12,8 @@ stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-10-21T03:58:01Z"
 ---
 ## What it is
 MCP server `Kollektiv Document Management`, catalogued on PulseMCP. Enables AI to search and analyze user-uploaded documents through Kollektiv's document management system with secure OAuth authentication and natural language querying capabilities.

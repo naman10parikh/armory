@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T00:05:45Z"
 ---
 ## What it is
 MCP server `NicheIQS`, catalogued on PulseMCP. Scores market niches using Reddit discussions, Google Trends data, and competition analysis to identify business opportunities.

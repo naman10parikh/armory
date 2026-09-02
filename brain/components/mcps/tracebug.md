@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:14:49Z"
 ---
 ## What it is
 Local stdio MCP server that gives AI coding agents (Claude Code, Cursor, Windsurf) read-tools over TraceBug bug-report .html files — session replay, console errors with stacks, network activity, and a millisecond repro timeline. All data is read from local disk; zero network connections. Free, MIT. 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:18:24Z"
 ---
 ## What it is
 Extends the official Google Ads MCP with a safe write layer for creating paused-by-default Search campaigns and an account auditor, all running locally with no hosted dependencies.

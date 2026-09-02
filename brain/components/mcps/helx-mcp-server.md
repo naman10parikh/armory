@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:37:37Z"
 ---
 ## What it is
 Provides AI agents with 20 tools to create, read, edit, validate, convert, and render documents across formats like DOCX, XLSX, PPTX, PDF, Markdown, HTML, and CSV, including charts, diagrams, templates, and CSV data operations over stdio.

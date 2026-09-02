@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2024-12-18T03:29:36Z"
 ---
 ## What it is
 MCP server `YouTube to Sheets`, catalogued on PulseMCP. Integrates YouTube search with Google Sheets to automate video data collection and analysis for content creators, marketers, and researchers.

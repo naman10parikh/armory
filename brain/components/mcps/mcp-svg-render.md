@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:12:10Z"
 ---
 ## What it is
 Renders SVG to PNG so AI agents can see the SVG they generate.

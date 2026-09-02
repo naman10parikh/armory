@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T14:09:02Z"
 ---
 ## What it is
 Deterministic code review MCP server that provides tools for file selection, rule matching, comment positioning, and reflection, ensuring stable review quality without LLM calls.

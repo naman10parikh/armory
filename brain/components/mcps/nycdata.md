@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:56:09Z"
 ---
 ## What it is
 Enables to discover, inspect, query, and profile live NYC Open Data through a CLI and MCP server, providing a developer-first interface to Socrata APIs.

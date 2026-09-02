@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-20T08:18:01Z"
 ---
 ## What it is
 Provides AI agents with document conversion to Markdown, intelligently routing small and large files, and enabling targeted extraction via sections, search, and token budgets.

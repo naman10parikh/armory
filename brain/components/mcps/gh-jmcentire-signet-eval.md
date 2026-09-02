@@ -8,10 +8,12 @@ source_url: https://github.com/jmcentire/signet-eval
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T03:17:11Z"
 ---
 ## What it is
 MCP server `Signet Eval`, catalogued on PulseMCP. Enforce deterministic policies and manage MCP tool call permissions for AI agents.

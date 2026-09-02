@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T23:21:02Z"
 ---
 ## What it is
 Scrapes course materials, exam variants, and notes from Fit-Wiki, converting them to Markdown and PDF for integration with LLM clients.

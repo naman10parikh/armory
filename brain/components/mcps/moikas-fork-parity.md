@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-23T06:32:34Z"
 ---
 ## What it is
 MCP server `Fork Parity`, catalogued on PulseMCP. Tracks upstream repository changes for Git forks with intelligent priority-based categorization, dependency analysis, and integration planning to help developers maintain synchronization with parent repositories.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-21T09:48:25Z"
 ---
 ## What it is
 Enables an AI assistant to search the mon-marche.fr grocery catalog and build a basket, stopping at the cart without automating payment.

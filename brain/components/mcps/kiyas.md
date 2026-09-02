@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:09:09Z"
 ---
 ## What it is
 AI design fidelity — compare Figma designs or screenshots against the rendered implementation and get structured discrepancies. Uses your Claude Code or Codex subscription, no API keys.

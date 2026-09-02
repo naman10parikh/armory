@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-09T20:02:48Z"
 ---
 ## What it is
 Enables AI-powered JavaScript package management including search, install, update, remove, and security auditing across npm, yarn, and pnpm.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T03:16:05Z"
 ---
 ## What it is
 An MCP server that enables AI agents to search, read, and contribute to a structured markdown knowledge base with citations, freshness tracking, and a safe write path, providing a shared, auditable company memory.

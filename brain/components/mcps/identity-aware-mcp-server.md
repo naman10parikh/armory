@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T03:10:19Z"
 ---
 ## What it is
 A production-ready MCP server that authenticates agents via OAuth 2.1 Bearer tokens, validates JWTs with JWKS, enforces tool-level scopes and roles, and logs the full delegation chain.

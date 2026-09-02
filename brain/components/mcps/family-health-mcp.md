@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:09:56Z"
 ---
 ## What it is
 MCP server that lets a hosted LLM securely read a local family health archive and deposit structured reports into an inbox, with a read-biased tool surface and strict path/token enforcement.

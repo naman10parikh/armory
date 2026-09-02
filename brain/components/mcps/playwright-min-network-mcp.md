@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-13T22:09:39Z"
 ---
 ## What it is
 A minimal network monitoring MCP tool for Playwright browser automation. Just 5 simple tools to capture, filter, and analyze network traffic during web automation with MCP context efficiency.

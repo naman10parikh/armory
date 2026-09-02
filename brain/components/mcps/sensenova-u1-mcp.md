@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T18:38:40Z"
 ---
 ## What it is
 An MCP server that generates images using SenseNova U1 Fast API. Supports Chinese prompts, multiple resolutions, and generating up to 4 images per request.

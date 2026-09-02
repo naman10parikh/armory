@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T06:49:04Z"
 ---
 ## What it is
 Provides AI assistants with reliable reminders, persistent memory, task tracking, and activity history through 20 MCP tools, with a multi-user web dashboard and support for SQLite or PostgreSQL.

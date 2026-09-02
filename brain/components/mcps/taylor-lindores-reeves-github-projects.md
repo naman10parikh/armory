@@ -8,10 +8,12 @@ source_url: https://github.com/taylor-lindores-reeves/mcp-github-projects
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-09-17T19:55:07Z"
 ---
 ## What it is
 MCP server `GitHub Projects`, catalogued on PulseMCP. Integrates with GitHub Projects to streamline Agile Sprint-based workflows, enabling project creation, task management, and sprint planning within the GitHub ecosystem.

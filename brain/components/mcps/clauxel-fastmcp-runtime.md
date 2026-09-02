@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T06:40:55Z"
 ---
 ## What it is
 MCP server `FastMCP Runtime`, catalogued on PulseMCP. Hosted MCP runtime with health checks, tool schema listing, proxied tool calls, and usage receipts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:36:35Z"
 ---
 ## What it is
 Enables AI agents to search and triage LATAM tech job vacancies from the Get on Board public API, with tools for full-text search, filtering by category or company, and optional job detail retrieval.

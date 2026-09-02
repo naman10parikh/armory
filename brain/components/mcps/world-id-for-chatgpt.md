@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:21:26Z"
 ---
 ## What it is
 A remote MCP server that links World ID 4.0 sessions to AI assistants, enabling verified human authentication and tools for claiming Founding Human places, accessing human grants, and interacting with a verified human wall.

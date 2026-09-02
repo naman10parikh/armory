@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T22:13:18Z"
 ---
 ## What it is
 Enables AI agents to segment 2D and 3D biomedical images using Microsoft's MedImageParse foundation models via free-text prompts, returning masks and statistics. Supports both local stdio MCP server and a hosted Azure API Management gateway for remote agents like Microsoft Foundry.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:40:16Z"
 ---
 ## What it is
 Provides MCP tools for searching a codebase with exact file:line citations, reading specific source spans, and inspecting index stats, enabling agents to retrieve and cite code accurately.

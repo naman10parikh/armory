@@ -8,10 +8,12 @@ source_url: https://github.com/mindscapehq/mcp-server-raygun
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-03-02T01:57:41Z"
 ---
 ## What it is
 MCP server `Raygun`, catalogued on PulseMCP. Monitor crash reports and performance metrics for application stability.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 66
+forks: 5
+pushed_at: "2025-05-13T23:43:03Z"
 ---
 ## What it is
 A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.

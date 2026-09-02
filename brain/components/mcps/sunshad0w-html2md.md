@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-01T09:17:17Z"
 ---
 ## What it is
 MCP server `HTML to Markdown`, catalogued on PulseMCP. Converts HTML webpages to clean Markdown format, reducing size by 90-95% while preserving tables and images

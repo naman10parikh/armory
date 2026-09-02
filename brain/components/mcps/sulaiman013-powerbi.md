@@ -8,10 +8,12 @@ source_url: https://github.com/sulaiman013/powerbi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2026-07-23T16:56:46Z"
 ---
 ## What it is
 MCP server `Power BI`, catalogued on PulseMCP. Integrates with Power BI datasets through XMLA endpoints to enable natural language data analysis by automatically translating questions into executable DAX queries and interpreting results for business intelligence workflows.

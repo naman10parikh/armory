@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T07:40:09Z"
 ---
 ## What it is
 Gives AI agents verifiable, tamper-evident receipts for their actions — attest_action signs a cryptographic receipt for what the agent did (email sent, payment made, form filed), verify_receipt checks it offline, get_identity returns the agent's did:key. Sign locally, verify anywhere, zero backend.

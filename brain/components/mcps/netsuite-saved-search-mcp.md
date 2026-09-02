@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T18:12:07Z"
 ---
 ## What it is
 Exposes NetSuite saved search exports as a structured query interface for Claude, enabling file discovery, column inspection, filtering, aggregation, memo categorization, and anomaly detection.

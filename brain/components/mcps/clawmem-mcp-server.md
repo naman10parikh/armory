@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T09:23:47Z"
 ---
 ## What it is
 An MCP server that leverages a GitHub-compatible API as a durable memory store for AI agents, enabling automatic memory storage, recall, and management without requiring signup or API keys.

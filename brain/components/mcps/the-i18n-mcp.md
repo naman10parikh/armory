@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T20:49:40Z"
 ---
 ## What it is
 MCP server for managing i18n translation files — gives your AI agent full control over your app's translations without dumping entire locale files into context.

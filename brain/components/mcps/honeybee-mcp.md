@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-10T22:35:57Z"
 ---
 ## What it is
 Enables AI agents to understand, query, and manipulate Honeybee building energy models through natural language via the Model Context Protocol.

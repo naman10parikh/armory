@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T06:53:24Z"
 ---
 ## What it is
 An MCP server that generates pixel-art PNGs from text prompts, using a free image backend, and saves them directly to your project directory.

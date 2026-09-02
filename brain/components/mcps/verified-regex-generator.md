@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:11:48Z"
 ---
 ## What it is
 Lets users generate regex patterns from plain-English descriptions, then verifies them with Python's real re engine against generated positive and negative test strings, iterating on failures until they pass. It exposes this as a tool callable from MCP clients such as Claude Desktop or Claude Code.

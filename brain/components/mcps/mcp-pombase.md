@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:33:44Z"
 ---
 ## What it is
 Enables AI agents to query the PomBase fission yeast model-organism database for genetic and molecular data through the Pipeworx MCP gateway.

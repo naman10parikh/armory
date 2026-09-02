@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:31:16Z"
 ---
 ## What it is
 A Django-native MCP application and tool registration framework inspired by Celery, providing async tool definitions, autodiscovery, and stdio/Streamable HTTP serving built on the official MCP Python SDK.

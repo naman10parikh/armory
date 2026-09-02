@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:28:32Z"
 ---
 ## What it is
 Enables LLMs to interact with Cascade CMS via REST API, supporting asset CRUD, search, publish, workflow, and more through 37 MCP tools and 4 resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-07-27T07:09:47Z"
 ---
 ## What it is
 Enables users to optimize LLM responses using Monte Carlo Tree Search (MCTS) through a Model Context Protocol server, enhancing conversation quality by exploring multiple response branches and selecting the best path.

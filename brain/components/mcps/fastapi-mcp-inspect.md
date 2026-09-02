@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T12:39:47Z"
 ---
 ## What it is
 Mounts an MCP server onto FastAPI to let AI agents inspect routes, endpoints, and schemas at runtime.

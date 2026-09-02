@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T09:01:43Z"
 ---
 ## What it is
 Provides color and design tools including palette generation, WCAG contrast checking, color conversion, gradients, color blindness simulation, and CSS variables, all without API keys.

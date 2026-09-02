@@ -8,10 +8,12 @@ source_url: https://github.com/andr3medeiros/pdf-manipulation-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-10T12:34:37Z"
 ---
 ## What it is
 MCP server `PDF Manipulation`, catalogued on PulseMCP. Provides comprehensive PDF processing capabilities through PyMuPDF, including text operations, page manipulation, image handling, form field management, annotation support, and metadata editing with intelligent auto-cropping and timestamped output files for document automation workflows.

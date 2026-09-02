@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T20:21:45Z"
 ---
 ## What it is
 Enables driving a Quickshell QML app inside a headless compositor, with tools to screenshot windows, inspect their object trees, and read or write QML state.

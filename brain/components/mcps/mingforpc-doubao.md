@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-25T02:12:41Z"
 ---
 ## What it is
 MCP server `Doubao`, catalogued on PulseMCP. Integrates with ByteDance's Doubao AI model to generate images from text prompts with customizable sizing and watermarking options, plus image compression and format conversion capabilities.

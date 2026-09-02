@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T21:09:49Z"
 ---
 ## What it is
 Exposes the Feegow clinic management API as MCP tools for agents, enabling scheduling, patient management, and more via natural language.

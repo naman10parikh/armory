@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:42:25Z"
 ---
 ## What it is
 A secure local AI controller for Roblox Studio that connects AI chat websites to Roblox via an authenticated bridge, enabling inspection, debugging, and modification of places through natural language.

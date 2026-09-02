@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-27T16:56:18Z"
 ---
 ## What it is
 Transforms DALL-E 3, DALL-E 2, and GPT-Image-1 into MCP-compatible tools for generating images from natural language descriptions, supporting batch creation, style control, and flexible sizing.

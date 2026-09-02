@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:00:40Z"
 ---
 ## What it is
 Exposes OpenAlice's Trade-as-Git trading workflow to MCP-capable AI agents, enabling broker connections, a git-like approval state machine, and 19 trading tools via Streamable HTTP.

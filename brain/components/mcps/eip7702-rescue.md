@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:52:43Z"
 ---
 ## What it is
 Forensic MCP + hardened delegate for recovering assets from EIP-7702-compromised wallets.

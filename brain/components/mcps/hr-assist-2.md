@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T08:09:24Z"
 ---
 ## What it is
 Agentic AI system that automates HR workflows like employee onboarding, enabling HR teams to streamline tasks through natural language interactions with Claude Desktop.

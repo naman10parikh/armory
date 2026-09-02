@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-25T15:24:11Z"
 ---
 ## What it is
 MCP server `Nextflow Developer Tools`, catalogued on PulseMCP. Streamlines Nextflow development by providing tools for building, testing, and executing pipelines directly from local repositories.

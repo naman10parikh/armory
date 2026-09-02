@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-25T22:16:02Z"
 ---
 ## What it is
 Compresses file reads, command output, search hits, and fetched web pages before entering agent context to reduce token usage, using deterministic transforms and a safety verifier.

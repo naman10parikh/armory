@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:38:43Z"
 ---
 ## What it is
 Enables AI mission designers to author and validate DCS World missions through the Mission Editor via a versioned protocol, providing tools for planning, payloads, map inspection, and live editor integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-12T06:37:59Z"
 ---
 ## What it is
 MCP server exposing 33 software engineering skills grounded in named primary standards, covering the development lifecycle from TDD and code review to incident response and deployment.

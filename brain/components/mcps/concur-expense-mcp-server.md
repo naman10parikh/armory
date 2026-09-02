@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:17:12Z"
 ---
 ## What it is
 An MCP server for managing SAP Concur expense reports, allowing AI agents to create and update expenses, attach receipts and attendees, and read report data, while leaving submission and approval to humans.

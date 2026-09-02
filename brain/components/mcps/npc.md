@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T23:25:24Z"
 ---
 ## What it is
 A browser automation MCP server that lets your IDE control your real browser (Chrome/Brave) through natural language commands, handling side quests like messaging, form filling, and navigation without context switching.

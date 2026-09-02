@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:15:33Z"
 ---
 ## What it is
 Provides tools to search and retrieve French public procurement data (tenders, awarded contracts) and company information from official open APIs.

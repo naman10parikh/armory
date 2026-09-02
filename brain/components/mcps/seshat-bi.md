@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:44:45Z"
 ---
 ## What it is
 A read-only MCP server that reports BI pipeline readiness, blockers, and the next allowed action for governed Power BI workflows. It never writes files, executes warehouse work, or grants human approvals.

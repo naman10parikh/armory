@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:28:03Z"
 ---
 ## What it is
 MCP server that exposes OneMap8 fleet tracking to AI clients, enabling natural-language queries about devices, positions, reports, geofences, drivers, and more. Includes 32 tools, permission scoping, and safety guardrails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:24Z"
 ---
 ## What it is
 Enables natural language queries about Porto Bank accounts via Open Finance, including balances, statements, credit card bills, and investments, using Claude, ChatGPT, and AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T04:29:26Z"
 ---
 ## What it is
 A Discord MCP server with unlimited message streaming, forum archiving, and time-range filtering. Enables reading all Discord history, archiving forums, and batch operations across channels.

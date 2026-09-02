@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:47Z"
 ---
 ## What it is
 This MCP server enables querying official sources to download property registration receipts (recibo) from ARISP, with read-only access and pay-per-use credits.

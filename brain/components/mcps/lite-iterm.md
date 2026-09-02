@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-18T07:37:04Z"
 ---
 ## What it is
 MCP server `iTerm Terminal`, catalogued on PulseMCP. Provides AI models with direct access to iTerm terminal sessions for reading output, writing commands, and sending control characters, enabling efficient troubleshooting and task delegation in interactive terminal environments.

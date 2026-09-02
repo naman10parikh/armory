@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T19:47:22Z"
 ---
 ## What it is
 A production-grade MCP server for a fictional digital bank, exposing tools for an AI copilot to service customers across the full risk spectrum from read-only lookups to money movement and destructive admin actions, with OAuth 2.1 security and a realistic dataset.

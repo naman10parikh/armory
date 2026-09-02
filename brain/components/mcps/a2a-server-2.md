@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 2
+pushed_at: "2025-04-15T06:26:39Z"
 ---
 ## What it is
 Google A2A Server in Go

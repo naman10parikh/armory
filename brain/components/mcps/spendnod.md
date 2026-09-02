@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T17:54:33Z"
 ---
 ## What it is
 MCP server `SpendNod`, catalogued on PulseMCP. Human authorization gateway for AI agent financial transactions with spending rules, approval workflows, and audit trails.

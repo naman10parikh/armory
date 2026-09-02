@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:18:32Z"
 ---
 ## What it is
 Access official Japanese land prices (地価公示/地価調査) through the Pipeworx MCP gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:40:46Z"
 ---
 ## What it is
 MCP server that lets AI agents drive VS Code as a coding tutor, highlighting ranges of code, narrating explanations aloud via TTS, and running scripted walkthroughs.

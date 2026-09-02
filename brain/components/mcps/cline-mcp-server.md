@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:03:15Z"
 ---
 ## What it is
 Enables Cline + LM Studio to perform web searches, download images, fetch webpages, execute shell commands, and parse PDF files without needing any API keys.

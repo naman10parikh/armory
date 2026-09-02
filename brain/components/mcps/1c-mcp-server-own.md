@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-15T07:16:26Z"
 ---
 ## What it is
 Enables AI agents to interact with 1C:Enterprise databases through natural language, providing metadata retrieval, configuration analysis, and code generation.

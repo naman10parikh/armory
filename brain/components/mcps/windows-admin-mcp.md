@@ -8,11 +8,13 @@ source_url: https://github.com/devladpopov/windows-admin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-18T11:33:06Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to manage, monitor, and diagnose Windows systems through 42 tools across 8 modules, including services, event viewer, task scheduler, processes, network, diagnostics, observability, and safety features.

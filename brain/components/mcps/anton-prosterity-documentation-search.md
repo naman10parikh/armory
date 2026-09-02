@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-07T04:48:17Z"
 ---
 ## What it is
 MCP server `Documentation Search`, catalogued on PulseMCP. Provides direct access to technical documentation across 40+ popular frameworks and libraries including Python, React, FastAPI, and AWS with intelligent caching and unified retrieval for development workflows.

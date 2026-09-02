@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T07:34:47Z"
 ---
 ## What it is
 Unified SPEDAS-oriented MCP server for Claude Code and Codex agents, providing tools to discover and fetch heliophysics and planetary science data from CDAWeb, NASA PDS, and SPICE kernels.

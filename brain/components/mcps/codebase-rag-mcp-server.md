@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-11T07:57:39Z"
 ---
 ## What it is
 Enables AI agents to chat with codebases by indexing local directories or GitHub repositories into a vector database for semantic search and code retrieval.

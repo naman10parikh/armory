@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:13:38Z"
 ---
 ## What it is
 Connects AI agents to RealtyCalendar accounts, allowing users to query bookings, availability, and check-ins via natural language, with local-first privacy and read-only access.

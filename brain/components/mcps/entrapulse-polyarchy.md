@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T23:18:30Z"
 ---
 ## What it is
 Interactive visualization of Microsoft Entra ID identity relationships, enabling exploration of org charts, groups, attributes, and access assignments through a D3 force-directed graph within MCP clients.

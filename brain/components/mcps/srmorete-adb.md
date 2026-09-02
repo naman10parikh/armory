@@ -8,10 +8,12 @@ source_url: https://github.com/srmorete/adb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-04-05T11:12:20Z"
 ---
 ## What it is
 MCP server `ADB (Android Debug Bridge)`, catalogued on PulseMCP. Bridges AI with Android devices through ADB, enabling device management, shell commands, app installation, file transfers, and UI inspection without requiring direct ADB knowledge.

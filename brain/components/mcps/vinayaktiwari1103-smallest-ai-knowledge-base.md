@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-29T15:45:48Z"
 ---
 ## What it is
 MCP server `Smallest.ai Knowledge Base`, catalogued on PulseMCP. Provides direct access to Smallest.ai knowledge base API for listing, creating, and retrieving knowledge bases without leaving the conversation context

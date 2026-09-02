@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:46:06Z"
 ---
 ## What it is
 Enables self-hosted personal finance management for MCP clients by connecting read-only bank accounts via SimpleFIN, syncing transactions into a local SQLite database, and exposing tools to query balances, spending, budgets, cash flow, and net worth.

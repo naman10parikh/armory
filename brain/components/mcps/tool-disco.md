@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T03:57:18Z"
 ---
 ## What it is
 A tool discovery MCP server that integrates with Azure DevOps wikis and code-graph-rag to match natural language goals to tools, enabling tool composition and proxy testing.

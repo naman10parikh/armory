@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-16T06:25:35Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) compatible server that integrates Ant International's Antom payment APIs, enabling AI assistants to handle payment and refund operations seamlessly.

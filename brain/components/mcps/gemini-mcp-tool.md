@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T00:34:45Z"
 ---
 ## What it is
 MCP server that integrates Google Gemini CLI with AI assistants, enabling large file analysis and natural language queries without an API key.

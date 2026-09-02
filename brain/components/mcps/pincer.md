@@ -8,10 +8,12 @@ source_url: https://github.com/vouchlyai/pincer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-18T10:13:35Z"
 ---
 ## What it is
 MCP server `Pincer`, catalogued on PulseMCP. Security-hardened gateway with proxy token architecture that prevents agents from accessing real API credentials.

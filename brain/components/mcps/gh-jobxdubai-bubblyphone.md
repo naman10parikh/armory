@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T08:47:17Z"
 ---
 ## What it is
 MCP server `BubblyPhone`, catalogued on PulseMCP. Control phone calls, voice agents, and billing on the BubblyPhone telephony platform.

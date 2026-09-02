@@ -8,10 +8,12 @@ source_url: https://github.com/alexai-mcp/opencrab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-06-03T03:23:26Z"
 ---
 ## What it is
 MCP server `OpenCrab`, catalogued on PulseMCP. MetaOntology OS integration for ontology-structured agent environments.

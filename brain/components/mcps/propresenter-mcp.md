@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T05:48:58Z"
 ---
 ## What it is
 Enables complete control over ProPresenter presentations through the ProPresenter API, supporting 231 endpoints for managing presentations, announcements, audio, media, playlists, and more.

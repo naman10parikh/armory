@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:05:05Z"
 ---
 ## What it is
 Provides mock travel planning tools including flight and hotel search, recommendations, and multi-turn trip drafting. Supports stdio and HTTP transports and is intended for testing/demo purposes only.

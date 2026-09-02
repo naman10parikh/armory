@@ -8,10 +8,12 @@ source_url: https://github.com/termau/ssh-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-06T05:02:51Z"
 ---
 ## What it is
 MCP server `SSH Remote Management`, catalogued on PulseMCP. Provides SSH connectivity and remote server management with command execution, file operations, directory listing, and SFTP transfers across manual configurations, environment variables, and BinaryLane cloud auto-discovery.

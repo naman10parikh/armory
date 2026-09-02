@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:44:22Z"
 ---
 ## What it is
 MCP server for pelando.com.br, the Brazilian community deal board. It enables searching and browsing deals, retrieving deal details and comments, and assessing crowd quality verdicts.

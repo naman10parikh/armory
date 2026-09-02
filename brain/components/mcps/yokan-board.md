@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-11T17:48:36Z"
 ---
 ## What it is
 MCP server `Yokan Board`, catalogued on PulseMCP. Kanban board management with columns, tasks, and full lifecycle operations via Yokan Board API

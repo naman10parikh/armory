@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T20:21:28Z"
 ---
 ## What it is
 Provides task and project management tools for AI agents, including todo list management, prioritization frameworks like Eisenhower Matrix and RICE scoring, time estimation using PERT, daily standup generation, and sprint burndown calculation.

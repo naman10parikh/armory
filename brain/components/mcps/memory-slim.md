@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T02:40:30Z"
 ---
 ## What it is
 Memory MCP server optimized for AI assistants, reducing context window tokens by 54.9% while preserving full functionality.

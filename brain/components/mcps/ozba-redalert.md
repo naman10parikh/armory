@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-18T20:51:02Z"
 ---
 ## What it is
 MCP server `RedAlert`, catalogued on PulseMCP. Monitor Israel's emergency alert system with real-time rocket alerts and shelter information.

@@ -8,10 +8,12 @@ source_url: https://github.com/mercy719/goofish-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T13:18:44Z"
 ---
 ## What it is
 MCP server `Goofish`, catalogued on PulseMCP. Enables browsing and monitoring of Goofish (Xianyu), China's largest secondhand marketplace, via Playwright browser automation.

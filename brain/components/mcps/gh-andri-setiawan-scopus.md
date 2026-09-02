@@ -8,10 +8,12 @@ source_url: https://github.com/andri-setiawan/mcp-scopus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-30T08:02:09Z"
 ---
 ## What it is
 MCP server `Scopus Academic Search`, catalogued on PulseMCP. Search academic papers from Scopus database with citation analysis and author profiles.

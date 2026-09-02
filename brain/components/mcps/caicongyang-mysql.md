@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-02T14:57:34Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Provides secure MySQL database access through a FastAPI server with SQLAlchemy and PyMySQL, enabling configurable connection pooling and optional query restrictions.

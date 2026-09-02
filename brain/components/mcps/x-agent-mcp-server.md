@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:16:52Z"
 ---
 ## What it is
 Provides 19+ tools for AI agents to interact with X/Twitter, including search, posting, analysis, and monitoring capabilities.

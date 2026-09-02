@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 9
+forks: 3
+pushed_at: "2025-09-26T15:54:59Z"
 ---
 ## What it is
 iOS code quality analysis and test automation server. Provides comprehensive Xcode test execution, SwiftLint integration, and detailed failure analysis. Operates in both CLI and MCP server modes for direct developer usage and AI assistant integration.

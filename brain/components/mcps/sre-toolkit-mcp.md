@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:43:14Z"
 ---
 ## What it is
 Enables LLM agents to perform SRE reliability calculations like error budgets and burn rates using deterministic tools, integrating with Prometheus and Loki for real data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-20T06:24:11Z"
 ---
 ## What it is
 Korean Saju (Four Pillars / 사주명리) birth-chart analysis — 5 free tools: chart, five elements, gyeokguk, yin-yang/climate balance, and classical yongshin candidates. Local stdio server via npx, no API key required.

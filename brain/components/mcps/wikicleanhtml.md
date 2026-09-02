@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T05:57:22Z"
 ---
 ## What it is
 Fetches Wikipedia articles and returns cleaned, readable HTML stripped of citations, infoboxes, navboxes, and other clutter. Enables fetching specific articles or random ones with options to keep images, tables, or links.

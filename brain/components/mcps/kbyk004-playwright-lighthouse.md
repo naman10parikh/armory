@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-12T03:03:32Z"
 ---
 ## What it is
 MCP server `Playwright-Lighthouse`, catalogued on PulseMCP. Combines Playwright's browser automation with Lighthouse's auditing capabilities to analyze website performance, generate detailed reports, and capture screenshots for web development optimization.

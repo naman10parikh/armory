@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-10T02:10:09Z"
 ---
 ## What it is
 An MCP server that lets your Poke AI assistant access your macOS machine, enabling shell commands, file operations, and screenshots through natural language.

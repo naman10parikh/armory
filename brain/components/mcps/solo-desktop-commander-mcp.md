@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T05:39:50Z"
 ---
 ## What it is
 A free, open-source MCP server that gives AI agents real filesystem, terminal, git, and process control over your machine for inspection, diagnosis, and repair.

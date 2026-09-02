@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T16:46:18Z"
 ---
 ## What it is
 Creates, inspects, validates, and modifies Power BI Project (.pbip) folders, generating PBIR-style reports and TMDL semantic models from structured inputs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-20T01:27:58Z"
 ---
 ## What it is
 Enables natural language search of Japan's National Diet Library bibliographic database via Claude Desktop, allowing users to find books and academic materials using intuitive Japanese queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-06-01T17:54:38Z"
 ---
 ## What it is
 Integrates multiple Android APK security analysis tools into MCP standard APIs for automated static and dynamic analysis and vulnerability detection.

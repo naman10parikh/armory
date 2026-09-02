@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:28:17Z"
 ---
 ## What it is
 Algernon enables AI assistants to orchestrate a fleet of cheap LLM workers, decomposing goals into tightly-scoped parallel sub-tasks and dispatching them concurrently, so the main model stays context-light and token-efficient.

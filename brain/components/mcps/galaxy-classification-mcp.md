@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T07:44:22Z"
 ---
 ## What it is
 Enables classification of galaxy images by Hubble type and answering custom astronomy questions using the Qwen VL vision-language model via DashScope.

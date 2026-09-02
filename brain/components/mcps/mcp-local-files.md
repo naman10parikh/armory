@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T12:14:27Z"
 ---
 ## What it is
 Enables ChatGPT/Codex to read, search, and edit files in a single allowed folder on Windows through OpenAI Secure MCP Tunnel.

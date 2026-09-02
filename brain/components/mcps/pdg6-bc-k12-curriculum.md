@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-27T23:12:29Z"
 ---
 ## What it is
 MCP server `BC K-12 Curriculum`, catalogued on PulseMCP. Provides structured access to the complete British Columbia K-12 curriculum including Big Ideas, Competencies, Content standards, and First Peoples Principles of Learning.

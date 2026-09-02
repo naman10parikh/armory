@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T04:04:16Z"
 ---
 ## What it is
 MCP server `Manus`, catalogued on PulseMCP. MCP server integrating with the Manus.im AI automation platform for task management and browser operations.

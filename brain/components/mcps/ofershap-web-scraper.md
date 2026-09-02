@@ -8,10 +8,12 @@ source_url: https://github.com/ofershap/mcp-server-scraper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-10T07:38:18Z"
 ---
 ## What it is
 MCP server `Web Scraper`, catalogued on PulseMCP. Extract clean markdown, links, and metadata from any URL using Mozilla Readability.

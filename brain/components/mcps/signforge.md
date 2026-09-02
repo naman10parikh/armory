@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T11:37:18Z"
 ---
 ## What it is
 MCP server `SignForge`, catalogued on PulseMCP. Send documents for e-signature from AI agents using the SignForge platform — upload, send envelopes, check status, and download signed PDFs.

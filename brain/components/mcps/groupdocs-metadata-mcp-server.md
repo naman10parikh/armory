@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:20:12Z"
 ---
 ## What it is
 Exposes GroupDocs.Metadata as AI-callable tools for reading, searching, writing, and removing metadata in documents.

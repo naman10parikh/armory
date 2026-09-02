@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T20:36:07Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides tools for interacting with simple's data, including customer reports, calendar events, and company information.

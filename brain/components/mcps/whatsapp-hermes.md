@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:14:48Z"
 ---
 ## What it is
 Connects AI agents to WhatsApp via the Baileys library using QR code pairing, enabling sending and receiving messages without the Meta Business API. Supports persistent sessions, access control, and message buffering.

@@ -8,10 +8,12 @@ source_url: https://github.com/amenophis1er/elefante
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T00:58:11Z"
 ---
 ## What it is
 MCP server `Elefante`, catalogued on PulseMCP. Git-native memory protocol for MCP agents that stores memories as Markdown files in version-controlled repositories.

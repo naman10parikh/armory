@@ -8,10 +8,12 @@ source_url: https://github.com/ip2location/mcp-ip2location-io
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-28T08:14:04Z"
 ---
 ## What it is
 MCP server `IP2Location.io`, catalogued on PulseMCP. Integrates with IP2Location.io API to retrieve geographic location, network details, security insights, and metadata for IPv4 and IPv6 addresses with support for both free and authenticated usage tiers.

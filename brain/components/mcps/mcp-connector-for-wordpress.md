@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T11:29:45Z"
 ---
 ## What it is
 A local MCP server that bridges Claude Desktop to your WordPress site via the WordPress MCP Adapter. It dynamically discovers and proxies all tools, resources, and prompts registered through the WordPress Abilities API.

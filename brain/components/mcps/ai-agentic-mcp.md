@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T18:44:10Z"
 ---
 ## What it is
 An MCP server exposing employee info retrieval and web search tools, designed to be consumed by a LangChain agent for decoupled tool execution.

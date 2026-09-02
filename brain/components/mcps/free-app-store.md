@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-29T13:15:00Z"
 ---
 ## What it is
 MCP server `FreeAppStore`, catalogued on PulseMCP. Provides AI agent tools for FreeAppStore including deploy status checks, SDK documentation, app information, and platform guides.

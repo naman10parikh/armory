@@ -8,10 +8,12 @@ source_url: https://github.com/localsummer/task-manager-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-09T09:05:35Z"
 ---
 ## What it is
 MCP server `Task Manager`, catalogued on PulseMCP. Provides task management with hierarchical structures, dependency tracking, and status updates through JSON configuration files for project workflow automation.

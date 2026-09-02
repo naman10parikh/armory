@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2026-04-06T07:42:12Z"
 ---
 ## What it is
 MCP server for Japan's Jグランツ grant application system, enabling LLMs to search and retrieve subsidy information via natural language.

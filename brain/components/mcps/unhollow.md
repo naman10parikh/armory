@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:28:47Z"
 ---
 ## What it is
 Provides semantic search over project knowledge layers (memories, wiki, docs) using local embeddings, enabling AI coding agents to recall relevant context without external API calls.
