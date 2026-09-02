@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T03:33:38Z"
 ---
 ## What it is
 Provides deterministic micro-utilities as an MCP server, including free tools for conversion, text processing, hashing, encoding, ID generation, and regex, plus paid per-call tools for timezone, cron, RRULE, currency, diff, JSON Schema validation, and date math.

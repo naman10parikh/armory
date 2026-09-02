@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T00:23:41Z"
 ---
 ## What it is
 Enables sending iMessages or SMS messages via the macOS Messages app using osascript. No Full Disk Access required, and never reads your message history.

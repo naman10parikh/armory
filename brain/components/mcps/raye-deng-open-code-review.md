@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 34
+stars: 37
+forks: 3
+pushed_at: "2026-04-16T06:01:23Z"
 ---
 ## What it is
 AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD integration.

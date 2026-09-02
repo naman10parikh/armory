@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:22:38Z"
 ---
 ## What it is
 MCP server wrapping the Press Advantage API, enabling AI assistants to manage press releases, organizations, distributions, and more via natural language.

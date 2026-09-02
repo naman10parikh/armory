@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 39
+pushed_at: "2026-09-01T19:31:12Z"
 ---
 ## What it is
 An MCP server for interacting with Prefect resources, enabling AI assistants to monitor, manage, and debug workflows.

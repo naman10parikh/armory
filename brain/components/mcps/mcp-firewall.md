@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:27:40Z"
 ---
 ## What it is
 A policy and audit layer for Model Context Protocol (MCP). MCP Firewall sits transparently between any MCP client (Claude Desktop, Cursor, VS Code, etc.) and an upstream MCP server, allowing you to inspect, allow, block, or audit requests before they reach the server.

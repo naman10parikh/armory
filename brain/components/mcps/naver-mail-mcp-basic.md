@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:30:40Z"
 ---
 ## What it is
 MCP server for Naver Mail that enables reading, searching, downloading and organizing attachments, and preparing draft emails without sending automatically.

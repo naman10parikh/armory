@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T01:40:31Z"
 ---
 ## What it is
 An MCP server for WriteFreely that enables AI agents to publish and manage content on WriteFreely instances (including self-hosted instances and Write.as).

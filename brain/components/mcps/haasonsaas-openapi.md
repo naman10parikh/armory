@@ -8,10 +8,12 @@ source_url: https://github.com/evalops/mcp-openapi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T01:37:21Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Converts OpenAPI specifications into callable tools with authentication, runtime validation, and a security policy engine for controlled API access.

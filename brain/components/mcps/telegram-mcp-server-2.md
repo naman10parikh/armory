@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:16:47Z"
 ---
 ## What it is
 A Telegram integration for MCP-compatible clients, enabling account, chat, message, contact, media, folder, and admin operations.

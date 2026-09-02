@@ -8,10 +8,12 @@ source_url: https://github.com/ethbak/icon-composer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T15:53:37Z"
 ---
 ## What it is
 MCP server `Icon Composer`, catalogued on PulseMCP. Creates Apple .icon bundles with Liquid Glass effects for iOS 26+.

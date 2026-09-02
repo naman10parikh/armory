@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T04:29:41Z"
 ---
 ## What it is
 Enables crawling websites in a real Chromium browser to report JavaScript console errors, uncaught exceptions, failed requests, broken links, and accessibility violations, classifying issues as first- or third-party.

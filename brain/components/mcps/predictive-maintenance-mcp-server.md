@@ -8,11 +8,13 @@ source_url: https://github.com/LGDiMaggio/predictive-maintenance-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 78
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2026-08-20T18:31:39Z"
 ---
 ## What it is
 Enables AI assistants to analyze vibration data, detect machinery faults, and generate professional diagnostic reports through natural conversation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-12T20:55:56Z"
 ---
 ## What it is
 Enables AI agents to interact with an embedded graph database (GrafeoDB) via the Model Context Protocol, providing tools for graph CRUD, GQL queries, full-text and vector search, and graph algorithms.

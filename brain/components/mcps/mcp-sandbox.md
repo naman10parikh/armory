@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T04:11:26Z"
 ---
 ## What it is
 A sandbox MCP server for testing and debugging MCP tools and interactions via the MCP Inspector.

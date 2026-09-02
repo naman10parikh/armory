@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T14:01:42Z"
 ---
 ## What it is
 Zero-config MCP server for SharePoint Online that enables managing sites, pages, navigation, and branding via natural language, with automatic device code authentication and no Azure registration required.

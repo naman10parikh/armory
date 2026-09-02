@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:17:42Z"
 ---
 ## What it is
 Exposes audio processing tools (inspect, normalize, trim, fade, gain, filter, speed, reverse) as MCP tools, enabling Claude to manipulate WAV files through natural language commands.

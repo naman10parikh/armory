@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:32:48Z"
 ---
 ## What it is
 Enables AI clients to control Cocos Creator editor projects, scenes, nodes, components, assets, Prefabs, building, and diagnostics via the MCP protocol.

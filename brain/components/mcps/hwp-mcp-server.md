@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T15:30:38Z"
 ---
 ## What it is
 Enables LLMs to read and modify HWP (한글) documents via the HWP COM API, with tools for text, tables, formatting, and file conversion.

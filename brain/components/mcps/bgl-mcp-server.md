@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T06:27:36Z"
 ---
 ## What it is
 Enables users to interact with Backlog issues directly from VSCode/GitHub Copilot or Claude Desktop, providing tools to retrieve issues, list comments, and add comments.

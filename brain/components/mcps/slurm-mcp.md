@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:08:59Z"
 ---
 ## What it is
 Enables agents to query Slurm scheduler state safely through a read-only allowlist, with progressive disclosure to minimize context usage.

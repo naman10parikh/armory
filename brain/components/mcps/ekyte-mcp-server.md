@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-07T15:09:36Z"
 ---
 ## What it is
 Enables Claude and other AI to interact with the Ekyte platform for task management and time tracking via its internal API, using JWT authentication.

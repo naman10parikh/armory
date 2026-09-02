@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:24:04Z"
 ---
 ## What it is
 MCP server `NASA EONET`, catalogued on PulseMCP. Track ongoing and historical natural events worldwide using NASA's Earth Observatory Natural Event Tracker (EONET) satellite data.

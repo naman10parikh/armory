@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:53:00Z"
 ---
 ## What it is
 Enables hotel search, booking, reservation management, and rewards tracking for IHG hotels via browser automation.

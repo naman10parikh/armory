@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:18:03Z"
 ---
 ## What it is
 Enables SQL querying over CSV and Excel files using DuckDB, providing tools to load files, inspect schemas, and run read-only queries via MCP.

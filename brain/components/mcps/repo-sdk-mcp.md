@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T15:23:20Z"
 ---
 ## What it is
 Exposes functions to get the current working directory and review git diffs before commit as MCP tools, leveraging Claude Code CLI for diff review.

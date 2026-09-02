@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-24T03:23:52Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to read PDF files, extract text, retrieve metadata, read specific pages, and search within PDFs.

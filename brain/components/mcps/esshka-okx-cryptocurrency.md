@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-07T17:36:13Z"
 ---
 ## What it is
 MCP server `OKX Cryptocurrency`, catalogued on PulseMCP. Provides real-time cryptocurrency market data from OKX exchange through API endpoints for historical candlestick patterns and current price information

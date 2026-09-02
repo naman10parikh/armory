@@ -8,10 +8,12 @@ source_url: https://github.com/jason-hub-star/unityctl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T16:44:16Z"
 ---
 ## What it is
 MCP server `unityctl`, catalogued on PulseMCP. Deterministic Unity Editor control plane providing CLI commands and MCP tools for AI-driven game development.

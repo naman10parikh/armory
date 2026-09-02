@@ -8,10 +8,12 @@ source_url: https://github.com/lishengyang-yiyi/yiui-unitymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-03T16:59:46Z"
 ---
 ## What it is
 MCP server `YIUI Unity`, catalogued on PulseMCP. AI-driven Unity Editor automation with CLI-first workflows and compilation control.

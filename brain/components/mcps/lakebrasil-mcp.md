@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T23:08:42Z"
 ---
 ## What it is
 Enables agents to query 153 live Brazilian government data tools across federal and state sources, including economy, legislature, judiciary, elections, health, education, and more, reading directly from original APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:53:48Z"
 ---
 ## What it is
 MITM proxy MCP server that intercepts and verifies AI agent tool calls, detecting fabrication, tracking costs, verifying outcomes, and inferring user satisfaction.

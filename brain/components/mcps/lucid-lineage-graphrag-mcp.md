@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:46:40Z"
 ---
 ## What it is
 Exposes six Neo4j graph tools for tracing data lineage, checking compliance boundaries, and managing audit findings in a simulated infrastructure sandbox.

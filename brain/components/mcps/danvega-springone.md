@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-21T14:02:31Z"
 ---
 ## What it is
 MCP server `SpringOne 2025`, catalogued on PulseMCP. Provides SpringOne 2025 conference session data through tools for counting sessions by date and retrieving all sessions, includes predefined prompts for conference analysis, and exposes speaker biographical information as resources.

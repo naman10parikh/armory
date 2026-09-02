@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-07-28T12:06:16Z"
 ---
 ## What it is
 A TypeScript/JavaScript refactoring MCP server that uses the TypeScript compiler to perform safe, type-aware code transformations such as renaming, extracting functions, and organizing imports across your codebase.

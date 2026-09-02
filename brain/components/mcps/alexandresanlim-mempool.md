@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-24T11:34:38Z"
 ---
 ## What it is
 MCP server `Mempool.space`, catalogued on PulseMCP. Integrates with mempool.space APIs to provide real-time Bitcoin network data including transaction details, block information, address balances, mining statistics, and fee recommendations for developers and traders.

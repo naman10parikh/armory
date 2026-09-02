@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-04T13:51:48Z"
 ---
 ## What it is
 Provides access to Minecraft mod development documentation (Neoforge) via MCP tools, allowing users to list providers and versions, browse file structures with previews, and retrieve full document content.

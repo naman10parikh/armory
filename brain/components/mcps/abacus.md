@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:22:42Z"
 ---
 ## What it is
 An MCP server for local Excel automation, providing 88 tools for reading, manipulating, and analyzing Excel files. It supports .xlsx, .xls, and .csv formats, with a unique nine-chapter classification system.

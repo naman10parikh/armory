@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T01:11:51Z"
 ---
 ## What it is
 Enables a production-grade MCP-native router and multi-agent control plane, letting agents plan tasks, route tool calls to the right MCP servers, stream every step, and persist results in memory.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:18:02Z"
 ---
 ## What it is
 A sample MCP server built with NestJS and TypeScript, demonstrating a ping tool for testing connectivity with MCP clients.

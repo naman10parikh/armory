@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-11T14:15:12Z"
 ---
 ## What it is
 MCP server `Voice Gen (Minimax AI)`, catalogued on PulseMCP. Converts text to high-quality speech audio using Minimax AI API with automatic S3 storage, organized directory structures, and configurable audio settings for persistent cloud-based voice content generation.

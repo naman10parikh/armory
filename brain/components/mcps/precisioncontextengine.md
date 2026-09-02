@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T08:41:29Z"
 ---
 ## What it is
 Enables AI coding agents to efficiently navigate and understand large codebases by providing tools for entry point location, call chain analysis, and impact assessment, reducing context consumption and model costs.

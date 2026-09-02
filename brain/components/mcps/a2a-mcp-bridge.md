@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T23:16:45Z"
 ---
 ## What it is
 A stdio MCP server that allows MCP-capable agents to call an A2A endpoint, enabling agent-to-agent messaging through the A2A protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:13:32Z"
 ---
 ## What it is
 MCP server that exposes read-only YubiKey management tools (info, FIDO2, PIV, OpenPGP, OTP) to AI agents via the ykman CLI.

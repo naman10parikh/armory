@@ -8,10 +8,12 @@ source_url: https://github.com/0xgval/twitter-x-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search, social]
+forks: 8
+pushed_at: "2025-03-25T20:16:54Z"
 ---
 
 ## What it is

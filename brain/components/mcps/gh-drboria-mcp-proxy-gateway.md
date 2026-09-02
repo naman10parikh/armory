@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T10:07:06Z"
 ---
 ## What it is
 MCP server `MCP Proxy Gateway`, catalogued on PulseMCP. Centralized gateway that filters MCP tool access by agent role.

@@ -8,11 +8,13 @@ source_url: https://github.com/icebird1998/scientific-illustrator
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 652
+stars: 732
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 57
+pushed_at: "2026-08-08T08:20:23Z"
 ---
 ## What it is
 An MCP server that enables creating, editing, and reviewing scientific illustrations in Microsoft PowerPoint or draw.io, prioritizing native editable objects over flattened images.

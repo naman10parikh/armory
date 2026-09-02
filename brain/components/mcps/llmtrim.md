@@ -8,11 +8,13 @@ source_url: https://github.com/fkiene/llmtrim
 license: Mozilla Public License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 216
+stars: 222
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2026-09-01T17:01:46Z"
 ---
 ## What it is
 MCP server and local proxy that compresses LLM prompts, tool output, and replies to cut token cost, with a quality gate that reverts any step that does not save. Exposes llmtrim_compress, llmtrim_compress_text, and llmtrim_stats.

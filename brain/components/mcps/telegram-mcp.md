@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T00:44:47Z"
 ---
 ## What it is
 Enables AI agents to read, send, and organize Telegram messages and chats. Supports tools for listing chats, fetching messages, sending/reply, archiving, muting, and folder management.

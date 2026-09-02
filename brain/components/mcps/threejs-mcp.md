@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T15:59:38Z"
 ---
 ## What it is
 Enables AI assistants to generate and modify Three.js 3D scenes by providing a wide range of tools for scene setup, cameras, geometry, materials, lighting, controls, loaders, animation, interaction, helpers, post-processing, environment, UI, physics, and XR.

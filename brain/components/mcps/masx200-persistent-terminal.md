@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T06:39:28Z"
 ---
 ## What it is
 MCP server `Persistent Terminal`, catalogued on PulseMCP. Provides persistent terminal session management with MCP tools for creating, executing commands, and maintaining long-running processes across connections with real-time output handling and web UI access.

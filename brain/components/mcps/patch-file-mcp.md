@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-11T10:59:08Z"
 ---
 ## What it is
 Enables precise file patching using SEARCH/REPLACE blocks, with mandatory directory sandboxing, automatic Python QA (Ruff/Black/MyPy), and git versioning for rollback.

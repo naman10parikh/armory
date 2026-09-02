@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T07:22:12Z"
 ---
 ## What it is
 MCP server `Nature Vision`, catalogued on PulseMCP. Identifies biological species from images, returning Latin names with confidence scores.

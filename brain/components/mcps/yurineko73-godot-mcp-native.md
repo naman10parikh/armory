@@ -8,10 +8,12 @@ source_url: https://github.com/yurineko73/godot-mcp-native
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 749
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 68
+pushed_at: "2026-08-03T07:00:08Z"
 ---
 ## What it is
 MCP server `Godot MCP Native`, catalogued on PulseMCP. Godot Engine plugin that runs an MCP server natively inside the editor, exposing 154 tools for node operations, script editing, scene management, and debugging.

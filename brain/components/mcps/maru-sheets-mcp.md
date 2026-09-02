@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T05:19:04Z"
 ---
 ## What it is
 Enables AI agents to read, write, and format Google Sheets using the Google Sheets API v4.

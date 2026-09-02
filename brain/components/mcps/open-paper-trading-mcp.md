@@ -8,11 +8,13 @@ source_url: https://github.com/Open-Agent-Tools/open-paper-trading-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-09T19:18:44Z"
 ---
 ## What it is
 Provides AI agents with tools for paper trading stocks, options, ETFs, and bonds, including advanced options strategies and risk analysis, using real market data without financial risk.

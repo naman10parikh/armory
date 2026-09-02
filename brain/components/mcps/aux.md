@@ -8,11 +8,13 @@ source_url: https://github.com/brian-mwirigi/aux-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-26T22:57:27Z"
 ---
 ## What it is
 An MCP server that turns your AI into a Spotify DJ, enabling mood-based playback, auto-DJ, party rooms, and playlist roasting.

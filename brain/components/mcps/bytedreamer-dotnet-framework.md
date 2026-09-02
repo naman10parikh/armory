@@ -8,10 +8,12 @@ source_url: https://github.com/bytedreamer/dotnetframeworkmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-09T13:34:07Z"
 ---
 ## What it is
 MCP server `.NET Framework Development`, catalogued on PulseMCP. Provides .NET Framework development capabilities through TCP communication, enabling project building with MSBuild, test execution across MSTest/NUnit/xUnit frameworks, and solution analysis with automatic Visual Studio detection and cross-platform WSL support.

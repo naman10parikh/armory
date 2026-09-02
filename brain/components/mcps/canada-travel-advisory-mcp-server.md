@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T01:18:16Z"
 ---
 ## What it is
 Enables querying Government of Canada travel advisories for 230 destinations, including searching, comparing, and filtering by risk level, with support for English and French.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:24:37Z"
 ---
 ## What it is
 MCP server for the RETICOLO V10 rigorous coupled-wave analysis solver, enabling agents to compute RCWA spectra, convergence scans, and field maps via MATLAB Engine API without launching the MATLAB desktop.

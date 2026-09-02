@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-17T18:10:23Z"
 ---
 ## What it is
 Provides live-org context for AI assistants with tools to search skills, agents, templates, decision trees, and query Salesforce metadata (Apex, LWC, objects, fields, etc.) via MCP.

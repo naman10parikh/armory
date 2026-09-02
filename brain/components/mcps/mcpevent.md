@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:28:03Z"
 ---
 ## What it is
 An MCP server that provides a test suite with regression testing for event management, featuring isolated subprocess per test file and hard timeouts to prevent hangs.

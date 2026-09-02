@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T10:29:02Z"
 ---
 ## What it is
 Enables AI agents to request quotes and strategy sessions from Juicy Designs, and read service catalog, case studies, reviews, and FAQs via MCP or REST APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T04:31:38Z"
 ---
 ## What it is
 A local reimplementation of the AWS Bedrock AgentCore Gateway with a pluggable Lambda backend for developing and testing agent-integrations offline.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-04T18:43:31Z"
 ---
 ## What it is
 Enables searching and retrieving metadata from OpenMetadata, including tables, columns, sample data, and ownership information.

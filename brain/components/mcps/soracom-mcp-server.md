@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-10T11:06:04Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with SORACOM APIs.

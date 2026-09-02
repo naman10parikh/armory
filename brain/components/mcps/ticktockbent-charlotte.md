@@ -8,10 +8,12 @@ source_url: https://github.com/ticktockbent/charlotte
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 144
+stars: 176
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-08-21T20:17:11Z"
 ---
 ## What it is
 MCP server `Charlotte`, catalogued on PulseMCP. Renders web pages into structured, token-efficient representations using headless Chromium with three detail levels.

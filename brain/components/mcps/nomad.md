@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:27Z"
 ---
 ## What it is
 A local MCP server for agentic remote development that enables code sync via rsync, SSH command execution, and long-running task management in remote tmux sessions.

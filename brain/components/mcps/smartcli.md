@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:09:38Z"
 ---
 ## What it is
 A local Python MCP server for driving, perceiving, and rendering terminal programs, using a pluggable PTY and pyte screen model to let AI agents interact with real TUIs.

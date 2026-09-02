@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:09:25Z"
 ---
 ## What it is
 Syncs Confluence spaces to local files for efficient editing by coding agents, with tools for reading, writing, searching, and managing Confluence pages and attachments.

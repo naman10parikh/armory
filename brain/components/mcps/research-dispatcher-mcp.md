@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T17:13:56Z"
 ---
 ## What it is
 Enables AI agents to run research queries across multiple public sources (Hacker News, Reddit, GitHub, Brave Search) in parallel, returning normalized results.

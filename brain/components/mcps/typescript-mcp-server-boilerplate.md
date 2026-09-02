@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T07:43:06Z"
 ---
 ## What it is
 A boilerplate for building and deploying MCP servers on Vercel, featuring example tools like greeting, calculator, weather, and Hugging Face image generation.

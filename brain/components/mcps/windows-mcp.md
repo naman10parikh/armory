@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:17:07Z"
 ---
 ## What it is
 A lightweight MCP server that enables AI agents to seamlessly integrate with Windows, performing tasks like file navigation, application control, UI interaction, and QA testing.

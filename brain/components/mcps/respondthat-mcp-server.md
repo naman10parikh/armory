@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:07:07Z"
 ---
 ## What it is
 Enables AI agents to draft and send customer-support email replies, access brand knowledge, list mailboxes, and check credit balance via the RespondThat API.

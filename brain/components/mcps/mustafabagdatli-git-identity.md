@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T02:42:14Z"
 ---
 ## What it is
 MCP server `Identity Attestation`, catalogued on PulseMCP. Adds per-request cryptographic user attestation to MCP servers via ed25519 signatures and ASGI middleware.

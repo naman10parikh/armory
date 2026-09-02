@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-21T16:07:44Z"
 ---
 ## What it is
 Enables creation, editing, and export of ASCII art diagrams using Monodraw on macOS, with tools for generating boxes, flowcharts, tables, trees, and sequence diagrams.

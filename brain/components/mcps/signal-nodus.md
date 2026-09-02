@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:10:20Z"
 ---
 ## What it is
 An MCP server that reads SEC 10-K and 10-Q sections as clean text and diffs them year over year. Pay per call.

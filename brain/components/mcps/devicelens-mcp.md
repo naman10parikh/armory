@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:24:50Z"
 ---
 ## What it is
 A local, detection-first Windows MCP server that groups Device Manager interfaces into physical devices, provides explanations, and enables read-only inspection and update auditing without modifying any devices or drivers.

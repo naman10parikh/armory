@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T02:09:15Z"
 ---
 ## What it is
 MCP server exposing Qiskit quantum computing functionality through the Model Context Protocol. Enables LLMs to create, manipulate, and execute quantum circuits via standardized MCP tools and resources.

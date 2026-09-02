@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T21:43:03Z"
 ---
 ## What it is
 An MCP server for X (Twitter) that enables creating posts, threads, likes, follows, and DMs, plus reading posts, timelines, mentions, and search results via a unified OAuth 2.0 connection.

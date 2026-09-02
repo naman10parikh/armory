@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T14:01:16Z"
 ---
 ## What it is
 A stdio MCP server for Claude Desktop that provides an interactive media player, a local command runner, and file read/write/edit tools.

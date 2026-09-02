@@ -8,10 +8,12 @@ source_url: https://github.com/needle-ai/needle-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-07-27T13:34:24Z"
 ---
 ## What it is
 MCP server `Needle`, catalogued on PulseMCP. Bridges Needle AI platform with MCP servers to enable advanced natural language processing and machine learning capabilities.

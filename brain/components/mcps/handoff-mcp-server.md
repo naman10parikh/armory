@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T09:53:31Z"
 ---
 ## What it is
 Enables durable handoffs and shared scratchpad for multi-agent workflows over MCP HTTP transport.

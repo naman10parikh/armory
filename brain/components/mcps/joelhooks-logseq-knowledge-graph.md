@@ -8,10 +8,12 @@ source_url: https://github.com/joelhooks/logseq-mcp-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-01-21T15:28:41Z"
 ---
 ## What it is
 MCP server `Logseq Knowledge Graph`, catalogued on PulseMCP. Integrates with Logseq knowledge graphs to enable retrieval, analysis, and manipulation of personal knowledge bases through tools for page content access, journal summaries, connection analysis, and concept linking.

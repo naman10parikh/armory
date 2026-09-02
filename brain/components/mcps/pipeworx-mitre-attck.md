@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:43Z"
 ---
 ## What it is
 MCP server `MITRE ATT&CK`, catalogued on PulseMCP. Queries MITRE ATT&CK adversary tactics, techniques, and procedures via STIX bundles.

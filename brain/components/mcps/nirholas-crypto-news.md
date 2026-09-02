@@ -8,10 +8,12 @@ source_url: https://github.com/nirholas/cryptocurrency.cv
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 301
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 42
+pushed_at: "2026-08-27T14:11:40Z"
 ---
 ## What it is
 MCP server `Crypto News`, catalogued on PulseMCP. Aggregates real-time cryptocurrency news from 130+ sources across 18 languages with search, sentiment analysis, and trending topics.

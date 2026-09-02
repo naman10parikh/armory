@@ -8,11 +8,13 @@ source_url: https://github.com/cyj0920/jlink_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-11T16:08:24Z"
 ---
 ## What it is
 An MCP server that provides comprehensive debugging capabilities for J-Link debuggers, enabling memory, flash, register, and RTT operations through AI assistants.

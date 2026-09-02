@@ -8,10 +8,12 @@ source_url: https://github.com/gogogadgetbytes/planka-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-02-03T23:13:28Z"
 ---
 ## What it is
 MCP server `Planka`, catalogued on PulseMCP. Manage Planka kanban boards with full CRUD for cards, tasks, comments, and labels.

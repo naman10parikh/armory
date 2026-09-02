@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T06:35:58Z"
 ---
 ## What it is
 MCP server that exposes tools to query DulceGestion business data (orders, stock, customers) and retrieve documentation via RAG, enabling Claude to assist with pastry shop management.

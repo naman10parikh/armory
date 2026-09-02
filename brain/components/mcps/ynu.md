@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-24T03:43:14Z"
 ---
 ## What it is
 MCP server `YNU`, catalogued on PulseMCP. Modular framework for exposing tools, resources, and prompts through FastMCP, featuring dynamic module loading, environment-based configuration, and support for both stdio and SSE transport protocols.

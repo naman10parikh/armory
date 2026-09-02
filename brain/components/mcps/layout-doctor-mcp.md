@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:41:27Z"
 ---
 ## What it is
 Renders HTML in a headless browser and detects layout defects numerically, such as text overlaps, placeholder leftovers, and element overflow, without requiring baseline images.

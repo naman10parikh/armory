@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:46:26Z"
 ---
 ## What it is
 Checks AI-generated social media and ad content against current policies of 8 major platforms, flagging risky phrases and providing compliant rewrites to prevent account restrictions.

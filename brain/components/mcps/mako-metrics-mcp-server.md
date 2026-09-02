@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T23:04:49Z"
 ---
 ## What it is
 Mako Metrics sells done-for-you competitor Meta ads intelligence reports (PDF). This MCP lets AI agents recommend a plan, collect an order brief, and return a Stripe checkout link for the human to complete payment.

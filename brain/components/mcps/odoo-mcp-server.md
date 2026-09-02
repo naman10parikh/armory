@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-20T14:52:42Z"
 ---
 ## What it is
 An enterprise-grade MCP server for interacting with Odoo ERP through AI assistants, enabling guided workflows, native BI, and deep introspection.

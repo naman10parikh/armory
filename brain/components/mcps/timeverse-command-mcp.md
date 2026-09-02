@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:56:07Z"
 ---
 ## What it is
 An MCP server that enables AI clients to execute shell, Python, and Node commands on the local machine across platforms.

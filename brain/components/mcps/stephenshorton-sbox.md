@@ -8,10 +8,12 @@ source_url: https://github.com/stephenshorton/sbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-11T14:50:18Z"
 ---
 ## What it is
 MCP server `s&box Editor`, catalogued on PulseMCP. Manipulates the s&box game engine editor with scene editing, component management, and asset integration.

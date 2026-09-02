@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T22:04:49Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to analyze images for AI-generated content using noise maps, error level analysis, frequency analysis, spectral decay, color analysis, and metadata inspection.

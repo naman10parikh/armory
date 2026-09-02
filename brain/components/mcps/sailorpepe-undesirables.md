@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T19:42:34Z"
 ---
 ## What it is
 MCP server `Undesirables`, catalogued on PulseMCP. TCG card grading, Monte Carlo pricing, and 370K+ product search tools for trading card games.

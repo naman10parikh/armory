@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-23T11:32:56Z"
 ---
 ## What it is
 A comprehensive MCP server for Obsidian with 45 tools across hybrid filesystem-native and API-based architectures, enabling note management, backlinks, tag management, and analytics.

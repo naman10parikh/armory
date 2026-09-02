@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-04-28T16:55:47Z"
 ---
 ## What it is
 Enables AI-powered management of multi-cluster Kubernetes environments through natural language, supporting kubectl operations, function execution, and agent interactions with multiple AI providers.

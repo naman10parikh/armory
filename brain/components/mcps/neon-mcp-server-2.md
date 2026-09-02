@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:32:41Z"
 ---
 ## What it is
 Enables natural language interaction with Neon PostgreSQL databases, supporting project management, SQL execution, and database migrations through MCP.

@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 35
+stars: 36
+forks: 22
+pushed_at: "2025-04-24T04:51:41Z"
 ---
 ## What it is
 A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.

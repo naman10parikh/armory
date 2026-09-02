@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:26:51Z"
 ---
 ## What it is
 Enables agents to search airports and find group meetup flights for multiple travelers with optimal pricing and arrival windows.

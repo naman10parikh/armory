@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-12T14:19:36Z"
 ---
 ## What it is
 A quickstart template to build and deploy a remote MCP server on Azure Functions using Python, secured with keys and HTTPS.

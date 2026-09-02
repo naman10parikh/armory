@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:36:01Z"
 ---
 ## What it is
 Enables AI agents to query the Reactome biological pathway knowledge-base for pathways, participants, and orthologous events using natural language.

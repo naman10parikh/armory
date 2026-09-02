@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T14:38:23Z"
 ---
 ## What it is
 MCP server for TikTak time tracking and invoicing API, enabling AI assistants to manage customers, track time, and create invoices.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:00:19Z"
 ---
 ## What it is
 Enables AI clients to search and browse camping availability across Alberta Parks, BC Parks, and Parks Canada, including front-country and backcountry campgrounds, through a unified set of tools.

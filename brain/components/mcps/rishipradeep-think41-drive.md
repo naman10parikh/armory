@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-21T08:48:04Z"
 ---
 ## What it is
 MCP server `Google Drive & Sheets`, catalogued on PulseMCP. Integrates with Google Drive and Google Sheets to enable document searching, content reading, and spreadsheet manipulation through OAuth authentication and resource-based access.

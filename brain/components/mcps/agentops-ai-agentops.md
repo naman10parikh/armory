@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-30T21:01:38Z"
 ---
 ## What it is
 MCP server `AgentOps`, catalogued on PulseMCP. Provides access to AgentOps observability and tracing data for debugging agent runs, enabling retrieval of project information, trace details, span metrics, and complete execution traces through authenticated API access.

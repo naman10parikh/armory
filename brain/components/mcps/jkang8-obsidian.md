@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T06:25:27Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Provides direct vault access for file operations, full-text search, frontmatter manipulation, wikilink analysis, tag management, and daily note creation in Obsidian.

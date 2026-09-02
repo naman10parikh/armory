@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:15:43Z"
 ---
 ## What it is
 Local stdio MCP adapter exposing permission-filtered tools for FindClass backend operations, including order/refund/settlement/slot management, record search, and coupon grants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:38:36Z"
 ---
 ## What it is
 Style-aware auto-mixing and mastering for Ableton Live, providing tools for analysis, preview rendering, and release checks.

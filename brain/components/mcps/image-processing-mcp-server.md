@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-20T02:41:46Z"
 ---
 ## What it is
 Enables image processing tasks such as resizing, compressing, converting formats, cropping, and extracting metadata directly within IDEs like Cursor via the Model Context Protocol.

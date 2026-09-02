@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:31:47Z"
 ---
 ## What it is
 Enables AI-augmented software delivery through an append-only process record, with hooks for capturing decisions, session outcomes, and commit boundaries, and provides session priming with recency-based context.

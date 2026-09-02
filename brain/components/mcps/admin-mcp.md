@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T19:46:23Z"
 ---
 ## What it is
 MCP server for Odoo administration, enabling customer listing and search via connected service, resource, and tool layers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:01:43Z"
 ---
 ## What it is
 MCP server for Watermelon.ai that exposes all 13 public API endpoints as tools, enabling AI assistants to manage contacts, conversations, messages, custom fields, and webhooks.

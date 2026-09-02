@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T01:50:23Z"
 ---
 ## What it is
 Enables querying Cisco CX Assistant (production and stage) directly from Cursor using natural language, with browser-based authentication via Google Chrome.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T10:42:03Z"
 ---
 ## What it is
 Provides static analysis of ROS 2 workspaces, enabling inspection of packages, dependencies, interfaces, launch files, and robot descriptions without running ROS 2.

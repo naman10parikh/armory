@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T02:27:28Z"
 ---
 ## What it is
 MCP servers exposing security operations tools (VirusTotal, MITRE Caldera, LimaCharlie) to AI agents with defense-in-depth safety controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:04:08Z"
 ---
 ## What it is
 A production-style MCP server exposing six business tools (web search, database, CRM, email, calendar, analytics) to AI clients via a secure, authenticated interface, with mock mode and a reference agent client.

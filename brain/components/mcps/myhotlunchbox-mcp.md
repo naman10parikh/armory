@@ -8,11 +8,13 @@ source_url: https://github.com/chrischall/myhotlunchbox-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:16:05Z"
 ---
 ## What it is
 Enables reading the school lunch calendar, managing students, placing and changing orders, and tracking deliveries and payments on a My Hot Lunchbox parent account. It signs in server-side with account credentials and exposes 38 MCP tools with confirm-gated write operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:24:00Z"
 ---
 ## What it is
 Local stdio MCP bridge for managing n8n from HRJ Agent, providing read and write tools for workflows, executions, and Docker status with strong security protections.

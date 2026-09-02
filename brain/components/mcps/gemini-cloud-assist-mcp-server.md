@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-05-20T02:26:49Z"
 ---
 ## What it is
 Connects MCP clients to Gemini Cloud Assist APIs, enabling users to understand, manage, and troubleshoot their Google Cloud environment using natural language.

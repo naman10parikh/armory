@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:30:37Z"
 ---
 ## What it is
 Agent-native scored launch intelligence for Base blockchain, providing opportunity/risk scores and AVOID/WATCH/HOT decisions per fresh launch via x402 pay-per-call API. Enables trading/research agents to act directly on structured launch data.

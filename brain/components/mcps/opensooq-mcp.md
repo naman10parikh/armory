@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:20:30Z"
 ---
 ## What it is
 A read-only MCP server that gives LLM agents live access to OpenSooq, the largest classifieds marketplace in Kuwait, enabling search, pricing, seller reputation, and deal finding.

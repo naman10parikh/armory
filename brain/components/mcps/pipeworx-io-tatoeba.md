@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:45:10Z"
 ---
 ## What it is
 MCP server `Tatoeba`, catalogued on PulseMCP. Queries the Tatoeba multilingual sentence corpus across 300+ languages.

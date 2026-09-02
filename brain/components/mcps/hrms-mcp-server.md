@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:46:08Z"
 ---
 ## What it is
 An MCP server for HR management that enables adding employees, managing tickets and leaves, sending emails, and onboarding new hires via in-memory mock data.

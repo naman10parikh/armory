@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-05T10:42:12Z"
 ---
 ## What it is
 MCP server `arXiv Search`, catalogued on PulseMCP. Search and retrieve academic papers from arXiv.org by category, providing titles, authors, summaries, and links sorted by date.

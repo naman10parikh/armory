@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T13:17:27Z"
 ---
 ## What it is
 MCP server `Sayou`, catalogued on PulseMCP. Persistent file-based knowledge workspace for AI agents with versioning and search.

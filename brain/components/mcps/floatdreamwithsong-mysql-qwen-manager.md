@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-05T01:36:53Z"
 ---
 ## What it is
 MCP server `MySQL Manager (Qwen)`, catalogued on PulseMCP. Provides MySQL database management through natural language interfaces, enabling users to query, manipulate schemas, and analyze data using conversational commands instead of direct SQL.

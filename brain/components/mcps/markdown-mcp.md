@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T00:40:13Z"
 ---
 ## What it is
 Splits Markdown documents into hierarchical sections with parent-child and sibling relationships, enabling structured document access for AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T09:10:21Z"
 ---
 ## What it is
 MCP server for cross-platform mobile automation (iOS/Android) using accessibility trees and screenshots, enabling agents to interact with apps on simulators, emulators, and physical devices.

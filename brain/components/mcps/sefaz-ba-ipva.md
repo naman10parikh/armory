@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:59Z"
 ---
 ## What it is
 A hosted read-only MCP server that enables querying IPVA (vehicle property tax) information from the official SEFAZ Bahia source, with prepaid credit-based usage and no platform credentials.

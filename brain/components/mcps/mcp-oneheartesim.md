@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:22:18Z"
 ---
 ## What it is
 一心eSIM商品目錄查詢與下單服務：查詢各國eSIM上網方案的即時價格與庫存、依旅遊天數與用量推薦方案、協助建立訂單並取得LinePay或ECPay付款連結。

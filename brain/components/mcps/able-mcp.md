@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T21:16:24Z"
 ---
 ## What it is
 An MCP server for parsing and analyzing Ableton Live .als project files offline, enabling queries about tempo, tracks, clips, and MIDI data through tools like als_summary and als_list_tracks.

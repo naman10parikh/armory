@@ -8,10 +8,12 @@ source_url: https://github.com/thesethrose/alexa-shopping-list
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-14T01:09:59Z"
 ---
 ## What it is
 MCP server `Alexa Shopping List`, catalogued on PulseMCP. Connects to Amazon's Alexa shopping list backend, enabling viewing, adding, deleting, and marking items as complete or incomplete through a FastAPI bridge.

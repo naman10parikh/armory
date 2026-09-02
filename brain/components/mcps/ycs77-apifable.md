@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 10
+forks: 3
+pushed_at: "2026-08-16T12:37:07Z"
 ---
 ## What it is
 MCP server that helps AI agents explore OpenAPI specs, search endpoints, and generate TypeScript types.

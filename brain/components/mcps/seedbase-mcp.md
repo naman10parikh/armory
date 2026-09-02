@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:32:27Z"
 ---
 ## What it is
 Enables AI assistants to generate realistic, relationship-preserving test data from Seedbase projects into databases.

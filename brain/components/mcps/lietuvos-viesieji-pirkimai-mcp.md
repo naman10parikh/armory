@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:49:50Z"
 ---
 ## What it is
 Enables MCP clients to retrieve, search, and filter Lithuanian public procurement data from the official CVP IS API, returning original JSON for analysis and links to procurement searches.

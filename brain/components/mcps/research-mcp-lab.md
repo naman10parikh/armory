@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:49:48Z"
 ---
 ## What it is
 MCP server that acts as a research intelligence agent, converting natural language queries into SQL or full-text search against Hacker News and arXiv data, and returning answers with supporting evidence.

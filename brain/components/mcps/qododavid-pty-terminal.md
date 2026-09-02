@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-23T04:11:36Z"
 ---
 ## What it is
 MCP server `PTY Terminal`, catalogued on PulseMCP. Provides a stateful terminal interface for maintaining session context and executing complex, multi-step operations across multiple interactions.

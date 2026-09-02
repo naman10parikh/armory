@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-07T07:59:16Z"
 ---
 ## What it is
 Enables LLMs to query and retrieve data from Burp Suite proxy history using SQL-like syntax, aiding security researchers in efficient analysis.

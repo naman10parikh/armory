@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T19:36:30Z"
 ---
 ## What it is
 Enables querying halans.com content via search, section retrieval, full content, and summaries.

@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-11T01:39:40Z"
 ---
 ## What it is
 MCP server `Kubernetes Audit Logs`, catalogued on PulseMCP. Provides unified access to Kubernetes audit logs across Alibaba Cloud SLS, AWS CloudWatch Logs, and Google Cloud Logging with tools for listing clusters, discovering resources, and querying audit trails with flexible filtering by user, namespace, verbs, resource types, and time ranges.

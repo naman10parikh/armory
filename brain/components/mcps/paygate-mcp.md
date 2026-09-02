@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:46:39Z"
 ---
 ## What it is
 Monetization gateway for MCP servers, enabling pay-per-call AI agent access with x402 payment challenges and USDC settlement on Base. Developers can register existing MCP servers, set tool prices, and receive payments without handling payment code.

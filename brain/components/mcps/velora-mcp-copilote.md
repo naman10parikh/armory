@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:27:39Z"
 ---
 ## What it is
 Enables AI agents to assist sales advisors of the fictional e-commerce Velora by providing tools to search products, check stock, get order status, and handle returns.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:01:30Z"
 ---
 ## What it is
 Manages isolated Git worktrees for each ZCode thread, enabling safe parallel development with automatic setup, snapshot-based removal, PR review, and background agent orchestration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:45:43Z"
 ---
 ## What it is
 MCP server for personal finance via Open Finance, consolidating accounts and cards and answering spending questions with aggregated numbers. Provides tools for category spending, recurring subscriptions, budgets, card bills, and installment forecasts, with data stored locally in an encrypted SQLite 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-30T17:59:36Z"
 ---
 ## What it is
 Enables LLMs to interact with GitHub via the Model Context Protocol, providing tools for repository management and other GitHub operations.

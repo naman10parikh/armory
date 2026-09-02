@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T16:31:54Z"
 ---
 ## What it is
 Provides investigation tools for Cloudflare CCF data in Microsoft Sentinel, enabling security posture assessment, threat detection, and IP reputation analysis through customizable MCP tools.

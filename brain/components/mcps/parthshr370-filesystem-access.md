@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-19T13:39:01Z"
 ---
 ## What it is
 MCP server `Filesystem Access`, catalogued on PulseMCP. Provides direct access to local filesystem operations for reading file contents and listing directory entries through a FastMCP-powered server that supports both stdio and SSE transport modes.

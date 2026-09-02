@@ -8,10 +8,12 @@ source_url: https://github.com/axonixtools/pocketmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-15T08:50:57Z"
 ---
 ## What it is
 MCP server `Pocket Android`, catalogued on PulseMCP. Transforms Android phones into automation servers for messaging, calls, contact search, location, notifications, app control, and UI automation over local network.

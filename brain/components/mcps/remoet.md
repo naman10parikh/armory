@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:33:07Z"
 ---
 ## What it is
 Remoet turns job search into a curated agent workflow. Connect Claude, Cursor, or any MCP client, search companies by real tech stack data (not recruiter keywords), star the ones that fit, and let your agent surface fresh jobs from your shortlist. Profile, applications, digests all over MCP.

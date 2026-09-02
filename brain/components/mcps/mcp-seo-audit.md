@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T20:03:28Z"
 ---
 ## What it is
 Provides on-page SEO analysis via MCP tools, including page audits, schema extraction, robots.txt checks, sitemap parsing, and link analysis. No API keys required; works with any MCP-compatible client.

@@ -8,11 +8,13 @@ source_url: https://github.com/ovoVHV/mixly-local-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:01:38Z"
 ---
 ## What it is
 A fully local MCP server for Mixly that lets AI clients discover boards, scan blocks, build/validate/open projects, generate code, and compile via Arduino CLI—all without uploading source or relying on a remote server.

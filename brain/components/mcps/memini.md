@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:48:55Z"
 ---
 ## What it is
 Local-first project memory for AI coding agents. Records failed attempts, fragile files, and decisions per repo, and warns the agent via hooks before it repeats a recorded mistake.

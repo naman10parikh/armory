@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:31:16Z"
 ---
 ## What it is
 Unofficial MCP server for Zen Browser DevTools, enabling AI assistants to inspect and control Zen via Gecko/WebDriver BiDi

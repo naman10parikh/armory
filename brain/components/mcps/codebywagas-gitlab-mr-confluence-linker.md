@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-22T15:44:50Z"
 ---
 ## What it is
 MCP server `GitLab MR Confluence Linker`, catalogued on PulseMCP. Bridges GitLab merge requests with Confluence documentation, enabling automatic retrieval, analysis, and structured documentation of code changes without leaving your conversation interface.

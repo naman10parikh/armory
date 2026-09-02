@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T08:34:13Z"
 ---
 ## What it is
 Enables reading, writing, and deleting JSON values using dot-notation paths, with automatic creation of files and nested objects.

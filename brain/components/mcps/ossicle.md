@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:16:16Z"
 ---
 ## What it is
 MCP server that transcribes local media files and URLs via Deepgram, writing Markdown transcripts to disk with strict per-job cost ceilings and caching. It also provides a CLI and optional transcript formatting through a language model.

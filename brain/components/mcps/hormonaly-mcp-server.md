@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:40:49Z"
 ---
 ## What it is
 Enables AI agents to access 24 clinical tools for evidence synthesis, protocol lookup, and decision support in peptide, hormone, and longevity medicine.

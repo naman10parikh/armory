@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-18T17:02:29Z"
 ---
 ## What it is
 MCP server `PostgreSQL Explorer`, catalogued on PulseMCP. Provides read-only PostgreSQL database access for exploring schemas and executing safe queries, deployable via Docker or NPX for data analysis without risk of modification.

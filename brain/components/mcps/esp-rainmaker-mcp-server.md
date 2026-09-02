@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-07-15T13:45:47Z"
 ---
 ## What it is
 Enables MCP-compatible clients to interact with ESP RainMaker devices for node management, parameter control, scheduling, and group management via the official CLI.

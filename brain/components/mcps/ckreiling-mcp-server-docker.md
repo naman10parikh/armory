@@ -8,10 +8,12 @@ source_url: https://github.com/ckreiling/mcp-server-docker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 719
+stars: 742
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 99
+pushed_at: "2026-08-07T06:46:09Z"
 ---
 ## What it is
 MCP server `Docker Compose`, catalogued on PulseMCP. Manage Docker containers, bridged by the Docker SDK for Python.

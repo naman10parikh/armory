@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T21:20:08Z"
 ---
 ## What it is
 MCP server `Apple Apps`, catalogued on PulseMCP. Provides 28 read/write tools for macOS Apple applications including Notes, Reminders, Calendar, Contacts, and Safari via local stdio using SQLite and JXA.

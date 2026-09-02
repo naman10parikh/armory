@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T02:57:07Z"
 ---
 ## What it is
 MCP server `Sales Insights Agent`, catalogued on PulseMCP. Exposes dataset preview functionality through the Model Context Protocol, enabling LLM-based analysis workflows to access and analyze CSV sales data.

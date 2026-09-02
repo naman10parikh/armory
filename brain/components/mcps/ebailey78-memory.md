@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-06T19:01:58Z"
 ---
 ## What it is
 MCP server `Memory`, catalogued on PulseMCP. Provides structured memory management for project-based work through markdown file storage, enabling persistent context across chat sessions with efficient Lunr.js indexing for retrieval, updating, and relating memories.

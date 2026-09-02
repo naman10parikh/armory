@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-12T11:14:44Z"
 ---
 ## What it is
 Extracts direct download URLs for video and audio streams from various platforms, returning metadata like quality options and file sizes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:08:21Z"
 ---
 ## What it is
 MCP server for structural editing of Jupyter notebook cells (list, read, insert, edit, patch, delete, move) without kernel execution.

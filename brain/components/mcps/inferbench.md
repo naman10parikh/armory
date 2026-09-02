@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:57:57Z"
 ---
 ## What it is
 InferBench's MCP server lets coding agents run, serve and benchmark local LLMs (text + image, llama.cpp + Stable Diffusion) on your own hardware on demand — measuring real tokens/sec and picking the optimal quant for your GPU from a 124-model catalog. Local-first, no cloud required.

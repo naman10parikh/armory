@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:33:03Z"
 ---
 ## What it is
 MCP Portico is an MCP server that turns OpenAPI descriptions or inspected backend source code into policy-controlled MCP connections, exposing multiple backend systems with tenant isolation and credential security.

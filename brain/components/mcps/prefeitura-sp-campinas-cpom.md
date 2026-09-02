@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:04Z"
 ---
 ## What it is
 MCP server for consulting official Campinas city government (CPOM) data in Portuguese. Read-only, hosted service with prepaid credits, compatible with any MCP client.

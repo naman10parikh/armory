@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T23:13:59Z"
 ---
 ## What it is
 An MCP server that enables Claude to control SmartRent smart home devices such as locks, thermostats, light switches, and sensors through natural conversation.

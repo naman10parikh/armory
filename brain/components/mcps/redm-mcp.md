@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T18:36:42Z"
 ---
 ## What it is
 Enables AI agents to look up RedM/RDR3 native hashes, search documentation semantically, and access framework docs and community data for accurate coding assistance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:53:39Z"
 ---
 ## What it is
 Exposes ocrmypdf as a single tool for OCR-ing scanned PDFs, with automatic PATH handling for Tesseract and Ghostscript on Windows to ensure compatibility with Claude Desktop.

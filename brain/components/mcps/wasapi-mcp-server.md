@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T20:22:40Z"
 ---
 ## What it is
 Enables managing WhatsApp Business accounts through natural language, including sending messages, managing contacts, and querying conversations.

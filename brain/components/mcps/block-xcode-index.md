@@ -8,10 +8,12 @@ source_url: https://github.com/block/xcode-index-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-01-07T02:48:58Z"
 ---
 ## What it is
 MCP server `Xcode Index`, catalogued on PulseMCP. Provides direct access to Xcode's project index store through Apple's IndexStoreDB, enabling precise code navigation and refactoring operations on iOS/macOS projects with tools for loading project indexes, finding symbol occurrences, retrieving symbol references, and pattern-based symbol searching.

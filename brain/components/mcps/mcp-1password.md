@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:40:47Z"
 ---
 ## What it is
 An MCP server that integrates 1Password with AI agents, providing secure access to vaults and items with secrets redacted by default.

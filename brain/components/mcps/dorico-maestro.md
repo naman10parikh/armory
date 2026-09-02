@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:18:54Z"
 ---
 ## What it is
 An AI composition partner that remote-controls Steinberg Dorico through the Model Context Protocol, enabling composers to create, edit, play back, and refine musical scores using natural language.

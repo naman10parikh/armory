@@ -8,10 +8,12 @@ source_url: https://github.com/henryhaoson/yuque-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-10-31T08:32:39Z"
 ---
 ## What it is
 MCP server `Yuque`, catalogued on PulseMCP. Integrates with Yuque knowledge base platform to enable document management operations, content search, and team analytics through a flexible server deployable via Docker or locally in HTTP/CLI modes.

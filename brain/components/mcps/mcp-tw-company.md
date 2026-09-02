@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-15T05:50:03Z"
 ---
 ## What it is
 An MCP server for querying Taiwan company registry open data, enabling search by name, number, directors, business items, and branch offices.

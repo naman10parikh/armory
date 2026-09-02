@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T06:52:31Z"
 ---
 ## What it is
 Gives AI agents analyst-oriented workflows for MISP threat intelligence, including IOC search, pivot, event summarization, report generation, and controlled write proposals with safety and audit logging.

@@ -8,11 +8,13 @@ source_url: https://github.com/anil7948/cctx
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T16:29:21Z"
 ---
 ## What it is
 Enables Claude Code to reduce token usage by 70-90% using a local LLM for codebase indexing, tool output compression, and turn summarization.

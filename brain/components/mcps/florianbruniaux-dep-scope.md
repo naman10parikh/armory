@@ -8,10 +8,12 @@ source_url: https://github.com/florianbruniaux/node-dep-scope
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T13:04:31Z"
 ---
 ## What it is
 MCP server `Dep Scope`, catalogued on PulseMCP. Symbol-level npm dependency analysis with scan verdicts and native alternative suggestions.

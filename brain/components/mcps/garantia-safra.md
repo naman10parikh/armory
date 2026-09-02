@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:35:35Z"
 ---
 ## What it is
 MCP server to verify a farmer's enrollment in the Garantia Safra program using CPF and NIS, with read-only access and hosted service.

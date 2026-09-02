@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:38:16Z"
 ---
 ## What it is
 Enables AI agents to manage spa/wellness operations via Zenoti API, including appointments, guests, services, and billing.

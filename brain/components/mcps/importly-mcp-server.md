@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:02:46Z"
 ---
 ## What it is
 Enables AI agents to download, transcribe, and inspect video or audio URLs from YouTube, TikTok, X, and 1000+ other sites using server-side yt-dlp, residential proxies, and speech-to-text.

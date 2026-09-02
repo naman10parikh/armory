@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T02:56:55Z"
 ---
 ## What it is
 MCP server for generating Word documents and Google Docs with structured formatting, templates, and rich text.

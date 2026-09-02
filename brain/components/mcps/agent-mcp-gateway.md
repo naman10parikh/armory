@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:26:17Z"
 ---
 ## What it is
 Enables ChatGPT Web to securely access local files and run commands via MCP, with optional OpenCode agent mode for autonomous tasks.

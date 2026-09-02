@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:19:58Z"
 ---
 ## What it is
 Enables document merging, splitting, and info retrieval for PDF, DOCX, XLSX, PPTX, and 30+ formats via AI agents.

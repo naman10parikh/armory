@@ -12,6 +12,8 @@ stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-06-07T15:57:39Z"
 ---
 ## What it is
 MCP server `ShadowCrawl`, catalogued on PulseMCP. Stealth web scraper with human-in-the-loop fallback for bypassing Cloudflare, DataDome, and LinkedIn.

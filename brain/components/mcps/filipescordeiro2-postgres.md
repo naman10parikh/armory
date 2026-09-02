@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T00:38:26Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Read/write PostgreSQL MCP server using asyncpg and FastMCP with schema inspection, audit logging, and multiple transport modes.

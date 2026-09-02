@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T00:15:01Z"
 ---
 ## What it is
 Official MCP server for Sign Inspire's cloud digital signage platform, enabling AI agents to manage screens, deploy campaigns, and monitor real-time status via natural language.

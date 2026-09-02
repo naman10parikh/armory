@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T20:08:20Z"
 ---
 ## What it is
 MCP server `PYTHIA Oracle`, catalogued on PulseMCP. Creative problem-solving oracle that returns lateral-thinking readings via streamable HTTP with x402 micropayment support.

@@ -8,10 +8,12 @@ source_url: https://github.com/mr-house/bilibili-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T15:54:34Z"
 ---
 ## What it is
 MCP server `Bilibili`, catalogued on PulseMCP. Integrates with Bilibili's video-sharing platform to enable keyword-based searching for videos, users, and content through the bilibili-api-python library.

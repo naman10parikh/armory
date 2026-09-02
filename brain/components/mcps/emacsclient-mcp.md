@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:44:13Z"
 ---
 ## What it is
 An MCP server that provides LLMs with direct access to Emacs via its server protocol, offering 22 tools for editing, search, buffer management, and a PR review agent.

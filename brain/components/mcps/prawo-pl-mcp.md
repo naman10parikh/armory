@@ -8,11 +8,13 @@ source_url: https://github.com/matematicsolutions/prawo-pl-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:57:35Z"
 ---
 ## What it is
 Unified MCP server for Polish legal data, enabling search and retrieval across case law, legislation, company register, tax rulings, public procurement, and EU sources through four aggregated tools.

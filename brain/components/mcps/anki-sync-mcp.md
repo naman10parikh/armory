@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T19:23:13Z"
 ---
 ## What it is
 A headless, sync-native Anki MCP sidecar that lets AI agents safely manage a real Anki collection without Anki Desktop or AnkiConnect, supporting sync with AnkiWeb or self-hosted servers.

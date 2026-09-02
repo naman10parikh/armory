@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:23Z"
 ---
 ## What it is
 MCP server for querying Brazilian Labor Court (TRT) legal proceedings from official sources, offering a read-only tool for unified procedural consultation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:43:43Z"
 ---
 ## What it is
 A local-first MCP server that enables MCP hosts to use GLM-family LLM providers for knowledge consultation, reasoning, UI auditing, repository inspection, and approval-gated development assistance.

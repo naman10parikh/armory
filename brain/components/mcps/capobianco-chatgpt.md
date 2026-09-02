@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-07T12:45:17Z"
 ---
 ## What it is
 MCP server `ChatGPT (OpenAI GPT-4o)`, catalogued on PulseMCP. Integrates with OpenAI's GPT-4o model to provide text analysis, summarization, and generation capabilities through a simple API for scenarios requiring complex processing beyond primary capabilities.

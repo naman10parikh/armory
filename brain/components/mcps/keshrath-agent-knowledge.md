@@ -8,10 +8,12 @@ source_url: https://github.com/keshrath/agent-knowledge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-21T08:08:12Z"
 ---
 ## What it is
 MCP server `Agent Knowledge`, catalogued on PulseMCP. Cross-session memory for AI agents with knowledge graph, scoring, and semantic search.

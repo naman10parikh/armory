@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:45:29Z"
 ---
 ## What it is
 Enables querying the Brazilian Federal Revenue registration status of an individual using CPF and birth date, with a read-only MCP tool accessible from various AI clients.

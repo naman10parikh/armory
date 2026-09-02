@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T11:59:35Z"
 ---
 ## What it is
 Automates three core workflows for Sangfor Engineer: project all-in-one (Excel to guide to validation to report), equipment health check, and Obsidian wiki integration.

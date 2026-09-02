@@ -8,10 +8,12 @@ source_url: https://github.com/abhishekjairath/sonic-pi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-22T13:49:25Z"
 ---
 ## What it is
 MCP server `Sonic Pi`, catalogued on PulseMCP. Enables music creation and sound manipulation through Sonic Pi by sending OSC messages for playing notes with customizable synth parameters and executing arbitrary code.

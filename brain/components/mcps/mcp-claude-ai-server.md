@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T09:48:34Z"
 ---
 ## What it is
 Enables AI-assisted 3D scene manipulation in Cinema 4D via natural language, using an MCP server that communicates with a C4D plugin.

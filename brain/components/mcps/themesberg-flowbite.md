@@ -8,10 +8,12 @@ source_url: https://github.com/themesberg/flowbite-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-04T17:45:37Z"
 ---
 ## What it is
 MCP server `Flowbite`, catalogued on PulseMCP. Access to 60+ Tailwind CSS UI components and AI-powered theme generation

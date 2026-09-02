@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 72
+stars: 73
+forks: 27
+pushed_at: "2026-03-06T07:29:55Z"
 ---
 ## What it is
 Atlassian Jira Cloud integration. Enables AI systems to interact with Jira projects, issues, comments, and related development information in real time.

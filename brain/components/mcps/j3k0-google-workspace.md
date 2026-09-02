@@ -8,10 +8,12 @@ source_url: https://github.com/j3k0/mcp-google-workspace
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-06-12T15:02:09Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Integrates Google Workspace APIs to enable tasks like sending emails, scheduling meetings, and managing documents in Gmail, Calendar, and Drive.

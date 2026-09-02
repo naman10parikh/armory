@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T22:23:51Z"
 ---
 ## What it is
 Provides tools to read, search, and get recommendations for AWS documentation pages, with support for both global and China regions.

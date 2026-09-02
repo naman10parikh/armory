@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:55:47Z"
 ---
 ## What it is
 Enables AI assistants to perform IP geolocation, proxy detection, and domain WHOIS lookups using IP2Location.io and IP2WHOIS data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T07:42:38Z"
 ---
 ## What it is
 Tracks uncertain values stated by the user and blocks model writes that embed unverified values until confirmed.

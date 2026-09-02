@@ -8,10 +8,12 @@ source_url: https://github.com/yuliiakovalova/dotnet-template-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-21T16:17:19Z"
 ---
 ## What it is
 MCP server `.NET Template Engine`, catalogued on PulseMCP. Search, inspect, preview, and create .NET projects from dotnet new templates.

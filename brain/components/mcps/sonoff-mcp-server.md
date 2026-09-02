@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:02:23Z"
 ---
 ## What it is
 Enables AI agents to control Sonoff smart-home devices through the eWelink Cloud API, with tools for device listing, switching, thermostat control, and sensor data retrieval.

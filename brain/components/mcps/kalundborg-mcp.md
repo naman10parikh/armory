@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-03T12:07:17Z"
 ---
 ## What it is
 MCP server for Kalundborg Kommune, enabling search of content, news, popular pages, contact info, and services from kalundborg.dk.

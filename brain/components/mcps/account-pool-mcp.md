@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:34:45Z"
 ---
 ## What it is
 An MCP server that manages a pool of test accounts, leasing them out one at a time to prevent concurrent session collisions, with automatic reclamation of expired leases.

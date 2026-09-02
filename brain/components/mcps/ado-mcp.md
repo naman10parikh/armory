@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-31T14:03:06Z"
 ---
 ## What it is
 An MCP server that provides Azure DevOps integration for AI assistants, enabling them to list projects, run pipelines, analyze failures, view logs, and troubleshoot builds directly from chat interfaces.

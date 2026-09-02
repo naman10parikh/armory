@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T01:21:48Z"
 ---
 ## What it is
 A persistent context layer for Claude that automatically remembers project status, decisions, and next actions across sessions, eliminating the need to re-explain context.

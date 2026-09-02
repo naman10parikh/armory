@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:37:43Z"
 ---
 ## What it is
 MCP server for local image generation using FLUX.2 via Hugging Face diffusers, designed to run on a Windows GPU and be called remotely by Claude Cowork over Tailscale.

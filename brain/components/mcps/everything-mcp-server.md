@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-30T21:48:24Z"
 ---
 ## What it is
 Enables instant file searches on Windows using Everything's native SDK, supporting advanced filters, duplicate detection, and content search through MCP tools.

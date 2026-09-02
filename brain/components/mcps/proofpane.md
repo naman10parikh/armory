@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:41:33Z"
 ---
 ## What it is
 A governance proxy for AI tools — every MCP/agent tool call is policy-gated, secret-redacted, and written to a hash-chained, offline-verifiable audit trail.

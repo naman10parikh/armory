@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:01:12Z"
 ---
 ## What it is
 MCP server that equips AI agents with BSV-specific development tools including static analysis, pitfall prediction, and BSC error diagnosis to produce correct Bluespec code with fewer compile failures.

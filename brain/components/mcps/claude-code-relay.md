@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T05:25:32Z"
 ---
 ## What it is
 Relay messages between Claude Code sessions over MCP without stealing window focus, enabling background communication between parallel sessions.

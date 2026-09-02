@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-21T15:54:26Z"
 ---
 ## What it is
 Enables LLMs to execute shell commands and perform file operations on a Linux system, exposing tools like execute_command, read_file, write_file, and more.

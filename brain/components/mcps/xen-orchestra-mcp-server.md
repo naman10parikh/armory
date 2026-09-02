@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T11:58:32Z"
 ---
 ## What it is
 Enables management of Xen Orchestra (XOA) via its REST API, including listing VMs, backup jobs, logs, and repositories.

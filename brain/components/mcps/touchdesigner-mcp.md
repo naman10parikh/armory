@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:34:47Z"
 ---
 ## What it is
 MCP server that lets Claude drive a running TouchDesigner instance to create operators, wire them, set parameters, run arbitrary Python, and introspect the td API.

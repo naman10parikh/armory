@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-10T08:56:40Z"
 ---
 ## What it is
 MCP server `Code RAG`, catalogued on PulseMCP. Provides semantic code search and similarity matching using vector embeddings and Qdrant database integration with support for multiple programming languages and incremental indexing via git hooks.

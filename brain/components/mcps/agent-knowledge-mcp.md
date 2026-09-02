@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T06:54:34Z"
 ---
 ## What it is
 Complete knowledge management for AI assistants with Elasticsearch search and document management.

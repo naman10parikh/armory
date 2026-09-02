@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:02:44Z"
 ---
 ## What it is
 User-owned portable memory vault as an MCP server: agents can fetch context, search entries, and propose new memories, while humans curate the vault via a web app.

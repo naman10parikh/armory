@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-24T20:06:49Z"
 ---
 ## What it is
 Provides resources, tools, and prompts for a Design System via MCP protocol, enabling component search, reading, and related component discovery.

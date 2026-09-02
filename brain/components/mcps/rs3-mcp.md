@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T03:11:44Z"
 ---
 ## What it is
 Enables AI agents to interact with RuneScape 3 and OSRS ecosystems through tools for Grand Exchange prices, player stats, and server data.

@@ -8,10 +8,12 @@ source_url: https://github.com/hypothesi/mcp-server-tauri
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 296
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 38
+pushed_at: "2026-08-28T22:52:12Z"
 ---
 ## What it is
 MCP server `Tauri`, catalogued on PulseMCP. Integrates with Tauri v2 applications during development

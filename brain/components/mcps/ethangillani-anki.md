@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T03:14:49Z"
 ---
 ## What it is
 MCP server `Anki`, catalogued on PulseMCP. Enables AI models to interact directly with Anki flashcard software through the AnkiConnect API, providing tools to create, search, and manage decks and notes for learners and educators.

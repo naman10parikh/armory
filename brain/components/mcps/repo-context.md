@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:08:34Z"
 ---
 ## What it is
 Read-only repository context explorer for coding agents. Provides repository exploration tools via CLI or MCP adapter.

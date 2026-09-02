@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:28:43Z"
 ---
 ## What it is
 A graph layout server that computes node coordinates and edge paths from structure using elkjs, enabling agents to offload layout calculations without rendering.

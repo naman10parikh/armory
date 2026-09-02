@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-23T11:55:46Z"
 ---
 ## What it is
 MCP server `Fal.ai Video Generator`, catalogued on PulseMCP. Provides a bridge to fal.ai's video generation models, enabling creation of customized videos from text prompts and images with adjustable parameters like aspect ratio, resolution, and duration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T01:37:42Z"
 ---
 ## What it is
 SSH orchestration MCP server for coding agents, enabling persistent bash sessions, hash-protected remote file editing, SFTP transfers, SSH tunnels, and multi-host orchestration with connection reuse across tools.

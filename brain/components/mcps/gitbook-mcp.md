@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:32:41Z"
 ---
 ## What it is
 A Model Context Protocol server for GitBook that enables reading content and driving a change-request write workflow.

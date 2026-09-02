@@ -8,11 +8,13 @@ source_url: https://github.com/Pactortester/figma-mcp-cached
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 75
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-27T09:33:52Z"
 ---
 ## What it is
 Enables interaction with Figma design files with local caching to reduce API requests and rate limits, allowing faster and more reliable retrieval of design data for AI tools.

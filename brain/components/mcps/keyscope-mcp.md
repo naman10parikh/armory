@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T04:43:09Z"
 ---
 ## What it is
 AI-native oscilloscope control. A pure-Python MCP service that lets LLM agents control Keysight EDUX1052G oscilloscopes via a compact DSL.

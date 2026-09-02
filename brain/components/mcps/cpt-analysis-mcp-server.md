@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T19:19:22Z"
 ---
 ## What it is
 Connects Claude Desktop to a healthcare claims database for natural-language analysis of CPT codes, reimbursement rates, payer performance, and denial patterns.

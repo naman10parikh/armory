@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:44:28Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop to browse, search, and retrieve archived topics from a private knowledge planet via a secure API.

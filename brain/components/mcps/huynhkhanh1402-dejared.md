@@ -8,10 +8,12 @@ source_url: https://github.com/hqkh4nh/dejared-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T17:40:37Z"
 ---
 ## What it is
 MCP server `DeJared`, catalogued on PulseMCP. Explore, analyze, and decompile Java JAR files using MCP tools.

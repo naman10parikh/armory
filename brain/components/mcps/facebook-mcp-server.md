@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2025-04-14T06:50:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server implementation that provides Facebook Page interaction and management capabilities. This server enables automated posting, comment moderation, and content retrieval.

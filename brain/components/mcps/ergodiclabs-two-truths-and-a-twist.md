@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-09T23:47:12Z"
 ---
 ## What it is
 MCP server `Two Truths and a Twist`, catalogued on PulseMCP. Hosts an interactive 'Two Truths and a Twist' trivia game that manages rounds, tracks player scores, and provides tools for creating trivia content, submitting guesses, and revealing answers with explanations.

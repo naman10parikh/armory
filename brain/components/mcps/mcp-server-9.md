@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T23:16:27Z"
 ---
 ## What it is
 A secure Model Context Protocol server providing HTTP endpoints for AI agent tool execution, including file system operations, shell commands, and LLM-based code generation.

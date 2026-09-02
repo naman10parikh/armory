@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T09:43:29Z"
 ---
 ## What it is
 Paid remote MCP for generating trustworthy code run receipts, scope summaries, missing evidence checks, and client handoff exports.

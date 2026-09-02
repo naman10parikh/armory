@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T04:18:24Z"
 ---
 ## What it is
 A deterministic SVG perception tool for LLM agents that renders SVGs in a real browser to measure geometry, colors, and spatial constraints, reporting results in grid grammar and W3C color names without guessing.

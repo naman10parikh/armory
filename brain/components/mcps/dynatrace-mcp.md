@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 66
+pushed_at: "2025-04-29T10:49:16Z"
 ---
 ## What it is
 This remote MCP server allows interaction with the Dynatrace observability platform. Bring real-time observability data directly into your development workflow.

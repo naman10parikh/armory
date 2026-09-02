@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T17:32:07Z"
 ---
 ## What it is
 MCP server that exposes Elephant Accountability's audit tiers, EVI v0.9 methodology, fit assessment, proof points, and agent-initiated audit requests to AI agents.

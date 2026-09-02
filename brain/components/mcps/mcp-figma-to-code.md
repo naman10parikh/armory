@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T07:13:06Z"
 ---
 ## What it is
 Transform Figma designs into pixel-perfect React + Tailwind components using the Model Context Protocol.

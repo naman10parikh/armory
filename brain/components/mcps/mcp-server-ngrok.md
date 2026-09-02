@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T08:26:58Z"
 ---
 ## What it is
 Exposes a local MCP server via ngrok with SSE and Streamable HTTP transports for use in Kiro Web.

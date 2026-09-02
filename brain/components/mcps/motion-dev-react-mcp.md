@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T12:24:04Z"
 ---
 ## What it is
 MCP server providing 33 verified Motion for React APIs with correct imports and defaults, enabling AI assistants to generate accurate animation code.

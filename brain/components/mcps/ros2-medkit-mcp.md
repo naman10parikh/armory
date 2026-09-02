@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:16:01Z"
 ---
 ## What it is
 A thin MCP adapter that connects an LLM to the ros2_medkit SOVD HTTP API, enabling discovery, data retrieval, operation execution, and configuration management for ROS 2 systems.

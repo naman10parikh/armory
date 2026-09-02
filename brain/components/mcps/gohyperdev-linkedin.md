@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T02:22:18Z"
 ---
 ## What it is
 MCP server `LinkedIn (gohyperdev)`, catalogued on PulseMCP. Publish text posts, link shares, and image/video uploads to LinkedIn directly from AI agents, built in Rust.

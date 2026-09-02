@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:57:47Z"
 ---
 ## What it is
 Provides governed, deterministic SQL tools over DuckDB for querying sales pipeline data, returning verified results with full source traces. Enables trustworthy natural-language queries about Q1 2026 sales data.

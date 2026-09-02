@@ -8,10 +8,12 @@ source_url: https://github.com/cubedevinc/cube-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-14T01:56:52Z"
 ---
 ## What it is
 MCP server `Cube`, catalogued on PulseMCP. Integrates with Cube's analytics platform to enable conversational data exploration, SQL generation, and business metric analysis.

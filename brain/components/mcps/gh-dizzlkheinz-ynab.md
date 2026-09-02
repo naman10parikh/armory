@@ -8,10 +8,12 @@ source_url: https://github.com/dizzlkheinz/ynab-mcpb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-29T16:43:59Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. You Need A Budget integration for budgets, accounts, transactions, and categories.

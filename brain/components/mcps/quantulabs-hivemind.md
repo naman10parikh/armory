@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T08:03:27Z"
 ---
 ## What it is
 MCP server `Hivemind`, catalogued on PulseMCP. Query multiple AI models (OpenAI, Anthropic, Google) for consensus responses.

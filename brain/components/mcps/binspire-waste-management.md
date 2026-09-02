@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-24T06:00:22Z"
 ---
 ## What it is
 MCP server `Binspire Waste Management`, catalogued on PulseMCP. Connects to PostgreSQL-based waste management systems to enable tracking of trashbin collections, audit management, issue monitoring, and operational history across organizations.

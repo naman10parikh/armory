@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:26:32Z"
 ---
 ## What it is
 Turns saved X posts and long-form articles into a private, searchable context base accessible via MCP. Lets coding agents import, search, read, and enrich the library using the user's existing browser session.

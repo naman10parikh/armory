@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:19:49Z"
 ---
 ## What it is
 Enables navigating an Orthanc PACS, extracting PDF reports, and running nerve segmentation on ultrasound DICOM instances, with results uploaded back as new series.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T00:21:20Z"
 ---
 ## What it is
 AI-native project management server for coding agents, offering 60 tools for tasks, releases, epics, cycles, docs, and ideas with caching and agent memory.

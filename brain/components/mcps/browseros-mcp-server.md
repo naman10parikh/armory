@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T04:06:24Z"
 ---
 ## What it is
 Embeds an MCP server in a Chromium browser to drive real authenticated browsing sessions, with 23 unified automation tools and 40+ SaaS integrations.

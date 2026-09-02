@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:17:24Z"
 ---
 ## What it is
 An MCP server that exposes Google Play Console analytics to AI agents, including store-listing acquisitions by traffic source, installs, uninstalls, ratings, crashes, subscriptions, and reviews by reading bulk CSV reports from Cloud Storage.

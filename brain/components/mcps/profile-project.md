@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:57:44Z"
 ---
 ## What it is
 A self-contained Claude Code plugin that profiles a project by running a fixed DAG to emit agent-facing context pages, a human/developer guide, and a queryable vectorstore.

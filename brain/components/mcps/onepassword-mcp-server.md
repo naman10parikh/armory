@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-14T03:37:28Z"
 ---
 ## What it is
 Enables secure retrieval of credentials from 1Password vaults for use by AI agents, supporting integration with browser automation for automated login.

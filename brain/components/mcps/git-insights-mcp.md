@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:46:20Z"
 ---
 ## What it is
 A local-only MCP server that exposes git repository history, diffs, and status as tools for LLM clients, working entirely against a local git repo on disk.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:42Z"
 ---
 ## What it is
 MCP server `Hive Insurance Broker`, catalogued on PulseMCP. Discovers and quotes DeFi insurance coverage from Nexus Mutual, Sherlock, Risk Harbor, and InsurAce via three broker tools.

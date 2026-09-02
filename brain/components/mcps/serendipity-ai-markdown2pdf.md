@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-10T12:05:40Z"
 ---
 ## What it is
 MCP server `Markdown to PDF`, catalogued on PulseMCP. Converts Markdown documents to PDF format using Lightning Network micropayments, handling payment flows with QR codes and returning downloadable PDF URLs for pay-per-use document conversion.

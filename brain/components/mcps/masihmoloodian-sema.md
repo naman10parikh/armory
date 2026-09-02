@@ -8,10 +8,12 @@ source_url: https://github.com/masihmoloodian/sema
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-31T11:36:29Z"
 ---
 ## What it is
 MCP server `Sema`, catalogued on PulseMCP. Local semantic code indexer that enables Claude Code to search codebases instead of exploring them, reducing token consumption by up to 10x.

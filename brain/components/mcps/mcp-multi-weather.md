@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-31T16:24:51Z"
 ---
 ## What it is
 MCP server for checking historical weather data for cities using OpenWeather API. Exposes a get_historical_weather tool.

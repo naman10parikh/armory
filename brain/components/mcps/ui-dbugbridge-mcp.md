@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:05:30Z"
 ---
 ## What it is
 Enables UI debugging on physical iOS devices by bridging to an in-app DebugBridge HTTP service, supporting UI inspection, element interaction, log retrieval, and runtime validation.

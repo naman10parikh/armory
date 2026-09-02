@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-02T13:50:01Z"
 ---
 ## What it is
 MCP server for FOLIO, the Federated Open Legal Information Ontology. Makes the full ontology available to AI agents as searchable, browsable tools.

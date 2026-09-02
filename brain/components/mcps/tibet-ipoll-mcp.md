@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T13:15:42Z"
 ---
 ## What it is
 MCP server for AI-to-AI messaging on the AInternet with TIBET provenance. Enables sending, receiving, and resolving messages between AI agents using .aint domains.

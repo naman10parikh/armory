@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:42:36Z"
 ---
 ## What it is
 Unified MCP tool gateway for agents to access WebPilot browser tools and other backend capabilities via an Electron tray application.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-11T16:41:19Z"
 ---
 ## What it is
 MCP server `Job & Stock Analysis (NSE)`, catalogued on PulseMCP. Combines job search capabilities with NSE stock market analysis using web scraping and multi-agent workflows to provide job finding tools and Indian stock trading recommendations with price predictions.

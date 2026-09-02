@@ -8,10 +8,12 @@ source_url: https://github.com/flowllm-ai/finance-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-11T10:14:50Z"
 ---
 ## What it is
 MCP server `Finance`, catalogued on PulseMCP. Orchestrates multi-step financial research workflows by combining web search, data scraping, and market APIs to automatically extract security codes from natural language queries and generate comprehensive investment analysis reports.

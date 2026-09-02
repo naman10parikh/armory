@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T12:44:13Z"
 ---
 ## What it is
 Token-efficient MCP reimplementation with progressive tool discovery, result handling, and compact wire encoding, reducing token usage by up to 89% on tool definitions.

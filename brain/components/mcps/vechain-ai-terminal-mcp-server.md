@@ -8,11 +8,13 @@ source_url: https://github.com/VeChain-AI-Terminal/vechain-terminal-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T01:27:17Z"
 ---
 ## What it is
 Enables Claude Desktop to interact with the VeChain blockchain through natural language commands for token transfers, DEX trading, cross-chain bridges, NFT management, and VeBetter DAO operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:30:40Z"
 ---
 ## What it is
 Starts a server exposing a crosscheck tool to render-verify generated SQL or regex artifacts before trusting the result.

@@ -8,10 +8,12 @@ source_url: https://github.com/nantobv/pituitary
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-20T07:09:58Z"
 ---
 ## What it is
 MCP server `Pituitary`, catalogued on PulseMCP. Detects spec drift by indexing specs, docs, and decision records to find overlaps, contradictions, and stale documentation.

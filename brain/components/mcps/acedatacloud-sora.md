@@ -8,10 +8,12 @@ source_url: https://github.com/acedatacloud/soramcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T10:39:51Z"
 ---
 ## What it is
 MCP server `AceDataCloud Sora`, catalogued on PulseMCP. OpenAI Sora AI video generation through the AceDataCloud API platform.

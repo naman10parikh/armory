@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:17:00Z"
 ---
 ## What it is
 A local-first MCP server that scores your codebase's Build Readiness by reading code and running tests on your machine, outputting a diligence-grade score and risk register without uploading your source.

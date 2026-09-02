@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:58:03Z"
 ---
 ## What it is
 Enables access to Slovak legislation from the Collection of Laws via static.slov-lex.sk. Supports listing consolidated versions, retrieving act metadata, and fetching full text with verifiable citations.

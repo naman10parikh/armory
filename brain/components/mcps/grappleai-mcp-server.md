@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T19:03:19Z"
 ---
 ## What it is
 Enables AI-powered consumer dispute resolution by providing tools for secure evidence storage with confidence scoring, autonomous negotiation, formal dispute notice generation, and consumer rights verification under the Consumer Protection Act.

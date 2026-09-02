@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:57:37Z"
 ---
 ## What it is
 MCP server for node-admin operations on an Alby Hub Lightning node via its HTTP API: node info, balances, channels, and sub-wallet apps, with write operations gated behind safety knobs. A generic proxy_request tool covers any endpoint the typed wrappers don't expose.

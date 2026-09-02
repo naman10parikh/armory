@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:19:41Z"
 ---
 ## What it is
 Payments for AI agents. A Stripe-style MCP server for Moyasar — Saudi Arabia's payment gateway — that lets Claude create payment links, check transactions, and issue refunds in plain Arabic or English.

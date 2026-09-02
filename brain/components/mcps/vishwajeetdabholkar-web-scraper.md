@@ -8,10 +8,12 @@ source_url: https://github.com/vishwajeetdabholkar/eget_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-08T17:52:02Z"
 ---
 ## What it is
 MCP server `Web Scraper`, catalogued on PulseMCP. Connects Claude Desktop to a local web scraper for retrieving and processing website content in markdown format with flexible options for user agent simulation and custom headers.

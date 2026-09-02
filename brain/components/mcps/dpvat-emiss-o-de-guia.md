@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:53Z"
 ---
 ## What it is
 Read-only MCP server for querying DPVAT (Brazilian insurance) guide issuance information from an official source. It provides a single tool that allows users to consult DPVAT guide data via natural language in any MCP-compatible client.

@@ -8,10 +8,12 @@ source_url: https://github.com/davidlin2k/onos-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-09T02:26:15Z"
 ---
 ## What it is
 MCP server `ONOS`, catalogued on PulseMCP. Enables network management and control for ONOS by providing comprehensive REST API access to network topology, device configuration, flow management, and system diagnostics for software-defined networking research and prototyping.

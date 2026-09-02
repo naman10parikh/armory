@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T15:37:51Z"
 ---
 ## What it is
 AI-powered infrastructure monitoring and management for Claude and other MCP clients, enabling natural language queries for service health, incidents, predictions, root cause analysis, and deploy safety.

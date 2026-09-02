@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T23:22:31Z"
 ---
 ## What it is
 Enables AI models to perform file operations, user management, automations, and more within Files.com's secure file transfer platform via the Model Context Protocol.

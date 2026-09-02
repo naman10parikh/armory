@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:40:42Z"
 ---
 ## What it is
 A local MCP connector that lets Claude read, write and search any Obsidian vault directly from disk.

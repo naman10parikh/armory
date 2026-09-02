@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:19:31Z"
 ---
 ## What it is
 Enables AI assistants to search for flights, book them, check booking status, and cancel bookings using mock flight data with no API keys required.

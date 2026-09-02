@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:13:45Z"
 ---
 ## What it is
 Enables Claude to pull exact YouTube creator stats (subscribers, views, engagement) and discover new creators, then write them into a Notion Influencers roster.

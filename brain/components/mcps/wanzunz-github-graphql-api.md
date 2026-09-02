@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-12T10:24:51Z"
 ---
 ## What it is
 MCP server `GitHub GraphQL API`, catalogued on PulseMCP. Provides direct access to GitHub's GraphQL API for querying repositories, issues, pull requests, and schema documentation with secure authentication through environment variables.

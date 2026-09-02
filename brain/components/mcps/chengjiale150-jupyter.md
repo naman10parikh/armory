@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-01T05:47:34Z"
 ---
 ## What it is
 MCP server `Jupyter Notebook`, catalogued on PulseMCP. Enables AI-driven management and execution of Jupyter notebooks with multi-notebook support

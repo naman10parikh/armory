@@ -8,11 +8,13 @@ source_url: https://github.com/mrsunglasses-experiments/hedgedoc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-16T14:58:19Z"
 ---
 ## What it is
 MCP server for interacting with self-hosted HedgeDoc 1.x, enabling AI agents to create, read, update, and manage notes via session-cookie authentication with automatic re-login.

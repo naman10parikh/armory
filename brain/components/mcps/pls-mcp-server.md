@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T01:33:06Z"
 ---
 ## What it is
 一个用于PLS电子围栏人员定位系统的MCP服务器，允许AI助手通过18个只读工具查询标签列表、实时位置、人员、告警记录等定位系统数据。

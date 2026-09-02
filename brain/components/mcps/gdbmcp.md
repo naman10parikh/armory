@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:37:12Z"
 ---
 ## What it is
 Attaches to a running C++ process and exposes tools to inspect live memory via a resident GDB subprocess, enabling LLMs to read fields, follow pointers, and access STL containers without modifying target code.

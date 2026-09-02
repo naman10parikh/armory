@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:28:38Z"
 ---
 ## What it is
 Enables users to ask questions about Neo4j, Cypher, GraphRAG, and ontology engineering, providing answers grounded in official Neo4j documentation with citations.

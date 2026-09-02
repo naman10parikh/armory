@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:46:17Z"
 ---
 ## What it is
 Enables Claude to control a Roborock vacuum via natural language, supporting commands like start, pause, dock, get status, and clean specific rooms.

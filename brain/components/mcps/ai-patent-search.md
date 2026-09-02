@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T04:15:39Z"
 ---
 ## What it is
 MCP server for the AI Patent Search Generator — 11 tools for patent intelligence: dossier (claims, citations, family, classifications, examiner stats), prosecution (USPTO file wrappers), oa_analyze (AI Office Action analysis), search/query (Google Patents multi-strategy), similar, citations, family,

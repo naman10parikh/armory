@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T17:25:14Z"
 ---
 ## What it is
 A professional chart generation MCP server for Claude Code. Drop a charts-theme.json into any project and Claude can generate beautiful, on-brand charts output as slide-ready PNG and SVG files — fully local, no API keys required.

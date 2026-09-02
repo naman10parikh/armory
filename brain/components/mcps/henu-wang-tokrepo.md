@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T07:45:24Z"
 ---
 ## What it is
 MCP server `TokRepo`, catalogued on PulseMCP. Searches and installs AI skills, prompts, MCP configs, and workflows from TokRepo.

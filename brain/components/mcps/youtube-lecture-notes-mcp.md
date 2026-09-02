@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T01:40:45Z"
 ---
 ## What it is
 Automatically extracts subtitles, captures screenshots at specified timestamps, and generates structured Obsidian markdown notes from YouTube videos using Claude AI.

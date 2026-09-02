@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T14:45:55Z"
 ---
 ## What it is
 An MCP server that integrates AI assistants with the Flickr API, enabling management of photos, albums, groups, and contacts via natural language commands.

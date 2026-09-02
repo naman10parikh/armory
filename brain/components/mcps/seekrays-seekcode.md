@@ -8,10 +8,12 @@ source_url: https://github.com/seekrays/seekcode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-08T16:59:37Z"
 ---
 ## What it is
 MCP server `SeekCode`, catalogued on PulseMCP. Code snippet and clipboard management tool designed for developers

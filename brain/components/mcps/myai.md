@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T01:37:22Z"
 ---
 ## What it is
 MCP server `MyAI`, catalogued on PulseMCP. Decentralized AI inference on Base with OpenAI-compatible chat via community GPUs, paid in MYAI token.

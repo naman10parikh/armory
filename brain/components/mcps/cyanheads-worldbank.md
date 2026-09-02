@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/worldbank-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T07:06:31Z"
 ---
 ## What it is
 MCP server `World Bank`, catalogued on PulseMCP. Query 29,500+ World Bank development indicators for 200+ countries across 60+ years.

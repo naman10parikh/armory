@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T07:54:12Z"
 ---
 ## What it is
 Scans generated JavaScript/TypeScript code to detect AI-hallucinated or suspicious npm package imports before installation, providing a verdict of CLEAN, REVIEW, or BLOCK.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T15:48:02Z"
 ---
 ## What it is
 Enables sending, reading, searching, and managing SMS/RCS messages through Google Messages web interface, requiring a persistent browser session paired with a phone.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-04T16:37:56Z"
 ---
 ## What it is
 A Model Context Protocol implementation for managing context, prompts, and model interactions in Meetup applications.

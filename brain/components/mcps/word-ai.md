@@ -8,11 +8,13 @@ source_url: https://github.com/flyfish-dev/word-ai
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-17T10:08:08Z"
 ---
 ## What it is
 Structure-preserving Word DOCX editing MCP server with a .NET Open XML backend and Office.js live sessions. Enables safe, auditable, incremental editing of Microsoft Word documents for AI agents.

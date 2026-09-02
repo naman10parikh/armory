@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:59:03Z"
 ---
 ## What it is
 Local speech transcription MCP server using faster-whisper. Supports transcription, translation to English, and output in JSON, text, SRT, and VTT formats.

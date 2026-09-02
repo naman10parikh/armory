@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T02:28:40Z"
 ---
 ## What it is
 Enables AI assistants to directly control the Cocos Creator game editor via MCP protocol, supporting scene management, node manipulation, component attachment, and asset management.

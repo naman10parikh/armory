@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:44Z"
 ---
 ## What it is
 Connects to Malaysia's OpenDOSM open data API via Pipeworx, enabling access to official statistics through MCP tools or natural language queries.

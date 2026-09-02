@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T20:57:53Z"
 ---
 ## What it is
 A Model Context Protocol server for ad-hoc UI testing of Android and iOS apps, enabling LLM agents to interact with mobile app UIs and react to observations.

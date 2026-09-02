@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:03:38Z"
 ---
 ## What it is
 MCP server for the Housecall Pro API, letting AI assistants read and write Housecall Pro data—customers, jobs, invoices, estimates, scheduling, and more—through natural language.

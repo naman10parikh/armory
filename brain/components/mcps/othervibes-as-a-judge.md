@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-15T09:36:28Z"
 ---
 ## What it is
 MCP server `as-a-judge`, catalogued on PulseMCP. Behavioral MCP that strengthens AI coding assistants via explicit LLM evaluations

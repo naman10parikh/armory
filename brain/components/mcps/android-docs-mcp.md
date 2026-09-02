@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-14T15:35:13Z"
 ---
 ## What it is
 An MCP server that gives AI agents direct access to developer.android.com — search docs, look up API references, browse packages, and check release notes.

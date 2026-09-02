@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T18:56:02Z"
 ---
 ## What it is
 MCP server `Giskard Memory`, catalogued on PulseMCP. Pay-per-use semantic memory for AI agents with SHA256 commitment and Lightning payments.

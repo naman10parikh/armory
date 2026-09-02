@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-16T17:26:48Z"
 ---
 ## What it is
 MCP server `Enterprise Printer Database`, catalogued on PulseMCP. Provides enterprise printer information and tools for sales teams conducting product research, service technicians performing diagnostics, and IT departments evaluating fleet deployments across major manufacturers including HP, Canon, Kyocera, Konica Minolta, Sharp, Lexmark, Ricoh, Brother, and Epson with search, comparison, TCO calculations, troubleshooting, and configuration capabilities.

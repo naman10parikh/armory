@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:03:01Z"
 ---
 ## What it is
 MeloPulse is an offline-first playlist recommender for coding sessions, exposing MCP tools to recommend playlists, add playlist links, list local catalogue entries, and sync the MeloLab public catalogue.

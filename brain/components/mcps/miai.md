@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:50:45Z"
 ---
 ## What it is
 Open-source gateway for validated AI answers, serving scaffolds and cached responses via OpenMatch, with REST API and MCP support.

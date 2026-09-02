@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-23T12:25:59Z"
 ---
 ## What it is
 Provides natural language inference (NLI) capabilities via the Model Context Protocol, allowing AI agents to verify factual consistency and detect contradictions in text.

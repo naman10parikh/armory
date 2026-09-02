@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T10:18:55Z"
 ---
 ## What it is
 Provides structured instructions to Cursor for generating comprehensive system summaries of Node.js/TypeScript codebases.

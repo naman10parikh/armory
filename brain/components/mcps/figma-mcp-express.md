@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-11T01:56:21Z"
 ---
 ## What it is
 Fast, quota-free Figma automation for coding agents, enabling AI agents to read, edit, migrate, audit, screenshot, and prototype inside Figma Desktop files.

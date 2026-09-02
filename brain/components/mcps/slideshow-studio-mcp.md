@@ -8,11 +8,13 @@ source_url: https://github.com/Nicopradas/slideshow-studio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:24:53Z"
 ---
 ## What it is
 Replicate viral TikTok slideshows in your niche by talking to your agent. It generates images locally or via API and assembles the final result.

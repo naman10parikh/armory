@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:40:10Z"
 ---
 ## What it is
 MCP server `Deepfake Detector`, catalogued on PulseMCP. Tools for detecting AI-generated synthetic media and deepfake content.

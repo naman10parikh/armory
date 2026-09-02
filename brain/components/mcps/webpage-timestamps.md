@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-08T02:27:08Z"
 ---
 ## What it is
 MCP server `Webpage Timestamps`, catalogued on PulseMCP. Extracts webpage creation, modification, and publication timestamps from HTML meta tags, HTTP headers, JSON-LD structured data, microdata, OpenGraph, and Twitter cards with confidence scoring and intelligent consolidation for content freshness analysis and temporal metadata extraction.

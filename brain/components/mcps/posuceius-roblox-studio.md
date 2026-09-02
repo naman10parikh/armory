@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T08:53:04Z"
 ---
 ## What it is
 MCP server `Roblox Studio by Posuceius`, catalogued on PulseMCP. Bridges AI assistants with Roblox Studio for game structure exploration, script editing, UI generation, and bulk changes.

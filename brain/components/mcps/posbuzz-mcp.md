@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:32:12Z"
 ---
 ## What it is
 A local MCP server that exposes the PosBuzz cosmetic analysis SaaS API as MCP tools, enabling AI assistants like Claude Code to interact with the API through natural language.

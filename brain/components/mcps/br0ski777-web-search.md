@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:41Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Web search returning structured results with titles, URLs, and snippets via x402 micropayment.

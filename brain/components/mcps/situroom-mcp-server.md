@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T03:43:00Z"
 ---
 ## What it is
 Enables agents to fetch real-time earthquake, natural events, conflict headlines, market data, and tension index from free public sources via tools like get_quakes, get_events, get_headlines, get_tension, get_markets.

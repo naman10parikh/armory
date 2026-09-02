@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-17T16:49:14Z"
 ---
 ## What it is
 An MCP server that gives AI assistants conversational access to MNE-Python for analyzing neurophysiology data (EEG, MEG, sEEG, ECoG, fNIRS). Enables plain-language analysis pipelines, from loading recordings to generating figures and explanations.

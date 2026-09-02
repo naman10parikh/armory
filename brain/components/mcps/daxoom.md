@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:27:00Z"
 ---
 ## What it is
 The owner-verified local business data + service & menu-price layer for AI agents. Owner-authored business profiles where every response carries provenance — verification level, completeness score, freshness timestamps, and upstream sources. * Search & profiles — find businesses by name, category, c

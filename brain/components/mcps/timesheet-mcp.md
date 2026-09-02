@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:55:49Z"
 ---
 ## What it is
 A local, UI-less timesheet application served via MCP, letting AI assistants log hours, correct entries, generate monthly reports, and compute Finnish-holiday-aware working-time math for invoicing.

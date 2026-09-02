@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T23:58:44Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Odoo ERP, allowing natural language queries, record creation, updates, and deletions.

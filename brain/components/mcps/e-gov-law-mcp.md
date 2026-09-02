@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:28:11Z"
 ---
 ## What it is
 MCP server wrapping the e-Gov law API v2 to search and retrieve Japanese law data, including law lists, revision histories, full text, attachments, and keyword search.

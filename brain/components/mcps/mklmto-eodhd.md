@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T13:03:38Z"
 ---
 ## What it is
 MCP server `EODHD`, catalogued on PulseMCP. Connects to the EODHD financial data API for stock prices, fundamentals, technical indicators, news, macroeconomic data, and screening.

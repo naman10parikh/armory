@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:50:01Z"
 ---
 ## What it is
 Enables an AI assistant to monitor and control an LG ThinQ washing machine, including retrieving live status, profiles, and sending start/stop commands via LG's ThinQ Connect API.

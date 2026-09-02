@@ -8,11 +8,13 @@ source_url: https://github.com/cyanheads/pubmed-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2013
+stars: 142
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 22
+pushed_at: "2026-08-21T22:54:23Z"
 ---
 ## What it is
 MCP server for the NCBI E-utilities API. Search PubMed, fetch article metadata and full text, generate citations, explore MeSH terms, and discover related research.

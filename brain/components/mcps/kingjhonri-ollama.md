@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-10T09:55:06Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Integrates with Ollama for local LLM inference, enabling direct access to self-hosted language models with streaming support and model management capabilities for privacy-focused workflows requiring offline processing and data sovereignty.

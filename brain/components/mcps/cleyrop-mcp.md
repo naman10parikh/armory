@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:45:53Z"
 ---
 ## What it is
 MCP server to interact with Cleyrop work data: browse, search, read file content, and manage files/folders.

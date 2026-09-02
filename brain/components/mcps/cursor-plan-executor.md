@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T12:45:47Z"
 ---
 ## What it is
 A Model Context Protocol server for Cursor that manages and executes task plans with SQLite3-based CRUD operations, status tracking, and workflow tools.

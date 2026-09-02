@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-25T10:16:29Z"
 ---
 ## What it is
 Enables management and troubleshooting of cert-manager certificates and resources in Kubernetes, including listing, inspecting, and renewing certificates, managing issuers, and switching Kubernetes contexts.

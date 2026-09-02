@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-29T06:49:50Z"
 ---
 ## What it is
 MCP server `ByteDance Hot News`, catalogued on PulseMCP. Provides real-time news and trending topics through ByteDance's implementation, enabling access to current events and breaking news for building news-aware applications and content generation systems.

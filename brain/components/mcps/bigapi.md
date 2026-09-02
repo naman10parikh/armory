@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T09:44:07Z"
 ---
 ## What it is
 Enables MCP-capable agents to render HTML, Markdown, or URLs to PDF/PNG, perform PDF operations, process images, and manage API keys and usage via natural language.

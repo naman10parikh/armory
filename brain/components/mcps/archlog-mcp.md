@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:31:20Z"
 ---
 ## What it is
 A Windows-first STDIO MCP server for generating traceable release notes from C/C++ GitHub repositories using architecture analysis and AI.

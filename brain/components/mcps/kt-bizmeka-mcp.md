@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T10:34:40Z"
 ---
 ## What it is
 Automates multi-step login to KT bizmeka EZ portal with RSA encryption, SMS 2-factor authentication, and SAML SSO, providing an extensible set of tools for portal operations.

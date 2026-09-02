@@ -8,10 +8,12 @@ source_url: https://github.com/dindicoelho/inoreader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-07T23:18:38Z"
 ---
 ## What it is
 MCP server `Inoreader`, catalogued on PulseMCP. Integrates with Inoreader RSS feed reader to provide subscription management, article retrieval with filtering, content search, read status updates, and automated sentiment analysis and keyword extraction for RSS workflow automation.

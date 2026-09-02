@@ -8,10 +8,12 @@ source_url: https://github.com/pantheon-security/chrome-mcp-secure
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-23T21:05:27Z"
 ---
 ## What it is
 MCP server `Chrome Secure`, catalogued on PulseMCP. Security-hardened Chrome automation with post-quantum encryption and secure credential vault

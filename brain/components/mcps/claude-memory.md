@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T08:05:18Z"
 ---
 ## What it is
 A lightweight MCP server that gives Claude Code Channels on Telegram persistent memory by storing facts, conversation logs, and session summaries in Supabase.

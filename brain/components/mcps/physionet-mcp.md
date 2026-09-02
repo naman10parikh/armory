@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-19T10:41:36Z"
 ---
 ## What it is
 Enables querying and exploring PhysioNet biomedical datasets via BigQuery, with tools to list accessible datasets, view schemas, inspect tables, and run SQL queries.

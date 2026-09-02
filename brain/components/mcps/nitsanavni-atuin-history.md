@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-06T13:58:23Z"
 ---
 ## What it is
 MCP server `Atuin History`, catalogued on PulseMCP. Integrates with atuin command history to automatically capture bash commands with exit codes and execution context while providing search and filtering capabilities for persistent terminal session tracking

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-27T02:58:32Z"
 ---
 ## What it is
 MCP server `Firefox`, catalogued on PulseMCP. Automates Firefox browser actions including navigation, clicking, typing, scrolling, tab management, content extraction, and JavaScript execution via a WebSocket bridge extension.

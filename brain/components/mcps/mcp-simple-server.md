@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T04:57:10Z"
 ---
 ## What it is
 Provides basic tools for echoing messages, adding numbers, and getting the current timestamp.

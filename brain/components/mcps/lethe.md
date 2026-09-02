@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:32:18Z"
 ---
 ## What it is
 Enables offloading large tool outputs from LLM context and recalling them on demand to save tokens.

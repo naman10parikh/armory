@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T10:46:14Z"
 ---
 ## What it is
 MCP server `Skvil`, catalogued on PulseMCP. Security verification for AI agent skills with community-powered scanning, reputation scoring, and on-chain Solana certifications.

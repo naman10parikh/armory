@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:35:20Z"
 ---
 ## What it is
 Exposes Maker AI's knowledge surface (video generation workflows, pricing, FAQ, official links) to MCP-compatible AI clients like Claude Desktop, Cursor, and Windsurf. Read-only, no API keys required.

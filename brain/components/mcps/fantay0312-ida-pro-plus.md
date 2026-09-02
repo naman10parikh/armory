@@ -8,10 +8,12 @@ source_url: https://github.com/fantay0312/ida-pro-mcp-plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-05T17:56:25Z"
 ---
 ## What it is
 MCP server `IDA Pro Plus`, catalogued on PulseMCP. Extends IDA Pro reverse engineering with 80+ MCP tools for decompilation, disassembly, cross-references, debugging, and headless binary analysis.

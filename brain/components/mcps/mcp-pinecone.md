@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T18:30:04Z"
 ---
 ## What it is
 Enables reading and writing to a Pinecone vector index, including semantic search, document management, and stats retrieval.

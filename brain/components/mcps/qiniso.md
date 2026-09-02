@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T13:15:13Z"
 ---
 ## What it is
 The deterministic fact-verification layer for AI agents. Validates the structured facts an agent emits — IBANs, payment cards, VAT and national tax IDs, crypto and bank addresses, domains, emails, phone numbers, securities and academic identifiers, plus dates, currencies and holidays — against check

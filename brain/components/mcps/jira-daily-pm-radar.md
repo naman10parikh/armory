@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T14:52:22Z"
 ---
 ## What it is
 Enables PM radar analysis of Jira projects, providing daily, sprint, and backlog reports with issue context and search.

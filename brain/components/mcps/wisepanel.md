@@ -8,10 +8,12 @@ source_url: https://github.com/ikoskela/wisepanel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T04:59:51Z"
 ---
 ## What it is
 MCP server `Wisepanel`, catalogued on PulseMCP. Multi-agent deliberation platform running panels across Claude, Gemini, and Perplexity with real-time streaming.

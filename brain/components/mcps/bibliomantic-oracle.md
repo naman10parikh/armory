@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-29T18:59:58Z"
 ---
 ## What it is
 MCP server `Bibliomantic Oracle`, catalogued on PulseMCP. Integrates traditional I Ching divination with cryptographically secure three-coin method simulation, providing authentic hexagram generation, bibliomantic consultation, and complete 64-hexagram system lookup for creative writing and philosophical exploration.

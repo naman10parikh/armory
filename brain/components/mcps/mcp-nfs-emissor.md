@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:22:47Z"
 ---
 ## What it is
 Emits Shopee affiliate commission NFS-e from a monthly CSV, running 100% locally via stdio with CSV, A1 certificate, and emission never leaving the machine.

@@ -8,10 +8,12 @@ source_url: https://github.com/lazy-dinosaur/ccxt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 86
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-04-23T06:40:21Z"
 ---
 ## What it is
 MCP server `CCXT Crypto Trading`, catalogued on PulseMCP. Bridges the CCXT cryptocurrency trading library with natural language interfaces, enabling monitoring, analysis, and trading operations across 100+ exchanges

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:27:52Z"
 ---
 ## What it is
 Provides 7 reverse-engineering tools (hexdump, disasm, strings, xref, Ghidra decompilation, angr symbolic execution, OLLVM deobfuscation) for LLM agents like hermes-agent and Claude Desktop.

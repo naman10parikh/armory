@@ -8,10 +8,12 @@ source_url: https://github.com/circleci-public/mcp-server-circleci
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 62
+pushed_at: "2026-08-06T17:41:49Z"
 ---
 ## What it is
 MCP server `CircleCI`, catalogued on PulseMCP. Enables agents to talk to CircleCI. Fetch build failure logs to fix issues.

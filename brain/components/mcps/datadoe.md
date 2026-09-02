@@ -8,10 +8,12 @@ source_url: https://github.com/deltologic/datadoe-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T15:09:35Z"
 ---
 ## What it is
 MCP server `DataDoe`, catalogued on PulseMCP. Connects to Amazon Seller Central, Vendor Central, and Amazon Ads APIs with managed authentication and rate limiting.

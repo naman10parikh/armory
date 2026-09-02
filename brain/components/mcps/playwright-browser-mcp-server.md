@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T18:12:39Z"
 ---
 ## What it is
 A human-in-the-loop browser MCP server that pauses for user actions like login or CAPTCHA, saves and reuses authentication contexts, and extracts page data for development assistance.

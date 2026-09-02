@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-16T07:59:29Z"
 ---
 ## What it is
 MCP server for Alpha Arcade prediction markets on Algorand. Enables AI agents to browse markets, fetch orderbooks, place orders, manage positions, and trade on-chain prediction markets.

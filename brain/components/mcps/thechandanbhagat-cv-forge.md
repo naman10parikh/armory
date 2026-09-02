@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-19T07:45:54Z"
 ---
 ## What it is
 MCP server `CV Forge`, catalogued on PulseMCP. Analyzes job postings to extract requirements and generates tailored CVs, cover letters, and email templates with ATS optimization, keyword matching, and professional PDF formatting for automated job application creation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T12:00:57Z"
 ---
 ## What it is
 Read-only MCP server exposing the 20-0 NFL perfect season game knowledge surface, including game modes, roster picks, scenarios, FAQ, and official links to AI clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-15T17:50:05Z"
 ---
 ## What it is
 An MCP server demonstrating OAuth 2.0 authentication with Keycard's Security Token Service, providing tools for displaying the Keycard logo and retrieving authenticated user information.

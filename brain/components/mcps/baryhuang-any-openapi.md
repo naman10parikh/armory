@@ -12,6 +12,8 @@ stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-04-14T19:38:18Z"
 ---
 ## What it is
 MCP server `Any OpenAPI`, catalogued on PulseMCP. Integrates with any OpenAPI-compliant service using dynamic tool generation and vector-based semantic search for efficient API operation discovery and interaction.

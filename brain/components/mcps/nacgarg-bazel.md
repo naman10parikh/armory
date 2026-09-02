@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-07T09:08:40Z"
 ---
 ## What it is
 MCP server `Bazel`, catalogued on PulseMCP. Bridges AI with Bazel build system, enabling target building, dependency querying, test running, and workspace management even in environments with misconfigured shells.

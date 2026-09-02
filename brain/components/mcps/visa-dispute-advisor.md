@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T00:45:25Z"
 ---
 ## What it is
 Helps merchants resolve credit card disputes by searching VISA guidelines and checking dispute history to generate structured recommendations.

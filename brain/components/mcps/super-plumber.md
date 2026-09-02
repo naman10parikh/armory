@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:35:47Z"
 ---
 ## What it is
 MCP server for managing workflow topology graphs as pure YAML files, enabling AI agents to read, create, claim, and update task nodes with a strict state machine.

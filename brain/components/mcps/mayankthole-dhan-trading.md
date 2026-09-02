@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-01T08:32:16Z"
 ---
 ## What it is
 MCP server `Dhan Trading`, catalogued on PulseMCP. Control your Dhan trading account through Claude using simple conversation. Check your account balance, view current holdings and positions, get live market prices, and place various orders (market, limit, stop-loss, bracket) - all by simply asking your LLM

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:38:24Z"
 ---
 ## What it is
 Enables LLMs to inspect and interact with a local Feast feature store through MCP tools, including listing feature views and services, resolving entities, checking freshness, explaining feature values, and optionally pushing swipes or triggering materialization.

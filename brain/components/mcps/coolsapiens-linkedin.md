@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T19:15:49Z"
 ---
 ## What it is
 MCP server `LinkedIn`, catalogued on PulseMCP. Provides AI tools with secure access to a LinkedIn network, connections, and direct messages.

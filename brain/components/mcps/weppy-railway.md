@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:39:46Z"
 ---
 ## What it is
 MCP server for Roblox Studio integration, enabling AI agents to interact with Roblox through SSE transport and a local HTTP bridge for plugin communication.

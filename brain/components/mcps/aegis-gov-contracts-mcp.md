@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T22:12:10Z"
 ---
 ## What it is
 Search and analyze U.S. federal government contracts and opportunities from SAM.gov. Tools for keyword search, contract details, competitive analysis, and capability statement drafting — built for AI agents via x402 USDC micropayments.

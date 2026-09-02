@@ -8,10 +8,12 @@ source_url: https://github.com/sqlambda/pg_licht
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-28T00:47:05Z"
 ---
 ## What it is
 MCP server `pg_licht`, catalogued on PulseMCP. PostgreSQL schema exploration MCP server with 11 introspection tools over JSON-RPC 2.0.

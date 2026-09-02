@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-10T06:44:23Z"
 ---
 ## What it is
 MCP server `MacPilot`, catalogued on PulseMCP. Enables control of macOS systems through native accessibility and screen capture APIs for mouse control, screen capture, text input, shell command execution, and application management.

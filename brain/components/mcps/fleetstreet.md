@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:34:49Z"
 ---
 ## What it is
 Remote MCP server for the fleetstreet creator platform, enabling AI agents to register creative works, issue/revoke AI licences, access compliance evidence, and manage a creator business (catalog, merch, events) via 46 tools.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-19T22:31:13Z"
 ---
 ## What it is
 MCP server `ZetaChain`, catalogued on PulseMCP. Integrates with ZetaChain's universal blockchain development tools to enable cross-chain account management, contract deployment, token operations, and transaction execution across multiple blockchain networks including EVM, Solana, Bitcoin, TON, and Sui.

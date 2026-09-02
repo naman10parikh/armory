@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T05:45:35Z"
 ---
 ## What it is
 A Model Context Protocol server for the Google AdMob API, enabling reading and writing of AdMob accounts, apps, ad units, mediation settings, and reports.

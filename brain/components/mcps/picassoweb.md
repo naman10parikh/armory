@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:09:27Z"
 ---
 ## What it is
 Analyzes and extracts design tokens, assets, and layout from live websites to enable AI clients to faithfully replicate them, with tools for screenshotting, component inspection, and pixel-diff verification.

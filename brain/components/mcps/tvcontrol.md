@@ -8,11 +8,13 @@ source_url: https://github.com/FerroxLabs/tvcontrol
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-08-31T09:59:51Z"
 ---
 ## What it is
 MCP server that enables AI agents to control TradingView Desktop locally, performing actions like chart analysis, Pine Script development, and strategy sweeps through natural language.

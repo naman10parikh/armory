@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-26T08:48:31Z"
 ---
 ## What it is
 MCP server `Apple Reminders`, catalogued on PulseMCP. Integrates with Apple's Reminders app to create, read, and manage tasks with specified parameters like titles, notes, due dates, and priority levels

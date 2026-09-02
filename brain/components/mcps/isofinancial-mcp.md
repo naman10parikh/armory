@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-06T10:33:53Z"
 ---
 ## What it is
 An enhanced MCP server providing comprehensive financial market data endpoints for quantitative trading analysis, including SEC filings, FINRA short volume, earnings, news, and Google Trends. It features meta-tools that consolidate multiple data sources into single efficient calls, optimizing for AI

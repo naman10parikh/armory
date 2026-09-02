@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T16:09:22Z"
 ---
 ## What it is
 MCP server `LetzAI`, catalogued on PulseMCP. Integrates with LetzAI to enable image generation and upscaling through natural language commands with customizable parameters like dimensions, quality, and creativity.

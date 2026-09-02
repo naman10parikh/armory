@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T06:28:32Z"
 ---
 ## What it is
 Lets AI assistants analyze and organize local directories by file type, with dry-run support and safe sorting.

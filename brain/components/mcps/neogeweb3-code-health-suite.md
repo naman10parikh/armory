@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T01:12:44Z"
 ---
 ## What it is
 MCP server `Code Health Suite`, catalogued on PulseMCP. Python code quality analysis with 28 tools covering complexity scoring, dead code detection, security scanning, and clone detection.

@@ -8,10 +8,12 @@ source_url: https://github.com/gcorroto/mcp-s2s-asterisk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-20T19:26:35Z"
 ---
 ## What it is
 MCP server `Asterisk Phone System`, catalogued on PulseMCP. Integrates with Asterisk phone systems to enable outbound call operations, conversation monitoring, call history retrieval, and telephony system metrics tracking for business automation workflows.

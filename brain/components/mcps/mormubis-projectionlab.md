@@ -8,10 +8,12 @@ source_url: https://github.com/mormubis/projectionlab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-08T07:02:10Z"
 ---
 ## What it is
 MCP server `ProjectionLab`, catalogued on PulseMCP. Exports, snapshots, and restores financial plans from ProjectionLab with a built-in FIRE advisor knowledge base for AI-assisted retirement planning.

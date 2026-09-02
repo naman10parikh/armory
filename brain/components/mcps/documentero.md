@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T14:52:17Z"
 ---
 ## What it is
 Enables AI agents to list Documentero templates, inspect their field schemas, and generate Word/PDF/Excel documents via the Documentero API.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-16T08:01:45Z"
 ---
 ## What it is
 MCP server `Ethereum Address Monitor`, catalogued on PulseMCP. Provides real-time Ethereum address monitoring across multiple blockchain networks using Server-Sent Events, enabling continuous tracking of on-chain activity without polling for DeFi dashboards, wallet applications, and analytics tools.

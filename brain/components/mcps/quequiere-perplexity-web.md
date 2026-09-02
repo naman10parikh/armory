@@ -8,10 +8,12 @@ source_url: https://github.com/quequiere/perplexity-web-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-06T17:00:58Z"
 ---
 ## What it is
 MCP server `Perplexity Web`, catalogued on PulseMCP. Provides web search capabilities through Perplexity.ai using Playwright browser automation, returning answers with source citations without requiring an API key.

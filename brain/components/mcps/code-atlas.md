@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:12:39Z"
 ---
 ## What it is
 Multi-language code intelligence MCP server providing structured code analysis including symbol search, references, hierarchies, and change impact. Supports 25 languages with persistent indexing and LSP integration.

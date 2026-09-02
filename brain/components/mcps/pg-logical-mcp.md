@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T16:10:56Z"
 ---
 ## What it is
 Diagnoses and manages PostgreSQL logical replication including slot WAL retention, walsender lag, stuck subscriptions, and provides gated remediation tools for safe AI-driven operations.

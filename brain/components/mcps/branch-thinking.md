@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-25T08:02:09Z"
 ---
 ## What it is
 MCP server `Branch Thinking`, catalogued on PulseMCP. Enables simultaneous management of multiple reasoning paths through a branch-based navigation system that supports creation, cross-referencing, insight generation, and priority tracking for complex problem-solving tasks.

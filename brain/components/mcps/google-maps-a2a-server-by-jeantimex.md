@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, location-services]
+forks: 0
+pushed_at: "2025-04-29T04:44:17Z"
 ---
 ## What it is
 Enables AI agents to use Google Maps features (geocoding, elevation, search, directions) via the A2A protocol

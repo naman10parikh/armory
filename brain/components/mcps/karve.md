@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T00:47:33Z"
 ---
 ## What it is
 Provides persistent semantic memory for Claude Code via local embeddings and six MCP tools, enabling context storage and retrieval across sessions without cloud dependencies.

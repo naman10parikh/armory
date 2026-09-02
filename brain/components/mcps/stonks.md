@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-06T23:19:38Z"
 ---
 ## What it is
 Automates stock analysis and news updates in Google Sheets using AI-powered insights, enabling users to manage stock data and generate comprehensive analysis through natural language.

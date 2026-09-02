@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T17:57:54Z"
 ---
 ## What it is
 An MCP server that enables viewing all screens and controlling mouse and keyboard, allowing clicks anywhere and text input.

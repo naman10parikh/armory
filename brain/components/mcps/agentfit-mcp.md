@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:45:46Z"
 ---
 ## What it is
 Lets Claude Desktop, Cursor, Cline, Windsurf, Zed, or any other MCP client estimate token counts and fit a chat history into a model's context budget on demand.

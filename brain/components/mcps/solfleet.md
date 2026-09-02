@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:00:07Z"
 ---
 ## What it is
 Agent-safe management of independent Solana validators and RPC nodes over MCP and CLI: Solana-aware status, in-place upgrades, and DNS failover. Every change is dry-run by default, policy-gated, and audited, and it never touches keypairs.

@@ -8,10 +8,12 @@ source_url: https://github.com/datakurre/brick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T20:32:15Z"
 ---
 ## What it is
 MCP server `Brick LEGO Modeler`, catalogued on PulseMCP. Create, inspect, and edit LEGO models in BrickLink Studio and LDraw formats.

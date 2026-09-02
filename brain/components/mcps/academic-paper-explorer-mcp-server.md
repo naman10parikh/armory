@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:16:47Z"
 ---
 ## What it is
 Enables rigorous, zero-hallucination analysis of local PDF papers, generating editable domain maps, mindmaps, research gaps, and future directions with strict citation requirements.

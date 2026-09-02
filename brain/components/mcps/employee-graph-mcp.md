@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:58:25Z"
 ---
 ## What it is
 An MCP server that provides tools to query and analyze an employee knowledge graph in Neo4j, including semantic resume search, person similarity, and read-only Cypher queries.

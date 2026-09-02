@@ -8,10 +8,12 @@ source_url: https://github.com/joakim-sael/moltbrowser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-25T12:56:40Z"
 ---
 ## What it is
 MCP server `MoltBrowser`, catalogued on PulseMCP. Browser automation server built on Playwright with a community hub for sharing and discovering browser automation scripts.

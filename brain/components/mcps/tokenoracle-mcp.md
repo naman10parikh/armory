@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T03:38:03Z"
 ---
 ## What it is
 Estimates, compares, and controls LLM API costs before agents spend tokens, with tools for cost estimation, model comparison, and budget checking.

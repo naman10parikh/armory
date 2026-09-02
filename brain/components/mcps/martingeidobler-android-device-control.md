@@ -8,10 +8,12 @@ source_url: https://github.com/martingeidobler/android-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-18T21:52:29Z"
 ---
 ## What it is
 MCP server `Android Device Control`, catalogued on PulseMCP. Control Android emulators and devices via ADB with screenshot capture and UI automation.

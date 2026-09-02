@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T20:11:42Z"
 ---
 ## What it is
 MCP server `Code Index`, catalogued on PulseMCP. SQLite-backed hybrid search combining vector embeddings and full-text search for code repositories.

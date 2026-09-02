@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T21:39:37Z"
 ---
 ## What it is
 MCP server for MealMastery AI meal planning that enables users to manage meal plans, recipes, and grocery lists through natural language conversation with AI agents like Claude.

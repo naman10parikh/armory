@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-19T22:37:23Z"
 ---
 ## What it is
 MCP server for IIIF integration, enabling image fetching, manifest exploration, annotation search, and authentication support for cultural heritage resources.

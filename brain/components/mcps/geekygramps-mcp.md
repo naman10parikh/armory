@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:10:47Z"
 ---
 ## What it is
 A shared memory gateway for AI coding agents using PostgreSQL, enabling collaborative context across agents.

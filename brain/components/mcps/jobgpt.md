@@ -8,10 +8,12 @@ source_url: https://github.com/6figr-com/jobgpt-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-15T08:22:33Z"
 ---
 ## What it is
 MCP server `JobGPT`, catalogued on PulseMCP. Search jobs, auto-apply to positions, generate tailored resumes, and track applications through the 6figr JobGPT platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T20:53:01Z"
 ---
 ## What it is
 A public, read-only MCP server for researching Fermah products and documentation, with tools for searching docs, reading pages, listing products and proof systems, and generating non-binding project outlines.

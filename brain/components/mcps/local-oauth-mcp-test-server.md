@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:40:18Z"
 ---
 ## What it is
 A local test server that reproduces GitHub's OAuth behavior for debugging MCP OAuth provider configurations, supporting refresh tokens and auto-discovery.

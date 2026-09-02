@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T03:36:08Z"
 ---
 ## What it is
 Exposes the full Kong Gateway Admin API as MCP tools, enabling AI assistants to manage services, routes, consumers, plugins, upstreams, and more.

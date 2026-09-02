@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T00:30:50Z"
 ---
 ## What it is
 MCP server `Mile Meeting`, catalogued on PulseMCP. Manage conference room reservations and bookings through the Mile Meeting API.

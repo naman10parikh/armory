@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:37:19Z"
 ---
 ## What it is
 Analyzes multi-step AI agent tool chains to compute success probability, identify bottlenecks, and suggest better execution orders, enabling more reliable agents via local pure-math computation.

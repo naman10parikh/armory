@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T07:41:53Z"
 ---
 ## What it is
 MCP server `Codex CLI Bridge`, catalogued on PulseMCP. Expose Codex CLI code review, execution, search, and structured output via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T08:00:22Z"
 ---
 ## What it is
 Pay-per-call web scraping for AI agents — no signup, no API keys, just USDC micropayments via the x402 protocol on Base

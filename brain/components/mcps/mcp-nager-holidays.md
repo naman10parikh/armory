@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:08:08Z"
 ---
 ## What it is
 MCP server for accessing Nager.Date public holidays data. It provides tools to query and retrieve holiday information for various countries through natural language or direct tool calls.

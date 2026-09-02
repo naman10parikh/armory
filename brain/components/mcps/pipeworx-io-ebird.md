@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:02:13Z"
 ---
 ## What it is
 MCP server `eBird`, catalogued on PulseMCP. Cornell Lab eBird citizen-science bird observations — recent sightings, rare species, and nearby observations via Pipeworx.

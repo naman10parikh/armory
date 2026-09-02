@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 1
+forks: 0
+pushed_at: "2026-03-25T06:37:17Z"
 ---
 ## What it is
 Give AI agents a real phone number and voice. Make outbound calls, handle inbound calls, send email, and manage contacts via 26 MCP tools. ~500ms voice latency (Deepgram Nova-3 + Claude + Cartesia Sonic-3). Install: `pip install spix-mcp`. [Free tier available](https://spix.sh).

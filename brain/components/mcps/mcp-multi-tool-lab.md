@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:08:48Z"
 ---
 ## What it is
 A lightweight multi-provider MCP testing fixture with two providers (eva_air and uk_railway), each exposing 5 tools using in-memory fake data, designed for verifying MCP client tool discovery, tool calls, and multi-provider routing.

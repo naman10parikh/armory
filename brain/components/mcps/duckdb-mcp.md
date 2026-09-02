@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:04:11Z"
 ---
 ## What it is
 Enables read-only SQL querying and exploration of data files (CSV, Parquet, JSON, Excel, etc.) via DuckDB, supporting local paths, globs, URLs, and S3 buckets.

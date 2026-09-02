@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T21:40:19Z"
 ---
 ## What it is
 A semantic search system for Claude Code transcript history, exposed as an MCP server so Claude Code can query its own past sessions.

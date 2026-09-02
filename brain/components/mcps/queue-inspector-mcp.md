@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T14:45:34Z"
 ---
 ## What it is
 An MCP server that lets an agent inspect and operate Redis-backed job queues, supporting Asynq and BullMQ backends with per-state counts, job details, and state transitions.

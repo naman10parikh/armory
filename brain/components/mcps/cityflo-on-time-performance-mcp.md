@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T13:13:45Z"
 ---
 ## What it is
 Answers operational questions about route on-time performance, such as lateness rates and trip evidence, using structured tools for route summary, trip lateness, and data quality.

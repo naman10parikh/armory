@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-09T15:59:02Z"
 ---
 ## What it is
 MCP server `Rival Regulatory`, catalogued on PulseMCP. Source-grounded regulatory retrieval MCP for searching documents, tracing citations, and accessing regulatory authority metadata.

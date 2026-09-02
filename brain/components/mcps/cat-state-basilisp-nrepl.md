@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-07T21:53:11Z"
 ---
 ## What it is
 MCP server `Basilisp nREPL`, catalogued on PulseMCP. Bridges Anthropic's Model Control Protocol with Basilisp's nREPL server, enabling direct execution of Basilisp code, documentation retrieval, namespace exploration, and Python interoperability.

@@ -8,11 +8,13 @@ source_url: https://github.com/expoli/android-phone-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:18:29Z"
 ---
 ## What it is
 MCP server for controlling Android devices via semantic actions with verification, enabling any MCP client to interact with phones through natural language and structured tools.

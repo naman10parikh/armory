@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:58:59Z"
 ---
 ## What it is
 Provides live tools for weather, currency conversion, calculations, and dice rolls through a chat interface.

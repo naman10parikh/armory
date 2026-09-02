@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-05-30T02:24:01Z"
 ---
 ## What it is
 An MCP server for Odoo module development that provides version-aware documentation links, intelligent code generation, and development workflow automation for Odoo versions 17.0, 18.0, and 19.0.

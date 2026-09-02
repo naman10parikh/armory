@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T14:56:38Z"
 ---
 ## What it is
 An MCP adapter for reading and carefully operating Douyin and Creator Center through structured IDs and verified browser state, with safety boundaries.

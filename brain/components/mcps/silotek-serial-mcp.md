@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:03:06Z"
 ---
 ## What it is
 A headless MCP server that enables AI tools (like Claude Code) to read and analyze serial logs from embedded boards (ESP32, STM32) for firmware debugging, with read-only tools for log retrieval and a built-in web viewer.

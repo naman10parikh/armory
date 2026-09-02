@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T02:14:33Z"
 ---
 ## What it is
 Enables hybrid retrieval from a local knowledge base by ingesting PDFs, generating embeddings via Ollama, and querying through MCP tools such as query_knowledge_hub, list_collections, and get_document_summary.

@@ -8,10 +8,12 @@ source_url: https://github.com/ourongxing/newsnow-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-06-03T07:13:27Z"
 ---
 ## What it is
 MCP server `NewsNow`, catalogued on PulseMCP. Provides a bridge to the NewsNow platform for retrieving trending and latest news from various sources with customizable result limits and markdown-formatted output.

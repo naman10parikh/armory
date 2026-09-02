@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T18:40:42Z"
 ---
 ## What it is
 A local MCP server that securely uploads explicitly selected local images to RecallFox, keeping image bytes and OAuth tokens out of model context.

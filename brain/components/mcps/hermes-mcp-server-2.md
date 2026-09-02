@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:58:02Z"
 ---
 ## What it is
 Connects Claude to a Nextcloud-hosted Obsidian vault, enabling team members to search, read, list, and get status of notes using existing seats with no API cost.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T08:50:12Z"
 ---
 ## What it is
 MCP server `Shopify Admin`, catalogued on PulseMCP. Production-grade MCP server for Shopify Admin GraphQL API with schema-driven tools and cost-aware throttling.

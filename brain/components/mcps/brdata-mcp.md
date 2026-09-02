@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:43:26Z"
 ---
 ## What it is
 An MCP server for Brazilian company and public procurement data, enabling CNPJ lookup, company search, tender resolution, and more via paid USDC-based API calls.

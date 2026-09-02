@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T11:45:01Z"
 ---
 ## What it is
 MCP server `Dify Workflows`, catalogued on PulseMCP. Enables dynamic tool discovery and execution across multiple Dify AI applications by automatically loading application configurations and converting input parameters to JSON schemas for robust workflow management.

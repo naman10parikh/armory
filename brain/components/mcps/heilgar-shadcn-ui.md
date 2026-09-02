@@ -8,10 +8,12 @@ source_url: https://github.com/heilgar/shadcn-ui-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-21T16:34:27Z"
 ---
 ## What it is
 MCP server `Shadcn UI`, catalogued on PulseMCP. Provides tools for managing and installing shadcn/ui components directly through assistants, enabling efficient component discovery, documentation retrieval, and installation command generation with multiple package manager support.

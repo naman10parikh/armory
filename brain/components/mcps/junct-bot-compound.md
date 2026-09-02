@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:40Z"
 ---
 ## What it is
 MCP server `Compound (by Junct)`, catalogued on PulseMCP. Hosted proxy for Compound lending protocol APIs with 8 auto-generated tools for DeFi lending.

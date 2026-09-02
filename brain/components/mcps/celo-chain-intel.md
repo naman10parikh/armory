@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:34:45Z"
 ---
 ## What it is
 A paid MCP server providing AI agents with Celo chain intelligence tools (gas, token info, balances, transaction lookup, and x402 endpoint discovery) with payment via x402 on Celo.

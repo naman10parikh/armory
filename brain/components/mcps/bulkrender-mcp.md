@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T13:58:50Z"
 ---
 ## What it is
 MCP server for BulkRender — generate bulk DOCX and PDF documents from Claude, Cursor, Windsurf, and any MCP-compatible AI assistant

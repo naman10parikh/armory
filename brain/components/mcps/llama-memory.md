@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:56:14Z"
 ---
 ## What it is
 Provides persistent history and semantic memory for llama-server, enabling cross-session recall and memory management through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:34:22Z"
 ---
 ## What it is
 Enables AI assistants to manage audio-story series: create, edit, narrate, publish, and generate marketing content like UGC videos and reels through a secure MCP endpoint.

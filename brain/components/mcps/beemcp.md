@@ -8,11 +8,13 @@ source_url: https://github.com/OkGoDoIt/beemcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-03-31T07:49:52Z"
 ---
 ## What it is
 Unofficial MCP server that bridges AI assistants with Bee wearable lifelogging data, enabling retrieval and management of conversations, facts, todos, and locations.

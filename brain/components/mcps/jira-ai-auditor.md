@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T07:11:47Z"
 ---
 ## What it is
 Enables running Jira project health audits directly in Claude Desktop, providing real-time health scores, risk detection, and team workload analysis through natural language.

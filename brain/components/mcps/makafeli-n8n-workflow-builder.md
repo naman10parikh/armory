@@ -8,10 +8,12 @@ source_url: https://github.com/makafeli/n8n-workflow-builder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 519
+stars: 541
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 124
+pushed_at: "2026-03-19T11:11:52Z"
 ---
 ## What it is
 MCP server `n8n Workflow Builder`, catalogued on PulseMCP. Enables creation and management of n8n workflows for simplified automation and integration tasks.

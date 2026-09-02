@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:23:03Z"
 ---
 ## What it is
 Stateful radare2 MCP server tailored for reverse-engineering WiFi firmware, with token-limited outputs and baked-in Thumb-2 disassembly recipes.

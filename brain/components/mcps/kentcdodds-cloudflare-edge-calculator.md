@@ -12,6 +12,8 @@ stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-02-05T00:10:46Z"
 ---
 ## What it is
 MCP server `Cloudflare Edge Calculator`, catalogued on PulseMCP. Demonstrates edge deployment of MCP servers using Cloudflare Workers and Durable Objects for global low-latency tool execution with calculator functionality and embeddable React widgets.

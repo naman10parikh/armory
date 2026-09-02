@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-01T19:56:59Z"
 ---
 ## What it is
 MCP server `FonParam`, catalogued on PulseMCP. Integrates with FonParam's Turkish mutual funds API to provide real-time fund data, performance metrics, and market insights for investment analysis and research in Turkey's financial markets.

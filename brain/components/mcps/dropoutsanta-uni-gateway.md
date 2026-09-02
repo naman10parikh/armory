@@ -8,10 +8,12 @@ source_url: https://github.com/dropoutsanta/uni-mcp-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-27T09:25:44Z"
 ---
 ## What it is
 MCP server `Uni Gateway`, catalogued on PulseMCP. Unified gateway aggregating multiple MCP servers and API plugins behind a single authenticated endpoint.

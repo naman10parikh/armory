@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T20:01:37Z"
 ---
 ## What it is
 MCP server `ClickHouse`, catalogued on PulseMCP. Connects Claude to ClickHouse databases for direct query execution and data retrieval from time-series data, analytics datasets, or large-scale data warehouses without leaving the conversation interface.

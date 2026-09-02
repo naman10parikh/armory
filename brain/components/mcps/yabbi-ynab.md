@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-16T05:40:36Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. Integrates with YNAB's budgeting API to read account balances, transaction history, and category allocations while creating new transactions and scheduled payments with intelligent payee matching and fuzzy name resolution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:51:25Z"
 ---
 ## What it is
 This MCP server exposes DeepSeek V4 to Codex as a single tool, enabling GPT Sol to delegate coding subtasks to DeepSeek for cheap execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T04:11:45Z"
 ---
 ## What it is
 Converts PDF and CSV files to Markdown from AI agents via cloud API, with browser-based Google login and saved convert defaults.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:31:54Z"
 ---
 ## What it is
 MCP server `gogcli`, catalogued on PulseMCP. Natural-language access to Google Workspace services including Sheets, Docs, Gmail, Calendar, Drive, Tasks, and Contacts.

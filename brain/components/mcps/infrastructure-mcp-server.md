@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T00:43:32Z"
 ---
 ## What it is
 An MCP server and terminal UI that orchestrates Cloudflare, Namecheap, and Fleet from a single interface, enabling domain onboarding with automatic DNS migration and security hardening.

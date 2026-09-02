@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-11T16:59:25Z"
 ---
 ## What it is
 MCP server `ChemCP`, catalogued on PulseMCP. Renders 2D molecular structures from SMILES using RDKit.js.

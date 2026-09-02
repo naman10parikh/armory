@@ -8,11 +8,13 @@ source_url: https://github.com/ui-layouts/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-26T11:36:24Z"
 ---
 ## What it is
 Enables AI assistants to search, understand, and retrieve UI components from ui-layouts.com through tools like search, documentation, metadata, and source code access.

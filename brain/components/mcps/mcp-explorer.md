@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:28:13Z"
 ---
 ## What it is
 A controllable, observable MCP server for dynamically setting tools and intercepting calls in real time, useful as a mock/MITM harness for testing MCP clients.

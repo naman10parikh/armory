@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-23T15:44:13Z"
 ---
 ## What it is
 MCP server `Folderr`, catalogued on PulseMCP. Integrates with Folderr's API to enable management and communication with Folderr Assistants, facilitating tasks like listing assistants and sending questions.

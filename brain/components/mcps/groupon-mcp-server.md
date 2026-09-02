@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:42:29Z"
 ---
 ## What it is
 Provides MCP tools for discovering Groupon-style deals (search, get, compare) for customers, and additionally merchant intelligence tools (category insights, market gaps, price positioning) for logged-in merchants.

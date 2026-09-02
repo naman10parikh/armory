@@ -8,10 +8,12 @@ source_url: https://github.com/futureunreal/mcp-pdf2md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-03-25T08:40:57Z"
 ---
 ## What it is
 MCP server `PDF to Markdown Converter`, catalogued on PulseMCP. Converts PDF documents to Markdown format while preserving document structure, enabling content migration and making PDF content more accessible and editable.

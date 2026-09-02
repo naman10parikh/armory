@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:02:16Z"
 ---
 ## What it is
 Search 161,000+ free hand-drawn Infyicon icons in four matching styles and fetch ready-to-embed SVG markup or PNG URLs, plus CSS class lookup for the 61,000-glyph Infyicon UI webfont. Free with attribution, no API key required.

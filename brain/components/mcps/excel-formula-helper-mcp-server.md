@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T01:45:59Z"
 ---
 ## What it is
 Enables AI clients to directly read and write Excel files, including reading structure, writing formulas and data, and diagnosing errors.

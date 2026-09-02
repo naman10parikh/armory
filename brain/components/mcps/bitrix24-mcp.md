@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T19:25:21Z"
 ---
 ## What it is
 Production-grade MCP server for Bitrix24 Cloud with 45 tools, safe by default. Connects Claude Desktop to your Bitrix24 tenant for AI-driven CRM, tasks, messaging, and calendar operations.

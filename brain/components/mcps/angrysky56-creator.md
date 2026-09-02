@@ -8,10 +8,12 @@ source_url: https://github.com/angrysky56/mcp-creator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-24T11:17:39Z"
 ---
 ## What it is
 MCP server `Creator`, catalogued on PulseMCP. Generates custom MCP servers through templates and workflows, enabling rapid prototyping and automated scaffolding of new server implementations with built-in best practices and configuration management.

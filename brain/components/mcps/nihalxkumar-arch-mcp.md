@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 54
+stars: 55
+forks: 15
+pushed_at: "2026-03-10T14:13:54Z"
 ---
 ## What it is
 Arch Linux MCP Server to the Arch Linux ecosystem of the Arch Wiki, AUR, and official repositories for AI-assisted Arch Linux usage on Arch and non-Arch systems. Features include searching Arch Wiki and AUR, getting package info, checking for updates, installing packages securely, and analyzing PKGBUILDs.

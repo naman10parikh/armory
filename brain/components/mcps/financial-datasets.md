@@ -8,10 +8,12 @@ source_url: https://github.com/financial-datasets/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2153
+stars: 2282
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 345
+pushed_at: "2025-06-05T19:50:38Z"
 ---
 ## What it is
 MCP server `Financial Datasets`, catalogued on PulseMCP. Provides direct access to stock market data including income statements, balance sheets, cash flow statements, historical prices, and market news through a locally-run server that integrates with the Financial Datasets API.

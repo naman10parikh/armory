@@ -8,10 +8,12 @@ source_url: https://github.com/patrickkabwe/react-native-upgrader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-23T09:38:53Z"
 ---
 ## What it is
 MCP server `React Native Upgrader`, catalogued on PulseMCP. Automates React Native project upgrades by analyzing codebases, checking for outdated dependencies, and streamlining the complex process of keeping applications current with the latest React Native versions and dependency updates.

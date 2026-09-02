@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:10:27Z"
 ---
 ## What it is
 A remote MCP server demonstrating OAuth 2.1 authentication with Firebase, providing a 'whoami' tool that returns the authenticated user's identity and plan.

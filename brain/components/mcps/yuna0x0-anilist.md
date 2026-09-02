@@ -8,10 +8,12 @@ source_url: https://github.com/yuna0x0/anilist-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-07-13T10:44:23Z"
 ---
 ## What it is
 MCP server `AniList`, catalogued on PulseMCP. Integrates with Anilist's anime/manga database through GraphQL queries, enabling search, retrieval, and analysis of Japanese media information for accurate conversations about anime and manga.

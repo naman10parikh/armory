@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-02T03:13:58Z"
 ---
 ## What it is
 MCP server `EverArt Forge`, catalogued on PulseMCP. Integrates with EverArt's AI models to provide advanced vector and raster image generation capabilities, supporting various formats and offering flexible storage options.

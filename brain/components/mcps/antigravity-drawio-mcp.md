@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:33:51Z"
 ---
 ## What it is
 MCP server that enables AI assistants to create, parse, render, and validate Draw.io diagrams programmatically.

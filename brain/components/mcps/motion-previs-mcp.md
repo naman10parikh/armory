@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-14T05:32:57Z"
 ---
 ## What it is
 Enables AI agents to import video footage, trim ranges, run motion analysis (camera, actor, object, or full scene), export depth passes and pose data, and send layers to the Blockout previs app via Motion Previs Studio.

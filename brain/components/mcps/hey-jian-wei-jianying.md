@@ -8,10 +8,12 @@ source_url: https://github.com/hey-jian-wei/jianying-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 237
+stars: 281
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 63
+pushed_at: "2025-08-22T09:55:44Z"
 ---
 ## What it is
 MCP server `JianYing`, catalogued on PulseMCP. Integrates with JianYing desktop video editor using UI automation to enable draft management, media handling, track operations, and export capabilities for automated video editing workflows and batch processing.

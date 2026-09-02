@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T17:39:59Z"
 ---
 ## What it is
 A local RAG context optimizer MCP server that filters retrieved context to the minimum an LLM needs to answer correctly, using a cross-encoder and optional calibration.

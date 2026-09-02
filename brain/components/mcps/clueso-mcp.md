@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T15:56:00Z"
 ---
 ## What it is
 Clueso's MCP connects your favorite AI agents to a video creation engine. Just describe what you need — and every output stays fully editable, by you or AI.

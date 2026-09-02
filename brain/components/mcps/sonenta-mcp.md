@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:27:17Z"
 ---
 ## What it is
 MCP server for Sonenta translation management, enabling key/translation management, agent observability sessions, and prompt library access via natural language.

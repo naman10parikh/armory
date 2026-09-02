@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-18T12:48:55Z"
 ---
 ## What it is
 MCP server `Citus`, catalogued on PulseMCP. Provides monitoring, analysis, and management capabilities for Citus distributed PostgreSQL clusters.

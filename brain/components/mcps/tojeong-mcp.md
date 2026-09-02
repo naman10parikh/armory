@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:14:42Z"
 ---
 ## What it is
 Calculates Tojeongbigyul (토정비결) fortune for a given birth date and year, returning total fortune and monthly forecasts based on traditional Korean divination methods.

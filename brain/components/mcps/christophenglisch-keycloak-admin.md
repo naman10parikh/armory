@@ -8,10 +8,12 @@ source_url: https://github.com/christophenglisch/keycloak-model-context-protocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-02-09T21:21:14Z"
 ---
 ## What it is
 MCP server `Keycloak Admin`, catalogued on PulseMCP. Integrates with Keycloak Admin to provide streamlined user and realm management operations for identity and access control automation.

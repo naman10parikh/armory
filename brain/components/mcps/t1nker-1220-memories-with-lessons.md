@@ -8,10 +8,12 @@ source_url: https://github.com/t1nker-1220/memories-with-lessons-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-02-27T12:54:56Z"
 ---
 ## What it is
 MCP server `Memories with Lessons`, catalogued on PulseMCP. Enables persistent memory and error tracking for assistants using a local knowledge graph structure with transactional operations, file management, and caching.

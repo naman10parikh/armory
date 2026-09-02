@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:10Z"
 ---
 ## What it is
 MCP server for consulting the Brazilian government's National Registry of Punished Companies (CNEP) from the Transparency Portal. Enables natural language queries about company penalties.

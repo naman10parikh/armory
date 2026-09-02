@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T13:56:24Z"
 ---
 ## What it is
 Converts the 'El Buen Agente' guide into 17 actionable tools to evaluate, contract, and build robust LLM agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/br3akzero/vision.mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T07:43:41Z"
 ---
 ## What it is
 MCP server `macOS Vision OCR`, catalogued on PulseMCP. Native macOS MCP server for on-device OCR using Apple Vision Framework with support for PDFs and images.

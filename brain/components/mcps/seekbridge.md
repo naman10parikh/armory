@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:15:39Z"
 ---
 ## What it is
 Enables DeepSeek-powered agents to control real Chrome tabs with semantic snapshots, tab groups, and local safety controls.

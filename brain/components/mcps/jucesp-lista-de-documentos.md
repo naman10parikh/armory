@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:30Z"
 ---
 ## What it is
 Lists archived company documents from the JUCESP registry using a NIRE number, accessible via MCP over HTTP with a single read-only tool.

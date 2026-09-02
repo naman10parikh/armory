@@ -8,11 +8,13 @@ source_url: https://github.com/mozzan/job104-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T02:54:34Z"
 ---
 ## What it is
 Searches 104 job listings with natural-language filters and retrieves full postings via MCP tools.

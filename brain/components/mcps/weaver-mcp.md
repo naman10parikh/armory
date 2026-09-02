@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:23:19Z"
 ---
 ## What it is
 MCP server for connecting to Weaver E10 OA to query program modification workflow lists and details, with support for date filtering and additional workflow operations.

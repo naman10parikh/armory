@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T09:28:52Z"
 ---
 ## What it is
 Automatically converts Python web backends (FastAPI, Flask, Django) into MCP servers by exposing API routes as MCP tools with near-zero boilerplate.

@@ -8,10 +8,12 @@ source_url: https://github.com/aipotheosis-labs/aci-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 250
+stars: 253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-08-01T17:18:40Z"
 ---
 ## What it is
 MCP server `AIPo Labs`, catalogued on PulseMCP. Allow dynamic search and execute any tools available on ACI.dev.

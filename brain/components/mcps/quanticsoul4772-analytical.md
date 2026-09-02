@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T09:10:04Z"
 ---
 ## What it is
 MCP server `Analytical`, catalogued on PulseMCP. Enhances structured problem-solving and analytical reasoning with tools for research verification, statistical analysis, logical reasoning, and multi-perspective generation for data analysts, researchers, and decision-makers.

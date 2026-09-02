@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:23Z"
 ---
 ## What it is
 Enables querying FDA drug approvals, device clearances (510(k)), recalls, and adverse events via the openFDA API, providing tools for clinical and pharmaceutical research.

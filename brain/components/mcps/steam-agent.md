@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T13:22:24Z"
 ---
 ## What it is
 基于MCP和LLM的游戏资讯智能体，支持查询Steam排行榜、总结游戏新闻和发送邮件简报。

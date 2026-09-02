@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:25:34Z"
 ---
 ## What it is
 MCP server for the Golpo AI video API, enabling video generation, listing, and downloading from any MCP-compatible client.

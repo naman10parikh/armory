@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2025-09-06T15:32:08Z"
 ---
 ## What it is
 Provides fast, self-hosted web search and reliable web scraping using SearXNG and Crawl4AI, integrated as MCP tools for Claude Code.

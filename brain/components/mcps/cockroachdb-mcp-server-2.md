@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-13T15:09:40Z"
 ---
 ## What it is
 A Model Context Protocol server that uses CockroachDB to store and manage model contexts via RESTful CRUD APIs, with automatic schema initialization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:50:23Z"
 ---
 ## What it is
 Provides tools to search arXiv papers and extract metadata, enabling AI assistants to access academic research papers via the Model Context Protocol.

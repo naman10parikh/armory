@@ -8,10 +8,12 @@ source_url: https://github.com/kennethreitz/mcp-applemusic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-09-11T11:06:27Z"
 ---
 ## What it is
 MCP server `Apple Music`, catalogued on PulseMCP. Integrates with Apple Music on macOS using Python and AppleScript to enable music playback control, library searching, playlist creation, and metadata retrieval.

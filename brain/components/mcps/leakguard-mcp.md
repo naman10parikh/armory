@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T04:40:09Z"
 ---
 ## What it is
 Static-analyzes Python code for lookahead bias and data leakage, preventing invalid backtests in time-series ML.

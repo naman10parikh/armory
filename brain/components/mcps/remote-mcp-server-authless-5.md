@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-17T10:27:17Z"
 ---
 ## What it is
 Enables deploying a remote MCP server on Cloudflare Workers without authentication, and connecting it to Cloudflare AI Playground or Claude Desktop.

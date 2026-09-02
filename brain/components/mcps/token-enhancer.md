@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-04-05T07:51:52Z"
 ---
 ## What it is
 A local MCP proxy that strips web pages to clean text, reducing token usage for AI agents by up to 99.6%.

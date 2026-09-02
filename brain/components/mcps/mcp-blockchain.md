@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:29:03Z"
 ---
 ## What it is
 An MCP server that exposes blockchain data as native tools for AI agents, enabling read-only queries like wallet balances and token holdings on Ethereum, Polygon, and Base.

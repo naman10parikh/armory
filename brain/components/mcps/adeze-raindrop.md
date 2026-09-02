@@ -8,10 +8,12 @@ source_url: https://github.com/adeze/raindrop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 165
+stars: 181
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-07-24T01:14:54Z"
 ---
 ## What it is
 MCP server `Raindrop.io`, catalogued on PulseMCP. Integrates with Raindrop.io bookmarking service to provide direct access for managing collections, bookmarks, tags, highlights, and user data without leaving your conversation context.

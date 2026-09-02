@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:21:11Z"
 ---
 ## What it is
 A small, authenticated remote MCP server that lets an AI app safely read and write one GitHub repository, built for a second-brain / Obsidian vault stored on GitHub.

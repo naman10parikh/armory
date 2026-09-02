@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-14T17:09:12Z"
 ---
 ## What it is
 MCP server `Cypress Test Generator`, catalogued on PulseMCP. Automates Cypress test generation by analyzing web pages with Puppeteer to extract DOM elements and generate structured page object models with appropriate selectors and test patterns for end-to-end test automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:25:16Z"
 ---
 ## What it is
 An AI-native Weiterbildung discovery layer over Mein NOW course data, providing tools for course search, profile matching, and fit explanation via MCP.

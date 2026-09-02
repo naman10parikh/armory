@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-24T00:53:49Z"
 ---
 ## What it is
 MCP server `KPI-Lens`, catalogued on PulseMCP. Supply chain intelligence platform with anomaly detection and LLM root-cause analysis.

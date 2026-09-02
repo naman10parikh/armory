@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-23T00:28:03Z"
 ---
 ## What it is
 MCP server `Optimizely DXP`, catalogued on PulseMCP. Integrates with Optimizely DXP deployment operations through PowerShell to manage environment-to-environment deployments, database operations, storage containers, and edge logs with intelligent validation and deployment path guardrails.

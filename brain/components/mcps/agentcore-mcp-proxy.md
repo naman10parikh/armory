@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T21:33:39Z"
 ---
 ## What it is
 Bridges AI IDEs with AWS Bedrock AgentCore Gateway using Cognito OAuth and hardware-bound token encryption for secure, authenticated access to dynamically discovered tools.

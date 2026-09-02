@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T00:49:00Z"
 ---
 ## What it is
 MCP server `AI Visibility Scanner`, catalogued on PulseMCP. Scans websites for AI visibility and marketing health with an interactive dashboard.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T13:51:02Z"
 ---
 ## What it is
 Enables semantic search over transcribed C++ lecture fragments with clickable YouTube timestamps, allowing users to retrieve and cite specific moments from the videos.

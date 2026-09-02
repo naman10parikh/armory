@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:34:09Z"
 ---
 ## What it is
 Expert business diagnosis engine that analyzes companies across 11 dimensions and returns a Revenue Leak Score with prioritized, triple-option recommendations.

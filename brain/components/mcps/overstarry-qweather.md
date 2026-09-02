@@ -8,10 +8,12 @@ source_url: https://github.com/overstarry/qweather-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-10T10:06:56Z"
 ---
 ## What it is
 MCP server `QWeather`, catalogued on PulseMCP. Integrates with QWeather API to provide current weather conditions, multi-day forecasts, and location-based meteorological data for travel planning, outdoor activities, and weather-aware applications.

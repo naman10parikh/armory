@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-19T12:49:58Z"
 ---
 ## What it is
 MCP server `Salesforce Marketing Cloud`, catalogued on PulseMCP. Manages Salesforce Marketing Cloud data extensions, content, journeys, and transactional messaging through 35 operational tools.

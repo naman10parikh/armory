@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:14:37Z"
 ---
 ## What it is
 MCP server for ScanToBill, an AI-powered OCR platform that extracts structured JSON from invoices and business documents in Arabic and English. It enables Claude Desktop to extract invoice data from URLs, list past extractions, and retrieve detailed results.

@@ -8,11 +8,13 @@ source_url: https://github.com/hi-godot/godot-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1880
+stars: 2077
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 127
+pushed_at: "2026-09-02T03:17:18Z"
 ---
 ## What it is
 Connects MCP clients directly to a live Godot editor, enabling AI assistants to build scenes, edit nodes, and control the editor through over 120 operations.

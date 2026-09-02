@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T10:04:34Z"
 ---
 ## What it is
 Generates randomized English Markdown frontend design directions using curated catalogs, with optional soft compatibility scoring. Does not call an LLM.

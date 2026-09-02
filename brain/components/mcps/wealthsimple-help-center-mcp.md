@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T08:36:41Z"
 ---
 ## What it is
 Enables AI agents to search, browse, and retrieve articles from the Wealthsimple Help Center via 7 typed tools (search, taxonomy, article retrieval) using the public Zendesk API.

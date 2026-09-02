@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:19:37Z"
 ---
 ## What it is
 A read-only stdio-based MCP server that provides tools to query Plausible Analytics data, including listing sites, fetching statistics with metrics/dimensions/filters, and getting realtime visitor counts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T08:04:20Z"
 ---
 ## What it is
 MCP server for accessing crypto token data from the Artemis API, including price, fees, revenue, asset classifications, and market cap rankings.

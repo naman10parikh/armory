@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T18:22:41Z"
 ---
 ## What it is
 Safety-conscious MCP server for read-only access to Emerson DeltaV Edge systems, enabling engineering investigation workflows and offline artifact generation.

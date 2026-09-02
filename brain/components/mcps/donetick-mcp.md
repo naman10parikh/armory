@@ -8,11 +8,13 @@ source_url: https://github.com/danielrosehill/donetick-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T12:52:19Z"
 ---
 ## What it is
 MCP server for Donetick chores management. Provides 27 tools to control Donetick instance via Claude or other MCP clients.

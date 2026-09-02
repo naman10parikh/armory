@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:08:35Z"
 ---
 ## What it is
 Enables human-approved SSH terminal sessions and confined SFTP file operations for SSH-configured devices, with user-controlled terminal and file explorer.

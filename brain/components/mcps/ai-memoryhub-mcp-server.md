@@ -8,11 +8,13 @@ source_url: https://github.com/Traceless-zero/AI-MemoryHub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T10:38:02Z"
 ---
 ## What it is
 Provides a hybrid memory architecture with a thin SQLite index and Markdown cold storage, enabling AI agents to write, query, link, and rebuild long-term memories via MCP tools, model-agnostic and zero third-party dependencies.

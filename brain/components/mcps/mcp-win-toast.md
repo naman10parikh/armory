@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T15:07:42Z"
 ---
 ## What it is
 Enables AI assistants to send Windows toast notifications and dialog boxes, allowing them to actively notify users and request confirmations through native Windows UI.

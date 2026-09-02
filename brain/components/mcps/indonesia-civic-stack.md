@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-11T11:33:31Z"
 ---
 ## What it is
 Provides access to Indonesian government data sources (BPOM, BPJPH, AHU, etc.) via a unified API and MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T06:54:16Z"
 ---
 ## What it is
 A local MCP server for day planning that gives AI assistants persistent memory and a structured method for daily and weekly planning, including carry-over rituals, focus sessions, and a live interactive panel.

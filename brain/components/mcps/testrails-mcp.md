@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T15:42:15Z"
 ---
 ## What it is
 MCP server for TestRail that enables AI agents to manage test cases, runs, and results, plus a bundled skill to convert Jira tickets into TestRail test cases.

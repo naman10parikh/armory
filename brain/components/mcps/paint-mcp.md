@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T14:04:10Z"
 ---
 ## What it is
 Controls Windows Paint from Claude via GUI automation, enabling drawing of lines, rectangles, and freehand strokes on the canvas.

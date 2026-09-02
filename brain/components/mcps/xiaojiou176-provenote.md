@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T02:11:06Z"
 ---
 ## What it is
 MCP server `Provenote`, catalogued on PulseMCP. First-party MCP server for drafts, research threads, auditable runs, and knowledge search.

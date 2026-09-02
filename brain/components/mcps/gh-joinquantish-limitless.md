@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-29T19:23:37Z"
 ---
 ## What it is
 MCP server `Limitless Exchange by Quantish`, catalogued on PulseMCP. Self-hosted trading server for Limitless Exchange prediction markets on Base.

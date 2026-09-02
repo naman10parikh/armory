@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:16:01Z"
 ---
 ## What it is
 Enables building lightweight MCP servers where Rust handles transport, routing, and schema validation while Python defines tool behavior using type hints, with support for stdio and HTTP transports.

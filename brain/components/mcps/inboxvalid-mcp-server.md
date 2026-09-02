@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:53:42Z"
 ---
 ## What it is
 Provides email verification as an MCP tool, checking format, disposable domains, and mail server availability with structured results.

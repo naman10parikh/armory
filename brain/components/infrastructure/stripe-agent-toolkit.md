@@ -9,11 +9,13 @@ source_url: https://github.com/stripe/agent-toolkit
 license: MIT
 cli_compat: [claude, codex]
 maturity: stable
-stars: 1760
+stars: 1785
 eval_score: 1
 verified_at: 2026-05-26
 related: [stripe-mcp, agentmoney, agentmoney-cost]
 tags: [payments, stripe, billing, financial-rails, monetization]
+forks: 329
+pushed_at: "2026-09-02T00:50:08Z"
 ---
 
 ## What it is

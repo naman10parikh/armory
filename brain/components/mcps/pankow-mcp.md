@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:07:59Z"
 ---
 ## What it is
 Enables Claude and other MCP clients to manage Pankow organizations, projects, test cases, and CI/runs, configure AI targets, and run LLM evaluations directly from an agent.

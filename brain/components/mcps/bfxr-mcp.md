@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:53:09Z"
 ---
 ## What it is
 MCP server for generating retro game sound effects using Bfxr synthesis. It provides tools to create, mutate, and load sound parameters, with output saved as WAV files and optional permalinks.

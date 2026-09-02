@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:22:28Z"
 ---
 ## What it is
 MCP server that expands rough ideas into detailed image prompts via LangChain and generates images using the Hugging Face Inference API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:02:31Z"
 ---
 ## What it is
 Universal MCP server that wraps any CLI tool, enabling AI assistants to run commands via natural language.

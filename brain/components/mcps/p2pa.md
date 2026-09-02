@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:59:11Z"
 ---
 ## What it is
 Headless, peer-to-peer context synchronization for local AI agents. It enables multiple LLM agents to share structured context and resolve state conflicts over a serverless P2P network.

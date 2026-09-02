@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T20:45:11Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for ASAM ODS with odsbox Jaquel query tools, ODS connection management, and measurement data access.

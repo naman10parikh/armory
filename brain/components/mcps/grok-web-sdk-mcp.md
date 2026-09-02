@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T12:04:35Z"
 ---
 ## What it is
 Enables AI agents to generate text, images, and videos via Grok's web UI using MCP tools (grok_chat, grok_generate_image, grok_generate_video) without an API key.

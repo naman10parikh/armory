@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:47Z"
 ---
 ## What it is
 Enables consulting negative debt certificates from Prefeitura PB Mataraca through a single read-only tool.

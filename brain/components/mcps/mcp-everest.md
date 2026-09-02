@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-12T20:47:08Z"
 ---
 ## What it is
 An unofficial MCP server for Percona Everest that enables AI-powered interaction with database clusters, including listing, retrieving details, credentials, and components.

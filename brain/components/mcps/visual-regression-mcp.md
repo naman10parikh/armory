@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:47:23Z"
 ---
 ## What it is
 Enables AI-assisted visual regression testing by capturing baselines, comparing screenshots, and using AI to judge whether visual differences are bugs or acceptable changes.

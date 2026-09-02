@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T02:54:44Z"
 ---
 ## What it is
 MCP server `Dokploy MCP Bridge`, catalogued on PulseMCP. Docker sidecar MCP server for Dokploy deployments with database queries, Docker operations, and container telemetry.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T10:09:03Z"
 ---
 ## What it is
 MCP server `TaskFlow`, catalogued on PulseMCP. Workflow orchestration platform for AI agents with scope-based permissions, real-time SSE streaming, and append-only audit logging.

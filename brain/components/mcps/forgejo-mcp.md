@@ -8,11 +8,13 @@ source_url: https://github.com/Sqcows/forgejo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-18T10:05:41Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Forgejo and Gitea instances, enabling AI assistants to interact with repositories, issues, pull requests, and more.

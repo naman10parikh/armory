@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:34:31Z"
 ---
 ## What it is
 Verified job search: every listing is opened and confirmed live and accepting applicants within the last 72 hours, and re-verified on a rolling clock, so agents can recommend jobs without ghost-job or dead-link risk. Read-only, no auth.

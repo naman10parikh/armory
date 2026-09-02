@@ -8,10 +8,12 @@ source_url: https://github.com/bitingsnakes/silkworm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-26T12:59:15Z"
 ---
 ## What it is
 MCP server `Silkworm`, catalogued on PulseMCP. Builds web scrapers with async crawling, HTML parsing, and CSS/XPath selectors.

@@ -8,10 +8,12 @@ source_url: https://github.com/subdownload/subdownload-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-27T12:05:10Z"
 ---
 ## What it is
 MCP server `SubDownload`, catalogued on PulseMCP. MCP server for YouTube transcript fetching, video search, channel browsing, and persistent knowledge base storage.

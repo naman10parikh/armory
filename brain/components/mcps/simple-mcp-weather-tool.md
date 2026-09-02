@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:05:27Z"
 ---
 ## What it is
 Fetches live weather data from Open-Meteo without an API key and returns structured JSON with location disambiguation, enabling weather queries in LM Studio chat.

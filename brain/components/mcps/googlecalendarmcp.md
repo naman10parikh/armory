@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:07:38Z"
 ---
 ## What it is
 MCP server for interacting with Google Calendar, enabling reading events from public calendars and, with OAuth, creating, updating, and deleting events.

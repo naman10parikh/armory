@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:03:54Z"
 ---
 ## What it is
 Read-only MCP server exposing MetaTrader 5 account and market data alongside Twelve Data quotes and technical indicators, with an LLM analysis layer.

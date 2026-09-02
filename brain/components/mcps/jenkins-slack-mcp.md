@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:02:18Z"
 ---
 ## What it is
 Enables triggering Jenkins builds from IDEs with Slack notifications, requiring only a one-time login.

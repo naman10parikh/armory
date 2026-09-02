@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:42:57Z"
 ---
 ## What it is
 This MCP server enables AI agents to manage artifacts across sessions by providing tools for searching, retrieving, and registering entries in a persistent ledger, ensuring consistency and traceability of agent outputs.

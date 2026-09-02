@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T17:03:04Z"
 ---
 ## What it is
 MCP server that connects AI coding agents to Pernosco debugging sessions for querying execution traces, inspecting variables, navigating call stacks, and tracing value histories through natural language.

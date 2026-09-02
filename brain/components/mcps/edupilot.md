@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T11:12:14Z"
 ---
 ## What it is
 A multi-agent AI tutor that delivers personalized lessons, resolves doubts with RAG, generates quizzes, and tracks progress, all accessible via MCP for Claude Desktop.

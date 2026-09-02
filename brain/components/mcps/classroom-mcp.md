@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T23:35:46Z"
 ---
 ## What it is
 Enables AI assistants to directly operate Google Classroom, including checking submissions, listing students, and creating assignments and announcements, with self-hosted deployment for data privacy.

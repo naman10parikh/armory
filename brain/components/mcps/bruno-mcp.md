@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-14T20:13:19Z"
 ---
 ## What it is
 MCP server that executes requests from Bruno API collections via the Bruno CLI tool, enabling API request execution and collection management.

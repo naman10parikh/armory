@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:07:53Z"
 ---
 ## What it is
 A minimal FastMCP server in Python demonstrating all four MCP primitives with tools for arithmetic, word counting, time, and logging, resources for server info and code snippets, and prompts for summarization and code review.

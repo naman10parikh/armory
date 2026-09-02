@@ -8,10 +8,12 @@ source_url: https://github.com/lokallost/abusech-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-10T02:56:32Z"
 ---
 ## What it is
 MCP server `Abuse.ch`, catalogued on PulseMCP. Integrates with abuse.ch threat intelligence platforms (MalwareBazaar, URLhaus, ThreatFox) to provide security reports for files, URLs, domains, and IP addresses with hash validation, concurrent API calls, and automatic response limiting for malware analysis and IOC enrichment.

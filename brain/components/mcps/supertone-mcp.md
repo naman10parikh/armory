@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-23T02:10:37Z"
 ---
 ## What it is
 MCP server for the Supertone TTS API. Generate natural speech, browse and preview the voice catalog, predict synthesis cost, and create cloned voices — directly from Claude Desktop, Cursor, or any MCP-compatible client. Supports Korean, English, Japanese, and 20+ other languages, with speed, pitch, 

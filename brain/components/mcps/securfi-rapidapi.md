@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-31T10:33:32Z"
 ---
 ## What it is
 MCP server `RapidAPI`, catalogued on PulseMCP. Accesse thousands of APIs on the RapidAPI Hub.

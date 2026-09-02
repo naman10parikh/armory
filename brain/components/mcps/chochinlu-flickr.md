@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T14:45:55Z"
 ---
 ## What it is
 MCP server `Flickr`, catalogued on PulseMCP. Integrates with the Flickr API for photo search, album management, tagging, metadata updates, and group operations with OAuth authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/ansh-riyal/fastmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-26T19:31:18Z"
 ---
 ## What it is
 MCP server `FastMCP Supply Chain Optimizer`, catalogued on PulseMCP. Demonstrates real-time supply chain optimization using Google Gemini for intelligent decision-making across inventory management, warehouse transfers, and reorder recommendations through a Flask web interface that processes supply chain events from CSV data and executes parallel tool calls for optimization decisions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T19:11:39Z"
 ---
 ## What it is
 Connects MCP-compatible AI assistants to Logseq graphs, enabling block-first operations, block references, and context graph building.

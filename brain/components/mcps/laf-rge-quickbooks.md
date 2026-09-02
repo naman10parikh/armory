@@ -8,10 +8,12 @@ source_url: https://github.com/laf-rge/quickbooks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-24T21:53:38Z"
 ---
 ## What it is
 MCP server `QuickBooks`, catalogued on PulseMCP. Integrates with QuickBooks Online API to query customers, invoices, accounts, transactions, and generate financial reports through natural language.

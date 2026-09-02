@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:34Z"
 ---
 ## What it is
 Drug-drug interaction checker for clinical LLMs, wrapping RxNorm, openFDA, and DailyMed to provide interaction severity, dose guides, and alternative recommendations.

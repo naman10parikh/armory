@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:35:33Z"
 ---
 ## What it is
 Enables MCP-compatible clients to call TokenHub's image generation and editing APIs through natural language, supporting text-to-image, image-to-image, and configurable model and endpoint settings.

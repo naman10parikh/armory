@@ -8,11 +8,13 @@ source_url: https://github.com/devbrother2024/my-mcp-server-250925
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 594
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2025-09-25T07:45:42Z"
 ---
 ## What it is
 Send friendly greetings in multiple languages, run quick calculations, and get the current time for any timezone. Generate images from text prompts to visualize ideas. Boost development with a ready-made code review prompt.

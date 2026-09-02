@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-28T00:33:03Z"
 ---
 ## What it is
 MCP server `PDF.co`, catalogued on PulseMCP. Integrates with PDF.co's cloud API to provide 30+ document processing tools including PDF conversion, form handling, OCR, merging, splitting, password protection, and invoice parsing for automated document workflows.

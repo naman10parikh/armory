@@ -8,11 +8,13 @@ source_url: https://github.com/zapier/zapier-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 210
+stars: 397
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 10
+forks: 58
+pushed_at: "2026-07-29T21:42:17Z"
 ---
 ## What it is
 MCP server `Zapier`, catalogued on PulseMCP. Generate a dynamic MCP server that connects to any of your favorite 8000+ apps on Zapier.

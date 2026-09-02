@@ -8,10 +8,12 @@ source_url: https://github.com/dazeb/markdown-downloader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-07-18T01:59:08Z"
 ---
 ## What it is
 MCP server `Markdown Downloader`, catalogued on PulseMCP. Downloads and processes Markdown content from URLs, enabling tasks like content aggregation, documentation management, and text analysis.

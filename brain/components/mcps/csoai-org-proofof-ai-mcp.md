@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T14:04:01Z"
 ---
 ## What it is
 MCP server `Proofof AI`, catalogued on PulseMCP. Python MCP server for proof-of-work verification and validation tools.

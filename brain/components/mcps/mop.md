@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:24:54Z"
 ---
 ## What it is
 A multi-agent orchestrator MCP server that enables LLM agents to collaborate on complex tasks by automating role assignment, inter-agent communication, and artifact integration. It provides tools for task decomposition, agent assignment, status tracking, code review, and result merging.

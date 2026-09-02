@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-10T20:51:31Z"
 ---
 ## What it is
 Enables searching tours on eto.travel using browser automation via Playwright. Supports finding a single tour or a categorized selection (budget, optimal, premium) based on filters like destination, departure city, nights, and month.

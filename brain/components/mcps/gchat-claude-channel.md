@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T18:14:46Z"
 ---
 ## What it is
 Enables users to interact with their live Claude Code session from Google Chat by injecting messages and receiving replies, bridging terminal and mobile conversations.

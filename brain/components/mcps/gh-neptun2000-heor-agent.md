@@ -8,10 +8,12 @@ source_url: https://github.com/neptun2000/heor-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-27T16:47:53Z"
 ---
 ## What it is
 MCP server `HEOR Agent`, catalogued on PulseMCP. Automates health economics and outcomes research including cost-effectiveness modeling and HTA dossier preparation.

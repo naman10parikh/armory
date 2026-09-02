@@ -8,10 +8,12 @@ source_url: https://github.com/montimage/mitre-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-26T07:14:37Z"
 ---
 ## What it is
 MCP server `MITRE ATT&CK`, catalogued on PulseMCP. Access the MITRE ATT&CK cybersecurity knowledge base

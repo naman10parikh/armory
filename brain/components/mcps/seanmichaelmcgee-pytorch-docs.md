@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-20T01:32:55Z"
 ---
 ## What it is
 MCP server `PyTorch Documentation Search`, catalogued on PulseMCP. Provides semantic search over PyTorch documentation with code-aware results, enabling developers to find relevant APIs, examples, and error messages through intelligent ranking that prioritizes code snippets or conceptual explanations based on query type.

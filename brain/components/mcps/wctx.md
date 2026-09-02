@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:36:55Z"
 ---
 ## What it is
 Wctx is an MCP server that captures structured, evidence-backed context from completed coding agent sessions and serves it to future sessions, enabling cross-repository knowledge reuse without cloud dependencies or embeddings.

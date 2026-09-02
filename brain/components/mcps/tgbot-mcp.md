@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T01:12:53Z"
 ---
 ## What it is
 A trusted, open-source MCP server for Telegram that enables LLMs to send messages, structured notifications with buttons, and wait for user replies using only bot token authentication.

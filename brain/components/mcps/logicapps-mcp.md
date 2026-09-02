@@ -8,11 +8,13 @@ source_url: https://github.com/laveeshb/logicapps-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-11T19:54:46Z"
 ---
 ## What it is
 Enables managing and debugging Azure Logic Apps through natural language, with tools for listing, debugging, creating, updating, and deleting workflows.

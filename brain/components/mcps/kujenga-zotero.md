@@ -8,10 +8,12 @@ source_url: https://github.com/kujenga/zotero-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 151
+stars: 161
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-08-07T03:32:04Z"
 ---
 ## What it is
 MCP server `Zotero`, catalogued on PulseMCP. Integrates with Zotero to enable searching libraries, retrieving metadata, and accessing full-text content for scholarly research workflows.

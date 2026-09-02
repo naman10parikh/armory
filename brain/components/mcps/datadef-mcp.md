@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:28:12Z"
 ---
 ## What it is
 Generate, edit, and export data-architecture diagrams from any MCP client. Typed tables with columns, column-level lineage, real tool icons, PNG export straight back into the chat.

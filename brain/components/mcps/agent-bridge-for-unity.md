@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-09T11:31:42Z"
 ---
 ## What it is
 Enables AI agents to control the Unity Editor through MCP, allowing scene building, runtime scripting, visual QA, and more.

@@ -8,11 +8,13 @@ source_url: https://github.com/Neo1228/spring-boot-starter-swagger-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-02T11:03:47Z"
 ---
 ## What it is
 Turns any SpringDoc-powered Spring Boot API into a production-ready MCP gateway, exposing existing controllers as safe MCP tools with discovery, validation, response shaping, and workflow orchestration.

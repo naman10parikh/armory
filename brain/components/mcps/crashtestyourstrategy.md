@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:48:31Z"
 ---
 ## What it is
 Portfolio & trading-strategy stress diagnostics for AI agents: multi-asset stress with hedge-break detection, a daily preregistered regime outlook and deflated-Sharpe backtest-integrity checks. Remote streamable-HTTP endpoint with a free tier (no key); this repo is the public server card.

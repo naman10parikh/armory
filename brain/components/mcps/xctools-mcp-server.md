@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-27T12:25:32Z"
 ---
 ## What it is
 Provides structured access to Xcode development tools including xcrun, xcodebuild, and xctrace for building, testing, and analyzing projects.

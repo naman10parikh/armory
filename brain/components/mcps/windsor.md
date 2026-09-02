@@ -8,10 +8,12 @@ source_url: https://github.com/windsor-ai/windsor_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-19T03:45:07Z"
 ---
 ## What it is
 MCP server `Windsor`, catalogued on PulseMCP. Interpret, explore, and extract insights from the data you’ve already integrated with Windsor.ai.

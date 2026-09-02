@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:51:23Z"
 ---
 ## What it is
 A read-only MCP server for Rollbar investigations, enabling listing configured environments and making authenticated GET requests to the Rollbar API.

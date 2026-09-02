@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T17:10:28Z"
 ---
 ## What it is
 Deterministic legal citation verification for AI-generated legal briefs. Three-layer verification: CourtListener database lookup, quote-match against primary source, and LLM edge-case verification. Free tier available.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:11:15Z"
 ---
 ## What it is
 MCP server for safe batch execution of IBM SPSS Statistics syntax (.sps) via stats.exe Production mode, with static security checks and sandboxed output.

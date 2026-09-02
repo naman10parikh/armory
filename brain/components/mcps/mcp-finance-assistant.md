@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-15T02:33:16Z"
 ---
 ## What it is
 Connects Notion databases with LLMs to manage and analyze personal finances through natural language queries and bank statement uploads.

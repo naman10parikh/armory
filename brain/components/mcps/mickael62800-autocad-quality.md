@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T14:42:42Z"
 ---
 ## What it is
 MCP server `AutoCAD Quality Check`, catalogued on PulseMCP. MCP server for quality verification of AutoCAD VRD drawings with 9 tools for layer validation, block naming, and graphics standards compliance.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-10T16:56:15Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian vaults through REST API to enable reading, writing, creating, and deleting markdown files within knowledge bases for note-taking, content creation, and information retrieval workflows.

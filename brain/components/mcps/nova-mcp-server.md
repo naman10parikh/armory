@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T09:32:23Z"
 ---
 ## What it is
 Exposes the Nova personal AI agent's tools (web search, notes, long-term memory) over the Model Context Protocol. Allows any MCP-compatible client to use these tools independently of the Telegram agent.

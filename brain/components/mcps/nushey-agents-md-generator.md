@@ -8,10 +8,12 @@ source_url: https://github.com/nushey/agents-md-generator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T01:22:20Z"
 ---
 ## What it is
 MCP server `AGENTS.md Generator`, catalogued on PulseMCP. Analyzes codebases with tree-sitter and generates AGENTS.md files for AI coding agents.

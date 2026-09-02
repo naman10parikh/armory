@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T19:13:03Z"
 ---
 ## What it is
 Generate professional changelogs from git history and suggest semver bumps, with optional AI enhancement via Claude.

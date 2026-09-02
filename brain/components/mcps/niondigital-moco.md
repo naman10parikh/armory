@@ -8,10 +8,12 @@ source_url: https://github.com/niondigital/moco-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-06T10:25:11Z"
 ---
 ## What it is
 MCP server `MOCO`, catalogued on PulseMCP. Integrates with MOCO's time tracking and project management platform to provide conversational access to activities, projects, holidays, presences, and sick days data with vacation planning assistance, productivity insights, and work-life balance analysis.

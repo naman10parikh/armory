@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T17:47:46Z"
 ---
 ## What it is
 An MCP server that audits a contract liability clause against a derived company standard, producing a verdict only when grounded in retrieved evidence and passing a faithfulness check. It abstains with 'insufficient-grounding' when evidence is too weak.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T20:00:50Z"
 ---
 ## What it is
 Remote MCP server for Amika: manage sandboxes and agent sessions from any MCP client, including Claude mobile app.

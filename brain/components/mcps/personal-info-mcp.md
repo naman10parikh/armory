@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T08:48:17Z"
 ---
 ## What it is
 Stores and retrieves personal information fields securely, allowing Claude to access your name, address, email, and professional details without re-typing them.

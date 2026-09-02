@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T15:24:55Z"
 ---
 ## What it is
 Enables interaction with the Dog API through natural language, supporting operations like listing breeds, fetching images, and more.

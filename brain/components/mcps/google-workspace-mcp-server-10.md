@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T04:56:00Z"
 ---
 ## What it is
 A hardened, safety-first Google Calendar MCP server enabling AI agents to read and manage calendars with strict data isolation and runtime security limits.

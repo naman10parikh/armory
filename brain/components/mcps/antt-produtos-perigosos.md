@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:42:57Z"
 ---
 ## What it is
 Read-only MCP server for querying official Brazilian ANTT data on dangerous goods, with pay-per-use hosted access.

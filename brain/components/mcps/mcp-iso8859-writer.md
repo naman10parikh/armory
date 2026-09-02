@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T22:36:55Z"
 ---
 ## What it is
 Enables writing and editing files in ISO-8859-1 encoding, automatically converting UTF-8 content to ISO-8859-1 for legacy codebases.

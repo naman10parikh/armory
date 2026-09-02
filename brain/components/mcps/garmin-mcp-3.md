@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:53:44Z"
 ---
 ## What it is
 Exposes Garmin Connect health and activity data (steps, sleep, heart rate, etc.) via MCP tools, with built-in login and MFA support.

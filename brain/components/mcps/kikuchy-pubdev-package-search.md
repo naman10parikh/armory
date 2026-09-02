@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-06T03:20:54Z"
 ---
 ## What it is
 MCP server `Pub.dev Package Search`, catalogued on PulseMCP. Enables natural language search for Dart and Flutter packages on pub.dev, providing detailed package information, scores, and metrics through conversational queries.

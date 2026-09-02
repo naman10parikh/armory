@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T13:12:37Z"
 ---
 ## What it is
 A unified MCP server that combines GitHub, local Git, Slack, web fetching, persistent memory, and filesystem tools into a single configuration entry, with dangerous capabilities like shell execution disabled by default.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-02T02:35:28Z"
 ---
 ## What it is
 Enables AI agents to extract design systems, analyze components, and maintain design-code consistency from Figma files, providing intelligent component analysis and accessibility compliance.

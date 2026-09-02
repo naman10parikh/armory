@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T11:00:51Z"
 ---
 ## What it is
 Enables text-only LLMs to analyze images by routing them to an OpenAI-compatible vision backend, supporting local files, URLs, and data URLs.

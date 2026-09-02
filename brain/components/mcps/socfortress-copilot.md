@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-03T17:49:17Z"
 ---
 ## What it is
 MCP server `SOCFortress CoPilot`, catalogued on PulseMCP. Access to SOCFortress CoPilot security operations API for investigations, reports, and IOC management.

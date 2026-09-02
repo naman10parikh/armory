@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:24:59Z"
 ---
 ## What it is
 An MCP server for freelancers and agencies that drafts client proposals and business emails — quotes, invoices, follow-ups, scope changes, and more — in your own voice, running locally with no API key or cloud.

@@ -8,10 +8,12 @@ source_url: https://github.com/vetcoders/unicode-puzzles-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T05:21:08Z"
 ---
 ## What it is
 MCP server `Unicode Steganography Puzzles`, catalogued on PulseMCP. Creates and manages steganography puzzles that hide messages within Unicode characters, offering template-based generation with configurable difficulty levels and persistent storage of puzzle metadata.

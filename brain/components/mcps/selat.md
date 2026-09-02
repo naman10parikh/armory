@@ -8,11 +8,13 @@ source_url: https://github.com/fajarhide/selat
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T17:43:19Z"
 ---
 ## What it is
 Centralizes OAuth connections and tool access for AI agents, providing a single credential to call multiple services via MCP and REST with consistent errors and pagination.

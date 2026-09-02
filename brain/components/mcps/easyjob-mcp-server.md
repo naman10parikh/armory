@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T09:13:40Z"
 ---
 ## What it is
 An MCP server for the easyJOB REST API that manages OAuth tokens and provides tools for user lookup, job search, time tracking, and generic entity CRUD operations.

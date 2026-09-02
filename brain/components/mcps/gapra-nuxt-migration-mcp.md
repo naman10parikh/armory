@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-30T00:18:08Z"
 ---
 ## What it is
 Provides automated analysis, audit, and code generation to migrate Nuxt 2/3 projects to Nuxt 3/4, with orchestrated multi-server workflow support.

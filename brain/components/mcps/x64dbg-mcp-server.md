@@ -8,11 +8,13 @@ source_url: https://github.com/bromoket/x64dbg_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 113
+stars: 125
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 29
+pushed_at: "2026-06-08T22:41:50Z"
 ---
 ## What it is
 Enables AI assistants to control the x64dbg debugger through natural language, providing tools for breakpoints, memory, disassembly, tracing, PE dumping, and anti-debug bypass, all locally via stdio.

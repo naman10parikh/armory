@@ -8,10 +8,12 @@ source_url: https://github.com/houmingya/llm_mcp_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-08T11:57:32Z"
 ---
 ## What it is
 MCP server `Knowledge Graph Toolkit`, catalogued on PulseMCP. Intelligent tool scheduling system with knowledge graph construction, database operations, and document processing through ChromaDB integration.

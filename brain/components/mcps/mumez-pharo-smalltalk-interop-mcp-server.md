@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 12
+forks: 10
+pushed_at: "2026-08-11T12:50:23Z"
 ---
 ## What it is
 Pharo Smalltalk integration enabling code evaluation, class/method introspection, package management, test execution, and project installation for interactive development with Pharo images.

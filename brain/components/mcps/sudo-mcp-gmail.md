@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T12:12:13Z"
 ---
 ## What it is
 An MCP server for Gmail that allows AI assistants to read, search, compose drafts, send emails, and manage labels with attachment support.

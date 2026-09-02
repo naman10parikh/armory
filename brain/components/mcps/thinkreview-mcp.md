@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:26:46Z"
 ---
 ## What it is
 Hosted MCP server that enables AI code reviews on GitHub, GitLab, Azure DevOps, and Bitbucket PR/MR URLs via a single tool (review_url_code), integrating with Cursor, Claude Code, Claude Desktop, and GitHub Copilot through OAuth or Bearer token authentication.

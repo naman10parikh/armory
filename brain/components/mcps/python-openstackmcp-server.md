@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-04-03T15:34:43Z"
 ---
 ## What it is
 Enables AI assistants to manage OpenStack cloud resources including compute, images, identity, network, and block storage via the Model Context Protocol.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-22T23:10:03Z"
 ---
 ## What it is
 MCP server `Lowes Toolkit`, catalogued on PulseMCP. Collection of specialized servers for dice rolling, price checking, notifications, and Lowe's-specific integrations with GitHub, Redis, PostgreSQL, and Google Maps, extending AI capabilities through containerized Python and TypeScript implementations.

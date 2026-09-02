@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-06-13T13:55:16Z"
 ---
 ## What it is
 MCP server for Interactive Brokers TWS API that enables AI assistants to retrieve portfolio, account information, and real-time market prices.

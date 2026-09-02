@@ -8,10 +8,12 @@ source_url: https://github.com/ancrz/penpot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-02-22T23:45:41Z"
 ---
 ## What it is
 MCP server `Penpot`, catalogued on PulseMCP. Provides full programmatic access to self-hosted Penpot design instances with 68 tools covering projects, shapes, text, exports, comments, and component management.

@@ -8,10 +8,12 @@ source_url: https://github.com/patrickheneise/rivian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-12T01:38:44Z"
 ---
 ## What it is
 MCP server `Rivian`, catalogued on PulseMCP. Integrates with Rivian's electric vehicle platform to monitor battery levels, track location, and control remote operations like door locks and climate systems.

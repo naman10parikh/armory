@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:08Z"
 ---
 ## What it is
 Enables consultation of official negative debt certificates (Certidão Negativa de Débitos) from the Mogi das Cruzes city government (São Paulo, Brazil) via a read-only MCP tool, usable with any MCP-compatible client and paid per query with prepaid credits.

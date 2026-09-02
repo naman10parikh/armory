@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:28:07Z"
 ---
 ## What it is
 Enables using PAIDEIA's local course management and action tools with Alt's local model, providing deterministic tools for course initialization, PDF ingestion, exam radar import, and artifact management.

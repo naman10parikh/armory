@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-15T15:57:18Z"
 ---
 ## What it is
 Enables natural language querying of football/soccer data via the API-Football service, providing access to leagues, teams, players, fixtures, standings, and statistics.

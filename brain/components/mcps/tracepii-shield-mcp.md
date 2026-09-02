@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T18:09:33Z"
 ---
 ## What it is
 Redacts PII from LLM traces and tool payloads before they leave review, enabling PII scanning, payload redaction, sensitive field classification, privacy receipts, and trace audit exports.

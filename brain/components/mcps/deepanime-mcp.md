@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:25:54Z"
 ---
 ## What it is
 Read-only MCP server exposing Deep Anime AI's image generation knowledge, including styles, pricing, and official links, to MCP-compatible AI clients.

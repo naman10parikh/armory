@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:14:03Z"
 ---
 ## What it is
 MCP server for querying a personal knowledge base using semantic RAG, powered by DeepSeek and local embeddings from Ollama.

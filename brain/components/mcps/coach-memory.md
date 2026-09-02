@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T06:10:10Z"
 ---
 ## What it is
 A personal career-coach memory service that ingests coaching logs, embeds them for semantic search, and exposes the memory to Claude clients via MCP, with a Next.js dashboard for browsing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T23:36:00Z"
 ---
 ## What it is
 An MCP server for AI-assisted Glean connector development, enabling scaffolding, schema mapping, code generation, and testing of Glean connectors directly from your editor.

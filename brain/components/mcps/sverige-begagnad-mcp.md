@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:00:32Z"
 ---
 ## What it is
 MCP server that searches Swedish second-hand marketplaces (Blocket and Tradera) for items, with optional Facebook Marketplace support, tailored for the Växjö/Älmhult area.

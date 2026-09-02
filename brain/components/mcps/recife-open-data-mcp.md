@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T01:44:43Z"
 ---
 ## What it is
 MCP server to query public open data from Recife, Brazil using natural language. It exposes tools for schema exploration and SQL query generation via Gemini 2.5 Flash, backed by a local DuckDB database.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-22T00:23:13Z"
 ---
 ## What it is
 MCP server `ReviewWebsite`, catalogued on PulseMCP. Converts URLs to Markdown, scrapes web content, extracts links, and generates summaries of web pages for efficient content analysis and data extraction.

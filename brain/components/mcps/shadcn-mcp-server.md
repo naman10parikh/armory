@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-22T10:55:34Z"
 ---
 ## What it is
 Provides AI assistants with direct access to shadcn/ui components and blocks, enabling real-time fetching of component source code, documentation, and implementation examples.

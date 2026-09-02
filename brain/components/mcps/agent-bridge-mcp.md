@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T19:52:24Z"
 ---
 ## What it is
 Enables asynchronous messaging and task handoff between Amazon Quick (local desktop) and Kiro (cloud DevSpaces) via an S3-backed message store.

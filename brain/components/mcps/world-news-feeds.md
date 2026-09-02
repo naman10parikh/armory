@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:50:09Z"
 ---
 ## What it is
 Provides curated international news feeds with tools to list, read, and fetch RSS/Atom/RDF feeds. Enables AI agents to access and filter world news data through natural language.

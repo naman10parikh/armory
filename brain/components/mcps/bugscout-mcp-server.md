@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:14:15Z"
 ---
 ## What it is
 Enables autonomous web QA by exposing Playwright browser control as MCP tools for navigation, accessibility snapshotting, interaction, and bug detection.

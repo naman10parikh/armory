@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:17:58Z"
 ---
 ## What it is
 An AI agent that analyzes and transforms music projects in REAPER, explaining why it sounds a certain way and reshaping it toward a desired style through natural language interaction.

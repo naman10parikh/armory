@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T00:15:36Z"
 ---
 ## What it is
 Provides MCP supervision and knowledge tools for controlling an LLM-driven Meridian 59 character, enabling durable goal management, persona configuration, and audited gameplay.

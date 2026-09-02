@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T06:07:11Z"
 ---
 ## What it is
 MCP server `TanStack Start Dev Tool`, catalogued on PulseMCP. Bridge TanStack Devtools with MCP-capable coding agents via WebSocket for local development inspection and debugging.

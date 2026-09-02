@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:50:27Z"
 ---
 ## What it is
 An MCP server that provides a structured, persistent scratchpad for hard reasoning, with staged reasoning and self-critique, built for local models.

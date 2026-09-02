@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T20:19:41Z"
 ---
 ## What it is
 Enables searching Elsevier's Scopus database for scientific literature, retrieving abstracts and metadata, and exporting results in RIS or BibTeX format.

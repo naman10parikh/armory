@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:38:37Z"
 ---
 ## What it is
 Uses Claude as an independent second-model reviewer inside Codex, performing reviews on disposable Git snapshots with structured findings.

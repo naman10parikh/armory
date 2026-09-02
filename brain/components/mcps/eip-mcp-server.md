@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T11:31:58Z"
 ---
 ## What it is
 Bridges local development environments with the Engineering Intelligence Platform (EIP), enabling AI coding agents to manage SSOT, generate implementation/test/security plans, and synchronize architectural knowledge.

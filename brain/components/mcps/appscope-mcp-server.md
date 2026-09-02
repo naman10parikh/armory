@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T22:19:41Z"
 ---
 ## What it is
 Self-hosted MCP server for app market intelligence, enabling tools to query app download/revenue estimates, ad intensity proxies, creator mentions, and rank history from local collected data.

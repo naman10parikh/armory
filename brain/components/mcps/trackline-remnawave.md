@@ -8,10 +8,12 @@ source_url: https://github.com/trackline/mcp-remnawave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-07-30T19:31:55Z"
 ---
 ## What it is
 MCP server `Remnawave`, catalogued on PulseMCP. Integrates with Remnawave VPN proxy management panel for user accounts, node configuration, traffic analytics, and subscription handling.

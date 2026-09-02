@@ -8,10 +8,12 @@ source_url: https://github.com/undici77/mcpwebsearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-15T11:50:48Z"
 ---
 ## What it is
 MCP server `WebSearch`, catalogued on PulseMCP. Parallel web search across multiple search engines, social media platforms, and web archives with concurrent execution and caching

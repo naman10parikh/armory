@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T22:58:47Z"
 ---
 ## What it is
 A production-quality MCP server for querying Cisco security advisories via the PSIRT OpenVuln API v2, enabling LLM-powered interfaces to search, filter, and analyze Cisco vulnerability data.

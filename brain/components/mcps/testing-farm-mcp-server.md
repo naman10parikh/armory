@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-10T17:29:44Z"
 ---
 ## What it is
 Enables submitting FMF-based test requests to Testing Farm and listing available OS composes for testing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:29:37Z"
 ---
 ## What it is
 Exposes publisher journalism to LLMs and agent frameworks via search, retrieval, source grounding, and consistent citation, enabling accurate content retrieval with attribution and policy enforcement.

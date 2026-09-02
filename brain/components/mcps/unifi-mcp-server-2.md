@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-10T04:44:07Z"
 ---
 ## What it is
 Enables MCP-capable clients to interact with UniFi Site Manager and UniFi Dream Machine telemetry, providing tools for client details, ISP metrics, and more.

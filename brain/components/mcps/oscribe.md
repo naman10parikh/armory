@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T17:28:02Z"
 ---
 ## What it is
 Vision-based desktop automation MCP server that controls any application via screenshot and AI vision, enabling UI automation through natural language commands.

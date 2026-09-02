@@ -12,6 +12,8 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-02-18T00:47:50Z"
 ---
 ## What it is
 MCP server `Chrome Tools`, catalogued on PulseMCP. Integrates with Chrome's DevTools Protocol to enable remote control of browser tabs, including JavaScript execution, screenshot capture, and network traffic monitoring.

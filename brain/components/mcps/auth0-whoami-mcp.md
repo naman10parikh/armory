@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:56:57Z"
 ---
 ## What it is
 A minimal remote MCP server for Auth0 Custom Extensions that provides a single tool, who_am_i, returning safe identity claims from the authenticated Auth0 access token without exposing sensitive credentials.

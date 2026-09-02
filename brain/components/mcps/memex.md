@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T03:10:19Z"
 ---
 ## What it is
 memex is a developer context-continuity MCP server — it watches your git repos and builds a temporal knowledge graph (modules, symbols, decisions, open problems) via Graphiti + Neo4j, then serves it to any AI coding agent over MCP. Every edge carries a validity window and a confidence score that dec

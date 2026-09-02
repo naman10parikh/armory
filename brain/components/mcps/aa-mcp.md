@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T16:05:20Z"
 ---
 ## What it is
 Enables AI agents to query LLM and multimodal model benchmarks, pricing, speed, and track model updates via structured diffs using the Artificial Analysis public API.

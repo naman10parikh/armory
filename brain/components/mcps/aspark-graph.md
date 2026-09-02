@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:23:39Z"
 ---
 ## What it is
 A lean, local knowledge graph that joins a repo's code to its aSPARK delivery artifacts, enabling agents to trace user stories to code and assess impact of changes, served over MCP.

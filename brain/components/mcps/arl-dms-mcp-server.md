@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:59:25Z"
 ---
 ## What it is
 Exposes the AKIJ Resources Document Management System to MCP clients, enabling search, listing, and retrieval of documents across risk databases, Google Drive, and legal sources via stdio JSON-RPC 2.0. Provides read-only access to 14,500+ indexed files and folders with tools for risk lookups and Ban

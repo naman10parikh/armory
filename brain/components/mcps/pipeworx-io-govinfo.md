@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:11:22Z"
 ---
 ## What it is
 MCP server `GovInfo`, catalogued on PulseMCP. US government publications — laws, CFR, Federal Register, and congressional records — via the Pipeworx gateway.

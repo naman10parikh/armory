@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:08:13Z"
 ---
 ## What it is
 MCP server for MestReNova 15 that enables processing 1D NMR data, importing ChemDraw structures, running Mnova Verify, and writing back assignments with audit trails.

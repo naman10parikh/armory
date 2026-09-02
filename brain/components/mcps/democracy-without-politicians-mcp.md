@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:35:35Z"
 ---
 ## What it is
 Enables users to search and read verbatim passages from Terry Bouricius's book 'Democracy Without Politicians', honoring the author's request to display his actual words rather than AI summaries.

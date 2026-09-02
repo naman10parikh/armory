@@ -8,10 +8,12 @@ source_url: https://github.com/cyberagiinc/devdocs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2076
+stars: 2105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 193
+pushed_at: "2026-02-04T16:24:24Z"
 ---
 ## What it is
 MCP server `DevDocs`, catalogued on PulseMCP. Free, private, UI-based software documentation context management server. Designed with software developers in mind.

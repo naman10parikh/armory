@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-24T02:38:41Z"
 ---
 ## What it is
 MCP server `DingDing (DingTalk)`, catalogued on PulseMCP. Integrates with DingDing (DingTalk) messaging platform to enable automated notifications, team alerts, and AI-generated content delivery through multiple message formats including text, markdown, images, and interactive cards.

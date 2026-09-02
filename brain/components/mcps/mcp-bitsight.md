@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T21:05:26Z"
 ---
 ## What it is
 Exposes BitSight Security Ratings as tools for AI assistants, enabling queries on company security scores, company search, details, vulnerabilities, portfolio, risk vectors, and alerts.

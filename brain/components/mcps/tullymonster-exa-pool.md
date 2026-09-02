@@ -8,10 +8,12 @@ source_url: https://github.com/tullymonster/exa-pool-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-11T08:28:24Z"
 ---
 ## What it is
 MCP server `Exa Pool`, catalogued on PulseMCP. Wraps the Exa Pool API for semantic web search through AI assistants

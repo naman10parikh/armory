@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-19T07:16:07Z"
 ---
 ## What it is
 MCP server `Twilio SMS`, catalogued on PulseMCP. Integrates with Twilio to enable sending SMS messages and retrieving message logs through a FastMCP framework with phone validation and authentication.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-04T02:08:53Z"
 ---
 ## What it is
 MCP server `DingTalk`, catalogued on PulseMCP. Provides integration with the DingTalk API, enabling easy deployment and scaling of services like chatbots and data processing pipelines.

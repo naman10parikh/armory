@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:01:30Z"
 ---
 ## What it is
 Enables Claude to securely read Sleeper fantasy football league data over the internet via the public API, supporting access from both Claude Desktop and mobile devices.

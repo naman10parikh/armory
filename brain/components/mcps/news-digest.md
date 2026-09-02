@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T01:57:55Z"
 ---
 ## What it is
 Fetches news from Telegram and RSS sources and serves them to LLM agents via MCP.

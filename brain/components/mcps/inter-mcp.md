@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T19:39:01Z"
 ---
 ## What it is
 Connects your Inter bank account to AI assistants via Open Finance Brasil, enabling read-only queries about balances, statements, credit card bills, and investments in natural language.

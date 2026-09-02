@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:55Z"
 ---
 ## What it is
 Hosted MCP server that exposes Stargate's API to AI agents via a deterministic, 1:1 tool mapping, enabling crypto/DeFi interactions without authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T10:58:38Z"
 ---
 ## What it is
 Manage Facebook and Instagram ad campaigns directly from Claude Code, enabling performance viewing, budget adjustments, and campaign control without opening Ads Manager.

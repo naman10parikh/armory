@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:45Z"
 ---
 ## What it is
 Este servidor MCP permite consultar recibos oficiais do Registradores (ARISP) de forma somente leitura, permitindo download de recibos de certidões para integração com agentes de IA.

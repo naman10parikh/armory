@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:54:53Z"
 ---
 ## What it is
 A read-only Gmail MCP server that searches email, fetches complete threads, and stores them as local Markdown and JSON for offline analysis by other agents.

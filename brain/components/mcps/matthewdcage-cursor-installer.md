@@ -8,10 +8,12 @@ source_url: https://github.com/matthewdcage/cursor-mcp-installer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-11T14:16:52Z"
 ---
 ## What it is
 MCP server `Cursor MCP Installer`, catalogued on PulseMCP. Streamlines MCP server installation and configuration within Cursor IDE, automatically handling environment setup and creating necessary configuration entries in mcp.json.

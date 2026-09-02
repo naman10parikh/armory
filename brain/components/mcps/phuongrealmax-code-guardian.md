@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 6
+forks: 3
+pushed_at: "2025-12-25T12:09:42Z"
 ---
 ## What it is
 AI-powered code refactor engine with 80+ MCP tools for code analysis, hotspot detection, complexity metrics, persistent memory, and automated refactoring plans.

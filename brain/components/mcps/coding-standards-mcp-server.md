@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T11:43:07Z"
 ---
 ## What it is
 Automatically enforces team coding standards in AI-assisted development by providing an MCP server that AI assistants can query for language-specific standards, style guides, and best practices.

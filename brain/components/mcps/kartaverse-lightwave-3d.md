@@ -8,10 +8,12 @@ source_url: https://github.com/kartaverse/lightwave-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-02T20:22:23Z"
 ---
 ## What it is
 MCP server `LightWave 3D`, catalogued on PulseMCP. Controls LightWave 3D Modeler and Layout applications through the native Command Port interface for workflow automation.

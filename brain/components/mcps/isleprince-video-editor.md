@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T16:53:16Z"
 ---
 ## What it is
 MCP server `Video Editor (FFmpeg)`, catalogued on PulseMCP. MCP server for video editing operations using a Go/FFmpeg backend with a Node.js MCP adapter.

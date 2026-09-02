@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-14T16:23:05Z"
 ---
 ## What it is
 MCP server `OpenAI Agents`, catalogued on PulseMCP. Exposes OpenAI's agent capabilities for web search, file search, and computer actions through specialized agents and a multi-agent orchestrator that coordinates between them based on task requirements.

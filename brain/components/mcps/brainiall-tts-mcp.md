@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:48:55Z"
 ---
 ## What it is
 Hosted text-to-speech MCP server for AI agents with 54 neural voices in 9 languages, including Brazilian Portuguese. Pay-per-use API, no GPU or subscriptions needed.

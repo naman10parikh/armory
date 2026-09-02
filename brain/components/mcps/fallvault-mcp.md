@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T15:41:54Z"
 ---
 ## What it is
 MCP server for sovereign AES-256-GCM backup encryption and decryption. Enables encrypting, decrypting, verifying, and scoring passphrases with zero network calls.

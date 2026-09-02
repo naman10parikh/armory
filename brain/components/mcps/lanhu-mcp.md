@@ -8,11 +8,13 @@ source_url: https://github.com/isolamenter/lanhuMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:46:28Z"
 ---
 ## What it is
 Converts a Lanhu design page into a Unity UGUI prefab YAML snapshot, enabling Unity developers to generate UI prefabs from Lanhu designs.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T13:59:21Z"
 ---
 ## What it is
 MCP server `ProdPoke`, catalogued on PulseMCP. AI QA tester that scans websites for bugs, SEO issues, performance, and accessibility via chat.

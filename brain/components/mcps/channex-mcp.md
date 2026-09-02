@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-16T23:50:47Z"
 ---
 ## What it is
 Enables interaction with the Channex.io API for managing properties, room types, rate plans, availability, rates, inventory, and channel connections through natural language.

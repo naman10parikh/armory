@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T01:17:17Z"
 ---
 ## What it is
 Federated, privacy-first shared memory for AI coding assistants that lets you capture, review, and share team knowledge via git without a central server.

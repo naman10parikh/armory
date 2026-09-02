@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T04:00:50Z"
 ---
 ## What it is
 Allows AI assistants to deploy static frontend directories to Surge.sh via a single command, without requiring local Surge installation.

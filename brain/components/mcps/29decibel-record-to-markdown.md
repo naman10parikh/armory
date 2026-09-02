@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-20T19:15:03Z"
 ---
 ## What it is
 MCP server `Claude Conversations to Markdown`, catalogued on PulseMCP. Integrates with markdown files and Apple Notes to automatically save and format Claude conversation content for easy reference and sharing.

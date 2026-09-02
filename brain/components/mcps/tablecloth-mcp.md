@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:26:35Z"
 ---
 ## What it is
 MCP server that discovers Korean e-Government and financial websites and launches them in a clean disposable Windows Sandbox (or macOS macSandbox) without requiring security software installation. It handles search and sandbox execution, leaving authentication and actual tasks to the user.

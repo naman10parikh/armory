@@ -8,10 +8,12 @@ source_url: https://github.com/appwrite/mcp-for-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-16T07:45:35Z"
 ---
 ## What it is
 MCP server `Appwrite Docs`, catalogued on PulseMCP. Provides intelligent access to Appwrite documentation through vector-based semantic search, direct page retrieval, and table of contents navigation for contextual API reference during development workflows.

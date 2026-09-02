@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T06:06:43Z"
 ---
 ## What it is
 A MCP server wrapper for Google's Gemini CLI that enables AI assistants to perform searches, have conversations, list sessions, and analyze files using Gemini's capabilities.

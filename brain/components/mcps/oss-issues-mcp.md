@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:07:59Z"
 ---
 ## What it is
 Enables triage of GitHub issues by fetching and filtering issues, checking claim status, and listing new open issues across a watch-list.

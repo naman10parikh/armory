@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:06:20Z"
 ---
 ## What it is
 MCP server for managing Yandex Direct advertising, Yandex Metrica analytics, Wordstat keyword research, and Yandex Webmaster SEO tools, with self-configuring OAuth; provides 153 tools for complete ad and search workflows from AI assistants.

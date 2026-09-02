@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-29T14:16:31Z"
 ---
 ## What it is
 MCP server `Shopify`, catalogued on PulseMCP. Integrates with Shopify to provide tools for retrieving product and customer data, enabling e-commerce analytics and automation without API complexities.

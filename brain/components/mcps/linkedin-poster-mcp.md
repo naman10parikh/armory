@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:54:53Z"
 ---
 ## What it is
 MCP server that lets you publish text and image posts to LinkedIn, fetch your profile, and check auth status using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:11:48Z"
 ---
 ## What it is
 Enables searching Google Custom Search Engine for images and saving them directly to the user's project directory.

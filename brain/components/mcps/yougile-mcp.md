@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:25:38Z"
 ---
 ## What it is
 A production-grade Model Context Protocol server for YouGile that lets AI agents read and manage projects, boards, tasks, employees, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-21T06:11:49Z"
 ---
 ## What it is
 Enables routing context and execution across AI tools like Claude, Cursor, Windsurf, and ChatGPT with a shared memory, task board, and context bus, plus local file conversion.

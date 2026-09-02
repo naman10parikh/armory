@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 0
+pushed_at: "2025-04-25T15:38:16Z"
 ---
 ## What it is
 A2A protocol agent implementation

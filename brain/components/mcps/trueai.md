@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T08:00:35Z"
 ---
 ## What it is
 Recommend and inspect AI SaaS apps from the TrueAI catalog (1,600+ apps) by need, name or URL.

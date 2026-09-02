@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-26T17:56:57Z"
 ---
 ## What it is
 An MCP server that generates professional infrastructure diagrams using the Python diagrams DSL, with first-class Azure support and GitHub Copilot integration for natural language diagram generation.

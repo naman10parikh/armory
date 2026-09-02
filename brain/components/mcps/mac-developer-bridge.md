@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-30T14:30:58Z"
 ---
 ## What it is
 Local macOS MCP bridge that gives ChatGPT shell, unrestricted filesystem access, real PTY sessions, background jobs, and read-only stored Codex history. ChatGPT stays the reasoning layer; the bridge makes no model calls.

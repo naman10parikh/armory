@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T09:52:00Z"
 ---
 ## What it is
 A local-first Graph-RAG system combining ChromaDB with metadata-based graph relationships and Gemini 2.5 Flash for intelligent Q&A over Obsidian vaults, supporting MCP clients like Claude Desktop, Cursor, and Raycast.

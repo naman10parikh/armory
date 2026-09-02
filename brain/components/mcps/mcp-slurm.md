@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-27T09:57:38Z"
 ---
 ## What it is
 Enables AI assistants to manage SLURM HPC clusters via SSH. Supports job submission, resource monitoring, queue management, and file operations.

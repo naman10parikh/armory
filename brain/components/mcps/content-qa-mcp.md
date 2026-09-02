@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:46:05Z"
 ---
 ## What it is
 Enables editorial content QA over the Model Context Protocol with four local tools that analyze readability, AI-sounding language, SEO on-page factors, and produce full reports where every finding includes an actionable fix.

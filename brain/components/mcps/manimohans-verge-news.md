@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-21T17:11:10Z"
 ---
 ## What it is
 MCP server `The Verge News`, catalogued on PulseMCP. Integrates with The Verge's RSS feed to provide up-to-date technology news, offering tools for fetching daily and weekly updates and searching specific topics within customizable time ranges.

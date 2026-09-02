@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-11T04:33:49Z"
 ---
 ## What it is
 High-performance MCP server providing direct MySQL access to Perfex CRM, enabling fast and secure management of customers, invoices, projects, and more via natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/mbailey/voicemode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1195
+stars: 1346
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 189
+pushed_at: "2026-08-31T13:13:57Z"
 ---
 ## What it is
 MCP server `Voice MCP`, catalogued on PulseMCP. Enables two-way voice conversations through multiple transport methods including local microphone recording and LiveKit room-based communication, with configurable STT/TTS services and automatic transport fallback for creating voice-enabled applications.

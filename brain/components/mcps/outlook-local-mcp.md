@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-30T06:34:47Z"
 ---
 ## What it is
 Local-first Microsoft Outlook MCP server: a single Go binary that manages calendar events and mail through the Microsoft Graph API over stdio, with tokens stored in the OS keychain and no Entra ID app registration required. Exposes four aggregate tools (calendar, mail, account, system) dispatched by

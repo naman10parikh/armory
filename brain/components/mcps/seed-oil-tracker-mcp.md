@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T18:50:39Z"
 ---
 ## What it is
 Seed oil (PUFA) data for 500+ US restaurant chains: letter grades, the oil each chain fries in, cleanest menu items, and rankings. Zero-dependency Python stdio server backed by the free hosted Seed Oil Tracker endpoint, no key or account needed.

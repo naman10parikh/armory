@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T07:27:03Z"
 ---
 ## What it is
 A COBOL-based MCP server that provides 7.5% sales tax calculations, demonstrating COBOL integration with modern API services.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:20:30Z"
 ---
 ## What it is
 Provides code intelligence for AI coding agents by indexing repositories into a hybrid knowledge graph, enabling agents to query dependencies, impact, and context through 28 MCP tools.

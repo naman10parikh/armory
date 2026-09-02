@@ -8,10 +8,12 @@ source_url: https://github.com/iceener/maps-streamable-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-27T13:22:16Z"
 ---
 ## What it is
 MCP server `Google Maps`, catalogued on PulseMCP. Integrates with Google Maps Platform APIs to provide place searching, detailed location information with ratings and reviews, and route computation with turn-by-turn directions across multiple travel modes for trip planning and navigation assistance.

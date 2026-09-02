@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:08Z"
 ---
 ## What it is
 Consulta oficial de veículos de outros estados via ECRVSP, com ferramenta de leitura única e integração MCP para múltiplos clientes.

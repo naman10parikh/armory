@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T23:39:50Z"
 ---
 ## What it is
 MCP server `Fusion 360`, catalogued on PulseMCP. Enables natural language 3D CAD modeling in Autodesk Fusion 360 from the terminal via approximately 80 parametric tools and a TCP socket interface on port 9876.

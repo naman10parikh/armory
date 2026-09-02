@@ -8,10 +8,12 @@ source_url: https://github.com/l-margiela/olx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-26T16:03:14Z"
 ---
 ## What it is
 MCP server `OLX`, catalogued on PulseMCP. Integrates with OLX marketplaces across five European domains using web scraping to search listings with filters and retrieve detailed property information including seller data for market research and price monitoring.

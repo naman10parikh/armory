@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T12:34:59Z"
 ---
 ## What it is
 Unofficial MCP server for Ghost CMS that enables managing posts, pages, tags, and images through any MCP-compatible client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T20:43:21Z"
 ---
 ## What it is
 A universal MCP server providing persistent, structured memory through a knowledge graph with graph storage, semantic vector search, and multi-hop traversal for AI agents and IDEs.

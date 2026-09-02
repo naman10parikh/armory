@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:06:30Z"
 ---
 ## What it is
 Turns AI coding hosts into a guided mobile-UI design tool with design interviews, token contracts, linters, and local browser preview.

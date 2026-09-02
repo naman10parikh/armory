@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T17:12:11Z"
 ---
 ## What it is
 Enables AI assistants to perform monocular depth estimation on images using Apple's Depth Pro model, with tools for single or batch processing and GPU management.

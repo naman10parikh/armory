@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-27T21:14:48Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Provides a bridge between Kubernetes clusters and AI systems for monitoring, troubleshooting, and managing resources like pods, deployments, and services without requiring direct kubectl access.

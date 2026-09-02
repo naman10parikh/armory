@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:34:33Z"
 ---
 ## What it is
 A local, evidence-driven MCP runtime and control plane for open-source maintainers that provides workspace-bounded tools including controlled file operations, command execution, validation primitives, durable execution records, and human review workflows via stdio and Streamable HTTP transports.

@@ -8,10 +8,12 @@ source_url: https://github.com/metoro-io/metoro-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-06-02T10:49:51Z"
 ---
 ## What it is
 MCP server `Metoro Kubernetes Observability`, catalogued on PulseMCP. MCP server enabling AI assistants to query and analyze Kubernetes telemetry data collected via eBPF instrumentation for observability and optimization.

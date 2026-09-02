@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-11T03:52:02Z"
 ---
 ## What it is
 MCP server `Kimi Code Review`, catalogued on PulseMCP. Consults Kimi AI as an adversarial code reviewer within Claude Code sessions.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-24T16:28:40Z"
 ---
 ## What it is
 MCP server `Magento GraphQL Docs`, catalogued on PulseMCP. Provides intelligent search and retrieval capabilities for Magento 2 GraphQL API documentation by ingesting markdown files into a SQLite database with full-text search indexing, enabling developers to quickly find documentation, code examples, and schema definitions through keyword searches and content discovery.

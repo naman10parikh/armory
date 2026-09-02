@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T15:10:17Z"
 ---
 ## What it is
 MCP server for managing product documentation as markdown files. Supports creating, reading, updating, deleting, and searching docs with optional semantic search.

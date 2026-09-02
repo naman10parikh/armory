@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T03:28:43Z"
 ---
 ## What it is
 Estimates the environmental footprint of your AI use — energy (kWh), miles driven, water used for cooling, and CO₂ — plus a prompt-efficiency score, working with any AI client by measuring token usage.

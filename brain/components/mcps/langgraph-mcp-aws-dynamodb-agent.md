@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:36:11Z"
 ---
 ## What it is
 MCP server for AWS DynamoDB CRM data, enabling LangGraph agents to discover and call tools to retrieve customer accounts and support tickets via the Model Context Protocol.

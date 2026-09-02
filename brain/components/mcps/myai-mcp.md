@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T01:37:22Z"
 ---
 ## What it is
 MCP server for the MyAi decentralized AI inference network, giving MCP-compatible agents access to inference, model listing, agent browsing, network stats, wallet balance, and agent hiring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:44:24Z"
 ---
 ## What it is
 CloudOps MCP is a read-only Model Context Protocol server that exposes normalized operational infrastructure context (logs, metrics, deployments, health) to AI agents through a small set of typed, bounded tools.

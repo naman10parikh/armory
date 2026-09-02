@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T02:40:30Z"
 ---
 ## What it is
 Token-optimized Serena MCP server for AI assistants, reduces context usage by 50% with zero functionality loss.

@@ -8,11 +8,13 @@ source_url: https://github.com/raw-labs/mxcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 70
+stars: 69
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-06-30T07:59:54Z"
 ---
 ## What it is
 Enterprise-grade MCP framework for building production-ready AI tools with data quality, security, audit trails, and comprehensive testing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T23:40:51Z"
 ---
 ## What it is
 Enables AI agents to send free and paid faxes to US and Canada numbers, check fax status, and purchase prepaid credits, all without leaving the chat.

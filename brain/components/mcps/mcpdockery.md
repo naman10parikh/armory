@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:40:35Z"
 ---
 ## What it is
 MCP server for natural-language control of local Docker, covering containers, images, volumes, networks, and Compose stacks, plus security scanning and diagnostics.

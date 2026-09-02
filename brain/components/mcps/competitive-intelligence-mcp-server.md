@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T03:57:09Z"
 ---
 ## What it is
 Provides structured competitive intelligence profiles and listing capabilities through natural language prompts, enabling on-demand sales collateral from a single source of truth.

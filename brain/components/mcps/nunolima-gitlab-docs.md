@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T14:39:32Z"
 ---
 ## What it is
 MCP server `GitLab Docs`, catalogued on PulseMCP. Searchable access to GitLab documentation from multiple repositories with full-text search.

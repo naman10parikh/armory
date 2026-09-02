@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-13T15:40:45Z"
 ---
 ## What it is
 Enables real-time friend presence tracking and seamless game joining in Roblox.

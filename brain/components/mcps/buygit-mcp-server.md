@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T06:11:43Z"
 ---
 ## What it is
 The only MCP that returns license + supply-chain risk + popularity + price in a single call. 78,094 curated Git assets. Zero config. MIT. Free forever.

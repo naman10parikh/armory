@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-20T02:33:05Z"
 ---
 ## What it is
 MCP server `AKShare Financial Data`, catalogued on PulseMCP. Provides direct access to AKShare's financial data capabilities for retrieving and analyzing market data, economic indicators, and financial statistics from Chinese and global markets without switching contexts.

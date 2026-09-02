@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T05:43:11Z"
 ---
 ## What it is
 Converts rough notes into a citation-grounded report, verifying each claim against source notes and handing off to SuperDocs with a faithfulness circuit breaker.

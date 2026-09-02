@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:09:51Z"
 ---
 ## What it is
 MCP server that converts Gupy job listings into structured data, candidate fit analysis, and preparation templates for AI clients, enabling candidates to better understand and apply to jobs with AI assistance.

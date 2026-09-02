@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:06:27Z"
 ---
 ## What it is
 An MCP server for auditing and improving a YouTube channel's discoverability by providing read-only access to channel catalog, analytics metrics, retention curves, search terms, and Studio CSV data, and ranking underperformers by recoverable views.

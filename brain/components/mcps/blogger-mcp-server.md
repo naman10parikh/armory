@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T02:50:07Z"
 ---
 ## What it is
 Enables AI models to interact with Google Blogger blogs, manage posts, labels, and retrieve blog information via API key or OAuth2.

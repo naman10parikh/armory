@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:56Z"
 ---
 ## What it is
 Consulta dados de cadastro no Conselho Regional de Odontologia de Roraima (CRO-RR) a partir de fonte oficial, oferecendo uma ferramenta de leitura para verificação de profissionais.

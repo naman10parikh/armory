@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:55:35Z"
 ---
 ## What it is
 Enables local read-only exploration of Quicken Simplifi financial data through MCP, with tools for searching transactions, categories, tags, and merchants, using a local SQLite cache and token-based authentication.

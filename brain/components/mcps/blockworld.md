@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-13T18:24:20Z"
 ---
 ## What it is
 Enables AI agents to build voxel structures in a 3D world using primitive shape tools like boxes, cylinders, cones, spheres, and tubes.

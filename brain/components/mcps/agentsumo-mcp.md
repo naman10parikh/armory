@@ -8,11 +8,13 @@ source_url: https://github.com/urban-ai-institute/kra35-prismx-agentsumo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-17T10:00:30Z"
 ---
 ## What it is
 Enables interactive design, execution, and analysis of SUMO traffic simulations through natural language, providing tools for scenario generation, policy experimentation, result analysis, and visualization.

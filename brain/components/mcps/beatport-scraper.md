@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-05T23:13:20Z"
 ---
 ## What it is
 Enables extracting metadata from Beatport track URLs, including preview audio, cover art, and track info, via an MCP server integrated with Claude Desktop.

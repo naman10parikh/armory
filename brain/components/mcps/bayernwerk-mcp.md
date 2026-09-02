@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T23:54:05Z"
 ---
 ## What it is
 Enables interaction with Bayernwerk Netz's MAP and e-fix portals, providing tools to list and retrieve orders, documents, installer data, and more through natural language.

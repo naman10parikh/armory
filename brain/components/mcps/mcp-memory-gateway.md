@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:17:33Z"
 ---
 ## What it is
 A FastAPI + FastMCP shared-memory gateway in front of Honcho v3 that provides a single shared brain for multiple AI agents to read from and write to, enabling context recall and change logging through bearer-authenticated endpoints.

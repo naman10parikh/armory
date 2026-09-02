@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T03:54:07Z"
 ---
 ## What it is
 Enables LLM agents to classify documents, extract fields, tables, and stamps, and run compliance reviews using Docflow's document automation platform via 41 MCP tools.

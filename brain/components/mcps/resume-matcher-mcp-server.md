@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T06:24:37Z"
 ---
 ## What it is
 Provides sandboxed file system tools (read, write, search, list, watch) over the Model Context Protocol, enabling resume matching and analysis workflows via an agent.

@@ -8,10 +8,12 @@ source_url: https://github.com/mcpjam/mcp-spec
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-15T05:32:51Z"
 ---
 ## What it is
 MCP server `Specification`, catalogued on PulseMCP. Provides searchable access to the complete MCP specification document using fuzzy search capabilities, enabling quick retrieval of protocol details through predefined section queries like 'Introduction', 'Core components', 'Connection lifecycle', 'Resources', 'Tools', and 'Authorization'.

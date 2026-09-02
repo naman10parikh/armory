@@ -8,10 +8,12 @@ source_url: https://github.com/icerhymers/spark-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T04:08:10Z"
 ---
 ## What it is
 MCP server `Spark Connect`, catalogued on PulseMCP. Query Apache Spark and Databricks clusters using DataFrame and SQL tools with read-only safety defaults.

@@ -8,10 +8,12 @@ source_url: https://github.com/jwulff/apple-voice-memo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-12T01:13:00Z"
 ---
 ## What it is
 MCP server `Apple Voice Memo`, catalogued on PulseMCP. Access Apple Voice Memos on macOS with tools for listing, retrieving audio, and generating transcripts.

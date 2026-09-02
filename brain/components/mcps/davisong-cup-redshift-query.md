@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T21:06:34Z"
 ---
 ## What it is
 MCP server `Redshift Query`, catalogued on PulseMCP. Enables AI assistants to run read-only SQL queries against Amazon Redshift with tools for table listing, schema inspection, and query execution.

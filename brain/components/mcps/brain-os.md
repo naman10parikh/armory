@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:33:28Z"
 ---
 ## What it is
 Persistent operational state for AI agents. Decisions, plans, priorities, and patterns that survive across sessions. Not conversation logs; structured project state with enforcement.

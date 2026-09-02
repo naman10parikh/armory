@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-31T15:03:54Z"
 ---
 ## What it is
 Provides LLM agents direct access to World Bank development indicators, enabling search, validation, and retrieval of data on topics like GDP, poverty, and gender equality.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-21T07:16:00Z"
 ---
 ## What it is
 Connects AI assistants to live VuNet observability data, allowing querying metrics, browsing data models, and checking connection status.

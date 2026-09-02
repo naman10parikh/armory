@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:46Z"
 ---
 ## What it is
 MCP server `Password Strength`, catalogued on PulseMCP. Password strength scoring with entropy calculation, crack time estimation, and common password detection.

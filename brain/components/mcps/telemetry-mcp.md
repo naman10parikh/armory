@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T09:27:52Z"
 ---
 ## What it is
 A read-only MCP server for querying telemetry data from configurable backends. Provides tools to list sources, describe schemas, run bounded queries, and compute aggregates.

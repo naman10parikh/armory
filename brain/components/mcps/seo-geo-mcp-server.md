@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:35:38Z"
 ---
 ## What it is
 An MCP server that lets an AI agent audit a page for SEO and GEO — on-page tags, structured data, robots.txt, sitemaps, hreflang, and whether ChatGPT, Claude, Perplexity and Gemini can actually crawl and cite you. No API keys required.

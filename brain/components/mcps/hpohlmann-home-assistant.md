@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-02T23:08:51Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Enables direct control of smart home devices through Home Assistant API, allowing natural language searching of entities and management of device states, light colors, and brightness levels.

@@ -8,10 +8,12 @@ source_url: https://github.com/mattheworiordan/remi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T09:40:18Z"
 ---
 ## What it is
 MCP server `mattheworiordan Remi`, catalogued on PulseMCP. CLI and MCP server for Apple Reminders with section support, iCloud sync, and full reminder management.

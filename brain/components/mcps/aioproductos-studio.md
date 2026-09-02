@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T10:20:49Z"
 ---
 ## What it is
 Turns your AI host into a product videographer — scripted screen recordings of your own web app with a gliding cursor, camera zooms, highlight callouts, captions, and branded transitions, plus marketing-grade screenshots. Automatic dark-frame cleanup and MP4/GIF export. Free, MIT, 100% local — no ac

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-09T09:14:19Z"
 ---
 ## What it is
 Enables AI agents to interact with Are.na for creative research and knowledge curation, including searching, browsing, creating, and managing channels, blocks, comments, and connections.

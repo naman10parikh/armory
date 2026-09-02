@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T10:57:04Z"
 ---
 ## What it is
 MCP server `Sberbank`, catalogued on PulseMCP. Integrates with Sberbank API for account listing and statement retrieval.

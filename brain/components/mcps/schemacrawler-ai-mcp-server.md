@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-02T02:42:59Z"
 ---
 ## What it is
 Enables AI agents to interactively interrogate database schema metadata using SchemaCrawler.

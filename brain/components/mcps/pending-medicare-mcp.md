@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T18:12:36Z"
 ---
 ## What it is
 Read-only MCP server providing a validated public preview of behavioral-health NPIs newly present in CMS pending first-time Medicare enrollment files, including state/specialty counts and official methodology.

@@ -8,10 +8,12 @@ source_url: https://github.com/blackwhite084/playwright-plus-python-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 187
+stars: 189
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-01-07T06:35:52Z"
 ---
 ## What it is
 MCP server `Playwright`, catalogued on PulseMCP. Integrates Playwright with MCP to enable web browser automation for tasks like scraping, testing, and content generation/submission.

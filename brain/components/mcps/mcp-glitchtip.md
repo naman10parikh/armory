@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-25T22:36:39Z"
 ---
 ## What it is
 Integrates GlitchTip error monitoring with AI assistants, enabling them to fetch, analyze, and debug issues from your GlitchTip instance.

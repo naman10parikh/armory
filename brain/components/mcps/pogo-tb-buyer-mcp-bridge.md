@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:16:12Z"
 ---
 ## What it is
 Enables access to RDW vehicle and Dutch address data packs by automatically handling x402 payments using the buyer's own wallet key, running locally as a stdio MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 52
+pushed_at: "2026-01-10T16:39:38Z"
 ---
 ## What it is
 Enables natural language interaction with e-books, extracting metadata, table of contents, and chapter content from EPUB and PDF files.

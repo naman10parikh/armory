@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:42:27Z"
 ---
 ## What it is
 MCP server `Ashby`, catalogued on PulseMCP. Ashby applicant tracking system integration for recruitment data via the Ashby ATS API.

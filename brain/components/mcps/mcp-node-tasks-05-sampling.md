@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:37:45Z"
 ---
 ## What it is
 An MCP server that demonstrates sampling, enabling the server to request LLM completions from the client to assist in workflow tasks like planning work sessions.

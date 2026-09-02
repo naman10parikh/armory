@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:18:59Z"
 ---
 ## What it is
 MCP server to connect AI assistants to the AdvinPay payment API, enabling PIX charges, transaction queries, and documentation search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T01:08:26Z"
 ---
 ## What it is
 Enables AI assistants to manage tasks in a kanban board organized as markdown files, with operations to create, update, delete, move tasks, manage lanes, and get statistics.

@@ -8,10 +8,12 @@ source_url: https://github.com/mizchi/lsmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 448
+stars: 453
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-10-27T00:37:07Z"
 ---
 ## What it is
 MCP server `TypeScript Refactoring`, catalogued on PulseMCP. Provides TypeScript/JavaScript code analysis and refactoring capabilities using ts-morph, enabling intelligent code transformations with symbol renaming, file moving with import path corrections, cross-file reference updates, type signature analysis, and module dependency exploration across entire codebases.

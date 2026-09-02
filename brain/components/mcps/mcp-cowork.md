@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T15:55:09Z"
 ---
 ## What it is
 A remote MCP server with OAuth and passphrase protection, providing a wide range of integrations including GitHub, Microsoft 365, Google, OVH, Steam, WhatsApp, and more for use with Claude Desktop or Claude.ai.

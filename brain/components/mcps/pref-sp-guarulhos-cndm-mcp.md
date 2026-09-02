@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:06Z"
 ---
 ## What it is
 MCP server for consulting official municipal tax debt certificates (Certidão Negativa de Débitos Mobiliários) from Prefeitura de Guarulhos, SP, Brazil, via a hosted read-only API with prepaid credits.

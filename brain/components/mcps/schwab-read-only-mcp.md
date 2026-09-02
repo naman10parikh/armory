@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:30:53Z"
 ---
 ## What it is
 MCP server for read-only access to Charles Schwab market data and account information. It provides quotes, price history, technical indicators, fundamentals, option chains, market hours, movers, and account/transaction data via the official Schwab API.

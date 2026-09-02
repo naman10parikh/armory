@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-06T05:48:23Z"
 ---
 ## What it is
 MCP server `TokenScope`, catalogued on PulseMCP. Scans codebases to intelligently extract and prioritize files for LLMs while respecting token limits and .gitignore patterns

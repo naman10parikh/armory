@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T00:30:44Z"
 ---
 ## What it is
 Enables AI clients to view screens, run commands, and transfer files across a fleet of LAN-connected devices through a single MCP interface.

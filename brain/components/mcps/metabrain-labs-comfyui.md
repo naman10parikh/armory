@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-20T04:05:53Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. MCP Server that transforms ComfyUI workflows into AI-callable tools for MCP Host

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-26T17:54:29Z"
 ---
 ## What it is
 Bridges web browsers and Claude Code for seamless debugging workflows by receiving debug data from browser widgets and exposing it to Claude Code via MCP protocol.

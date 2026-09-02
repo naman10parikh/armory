@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:38Z"
 ---
 ## What it is
 The first full-featured MCP server for Adobe Experience Platform: 29 tools across schemas, datasets, profiles, segments, query service, and GDPR/CCPA privacy operations. Extends Adobe's read-only beta with production-grade write operations.

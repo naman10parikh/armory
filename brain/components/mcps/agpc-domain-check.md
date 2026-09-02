@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T09:07:06Z"
 ---
 ## What it is
 MCP server that lets agents check domain email authentication (SPF, DKIM, DMARC, MX) via a free API, returning grades and shareable report URLs. Also provides tools for listing paid services and partner program terms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-30T19:49:20Z"
 ---
 ## What it is
 Dynamic SQLite memory bank with semantic search, table management, and knowledge graphs for LLM agents.

@@ -8,11 +8,13 @@ source_url: https://github.com/einverne/einverne.github.io
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 105
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
+forks: 47
+pushed_at: "2026-08-21T02:46:29Z"
 ---
 ## What it is
 Personal blog using jekyll-bootstrap

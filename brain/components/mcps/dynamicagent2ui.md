@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T20:55:20Z"
 ---
 ## What it is
 Enables AI agents to render native-looking floating dialogs and forms on the user's desktop, capturing user interactions like button clicks and form inputs.

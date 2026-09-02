@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:50:04Z"
 ---
 ## What it is
 An MCP server that runs inside IDA Pro for AI tools, exposing reverse-engineering capabilities like function listing, decompilation, and analysis via HTTP.

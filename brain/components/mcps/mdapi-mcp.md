@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T15:05:48Z"
 ---
 ## What it is
 MCP server for converting HTML to Markdown and extracting page data, with pay-per-call using USDC on Base.

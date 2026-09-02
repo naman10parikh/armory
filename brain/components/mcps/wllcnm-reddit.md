@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-02T02:48:19Z"
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Integrates with Reddit's API using PRAW to enable retrieving and posting content, managing subreddits, and analyzing user data for applications like sentiment analysis and trend monitoring.

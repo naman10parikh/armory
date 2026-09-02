@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:22:27Z"
 ---
 ## What it is
 Enables AI agents to query a local SQLite catalog of installed macOS GUI apps and CLI tools, searching by capability, retrieving tool details, and checking machine statistics over MCP.

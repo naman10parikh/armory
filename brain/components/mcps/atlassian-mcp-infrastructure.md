@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:14:47Z"
 ---
 ## What it is
 Hardened Docker infrastructure enabling secure, single-tenant MCP access to Jira and Confluence Cloud through a proxy.

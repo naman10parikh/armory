@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:07:17Z"
 ---
 ## What it is
 Enables coding agents to read performance findings from sixty, get detailed evidence for each finding, and close or resolve them with descriptions, while also checking service telemetry and providing installation instructions.

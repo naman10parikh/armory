@@ -8,11 +8,13 @@ source_url: https://github.com/u9401066/pubmed-search-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-09-01T10:12:32Z"
 ---
 ## What it is
 An intelligent research assistant MCP server for AI agents, providing task-oriented literature search and analysis across multiple academic databases.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:03Z"
 ---
 ## What it is
 MCP server for querying official ANTT (Brazilian National Land Transport Agency) vehicle information through a read-only tool. Accessible via Mcp over HTTP, it works with any MCP client like Claude, Cursor, or VS Code using a pay-per-use prepaid credit model.

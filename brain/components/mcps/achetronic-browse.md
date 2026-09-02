@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T20:35:25Z"
 ---
 ## What it is
 MCP server `Browse`, catalogued on PulseMCP. Provides web search, page fetching, and file downloading with JWT authentication, OAuth 2.0 integration, and CEL-based policy controls for supervised internet access.

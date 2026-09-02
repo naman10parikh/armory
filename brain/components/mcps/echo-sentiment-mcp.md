@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:41:02Z"
 ---
 ## What it is
 Provides real-time XLM (Stellar) market sentiment as a tool, computed from a keyless composite of the Crypto Fear & Greed Index, SDEX order-flow imbalance, and 24h price momentum. Enables users to get deterministic sentiment scores and market data without any API keys or paid data feeds.

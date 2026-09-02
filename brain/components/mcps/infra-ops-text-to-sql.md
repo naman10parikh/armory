@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T21:08:55Z"
 ---
 ## What it is
 Translates plain English questions about infrastructure operations into SQL queries, executes them against a database, and returns the real answer.

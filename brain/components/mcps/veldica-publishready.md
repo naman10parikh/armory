@@ -8,10 +8,12 @@ source_url: https://github.com/veldica/publishready-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T22:06:04Z"
 ---
 ## What it is
 MCP server `PublishReady`, catalogued on PulseMCP. Analyzes writing quality and transforms AI-generated drafts into publication-ready prose using deterministic local analysis.

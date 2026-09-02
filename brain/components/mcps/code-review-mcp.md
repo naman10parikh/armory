@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T04:14:19Z"
 ---
 ## What it is
 Enables Codex-powered Git code review by collecting diffs and generating Chinese Markdown reviews with optional Feishu notifications.

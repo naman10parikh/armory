@@ -12,6 +12,8 @@ stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-26T18:10:59Z"
 ---
 ## What it is
 MCP server `Corporate Dystopia Toolkit`, catalogued on PulseMCP. Provides a satirical corporate dystopia toolkit with HR-related tools that parody toxic workplace behaviors through functions for requesting raises, filing complaints, scheduling inconvenient meetings, and generating corporate jargon.

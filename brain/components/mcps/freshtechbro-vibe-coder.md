@@ -8,10 +8,12 @@ source_url: https://github.com/freshtechbro/vibe-coder-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-08-21T03:06:59Z"
 ---
 ## What it is
 MCP server `Vibe Coder (AI-Assisted Development)`, catalogued on PulseMCP. Provides AI-assisted development tools for semantic routing, code generation, refactoring, and project management with intelligent request handling and specialized Git integration capabilities.

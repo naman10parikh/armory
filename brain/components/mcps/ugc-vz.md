@@ -8,11 +8,13 @@ source_url: https://github.com/ugcvz/ugc-vz-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T03:54:17Z"
 ---
 ## What it is
 Enables searching the DACH UGC creator directory, viewing public creator profiles, and triggering brand outreach requests—all via MCP tools with no API key required.

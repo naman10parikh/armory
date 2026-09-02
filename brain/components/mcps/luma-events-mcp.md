@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-08T00:17:50Z"
 ---
 ## What it is
 An MCP server for the Luma Events API that enables creating, updating, and managing events and guests.

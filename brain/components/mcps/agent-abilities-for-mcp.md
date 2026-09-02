@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:13:31Z"
 ---
 ## What it is
 A free WordPress plugin that turns your site into a governed MCP server, exposing 153 curated WordPress abilities (posts, media, users, WooCommerce, ACF, SEO) as tools for AI agents like Claude and Cursor. Every ability is off by default, scoped to a least-privilege user, capability-gated, and logge

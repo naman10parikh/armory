@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-16T15:20:59Z"
 ---
 ## What it is
 Subscribe to RSS/Atom feeds and get a deduped daily brief, designed for daily Claude Desktop chats.

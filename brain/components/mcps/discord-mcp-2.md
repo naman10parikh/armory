@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T12:28:39Z"
 ---
 ## What it is
 Control your Discord server with AI. Lets you manage channels, roles, members, messages, and more through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/zqushair/frontapp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-04-29T09:45:20Z"
 ---
 ## What it is
 MCP server `Frontapp`, catalogued on PulseMCP. Integrates Claude with Front customer communication platform, enabling AI to manage conversations, contacts, and accounts directly through the Front API with webhook support for real-time event handling.

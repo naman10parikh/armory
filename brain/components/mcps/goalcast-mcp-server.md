@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:45:19Z"
 ---
 ## What it is
 Enables registering predictions and checking pool status for match predictions on the Injective testnet via MCP.

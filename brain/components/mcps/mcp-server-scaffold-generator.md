@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:22:14Z"
 ---
 ## What it is
 Generates production-ready MCP server projects from a single command, providing project structure, tool examples, and optional advanced templates.

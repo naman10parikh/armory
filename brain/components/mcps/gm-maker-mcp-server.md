@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-28T19:39:48Z"
 ---
 ## What it is
 Enables AI-assisted GameMaker project development in Cursor IDE, allowing users to create projects, add scripts, objects, and sprites using natural language.

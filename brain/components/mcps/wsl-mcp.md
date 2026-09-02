@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T03:38:51Z"
 ---
 ## What it is
 A MCP terminal management server with persistent sessions and terminal polling, optimized for Windows + WSL environments.

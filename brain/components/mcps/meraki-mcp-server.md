@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-15T01:36:25Z"
 ---
 ## What it is
 Enables interaction with the Meraki Dashboard API for LLMs, allowing seamless integration of Meraki network management capabilities within an AI assistant's conversational interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T21:34:39Z"
 ---
 ## What it is
 Governance circuit-breaker MCP server that enables AI agents to request risk-based decisions, approve or deny actions, and finalize outcomes with full audit receipts.

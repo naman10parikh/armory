@@ -8,10 +8,12 @@ source_url: https://github.com/studentofjs/mcp-figma-to-react
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-04-24T08:50:51Z"
 ---
 ## What it is
 MCP server `Figma to React`, catalogued on PulseMCP. Transforms Figma designs into React components with TypeScript and Tailwind CSS, providing tools for API integration, component extraction, and accessibility enhancements.

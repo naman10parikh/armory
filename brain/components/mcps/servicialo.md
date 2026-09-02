@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T18:06:01Z"
 ---
 ## What it is
 MCP server `Servicialo`, catalogued on PulseMCP. Open protocol for professional service delivery, enabling scheduling, identity verification, financial settlement, and lifecycle management across service platforms.

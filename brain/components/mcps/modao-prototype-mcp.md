@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:40:16Z"
 ---
 ## What it is
 Reads Modao read-only prototype links and exports a directory of page screenshots with a catalog.

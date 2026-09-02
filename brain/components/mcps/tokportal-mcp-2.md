@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:41:08Z"
 ---
 ## What it is
 Enables AI agents to manage real TikTok, Instagram, and YouTube accounts via a REST API and MCP server, allowing for account creation, content publishing, warming, and analytics without OAuth or daily post limits.

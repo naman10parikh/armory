@@ -8,10 +8,12 @@ source_url: https://github.com/jikime/py-mcp-ko-weather
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-06T07:36:08Z"
 ---
 ## What it is
 MCP server `Korean Weather`, catalogued on PulseMCP. Provides access to Korean weather data through asynchronous HTTP requests with coordinate conversion and API authentication capabilities.

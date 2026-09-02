@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T18:22:04Z"
 ---
 ## What it is
 Provides tools for basic calculations and greetings, as well as placing real Kite Connect stock orders on NSE through buy_stock and sell_stock tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T18:22:43Z"
 ---
 ## What it is
 Provides safe local-model MCP support tools (summarization, classification, critique, draft) for a cloud owner agent, with strict boundary guards to prevent risky actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2025-06-26T04:55:26Z"
 ---
 ## What it is
 Connects Claude Code sessions to Telegram, enabling AI-powered code assistance and file management directly from Telegram chats.

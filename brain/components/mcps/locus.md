@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 3
+forks: 0
+pushed_at: "2026-03-14T03:44:42Z"
 ---
 ## What it is
 Hierarchical markdown-based memory system for AI agents. Enables efficient context management by loading only relevant rooms (directories) instead of full memory.

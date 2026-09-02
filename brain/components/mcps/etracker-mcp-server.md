@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:30:08Z"
 ---
 ## What it is
 Enables querying etracker analytics reports via natural language. Provides tools to list reports, get metadata, and retrieve report data with filtering, sorting, and period comparison.

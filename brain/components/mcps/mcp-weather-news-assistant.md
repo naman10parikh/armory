@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T10:41:15Z"
 ---
 ## What it is
 An MCP server that provides real-time weather data and latest news headlines via custom tools.

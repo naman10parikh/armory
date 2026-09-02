@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T08:24:41Z"
 ---
 ## What it is
 The industry-standard persistent memory and state manager for long-running agentic workflows.

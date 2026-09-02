@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-22T21:45:15Z"
 ---
 ## What it is
 MCP server that exposes Moleculer.js microservice actions as AI tools, enabling AI agents to interact with Moleculer services.

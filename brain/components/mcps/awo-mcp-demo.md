@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T09:04:00Z"
 ---
 ## What it is
 Enables querying AWO facility data through natural language, supporting search by city, service, and counting facilities.

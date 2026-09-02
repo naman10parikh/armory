@@ -8,10 +8,12 @@ source_url: https://github.com/occasiolabs/occasio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-24T18:32:10Z"
 ---
 ## What it is
 MCP server `Occasio`, catalogued on PulseMCP. Tamper-evident, Sigstore-signed audit trail for Claude Code and other AI coding agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:05:11Z"
 ---
 ## What it is
 Project management for teams and their AI agents. Agents join as named members. Hosted Streamable HTTP endpoint at https://taskfolk.ai/api/mcp/v1, official registry id ai.taskfolk/mcp.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:44:53Z"
 ---
 ## What it is
 Enables chat-driven audio analysis and enhancement using local Claude, including denoising, EQ, compression, and loudness normalization, with an A/B viewer for synchronized comparison.

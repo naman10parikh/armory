@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T18:36:16Z"
 ---
 ## What it is
 MCP server `AuthZ Proxy`, catalogued on PulseMCP. Authorization proxy for MCP servers with JWT validation, policy engine, and behavioral anomaly detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T13:24:55Z"
 ---
 ## What it is
 Manages TODO tasks with operations like add, list, complete, update, and delete, stored in a JSON file.

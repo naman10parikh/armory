@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T23:52:51Z"
 ---
 ## What it is
 MCP server that turns Kimi K2.6 Turbo into an agentic coding assistant with tools for file operations, shell commands, and code search.

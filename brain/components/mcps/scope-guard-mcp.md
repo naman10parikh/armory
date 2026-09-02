@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:50Z"
 ---
 ## What it is
 MCP server that enforces multi-agent scope boundaries. Prevents scope drift, work duplication, and infinite delegation loops in agentic systems.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T17:07:26Z"
 ---
 ## What it is
 MCP server `altFINS Crypto Analytics`, catalogued on PulseMCP. Provides crypto market analytics including screener data, technical analysis, OHLC history, news, and calendar events.

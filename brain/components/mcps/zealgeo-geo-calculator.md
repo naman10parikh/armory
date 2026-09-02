@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-18T08:22:03Z"
 ---
 ## What it is
 MCP server `GeoCalculator`, catalogued on PulseMCP. Provides geospatial calculation capabilities for coordinate conversion and spatial analysis, enabling GIS applications and geometry processing without complex algorithm implementation.

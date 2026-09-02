@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T04:16:57Z"
 ---
 ## What it is
 A model-tiered content pipeline that routes tasks to the appropriate AI model tier (Haiku, Sonnet, Opus) to optimize cost and quality, with provenance tracking and automatic review workflow.

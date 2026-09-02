@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-16T22:40:48Z"
 ---
 ## What it is
 MCP server `Philips Hue`, catalogued on PulseMCP. Provides direct control over Philips Hue smart lighting systems through automatic bridge discovery and API key management, enabling brightness, color, and on/off state control for individual lights, zones, and rooms.

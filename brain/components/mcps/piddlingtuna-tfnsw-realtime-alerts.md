@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-09T03:02:59Z"
 ---
 ## What it is
 MCP server `TfNSW Realtime Alerts`, catalogued on PulseMCP. Integrates with Transport for NSW's Realtime Alerts API to retrieve, filter, and summarize up-to-date public transport disruptions and alerts across the NSW network.

@@ -8,10 +8,12 @@ source_url: https://github.com/finemcp/finemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T13:21:36Z"
 ---
 ## What it is
 MCP server `FineMCP`, catalogued on PulseMCP. A production-grade Go framework for building MCP servers and clients with 16 middleware, 5 transports, and OpenTelemetry support.

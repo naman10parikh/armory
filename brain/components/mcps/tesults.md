@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T11:51:21Z"
 ---
 ## What it is
 MCP server `Tesults`, catalogued on PulseMCP. AI agent access to Tesults test results, flaky test detection, and failure analysis.

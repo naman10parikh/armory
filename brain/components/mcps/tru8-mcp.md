@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:21:03Z"
 ---
 ## What it is
 MCP server for Tru8 Evidence Research that enables AI agents to submit claims or URLs and receive source-traced evidence organized by tier and type with element decomposition and relationship mapping.

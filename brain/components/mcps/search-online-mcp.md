@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T04:48:48Z"
 ---
 ## What it is
 Exposes a standardized web search tool via Brave Search for MCP clients like Codex, Claude, and Cursor, returning stable JSON.

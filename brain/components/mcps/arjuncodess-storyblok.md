@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-29T13:48:47Z"
 ---
 ## What it is
 MCP server `Storyblok`, catalogued on PulseMCP. Integrates with Storyblok CMS for complete content management including story operations, publishing workflows, version control, asset handling, component schemas, and datasource management with proper authentication and validation.

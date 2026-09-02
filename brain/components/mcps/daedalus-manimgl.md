@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T18:06:19Z"
 ---
 ## What it is
 MCP server `Manim GL`, catalogued on PulseMCP. Mathematical animation creation via ManimGL with 40+ tools for shapes, LaTeX, 3D objects, and audio.

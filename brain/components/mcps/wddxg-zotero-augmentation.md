@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T06:20:33Z"
 ---
 ## What it is
 MCP server `Zotero Augmentation`, catalogued on PulseMCP. Zotero MCP augmentation with full-text chunking and local vector search.

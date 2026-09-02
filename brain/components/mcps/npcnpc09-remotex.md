@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-09T09:32:39Z"
 ---
 ## What it is
 MCP server `RemoteX`, catalogued on PulseMCP. SSH fleet management server enabling remote command execution, file transfers, and multi-host orchestration across distributed infrastructure.

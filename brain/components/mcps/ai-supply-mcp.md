@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T20:38:11Z"
 ---
 ## What it is
 Enables agents to search, install, publish, and review security-scanned AI capabilities from the ai-supply.store marketplace, including skills, MCP servers, plugins, datasets, and guardrails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:17:09Z"
 ---
 ## What it is
 MCP server for Opplevagent — discover Norwegian experiences and activities such as tours, courses and things to do, filtered by county, municipality, category, weather, season, group size, age and price. Read-only access to a public A2A experiences marketplace.

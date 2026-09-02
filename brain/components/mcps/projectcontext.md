@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T11:40:46Z"
 ---
 ## What it is
 A high-performance MCP server providing long-term memory storage with semantic and keyword search, along with a structured agenda engine for task management.

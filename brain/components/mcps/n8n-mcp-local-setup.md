@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T17:58:55Z"
 ---
 ## What it is
 Run the open-source n8n-mcp locally and connect your n8n instance to MCP-compatible AI agents like Codex and Claude Code.

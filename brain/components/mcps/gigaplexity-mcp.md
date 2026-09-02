@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T20:45:02Z"
 ---
 ## What it is
 MCP server that transforms GigaChat into a search tool, enabling web search, deep research, and step-by-step reasoning through natural language queries.

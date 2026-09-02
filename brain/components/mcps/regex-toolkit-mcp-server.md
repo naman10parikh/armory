@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:49Z"
 ---
 ## What it is
 Enables LLM agents to extract, validate, and mask personally identifiable information using deterministic regular expressions, reducing token usage and hallucination risks.

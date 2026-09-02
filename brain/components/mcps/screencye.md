@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T13:45:38Z"
 ---
 ## What it is
 Eyes for text-only LLMs: decodes screenshots into exact structured text (words, coordinates, sizes, colors) using pure-code CV and OCR. Enables text-only models to reason about UI layouts without vision models or VRAM usage.

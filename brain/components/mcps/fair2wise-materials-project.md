@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-17T09:29:01Z"
 ---
 ## What it is
 MCP server `Materials Project`, catalogued on PulseMCP. Integrates with the Materials Project database to search materials by elements or formula and retrieve detailed properties including formation energies, band gaps, crystal systems, and stability data for computational materials science research.

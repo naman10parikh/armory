@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T13:00:37Z"
 ---
 ## What it is
 MCP server `Wildberries`, catalogued on PulseMCP. Manage Wildberries marketplace operations including products, orders, shipments, marketing campaigns, analytics, and financials via 200+ API tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:55:20Z"
 ---
 ## What it is
 MCP server that builds a local code intelligence layer, letting AI agents explore call graphs, blast radius, and source slices via a single tool without external APIs.

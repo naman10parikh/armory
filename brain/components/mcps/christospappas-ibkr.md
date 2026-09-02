@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T06:17:25Z"
 ---
 ## What it is
 MCP server `Interactive Brokers`, catalogued on PulseMCP. Read-only integration with Interactive Brokers Gateway and TWS for querying account data, positions, executions, contract details, and historical market data with built-in safety controls that prevent order entry.

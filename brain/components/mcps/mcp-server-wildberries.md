@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T13:00:37Z"
 ---
 ## What it is
 MCP server for Wildberries Seller API enabling management of products, orders, supplies, analytics, advertising, and finance through natural language commands.

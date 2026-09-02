@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:40:40Z"
 ---
 ## What it is
 Combines Bing Webmaster data, GA4 AI-traffic opportunity matching, technical SEO scanning, AI-search content audits, approval-gated WordPress fix preparation, live verification, Bing URL submission, and IndexNow integration to help marketers improve pages for human readers and AI search.

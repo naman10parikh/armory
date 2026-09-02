@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:34:59Z"
 ---
 ## What it is
 Enables AI clients to run Google Antigravity coding sub-agents as MCP tools, with synchronous and asynchronous execution, task polling, and sandboxed Docker workspace isolation.

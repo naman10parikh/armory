@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:41:39Z"
 ---
 ## What it is
 A set of four local MCP servers that help solo developers maintain context across sessions by providing searchable memory, session journals, file checkpoints, and project overviews. All servers run locally with minimal dependencies and work with any MCP-capable client.

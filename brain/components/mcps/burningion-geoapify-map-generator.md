@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-14T22:37:00Z"
 ---
 ## What it is
 MCP server `Geoapify Map Generator`, catalogued on PulseMCP. Generates map images from geographic coordinates using Python libraries for geocoding and visualization tasks.

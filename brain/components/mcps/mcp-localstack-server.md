@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T20:55:37Z"
 ---
 ## What it is
 Provides conversational access to LocalStack AWS services (S3, DynamoDB, Lambda, SQS) through natural language, enabling local cloud infrastructure management without real AWS costs.

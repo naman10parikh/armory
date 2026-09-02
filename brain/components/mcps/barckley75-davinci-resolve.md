@@ -8,10 +8,12 @@ source_url: https://github.com/barckley75/resolve-claude-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 162
+stars: 346
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-05-14T13:24:14Z"
 ---
 ## What it is
 MCP server `DaVinci Resolve`, catalogued on PulseMCP. Control DaVinci Resolve Studio via natural language with 48 tools covering timelines, color grading, AI features, and rendering.

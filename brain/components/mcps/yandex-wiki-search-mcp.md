@@ -8,11 +8,13 @@ source_url: https://github.com/dlbolshov/yandex-wiki-search-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T22:49:01Z"
 ---
 ## What it is
 MCP server for Yandex Wiki with full-text search. Read and write pages, comments, attachments, and dynamic tables (grids); optional server-side read-only mode for agents. Docker-ready.

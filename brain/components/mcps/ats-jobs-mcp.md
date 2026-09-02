@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:28:52Z"
 ---
 ## What it is
 Enables users to discover applicant tracking system job boards from company domains, list open roles, detect hiring changes over time, and generate hiring summaries across multiple ATS platforms.

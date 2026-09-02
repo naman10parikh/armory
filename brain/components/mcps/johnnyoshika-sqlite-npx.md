@@ -8,10 +8,12 @@ source_url: https://github.com/johnnyoshika/mcp-server-sqlite-npx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-10-25T23:23:45Z"
 ---
 ## What it is
 MCP server `SQLite (Node.js)`, catalogued on PulseMCP. Implements SQLite functionality in Node.js.

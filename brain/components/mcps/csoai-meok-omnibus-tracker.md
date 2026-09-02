@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:51:20Z"
 ---
 ## What it is
 MCP server `MEOK Omnibus Tracker`, catalogued on PulseMCP. Track EU AI Act, GDPR, and DORA regulatory deadlines following Digital Omnibus 2026 amendments with signed compliance attestations.

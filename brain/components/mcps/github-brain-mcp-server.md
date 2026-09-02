@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-02-28T03:48:49Z"
 ---
 ## What it is
 Summarizes GitHub discussions, issues, and pull requests by storing data locally for fast, token-efficient responses.

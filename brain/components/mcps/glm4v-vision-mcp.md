@@ -8,11 +8,13 @@ source_url: https://github.com/dqtx760/glm4v-vision-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:08:27Z"
 ---
 ## What it is
 MCP server that provides image analysis, OCR text extraction, and image description using the GLM-4V Flash model from Zhipu AI.

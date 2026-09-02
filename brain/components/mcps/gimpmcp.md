@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T13:38:01Z"
 ---
 ## What it is
 An MCP server that allows LLMs to control GIMP programmatically, including images, layers, selections, text, transforms, filters, and arbitrary Script-Fu code.

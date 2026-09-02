@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:52:52Z"
 ---
 ## What it is
 Enables MCP clients to drive a LEGO Mindstorms EV3 over Wi-Fi SSH, with tools for movement, turning, stopping, beeping, and listing connected devices. Includes a CLI chat client that translates natural language into robot commands via Hugging Face Inference Providers.

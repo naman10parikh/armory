@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
 stars: 34
+forks: 14
+pushed_at: "2025-09-08T14:50:24Z"
 ---
 ## What it is
 Accurate weather forecasts via the AccuWeather API (free tier available).

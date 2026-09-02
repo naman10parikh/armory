@@ -8,11 +8,13 @@ source_url: https://github.com/Vorota-ai/nmap-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-11T18:48:45Z"
 ---
 ## What it is
 A production-ready MCP server that wraps Nmap to enable AI agents to perform automated network security assessments, including port scanning, host discovery, service detection, OS fingerprinting, and vulnerability scanning.

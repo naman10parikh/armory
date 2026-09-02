@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:30:33Z"
 ---
 ## What it is
 Emits municipal negative debt certificates (Certidão Negativa de Débitos) for individuals or companies using CPF/CNPJ, municipal registration, and municipality. Read-only MCP server with one tool, works with any MCP client over HTTP.

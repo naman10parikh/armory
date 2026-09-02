@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:29:31Z"
 ---
 ## What it is
 A standalone MCP server that exposes a narrow set of GitHub Issues tools for a single repository, securely handling a GitHub personal access token so agents never see the credential.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:32:30Z"
 ---
 ## What it is
 Provides a tool to get real-time cross-DEX price and spread data for PancakeSwap v2 and v3 on BSC, with a pay-per-call model settled via x402.

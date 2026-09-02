@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-16T04:37:42Z"
 ---
 ## What it is
 Provides AI assistants with version-accurate Liquidsoap 2.4.0 documentation, examples, and script validation to generate correct Liquidsoap code and avoid hallucinations.

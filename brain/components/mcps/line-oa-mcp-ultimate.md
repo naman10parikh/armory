@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 27
+pushed_at: "2026-08-24T09:28:13Z"
 ---
 ## What it is
 Operate your LINE Official Account from any AI agent through natural language.

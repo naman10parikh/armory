@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-07T19:01:03Z"
 ---
 ## What it is
 An MCP server providing AI agents access to CourtListener's comprehensive legal database, featuring semantic search, hybrid search, citation verification, and research tools.

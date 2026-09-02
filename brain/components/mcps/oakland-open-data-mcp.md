@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:56:16Z"
 ---
 ## What it is
 Enables searching the Oakland Open Data catalog and querying datasets with Socrata SoQL. Provides access to metadata and rows from over 1000 live data sources via Pipeworx.

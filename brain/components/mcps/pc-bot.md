@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:28:36Z"
 ---
 ## What it is
 MCP server that enables AI agents to control Windows by clicking, typing, and navigating with a visible cursor overlay, using a layered approach (native UIA, browser CDP, pixel fallback) for reliable interaction.

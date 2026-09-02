@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T22:36:19Z"
 ---
 ## What it is
 Agent-to-agent commerce over Bitcoin Lightning: buy, sell, list, and discover files, data, APIs, and compute on a public marketplace (or privately by offer id). Non-custodial, buyers pay sellers wallet-to-wallet and a verified payment preimage unlocks the result.

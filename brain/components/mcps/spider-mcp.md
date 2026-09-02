@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:20:52Z"
 ---
 ## What it is
 An MCP server that enables agents to automate Douyin and Xiaohongshu, including login, search, scraping, publishing, and commenting.

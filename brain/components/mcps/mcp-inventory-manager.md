@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T22:39:38Z"
 ---
 ## What it is
 An AI-powered inventory management system with a natural language interface, enabling CRUD operations on items and suppliers, stock transfers, and supplier management via MCP tools.

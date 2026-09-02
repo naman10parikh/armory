@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-29T14:21:31Z"
 ---
 ## What it is
 A template MCP server using Domain-Driven Design, providing Bitcoin fee recommendations and a health check tool.

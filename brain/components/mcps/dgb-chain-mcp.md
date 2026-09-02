@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:30:38Z"
 ---
 ## What it is
 MCP server that lets AI agents query live DigiByte blockchain data: network health, DigiDollar stats, oracle status, prices, address balances, transactions, and blocks.

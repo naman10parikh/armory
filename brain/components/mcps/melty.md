@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T16:03:40Z"
 ---
 ## What it is
 MCP server with FTS5 full-text search over a SQLite export of a discord server.

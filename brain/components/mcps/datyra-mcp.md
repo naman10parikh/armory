@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:58:05Z"
 ---
 ## What it is
 Enables AI assistants to perform data analysis on local datasets through natural language, orchestrating Python, R, SQL, Spark, Jupyter, Power BI, and Tableau engines for statistics, machine learning, dashboard generation, and batch processing.

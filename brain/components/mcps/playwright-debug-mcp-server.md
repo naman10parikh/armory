@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T07:22:51Z"
 ---
 ## What it is
 Supercharges AI-assisted debugging of Playwright tests by parsing trace files to extract failures, action history, network logs, screenshots, and suggesting fixes.

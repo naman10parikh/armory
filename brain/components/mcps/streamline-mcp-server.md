@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:28:25Z"
 ---
 ## What it is
 Enables searching, retrieving, and downloading Streamline's icons, illustrations, elements, and emojis in PNG or SVG formats with customization options, via MCP-compatible clients.

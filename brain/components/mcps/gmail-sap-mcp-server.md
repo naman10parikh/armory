@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:39:51Z"
 ---
 ## What it is
 Provides MCP tools for searching, reading, and drafting Gmail emails, as well as querying SAP OData endpoints with safe read operations and mock mode.

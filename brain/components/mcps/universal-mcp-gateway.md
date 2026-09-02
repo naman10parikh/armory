@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T20:50:53Z"
 ---
 ## What it is
 A self-hosted MCP gateway that aggregates all your MCP servers behind a single Streamable HTTP endpoint, with automatic registry discovery (19,000+ servers), on-demand Docker provisioning, multi-device support via SSH, OAuth2 PKCE authentication, and a workflow engine for saving and replaying multi-

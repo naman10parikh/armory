@@ -8,11 +8,13 @@ source_url: https://github.com/baoozak/qqmusic-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T05:22:26Z"
 ---
 ## What it is
 A local MCP server for managing and organizing a personal QQ Music library, enabling playlist operations, music analysis, and intelligent classification workflows with safe write-back and rollback.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-10T12:21:30Z"
 ---
 ## What it is
 MCP server `Blog Publisher`, catalogued on PulseMCP. Enables AI assistants to publish blog content to external platforms through a Python-based server with standard and local execution modes for automated content publishing workflows.

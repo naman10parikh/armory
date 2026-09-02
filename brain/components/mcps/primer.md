@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T22:15:35Z"
 ---
 ## What it is
 An MCP server that provides an open, local-first record of a child's learning, enabling an AI tutor to read, teach from, and update the child's knowledge, interests, and progress.

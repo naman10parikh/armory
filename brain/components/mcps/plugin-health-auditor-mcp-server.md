@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:52:50Z"
 ---
 ## What it is
 Provides audit_plugin_health and prepare_semantic_review tools for deterministic inspection of Codex plugins and Agent Skills, generating evidence-backed reports without executing or transmitting target code.

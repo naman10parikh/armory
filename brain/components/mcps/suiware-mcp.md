@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-23T20:41:15Z"
 ---
 ## What it is
 Enables AI assistants to interact with Sui Network through tools for balance checks, transfers, swaps, staking, and more.

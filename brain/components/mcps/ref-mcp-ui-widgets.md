@@ -12,6 +12,8 @@ stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-26T00:32:19Z"
 ---
 ## What it is
 MCP server `MCP-UI Widgets`, catalogued on PulseMCP. Demo: Provides MCP-UI components including timers, stopwatches, fact displays, and unit converters through templated HTML widgets that replace JavaScript configuration objects with user-provided parameters for dynamic content creation.

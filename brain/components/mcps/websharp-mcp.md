@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-23T17:20:56Z"
 ---
 ## What it is
 Provides web search and readable page extraction tools via MCP, using SearXNG metasearch and SmartReader content extraction, with Docker support for local deployment.

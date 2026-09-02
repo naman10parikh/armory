@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:51:48Z"
 ---
 ## What it is
 MCP server for web scraping using Playwright headless Chromium. It provides tools to fetch webpage screenshots, search article listings, and generate article briefs via local LM Studio models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-10T11:10:39Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for interacting with IBM Storage Scale clusters, enabling management of storage resources through natural language.

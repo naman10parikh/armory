@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:51:59Z"
 ---
 ## What it is
 MCP server for deep algorithmic and mathematical reasoning, wrapping any OpenAI-compatible LLM endpoint to return only the final distilled answer without reasoning traces. Supports per-call model and endpoint overrides, defaulting to vibethinker-3b via LM Studio.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T14:32:48Z"
 ---
 ## What it is
 Read-only MCP server for Hevo Data API, enabling monitoring of pipelines, objects, destinations, models, and workflows with secure self-hosted credentials.

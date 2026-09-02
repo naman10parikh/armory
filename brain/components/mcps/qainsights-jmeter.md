@@ -8,10 +8,12 @@ source_url: https://github.com/qainsights/jmeter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-06-15T14:06:26Z"
 ---
 ## What it is
 MCP server `JMeter`, catalogued on PulseMCP. Enables natural language execution of JMeter performance tests in both GUI and non-GUI modes, returning detailed results for automated load testing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:14:45Z"
 ---
 ## What it is
 A native MCP server for Unreal Engine 5.7 that lets AI assistants inspect and control an open Unreal Editor through a single 'unreal' tool, supporting Python/console command execution and async tasks.

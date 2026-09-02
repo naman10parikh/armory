@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T18:45:34Z"
 ---
 ## What it is
 Enables authenticated user profile retrieval via the 'whoami' tool, using OAuth2 and Asgardeo.

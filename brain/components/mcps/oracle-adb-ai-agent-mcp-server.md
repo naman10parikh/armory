@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-23T07:07:11Z"
 ---
 ## What it is
 Enables AI-powered database operations on Oracle Autonomous Database via natural language, including SQL translation, schema exploration, and API orchestration.

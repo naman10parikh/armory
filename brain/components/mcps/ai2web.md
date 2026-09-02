@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T22:51:40Z"
 ---
 ## What it is
 An MCP server for Claude and ChatGPT that discovers AI-ready websites and acts on them. It fronts the AI2Web Discovery Network with three tools: find_sites, describe_site, and call_site_action. Actions are approval-gated and SSRF-guarded, and no site needs to adopt anything, Claude and ChatGPT alrea

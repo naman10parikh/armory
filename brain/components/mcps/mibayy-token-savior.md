@@ -8,10 +8,12 @@ source_url: https://github.com/mibayy/token-savior
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 905
+stars: 1137
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 96
+pushed_at: "2026-08-10T08:19:00Z"
 ---
 ## What it is
 MCP server `Token Savior`, catalogued on PulseMCP. Structural codebase indexing with surgical query tools that reduce token consumption by answering code navigation, dependency, and impact analysis queries with minimal response sizes.

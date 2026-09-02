@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:21:05Z"
 ---
 ## What it is
 Enables AI agents to search and query the public DOJ Epstein Files release across 20 databases, resolve EFTA numbers to official DOJ PDFs, and cross-check viral claims against a fact-checked registry.

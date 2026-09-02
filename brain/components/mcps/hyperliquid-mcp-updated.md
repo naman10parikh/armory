@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T13:39:56Z"
 ---
 ## What it is
 A read-only Model Context Protocol server for Hyperliquid that exposes over 30 tools to query public market data and user state via the Hyperliquid Info API, without requiring a private key.

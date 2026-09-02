@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:15:37Z"
 ---
 ## What it is
 An MCP server that provides Stellar blockchain tools for account queries, Soroban contract simulation, and boilerplate generation within compatible AI IDEs.

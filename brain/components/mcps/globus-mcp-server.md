@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:05:10Z"
 ---
 ## What it is
 Enables AI agents to perform federated data transfers and remote code execution on HPC endpoints via Globus, wrapping the Globus CLI and Globus Compute SDK.

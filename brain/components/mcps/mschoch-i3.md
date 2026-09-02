@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-18T02:18:54Z"
 ---
 ## What it is
 MCP server `i3 Window Manager`, catalogued on PulseMCP. Integrates with the i3 window manager through its IPC interface to query window tree structures, list workspace details, find windows by criteria, and execute commands for desktop automation and layout management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:48:49Z"
 ---
 ## What it is
 Agentic MCP server that receives a feature specification from an IDE, autonomously implements it in an isolated sandbox via an internal loop (plan-act-validate-correct), and returns a structured report with diffs and test results, without modifying the original repository.

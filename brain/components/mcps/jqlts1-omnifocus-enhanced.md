@@ -8,10 +8,12 @@ source_url: https://github.com/jqlts1/omnifocus-mcp-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-08-16T16:38:57Z"
 ---
 ## What it is
 MCP server `OmniFocus Enhanced`, catalogued on PulseMCP. Integrates with OmniFocus on macOS using AppleScript to provide complete task and project management capabilities including CRUD operations, perspective views, batch operations, subtask hierarchies, tag management, and custom filtering for productivity workflows.

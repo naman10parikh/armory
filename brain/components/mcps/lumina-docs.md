@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-20T07:13:10Z"
 ---
 ## What it is
 A structured document management system using MCP protocol to handle large requirement documents by modularizing content, enabling token-efficient queries and consistency through hierarchical nodes and metadata.

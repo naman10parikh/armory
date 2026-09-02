@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:29:33Z"
 ---
 ## What it is
 MCP server for Russian court practice (Sudact): full-text case search by law article, court, instance and dates, with access to full decision texts.

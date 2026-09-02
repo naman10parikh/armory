@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T18:45:06Z"
 ---
 ## What it is
 A searchable long-term memory server for AI agents using BM25 indexing over document chunks, enabling durable recall across sessions without cloud dependencies.

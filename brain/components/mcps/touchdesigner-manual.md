@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:25:16Z"
 ---
 ## What it is
 MCP server that enables AI agents to search the entire TouchDesigner wiki documentation with real citations, using a local index built from the official wiki.

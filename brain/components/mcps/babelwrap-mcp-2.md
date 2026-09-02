@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T17:50:30Z"
 ---
 ## What it is
 Provides AI agents with web browsing capabilities through the BabelWrap API, enabling navigation, form interaction, data extraction, and multi-tab support.

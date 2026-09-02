@@ -8,10 +8,12 @@ source_url: https://github.com/ruanodendaal/bear-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-02-27T12:43:12Z"
 ---
 ## What it is
 MCP server `Bear Notes`, catalogued on PulseMCP. Connects Claude to Bear Notes through semantic search and vector similarity, enabling powerful knowledge retrieval directly from your personal note database.

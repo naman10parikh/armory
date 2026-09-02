@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T00:17:25Z"
 ---
 ## What it is
 Enables AI agents to perform due diligence on Irish properties by querying public datasets for planning applications, sold prices, flood risk, radon risk, and zoning.

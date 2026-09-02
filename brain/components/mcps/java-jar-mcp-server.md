@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-27T07:55:04Z"
 ---
 ## What it is
 Enables AI assistants to look up Java class definitions and list dependencies from Maven projects by analyzing local JAR files via the Model Context Protocol.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:45Z"
 ---
 ## What it is
 MCP server `Crypto Prices`, catalogued on PulseMCP. Fetches live cryptocurrency prices and performs currency conversions via free public crypto APIs.

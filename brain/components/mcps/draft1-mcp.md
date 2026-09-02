@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:25:34Z"
 ---
 ## What it is
 MCP server for generating and editing architecture diagrams from natural language or code, supporting formats like Terraform, docker-compose, Kubernetes, SQL, Mermaid, and PlantUML.

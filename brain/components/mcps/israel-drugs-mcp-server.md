@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-08-31T10:51:35Z"
 ---
 ## What it is
 Provides AI agents with comprehensive access to Israel's complete pharmaceutical database from the Ministry of Health, enabling drug information search, therapeutic comparisons, and safety assessments.

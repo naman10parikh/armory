@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T21:12:37Z"
 ---
 ## What it is
 MCP server to search tutti.ch Swiss classifieds anonymously with tools for listings, categories, and localities. Supports both MCP clients and a JSON CLI.

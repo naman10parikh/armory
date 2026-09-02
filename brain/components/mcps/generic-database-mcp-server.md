@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T14:42:53Z"
 ---
 ## What it is
 Enables read-only SQL querying and schema inspection across MSSQL, PostgreSQL, and MySQL databases via MCP tools.

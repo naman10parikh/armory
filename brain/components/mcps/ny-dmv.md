@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:26:31Z"
 ---
 ## What it is
 Enables querying New York State DMV data including vehicle registrations, EV adoption, offices, road test sites, driving schools, and licensed facilities, with keyless access to public datasets.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T14:23:16Z"
 ---
 ## What it is
 MCP server `Reminder`, catalogued on PulseMCP. Schedules and delivers time-based reminders with support for delays, exact times, and pre-event notifications.

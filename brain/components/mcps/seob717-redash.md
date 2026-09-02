@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T01:47:50Z"
 ---
 ## What it is
 MCP server `Redash`, catalogued on PulseMCP. Query Redash data, manage dashboards, run SQL, and configure alerts with natural language.

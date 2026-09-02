@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:37Z"
 ---
 ## What it is
 MCP server `Hive Secrets`, catalogued on PulseMCP. Encrypted secret storage for autonomous agents with per-DID namespacing, AES-256-GCM encryption, and USDC-metered access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:35:46Z"
 ---
 ## What it is
 Hosted remote MCP server for issuing run receipts, summarizing agent changes, checking test evidence, flagging review risks, and exporting run logs for Antigravity agents.

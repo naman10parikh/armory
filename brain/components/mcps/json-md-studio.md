@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:02:34Z"
 ---
 ## What it is
 A local MCP server that enables AI agents to securely read, write, search, and edit JSON and Markdown files through a gated permission-scoped interface with configurable access modes.

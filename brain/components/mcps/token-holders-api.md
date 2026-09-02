@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:55:26Z"
 ---
 ## What it is
 Provides token holder distribution and concentration analysis for on-chain due diligence, with pay-per-call via x402 micropayments.

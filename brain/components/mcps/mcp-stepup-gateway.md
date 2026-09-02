@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:05:56Z"
 ---
 ## What it is
 An MCP gateway that enforces step-up authentication using WebAuthn passkeys for remote clients, requiring session handles for read operations and fresh passkey confirmations for writes to protect an Obsidian vault.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:44:44Z"
 ---
 ## What it is
 A standalone MCP gateway/proxy server that lets any MCP-compatible client search and call tools across multiple downstream MCP servers through a single mcp proxy tool.

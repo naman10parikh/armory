@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T03:33:33Z"
 ---
 ## What it is
 MCP server `SharedMemory`, catalogued on PulseMCP. Persistent shared memory for AI agents with a knowledge graph backend.

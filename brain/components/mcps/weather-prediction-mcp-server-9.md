@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:36:19Z"
 ---
 ## What it is
 An MCP server that provides real-time weather data and forecasts via Open-Meteo, with tools for current conditions, multi-day forecasts, umbrella predictions, and travel recommendations.

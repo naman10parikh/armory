@@ -8,11 +8,13 @@ source_url: https://github.com/jgsystemsconsulting/jgs-magic-sysmlv1-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T12:35:08Z"
 ---
 ## What it is
 MCP bridge to live SysML v1 models in CATIA Magic / Cameo Systems Modeler (No Magic MSoSA). Lets Claude Code or any MCP agent query, audit, and edit MBSE models — blocks, requirements, diagrams, parametrics, traceability — over a local, air-gapped connection.

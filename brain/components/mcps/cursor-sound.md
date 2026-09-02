@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-13T13:08:48Z"
 ---
 ## What it is
 MCP server `Cursor Sound`, catalogued on PulseMCP. Lightweight macOS server that plays a system sound effect after code generation is complete, providing auditory feedback for developers during coding sessions.

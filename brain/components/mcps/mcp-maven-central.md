@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:18Z"
 ---
 ## What it is
 MCP server for querying Maven Central artifacts. Supports searching by keywords or Maven coordinates, listing versions, and finding latest releases.

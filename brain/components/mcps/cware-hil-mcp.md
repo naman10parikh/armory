@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T20:14:04Z"
 ---
 ## What it is
 Human-in-the-loop MCP hub for Claude Code agents, enabling agents to ask questions, request approval, or report status to a human via an Obsidian plugin.

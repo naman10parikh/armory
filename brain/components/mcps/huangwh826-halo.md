@@ -8,10 +8,12 @@ source_url: https://github.com/huangwh826/halo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-28T17:25:01Z"
 ---
 ## What it is
 MCP server `Halo`, catalogued on PulseMCP. Integrates with Halo blog systems to provide post, category, tag, and attachment management with automatic Markdown-to-HTML conversion, draft workflows, and publishing automation for streamlined blog administration.

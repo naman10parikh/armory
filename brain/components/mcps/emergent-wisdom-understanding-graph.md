@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T16:15:18Z"
 ---
 ## What it is
 MCP server `Understanding Graph`, catalogued on PulseMCP. Persistent reasoning memory for AI agents via typed cognitive nodes and supersedes edges.

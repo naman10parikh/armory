@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T03:34:26Z"
 ---
 ## What it is
 Provides address validation and geocoding for 240+ countries, including UK Royal Mail PAF and US/Canada census enrichment. Enables batch validation, forward/reverse geocoding, UK postcode expansion, and automatic refunds for failed lookups.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T06:44:40Z"
 ---
 ## What it is
 MCP server `Local Shell`, catalogued on PulseMCP. Executes shell commands and uploads files within a specified local directory.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-15T10:17:10Z"
 ---
 ## What it is
 Enables AI assistants to interact with the GoodPass API for searching products, retrieving details, checking availability, pricing, and managing orders.

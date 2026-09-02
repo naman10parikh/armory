@@ -8,10 +8,12 @@ source_url: https://github.com/brysontang/deltatask
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-02-27T22:44:46Z"
 ---
 ## What it is
 MCP server `DeltaTask`, catalogued on PulseMCP. Integrates with Obsidian to provide a locally-hosted task management system with intelligent prioritization, task decomposition, and a full API for creating, updating, and querying tasks in a SQLite-backed database.

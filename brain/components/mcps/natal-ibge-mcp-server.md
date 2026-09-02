@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:07:29Z"
 ---
 ## What it is
 Provides AI models with direct access to official IBGE Censo 2022 and PIB data for Natal (RN), including neighborhood-level demographics, sanitation, and comparisons.

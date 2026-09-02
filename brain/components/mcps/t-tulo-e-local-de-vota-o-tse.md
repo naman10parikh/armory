@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:51:48Z"
 ---
 ## What it is
 Consulta o título de eleitor e o local de votação de uma pessoa no TSE a partir de nome, CPF, título e data de nascimento.

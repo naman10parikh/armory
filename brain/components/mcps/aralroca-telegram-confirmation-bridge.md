@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T14:48:15Z"
 ---
 ## What it is
 MCP server `Telegram Confirmation Bridge`, catalogued on PulseMCP. Requests human confirmation via Telegram by sending YES/NO questions through a bot and polling for responses with secure user validation.

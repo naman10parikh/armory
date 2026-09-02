@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:30:44Z"
 ---
 ## What it is
 An MCP server for safely inspecting, editing, and synchronizing Google Colab-compatible .ipynb notebooks through Google Drive.

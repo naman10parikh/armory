@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:47:49Z"
 ---
 ## What it is
 Enables AI agents to interact with Overleaf projects directly, including creating projects, managing files, and editing documents in real-time using Overleaf's native Operational Transformation protocol.

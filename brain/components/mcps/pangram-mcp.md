@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:56:18Z"
 ---
 ## What it is
 Exposes an analyze tool to classify text as human-written, AI-generated, or AI-assisted using Pangram Labs API.

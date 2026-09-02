@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T08:02:28Z"
 ---
 ## What it is
 MCP server `163 Email`, catalogued on PulseMCP. Integrates with 163.com email accounts via IMAP and SMTP to read, search, send, and manage emails with attachments.

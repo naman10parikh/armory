@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 2
+forks: 1
+pushed_at: "2026-08-10T07:38:23Z"
 ---
 ## What it is
 Docker operations — manage containers, images, volumes, networks, and compose services.

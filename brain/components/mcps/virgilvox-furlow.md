@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T22:23:27Z"
 ---
 ## What it is
 MCP server `FURLOW`, catalogued on PulseMCP. Author and validate FURLOW Discord bot YAML specifications with scaffold support for actions, events, and builtins.

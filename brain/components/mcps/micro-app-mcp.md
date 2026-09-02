@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-02T19:45:23Z"
 ---
 ## What it is
 Provides semantic search and knowledge base management for the micro-app micro-frontend framework by ingesting its source code and documentation.

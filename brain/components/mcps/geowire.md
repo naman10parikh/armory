@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-26T14:13:12Z"
 ---
 ## What it is
 Unified place search and geocoding over OpenStreetMap, Google, and your own CSV data. Provider fallback, multi-provider merge + dedup, cost budgets, and a policy engine. Works with zero API keys. Tools: search_places, get_place, geocode_address, reverse_geocode, list_geo_providers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:09:23Z"
 ---
 ## What it is
 MCP server for generating interactive 3D Earth visualizations with annotated news from multiple global sources.

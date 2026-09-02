@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:38:25Z"
 ---
 ## What it is
 A persistent, self-revising hypothesis DAG for agentic R&D, exposed as an MCP server. It enables agents to structure working knowledge as a directed acyclic graph of hypotheses, with automatic write-back belief revision and cascading pruning based on evidence.

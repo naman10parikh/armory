@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T23:56:25Z"
 ---
 ## What it is
 Stages local images and videos into SchedulifyX by uploading files out-of-band and returning media IDs, enabling scheduling without passing bytes through the AI context.

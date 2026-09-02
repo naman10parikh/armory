@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:48Z"
 ---
 ## What it is
 MCP server for consulting negative debt certificates (Certidão Negativa de Débitos) from the Recife city government in Brazil, providing read-only access to official data via a hosted HTTP endpoint.

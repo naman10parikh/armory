@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-28T20:12:39Z"
 ---
 ## What it is
 AI-native Solana wallet CLI with scoped MCP server, enabling AI agents to manage wallets with granular permissions, spend limits, and tamper-evident audit logging.

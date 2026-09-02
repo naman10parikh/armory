@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-29T22:18:39Z"
 ---
 ## What it is
 Enables security researchers to interact with Intigriti's bug bounty platform through Claude Desktop, providing access to programs, scope, activities, and rules of engagement via natural language.

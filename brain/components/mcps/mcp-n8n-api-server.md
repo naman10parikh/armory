@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-03-30T22:29:47Z"
 ---
 ## What it is
 Enables listing and triggering n8n workflows, and calling webhooks via the Model Context Protocol.

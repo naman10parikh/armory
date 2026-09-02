@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T23:51:08Z"
 ---
 ## What it is
 A non-custodial USDC wallet on Base exposed as seven tools: address, balance, check, pay, earnings, report and recover. Spending limits (per transaction, per day, per counterparty, plus a destination allowlist) are enforced in code between deciding and signing, and the server runs locally over stdio

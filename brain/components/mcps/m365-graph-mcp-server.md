@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T00:09:16Z"
 ---
 ## What it is
 Model Context Protocol server wrapping Microsoft Graph API for OneDrive, SharePoint, and Calendar with read and write operations, plus Teams meeting transcript support.

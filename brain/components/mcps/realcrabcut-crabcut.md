@@ -8,10 +8,12 @@ source_url: https://github.com/realcrabcut/crabcut-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T12:25:22Z"
 ---
 ## What it is
 MCP server `CrabCut`, catalogued on PulseMCP. Turn YouTube videos into short-form clips with AI-powered highlight detection and vertical reframing.

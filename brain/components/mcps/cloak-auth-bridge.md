@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:51:54Z"
 ---
 ## What it is
 MCP server that bridges authenticated sessions from a Chrome extension to CloakBrowser profiles via local WebSocket, enabling agents to sync, verify, and debug persistent login state without exposing raw credentials.

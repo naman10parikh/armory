@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:45:31Z"
 ---
 ## What it is
 An MCP server that enables autonomous self-healing AIOps by monitoring system metrics and executing dynamic remediation through LLM-driven tool routing, with support for Streamlit UI and CLI.

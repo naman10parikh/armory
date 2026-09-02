@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:35:43Z"
 ---
 ## What it is
 Enables Claude to read and send emails from your AGH University mailbox via IMAP and SMTP.

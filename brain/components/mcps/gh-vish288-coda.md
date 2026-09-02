@@ -8,10 +8,12 @@ source_url: https://github.com/vish288/mcp-coda
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T23:27:20Z"
 ---
 ## What it is
 MCP server `Coda by vish288`, catalogued on PulseMCP. Comprehensive Coda API integration with 54 tools covering docs, pages, tables, rows, and analytics.

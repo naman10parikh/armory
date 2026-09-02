@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T03:46:32Z"
 ---
 ## What it is
 Pre-install trust scoring & safety scanning for MCP servers, AI skills & npm packages — 15 signals incl. OSV/KEV/EPSS vuln intel and an auto-gate go/no-go.

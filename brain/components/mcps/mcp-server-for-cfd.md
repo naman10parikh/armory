@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T01:01:25Z"
 ---
 ## What it is
 Provides aerodynamic analysis tools through MCP, enabling geometry generation, meshing, CFD solving, and visualization for 2D airfoils.

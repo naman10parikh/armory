@@ -8,10 +8,12 @@ source_url: https://github.com/splinesreticulating/liquidsoapmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-16T04:37:42Z"
 ---
 ## What it is
 MCP server `LiquidSoap`, catalogued on PulseMCP. Integrates with LiquidSoap 2.4.0 documentation to provide function search, code examples for streaming tasks, script validation for deprecated patterns, and migration guidance for audio/video streaming applications and broadcast workflows.

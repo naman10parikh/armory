@@ -8,11 +8,13 @@ source_url: https://github.com/dhicoc/codex-web-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:34:48Z"
 ---
 ## What it is
 Zero-dependency MCP server that wraps OpenAI Codex's standalone search endpoint into codex_web_search and codex_web_research tools for Claude Code, enabling real-time web search and multi-step deep research independent of the underlying model.

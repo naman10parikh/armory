@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:15:14Z"
 ---
 ## What it is
 Lets Claude read your Trello boards, lists, and cards via a remote MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-08T12:25:36Z"
 ---
 ## What it is
 A shared context and coordination layer for multiple AI agents over MCP, featuring semantic memory, dependency-aware task DAGs, auto-scheduling, role-based access, real-time push, and a live dashboard.

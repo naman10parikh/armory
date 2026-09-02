@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T06:56:19Z"
 ---
 ## What it is
 MCP server `GoHighLevel`, catalogued on PulseMCP. 60+ tools for GoHighLevel CRM — contacts, messaging, calendars, and payments for AI agents.

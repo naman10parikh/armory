@@ -12,6 +12,8 @@ stars: 127
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-08-11T15:11:22Z"
 ---
 ## What it is
 MCP server `Specs Workflow`, catalogued on PulseMCP. Guides users through structured software project documentation phases with automated document generation, progress tracking, and workflow state management using OpenAPI specifications as templates.

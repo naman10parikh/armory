@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-24T23:02:37Z"
 ---
 ## What it is
 MCP server `Spartan NG`, catalogued on PulseMCP. Access Spartan Angular UI component APIs, documentation, and installation commands for 56 components and 17 page-level blocks.

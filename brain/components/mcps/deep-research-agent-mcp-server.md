@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T19:33:19Z"
 ---
 ## What it is
 An AI-powered deep research agent that automates the full research pipeline from web search to structured executive reports using a 4-tool pipeline (search, fetch, cluster, report).

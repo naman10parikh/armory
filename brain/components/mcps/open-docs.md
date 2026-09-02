@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-08T16:30:23Z"
 ---
 ## What it is
 MCP server `Open Docs (Technical Documentation Search)`, catalogued on PulseMCP. Crawls and indexes technical documentation sites with multi-language support using jieba-wasm and Lunr.js for full-text search capabilities

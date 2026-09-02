@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:36:08Z"
 ---
 ## What it is
 MCP server for querying national vehicle history linked to a Brazilian CPF or CNPJ, using read-only paid credits via a hosted HTTP API.

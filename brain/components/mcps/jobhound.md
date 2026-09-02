@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T00:20:09Z"
 ---
 ## What it is
 Enables autonomous job search by scanning, scoring, and applying to jobs via APIs like Ashby, Greenhouse, and Lever, with a TUI dashboard for tracking.

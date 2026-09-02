@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:51:47Z"
 ---
 ## What it is
 Sample MCP server exposing 5 tools (weather, profile, wikipedia) via a single endpoint, designed to onboard developers to Mindset AI's MCP integration.

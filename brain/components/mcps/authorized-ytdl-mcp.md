@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:02:50Z"
 ---
 ## What it is
 Enables downloading authorized YouTube videos, audio, and playlists as MP4/MP3 via ChatGPT with real-time progress widgets and media player.

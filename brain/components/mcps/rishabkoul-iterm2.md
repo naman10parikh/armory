@@ -8,10 +8,12 @@ source_url: https://github.com/rishabkoul/iterm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-23T17:04:44Z"
 ---
 ## What it is
 MCP server `iTerm2`, catalogued on PulseMCP. Enables AI interaction with iTerm2 terminals on macOS through AppleScript and Node.js, allowing command execution, output capture, and terminal management without context switching.

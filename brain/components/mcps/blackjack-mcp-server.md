@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-18T22:41:18Z"
 ---
 ## What it is
 Provides an interactive blackjack game with standard rules via MCP tools and a web UI, enabling actions like hit, stand, and double down.

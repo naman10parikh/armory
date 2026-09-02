@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T20:34:01Z"
 ---
 ## What it is
 Manages Namecheap domains and account settings through the web dashboard without requiring an API key or IP allowlist.

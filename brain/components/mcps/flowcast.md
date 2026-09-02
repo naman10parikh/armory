@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T21:14:31Z"
 ---
 ## What it is
 Turn your AI coding agent into a producer of interactive, narrated walkthroughs — code, whiteboard, and 3D casts, each a single self-contained HTML file that opens in any browser. Runs locally over npx.

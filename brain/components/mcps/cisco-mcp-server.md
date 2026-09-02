@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:11:43Z"
 ---
 ## What it is
 Enables executing Cisco CLI commands on network devices over SSH through two MCP tools for exec and config commands, with security and automation features.

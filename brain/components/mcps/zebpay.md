@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T07:56:01Z"
 ---
 ## What it is
 MCP server `Zebpay`, catalogued on PulseMCP. Access Zebpay crypto exchange spot and futures APIs for market data, trading, and account management.

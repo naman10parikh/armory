@@ -8,10 +8,12 @@ source_url: https://github.com/zach-snell/bbkt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-12T05:12:09Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Go-based Bitbucket Cloud integration with dual CLI and server modes for managing repositories, pull requests, pipelines, and source code.

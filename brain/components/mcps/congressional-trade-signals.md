@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:59:34Z"
 ---
 ## What it is
 Enables querying of U.S. congressional stock trade data, including price history, recent trades, buy signals, stock activity, and politician activity, through natural language tools.

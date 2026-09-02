@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:42:19Z"
 ---
 ## What it is
 A read-only MCP server that provides tools to read, list, and inspect secrets from HashiCorp Vault's KV secrets engine (versions 1 and 2) using a Vault token.

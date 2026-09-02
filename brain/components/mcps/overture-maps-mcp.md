@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T04:44:59Z"
 ---
 ## What it is
 Python MCP server for querying Overture Maps building footprint data via address search, building lookups, and nearby building listings.

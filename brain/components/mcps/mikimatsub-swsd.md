@@ -8,10 +8,12 @@ source_url: https://github.com/mikimatsub/swsd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T18:38:50Z"
 ---
 ## What it is
 MCP server `SolarWinds Service Desk`, catalogued on PulseMCP. SolarWinds Service Desk integration — manage tickets, knowledge base, and service catalog via MCP.

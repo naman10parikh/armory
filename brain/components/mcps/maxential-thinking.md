@@ -8,10 +8,12 @@ source_url: https://github.com/bam-devcrew/maxential-thinking-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-25T19:08:46Z"
 ---
 ## What it is
 MCP server `MAXential Thinking`, catalogued on PulseMCP. Structured thinking tools for managing reasoning processes with branching and revision capabilities

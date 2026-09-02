@@ -8,10 +8,12 @@ source_url: https://github.com/wayazi/mcp_file_system
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-18T09:12:08Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Secure filesystem operations server that provides controlled access to files and directories with robust path validation and essential management capabilities.

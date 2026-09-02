@@ -8,10 +8,12 @@ source_url: https://github.com/0xhackerfren/frida-game-hacking-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, memory, security]
+forks: 9
+pushed_at: "2025-12-04T14:57:30Z"
 ---
 
 ## What it is

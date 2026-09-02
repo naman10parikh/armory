@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:48Z"
 ---
 ## What it is
 MCP server giving AI agents access to US political finance data: campaign contributions, PAC spending, lobbying records, and voting behavior.

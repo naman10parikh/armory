@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-07T13:09:32Z"
 ---
 ## What it is
 MCP server `Zutrix`, catalogued on PulseMCP. SEO platform integration for rank tracking, keyword research, competitor analysis, backlink monitoring, and site audits.

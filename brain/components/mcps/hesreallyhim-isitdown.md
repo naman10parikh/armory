@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-18T12:39:11Z"
 ---
 ## What it is
 MCP server `IsItDown`, catalogued on PulseMCP. Integrates with isitdownrightnow.com to check website status, providing real-time availability information and last known downtime for monitoring and troubleshooting purposes.

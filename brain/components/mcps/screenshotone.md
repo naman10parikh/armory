@@ -12,6 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-12T19:21:07Z"
 ---
 ## What it is
 MCP server `ScreenshotOne`, catalogued on PulseMCP. Integrates with ScreenshotOne's API to enable rendering of website screenshots for visual testing, content monitoring, and creating web page references.

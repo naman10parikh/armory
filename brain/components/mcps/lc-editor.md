@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:36:55Z"
 ---
 ## What it is
 Enables creating and editing 9:16 video reels programmatically through MCP tool calls, with ffmpeg rendering, caption styling, and optional project presets.

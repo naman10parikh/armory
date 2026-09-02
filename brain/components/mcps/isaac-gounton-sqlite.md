@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-15T02:03:22Z"
 ---
 ## What it is
 MCP server `SQLite`, catalogued on PulseMCP. Provides a lightweight SQLite database management solution with TypeScript and Docker support, enabling quick, embedded database operations with minimal setup complexity.

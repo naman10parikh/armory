@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T03:33:56Z"
 ---
 ## What it is
 MCP server `HardMCP Arr Suite`, catalogued on PulseMCP. Unified interface for managing Sonarr, Radarr, Prowlarr, Bazarr, and Overseerr media automation services.

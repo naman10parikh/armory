@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T03:16:10Z"
 ---
 ## What it is
 Enables MCP clients to interact with the Ubidots IoT platform for managing IoT devices, data, and automation through natural language.

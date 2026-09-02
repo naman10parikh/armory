@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:13:36Z"
 ---
 ## What it is
 Provides tools to search Splunk logs, inject test data, and send triage emails, enabling AI-driven incident investigation.

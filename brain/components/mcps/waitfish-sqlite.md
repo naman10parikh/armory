@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T05:55:23Z"
 ---
 ## What it is
 MCP server `SQLite`, catalogued on PulseMCP. Provides a SQLite-based database backend for efficient data storage and retrieval, leveraging Rust and integrating with mcp-core and mcp-server libraries for embedded systems, desktop applications, or small-scale server deployments.

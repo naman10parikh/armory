@@ -8,10 +8,12 @@ source_url: https://github.com/hustcc/mcp-mermaid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 566
+stars: 627
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 58
+pushed_at: "2026-05-15T12:16:57Z"
 ---
 ## What it is
 MCP server `Mermaid`, catalogued on PulseMCP. Generates Mermaid diagrams by accepting Mermaid syntax with customizable themes, background colors, and output formats including PNG images, SVG strings, or raw syntax.

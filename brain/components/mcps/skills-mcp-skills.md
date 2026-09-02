@@ -8,10 +8,12 @@ source_url: https://github.com/skills-mcp/skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-10-20T07:53:28Z"
 ---
 ## What it is
 MCP server `Skills`, catalogued on PulseMCP. Provides a registry system for organizing and accessing specialized expertise packages as reusable skills with automatic discovery, validation, and caching to enable modular AI assistance across different domains.

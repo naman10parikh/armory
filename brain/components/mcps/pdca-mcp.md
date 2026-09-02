@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:39:15Z"
 ---
 ## What it is
 Provides read-only query tools for PDCA dealer data (stores, sell-in/out, five-kit, meetings, targets) from production PostgreSQL for AI assistants, supporting stdio and authenticated HTTP transports.

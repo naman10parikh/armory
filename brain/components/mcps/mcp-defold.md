@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:21:17Z"
 ---
 ## What it is
 This MCP server drives Defold games through an in-game debug bridge, allowing MCP clients to build, launch, playtest, and interact with real game builds via tools for input, screen reading, state, and logs.

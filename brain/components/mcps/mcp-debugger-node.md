@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T19:36:40Z"
 ---
 ## What it is
 MCP server for debugging Node.js programs through the V8 Inspector Protocol, allowing AI agents to set breakpoints, inspect variables, and step through code.

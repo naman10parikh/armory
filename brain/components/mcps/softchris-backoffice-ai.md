@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T21:24:58Z"
 ---
 ## What it is
 MCP server `Backoffice AI`, catalogued on PulseMCP. Generates product descriptions from titles and keywords using a locally hosted Ollama language model via an Express API.

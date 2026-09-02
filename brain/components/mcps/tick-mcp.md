@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-09T02:33:39Z"
 ---
 ## What it is
 Enables AI assistants to manage TickTick tasks, projects, habits, tags, and focus stats using 71 tools via the Model Context Protocol.

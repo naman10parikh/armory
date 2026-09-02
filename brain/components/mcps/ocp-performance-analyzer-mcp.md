@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-24T08:55:52Z"
 ---
 ## What it is
 A comprehensive, AI-powered performance analysis and monitoring platform for OpenShift/Kubernetes clusters. This project provides Model Context Protocol (MCP) servers for analyzing etcd, network, and OVN-Kubernetes components with deep performance insights, automated root cause analysis, and actiona

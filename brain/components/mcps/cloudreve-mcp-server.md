@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:16:49Z"
 ---
 ## What it is
 This MCP server enables file management and local caching for Cloudreve v4 through OAuth authentication, allowing operations like listing, uploading, downloading, and sharing files via natural language in MCP-compatible clients.

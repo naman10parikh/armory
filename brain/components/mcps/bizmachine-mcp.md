@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:14:15Z"
 ---
 ## What it is
 Access Czech and Slovak company data (financials, contacts, risks, ownership) via BizMachine API, enabling natural-language lookups by name, domain, or ICO.

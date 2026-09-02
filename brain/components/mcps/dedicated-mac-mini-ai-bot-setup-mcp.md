@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T16:35:27Z"
 ---
 ## What it is
 Enables founders to evaluate and purchase a managed AI operator running on a dedicated Mac mini, with tools to retrieve offer details and queue status.

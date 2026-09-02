@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:10:15Z"
 ---
 ## What it is
 Authentication and authorization plugin for appium-mcp, adding bearer API keys, OAuth JWT, session tokens, scope-based authorization, rate limiting, and per-session ownership when running over SSE/HTTP Stream.

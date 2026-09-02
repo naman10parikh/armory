@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:44:38Z"
 ---
 ## What it is
 Local-first CLI that mines git history for file-level co-change patterns and builds a queryable knowledge graph for AI coding agents, exposed via an MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T20:17:10Z"
 ---
 ## What it is
 Read-only MCP server for self-hosted Airbyte OSS 1.6.x, enabling monitoring of connections, jobs, and health via public and internal APIs. Optionally supports triggering syncs and canceling jobs.

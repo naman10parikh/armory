@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:51:43Z"
 ---
 ## What it is
 MCP server for administering wg-easy (WireGuard Easy) instances, enabling listing, creating, updating, enabling/disabling, and deleting WireGuard clients, fetching configs and QR codes, and inspecting server status via the wg-easy REST API.

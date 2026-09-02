@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T19:13:42Z"
 ---
 ## What it is
 A hardened MCP server that enforces authentication via Easy Auth and OAuth, manages secrets with Key Vault, and restricts network access using VNet integration and API Management, enabling secure tool invocations through a fully private infrastructure.

@@ -8,11 +8,13 @@ source_url: https://github.com/orobsonn/segundo-cerebro
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-21T19:05:34Z"
 ---
 ## What it is
 Self-hosted personal knowledge graph running on Cloudflare, connecting to Claude as an MCP server for capturing atomic concepts and cross-domain analogies.

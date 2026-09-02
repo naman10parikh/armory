@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-14T07:24:28Z"
 ---
 ## What it is
 MCP server `iMessage`, catalogued on PulseMCP. Integrates with Apple's iMessage platform to enable sending and receiving messages.

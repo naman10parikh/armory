@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:25:38Z"
 ---
 ## What it is
 Multi-source enrichment platform for Norwegian company intelligence: search, ownership down to individual shareholders, roles, financials, risk scoring, and KYC/AML/PEP screening. Fuses Brønnøysundregistrene, the Tax Administration's shareholder registry, and foreign PEP/sanctions sources into decis

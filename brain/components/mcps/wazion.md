@@ -8,10 +8,12 @@ source_url: https://github.com/wazionapps/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-16T20:22:16Z"
 ---
 ## What it is
 MCP server `Wazion`, catalogued on PulseMCP. Connects AI assistants to the Wazion WhatsApp Business platform for messaging, automation, marketing, and CRM operations.

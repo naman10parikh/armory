@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:42:10Z"
 ---
 ## What it is
 Provides deterministic tools for understanding, transforming, and verifying structured data via MCP, enabling rule inference from examples and verification of transformed records.

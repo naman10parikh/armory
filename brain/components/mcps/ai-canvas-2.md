@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:29:13Z"
 ---
 ## What it is
 Enables bidirectional communication between AI agents and a tldraw canvas, allowing agents to push content as interactive cards and users to select cards for conversation context.

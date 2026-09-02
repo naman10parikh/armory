@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:57:07Z"
 ---
 ## What it is
 Turns raw GitHub commit history into a categorized, human-readable changelog directly inside Claude or any MCP-compatible client.

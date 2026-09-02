@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:03:04Z"
 ---
 ## What it is
 Enables multiple Claude Code sessions to communicate and coordinate through broadcast and peer-to-peer messaging.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-10T13:06:50Z"
 ---
 ## What it is
 MCP server `Agenda App`, catalogued on PulseMCP. Integrates with Agenda note-taking app on macOS to enable creating notes, managing projects, and opening existing notes using x-callback-urls.

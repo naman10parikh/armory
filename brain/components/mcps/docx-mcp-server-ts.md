@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:03:35Z"
 ---
 ## What it is
 Enables programmatic processing of DOCX/OOXML files through MCP, covering text, tables, images, headers/footers, structured data tags, comments, and track changes.

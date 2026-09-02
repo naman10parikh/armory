@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:04:29Z"
 ---
 ## What it is
 Maps any source asset (e.g., long video, podcast, blog) to all platform formats (TikTok, Reels, Shorts, etc.) with per-platform adaptation rules, enabling a 'film-once-cut-many' content workflow.

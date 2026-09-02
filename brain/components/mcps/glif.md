@@ -8,10 +8,12 @@ source_url: https://github.com/glifxyz/glif-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 132
+stars: 204
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-07-30T23:47:28Z"
 ---
 ## What it is
 MCP server `Glif`, catalogued on PulseMCP. Enables Claude to run visual AI workflows from glif.app, providing tools to execute, manage, and save Glif workflows directly within conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:01:50Z"
 ---
 ## What it is
 BackEngine is a multi-tenant SaaS platform that ingests all of an organization's customer and prospect communications — Slack threads, emails, call and meeting transcripts, and support tickets — and distills them into structured, queryable context. Raw conversations are processed into signals (categ

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:24:24Z"
 ---
 ## What it is
 Unifies local MCP servers into a single secure Cloudflare Tunnel endpoint, making them accessible to MCP clients like Notion and Claude. Supports HTTP/SSE/stdio servers, built-in file system tools, bearer authentication, and one-click Windows setup.

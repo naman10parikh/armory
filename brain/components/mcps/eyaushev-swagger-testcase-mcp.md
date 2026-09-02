@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 2
+forks: 0
+pushed_at: "2026-04-13T16:12:10Z"
 ---
 ## What it is
 MCP server for API test case generation from Swagger/OpenAPI specs. Parses Swagger 2.0 and OpenAPI 3.x, generates test cases across 8 categories (happy path, validation, auth, error handling, boundary, security injection, idempotency, pagination/concurrency) with export to Markdown, Gherkin, Postman, k6, pytest, Allure, and TestRail.

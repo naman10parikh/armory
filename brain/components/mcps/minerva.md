@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:41:08Z"
 ---
 ## What it is
 Manages skills and profiles on disk and probes companion tools (bob, cortex, mcphub, etc.) over stdio MCP, enabling library operations and stack readiness checks.

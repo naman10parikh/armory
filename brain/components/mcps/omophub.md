@@ -8,10 +8,12 @@ source_url: https://github.com/omophub/omophub-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T19:48:49Z"
 ---
 ## What it is
 MCP server `OMOPHub`, catalogued on PulseMCP. Search, map, and navigate 5M+ OMOP medical vocabulary concepts including SNOMED CT, ICD-10, RxNorm, and LOINC.

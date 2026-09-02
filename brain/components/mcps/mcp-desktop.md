@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T03:50:19Z"
 ---
 ## What it is
 macOS desktop automation enabling AI agents to screenshot, switch apps and tabs, click, type, and scroll. Offers two trust levels: read-only screenshot and full UI control.

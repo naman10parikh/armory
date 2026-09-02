@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-19T19:41:52Z"
 ---
 ## What it is
 MCP server for Atlassian Confluence and Jira Cloud with 51 tools to manage pages, issues, sprints, boards, and backlogs.

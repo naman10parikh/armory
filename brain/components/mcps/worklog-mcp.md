@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T02:21:34Z"
 ---
 ## What it is
 A simple, searchable Markdown-based MCP server for saving and retrieving work logs with two tools: save_worklog and search_worklogs.

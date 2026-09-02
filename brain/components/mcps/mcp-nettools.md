@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-07T21:06:47Z"
 ---
 ## What it is
 A Model Context Protocol server that provides network diagnostics and scanning tools such as nmap, DNS lookups, whois, traceroute, and security analysis.

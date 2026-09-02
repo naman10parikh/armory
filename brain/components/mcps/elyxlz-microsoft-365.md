@@ -8,10 +8,12 @@ source_url: https://github.com/elyxlz/microsoft-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2025-06-23T11:04:59Z"
 ---
 ## What it is
 MCP server `Microsoft 365`, catalogued on PulseMCP. Integrates with Microsoft 365 services including Outlook, Calendar, OneDrive, and Contacts to enable email management, calendar operations, file handling, and contact management with multi-account authentication and advanced search capabilities.

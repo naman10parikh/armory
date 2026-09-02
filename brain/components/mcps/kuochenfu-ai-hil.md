@@ -8,10 +8,12 @@ source_url: https://github.com/kuochenfu/ai-hil-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-07T22:35:16Z"
 ---
 ## What it is
 MCP server `AI Hardware-in-the-Loop`, catalogued on PulseMCP. Connects AI assistants to physical embedded devices for hardware-in-the-loop debugging with serial, JTAG, power profiling, and camera tools.

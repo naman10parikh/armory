@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T16:47:38Z"
 ---
 ## What it is
 A Model Context Protocol server that integrates LinkedIn, Salesforce, and Xero, enabling AI agents to perform CRUD operations, search, and manage data across these platforms through natural language.

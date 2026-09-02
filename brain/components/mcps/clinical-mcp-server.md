@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T23:17:01Z"
 ---
 ## What it is
 A governed, audited Model Context Protocol server that provides AI agents with secure, read-only access to a clinical knowledge base through least-privilege tools, policy validation, and append-only audit logging.

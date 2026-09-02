@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T02:31:32Z"
 ---
 ## What it is
 An MCP server that provides AI agents with access to over 20 knowledge sources including arXiv, GitHub, YouTube, Wikipedia, and more for reading and searching content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:58:51Z"
 ---
 ## What it is
 MCP server providing indexed access to 45,899 Czech statutes from e-sbirka.cz, enabling agents to retrieve real legal text and citations.

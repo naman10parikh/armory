@@ -8,10 +8,12 @@ source_url: https://github.com/spuentesp/lain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T20:23:38Z"
 ---
 ## What it is
 MCP server `LAIN`, catalogued on PulseMCP. Rust-based code intelligence MCP server that builds queryable knowledge graphs of codebases for dependency analysis and semantic search.

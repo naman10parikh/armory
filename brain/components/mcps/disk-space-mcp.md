@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:41:47Z"
 ---
 ## What it is
 Enables checking and validating disk space usage via a single tool, reporting total, used, and available space with optional free space thresholds.

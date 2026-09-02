@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:48:52Z"
 ---
 ## What it is
 Enables designers to refine motion effects by direct manipulation in a running app, sending precise changesets to AI coding agents via MCP for source updates.

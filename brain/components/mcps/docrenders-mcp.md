@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T22:13:19Z"
 ---
 ## What it is
 Generate production-ready PDFs from Markdown, HTML, or built-in templates (invoices, resumes, reports) directly from Claude or any MCP-compatible AI agent via the DocRenders API.

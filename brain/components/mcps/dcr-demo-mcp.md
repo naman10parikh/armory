@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T21:13:39Z"
 ---
 ## What it is
 Demonstrates OAuth 2.0 Dynamic Client Registration with Duo SSO, providing three MCP servers for calendar events, document management, and analytics dashboards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:34:55Z"
 ---
 ## What it is
 Enables AI agents to control Ableton Live 12 for music production, including generating grooves, basslines, and percussion, and executing live set operations through MCP.

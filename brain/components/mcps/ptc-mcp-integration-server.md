@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-06T13:03:17Z"
 ---
 ## What it is
 Integrates PTC Windchill and Creo Parametric with LLM-based clients via the Model Context Protocol, enabling natural language interaction with PLM and CAD systems for tasks like part search, BOM retrieval, model operations, and exports.

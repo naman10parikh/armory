@@ -8,10 +8,12 @@ source_url: https://github.com/0xhackerfren/procmon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, observability, search, security]
+forks: 5
+pushed_at: "2026-05-06T16:19:13Z"
 ---
 
 ## What it is

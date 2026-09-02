@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:02:19Z"
 ---
 ## What it is
 Enables Claude Code to read, create, and complete tasks in your Salta life planner account, and break goals into dated steps, synced to your phone and web.

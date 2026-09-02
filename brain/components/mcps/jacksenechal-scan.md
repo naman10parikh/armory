@@ -8,10 +8,12 @@ source_url: https://github.com/jacksenechal/scan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-03T18:11:24Z"
 ---
 ## What it is
 MCP server `Page/Image Scanner`, catalogued on PulseMCP. Integrates with SANE-compatible scanners to provide document capture with ADF support, duplex scanning, batch processing, and automatic multi-page TIFF assembly for digitizing physical documents and building document management workflows.

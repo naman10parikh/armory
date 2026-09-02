@@ -8,10 +8,12 @@ source_url: https://github.com/laubplusco/mcp-webdav-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-19T17:16:20Z"
 ---
 ## What it is
 MCP server `WebDAV`, catalogued on PulseMCP. Enables interaction with WebDAV file systems through natural language commands, providing complete CRUD operations for files and directories with support for both local and remote access.

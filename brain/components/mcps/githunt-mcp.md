@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T20:31:22Z"
 ---
 ## What it is
 GitHunt MCP gives AI assistants access to developer talent-discovery engine. Search a pool of millions of GitHub developers by location, role, and skills; pull a single developer's ranked profile, or run deep analysis on a candidate. Results come back ranked by fit with transparent scoring, experien

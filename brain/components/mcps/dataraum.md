@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-30T17:34:20Z"
 ---
 ## What it is
 MCP server `DataRaum`, catalogued on PulseMCP. Rich metadata context engine for AI-driven data analytics with semantic profiling and SQL execution.

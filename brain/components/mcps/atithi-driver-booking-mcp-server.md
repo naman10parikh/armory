@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:15:18Z"
 ---
 ## What it is
 Enables AI agents to manage cab bookings, estimate fares, and dispatch drivers with a 2-tier priority algorithm for hotel guests, providing 18 MCP tools for driver management, dispatch, and ride lifecycle.

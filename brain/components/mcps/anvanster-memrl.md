@@ -8,10 +8,12 @@ source_url: https://github.com/anvanster/tempera
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-29T23:40:35Z"
 ---
 ## What it is
 MCP server `MemRL`, catalogued on PulseMCP. Memory-augmented reinforcement learning system that captures coding sessions as episodes, learns from successful problem-solving patterns, and provides semantic search to retrieve relevant past experiences.

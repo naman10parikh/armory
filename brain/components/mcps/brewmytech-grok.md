@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-05T09:40:33Z"
 ---
 ## What it is
 MCP server `Grok`, catalogued on PulseMCP. Provides access to Grok API for chat completions, text completions, embeddings, and model operations with robust request validation and error handling.

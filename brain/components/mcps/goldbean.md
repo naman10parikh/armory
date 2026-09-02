@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-30T11:33:06Z"
 ---
 ## What it is
 x402 Micropaid MCP Server — 120+ paid API endpoints for AI Agents. Pay per call with USDC on Base network. No signup, no API key needed.

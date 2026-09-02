@@ -8,10 +8,12 @@ source_url: https://github.com/keyfactor-research/command-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-10T22:04:47Z"
 ---
 ## What it is
 MCP server `Keyfactor Command`, catalogued on PulseMCP. Integrates with Keyfactor Command PKI platform to enable certificate enrollment, revocation, and search operations while combining Risk Intelligence security findings with risk assessment for enterprise certificate lifecycle management.

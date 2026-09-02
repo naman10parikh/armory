@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:43:42Z"
 ---
 ## What it is
 A Windows MCP server that enables AI agents to capture screenshots of open windows or the full desktop via stdio or HTTP.

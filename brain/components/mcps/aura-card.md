@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:31:13Z"
 ---
 ## What it is
 An MCP server that generates a personalized 'aura card' with a reading, color palette, and artwork based on a user's description and optional photo, costing 0.5 USDT per call via x402.

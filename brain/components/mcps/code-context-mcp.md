@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T12:31:56Z"
 ---
 ## What it is
 Make any LLM a codebase expert instantly. Provides deep code intelligence through semantic search, architecture mapping, security analysis, and smart context that fits perfectly in token windows.

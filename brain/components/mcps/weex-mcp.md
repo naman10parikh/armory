@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:08:34Z"
 ---
 ## What it is
 MCP server providing WEEX market data, account information, and controlled trade execution, with local stdio and HTTP transports.

@@ -8,10 +8,12 @@ source_url: https://github.com/spences10/mcp-svelte-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 122
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-26T12:19:17Z"
 ---
 ## What it is
 MCP server `Svelte Docs`, catalogued on PulseMCP. Integrates with Svelte documentation to enable efficient querying and retrieval of framework-specific content for development assistance.

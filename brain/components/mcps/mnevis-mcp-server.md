@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:57:57Z"
 ---
 ## What it is
 A lightweight, zero-dependency Python MCP server that exposes a single do_everything tool. Any AI agent that supports MCP can use it to offload all language-model work to a local OpenAI-compatible endpoint, reducing cost on the agent's primary LLM.

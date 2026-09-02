@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-01-13T01:55:58Z"
 ---
 ## What it is
 MCP server `Spec-Driven Development`, catalogued on PulseMCP. Transforms development from idea to implementation through structured phases including goal collection, EARS format requirements gathering, technical design documentation, task planning, and systematic code execution with template-based guidance and organized specification documents.

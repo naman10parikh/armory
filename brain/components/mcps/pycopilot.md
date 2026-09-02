@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T06:59:12Z"
 ---
 ## What it is
 An MCP server that provides a simple addition tool for calculating the sum of two numbers.

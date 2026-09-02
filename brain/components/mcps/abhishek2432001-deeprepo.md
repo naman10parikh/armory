@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-18T20:59:37Z"
 ---
 ## What it is
 MCP server `DeepRepo`, catalogued on PulseMCP. RAG engine for local codebases with multi-provider AI support and semantic search.

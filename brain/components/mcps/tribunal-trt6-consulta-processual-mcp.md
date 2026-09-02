@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:20Z"
 ---
 ## What it is
 MCP server for consulting legal process information from the Tribunal Regional do Trabalho da 6ª Região (TRT6). It provides read-only access to case details via a hosted HTTP API with prepaid credits.

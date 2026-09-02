@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:58:05Z"
 ---
 ## What it is
 Enables role-based, multi-model AI orchestration by assigning specialized expert roles to a hybrid panel of local and cloud LLMs, generating unified advisory council reports for complex tasks.

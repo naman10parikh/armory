@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T07:13:53Z"
 ---
 ## What it is
 Enables automation of native Windows desktop applications through screen capture, mouse/keyboard control, and waiting for UI changes, exposing them as MCP tools.

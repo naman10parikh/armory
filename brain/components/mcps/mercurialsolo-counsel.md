@@ -8,10 +8,12 @@ source_url: https://github.com/mercurialsolo/counsel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-15T01:52:50Z"
 ---
 ## What it is
 MCP server `Counsel`, catalogued on PulseMCP. Connects to the Counsel API for strategic reasoning and multi-perspective analysis through debates, question enhancement, and interactive advisor sessions.

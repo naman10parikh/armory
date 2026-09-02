@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:37:18Z"
 ---
 ## What it is
 Enables AI agents to manage and analyze personal investment portfolios, including fund and stock holdings, net value tracking, XIRR calculations, penetration analysis, and backtesting.

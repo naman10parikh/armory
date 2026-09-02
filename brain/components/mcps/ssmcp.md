@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-29T14:07:13Z"
 ---
 ## What it is
 A stateless HTTP-based protocol for building MCP-compatible servers. Enables easy creation of tools, resources, and prompts using RESTful conventions.

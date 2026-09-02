@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:33Z"
 ---
 ## What it is
 MCP server `Papers with Code`, catalogued on PulseMCP. Browse machine learning research papers and their associated code repositories from Papers with Code.

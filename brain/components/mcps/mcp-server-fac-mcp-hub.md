@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-17T15:49:25Z"
 ---
 ## What it is
 Enables AI models to seamlessly integrate with external tools and data sources via the Model Context Protocol, extending functionality without modifying the core model.

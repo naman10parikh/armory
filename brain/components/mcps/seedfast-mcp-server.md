@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T08:53:57Z"
 ---
 ## What it is
 MCP server for Seedfast, which fills PostgreSQL databases with realistic, relationally valid test data generated from live schema, providing tools for planning, running, and inspecting seeding operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:27:53Z"
 ---
 ## What it is
 MCP server with a fictitious clinical database to develop and test agents, providing tools to search patients and retrieve full medical records (inpatient, outpatient, emergency) via HTTP streamable transport.

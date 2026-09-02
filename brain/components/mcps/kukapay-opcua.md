@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/opcua-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-10-29T23:52:25Z"
 ---
 ## What it is
 MCP server `OPC UA`, catalogued on PulseMCP. Integrates with OPC UA industrial automation systems to enable reading and writing node values for monitoring and controlling connected devices

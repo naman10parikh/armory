@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:39:45Z"
 ---
 ## What it is
 Enables users to chat with an LLM agent that creates and reads Word, Excel, PDF, and JSON files, and accesses databases (letters, documents, LIMS) according to user permissions.

@@ -8,10 +8,12 @@ source_url: https://github.com/piotrlinski/saldeosmart-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-11T10:18:59Z"
 ---
 ## What it is
 MCP server `SaldeoSMART`, catalogued on PulseMCP. Integrates AI assistants with SaldeoSMART Polish accounting software via 43 typed tools for document and invoice management.

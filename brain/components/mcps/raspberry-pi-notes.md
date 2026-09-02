@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-09T06:04:44Z"
 ---
 ## What it is
 MCP server `Raspberry Pi Notes`, catalogued on PulseMCP. Provides a lightweight note storage system for creating, reading, and summarizing notes with custom styling options, designed to run efficiently on Raspberry Pi devices.

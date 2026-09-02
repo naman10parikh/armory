@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-16T00:04:05Z"
 ---
 ## What it is
 MCP server `GNOME UI`, catalogued on PulseMCP. GNOME Wayland desktop automation via AT-SPI element discovery and Mutter remote desktop input.

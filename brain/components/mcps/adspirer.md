@@ -8,10 +8,12 @@ source_url: https://github.com/amekala/ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-15T18:31:35Z"
 ---
 ## What it is
 MCP server `Adspirer`, catalogued on PulseMCP. Campaign planning, research, and cross-platform ad creation

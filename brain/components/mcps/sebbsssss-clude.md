@@ -8,10 +8,12 @@ source_url: https://github.com/sebbsssss/clude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-22T16:16:39Z"
 ---
 ## What it is
 MCP server `Clude`, catalogued on PulseMCP. Cognitive memory system with typed memory categories, differential decay rates, and autonomous dream cycles for persistent AI agent memory.

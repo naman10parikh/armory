@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-06T12:27:29Z"
 ---
 ## What it is
 MCP server `Interview Mode`, catalogued on PulseMCP. Structured interviewer for Claude Code with probing questions, decision tracking, and evolving checkpoints that learn from collective usage.

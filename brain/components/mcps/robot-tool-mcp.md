@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:16:55Z"
 ---
 ## What it is
 Provides an MCP interface to the ROBOT command-line tool for OWL ontology editing, enabling operations like merging, reasoning, and conversion via natural language.

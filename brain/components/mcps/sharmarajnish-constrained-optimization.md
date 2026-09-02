@@ -8,10 +8,12 @@ source_url: https://github.com/sharmarajnish/mcp-constrained-optimization
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-13T13:43:33Z"
 ---
 ## What it is
 MCP server `Constrained Optimization`, catalogued on PulseMCP. Provides unified access to multiple optimization solvers including Z3, CVXPY, HiGHS, and OR-Tools for solving constraint satisfaction, convex optimization, linear programming, and combinatorial problems like portfolio optimization, production planning, scheduling, and classic puzzles with mathematical formulations and visualization capabilities.

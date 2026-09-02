@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-05-14T04:14:36Z"
 ---
 ## What it is
 MCP server that connects AI agents to real YouTube channel analytics and SEO management via OAuth, enabling content strategy, metadata updates, and companion WordPress posts without leaving the agent.

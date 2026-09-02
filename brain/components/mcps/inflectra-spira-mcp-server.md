@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-05T05:10:01Z"
 ---
 ## What it is
 Enables AI assistants to interact with Inflectra Spira for project, test, and requirements management, including artifact search, CRUD operations, and workspace configuration.

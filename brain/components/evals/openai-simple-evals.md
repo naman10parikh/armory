@@ -8,11 +8,13 @@ source_url: https://github.com/openai/simple-evals
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 4610
+stars: 4621
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, benchmark, mmlu, simple]
+forks: 509
+pushed_at: "2026-04-22T22:16:18Z"
 ---
 ## What it is
 OpenAI's lightweight benchmark suite (MMLU, HumanEval, MATH, GPQA, MGSM) for fast model capability comparisons.

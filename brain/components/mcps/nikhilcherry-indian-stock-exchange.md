@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-23T10:45:01Z"
 ---
 ## What it is
 MCP server `Indian Stock Exchange`, catalogued on PulseMCP. Integrates with Indian Stock Exchange API to provide real-time market data, historical prices, stock recommendations, and top gainers/losers for BSE and NSE listed companies.

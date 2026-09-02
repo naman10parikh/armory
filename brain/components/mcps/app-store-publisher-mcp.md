@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:27:22Z"
 ---
 ## What it is
 Enables publishing Android apps to Samsung Galaxy Store and Huawei AppGallery directly from AI agents, with tools for uploading binaries, updating listings, submitting apps, and verifying Samsung IAP receipts.

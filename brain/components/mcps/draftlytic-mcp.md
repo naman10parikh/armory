@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:14:07Z"
 ---
 ## What it is
 An MCP server that turns a rough project idea into a structured spec, running entirely locally inside any MCP-compatible editor.

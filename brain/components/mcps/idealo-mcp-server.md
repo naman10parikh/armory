@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T10:01:31Z"
 ---
 ## What it is
 Enables product search, price comparison, and price history analysis across 6 European marketplaces (DE, AT, GB, FR, IT, ES).

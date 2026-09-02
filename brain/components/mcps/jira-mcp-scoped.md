@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:52:52Z"
 ---
 ## What it is
 MCP server enabling AI assistants to interact with Jira, scoped to a single project. Supports stdio and HTTP transports for issue management operations.

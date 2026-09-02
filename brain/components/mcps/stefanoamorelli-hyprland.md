@@ -12,6 +12,8 @@ stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-27T19:30:37Z"
 ---
 ## What it is
 MCP server `Hyprland`, catalogued on PulseMCP. Provides direct control over Hyprland window manager functionality, enabling natural language commands for managing monitors, workspaces, windows, and configuration settings without leaving conversation context.

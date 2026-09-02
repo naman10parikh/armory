@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:25:17Z"
 ---
 ## What it is
 Enables MCP clients to interact with Apple Calendar locally on macOS through EventKit, including listing calendars and events, creating events, and updating events with privacy-conscious safeguards.

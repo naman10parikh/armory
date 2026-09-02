@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:11:51Z"
 ---
 ## What it is
 Connects Claude to public environmental enforcement data from Chile's Superintendencia del Medio Ambiente (SNIFA), enabling search and retrieval of sanctions, inspections, measures, and registrable units filtered by category, region, and entity.

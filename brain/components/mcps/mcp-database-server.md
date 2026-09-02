@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-23T03:21:53Z"
 ---
 ## What it is
 A secure multi-database MCP server supporting MySQL, PostgreSQL, and SQLite with read-only enforcement, SQL injection prevention, and tools for schema analysis, performance optimization, and visualization.

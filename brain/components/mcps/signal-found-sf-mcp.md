@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 3
+forks: 0
+pushed_at: "2026-03-19T21:40:53Z"
 ---
 ## What it is
 Connect AI agents to Signal Found's proprietary Reddit outreach network. Find prospects posting about problems your product solves, send personalized DMs at scale via your own Reddit account or a managed bot network of hundreds of accounts, and manage a full outreach CRM — all without leaving your AI client.

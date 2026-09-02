@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:56:42Z"
 ---
 ## What it is
 A Model Context Protocol server for the Mintsoft warehouse management system, enabling LLM clients to look up orders, products, stock, inbound, returns, and reports, with guarded write capabilities.

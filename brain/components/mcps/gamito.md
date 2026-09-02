@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:57:02Z"
 ---
 ## What it is
 Enables AI agents to generate budget-disciplined, allergy-safe weekly meal plans, shopping lists, and meal swaps using a fully local deterministic engine.

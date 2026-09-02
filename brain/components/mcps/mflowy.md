@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T02:54:59Z"
 ---
 ## What it is
 Enables users to interact with MFlowy, an MCP-native modular ML workflow engine with data analysis, model training, and orchestration.

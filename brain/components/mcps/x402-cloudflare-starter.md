@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T12:20:20Z"
 ---
 ## What it is
 Enables accepting USDC payments on Base and Solana via x402, with bring-your-own-wallets and no Coinbase account required, optimized for Cloudflare Workers and PayAI facilitator.

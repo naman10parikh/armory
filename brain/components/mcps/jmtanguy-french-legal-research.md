@@ -8,10 +8,12 @@ source_url: https://github.com/jmtanguy/droit-francais-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-11-21T21:22:12Z"
 ---
 ## What it is
 MCP server `French Legal Research`, catalogued on PulseMCP. Integrates with Légifrance and Judilibre APIs to provide unified access to French legal documents, case law, and jurisprudence for legal research and compliance analysis.

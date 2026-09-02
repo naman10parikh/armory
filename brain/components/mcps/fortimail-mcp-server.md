@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T05:57:06Z"
 ---
 ## What it is
 Open-source MCP server that interfaces with FortiMail Engine API for email security management, enabling queue triage, log investigation, reporting, and more.

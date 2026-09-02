@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T08:16:09Z"
 ---
 ## What it is
 MCP server `Indexa Capital`, catalogued on PulseMCP. Monitors Indexa Capital investment portfolios via read-only REST API access covering performance, transactions, and fees.

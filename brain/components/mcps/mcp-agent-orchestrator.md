@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:24:53Z"
 ---
 ## What it is
 Enables natural-language queries to orchestrate multiple AI agents, connect to MCP tools, and retrieve structured data from PostgreSQL for tasks like salary and company analysis.

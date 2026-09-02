@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:43:37Z"
 ---
 ## What it is
 A read-only MCP server that provides access to the Swedish Geological Survey (SGU) wells dataset, enabling search, retrieval, and export of well data with geocoding support.

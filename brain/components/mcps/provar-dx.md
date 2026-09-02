@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-24T12:14:30Z"
 ---
 ## What it is
 MCP server `Provar DX`, catalogued on PulseMCP. Embeds an MCP server in Provar's Salesforce test automation CLI for AI-assisted test development.

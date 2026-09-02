@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:10:01Z"
 ---
 ## What it is
 Enables validating and verifying verifiable claims through structural checks, hash anchoring, and optional script execution, exposing self-test, validate, and verify tools over stdio.

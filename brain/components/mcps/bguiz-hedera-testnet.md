@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-08T07:49:34Z"
 ---
 ## What it is
 MCP server `Hedera Testnet Mirror Node`, catalogued on PulseMCP. Provides a bridge to the Hedera Testnet Mirror Node API, dynamically converting Zodios API endpoints into tools for querying blockchain data using Server-Sent Events and robust Zod-based validation.

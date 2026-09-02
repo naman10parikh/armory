@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:08:53Z"
 ---
 ## What it is
 Enables AI assistants to control an STM32 microcontroller over serial by reading/writing GPIO, setting LED brightness, reading ADC channels, and displaying text on an OLED screen via natural language.

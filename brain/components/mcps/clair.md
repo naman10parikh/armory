@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T22:39:55Z"
 ---
 ## What it is
 An MCP server that reduces token usage by lazily loading skills and tools only when needed, and routing repetitive subtasks to ML backends instead of the LLM.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-10T00:44:51Z"
 ---
 ## What it is
 MCP server `Web Crawler`, catalogued on PulseMCP. Configurable web crawler that extracts structured content from websites while respecting robots.txt rules and offering customizable settings for depth, delay, and concurrency.

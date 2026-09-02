@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T06:41:31Z"
 ---
 ## What it is
 A full-featured MCP server for the Kaggle API — competitions, datasets, kernels, models, benchmarks, and discussions.

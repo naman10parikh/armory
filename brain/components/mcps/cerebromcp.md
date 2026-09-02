@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:26:46Z"
 ---
 ## What it is
 MCP server for working with the Cerebro project management system. Lets Claude and other LLM clients read data from Cerebro: tasks, messages, users, attachments, and more.

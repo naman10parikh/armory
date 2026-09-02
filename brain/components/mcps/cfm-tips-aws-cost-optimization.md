@@ -8,10 +8,12 @@ source_url: https://github.com/aws-samples/sample-cfm-tips-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-20T16:54:59Z"
 ---
 ## What it is
 MCP server `AWS Cost Optimization Hub`, catalogued on PulseMCP. Integrates with AWS Cost Explorer, Compute Optimizer, and CloudWatch to analyze EC2, EBS, RDS, and Lambda resources for cost optimization recommendations including right-sizing, unused volume detection, and pricing calculations with intelligent fallback between premium and basic AWS services.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T18:34:09Z"
 ---
 ## What it is
 Local MCP server that indexes folders of documents into a hybrid vector + keyword search index for Claude Desktop, with support for PDFs, Office files, and images via OCR.

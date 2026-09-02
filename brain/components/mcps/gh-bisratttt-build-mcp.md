@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T05:08:07Z"
 ---
 ## What it is
 MCP server `build-mcp`, catalogued on PulseMCP. Converts API specifications into production-ready MCP servers from OpenAPI, Swagger, Postman, HAR, and GraphQL formats.

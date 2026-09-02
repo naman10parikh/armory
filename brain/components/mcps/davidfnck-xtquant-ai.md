@@ -8,10 +8,12 @@ source_url: https://github.com/dfkai/xtquantai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 124
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2026-06-11T08:12:35Z"
 ---
 ## What it is
 MCP server `XTQuant AI`, catalogued on PulseMCP. Lightweight Python server for quantitative trading using XTQuant API, enabling real-time stock market interactions and AI-driven financial analysis strategies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:29:55Z"
 ---
 ## What it is
 Provides MCP tools for AI agents to securely access approved 1Password logins via encrypted handles, resolving secrets locally through the 1Password CLI without exposing plaintext passwords.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-17T16:24:50Z"
 ---
 ## What it is
 Read-only X/Twitter research MCP server allowing AI assistants to search viral content, analyze accounts, track trends, and discover niche leaders without requiring the official X API.

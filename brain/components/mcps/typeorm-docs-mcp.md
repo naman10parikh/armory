@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T14:26:47Z"
 ---
 ## What it is
 Analyzes TypeORM entity source files offline to produce schema graphs, ERD diagrams, Markdown documentation, and missing-documentation audits. Enables AI clients to understand database schema without a database connection.

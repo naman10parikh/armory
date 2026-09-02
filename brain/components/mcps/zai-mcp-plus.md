@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:04:23Z"
 ---
 ## What it is
 An enhanced MCP server for Z.AI vision understanding that supports custom OpenAI-compatible endpoints and provides 8 vision tools for image/video analysis, including image understanding, OCR, UI-to-code, diagram comprehension, and error diagnosis.

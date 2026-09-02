@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T06:41:23Z"
 ---
 ## What it is
 MCP server for macOS native notifications with 67 AI brand icons and system sound support, enabling AI agents to send desktop notifications via one-line tool calls.

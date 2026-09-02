@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T02:38:57Z"
 ---
 ## What it is
 Local MCP server for automating the Ryubing Nintendo Switch emulator, providing tools for controller input, touch, screenshots, logs, game launch, and session management.

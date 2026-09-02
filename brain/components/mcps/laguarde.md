@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T19:46:07Z"
 ---
 ## What it is
 Enables AI coding agents to evaluate actions against team-defined policies, record decisions, and obtain human approvals for potentially risky operations.

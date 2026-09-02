@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T00:32:51Z"
 ---
 ## What it is
 Wraps the US National Renewable Energy Laboratory developer API, enabling access to renewable energy data through an MCP interface.

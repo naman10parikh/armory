@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T05:18:35Z"
 ---
 ## What it is
 MCP server `THU Agent`, catalogued on PulseMCP. Terminal coding agent powered by Tsinghua University lab proxy API with interactive command execution and document retrieval.

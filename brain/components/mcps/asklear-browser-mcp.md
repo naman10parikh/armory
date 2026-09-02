@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:14:42Z"
 ---
 ## What it is
 A local stdio MCP server that drives your Chrome browser through the Asklear extension, offering six browser tools for navigation, observation, clicking, filling, scrolling, and extraction — all operations remain on your machine.

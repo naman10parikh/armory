@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T21:19:21Z"
 ---
 ## What it is
 MCP server `TrueRAG Compliance Policies`, catalogued on PulseMCP. Integrates with a TrueRAG GraphQL API to provide state-specific policy information for legal compliance checks, analysis, and regulatory guidance.

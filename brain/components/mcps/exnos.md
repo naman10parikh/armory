@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:15:10Z"
 ---
 ## What it is
 Live browser-state verification for AI coding agents. Provides real-time state of Chrome tabs including URL, title, form fields, buttons, console errors, and visible text via MCP tools.

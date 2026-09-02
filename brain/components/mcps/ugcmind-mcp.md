@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:27:53Z"
 ---
 ## What it is
 Open-source MCP server for AI image and video generation via UGCmind, enabling prompt inspiration, generation, and async task tracking from any MCP host.

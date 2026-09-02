@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T20:37:34Z"
 ---
 ## What it is
 An MCP server that enables AI agents to query the Canton Network for balances, rewards, classified transactions, CC prices, and directory information using natural language.

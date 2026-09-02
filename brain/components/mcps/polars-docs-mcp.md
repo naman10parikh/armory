@@ -8,11 +8,13 @@ source_url: https://github.com/HotTechStack/polars-docs-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-25T08:25:54Z"
 ---
 ## What it is
 A FastMCP tool to search and retrieve Polars API documentation with support for multiple transport methods.

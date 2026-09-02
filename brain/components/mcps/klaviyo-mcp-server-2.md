@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-31T12:46:10Z"
 ---
 ## What it is
 A comprehensive MCP server for interacting with the Klaviyo API, providing tools and resources for managing profiles, lists, segments, campaigns, flows, and more.

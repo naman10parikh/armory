@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-14T00:23:38Z"
 ---
 ## What it is
 MCP server `Fledge IoT`, catalogued on PulseMCP. Bridges the Fledge IoT platform with natural language interfaces for sensor data access, system management, and real-time visualization through WebSocket streaming and containerized deployment.

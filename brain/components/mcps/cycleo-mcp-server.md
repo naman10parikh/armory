@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:02:54Z"
 ---
 ## What it is
 This server enables users to read data from Cycleo's versioned JSON API through a secure, allow-listed tool surface, using user-scoped OAuth authentication.

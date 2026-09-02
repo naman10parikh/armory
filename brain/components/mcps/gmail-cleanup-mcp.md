@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:07:43Z"
 ---
 ## What it is
 Enables bulk Gmail inbox cleanup including trashing emails, managing filters, and extracting unsubscribe links, with dry-run previews and automatic retry/backoff to handle rate limits.

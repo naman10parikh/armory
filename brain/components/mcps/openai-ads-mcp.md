@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T06:19:13Z"
 ---
 ## What it is
 Enables management of OpenAI Ads campaigns, ad groups, ads, and insights through MCP, with approval-gated live mutations for safe write operations.

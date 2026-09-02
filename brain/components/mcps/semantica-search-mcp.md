@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T20:16:25Z"
 ---
 ## What it is
 Semantic code search for Claude Code, enabling natural language codebase indexing and search using AI embeddings.

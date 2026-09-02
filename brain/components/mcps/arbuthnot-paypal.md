@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T07:21:09Z"
 ---
 ## What it is
 MCP server `PayPal`, catalogued on PulseMCP. Integrates with PayPal's payment processing APIs to enable secure payment creation, subscription management, invoicing, and payouts without leaving the conversation interface.

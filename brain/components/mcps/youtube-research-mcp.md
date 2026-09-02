@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-19T14:19:38Z"
 ---
 ## What it is
 Enables AI assistants to research YouTube videos by collecting captions, comments, and channel information for analysis and comparison.

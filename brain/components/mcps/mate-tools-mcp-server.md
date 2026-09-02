@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T07:07:03Z"
 ---
 ## What it is
 MCP server providing 35 utility tools for AI agents including text analysis, encoding, hashing, password generation, JSON/CSV/XML parsing, regex, color, date, finance, URL metadata, SEO tags, DNS lookup, SSL inspection, and JWT decoding. Free, zero-dependency, and works with any MCP client.

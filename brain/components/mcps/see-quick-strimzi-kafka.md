@@ -8,10 +8,12 @@ source_url: https://github.com/see-quick/strimzi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-23T13:04:31Z"
 ---
 ## What it is
 MCP server `Strimzi Kafka`, catalogued on PulseMCP. Provides management and troubleshooting capabilities for Strimzi Kafka deployments on Kubernetes, including cluster operations, topic and user management, Kafka Connect lifecycle, Cruise Control rebalancing, MirrorMaker2 replication, and observability tasks.

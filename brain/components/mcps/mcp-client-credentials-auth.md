@@ -8,11 +8,13 @@ source_url: https://github.com/velias/mcp-client-credentials-auth
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:34:38Z"
 ---
 ## What it is
 A local stdio MCP server that authenticates to remote OAuth-protected MCP servers using the client_credentials grant, handling token acquisition and request forwarding.

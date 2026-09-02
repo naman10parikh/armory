@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-15T09:24:37Z"
 ---
 ## What it is
 Enables natural language filesystem operations (create, list, delete directories/files) via Ollama local LLM and MCP protocol within allowed directories.

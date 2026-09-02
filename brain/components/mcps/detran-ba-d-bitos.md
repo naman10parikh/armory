@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:12Z"
 ---
 ## What it is
 Enables querying DETRAN BA vehicle debts from an official source. It is a read-only MCP server with a single tool for consulting debts.

@@ -8,10 +8,12 @@ source_url: https://github.com/uk0/web-search-fast
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-16T04:48:31Z"
 ---
 ## What it is
 MCP server `Web Search Fast`, catalogued on PulseMCP. High-performance web search from Google, Bing, and DuckDuckGo with structured output.

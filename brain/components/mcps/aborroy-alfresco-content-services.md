@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-23T14:03:52Z"
 ---
 ## What it is
 MCP server `Alfresco Content Services`, catalogued on PulseMCP. Integrates Alfresco's content management, enabling intelligent document processing and automated metadata extraction.

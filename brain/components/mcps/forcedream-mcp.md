@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:14:32Z"
 ---
 ## What it is
 Enables discovery and invocation of AI agents from the ForceDream platform. Provides cryptographic verification of agent outputs for trustless task integrity.

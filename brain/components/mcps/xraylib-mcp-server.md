@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-14T03:58:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides access to xraylib X-ray interaction data through a standardized interface. Query cross-sections, fluorescence lines, edge energies, and more from any MCP-compatible client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T00:50:22Z"
 ---
 ## What it is
 A celebratory MCP server that provides information about the MCP spec graduation, including tools for trivia, toasts, and migration checklists. No authentication required.

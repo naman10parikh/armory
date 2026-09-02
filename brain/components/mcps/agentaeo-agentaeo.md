@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T18:29:57Z"
 ---
 ## What it is
 MCP server `AgentAEO`, catalogued on PulseMCP. Answer Engine Optimization audit measuring brand visibility across ChatGPT, Perplexity, Claude, and Google AI.

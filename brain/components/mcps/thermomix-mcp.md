@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:45:36Z"
 ---
 ## What it is
 Converts recipes from any source (web, YouTube, Instagram, etc.) into Thermomix format with guided cooking steps and uploads them to Cookidoo.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T03:03:07Z"
 ---
 ## What it is
 Enables AI agents to query a personal knowledge vault with hybrid search, entity relationships, user highlights, and vault statistics over a Supabase/Postgres schema.

@@ -8,10 +8,12 @@ source_url: https://github.com/sarpixelpioneer/kimi-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T13:09:20Z"
 ---
 ## What it is
 MCP server `Kimi Memory`, catalogued on PulseMCP. Persistent memory system using ChromaDB vector storage and Ollama local embeddings.

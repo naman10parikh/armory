@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-08T15:58:07Z"
 ---
 ## What it is
 MCP server `HomeTeam Directory`, catalogued on PulseMCP. Search Black-owned businesses in South Florida by category, neighborhood, or need.

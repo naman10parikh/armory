@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:50:53Z"
 ---
 ## What it is
 Read-only MCP server for Kafka cluster health, consumer lag, partition state, and replay-readiness, enabling AI agents to diagnose streaming incidents without write access.

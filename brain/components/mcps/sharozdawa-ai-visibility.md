@@ -8,10 +8,12 @@ source_url: https://github.com/sharozdawa/ai-visibility
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T09:30:13Z"
 ---
 ## What it is
 MCP server `AI Visibility by sharozdawa`, catalogued on PulseMCP. Track brand visibility and mentions across ChatGPT, Perplexity, Claude, and Gemini.

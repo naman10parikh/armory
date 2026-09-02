@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T12:01:55Z"
 ---
 ## What it is
 An MCP server for designing environmental education lessons using built-in Korean curriculum standards, resource catalogs, and full-text document search, enabling teachers to collaboratively plan lessons with AI without external subscriptions.

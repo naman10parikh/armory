@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:44:40Z"
 ---
 ## What it is
 MCP server for parfica.com, a Ukrainian-first fragrance encyclopedia. Enables AI assistants to search fragrances, get detailed profiles, and find cheaper similar alternatives via note overlap.

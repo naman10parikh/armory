@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:47:03Z"
 ---
 ## What it is
 Enables AI assistants to index, search, and retrieve engineering documentation, architecture, standards, and knowledge from the OpenHaus Engineering System via the Model Context Protocol.

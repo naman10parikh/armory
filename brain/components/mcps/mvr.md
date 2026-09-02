@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:38:21Z"
 ---
 ## What it is
 A self-hosted MCP server for building a reusable AI-video reference library. It stores named Elements as structured reference images and provides them to MCP-compatible agents via @tags.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T13:59:27Z"
 ---
 ## What it is
 MCP server `NewsAPI`, catalogued on PulseMCP. Searches news articles, retrieves top headlines, and lists sources from NewsAPI.org.

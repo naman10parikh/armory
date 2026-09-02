@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T05:47:25Z"
 ---
 ## What it is
 An MCP server that exposes Ableton Live control (session state, transport, tracks, devices, clips, MIDI note editing) as tools for LLM agents, enabling natural language manipulation of a Live session.

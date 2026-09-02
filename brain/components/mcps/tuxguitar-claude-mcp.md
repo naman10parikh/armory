@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:29:45Z"
 ---
 ## What it is
 Lets Claude create guitar and bass tablature as TuxGuitar-compatible .gp5 files, including tracks, tuning, measures, notes, and effects such as palm mute, tremolo picking, bends, and harmonics.

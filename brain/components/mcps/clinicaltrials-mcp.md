@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-05T14:55:53Z"
 ---
 ## What it is
 Enables conversational access to 400,000+ clinical trials on ClinicalTrials.gov, allowing users to search, compare, and retrieve trial details using plain English through MCP-compatible clients like Cursor and Claude Desktop.

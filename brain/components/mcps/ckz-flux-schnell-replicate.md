@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-10T19:24:42Z"
 ---
 ## What it is
 MCP server `Flux Schnell (Replicate)`, catalogued on PulseMCP. Bridges Claude with Replicate's flux-schnell image generation model, enabling direct image creation from text prompts within conversations through a single tool that communicates with the Replicate API.

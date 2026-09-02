@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:35:32Z"
 ---
 ## What it is
 Unofficial, safety-first MCP server for convenient xRocket market snapshots, with opt-in local account reads and guarded financial workflows.

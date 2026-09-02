@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T03:23:21Z"
 ---
 ## What it is
 Provides real-time Singapore bus information, including arrival times, routes, and stop details via the LTA DataMall API.

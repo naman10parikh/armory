@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:05:51Z"
 ---
 ## What it is
 enables creation of Enfusion/Arma Reforger PBR materials — generates maps, packs Enfusion channels (BCR/NMO), writes .emat files, and stages them atomatically into addons via MCP or CLI.

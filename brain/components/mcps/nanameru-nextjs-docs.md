@@ -8,10 +8,12 @@ source_url: https://github.com/nanameru/next.js-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-21T16:03:45Z"
 ---
 ## What it is
 MCP server `Next.js Documentation`, catalogued on PulseMCP. Provides structured access to Next.js documentation URLs organized by categories including routing, data fetching, API routes, deployment, and optimization, enabling accurate responses grounded in current Next.js documentation.

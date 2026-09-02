@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:34:00Z"
 ---
 ## What it is
 Computes AI agent reliability metrics like success rates, latency statistics, and failure patterns from provided numbers, with zero external API cost.

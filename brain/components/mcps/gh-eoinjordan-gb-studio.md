@@ -8,10 +8,12 @@ source_url: https://github.com/eoinjordan/gb-studio-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-09T17:29:38Z"
 ---
 ## What it is
 MCP server `GB Studio by eoinjordan`, catalogued on PulseMCP. Create and modify GB Studio projects with tools for scenes, actors, assets, and validation.

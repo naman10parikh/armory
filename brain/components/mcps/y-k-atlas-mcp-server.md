@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:30:09Z"
 ---
 ## What it is
 MCP server that provides Turkish university preference guide data, enabling users to query provinces, universities, and program groups, and to search university programs with filters, while reminding users to verify results against official sources.

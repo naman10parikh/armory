@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T12:47:33Z"
 ---
 ## What it is
 SpecForge is a Model Context Protocol (MCP) server that connects an LLM client to a fully autonomous code-fixing pipeline. Point it at a GitHub issue, and it reads the repo, plans a fix, writes the code, tests it, and opens a pull request.

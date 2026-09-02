@@ -8,10 +8,12 @@ source_url: https://github.com/addcontent/nuclei-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-08-04T11:23:07Z"
 ---
 ## What it is
 MCP server `Nuclei`, catalogued on PulseMCP. Integrates with Nuclei vulnerability scanner to automate security assessments through configurable scanning operations with comprehensive reporting for vulnerability analysis and remediation.

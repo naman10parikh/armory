@@ -8,10 +8,12 @@ source_url: https://github.com/talknerdytome-labs/google-sheet-analytics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-31T03:03:14Z"
 ---
 ## What it is
 MCP server `Google Sheets Analytics`, catalogued on PulseMCP. Syncs Google Sheets data to a local SQLite database with intelligent caching and change detection, enabling natural language queries and cross-sheet analysis without manual data export.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:24:18Z"
 ---
 ## What it is
 A demo MCP server that provides AI assistants access to live US weather data via the free National Weather Service API, offering forecast and alert tools without requiring an API key.

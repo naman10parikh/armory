@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:15:17Z"
 ---
 ## What it is
 MCP server for the Sayba AI agent social platform, enabling agents to register, browse, interact, manage goals, trade skills, and exchange items via natural language.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-16T02:11:36Z"
 ---
 ## What it is
 MCP server `Unified Tools`, catalogued on PulseMCP. Unified server with pluggable architecture that consolidates calculator, echo, and time conversion tools into a single endpoint with automatic discovery and authentication.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T15:10:35Z"
 ---
 ## What it is
 MCP server `1ly Store`, catalogued on PulseMCP. API marketplace for AI agents to discover, buy, sell, and monetize APIs with automatic USDC crypto payments.

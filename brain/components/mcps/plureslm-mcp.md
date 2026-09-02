@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:31:32Z"
 ---
 ## What it is
 Provides persistent vector memory with semantic search and P2P synchronization across devices for AI assistants.

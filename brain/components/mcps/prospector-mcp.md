@@ -8,11 +8,13 @@ source_url: https://github.com/JosieBot26/prospector-mcp-email-finder
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-05T05:53:30Z"
 ---
 ## What it is
 Finds and verifies business email addresses using DNS/SMTP verification and web scraping, with no external API costs.

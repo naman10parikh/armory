@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:57:54Z"
 ---
 ## What it is
 Enables users to generate volcano plots by submitting jobs with input files and parameters, supporting local or Docker execution.

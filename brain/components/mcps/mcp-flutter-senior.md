@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T03:37:16Z"
 ---
 ## What it is
 Provides Flutter best practices, code analysis, and state management recommendations for senior developers.

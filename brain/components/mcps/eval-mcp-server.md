@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T18:01:15Z"
 ---
 ## What it is
 Exposes a deterministic AI-slop scanner and RAG grounding grader as MCP Tools, Resource, and Prompt, enabling any MCP client to evaluate text quality and context faithfulness.

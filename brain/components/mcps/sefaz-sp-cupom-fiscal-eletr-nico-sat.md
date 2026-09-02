@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:58Z"
 ---
 ## What it is
 MCP server for querying official SEFAZ SP electronic receipt (SAT CF-e) data, read-only, hosted with prepaid per-use credits.

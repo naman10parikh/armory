@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-12T20:59:22Z"
 ---
 ## What it is
 Enables interaction with the Capacities.io note-taking API via MCP, supporting operations like searching content, saving weblinks, and appending to daily notes.

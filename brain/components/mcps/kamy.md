@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T05:14:22Z"
 ---
 ## What it is
 MCP server `Kamy`, catalogued on PulseMCP. Document API for AI agents: render PDFs, e-sign with PAdES, and verify documents programmatically.

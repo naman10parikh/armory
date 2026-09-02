@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T00:37:00Z"
 ---
 ## What it is
 Connects MCP-compatible AI agents to Peru's official statistics platform (INEI Estadist), providing access to Census 2017 data, population indicators, and geographic profiles for all Peruvian departments, provinces, and districts without requiring an API key.

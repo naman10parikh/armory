@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:18:52Z"
 ---
 ## What it is
 AI-native security testing platform with native MCP support, enabling automated penetration testing, vulnerability discovery, and attack-chain analysis through conversational commands.

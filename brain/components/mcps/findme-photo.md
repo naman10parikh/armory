@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T00:14:32Z"
 ---
 ## What it is
 MCP server `FindMe Photo`, catalogued on PulseMCP. Create wedding galleries, upload photos, and pull analytics on FindMe Photo from any AI assistant.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-12T14:34:29Z"
 ---
 ## What it is
 MCP server `KNMI Weather`, catalogued on PulseMCP. Provides real-time weather data from the Royal Netherlands Meteorological Institute (KNMI) by automatically finding the nearest weather station to any location in the Netherlands, delivering current measurements including temperature, humidity, wind speed, and more.

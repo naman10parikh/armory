@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
 stars: 2
+forks: 2
+pushed_at: "2025-09-17T08:27:46Z"
 ---
 ## What it is
 Explore French communes and cadastral parcels based on name and surface

@@ -8,11 +8,13 @@ source_url: https://github.com/tcconnally/mimir
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-09-02T02:51:54Z"
 ---
 ## What it is
 Mimir is Perseus's external persistent memory backend — a lightweight Rust MCP server that stores cross-session facts so agents remember what they learned last week. Zero network calls, no API keys, just SQLite + FTS5 running alongside your workspace.

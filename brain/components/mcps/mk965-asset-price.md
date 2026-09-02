@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-30T11:03:23Z"
 ---
 ## What it is
 MCP server `Asset Price`, catalogued on PulseMCP. Provides real-time financial data for precious metals, cryptocurrencies, and other assets, enabling market price tracking and historical trend analysis without direct API integrations to multiple financial sources.

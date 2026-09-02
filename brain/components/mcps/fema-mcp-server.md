@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:49:29Z"
 ---
 ## What it is
 Query FEMA disaster declarations, public assistance grants, housing aid, and NFIP flood insurance claims via MCP. Supports STDIO and Streamable HTTP.

@@ -8,10 +8,12 @@ source_url: https://github.com/hbg/mcp-paperswithcode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-07T02:53:39Z"
 ---
 ## What it is
 MCP server `PapersWithCode`, catalogued on PulseMCP. Integrates with PapersWithCode API to search and retrieve research papers, authors, conferences, and code implementations in machine learning, with tools for exploring papers by author, extracting PDF content, and accessing associated repositories, datasets, and results.

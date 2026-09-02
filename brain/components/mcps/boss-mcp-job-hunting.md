@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T17:19:18Z"
 ---
 ## What it is
 Uses FastMCP and Playwright to search and filter jobs on Boss Zhipin, with login via QR code and filtering by keywords and publish date.

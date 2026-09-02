@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:53:38Z"
 ---
 ## What it is
 Enables any MCP-compatible agent to manage coworker agents with task queues, human approvals, schema-validated handoffs, memory, and trace logging, with local-first storage in ~/.workerlane.

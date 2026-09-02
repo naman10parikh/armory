@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T08:18:17Z"
 ---
 ## What it is
 Enables searching Pipecat documentation and GitHub issues for grounded answers about APIs, configuration, code examples, and provider comparisons.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T15:49:20Z"
 ---
 ## What it is
 Ariel is an MCP server that exposes AT Protocol (Bluesky) operations as tools, enabling AI assistants to read, write, and interact on Bluesky with human-in-the-loop control.

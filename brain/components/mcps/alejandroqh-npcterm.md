@@ -8,10 +8,12 @@ source_url: https://github.com/alejandroqh/npcterm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-23T15:58:04Z"
 ---
 ## What it is
 MCP server `NPCTerm`, catalogued on PulseMCP. Headless in-memory terminal emulator for AI agents to spawn shells, run commands, and interact with TUI applications.

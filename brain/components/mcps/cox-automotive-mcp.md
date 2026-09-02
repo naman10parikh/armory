@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T03:42:34Z"
 ---
 ## What it is
 First MCP server for the auto-dealership vertical. Lets Claude, Cursor, or any MCP client read dealer accounts, look up manufacturer incentives, and manage inventory listings through the Cox Automotive / Dealer Developer Portal API.

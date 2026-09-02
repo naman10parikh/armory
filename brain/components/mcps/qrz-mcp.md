@@ -8,11 +8,13 @@ source_url: https://github.com/qso-graph/qrz-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-16T01:55:56Z"
 ---
 ## What it is
 MCP server for QRZ.com — callsign lookups, DXCC entity resolution, and logbook queries through any MCP-compatible AI assistant.

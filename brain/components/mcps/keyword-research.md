@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:51:18Z"
 ---
 ## What it is
 Enables SEO keyword research with Google Suggest, intent classification, long-tail discovery, and related queries, with pay-per-call via x402 micropayments.

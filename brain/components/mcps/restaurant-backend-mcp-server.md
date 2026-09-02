@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T04:54:47Z"
 ---
 ## What it is
 Enables interaction with a restaurant FastAPI backend for menu management, order processing, customer management, and analytics through natural language.

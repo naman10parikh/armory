@@ -8,11 +8,13 @@ source_url: https://github.com/tixuz/openemis-mcp-pro
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T18:55:29Z"
 ---
 ## What it is
 A read/write MCP server that connects AI assistants to the OpenEMIS school management system, allowing natural-language queries and write operations across 678 resources and 3361 endpoints.

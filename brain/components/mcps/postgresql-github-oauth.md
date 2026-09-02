@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-26T16:40:30Z"
 ---
 ## What it is
 MCP server `PostgreSQL with GitHub OAuth`, catalogued on PulseMCP. Provides secure PostgreSQL database operations with GitHub OAuth authentication, role-based access control, and comprehensive security measures including SQL injection protection and connection pooling for authenticated database access in team workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:34:16Z"
 ---
 ## What it is
 Enables searching and browsing a curated matrix of 100+ engineering tools by name, tag, or use case, and retrieving ready-to-use boilerplate files for 30+ popular stacks.

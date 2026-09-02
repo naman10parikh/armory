@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-14T11:04:29Z"
 ---
 ## What it is
 MCP server `Genable`, catalogued on PulseMCP. AI-powered Figma plugin and MCP server for generating production-ready UI designs from text prompts with proper Auto Layout and components.

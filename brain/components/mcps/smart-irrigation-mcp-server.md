@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:48:55Z"
 ---
 ## What it is
 Exposes real-time soil sensor metrics as MCP Resources and irrigation valve controls as MCP Tools, enabling AI-driven agronomic decisions with built-in safety guardrails.

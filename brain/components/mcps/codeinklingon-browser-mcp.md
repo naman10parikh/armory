@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:21:48Z"
 ---
 ## What it is
 MCP server for headless browser automation via Puppeteer, with stealth anti-detection and Playwright-format ARIA snapshots.

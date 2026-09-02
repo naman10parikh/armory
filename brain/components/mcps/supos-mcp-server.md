@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-03-31T08:34:27Z"
 ---
 ## What it is
 Enables querying topic tree structures, topic details, and real-time data from supOS via MCP protocol.

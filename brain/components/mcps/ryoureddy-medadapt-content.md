@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-28T06:24:18Z"
 ---
 ## What it is
 MCP server `MedAdapt`, catalogued on PulseMCP. Provides medical students and educators with curated educational resources from PubMed and NCBI Bookshelf through a FastMCP-powered system that enables searching, generating topic overviews, creating learning plans, and extracting key points from medical literature.

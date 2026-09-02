@@ -8,11 +8,13 @@ source_url: https://github.com/raphysicst-create/korean-secondary-learning-map-m
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-25T02:16:45Z"
 ---
 ## What it is
 MCP server enabling AI to search and retrieve Korean secondary school (middle/high) 2022 revised curriculum learning graphs, including achievement standards, topics, prerequisites, and transitions, via 11 tools.

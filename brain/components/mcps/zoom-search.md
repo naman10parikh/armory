@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:42:25Z"
 ---
 ## What it is
 MCP search and evidence tool for AI agents. Rewrites queries, zooms into source domains, and returns sourced answers with metrics.

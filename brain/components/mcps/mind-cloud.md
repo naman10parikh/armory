@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-10T17:55:14Z"
 ---
 ## What it is
 Persistent memory infrastructure for AI systems, running on Cloudflare's edge network with 28 MCP tools for semantic memory, emotional processing, identity continuity, and a subconscious daemon.

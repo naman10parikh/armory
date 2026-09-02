@@ -8,10 +8,12 @@ source_url: https://github.com/txn2/mcp-datahub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T13:44:12Z"
 ---
 ## What it is
 MCP server `DataHub`, catalogued on PulseMCP. Connects to DataHub data catalogs for searching datasets, exploring schemas, tracing lineage, and managing metadata with enterprise-grade authentication and multi-instance support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:47:56Z"
 ---
 ## What it is
 Provides an external context buffer so a local model can maintain session memory across long tasks and search and page through large documents without loading them whole into its limited context window.

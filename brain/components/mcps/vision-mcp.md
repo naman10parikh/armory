@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T12:35:52Z"
 ---
 ## What it is
 Helps non-vision models extract and understand images and screenshots via OpenRouter multimodal models.

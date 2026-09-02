@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:32:29Z"
 ---
 ## What it is
 Enables agents to read and sign a shared guestbook, with tools for viewing entries, statistics, and adding signatures.

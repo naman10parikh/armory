@@ -8,10 +8,12 @@ source_url: https://github.com/jmerelnyc/openapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T10:45:30Z"
 ---
 ## What it is
 MCP server `OpenAPI to MCP`, catalogued on PulseMCP. Converts OpenAPI V3 specifications into MCP server implementations, dynamically generating tools from API endpoint definitions in JSON or YAML format.

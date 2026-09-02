@@ -8,10 +8,12 @@ source_url: https://github.com/quantgeekdev/coincap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-01-30T16:30:02Z"
 ---
 ## What it is
 MCP server `Coincap`, catalogued on PulseMCP. Access cryptocurrency price data without authentication.

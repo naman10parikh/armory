@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:10:19Z"
 ---
 ## What it is
 Enables AI assistants to create and manage Ren'Py visual novel projects, including adding labels and characters, validating syntax, and running projects via the Ren'Py SDK.

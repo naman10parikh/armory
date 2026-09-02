@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:30:46Z"
 ---
 ## What it is
 Helps AI assistants search PayU documentation, browse integration catalog, and fetch production-ready payment code for PayU.

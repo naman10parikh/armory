@@ -8,11 +8,13 @@ source_url: https://github.com/ompatelz/Omi-GithubMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:16:13Z"
 ---
 ## What it is
 A production-style Python MCP server bootstrap with a health tool and mocked GitHub API client, though it does not yet implement actual GitHub repository tools.

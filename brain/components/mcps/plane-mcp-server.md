@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-13T00:29:23Z"
 ---
 ## What it is
 Enables interaction with Plane.so project management API through natural language, allowing users to manage issues, cycles, and projects.

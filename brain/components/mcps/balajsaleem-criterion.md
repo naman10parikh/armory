@@ -8,10 +8,12 @@ source_url: https://github.com/balajsaleem/criterion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-18T09:19:28Z"
 ---
 ## What it is
 MCP server `Criterion`, catalogued on PulseMCP. Provides semantic search across Quran verses and authentic Hadiths for Islamic guidance.

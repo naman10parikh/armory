@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-12T20:01:06Z"
 ---
 ## What it is
 Enables AI agents and developer tools to interact programmatically with Yougile workspace, supporting project, task, user, board, and column management through natural language.

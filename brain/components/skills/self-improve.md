@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [skill-creator, error-post-mortem, harness-review]
 tags: [meta, self-improvement, learning, autolab]
+forks: 0
+pushed_at: "2026-06-10T03:24:43Z"
 ---
 
 ## What it is

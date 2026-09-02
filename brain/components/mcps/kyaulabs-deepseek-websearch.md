@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:42:54Z"
 ---
 ## What it is
 Enables real-time web search via DeepSeek's server-side tool without requiring additional search API keys.

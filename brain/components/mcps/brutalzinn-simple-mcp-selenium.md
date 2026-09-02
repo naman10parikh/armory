@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 1
+forks: 3
+pushed_at: "2025-11-20T01:59:54Z"
 ---
 ## What it is
 An MCP Selenium Server for controlling browsers using natural language in Cursor IDE. Perfect for testing, automation, and multi-user scenarios.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T10:13:14Z"
 ---
 ## What it is
 Provides persistent, structured memory for AI assistants across multiple clients, with searchable facts and identity management.

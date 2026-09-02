@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:24:49Z"
 ---
 ## What it is
 MCP server that wraps the Multiroom Audio Hub v2 REST API, providing 24 tools to control multiroom audio systems. Enables AI assistants to manage inputs, outputs, groups, routes, playback, and master mute.

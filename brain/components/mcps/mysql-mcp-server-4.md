@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T01:31:51Z"
 ---
 ## What it is
 A MySQL MCP server for secure database interaction, enabling schema inspection, query execution, and RBAC via AI coding assistants.

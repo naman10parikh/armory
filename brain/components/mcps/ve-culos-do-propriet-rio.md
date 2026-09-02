@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:32:13Z"
 ---
 ## What it is
 MCP server that lists vehicles registered to a Brazilian CPF or CNPJ, providing read-only national vehicle fleet queries via prepaid credits.

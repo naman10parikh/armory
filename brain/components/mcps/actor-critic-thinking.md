@@ -12,6 +12,8 @@ stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-05-26T14:30:31Z"
 ---
 ## What it is
 MCP server `Actor-Critic Thinking`, catalogued on PulseMCP. Provides dual-perspective analysis through alternating actor and critic viewpoints for evaluating creative works, strategic decisions, and complex scenarios requiring both empathetic understanding and objective assessment.

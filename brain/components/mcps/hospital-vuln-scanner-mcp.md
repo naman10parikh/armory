@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T16:29:26Z"
 ---
 ## What it is
 A real security scanning MCP server for medical information systems, supporting port scanning, vulnerability detection, medical system identification, and compliance report generation.

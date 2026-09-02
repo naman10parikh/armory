@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:09:03Z"
 ---
 ## What it is
 An MCP server that answers one question well: 'has this JSON changed since I last saw it?'

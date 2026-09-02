@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-14T04:53:02Z"
 ---
 ## What it is
 Enables AI agents to access Korean corporate disclosure data from DART, allowing natural language queries about companies, financial statements, and disclosures.

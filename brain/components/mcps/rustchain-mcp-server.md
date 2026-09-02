@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T00:46:00Z"
 ---
 ## What it is
 Enables AI agents to interact with the RustChain blockchain, including checking node health, querying wallet balances, listing miners, retrieving epoch information, and browsing open bounties.

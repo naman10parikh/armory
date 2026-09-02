@@ -8,11 +8,13 @@ source_url: https://github.com/tonnode/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:08:36Z"
 ---
 ## What it is
 Provides AI agents with direct liteserver access to the TON blockchain for querying balances, account states, transactions, and contract get-methods without HTTP gateways.

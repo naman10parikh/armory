@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-07T05:42:18Z"
 ---
 ## What it is
 Serves Markdown documentation as an MCP server, enabling AI agents to answer questions from your content. Supports local, npm, and Cloudflare deployment with reusable prompts and resources.

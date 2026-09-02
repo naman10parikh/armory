@@ -8,10 +8,12 @@ source_url: https://github.com/itz4blitz/jmx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-21T17:06:55Z"
 ---
 ## What it is
 MCP server `JMX Management`, catalogued on PulseMCP. Bridges Java Management Extensions (JMX) with natural language monitoring and management of Java applications through their exposed MBeans, supporting both local JVM connections via the Attach API and remote JMX connections with authentication for multi-application management, MBean discovery, and operational control.

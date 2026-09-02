@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T13:16:53Z"
 ---
 ## What it is
 Transforms AI agents into spec-driven product engineers by managing the software project lifecycle through requirements, design, implementation, and archiving phases with state-aware MCP tools.

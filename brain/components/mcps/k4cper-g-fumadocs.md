@@ -8,10 +8,12 @@ source_url: https://github.com/k4cper-g/fumadocs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-01T15:14:11Z"
 ---
 ## What it is
 MCP server `Fumadocs`, catalogued on PulseMCP. Integrates with Fumadocs documentation platform to enable searches, component documentation retrieval, and framework-specific setup guides for Next.js, React Router, Tanstack Start, and Waku.

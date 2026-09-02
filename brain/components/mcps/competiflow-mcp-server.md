@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T16:50:13Z"
 ---
 ## What it is
 Track competitors, run discovery, read the interpreted change feed, triage items, and pull workspace digests without leaving your AI client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T20:21:48Z"
 ---
 ## What it is
 A set of MCP tools for parsing, filtering, analyzing, formatting, and computing stats on logs in common formats (JSON, Apache/Nginx, syslog, structured, custom regex).

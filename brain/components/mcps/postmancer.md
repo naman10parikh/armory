@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-19T00:45:47Z"
 ---
 ## What it is
 A standalone MCP server for API testing and management, allowing AI assistants to interact with RESTful APIs through natural language.

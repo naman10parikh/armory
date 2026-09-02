@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-11T16:51:40Z"
 ---
 ## What it is
 MCP server `Zettelkasten`, catalogued on PulseMCP. Implements Niklas Luhmann's Zettelkasten methodology with atomic note-taking, semantic linking types, and bidirectional connections for building emergent insights through interconnected knowledge networks rather than hierarchical organization.

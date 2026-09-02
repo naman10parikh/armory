@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:29:33Z"
 ---
 ## What it is
 Enables optimal freight-mode selection (air, sea-LCL, full container) by solving 3D bin-packing, cost optimization, and delivery-risk analysis behind two tools: solve for deterministic planning and explain for hallucination-proof natural-language narration of results.

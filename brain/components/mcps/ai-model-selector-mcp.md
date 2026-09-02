@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T08:02:02Z"
 ---
 ## What it is
 Provides AI assistants with structured access to metadata for 76+ AI models across Ollama, Claude, and OpenRouter, enabling capability queries, compatibility checks, model comparisons, and task-based recommendations.

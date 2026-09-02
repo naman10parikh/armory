@@ -8,10 +8,12 @@ source_url: https://github.com/lennix1337/genexus18mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-31T20:38:24Z"
 ---
 ## What it is
 MCP server `GeneXus 18`, catalogued on PulseMCP. MCP server for reading, editing, and analyzing GeneXus 18 knowledge base objects with AI agents.

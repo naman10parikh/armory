@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T17:30:56Z"
 ---
 ## What it is
 Enables AI assistants to read and modify KiCAD PCB designs through the KiCAD IPC API, providing tools for board queries, footprint placement, track creation, DRC, and export.

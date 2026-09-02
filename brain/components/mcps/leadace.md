@@ -8,11 +8,13 @@ source_url: https://github.com/aitit-inc/leadace
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:31:56Z"
 ---
 ## What it is
 Outbound sales agent for Claude Code. MCP server handles prospect list building, dedup, quotas, and structured rejection feedback, while the plugin runs per-prospect research, email writing, Gmail sending, and reply tracking. Open source, self-hostable.

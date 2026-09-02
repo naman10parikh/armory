@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T19:53:18Z"
 ---
 ## What it is
 MCP server wrapping Google's Stim stabilizer circuit simulator. Wire it up to an LLM and you can build and sample circuits through conversation.

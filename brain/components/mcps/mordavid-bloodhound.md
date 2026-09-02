@@ -8,10 +8,12 @@ source_url: https://github.com/mordavid/bloodhound-mcp-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 356
+stars: 375
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 56
+pushed_at: "2025-06-02T22:21:26Z"
 ---
 ## What it is
 MCP server `BloodHound`, catalogued on PulseMCP. Integrates with BloodHound security tool to analyze Active Directory and Azure environments for attack paths, privilege escalation opportunities, and security misconfigurations through specialized tools for threat hunting and penetration testing.

@@ -8,10 +8,12 @@ source_url: https://github.com/morinokami/astro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-01T03:28:58Z"
 ---
 ## What it is
 MCP server `Astro`, catalogued on PulseMCP. Provides runtime information about Astro projects to AI assistants

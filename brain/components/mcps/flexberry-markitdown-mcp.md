@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T19:50:49Z"
 ---
 ## What it is
 MCP server for converting various file formats (PDF, DOCX, images, audio, etc.) to Markdown using Microsoft MarkItDown, with support for large files and Cyrillic text.

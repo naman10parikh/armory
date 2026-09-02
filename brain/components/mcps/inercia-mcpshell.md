@@ -8,10 +8,12 @@ source_url: https://github.com/inercia/mcpshell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-08-12T09:04:14Z"
 ---
 ## What it is
 MCP server `MCPShell`, catalogued on PulseMCP. Provides a secure bridge between language models and operating system commands through a configurable YAML interface with constraint-based security, multiple sandboxing options, and robust error handling.

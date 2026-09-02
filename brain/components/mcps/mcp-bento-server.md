@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:07:42Z"
 ---
 ## What it is
 Local-first MCP server & CLI for authoring Bento decks (single-file PPT) with AI agents and live browser preview. Enables programmatic creation, editing, validation, and presentation of Bento HTML decks.

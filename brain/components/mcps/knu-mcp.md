@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:14:43Z"
 ---
 ## What it is
 Unofficial MCP server for Kangwon National University that provides academic calendar, cafeteria menus, notices, shuttle bus and city bus arrival information via natural language.

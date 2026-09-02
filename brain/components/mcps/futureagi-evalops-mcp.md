@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:15:38Z"
 ---
 ## What it is
 A paid remote MCP server for AI SDK eval dashboards, offering structured tools for evaluation gates, trace failure summaries, version comparisons, and audit receipts with token-based access.

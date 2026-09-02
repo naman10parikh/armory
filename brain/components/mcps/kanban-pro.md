@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:37:39Z"
 ---
 ## What it is
 A kanban board system served over MCP that lets coding agents manage shared work pipelines with enforced state transitions, work reports, and audit trails.

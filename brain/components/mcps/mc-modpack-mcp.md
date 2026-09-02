@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:53:32Z"
 ---
 ## What it is
 MCP server for Minecraft modpack diagnostics, enabling mod conflict detection, log/crash analysis, and dependency lookup via Modrinth.

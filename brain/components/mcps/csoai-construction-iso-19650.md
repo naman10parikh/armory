@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:29:28Z"
 ---
 ## What it is
 MCP server `Construction ISO 19650 Compliance`, catalogued on PulseMCP. ISO 19650 and UK BIM Level 2 compliance for construction projects covering EIR, BEP, MIDP, TIDP, and CDE standards.

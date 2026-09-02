@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:05:49Z"
 ---
 ## What it is
 Enables users to search, read, and query saved bookmark content via a read-only MCP interface, with full-text and optional semantic search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:12:26Z"
 ---
 ## What it is
 Enables Bob to ask questions to IBM AskSales, search playbooks and competitive intel, generate client roadmaps, and check Watson + AskSales connectivity status.

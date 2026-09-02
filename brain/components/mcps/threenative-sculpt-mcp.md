@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:51:17Z"
 ---
 ## What it is
 Provides five fail-closed MCP tools for validating reference images and sculpting plans, enabling user-owned procedural Three.js source creation through validated gates and grimoire lookups.

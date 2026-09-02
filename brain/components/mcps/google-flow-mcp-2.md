@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:03:45Z"
 ---
 ## What it is
 MCP server that lets AI agents control Google Flow for generating images and videos using the user's own Google account. It provides tools for image generation, video creation, character and scene management, and UI discovery.

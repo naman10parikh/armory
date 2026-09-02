@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T09:39:32Z"
 ---
 ## What it is
 Enables AI assistants to see and interact with web browser tabs by capturing accessibility tree and screenshots via a Chrome extension and local MCP server.

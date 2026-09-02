@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:15:51Z"
 ---
 ## What it is
 MCP server `INSPIRE-HEP`, catalogued on PulseMCP. Searches high-energy physics literature via the INSPIRE-HEP information system.

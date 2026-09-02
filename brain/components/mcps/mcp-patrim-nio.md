@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-23T13:22:49Z"
 ---
 ## What it is
 Enables users to manage asset inventory (patrimônio) through a standardized MCP interface, allowing CRUD operations, queries by sector or user, and aggregated statistics.

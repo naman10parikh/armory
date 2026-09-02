@@ -8,10 +8,12 @@ source_url: https://github.com/foxitsoftware/foxit-pdf-api-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-17T06:45:50Z"
 ---
 ## What it is
 MCP server `Foxit PDF API`, catalogued on PulseMCP. Cloud-based PDF processing and manipulation through Foxit's PDF Services API

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:51:27Z"
 ---
 ## What it is
 Enables querying medical documents stored in Qdrant using semantic retrieval, allowing users to search PubMed articles through the Model Context Protocol.

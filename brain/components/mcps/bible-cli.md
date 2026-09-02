@@ -8,11 +8,13 @@ source_url: https://github.com/Divine-Creative-Ministries/bible-cli
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:17:29Z"
 ---
 ## What it is
 Offline command-line toolkit for biblical study, allowing AI agents to access original-language texts, perform morphological searches, cross-references, and more, with all results traceable to queries.

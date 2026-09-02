@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 61
+stars: 62
+forks: 13
+pushed_at: "2026-08-22T17:38:44Z"
 ---
 ## What it is
 Local MCP server that shows AI agents which patterns your team actually uses, what files a change will affect, and when there is not enough context to trust an edit. 30+ languages, fully local.

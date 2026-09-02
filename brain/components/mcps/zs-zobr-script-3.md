@@ -8,11 +8,13 @@ source_url: https://github.com/docxi-org/zobr-script
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1359
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-06-08T23:01:30Z"
 ---
 ## What it is
 ZS (Zobr Script) — cognitive scripting language for structured reasoning with LLMs. Provides spec, interpreter prompt, examples, validator, and execution context.

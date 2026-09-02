@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-26T22:45:29Z"
 ---
 ## What it is
 Manages blood pressure readings (create, read, update, delete) via an MCP server, integrable with Open WebUI.

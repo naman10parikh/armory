@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-23T16:55:09Z"
 ---
 ## What it is
 Enables scientific data introspection and visualization of VTK datasets with format-adaptive metadata extraction and interactive 3D visualization through MCP tools.

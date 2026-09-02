@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-02T08:29:49Z"
 ---
 ## What it is
 MCP server for Android device automation via ADB, enabling screen control, phone functions, app management, and device control.

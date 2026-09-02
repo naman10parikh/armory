@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-15T07:10:27Z"
 ---
 ## What it is
 Enables safe interaction with PDFs, including listing files, extracting highlights with exact text, reading annotations and page text, and viewing metadata, all restricted to configured directories.

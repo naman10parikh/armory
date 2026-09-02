@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T00:04:09Z"
 ---
 ## What it is
 Durable MCP server for managing long-running jobs locally, over SSH, or on Slurm clusters. Jobs survive client disconnects and return exit codes, bounded logs, and JSON artifacts.

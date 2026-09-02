@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-10T14:05:38Z"
 ---
 ## What it is
 An MCP server that enables signing, verifying, and managing APK files and keystores through a chat interface using the Uber APK Signer tool.

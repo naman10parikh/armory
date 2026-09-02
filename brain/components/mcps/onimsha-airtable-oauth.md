@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-22T12:47:21Z"
 ---
 ## What it is
 MCP server `Airtable OAuth`, catalogued on PulseMCP. Integrates with Airtable through OAuth 2.0 authentication to provide secure access for managing bases, tables, records, and schema operations without requiring direct API keys.

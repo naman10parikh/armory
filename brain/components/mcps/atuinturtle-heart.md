@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-25T08:56:37Z"
 ---
 ## What it is
 MCP server `Heart`, catalogued on PulseMCP. Provides a minimal foundation for building server implementations using Bun and TypeScript with stdio transport and extensible resource configuration

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T22:02:42Z"
 ---
 ## What it is
 Enables AI agents to query Norges Bank's open data API for exchange rates, policy rates, government securities, money market data, bank liquidity, and regional network survey data.

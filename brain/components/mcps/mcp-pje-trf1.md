@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:10:26Z"
 ---
 ## What it is
 MCP server for automating consultation and download of documents from Brazil's TRF1 PJe system through authenticated sessions. It uses Playwright for authenticated navigation, providing tools to query process metadata, list documents, and download full case files.

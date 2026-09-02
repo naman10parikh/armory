@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-13T13:31:05Z"
 ---
 ## What it is
 MCP server for Jupiter API on Solana, enabling immediate swaps via Ultra API and limit orders via Trigger API.

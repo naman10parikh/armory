@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-30T09:04:10Z"
 ---
 ## What it is
 MCP server `Zoom (No Auth)`, catalogued on PulseMCP. Provides headless access to Zoom's API functionality for retrieving cloud recordings, meeting details, and transcripts without requiring direct user authentication.

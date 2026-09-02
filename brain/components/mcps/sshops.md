@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T01:42:28Z"
 ---
 ## What it is
 A lightweight, zero-agent SSH operations tool that enables remote command execution, file transfer, and audit logging. It integrates as an MCP server for AI-driven infrastructure management.

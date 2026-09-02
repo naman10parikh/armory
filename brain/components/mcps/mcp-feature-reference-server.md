@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:18:59Z"
 ---
 ## What it is
 A complete MCP server implementation demonstrating all protocol features (tools, resources, prompts, sampling, and elicitation) with OAuth authentication, serving as a learning resource and starting template for building MCP servers.

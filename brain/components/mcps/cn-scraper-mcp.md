@@ -8,11 +8,13 @@ source_url: https://github.com/goesByhc/cn-scraper-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-29T09:19:11Z"
 ---
 ## What it is
 MCP server that enables AI agents to search Chinese web platforms (Taobao, JD, Xiaohongshu, Zhihu, ZSXQ) without being blocked.

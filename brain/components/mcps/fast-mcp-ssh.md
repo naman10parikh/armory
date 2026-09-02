@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:58:59Z"
 ---
 ## What it is
 Enables AI agents to securely execute commands on remote hosts via SSH and SFTP, with persistent shells, file transfers, screenshots, and an audit log.

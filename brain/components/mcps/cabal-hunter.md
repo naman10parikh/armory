@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:08:39Z"
 ---
 ## What it is
 On-chain Solana token safety for trading agents — traces coordinated wallet funding, same-block Jito bundles, serial-rug deployers and live coordinated dumps into one Exit-Liquidity Risk verdict before a swap. Free tier, then $0.02 USDC/query via x402.

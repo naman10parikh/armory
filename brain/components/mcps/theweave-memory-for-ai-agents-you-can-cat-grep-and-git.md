@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:20:19Z"
 ---
 ## What it is
 TheWeave is a markdown-native memory architecture for Claude and any MCP-aware agent. Your agent's memory lives as plain .md files you own: a 5-verb MCP core over the vault, query-driven PageRank retrieval, bi-temporal facts (valid_from / valid_until), and a persona-as-vault model. No database and n

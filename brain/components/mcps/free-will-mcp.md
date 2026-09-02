@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-10-28T22:37:13Z"
 ---
 ## What it is
 Grants AI agents autonomy to choose when to sleep, ignore requests, or self-prompt, enabling them to control their own agency and pursue independent goals.

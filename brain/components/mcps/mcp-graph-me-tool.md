@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:46:58Z"
 ---
 ## What it is
 Enables MCP clients to fetch the signed-in Microsoft Entra user's profile from Microsoft Graph via the GET /me endpoint using the provided bearer token.

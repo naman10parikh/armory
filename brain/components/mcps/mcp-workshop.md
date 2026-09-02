@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-07-09T19:23:17Z"
 ---
 ## What it is
 A simple MCP server that provides a hello world greeting and a tool to add two numbers.

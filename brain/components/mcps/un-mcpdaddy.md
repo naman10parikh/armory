@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T01:14:33Z"
 ---
 ## What it is
 MCP server `MCP Daddy`, catalogued on PulseMCP. Local-first proxy server that aggregates multiple upstream MCP servers and provides per-client exposure control through configurable profiles.

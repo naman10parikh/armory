@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T16:01:54Z"
 ---
 ## What it is
 Multi-agent orchestration server that enables parallel task delegation, sequential pipelines, cron scheduling, and cross-model peer review via CLI providers like Codex, Antigravity, OpenCode, and Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T12:05:21Z"
 ---
 ## What it is
 MCP server for Mi Fitness cloud data. Provides a local SQLite-backed server to sync and query daily activity, heart rate, and body measurements.

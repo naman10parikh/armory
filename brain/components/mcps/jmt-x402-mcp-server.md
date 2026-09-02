@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:42:15Z"
 ---
 ## What it is
 Exposes 25 paid API endpoints as MCP tools for AI agents, with payments in USDC on Base mainnet via the x402 protocol, enabling tasks like web search, company intelligence, and crypto research.

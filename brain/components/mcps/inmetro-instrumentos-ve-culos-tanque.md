@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:25Z"
 ---
 ## What it is
 Enables querying official INMETRO tanker vehicle (veículos tanque) data through a hosted MCP HTTP endpoint. Provides one read-only tool, inmetro_instrumentos_vc_tanque_consultar, for real-time consultation with robust documentation and client support.

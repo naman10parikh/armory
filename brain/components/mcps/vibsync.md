@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:58:01Z"
 ---
 ## What it is
 Vibsync gives Claude Code, Cursor, Codex, and other AI coding agents long-term team memory and live work context. It carries both what the team knows — discoveries, fixes, failed approaches, product rules, and decisions — and what the team is doing now — questions, tasks, ownership, and active work 

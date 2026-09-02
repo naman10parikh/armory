@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T07:26:46Z"
 ---
 ## What it is
 Enables reading and writing MindNode mind maps directly by parsing their on-disk format, without AppleScript or Shortcuts.

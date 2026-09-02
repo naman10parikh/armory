@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T01:10:42Z"
 ---
 ## What it is
 An MCP server that converts layered PSD characters into Spine 4.2 rigs with deterministic, parametric 2D/2.5D animations (idle, walk, run, jump, attack, hit) ready for the Spine editor and Unity.

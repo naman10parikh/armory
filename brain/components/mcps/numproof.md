@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:59:04Z"
 ---
 ## What it is
 MCP server for deterministic numeric verification and spreadsheet auditing. Enables AI agents to verify math/finance claims, audit rows, and evaluate covenant rules with signed, independently checkable receipts.

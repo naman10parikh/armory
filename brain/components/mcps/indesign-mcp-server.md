@@ -8,11 +8,13 @@ source_url: https://github.com/lucdesign/indesign-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-09-01T12:06:46Z"
 ---
 ## What it is
 Enables AI assistants to automate Adobe InDesign publishing workflows, including document creation, text formatting, image placement, PDF export, and more via 35+ professional tools.

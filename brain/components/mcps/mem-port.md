@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T07:49:33Z"
 ---
 ## What it is
 A local MCP server providing portable, long-term agentic memory through an embedded knowledge graph and semantic search, allowing multiple AI copilots to share isolated memory libraries via library-id without external services.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:17:00Z"
 ---
 ## What it is
 Exposes the WalletWallet pass API as MCP tools for creating and updating digital passes, supporting Google Wallet links and usage checks.

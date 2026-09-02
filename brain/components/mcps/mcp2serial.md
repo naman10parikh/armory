@@ -8,10 +8,12 @@ source_url: https://github.com/mcp2everything/mcp2serial
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2024-12-19T08:49:31Z"
 ---
 ## What it is
 MCP server `Serial`, catalogued on PulseMCP. Bridges with physical hardware devices (e.g. Raspberry Pi) via serial communication, enabling real-world control and interaction for IoT and robotics applications.

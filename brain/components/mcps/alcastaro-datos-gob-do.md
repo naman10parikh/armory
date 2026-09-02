@@ -8,10 +8,12 @@ source_url: https://github.com/alcastaro/datos.gob.do-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T02:50:14Z"
 ---
 ## What it is
 MCP server `datos.gob.do`, catalogued on PulseMCP. Access 1,053 datasets from the Dominican Republic open government data portal.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:00Z"
 ---
 ## What it is
 Provides sentiment analysis with emotion detection, confidence scores, and key phrase extraction for single texts or batches up to 20, using pay-per-call via x402 micropayments (USDC on Base L2).

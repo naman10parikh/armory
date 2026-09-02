@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:51:54Z"
 ---
 ## What it is
 Provides read-only access to host system metrics (CPU, memory, disk), Docker container health/logs, and sandboxed log file analysis via MCP tools, enabling AI agents to monitor enterprise infrastructure safely.

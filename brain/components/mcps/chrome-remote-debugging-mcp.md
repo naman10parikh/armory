@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T08:51:18Z"
 ---
 ## What it is
 Controls a running Chrome/Chromium browser via the Chrome DevTools Protocol, enabling navigation, JavaScript evaluation, tab management, and raw CDP commands through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:29:09Z"
 ---
 ## What it is
 Enables AI assistants to read and analyze Google Fit exported data (activities, daily metrics, workouts, sleep) from Google Takeout, providing tools for queries, resources, and coaching prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T13:11:38Z"
 ---
 ## What it is
 A development guide and reference implementation for building a custom Baidu Netdisk MCP server, enabling AI assistants to manage files and shares on Baidu Pan.

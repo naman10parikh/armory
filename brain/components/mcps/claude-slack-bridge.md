@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-08-20T18:47:27Z"
 ---
 ## What it is
 Enables Claude Code to pause and ask questions via Slack, and allows running Claude from Slack with project-aware context, supporting a full-process feature development workflow.

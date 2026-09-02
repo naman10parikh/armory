@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:03:03Z"
 ---
 ## What it is
 Enables authenticated ROAST users to view their dashboard, profiles, photoshoots, and images via MCP tools.

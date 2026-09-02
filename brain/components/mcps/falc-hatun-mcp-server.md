@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:25:19Z"
 ---
 ## What it is
 Provides real astrology and tarot computations using actual ephemeris and a 78-card deck, returning structured data such as natal charts, synastry, transits, and tarot draws without relying on an LLM for astrological facts.

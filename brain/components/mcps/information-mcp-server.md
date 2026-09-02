@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:57:25Z"
 ---
 ## What it is
 HandaaS的MCP服务器，提供全域资讯搜索、企业新闻、行业资讯、主题跟踪和企业动态监控能力，帮助用户开展行业研究和舆情分析。

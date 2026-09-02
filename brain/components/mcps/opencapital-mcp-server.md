@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T14:48:51Z"
 ---
 ## What it is
 Hosted MCP server providing read-only access to US public company fundamentals, segment breakdowns, peer comparisons, and earnings data sourced directly from SEC filings.

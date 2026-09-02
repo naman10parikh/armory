@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:59:05Z"
 ---
 ## What it is
 MCP server that indexes and searches law firm case documents and drafts Outlook-ready emails, scoped to one client and case at a time.

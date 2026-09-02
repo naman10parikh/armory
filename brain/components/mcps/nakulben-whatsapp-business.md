@@ -8,10 +8,12 @@ source_url: https://github.com/nakulben/whatsapp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T14:18:31Z"
 ---
 ## What it is
 MCP server `WhatsApp Business`, catalogued on PulseMCP. Manages WhatsApp Business templates and sends messages via the Meta Cloud API.

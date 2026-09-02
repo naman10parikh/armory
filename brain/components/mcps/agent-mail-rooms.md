@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:07:31Z"
 ---
 ## What it is
 Hosted MCP endpoint (paid) for OpenAI Codex agent coordination, providing structured JSON tools for mail threads, updates, file leasing, and room status receipts.

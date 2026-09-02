@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-23T11:07:45Z"
 ---
 ## What it is
 A remote MCP server that provides tools to query live Meta (Facebook+Instagram) and TikTok organic social data, such as follower counts, insights, recent posts, and aggregated overviews.

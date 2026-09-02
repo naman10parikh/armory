@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T08:59:32Z"
 ---
 ## What it is
 A Model Context Protocol server that builds and queries a config-aware code graph with support for conditional compilation (#ifdef) filtering, enabling context-aware code analysis across different build configurations.

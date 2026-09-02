@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-13T06:58:51Z"
 ---
 ## What it is
 MCP server `OpGen Password Generator`, catalogued on PulseMCP. Generates secure passwords with configurable character sets or word combinations, automatically copying results to the clipboard for seamless credential creation.

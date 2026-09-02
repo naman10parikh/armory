@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:14Z"
 ---
 ## What it is
 MCP server `Math.js`, catalogued on PulseMCP. Evaluate mathematical expressions and perform algebra using the Math.js API.

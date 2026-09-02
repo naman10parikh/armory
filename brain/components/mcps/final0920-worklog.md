@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-11T10:30:49Z"
 ---
 ## What it is
 MCP server `Worklog`, catalogued on PulseMCP. Automatically tracks and logs development work sessions by collecting activity data from various coding tools, generating detailed productivity summaries and work patterns without manual time tracking.

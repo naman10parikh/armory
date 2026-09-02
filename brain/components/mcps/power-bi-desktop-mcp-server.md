@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-11-08T13:23:52Z"
 ---
 ## What it is
 Bridges the Model Context Protocol to the Tabular Object Model, enabling natural language inspection, optimization, and authoring of DAX in Power BI Desktop.

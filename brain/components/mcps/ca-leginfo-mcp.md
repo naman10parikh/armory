@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:03:24Z"
 ---
 ## What it is
 MCP server for California statutes and legislation, enabling verification of current statutory text, tracking pending bills that would amend or repeal sections, and retrieving legislative history from 1993 onward using official legislative bulk data.

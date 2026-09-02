@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:24:05Z"
 ---
 ## What it is
 Self-hosted design audit MCP server that reviews UI code against Nielsen's heuristics and an accessibility rubric, returning scores and fixable findings. It also enables verifying previously flagged issues against updated code.

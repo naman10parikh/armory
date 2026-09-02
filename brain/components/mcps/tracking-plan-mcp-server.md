@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:08:07Z"
 ---
 ## What it is
 MCP server for creating, listing, inspecting, and validating tracking plans for ecommerce and lead-generation businesses, with JSON storage and TypeScript implementation.

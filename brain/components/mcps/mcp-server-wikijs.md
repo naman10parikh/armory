@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:00:57Z"
 ---
 ## What it is
 An MCP server that lets Claude (or any MCP client) manage a Wiki.js instance through its GraphQL admin API — read and write pages, manage navigation and groups, and trigger Git storage syncs.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 3
+pushed_at: "2025-10-01T08:54:04Z"
 ---
 ## What it is
 An MCP server that provides AI agents with real-time access to DEX liquidity pool data.

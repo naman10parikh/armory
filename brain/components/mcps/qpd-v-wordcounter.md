@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2024-12-19T06:42:17Z"
 ---
 ## What it is
 MCP server `Word Counter`, catalogued on PulseMCP. Analyze text documents, including counting words and characters, through Node.js.

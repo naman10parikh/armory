@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:52:30Z"
 ---
 ## What it is
 Thin MCP server that enables AI agents to generate video, image, and audio content via the Deepy API using a personal API key, with safe generation flow and no business logic.

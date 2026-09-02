@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-10T19:35:40Z"
 ---
 ## What it is
 MCP server `Memara Memory`, catalogued on PulseMCP. Provides a minimal foundation structure with only a README.md file, serving as a basic template for developers to bootstrap new MCP server projects.

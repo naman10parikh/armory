@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:58:57Z"
 ---
 ## What it is
 Provides startup verification tools including domain/package/org availability checks, unit economics, runway, market size, and cap table calculations with transparent formulas and warnings to prevent common agent errors.

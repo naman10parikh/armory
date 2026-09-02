@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 13
+forks: 4
+pushed_at: "2025-08-05T18:38:34Z"
 ---
 ## What it is
 MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.

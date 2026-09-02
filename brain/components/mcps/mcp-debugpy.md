@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-11-02T11:13:39Z"
 ---
 ## What it is
 MCP server for AI-assisted Python debugging using debugpy and Debug Adapter Protocol, enabling AI agents to run tests, set breakpoints, and inspect variables via natural language.

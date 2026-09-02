@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T21:11:21Z"
 ---
 ## What it is
 MCP server for Winston AI's detection tools, enabling AI content detection, plagiarism checking, image analysis, and text comparison.

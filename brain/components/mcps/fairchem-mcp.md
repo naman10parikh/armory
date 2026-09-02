@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T00:40:10Z"
 ---
 ## What it is
 An interactive MCP server for FAIRChem and ASE simulations that allows LLM agents to load a model once and steer relaxations, MD, NEB, phonons, and minima searches mid-flight, with live monitoring and code introspection.

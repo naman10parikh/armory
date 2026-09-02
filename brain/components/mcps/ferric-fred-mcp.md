@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T02:30:18Z"
 ---
 ## What it is
 A strongly-typed, single-binary MCP server for FRED (Federal Reserve Economic Data), written in Rust.

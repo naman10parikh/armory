@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T22:37:39Z"
 ---
 ## What it is
 An MCP server that lets AI agents create, edit, and animate pixel-art sprites, with PNG previews after every step and support for export to GIF/APNG/spritesheets.

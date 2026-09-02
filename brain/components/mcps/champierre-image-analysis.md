@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-04T07:40:36Z"
 ---
 ## What it is
 MCP server `Image Analysis (GPT-4 Vision)`, catalogued on PulseMCP. Enables image analysis using GPT-4-turbo's vision capabilities for extracting information, generating descriptions, and answering questions about visual content

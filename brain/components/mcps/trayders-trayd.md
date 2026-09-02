@@ -8,10 +8,12 @@ source_url: https://github.com/trayders/trayd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-06-26T01:50:59Z"
 ---
 ## What it is
 MCP server `Trayd`, catalogued on PulseMCP. Trade Robinhood stocks through natural language conversation.

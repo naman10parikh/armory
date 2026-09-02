@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T14:36:59Z"
 ---
 ## What it is
 An MCP server that incrementally indexes repositories and documents into a Postgres + pgvector store using CocoIndex, and exposes semantic search over them.

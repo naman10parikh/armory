@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 1411
+stars: 1429
+forks: 206
+pushed_at: "2026-09-01T12:52:53Z"
 ---
 ## What it is
 The ROS MCP Server supports robot control by converting user-issued natural language commands into ROS or ROS2 control commands.

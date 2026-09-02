@@ -8,10 +8,12 @@ source_url: https://github.com/wyre-technology/ninjaone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-30T23:30:33Z"
 ---
 ## What it is
 MCP server `NinjaOne`, catalogued on PulseMCP. Connects AI assistants to NinjaOne device management with tools for managing devices, organizations, alerts, and service tickets.

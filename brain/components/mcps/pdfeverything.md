@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T03:26:53Z"
 ---
 ## What it is
 Enables AI agents to perform 13 PDF operations (merge, split, compress, watermark, encrypt, and more) on local files via MCP.

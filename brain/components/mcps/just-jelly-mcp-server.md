@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T22:43:41Z"
 ---
 ## What it is
 MCP server for Zama's fhEVM that provides tools to scaffold, compile, deploy, test, and analyze confidential smart contracts, with support for encryption, ACL, and error decoding.

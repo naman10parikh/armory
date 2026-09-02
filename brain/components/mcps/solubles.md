@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T21:13:22Z"
 ---
 ## What it is
 MCP server `Solubles`, catalogued on PulseMCP. French solutions journalism podcast providing AI agents access to episode transcripts, search, and junior versions on ecology, climate, and society.

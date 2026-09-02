@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T12:02:55Z"
 ---
 ## What it is
 Enables searching and querying AI Hub datasets, including listing datasets, getting details, searching by keyword, and retrieving download information.

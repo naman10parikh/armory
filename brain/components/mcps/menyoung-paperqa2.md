@@ -8,10 +8,12 @@ source_url: https://github.com/menyoung/paperqa-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T01:45:51Z"
 ---
 ## What it is
 MCP server `PaperQA2`, catalogued on PulseMCP. Exposes PaperQA2 functionality for reading, searching, and synthesizing across a local PDF library of scientific papers.

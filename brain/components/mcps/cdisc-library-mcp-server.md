@@ -8,11 +8,13 @@ source_url: https://github.com/whereayan/cdisc-library-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T12:31:31Z"
 ---
 ## What it is
 Provides comprehensive access to CDISC clinical data standards (SDTM, ADaM, CDASH, CT) through 15 MCP tools, resources, and prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T19:57:52Z"
 ---
 ## What it is
 An MCP server that routes tasks to the best AI models, aggregates responses with confidence scoring, and applies billionaire thinking frameworks for strategic decisions.

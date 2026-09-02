@@ -8,10 +8,12 @@ source_url: https://github.com/weidwonder/terminal-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-09-17T07:45:47Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Enables AI systems to execute terminal commands in local or remote environments through a TypeScript-based server supporting both standard I/O and SSE communication modes.

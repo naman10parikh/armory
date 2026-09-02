@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:26:24Z"
 ---
 ## What it is
 An MCP server implementing the ROBINS-I V2 framework for risk-of-bias assessment in non-randomized studies, with deterministic algorithms and full provenance. It enables users to parse study documents, specify target trial results, answer signalling questions with evidence-bound quotes, and compute 

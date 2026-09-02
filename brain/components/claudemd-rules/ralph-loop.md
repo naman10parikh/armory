@@ -15,6 +15,8 @@ verified_at: 2026-05-26
 related: [test-before-build, qa-zero-tolerance, error-post-mortem]
 tags: [autonomy, execution, persistence, overnight]
 mentions: 1
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

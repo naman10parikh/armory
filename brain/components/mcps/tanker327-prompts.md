@@ -8,10 +8,12 @@ source_url: https://github.com/tanker327/prompts-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-19T23:24:07Z"
 ---
 ## What it is
 MCP server `Prompts Library`, catalogued on PulseMCP. Manages prompt templates as markdown files with YAML frontmatter, providing structured organization, real-time file watching, and CRUD operations for systematic prompt library management and team collaboration.

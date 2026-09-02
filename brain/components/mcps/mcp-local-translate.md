@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T01:23:13Z"
 ---
 ## What it is
 Provides offline translation across 200+ languages using a local NLLB-200 model, with no data leaving your machine.

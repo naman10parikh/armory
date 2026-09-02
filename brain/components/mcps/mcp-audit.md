@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:10:46Z"
 ---
 ## What it is
 An MCP server that gives AI agents observability over their own tool calls, enabling auditing, cost tracking, latency analysis, and alerting.

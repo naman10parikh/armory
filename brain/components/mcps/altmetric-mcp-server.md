@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:11:10Z"
 ---
 ## What it is
 Provides access to Altmetric APIs for monitoring research impact and attention across news, policy documents, social media, and other online platforms.

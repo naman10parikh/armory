@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T11:34:00Z"
 ---
 ## What it is
 Enables AI assistants to interact with inSCADA systems via the Model Context Protocol, providing 39 tools for live data, alarms, scripts, historical analysis, charts, and more.

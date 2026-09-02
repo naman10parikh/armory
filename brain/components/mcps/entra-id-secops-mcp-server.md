@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:26:45Z"
 ---
 ## What it is
 Enables security analysts to investigate Microsoft Entra ID security logs through natural language, exposing read-only tools for user context, sign-ins, risky users, risk detections, directory audits, and conditional access policies.

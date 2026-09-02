@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:34:05Z"
 ---
 ## What it is
 Provides vehicle wheel and tyre fitment data for 10,000+ makes, models, and trim levels through 32 read-only tools, enabling searches by vehicle, rim, or tire specifications.

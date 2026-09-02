@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:42:01Z"
 ---
 ## What it is
 Connects Claude to Jotae for creating events, configuring WhatsApp and email automations, and reading metrics through natural language.

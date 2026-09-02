@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T19:31:13Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with OpenProject, listing projects and work packages and managing resources through natural language.

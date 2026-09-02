@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-19T05:31:54Z"
 ---
 ## What it is
 MCP server `JWeather`, catalogued on PulseMCP. Integrates with weather data services to provide real-time conditions and forecasts through an asyncio-powered Python server with automated CI/CD workflows.

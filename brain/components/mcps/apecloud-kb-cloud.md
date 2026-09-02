@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-16T08:12:40Z"
 ---
 ## What it is
 MCP server `KubeBlocks Cloud`, catalogued on PulseMCP. Enables querying and managing KubeBlocks Cloud resources including organizations, environments, instances, and backups via the KB Cloud API for automated database operations.

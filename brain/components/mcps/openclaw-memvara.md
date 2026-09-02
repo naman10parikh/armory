@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:11:43Z"
 ---
 ## What it is
 An MCP server that gives OpenClaw a provable memory by connecting to the hosted Memvara endpoint via streamable-http with OAuth, installing a skill for memory operations without auto-capturing every turn.

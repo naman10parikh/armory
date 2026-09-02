@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:32Z"
 ---
 ## What it is
 MCP server that wraps the Wikidata API, enabling AI agents to query and interact with Wikidata data using natural language through the Pipeworx gateway.

@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [issue-tracking, mcp]
 mentions: 3
+forks: 10
+pushed_at: "2025-06-21T13:37:08Z"
 ---
 
 ## What it is

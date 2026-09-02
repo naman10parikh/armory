@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:08:48Z"
 ---
 ## What it is
 Enables querying the GDELT database for global events, language, and tone data through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-08T01:19:04Z"
 ---
 ## What it is
 Routes design tasks to the current top-ranked model from designarena.ai's crowdsourced leaderboard via OpenRouter.

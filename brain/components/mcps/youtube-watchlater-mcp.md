@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T08:34:54Z"
 ---
 ## What it is
 Fetches your YouTube Watch Later playlist using yt-dlp with browser cookies, bypassing YouTube API limitations. Also supports downloading video subtitles.

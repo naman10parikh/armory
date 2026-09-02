@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T05:23:20Z"
 ---
 ## What it is
 Provides AI agents with 92 tools and 230+ marketplace services on Solana for prediction markets, intelligence feeds, agent identity, hiring, and more.

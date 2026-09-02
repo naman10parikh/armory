@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:30:02Z"
 ---
 ## What it is
 Independent MCP server for tracking food inventory, estimating best-before dates, managing consumption, and returning expiry reminders to MCP clients.

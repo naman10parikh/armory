@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-28T19:49:28Z"
 ---
 ## What it is
 MCP server `CS2 RCON`, catalogued on PulseMCP. Enables Counter-Strike 2 server administration through RCON commands, allowing execution of administrative tasks, server status queries, and player management on game servers.

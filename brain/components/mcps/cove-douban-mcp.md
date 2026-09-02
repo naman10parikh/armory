@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T13:03:14Z"
 ---
 ## What it is
 Read-only MCP server that accesses Douban data through your local Chrome session, enabling search, movie/book details, marks, reviews, and more.

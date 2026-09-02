@@ -8,10 +8,12 @@ source_url: https://github.com/nikitacometa/mnemon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-17T18:10:18Z"
 ---
 ## What it is
 MCP server `Mnemon`, catalogued on PulseMCP. Persistent layered memory for AI agents with local-first SQLite storage.

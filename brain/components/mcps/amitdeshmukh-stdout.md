@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-07T10:35:08Z"
 ---
 ## What it is
 MCP server `StdoutMCP`, catalogued on PulseMCP. Lightweight server that captures and manages stdout logs from multiple processes through a named pipe system, maintaining a 100-entry log history and providing robust querying and filtering capabilities for debugging and real-time monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:13:08Z"
 ---
 ## What it is
 Wraps NIUMA shop's session-based REST API into a remote MCP service for purchasing X Premium yearly plans, enabling plan listing, gift eligibility checks, and order creation via natural language.

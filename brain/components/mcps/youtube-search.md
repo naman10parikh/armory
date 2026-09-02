@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-01T08:26:14Z"
 ---
 ## What it is
 MCP server `YouTube Search`, catalogued on PulseMCP. Enables searching YouTube videos, retrieving detailed information, and extracting subtitles in English or Russian for referencing and analyzing video content during conversations.

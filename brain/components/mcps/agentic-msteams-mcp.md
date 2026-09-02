@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T10:46:15Z"
 ---
 ## What it is
 A self-hosted Microsoft Teams MCP server that serves as an agnostic human-in-the-loop gateway for AI agents.

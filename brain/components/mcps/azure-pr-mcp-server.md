@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T13:57:05Z"
 ---
 ## What it is
 An MCP server that enables reviewing Azure DevOps Pull Request comments using the Azure CLI, with features like comment retrieval and status filtering.

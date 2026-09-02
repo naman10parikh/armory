@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-24T02:56:15Z"
 ---
 ## What it is
 Turns Canvas LMS into a scriptable pipeline and exposes it to AI assistants via MCP for querying courses, grades, assignments, and syncing files using natural language.

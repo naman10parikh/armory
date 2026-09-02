@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T02:00:24Z"
 ---
 ## What it is
 MCP server `Playwright Spatial Layout`, catalogued on PulseMCP. Gives AI agents geometric spatial awareness of web page layouts using Playwright.

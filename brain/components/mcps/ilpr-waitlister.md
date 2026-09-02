@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T05:22:43Z"
 ---
 ## What it is
 MCP server `Waitlister`, catalogued on PulseMCP. Manages waitlist subscribers through the Waitlister API with tools for adding, listing, updating, and tracking subscribers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:42:02Z"
 ---
 ## What it is
 Standalone TypeScript MCP server for micrOS devices. Enables discovering devices, inspecting device cache, running micrOS commands, and discovering each device's available module commands.

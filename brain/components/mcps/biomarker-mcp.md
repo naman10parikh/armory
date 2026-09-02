@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T17:44:29Z"
 ---
 ## What it is
 Enables querying celltype markers from CellMarker database using natural language.

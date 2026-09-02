@@ -8,11 +8,13 @@ source_url: https://github.com/getpostern/postern
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T23:24:53Z"
 ---
 ## What it is
 MCP server for the Postern personal context gateway, enabling agents to read and act on data from finance, health, mail, calendar, contacts, and home sources through a unified, cached interface.

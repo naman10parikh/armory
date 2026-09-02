@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T09:48:51Z"
 ---
 ## What it is
 MCP server for Spain's official BOE auction portal: search judicial foreclosures, notarial and tax-agency auctions, get consolidated per-auction detail (assets, lots, bids, authority contacts) and computed legal thresholds (art. 671 LEC). Clean JSON, GDPR-safe, no headless browser.

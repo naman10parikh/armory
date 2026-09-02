@@ -8,10 +8,12 @@ source_url: https://github.com/kiran1689/storyblok-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-22T11:00:54Z"
 ---
 ## What it is
 MCP server `Storyblok`, catalogued on PulseMCP. Enables your AI assistants to directly access and manage your Storyblok spaces, stories, components, assets, workflows, and more.

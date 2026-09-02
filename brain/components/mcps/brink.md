@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:45:35Z"
 ---
 ## What it is
 A single-player cinematic geopolitical roleplay MCP server where an LLM game-master handles decision-making with persistent world state and rules enforcement.

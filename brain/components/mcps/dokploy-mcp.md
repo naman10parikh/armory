@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T19:53:23Z"
 ---
 ## What it is
 Wraps the Dokploy REST API to expose Dokploy operations as MCP tools for managing projects, applications, compose stacks, deployments, domains, and environment variables.

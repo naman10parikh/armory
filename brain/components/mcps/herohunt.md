@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T10:30:19Z"
 ---
 ## What it is
 MCP server `HeroHunt`, catalogued on PulseMCP. Talent search platform for discovering professionals across LinkedIn, GitHub, and StackOverflow with contact enrichment.

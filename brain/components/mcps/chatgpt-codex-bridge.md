@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:46:12Z"
 ---
 ## What it is
 Enables ChatGPT to securely inspect local Codex projects, read session history, and dispatch confirmed tasks to the Codex CLI through a local MCP bridge.

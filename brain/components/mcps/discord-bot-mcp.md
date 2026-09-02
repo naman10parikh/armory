@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:05:48Z"
 ---
 ## What it is
 A local MCP server that lets AI clients control a Discord bot via Discord's REST API, offering messaging, administration, and moderation tools. Includes safety features such as guild scoping, allowlists, and opt-in write permissions.

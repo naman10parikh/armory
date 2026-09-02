@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T12:04:47Z"
 ---
 ## What it is
 MCP server `Codex Gopls`, catalogued on PulseMCP. Integrates the Go language server (gopls) into Codex, exposing hover, definitions, references, symbols, and diagnostics.

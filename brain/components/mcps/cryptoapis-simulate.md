@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:20Z"
 ---
 ## What it is
 MCP server `Crypto APIs Simulate`, catalogued on PulseMCP. Dry-run EVM transaction simulation for testing before on-chain execution via Crypto APIs.

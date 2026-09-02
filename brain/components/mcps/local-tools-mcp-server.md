@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:22:42Z"
 ---
 ## What it is
 A read-only MCP server that enables AI assistants to search files, list directories, retrieve system info, and get file metadata on the local file system.

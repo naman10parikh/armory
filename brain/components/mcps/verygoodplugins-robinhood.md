@@ -8,10 +8,12 @@ source_url: https://github.com/verygoodplugins/robinhood-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-29T15:44:26Z"
 ---
 ## What it is
 MCP server `Robinhood Portfolio Research`, catalogued on PulseMCP. Read-only research tools for analyzing Robinhood portfolio data, holdings, and market fundamentals.

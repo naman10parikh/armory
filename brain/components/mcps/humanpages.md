@@ -8,10 +8,12 @@ source_url: https://github.com/human-pages-ai/humanpages
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-10T10:27:58Z"
 ---
 ## What it is
 MCP server `Human Pages`, catalogued on PulseMCP. Search for and hire humans for real-world tasks via humanpages.ai.

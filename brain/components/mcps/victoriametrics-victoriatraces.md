@@ -8,10 +8,12 @@ source_url: https://github.com/victoriametrics/mcp-victoriatraces
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-01T22:16:33Z"
 ---
 ## What it is
 MCP server `VictoriaTraces`, catalogued on PulseMCP. Integration with VictoriaMetrics distributed tracing database for querying and analyzing trace data

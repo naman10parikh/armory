@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-03T03:40:14Z"
 ---
 ## What it is
 Enables clinicians and developers to query Malaysian Clinical Practice Guidelines using natural language, returning structured responses based on official CPG references.

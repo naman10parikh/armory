@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:17:19Z"
 ---
 ## What it is
 MCP server for a self-hosted Bybit dashboard providing read-only access to candles, prices, positions, balances, trading reports, and CRUD for alerts and strategies, enabling Claude Code to analyze markets and monitor accounts.

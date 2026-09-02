@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T08:30:31Z"
 ---
 ## What it is
 Enables AI agents to manage projects, tasks, and schedules in JJ Planner through CRUD operations.

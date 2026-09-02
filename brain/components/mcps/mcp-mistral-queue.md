@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:53:46Z"
 ---
 ## What it is
 An MCP server that coordinates Mistral API calls across multiple processes/clients using a shared SQLite queue, enforcing automatic rate limiting and priority-based queuing.

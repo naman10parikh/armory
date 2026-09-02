@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T05:10:09Z"
 ---
 ## What it is
 Enables MCP agents to access public SEC Form 4 insider filing data via a local API wrapper, supporting tools for assessing insider activity, checking data freshness, and retrieving filing provenance without providing financial advice.

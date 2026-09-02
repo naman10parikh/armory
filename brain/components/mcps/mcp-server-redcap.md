@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T15:18:58Z"
 ---
 ## What it is
 Enables interaction with REDCap instances for managing research data, projects, and files through natural language.

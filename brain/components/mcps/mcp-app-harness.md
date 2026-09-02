@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:51:12Z"
 ---
 ## What it is
 Exposes a support-desk application through MCP tools and resources with populate/snapshot/restore hooks for reproducible RL training episodes.

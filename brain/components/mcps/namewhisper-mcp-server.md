@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:46:41Z"
 ---
 ## What it is
 AI-powered ENS intelligence for autonomous agents, enabling search, valuation, trading, and management of ENS domains via the Model Context Protocol.

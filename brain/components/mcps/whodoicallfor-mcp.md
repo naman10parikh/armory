@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:24:28Z"
 ---
 ## What it is
 MCP server that helps users identify which trade to call during home emergencies by analyzing natural-language problem descriptions and providing ranked matches with costs, sources, and dispatch lines.

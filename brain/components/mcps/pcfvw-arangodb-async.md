@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-24T09:44:05Z"
 ---
 ## What it is
 MCP server `ArangoDB Async`, catalogued on PulseMCP. Provides async ArangoDB database operations with 46 tools for graphs, queries, multi-tenancy, and analytics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:18:05Z"
 ---
 ## What it is
 Official European law, expanding globally: 20M+ documents, 35+ jurisdictions, verifiable citations.

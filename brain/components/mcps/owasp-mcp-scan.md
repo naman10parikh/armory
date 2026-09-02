@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:46:45Z"
 ---
 ## What it is
 Passive security scanner that audits a running MCP server against the OWASP MCP Top 10 and grades it A-F. Read-only static analysis of the advertised tools, prompts and resources with console/JSON/SARIF output, and it also runs as an MCP server itself.

@@ -8,11 +8,13 @@ source_url: https://github.com/chenyinrusi/dsh-repo-health
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:59:23Z"
 ---
 ## What it is
 Provides read-only repository health scanning tools for drift detection, module reachability, prompt bloat, evidence calibration, and registration completeness, enabling agents to diagnose repositories via MCP.

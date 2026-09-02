@@ -8,10 +8,12 @@ source_url: https://github.com/houtini-ai/seo-crawler-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-08T13:58:13Z"
 ---
 ## What it is
 MCP server `Houtini SEO Crawler`, catalogued on PulseMCP. Crawl and analyze websites for SEO errors with SQLite-backed storage and configurable depth.

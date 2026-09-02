@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-23T23:22:54Z"
 ---
 ## What it is
 Enables AI assistants to surgically extract and analyze code, reducing token usage and costs by up to 200x compared to reading entire files.

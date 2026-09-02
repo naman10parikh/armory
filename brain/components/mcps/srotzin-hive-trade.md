@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:32Z"
 ---
 ## What it is
 MCP server `Hive Trade`, catalogued on PulseMCP. Cross-border trade finance for SMBs, settling invoices in USDC on Base L2 with same-block settlement via four trade tools.

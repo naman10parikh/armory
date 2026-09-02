@@ -8,10 +8,12 @@ source_url: https://github.com/hritik003/linkedin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-21T05:49:15Z"
 ---
 ## What it is
 MCP server `LinkedIn`, catalogued on PulseMCP. Integrates with LinkedIn to enable profile retrieval, job searching, feed post access, and resume analysis for automated platform engagement.

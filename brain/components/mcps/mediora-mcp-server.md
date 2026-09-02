@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T22:42:16Z"
 ---
 ## What it is
 Exposes a doctor-reviewed medical catalog of blood-test markers, clinical conditions, and patient symptoms as MCP tools in English, Russian, and Hebrew, supporting both anonymous queries and authenticated patient data analysis.

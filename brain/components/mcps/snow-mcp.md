@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-03T08:36:17Z"
 ---
 ## What it is
 A comprehensive MCP server for ServiceNow that provides over 60 pre-built tools for ITSM, ITOM, and App Dev operations, enabling AI agents to manage incidents, changes, users, service catalog, and projects through a unified interface.

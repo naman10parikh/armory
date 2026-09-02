@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T16:41:30Z"
 ---
 ## What it is
 A governed MCP server for integrating AI agents with customer data, featuring role-based access control, field redaction, and human-in-the-loop approval for secure support operations.

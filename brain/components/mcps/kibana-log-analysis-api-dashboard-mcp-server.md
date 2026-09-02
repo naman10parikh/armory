@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T04:55:53Z"
 ---
 ## What it is
 Enables AI assistants to search Elasticsearch logs, retrieve log details, analyze service health, scan local codebases for APIs, and create Kibana dashboards.

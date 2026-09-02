@@ -8,10 +8,12 @@ source_url: https://github.com/thomasrohde/hue-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-10-31T04:36:40Z"
 ---
 ## What it is
 MCP server `Hue Lights`, catalogued on PulseMCP. Enables AI assistants to dynamically control and manipulate Philips Hue smart lighting systems through natural language commands, supporting color changes, brightness adjustments, scene applications, and personalized lighting experiences.

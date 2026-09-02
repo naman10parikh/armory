@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-04-30T15:35:09Z"
 ---
 ## What it is
 Enables querying a curated book database using MCP tools to retrieve basic or detailed book information by ISBN or title, including batch lookups.

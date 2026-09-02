@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T20:52:23Z"
 ---
 ## What it is
 Enables Claude Desktop to search, read, list, create, update, move, and delete notes from iCloud Notes on macOS.

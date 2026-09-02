@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-04T18:05:34Z"
 ---
 ## What it is
 MCP server `Flutter Maestro`, catalogued on PulseMCP. Bridges Flutter mobile app development with Maestro UI testing by providing tools for inspecting UI hierarchies, simulating user interactions, taking screenshots, and managing app state through hot reload/restart via VM Service connections.

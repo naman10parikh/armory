@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:34:26Z"
 ---
 ## What it is
 Enables scheduling of construction works against weather forecasts, using deterministic tools to check weather suitability, estimate curing times, and place dependent tasks into the earliest non-prohibited time windows.

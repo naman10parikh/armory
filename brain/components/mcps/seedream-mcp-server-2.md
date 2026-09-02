@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T14:37:44Z"
 ---
 ## What it is
 Enables AI assistants to generate high-quality images using Volcano Engine's Seedream models via MCP, supporting text-to-image, image-to-image, multi-image fusion, and streaming output.

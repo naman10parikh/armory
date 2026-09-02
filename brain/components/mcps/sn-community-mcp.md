@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:32:49Z"
 ---
 ## What it is
 MCP server for searching the ServiceNow Community forums with relevance-ranked results. Supports fetching posts as Markdown and configurable result counts.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T12:13:30Z"
 ---
 ## What it is
 MCP server `Comms`, catalogued on PulseMCP. Centralized multi-channel communication server supporting SMS, voice, email, and OTP via Telnyx, Twilio, and Resend.

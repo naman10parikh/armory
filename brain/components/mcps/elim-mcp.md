@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:18:52Z"
 ---
 ## What it is
 An MCP server that gives coding agents a persistent, chained memory of debugging investigations, tracking what's been tried, ruled out, and solved across sessions and scopes.

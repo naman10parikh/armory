@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T21:40:40Z"
 ---
 ## What it is
 Remote MCP server for Microsoft Graph with delegated OAuth support, enabling interaction with Microsoft 365 services like mail, calendar, OneDrive, SharePoint, Teams, and more via natural language.

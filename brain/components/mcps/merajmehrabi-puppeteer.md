@@ -8,10 +8,12 @@ source_url: https://github.com/merajmehrabi/puppeteer-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 456
+stars: 482
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 56
+pushed_at: "2025-03-14T00:12:50Z"
 ---
 ## What it is
 MCP server `Puppeteer`, catalogued on PulseMCP. Integrates with Puppeteer to enable browser automation for web navigation, interaction, and data extraction tasks.

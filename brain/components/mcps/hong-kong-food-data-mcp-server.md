@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T13:14:28Z"
 ---
 ## What it is
 Provides access to Hong Kong food data, including wholesale food prices, through a FastMCP interface.

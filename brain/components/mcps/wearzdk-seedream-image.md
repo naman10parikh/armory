@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-06T07:11:57Z"
 ---
 ## What it is
 MCP server `Seedream`, catalogued on PulseMCP. Seedream image generation API integration for AI-powered visual content creation

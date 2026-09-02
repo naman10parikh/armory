@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-19T02:31:14Z"
 ---
 ## What it is
 MCP server that wraps DeepSeek's AI capabilities into standard MCP tools, supporting three authentication modes including free web-based usage without API keys.

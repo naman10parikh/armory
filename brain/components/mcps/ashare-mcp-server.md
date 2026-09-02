@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:06:56Z"
 ---
 ## What it is
 Provides stock market data (search, quotes, real-time, charts) for A-share, Hong Kong, and US stocks via MCP tools.

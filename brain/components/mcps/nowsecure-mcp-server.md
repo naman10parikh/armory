@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:27:25Z"
 ---
 ## What it is
 Enables interaction with NowSecure Platform for listing applications, retrieving remediation findings, and generating remediation PDFs via REST and GraphQL APIs.

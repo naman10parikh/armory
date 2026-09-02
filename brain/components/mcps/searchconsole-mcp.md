@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T19:07:03Z"
 ---
 ## What it is
 A lightweight, fast MCP server for Google Search Console. Query search analytics, manage sitemaps, and inspect URLs directly from your AI assistant.

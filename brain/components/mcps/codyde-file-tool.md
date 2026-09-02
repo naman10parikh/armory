@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-26T07:37:03Z"
 ---
 ## What it is
 MCP server `File System Operations`, catalogued on PulseMCP. Provides file system operations for reading, creating, and listing files on the local file system, with performance monitoring through Sentry integration.

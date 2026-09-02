@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:16:44Z"
 ---
 ## What it is
 Full-text search across all ~10,000 current Japanese laws and regulations (official e-Gov data): keyword search, table of contents, and exact article text.

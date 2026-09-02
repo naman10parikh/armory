@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:53:28Z"
 ---
 ## What it is
 Provides AI assistants in Cursor with local access to 1C platform documentation and XML configuration exports, enabling metadata lookup, BSL code search, and platform help queries without manual file copying.

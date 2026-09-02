@@ -8,10 +8,12 @@ source_url: https://github.com/erevus-cn/pinescript_syntax_checker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-03T14:54:43Z"
 ---
 ## What it is
 MCP server `PineScript Syntax Checker`, catalogued on PulseMCP. Validates TradingView PineScript code syntax by interfacing with TradingView's official pine-facade API, providing real-time compilation error detection for automated trading script development workflows.

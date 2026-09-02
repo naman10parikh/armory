@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-22T00:47:58Z"
 ---
 ## What it is
 MCP server `Mastodon`, catalogued on PulseMCP. Integrates with Mastodon social media platforms for creating posts with customizable visibility settings and media attachments, securely managing credentials through 1Password CLI for automated content scheduling and engagement.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T17:56:10Z"
 ---
 ## What it is
 Enables Claude to access and search local messages and contacts across multiple platforms (iMessage, Discord, Gmail, Slack) via a local-first datastore, ensuring data never leaves the Mac.

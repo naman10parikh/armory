@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 2
+forks: 2
+pushed_at: "2026-02-24T04:48:32Z"
 ---
 ## What it is
 7-layer recursive agent memory with context branching, holographic recall, dream consolidation, and on-chain persistence. MCP-native with 10 tools for persistent agent cognition.

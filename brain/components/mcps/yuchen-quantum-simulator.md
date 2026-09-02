@@ -8,10 +8,12 @@ source_url: https://github.com/yuchenssr/quantum-simulator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-22T11:13:26Z"
 ---
 ## What it is
 MCP server `Quantum Simulator`, catalogued on PulseMCP. Provides a Docker-based quantum circuit simulator using Qiskit to run, visualize, and analyze quantum computations with various noise models without requiring specialized quantum computing knowledge.

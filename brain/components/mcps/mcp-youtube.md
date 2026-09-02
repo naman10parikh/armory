@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T23:38:43Z"
 ---
 ## What it is
 Enables conversational YouTube playlist management via Claude, allowing creation, pruning, cleanup, and deletion of playlists through the YouTube Data API v3.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-27T09:16:19Z"
 ---
 ## What it is
 Provides tools for searching, creating, and managing Indian Government Schemes with comprehensive eligibility filtering.

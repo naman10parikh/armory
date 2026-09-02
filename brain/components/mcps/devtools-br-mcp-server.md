@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:42:44Z"
 ---
 ## What it is
 MCP server for generating and validating Brazilian documents (CPF, CNPJ, CNH, RG, PIS/PASEP, RENAVAM), encoding/decoding data (Base64, MD5, SHA1, URL), and performing text utilities like removing accents, reversing, and analyzing text.

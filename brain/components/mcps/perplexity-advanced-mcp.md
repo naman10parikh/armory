@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T09:42:58Z"
 ---
 ## What it is
 Advanced MCP server that uses OpenRouter and Perplexity APIs for enhanced query processing with multi-vendor support, query type optimization, file attachments, and robust retry logic.

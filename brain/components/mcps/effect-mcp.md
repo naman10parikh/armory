@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-11T02:14:31Z"
 ---
 ## What it is
 A Model Context Protocol server that provides real-time access to Effect ecosystem documentation, enabling AI assistants to retrieve accurate and up-to-date docs for Effect packages.

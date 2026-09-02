@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:05:42Z"
 ---
 ## What it is
 Local Leitner flashcard MCP server enabling AI clients to create decks, manage cards, study with spaced repetition, and track progress.

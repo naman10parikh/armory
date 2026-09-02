@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:08:09Z"
 ---
 ## What it is
 MCP server `Frinkiac`, catalogued on PulseMCP. Search for screenshots from The Simpsons, Futurama, and Rick and Morty by episode quote and retrieve matching screencaps and GIF clips.

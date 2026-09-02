@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:05:25Z"
 ---
 ## What it is
 Generates AI-written personalized cold email opening lines from a prospect's website, with free preview for up to 3 prospects and paid batch processing for up to 500.

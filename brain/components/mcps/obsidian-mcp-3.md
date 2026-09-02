@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-23T13:00:25Z"
 ---
 ## What it is
 Provides read-only access to an Obsidian vault, enabling file listing, content reading, and text search across notes via MCP.

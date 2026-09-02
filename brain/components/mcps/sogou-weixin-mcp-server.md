@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-12T12:05:24Z"
 ---
 ## What it is
 Enables searching for WeChat official account articles through the Sogou WeChat platform, returning structured article information.

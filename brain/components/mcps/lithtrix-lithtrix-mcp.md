@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 1
+forks: 0
+pushed_at: "2026-06-20T07:34:37Z"
 ---
 ## What it is
 Memory Consolidation for AI agents across vendors, owners, and time. Persistent memory, credibility-scored web search, browser fetch, and shared Commons pool under a stable `ltx_` key. Self-registration in one API call, no dashboard required. `npx lithtrix-mcp`

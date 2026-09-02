@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 21
+forks: 9
+pushed_at: "2025-07-11T05:57:48Z"
 ---
 ## What it is
 Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:19Z"
 ---
 ## What it is
 MCP server `Hyperliquid Portfolio`, catalogued on PulseMCP. Analyze Hyperliquid account positions, PnL, fills, orders, and funding.

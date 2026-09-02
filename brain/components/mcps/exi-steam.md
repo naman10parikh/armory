@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-03T21:08:33Z"
 ---
 ## What it is
 MCP server `Steam`, catalogued on PulseMCP. Integrates with the Steam Web API to access user data, game information, and Steam-related functionalities for analyzing gaming habits, providing recommendations, or incorporating Steam profiles into applications.

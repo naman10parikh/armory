@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:41:40Z"
 ---
 ## What it is
 Enables searching Daangn listings, viewing details, and summarizing market prices via the Model Context Protocol.

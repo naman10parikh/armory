@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-30T07:13:09Z"
 ---
 ## What it is
 MCP server `Shopify`, catalogued on PulseMCP. Integrates with Shopify's GraphQL API to enable e-commerce management tasks like inventory tracking, customer segmentation, order processing, and promotional campaign creation without switching interfaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T15:19:49Z"
 ---
 ## What it is
 Enables anime search and retrieval of details on works, series, episodes, people, organizations, staff, and broadcast schedules via the Annict REST API.

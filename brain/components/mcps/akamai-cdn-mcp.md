@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T11:25:14Z"
 ---
 ## What it is
 MCP server for Akamai CDN, enabling cache purging by URL (invalidate/delete) and read-only inspection of property configs, rule trees, and activations. Credentials are managed server-side with EdgeGrid signing, so clients need no credentials.

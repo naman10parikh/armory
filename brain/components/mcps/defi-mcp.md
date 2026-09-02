@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T12:03:52Z"
 ---
 ## What it is
 An MCP server that gives AI agents direct, on-chain access to DeFi data on EVM chains — wallet balances, Aave v3 lending positions, and live token prices, with no centralized API in the middle.

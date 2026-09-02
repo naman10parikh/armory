@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:15:06Z"
 ---
 ## What it is
 A minimal Python MCP Todo server backed by Appwrite Cloud, providing tools to add, list, get, update, complete, and delete tasks.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-05T06:10:12Z"
 ---
 ## What it is
 MCP server `E2B Code Sandbox`, catalogued on PulseMCP. Provides secure code execution capabilities through E2B's cloud sandbox infrastructure, enabling Python code execution and shell command execution in isolated environments.

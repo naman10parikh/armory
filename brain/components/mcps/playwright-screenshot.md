@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-31T13:07:31Z"
 ---
 ## What it is
 MCP server `Playwright Screenshot`, catalogued on PulseMCP. Enables webpage screenshot capture using Playwright and CDP to connect with remote Chrome instances for visual testing and content analysis

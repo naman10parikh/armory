@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T22:43:21Z"
 ---
 ## What it is
 Provides local-first, cross-session memory for Claude Code, enabling semantic search across past sessions to retrieve procedures, decisions, or answers without exposing secrets.

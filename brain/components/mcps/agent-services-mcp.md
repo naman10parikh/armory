@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T05:35:39Z"
 ---
 ## What it is
 A thin MCP server that wraps provenance-receipts and quality-gate services as tools, enabling AI agents to certify content origin and score quality via Ed25519-signed receipts.

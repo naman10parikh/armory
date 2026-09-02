@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-28T15:00:06Z"
 ---
 ## What it is
 MCP server `Source Map Parser`, catalogued on PulseMCP. Maps minified JavaScript stack traces back to original source code locations for efficient production error debugging.

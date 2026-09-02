@@ -8,10 +8,12 @@ source_url: https://github.com/openclaw/peekaboo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4505
+stars: 5098
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 393
+pushed_at: "2026-08-31T15:04:25Z"
 ---
 ## What it is
 MCP server `Peekaboo (macOS Screen Capture)`, catalogued on PulseMCP. Enables macOS screen capture and window management with tools for taking screenshots, analyzing images, and controlling application windows

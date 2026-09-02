@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T02:59:56Z"
 ---
 ## What it is
 MCP server `OneBusAway`, catalogued on PulseMCP. Provides real-time transit data via OneBusAway APIs — stop and route discovery, GPS-tracked arrival predictions, vehicle positions, and full-day timetables.

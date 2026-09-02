@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-25T08:47:01Z"
 ---
 ## What it is
 MCP server `Prometheus`, catalogued on PulseMCP. Integrates with Prometheus monitoring systems to provide instant PromQL queries, range queries with time windows, and metric discovery with enterprise authentication support including JWT validation and OAuth 2.0 flows.

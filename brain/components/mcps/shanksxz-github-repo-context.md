@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-24T14:52:22Z"
 ---
 ## What it is
 MCP server `GitHub Repository`, catalogued on PulseMCP. Provides a GitHub repository context retrieval tool that enables AI models to access repository structures, file contents, and filtered file lists through GitHub token authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:19:46Z"
 ---
 ## What it is
 Enables AI agents to search and discover data across SQLite and CSV sources through an MCP interface, with metadata indexing and fuzzy search capabilities.

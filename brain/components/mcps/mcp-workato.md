@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:57:07Z"
 ---
 ## What it is
 MCP server that exposes the Workato Platform API to Claude Desktop and other MCP clients, enabling management of recipes, jobs, connections, folders, custom connectors, and account properties through natural language.

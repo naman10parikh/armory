@@ -8,10 +8,12 @@ source_url: https://github.com/folathecoder/adzuna-job-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-12T08:10:04Z"
 ---
 ## What it is
 MCP server `Adzuna Job Search`, catalogued on PulseMCP. Search jobs, analyze salaries, and research employers across 12 countries via the Adzuna API.

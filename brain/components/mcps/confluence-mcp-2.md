@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:58:06Z"
 ---
 ## What it is
 MCP server for integrating Confluence with AI agents, enabling search, read, and retrieval of documentation, plus syncing and pushing markdown files.

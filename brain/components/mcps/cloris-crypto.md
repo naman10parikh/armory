@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-24T11:03:40Z"
 ---
 ## What it is
 MCP server `Crypto`, catalogued on PulseMCP. Provides encryption, decryption, and hashing functionalities using the crypto-js library for secure data handling and integrity verification in workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-23T09:27:50Z"
 ---
 ## What it is
 Analyzes GitHub and local repositories to automatically generate visual architectural diagrams such as dependency graphs, class diagrams, and data flow diagrams.

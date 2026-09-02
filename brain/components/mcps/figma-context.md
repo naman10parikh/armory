@@ -8,10 +8,12 @@ source_url: https://github.com/1yhy/figma-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [design, mcp]
+forks: 9
+pushed_at: "2025-12-06T03:59:16Z"
 ---
 
 ## What it is

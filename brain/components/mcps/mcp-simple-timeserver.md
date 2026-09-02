@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-22T07:24:56Z"
 ---
 ## What it is
 Provides current local and UTC time to Claude, enabling time awareness and elapsed time calculations.

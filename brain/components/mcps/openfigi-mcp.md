@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T12:02:54Z"
 ---
 ## What it is
 MCP server for the OpenFIGI API that enables AI assistants to search and resolve financial instrument identifiers such as ISIN, CUSIP, SEDOL, and tickers, with support for batch operations.

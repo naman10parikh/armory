@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:46:39Z"
 ---
 ## What it is
 Enables users to verify that an AI agent is who it claims to be by combining domain verification, agent-card checks, and a live MCP handshake, with paid requests handled via x402 on Base Sepolia testnet.

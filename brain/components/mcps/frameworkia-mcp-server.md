@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T00:22:25Z"
 ---
 ## What it is
 Enables AI coding assistants to manage persistent memory, search project context, generate tests, review architecture, and orchestrate workflows through 15 MCP tools, enhancing context-aware code generation.

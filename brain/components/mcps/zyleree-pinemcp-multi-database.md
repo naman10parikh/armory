@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-20T15:16:53Z"
 ---
 ## What it is
 MCP server `PineMCP (Multi-Database)`, catalogued on PulseMCP. Provides unified database access across PostgreSQL, MySQL, SQLite, Redis, MongoDB, Cassandra, Microsoft SQL Server, and Amazon DynamoDB with 25+ tools for operations, schema management, data export/import, query performance analysis, and transaction support through a comprehensive adapter pattern architecture.

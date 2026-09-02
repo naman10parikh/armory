@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-11T20:49:44Z"
 ---
 ## What it is
 Exposes a visual library with semantic search, tagging, editing, and management of photos as tools for AI agents like Claude Code.

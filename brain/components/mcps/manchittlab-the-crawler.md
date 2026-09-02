@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-02T17:48:41Z"
 ---
 ## What it is
 MCP server `The Crawler`, catalogued on PulseMCP. Universal web scraper returning LLM-ready markdown with RAG chunking and PDF/DOCX support.

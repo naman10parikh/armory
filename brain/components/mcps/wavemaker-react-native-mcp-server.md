@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T04:30:57Z"
 ---
 ## What it is
 An MCP server providing intelligent development assistance for WaveMaker React Native projects. This tool integrates with Cursor IDE to help developers solve bugs, optimize performance, analyze code, and generate tests.

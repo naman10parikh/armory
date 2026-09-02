@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-10T22:43:38Z"
 ---
 ## What it is
 MCP server `XCatcher`, catalogued on PulseMCP. High-throughput Twitter/X crawling with authenticated XLSX export

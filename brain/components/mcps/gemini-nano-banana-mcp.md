@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T09:34:11Z"
 ---
 ## What it is
 An MCP server for AI-powered image generation, editing, and video generation using Google Gemini and Veo models.

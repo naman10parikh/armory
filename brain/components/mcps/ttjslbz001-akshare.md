@@ -8,10 +8,12 @@ source_url: https://github.com/ttjslbz001/akshare_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-03-04T09:59:08Z"
 ---
 ## What it is
 MCP server `AKShare (Chinese Financial Data)`, catalogued on PulseMCP. Integrates with AKShare to provide real-time financial data and analysis tools for Chinese and global markets, enabling stock, fund, bond, futures, forex, and macroeconomic data queries for investment decision support.

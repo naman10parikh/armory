@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T18:58:32Z"
 ---
 ## What it is
 MCP server for interfacing an LLM with PmWiki, enabling search, read, and listing of wiki pages via tools and resources.

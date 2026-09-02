@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T06:27:31Z"
 ---
 ## What it is
 MCP server for Sendook - an AI email communication platform. Enables AI agents to send and receive emails, manage inboxes, threads, and webhooks programmatically.

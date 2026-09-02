@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T14:33:26Z"
 ---
 ## What it is
 A lightweight MCP service that provides clean, spam-free search results for AI agents, filtering out low-quality content.

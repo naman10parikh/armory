@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T00:22:09Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Exposes Google Gemini as tools for Claude Code with multi-turn chat, code analysis, and model selection.

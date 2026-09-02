@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T03:34:32Z"
 ---
 ## What it is
 Bridges local Claude Code with a remote Codex instance on a VPS via SSH, enabling Claude Code to invoke Codex as a sub-agent on remote repositories and retrieve results along with Git diff.

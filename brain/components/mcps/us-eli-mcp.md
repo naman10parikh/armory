@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:58:18Z"
 ---
 ## What it is
 MCP server for the Congress.gov API that tracks US federal legislative process, providing tools to search bills and get bill details.

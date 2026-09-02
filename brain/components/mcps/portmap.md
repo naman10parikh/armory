@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:36:09Z"
 ---
 ## What it is
 Enables AI agents to deterministically discover which localhost ports and env URLs are actually running, resolving declared configs, OS listeners, and service connections into a machine-readable .portmap.json with actionable findings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-29T16:48:25Z"
 ---
 ## What it is
 Enables parsing of PSD files and extraction of layer information, design tokens, and assets to assist LLMs in converting designs to code.

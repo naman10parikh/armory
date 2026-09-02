@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T21:03:27Z"
 ---
 ## What it is
 A lightweight, local inventory-intelligence MCP server that enables querying structured inventory schemas with read-only, zero-config tools for stock levels, velocity metrics, and purchase orders.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-17T05:14:38Z"
 ---
 ## What it is
 MCP server `Audio Interface`, catalogued on PulseMCP. Enables voice interaction with Claude through audio recording and playback capabilities, supporting customizable device selection and temporary file management for accessible spoken communication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:09Z"
 ---
 ## What it is
 Architectural decision tracker with staleness detection — records decisions and alerts when code changes invalidate them.

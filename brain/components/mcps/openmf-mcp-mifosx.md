@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 25
+forks: 38
+pushed_at: "2026-09-01T21:51:55Z"
 ---
 ## What it is
 A core banking integration for managing clients, loans, savings, shares, financial transactions and generating financial reports.

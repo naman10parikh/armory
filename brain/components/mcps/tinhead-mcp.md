@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T23:35:40Z"
 ---
 ## What it is
 Local MCP server that gives an agent access to branches of your Tinhead tree. It handles account key unwrapping locally and enforces branch grants.

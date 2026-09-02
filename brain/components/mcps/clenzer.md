@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:52:38Z"
 ---
 ## What it is
 Enables CLI agents to detect and remove dead code, manage complexity, and enforce hygiene rules in TypeScript/JavaScript projects through tools like scanning, cleansing, and reporting.

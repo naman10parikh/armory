@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-19T11:14:15Z"
 ---
 ## What it is
 MCP server `Temporal Knowledge Graph`, catalogued on PulseMCP. Bi-temporal knowledge graph with automatic fact invalidation and webhook automation tool generation.

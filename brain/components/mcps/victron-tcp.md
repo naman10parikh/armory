@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T08:04:34Z"
 ---
 ## What it is
 Connect AI assistants to Victron Energy systems to read real-time solar, battery, grid, and inverter data from your local network via Modbus TCP or MQTT.

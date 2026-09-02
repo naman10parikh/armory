@@ -8,10 +8,12 @@ source_url: https://github.com/yunaga224/obsidian-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-08-02T06:14:24Z"
 ---
 ## What it is
 MCP server `Obsidian Memory`, catalogued on PulseMCP. Stores conversation memories as Obsidian-compatible Markdown files with YAML frontmatter and [[link]] syntax, enabling knowledge graph visualization and exploration of entity relationships through Obsidian's graph view.

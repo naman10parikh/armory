@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-23T14:05:20Z"
 ---
 ## What it is
 Unofficial MCP server that exposes Fitatu account operations as tools for inspecting and updating your meal plan.

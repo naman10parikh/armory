@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T14:40:20Z"
 ---
 ## What it is
 MCP server `DPX`, catalogued on PulseMCP. AI-native stablecoin settlement rail for institutional cross-border transactions with adaptive oracle and autonomous execution.

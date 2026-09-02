@@ -8,10 +8,12 @@ source_url: https://github.com/promptibus/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-11T07:22:07Z"
 ---
 ## What it is
 MCP server `Promptibus`, catalogued on PulseMCP. Provides structured intelligence about 67+ generative AI models including recommendations, prompt optimization, parameter comparison, and pricing information.

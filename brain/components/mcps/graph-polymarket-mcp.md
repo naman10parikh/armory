@@ -8,10 +8,12 @@ source_url: https://github.com/paulieb14/graph-polymarket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-09T15:36:14Z"
 ---
 ## What it is
 MCP server `Graph Polymarket`, catalogued on PulseMCP. Query Polymarket prediction markets via The Graph subgraphs with tools for market data, trader P&L, and open interest.

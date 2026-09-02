@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T12:29:28Z"
 ---
 ## What it is
 Engineering memory for Claude Code — prevents re-investigating solved problems and repeating rejected architectural decisions across sessions and projects.

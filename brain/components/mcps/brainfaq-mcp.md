@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T02:04:56Z"
 ---
 ## What it is
 MCP server `BrainFAQ`, catalogued on PulseMCP. Interprets and debugs BrainFuck programs with step-by-step execution, memory inspection, and input handling.

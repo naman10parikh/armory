@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T03:43:06Z"
 ---
 ## What it is
 An MCP server that turns drama scripts into storyboard shots and generates videos for each shot using Zhipu CogVideoX, returning timed download URLs. It can be integrated with MCP-compatible agents like LangChain, Dify, Cline, and Cherry Studio.

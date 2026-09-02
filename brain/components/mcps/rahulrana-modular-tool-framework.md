@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-02T12:22:14Z"
 ---
 ## What it is
 MCP server `Modular Tool Framework (Jira & Todo)`, catalogued on PulseMCP. TypeScript framework for building modular MCP servers with Jira and Todo tool integrations, featuring Zod schema validation and a clean architecture for easy extension with custom tools.

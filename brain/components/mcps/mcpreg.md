@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T11:53:38Z"
 ---
 ## What it is
 Wraps any MCP server and exposes introspection tools (list, get, query) for registered tools, enabling clients to inspect tool schemas even when the underlying SDK lacks list_tools().

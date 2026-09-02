@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:22:03Z"
 ---
 ## What it is
 Gives AI assistants a genuine Borland Turbo C 3.0 toolchain via MCP, enabling compile and run of real 16-bit DOS C programs with diagnostics and classic examples.

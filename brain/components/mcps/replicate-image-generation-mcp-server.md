@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:26:05Z"
 ---
 ## What it is
 MCP server that exposes a generate_image tool to generate images via Replicate models such as FLUX Schnell, accepting a prompt and aspect ratio and returning an image URL.

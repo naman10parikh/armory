@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T18:06:07Z"
 ---
 ## What it is
 Model Context Protocol server for the NetLoc8 IP geolocation API. Gives AI assistants access to country/city lookup, timezone reconciliation, and IP utilities.

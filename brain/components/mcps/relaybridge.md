@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:11:48Z"
 ---
 ## What it is
 Provides a local Windows control plane for PowerShell and AI CLIs, exposing MCP tools for safe terminal sessions, bounded provider calls, routing, committees, and run receipts.

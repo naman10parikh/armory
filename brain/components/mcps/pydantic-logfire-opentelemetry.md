@@ -8,10 +8,12 @@ source_url: https://github.com/pydantic/logfire-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 161
+stars: 162
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-07-13T14:19:15Z"
 ---
 ## What it is
 MCP server `Logfire`, catalogued on PulseMCP. Enables AI systems to query and analyze OpenTelemetry traces and metrics through Logfire's API, providing tools for finding exceptions, investigating errors, and running custom SQL queries against observability data with automatic authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/marketplaceadpros/amazon-ads-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-21T06:33:00Z"
 ---
 ## What it is
 MCP server `Amazon Ads (MarketplaceAdPros)`, catalogued on PulseMCP. Integrates with MarketplaceAdPros' Amazon Advertising platform to access Sponsored Products, Sponsored Brands, and Sponsored Display campaign data, ad groups, keywords, and targeting information for advertising performance analysis and recommendations.

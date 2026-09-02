@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-18T21:47:38Z"
 ---
 ## What it is
 MCP server `Persistproc`, catalogued on PulseMCP. Provides persistent process management capabilities for multi-agent development workflows, enabling natural language control over long-running development processes like servers, build watchers, and background tasks with unified start/stop/restart operations, real-time output streaming, and robust cleanup handling.

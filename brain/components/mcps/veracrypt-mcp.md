@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:52:05Z"
 ---
 ## What it is
 MCP server for securely mounting and unmounting VeraCrypt containers, using OS keyring or stdin for passwords. Enables natural language control of encrypted volumes so clients can read and edit files once mounted.

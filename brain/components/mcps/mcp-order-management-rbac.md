@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:05:19Z"
 ---
 ## What it is
 MCP server that enforces role-based access control for order management, allowing users to view, refund, or delete orders based on their role (USER, MANAGER, ADMIN) with a JWT-authenticated FastAPI frontend.

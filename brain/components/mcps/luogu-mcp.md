@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T07:30:46Z"
 ---
 ## What it is
 Fetches and structures programming problem data from Luogu, enabling AI tools to query problem details such as title, difficulty, tags, samples, and limits.

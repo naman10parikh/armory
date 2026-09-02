@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-23T17:04:22Z"
 ---
 ## What it is
 MCP server `Discord Notification`, catalogued on PulseMCP. Sends messages directly to Discord channels through webhook integration for automated notifications, alerts, and updates.

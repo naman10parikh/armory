@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:39:52Z"
 ---
 ## What it is
 Enables to explore and analyze the Catalunya 2022 strategic plan document, including full-text search, section retrieval, and structured access to goals, actions, and contributor profiles in Catalan, English, and Spanish.

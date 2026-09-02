@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T10:35:16Z"
 ---
 ## What it is
 Enables AI agents to render website screenshots and PDFs, check page changes, and retrieve usage stats via REST calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T15:22:33Z"
 ---
 ## What it is
 An MCP server that enables parallel execution of shell commands and AI coding agents across lists of items, perfect for batch processing files and delegating complex tasks to multiple AI agents simultaneously.

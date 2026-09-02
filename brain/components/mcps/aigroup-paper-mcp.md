@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T03:55:32Z"
 ---
 ## What it is
 Academic paper search and retrieval MCP server integrating multiple scholarly platforms into a unified interface. Supports search, fetch, trend analysis, and literature review workflows.

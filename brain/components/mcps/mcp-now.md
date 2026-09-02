@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:20:53Z"
 ---
 ## What it is
 Provides tools to get the current date and time, with optional timezone support, designed for testing MCP compatibility.

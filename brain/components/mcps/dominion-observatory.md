@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-25T07:30:27Z"
 ---
 ## What it is
 MCP server `Dominion Observatory`, catalogued on PulseMCP. Behavioral trust layer for AI agents: trust scores, interaction reporting, and anomaly detection.

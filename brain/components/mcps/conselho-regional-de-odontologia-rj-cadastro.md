@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:54Z"
 ---
 ## What it is
 Provides a read-only MCP tool to query the official registry of the Regional Council of Dentistry of Rio de Janeiro via an MCP HTTP server.

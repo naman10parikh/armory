@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-11T19:27:41Z"
 ---
 ## What it is
 Enables AI agents to remotely access and interact with Obsidian vaults via MCP, supporting note operations, tag management, graph queries, and command execution.

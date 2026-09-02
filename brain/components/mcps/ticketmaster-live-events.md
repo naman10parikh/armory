@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-10T03:03:23Z"
 ---
 ## What it is
 MCP server `Ticketmaster Live Events`, catalogued on PulseMCP. Connects AI assistants to Ticketmaster's API for searching and discovering upcoming music events by location, date range, and keywords with detailed event information and ticket links.

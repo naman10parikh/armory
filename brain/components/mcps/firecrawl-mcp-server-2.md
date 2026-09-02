@@ -8,11 +8,13 @@ source_url: https://github.com/AmokOrg/firecrawl-mcp-server-1
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:32:52Z"
 ---
 ## What it is
 Integrates with Firecrawl for web scraping, enabling capabilities like scraping, crawling, searching, extracting, deep research, and batch scraping with JavaScript rendering and smart content filtering.

@@ -8,10 +8,12 @@ source_url: https://github.com/carloshpdoc/memorydetective
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T18:53:35Z"
 ---
 ## What it is
 MCP server `Memory Detective`, catalogued on PulseMCP. iOS memory leak detection and performance profiling via MCP — analyzes memgraph cycles, .trace files, and SourceKit-LSP for fix suggestions.

@@ -8,10 +8,12 @@ source_url: https://github.com/aibtcdev/aibtc-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2026-09-01T15:06:57Z"
 ---
 ## What it is
 MCP server `AIBTC`, catalogued on PulseMCP. Provides Bitcoin and Stacks blockchain tools including wallets, DeFi yield, sBTC peg operations, NFTs, and x402 payments.

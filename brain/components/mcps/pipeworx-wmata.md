@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:49:47Z"
 ---
 ## What it is
 MCP server `Pipeworx WMATA`, catalogued on PulseMCP. Washington Metro real-time and static rail and bus data via WMATA API through the Pipeworx gateway.

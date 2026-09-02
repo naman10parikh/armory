@@ -8,10 +8,12 @@ source_url: https://github.com/vinhphatfsg/rulemorph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T12:02:03Z"
 ---
 ## What it is
 MCP server `Transform Rules`, catalogued on PulseMCP. Transform CSV and JSON data using YAML-defined rules with expression support.

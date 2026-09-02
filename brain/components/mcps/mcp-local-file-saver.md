@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T17:34:31Z"
 ---
 ## What it is
 A Python-based MCP server for Claude Desktop that enables you to save, append, read, and list local text notes, including appending Claude's responses.

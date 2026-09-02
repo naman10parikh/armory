@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:35:31Z"
 ---
 ## What it is
 Enables AI agents to create, read, view, and edit Apple Numbers spreadsheets through the Model Context Protocol, leveraging both a parser engine and the Numbers application for formula evaluation and export.

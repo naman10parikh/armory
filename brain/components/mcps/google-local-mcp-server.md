@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T20:07:29Z"
 ---
 ## What it is
 Enables searching Google Local for businesses by keyword and location, returning details like name, address, phone, hours, ratings, and more. Useful for lead generation, local SEO, and market analysis.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:34:33Z"
 ---
 ## What it is
 MCP server `Copilot CLI Switch Gate`, catalogued on PulseMCP. Copilot CLI tool switch validation gate with structured receipts, audit logs, and reviewer-ready evidence.

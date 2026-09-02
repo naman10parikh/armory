@@ -8,10 +8,12 @@ source_url: https://github.com/posit-dev/mcp-repl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-27T12:56:19Z"
 ---
 ## What it is
 MCP server `Interactive Console`, catalogued on PulseMCP. Exposes a long-lived interactive REPL for R or Python with stateful execution, plot visualization, and OS-level sandboxing.

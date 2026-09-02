@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:54:01Z"
 ---
 ## What it is
 Verifica se um nome consta na lista de sanções financeiras do Reino Unido (HM Treasury), para diligência de compliance e AML.

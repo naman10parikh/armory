@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-07T01:05:03Z"
 ---
 ## What it is
 MCP server `FoodData Central`, catalogued on PulseMCP. Provides access to the USDA's FoodData Central database for searching foods and retrieving detailed nutritional information to support meal planning and dietary analysis.

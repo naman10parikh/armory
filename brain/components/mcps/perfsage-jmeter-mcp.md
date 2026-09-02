@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:03:36Z"
 ---
 ## What it is
 Enables LLM agents to run self-healing JMeter performance tests via natural language, from environment setup to capacity discovery and SLO verdict reporting.

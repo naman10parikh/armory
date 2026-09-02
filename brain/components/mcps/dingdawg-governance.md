@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-15T20:06:31Z"
 ---
 ## What it is
 MCP server `DingDawg Governance`, catalogued on PulseMCP. Universal governance layer for AI agents with audit proofs and rollback.

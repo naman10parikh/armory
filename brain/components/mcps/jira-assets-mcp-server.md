@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T11:46:55Z"
 ---
 ## What it is
 Provides read and write access to Atlassian Jira Assets (formerly Insight) via MCP, enabling AI clients to fetch objects, discover schemas, update fields, and apply bulk changes. Includes a review dashboard for bulk editing.

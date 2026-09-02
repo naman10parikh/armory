@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-30T05:54:12Z"
 ---
 ## What it is
 MCP server `GitHub PR Comments`, catalogued on PulseMCP. Integrates with GitHub's Pull Request system to fetch and analyze PR comments with their associated file paths, line ranges, and replies for seamless code review workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T02:12:38Z"
 ---
 ## What it is
 Provides comprehensive flight tracking capabilities using the OpenSky Network API, enabling real-time flight data, geographic searches, historical data, and airport operations through MCP tools.

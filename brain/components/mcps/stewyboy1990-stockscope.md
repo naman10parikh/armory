@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-11T15:22:31Z"
 ---
 ## What it is
 MCP server `StockScope`, catalogued on PulseMCP. SEC EDGAR-powered stock market data and financial intelligence for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T15:16:47Z"
 ---
 ## What it is
 Starter scaffold for a workshop to build an MCP API testing server, intended to be extended through incremental steps.

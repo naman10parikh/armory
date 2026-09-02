@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:41:51Z"
 ---
 ## What it is
 This MCP server enables querying Brazilian Federal Police criminal background certificates using a person's CPF and name. It is a read-only, pay-per-use service that works with any MCP client.

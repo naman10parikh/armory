@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:30:23Z"
 ---
 ## What it is
 MCP server `Dep Diff`, catalogued on PulseMCP. Translate a lockfile diff into a human-readable upgrade plan with breaking changes and CVE data for npm and PyPI.

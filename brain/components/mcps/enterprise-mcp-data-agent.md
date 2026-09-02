@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T05:41:40Z"
 ---
 ## What it is
 Enables secure, privacy-first SQL database interaction via natural language, using local LLM and PostgreSQL with dynamic tool-calling.

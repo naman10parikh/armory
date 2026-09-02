@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:52Z"
 ---
 ## What it is
 Enables autonomous agents to segment audiences, manage subscribers, and trigger Journey Builder workflows in Salesforce Marketing Cloud through natural language.

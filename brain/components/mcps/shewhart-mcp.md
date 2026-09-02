@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:25:33Z"
 ---
 ## What it is
 Enables AI agents to perform statistical process control calculations using validated, deterministic tools such as control charts, capability analysis, and tolerance intervals.

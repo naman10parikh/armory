@@ -8,11 +8,13 @@ source_url: https://github.com/AiAgentKarl/museum-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T19:56:47Z"
 ---
 ## What it is
 Enables AI agents to search and explore over 570,000 artworks from the Metropolitan Museum of Art and Art Institute of Chicago without needing an API key.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 29
+forks: 7
+pushed_at: "2026-08-20T20:13:28Z"
 ---
 ## What it is
 🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications with search phrases, users, and date filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T03:28:18Z"
 ---
 ## What it is
 Enables Claude Desktop to upload, transcribe, search, summarize, and chat with video content from TikTok, YouTube, and Instagram using the Memories.ai API.

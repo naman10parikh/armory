@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T14:01:15Z"
 ---
 ## What it is
 Hosted Amazon market-intelligence MCP for Claude and ChatGPT: query brands, sellers, ASINs, under-competed niches, the cross-seller operator network, observed buy-box history, and Amazon/Walmart cross-marketplace overlap. 65 read-only research tools over a pre-collected research dataset.

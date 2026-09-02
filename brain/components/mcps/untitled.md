@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-25T07:32:12Z"
 ---
 ## What it is
 根据关键词获取小红书的热帖数据，需要钉钉扫码登录，配合 Chrome 使用。

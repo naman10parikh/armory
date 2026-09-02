@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:56:03Z"
 ---
 ## What it is
 MCP server enabling AI assistants to create and edit Excalidraw diagrams as Obsidian-native .excalidraw.md files, with style presets, batch element creation, arrow binding, and an Obsidian selection bridge for localized edits.

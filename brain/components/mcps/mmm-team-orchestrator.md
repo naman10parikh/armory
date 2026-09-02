@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:37:38Z"
 ---
 ## What it is
 A minimal MCP server for file-based task management and multi-agent team orchestration, enabling creation, completion, and reassignment of tasks across teams.

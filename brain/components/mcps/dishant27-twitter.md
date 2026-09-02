@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-06T07:59:01Z"
 ---
 ## What it is
 MCP server `Twitter`, catalogued on PulseMCP. Integrates with Twitter's API to enable posting tweets, searching content, managing profiles, and handling follower relationships with robust error handling for rate limits and authentication issues.

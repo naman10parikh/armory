@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-06T17:44:11Z"
 ---
 ## What it is
 An MCP server running in the browser via WebAssembly, providing tools like getCurrentTime and add for streamable HTTP communication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-20T01:02:48Z"
 ---
 ## What it is
 Exposes ATTOM's real estate API as MCP tools, enabling property details, valuations, assessments, sales, and area data via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:52:30Z"
 ---
 ## What it is
 Search and retrieve FDA Structured Product Labels from DailyMed via NLM, supporting queries by drug name, NDC, RXCUI, and more.

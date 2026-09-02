@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T17:44:04Z"
 ---
 ## What it is
 Fetches and summarizes real financial news from NewsAPI, enabling search, headline retrieval, and source listing via MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T12:07:43Z"
 ---
 ## What it is
 Extracts text and images from PDFs and image files using the Mistral OCR API, with a security sandbox for file writes.

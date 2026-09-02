@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-11-08T05:09:54Z"
 ---
 ## What it is
 An MCP server that enables AI agents to create, read, edit, and manage Jupyter Notebook files programmatically, overcoming limitations in Cursor's native notebook support.

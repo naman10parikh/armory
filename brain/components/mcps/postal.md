@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-29T02:20:35Z"
 ---
 ## What it is
 MCP server `Postal`, catalogued on PulseMCP. Creates a persistent mailbox system enabling asynchronous message passing between agents through send_to_agent and check_mail tools backed by SQLite storage.

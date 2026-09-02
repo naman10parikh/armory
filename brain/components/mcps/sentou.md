@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T02:02:51Z"
 ---
 ## What it is
 Enables publishing and updating Claude artifacts or HTML to private, access-controlled links directly from Claude.

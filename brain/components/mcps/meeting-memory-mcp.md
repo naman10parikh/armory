@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:56:00Z"
 ---
 ## What it is
 A local-first MCP server that stores meeting transcripts and maintains a searchable markdown wiki of decisions, commitments, and contradictions, enabling Claude to recall context across meetings.

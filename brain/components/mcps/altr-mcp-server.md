@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T18:59:44Z"
 ---
 ## What it is
 Enables AI assistants to manage data security on the ALTR platform for Snowflake, Databricks, and OLTP databases, offering 99 tools across 10 domains including tag masking, policies, classification, and access governance.

@@ -8,10 +8,12 @@ source_url: https://github.com/major/porkbun-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-01T21:26:08Z"
 ---
 ## What it is
 MCP server `Porkbun DNS`, catalogued on PulseMCP. Manage DNS records, domains, DNSSEC, and SSL certificates through Porkbun's API.

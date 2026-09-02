@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T20:03:48Z"
 ---
 ## What it is
 Workspace-aware MCP server that provides AI clients with structural code understanding via AST parsing, hybrid retrieval, and git history, enabling accurate code search, definition lookup, and blame analysis.

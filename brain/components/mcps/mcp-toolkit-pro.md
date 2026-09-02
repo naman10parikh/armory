@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T18:44:33Z"
 ---
 ## What it is
 Enables AI agents to interact with GitHub (search repos, read files, issues, PRs), analyze code for quality and issues, and manage tasks with priority sorting.

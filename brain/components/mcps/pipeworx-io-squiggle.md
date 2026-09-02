@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:43:10Z"
 ---
 ## What it is
 MCP server `Squiggle AFL`, catalogued on PulseMCP. Retrieves AFL fixture, ladder, and tips data from the Squiggle prediction service.

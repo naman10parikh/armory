@@ -8,10 +8,12 @@ source_url: https://github.com/zahhar/zefix-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-03T06:07:22Z"
 ---
 ## What it is
 MCP server `Zefix (Swiss Business Registry)`, catalogued on PulseMCP. Searches the Swiss Central Business Name Index (Zefix) for company information, legal details, and change history.

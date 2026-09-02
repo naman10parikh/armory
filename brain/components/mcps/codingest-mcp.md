@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:54:49Z"
 ---
 ## What it is
 Serves a live code-graph workbench over stdio for MCP clients/agents, enabling Cypher queries and codebase analysis via KGLite tools.

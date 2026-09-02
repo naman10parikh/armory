@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T23:17:02Z"
 ---
 ## What it is
 Exposes LocalStack-managed AWS services as AI-agent tools, enabling LLMs and AI agents to interact with local AWS infrastructure during development and testing.

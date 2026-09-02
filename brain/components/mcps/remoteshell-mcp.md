@@ -8,11 +8,13 @@ source_url: https://github.com/chouzz/remoteShell-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T09:39:02Z"
 ---
 ## What it is
 A server that enables LLMs to securely manage and execute commands on remote SSH servers.

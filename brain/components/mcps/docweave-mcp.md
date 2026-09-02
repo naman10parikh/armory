@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T02:15:48Z"
 ---
 ## What it is
 Write and read PDF documents via MCP: generate PDFs from HTML, URLs, or templates, and extract text from PDFs with OCR support.

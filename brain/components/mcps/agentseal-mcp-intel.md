@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-20T15:12:13Z"
 ---
 ## What it is
 Enables users to scan MCP servers for security threats, check installed servers, and analyze config files for risks, all from AI assistants like Claude, Cursor, or Windsurf.

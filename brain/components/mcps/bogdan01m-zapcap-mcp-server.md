@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
 stars: 1
+forks: 4
+pushed_at: "2025-09-11T07:55:42Z"
 ---
 ## What it is
 MCP server for ZapCap API providing video caption and B-roll generation via natural language

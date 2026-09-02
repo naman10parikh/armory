@@ -8,10 +8,12 @@ source_url: https://github.com/ryancardin15/azuredevops-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-06-30T16:44:33Z"
 ---
 ## What it is
 MCP server `Azure DevOps`, catalogued on PulseMCP. Integrates with Azure DevOps services to manage work items, code repositories, boards, sprints, and projects using TypeScript and the Model Context Protocol SDK.

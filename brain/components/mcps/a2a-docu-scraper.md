@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, knowledge-research]
+forks: 0
+pushed_at: "2025-04-17T08:25:18Z"
 ---
 ## What it is
 Script that scrapes Google's A2A protocol documentation

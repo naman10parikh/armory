@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:51:31Z"
 ---
 ## What it is
 MCP server for the Get Canopy WordPress site, giving AI agents context over ACF blocks, content, Yoast SEO, menus, HubSpot tooling, and the running change journal.

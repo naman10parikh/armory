@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-10T10:50:43Z"
 ---
 ## What it is
 MCP server `Sticky Notes`, catalogued on PulseMCP. Enables creation, reading, and management of personal notes directly within conversations through a lightweight text-based storage system

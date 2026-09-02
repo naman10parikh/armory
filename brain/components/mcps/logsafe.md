@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T23:11:34Z"
 ---
 ## What it is
 Enables debugging by querying and tailing local log sessions via tools like list_sessions, query_events, and tail_session.

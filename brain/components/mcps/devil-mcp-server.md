@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T10:25:53Z"
 ---
 ## What it is
 An MCP server that provides programmatic access to devil hosting platform management tools, enabling AI assistants to manage websites, databases, DNS, SSL, email, and more via a secure REST API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T14:07:57Z"
 ---
 ## What it is
 MCP server `MCPDomain`, catalogued on PulseMCP. Buy and manage domains from any AI chat, with DNS, email forwarding, and crawler analytics.

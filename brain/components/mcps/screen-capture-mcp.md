@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-15T01:04:43Z"
 ---
 ## What it is
 An MCP server that enables Claude Code and other MCP clients to take screenshots of the full screen or specific windows, with support for repeated captures over intervals.

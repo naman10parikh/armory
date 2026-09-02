@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:20Z"
 ---
 ## What it is
 MCP server `Crates.io`, catalogued on PulseMCP. Rust package registry data via the Crates.io REST API v1, free with no authentication required.

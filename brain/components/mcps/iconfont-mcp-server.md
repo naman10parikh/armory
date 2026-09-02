@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T03:39:05Z"
 ---
 ## What it is
 Enables AI assistants to search and download SVG icons from iconfont.cn, with support for style filtering and automatic login.

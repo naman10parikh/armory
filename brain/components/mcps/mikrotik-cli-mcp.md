@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T08:33:39Z"
 ---
 ## What it is
 MCP server that sends CLI commands to MikroTik RouterOS via SSH. It allows executing any RouterOS CLI command and getting text output back.

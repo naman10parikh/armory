@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:45:07Z"
 ---
 ## What it is
 MCP server that enables AI signing agents to pre-flight transactions by checking ERC-7730 descriptor safety, explaining function semantics, and scanning contracts for danger primitives.

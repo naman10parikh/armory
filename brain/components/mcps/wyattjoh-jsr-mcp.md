@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 4
+forks: 2
+pushed_at: "2026-01-11T09:08:57Z"
 ---
 ## What it is
 Model Context Protocol server for the JSR (JavaScript Registry)

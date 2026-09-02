@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:27:54Z"
 ---
 ## What it is
 通用游戏叙事引擎 MCP，提供一致性校验、动态运行、Meta 伏笔、Playthrough 对比及 Ink/Yarn 导出等功能。

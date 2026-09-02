@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:15Z"
 ---
 ## What it is
 Enables AI agents to retrieve official vehicle licensing extracts from DETRAN CE via a hosted, read-only MCP server with prepaid credit usage.

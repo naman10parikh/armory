@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T19:43:38Z"
 ---
 ## What it is
 Enables weather queries through OpenWeatherMap API, providing current conditions, intelligent city search, and configuration validation.

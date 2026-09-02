@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-02-14T01:45:22Z"
 ---
 ## What it is
 MCP server `Qase`, catalogued on PulseMCP. Provides a TypeScript-based integration with the Qase test management platform, enabling interaction with test-related entities like projects, cases, runs, results, plans, suites, and shared steps through strong typing and Zod-validated API calls.

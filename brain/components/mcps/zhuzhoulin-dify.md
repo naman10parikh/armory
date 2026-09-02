@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-08T15:00:25Z"
 ---
 ## What it is
 MCP server `Dify`, catalogued on PulseMCP. Integrates with Dify's AI application platform, enabling seamless creation, management, and deployment of AI applications through TypeScript-based request handling and API bridging.

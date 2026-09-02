@@ -8,11 +8,13 @@ source_url: https://github.com/Baronco/GenFilesMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-08-18T04:43:09Z"
 ---
 ## What it is
 Generates PowerPoint, Excel, Word, and Markdown files from natural language requests and reviews Word documents with AI comments.

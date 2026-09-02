@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:54:24Z"
 ---
 ## What it is
 Gives AI agents access to the TopYappers API for discovering viral content, trending songs, influencers, and outreach agent email history.

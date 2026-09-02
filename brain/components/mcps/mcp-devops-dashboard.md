@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:48:22Z"
 ---
 ## What it is
 Monitors host CPU/RAM, local ports, and Docker containers, streaming live telemetry to a React dashboard over SSE. Exposes MCP tools to query system status, read environment logs, and execute remediation fixes via a local LLM agent.

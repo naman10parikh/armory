@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-25T08:57:10Z"
 ---
 ## What it is
 MCP server `Sefaria Jewish Library`, catalogued on PulseMCP. Integrates with Sefaria.org API to provide access to Hebrew and English Jewish texts, weekly Torah portions, and associated commentaries for religious study and scholarly research.

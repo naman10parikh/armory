@@ -8,10 +8,12 @@ source_url: https://github.com/igmarin/rails-agent-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-21T20:18:32Z"
 ---
 ## What it is
 MCP server `Rails Agent Skills`, catalogued on PulseMCP. Curated library of 42 Rails agent skills and 5 workflows enforcing test-driven development practices for AI coding assistants.

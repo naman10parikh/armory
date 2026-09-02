@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:37:53Z"
 ---
 ## What it is
 An MCP server for AI-driven hybrid search over Xilinx/AMD FPGA documentation, enabling assistants to retrieve datasheets, user guides, and application notes through tools like search_docs.

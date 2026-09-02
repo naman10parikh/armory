@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T04:33:58Z"
 ---
 ## What it is
 Enables interaction with Xero accounting API for financial reporting, sales analysis, grant tracking, and bill management using natural language.

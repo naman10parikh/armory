@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:43:22Z"
 ---
 ## What it is
 MCP server providing access to 1,324 exercises in 10 languages with animation GIFs, offering tools to list facets, search exercises, get exercise details, and build workouts.

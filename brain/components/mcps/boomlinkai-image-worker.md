@@ -8,10 +8,12 @@ source_url: https://github.com/boomlinkai/image-worker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-24T06:03:42Z"
 ---
 ## What it is
 MCP server `Image Worker`, catalogued on PulseMCP. Provides image processing and cloud storage capabilities through Sharp.js for resizing, transforming, and applying effects to images with seamless uploading to AWS S3, Cloudflare R2, or Google Cloud Storage.

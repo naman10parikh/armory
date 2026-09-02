@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-04T10:24:03Z"
 ---
 ## What it is
 MCP server `Create Server Scaffold`, catalogued on PulseMCP. Streamlines MCP server creation with a structured development protocol and example templates, offering an npx-invokable tool for efficient setup of server scaffolds.

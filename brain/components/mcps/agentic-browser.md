@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:20:51Z"
 ---
 ## What it is
 Enables agents to control a real Chromium browser with semantic tools, providing compact observations and outcome-verified actions for web interaction tasks.

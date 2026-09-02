@@ -8,10 +8,12 @@ source_url: https://github.com/winninghealth/medcalcmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-11T09:35:20Z"
 ---
 ## What it is
 MCP server `Medical Calculator`, catalogued on PulseMCP. Provides access to over 50 clinical calculation tools including cardiovascular risk assessment, kidney function evaluation, critical care scoring, and metabolic calculations with proper validation and error handling for healthcare applications requiring reliable medical decision support.

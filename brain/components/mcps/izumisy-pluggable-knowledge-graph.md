@@ -8,10 +8,12 @@ source_url: https://github.com/izumisy/mcp-duckdb-memory-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-04-07T03:25:15Z"
 ---
 ## What it is
 MCP server `Pluggable Knowledge Graph Memory`, catalogued on PulseMCP. Provides a pluggable knowledge graph memory server for flexible storage and retrieval within compatible systems, offering enhanced customization through TypeScript-based architecture.

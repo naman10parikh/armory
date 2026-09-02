@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T01:27:59Z"
 ---
 ## What it is
 An MCP server that gives an LLM agent a typed, audited tool surface over quant crypto-options desk analytics: gamma exposure, vanna, skew, vol surface, options flow, technicals, portfolio greeks, scenario analysis, and live positions.

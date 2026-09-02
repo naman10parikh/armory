@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-17T09:34:01Z"
 ---
 ## What it is
 Enables WordPress content management via the Model Context Protocol, allowing creation, update, search, and retrieval of posts, as well as fetching block type schemas for generating block-based content.

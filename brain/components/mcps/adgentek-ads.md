@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T09:01:53Z"
 ---
 ## What it is
 MCP server `Adgentek Ads`, catalogued on PulseMCP. Monetize AI chatbots and agents with conversational ads via Adgentek's MCP-native ad server.

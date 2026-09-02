@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T19:57:28Z"
 ---
 ## What it is
 A production-ready MCP server providing comprehensive integration with Google Threat Intelligence and VirusTotal API v3, enabling AI agents to access threat intelligence data including IoCs, malware analysis, and network telemetry.

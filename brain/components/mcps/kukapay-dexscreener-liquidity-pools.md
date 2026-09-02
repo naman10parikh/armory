@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-09T08:26:08Z"
 ---
 ## What it is
 MCP server `DexScreener`, catalogued on PulseMCP. Integrates with DexScreener API to track and analyze DEX liquidity pools across blockchain networks, providing real-time pool data including prices, volumes, liquidity amounts, and market capitalizations for DeFi trading strategies and automated trading bots.

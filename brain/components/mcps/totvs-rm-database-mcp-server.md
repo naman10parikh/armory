@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T21:14:33Z"
 ---
 ## What it is
 Provides a standardized MCP interface to query and interact with TOTVS RM databases over HTTP, secured via API key.

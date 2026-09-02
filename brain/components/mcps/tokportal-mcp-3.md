@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:27:26Z"
 ---
 ## What it is
 Official MCP server for the TokPortal API, exposing 91 tools to create bundles, upload and publish videos, configure accounts, read analytics, and manage webhooks for real TikTok, Instagram, and YouTube accounts in any MCP client.

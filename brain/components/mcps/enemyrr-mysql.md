@@ -8,10 +8,12 @@ source_url: https://github.com/enemyrr/mcp-mysql-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-01-12T09:25:47Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Integrates with MySQL databases to enable secure query execution, schema management, and CRUD operations for structured data access and manipulation

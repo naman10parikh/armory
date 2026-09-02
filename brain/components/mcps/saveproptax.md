@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:12:37Z"
 ---
 ## What it is
 Allows agents to check and file California Prop 8 property tax reduction in an automated way

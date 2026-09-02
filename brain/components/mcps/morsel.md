@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:19:13Z"
 ---
 ## What it is
 Enables logging food meals by letting AI assistants analyze food photos and write structured meal data via MCP tools to a shared store, which can then be viewed in a dashboard.

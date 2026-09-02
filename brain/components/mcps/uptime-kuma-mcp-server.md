@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-08T11:14:04Z"
 ---
 ## What it is
 Enables managing Uptime Kuma monitors via MCP protocol, supporting batch add, list, and delete operations.

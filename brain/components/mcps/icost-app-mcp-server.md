@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-13T06:22:36Z"
 ---
 ## What it is
 MCP server for iCost iOS app that enables smart expense tracking, category management, and account operations through natural language, supporting multiple account types and currencies.

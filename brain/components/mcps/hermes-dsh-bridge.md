@@ -8,11 +8,13 @@ source_url: https://github.com/Emilia-awa/hermes-dsh-bridge
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T22:55:13Z"
 ---
 ## What it is
 Enables external MCP clients to drive DeepSeek Harness agents for real coding tasks, providing tools for task execution and queueing, session management, sandboxed file access, preset switching, and usage statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:51:57Z"
 ---
 ## What it is
 Enables LLMs to perform software composition analysis including license detection, vulnerability assessment, SBOM generation, and policy validation using the SEMCL.ONE toolchain.

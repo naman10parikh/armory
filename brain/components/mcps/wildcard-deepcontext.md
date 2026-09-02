@@ -8,10 +8,12 @@ source_url: https://github.com/wildcard-official/deepcontext-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 277
+stars: 276
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-09-22T23:35:55Z"
 ---
 ## What it is
 MCP server `DeepContext (Semantic Code Search)`, catalogued on PulseMCP. Symbol-aware semantic search for large codebases

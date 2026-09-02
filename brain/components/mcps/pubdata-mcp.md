@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:09:43Z"
 ---
 ## What it is
 Enables querying Korean public datasets (apartment prices, weather, air quality) via natural language using an MCP server and local LLM agent.

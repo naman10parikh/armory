@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:36:42Z"
 ---
 ## What it is
 A read-only MCP server that connects ChatGPT/Codex to LINE Desktop's local encrypted database to provide private conversation advice without sending messages.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T04:10:41Z"
 ---
 ## What it is
 MCP server `Kafka DataOps`, catalogued on PulseMCP. DataOps-focused Kafka monitoring with consumer lag diagnosis based on real operational experience.

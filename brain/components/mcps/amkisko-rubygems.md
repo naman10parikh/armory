@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T09:29:51Z"
 ---
 ## What it is
 MCP server `RubyGems`, catalogued on PulseMCP. Provides comprehensive Ruby ecosystem information including gem versions, changelogs, download statistics, reverse dependencies, and Ruby release data through RubyGems.org and GitHub APIs with intelligent caching and pagination for development workflow optimization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:27:54Z"
 ---
 ## What it is
 MCP server for Claude Desktop that exposes App Store Connect and RevenueCat APIs, enabling indie iOS developers to query portfolio metrics, sales reports, subscriptions, and customer reviews directly in chat.

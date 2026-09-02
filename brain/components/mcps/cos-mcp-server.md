@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T23:53:57Z"
 ---
 ## What it is
 Enables container orchestration on the local Docker daemon, allowing management of jobs and services via MCP tools.

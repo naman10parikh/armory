@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T20:03:24Z"
 ---
 ## What it is
 Enables conversion of files, HTML, and Markdown to PDF through natural language, using the FileToPDF API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:02:32Z"
 ---
 ## What it is
 Enables MCP clients to look up Bible verses, perform semantic search, and access original-language word study through a local Concord instance, providing accurate citations and honesty about uncertainty.

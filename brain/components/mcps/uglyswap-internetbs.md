@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T03:05:37Z"
 ---
 ## What it is
 MCP server `Internet.bs`, catalogued on PulseMCP. Manage domains, DNS records, transfers, and account settings through the Internet.bs domain registrar API.

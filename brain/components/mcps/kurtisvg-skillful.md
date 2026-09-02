@@ -12,6 +12,8 @@ stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-13T16:57:52Z"
 ---
 ## What it is
 MCP server `Skillful`, catalogued on PulseMCP. Go MCP middleware aggregating multiple downstream MCP servers into unified Skills for progressive tool disclosure.

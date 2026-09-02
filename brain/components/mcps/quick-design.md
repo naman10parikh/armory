@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:57:34Z"
 ---
 ## What it is
 An MCP server that generates professional design artifacts (HTML, PDF, PPTX) in seconds, powered by 150 design systems and 270+ skills.

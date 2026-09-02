@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:31:51Z"
 ---
 ## What it is
 A standalone MCP server plus admin GUI for Couchbase Enterprise Analytics and Couchbase Capella Analytics, exposing 55 well-typed, audited tools for query execution, schema introspection, and cluster management.

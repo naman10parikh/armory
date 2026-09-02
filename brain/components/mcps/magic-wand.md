@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:52:48Z"
 ---
 ## What it is
 Enables AI agents to interactively remove image backgrounds using a Paint.NET-style magic wand tool with live visual feedback and precision helpers.

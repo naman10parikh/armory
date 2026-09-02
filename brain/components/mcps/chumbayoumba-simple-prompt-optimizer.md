@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-18T03:54:48Z"
 ---
 ## What it is
 MCP server `Simple Prompt Optimizer`, catalogued on PulseMCP. Transforms user prompts into optimized versions using the CO-STAR framework with instant improvement and deep critique-and-refine modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T04:50:52Z"
 ---
 ## What it is
 A read-only MCP server that verifies public GitHub commits against static contracts and returns signed receipts, supporting only exact lowercase 40-character commit SHAs.

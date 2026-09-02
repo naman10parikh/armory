@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-08T13:58:18Z"
 ---
 ## What it is
 Analyses your published writing from a sitemap, extracts a corpus, and generates a Claude Skill so Claude writes in your voice.

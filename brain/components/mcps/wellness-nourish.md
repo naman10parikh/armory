@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T10:35:53Z"
 ---
 ## What it is
 A local-first nutrition MCP server for food search, barcode lookup, meal estimation, intake logging, hydration, and nutrition coaching workflows.

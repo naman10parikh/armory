@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T11:27:07Z"
 ---
 ## What it is
 Provides fast, token-efficient search over coding agent documentation (e.g., Claude Code, Cursor) using local SQLite FTS5 indexing, with tools for searching snippets, reading pages, and grepping markdown.

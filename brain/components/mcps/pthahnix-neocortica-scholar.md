@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T13:05:31Z"
 ---
 ## What it is
 MCP server `Neocortica Scholar`, catalogued on PulseMCP. Academic paper searching, fetching, reading, and reference exploration across arXiv, Semantic Scholar, and Unpaywall with full-text markdown conversion and AI-powered three-pass analysis.

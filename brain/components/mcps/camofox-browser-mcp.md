@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T04:01:39Z"
 ---
 ## What it is
 MCP server for controlling a local camofox-browser instance, enabling LLM agents to perform web automation tasks such as navigation, interaction, snapshotting, and content extraction.

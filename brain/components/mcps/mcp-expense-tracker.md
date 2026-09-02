@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:01:42Z"
 ---
 ## What it is
 Enables tracking personal expenses by adding, listing, deleting, and summarizing expenses by day or month, stored locally in a JSON file.

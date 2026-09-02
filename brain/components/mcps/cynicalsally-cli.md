@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-07-04T13:31:57Z"
 ---
 ## What it is
 Provides brutally honest code reviews, explanations, and refactoring suggestions via CLI and MCP tools.

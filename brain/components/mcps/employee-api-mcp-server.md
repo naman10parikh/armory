@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:57:54Z"
 ---
 ## What it is
 MCP server for querying employee data via tools like get_employees and get_employee_by_id. Serves as a proof-of-concept for integrating Pega applications with AI agents.

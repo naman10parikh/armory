@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:18:06Z"
 ---
 ## What it is
 MCP server for robust browser automation of legacy web portals, featuring exactly-once execution via an SQLite-backed idempotency lock and resilient Playwright locators.

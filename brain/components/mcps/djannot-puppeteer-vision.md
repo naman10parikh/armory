@@ -12,6 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-02-10T16:06:38Z"
 ---
 ## What it is
 MCP server `Puppeteer Vision Web Scraper`, catalogued on PulseMCP. Automates web scraping by intelligently handling cookie banners, CAPTCHAs, and paywalls to extract clean markdown content from websites

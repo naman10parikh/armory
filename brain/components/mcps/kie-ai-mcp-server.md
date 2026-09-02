@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-29T16:30:09Z"
 ---
 ## What it is
 Universal MCP server for all Kie AI image generation and editing models, enabling text-to-image, image-to-image, and image editing via natural language.

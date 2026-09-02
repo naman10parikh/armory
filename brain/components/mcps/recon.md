@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:50:42Z"
 ---
 ## What it is
 Enables multi-source research with YouTube, papers, and podcasts, scoring for substance and credibility, and creating NotebookLM notebooks with knowledge graph and feedback loop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:25:38Z"
 ---
 ## What it is
 A self-hosted WhatsApp bridge that exposes a stdio MCP server with ~20 tools for reading conversations, sending messages, managing groups, contacts, and aliases, enabling AI agents to operate WhatsApp directly.

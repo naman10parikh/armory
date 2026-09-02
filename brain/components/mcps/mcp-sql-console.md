@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:57:43Z"
 ---
 ## What it is
 Enables querying Microsoft SQL Server databases using natural language or predefined SQL, with read-only safety. Integrates with Cursor and Claude Desktop for database exploration and management.

@@ -8,10 +8,12 @@ source_url: https://github.com/never00miss/allan-mcp-memory-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-15T15:16:05Z"
 ---
 ## What it is
 MCP server `Allan Memory`, catalogued on PulseMCP. Persistent knowledge graph memory for AI coding assistants using FalkorDB, with optional offline mode via local Ollama models.

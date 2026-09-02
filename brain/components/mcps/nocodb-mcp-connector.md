@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:08:43Z"
 ---
 ## What it is
 MCP server that exposes NocoDB bases, tables, records, and linked records as tools, enabling Claude to read/write NocoDB data. Supports both stdio and HTTP for local and cloud deployments.

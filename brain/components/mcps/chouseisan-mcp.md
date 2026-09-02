@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:31:35Z"
 ---
 ## What it is
 MCP server to read and write events on chouseisan.com (Chouseisan), a Japanese scheduling tool, using unofficial HTTP protocol. Enables creating events, fetching schedules, and managing responses via AI agents or CLI.

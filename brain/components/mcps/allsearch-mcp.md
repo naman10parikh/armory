@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T09:11:12Z"
 ---
 ## What it is
 A Grok-first multi-source search MCP for AI agents that integrates Grok, Tavily, AnySearch, and Firecrawl to provide unified search results, cross-verification, and web content fetching.

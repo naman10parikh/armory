@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-20T18:58:22Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides standardized access to OVH API services, enabling AI assistants to manage OVH cloud infrastructure.

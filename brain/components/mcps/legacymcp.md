@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:47:05Z"
 ---
 ## What it is
 MCP server that enables AI-powered assessment of Active Directory on-premises environments by exposing AD data as queryable tools for LLMs like Claude.

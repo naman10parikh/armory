@@ -8,10 +8,12 @@ source_url: https://github.com/non-dirty/mcp-server-restart
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-02T05:08:38Z"
 ---
 ## What it is
 MCP server `Claude Desktop Restart`, catalogued on PulseMCP. Enables automated restarts of Claude Desktop on macOS by leveraging psutil to safely terminate and relaunch the application process.

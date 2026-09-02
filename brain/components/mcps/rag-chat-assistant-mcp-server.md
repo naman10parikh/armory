@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:41:40Z"
 ---
 ## What it is
 Enables document Q&A and knowledge retrieval through hybrid semantic and keyword search, with tools for document ingestion, chunking, summarization, PII redaction, and RAGAS-based evaluation.

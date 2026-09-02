@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T07:09:35Z"
 ---
 ## What it is
 Enables local npm supply-chain inspection through tools for repository scanning, SBOM generation, dependency audit, and evidence reporting. Uses deterministic mock data and does not query live APIs.

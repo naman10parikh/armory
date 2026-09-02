@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:58:51Z"
 ---
 ## What it is
 Enables agents to view moomoo market data, run the Bull Milker stock screener, and assess portfolio risk/exposure without placing orders. Also offers optional gated order execution and quarterly tax summaries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T12:50:06Z"
 ---
 ## What it is
 Provides current weather information for any location and generates AI-powered responses using Google Gemini through FastMCP.

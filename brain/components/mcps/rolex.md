@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-25T03:40:51Z"
 ---
 ## What it is
 Provides AI agents with persistent identity, social organization, and experience-based growth, modeled on human societies, via MCP tools for goal management, learning, and resource sharing.

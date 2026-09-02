@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 2
+pushed_at: "2026-01-31T17:31:17Z"
 ---
 ## What it is
 AI agent economic settlement. Verify receipts, emit meters (FREE). Net settlements, credit lines, audit-grade balance sheets (PAID/402).

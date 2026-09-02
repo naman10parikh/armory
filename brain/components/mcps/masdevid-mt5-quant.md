@@ -8,10 +8,12 @@ source_url: https://github.com/masdevid/mt5-quant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-26T12:15:19Z"
 ---
 ## What it is
 MCP server `MT5 Quant`, catalogued on PulseMCP. Compile, backtest, and analyze MetaTrader 5 Expert Advisors on macOS and Linux via MCP.

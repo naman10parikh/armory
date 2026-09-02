@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-14T07:33:23Z"
 ---
 ## What it is
 MCP server `EigenLayer AVS Explorer`, catalogued on PulseMCP. Integrates with EigenLayer's API to provide detailed information about Active Validator Services (AVS) through a single tool that retrieves and analyzes validator data for users exploring the decentralized validation ecosystem.

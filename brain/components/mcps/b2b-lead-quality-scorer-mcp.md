@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:22:24Z"
 ---
 ## What it is
 Validates email deliverability, assesses domain credibility, and scores B2B leads from A-F to help prioritize outreach, with batch processing and a free tier.

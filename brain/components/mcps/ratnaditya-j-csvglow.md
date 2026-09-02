@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-visualization]
 stars: 13
+forks: 0
+pushed_at: "2026-03-20T20:26:34Z"
 ---
 ## What it is
 Generate beautiful self-contained HTML dashboards from CSV/Excel files with interactive ECharts visualizations, dark gradient theme, and sortable data tables.

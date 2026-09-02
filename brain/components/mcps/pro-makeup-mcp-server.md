@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T10:14:20Z"
 ---
 ## What it is
 Enables searching and retrieving information about makeup professionals, schools, and shops from the pro.makeup directory with over 214,000 listings across 100+ countries.

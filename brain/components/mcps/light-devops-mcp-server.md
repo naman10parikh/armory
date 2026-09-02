@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:26:48Z"
 ---
 ## What it is
 Enables AI agents to query build/deploy status and request operations on a self-hosted Docker/Compose deployment platform, with Observer and Operator skills and approval-based write actions.

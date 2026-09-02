@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-21T15:39:54Z"
 ---
 ## What it is
 MCP server `Neural Memory`, catalogued on PulseMCP. Transforms developer interactions into a Neo4j knowledge graph using Gemini to extract goals, constraints, and preferences, enabling persistent project memory and context-aware retrieval across coding sessions.

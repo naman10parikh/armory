@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:06:57Z"
 ---
 ## What it is
 Enables read-only access to SQLite databases via MCP, with tools for browsing tables, schemas, and executing SELECT queries securely.

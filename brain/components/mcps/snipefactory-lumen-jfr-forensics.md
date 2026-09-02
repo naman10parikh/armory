@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-08T10:19:03Z"
 ---
 ## What it is
 MCP server `Lumen JFR Forensics`, catalogued on PulseMCP. JVM Flight Recorder forensic analysis engine providing exception tracing, slow SQL detection, network I/O profiling, CPU hotspot identification, and memory analysis for AI agents.

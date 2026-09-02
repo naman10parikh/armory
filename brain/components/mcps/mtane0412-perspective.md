@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-07T11:40:15Z"
 ---
 ## What it is
 MCP server `Perspective API`, catalogued on PulseMCP. Integrates with Perspective API to analyze text toxicity and provide content moderation across multiple languages for enhanced online safety.

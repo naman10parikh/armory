@@ -8,10 +8,12 @@ source_url: https://github.com/augmnt/augments-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 122
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-03-13T00:35:42Z"
 ---
 ## What it is
 MCP server `Augments`, catalogued on PulseMCP. Real-time framework documentation provider for 90+ frameworks

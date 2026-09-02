@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:48:03Z"
 ---
 ## What it is
 A universal MCP gateway that aggregates multiple MCP servers into a single endpoint, providing features like hot-reload, auto-healing, and a hook system for request/response mutation.

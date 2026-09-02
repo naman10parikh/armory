@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:51:52Z"
 ---
 ## What it is
 An MCP server that provides a search_docs tool with hybrid retrieval (BM25 + dense vectors) and cross-encoder reranking, backed by evaluation, prompt-injection guardrails, and OpenTelemetry tracing.

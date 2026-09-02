@@ -8,11 +8,13 @@ source_url: https://github.com/seldonframe/reelier
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T04:36:18Z"
 ---
 ## What it is
 Record an agent's MCP tool-call workflow once, replay it deterministically for zero tokens, and get a receipt — a snapshot-testing and deterministic-execution layer for Agent Skills.

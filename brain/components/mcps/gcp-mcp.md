@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-22T19:01:46Z"
 ---
 ## What it is
 Enables managing Google Cloud Platform (GCP) resources through natural language commands, including compute instances, storage, databases, and monitoring.

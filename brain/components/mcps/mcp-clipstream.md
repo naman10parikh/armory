@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T20:14:32Z"
 ---
 ## What it is
 Captures copyable text from Claude Code terminal output before it's mangled by ANSI codes or line breaks, providing a clean clipboard buffer through a TUI.

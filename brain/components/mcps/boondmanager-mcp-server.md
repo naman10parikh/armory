@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-09-01T15:25:45Z"
 ---
 ## What it is
 MCP server for the BoondManager API, enabling Claude to search, create, and modify records across 36 domains with 158 tools.

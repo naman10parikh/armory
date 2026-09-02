@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:23:56Z"
 ---
 ## What it is
 A Cocos Creator 3.8 editor extension that exposes scene, node, component, prefab, preview, build, asset, and debug operations as MCP tools for AI clients like Codex and Claude Code.

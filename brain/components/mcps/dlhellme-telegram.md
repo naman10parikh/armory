@@ -8,10 +8,12 @@ source_url: https://github.com/dlhellme/telegram-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-03T11:49:53Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Integrates with Telegram channels and groups through web scraping and official API to extract posts, channel information, and perform searches with date filtering, authentication management, and automatic content formatting.

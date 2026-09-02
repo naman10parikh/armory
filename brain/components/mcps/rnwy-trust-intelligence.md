@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T14:37:29Z"
 ---
 ## What it is
 MCP server `RNWY Trust Intelligence`, catalogued on PulseMCP. Trust scoring and Sybil detection for AI agents, with signed attestations across 150,000+ agents on 12 blockchains.

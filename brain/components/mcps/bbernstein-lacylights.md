@@ -8,10 +8,12 @@ source_url: https://github.com/bbernstein/lacylights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-01T07:44:33Z"
 ---
 ## What it is
 MCP server `LacyLights`, catalogued on PulseMCP. Integrates with LacyLights theatrical lighting systems to automate DMX fixture management, generate lighting designs from script analysis, and create cue sequences with intelligent color mixing and timing optimization.

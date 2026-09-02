@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:32:35Z"
 ---
 ## What it is
 Enables natural language access to Redfin real estate data, including property search, details, photos, market reports, price history, climate risk, and saved homes/searches, by routing requests through your own signed-in browser session.

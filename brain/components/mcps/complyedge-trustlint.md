@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:58:09Z"
 ---
 ## What it is
 Offline MCP server that checks and scans your own AI prompts and outputs against a local compliance rule corpus. Returns rule ID, severity, citation, and remediation per finding — no API key, Apache 2.0.

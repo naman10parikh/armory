@@ -8,10 +8,12 @@ source_url: https://github.com/zcaceres/fetch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 764
+stars: 819
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 123
+pushed_at: "2026-03-12T17:17:24Z"
 ---
 ## What it is
 MCP server `Fetch`, catalogued on PulseMCP. Fetches and transforms web content into various formats.

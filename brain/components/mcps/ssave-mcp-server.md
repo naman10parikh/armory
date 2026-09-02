@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:49:33Z"
 ---
 ## What it is
 MCP server that extracts and downloads TikTok, Instagram, YouTube, and Douyin media (HD video, MP3) directly to local disk via the Ssave Open API.

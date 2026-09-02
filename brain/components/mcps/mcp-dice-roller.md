@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T22:50:27Z"
 ---
 ## What it is
 Enables rolling of standard RPG dice (d4, d6, d8, d10, d12, d20, d100, etc.) using dice notation like '3d6' or 'd20', and returns detailed results including individual rolls and totals.

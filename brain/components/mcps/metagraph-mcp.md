@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:27:50Z"
 ---
 ## What it is
 Enables enterprise AI agents to query governed data lineage, PII-aware schema documentation, and semantic metadata from SQL logs via MCP, with role-based access and vector search.

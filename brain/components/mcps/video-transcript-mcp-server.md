@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:52:21Z"
 ---
 ## What it is
 Enables transcription of videos and audio from 1000+ platforms (YouTube, Bilibili, TikTok, etc.) using subtitle extraction first, then local Whisper transcription, with support for long videos, async tasks, and Chinese ASR optimization.

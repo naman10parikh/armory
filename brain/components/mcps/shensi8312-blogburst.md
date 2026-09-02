@@ -8,10 +8,12 @@ source_url: https://github.com/shensi8312/blogburst-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-31T10:34:51Z"
 ---
 ## What it is
 MCP server `BlogBurst`, catalogued on PulseMCP. Autonomous AI social media marketing agent for content generation, auto-pilot publishing, and analytics across 9 platforms.

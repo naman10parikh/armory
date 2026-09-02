@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T03:49:38Z"
 ---
 ## What it is
 Enables semantic search over local knowledge bases like Obsidian notes, SQLite, and plaintext files, exposing results to Claude via MCP server.

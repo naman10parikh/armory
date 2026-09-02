@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 4
+forks: 2
+pushed_at: "2025-11-10T09:30:37Z"
 ---
 ## What it is
 MCP server for function signature lookups.

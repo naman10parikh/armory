@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:20:26Z"
 ---
 ## What it is
 MCP server for AI-powered image, audio, and video generation, enabling media creation directly from Claude, Cursor, and other MCP clients.

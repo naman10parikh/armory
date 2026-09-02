@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:23:22Z"
 ---
 ## What it is
 MCP server for developing Quickshell widgets that lets AI agents render individual widgets to PNG previews offscreen, without screen capture or affecting the live shell.

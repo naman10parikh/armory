@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:46:12Z"
 ---
 ## What it is
 Provides AI agents with access to real, verifiable businesses with provenance and source URLs, enabling natural-language business search and profile retrieval.

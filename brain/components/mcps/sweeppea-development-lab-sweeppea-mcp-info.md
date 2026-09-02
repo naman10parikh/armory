@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
 stars: 2
+forks: 0
+pushed_at: "2026-08-08T23:47:12Z"
 ---
 ## What it is
 Sweepstakes management platform with 70 MCP tools for legally compliant promotions in the US and Canada. Manage participants, official rules, winner drawings, entry pages, billing, and more. Requires a [Sweeppea](https://www.sweeppea.com/) subscription.

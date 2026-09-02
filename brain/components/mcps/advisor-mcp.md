@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:59:11Z"
 ---
 ## What it is
 Provides Claude Code with an asynchronous expert advisory service via kimi CLI, maintaining conversation-level memory and automatically binding to kimi sessions for cost-effective guidance at key checkpoints.

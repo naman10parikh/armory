@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:10:48Z"
 ---
 ## What it is
 Exposes Microsoft Fabric operations as MCP tools, with 105 tools across 17 domains including lakehouses, warehouses, notebooks, pipelines, and real-time analytics, handling long-running operations and supporting multiple authentication modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T02:56:50Z"
 ---
 ## What it is
 Exposes any IMAP mailbox and SMTP relay as MCP tools, enabling email management (read, search, send, delete) through MCP-compatible agents.

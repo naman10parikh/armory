@@ -8,10 +8,12 @@ source_url: https://github.com/tcconnally/perseus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-01T21:10:31Z"
 ---
 ## What it is
 MCP server `Perseus`, catalogued on PulseMCP. Compile-before-context engine that pre-resolves workspace state into markdown before the AI sees it.

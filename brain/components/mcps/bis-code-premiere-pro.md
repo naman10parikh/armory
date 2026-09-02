@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T19:30:34Z"
 ---
 ## What it is
 MCP server `Premiere Pro (bis-code)`, catalogued on PulseMCP. Controls Adobe Premiere Pro through CEP plugin bridge with 269 tools covering ExtendScript and QE DOM APIs for timeline editing, effects, keyframes, export, and professional video workflows.

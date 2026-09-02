@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T05:57:46Z"
 ---
 ## What it is
 An MCP server for the iNavi Maps API that gives AI assistants iNavi Maps API specifications and ready-to-use HTML templates for interactive map visualizations (geocoding, POI search, route planning).

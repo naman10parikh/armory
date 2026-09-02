@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T03:54:03Z"
 ---
 ## What it is
 Enables AI tools to interact with constraint theory tools for pitch snapping, music generation, diagnostic analysis, and audio rendering through the Model Context Protocol.

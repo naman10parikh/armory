@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-11T03:17:18Z"
 ---
 ## What it is
 MCP server `Qiita`, catalogued on PulseMCP. Integrates with Qiita's API to enable full CRUD operations for articles, user management, tag following, stock/bookmark functionality, and comment management within Japan's largest technical knowledge sharing platform.

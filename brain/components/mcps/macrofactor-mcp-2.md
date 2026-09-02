@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:51:41Z"
 ---
 ## What it is
 MacroFactor MCP is a local Fueling & Recovery Decision Engine. Give your MCP client a MacroFactor export, optionally add Garmin, and ask for a decision instead of manually comparing nutrition, sleep, body, and training screens.

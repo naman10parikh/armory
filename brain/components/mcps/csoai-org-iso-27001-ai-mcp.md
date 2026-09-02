@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T18:33:47Z"
 ---
 ## What it is
 MCP server `ISO 27001 AI`, catalogued on PulseMCP. Python MCP server for ISO 27001 information security compliance guidance.

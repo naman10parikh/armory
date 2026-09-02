@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:13:04Z"
 ---
 ## What it is
 Signal-first Bitcoin intelligence over MCP — sovereign adoption, hiring velocity, and network hashrate as leading, non-price signals with strength, direction, rationale, and primary sources. Information, not financial advice.

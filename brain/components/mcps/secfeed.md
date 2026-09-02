@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:30:19Z"
 ---
 ## What it is
 Aggregates security intelligence feeds (vulnerabilities, news, threat intel) into a local SQLite database and provides MCP tools for AI agents to query and analyze them.

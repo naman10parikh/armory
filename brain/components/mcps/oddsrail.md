@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:40:28Z"
 ---
 ## What it is
 Enables MCP-compatible AI agents to research and trade prediction markets on Polymarket and Kalshi, including market search, orderbooks, price history, positions, order routing, and on-chain builder-code attribution, plus overshoot and dispute-risk signals.

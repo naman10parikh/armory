@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:31:36Z"
 ---
 ## What it is
 MCP server deployed on Cloudflare Worker that provides AI with image understanding via the describe_image tool, plus an Apple-style model status dashboard.

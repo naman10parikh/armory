@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:18:29Z"
 ---
 ## What it is
 MCP server `L2BEAT`, catalogued on PulseMCP. Query L2BEAT for Ethereum Layer 2 analytics including TVL, risk assessments, bridge data, and protocol summaries.

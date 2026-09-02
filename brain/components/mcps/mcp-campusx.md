@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:14:20Z"
 ---
 ## What it is
 A learning project that demonstrates building MCP servers with FastMCP, featuring a demo server with basic tools (dice rolling, addition) and a full-featured expense tracker with SQLite persistence, hierarchical categories, CRUD operations, and expense summarization.

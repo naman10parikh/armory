@@ -8,10 +8,12 @@ source_url: https://github.com/xuan-boms/soildworks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T17:18:19Z"
 ---
 ## What it is
 MCP server `SolidWorks`, catalogued on PulseMCP. MCP server for SolidWorks CAD automation via COM bridge, enabling AI-assisted part creation, sketching, extrusions, and model operations.

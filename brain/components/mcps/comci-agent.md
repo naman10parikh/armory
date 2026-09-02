@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:25:15Z"
 ---
 ## What it is
 MCP server that reads Korean school class and teacher timetables from Comci's public schedules, detects schedule changes, and exposes structured data via CLI, local REST, and MCP stdio.

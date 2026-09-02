@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:49:12Z"
 ---
 ## What it is
 Two MCP servers (knowledge base and journal) enabling AI agents to persistently store, search, and recall knowledge and reflections with multilingual semantic search.

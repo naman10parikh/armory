@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:29Z"
 ---
 ## What it is
 Consulta a Certidão Negativa de Débitos da SEFAZ do Pará em fonte oficial, com ferramenta de leitura para agentes de IA.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:42:46Z"
 ---
 ## What it is
 This MCP server provides read-only access to a single allowed local directory through a secure HTTP gateway, enabling remote MCP clients to read files without syncing them to cloud storage.

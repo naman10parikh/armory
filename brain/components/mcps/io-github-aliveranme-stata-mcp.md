@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T20:25:11Z"
 ---
 ## What it is
 MCP server that enables Claude to directly drive Stata, providing a persistent session and 75 tools for data management, estimation, post-estimation, graphs, and export. It lets users perform full Stata analyses through natural language instructions.

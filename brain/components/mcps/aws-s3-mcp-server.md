@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-01T21:04:41Z"
 ---
 ## What it is
 Enables browsing S3 buckets and objects, and generating secure presigned URLs for downloads and uploads, through natural language commands in MCP clients like Claude Desktop.

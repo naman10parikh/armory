@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T15:51:00Z"
 ---
 ## What it is
 MCP server `bmbrick Mosaic`, catalogued on PulseMCP. Convert local images into LEGO-style brick mosaic previews with AI-powered color quantization.

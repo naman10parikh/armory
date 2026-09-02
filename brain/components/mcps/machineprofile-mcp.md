@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:44:43Z"
 ---
 ## What it is
 Enables AI assistants to retrieve structured information about the local Windows machine, including system specifications, resource health, developer tools, and AI environment, all through a secure, read-only interface.

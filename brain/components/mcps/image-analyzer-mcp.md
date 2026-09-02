@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:18:05Z"
 ---
 ## What it is
 Analyzes images via OpenAI-compatible vision APIs, returning structured JSON for layout, components, colors, typography, and issues, with tools for single image analysis, comparison, and clipboard image analysis.

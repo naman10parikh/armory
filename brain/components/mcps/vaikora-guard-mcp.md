@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T17:12:59Z"
 ---
 ## What it is
 Enforces deterministic policies on AI agent tool calls, evaluating actions against compliance modules (SOC 2, HIPAA, GDPR, etc.) and returning ALLOW, BLOCK, or CONSTRAIN decisions with an audit trail.

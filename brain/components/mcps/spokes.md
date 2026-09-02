@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:52:48Z"
 ---
 ## What it is
 Local MCP memory of your GitHub repos for Cursor

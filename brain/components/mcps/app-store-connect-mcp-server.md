@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-18T14:11:35Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Apple's App Store Connect API. Manage your iOS, macOS, tvOS, and visionOS apps directly from Claude, Cursor, or any MCP-compatible client.

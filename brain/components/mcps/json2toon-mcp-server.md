@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-31T17:15:17Z"
 ---
 ## What it is
 Advanced Token-Optimized Object Notation MCP server that compresses JSON with up to 85% token reduction using AI-powered pattern detection, providing lossless compression and decompression through 12 MCP tools.

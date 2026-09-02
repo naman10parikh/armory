@@ -8,10 +8,12 @@ source_url: https://github.com/jacklenzotti/pullpush-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T02:26:43Z"
 ---
 ## What it is
 MCP server `PullPush Reddit`, catalogued on PulseMCP. Provides access to Reddit historical data through the PullPush.io API, enabling search across comments and submissions with flexible filtering options including subreddit, author, date ranges, score thresholds, and keyword queries.

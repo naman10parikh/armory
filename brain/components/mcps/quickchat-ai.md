@@ -8,10 +8,12 @@ source_url: https://github.com/quickchatai/quickchat-ai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-03-24T09:05:07Z"
 ---
 ## What it is
 MCP server `Quickchat`, catalogued on PulseMCP. Provides a bridge between AI assistants and Quickchat's conversation platform, enabling seamless interaction with Quickchat scenarios through API key authentication and conversation state management.

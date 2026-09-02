@@ -12,6 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-29T10:20:35Z"
 ---
 ## What it is
 MCP server `Ectors`, catalogued on PulseMCP. Actor-based server that manages multiple routers with unique IDs, supporting various transport protocols for modular and composable service delivery.

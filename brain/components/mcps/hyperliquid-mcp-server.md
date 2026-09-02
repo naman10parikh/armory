@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-15T16:33:36Z"
 ---
 ## What it is
 基于FastMCP的HyperLiquid交易MCP服务器，为AI助手提供市价/限价订单、仓位管理、市场数据等工具，支持与HyperLiquid永续合约和现货交易平台交互。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T19:01:16Z"
 ---
 ## What it is
 MCP server exposing the public catalog of Russian microfinance organizations from zaimhub.com, all listed in the state registry of the Bank of Russia: loan terms for new and repeat clients, full cost of credit, legal entities and registry numbers, borrower ratings and reviews, plus the legal context

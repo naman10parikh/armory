@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-05T09:56:31Z"
 ---
 ## What it is
 MCP server `Markdown Web Extractor`, catalogued on PulseMCP. Extracts clean markdown content from web pages using headless Chrome browser, filtering out navigation and advertisements while handling JavaScript-heavy sites.

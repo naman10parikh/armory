@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T09:22:08Z"
 ---
 ## What it is
 MCP server that wraps the GunStore-POS Frappe REST API, enabling AI agents to manage production settings, item pricing, records, and ATF operations via natural language commands.

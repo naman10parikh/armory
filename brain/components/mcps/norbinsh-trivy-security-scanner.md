@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-18T11:09:10Z"
 ---
 ## What it is
 MCP server `Trivy Security Scanner`, catalogued on PulseMCP. Integrates with Trivy to provide vulnerability scanning and automated remediation for projects across multiple programming languages and package managers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:20:47Z"
 ---
 ## What it is
 Exposes 104 Odoo tools across CRM, Sales, Inventory, Accounting, and Helpdesk, enabling natural-language control of an Odoo instance via a Telegram assistant with user-level authentication and multi-step orchestration.

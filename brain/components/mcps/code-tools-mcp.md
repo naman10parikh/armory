@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T04:24:25Z"
 ---
 ## What it is
 Enables file reading with pagination and regex-based code search across a codebase using grep.

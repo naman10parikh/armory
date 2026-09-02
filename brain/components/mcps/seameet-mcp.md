@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:55:54Z"
 ---
 ## What it is
 SeaMeet MCP connects Claude, Cursor, Codex, and other AI agents to SeaMeet meeting recordings, transcripts, AI summaries, screenshots, action items, webhooks, and desktop recording controls. Use it to search meeting memory, read synced cloud recordings, and automate meeting notes through the Model C

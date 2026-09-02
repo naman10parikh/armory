@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:43:51Z"
 ---
 ## What it is
 Safety-first local MCP tool gate with control plane, runtime security, and observability for managing MCP backends.

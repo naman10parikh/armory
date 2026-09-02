@@ -8,10 +8,12 @@ source_url: https://github.com/kapeli/dash-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 179
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-07-31T10:18:22Z"
 ---
 ## What it is
 MCP server `Dash`, catalogued on PulseMCP. Integrates with Dash documentation browser on macOS to provide searchable access to locally installed docsets, code snippets, and technical documentation across multiple programming languages and frameworks.

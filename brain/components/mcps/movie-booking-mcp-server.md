@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:55:40Z"
 ---
 ## What it is
 Enables searching for movies, checking Google Calendar for conflicts, and booking tickets with seat type and INR pricing, all through natural conversation. Supports demo mode without API keys.

@@ -8,10 +8,12 @@ source_url: https://github.com/glassbead-tc/audius-mcp-atris
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-17T07:46:21Z"
 ---
 ## What it is
 MCP server `Audius`, catalogued on PulseMCP. Integrates with Audius music platform API, enabling user searches, track streaming, and playlist management for music discovery and artist analytics.

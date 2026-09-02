@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:43:07Z"
 ---
 ## What it is
 Serves the architectural graph of a hexagonal-architecture codebase to coding agents via stdio, providing tools to analyze dependencies, check violations, and inspect structural changes.

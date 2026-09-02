@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T19:02:23Z"
 ---
 ## What it is
 Seraph is Kondux's crypto transaction firewall and risk-scoring MCP server for AI agents. It provides OAuth-secured Streamable HTTP tools for pre-trade checks, token/address risk, gas, balances, liquidity, agent reputation, dependency advisories, and tenant guardrails.

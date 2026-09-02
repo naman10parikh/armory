@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T03:39:52Z"
 ---
 ## What it is
 An MCP server that provides access to Japan's central and municipal subsidies, covering over 20,000 municipal grants not exposed by official APIs, with tools for search, comparison, citation verification, and practitioner referrals.

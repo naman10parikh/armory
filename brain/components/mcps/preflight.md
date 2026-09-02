@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T20:18:18Z"
 ---
 ## What it is
 MCP server `Preflight`, catalogued on PulseMCP. Validates whether an MCP server is ready to publish to the MCP Registry, Smithery, or npm by checking configuration artifacts against directory requirements.

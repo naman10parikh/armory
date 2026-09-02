@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-09T17:29:38Z"
 ---
 ## What it is
 Enables creation, validation, and manipulation of Game Boy Studio projects through the Model Context Protocol, allowing AI agents to generate game assets, scenes, and actors.

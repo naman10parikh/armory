@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T00:12:32Z"
 ---
 ## What it is
 Provides fortune-telling tools including tarot card spreads, Thai horoscope, zodiac info, and auspicious dates. Enables interactive tarot card picking via an MCP App UI and returns structured JSON for interpretation.

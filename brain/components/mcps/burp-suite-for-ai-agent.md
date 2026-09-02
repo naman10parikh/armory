@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:54:23Z"
 ---
 ## What it is
 Two-way Burp Suite MCP bridge enabling AI agents to capture traffic, analyze endpoints, queue scans, and send findings back to Burp.

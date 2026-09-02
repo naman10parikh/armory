@@ -8,11 +8,13 @@ source_url: https://github.com/nsozturk/tweetkit-x
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T22:35:18Z"
 ---
 ## What it is
 MCP server that allows posting, deleting, and reading X (Twitter) tweets using your own browser session cookie, bypassing the official paid API. Includes tools for auth setup, tweet creation, deletion, timeline reading, and regex search.

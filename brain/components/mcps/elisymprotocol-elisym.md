@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T10:55:38Z"
 ---
 ## What it is
 MCP server `Elisym Protocol`, catalogued on PulseMCP. Decentralized AI agent marketplace for discovery, job submission, messaging, and Solana payments over Nostr.

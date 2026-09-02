@@ -12,6 +12,8 @@ stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-02-14T01:03:57Z"
 ---
 ## What it is
 MCP server `Svelte Documentation`, catalogued on PulseMCP. Provides Svelte 5 and SvelteKit documentation access with automated content syncing from the official repository, offering both raw and AI-optimized distilled versions with scheduled updates to keep framework documentation current.

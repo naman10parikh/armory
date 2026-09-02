@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-19T11:45:08Z"
 ---
 ## What it is
 MCP server `PAL (Multi-Provider AI)`, catalogued on PulseMCP. Unifies access to multiple AI model providers including Google Gemini, OpenAI, Azure OpenAI, X.AI Grok, OpenRouter, and custom endpoints through 15+ specialized tools for code analysis, debugging, planning, consensus building, and workflow automation with intelligent model selection and multi-step workflows.

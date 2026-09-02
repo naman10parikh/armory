@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-12T10:24:09Z"
 ---
 ## What it is
 MCP server `Solana Blockchain`, catalogued on PulseMCP. Enables interaction with the Solana blockchain for performing operations like querying account data, sending transactions, and interacting with smart contracts through the AgentiPy framework.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T16:54:40Z"
 ---
 ## What it is
 A production-ready MCP server for GitHub operations, providing tools for repository management, issues, pull requests, and more via both MCP stdio and REST API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-13T12:35:57Z"
 ---
 ## What it is
 Enables AI agents to execute terminal commands and Python code on the host system with session management and smart output handling, leveraging Agent Zero's proven implementation.

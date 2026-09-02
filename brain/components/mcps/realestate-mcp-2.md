@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:41:34Z"
 ---
 ## What it is
 Enables searching realestate.com.au for for-sale, rental, and sold listings with full property details, using a real Chrome browser to bypass Kasada bot protection.

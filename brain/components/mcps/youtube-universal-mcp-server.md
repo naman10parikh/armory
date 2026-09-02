@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-06T11:10:10Z"
 ---
 ## What it is
 Enables interaction with YouTube's tools and services through a unified API, following the Model Context Protocol specification.

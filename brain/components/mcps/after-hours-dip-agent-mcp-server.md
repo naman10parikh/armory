@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T00:57:09Z"
 ---
 ## What it is
 Enables scanning live after-hours stock prices on Robinhood Chain, paying for quotes via x402, and buying dips below the NYSE close.

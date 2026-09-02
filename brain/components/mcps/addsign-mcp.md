@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:36:02Z"
 ---
 ## What it is
 Enables AI assistants to send documents for e-signature, track signing status, remind pending signers, and download signed PDFs with audit-trail hashes via the AddSign API.

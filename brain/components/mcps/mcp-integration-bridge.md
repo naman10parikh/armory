@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:10:13Z"
 ---
 ## What it is
 An MCP server that connects any two systems so an agent can explore both, map between them, and run real data transfers — then shows its working in a run folder you can audit afterwards.

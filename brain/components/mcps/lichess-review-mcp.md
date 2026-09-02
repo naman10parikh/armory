@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:19:21Z"
 ---
 ## What it is
 Read-only MCP server for reviewing completed public Lichess games, providing tools to fetch a game or list recent completed games with strict safety and cost boundaries.

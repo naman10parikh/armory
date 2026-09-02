@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-21T16:17:50Z"
 ---
 ## What it is
 Enables AI assistants to discover, search, and retrieve Ruixen UI components from the live registry, providing installation commands for MCP-compatible clients.

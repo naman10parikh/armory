@@ -8,10 +8,12 @@ source_url: https://github.com/badhansen/notion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-09-30T22:35:02Z"
 ---
 ## What it is
 MCP server `Notion`, catalogued on PulseMCP. Integrates with Notion's API to manage personal todo lists, enabling task creation, retrieval, and automation within specified Notion pages.

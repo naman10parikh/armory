@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T16:34:11Z"
 ---
 ## What it is
 Enables AI agents to create, manage, and publish brand kits with colors, typography, logos, and white-label branding via the BrandKity platform.

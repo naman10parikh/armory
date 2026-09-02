@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T04:33:00Z"
 ---
 ## What it is
 Exposes tools for retrieving member profiles and personalized travel recommendations with multi-tenant partner rule enforcement, enabling AI agents to respect business constraints like caps and exclusions.

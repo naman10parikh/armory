@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:09:46Z"
 ---
 ## What it is
 Enables querying NASA GISTEMP global surface temperature data through natural language or direct tool calls, part of Pipeworx MCP gateway.

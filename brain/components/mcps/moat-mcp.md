@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:21:30Z"
 ---
 ## What it is
 A security-hardened Postgres MCP server that enables LLM agents to run safe, read-only SQL queries with enforcement via SQL-AST inspection and read-only transactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T12:03:23Z"
 ---
 ## What it is
 Enables LLMs to make HTTP requests with OAuth2, session cookies, retry logic, and cURL command generation, while providing security features like SSRF protection and TLS enforcement.

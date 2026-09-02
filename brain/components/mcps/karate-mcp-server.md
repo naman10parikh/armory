@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-09T17:18:22Z"
 ---
 ## What it is
 Provides AI agents with comprehensive knowledge of the Karate DSL framework for API testing, UI automation, and performance testing.

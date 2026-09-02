@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:46:07Z"
 ---
 ## What it is
 Enables local knowledge base management with retrieval-augmented generation (RAG), providing semantic search, document reading, listing, and Q&A via MCP tools and REST endpoints, all running locally without cloud dependencies.

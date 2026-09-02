@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-08T02:12:59Z"
 ---
 ## What it is
 Enables AI coding agents to record auditable work ledgers with evidence chains, from contract to proof packet, via MCP tools for file scanning, code review, and issue triage.

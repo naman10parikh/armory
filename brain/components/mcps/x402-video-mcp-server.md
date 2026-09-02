@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:47:44Z"
 ---
 ## What it is
 Enables AI agents to generate videos by paying per call with USDC on Base via the x402 protocol, with no accounts or API keys required.

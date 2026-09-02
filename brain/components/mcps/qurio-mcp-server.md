@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-15T22:06:13Z"
 ---
 ## What it is
 Enables AI coding assistants to search and retrieve information from a locally ingested knowledge base using hybrid search, grounded in user-curated documentation.

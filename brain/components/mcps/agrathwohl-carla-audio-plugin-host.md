@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-19T22:10:25Z"
 ---
 ## What it is
 MCP server `Carla Audio Plugin Host`, catalogued on PulseMCP. Integrates with Carla audio plugin host to provide complete session management, plugin loading/control, audio routing, parameter automation, real-time analysis, and JACK port management across multiple plugin formats with Wine support for Windows plugins.

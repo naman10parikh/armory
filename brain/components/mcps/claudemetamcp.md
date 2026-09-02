@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:02:49Z"
 ---
 ## What it is
 Local MCP server for operating Instagram, Meta Ads, and Facebook Page from Claude Code via Meta's Graph API. Provides 20 tools for publishing, campaign management, and insights.

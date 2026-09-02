@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:08:12Z"
 ---
 ## What it is
 A read-only MCP server for Oracle databases that enables SQL queries, schema inspection, and data sampling without requiring OCI client libraries. It supports both TNS alias and direct connection modes with robust security guardrails.

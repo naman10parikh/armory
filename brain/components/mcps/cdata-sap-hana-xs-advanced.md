@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-18T19:18:28Z"
 ---
 ## What it is
 MCP server `SAP HANA`, catalogued on PulseMCP. Connects to SAP HANA databases through JDBC to enable querying tables, retrieving metadata, and executing SQL statements with CSV-formatted output for enterprise data analysis and business intelligence workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T14:06:15Z"
 ---
 ## What it is
 Exposes FreeTicket's B2B domain (events, sales, tickets, etc.) as tools for MCP clients like Claude Code, using the same authentication as the CLI.

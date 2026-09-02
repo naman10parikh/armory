@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-17T07:28:47Z"
 ---
 ## What it is
 An MCP server that lets AI agents launch, interact with, and inspect Textual TUI applications headlessly.

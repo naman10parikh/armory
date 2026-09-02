@@ -8,11 +8,13 @@ source_url: https://github.com/aplaceforallmystuff/mcp-local-llm
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-12T18:56:53Z"
 ---
 ## What it is
 MCP server that lets Claude Code delegate mechanical tasks to a local LLM for summarization, classification, extraction, and drafting.

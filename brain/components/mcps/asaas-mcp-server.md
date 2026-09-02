@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-dir/asaas-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:45Z"
 ---
 ## What it is
 Enables querying and operating Asaas digital account and billing (boletos, PIX, credit card, subscriptions, splits, etc.) via natural language, with read-only access.

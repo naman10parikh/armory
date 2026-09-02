@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-15T02:39:39Z"
 ---
 ## What it is
 MCP server `Memecoin Radar (Dune Analytics)`, catalogued on PulseMCP. Integrates with Dune Analytics API to provide real-time Solana memecoin market intelligence including trending tokens, Pump.fun graduates, KOL trading activity, and high-volume exchange data across Raydium and PumpSwap.

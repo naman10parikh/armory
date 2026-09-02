@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:35:15Z"
 ---
 ## What it is
 Enables AI agents to search the web, fetch pages, and download images through a self-hosted proxy with Brave search, caching, and SSRF protection.

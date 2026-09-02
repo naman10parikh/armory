@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:46:48Z"
 ---
 ## What it is
 MCP server providing deterministic betting odds tools including conversions, margin, parlay pricing, settlement, and Kelly staking.

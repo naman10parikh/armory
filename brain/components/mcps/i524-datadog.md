@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-29T08:31:17Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Provides a bridge to the Datadog API, enabling metrics and logs retrieval for monitoring and observability workflows using TypeScript and Bun runtime.

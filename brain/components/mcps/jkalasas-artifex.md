@@ -8,10 +8,12 @@ source_url: https://github.com/jkalasas/artifex-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-24T03:07:52Z"
 ---
 ## What it is
 MCP server `Artifex`, catalogued on PulseMCP. Multi-provider image generation with Antigravity and OpenAI DALL-E support, including session-based character consistency, aspect ratios, and image editing.

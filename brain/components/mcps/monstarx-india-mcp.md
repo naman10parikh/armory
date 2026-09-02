@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:21:40Z"
 ---
 ## What it is
 Production-ready MCP server exposing India-specific public data, weather/environment, transport, and maps/address APIs through unified tools for AI agents.

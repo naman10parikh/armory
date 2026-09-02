@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-05T02:40:07Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that integrates with the SpaceBridge REST API to automate issue management across connected issue trackers, allowing developers to manage issues directly from their AI-assisted coding environment.

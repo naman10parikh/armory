@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:38:54Z"
 ---
 ## What it is
 A zero-dependency MCP server for ProofHub that provides tools to manage tasks, projects, and comments, and includes BMAD sharding to turn tickets into self-contained stories.

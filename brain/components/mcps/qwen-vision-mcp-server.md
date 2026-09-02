@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:27:04Z"
 ---
 ## What it is
 Enables to analyze local images or remote URLs using Alibaba Qwen3.7-plus vision model via DashScope's Anthropic-compatible endpoint.

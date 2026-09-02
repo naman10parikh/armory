@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-07-24T21:38:50Z"
 ---
 ## What it is
 MCP server `Cisco Webex Messaging`, catalogued on PulseMCP. Integrates with Cisco Webex Messaging API to provide complete access to rooms, messages, teams, memberships, webhooks, and ECM folder management through 60+ tools covering all major collaboration workflows.

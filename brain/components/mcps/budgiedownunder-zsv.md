@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-11T08:25:16Z"
 ---
 ## What it is
 MCP server `ZSV`, catalogued on PulseMCP. Exposes the zsv command-line CSV toolkit for data analysis and SQL-style querying of tabular data.

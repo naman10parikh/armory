@@ -8,10 +8,12 @@ source_url: https://github.com/k8sautom8/garmin_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-11-20T08:48:17Z"
 ---
 ## What it is
 MCP server `Garmin Connect`, catalogued on PulseMCP. Comprehensive Garmin Connect integration with 72+ tools for fitness data, health metrics, and AI-powered training recommendations

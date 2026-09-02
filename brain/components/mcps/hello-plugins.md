@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:29:46Z"
 ---
 ## What it is
 Provides a minimal OpenAI Plugin MCP server that exposes a read-only greeting tool over Streamable HTTP, useful for verifying local MCP connections and ChatGPT Work plugin integration.

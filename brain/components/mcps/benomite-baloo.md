@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T14:36:32Z"
 ---
 ## What it is
 MCP server `Baloo`, catalogued on PulseMCP. Provides financial management tools for French Scout group treasurers, covering accounting entries, reimbursements, expense workflows, and bank reconciliation via an OAuth-protected HTTP server.

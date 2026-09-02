@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T01:12:41Z"
 ---
 ## What it is
 MCP server `Tree Explorer`, catalogued on PulseMCP. Lightweight directory tree visualization tool for Cursor that automatically installs the 'tree' command, provides smart filtering of large directories, and supports customizable ignore/keep patterns across Windows, macOS, and Linux.

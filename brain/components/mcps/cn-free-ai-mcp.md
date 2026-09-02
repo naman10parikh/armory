@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:47:41Z"
 ---
 ## What it is
 A zero-cost, China-accessible MCP server providing four free AI capabilities: text chat, image generation, speech-to-text, and text-to-speech, ready to use after cloning.

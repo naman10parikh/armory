@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:17:20Z"
 ---
 ## What it is
 Paid hosted MCP endpoint for AI SDK benchmark dashboard, providing tools for running benchmarks, comparing model scores, reading reports, and issuing receipts.

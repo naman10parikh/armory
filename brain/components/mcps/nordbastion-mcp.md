@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T20:41:27Z"
 ---
 ## What it is
 Provision KYC-free, crypto-paid Nordic VPS and dedicated servers from any AI agent. Enables natural language hosting workflows including comparison, top-up, and provisioning of anonymous servers.

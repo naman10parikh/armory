@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:03:02Z"
 ---
 ## What it is
 Local-first realtime web research MCP for LM Studio with keyless SearXNG, clickable citations, adaptive deep research, provider health, and one-click Windows startup.

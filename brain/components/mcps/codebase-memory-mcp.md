@@ -8,11 +8,13 @@ source_url: https://github.com/DeusData/codebase-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40231
+stars: 41746
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3400
+pushed_at: "2026-09-01T23:50:51Z"
 ---
 ## What it is
 High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.

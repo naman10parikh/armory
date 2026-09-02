@@ -8,10 +8,12 @@ source_url: https://github.com/robertheadley/chrome-debug-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-19T03:47:31Z"
 ---
 ## What it is
 MCP server `Chrome Debug`, catalogued on PulseMCP. Provides powerful browser control capabilities through Chrome DevTools Protocol and Puppeteer, enabling advanced web automation, scraping, and testing tasks.

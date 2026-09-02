@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:28:36Z"
 ---
 ## What it is
 A text-based cat hotel management game for AI, where you act as a temporary manager to care for cat customers through MCP tools.

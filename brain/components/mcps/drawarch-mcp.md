@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:07:01Z"
 ---
 ## What it is
 Generates editable .drawio architecture diagrams from descriptions or reference images, with secure asset resolution, validation, and revision-based approvals.

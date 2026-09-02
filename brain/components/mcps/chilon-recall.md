@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T01:47:39Z"
 ---
 ## What it is
 Local-first knowledge retrieval MCP server that turns private text documents into a source-backed knowledge base, enabling retrieval, comparison, summaries, and review outlines for any local MCP client while keeping source paths and index operations visible.

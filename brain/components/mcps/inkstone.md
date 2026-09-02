@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:49:50Z"
 ---
 ## What it is
 Automatically extracts and indexes knowledge from AI sessions and files using local LLMs, enabling semantic search and memory management.

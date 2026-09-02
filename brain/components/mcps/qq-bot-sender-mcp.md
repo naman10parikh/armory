@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T09:49:10Z"
 ---
 ## What it is
 Enables sending text, Markdown, images, and files to individual QQ contacts via MCP protocol, suitable for pushing task results, screenshots, or documents to QQ.

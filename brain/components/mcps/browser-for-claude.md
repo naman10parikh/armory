@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T06:32:54Z"
 ---
 ## What it is
 Gives Claude control of a real, headed Chromium browser via Playwright, enabling web navigation, clicking, typing, screenshots, and JavaScript evaluation.

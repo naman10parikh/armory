@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T03:20:29Z"
 ---
 ## What it is
 A Model Context Protocol server providing network diagnostic tools for AI agents, including connectivity testing, batch operations, local network info, and pcap analysis.

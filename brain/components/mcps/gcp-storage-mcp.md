@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-11T02:23:06Z"
 ---
 ## What it is
 Enables interaction with Google Cloud Storage buckets and blobs through an MCP server, supporting operations like listing, uploading, searching, batch operations, and generating signed URLs.

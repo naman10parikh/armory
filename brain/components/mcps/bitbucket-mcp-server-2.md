@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:01:01Z"
 ---
 ## What it is
 MCP server for integrating with Bitbucket Cloud and Server APIs, enabling AI assistants to interact with repositories, pull requests, pipelines, and more.

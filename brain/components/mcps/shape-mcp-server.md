@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-08-08T14:21:35Z"
 ---
 ## What it is
 Provides AI assistants access to Shape's onchain data including gasback distribution, collections analytics, stack users, and network monitoring.

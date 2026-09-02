@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:44:35Z"
 ---
 ## What it is
 A dated log of SaaS price changes across 494 tools: old price, new price and verification date for every move, plus category-level pulse and the biggest recorded increases.

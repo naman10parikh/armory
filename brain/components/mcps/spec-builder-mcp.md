@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T19:27:15Z"
 ---
 ## What it is
 An MCP server that helps AI assistants plan and document software features using a structured Software Design Document (SDD) approach, storing documents locally under .docs/features/.

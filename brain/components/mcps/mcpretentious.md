@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-14T11:59:25Z"
 ---
 ## What it is
 MCP server for terminal control enabling AI to manage terminal sessions via iTerm2 or tmux, with features like screen reading, keyboard/mouse input, and background execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T13:08:19Z"
 ---
 ## What it is
 Enables AI assistants to access and query ARTPARK's public health datasets including dengue epidemiology, livestock census, and FMD vaccination data through a structured 4-step workflow for data discovery and retrieval.

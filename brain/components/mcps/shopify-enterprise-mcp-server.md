@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:22:36Z"
 ---
 ## What it is
 Production-grade MCP server that exposes live Shopify Admin GraphQL data to Microsoft Copilot Studio agents, enabling real-time answers to business questions about inventory, orders, and products.

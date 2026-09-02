@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:48:45Z"
 ---
 ## What it is
 An MCP bridge that enables AI coding agents to delegate implementation tasks to the OpenAI Codex CLI, allowing the orchestrator to plan and review while Codex executes.

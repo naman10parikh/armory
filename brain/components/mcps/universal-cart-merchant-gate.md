@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:35:12Z"
 ---
 ## What it is
 A hosted remote MCP server for assessing merchant readiness in Universal Cart, offering tools to check readiness, classify checkout blockers, explain offer gaps, issue agentic commerce receipts, and export readiness logs.

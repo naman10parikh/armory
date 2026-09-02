@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:32:21Z"
 ---
 ## What it is
 MCP server for the Pyon trading platform that lets AI agents search markets, generate research, build and edit node-graph strategies, run backtests, diagnose problems, and optimize parameters with 2-D sweeps.

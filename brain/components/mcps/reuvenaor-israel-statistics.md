@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-09T06:50:48Z"
 ---
 ## What it is
 MCP server `Israel Statistics (CBS)`, catalogued on PulseMCP. Integrates with the Israeli Central Bureau of Statistics API to retrieve economic data including consumer price indices, housing market data, producer price indices, and inflation calculations with specialized handling for bi-monthly housing data and support for both JSON and XML response formats.

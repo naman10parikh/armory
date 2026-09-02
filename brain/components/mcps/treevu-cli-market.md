@@ -8,10 +8,12 @@ source_url: https://github.com/treevu-ai/cli-market-world
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T02:45:28Z"
 ---
 ## What it is
 MCP server `CLI Market`, catalogued on PulseMCP. Search, compare prices, and purchase products across 3,760 retailers in 67 countries.

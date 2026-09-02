@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:03:20Z"
 ---
 ## What it is
 Access over 8,500 classical Arabic and Islamic books with full-text search, page-level reading, and author biographies through the turath.io API.

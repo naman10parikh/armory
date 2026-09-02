@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:58:49Z"
 ---
 ## What it is
 Provides a read-only MCP interface for Azure Data Factory monitoring and root-cause analysis, with a health check for MCP clients.

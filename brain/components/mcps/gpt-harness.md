@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:50:33Z"
 ---
 ## What it is
 A self-hosted MCP gateway that gives ChatGPT Web real command execution, file patching, and workspace management on a VPS you control.

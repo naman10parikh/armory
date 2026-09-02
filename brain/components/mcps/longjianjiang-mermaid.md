@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T16:57:38Z"
 ---
 ## What it is
 MCP server `Mermaid`, catalogued on PulseMCP. Provides a bridge to mermaid.js for generating flowcharts, sequence diagrams, and other visualizations through natural language

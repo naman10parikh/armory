@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:29:39Z"
 ---
 ## What it is
 MCP server that validates semantic version ranges using npm's semver engine, with payment via x402 on Base mainnet.

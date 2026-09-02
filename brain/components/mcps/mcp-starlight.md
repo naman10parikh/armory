@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:17:37Z"
 ---
 ## What it is
 Enables MCP clients to search and retrieve documentation from an Astro Starlight docs site by reading a pre-built catalog. Supports locale and version filtering, as well as structured data collections.

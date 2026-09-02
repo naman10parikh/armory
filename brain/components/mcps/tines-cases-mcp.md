@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:33:15Z"
 ---
 ## What it is
 Enables MCP clients to manage Tines cases via the Cases v2 API, supporting create, read, update, close, and comment operations. Runs in a container via podman/docker and defaults to read-only for safety.

@@ -8,11 +8,13 @@ source_url: https://github.com/l22-io/orchard-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-19T08:51:46Z"
 ---
 ## What it is
 MCP server for Apple Calendar, Mail, Reminders, and Files on macOS using native frameworks.

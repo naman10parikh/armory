@@ -8,10 +8,12 @@ source_url: https://github.com/blazickjp/arxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2772
+stars: 3100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 251
+pushed_at: "2026-08-26T23:16:26Z"
 ---
 ## What it is
 MCP server `ArXiv`, catalogued on PulseMCP. Search and analyze academic papers from the arXiv repository.

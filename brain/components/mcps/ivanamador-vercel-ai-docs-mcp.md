@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 50
+forks: 12
+pushed_at: "2025-04-04T23:20:05Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI-powered search and querying capabilities for the Vercel AI SDK documentation.

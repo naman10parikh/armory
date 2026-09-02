@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:13:05Z"
 ---
 ## What it is
 Enables AI assistants to browse properties, manage conversations, update availability calendars, and track exchanges on the PeopleLikeUs home exchange platform via natural language, with 28 MCP tools and auto-login support.

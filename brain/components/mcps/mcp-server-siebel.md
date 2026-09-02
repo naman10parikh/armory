@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T12:28:48Z"
 ---
 ## What it is
 Enables AI models to interact with Oracle Siebel CRM via its REST API, supporting account, contact, opportunity retrieval, activity creation, record updates, and custom queries.

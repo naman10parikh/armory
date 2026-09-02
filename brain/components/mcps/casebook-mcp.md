@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T20:51:33Z"
 ---
 ## What it is
 Enables agents to query a registry of documented AI-agent failures for debugging incidents, deployable on Cloudflare Workers.

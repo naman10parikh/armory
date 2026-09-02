@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:11:28Z"
 ---
 ## What it is
 Agent Owl provides cryptographic file integrity monitoring, OWL/RDF semantic knowledge graphing with SPARQL queries, and EU AI Act compliance tracking for Claude Code via 15 MCP tools covering file verification, compliance management, and project administration.

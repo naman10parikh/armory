@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T18:56:22Z"
 ---
 ## What it is
 Enables AI assistants to interact with Maito workspaces for task management, note-taking, and planning.

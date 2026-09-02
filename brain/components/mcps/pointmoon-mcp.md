@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:49:37Z"
 ---
 ## What it is
 Provides sourced, current physical and environmental field-truth (weather, air quality, water, terrain, etc.) for any location, with provenance and typed silence to prevent hallucination.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:17:13Z"
 ---
 ## What it is
 Query Apple Health export data with an LLM via a semantic layer that avoids common data traps, enabling accurate natural-language queries about health metrics. Optionally imports CPAP therapy data for correlation.

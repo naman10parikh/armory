@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:09:24Z"
 ---
 ## What it is
 MCP server providing tools to extract text from PDF, Word, and Excel documents and perform read-only PostgreSQL searches, returning structured JSON results.

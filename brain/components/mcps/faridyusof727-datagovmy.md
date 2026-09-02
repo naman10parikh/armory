@@ -8,10 +8,12 @@ source_url: https://github.com/faridyusof727/datagovmy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-29T14:35:34Z"
 ---
 ## What it is
 MCP server `Data.gov.my`, catalogued on PulseMCP. Integrates with Malaysia's open government data API to provide access to population statistics, birth records, fuel prices, household income, and vehicle registration information with dataset-specific filtering capabilities.

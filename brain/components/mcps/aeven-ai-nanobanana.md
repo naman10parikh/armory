@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-05T11:03:54Z"
 ---
 ## What it is
 MCP server `Nano Banana`, catalogued on PulseMCP. A provider-agnostic image generation suite using the Nano Banana (google/gemini-2.5-flash-image) model via OpenRouter to provide tools for image generation, editing, restoration, diagram creation, icon creation, and story generation.

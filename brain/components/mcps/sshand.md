@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T05:28:45Z"
 ---
 ## What it is
 An open MCP server that gives any AI agent SSH access to remote Linux/Unix machines — shell commands, file read/write, and SFTP transfers.

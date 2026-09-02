@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T07:59:36Z"
 ---
 ## What it is
 An enhanced MCP server for Xero, enabling natural language interaction with your Xero organisation for accounting tasks like invoices, contacts, bank transactions, and payroll.

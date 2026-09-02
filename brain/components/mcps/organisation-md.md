@@ -8,11 +8,13 @@ source_url: https://github.com/shashank-sn/organisation.md
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:30:06Z"
 ---
 ## What it is
 Turns any GitHub repository into your organisation's persistent context layer, enabling AI agents to read, search, and propose updates via pull requests.

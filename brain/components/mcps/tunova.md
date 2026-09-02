@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T09:36:27Z"
 ---
 ## What it is
 Generate music with Suno (v5.5) from any MCP client — async, and billed only on successful renders (a failed render auto-refunds). Hosted Streamable-HTTP server; tools generate_song / wait_for_song / check_song.

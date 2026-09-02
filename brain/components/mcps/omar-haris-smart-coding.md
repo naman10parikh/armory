@@ -8,10 +8,12 @@ source_url: https://github.com/omar-haris/smart-coding-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-01-06T15:22:18Z"
 ---
 ## What it is
 MCP server `Smart Coding`, catalogued on PulseMCP. Semantic code search using local AI embeddings for intelligent code discovery.

@@ -8,10 +8,12 @@ source_url: https://github.com/bethmaloney/rdl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-24T21:54:38Z"
 ---
 ## What it is
 MCP server `RDL`, catalogued on PulseMCP. Edit SQL Server Reporting Services (SSRS) report files

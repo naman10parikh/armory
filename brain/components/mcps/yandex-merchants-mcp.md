@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:36:12Z"
 ---
 ## What it is
 MCP server for Yandex Merchants API enabling management of product offers (prices, discounts, hide/show) via natural language from AI assistants like Claude and Cursor.

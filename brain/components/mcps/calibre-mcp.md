@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:30:40Z"
 ---
 ## What it is
 Enables read-only search, browsing, and metadata retrieval from a local Calibre e-book library using natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:40:19Z"
 ---
 ## What it is
 Provides shared real-time context for Claude Code agents, including scope awareness, prior decisions, and anti-overlap, using only files in the repo.

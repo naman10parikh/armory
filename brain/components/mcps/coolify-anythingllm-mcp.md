@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:44:25Z"
 ---
 ## What it is
 Connects AnythingLLM to Coolify for natural language management of self-hosted infrastructure, including diagnostics, log fetching, and deployment automation.

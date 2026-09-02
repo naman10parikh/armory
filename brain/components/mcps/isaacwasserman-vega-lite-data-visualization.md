@@ -8,10 +8,12 @@ source_url: https://github.com/isaacwasserman/mcp-vegalite-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 97
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-05-16T19:44:35Z"
 ---
 ## What it is
 MCP server `Vega-Lite Data Visualization`, catalogued on PulseMCP. Create data visualizations using Vega-Lite syntax by saving data tables and generating charts.

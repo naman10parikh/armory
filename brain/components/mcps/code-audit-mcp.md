@@ -8,11 +8,13 @@ source_url: https://github.com/kkk1259/code-audit-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:05:18Z"
 ---
 ## What it is
 Enables automated security code auditing using LLM and MCP, including AST parsing, taint analysis, dataflow tracing, and automated PoC generation for multi-language codebases.

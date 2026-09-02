@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T01:57:51Z"
 ---
 ## What it is
 Enables ChatGPT to perform filesystem operations, execute PowerShell commands, and manage n8n workflows on a Windows machine.

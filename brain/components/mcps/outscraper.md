@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T10:09:47Z"
 ---
 ## What it is
 MCP server `Outscraper`, catalogued on PulseMCP. Official Outscraper MCP server for Google Maps business data, reviews, email validation, and web extraction.

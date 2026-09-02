@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:07:18Z"
 ---
 ## What it is
 MCP server for persistent project knowledge management, enabling AI assistants to store, search, and reuse project analysis insights with freshness checking and impact analysis.

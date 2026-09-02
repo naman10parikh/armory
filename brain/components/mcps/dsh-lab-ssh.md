@@ -8,11 +8,13 @@ source_url: https://github.com/gdgfd22/deepseek-harness-ssh
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:47:04Z"
 ---
 ## What it is
 Safety-gated SSH MCP server for DeepSeek Harness and standard MCP clients, enabling agents to use a laboratory server's GPU, runtime, and configured source workspace while keeping the server isolated from the public internet.

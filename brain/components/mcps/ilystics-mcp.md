@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:16:46Z"
 ---
 ## What it is
 This repository is the public manifest for the hosted Vibe Springs MCP server. The server runs at https://vibesprings.net/mcp — there is nothing to install or build. Connect directly over Streamable HTTP. 🌐 Endpoint: https://vibesprings.net/mcp (Streamable HTTP, stateless) 🧰 22 tools — 2 free, 20 

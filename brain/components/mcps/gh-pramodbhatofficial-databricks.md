@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-09T11:48:19Z"
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Provides comprehensive Databricks workspace access through the official Python SDK for data pipelines, ML workflows, Unity Catalog, and more.

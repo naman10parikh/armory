@@ -8,10 +8,12 @@ source_url: https://github.com/tuliperis/sharkmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-14T01:00:32Z"
 ---
 ## What it is
 MCP server `Wireshark Network Analysis`, catalogued on PulseMCP. Integrates with Wireshark's tshark tool to capture and analyze network packets with configurable filters, SSL decryption support, and multiple output formats for network troubleshooting and security analysis.

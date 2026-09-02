@@ -8,11 +8,13 @@ source_url: https://github.com/jezweb/weather-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-18T15:27:34Z"
 ---
 ## What it is
 Provides weather data, forecasts, air quality, and location services via OpenWeatherMap API integration.

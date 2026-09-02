@@ -8,11 +8,13 @@ source_url: https://github.com/e2llm/e2llm-sifr
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T16:09:38Z"
 ---
 ## What it is
 E2LLM — structured browser perception for AI

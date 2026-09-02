@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-12T05:02:06Z"
 ---
 ## What it is
 MCP server `Research Notion`, catalogued on PulseMCP. Integrates with Notion to enable AI-powered survey creation, data retrieval, and analysis for research projects.

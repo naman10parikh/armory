@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:11:57Z"
 ---
 ## What it is
 FastMCP server for managing multi-project git bare repositories and worktrees using gix. Provides tools for session, project, and workspace management, enabling creation, listing, fetching, and checkout operations without the git CLI.

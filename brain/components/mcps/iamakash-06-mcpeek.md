@@ -8,10 +8,12 @@ source_url: https://github.com/iamakash-06/mcpeek
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T16:26:33Z"
 ---
 ## What it is
 MCP server `MCPeek`, catalogued on PulseMCP. Static AST-level security scanner for MCP server source code vulnerabilities.

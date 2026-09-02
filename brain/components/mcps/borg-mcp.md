@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:55:09Z"
 ---
 ## What it is
 A read-only MCP server for BorgBackup that lets AI agents query backup status, repository info, archive listings, and prune previews without modifying or destroying backups.

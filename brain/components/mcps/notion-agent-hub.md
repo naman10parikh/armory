@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-18T14:44:55Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Notion, enabling automated research, GitHub tracking, and content pipelines with human-in-the-loop approval via a Notion task queue.

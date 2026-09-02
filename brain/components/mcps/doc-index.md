@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:39:54Z"
 ---
 ## What it is
 A local-first semantic search server for documents, supporting PDFs, Office files, and text/markdown, enabling natural language search via the Model Context Protocol (MCP).

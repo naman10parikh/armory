@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T00:44:59Z"
 ---
 ## What it is
 Stores photos and notes as experience memories in Google Drive and enables natural language search to retrieve them later.

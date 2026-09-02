@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:19:51Z"
 ---
 ## What it is
 A Voice of Customer pipeline that cross-references feedback from calls, reviews, chat, and other sources to surface only corroborated patterns, routing actionable insights with exact customer quotes to the right people.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T19:43:06Z"
 ---
 ## What it is
 Enables remote management and debugging of AstrBot servers via SSH, including log monitoring, status checks, and command execution.

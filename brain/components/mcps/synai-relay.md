@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T10:35:56Z"
 ---
 ## What it is
 An MCP server enabling AI agents to browse, claim, submit, and manage paid tasks on the SYNAI Relay agent-to-agent task protocol, with on-chain USDC settlement via x402.

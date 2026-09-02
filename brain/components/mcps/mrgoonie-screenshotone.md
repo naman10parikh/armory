@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-24T10:08:13Z"
 ---
 ## What it is
 MCP server `ScreenshotOne`, catalogued on PulseMCP. Enables AI to capture and process screenshots of webpages with customizable parameters through the ScreenshotOne API with Cloudflare CDN integration for image storage and retrieval.

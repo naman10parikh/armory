@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T02:33:37Z"
 ---
 ## What it is
 This MCP server reads team SKILL.md files from a local folder and returns relevant ones to Cursor, while recording usage in a local SQLite database.

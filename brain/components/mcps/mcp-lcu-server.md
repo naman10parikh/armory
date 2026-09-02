@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-25T14:42:31Z"
 ---
 ## What it is
 Enables interaction with Linux system operations via MCP, including CPU, memory, processes, storage, filesystem, hardware, network, monitoring, and logs.

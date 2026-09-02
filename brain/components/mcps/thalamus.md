@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:52:14Z"
 ---
 ## What it is
 Self-hosted MCP server that gives coding agents persistent, code-aware memory with structural graph recall and blast-radius planning. It links experiential decisions to code locations and provides honest measurement instruments.

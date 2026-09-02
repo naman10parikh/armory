@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:09:51Z"
 ---
 ## What it is
 A production-ready MCP server for Vercel Serverless Functions using Streamable HTTP Transport, offering built-in tools for calculations, text analysis, and time utilities, with easy deployment to Vercel.

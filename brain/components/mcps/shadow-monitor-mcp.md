@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:11:16Z"
 ---
 ## What it is
 Enables AI agents to inspect Shadow Monitor capture files locally, with tools to load bundles, find errors, search network requests, and replay user actions.

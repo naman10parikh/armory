@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T00:11:45Z"
 ---
 ## What it is
 MCP server that protects shell, file, database, git, and HTTP operations with per-agent permission rules

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:34:41Z"
 ---
 ## What it is
 An MCP server that turns any codebase into a queryable knowledge graph — and renders it as an interactive galaxy.

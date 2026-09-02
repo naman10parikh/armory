@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T01:48:35Z"
 ---
 ## What it is
 An MCP security trust-check server that evaluates component installation risks and provides safe-install decisions for autonomous agents.

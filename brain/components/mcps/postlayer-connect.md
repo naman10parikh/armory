@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T17:52:15Z"
 ---
 ## What it is
 A local MCP server that enables AI assistants to post to social media platforms (LinkedIn, X, Bluesky, Mastodon, Reddit, etc.) using your own app credentials, with encrypted token storage and no middleman.

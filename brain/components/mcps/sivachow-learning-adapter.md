@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-08T01:59:05Z"
 ---
 ## What it is
 MCP server `Learning Adapter`, catalogued on PulseMCP. Adaptive proxy that intelligently filters MCP tool responses by learning which data fields are most valuable, reducing token usage while providing on-demand access to hidden fields through smart masking and persistent optimization.

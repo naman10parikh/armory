@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:33:21Z"
 ---
 ## What it is
 Enables cost-aware LLM routing over MCP with verification-based cascading, offering tools for routing queries, resuming escalated approvals, estimating costs, comparing policies, and explaining routing decisions, plus read-only resources and a policy-selection prompt.

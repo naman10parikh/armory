@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T09:54:55Z"
 ---
 ## What it is
 Generates TypeScript types for API functions from Swagger/OpenAPI documents, enabling AI IDEs to automatically create type definitions.

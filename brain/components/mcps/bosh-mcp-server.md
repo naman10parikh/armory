@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T03:01:05Z"
 ---
 ## What it is
 Enables managing BOSH deployments via natural language by providing tools to login to a BOSH director and execute arbitrary BOSH commands.

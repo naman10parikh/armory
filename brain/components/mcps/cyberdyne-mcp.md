@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T11:57:47Z"
 ---
 ## What it is
 Lets an AI agent hire and pay a verified human: post real-world tasks (voice, observation, judgment) and pay in USDC via a non-custodial x402 auth-capture escrow on Base, budget frozen at deploy. Humans verify their X identity before submitting.

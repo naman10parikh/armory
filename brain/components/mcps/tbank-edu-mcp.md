@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T20:10:54Z"
 ---
 ## What it is
 MCP server that connects AI assistants to T-Bank Education, enabling access to courses, timetable, deadlines, and user profile via tools like get_timetable, get_my_courses, and get_deadlines.

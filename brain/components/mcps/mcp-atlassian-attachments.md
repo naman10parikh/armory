@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T05:43:15Z"
 ---
 ## What it is
 A Model Context Protocol server for downloading Jira Cloud attachments by attachment ID to local disk. Supplements the official Atlassian MCP server which lacks attachment download functionality.

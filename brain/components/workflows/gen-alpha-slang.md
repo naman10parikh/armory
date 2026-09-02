@@ -15,6 +15,8 @@ verified_at: 2026-05-26
 related: []
 tags: [output-style]
 stars: 8
+forks: 1
+pushed_at: "2026-01-12T22:39:09Z"
 ---
 ## What it is
 A community workflow/command by Steve Nims, catalogued in awesome-claude-code. This is really... different. I don't know what to say about this one. It does what it says on the tin. You might find it funny, you might want throw up. I'll just say candidly this is included strictly for its potentially comedic awesomeness.

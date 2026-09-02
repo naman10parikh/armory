@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T23:06:27Z"
 ---
 ## What it is
 Manages QNAP Virtualization Station (VMs, snapshots, disks, ISOs) via the QVS REST API, enabling VM lifecycle operations and resource monitoring through natural language.

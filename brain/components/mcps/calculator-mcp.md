@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:01:43Z"
 ---
 ## What it is
 An MCP server that exposes 16 calculator operations as tools, enabling arithmetic, rounding, and root calculations via natural language.

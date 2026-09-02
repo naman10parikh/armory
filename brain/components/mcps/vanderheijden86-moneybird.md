@@ -8,10 +8,12 @@ source_url: https://github.com/vanderheijden86/moneybird-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-03-01T13:52:40Z"
 ---
 ## What it is
 MCP server `Moneybird`, catalogued on PulseMCP. Bridges Moneybird accounting software with natural language interaction, enabling users to manage contacts, invoices, financial accounts, products, projects, and time entries through conversational prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:20:28Z"
 ---
 ## What it is
 Enables natural-language access to workspace-independent public job search, matching, and seeding tools, along with lazy job matching, while keeping private data and application state in a separate operator-owned workspace.

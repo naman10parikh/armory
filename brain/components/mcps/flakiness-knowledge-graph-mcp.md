@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T00:43:13Z"
 ---
 ## What it is
 This MCP server builds a local flakiness knowledge graph from Playwright test run history and enables AI agents to query flaky tests, failure patterns, trends, and correlated git commits, helping diagnose test reliability without manual analysis.

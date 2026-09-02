@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T19:07:28Z"
 ---
 ## What it is
 Enables AI agents to interact with Max (HBO Max) streaming service, supporting search, content details, watchlist management, continue watching, and viewing history via browser automation.

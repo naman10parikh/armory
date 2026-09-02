@@ -8,10 +8,12 @@ source_url: https://github.com/talhaorak/pytaiga-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-03-17T05:20:21Z"
 ---
 ## What it is
 MCP server `Taiga`, catalogued on PulseMCP. Integrates with Taiga project management platform to enable direct control over projects, epics, user stories, tasks and issues without context switching

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:05:13Z"
 ---
 ## What it is
 Enables generating PlantUML diagrams directly from Claude Desktop, with tools to render, save, and obtain URLs or ASCII art.

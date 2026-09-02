@@ -8,10 +8,12 @@ source_url: https://github.com/andresdefi/zerodust
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T20:21:46Z"
 ---
 ## What it is
 MCP server `ZeroDust`, catalogued on PulseMCP. Sweep native gas tokens to exactly zero across 25+ EVM chains via AI agents.

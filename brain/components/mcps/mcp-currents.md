@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:52:19Z"
 ---
 ## What it is
 Wraps the Currents API to provide access to news articles and headlines through MCP. Enables querying current events and news data using natural language via Pipeworx gateway.

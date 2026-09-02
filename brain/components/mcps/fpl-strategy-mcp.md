@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:24:58Z"
 ---
 ## What it is
 Enables Fantasy Premier League squad management with custom tools for player search, fixture outlook, tier classification, hit math, and chip timing, all using public FPL data without requiring login credentials.

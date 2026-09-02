@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T06:29:32Z"
 ---
 ## What it is
 MCP server for Claude Desktop that manages prompt templates with automatic variable extraction and substitution, synchronized from a GitHub repository.

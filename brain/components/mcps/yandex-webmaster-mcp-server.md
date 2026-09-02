@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T09:55:43Z"
 ---
 ## What it is
 MCP server for interacting with Yandex.Webmaster API to manage sites, retrieve search queries, and check indexing status. Requires an OAuth token.

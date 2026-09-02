@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T16:47:28Z"
 ---
 ## What it is
 Enables submitting OpenQASM 2.0 circuits to IBM Quantum hardware and simulators, with job polling and histogram results, from any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:08Z"
 ---
 ## What it is
 Enables users to query official TRT18 labor lawsuit certificates (CEAT) through a read-only MCP tool, using prepaid credits. Works with any MCP client over HTTP.

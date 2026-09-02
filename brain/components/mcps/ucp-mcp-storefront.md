@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:04:00Z"
 ---
 ## What it is
 A UCP-compliant MCP storefront server that exposes product catalog operations (search, cart, checkout) as MCP tools, following UCP schema version 2026-04-08.

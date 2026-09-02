@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T13:34:12Z"
 ---
 ## What it is
 MCP server `Pine Labs Plural`, catalogued on PulseMCP. Create payment orders, subscriptions, and UPI payments via Pine Labs' Plural payment gateway.

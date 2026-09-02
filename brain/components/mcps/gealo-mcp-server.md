@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:02:55Z"
 ---
 ## What it is
 Connects AI clients like Claude, Cursor, and VS Code to a Gealo workspace's tasks, projects, meetings, documents, and chat with OAuth authentication and tenant isolation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-24T18:16:58Z"
 ---
 ## What it is
 Enables AI assistants to manage BookStack knowledge bases with tools for creating, reading, updating, and deleting pages, books, and shelves, as well as searching content.

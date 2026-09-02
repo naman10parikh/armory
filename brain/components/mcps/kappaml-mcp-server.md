@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T22:10:20Z"
 ---
 ## What it is
 Exposes the KappaML API as tools for AI assistants, enabling user management, model operations, predictions, learning, forecasting, metrics, and checkpoint management.

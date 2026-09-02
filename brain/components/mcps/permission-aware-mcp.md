@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T17:41:00Z"
 ---
 ## What it is
 Enables secure file system operations (read, write, delete) and simulated command execution with server-enforced permission policies, risk assessment, and human-in-the-loop approval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-20T20:55:07Z"
 ---
 ## What it is
 Connects AI assistants to Roblox Studio, enabling them to interact with instance hierarchy, edit Luau scripts, manage properties, and sync files over a local connection.

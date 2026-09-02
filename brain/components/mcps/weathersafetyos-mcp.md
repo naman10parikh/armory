@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T07:17:51Z"
 ---
 ## What it is
 Provides personalized weather safety alerts and actions based on location, occupation, and age using real-time Korea Meteorological Administration data.

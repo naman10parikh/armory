@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T17:46:39Z"
 ---
 ## What it is
 A local MCP server that enables Codex to inspect and interact with Chrome tabs through the Chrome DevTools Protocol, primarily for collecting authorized Brightspace course materials into local folders.

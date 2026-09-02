@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-16T14:33:09Z"
 ---
 ## What it is
 A Python MCP server that authenticates users via Microsoft Entra ID, stores per-user data in Azure Cosmos DB, and provides admin tools based on Entra group membership.

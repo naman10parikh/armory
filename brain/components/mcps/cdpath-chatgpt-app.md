@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-10T07:32:40Z"
 ---
 ## What it is
 MCP server `ChatGPT macOS App`, catalogued on PulseMCP. Enables interaction with the ChatGPT macOS app through AppleScript automation, allowing tools to send prompts via keyboard input simulation without switching interfaces.

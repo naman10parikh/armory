@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:49:09Z"
 ---
 ## What it is
 MCP server extending Jina Reader to provide web page/PDF to Markdown reading and Bocha AI/web search via a single HTTP endpoint, exposing read, search, and MCP tools.

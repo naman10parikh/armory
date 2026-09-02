@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T22:52:07Z"
 ---
 ## What it is
 Brings your Trilium Notes knowledge base into Claude Desktop, enabling full-text search, note management, and content interaction through natural language.

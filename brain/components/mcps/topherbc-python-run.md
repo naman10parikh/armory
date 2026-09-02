@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-20T22:48:18Z"
 ---
 ## What it is
 MCP server `Python Run`, catalogued on PulseMCP. Provides a RESTful API for remote execution of Python code snippets.

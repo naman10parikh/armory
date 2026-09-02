@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-15T17:23:29Z"
 ---
 ## What it is
 MCP server `Zoho Creator`, catalogued on PulseMCP. Integrates with the Zoho Creator API to provide forms and reports capabilities.

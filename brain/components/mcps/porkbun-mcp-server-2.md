@@ -8,11 +8,13 @@ source_url: https://github.com/oborseth/Porkbun-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T22:34:54Z"
 ---
 ## What it is
 Exposes the Porkbun v3 API as MCP tools for AI agents to manage domains, DNS, SSL, URL forwarding, and account settings.

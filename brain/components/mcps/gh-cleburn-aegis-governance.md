@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-13T15:26:52Z"
 ---
 ## What it is
 MCP server `Aegis Governance`, catalogued on PulseMCP. Runtime enforcement of agent governance policies through path permissions, role-based boundaries, and content pattern scanning.

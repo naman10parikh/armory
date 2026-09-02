@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:15:19Z"
 ---
 ## What it is
 A confirmation-gated MCP server for Etsy Open API v3 listing inspection and title/tag updates.

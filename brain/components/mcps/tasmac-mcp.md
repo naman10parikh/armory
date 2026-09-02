@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:50:56Z"
 ---
 ## What it is
 MCP server for querying TASMAC liquor shop stock and MRP in Tamil Nadu, including finding nearby shops and products, with history tracking and JSON/text output.

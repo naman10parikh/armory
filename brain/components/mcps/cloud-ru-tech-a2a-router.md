@@ -8,10 +8,12 @@ source_url: https://github.com/cloud-ru/a2a-adk-mcp-example
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-24T14:55:03Z"
 ---
 ## What it is
 MCP server `A2A Router`, catalogued on PulseMCP. Multi-agent system that combines Google's Agent Development Kit with router-based architecture to coordinate specialized AI agents, enabling task delegation between remote agents like weather services through streaming and non-streaming interactions.

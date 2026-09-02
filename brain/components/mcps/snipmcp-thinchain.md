@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T05:57:25Z"
 ---
 ## What it is
 MCP server `Thinchain`, catalogued on PulseMCP. Sanitizes broker data and compresses options chains by up to 95% for AI trading agents.

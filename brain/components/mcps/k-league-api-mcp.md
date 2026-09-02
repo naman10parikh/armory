@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:52:21Z"
 ---
 ## What it is
 Enables querying K League official data (rankings, matches, players) via SQL using natural language, with a pre-built SQLite database.

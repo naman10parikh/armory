@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T07:24:18Z"
 ---
 ## What it is
 MCP server `DB Metadata Extractor`, catalogued on PulseMCP. Extract database schema metadata from PostgreSQL, Snowflake, SQL Server, BigQuery, and Oracle.

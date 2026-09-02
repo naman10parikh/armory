@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T12:03:27Z"
 ---
 ## What it is
 Provides a memory server for coding agents over MCP, capturing and retrieving the meaning and rationale behind code decisions down to the function level. It enables agents to search product memory, get task context, and propose new memories to avoid re-deriving or re-breaking past decisions.

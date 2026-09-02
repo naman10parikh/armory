@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-04T18:36:41Z"
 ---
 ## What it is
 Executes advanced logic primitives and cognitive operations via MCP tools, with dynamic LLM configuration and database tracing for reasoning tasks.

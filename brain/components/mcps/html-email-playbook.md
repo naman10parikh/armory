@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T05:44:21Z"
 ---
 ## What it is
 Teaches AI to write HTML email that renders in Outlook, Gmail, and Apple Mail. 19 rules, 6 components.

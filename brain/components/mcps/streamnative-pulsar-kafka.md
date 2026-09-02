@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-13T13:44:15Z"
 ---
 ## What it is
 MCP server `StreamNative (Apache Pulsar/Kafka)`, catalogued on PulseMCP. Bridges AI systems with Apache Pulsar/Kafka messaging infrastructure, enabling natural language management of topics, subscriptions, schemas, and resources for monitoring and troubleshooting distributed messaging systems.

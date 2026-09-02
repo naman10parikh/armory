@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T16:43:36Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to manage Whop.com business operations, including payments, memberships, products, promo codes, and affiliates.

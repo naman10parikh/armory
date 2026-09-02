@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:30:35Z"
 ---
 ## What it is
 Enables AI agents to create and edit diagrams on a live canvas via MCP tools, including adding nodes, edges, and batching operations, with conflict detection via versioning.

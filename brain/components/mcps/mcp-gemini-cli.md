@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2025-07-03T09:10:08Z"
 ---
 ## What it is
 Wraps Google's Gemini CLI to expose search, chat, and file analysis tools via the Model Context Protocol for AI assistants.

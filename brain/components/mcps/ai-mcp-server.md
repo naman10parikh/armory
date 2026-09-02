@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T08:16:24Z"
 ---
 ## What it is
 A local MCP bridge that registers multiple AI API endpoints, enabling agents to automatically discover and route to models based on capabilities like chat, vision, reasoning, embedding, image generation, TTS, STT, and rerank.

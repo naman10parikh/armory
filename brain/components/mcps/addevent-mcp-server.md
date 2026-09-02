@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:49:07Z"
 ---
 ## What it is
 MCP server that wraps the AddEvent Calendar & Events API v2, allowing Claude to create, search, retrieve, update, and delete events, calendars, and RSVP attendees, plus list timezones.

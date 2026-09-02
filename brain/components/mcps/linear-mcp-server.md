@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2025-08-26T10:29:29Z"
 ---
 ## What it is
 Enables interaction with Linear workspace through the Model Context Protocol, supporting issue management, project cycles, teams, and global search.

@@ -8,10 +8,12 @@ source_url: https://github.com/inboxapi/cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-18T06:02:58Z"
 ---
 ## What it is
 MCP server `InboxAPI`, catalogued on PulseMCP. Gives AI agents a personal email address to send, receive, search, and reply to emails.

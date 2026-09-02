@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T11:30:51Z"
 ---
 ## What it is
 Provides AI agents with causal code memory by indexing repositories into a graph of symbols and edges, enabling context-aware retrieval of relevant code slices.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:46:13Z"
 ---
 ## What it is
 Enables on-demand querying of live NASA POWER weather anomalies and NCBI Pathogen Detection genomic antimicrobial-resistance data for causal analysis.

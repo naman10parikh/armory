@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-15T13:46:17Z"
 ---
 ## What it is
 Enables security analysis of code and infrastructure files via MCP, using Symbiotic CLI for scanning vulnerabilities.

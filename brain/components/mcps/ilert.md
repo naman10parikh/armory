@@ -8,10 +8,12 @@ source_url: https://github.com/ilert/mcp-ilert
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-04T08:38:27Z"
 ---
 ## What it is
 MCP server `ilert`, catalogued on PulseMCP. Integrates with ilert's alerting and incident management platform to provide direct access to alerting workflows, incident data, and on-call management through a remote HTTP transport requiring only API key authentication.

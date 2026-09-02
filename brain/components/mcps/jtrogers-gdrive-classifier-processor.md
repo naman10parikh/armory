@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-18T21:52:38Z"
 ---
 ## What it is
 MCP server `Google Drive Classifier`, catalogued on PulseMCP. Integrates with Google Drive to automatically classify documents using customizable rubrics, extracting content from various file types and updating document properties with classification metadata for organized document management.

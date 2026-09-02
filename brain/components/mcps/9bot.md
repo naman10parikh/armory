@@ -8,11 +8,13 @@ source_url: https://github.com/9-bot/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:57:19Z"
 ---
 ## What it is
 Automate and manage WhatsApp groups, communities, and channels with scheduling, moderation, analytics, and more.

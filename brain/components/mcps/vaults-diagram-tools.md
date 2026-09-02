@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-27T00:18:20Z"
 ---
 ## What it is
 MCP server `Vaults Diagram Tools`, catalogued on PulseMCP. Converts Mermaid diagrams to rendered assets and maps source code to visual diagrams for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-03-28T03:22:41Z"
 ---
 ## What it is
 Enables timezone conversion, astronomical calculations, and date utilities through natural language, supporting sunrise/sunset, moon phases, business days, and more.

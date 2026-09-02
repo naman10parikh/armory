@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T12:59:21Z"
 ---
 ## What it is
 MCP server `HostAtlas`, catalogued on PulseMCP. Monitor servers, manage alerts, tail logs, and defend against attacks on HostAtlas.

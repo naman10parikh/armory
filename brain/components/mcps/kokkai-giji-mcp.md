@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-18T06:00:48Z"
 ---
 ## What it is
 MCP server that provides tools and prompts for searching Japanese Diet (国会) proceedings using the National Diet Library API. Enables querying meetings and speeches with various filters and obtaining direct URLs to the records.

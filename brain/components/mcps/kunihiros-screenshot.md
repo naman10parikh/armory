@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-03T14:03:42Z"
 ---
 ## What it is
 MCP server `Screenshot`, catalogued on PulseMCP. Capture website screenshots and save them to a file path specified by the user.

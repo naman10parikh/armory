@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:55:01Z"
 ---
 ## What it is
 MCP server for validating SDC4 XML instances against XSD schemas, with two-tier error classification and SDC4 compliance checks.

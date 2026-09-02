@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T00:09:33Z"
 ---
 ## What it is
 Exposes Microsoft 365 privacy/compliance audit checks as MCP tools, enabling natural language queries about tenant configuration, orphaned documents, Conditional Access policies, DLP policies, and Copilot usage.

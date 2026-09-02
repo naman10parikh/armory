@@ -8,11 +8,13 @@ source_url: https://github.com/atxp-dev/atxp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-03-03T20:25:44Z"
 ---
 ## What it is
 Gives AI agents a wallet, email, phone number, and instant access to paid MCP tools including web search, image/video/music generation, email, SMS, voice calls, and code execution.

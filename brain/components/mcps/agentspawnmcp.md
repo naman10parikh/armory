@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T18:13:24Z"
 ---
 ## What it is
 A universal MCP server for spawning agents with any OpenAI-compatible LLM, supporting cloud and local models, and integrating with Claude Code, OpenCode, and Codex CLI.

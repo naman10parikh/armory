@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-13T02:49:46Z"
 ---
 ## What it is
 MCP server `Starbucks`, catalogued on PulseMCP. Provides programmatic access to Starbucks menu and ordering data by leveraging Playwright for web interactions, Zod for type validation, and the MCP SDK to enable developers to explore menu categories, items, and store locations.

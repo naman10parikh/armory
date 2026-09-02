@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:20Z"
 ---
 ## What it is
 Enables read-only consultation of official electronic labor lawsuit certificates (CEAT) from TRT7, with a hosted MCP over HTTP, uses prepaid credits per query.

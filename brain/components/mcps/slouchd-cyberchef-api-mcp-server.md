@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 44
+forks: 12
+pushed_at: "2026-04-03T13:00:00Z"
 ---
 ## What it is
 MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:45:44Z"
 ---
 ## What it is
 Enables local-first management of tabs across multiple Chromium browsers through MCP, providing tab organization, search, personal context, and browser actions over a localhost-only interface.

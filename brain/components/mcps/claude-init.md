@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T01:36:29Z"
 ---
 ## What it is
 Generates AI context files (CLAUDE.md, AGENTS.md, Cursor/Windsurf/Cline/Continue/Kilo Code/Trae rules, GEMINI.md, Copilot, Aider, Junie, Warp) for any repository. Runs as CLI or MCP server, 100% local.

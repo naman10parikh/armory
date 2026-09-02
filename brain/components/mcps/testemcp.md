@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:55:20Z"
 ---
 ## What it is
 MCP server for reading and listing JSON documents, designed to be used with Claude Haiku and Headroom compression to reduce token usage. It demonstrates an end-to-end MCP tool-use loop with stdio transport.

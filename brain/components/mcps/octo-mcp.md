@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T11:40:45Z"
 ---
 ## What it is
 Controls Octo Browser antidetect profiles and automates browser tasks through natural language, enabling profile lifecycle management, web scraping, and full browser automation via CDP.

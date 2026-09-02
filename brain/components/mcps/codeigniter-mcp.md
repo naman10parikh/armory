@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:46:35Z"
 ---
 ## What it is
 A Model Context Protocol server that accelerates CodeIgniter-inspired PHP framework development by generating, validating, and maintaining idiomatic MVC plus Services/Repository code via 7 tools and 4 resources.

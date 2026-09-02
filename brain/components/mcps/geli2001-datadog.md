@@ -8,10 +8,12 @@ source_url: https://github.com/geli2001/datadog-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-12-28T03:35:43Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Integrates with Datadog monitoring platform to provide access to metrics, logs, dashboards, monitors, and incidents for DevOps and SRE workflows

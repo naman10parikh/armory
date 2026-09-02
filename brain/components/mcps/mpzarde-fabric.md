@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-17T20:12:16Z"
 ---
 ## What it is
 MCP server `Fabric AI Patterns`, catalogued on PulseMCP. Integration with Fabric AI framework for running AI patterns and prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T02:19:01Z"
 ---
 ## What it is
 Enables Claude to classify audio across 7,000+ sound classes, including bird species and urban noise, with tools for batch processing, webhooks, and usage tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:04:44Z"
 ---
 ## What it is
 Enables AI assistants to monitor and control neoom BEAAM energy management systems, including solar production, battery, grid power, and device control via natural language.

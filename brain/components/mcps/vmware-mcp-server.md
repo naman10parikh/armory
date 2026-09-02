@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-23T19:21:02Z"
 ---
 ## What it is
 Enables management of VMware vCenter and ESXi environments, including VM operations, resource management, and automation with Ollama AI and n8n workflows.

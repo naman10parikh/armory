@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T18:00:38Z"
 ---
 ## What it is
 MCP server `Perf`, catalogued on PulseMCP. Hallucination detection, schema validation, and auto-repair for AI outputs.

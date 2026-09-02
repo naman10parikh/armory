@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-08T14:57:46Z"
 ---
 ## What it is
 MCP server `Binance Bitcoin Market Data`, catalogued on PulseMCP. Provides real-time and historical Bitcoin market data from Binance including ticker data, order books, trades, price charts, and live price streams for financial analysis and market research.

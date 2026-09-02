@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:12:45Z"
 ---
 ## What it is
 MCP servers for enterprise commerce that expose Spring Boot services and React portals through FastMCP servers, enabling natural language interactions with the underlying HTTP APIs.

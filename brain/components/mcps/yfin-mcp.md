@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T01:31:42Z"
 ---
 ## What it is
 An enhanced Yahoo Finance MCP server with pagination, caching, and LLM-optimized responses for stock data, financials, options, and analyst info.

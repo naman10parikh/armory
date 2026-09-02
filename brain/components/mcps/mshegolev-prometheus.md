@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-07T15:17:56Z"
 ---
 ## What it is
 MCP server `Prometheus`, catalogued on PulseMCP. Query Prometheus metrics, inspect alerts, and explore scrape targets with read-only PromQL access.

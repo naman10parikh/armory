@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:42:27Z"
 ---
 ## What it is
 Provides read-only access to Seedance 2.0 AI video generator information including styles, pricing, documentation, and official links for MCP-compatible AI clients like Claude Desktop, Cursor, Windsurf, and Continue.

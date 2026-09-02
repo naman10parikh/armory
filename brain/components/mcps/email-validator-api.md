@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:57:50Z"
 ---
 ## What it is
 Comprehensive email validation MCP server that checks syntax, MX records, disposable domains, role-based accounts, SPF/DKIM, typo suggestions, and risk scoring.

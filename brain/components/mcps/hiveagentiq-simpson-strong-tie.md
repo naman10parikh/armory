@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-01T22:57:20Z"
 ---
 ## What it is
 MCP server `Simpson Strong-Tie Catalog`, catalogued on PulseMCP. Look up Simpson Strong-Tie structural products, specifications, and construction catalog data.

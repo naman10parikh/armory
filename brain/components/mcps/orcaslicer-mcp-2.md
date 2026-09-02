@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T01:43:37Z"
 ---
 ## What it is
 An MCP server that enables headless slicing with OrcaSlicer, preset management, G-code analysis, and local network control of an Elegoo Centauri Carbon 3D printer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T13:33:42Z"
 ---
 ## What it is
 MCP server for Aidoo fitness studio management software, enabling access to members, contracts, classes, bookings, and more directly from Claude.

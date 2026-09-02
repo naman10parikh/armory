@@ -8,10 +8,12 @@ source_url: https://github.com/mariosss/local-logs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-18T08:55:24Z"
 ---
 ## What it is
 MCP server `Local Logs`, catalogued on PulseMCP. Provides real-time log file monitoring and analysis with automated directory detection, cross-platform streaming, error tracking, and text search capabilities for debugging applications and monitoring server health across development and production environments.

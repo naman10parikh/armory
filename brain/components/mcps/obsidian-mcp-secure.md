@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T20:14:00Z"
 ---
 ## What it is
 Secure MCP server that bridges AI clients like Claude Desktop to Obsidian vaults, enabling read/write operations with OWASP Top 10 security controls and audit logging.

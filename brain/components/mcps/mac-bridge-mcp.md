@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:49:44Z"
 ---
 ## What it is
 An MCP server that runs on a Mac and exposes a small, sharp set of tools (shell, file transfer, binary execution, screenshots) over a token-protected network port.

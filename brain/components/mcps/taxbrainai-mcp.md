@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T00:59:07Z"
 ---
 ## What it is
 A standalone MCP server for Indian personal income-tax work (ITR-1/2/3/4 + post-filing notices) with 8 deterministic tools, running fully offline with no API keys.

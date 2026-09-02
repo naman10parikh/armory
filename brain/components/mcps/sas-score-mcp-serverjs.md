@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T15:28:34Z"
 ---
 ## What it is
 This MCP server enables natural language scoring with SAS Viya, allowing users to execute prebuilt SAS code, models, and job definitions seamlessly.

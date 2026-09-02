@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T15:52:50Z"
 ---
 ## What it is
 MCP server for configuring Axis IP cameras via VAPIX, supporting device info, snapshots, image settings, overlays, network, PTZ, and system management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-08T04:34:28Z"
 ---
 ## What it is
 A remote MCP server for top-down portfolio construction with Interactive Brokers, exposing a typed catalog of screeners, news access, and account tools for LLM-driven research workflows.

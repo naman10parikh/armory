@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:32:38Z"
 ---
 ## What it is
 Enables agents to upload, list, delete, and retrieve public URLs for self-contained HTML files on a remote nginx server via MCP, with a management page for browsing and previewing.

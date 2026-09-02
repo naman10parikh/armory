@@ -8,10 +8,12 @@ source_url: https://github.com/jonaolden/pbixray-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-26T19:11:04Z"
 ---
 ## What it is
 MCP server `PBIXRay`, catalogued on PulseMCP. Provides a bridge to analyze Power BI (.pbix) files through a Python-based interface, enabling data model exploration, language querying, and structure analysis with pagination and filtering capabilities.

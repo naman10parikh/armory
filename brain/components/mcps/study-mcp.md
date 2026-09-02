@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:22:35Z"
 ---
 ## What it is
 Converts study materials like PDFs, slides, and DOCX into a searchable vector database with semantic search, summarization, and flashcard generation, integrated with Notion.

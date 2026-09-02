@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T23:26:55Z"
 ---
 ## What it is
 Manages multiple SIP user agents (phones) with full control over calls, registration, and media, plus a scenario engine for multi-step SIP flows.

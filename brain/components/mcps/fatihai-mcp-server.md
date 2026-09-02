@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T20:58:36Z"
 ---
 ## What it is
 A free MCP server providing 13 tools for email verification, domain intelligence, and website analysis with no API keys required.

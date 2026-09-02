@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:38:44Z"
 ---
 ## What it is
 Docs-driven MCP server for SafeTrade REST API with a generic client that reads OpenAPI specs, validates requests, signs private calls, and blocks dangerous operations like withdrawals by default.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T11:18:20Z"
 ---
 ## What it is
 Integrates a bio-hybrid neuromorphic simulation pipeline with SNN, consciousness proxies, and bio-computing platform telemetry as MCP tools, resources, and prompts for AI assistants.

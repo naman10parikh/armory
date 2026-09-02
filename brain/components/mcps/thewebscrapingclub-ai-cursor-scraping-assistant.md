@@ -12,6 +12,8 @@ stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-04-12T18:45:05Z"
 ---
 ## What it is
 MCP server `AI Cursor Scraping Assistant`, catalogued on PulseMCP. Streamlines web scraper development for e-commerce sites by analyzing website structure, detecting anti-bot protections, and generating Scrapy or Camoufox scrapers through a structured workflow.

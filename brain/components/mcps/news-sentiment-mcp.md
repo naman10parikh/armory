@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T14:51:55Z"
 ---
 ## What it is
 Provides news sentiment scores, media volume trends, and historical coverage data for any topic, enabling AI to analyze positive or negative coverage over time.

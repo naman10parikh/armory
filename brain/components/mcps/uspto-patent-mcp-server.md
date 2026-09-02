@@ -8,11 +8,13 @@ source_url: https://github.com/riemannzeta/patent_mcp_server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 76
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2026-09-02T00:59:59Z"
 ---
 ## What it is
 Provides access to USPTO patent and patent application data through multiple APIs, enabling search, retrieval, and analysis of patents, PTAB proceedings, and litigation data via natural language.

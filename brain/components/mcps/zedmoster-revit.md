@@ -8,10 +8,12 @@ source_url: https://github.com/zedmoster/revit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-12-24T09:19:44Z"
 ---
 ## What it is
 MCP server `Revit`, catalogued on PulseMCP. Bridges Autodesk Revit with external tools for finding, creating, updating, and deleting model elements including walls, floors, levels, grids, and family instances via TCP socket connection.

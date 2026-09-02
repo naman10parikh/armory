@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T08:25:02Z"
 ---
 ## What it is
 Turns Claude Code into a recursive analysis engine that builds explorable decision trees from IF/THEN chains, enabling thorough problem exploration and structured synthesis of action plans.

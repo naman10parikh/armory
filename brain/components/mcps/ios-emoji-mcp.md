@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-10T14:03:02Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides access to iOS emoji images with URLs for both 160x160px and 320x320px versions.

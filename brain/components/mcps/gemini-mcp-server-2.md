@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T21:15:07Z"
 ---
 ## What it is
 MCP server that connects Claude Desktop to Google Gemini, enabling multimodal analysis with file attachments (video, image, audio, PDF).

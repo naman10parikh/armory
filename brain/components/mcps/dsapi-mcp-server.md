@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T13:38:54Z"
 ---
 ## What it is
 MCP server for Android automation that captures screen frames via DirectScreenAPI and supports touch gestures and system key operations.

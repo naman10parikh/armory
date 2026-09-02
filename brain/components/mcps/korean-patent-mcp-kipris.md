@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-17T06:07:38Z"
 ---
 ## What it is
 MCP server that enables searching Korean patents, trademarks, and designs via KIPRIS Plus open APIs. Supports keyword, advanced, applicant, and rightholder searches with detailed bibliographic lookup.

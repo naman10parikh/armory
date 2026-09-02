@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:56:32Z"
 ---
 ## What it is
 A local, persistent, semantically-aware knowledge graph for AI coding agents like Claude Code, providing efficient session memory with minimal token cost and zero runtime network calls.

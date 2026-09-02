@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:56:00Z"
 ---
 ## What it is
 Enables fetching Google Maps reviews and place info without authentication by using a mobile user-agent with Playwright.

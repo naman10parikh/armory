@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
 stars: 24
+forks: 9
+pushed_at: "2026-08-04T11:27:42Z"
 ---
 ## What it is
 Mailchimp Marketing API integration with 53 tools for managing campaigns, audiences, reports, automations, landing pages, e-commerce data, and batch operations.

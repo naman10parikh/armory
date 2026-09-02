@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-26T19:57:46Z"
 ---
 ## What it is
 为纯文本主模型提供多模态能力的MCP服务器，通过外包图像、视频和音频分析给外部多模态模型并回填文字结果。

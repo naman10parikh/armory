@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:54:31Z"
 ---
 ## What it is
 MCP server for instruckt visual annotations. Enables AI agents to retrieve pending annotations, view screenshots, and resolve annotations.

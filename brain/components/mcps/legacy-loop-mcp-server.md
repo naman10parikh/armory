@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T17:32:07Z"
 ---
 ## What it is
 Enables AI assistants to create, manage, and discover family gift registries. Users can add links from Amazon, Target, and more through natural language.

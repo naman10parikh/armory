@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T10:47:20Z"
 ---
 ## What it is
 Provides measured vertical ground motion (subsidence and uplift) for US addresses using NASA OPERA Sentinel-1 InSAR data.

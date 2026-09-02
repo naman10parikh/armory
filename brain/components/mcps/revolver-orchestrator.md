@@ -8,10 +8,12 @@ source_url: https://github.com/ruslan-sazonov/revolver-orchestrator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-08T15:32:05Z"
 ---
 ## What it is
 MCP server `Revolver Orchestrator`, catalogued on PulseMCP. Orchestrates Gemini CLI for architectural planning and Claude Code for implementation, using Context7 to fetch library documentation and create detailed development plans with file structures, dependencies, and risk assessments.

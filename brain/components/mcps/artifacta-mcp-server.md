@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:07:00Z"
 ---
 ## What it is
 The artifact store for AI agents. Every output your agents produce — persisted, retrievable, shareable. Across runs, sessions, and tools. Session/agent metadata, content-hash dedup, and expiring share links; available on npm (@artifacta-mcp/mcp) and PyPI (artifacta-mcp).

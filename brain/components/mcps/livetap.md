@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T16:22:06Z"
 ---
 ## What it is
 LiveTap connects live data streams (MQTT, WebSocket, file tailing) to AI coding agents, enabling real-time monitoring and alerting through natural language.

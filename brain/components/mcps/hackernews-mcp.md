@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T23:32:49Z"
 ---
 ## What it is
 Enables LLMs to search and read Hacker News posts and comments via the Algolia API.

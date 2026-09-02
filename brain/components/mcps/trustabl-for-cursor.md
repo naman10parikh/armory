@@ -8,11 +8,13 @@ source_url: https://github.com/trustabl/trustabl-cursor
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:11:06Z"
 ---
 ## What it is
 MCP server that brings Trustabl static reliability scanning into Cursor, letting agents inventory agents/tools, flag risky patterns, score production readiness, and write SARIF reports.

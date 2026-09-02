@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T08:56:45Z"
 ---
 ## What it is
 KatokMCP lets AI assistants (Claude, OpenClaw, etc.) control KakaoTalk — Korea's #1 messaging app with 50M+ users. Read chats, send messages, list rooms, and manage members through the MCP protocol. Install: npm install -g @katok-mcp/mcp-server && katok-mcp setup Language: TypeScript | Platform: All

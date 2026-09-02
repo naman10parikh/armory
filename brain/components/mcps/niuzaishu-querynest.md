@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-22T11:35:57Z"
 ---
 ## What it is
 MCP server `QueryNest (MongoDB)`, catalogued on PulseMCP. Transforms MongoDB databases into conversational interfaces by automatically discovering collection schemas and generating optimized queries from natural language requests.

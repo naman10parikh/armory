@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-09T19:20:15Z"
 ---
 ## What it is
 Provides a suite of AI tools for web search, mathematical calculations, and tech news aggregation via MCP, leveraging Groq LLMs.

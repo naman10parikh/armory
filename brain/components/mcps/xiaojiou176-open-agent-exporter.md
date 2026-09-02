@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-27T08:54:38Z"
 ---
 ## What it is
 MCP server `Agent Exporter`, catalogued on PulseMCP. Local archive and governance workbench for AI agent transcripts with semantic search and evidence tracking.

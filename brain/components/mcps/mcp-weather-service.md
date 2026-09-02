@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-13T14:58:13Z"
 ---
 ## What it is
 A weather service built using Model-Context-Protocol (MCP) that provides current weather and forecasts for Indian cities using WeatherAPI.com.

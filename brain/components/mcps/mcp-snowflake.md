@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-16T13:27:02Z"
 ---
 ## What it is
 A Model Context Protocol server that connects to Snowflake databases and executes SQL queries. It provides tools to list databases, schemas, tables, describe tables, execute read-only queries, sample data, analyze table statistics, profile semi-structured columns, and search columns.

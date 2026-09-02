@@ -8,10 +8,12 @@ source_url: https://github.com/odancona/code2prompt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-23T09:43:23Z"
 ---
 ## What it is
 MCP server `Code2Prompt`, catalogued on PulseMCP. Transforms complex codebases into structured summaries optimized for language models, enabling better code understanding for analysis, documentation, and technical assistance workflows.

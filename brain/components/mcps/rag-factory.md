@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:52:06Z"
 ---
 ## What it is
 Automated RAG pipeline optimization and serving. It interviews users, builds and evaluates candidate configurations on their data, and registers the best ones as a fleet queryable via MCP.

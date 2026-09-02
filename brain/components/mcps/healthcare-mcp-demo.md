@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:00:26Z"
 ---
 ## What it is
 A healthcare MCP demo server exposing clinical resources, tools, and prompts over SSE with authentication, integrated with Pydantic AI and Gemini for natural language patient record updates.

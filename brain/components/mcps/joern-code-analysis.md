@@ -8,10 +8,12 @@ source_url: https://github.com/sfncat/mcp-joern
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-27T00:32:45Z"
 ---
 ## What it is
 MCP server `Joern (Code Analysis)`, catalogued on PulseMCP. Integrates with Joern's code analysis capabilities to enable static code analysis, vulnerability identification, and code structure understanding through a Python interface to Code Property Graphs.

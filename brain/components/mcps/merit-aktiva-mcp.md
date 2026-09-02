@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T20:40:56Z"
 ---
 ## What it is
 Exposes ~60 tools for the Merit Aktiva accounting API, covering sales/purchase invoices, payments, customers, vendors, items, general ledger, offers, reference data, and reports with both read and write operations.

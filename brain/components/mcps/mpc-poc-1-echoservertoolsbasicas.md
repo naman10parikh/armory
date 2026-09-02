@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:35:31Z"
 ---
 ## What it is
 A learning-oriented MCP server that exposes basic tools (echo, add, reverse) over stdio transport to validate MCP handshake and tool calls.

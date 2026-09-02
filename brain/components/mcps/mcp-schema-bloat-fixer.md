@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:46:18Z"
 ---
 ## What it is
 Reduces token costs from MCP tool schemas by analyzing bloat, compressing descriptions, and selecting only relevant tools for AI agents.

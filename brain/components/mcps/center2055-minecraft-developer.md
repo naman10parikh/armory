@@ -8,10 +8,12 @@ source_url: https://github.com/center2055/minecraftdevelopermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-17T12:53:37Z"
 ---
 ## What it is
 MCP server `Minecraft Developer`, catalogued on PulseMCP. Spigot/Bukkit plugin that exposes Minecraft server administration capabilities through HTTP and SSE APIs, enabling remote command execution, file system operations, plugin management, and log monitoring with token-based authentication.

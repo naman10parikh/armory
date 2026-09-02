@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:57:24Z"
 ---
 ## What it is
 Enables AI agents to read and write MoySklad inventory, orders, reports, and documents via JSON API 1.2 with safety gates.

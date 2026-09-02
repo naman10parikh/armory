@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-07T08:45:44Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides VSCode context and filesystem operations for AI assistants.

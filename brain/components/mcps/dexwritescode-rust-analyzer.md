@@ -8,10 +8,12 @@ source_url: https://github.com/dexwritescode/rust-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-07-13T09:39:44Z"
 ---
 ## What it is
 MCP server `Rust Analyzer`, catalogued on PulseMCP. Integrates with rust-analyzer via LSP to provide intelligent Rust code analysis, generation, refactoring, and project management through 19 specialized tools including symbol navigation, diagnostics, automated refactoring, struct/enum generation, test creation, and type hierarchy analysis.

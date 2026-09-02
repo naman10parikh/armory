@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T15:23:22Z"
 ---
 ## What it is
 MCP server `File Finder`, catalogued on PulseMCP. Indexes and searches file systems to provide detailed information about files including name, path, size, and creation date, enabling efficient document retrieval and content management without direct filesystem access.

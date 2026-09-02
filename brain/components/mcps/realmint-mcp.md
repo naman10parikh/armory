@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T15:22:35Z"
 ---
 ## What it is
 Agent-native access to tokenized RWAs: scoring, market data, route support, price history, and a keyless x402 buy on-ramp via MCP tools.

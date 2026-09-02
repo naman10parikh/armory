@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T04:32:35Z"
 ---
 ## What it is
 An MCP server that provides an LLM with access to R's statistical toolkit including hypothesis tests, regression, psychometrics, survival analysis, time series, and plots through a persistent R session.

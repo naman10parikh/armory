@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:21:50Z"
 ---
 ## What it is
 A local-first, LLM-agnostic MCP server that lets you ask hard questions about your documents, media, and code, and get traceable answers entirely offline.

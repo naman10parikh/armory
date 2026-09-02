@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-20T13:17:39Z"
 ---
 ## What it is
 A production-ready MCP server that equips AI agents with dynamic, persistent, and executable skills. It enables secure script execution and progressive disclosure to reduce context window usage.

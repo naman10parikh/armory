@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:24:47Z"
 ---
 ## What it is
 Exposes Minecraft server commands via RCON as a tool, and optionally powers an in-game AI chat listener that answers player questions using Claude.

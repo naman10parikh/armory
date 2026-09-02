@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-17T10:55:54Z"
 ---
 ## What it is
 MCP server `Book Fetch (Library Genesis)`, catalogued on PulseMCP. Retrieves and processes published books from Library Genesis, delivering text content in manageable chunks with proper metadata for in-depth analysis and research.

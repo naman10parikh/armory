@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:22:00Z"
 ---
 ## What it is
 Enables LLM clients to run deterministic Korean traditional metaphysics analyses—such as Saju, Zijudoushu, and DaLiuren—by exposing read-only tools that return structured evidence, lineage, sources, and explicit handling of unknown birth times.

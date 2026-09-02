@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-03-04T18:59:45Z"
 ---
 ## What it is
 MCP server `Alpaca Trading`, catalogued on PulseMCP. Integrates with the Alpaca trading API to provide algorithmic trading and portfolio management tools for account information, market data, order placement, and position tracking.

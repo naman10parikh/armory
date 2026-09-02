@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:53:06Z"
 ---
 ## What it is
 Downloads and analyzes videos from platforms like Instagram, YouTube, and TikTok locally, returning keyframes and optional transcripts.

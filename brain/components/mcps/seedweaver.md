@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T11:06:11Z"
 ---
 ## What it is
 Generates realistic, referentially-coherent test data (SQL INSERTs, JSON, or CSV) from your database schema, resolving foreign keys and respecting constraints. Paste CREATE TABLE DDL or a JSON schema and get ready-to-run seed data with valid relationships.

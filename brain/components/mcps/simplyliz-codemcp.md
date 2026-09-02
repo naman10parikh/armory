@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 108
+forks: 11
+pushed_at: "2026-07-28T08:55:51Z"
 ---
 ## What it is
 Code intelligence MCP server with 80+ tools for semantic code search, impact analysis, call graphs, ownership detection, and architectural understanding. Supports Go, TypeScript, Python, Rust, Java via SCIP indexing.

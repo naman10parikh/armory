@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-27T00:10:13Z"
 ---
 ## What it is
 MCP server `Flux Schnell`, catalogued on PulseMCP. Generates images using the Flux Schnell model via a Cloudflare worker API, providing a streamlined text-to-image generation service with robust error handling and environment variable configuration.

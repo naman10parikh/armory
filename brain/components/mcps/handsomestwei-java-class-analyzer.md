@@ -8,10 +8,12 @@ source_url: https://github.com/handsomestwei/java-class-analyzer-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-06-28T15:58:53Z"
 ---
 ## What it is
 MCP server `Java Class Analyzer`, catalogued on PulseMCP. Analyzes and decompiles Java class files with CFR decompiler integration, Maven repository support, and dependency scanning to enable reverse engineering, security auditing, and understanding of compiled bytecode when source code is unavailable.

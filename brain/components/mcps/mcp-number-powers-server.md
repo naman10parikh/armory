@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:21:04Z"
 ---
 ## What it is
 Exposes tools to calculate powers (square, cube, etc.) of a number via stdio or HTTP/SSE, with an additional resource and prompt on the HTTP variant.

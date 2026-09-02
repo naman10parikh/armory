@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T11:11:29Z"
 ---
 ## What it is
 MCP server `Moltarch`, catalogued on PulseMCP. Marketing intelligence API for AI agents with real campaign data and analytics.

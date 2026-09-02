@@ -8,10 +8,12 @@ source_url: https://github.com/zw008/vmware-nsx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T07:22:17Z"
 ---
 ## What it is
 MCP server `VMware NSX`, catalogued on PulseMCP. VMware NSX networking management with segments, gateways, NAT, routing, and IPAM tools.

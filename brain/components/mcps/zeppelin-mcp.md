@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-21T11:58:39Z"
 ---
 ## What it is
 MCP server that provides AI assistants direct access to the Apache Zeppelin REST API for data engineering workflows, enabling notebook and paragraph management, execution, and interpreter control.

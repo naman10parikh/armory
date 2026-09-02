@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T07:12:30Z"
 ---
 ## What it is
 First MCP server for the Procare Connect API, enabling querying child care center data (attendance, enrollments, family balances, etc.) via natural language from Claude, Cursor, or any MCP client.

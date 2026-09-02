@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:39:16Z"
 ---
 ## What it is
 Enables project management through natural language, allowing users to create, list, and update tasks with SQLite persistence, integrated with Claude Code and deployable over SSE.

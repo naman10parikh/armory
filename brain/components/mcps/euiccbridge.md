@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-24T17:11:01Z"
 ---
 ## What it is
 Enables management of eSIM profiles, SMS, and cellular modem diagnostics on Linux through a CLI and MCP server with safety defaults.

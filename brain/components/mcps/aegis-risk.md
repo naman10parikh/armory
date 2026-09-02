@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T10:02:46Z"
 ---
 ## What it is
 A multi-agent financial portfolio risk analyzer that provides MCP tools for fetching market news and storing compliance-reviewed assessment reports in a local database.

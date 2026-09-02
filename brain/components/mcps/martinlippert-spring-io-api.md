@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-24T13:16:16Z"
 ---
 ## What it is
 MCP server `Spring IO`, catalogued on PulseMCP. Integrates with Spring's API to provide release information and support timelines for Spring projects, enabling dependency management and upgrade planning.

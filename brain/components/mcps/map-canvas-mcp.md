@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:23:27Z"
 ---
 ## What it is
 Enables interactive map display with up to 50 marked places and optional route lines, using a bundled Leaflet UI and OpenStreetMap tiles.

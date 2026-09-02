@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T13:53:23Z"
 ---
 ## What it is
 Provides AI agents with global tech news from 500+ sources across regions, with translated titles, scoring, and clustering tools for real-time intelligence.

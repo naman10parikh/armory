@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-29T15:31:16Z"
 ---
 ## What it is
 Enables specification-driven development workflows for AI editors by managing structured project specifications through stages like requirements, design, and tasks.

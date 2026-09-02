@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:52:01Z"
 ---
 ## What it is
 Enables AI assistants to control Windows GUI by listing and focusing windows, capturing element snapshots via UIA/OCR/CDP, performing clicks/inputs/scrolls, verifying changes, waiting for screen updates, taking screenshots, and obtaining visual descriptions.

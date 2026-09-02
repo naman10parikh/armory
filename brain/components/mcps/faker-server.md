@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T16:42:55Z"
 ---
 ## What it is
 Provides tools for generating fake data using Faker.js, including person, lorem, internet, and more, with support for multiple locales and customizable options.

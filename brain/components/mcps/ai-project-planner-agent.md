@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:44:29Z"
 ---
 ## What it is
 Enables AI project feasibility evaluation and solution planning through structured reasoning stages, using Gemini API and web search for up-to-date research.

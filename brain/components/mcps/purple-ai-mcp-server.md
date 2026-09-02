@@ -8,11 +8,13 @@ source_url: https://github.com/Sentinel-One/purple-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 95
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 30
+pushed_at: "2026-07-01T16:49:11Z"
 ---
 ## What it is
 Enables MCP clients to interact with SentinelOne's cybersecurity platform for security analysis, threat investigation, and asset management through natural language queries. Provides read-only access to alerts, vulnerabilities, misconfigurations, and inventory data.

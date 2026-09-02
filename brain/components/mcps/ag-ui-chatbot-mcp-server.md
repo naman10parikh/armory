@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-02T00:26:20Z"
 ---
 ## What it is
 Enables dynamic UI template generation through natural language using Model Context Protocol, supporting multiple AI model providers like Bedrock, OpenAI, and Google.

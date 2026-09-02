@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T16:03:37Z"
 ---
 ## What it is
 Enables browser automation and control through ZenLink, allowing Claude Desktop and other MCP clients to drive a Zen Browser with 75+ tools for navigation, content extraction, interaction, parallel multi-tab operations, and session management.

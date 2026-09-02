@@ -8,11 +8,13 @@ source_url: https://github.com/higebu/3gpp-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:27:23Z"
 ---
 ## What it is
 MCP server that parses 3GPP .docx specifications into structured sections with full-text search, letting LLMs browse, search, and follow cross-references without a vector database.

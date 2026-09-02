@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T19:38:59Z"
 ---
 ## What it is
 MCP server `Sports Context Protocol`, catalogued on PulseMCP. Provides real-time sports data including scores, schedules, and standings for various leagues.

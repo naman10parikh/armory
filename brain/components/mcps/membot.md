@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T18:05:39Z"
 ---
 ## What it is
 Provides a persistent, versioned, and searchable context store for AI agents with local embedding and hybrid search.

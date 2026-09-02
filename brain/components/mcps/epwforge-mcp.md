@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:30:52Z"
 ---
 ## What it is
 Weather files (EPW/DDY) for building energy simulation, on-demand. Four tools: search the 17,000-station catalog, analyze any EPW (design conditions, HDD/CDD, DesignDay IDF emit), render 5 chart types (diurnal, wind rose, temp carpet, monthly box plot, comparison), and generate TMY/AMY/CMIP6-morphed

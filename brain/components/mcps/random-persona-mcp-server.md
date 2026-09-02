@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T20:22:08Z"
 ---
 ## What it is
 Enables dynamic persona injection and post-processing for LLM conversations through a six-layer engine. Supports commands and state management for personalized interactions.

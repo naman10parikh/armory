@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-04-14T09:23:48Z"
 ---
 ## What it is
 An MCP server that integrates Strava OAuth for remote connections, enabling users to authenticate with their Strava account and access Strava data through the MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-05T20:29:20Z"
 ---
 ## What it is
 A production-ready MCP server for algorithmic trading with Dhan broker API, providing market data, order management, portfolio tracking, and real-time trading capabilities.

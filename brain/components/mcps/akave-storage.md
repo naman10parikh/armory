@@ -8,10 +8,12 @@ source_url: https://github.com/akave-ai/akave-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-29T15:13:57Z"
 ---
 ## What it is
 MCP server `Akave Storage`, catalogued on PulseMCP. Integrates with Akave's S3-compatible storage platform to manage buckets and objects, upload/download files, generate signed URLs, and handle file operations with automatic text cleaning for common formats.

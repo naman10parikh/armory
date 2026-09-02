@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:42:48Z"
 ---
 ## What it is
 MCP server for grounded agentic Q&A over customer feedback, exposing typed tools to query a feedback corpus and return answers with citations to specific record IDs or a refusal when unsupported.

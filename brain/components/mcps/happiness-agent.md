@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, healthcare-wellness]
+forks: 0
+pushed_at: "2025-04-19T07:27:30Z"
 ---
 ## What it is
 Agent focused on wellness and happiness

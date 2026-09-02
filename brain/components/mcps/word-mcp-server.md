@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-23T12:54:55Z"
 ---
 ## What it is
 MCP server for real-time Microsoft Word document manipulation via COM automation. Word runs in a visible window — every change appears instantly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:35:47Z"
 ---
 ## What it is
 Enables Claude Code agents to generate images via the Runware API with full parameter control, exact USD cost reporting, local image saving, and a live gallery.

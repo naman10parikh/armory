@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T14:46:36Z"
 ---
 ## What it is
 MCP server `Microsoft Teams Notifications`, catalogued on PulseMCP. Enables sending markdown-formatted notifications to Microsoft Teams channels using Azure AD authentication, specifically designed for development environment status updates and team communication.

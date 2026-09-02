@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 1
+forks: 4
+pushed_at: "2025-06-23T14:07:12Z"
 ---
 ## What it is
 integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools

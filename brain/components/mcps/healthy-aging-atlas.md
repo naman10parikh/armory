@@ -8,10 +8,12 @@ source_url: https://github.com/rustamismail/healthyagingatlas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T09:41:10Z"
 ---
 ## What it is
 MCP server `Healthy Aging Atlas`, catalogued on PulseMCP. MCP server for evidence-based supplement data including trust-scored products, price history, comparisons, and goal-based recommendations.

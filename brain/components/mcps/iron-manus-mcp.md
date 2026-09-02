@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-02-16T09:23:33Z"
 ---
 ## What it is
 Enables AI workflow orchestration with an 8-phase process, task delegation via Todos, and role-based agent specialization for complex multi-step tasks.

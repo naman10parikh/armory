@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:21:28Z"
 ---
 ## What it is
 MCP server exposing BI Portal's self-service Report Builder to MCP clients, enabling listing datasets, running ad-hoc queries, creating/editing/submitting draft reports, and viewing saved dashboards.

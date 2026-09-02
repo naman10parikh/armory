@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-23T15:35:02Z"
 ---
 ## What it is
 Simulates harsh, fake user reviews to psychologically condition AI agents for enforcing disciplined development practices, with optional Ollama integration for dynamic criticism.

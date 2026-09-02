@@ -8,10 +8,12 @@ source_url: https://github.com/salesforgeai/forge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-20T14:20:01Z"
 ---
 ## What it is
 MCP server `Salesforge`, catalogued on PulseMCP. Manages Salesforge, Primeforge, Leadsforge, Infraforge, Warmforge, and Mailforge accounts.

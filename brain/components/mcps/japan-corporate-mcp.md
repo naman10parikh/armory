@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-22T14:22:54Z"
 ---
 ## What it is
 MCP server for searching Japanese corporate data including companies, financials, patents, subsidies, and government statistics via official government APIs.

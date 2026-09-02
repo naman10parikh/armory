@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-09-25T02:49:51Z"
 ---
 ## What it is
 MCP server `GitHub Repo Extractor`, catalogued on PulseMCP. Connects to GitHub repositories, enabling natural language queries about code structure, dependencies, and development history.

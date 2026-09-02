@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-27T07:12:25Z"
 ---
 ## What it is
 A Python framework for building MCP servers with modular architecture, dependency injection, and built-in authentication. Enables creating scalable, testable MCP services with features like pipeline interceptors and background tasks.

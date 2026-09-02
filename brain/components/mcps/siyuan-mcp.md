@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-06T06:09:03Z"
 ---
 ## What it is
 MCP server for SiYuan Note, enabling AI tools to search, read, create, and organize notes with 66 tools.

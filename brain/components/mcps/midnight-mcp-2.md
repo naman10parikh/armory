@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-02T12:58:17Z"
 ---
 ## What it is
 MCP server that gives AI assistants access to Midnight blockchain—search contracts, analyze code, and explore documentation.

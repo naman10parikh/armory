@@ -8,10 +8,12 @@ source_url: https://github.com/cdmx-in/authentik-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-03T12:01:36Z"
 ---
 ## What it is
 MCP server `Authentik`, catalogued on PulseMCP. Integrates with Authentik's identity and access management platform to provide user, group, and application management capabilities alongside event monitoring, authentication flow configuration, and system administration tools.

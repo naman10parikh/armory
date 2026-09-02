@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T02:27:01Z"
 ---
 ## What it is
 Enables querying any GitHub, GitLab, or Bitbucket repository and getting AI-generated answers about the codebase, powered by Gemini.

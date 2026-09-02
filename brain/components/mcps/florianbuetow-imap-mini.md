@@ -8,10 +8,12 @@ source_url: https://github.com/florianbuetow/imap-mini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-07T06:11:26Z"
 ---
 ## What it is
 MCP server `IMAP Mini`, catalogued on PulseMCP. Lightweight IMAP email integration for reading, searching, organizing, and drafting emails with built-in safety guardrails that prevent sending or deleting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:20:17Z"
 ---
 ## What it is
 Guarded, profile-driven Charles Proxy automation for macOS and Android testing. Uses immutable TOML profiles and explicit plan/apply confirmation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T21:51:39Z"
 ---
 ## What it is
 Open-source MCP server providing 72 tools for AI governance, observability, and security, with a built-in defense layer (ThinkShield).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-19T18:15:21Z"
 ---
 ## What it is
 Provides governed access to ConnectWise Manage (PSA) data including service tickets, companies, contacts, configurations, projects, sales, time, schedule, finance, and procurement through 68 tools, with read-only mode by default and optional write operations, deployed to Azure with credentials store

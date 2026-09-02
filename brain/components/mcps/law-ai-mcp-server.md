@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T16:15:37Z"
 ---
 ## What it is
 Provides AI assistants access to 991,000+ bar-verified U.S. attorney profiles for accurate lawyer search, verification, and referral without hallucination.

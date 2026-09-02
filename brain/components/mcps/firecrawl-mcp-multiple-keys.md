@@ -8,11 +8,13 @@ source_url: https://github.com/AdvaitR7/firecrawl-mcp-multiple-keys
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T03:42:33Z"
 ---
 ## What it is
 A Firecrawl MCP server with built-in support for multiple API key rotation, enabling web search, scraping, crawling, extraction, and more via MCP clients.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-11T18:30:32Z"
 ---
 ## What it is
 MCP server `Cookwith Recipe`, catalogued on PulseMCP. Generate and transform recipes with dietary preferences and nutritional goals

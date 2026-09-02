@@ -8,11 +8,13 @@ source_url: https://github.com/TMSSS05/google-flow-browser-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-05-31T03:30:58Z"
 ---
 ## What it is
 Controls Google Flow for image and video generation from an AI agent. Enables generating images with models like Imagen 4, creating videos, managing characters and scenes via browser automation.

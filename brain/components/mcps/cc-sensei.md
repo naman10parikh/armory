@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:33:02Z"
 ---
 ## What it is
 Distills Claude Code's 310K-line source into 32 queryable modules via MCP, enabling AI agents to learn and reuse Claude Code's architectural patterns through natural language.

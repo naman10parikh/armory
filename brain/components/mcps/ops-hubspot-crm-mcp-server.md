@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:23:50Z"
 ---
 ## What it is
 Custom MCP server for HubSpot CRM providing ICP segmentation, scoring, duplicate detection, Data Quality Score, and lifecycle stage automation. Exposes 39 tools to enhance HubSpot's native capabilities.

@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-dir/sefaz_rr_certidao_debitos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:50Z"
 ---
 ## What it is
 Consulta Certidão Negativa de Débitos da SEFAZ RR em fonte oficial, por meio de uma ferramenta de leitura, com pagamento pré-pago por uso.

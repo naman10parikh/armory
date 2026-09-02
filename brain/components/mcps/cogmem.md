@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:57:50Z"
 ---
 ## What it is
 Self-improving, verifiable memory for AI coding agents. Learns how you work, stops repeating mistakes, models each project, recalls the right lesson at the right moment. Every memory is signed and tamper-evident. Local-first.

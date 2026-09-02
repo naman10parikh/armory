@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:43:26Z"
 ---
 ## What it is
 The official crypto yield data MCP server: native Claude access to live and historical crypto lending, savings, staking, borrowing, stablecoin, price, coin metadata, and market data.

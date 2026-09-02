@@ -8,10 +8,12 @@ source_url: https://github.com/simonliebers-dev/components.mcp.blazor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-27T06:50:43Z"
 ---
 ## What it is
 MCP server `Blazor Components`, catalogued on PulseMCP. Uses reflection to discover and analyze Blazor components from loaded assemblies, extracting metadata about parameters, cascading parameters, and injected dependencies for contextual assistance with component APIs and parameter requirements.

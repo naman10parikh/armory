@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:05:41Z"
 ---
 ## What it is
 Enables AI assistants to directly control and interact with the Unreal Editor through natural language, allowing tasks such as spawning actors, building levels, creating materials, and running Python scripts.

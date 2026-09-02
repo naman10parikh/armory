@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T01:17:48Z"
 ---
 ## What it is
 A MCP server that enables AI assistants to control Android devices via ADB, supporting device info, screen control, input simulation, app management, shell execution, file transfer, and UI parsing.

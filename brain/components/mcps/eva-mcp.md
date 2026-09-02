@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:18:17Z"
 ---
 ## What it is
 MCP server and CLI for EVA FING (Moodle of Facultad de Ingeniería, UdelaR) that authenticates headlessly via Shibboleth, enabling AI agents and users to query courses, announcements, activities, calendar, and study material.

@@ -8,10 +8,12 @@ source_url: https://github.com/okapi-ca/ms-365-admin-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T18:05:42Z"
 ---
 ## What it is
 MCP server `Microsoft 365 Admin`, catalogued on PulseMCP. Microsoft 365 administration via Graph API — 521 tools for security, identity, Exchange, and Intune.

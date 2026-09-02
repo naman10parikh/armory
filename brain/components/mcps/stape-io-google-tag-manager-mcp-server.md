@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
-stars: 203
+stars: 209
+forks: 61
+pushed_at: "2026-09-01T19:14:32Z"
 ---
 ## What it is
 This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.

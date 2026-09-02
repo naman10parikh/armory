@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T00:48:08Z"
 ---
 ## What it is
 Enables session continuity across AI coding assistants by preserving context and generating handoff markdown, allowing seamless switching between tools like Cursor, Claude Code, and Claude Desktop.

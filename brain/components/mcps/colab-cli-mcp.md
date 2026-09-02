@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:04:59Z"
 ---
 ## What it is
 Enables MCP clients to execute Python code on Google Colab GPU/TPU runtimes via the official Colab CLI, with session, file, and package management capabilities.

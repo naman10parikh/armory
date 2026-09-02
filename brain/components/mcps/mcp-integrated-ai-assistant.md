@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:13:14Z"
 ---
 ## What it is
 An MCP server providing tools for YouTube search, AI trip planning, notes management, web search, and product price comparison, backed by a FastAPI backend.

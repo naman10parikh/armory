@@ -8,10 +8,12 @@ source_url: https://github.com/nissand/whoop-mcp-server-claude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-08-11T00:44:31Z"
 ---
 ## What it is
 MCP server `WHOOP`, catalogued on PulseMCP. Integrates with WHOOP fitness API to provide access to user profiles, physiological cycles, recovery data, sleep tracking, and workout analysis through 18 specialized tools with OAuth 2.0 authentication and pagination support.

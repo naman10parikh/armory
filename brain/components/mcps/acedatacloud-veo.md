@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T10:40:38Z"
 ---
 ## What it is
 MCP server `AceDataCloud Veo`, catalogued on PulseMCP. Google Veo AI video generation through the AceDataCloud API platform.

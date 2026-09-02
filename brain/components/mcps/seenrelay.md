@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:55:37Z"
 ---
 ## What it is
 Enables AI agents to check and contribute recent observations of source-backed facts, reducing redundant revalidation of unchanged information.

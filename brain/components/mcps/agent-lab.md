@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T08:49:34Z"
 ---
 ## What it is
 Run and test agentic systems in isolated Docker sandboxes, varying system prompts, models, and task prompts while capturing full behavior traces via MCP tools.

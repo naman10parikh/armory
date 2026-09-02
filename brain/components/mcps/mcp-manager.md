@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:30:44Z"
 ---
 ## What it is
 A gateway that manages multiple MCP servers behind one endpoint, providing namespaced tool routing and supervision. Currently bundles an Arxiv MCP server for paper search and retrieval.

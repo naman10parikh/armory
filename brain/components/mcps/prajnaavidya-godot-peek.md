@@ -8,10 +8,12 @@ source_url: https://github.com/prajnaavidya/godot-peek-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-09T04:49:56Z"
 ---
 ## What it is
 MCP server `Godot Peek`, catalogued on PulseMCP. Bridges Godot game engine with real-time debugging capabilities including scene execution, log monitoring, stack trace analysis, and game control through WebSocket communication.

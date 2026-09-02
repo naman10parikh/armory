@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:11:46Z"
 ---
 ## What it is
 Enables Claude Code to interact with Jupyter notebooks, perform semantic search over knowledge files, and manage research projects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T01:41:32Z"
 ---
 ## What it is
 Live operational status for 2,400+ major software services — AWS, GitHub, Stripe, OpenAI, Cloudflare, and more — pulled from each provider's official status page and returned as a normalised up / degraded / down result for any service you ask about.

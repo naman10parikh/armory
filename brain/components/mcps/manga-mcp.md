@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:32:25Z"
 ---
 ## What it is
 Enables generating original English-dialogue manga with configurable Japanese art styles through an MCP server, including story scripting, panel image generation, and page composition.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:05:15Z"
 ---
 ## What it is
 A sovereign Google marketing-agency control plane over the Model Context Protocol, enabling an AI agent to safely operate 20 Google marketing products with read and guarded write capabilities.

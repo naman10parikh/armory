@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T13:05:57Z"
 ---
 ## What it is
 MCP server that serves help articles to tenants with tenant isolation, enabling AI to search and retrieve tenant-specific content.

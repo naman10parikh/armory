@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T05:59:31Z"
 ---
 ## What it is
 An MCP server that lets AI assistants search the UK Register of Licensed Visa Sponsors (125,000+ companies), enabling queries about company sponsorship, location, visa routes, and ratings.

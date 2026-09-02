@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:25:43Z"
 ---
 ## What it is
 MCP server for Mongolia's largest online classifieds platform unegui.mn, enabling AI assistants to search and retrieve listings for cars, real estate, electronics, jobs, and more with detailed information, primarily in Mongolian while supporting English queries.

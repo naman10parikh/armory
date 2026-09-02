@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T02:32:01Z"
 ---
 ## What it is
 The first Model Context Protocol server for Unity projects. It gives AI assistants real understanding of Unity scenes, prefabs, and C# scripts through a queryable knowledge graph.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:43:19Z"
 ---
 ## What it is
 Enables AI assistants to incrementally build Laravel and Vue.js applications by creating file structures, methods, and code through natural conversation.

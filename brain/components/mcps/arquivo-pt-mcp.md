@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T23:13:13Z"
 ---
 ## What it is
 An MCP server that enables Claude and other LLMs to search and access archived Portuguese web content from Arquivo.pt, including full-text search, image search, version listing, and snapshot retrieval.

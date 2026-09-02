@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:27:37Z"
 ---
 ## What it is
 Look up Polish companies from any AI assistant: registry data (KRS, REGON, CEIDG), VAT white list checks before payments, and financial statements of 4.4M businesses. Read-only tools backed by official public registers.

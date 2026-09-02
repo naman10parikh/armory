@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-19T19:42:26Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Google Mail tools and services through the Model Context Protocol, enabling email management via natural language.

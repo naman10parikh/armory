@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-15T02:16:10Z"
 ---
 ## What it is
 Enables creating interactive mathematical visualizations like function graphs, geometry diagrams, and parametric curves using JSXGraph.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T11:16:22Z"
 ---
 ## What it is
 Enables AI agents to interact with GhostSwap's no-KYC crypto-to-crypto swap API, supporting quote fetching and swap execution across 1,600+ coins via MCP, OpenAPI, or agents.md.

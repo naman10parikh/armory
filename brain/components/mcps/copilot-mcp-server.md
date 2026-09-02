@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-02T00:24:29Z"
 ---
 ## What it is
 Connects MCP-enabled editors to GitHub Copilot CLI for non-interactive code analysis, batch processing, and code review.

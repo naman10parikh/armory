@@ -8,10 +8,12 @@ source_url: https://github.com/carlosrodera/fluent-mcp-servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-07T20:12:49Z"
 ---
 ## What it is
 MCP server `Fluent WordPress`, catalogued on PulseMCP. Collection of five servers connecting AI agents to the Fluent WordPress plugin ecosystem.

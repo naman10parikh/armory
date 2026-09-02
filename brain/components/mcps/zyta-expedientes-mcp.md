@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:08:52Z"
 ---
 ## What it is
 MCP server for managing Argentine judicial cases (expedientes) from portals like PJN, MEV, CABA, and custom cases, supporting CRUD operations, synchronization, and management of tasks, fees, and alerts.

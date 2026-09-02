@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T01:15:15Z"
 ---
 ## What it is
 MCP server enabling AI models to interact with Codescan's API for listing projects, retrieving metrics, and querying issues with advanced filtering.

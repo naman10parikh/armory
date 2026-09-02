@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:12:23Z"
 ---
 ## What it is
 MCP server for reading OPC events from the OPC one-person company tool station via personal API key. It provides an opc_list_events tool to fetch event lists, designed for use with Claude Desktop, Cursor, and Cline.

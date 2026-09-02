@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T03:22:55Z"
 ---
 ## What it is
 Provides Korean-specific financial calculators (4 insurances, salary net, severance pay, capital gains tax, DSR/DTI, FX conversion, housing subscription score) as MCP tools for AI agents.

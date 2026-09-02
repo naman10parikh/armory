@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-01T17:28:14Z"
 ---
 ## What it is
 Enables systematic code investigation using Monte Carlo Tree Search to explore codebases, analyze files, and provide intelligent insights. It features persistent memory and pattern learning for improved investigations.

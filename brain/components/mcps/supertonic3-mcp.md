@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:58:15Z"
 ---
 ## What it is
 Enables local text-to-speech synthesis for Claude and Cursor using Supertonic 3, with support for multiple voices, expressions, and languages. No API key or cloud required.

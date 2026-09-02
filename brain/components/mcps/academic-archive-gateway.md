@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T08:24:48Z"
 ---
 ## What it is
 MCP server for AI assistants to search and download ebooks from Z-Library and Anna's Archive, configured locally with automatic setup and download path.

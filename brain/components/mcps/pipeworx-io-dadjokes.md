@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:52:27Z"
 ---
 ## What it is
 MCP server `Dad Jokes`, catalogued on PulseMCP. Dad jokes via the icanhazdadjoke.com API — retrieve random jokes, search by term, and browse by category.

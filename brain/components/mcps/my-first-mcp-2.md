@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T11:54:21Z"
 ---
 ## What it is
 Exposes a greet tool that takes a name and returns a greeting message.

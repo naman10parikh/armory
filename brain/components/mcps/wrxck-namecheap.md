@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-26T15:13:22Z"
 ---
 ## What it is
 MCP server `Namecheap`, catalogued on PulseMCP. Manages Namecheap domains and DNS records with tools for listing domains, retrieving domain information, managing DNS host records, and configuring nameservers.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-30T20:51:59Z"
 ---
 ## What it is
 MCP server `Cooper Hewitt`, catalogued on PulseMCP. Integrates with Cooper Hewitt Museum's collection API to enable searching and retrieving detailed information about artifacts for art research and cultural analysis.

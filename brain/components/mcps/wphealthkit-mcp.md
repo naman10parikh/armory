@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:43:51Z"
 ---
 ## What it is
 Security audits for WordPress plugins and themes — 62 verification layers (58 deterministic scanners + 4 AI engines), prioritised fix plans and SBOMs.

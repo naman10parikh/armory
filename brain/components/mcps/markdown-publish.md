@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:23:51Z"
 ---
 ## What it is
 Enables AI to search, retrieve, list notes, and get backlinks from a published Markdown vault (Obsidian) via GitHub Pages.

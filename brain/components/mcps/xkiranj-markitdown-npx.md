@@ -8,10 +8,12 @@ source_url: https://github.com/xkiranj/markitdown-mcp-npx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-19T21:20:45Z"
 ---
 ## What it is
 MCP server `MarkItDown (NPX Wrapper)`, catalogued on PulseMCP. NPX wrapper for Microsoft's MarkItDown that converts PDFs, Word documents, Excel files, images, and other formats into markdown without Docker dependencies or complex configurations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:46:01Z"
 ---
 ## What it is
 Enables AI coding agents to efficiently analyze codebases by extracting AST skeletons, reducing token usage while preserving type contracts and interfaces.

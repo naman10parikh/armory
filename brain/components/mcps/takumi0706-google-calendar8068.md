@@ -8,10 +8,12 @@ source_url: https://github.com/takumi0706/google-calendar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-18T03:51:59Z"
 ---
 ## What it is
 MCP server `Google Calendar`, catalogued on PulseMCP. Integrates with Google Calendar to enable retrieving, creating, updating, and deleting calendar events through OAuth2 authentication and local token storage.

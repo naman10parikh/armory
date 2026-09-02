@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T18:10:38Z"
 ---
 ## What it is
 Local MCP server that scans code for security issues (secrets, dependencies, configurations, risky patterns) and integrates with GitHub Copilot in VS Code for automated pre-commit reviews.

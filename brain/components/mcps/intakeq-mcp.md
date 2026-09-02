@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:37:47Z"
 ---
 ## What it is
 Enables Claude to access IntakeQ practice management data including scheduling, intake forms, treatment notes, invoices, and client records with HIPAA-compliant audit logging.

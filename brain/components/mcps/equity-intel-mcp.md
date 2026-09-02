@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:50:21Z"
 ---
 ## What it is
 Provides institutional-grade equity analysis for any LLM via MCP, aggregating insider trading, superinvestor holdings, analyst consensus, options data, and valuation into a confidence-weighted verdict.

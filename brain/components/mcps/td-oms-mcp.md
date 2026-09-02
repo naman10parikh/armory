@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T19:14:41Z"
 ---
 ## What it is
 A standalone MCP server for TD/OMS change management that connects directly to TD/OMS REST APIs and enables workflow planning, execution, and monitoring for IBM i development tools.

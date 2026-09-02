@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-04T09:28:45Z"
 ---
 ## What it is
 Provides UI architecture analysis for converting Figma designs or web pages into reusable UI code blocks with effort estimation in CSV format.

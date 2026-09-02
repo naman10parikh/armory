@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:08:36Z"
 ---
 ## What it is
 MCP server that provides a navigable map of an Obsidian vault for coding agents, with tools to outline notes, fetch sections, query frontmatter, and grep content, reducing token usage compared to reading whole notes.

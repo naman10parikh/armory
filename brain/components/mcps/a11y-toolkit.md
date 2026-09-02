@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:55:26Z"
 ---
 ## What it is
 Enables AI agents to perform WCAG 2.2 accessibility audits, including contrast ratio checks for color pairs and text-over-image, generate EU legal accessibility declarations, and produce aria-live monitoring snippets, all through local, multilingual tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/ww11-max/csmar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-29T14:00:41Z"
 ---
 ## What it is
 MCP server `CSMAR`, catalogued on PulseMCP. CSMAR Chinese financial database access covering 240+ datasets for securities and accounting research.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T08:55:04Z"
 ---
 ## What it is
 A proxy MCP server that reduces token usage by caching tool definitions locally and loading them on demand, supporting multiple backend MCP servers.

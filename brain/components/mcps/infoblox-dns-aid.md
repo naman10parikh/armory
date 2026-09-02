@@ -8,10 +8,12 @@ source_url: https://github.com/infobloxopen/dns-aid-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-08-20T04:10:29Z"
 ---
 ## What it is
 MCP server `DNS AID`, catalogued on PulseMCP. Discover and publish AI agents via DNS using SVCB records per RFC 9460.

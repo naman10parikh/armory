@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-13T01:35:03Z"
 ---
 ## What it is
 Enables AI agents to control Adobe After Effects to create videos programmatically, with commands for comps, layers, effects, and rendering.

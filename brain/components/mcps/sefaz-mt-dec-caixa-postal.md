@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:26Z"
 ---
 ## What it is
 Consulta a caixa postal da SEFAZ MT em fonte oficial, com leitura e escrita, pago por uso via créditos pré-pagos.

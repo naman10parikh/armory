@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T20:53:28Z"
 ---
 ## What it is
 An MCP server for querying Observe.com logs using OPAL, with tools for dataset discovery, schema inspection, and log searching.

@@ -8,10 +8,12 @@ source_url: https://github.com/sralli/agendum
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T14:14:53Z"
 ---
 ## What it is
 MCP server `Agendum`, catalogued on PulseMCP. Persistent task tracking, scoped work packages, decisions, and cross-session continuity for AI coding agents.

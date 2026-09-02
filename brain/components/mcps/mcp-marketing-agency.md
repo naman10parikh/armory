@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-02T13:36:55Z"
 ---
 ## What it is
 Specialized MCP server for digital marketing and social media management, enabling content generation, hashtag optimization, planning, analytics, and engagement strategies.

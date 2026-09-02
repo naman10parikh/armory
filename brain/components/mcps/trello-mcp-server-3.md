@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-25T14:45:11Z"
 ---
 ## What it is
 Integrates Trello with Claude Code for advanced project planning and task management, featuring intelligent task analysis, automatic board setup, and natural language due dates.

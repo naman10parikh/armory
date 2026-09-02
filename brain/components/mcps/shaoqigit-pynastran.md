@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T04:41:55Z"
 ---
 ## What it is
 MCP server `pyNastran`, catalogued on PulseMCP. Integrates with Nastran finite element analysis through pyNastran to read BDF input files, extract OP2 results, perform mesh quality checks, and generate analysis reports.

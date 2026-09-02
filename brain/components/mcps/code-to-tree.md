@@ -8,10 +8,12 @@ source_url: https://github.com/micl2e2/code-to-tree
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-03-14T02:22:44Z"
 ---
 ## What it is
 MCP server `Code to Tree`, catalogued on PulseMCP. Converts source code into Abstract Syntax Tree representations using tree-sitter parsers for multiple programming languages including C, C++, Rust, Go, Ruby, Python, and Java, enabling precise code structure analysis and semantic understanding.

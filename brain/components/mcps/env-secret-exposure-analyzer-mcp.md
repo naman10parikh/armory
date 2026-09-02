@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T16:54:21Z"
 ---
 ## What it is
 Scans projects for hardcoded secrets, unprotected .env files, and console.log leaks to prevent credential exposure.

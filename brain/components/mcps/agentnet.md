@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-20T21:07:33Z"
 ---
 ## What it is
 An agent-to-agent referral network enabling AI agents to discover each other, cross-refer users, and earn credits through an MCP server and HTTP API.

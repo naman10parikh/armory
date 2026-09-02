@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-09T11:10:21Z"
 ---
 ## What it is
 Enables natural language querying of blockchain data, including blocks, transactions, logs, and more, powered by Cryo and Reth, with optional micropayment integration via Payflow.

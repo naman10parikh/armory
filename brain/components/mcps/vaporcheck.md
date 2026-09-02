@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:08:26Z"
 ---
 ## What it is
 Blocks AI coding assistants from installing non-existent packages and accessing non-existent files.

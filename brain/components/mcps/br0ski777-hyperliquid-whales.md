@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:26Z"
 ---
 ## What it is
 MCP server `Hyperliquid Whales`, catalogued on PulseMCP. Top Hyperliquid trader positions, including long/short, position size, PnL, leverage, and market sentiment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:14:41Z"
 ---
 ## What it is
 Enables capturing technical knowledge from AI development sessions into vetted documents and committing them to a designated private GitHub repository, while supporting search, challenge, and maintenance of the accumulated knowledge base.

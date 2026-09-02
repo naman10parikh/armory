@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-18T11:00:52Z"
 ---
 ## What it is
 MCP server `Rembg`, catalogued on PulseMCP. Provides background removal capabilities using the rembg library with 20+ specialized models including U2Net, BiRefNet, and SAM variants for portraits, anime, clothing, and general objects, supporting single image processing and batch folder operations with configurable alpha matting and mask-only output options.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:37:58Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects LLMs to vehicle data via the Eclipse Kuksa Databroker, enabling AI assistants to read and write vehicle signals using the standardized COVESA Vehicle Signal Specification.

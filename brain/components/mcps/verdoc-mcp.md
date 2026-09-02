@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:22:54Z"
 ---
 ## What it is
 Provides coding agents with repository context through tools that generate AGENTS.md files or structured JSON summaries, quoting build/test commands from the repo's manifests for a small fee without an API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T23:07:11Z"
 ---
 ## What it is
 Generates production-ready MCP servers from natural language, OpenAPI specs, database schemas, GraphQL schemas, or ontologies.

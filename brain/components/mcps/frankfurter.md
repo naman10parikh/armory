@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T09:35:04Z"
 ---
 ## What it is
 MCP server `Frankfurter`, catalogued on PulseMCP. Get blended exchange rates from 55+ central banks via the Frankfurter open API.

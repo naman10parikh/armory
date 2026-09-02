@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-11T17:03:42Z"
 ---
 ## What it is
 Enables LLMs to list, open, and close installed software on Windows, macOS, and Linux through natural language.

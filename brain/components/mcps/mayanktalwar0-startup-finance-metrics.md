@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T14:28:49Z"
 ---
 ## What it is
 MCP server `Startup Finance Metrics`, catalogued on PulseMCP. Analyze startup financial health and generate metrics reports from local financial data.

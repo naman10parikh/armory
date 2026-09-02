@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T07:01:41Z"
 ---
 ## What it is
 MCP server `ADIF`, catalogued on PulseMCP. ADIF 3.1.6 parser and validator for amateur radio QSO logs with full spec coverage.

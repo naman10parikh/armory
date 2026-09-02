@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T19:08:03Z"
 ---
 ## What it is
 A fully local, self-hosted memory server for MCP clients (Claude Code, Cursor, etc.) that provides persistent memory storage with semantic search, using local embeddings and a local Qdrant vector store.

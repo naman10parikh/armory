@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T16:56:03Z"
 ---
 ## What it is
 A safety-first Model Context Protocol server for controlling a single PiKVM device, enabling keyboard, mouse, and power operations with strong security and audit.

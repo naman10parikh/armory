@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T18:57:12Z"
 ---
 ## What it is
 Provides farm and land decision support tools (irrigation advice, frost risk, growing degree days, dry spell status) using free public weather and soil data, without requiring any API keys.

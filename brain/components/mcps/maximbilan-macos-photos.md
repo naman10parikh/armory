@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-26T15:25:01Z"
 ---
 ## What it is
 MCP server `macOS Photos`, catalogued on PulseMCP. Provides read-only access to the macOS Photos library, enabling photo search by location, date ranges, and visual content with metadata retrieval and export capabilities for both thumbnails and full-resolution images.

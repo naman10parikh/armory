@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T01:37:37Z"
 ---
 ## What it is
 An MCP server that aggregates agent skills from skills.sh and GitHub repositories, exposing list_skills, search_skills, and load_skill tools for context-efficient skill discovery and on-demand loading.

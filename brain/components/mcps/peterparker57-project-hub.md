@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-13T14:52:28Z"
 ---
 ## What it is
 MCP server `Project Hub (GitHub)`, catalogued on PulseMCP. Integrates local project management with GitHub repositories, enabling streamlined version control, automated commits, and multi-account support for efficient development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-22T07:28:20Z"
 ---
 ## What it is
 Enables AI assistants to intelligently search and reference documentation using hybrid semantic + keyword search via MCP protocol.

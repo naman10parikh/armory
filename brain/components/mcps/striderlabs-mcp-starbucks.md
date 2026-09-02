@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:41:21Z"
 ---
 ## What it is
 MCP server for Starbucks — let AI agents search the menu, customize drinks, find stores, place mobile pickup orders, and manage Starbucks Rewards.

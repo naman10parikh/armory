@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T00:10:53Z"
 ---
 ## What it is
 MCP server providing free, IP-direct tools for web search, crawling, anti-detect browsing, and structured data from Wikipedia, Wikidata, GitHub, and YouTube.

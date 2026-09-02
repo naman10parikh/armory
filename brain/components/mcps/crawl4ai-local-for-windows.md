@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:47:40Z"
 ---
 ## What it is
 Provides a local MCP server for AI-powered web crawling on Windows, enabling agents to directly crawl and extract web content without requiring WSL.

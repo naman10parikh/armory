@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T18:10:51Z"
 ---
 ## What it is
 MCP server `Sunex Optics`, catalogued on PulseMCP. Free natural language search for Sunex lenses and imager sensors — no authentication required.

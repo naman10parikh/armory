@@ -8,10 +8,12 @@ source_url: https://github.com/tejzpr/medha-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-14T17:44:23Z"
 ---
 ## What it is
 MCP server `Medha`, catalogued on PulseMCP. Git-backed memory system that stores and organizes memories as markdown files in local or remote repositories, providing persistent context across conversations through recall, storage, linking, and temporal queries with automatic synchronization and intelligent organization by tags, categories, or dates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T10:27:01Z"
 ---
 ## What it is
 A simple MCP server/client implementation for testing Hermes Agent, exposing basic tools like echo, add, and get_server_info via stdio.

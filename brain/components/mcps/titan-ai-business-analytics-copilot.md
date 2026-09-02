@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T05:54:36Z"
 ---
 ## What it is
 MCP server that routes natural language queries to backend analytics tools (Sales, Finance, Customer, Service) using Google Gemini's function calling.

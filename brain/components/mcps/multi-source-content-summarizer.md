@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T21:19:26Z"
 ---
 ## What it is
 MCP server for summarizing content from Baidu Netdisk, local files, Bilibili, X, and web articles, producing Obsidian notes with bidirectional links and Feishu digests.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:28:52Z"
 ---
 ## What it is
 Turns coding agents into full-stack builders by enabling backend features like auth, databases, file storage, serverless functions, and LLMs to be added to apps in seconds.

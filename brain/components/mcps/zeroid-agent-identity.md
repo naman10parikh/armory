@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T16:07:42Z"
 ---
 ## What it is
 Issues accountable identities for AI agents before they interact with tools, with tools for identity management and receipt export.

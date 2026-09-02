@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:01:09Z"
 ---
 ## What it is
 Local-first supply-chain CVE scanner. Scans project deps, system packages (Homebrew/apt), and IDE extensions (VS Code, JetBrains) via OSV, NVD, GHSA, EPSS, and CISA KEV. Listed in the official MCP Registry as io.github.DevInder1/tridentchain-security.

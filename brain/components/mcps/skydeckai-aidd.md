@@ -8,10 +8,12 @@ source_url: https://github.com/skydeckai/skydeckai-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-17T07:23:40Z"
 ---
 ## What it is
 MCP server `AiDD (Dev Workflows)`, catalogued on PulseMCP. Integrates file system, code analysis, Git, and execution capabilities to enable AI-driven development workflows across multiple programming languages.

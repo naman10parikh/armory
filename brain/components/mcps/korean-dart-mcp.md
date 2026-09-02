@@ -8,11 +8,13 @@ source_url: https://github.com/chrisryugj/korean-dart-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 96
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-07-30T22:11:12Z"
 ---
 ## What it is
 Provides 15 tools covering OpenDART 83 APIs for disclosures, financials, equity, XBRL, plus insider signals, accounting risk scores, and Buffett-style quality checklists, and converts HWP/PDF attachments to markdown for AI assistants.

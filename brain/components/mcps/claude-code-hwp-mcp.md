@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T06:36:37Z"
 ---
 ## What it is
 An MCP server for AI-powered automatic editing of HWP documents in Claude Code and Claude Desktop, offering 94 tools for document analysis, table editing, text formatting, layout, and PDF verification.

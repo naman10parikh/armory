@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T10:20:38Z"
 ---
 ## What it is
 Measures brand visibility in AI-powered search sources and provides actionable GEO recommendations.

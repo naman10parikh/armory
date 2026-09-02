@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:16:27Z"
 ---
 ## What it is
 Aggregates job listings from multiple ATS and job board APIs via MCP, enabling unified search and retrieval in a structured format without HTML parsing.

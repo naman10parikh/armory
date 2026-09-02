@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T20:27:59Z"
 ---
 ## What it is
 A local MCP server for generating web-dev images using the Z-Image Turbo model on ComfyUI, with presets and exact pixel dimensions.

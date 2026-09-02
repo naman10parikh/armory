@@ -8,10 +8,12 @@ source_url: https://github.com/daniviber/infomaniak_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-05-21T13:52:00Z"
 ---
 ## What it is
 MCP server `Infomaniak`, catalogued on PulseMCP. Integrates with Infomaniak's Swiss cloud platform to manage domains, DNS records, email hosting, web hosting, kDrive storage, Swiss Backup, VPS instances, and dedicated servers.

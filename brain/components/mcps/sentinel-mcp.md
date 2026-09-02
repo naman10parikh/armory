@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T00:38:33Z"
 ---
 ## What it is
 Turns Claude into an autonomous SOC analyst by ingesting security logs, detecting anomalies with ML, correlating events, mapping to MITRE ATT&CK, and generating incident reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-01T00:45:50Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides Claude Desktop with tools to interact with Forgejo repositories, including listing repos, issues, and reading files.

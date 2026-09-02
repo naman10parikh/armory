@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:03Z"
 ---
 ## What it is
 MCP server for querying the official ANVISA electronic drug bulletin from a trusted source. It provides a single read-only tool for consulting drug information through natural language in any MCP-compatible client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:32:13Z"
 ---
 ## What it is
 Enables AI-powered Gmail triage: fetches unread emails, classifies them, drafts replies for important ones, and sends only after user approval via conversational review. Exposes tools for checking unread emails and submitting review feedback from Claude Desktop or any MCP client.

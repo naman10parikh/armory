@@ -8,10 +8,12 @@ source_url: https://github.com/clk1st/mh-fin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-21T16:22:58Z"
 ---
 ## What it is
 MCP server `MetricHub Quant by clk1st`, catalogued on PulseMCP. China A-Share quantitative data covering 5,000+ stocks with 13 factors and daily market analysis.

@@ -8,10 +8,12 @@ source_url: https://github.com/waynecui/wireshark_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-07T05:27:25Z"
 ---
 ## What it is
 MCP server `Wireshark`, catalogued on PulseMCP. Wireshark dissector plugin for analyzing network traffic.

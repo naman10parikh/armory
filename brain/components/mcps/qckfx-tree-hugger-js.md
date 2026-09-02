@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-30T20:58:30Z"
 ---
 ## What it is
 MCP server `Tree Hugger JS`, catalogued on PulseMCP. Provides JavaScript and TypeScript code analysis through AST parsing for function extraction, scope analysis, identifier renaming, unused import removal, and code transformation with safety previews and history tracking.

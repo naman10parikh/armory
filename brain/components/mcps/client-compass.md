@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T17:33:59Z"
 ---
 ## What it is
 Generates personalized client strategy briefs from a name, and manages client profiles for behavioral intelligence, enabling client-facing professionals to prepare for conversations.

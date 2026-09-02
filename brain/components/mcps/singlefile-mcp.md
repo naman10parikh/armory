@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-06T06:26:59Z"
 ---
 ## What it is
 An MCP server for intelligent web content extraction from JavaScript-heavy sites using single-file and trafilatura. It enables AI agents to fetch, render, and paginate through clean article content and metadata.

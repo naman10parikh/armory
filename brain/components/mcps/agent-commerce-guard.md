@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:30:16Z"
 ---
 ## What it is
 Provides a read-only approval gate for AI agent commerce actions, reviewing up to five non-sensitive actions and returning decisions and required evidence without executing, paying, or signing.

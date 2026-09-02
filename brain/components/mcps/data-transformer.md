@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:23:06Z"
 ---
 ## What it is
 Provides safe, deterministic inspection, transformation, validation, and diffing of structured data (JSON, CSV, YAML, Parquet) via schema-aware MCP tools.

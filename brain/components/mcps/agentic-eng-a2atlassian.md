@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T05:03:55Z"
 ---
 ## What it is
 MCP server `A2Atlassian`, catalogued on PulseMCP. Jira and Confluence access for AI agents with pre-configured connections and compact output.

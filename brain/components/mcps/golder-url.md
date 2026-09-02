@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:36:34Z"
 ---
 ## What it is
 MCP server providing real-time internet access: fetch web pages, search via DuckDuckGo, retrieve JSON APIs, and extract links from pages.

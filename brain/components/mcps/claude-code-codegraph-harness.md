@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T07:52:39Z"
 ---
 ## What it is
 Enables bounded, read-only code-graph search, neighbor/impact tracing, and architecture queries through a local offline gateway, while keeping source contents and mutation operations out of model-callable tools.

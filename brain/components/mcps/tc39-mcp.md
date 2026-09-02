@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:30:34Z"
 ---
 ## What it is
 Provides structured JSON access to the ECMAScript specification (ECMA-262 and ECMA-402) for AI agents, allowing clause retrieval, cross-references, edition diffs, and test262 search via the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:48:19Z"
 ---
 ## What it is
 Enables querying and analyzing marketing data from Google Analytics 4, Search Console, YouTube, and optionally Google Ads and Meta Ads, stored in a unified DuckDB database, via natural language in Claude.

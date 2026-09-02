@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-22T16:52:29Z"
 ---
 ## What it is
 MCP server `Fastly CDN`, catalogued on PulseMCP. Enables management of Fastly CDN services through authenticated API requests and CLI commands for DevOps teams using natural language interactions.

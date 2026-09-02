@@ -8,11 +8,13 @@ source_url: https://github.com/elonmaskhair-prog/dsh-plugin-diepi
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:42:59Z"
 ---
 ## What it is
 MCP server for natural-language daily stock/ETF strategy backtesting. It provides constrained tools for strategy specification, data validation, queue-based backtests, and verifiable result artifacts.

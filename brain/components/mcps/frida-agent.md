@@ -8,10 +8,12 @@ source_url: https://github.com/1193776794/frida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, security]
+forks: 16
+pushed_at: "2026-03-11T10:09:46Z"
 ---
 
 ## What it is

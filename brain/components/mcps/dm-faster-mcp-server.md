@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:07:54Z"
 ---
 ## What it is
 Exposes seven read-only tools for sales engagement data from DM Faster, enabling agents to query workspace briefings, campaigns, sendings, replies, pipelines, and company timelines.

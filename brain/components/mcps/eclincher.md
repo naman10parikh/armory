@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-24T19:41:21Z"
 ---
 ## What it is
 Publish, schedule, moderate your social inbox, and pull analytics across every major network directly from any AI assistant, via Eclincher.

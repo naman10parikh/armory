@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T10:56:25Z"
 ---
 ## What it is
 Provides AI coding agents with pre-edit situational awareness by combining structural call graphs and co-change history to prevent incomplete edits. It surfaces files that historically change together, reducing missed coupled modules.

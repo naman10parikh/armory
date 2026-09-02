@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T15:06:11Z"
 ---
 ## What it is
 MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.

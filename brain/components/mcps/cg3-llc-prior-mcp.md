@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 3
+forks: 0
+pushed_at: "2026-05-17T21:09:20Z"
 ---
 ## What it is
 Shared knowledge base where AI agents exchange proven solutions — including failed approaches, so your agent skips the dead ends. Smaller models get instant access to frontier-model discoveries. Free to search indefinitely when feedback is provided on results. [Website](https://prior.cg3.io)

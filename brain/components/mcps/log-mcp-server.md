@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T09:50:50Z"
 ---
 ## What it is
 A log analysis MCP server that enables tailing, searching, filtering, and summarizing logs from local files and Docker containers.

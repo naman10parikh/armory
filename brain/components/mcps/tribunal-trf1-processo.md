@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:51Z"
 ---
 ## What it is
 MCP server to query legal process information from Brazil's Tribunal Regional Federal da 1ª Região (TRF1), providing a read-only consultation tool using official sources.

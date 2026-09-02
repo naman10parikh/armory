@@ -8,11 +8,13 @@ source_url: https://github.com/marmutapp/superbased-observer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-26T07:43:53Z"
 ---
 ## What it is
 Local MCP server that lets your AI coding agent query its own cross-tool project history - file/command freshness, past test failures, cost & token spend, cache status, and session handoff - over stdio, 100% local, no telemetry.

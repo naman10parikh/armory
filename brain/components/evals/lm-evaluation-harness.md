@@ -8,11 +8,13 @@ source_url: https://github.com/EleutherAI/lm-evaluation-harness
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 13766
+stars: 13860
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, academic, benchmark, harness]
+forks: 3533
+pushed_at: "2026-09-01T13:51:29Z"
 ---
 ## What it is
 EleutherAI's unified framework for evaluating language models on hundreds of academic benchmarks.

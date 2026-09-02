@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T18:12:52Z"
 ---
 ## What it is
 MCP server for controlling LibreOffice (Writer and Calc) via the UNO API, enabling document creation, editing, saving, and export from AI clients.

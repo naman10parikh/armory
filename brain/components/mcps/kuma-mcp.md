@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:31:08Z"
 ---
 ## What it is
 Enables managing Uptime Kuma monitors and groups via CSV-driven sync, with MCP-style commands for inventory synchronization, preview, and status checks.

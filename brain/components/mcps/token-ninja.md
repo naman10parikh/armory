@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-04-22T10:34:50Z"
 ---
 ## What it is
 Enables AI coding assistants to execute shell commands locally, intercepting deterministic commands like git status and npm test before they reach the LLM, saving tokens and reducing latency.

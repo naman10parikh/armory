@@ -8,10 +8,12 @@ source_url: https://github.com/54yyyu/kaggle-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-11T14:28:52Z"
 ---
 ## What it is
 MCP server `Kaggle`, catalogued on PulseMCP. Integrates with Kaggle's API to enable competition participation, dataset management, kernel operations, and model submissions for data scientists and machine learning practitioners.

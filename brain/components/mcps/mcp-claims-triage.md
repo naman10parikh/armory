@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:38:29Z"
 ---
 ## What it is
 MCP server that helps AI agents analyze medical insurance claims, flag anomalies, score risk, and suggest next actions.

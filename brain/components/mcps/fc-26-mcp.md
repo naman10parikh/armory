@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T08:06:29Z"
 ---
 ## What it is
 Two MCP servers for EA SPORTS FC 26: one parses and edits squad files, another controls the game via Live Editor's Lua API for career mode management.

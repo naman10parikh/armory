@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-12T17:36:02Z"
 ---
 ## What it is
 Enables network vulnerability scanning and CVE detection through an AI assistant, with optional remote port blocking via Discord bot.

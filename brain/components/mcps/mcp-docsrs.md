@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T17:24:12Z"
 ---
 ## What it is
 A Docs.rs MCP server that enables AI models to deeply access Rust crate documentation, including searching crates, viewing API definitions, feature flags, and code examples, all within the editor.

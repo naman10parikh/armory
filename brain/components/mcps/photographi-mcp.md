@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-16T01:55:54Z"
 ---
 ## What it is
 MCP server `Photographi MCP`, catalogued on PulseMCP. Local computer vision engine for photo library analysis.

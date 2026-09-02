@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T01:27:41Z"
 ---
 ## What it is
 An MCP server providing a harness-neutral trading research capability with a durable run lifecycle, supporting stage commit, receipts, pause/resume, cancellation, decision memory, report export, and credential-free fixture-based research workflows for TradingAgents integrations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-15T21:17:45Z"
 ---
 ## What it is
 Enables semantic code search for AI assistants by indexing codebases with embeddings and Tree-sitter, returning relevant snippets via natural language queries.

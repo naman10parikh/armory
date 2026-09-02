@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-22T17:23:18Z"
 ---
 ## What it is
 MCP server `Open-Meteo Weather`, catalogued on PulseMCP. Provides weather data access through the free Open-Meteo API for current conditions, daily forecasts up to 16 days, hourly forecasts up to 7 days, and location search with coordinate lookup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:27:29Z"
 ---
 ## What it is
 Gives local and cloud LLMs live web grounding as four MCP tools: web_search, fetch, deep_search (a token-capped, cited evidence pack sized to a small context window), and research (an agentic search-and-read loop). Flat monthly pricing, no query content stored.

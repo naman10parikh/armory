@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T04:22:31Z"
 ---
 ## What it is
 MCP server `Government Tender Search`, catalogued on PulseMCP. Searches UK, EU, and US government procurement portals and scores tenders with AI analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T13:37:56Z"
 ---
 ## What it is
 MCP server for generating images and audio using Google's Gemini AI models.

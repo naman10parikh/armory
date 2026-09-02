@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:54:01Z"
 ---
 ## What it is
 An MCP server that provides AI-powered financial intelligence tools, including stock advisory, technical analysis, prediction, portfolio optimization, and market regime detection for Indian markets.

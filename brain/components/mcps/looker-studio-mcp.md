@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:31:34Z"
 ---
 ## What it is
 Automates Looker Studio dashboards using Playwright, enabling creation, modification, screenshots, and exports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T14:41:03Z"
 ---
 ## What it is
 An MCP server that turns Claude into a full image production studio, enabling creation, editing, resizing, and brand-consistent asset generation across multiple platforms.

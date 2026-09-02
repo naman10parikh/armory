@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-14T14:15:37Z"
 ---
 ## What it is
 MCP server `Game Thinking`, catalogued on PulseMCP. Provides a structured tool for dynamic game design problem-solving, enabling developers to explore and iterate game mechanics through a sequential thinking process with Three.js game engine integration.

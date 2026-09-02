@@ -8,10 +8,12 @@ source_url: https://github.com/csoai-org/real-estate-listing-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T22:04:20Z"
 ---
 ## What it is
 MCP server `Real Estate Listing`, catalogued on PulseMCP. Python MCP server for real estate listing management and property search tools.

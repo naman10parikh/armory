@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:39:56Z"
 ---
 ## What it is
 A custom MCP server that connects your investment portfolio to Poke via Plaid, enabling queries about portfolio value, holdings, and transactions.

@@ -8,10 +8,12 @@ source_url: https://github.com/benhaotang/mcp-http-agent-md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-15T20:39:48Z"
 ---
 ## What it is
 MCP server `AGENTS.md`, catalogued on PulseMCP. Provide agents with a virtualized AGENTS.md and Kanban system. Can also spawn subagents for solving focused tasks.

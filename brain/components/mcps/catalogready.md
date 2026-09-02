@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-23T12:16:12Z"
 ---
 ## What it is
 MCP server for auditing product pages to determine AI shopping agent readiness, providing a 0–100 score and actionable fixes.

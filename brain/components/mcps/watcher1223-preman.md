@@ -8,10 +8,12 @@ source_url: https://github.com/watcher1223/preman-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-26T07:56:39Z"
 ---
 ## What it is
 MCP server `PreMan`, catalogued on PulseMCP. TypeScript SDK and CLI that converts REST API endpoints into hosted MCP servers with scoped consumer tokens, rate limits, and audit logging.

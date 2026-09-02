@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-10T00:12:12Z"
 ---
 ## What it is
 MCP server `Cortex`, catalogued on PulseMCP. Scans and indexes software portfolios to build searchable knowledge graphs of technology choices, development decisions, and developer expertise.

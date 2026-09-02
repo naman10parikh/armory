@@ -8,10 +8,12 @@ source_url: https://github.com/bayinl/dida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-17T16:42:42Z"
 ---
 ## What it is
 MCP server `Dida365`, catalogued on PulseMCP. Integrates with Dida365 (TickTick China) task management platform to create, read, update, and delete tasks and projects with OAuth 2.0 authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/notoriouslab/browser-mcp-lite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-04-02T05:36:44Z"
 ---
 ## What it is
 MCP server `Browser Lite`, catalogued on PulseMCP. Lightweight Chrome browser control for tab management, page reading, screenshots, and JavaScript execution.

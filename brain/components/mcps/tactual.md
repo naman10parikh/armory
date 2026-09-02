@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-28T17:53:23Z"
 ---
 ## What it is
 MCP server `Tactual`, catalogued on PulseMCP. Screen-reader navigation cost analyzer that scores assistive technology user effort to find and operate web content.

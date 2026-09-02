@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:10:34Z"
 ---
 ## What it is
 Enables querying official Brazilian Central Bank PTAX dollar closing exchange rates by specific date, date range, or most recent available quotation.

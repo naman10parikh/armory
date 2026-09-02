@@ -8,10 +8,12 @@ source_url: https://github.com/caiovicentino/polymarket-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 516
+stars: 665
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 137
+pushed_at: "2026-07-30T22:41:43Z"
 ---
 ## What it is
 MCP server `Polymarket`, catalogued on PulseMCP. Prediction market trading with 38 tools for orders, market analysis, and portfolio management with safety controls

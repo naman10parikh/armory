@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T16:28:34Z"
 ---
 ## What it is
 An MCP server for searching and accessing RNA sequencing datasets from the European Nucleotide Archive (ENA), supporting bulk, single-cell, and spatial transcriptomics with advanced filtering and download capabilities.

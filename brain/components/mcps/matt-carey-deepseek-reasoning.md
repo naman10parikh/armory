@@ -8,10 +8,12 @@ source_url: https://github.com/mattzcarey/mcp-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-28T13:12:19Z"
 ---
 ## What it is
 MCP server `Deepseek`, catalogued on PulseMCP. Extracts reasoning chains from Deepseek R1 model, enabling complex problem-solving and explainable AI.

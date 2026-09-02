@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:41:44Z"
 ---
 ## What it is
 Stateful backend for AI agents providing memory, watch, render, execute, and board primitives via remote MCP. Enables agents to persist facts, track page changes, render JS pages, run code, and coordinate on shared boards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:12:13Z"
 ---
 ## What it is
 Offline-first, persistent repository memory for coding agents. Provides MCP tools for repository scanning, searching, context, and impact analysis, helping agents navigate and edit code efficiently.

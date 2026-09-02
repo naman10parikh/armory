@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-14T15:00:35Z"
 ---
 ## What it is
 MCP server `Rideshare Comparison`, catalogued on PulseMCP. Compare Uber and Lyft prices for any route with surge detection and booking links.

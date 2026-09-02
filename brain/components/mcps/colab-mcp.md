@@ -8,11 +8,13 @@ source_url: https://github.com/googlecolab/colab-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 881
+stars: 916
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 184
+pushed_at: "2026-06-23T21:04:25Z"
 ---
 ## What it is
 Bridges a local agent to a Colab session in the browser, enabling seamless interaction with Colab from local clients.

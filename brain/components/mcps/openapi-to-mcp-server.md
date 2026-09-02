@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T01:07:43Z"
 ---
 ## What it is
 Converts any OpenAPI/Swagger spec into an MCP server, exposing REST API endpoints as tools for Claude.

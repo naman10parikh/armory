@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:39:10Z"
 ---
 ## What it is
 Demonstrates the AgentCore Gateway 3-Legged OAuth flow with Auth0, exposing whoami and echo tools for end-to-end authorization code testing.

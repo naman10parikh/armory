@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:50:54Z"
 ---
 ## What it is
 MCP server enabling AI assistants to interact with Alaska Airlines services via browser automation, including flight search, booking management, check-in, and mileage plan access.

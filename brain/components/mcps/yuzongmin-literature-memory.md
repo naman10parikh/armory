@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-26T19:39:24Z"
 ---
 ## What it is
 MCP server `Literature Memory`, catalogued on PulseMCP. Integrates academic literature management with knowledge graphs to enable efficient source analysis, note-taking, and entity linking across diverse academic materials.

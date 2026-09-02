@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:14:40Z"
 ---
 ## What it is
 MCP server for managing a Ubiquiti UNAS Pro NAS, providing health monitoring, storage and disk inventory, NFS export visibility, read-only file inspection, and gated lifecycle operations via SSH and the UniFi Drive API.

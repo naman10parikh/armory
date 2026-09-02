@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:14:57Z"
 ---
 ## What it is
 Screens names against the official UK FCDO Sanctions List to identify possible matches with designation details, and retrieves full sanctions entries by unique ID.

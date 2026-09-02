@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T01:42:29Z"
 ---
 ## What it is
 MCP server `Google Ads`, catalogued on PulseMCP. Diagnoses Google Ads spend efficiency and asset performance via Claude with 22 tools.

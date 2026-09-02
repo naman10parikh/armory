@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:01:32Z"
 ---
 ## What it is
 Read-only MCP server for Counter-Strike schedules, results, teams, players, and events from HLTV.org, offering tools to search entities, list matches, and get match details.

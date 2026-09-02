@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-06-16T14:35:07Z"
 ---
 ## What it is
 MCP server `Audiense Insights`, catalogued on PulseMCP. Integrates with Audiense's audience insights platform, enabling retrieval of audience data and analytics for targeted marketing and social media strategy development.

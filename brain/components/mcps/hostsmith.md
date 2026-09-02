@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-16T13:34:22Z"
 ---
 ## What it is
 MCP server `Hostsmith`, catalogued on PulseMCP. Managed hosting service that provides infrastructure management and deployment tools via MCP.

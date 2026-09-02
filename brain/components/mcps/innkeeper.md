@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:22:11Z"
 ---
 ## What it is
 An MCP server that automates night audit for small hotels by reconciling three ledgers (PMS, card processor, OTA) using AI, adjudicating mismatches with evidence, and cryptographically signing the books.

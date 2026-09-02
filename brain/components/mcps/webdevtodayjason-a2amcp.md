@@ -8,10 +8,12 @@ source_url: https://github.com/webdevtodayjason/a2amcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-09T18:28:44Z"
 ---
 ## What it is
 MCP server `A2AMCP`, catalogued on PulseMCP. Coordinates multiple AI agents working on shared codebases through Redis-backed infrastructure that provides real-time messaging, file locking to prevent simultaneous edits, interface sharing for type definitions, and distributed task management across parallel development sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T08:45:17Z"
 ---
 ## What it is
 Enables automated interaction and data scraping for Xiaohongshu (RedNote), including posting, liking, commenting, following, and retrieving user and note data.

@@ -8,11 +8,13 @@ source_url: https://github.com/vostride/agent-qa
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 960
+stars: 897
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-03T18:44:59Z"
 ---
 ## What it is
 Self improving QA agent for software teams

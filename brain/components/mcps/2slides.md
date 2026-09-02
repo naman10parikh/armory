@@ -8,10 +8,12 @@ source_url: https://github.com/2slides/mcp-2slides
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [design, mcp]
+forks: 14
+pushed_at: "2026-09-01T09:38:53Z"
 ---
 
 ## What it is

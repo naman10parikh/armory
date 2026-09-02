@@ -8,10 +8,12 @@ source_url: https://github.com/vintasoftware/django-ai-boost
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-31T18:15:58Z"
 ---
 ## What it is
 MCP server `Django AI Boost`, catalogued on PulseMCP. Django development assistant with model introspection, database schema analysis, and configuration querying

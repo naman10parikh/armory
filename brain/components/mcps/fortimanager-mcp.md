@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-02T02:06:31Z"
 ---
 ## What it is
 This MCP server provides tools to interact with FortiManager via JSON-RPC, but is deprecated and replaced by a more efficient Code Mode architecture.

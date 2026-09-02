@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T15:16:29Z"
 ---
 ## What it is
 Enables AI assistants to query speedrun.com for games, categories, leaderboards, world records, players, and personal bests using natural language.

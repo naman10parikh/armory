@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T08:29:08Z"
 ---
 ## What it is
 Enables monitoring Italian public funding opportunities, normalizing them into a canonical model, and ranking them against a company profile with a two-stage matcher.

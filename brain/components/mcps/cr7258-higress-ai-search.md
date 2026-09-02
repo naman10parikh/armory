@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-06T10:20:36Z"
 ---
 ## What it is
 MCP server `Higress AI Search`, catalogued on PulseMCP. Enhances AI model responses with real-time search results from various engines through Higress ai-search, supporting internet, academic, and internal knowledge searches.

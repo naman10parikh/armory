@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:03Z"
 ---
 ## What it is
 MCP server `Slug Generator`, catalogued on PulseMCP. Generate URL-friendly slugs from text with transliteration and custom separators.

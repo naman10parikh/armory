@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T08:27:15Z"
 ---
 ## What it is
 Generates daily standup drafts from your actual GitHub, Jira, Linear, and Slack activity, grouping work items and detecting blockers.

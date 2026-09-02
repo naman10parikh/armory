@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:40:14Z"
 ---
 ## What it is
 Provides a unified block-spindle-pscale function for reading, writing, and managing locks on JSON blocks across federated beaches, sed collectives, and bilateral grains.

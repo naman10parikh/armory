@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-19T19:32:15Z"
 ---
 ## What it is
 MCP server `Keycloak Source Navigator`, catalogued on PulseMCP. Navigates and analyzes Keycloak source code locally to assist with SPI development, custom extensions, and upgrade compatibility.

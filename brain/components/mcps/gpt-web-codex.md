@@ -8,11 +8,13 @@ source_url: https://github.com/m4j2rpf766-crypto/gpt-web-codex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-22T03:36:49Z"
 ---
 ## What it is
 Enables local code execution via Codex (Luna) through MCP, using ChatGPT Web conversations as a planner. Provides file, terminal, and code execution tools while keeping long-running jobs manageable.

@@ -8,10 +8,12 @@ source_url: https://github.com/kvrancic/prime-intellect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-01T04:45:17Z"
 ---
 ## What it is
 MCP server `Prime Intellect`, catalogued on PulseMCP. Unofficial MCP server for managing Prime Intellect GPU pods from Claude Code, with hard spending caps for safe autonomous operation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:37Z"
 ---
 ## What it is
 MCP server `Hive Compute Grid`, catalogued on PulseMCP. Cross-pool compute marketplace auctioning capacity across io.net, Akash, and Render with cryptographic selection proofs and 11 tools.

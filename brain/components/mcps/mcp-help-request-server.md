@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-06T13:30:25Z"
 ---
 ## What it is
 Captures comprehensive context about development issues and facilitates human assistance through structured API-based help requests.

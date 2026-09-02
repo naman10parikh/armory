@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:19:33Z"
 ---
 ## What it is
 Enables safe management of Vultr VPS instances, including listing resources, previewing and creating instances with cost limits, and performing mutations like reboot and delete only after exact confirmation.

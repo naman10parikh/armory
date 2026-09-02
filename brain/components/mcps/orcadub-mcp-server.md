@@ -8,11 +8,13 @@ source_url: https://github.com/Continuum-AI-Corp/orcadub-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T12:07:05Z"
 ---
 ## What it is
 Enables AI video dubbing from any MCP-capable agent: upload a video or provide a URL, submit a dubbing job, poll progress, and download the finished MP4.

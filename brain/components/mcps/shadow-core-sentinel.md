@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T02:12:55Z"
 ---
 ## What it is
 An MCP filesystem telemetry server that watches directories and records every file change with SHA-256 hashes, enabling verification of edits through tools like recent_changes and query_events, with multi-project support and idle suspension.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:09:01Z"
 ---
 ## What it is
 Enables AI agents to extract, analyze, and manipulate images, PDFs, video, and audio while conserving context through downscaling, truncation, and frame/page caps.

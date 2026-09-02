@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T12:29:58Z"
 ---
 ## What it is
 Enables AI assistants to control Govee smart devices, including lights, via natural language. Supports turning on/off, changing colors, adjusting brightness, and activating scenes through the Govee API or local network.

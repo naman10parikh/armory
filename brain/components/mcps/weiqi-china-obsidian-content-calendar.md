@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T08:55:54Z"
 ---
 ## What it is
 MCP server `Obsidian Content Calendar`, catalogued on PulseMCP. Queries an Obsidian vault as a content calendar, enabling AI assistants to surface pending, scheduled, and upcoming Markdown content.

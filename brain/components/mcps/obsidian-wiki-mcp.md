@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-29T10:29:48Z"
 ---
 ## What it is
 MCP server that implements Karpathy's LLM Wiki pattern for Obsidian vaults, enabling persistent knowledge storage and BM25 search across AI sessions.

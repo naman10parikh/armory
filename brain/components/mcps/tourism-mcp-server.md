@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T07:07:49Z"
 ---
 ## What it is
 Enables searching for national-standard scenic areas, rural tourism villages, accommodations (including restaurants, guesthouses, and starred hotels), and outbound travel agencies, with filtering by region, category, and business status.

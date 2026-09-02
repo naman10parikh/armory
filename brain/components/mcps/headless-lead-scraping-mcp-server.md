@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:24:49Z"
 ---
 ## What it is
 MCP server for real-time public-web lead research without search API keys, using Google Maps and web search engines with LLM-based extraction, crawling, and local lead storage/export.

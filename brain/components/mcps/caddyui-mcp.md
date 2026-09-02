@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T07:11:15Z"
 ---
 ## What it is
 Enables inspection and management of Caddy reverse proxy configuration via CaddyUI's REST API, including proxy hosts, redirection hosts, raw routes, and TLS certificates.

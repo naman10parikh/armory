@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, business-productivity-tools]
+forks: 0
+pushed_at: "2025-04-17T18:34:44Z"
 ---
 ## What it is
 TSOA-based Model Context Protocol implementation

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-05T20:53:47Z"
 ---
 ## What it is
 MCP server `Minecraft RCON`, catalogued on PulseMCP. Integrates with Minecraft servers via RCON to enable administration, world manipulation, and player management.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-02T15:08:54Z"
 ---
 ## What it is
 MCP server `Team Manager`, catalogued on PulseMCP. MongoDB-native MCP control plane for multi-agent orchestration with planning, routing, memory, and audit trails.

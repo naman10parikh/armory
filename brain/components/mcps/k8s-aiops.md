@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:22:06Z"
 ---
 ## What it is
 Governed Kubernetes operations for AI agents with 15 MCP tools, audit logging, policy engine, and safety features.

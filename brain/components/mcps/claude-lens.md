@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:24:45Z"
 ---
 ## What it is
 Enables Claude Code to search and retrieve information from its past session transcripts, including tool calls, errors, and project-specific history, via an SQLite FTS5 full-text search index.

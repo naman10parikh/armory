@@ -8,10 +8,12 @@ source_url: https://github.com/bingal/fastdomaincheck-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-10-24T05:56:13Z"
 ---
 ## What it is
 MCP server `FastDomainCheck`, catalogued on PulseMCP. Provides bulk domain registration status checking through WHOIS and DNS queries, supporting up to 50 domains simultaneously with dual verification methods for reliable availability assessment.

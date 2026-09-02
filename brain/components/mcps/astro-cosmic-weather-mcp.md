@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:00:22Z"
 ---
 ## What it is
 An MCP server that provides live astronomical ephemeris data (moon phases, zodiac transits, Mercury retrogrades, sabbats, and more) via the Moon Ritual Library API, enabling Claude and other agents to answer cosmic-weather questions with accurate, server-computed calculations.

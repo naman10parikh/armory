@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:37:35Z"
 ---
 ## What it is
 An MCP server that mints STAS, DSTAS, and BSV-21 tokens into a BSV Desktop wallet in seconds, enabling rapid token testing and development.

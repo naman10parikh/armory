@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T19:40:23Z"
 ---
 ## What it is
 Enables querying a local cache of EcoTaxa data via SQL, with tools for table inspection, SQL queries, TSV export, and enrichment from EcoPart and Amundsen CTD, all without requiring an EcoTaxa account.

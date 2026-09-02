@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:06:02Z"
 ---
 ## What it is
 Enables AI agents to connect to hosted Knowz vaults via MCP for knowledge management, supporting operations like search, save, browse, and amend.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-28T21:29:46Z"
 ---
 ## What it is
 MCP server `Kokoro Speech`, catalogued on PulseMCP. Provides text-to-speech capabilities using the Kokoro TTS model, enabling natural-sounding voice output with customizable playback speed and voice selection through robust error handling and temporary file management.

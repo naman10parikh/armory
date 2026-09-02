@@ -8,10 +8,12 @@ source_url: https://github.com/iamvirul/the-council
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T20:46:40Z"
 ---
 ## What it is
 MCP server `The Council`, catalogued on PulseMCP. Multi-agent Claude orchestration that routes tasks by complexity across four tiers — from lightweight formatting to full strategic analysis.

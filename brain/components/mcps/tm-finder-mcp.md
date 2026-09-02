@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T05:03:10Z"
 ---
 ## What it is
 MCP server that enables trademark searches through the TM Finder Public API, with support for API key authentication and idempotency for retries.

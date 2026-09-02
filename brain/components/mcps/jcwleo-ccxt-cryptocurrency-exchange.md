@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-23T03:20:48Z"
 ---
 ## What it is
 MCP server `CCXT Cryptocurrency Exchange`, catalogued on PulseMCP. Integrates with cryptocurrency exchanges through CCXT library to provide market data analysis and execute trading operations across spot, futures, and options markets without context switching.

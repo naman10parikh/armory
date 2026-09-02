@@ -8,10 +8,12 @@ source_url: https://github.com/krzko/google-cloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-12-15T02:23:11Z"
 ---
 ## What it is
 MCP server `Google Cloud`, catalogued on PulseMCP. Integrates with Google Cloud services to provide direct access to Logging, Spanner, and Monitoring resources within conversations through authenticated connections.

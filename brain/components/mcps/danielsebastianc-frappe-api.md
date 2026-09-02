@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T07:13:46Z"
 ---
 ## What it is
 MCP server `Frappe API`, catalogued on PulseMCP. Provides a single tool for making HTTP requests to Frappe/ERPNext REST API endpoints with token-based authentication.

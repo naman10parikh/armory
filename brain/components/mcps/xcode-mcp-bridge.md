@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:20:57Z"
 ---
 ## What it is
 Bridges Xcode's mcpbridge to MCP clients via SSE, maintaining a single persistent process to eliminate repeated authorization prompts.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T18:47:07Z"
 ---
 ## What it is
 MCP server `MaximumSats`, catalogued on PulseMCP. Bitcoin AI tools and Nostr Web of Trust scoring with pay-per-use Lightning payments.

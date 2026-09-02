@@ -8,10 +8,12 @@ source_url: https://github.com/hexastrike/eventwhisper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-25T19:16:06Z"
 ---
 ## What it is
 MCP server `EventWhisper (Windows Event Logs)`, catalogued on PulseMCP. Provides access to Windows Event Log files for querying events with time range, event ID, and text filters to enable security investigations, system troubleshooting, and forensic analysis.

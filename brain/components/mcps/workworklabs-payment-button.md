@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-08T11:50:00Z"
 ---
 ## What it is
 MCP server `Payment Button Generator`, catalogued on PulseMCP. Generates cryptocurrency payment button components for React and HTML supporting ETH, USDT, and USDC on Ethereum mainnet.

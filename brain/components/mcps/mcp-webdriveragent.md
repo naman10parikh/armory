@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-24T09:58:51Z"
 ---
 ## What it is
 Provides tools to build, package, and sign WebDriverAgent for iOS, enabling natural language automation of Appium WebDriverAgent preparation via MCP.

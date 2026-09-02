@@ -8,10 +8,12 @@ source_url: https://github.com/yeahdongcn/vmware-fusion-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-10T10:39:08Z"
 ---
 ## What it is
 MCP server `VMware Fusion`, catalogued on PulseMCP. Integrates with VMware Fusion's REST API to manage virtual machine lifecycles including power operations, configuration retrieval, and status monitoring for local development environments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:09:18Z"
 ---
 ## What it is
 MCP server for controlling Linux desktops over Wayland, enabling AI agents to perform mouse, keyboard, window, and screenshot operations on Fedora KDE Plasma.

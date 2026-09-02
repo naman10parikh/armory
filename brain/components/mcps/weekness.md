@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T07:31:14Z"
 ---
 ## What it is
 Provides week and calendar helper tools for converting between dates and ISO weeks, performing week arithmetic, and looking up weekday names.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T13:40:07Z"
 ---
 ## What it is
 MCP server `OutdoorIQ`, catalogued on PulseMCP. MCP server providing AI agents access to data on 72,000 US lakes, fish-stocking events, weather, and fishing-favorability scores.

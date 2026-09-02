@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-23T14:32:58Z"
 ---
 ## What it is
 Enables Claude Desktop to perform network ping tests and internet connectivity checks.

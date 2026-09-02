@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-30T21:17:36Z"
 ---
 ## What it is
 MCP server `MIST.cash`, catalogued on PulseMCP. Enables private payments on Starknet through zero-knowledge cryptographic operations and privacy-preserving transaction management

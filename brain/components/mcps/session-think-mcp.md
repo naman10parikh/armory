@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T06:55:15Z"
 ---
 ## What it is
 A session-based thinking workspace for Claude that preserves and structures reasoning text. Supports structured session names, search, and persistent storage for complex problem-solving.

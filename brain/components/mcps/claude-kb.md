@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T19:15:43Z"
 ---
 ## What it is
 Enables searching and retrieving Claude Code conversation history via hybrid semantic and keyword search, allowing the agent to access its own past interactions.

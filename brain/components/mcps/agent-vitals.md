@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:09:56Z"
 ---
 ## What it is
 Local-first observability for AI agent stacks. Provides MCP tools for agents to check health, shadow configs, and burnout metrics proactively.

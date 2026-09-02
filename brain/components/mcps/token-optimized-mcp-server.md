@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T06:35:08Z"
 ---
 ## What it is
 Minimizes LLM token consumption via YAML serialization, HTML-to-Markdown distillation, and pre-flight token counting, with tools for web content extraction and metrics database querying.

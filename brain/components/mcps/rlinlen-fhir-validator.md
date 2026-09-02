@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-30T15:01:15Z"
 ---
 ## What it is
 MCP server `FHIR Validator`, catalogued on PulseMCP. Validates FHIR healthcare data resources against HL7 FHIR profiles and specifications.

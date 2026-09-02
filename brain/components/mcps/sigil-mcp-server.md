@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-16T06:39:51Z"
 ---
 ## What it is
 Provides IDE-like code navigation and search for local repositories, enabling AI assistants to perform symbol search, trigram indexing, and semantic navigation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T02:55:35Z"
 ---
 ## What it is
 A federation MCP server that sits in front of multiple memory backends and presents a unified search surface to AI agents, allowing a single query to search across knowledge graphs, session history, and web search.

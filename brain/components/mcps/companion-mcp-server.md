@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-06T10:13:08Z"
 ---
 ## What it is
 MCP server for Bitfocus Companion, enabling AI assistants to control buttons, triggers, variables, and connections.

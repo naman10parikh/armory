@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:09:58Z"
 ---
 ## What it is
 A comprehensive local offline MCP server with over 300 tools for file operations, office documents, PDFs, code execution, databases, web browsing, memory, and cognitive functions, designed to work offline except for web search and email.

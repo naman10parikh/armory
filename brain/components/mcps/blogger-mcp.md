@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:27:11Z"
 ---
 ## What it is
 A TypeScript MCP server for managing Blogger drafts and posts, project devlogs with screenshots, and Strava running retrospectives via natural language.

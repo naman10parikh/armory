@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-25T20:09:51Z"
 ---
 ## What it is
 MCP server `Jina Supabase RAG`, catalogued on PulseMCP. Crawls and indexes documentation websites using Jina AI Reader API and Crawl4AI for intelligent content extraction, automatically discovering URLs through sitemaps and recursive crawling, then chunks and embeds the content into Supabase with pgvector for semantic search and retrieval-augmented generation workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:17:34Z"
 ---
 ## What it is
 MCP server for the Agent Platform API, enabling management of sandbox environments through MCP protocol. Exposes tools to interact with sandbox lifecycle operations such as start, stop, and status checks.

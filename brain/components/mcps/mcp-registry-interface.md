@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-14T19:29:58Z"
 ---
 ## What it is
 MCP server for interfacing with the official Model Context Protocol registry. Enables Claude and other MCP clients to dynamically discover, browse, search, and manage MCP servers directly from GitHub.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-02T02:18:07Z"
 ---
 ## What it is
 Enables clinical question answering via OpenEvidence with citation verification, including tools to ask questions, retrieve results, and follow up, plus an integrated skill to check citations against primary sources.

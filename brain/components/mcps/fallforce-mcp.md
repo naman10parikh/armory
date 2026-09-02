@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:08:09Z"
 ---
 ## What it is
 Provides tools and resources for the foldkit framework, enabling operations on 7-prime spine, κ-bands, and fold states through MCP clients like Claude and Cursor.

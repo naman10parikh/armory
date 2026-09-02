@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:56:58Z"
 ---
 ## What it is
 Exposes Priya Gautam's professional profile (skills, projects, experience, education) via MCP tools and dynamic context retrieval.

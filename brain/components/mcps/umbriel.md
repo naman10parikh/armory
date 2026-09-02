@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T06:31:58Z"
 ---
 ## What it is
 MCP server for driving any Windows app through five layers including OCR, UI Automation, and direct OS operations. Enables AI agents to control Windows desktop and OS cursor-free, even on background/locked windows.

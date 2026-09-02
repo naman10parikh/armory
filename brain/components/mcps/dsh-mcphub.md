@@ -8,11 +8,13 @@ source_url: https://github.com/jinhongxun/dsh-mcphub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:08:19Z"
 ---
 ## What it is
 MCP management panel for DeepSeek Harness, enabling connection status monitoring, one-click upgrades, and server addition via a settings UI.

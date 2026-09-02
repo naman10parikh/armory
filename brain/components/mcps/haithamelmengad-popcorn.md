@@ -8,10 +8,12 @@ source_url: https://github.com/haithamelmengad/popcorn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-05T12:49:19Z"
 ---
 ## What it is
 MCP server `Popcorn`, catalogued on PulseMCP. Extracts keyframes and generates transcripts from video files using FFmpeg and Whisper backends with intelligent preset configurations for different video types and analysis objectives.

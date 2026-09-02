@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:20:16Z"
 ---
 ## What it is
 Enables interaction with Sber's GigaChat API through the Model Context Protocol, allowing natural language processing and conversation in applications like opencode on Windows.

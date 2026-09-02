@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-11T14:03:59Z"
 ---
 ## What it is
 A project-aware AI design and code review server that uses dual reviewers via OpenRouter to catch context-blind errors in AI-generated code, optionally integrating with Serena for long-term project memory.

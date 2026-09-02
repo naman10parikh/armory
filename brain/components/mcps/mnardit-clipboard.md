@@ -8,10 +8,12 @@ source_url: https://github.com/mnardit/clipboard-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-29T23:49:46Z"
 ---
 ## What it is
 MCP server `Clipboard`, catalogued on PulseMCP. Provides cross-platform system clipboard read, write, and watch access using native OS APIs.

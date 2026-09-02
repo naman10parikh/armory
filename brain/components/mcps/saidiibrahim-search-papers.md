@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-01T08:32:08Z"
 ---
 ## What it is
 MCP server `Search Papers`, catalogued on PulseMCP. Search and analyze academic papers from arXiv

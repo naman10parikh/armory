@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:32:38Z"
 ---
 ## What it is
 A test MCP server that validates gateway connectivity, identity propagation, and provides mock tools for testing purposes.

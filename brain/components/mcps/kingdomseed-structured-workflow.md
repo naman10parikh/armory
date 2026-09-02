@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-29T19:17:12Z"
 ---
 ## What it is
 MCP server `Structured Workflow`, catalogued on PulseMCP. Provides structured workflow guidance for disciplined software engineering practices through four specialized methodologies (refactoring, feature creation, test writing, and test-driven development) with phase-specific validation, file operation safety rules, and session state tracking for systematic code development.

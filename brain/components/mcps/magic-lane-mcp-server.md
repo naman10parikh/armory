@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T00:36:51Z"
 ---
 ## What it is
 Enables AI agents to become geospatially intelligent assistants with tools for location search, smart routing, round trip planning, reverse geocoding, isochrone analysis, route visualization, geofence management, and interactive map display.

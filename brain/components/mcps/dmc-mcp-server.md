@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:37:58Z"
 ---
 ## What it is
 An MCP server that executes SQL queries on TDSQL-C and TDSQL database instances via Tencent Cloud DMC (Data Management Console), leveraging browser cookies for authentication.

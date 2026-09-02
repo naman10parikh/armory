@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T14:26:05Z"
 ---
 ## What it is
 Provides an LLM with a real Chromium browser to perform web tasks, recording every action into a structured trace for later verification of goal completion.

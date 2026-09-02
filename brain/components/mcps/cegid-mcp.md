@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:58:15Z"
 ---
 ## What it is
 Open-source MCP server that exposes Cegid APIs (accounting, third parties, documents, HR) as tools for LLM agents via the Model Context Protocol. Currently in early bootstrap phase with core structure in place.

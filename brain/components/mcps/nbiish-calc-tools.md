@@ -8,10 +8,12 @@ source_url: https://github.com/nbiish/mcp-calc-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-25T21:15:33Z"
 ---
 ## What it is
 MCP server `Calc Tools`, catalogued on PulseMCP. Integrates with NumPy, SciPy, and SymPy to provide advanced calculus tools for complex mathematical calculations and analysis within applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:31:35Z"
 ---
 ## What it is
 MCP bridge for Demeter/Artemis EXAFS fitting. Enables headless fits, building Artemis projects, generating LaTeX reports, and launching the Artemis GUI.

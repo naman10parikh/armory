@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T04:59:51Z"
 ---
 ## What it is
 Enables AI assistants to generate speech with custom cloned voices via DashScope or ElevenLabs, with an inline audio player and visualizer panel.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T10:45:55Z"
 ---
 ## What it is
 Exposes Django runtime information (settings, apps, URLs, models, migrations) as MCP resources for AI agents to inspect a live Django project without static analysis.

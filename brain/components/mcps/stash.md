@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:34:59Z"
 ---
 ## What it is
 Provides authenticated bookmark management tools via MCP, including adding, deleting, listing, and searching bookmarks.

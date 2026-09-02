@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-21T09:23:33Z"
 ---
 ## What it is
 Enables users to load and solve Boxoban puzzles by providing tools to get game state, list valid moves, and take actions.

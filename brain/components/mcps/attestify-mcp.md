@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:26:59Z"
 ---
 ## What it is
 MCP server exposing Attestify OS agents as callable tools, enabling governed AI agent runs for financial, compliance, and regulated workflows with immutable receipts and on-chain settlement.

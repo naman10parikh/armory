@@ -8,10 +8,12 @@ source_url: https://github.com/nganiet/mcp-vercel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-08-05T02:18:31Z"
 ---
 ## What it is
 MCP server `Vercel`, catalogued on PulseMCP. Integrates with Vercel's serverless infrastructure to provide a lightweight endpoint for AI model interactions and tasks like chatbots, content generation, and data analysis.

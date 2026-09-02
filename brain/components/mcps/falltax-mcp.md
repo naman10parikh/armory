@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:13:56Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server wrapping the falltax SDK for tax-related workflows, enabling offline-capable, signed, and discoverable operations.

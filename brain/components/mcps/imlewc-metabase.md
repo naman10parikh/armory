@@ -8,10 +8,12 @@ source_url: https://github.com/imlewc/metabase-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 145
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2026-04-03T23:57:33Z"
 ---
 ## What it is
 MCP server `Metabase`, catalogued on PulseMCP. Integrates with Metabase to enable querying dashboards, executing SQL, and retrieving structured data for data analysis and insights generation.

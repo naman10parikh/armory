@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-30T14:20:30Z"
 ---
 ## What it is
 Enables AI agents to debug code and automate browsers using Chrome DevTools Protocol, supporting breakpoints, variable inspection, and replayable interaction recording.

@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/libofcongress-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-22T21:45:39Z"
 ---
 ## What it is
 MCP server `Library of Congress`, catalogued on PulseMCP. Search LOC digital collections, Chronicling America historical newspapers with full OCR, and LC Subject Headings.

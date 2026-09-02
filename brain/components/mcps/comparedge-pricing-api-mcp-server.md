@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:25:56Z"
 ---
 ## What it is
 Provides verified pricing data for SaaS, AI tools, and LLMs across 490+ tools. No API key required, returns sourced records with attribution links.

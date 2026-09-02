@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T04:29:25Z"
 ---
 ## What it is
 AI-powered access to OSDU subsurface data through natural language, enabling AI assistants to interact with the OSDU platform via conversational interfaces for search, schema management, records, and compliance.

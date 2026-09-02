@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:13:13Z"
 ---
 ## What it is
 Enables AI agents to read and query Excel files stored in SharePoint and OneDrive for Business, converting permission-matrix spreadsheets into structured JSON for automated QA workflows.

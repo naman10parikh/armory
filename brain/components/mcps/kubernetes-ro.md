@@ -8,10 +8,12 @@ source_url: https://github.com/patrickdappollonio/mcp-kubernetes-ro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-17T18:01:41Z"
 ---
 ## What it is
 MCP server `Kubernetes Read-Only`, catalogued on PulseMCP. Provides read-only access to Kubernetes clusters for resource inspection, log retrieval, and metrics monitoring with tools for listing resources, examining pods, retrieving logs with filtering, and collecting node metrics without modification risks.

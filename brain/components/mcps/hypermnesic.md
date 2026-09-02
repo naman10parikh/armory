@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T09:35:46Z"
 ---
 ## What it is
 Git-native long-term memory for AI agents: your markdown files are the source of truth, the search index is a disposable projection rebuilt from git, and every memory the agent writes is a reviewable git commit. Served over one OAuth-secured MCP endpoint with hybrid lexical+semantic recall and a gat

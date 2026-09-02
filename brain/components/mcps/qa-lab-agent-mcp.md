@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T14:56:59Z"
 ---
 ## What it is
 MCP server `QA Lab Agent`, catalogued on PulseMCP. Autonomous QA platform that generates, executes, analyzes, and self-corrects tests across 11+ frameworks.

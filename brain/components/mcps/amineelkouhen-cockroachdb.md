@@ -8,10 +8,12 @@ source_url: https://github.com/amineelkouhen/mcp-cockroachdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-16T21:33:23Z"
 ---
 ## What it is
 MCP server `CockroachDB`, catalogued on PulseMCP. Integrates with CockroachDB to provide cluster monitoring, database operations, table management, and SQL query execution with transaction support and performance analysis.

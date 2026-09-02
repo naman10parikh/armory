@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:11:27Z"
 ---
 ## What it is
 Provides pre-deploy AI-assisted security and readiness checks for AI-built apps, including scanning for secrets, auth gaps, and payment safety.

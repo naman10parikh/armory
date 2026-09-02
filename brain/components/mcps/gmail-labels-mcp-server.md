@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T15:31:48Z"
 ---
 ## What it is
 Enables Gmail label management with tools to list, create, delete labels, and modify labels on messages and threads, handling OAuth2 authentication automatically.

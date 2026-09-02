@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:49:00Z"
 ---
 ## What it is
 Enables interaction with the Motion API for task and project management, including listing, creating, updating, and deleting tasks, projects, comments, and workspaces.

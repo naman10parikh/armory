@@ -8,11 +8,13 @@ source_url: https://github.com/socialite-ml/montology
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:58:37Z"
 ---
 ## What it is
 Enforces design systems and vocabulary via ontology checks, candidate scanning, linting, and structural search across repositories.

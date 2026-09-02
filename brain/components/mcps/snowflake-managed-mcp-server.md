@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T04:16:35Z"
 ---
 ## What it is
 Enables AI agents to securely query governed Snowflake data and use Cortex AI tools like semantic search and LLM completions, with read-only, allow-listed access and dual transport options (stdio and authenticated SSE).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T20:01:11Z"
 ---
 ## What it is
 Provides Cursor AI agents with direct access to stock breakout signals, including trending tickers, AI-generated reports, portfolio tracking, and watchlist management, all aggregated and scored from multiple sources.

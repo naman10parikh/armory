@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:20:30Z"
 ---
 ## What it is
 Wraps the Manus API to expose a generate_image tool, allowing Claude to request image generation through Manus.

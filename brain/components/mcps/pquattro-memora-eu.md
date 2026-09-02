@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T07:43:49Z"
 ---
 ## What it is
 MCP server `Memora EU`, catalogued on PulseMCP. Provides encrypted persistent memory for Claude with client-side AES-256-GCM encryption and semantic search for privacy-preserving context retention.

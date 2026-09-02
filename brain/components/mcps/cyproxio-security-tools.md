@@ -8,10 +8,12 @@ source_url: https://github.com/cyproxio/mcp-for-security
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 610
+stars: 633
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 100
+pushed_at: "2026-03-30T17:37:45Z"
 ---
 ## What it is
 MCP server `Security Tools Bridge`, catalogued on PulseMCP. Bridges popular security tools (Nmap, Masscan, SQLMap, FFUF) with external systems for network scanning, port discovery, SQL injection testing, and web fuzzing operations

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T11:49:18Z"
 ---
 ## What it is
 A minimal Python MCP server with tool endpoints and Playwright Page Object Model tests.

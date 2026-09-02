@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T20:35:39Z"
 ---
 ## What it is
 A long-term memory MCP server for AI agents that stores memories (facts, decisions, etc.) in a single SQLite database with hybrid search and full edit history, ensuring consistency across sessions.

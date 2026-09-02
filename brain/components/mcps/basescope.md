@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:05:37Z"
 ---
 ## What it is
 basescope is a read-only onchain safety layer for AI agents: it answers "is this token/contract/approval safe?" on Base and EVM chains (honeypot/rug checks, risky-approval detection, verified-source lookup, balances, ENS/Basenames, gas, prices), with no private keys and no required API keys.

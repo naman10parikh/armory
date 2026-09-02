@@ -8,11 +8,13 @@ source_url: https://github.com/samerdwykat-cmyk/upshift-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:19:25Z"
 ---
 ## What it is
 Audits a live site for machine legibility (structured data, llms.txt, titles, headings), matches a trade to one of 14 website templates with demo links, and quotes real prices. Remote Streamable HTTP on MCP spec 2026-07-28, with an eval suite in the repo.

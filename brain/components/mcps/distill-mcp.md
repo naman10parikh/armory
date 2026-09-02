@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T10:51:57Z"
 ---
 ## What it is
 MCP bridge for Distill — let Claude, Cursor, or any MCP client rename files based on AI content analysis. 9 tools for renaming, suggestions (preview), folder watching, history, and rule management. Five AI providers: Claude, OpenAI GPT-4o, Gemini, Ollama (local), Apple Intelligence. Bridge open-sour

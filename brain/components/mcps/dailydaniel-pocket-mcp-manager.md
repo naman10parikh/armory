@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-23T22:04:45Z"
 ---
 ## What it is
 MCP server `Pocket MCP Manager`, catalogued on PulseMCP. Unified management system for multiple MCP servers that allows users to add, launch, and control servers through a central proxy, eliminating the need to reconfigure connection settings when switching between servers.

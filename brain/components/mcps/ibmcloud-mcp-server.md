@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T12:23:45Z"
 ---
 ## What it is
 MCP server wrapping the IBM Cloud CLI, providing 80+ tools for managing IBM Cloud resources including authentication, Kubernetes, Cloud Foundry, IAM, and billing.

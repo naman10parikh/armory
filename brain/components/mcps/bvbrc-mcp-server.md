@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-27T14:49:47Z"
 ---
 ## What it is
 MCP server for querying BV-BRC biological data, submitting analysis jobs (assembly, annotation, BLAST, etc.), and managing workspace files via natural language.

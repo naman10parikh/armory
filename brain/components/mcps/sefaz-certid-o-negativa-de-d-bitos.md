@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:06Z"
 ---
 ## What it is
 Enables querying Brazilian state tax clearance certificates (Certidão Negativa de Débitos Estaduais) from official sources via a read-only, hosted MCP tool with pay-per-use access.

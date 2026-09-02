@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:16:43Z"
 ---
 ## What it is
 Model Context Protocol server for the Beecargo file hosting API, enabling agents to upload files, create share links, manage folders, and control share settings.

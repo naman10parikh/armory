@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-13T07:29:08Z"
 ---
 ## What it is
 Organizes personal research papers by crawling arXiv metadata, embedding abstracts, storing in a PostgreSQL database, and generating Related Work sections using LLMs.

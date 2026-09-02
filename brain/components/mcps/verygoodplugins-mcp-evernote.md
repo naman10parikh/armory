@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-08-13T18:14:55Z"
 ---
 ## What it is
 A Model Context Protocol server for seamless Evernote integration, enabling note creation, editing, searching, and notebook/tag management via Claude.

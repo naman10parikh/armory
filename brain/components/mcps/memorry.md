@@ -8,11 +8,13 @@ source_url: https://github.com/macbyclp/memorry
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:14:07Z"
 ---
 ## What it is
 A local-first MCP memory server that stores facts in SQLite with FTS5 full-text search, supports projects and pinned records, and optionally syncs to Obsidian, all without external API calls.

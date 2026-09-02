@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-25T03:12:33Z"
 ---
 ## What it is
 MCP server `Swagger/Postman API Explorer`, catalogued on PulseMCP. Simplifies API access by transforming complex OpenAPI/Swagger specifications into just four strategic tools for endpoint discovery, information retrieval, search, and authenticated request execution

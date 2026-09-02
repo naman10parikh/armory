@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-09-05T09:49:08Z"
 ---
 ## What it is
 MCP server for Nagios Core that enables querying host and service status, alerts, configuration, and other monitoring data through CGI binaries.

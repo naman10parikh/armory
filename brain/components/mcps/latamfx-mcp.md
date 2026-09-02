@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T01:48:33Z"
 ---
 ## What it is
 Enables AI agents to query public Latin American FX rates and perform auditable ledger reconciliation using a multi-rule matching engine.

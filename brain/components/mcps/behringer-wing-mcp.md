@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:22:36Z"
 ---
 ## What it is
 Enables controlling Behringer WING digital mixers via OSC, supporting fader, mute, pan, and name operations on strips, with raw OSC access for unsupported parameters.

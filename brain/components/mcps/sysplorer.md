@@ -8,10 +8,12 @@ source_url: https://github.com/suzhou-tongyuan/sysplorer-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T00:10:15Z"
 ---
 ## What it is
 MCP server `Sysplorer`, catalogued on PulseMCP. Official MCP server for Sysplorer modeling and simulation software by Suzhou Tongyuan.

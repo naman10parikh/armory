@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:39:25Z"
 ---
 ## What it is
 A robust, asynchronous Model Context Protocol (MCP) server that securely connects LLMs to your ERPNext instance (Self-Hosted or Frappe Cloud) via its REST API.

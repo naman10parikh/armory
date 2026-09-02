@@ -8,10 +8,12 @@ source_url: https://github.com/alifanov/scopegate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T06:34:01Z"
 ---
 ## What it is
 MCP server `ScopeGate`, catalogued on PulseMCP. Granular permission gateway for MCP agents with per-agent scopes for Google Drive, Gmail, and Calendar.

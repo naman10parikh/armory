@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-30T03:03:37Z"
 ---
 ## What it is
 MCP server `Fireproof JSON Database`, catalogued on PulseMCP. Integrates Fireproof JSON document databases with the Model Context Protocol, enabling CRUD operations and querying across multiple decentralized databases for scalable data management.

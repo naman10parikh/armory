@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T12:20:45Z"
 ---
 ## What it is
 Enables AI agents to edit and serve a static website via natural language, providing file management tools over MCP and HTTP hosting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T15:30:53Z"
 ---
 ## What it is
 Enables AI assistants like Claude to discover, validate, and simulate all 18 ACTUS financial contract types using JACTUS, with tools for contract simulation, risk computation, and portfolio analysis.

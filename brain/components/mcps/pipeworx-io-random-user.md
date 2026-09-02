@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:35:40Z"
 ---
 ## What it is
 MCP server `Random User`, catalogued on PulseMCP. Generates random user profiles for testing and mock data.

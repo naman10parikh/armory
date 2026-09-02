@@ -8,10 +8,12 @@ source_url: https://github.com/seekrays/mcp-monitor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-08-02T15:13:23Z"
 ---
 ## What it is
 MCP server `System Monitor`, catalogued on PulseMCP. Provides real-time system metrics for CPU, memory, disk, network, host, and process statistics using Go and gopsutil, enabling detailed performance monitoring and diagnostics across Windows, macOS, and Linux.

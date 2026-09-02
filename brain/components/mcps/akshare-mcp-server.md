@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-24T11:15:45Z"
 ---
 ## What it is
 Enables AI assistants to access comprehensive Chinese financial market data including stocks, funds, futures, and economic indicators via AKShare.

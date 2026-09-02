@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T13:36:27Z"
 ---
 ## What it is
 Wraps JIRA Cloud REST API for AI-driven agile project management, enabling sprint health monitoring, label syncing, risk flagging, and audit receipt writing.

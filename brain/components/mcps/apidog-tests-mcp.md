@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T20:01:51Z"
 ---
 ## What it is
 MCP server for managing Apidog test cases, scenarios, suites, and test data, providing full read/write access to Apidog's test management features.

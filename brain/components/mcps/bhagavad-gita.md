@@ -8,11 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-bhagavad-gita
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:43:42Z"
 ---
 ## What it is
 Enables access to the Bhagavad Gita, a Hindu scripture, through natural language queries and integration with the Pipeworx MCP gateway.

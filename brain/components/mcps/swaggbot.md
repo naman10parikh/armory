@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T01:21:49Z"
 ---
 ## What it is
 Transforms Swagger/OpenAPI documented APIs into conversational interfaces, enabling natural language interaction with APIs through an MCP server for use with AI assistants.

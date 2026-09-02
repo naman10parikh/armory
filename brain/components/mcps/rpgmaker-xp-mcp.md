@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T22:13:50Z"
 ---
 ## What it is
 MCP server that reads and writes RPG Maker XP project .rxdata files, enabling AI assistants to create and edit actors, items, skills, maps, events, and scripts, and render map previews, by describing what you want.

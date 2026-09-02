@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T00:01:37Z"
 ---
 ## What it is
 MCP server `Kyonis Compliance by contactkyonis-droid`, catalogued on PulseMCP. Perform KYC verification, AML sanctions screening, and due diligence checks via the Kyonis API.

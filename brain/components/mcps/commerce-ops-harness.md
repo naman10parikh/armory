@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T22:29:47Z"
 ---
 ## What it is
 Enables AI agents to investigate and resolve operational exceptions across orders, payments, inventory, and fulfillment through a multi-system truth and guarded actions.

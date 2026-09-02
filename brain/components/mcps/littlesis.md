@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-18T09:15:58Z"
 ---
 ## What it is
 MCP server `LittleSis`, catalogued on PulseMCP. Integrates with the LittleSis API to provide access to corporate power networks and accountability relationships, enabling entity search, relationship mapping between people and organizations, and connection discovery for investigating business-government influence structures.

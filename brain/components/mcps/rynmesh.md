@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T04:31:16Z"
 ---
 ## What it is
 Enables AI operators to interact with a local-first personal AI assistant, including content discovery, recommendations, signed content publishing, and peer exchange through MCP tools.

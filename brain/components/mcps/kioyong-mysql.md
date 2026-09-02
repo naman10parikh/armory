@@ -8,10 +8,12 @@ source_url: https://github.com/kioyong/mysql-mcp-server-java
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-06T08:43:38Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Integrates with MySQL databases, enabling SELECT queries, table listings, and schema retrieval for data analysis and dynamic database interactions.

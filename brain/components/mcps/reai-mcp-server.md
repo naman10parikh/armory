@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:05:02Z"
 ---
 ## What it is
 MCP server for FSM report migration analysis, providing fuzzy search of report mappings, pattern registry, and columnar report generation.

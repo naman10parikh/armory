@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:43:56Z"
 ---
 ## What it is
 Free MCP server to automate TikTok viral marketing — search trending videos, analyze hashtags, and draft video scripts. Premium features powered by DeepSeek AI unlock AI-driven optimal posting times, hashtag strategies, and script generation.

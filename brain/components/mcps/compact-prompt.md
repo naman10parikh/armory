@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-24T03:44:07Z"
 ---
 ## What it is
 This MCP server compacts prompts to save on token usage.

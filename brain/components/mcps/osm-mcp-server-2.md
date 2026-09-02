@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:08:49Z"
 ---
 ## What it is
 An OpenStreetMap MCP server that provides location-based services including geocoding, route directions, points of interest search, and neighborhood analysis to enhance LLMs with geospatial capabilities.

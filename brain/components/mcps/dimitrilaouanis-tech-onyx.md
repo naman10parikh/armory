@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T20:49:08Z"
 ---
 ## What it is
 MCP server `Onyx`, catalogued on PulseMCP. Framework for building paid MCP servers with USDC payments on Base blockchain.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T11:13:56Z"
 ---
 ## What it is
 A deterministic MCP server that guards AI/agent output by detecting secrets, injection, and PII in ~85µs with zero dependencies. Gives a clear ship/block verdict and runs locally or hosted.

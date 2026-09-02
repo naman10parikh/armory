@@ -8,10 +8,12 @@ source_url: https://github.com/kurdin/github-repos-manager-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-25T19:48:51Z"
 ---
 ## What it is
 MCP server `GitHub Repos Manager`, catalogued on PulseMCP. Integrates with GitHub's REST API to provide repository management, issue tracking, pull request handling, file operations, security management, and analytics with intelligent caching for performance optimization.

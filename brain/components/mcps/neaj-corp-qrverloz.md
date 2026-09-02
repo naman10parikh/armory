@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T16:30:27Z"
 ---
 ## What it is
 MCP server `Qrverloz`, catalogued on PulseMCP. Dynamic QR code creation and analytics via the Qrverloz API, with retargetable codes.

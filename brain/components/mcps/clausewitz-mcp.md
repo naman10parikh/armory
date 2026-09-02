@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:35:28Z"
 ---
 ## What it is
 An MCP server for Paradox Clausewitz/Jomini modding (EU5, EU4, Victoria 3, HOI4, CK3, Stellaris) that grounds AI assistants in the game's generated documentation and vanilla script tree, enabling accurate script lookup, parsing, and validation without running the game.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:37:35Z"
 ---
 ## What it is
 A typed, append-only event log and resume system for Claude Code, enabling agents to record schema-validated events like plans, decisions, questions, and human feedback via an MCP server for consistent session resumption.

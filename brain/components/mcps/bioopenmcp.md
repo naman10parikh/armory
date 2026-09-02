@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T17:05:05Z"
 ---
 ## What it is
 BioOpenMCP enables users to run bioinformatics tools like FastQC, Cutadapt, and STAR with background execution and status checking. It integrates with Claude Desktop to perform quality control, trimming, alignment, and reporting via natural language.

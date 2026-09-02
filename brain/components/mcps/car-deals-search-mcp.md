@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-09T04:31:50Z"
 ---
 ## What it is
 Enables AI assistants to search and aggregate used-vehicle listings across Cars.com, Autotrader, and KBB, with filters for price, mileage, dealer information, and CARFAX-style history conditions.

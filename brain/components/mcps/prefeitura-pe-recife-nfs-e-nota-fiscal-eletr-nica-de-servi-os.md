@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:48Z"
 ---
 ## What it is
 Enables querying official electronic service invoice (NFS-e) data from the Recife city government through a read-only, hosted MCP server with pay-per-use prepaid credits.

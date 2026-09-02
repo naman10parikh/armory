@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:56:45Z"
 ---
 ## What it is
 An advanced calculator MCP server that provides a wide range of mathematical operations over streamable HTTP, enabling users to perform complex calculations via natural language with any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:19Z"
 ---
 ## What it is
 Finds the best DeFi yields for a token across 100+ protocols and chains, with pay-per-call micropayments via x402.

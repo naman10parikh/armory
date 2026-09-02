@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T07:56:45Z"
 ---
 ## What it is
 Concept-test your product with synthetic consumers, straight from Claude Code. It turns free-text reactions from roleplayed personas into purchase-intent reports using Semantic Similarity Rating.

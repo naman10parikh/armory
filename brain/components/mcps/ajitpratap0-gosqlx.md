@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 111
+stars: 112
+forks: 12
+pushed_at: "2026-07-31T06:51:37Z"
 ---
 ## What it is
 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote server at mcp.gosqlx.dev - no install needed. 1.25M+ ops/sec, 6 SQL dialects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-02T15:48:39Z"
 ---
 ## What it is
 Enables managing GitHub repositories, files, and user information through MCP, with support for creating, updating, and deleting repository contents, as well as fetching user profiles.

@@ -8,10 +8,12 @@ source_url: https://github.com/biegehydra/bifrostmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 224
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2026-03-27T04:49:41Z"
 ---
 ## What it is
 MCP server `Bifrost (VS Code Dev Tools)`, catalogued on PulseMCP. VS Code extension that exposes semantic tools like Find Usages and Rename

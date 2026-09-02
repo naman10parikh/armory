@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T23:16:41Z"
 ---
 ## What it is
 Provides verifiable, append-only context handoffs for Codex and MCP clients, enabling memory persistence and resume across chat sessions.

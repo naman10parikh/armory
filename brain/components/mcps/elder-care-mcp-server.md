@@ -8,11 +8,13 @@ source_url: https://github.com/crichard201718/-RK3588-
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:14:50Z"
 ---
 ## What it is
 Enables natural language control of an elderly care system on RK3588, integrating face recognition, object recognition, voice interaction, health monitoring, and IoT services through MCP tools.

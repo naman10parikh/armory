@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:00:19Z"
 ---
 ## What it is
 Enables AI agents to securely control a user's existing signed-in Chrome browser through isolated tab groups, with strict per-session ownership and no cookie or token exposure.

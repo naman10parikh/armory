@@ -8,10 +8,12 @@ source_url: https://github.com/yosider/cosense-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-22T07:02:58Z"
 ---
 ## What it is
 MCP server `Cosense`, catalogued on PulseMCP. Integrates with cosense to enable retrieval and analysis of project pages for knowledge base querying and collaborative document processing.

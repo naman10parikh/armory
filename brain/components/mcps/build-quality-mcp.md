@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:50:11Z"
 ---
 ## What it is
 Enables Claude-powered pre-push code review, blocking bad commits by analyzing diffs with Anthropic's models.

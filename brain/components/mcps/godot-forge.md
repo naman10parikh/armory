@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:32:25Z"
 ---
 ## What it is
 Provides progressive-disclosure MCP access to Godot editor development, enabling tool discovery, task execution, inspection, and status tracking for projects across Godot 4.5 to 4.8-dev.

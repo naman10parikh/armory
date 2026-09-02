@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T19:53:19Z"
 ---
 ## What it is
 Enforces client-mandated development workflows with audit trails, state persistence, and compliance reporting. Provides tools for issue tracking, testing, deployment, and verification to ensure non-negotiable compliance.

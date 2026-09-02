@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-07T17:34:43Z"
 ---
 ## What it is
 A minimal MCP server that converts company names to stock symbols and fetches financial data from Yahoo Finance using two example tools.

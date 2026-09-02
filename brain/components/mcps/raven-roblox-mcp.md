@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T09:09:50Z"
 ---
 ## What it is
 A Roblox MCP bridge that connects Codex and other MCP clients to a live Roblox client, enabling live inspection, control, and authorized reverse engineering.

@@ -8,10 +8,12 @@ source_url: https://github.com/zakarialabib/rustools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-10T11:44:09Z"
 ---
 ## What it is
 MCP server `Rust Documentation`, catalogued on PulseMCP. Provides access to Rust documentation from docs.rs, crates.io search, and the Rust Book with intelligent caching, source code browsing, dependency analysis, and macro expansion capabilities.

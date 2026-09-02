@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:27:57Z"
 ---
 ## What it is
 Provides a durable memory layer for coding agents like Claude Code and Codex by indexing codebases and enabling RAG queries, reducing rediscovery tokens and providing senior-engineer orientation.

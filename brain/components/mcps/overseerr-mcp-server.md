@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T02:48:43Z"
 ---
 ## What it is
 FastMCP server to interact with the Overseerr API for movie and TV show requests management, enabling users to request media, search, and manage libraries via natural language.

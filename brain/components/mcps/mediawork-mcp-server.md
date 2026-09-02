@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T15:04:06Z"
 ---
 ## What it is
 Provides read-only access to Mediawork's public directory of post-production and distribution vendors, FAQ, blog, and subscription plans through standardized MCP tools for searching and fetching records.

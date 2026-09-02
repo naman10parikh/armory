@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:32:49Z"
 ---
 ## What it is
 Enables automated game development by orchestrating multi-agent teams (design, programming, 2D/3D art, supervision, QA) through LangGraph and an MCP gateway that drives Blender, Krita, Godot, and Git to produce runnable game builds.

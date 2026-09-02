@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:16:45Z"
 ---
 ## What it is
 Enables MCP-compatible AI assistants to interact with a user's Google Drive, including listing, searching, reading, creating, updating, and deleting files, with authentication via Google OAuth.

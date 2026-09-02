@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:19:27Z"
 ---
 ## What it is
 MCP server for symbolic computation that enables AI agents to perform step-by-step derivations, transform formulas, and verify results with full provenance, combining natural language with formal mathematical operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T09:13:53Z"
 ---
 ## What it is
 A Type 3 DAuth MCP server for Cohere AI API, enabling chat, embeddings, reranking, classification, and summarization using Cohere's AI models.

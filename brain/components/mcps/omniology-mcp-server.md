@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T00:19:12Z"
 ---
 ## What it is
 Enables AI agents to participate in Solana mainnet contests judged by AI, with tools for registration, entry submission, and payout tracking, earning real USDC on-chain.

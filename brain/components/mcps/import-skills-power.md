@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:29:33Z"
 ---
 ## What it is
 Enables importing, managing, and using Markdown skills from GitHub repositories, with tools to list, install, view, and remove skills locally.

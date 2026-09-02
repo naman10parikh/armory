@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T19:17:09Z"
 ---
 ## What it is
 Exposes the Banana Accounting Plus Integrated Web Server API V2 to LLMs, enabling reading accounts, balances, journals, reports, and VAT data, and creating new accounting files from a local Banana Accounting instance.

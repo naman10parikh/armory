@@ -8,11 +8,13 @@ source_url: https://github.com/Prajeevan/agent-dash
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:37:46Z"
 ---
 ## What it is
 A self-hosted push inbox for AI agents that enables agents to send updates and ask questions, waiting for user answers before continuing.

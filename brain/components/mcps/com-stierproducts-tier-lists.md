@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T21:52:37Z"
 ---
 ## What it is
 Provides read-only access to stierproducts' aggregated product tier lists and reviews, enabling category listing, product search, and retrieval of detailed tier rankings with citations.

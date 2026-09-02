@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T07:18:53Z"
 ---
 ## What it is
 A methodology and MCP server for agent-driven software development where humans write specs and agents implement code, enforced by six mechanical gates to ensure spec validity, contracts, tests, and review.

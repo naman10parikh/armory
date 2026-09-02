@@ -12,6 +12,8 @@ stars: 148
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2025-06-18T07:36:29Z"
 ---
 ## What it is
 MCP server `A2A Bridge`, catalogued on PulseMCP. Bridges Google's Agent-to-Agent protocol with MCP, enabling agent discovery, registration, message sending, and task management through protocol translation between A2A's JSON-RPC messaging and MCP's tool-based interface.

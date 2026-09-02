@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T11:24:59Z"
 ---
 ## What it is
 Combines GitHub releases from multiple repositories into a single product release note, with context sources for LLM synthesis.

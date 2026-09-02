@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:56:54Z"
 ---
 ## What it is
 Allows AI clients to see and control Windows 10/11 desktops via MCP, with screenshots, UI Automation, Chrome CDP, keyboard/mouse, and terminal using semantic element targeting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:05:20Z"
 ---
 ## What it is
 Enables LLM agents to participate in a live 3D racing simulation by submitting race strategies, reacting to dynamic events, and observing full race state through MCP tools.

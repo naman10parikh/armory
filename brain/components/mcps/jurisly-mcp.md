@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:04:38Z"
 ---
 ## What it is
 Enables AI assistants to interact with Jurisly workspaces for tasks like drafting invoices, finding hearing dates, and editing documents through natural language.

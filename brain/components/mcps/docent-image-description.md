@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-07T13:14:01Z"
 ---
 ## What it is
 MCP server `Docent (Image Description)`, catalogued on PulseMCP. Enables AI systems to generate detailed descriptions of images for accessibility applications, content analysis, and visual media interactions.

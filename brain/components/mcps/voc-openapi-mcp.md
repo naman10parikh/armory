@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:14:27Z"
 ---
 ## What it is
 Analyze Amazon reviews, VOC feedback, sentiment, pain points, and listing improvements through seven curated MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:28:29Z"
 ---
 ## What it is
 MCP server that automates the procurement workflow, including RFQ generation, quote parsing, ERP item loading, and purchase requisition submission with human-in-the-loop approval gates.

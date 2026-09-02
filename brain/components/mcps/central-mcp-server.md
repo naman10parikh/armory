@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-17T16:53:40Z"
 ---
 ## What it is
 Enables AI assistants to query HPE Aruba Networking Central data (sites, devices, clients, alerts, events) through natural language.

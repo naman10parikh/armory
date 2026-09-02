@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-01-26T08:45:39Z"
 ---
 ## What it is
 Enables AI assistants to interact with VS Code for language intelligence, debugging, and code execution.

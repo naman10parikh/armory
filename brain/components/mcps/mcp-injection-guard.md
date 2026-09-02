@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:11:46Z"
 ---
 ## What it is
 Blocks indirect prompt injection by tracking data provenance, not text patterns. Enables safe agent interaction with untrusted content.

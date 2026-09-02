@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 3
+stars: 4
+forks: 2
+pushed_at: "2026-08-25T15:04:10Z"
 ---
 ## What it is
 Multi-provider web search with intelligent auto-routing (Serper, Tavily, Exa). Available via `uvx web-search-plus-mcp`.

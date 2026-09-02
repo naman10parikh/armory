@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:01:07Z"
 ---
 ## What it is
 Local SQLite archive and MCP search service for the Telegram channel @markettwits, enabling users to query asset-specific twits by instrument and time range.

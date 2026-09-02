@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-13T17:16:40Z"
 ---
 ## What it is
 Comprehensive, type-safe MCP server providing 380 tools to manage Dokploy deployments, applications, and infrastructure via natural language.

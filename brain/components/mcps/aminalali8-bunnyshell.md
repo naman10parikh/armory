@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T12:25:57Z"
 ---
 ## What it is
 MCP server `Bunnyshell`, catalogued on PulseMCP. Enables direct management of Bunnyshell cloud environments through natural language commands, supporting environment creation, component deployment, and remote development workflows via CLI capabilities.

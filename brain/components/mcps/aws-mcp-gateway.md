@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T01:36:40Z"
 ---
 ## What it is
 A minimal, security-focused MCP gateway for connecting ChatGPT to AWS account data through explicit, read-only tools.

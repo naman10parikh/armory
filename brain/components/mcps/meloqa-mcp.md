@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:29:35Z"
 ---
 ## What it is
 Exposes every operation from the meloQA v1 API as MCP tools, enabling LLM clients to read and manage meloQA projects, test cases, cycles, executions, bugs, links, and reference data.

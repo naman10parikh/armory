@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T22:36:02Z"
 ---
 ## What it is
 Connects AI coding agents to PreSonus StudioLive III mixers over the local network, exposing live mixer context such as channel names, mute/solo/fader state, Fat Channel compressor/EQ models, and meter activity as MCP resources and tools for reading and reasoning about live sound engineering.

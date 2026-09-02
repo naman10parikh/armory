@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:13:43Z"
 ---
 ## What it is
 Enables AI clients to search and retrieve customer and support-ticket data from a SQLite database, and to create support tickets only when an explicit approval flag is supplied, with all actions validated and audit-logged.

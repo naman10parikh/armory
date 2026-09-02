@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T13:31:14Z"
 ---
 ## What it is
 Converts PDF files to text for use with MCP-compatible applications like Cursor IDE.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T22:26:44Z"
 ---
 ## What it is
 MCP server for SkillDB that enables AI assistants to search, load, and manage AI agent skills directly.

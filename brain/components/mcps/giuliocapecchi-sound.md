@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T14:26:33Z"
 ---
 ## What it is
 MCP server `Sound Notifications`, catalogued on PulseMCP. Play desktop audio notifications and toast alerts from AI agents on Linux systems.

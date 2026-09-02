@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-28T19:45:24Z"
 ---
 ## What it is
 MCP server `Berlin Open Data`, catalogued on PulseMCP. Provides access to Berlin's open data portal with 6 tools for CKAN catalog search, dataset analysis, and exploration across 2500+ municipal datasets.

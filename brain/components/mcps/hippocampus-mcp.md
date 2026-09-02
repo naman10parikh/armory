@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T04:16:37Z"
 ---
 ## What it is
 A personal memory MCP server that ingests AI agent conversation logs from multiple platforms into a searchable PostgreSQL+pgvector database, enabling cross-session recall of past reasoning and decisions.

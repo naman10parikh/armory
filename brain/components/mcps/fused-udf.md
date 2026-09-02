@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-08-07T09:07:55Z"
 ---
 ## What it is
 MCP server `Fused UDF`, catalogued on PulseMCP. Python-based framework for connecting Claude and other LLMs to executable Python code through User Defined Functions, enabling data scientists to extend their models with custom Python capabilities.

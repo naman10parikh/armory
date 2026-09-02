@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:05:40Z"
 ---
 ## What it is
 Production-grade MCP server for the Google Tag Manager API v2 with read-only GA4 (Admin + Data API) tooling. 107 tools covering the full GTM surface, including server-side containers. Ships read-only: writes, publishes, and deletes are each gated behind separate opt-in flags, every mutation requires

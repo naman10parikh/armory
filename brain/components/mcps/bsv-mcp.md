@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, financial-services]
+forks: 8
+pushed_at: "2026-07-30T19:29:27Z"
 ---
 ## What it is
 An MCP Server for Bitcoin SV

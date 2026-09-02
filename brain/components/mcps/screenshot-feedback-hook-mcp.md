@@ -8,11 +8,13 @@ source_url: https://github.com/lkh081231/screenshot-feedback-hook-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:42:58Z"
 ---
 ## What it is
 A cross-platform screenshot tool that lets coding agents capture and view their output, enabling self-correction through visual feedback.

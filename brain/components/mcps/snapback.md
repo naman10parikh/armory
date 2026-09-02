@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T00:31:50Z"
 ---
 ## What it is
 MCP server `SnapBack`, catalogued on PulseMCP. Analyzes code changes for security vulnerabilities, dangerous APIs, dependency issues, and configuration problems using multiple analysis plugins with content-addressed snapshot management and policy-based decision making.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T03:28:21Z"
 ---
 ## What it is
 Convert any file or URL to clean AI-ready Markdown directly from Claude, Claude Code, Cursor, or any MCP-compatible AI agent.

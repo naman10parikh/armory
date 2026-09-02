@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:03:50Z"
 ---
 ## What it is
 MCP server `Tenant Pair`, catalogued on PulseMCP. Multi-user tenancy library for MCP servers with pairs, groups, bi-temporal shared state, and DSGVO erasure.

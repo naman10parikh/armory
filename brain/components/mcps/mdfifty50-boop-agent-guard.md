@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:49Z"
 ---
 ## What it is
 MCP server `Agent Guard`, catalogued on PulseMCP. Detects and prevents infinite agent loops with circuit breakers and pattern detection.

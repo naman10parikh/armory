@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-09T11:25:38Z"
 ---
 ## What it is
 MCP server `StarRocks`, catalogued on PulseMCP. Enables AI models to interact with StarRocks databases by providing read and write access to tables, schemas, and data through a Python-based server with configurable modes.

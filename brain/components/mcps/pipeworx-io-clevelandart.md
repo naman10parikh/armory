@@ -8,10 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-clevelandart
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:20Z"
 ---
 ## What it is
 MCP server `Cleveland Museum of Art`, catalogued on PulseMCP. Search and retrieve artwork records from the Cleveland Museum of Art's Open Access collection of approximately 63,000 works, many available under Creative Commons licenses.

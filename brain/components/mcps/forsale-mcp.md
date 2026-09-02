@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:56:12Z"
 ---
 ## What it is
 Exposes Kuwait's 4Sale marketplace to LLM agents through 62 tools for searching listings, evaluating prices, detecting scams, and more, enabling live-data-driven answers.

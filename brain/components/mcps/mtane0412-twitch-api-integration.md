@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-07T13:06:34Z"
 ---
 ## What it is
 MCP server `Twitch`, catalogued on PulseMCP. Integrates with Twitch API to provide channel info, stream details, game data, user profiles, clips, chat settings, and video comments for building Twitch-related tools and analytics platforms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-31T07:49:52Z"
 ---
 ## What it is
 A Model Context Protocol server that retrieves Bangla news headlines and allows querying news by topic for integration with LLMs.

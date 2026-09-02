@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T08:16:16Z"
 ---
 ## What it is
 Enables querying Base Network blockchain data including blocks, transactions, balances, and smart contracts on mainnet and testnet.

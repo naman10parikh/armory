@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T16:20:50Z"
 ---
 ## What it is
 MCP server `PayPal Java`, catalogued on PulseMCP. Integrates with PayPal's Java API to provide payment processing analysis tools, including authorization rate analysis and a basic calculator, supporting both REST and JSON-RPC interfaces for versatile deployment.

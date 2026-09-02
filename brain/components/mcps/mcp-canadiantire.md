@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:09:16Z"
 ---
 ## What it is
 Enables searching Canadian Tire's product catalogue, checking product details, store-level stock, and finding nearby stores.

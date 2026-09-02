@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:50:28Z"
 ---
 ## What it is
 Exposes Panaya REST APIs as MCP tools for managing entities like projects, requirements, tests, defects, releases, cycles, and business processes. Enables Claude or any MCP client to perform CRUD operations on Panaya data via natural language.

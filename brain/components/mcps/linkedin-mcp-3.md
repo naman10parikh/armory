@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T08:36:50Z"
 ---
 ## What it is
 A local MCP server that lets Claude log in to LinkedIn and publish image posts to your personal profile feed, backed by LinkedIn's REST Images API and Posts API.

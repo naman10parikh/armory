@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T16:30:43Z"
 ---
 ## What it is
 A typed FastMCP server that wraps Tavily's web research API, providing tools for search, extract, map, crawl, and research workflows via MCP with prompts and resources.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-05T03:29:35Z"
 ---
 ## What it is
 MCP server `SNS DAO`, catalogued on PulseMCP. Integrates with Service Nervous System DAOs on the Internet Computer blockchain to enable proposal listing, neuron management, and vote execution for governance activities

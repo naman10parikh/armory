@@ -8,11 +8,13 @@ source_url: https://github.com/molML/ChemLint
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-06-29T20:30:22Z"
 ---
 ## What it is
 An MCP server that gives LLMs native access to cheminformatics and molecular ML tools, enabling molecular structure manipulation, descriptor calculation, ML model training, and analysis report generation through natural conversation.

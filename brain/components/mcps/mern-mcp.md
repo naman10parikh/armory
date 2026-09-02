@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T07:51:51Z"
 ---
 ## What it is
 Enables scaffolding full-stack MERN CRUD resources including models, routes, controllers, and React components with preview and apply modes.

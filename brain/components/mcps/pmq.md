@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:35:29Z"
 ---
 ## What it is
 Fail-closed Polymarket CLOB V2 MCP server (Python). Read tools need zero credentials; trading tools exist only when the operator sets PMQ_MCP_LIVE=1, each order capped by PMQ_MCP_MAX_USD and buys per day by PMQ_MCP_DAILY_USD. Keys never leave your process.

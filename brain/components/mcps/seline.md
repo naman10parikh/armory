@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T10:56:52Z"
 ---
 ## What it is
 MCP server `Seline`, catalogued on PulseMCP. Privacy-focused website and product analytics with visitor journeys, funnels, revenue attribution, and churn detection.

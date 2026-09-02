@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:43:47Z"
 ---
 ## What it is
 MCP server for overseer.nvim — gives any MCP-capable coding agent running inside Neovim (Claude Code, Codex, Gemini CLI, opencode) the same visibility and control over tasks the user has: list, run, tail, restart, stop. Agent-started dev servers land in the user's own task list instead of becoming i

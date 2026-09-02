@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:19:38Z"
 ---
 ## What it is
 A TypeScript-based MCP server that automatically generates structured technical presentation PPTX files via deck JSON and layout engine.
