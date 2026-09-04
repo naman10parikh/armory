@@ -8,11 +8,13 @@ source_url: https://github.com/tresor4k/realdentalcosts-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T11:36:33Z"
 ---
 ## What it is
 Real US & Canada dental price data for AI assistants: average costs by procedure, state and city, insurance acceptance, and cheapest-state lookups — backed by open datasets (CC BY 4.0, permanent DOIs).

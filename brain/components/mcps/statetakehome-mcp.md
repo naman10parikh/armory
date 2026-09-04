@@ -8,11 +8,13 @@ source_url: https://github.com/tresor4k/statetakehome-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:56:51Z"
 ---
 ## What it is
 Enables AI assistants to compute US take-home pay, self-employment taxes, and capital gains taxes for the 2026 tax year using the engine from statetakehome.com.

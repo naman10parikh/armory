@@ -8,11 +8,13 @@ source_url: https://github.com/DXN1-termux/DXN1-DAW-AI-TOOL
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:33:41Z"
 ---
 ## What it is
 AI-powered music production toolkit enabling AI agents to generate, remix, separate stems, master tracks, and control DAWs via MCP.

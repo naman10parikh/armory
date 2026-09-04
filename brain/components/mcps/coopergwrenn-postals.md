@@ -8,10 +8,12 @@ source_url: https://github.com/coopergwrenn/postals-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T02:47:01Z"
 ---
 ## What it is
 MCP server `Postals`, catalogued on PulseMCP. Enables AI agents to send physical handwritten postcards via USPS using robotic pen-and-ink writing, delivered in 3-5 business days for $4.99 each.

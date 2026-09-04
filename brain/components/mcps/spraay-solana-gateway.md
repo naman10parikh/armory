@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T21:49:39Z"
 ---
 ## What it is
 MCP server `Spraay Solana Gateway`, catalogued on PulseMCP. Batch payment infrastructure for AI agents on Solana using the x402 payment protocol.

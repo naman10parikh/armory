@@ -8,10 +8,12 @@ source_url: https://github.com/studiogo/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-28T15:04:07Z"
 ---
 ## What it is
 MCP server `NotebookLM Extended`, catalogued on PulseMCP. Fork of the NotebookLM MCP server with 12 additional tools, automatic cookie refresh, and compatibility fixes for notebooklm-py 0.3.4+.

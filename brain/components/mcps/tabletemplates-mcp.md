@@ -8,11 +8,13 @@ source_url: https://github.com/tresor4k/tabletemplates-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:28:41Z"
 ---
 ## What it is
 MCP server for searching and browsing free Excel and Google Sheets templates from Tabletemplates.com, with access to 1,008 US search demand keywords across 16 categories.
