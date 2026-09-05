@@ -8,11 +8,13 @@ source_url: https://github.com/LING71671/grok2web
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T14:39:06Z"
 ---
 ## What it is
 Enables Grok to send arbitrary HTTP requests with cookie session persistence and redirect tracking, designed for web/CTF scenarios.
