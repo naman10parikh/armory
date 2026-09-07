@@ -969,3 +969,39 @@ The weight (1.2) is unchanged: it was right for what the signal claims to be, an
 
 Ruling: one new free signal shipped and persisted (forks); every other cell is either live or has no
 rows to apply to. Add a kind's signal the day that kind has rows — not before.
+
+---
+
+## Two dedupe defects found while seeding the shelves (CP138 T18, 2026-09-07)
+
+Both were caught by a seeding pass checking 59 candidates against the catalogue by hand. Neither is
+visible from inside the pipeline, and both silently produce wrong data rather than an error.
+
+### 1 · The dedupe key is the URL, so a renamed repo enters twice
+
+`CaviraOSS/LongMemory` (4,485★) and `MemoriLabs/Memori` (16,466★) both pass the URL-uniqueness check.
+They are GitHub repository ids `1079345325` and `1025381911` — **the same repositories** as
+`caviraoss/openmemory` and `GibsonAI/memori`, after renames. GitHub 301-redirects the old URL, so the
+new string never matches the stored one and the row is admitted as new.
+
+**Fix:** dedupe on the GitHub repository **`id`**, not the URL string. `id` is immutable across
+renames and transfers; the URL is not. The GraphQL call already in `ingest-sentinel-feed.mjs` can ask
+for `databaseId` in the same request at no extra cost. Until then, every rename in the ecosystem is a
+future duplicate pair, and duplicates split a project's signal across two rows so **both** rank lower
+than the project deserves.
+
+### 2 · Wrapper repos are shadowing the projects they wrap
+
+The catalogue rows named `supermemory`, `mempalace`, `memori` and `hindsight` all point at **MCP
+wrapper** repositories rather than at the core projects. `cognee` was absent from the memory shelf
+entirely, because the only indexed path was `topoteretes/cognee/tree/head/cognee-mcp` — a subpath,
+which by construction cannot score.
+
+This is the §1 disease of `STACK-EVIDENCE.md` appearing *inside* a shelf that reads as 100% scored: a
+wrapper is a real repo with real (small) star counts, so it scores, ranks, and looks healthy while
+the project it wraps is either missing or outranked by its own wrapper.
+
+**Fix:** when a row's URL is a subpath (`/tree/`, `/blob/`) resolve it to the repository root before
+scoring, and when a row's name matches a known project whose root repo is also present, prefer the
+root. Worth an explicit pass over the memory and mcps shelves, which is where wrappers concentrate.
+
