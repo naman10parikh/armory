@@ -10,7 +10,7 @@ cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
 stars: 4867
 eval_score: null
-mentions: 9
+mentions: 10
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
