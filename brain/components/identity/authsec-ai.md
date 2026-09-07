@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 6
+pushed_at: "2026-07-03T06:28:48Z"
 ---
 ## What it is
 Use when agent-to-agent calls need mutual authentication and a place to keep the agent's own secrets.

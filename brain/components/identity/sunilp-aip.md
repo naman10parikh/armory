@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 2
+pushed_at: "2026-08-23T17:42:07Z"
 ---
 ## What it is
 Use when an agent's identity must carry across both MCP and agent-to-agent calls under one delegable scheme.

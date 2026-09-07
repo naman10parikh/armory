@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 247
+pushed_at: "2026-07-06T19:46:41Z"
 ---
 ## What it is
 Use when every agent action must be traceable to a specific agent instance with its own key, scoped token and tamper-evident log.

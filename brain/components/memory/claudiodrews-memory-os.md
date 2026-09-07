@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 128
+pushed_at: "2026-06-10T10:40:43Z"
 ---
 ## What it is
 Use when you want layered memory — structured facts, recall and an auto-curated wiki — running locally against any model.

@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 4
+pushed_at: "2026-07-20T05:07:15Z"
 ---
 ## What it is
 Use when 'which agent may do what, to whose data' needs to be a policy decision rather than a code branch.

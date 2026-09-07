@@ -8,12 +8,14 @@ source_url: https://github.com/MemPalace/mempalace
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 58892
+stars: 58897
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 7548
+pushed_at: "2026-09-05T19:40:56Z"
 ---
 ## What it is
 Use when you want an agent memory system whose recall quality has actually been benchmarked rather than asserted.

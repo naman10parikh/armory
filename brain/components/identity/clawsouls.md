@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 2
+pushed_at: "2026-09-02T10:06:38Z"
 ---
 ## What it is
 Use when you would rather install a ready-made agent persona than write one, and want it to work across OpenClaw, Claude Code and Cursor.

@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 205
+pushed_at: "2024-10-22T00:46:00Z"
 ---
 ## What it is
 Use when you want a well-known reference implementation of agent memory over a knowledge graph to read or fork.

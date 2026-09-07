@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 13
+pushed_at: "2026-08-28T17:24:11Z"
 ---
 ## What it is
 Use when an agent must act on a user's behalf against a third-party API with the user's own consent and scope.

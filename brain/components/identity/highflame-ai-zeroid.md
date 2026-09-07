@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 18
+pushed_at: "2026-09-07T12:35:54Z"
 ---
 ## What it is
 Use when a fleet of autonomous agents needs issued identities with a lifecycle — created, rotated and revoked.

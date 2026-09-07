@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 0
+pushed_at: "2026-05-11T18:50:43Z"
 ---
 ## What it is
 Use when you have character cards from the roleplay ecosystem and want them as SOUL.md personas an agent runtime can load.

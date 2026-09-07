@@ -8,11 +8,13 @@ source_url: https://github.com/sachitha7/mcp-server-dolibarr
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:19:00Z"
 ---
 ## What it is
 An MCP server for Dolibarr ERP/CRM that lets Claude or any MCP-compatible client read and manage thirdparties, commercial proposals, contracts, and invoices directly.

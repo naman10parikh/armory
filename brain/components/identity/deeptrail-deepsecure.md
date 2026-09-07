@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 7
+pushed_at: "2026-02-05T00:00:49Z"
 ---
 ## What it is
 Use when agents move from prototype to production and their identities, secrets and access need managing centrally.

@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 19
+pushed_at: "2026-07-02T04:13:02Z"
 ---
 ## What it is
 Use when an agent's identity must be persisted as state and assembled into its system prompt at boot, rather than pasted into a prompt by hand.

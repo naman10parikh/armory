@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 4
+pushed_at: "2026-04-16T21:33:23Z"
 ---
 ## What it is
 Use when an agent needs to authenticate as itself to services, without you hand-rolling keys and rotation.

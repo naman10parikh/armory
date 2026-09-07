@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 47
+pushed_at: "2026-09-03T15:49:39Z"
 ---
 ## What it is
 Use when agents must describe themselves to other systems in a common schema so they can be catalogued, discovered and verified.

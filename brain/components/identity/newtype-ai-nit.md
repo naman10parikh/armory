@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 1
+pushed_at: "2026-05-10T19:44:10Z"
 ---
 ## What it is
 Use when you want an agent's identity to be versioned and inspectable the way a repository is.

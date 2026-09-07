@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 9
+pushed_at: "2026-07-24T23:13:46Z"
 ---
 ## What it is
 Use when agents must stay logged in to third-party services without ever seeing your credentials.

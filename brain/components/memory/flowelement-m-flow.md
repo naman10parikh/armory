@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 255
+pushed_at: "2026-09-01T22:13:08Z"
 ---
 ## What it is
 Use when recall should follow associations between memories rather than nearest-neighbour similarity alone.

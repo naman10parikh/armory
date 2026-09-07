@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 5
+pushed_at: "2026-09-03T12:57:26Z"
 ---
 ## What it is
 Use when autonomous agents need one gateway that holds their credentials, isolates them per channel, and logs every session.

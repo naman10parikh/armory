@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 1
+pushed_at: "2026-07-23T00:03:12Z"
 ---
 ## What it is
 Use when your agent keeps getting blocked by sites and you need it to present a verifiable bot identity and be told why it failed.

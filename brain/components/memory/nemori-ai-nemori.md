@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 20
+pushed_at: "2026-04-16T09:47:33Z"
 ---
 ## What it is
 Use when you want to see whether aligning memory to episode-sized chunks beats a heavier memory framework.

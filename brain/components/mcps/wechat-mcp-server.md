@@ -8,11 +8,13 @@ source_url: https://github.com/SsssssSynqa/WeChat-ClaudeCode-MCP
 license: Do What The F*ck You Want To Public License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-22T07:53:32Z"
 ---
 ## What it is
 Enables Claude Code to read encrypted WeChat chat history from local database, search messages, view sessions and contacts.

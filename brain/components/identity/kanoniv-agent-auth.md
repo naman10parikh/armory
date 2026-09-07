@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 4
+pushed_at: "2026-03-25T20:20:44Z"
 ---
 ## What it is
 Use when authority must be handed down a chain of agents and each hop stays provable.

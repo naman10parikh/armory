@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 1
+pushed_at: "2026-09-01T03:20:35Z"
 ---
 ## What it is
 Use when an agent's authority, and every action it took under that authority, must be verifiable after the fact.

@@ -8,11 +8,13 @@ source_url: https://github.com/171county/modwrench
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-07T08:36:23Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and manage mods across Nexus Mods, mod.io, Thunderstore, and Modrinth, as well as perform local diagnostics like detecting games and parsing crash logs.

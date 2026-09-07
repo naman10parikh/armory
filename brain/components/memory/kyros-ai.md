@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 2
+pushed_at: "2026-09-02T15:03:47Z"
 ---
 ## What it is
 Use when the agent's memory needs to resolve its own contradictions and forget on a schedule.

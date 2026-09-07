@@ -8,12 +8,14 @@ source_url: https://github.com/volcengine/OpenViking
 license: AGPL-3.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35844
+stars: 35893
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 2739
+pushed_at: "2026-09-07T12:49:05Z"
 ---
 ## What it is
 Use when an agent's memory, retrieved knowledge and learned skills should live in one store that reorganises itself.

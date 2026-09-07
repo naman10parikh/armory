@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
+forks: 307
+pushed_at: "2026-08-29T01:24:36Z"
 ---
 ## What it is
 Use when an agent should carry forward what it learned from its own successes and failures into later runs.

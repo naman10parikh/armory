@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 32
+pushed_at: "2026-07-19T15:15:32Z"
 ---
 ## What it is
 Use when you want a coding agent to have a consistent, composable personality and voice across Claude Code, Codex, Gemini CLI and OpenClaw.

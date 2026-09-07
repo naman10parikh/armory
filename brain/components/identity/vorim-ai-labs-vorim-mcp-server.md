@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 8
+pushed_at: "2026-08-13T13:37:17Z"
 ---
 ## What it is
 Use when you want agent identity, scoped permissions and an audit trail exposed to the agent as tools it can call.

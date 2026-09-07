@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 1
+pushed_at: "2026-03-25T14:16:44Z"
 ---
 ## What it is
 Use when agents need to reach APIs and tools with their own credentials and permission scopes.

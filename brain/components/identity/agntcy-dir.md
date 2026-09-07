@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 55
+pushed_at: "2026-09-07T12:37:07Z"
 ---
 ## What it is
 Use when agents and multi-agent systems need to announce themselves and be found across organisations rather than hardcoded.

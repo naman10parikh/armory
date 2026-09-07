@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 29
+pushed_at: "2023-06-22T09:46:19Z"
 ---
 ## What it is
 Use when reading or writing the character-card files that the roleplay-agent ecosystem actually ships, including the PNG-embedded variant.

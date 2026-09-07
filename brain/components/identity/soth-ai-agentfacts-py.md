@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 1
+pushed_at: "2026-01-20T10:25:35Z"
 ---
 ## What it is
 Use when an agent should publish verifiable facts about itself — capabilities, provenance, operator — that another party can check.

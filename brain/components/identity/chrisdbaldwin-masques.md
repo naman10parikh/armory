@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 0
+pushed_at: "2026-07-03T20:09:33Z"
 ---
 ## What it is
 Use when an agent needs to put on a temporary role — a bundle of intent, context and lens — for one task and take it off afterwards.

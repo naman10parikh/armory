@@ -14,6 +14,8 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
+forks: 11
+pushed_at: "2024-07-20T14:36:12Z"
 ---
 ## What it is
 Use when authoring an agent persona against the current character-card standard, with lorebooks, assets and decorators.
