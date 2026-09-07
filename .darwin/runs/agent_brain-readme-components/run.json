@@ -1,0 +1,16 @@
+{
+  "id": "brain-readme-components",
+  "surface": "brain/components",
+  "branch": "agent/brain-readme-components",
+  "baseRef": "origin/main",
+  "plan": "Add a README.md to brain/components so the knowledge surface is self-documenting.",
+  "objective": "Every brain/ subdir has a README (no undocumented knowledge surface).",
+  "changedFiles": [
+    "brain/components/README.md"
+  ],
+  "gatePassed": true,
+  "engine": "deterministic",
+  "durationMs": 12460,
+  "dryRun": false,
+  "ts": "2026-06-04T01:20:27.591Z"
+}
