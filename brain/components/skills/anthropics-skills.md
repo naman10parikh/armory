@@ -12,7 +12,7 @@ stars: 175040
 forks: 20724
 eval_score: null
 mentions: null
-pushed_at: 2026-09-03T16:37:14Z
+pushed_at: "2026-09-03T16:37:14Z"
 verified_at: 2026-09-07
 related: []
 tags: [sentinel-feed, skills]
