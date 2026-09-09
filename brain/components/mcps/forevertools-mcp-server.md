@@ -8,11 +8,13 @@ source_url: https://github.com/ForeverTools/forevertools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:18:53Z"
 ---
 ## What it is
 Gives Claude 8 real-world tools via a single free API key: SSL certificate inspection, WHOIS lookup, email validation (syntax + MX + disposable detection), webpage screenshots, IP geolocation, currency conversion, schema markup generation, and UK business-day calculations. Python, pip install foreve

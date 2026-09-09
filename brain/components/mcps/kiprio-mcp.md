@@ -8,11 +8,13 @@ source_url: https://github.com/ForeverTools/kiprio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:54:06Z"
 ---
 ## What it is
 23 developer & data API tools for AI agents - IP/DNS/WHOIS/SSL lookups, web scraping & screenshots, text AI (summarize, translate, sentiment, grammar, redact), and dev utilities (hash, UUID, QR, JWT, cron, IBAN/VAT/email validation, breach check).

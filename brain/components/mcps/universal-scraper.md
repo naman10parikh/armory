@@ -8,11 +8,13 @@ source_url: https://github.com/qqkkrr/universal-scraper
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-09T08:52:27Z"
 ---
 ## What it is
 MCP server for config-driven web scraping, offering tools to scrape, crawl, extract markdown, and check status.
