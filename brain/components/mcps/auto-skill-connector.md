@@ -8,11 +8,13 @@ source_url: https://github.com/neelavalareddy/auto-skill-connector
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:03:51Z"
 ---
 ## What it is
 Enables Claude to search and install skills from a database of ~200k scraped Claude skills, MCP servers, and plugins.
