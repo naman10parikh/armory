@@ -1,0 +1,27 @@
+---
+name: http-4-mcp
+type: mcps
+description: >
+  Http 4 Mcp MCP server listed on mcp.so.
+source_repo: 
+source_url: https://mcp.so/server/http-4-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [mcp-so, mcp]
+---
+## What it is
+Http 4 Mcp MCP server listed on mcp.so.
+
+## When to use it
+Http 4 Mcp MCP server listed on mcp.so.
+
+## How to install / invoke
+See the [mcp.so listing](https://mcp.so/server/http-4-mcp) for install instructions.
+
+## Notes
+Discovered via mcp.so sitemap (live sitemaps). Pending verify -> promote.
