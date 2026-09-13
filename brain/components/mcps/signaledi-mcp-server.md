@@ -8,11 +8,13 @@ source_url: https://github.com/SignalEDI/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-10T19:12:58Z"
 ---
 ## What it is
 Enables AI assistants to parse, validate, send, and inspect X12 EDI documents via the SignalEDI Core API, with optional QuickBooks integration and a demo mode for keyless local testing.

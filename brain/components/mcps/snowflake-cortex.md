@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-29T03:57:14Z"
 ---
 ## What it is
 MCP server `Snowflake Cortex AI`, catalogued on PulseMCP. Integrates with Snowflake's Cortex AI services to convert natural language queries into SQL using semantic models, search PDF documents stored in Snowflake stages, and execute queries against data warehouses for conversational data exploration.
