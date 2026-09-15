@@ -8,11 +8,13 @@ source_url: https://github.com/mukul-dutt/mentionsapi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T17:22:35Z"
 ---
 ## What it is
 Enables AI agents to check brand mentions across AI search surfaces like ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews using natural language queries.

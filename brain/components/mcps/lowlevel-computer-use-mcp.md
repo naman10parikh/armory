@@ -8,11 +8,13 @@ source_url: https://github.com/codingmachineedge/lowlevel-computer-use-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:11:44Z"
 ---
 ## What it is
 A low-level computer-use MCP server that exposes raw desktop control (mouse, keyboard, shell, windows, processes, screenshots, etc.) to MCP clients like Claude Code and Codex.
