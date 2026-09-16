@@ -8,11 +8,13 @@ source_url: https://github.com/mekabu0551/champions-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:22:09Z"
 ---
 ## What it is
 Enables live battle statistics queries and precise damage calculations for Pokemon Champions, supporting Japanese and English names, multiple formats, and environmental factors.

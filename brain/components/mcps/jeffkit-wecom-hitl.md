@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-16T07:59:44Z"
 ---
 ## What it is
 MCP server `WeCom Human-in-the-Loop`, catalogued on PulseMCP. Sends messages to WeCom (WeChat Work) chats and waits for human replies, enabling interactive human-in-the-loop workflows with configurable timeouts and reference-based reply matching.

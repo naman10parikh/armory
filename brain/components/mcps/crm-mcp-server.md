@@ -8,11 +8,13 @@ source_url: https://github.com/abdul-34/ghl-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:45:09Z"
 ---
 ## What it is
 A self-hosted Model Context Protocol server for GoHighLevel CRM, built for agencies. It enables connecting multiple sub-accounts, selecting tools per client, and issuing unique revocable MCP URLs.
