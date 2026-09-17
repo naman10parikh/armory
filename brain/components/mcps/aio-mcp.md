@@ -8,11 +8,13 @@ source_url: https://github.com/CRTYPUBG/aio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T18:20:43Z"
 ---
 ## What it is
 Unified control plane and runtime for the Model Context Protocol ecosystem, enabling plugin management, configuration, permissions, and API gateway services.
