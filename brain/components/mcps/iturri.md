@@ -8,11 +8,13 @@ source_url: https://github.com/iturri-ai/iturri-js
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:26:53Z"
 ---
 ## What it is
 Access verified historical market data with quality flags, funding rates, and more, supporting micropayments for AI agents and trading bots.

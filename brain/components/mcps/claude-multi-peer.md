@@ -8,11 +8,13 @@ source_url: https://github.com/edhiblemeer/claude-multi-peer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T06:42:18Z"
 ---
 ## What it is
 Lets Claude Code instances discover each other and exchange messages instantly across projects, with persistent peer IDs and automatic message rotation.

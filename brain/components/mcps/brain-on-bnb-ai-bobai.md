@@ -8,11 +8,13 @@ source_url: https://github.com/mmxrealQQ/bobai-buyburn
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-18T11:45:59Z"
 ---
 ## What it is
 Live verifiable on-chain data for the $BOBAI token on BNB Chain: price computed from pair reserves × Chainlink (no price API), liquidity depth with LP-burn proof, buyback-and-burn audit trail, and fee-on-transfer-safe trade params. 13 read-only tools + 2 guided prompts, no API key.

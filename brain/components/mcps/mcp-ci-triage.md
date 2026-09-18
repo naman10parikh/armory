@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:38:07Z"
 ---
 ## What it is
 Exposes GitHub Actions state as four compact, read-only tools for triaging CI failures, letting agents answer why CI is red without leaving the chat.
