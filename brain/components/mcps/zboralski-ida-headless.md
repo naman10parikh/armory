@@ -8,10 +8,12 @@ source_url: https://github.com/zboralski/ida-headless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-14T10:05:40Z"
 ---
 ## What it is
 MCP server `IDA Pro Headless`, catalogued on PulseMCP. Provides headless access to IDA Pro's reverse engineering capabilities for analyzing binaries, extracting functions and strings, navigating cross-references, and integrating specialized analysis tools without requiring the GUI.

@@ -8,11 +8,13 @@ source_url: https://github.com/onmokoworks/wiztree-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:50:23Z"
 ---
 ## What it is
 Read-only MCP server that wraps WizTree's CSV export and adds disk-usage analysis tools, enabling file system scanning and analysis via natural language.
