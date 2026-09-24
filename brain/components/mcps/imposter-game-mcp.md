@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:02:56Z"
 ---
 ## What it is
 MCP server for playing the Imposter Game (Spyfall alternative) with AI as host. Provides tools to get categories and generate game words with secret roles.

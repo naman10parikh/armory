@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:10:58Z"
 ---
 ## What it is
 An MCP server that enables LLMs to detect cognitive biases and logical fallacies in text, list supported biases, and provide links to relevant psychology tests.

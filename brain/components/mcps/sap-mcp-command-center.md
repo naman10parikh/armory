@@ -8,11 +8,13 @@ source_url: https://github.com/Onandthegr8/sap-mcp-command-center
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-23T16:32:12Z"
 ---
 ## What it is
 Enables querying three synthetic SAP systems (ERP, S/4HANA, BW) for master data, transactions, and analytics via natural language or MCP tools, with a live dashboard.

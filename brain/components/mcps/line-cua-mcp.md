@@ -8,11 +8,13 @@ source_url: https://github.com/andrew54068/line-cua-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-24T05:07:39Z"
 ---
 ## What it is
 A macOS MCP server for LINE that reads encrypted local database snapshots to fetch chat history and sends messages via LINE UI without cursor movement.

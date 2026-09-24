@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:06:43Z"
 ---
 ## What it is
 Official MCP server for PeptideCalculatorOnline.com. Enables AI assistants (Claude/Cursor) to accurately calculate peptide reconstitution, molarity, and U-100 syringe units for research compounds.
