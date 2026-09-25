@@ -8,11 +8,13 @@ source_url: https://github.com/zenkodr/smithery-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-02-11T16:16:44Z"
 ---
 ## What it is
 Enables AI agents to interact with Novu's notification infrastructure, supporting event triggering, subscriber management, topic operations, and notification retrieval.
