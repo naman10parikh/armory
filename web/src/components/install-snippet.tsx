@@ -181,3 +181,24 @@ export function NoInstall({ source }: { source: string | null }) {
     </span>
   );
 }
+
+/**
+ * Where `armory` comes from (CP138 T51): the CLI is not on npm yet, so every page that prints an
+ * `armory install …` command says how to get it, beside the Harness selector.
+ */
+export function CliNote({ className = "" }: { className?: string }) {
+  return (
+    <p className={`text-[12px] leading-snug text-ink-muted ${className}`}>
+      Needs the armory CLI · not on npm yet, build it from{" "}
+      <a
+        href="https://github.com/naman10parikh/armory/tree/main/cli"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="cursor-pointer font-mono text-accent-hover underline underline-offset-4"
+      >
+        cli/
+      </a>{" "}
+      in the repository
+    </p>
+  );
+}

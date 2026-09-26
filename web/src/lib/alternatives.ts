@@ -1,4 +1,4 @@
-// "Best alternatives on the <shelf> shelf" — rows that do the same job, not merely the shelf's top rows
+// "Alternatives · <component>" on a detail page — rows that do the same job, not merely the shelf's top rows
 // (CP143). The detail page used to list the three best-scored rows on the shelf, so aider's page offered
 // gh and duckdb. A row now qualifies only when it shares a purpose with this one: two or more purpose
 // words in common (from the description and the purpose tags), weighted by how rare each word is on the

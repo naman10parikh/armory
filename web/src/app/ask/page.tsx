@@ -8,7 +8,7 @@ import { Suspense, useCallback, useEffect, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { ContentWidth } from "@/components/data-table";
 import { BoardTable } from "@/components/board-table";
-import { HarnessSelector } from "@/components/install-snippet";
+import { CliNote, HarnessSelector } from "@/components/install-snippet";
 import { RankedRowSkeleton, apiRowViews, type RankedRowData } from "@/components/ranked-row";
 import { AskResultCard, InterpretedChip, KeywordChip, type AskResultItem } from "@/components/ask-result-card";
 
@@ -48,7 +48,7 @@ function AskShell() {
   return (
     <ContentWidth className="pb-16 pt-8">
       <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
-      <p className="mt-3 text-[13px] text-ink-muted">Loading</p>
+      <p className="mt-3 text-[13px] text-ink-muted">Loading the top {TOP_N} ranked components</p>
     </ContentWidth>
   );
 }
@@ -126,7 +126,9 @@ function AskContent() {
         <ContentWidth className="pb-6 pt-8">
           <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
           <p className="mt-2 text-[16px] leading-normal text-ink-body">
-            Describe a task, get ranked components
+            {/* Production has no GEMINI_API_KEY, so matching is keyword-only (CP138 T51). Once the key
+                is set, restore "Describe a task, get ranked components". */}
+            Search by keyword, get ranked components
           </p>
 
           <form
@@ -174,6 +176,7 @@ function AskContent() {
             ))}
             <HarnessSelector className="ml-auto" />
           </div>
+          <CliNote className="mt-3" />
         </ContentWidth>
       </section>
 

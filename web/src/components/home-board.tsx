@@ -1,18 +1,17 @@
 /*
   The home board — one promise line, live counters, search, then Top / Trending / New (CP143).
 
-  No marketing hero: the page says what Armory is and why it beats a list in one sentence (ranked,
-  on public evidence, refreshed nightly, installable), counts that are true right now, and then the
-  table. The three tabs are three static routes (/, /trending, /new) rather than client state, so each
+  No marketing hero: the page says what Armory is in one line (components, ranked where public
+  evidence exists), counts that are true right now, and then the table. The three tabs are three static routes (/, /trending, /new) rather than client state, so each
   view is a URL an agent can fetch and a person can share.
 */
 import Link from "next/link";
 import { BoardTable } from "./board-table";
 import { ContentWidth } from "./data-table";
 import { SearchIcon } from "./icons";
-import { HarnessSelector } from "./install-snippet";
+import { CliNote, HarnessSelector } from "./install-snippet";
 import { RefreshedAgo } from "./refreshed-ago";
-import { int, shortDate, sinceText } from "@/lib/format";
+import { int, shortDate, utcStamp } from "@/lib/format";
 import { boardMeta, newRows, topRows, trendingRows, type BoardMeta } from "@/lib/rows";
 import { toRowViews } from "@/lib/row-view";
 
@@ -37,10 +36,10 @@ export function HomeBoard({ tab }: { tab: BoardTab }) {
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-8 pt-10">
           <h1 className="max-w-[36ch] text-[27px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
-            <data value={String(meta.total)}>{int(meta.total)}</data> agent components ranked on public
-            evidence, refreshed nightly
+            <data value={String(meta.total)}>{int(meta.total)}</data> agent components, ranked where public
+            evidence exists
           </h1>
-          <Counters meta={meta} now={now} />
+          <Counters meta={meta} />
 
           <form action="/ask" method="get" role="search" className="mt-6 flex w-full max-w-[520px] items-center gap-2">
             <label htmlFor="home-search" className="sr-only">
@@ -88,6 +87,7 @@ export function HomeBoard({ tab }: { tab: BoardTab }) {
             </nav>
             {/* One control for one setting: the nav owns this selector from lg up. */}
             <HarnessSelector className="mb-2 lg:hidden" />
+            <CliNote className="mb-2.5" />
           </div>
 
           <p className="mb-4 mt-4 text-[13px] text-ink-muted">{lead(tab, meta)}</p>
@@ -130,31 +130,31 @@ function lead(tab: BoardTab, meta: BoardMeta): string {
       : "Most practitioner mentions gained over the last two weeks.";
   }
   if (tab === "new") return "Most recently added to the catalog first; the date is the day it was listed.";
-  return "Highest score first, across every kind of component.";
+  return "Highest score first, across component types";
 }
 
-function Counters({ meta, now }: { meta: BoardMeta; now: number }) {
+function Counters({ meta }: { meta: BoardMeta }) {
   return (
     <p className="mt-4 flex flex-wrap items-baseline gap-x-6 gap-y-2 text-[14px] text-ink-muted">
       <span>
         <data value={String(meta.ranked)} className="font-semibold text-ink-hi">
           {int(meta.ranked)}
         </data>{" "}
-        ranked
+        Ranked
       </span>
       {meta.addedThisWeek != null && (
         <Link href="/new" className="cursor-pointer transition-colors duration-150 ease-state hover:text-accent-hover">
           <data value={String(meta.addedThisWeek)} className="font-semibold text-ink-hi">
             +{int(meta.addedThisWeek)}
           </data>{" "}
-          this week
+          listed this week
         </Link>
       )}
       {meta.generatedAt && (
         <span>
-          refreshed{" "}
+          Updated{" "}
           <span className="font-semibold text-ink-hi">
-            <RefreshedAgo iso={meta.generatedAt} initial={sinceText(meta.generatedAt, now)} />
+            <RefreshedAgo iso={meta.generatedAt} initial={utcStamp(meta.generatedAt)} />
           </span>
         </span>
       )}

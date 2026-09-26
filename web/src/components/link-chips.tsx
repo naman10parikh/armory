@@ -32,7 +32,7 @@ export function LinkChipGroup({ label, chips }: { label: string; chips: readonly
       {rest.length > 0 && (
         <details className="group open:w-full" open={restActive}>
           <summary className="cursor-pointer list-none rounded-full border border-line-subtle bg-raise-1 px-2.5 py-1 text-[12px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-line hover:text-ink-hi group-open:hidden [&::-webkit-details-marker]:hidden">
-            More {INT.format(rest.length)}
+            {INT.format(rest.length)} More
           </summary>
           <div className="flex flex-wrap gap-1.5 sm:pl-[82px]">
             {rest.map((c) => (

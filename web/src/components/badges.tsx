@@ -23,9 +23,9 @@ export function TypePill({ type }: { type: ComponentType }) {
 
 // Maturity = dot + label (colour is NEVER the sole signal — anti-slop #12).
 const MATURITY: Record<string, { dot: string; text: string; label: string }> = {
-  stable: { dot: "bg-ok", text: "text-ok", label: "stable" },
-  beta: { dot: "bg-warn", text: "text-warn", label: "preview" },
-  experimental: { dot: "bg-info", text: "text-info", label: "experimental" },
+  stable: { dot: "bg-ok", text: "text-ok", label: "Stable" },
+  beta: { dot: "bg-warn", text: "text-warn", label: "Preview" },
+  experimental: { dot: "bg-info", text: "text-info", label: "Experimental" },
 };
 
 export function MaturityBadge({ maturity }: { maturity: Maturity }) {
@@ -53,5 +53,22 @@ export function TagChip({ tag }: { tag: string }) {
     <span className="inline-flex items-center rounded-full border border-line-subtle px-2.5 py-0.5 text-[10px] text-ink-muted">
       {tag}
     </span>
+  );
+}
+
+// "Contributed by <feed>": the feed's name links to the page that explains contributors (CP138 T51
+// ruling), so the label explains itself. The name comes from the row's `<name>-feed` tag, never a person.
+const CONTRIBUTORS = "https://github.com/naman10parikh/armory/blob/main/docs/CONTRIBUTORS.md";
+
+export function ContributorLink({ name }: { name: string }) {
+  return (
+    <a
+      href={CONTRIBUTORS}
+      target="_blank"
+      rel="noreferrer noopener"
+      className="cursor-pointer underline underline-offset-2 transition-colors duration-150 ease-state hover:text-accent-hover"
+    >
+      {name}
+    </a>
   );
 }

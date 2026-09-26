@@ -5,6 +5,7 @@
 // SignalsRow, InstallSnippet); tokenised classes only — no inline var(--…) objects, no
 // oklch() literals. Every number ships as a final <data value>; nothing animates.
 import Link from "next/link";
+import { ContributorLink } from "@/components/badges";
 import { BoardTable, OursTag } from "@/components/board-table";
 import { InstallSnippet, NoInstall } from "@/components/install-snippet";
 import { ScoreBadge } from "@/components/score-badge";
@@ -104,7 +105,9 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
               <PickName pick={pick} />
               {pick.row?.ours && <OursTag />}
               {pick.row?.contributedBy && (
-                <span className="mt-1 block text-[11.5px] text-ink-faint">Contributed by {pick.row.contributedBy}</span>
+                <span className="mt-1 block text-[11.5px] text-ink-faint">
+                  Contributed by <ContributorLink name={pick.row.contributedBy} />
+                </span>
               )}
             </span>
             {pick.row ? (

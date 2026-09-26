@@ -18,7 +18,7 @@ export default async function Image() {
       // One column: Satori lays a fragment out as a row, which stacked these side by side.
       <div style={{ display: "flex", flexDirection: "column", flexGrow: 1 }}>
         <div style={{ display: "flex", fontSize: 58, fontWeight: 600, lineHeight: 1.1, letterSpacing: -1 }}>
-          {`${int(meta.total)} agent components, ranked on public evidence`}
+          {`${int(meta.total)} agent components, ${int(meta.ranked)} ranked on public evidence`}
         </div>
         <div style={{ display: "flex", marginTop: 16, fontSize: 28, color: OG.muted }}>
           Refreshed nightly, with how to install each one

@@ -131,13 +131,13 @@
       "picks": [
         {
           "name": "wshobson-agents",
-          "why": "Plugin marketplace of sub-agents for Claude Code, Codex, Cursor and OpenCode \u2014 the largest maintained collection",
+          "why": "Plugin marketplace of sub-agents for Claude Code, Codex, Cursor and OpenCode",
           "armoryName": "wshobson-agents",
           "url": "https://github.com/wshobson/agents"
         },
         {
           "name": "voltagent-awesome-claude-code-subagents",
-          "why": "100+ specialised Claude Code sub-agents, one file each",
+          "why": "100+ specialized Claude Code sub-agents, one file each",
           "armoryName": "voltagent-awesome-claude-code-subagents",
           "url": "https://github.com/VoltAgent/awesome-claude-code-subagents"
         }
@@ -276,7 +276,7 @@
     {
       "slot": "Computer",
       "pick": "Orgo",
-      "access": "ORGO_API_KEY; Bezalel provisions it, so the agent never sees the key"
+      "access": "ORGO_API_KEY, provisioned through bezalel.sh so the agent never sees the key"
     },
     {
       "slot": "Sandbox",

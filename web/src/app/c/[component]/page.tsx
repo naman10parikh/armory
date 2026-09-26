@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ContentWidth } from "@/components/data-table";
-import { HarnessSelector } from "@/components/install-snippet";
+import { CliNote, HarnessSelector } from "@/components/install-snippet";
 import { PickList, ShelfStats, ShelfTable } from "@/components/component-page";
 import { CANON_SLUGS, PLANE, resolvedPicksFor, rowsFor, stackFor, statsFor, topRankedFor } from "@/lib/canon";
 
@@ -123,6 +123,7 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
             <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
             {/* One control for one setting: the nav owns this selector from lg up. */}
             <HarnessSelector className="lg:hidden" />
+            <CliNote />
           </div>
 
           <ShelfTable label={`${entry.label} · Top Ranked`} rows={top} />
@@ -134,19 +135,29 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
             >
               Leaderboard
             </Link>{" "}
-            ranks all{" "}
-            <data value={String(stats.ranked)} className="tabular-nums">
-              {stats.ranked.toLocaleString("en-US")}
-            </data>{" "}
-            scored rows
             {isUnion ? (
+              // The link opens one member's filter, not the whole component (CP138 T51), so say which.
               <>
-                {" "}
-                — filtered to{" "}
-                <span className="font-sans text-ink-body">{stats.leaderboardComponent}</span>, the
-                largest member of this component
+                ranks the <span className="font-sans text-ink-body">{stats.leaderboardComponent}</span> rows, the
+                largest part of this component (
+                <data value={String(stats.members[0].count)} className="tabular-nums">
+                  {stats.members[0].count.toLocaleString("en-US")}
+                </data>{" "}
+                of{" "}
+                <data value={String(stats.indexed)} className="tabular-nums">
+                  {stats.indexed.toLocaleString("en-US")}
+                </data>
+                )
               </>
-            ) : null}
+            ) : (
+              <>
+                ranks all{" "}
+                <data value={String(stats.ranked)} className="tabular-nums">
+                  {stats.ranked.toLocaleString("en-US")}
+                </data>{" "}
+                scored rows
+              </>
+            )}
             .{" "}
             <Link
               href="/formula"

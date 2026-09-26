@@ -37,7 +37,7 @@ export function InstallStrip({
   const verified = new Set(component.cli_compat).has(harness);
 
   // `run` is the server-checked MCP command (src/lib/run-check.ts); a manual snippet has nothing to
-  // vouch for, so it carries no Verified or Universal label.
+  // vouch for, so it carries no compatibility label.
   const snippet = buildSnippet(component, harness, run);
   const followUp = followUpNote(component, harness);
 
@@ -52,8 +52,9 @@ export function InstallStrip({
               label={`Copy install command for ${HARNESS_LABEL[harness]}`}
             />
 
-            {/* Where it lands + verified/universal — real text, never a title=
-                tooltip (design/BRIEF.md §1.1). */}
+            {/* Where it lands + whether the component lists this harness as compatible — real text,
+                never a title= tooltip (design/BRIEF.md §1.1). "Verified" overclaimed a listing, and
+                "Universal" is a banned word with another meaning here (CP138 T51). */}
             <p className="mt-2.5 flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] text-ink-muted">
               <span>{snippet.verb}</span>
               <span className="text-accent-hover">{snippet.file}</span>
@@ -61,7 +62,7 @@ export function InstallStrip({
                 <>
                   <span aria-hidden>·</span>
                   <span className={verified ? "text-ok" : "text-ink-muted"}>
-                    {verified ? "Verified" : "Universal"}
+                    {verified ? "Listed as compatible" : "Not listed · generic path"}
                   </span>
                 </>
               )}

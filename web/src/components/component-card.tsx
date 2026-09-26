@@ -2,7 +2,7 @@ import Link from "next/link";
 import { contributorOf } from "@/lib/format";
 import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypeBadge } from "./badges";
-import { ArrowRightIcon, StarIcon, TypeIcon } from "./icons";
+import { ArrowRightIcon, TypeIcon } from "./icons";
 import { QuickInstall } from "./quick-install";
 import { NoInstall } from "./install-snippet";
 import { isInstallable } from "@/lib/installable";
@@ -37,6 +37,8 @@ export function ComponentCard({
 }) {
   const href = `/e/${component.type}/${component.name}`;
   const contributedBy = contributorOf(component.tags);
+  // A `<name>-feed` tag is the intake pipeline's, and "Contributed by" already says it (CP138 T51).
+  const tags = component.tags.filter((t) => !t.endsWith("-feed"));
   return (
     // Outer shell (bezel)
     <article className="group relative h-full rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle transition duration-[220ms] ease-out-quart hover:ring-accent-line hover:-translate-y-0.5 active:translate-y-0 active:scale-[0.985]">
@@ -76,7 +78,8 @@ export function ComponentCard({
 
         {/* Row 4: score + signals (when the card was handed a scored row) or the CLI
             compat strip. Falls back to the raw stars/eval fields for callers that
-            don't scope a scored catalog (e.g. a bare related-component list). */}
+            don't scope a scored catalog (e.g. a bare related-component list), in the
+            same words as every other row (CP138 T51: words, not a glyph or "eval 0.95"). */}
         {score ? (
           <div className="pointer-events-none relative z-[2] mt-4 flex flex-wrap items-center gap-x-3 gap-y-1.5">
             <ScoreBadge score={score.universal} evidence={score.evidence} />
@@ -84,24 +87,22 @@ export function ComponentCard({
           </div>
         ) : (
           (typeof component.stars === "number" || typeof component.eval_score === "number") && (
-            <div className="pointer-events-none relative z-[2] mt-4 flex flex-wrap items-center gap-x-3 gap-y-1.5 tabular-nums">
-              {typeof component.stars === "number" && (
-                <span className="inline-flex items-center gap-1 text-[11px] text-ink-muted">
-                  <StarIcon size={12} className="text-accent" />
-                  {component.stars.toLocaleString()}
-                </span>
-              )}
-              {typeof component.eval_score === "number" && (
-                <span className="text-[11px] text-ink-muted">
-                  eval{" "}
-                  <span className="text-accent-hover">{component.eval_score.toFixed(2)}</span>
-                </span>
-              )}
+            <div className="pointer-events-none relative z-[2] mt-4">
+              <SignalsRow
+                signals={{
+                  tested: typeof component.eval_score === "number" ? component.eval_score : null,
+                  mentions: null,
+                  stars: typeof component.stars === "number" ? component.stars : null,
+                  forks: null,
+                  usage: null,
+                }}
+              />
             </div>
           )
         )}
         {component.cli_compat.length > 0 && (
           <div className="pointer-events-none relative z-[2] mt-2 flex flex-wrap items-center gap-1.5">
+            <span className="mr-0.5 text-[10px] font-semibold uppercase tracking-[0.08em] text-ink-muted">Harness</span>
             {component.cli_compat.slice(0, 5).map((cli) => (
               <CliChip key={cli} cli={cli} />
             ))}
@@ -109,16 +110,16 @@ export function ComponentCard({
         )}
 
         {/* Row 5: tags */}
-        {component.tags.length > 0 && (
+        {tags.length > 0 && (
           <div className="pointer-events-none relative z-[2] mt-3 flex flex-wrap gap-1.5">
-            {component.tags.slice(0, 4).map((tag) => (
+            {tags.slice(0, 4).map((tag) => (
               <TagChip key={tag} tag={tag} />
             ))}
           </div>
         )}
 
-        {/* Footer: compact one-click install + a link to the detail page's
-            connections. Interactive — sits above the overlay (z-10, pointer-events
+        {/* Footer: compact one-click install + a link to the detail page.
+            Interactive — sits above the overlay (z-10, pointer-events
             restored). */}
         <div className="relative z-10 mt-4 border-t border-line-subtle pt-3">
           <div className="flex items-center justify-between gap-2">
@@ -131,7 +132,7 @@ export function ComponentCard({
               href={href}
               className="flex shrink-0 cursor-pointer items-center gap-1.5 text-[11px] font-medium text-ink-muted transition-colors hover:text-accent-hover group-hover:text-accent-hover"
             >
-              Connections
+              Details
               <span className="flex h-5 w-5 items-center justify-center rounded-full bg-accent-quiet">
                 <ArrowRightIcon size={12} className="text-accent" />
               </span>

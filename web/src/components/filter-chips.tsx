@@ -45,7 +45,7 @@ export function FilterChipGroup({
       ))}
       {hidden > 0 && (
         <Chip active={false} onClick={() => setExpanded(true)}>
-          More +{hidden}
+          {hidden} More
         </Chip>
       )}
     </div>

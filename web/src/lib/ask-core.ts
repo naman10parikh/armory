@@ -238,7 +238,7 @@ export async function askCatalog(q: string, limit = 12): Promise<AskResult> {
   if (!key) {
     return {
       ok: false, reason: "no_key", interpretation: { keywords: qTokens },
-      summary: "Showing keyword matches (add GEMINI_API_KEY for conversational search).",
+      summary: "Keyword matches; conversational search is off.",
       items: runSearch(qTokens, {}, limit),
     };
   }
