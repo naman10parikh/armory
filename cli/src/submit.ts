@@ -68,6 +68,10 @@ export function validateAndCopy(filePath: string): SubmitResult {
     return { ok: false, errors, name, dest: "" };
   }
 
+  // Outside a clone the root is the installed package's own folder; a file written there reaches no one.
+  if (!existsSync(join(resolveRoot(), "brain"))) {
+    return { ok: false, errors: ["submit adds the file to incoming/ in a clone of the Armory repository, for a pull request: run it from a clone (git clone https://github.com/naman10parikh/armory)."], name, dest: "" };
+  }
   const incoming = join(resolveRoot(), "incoming");
   mkdirSync(incoming, { recursive: true });
   const dest = join(incoming, expectedFile);

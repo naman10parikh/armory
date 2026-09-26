@@ -4,7 +4,9 @@
 // loadCatalog rather than a cross-package import.
 import { readFileSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import { gunzipSync } from "node:zlib";
+import { fetchFile } from "./fetch.js";
 
 export interface Component {
   name: string;
@@ -30,44 +32,53 @@ export interface Catalog {
 }
 
 const HERE = dirname(fileURLToPath(import.meta.url));
+// In a clone, dist/ sits two levels under the repository root, which holds catalog.json, lib/rank.mjs and
+// brain/. An installed package has none of those there, so it carries its own copies of the catalog and the
+// engine in vendor/, written at pack time (scripts/vendor-for-pack.mjs; CP138 T50).
+const CLONE = resolve(HERE, "..", "..");
+const VENDOR = resolve(HERE, "..", "vendor");
+const hasCatalog = (dir: string): boolean =>
+  existsSync(join(dir, "catalog.json")) || existsSync(join(dir, "catalog.json.gz"));
 
-// Resolve the repo root that holds catalog.json + brain/. Override with
-// ENGRAM_ROOT (used by tests to point at a fixture). Otherwise walk up from
-// this file until catalog.json is found.
+// Resolve the folder that holds the catalog. Override with ENGRAM_ROOT (used by tests to point at a
+// fixture); otherwise the clone this CLI was built in, else the copy packed with it.
 export function resolveRoot(): string {
   const override = process.env.ENGRAM_ROOT;
   if (override) return resolve(override);
-  let dir = HERE;
-  for (let i = 0; i < 8; i += 1) {
-    if (existsSync(join(dir, "catalog.json"))) return dir;
-    const parent = dirname(dir);
-    if (parent === dir) break;
-    dir = parent;
-  }
-  // Fallback: two levels up from dist/ (component/cli/dist -> component).
-  return resolve(HERE, "..", "..");
+  if (hasCatalog(CLONE)) return CLONE;
+  if (hasCatalog(VENDOR)) return VENDOR;
+  return CLONE;
 }
 
-// ~15-line catalog loader: read catalog.json from the resolved root.
+/** The ranking engine's file URL: the clone's lib/rank.mjs, else the copy packed in vendor/. */
+export function engineUrl(): string {
+  const cloned = join(CLONE, "lib", "rank.mjs");
+  return pathToFileURL(existsSync(cloned) ? cloned : join(VENDOR, "lib", "rank.mjs")).href;
+}
+
+// ~15-line catalog loader: read catalog.json, or the gzipped copy an installed package carries.
 export function loadCatalog(root = resolveRoot()): Catalog {
   const file = join(root, "catalog.json");
-  if (!existsSync(file)) {
+  const gz = `${file}.gz`;
+  if (!existsSync(file) && !existsSync(gz)) {
     throw new Error(`catalog.json not found at ${file} — run \`pnpm catalog\` first.`);
   }
-  const parsed = JSON.parse(readFileSync(file, "utf8")) as Catalog;
+  const text = existsSync(file) ? readFileSync(file, "utf8") : gunzipSync(readFileSync(gz)).toString("utf8");
+  const parsed = JSON.parse(text) as Catalog;
   if (!Array.isArray(parsed.components)) {
     throw new Error(`catalog.json at ${file} is malformed (missing components array).`);
   }
   return parsed;
 }
 
-// Read a component's markdown body. `path` is relative to brain/.
+// Read a component's markdown body. `path` is relative to brain/. An installed package carries no brain/,
+// so outside a clone the body is read from the public repository instead.
 export function readComponentBody(component: Component, root = resolveRoot()): string {
   const file = join(root, "brain", component.path);
-  if (!existsSync(file)) {
-    throw new Error(`component body not found at ${file}`);
-  }
-  return readFileSync(file, "utf8");
+  if (existsSync(file)) return readFileSync(file, "utf8");
+  if (existsSync(join(root, "brain"))) throw new Error(`component body not found at ${file}`);
+  const armory = { owner: "naman10parikh", repo: "armory", ref: "main", path: "", isFile: true };
+  return fetchFile(armory, `brain/${component.path}`);
 }
 
 function tokenize(text: string): string[] {

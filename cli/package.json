@@ -10,6 +10,7 @@
   "types": "./dist/index.d.ts",
   "files": [
     "dist/",
+    "vendor/",
     "README.md",
     "LICENSE"
   ],
@@ -35,6 +36,7 @@
     "build": "tsc",
     "dev": "tsc --watch",
     "test": "vitest run",
+    "prepack": "node ../scripts/vendor-for-pack.mjs .",
     "prepublishOnly": "pnpm build && pnpm test"
   },
   "dependencies": {

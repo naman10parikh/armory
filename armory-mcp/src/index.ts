@@ -1,13 +1,16 @@
 #!/usr/bin/env node
 // Component MCP server — exposes the agent-native brain over stdio so any MCP
 // client can search, fetch, and submit harness components (components).
+import { realpathSync } from "node:fs";
+import { fileURLToPath } from "node:url";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
 import {
+  engineUrl,
+  fetchComponentBody,
   loadCatalog,
   rankComponents,
-  readComponentBody,
   type Component,
 } from "./catalog.js";
 import { submitMarkdown } from "./submit.js";
@@ -91,7 +94,7 @@ export function createServer(): McpServer {
           content: [{ type: "text" as const, text: `Component "${name}" not found.` }],
         };
       }
-      return { content: [{ type: "text" as const, text: readComponentBody(component) }] };
+      return { content: [{ type: "text" as const, text: await fetchComponentBody(component) }] };
     }
   );
 
@@ -156,7 +159,7 @@ export function createServer(): McpServer {
       }),
     },
     async ({ component, domain, sort, ascending, limit }) => {
-      const { leaderboard } = await import("../../lib/rank.mjs");
+      const { leaderboard } = (await import(engineUrl())) as typeof import("../../lib/rank.mjs");
       const lb = leaderboard({ component, domain, sort, dir: ascending ? "asc" : "desc", limit });
       return { content: [{ type: "text" as const, text: JSON.stringify(lb, null, 2) }] };
     }
@@ -185,7 +188,7 @@ export function createServer(): McpServer {
       const components = loadCatalog().components;
       // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the
       // real module type with the missing export to stay type-safe without touching the engine or types.
-      const { computeRows } = (await import("../../lib/rank.mjs")) as typeof import("../../lib/rank.mjs") & {
+      const { computeRows } = (await import(engineUrl())) as typeof import("../../lib/rank.mjs") & {
         computeRows: (c: unknown[]) => EngineRow[];
       };
       const rows = computeRows(components); // same order as components (a .map)
@@ -223,10 +226,19 @@ async function main(): Promise<void> {
   process.stderr.write("armory-mcp: listening on stdio\n");
 }
 
-// Only auto-start when invoked directly (so tests can import createServer).
-const invokedDirectly =
-  process.argv[1] !== undefined && import.meta.url === `file://${process.argv[1]}`;
-if (invokedDirectly) {
+// Only auto-start when invoked directly (so tests can import createServer). npx and a global install start
+// this file through a bin symlink: argv[1] is then the link and import.meta.url the file it points to, so
+// the two are compared as real paths (CP138 T50: the installed bin exited without answering initialize).
+function invokedDirectly(): boolean {
+  const entry = process.argv[1];
+  if (entry === undefined) return false;
+  try {
+    return realpathSync(entry) === fileURLToPath(import.meta.url);
+  } catch {
+    return false;
+  }
+}
+if (invokedDirectly()) {
   main().catch((err: unknown) => {
     process.stderr.write(`armory-mcp fatal: ${(err as Error).message}\n`);
     process.exitCode = 1;

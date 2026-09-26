@@ -3,7 +3,8 @@
 // package to version across two surfaces). Codes to the catalog.json contract.
 import { readFileSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import { gunzipSync } from "node:zlib";
 
 export interface Component {
   name: string;
@@ -29,27 +30,37 @@ export interface Catalog {
 }
 
 const HERE = dirname(fileURLToPath(import.meta.url));
+// In a clone, dist/ sits two levels under the repository root, which holds catalog.json, lib/rank.mjs and
+// brain/. An installed package has none of those there, so it carries its own copies of the catalog and the
+// engine in vendor/, written at pack time (scripts/vendor-for-pack.mjs; CP138 T50).
+const CLONE = resolve(HERE, "..", "..");
+const VENDOR = resolve(HERE, "..", "vendor");
+const hasCatalog = (dir: string): boolean =>
+  existsSync(join(dir, "catalog.json")) || existsSync(join(dir, "catalog.json.gz"));
 
 export function resolveRoot(): string {
   const override = process.env.ARMORY_ROOT;
   if (override) return resolve(override);
-  let dir = HERE;
-  for (let i = 0; i < 8; i += 1) {
-    if (existsSync(join(dir, "catalog.json"))) return dir;
-    const parent = dirname(dir);
-    if (parent === dir) break;
-    dir = parent;
-  }
-  return resolve(HERE, "..", "..");
+  if (hasCatalog(CLONE)) return CLONE;
+  if (hasCatalog(VENDOR)) return VENDOR;
+  return CLONE;
 }
 
-// ~15-line catalog loader.
+/** The ranking engine's file URL: the clone's lib/rank.mjs, else the copy packed in vendor/. */
+export function engineUrl(): string {
+  const cloned = join(CLONE, "lib", "rank.mjs");
+  return pathToFileURL(existsSync(cloned) ? cloned : join(VENDOR, "lib", "rank.mjs")).href;
+}
+
+// ~15-line catalog loader: catalog.json, or the gzipped copy an installed package carries.
 export function loadCatalog(root = resolveRoot()): Catalog {
   const file = join(root, "catalog.json");
-  if (!existsSync(file)) {
+  const gz = `${file}.gz`;
+  if (!existsSync(file) && !existsSync(gz)) {
     throw new Error(`catalog.json not found at ${file} — run \`pnpm catalog\` first.`);
   }
-  const parsed = JSON.parse(readFileSync(file, "utf8")) as Catalog;
+  const text = existsSync(file) ? readFileSync(file, "utf8") : gunzipSync(readFileSync(gz)).toString("utf8");
+  const parsed = JSON.parse(text) as Catalog;
   if (!Array.isArray(parsed.components)) {
     throw new Error(`catalog.json at ${file} is malformed (missing components array).`);
   }
@@ -60,6 +71,18 @@ export function readComponentBody(component: Component, root = resolveRoot()): s
   const file = join(root, "brain", component.path);
   if (!existsSync(file)) throw new Error(`component body not found at ${file}`);
   return readFileSync(file, "utf8");
+}
+
+/**
+ * The body from the clone when it has one, else from the public repository: an installed package carries
+ * the catalog but not brain/'s 65,000 notes.
+ */
+export async function fetchComponentBody(component: Component, root = resolveRoot()): Promise<string> {
+  if (existsSync(join(root, "brain"))) return readComponentBody(component, root);
+  const url = `https://raw.githubusercontent.com/naman10parikh/armory/main/brain/${component.path}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`component body not found at ${url} (HTTP ${res.status})`);
+  return res.text();
 }
 
 function tokenize(text: string): string[] {

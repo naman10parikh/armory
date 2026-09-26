@@ -174,7 +174,8 @@ function installMcp(report: InstallReport, body: string, ref: RepoRef, opts: Ins
   } else {
     report.steps.push({
       action: "merged-mcp",
-      detail: `${report.component.name} → ${file} (${run.command} ${run.args.join(" ")})${result.created ? " [created]" : ""}`,
+      // A dry run creates nothing, so it does not say "[created]" (CP138 T50: it read as done).
+      detail: `${report.component.name} → ${file} (${run.command} ${run.args.join(" ")})${result.created ? (opts.dryRun ? " [new file]" : " [created]") : ""}`,
     });
     report.followUp.push(`Restart ${report.cli === "claude" ? "Claude Code" : report.cli} to load the MCP server.`);
   }

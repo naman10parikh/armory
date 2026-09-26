@@ -63,3 +63,9 @@ jobs:
         run: |
           cd cli && npm install --no-audit --no-fund && npm run build && cd ..
           node --test cli/test/agentic-user.test.mjs
+
+      # A new user installs the packages, not a clone (CP138 T50: both failed outside one). Pack the CLI and
+      # the MCP server, install the tarballs into a throw-away prefix with an empty HOME, then run search,
+      # rank, install --dry-run, init and an MCP session from there. Publishes nothing.
+      - name: Fresh install from the packed tarballs
+        run: bash scripts/fresh-install-check.sh

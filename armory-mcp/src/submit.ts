@@ -60,6 +60,10 @@ export function validateMarkdown(markdown: string): SubmitResult {
 export function submitMarkdown(markdown: string): SubmitResult {
   const result = validateMarkdown(markdown);
   if (!result.ok) return result;
+  // Outside a clone the root is the installed package's own folder; a file written there reaches no one.
+  if (!existsSync(join(resolveRoot(), "brain"))) {
+    return { ...result, ok: false, errors: ["submit adds the file to incoming/ in a clone of the Armory repository, for a pull request: run it from a clone (git clone https://github.com/naman10parikh/armory)."] };
+  }
   const incoming = join(resolveRoot(), "incoming");
   if (!existsSync(incoming)) mkdirSync(incoming, { recursive: true });
   const dest = join(incoming, `${result.name}.md`);
