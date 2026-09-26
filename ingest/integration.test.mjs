@@ -9,6 +9,7 @@ import { mkdtempSync, mkdirSync, writeFileSync, existsSync, readFileSync, rmSync
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { promote, normName } from "./promote.mjs";
+import { promoteAll } from "./promote.mjs";
 import { parseFrontmatter } from "./catalog.mjs";
 import { gradeComponent } from "./test-gate.mjs";
 
@@ -122,4 +123,57 @@ test("unit: normName collapses suffix/spelling variants to one dedup key", () =>
   assert.equal(normName("Stripe-MCP"), normName("stripe"));
   assert.equal(normName("github-mcp-server"), normName("github"));
   assert.notEqual(normName("microsoft-playwright-mcp"), normName("executeautomation-playwright-mcp-server"));
+});
+
+// ── the mega-crawl's replace keeps a note's title (CP143) ─────────────────────
+// promoteAll (promote.mjs --all) replaces an imported note when a richer stub of the same component arrives. The
+// Playwright MCP row is a PulseMCP import whose title was set by hand, and no crawl source writes a title, so the
+// replace carries the title line over; every other line is the stub's.
+test("integration: promoteAll replacing the Playwright MCP row keeps title: microsoft-playwright-mcp", () => {
+  const root = mkdtempSync(join(tmpdir(), "armory-it-"));
+  try {
+    const components = join(root, "components");
+    const incoming = join(root, "incoming");
+    mkdirSync(join(components, "mcps"), { recursive: true });
+    mkdirSync(join(incoming, "pulsemcp-full"), { recursive: true });
+    const note = readFileSync(new URL("../brain/components/mcps/microsoft-playwright.md", import.meta.url), "utf8");
+    assert.match(note, /^title: microsoft-playwright-mcp$/m, "the brain's note carries the title");
+    const notePath = join(components, "mcps", "microsoft-playwright.md");
+    writeFileSync(notePath, note);
+    const stub = `---
+name: microsoft-playwright
+type: mcps
+description: >
+  Playwright MCP server from Microsoft: an agent drives a real browser through structured accessibility snapshots rather than screenshots, with navigation, clicks, typing, tabs and file uploads.
+source_repo: microsoft/playwright-mcp
+source_url: https://github.com/microsoft/playwright-mcp
+license: Apache-2.0
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 36722
+verified_at: 2026-09-27
+related: []
+tags: [mcp, pulsemcp]
+---
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/microsoft-playwright).
+`;
+    const stubPath = join(incoming, "pulsemcp-full", "microsoft-playwright.md");
+    writeFileSync(stubPath, stub);
+    // The CLI's source order up to pulsemcp-full: the stub ties the note on source and wins on its longer description.
+    const sources = ["anthropic-official", "anthropic-skills", "pulsemcp-full"];
+
+    const lines = [];
+    promoteAll(incoming, components, sources, { dryRun: true, quiet: false, log: (l) => lines.push(l) });
+    assert.ok(lines.some((l) => l.includes("would REPLACE") && l.endsWith(notePath)), lines.join("\n"));
+    assert.ok(lines.includes("    keeps title: microsoft-playwright-mcp"), lines.join("\n"));
+    assert.equal(readFileSync(notePath, "utf8"), note, "a dry run writes nothing");
+
+    promoteAll(incoming, components, sources, { dryRun: false, log: silent });
+    const written = readFileSync(notePath, "utf8");
+    assert.equal(parseFrontmatter(written).title, "microsoft-playwright-mcp");
+    const expected = stub.replace("name: microsoft-playwright\n", "name: microsoft-playwright\ntitle: microsoft-playwright-mcp\n");
+    assert.equal(written, expected, "every other line is the stub's");
+    assert.ok(!existsSync(stubPath), "the stub is consumed");
+  } finally { rmSync(root, { recursive: true, force: true }); }
 });

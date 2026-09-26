@@ -172,6 +172,30 @@ function beats(a, b) {
   return false; // genuine tie — keep incumbent (stable, deterministic by walk order)
 }
 
+// --- a replaced note keeps its title --------------------------------------
+// A `title:` line names a row whose slug alone would not do: a collision suffix (clis-tools/microsoft-playwright-2
+// reads microsoft-playwright) or a slug that would mislead (mcps/microsoft-playwright reads
+// microsoft-playwright-mcp). It is set by hand or by the Sentinel intake and no crawl source writes one, so a
+// replace that dropped it would lose it for good. What else a stub lacks or resets comes back on its own:
+// mentions and a measured eval_score with the next Sentinel sync, forks and pushed_at with the next GitHub read.
+function titleLine(text) {
+  const end = text.startsWith("---") ? text.indexOf("\n---", 4) : -1;
+  if (end === -1) return null;
+  const m = /^title:.*$/m.exec(text.slice(0, end));
+  return m ? m[0] : null;
+}
+
+// The stub that replaces a note, with the note's `title:` line after `name:` when the stub has none. Every other
+// line is the stub's.
+function keepTitle(raw, replaced) {
+  const line = titleLine(replaced);
+  const end = raw.startsWith("---") ? raw.indexOf("\n---", 4) : -1;
+  if (!line || end === -1 || titleLine(raw)) return raw;
+  const name = /^name:.*$/m.exec(raw.slice(0, end));
+  const at = name ? name.index + name[0].length : end;
+  return `${raw.slice(0, at)}\n${line}${raw.slice(at)}`;
+}
+
 // --- single-source promote (original behaviour, exact-key dedup) ----------
 export function promote(fromDir, toComponentsDir, { dryRun = true, log = console.log } = {}) {
   const result = { promoted: [], skipped: [], invalid: [] };
@@ -306,8 +330,12 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
     const replacing = !!w.existingPath;
     if (!replacing) netNew += 1;
     const slugDiffers = replacing && resolvePath(w.existingPath) !== resolvePath(dest);
+    // A replaced note keeps its `title:` line (keepTitle); every other field is the stub's.
+    const stub = w.raw;
+    if (replacing && existsSync(w.existingPath)) w.raw = keepTitle(stub, readFileSync(w.existingPath, "utf8"));
     if (dryRun) {
       if (!quiet) log(`  [dry-run] would ${replacing ? "REPLACE" : "promote"} ${w.filePath} -> ${dest}${slugDiffers ? ` (remove stale ${basename(w.existingPath)})` : ""}`);
+      if (!quiet && w.raw !== stub) log(`    keeps ${titleLine(w.raw)}`);
     } else {
       mkdirSync(dirname(dest), { recursive: true });
       if (slugDiffers && existsSync(w.existingPath)) rmSync(w.existingPath); // drop orphan twin
