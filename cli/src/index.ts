@@ -14,7 +14,7 @@ const program = new Command();
 
 program
   .name("armory")
-  .description("Armory: where agents gear up. Search and install harness components (components).")
+  .description("Armory: where agents gear up. Search and install harness components.")
   .version("0.1.0");
 
 function findByName(name: string): Component | undefined {
