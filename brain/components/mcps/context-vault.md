@@ -8,11 +8,13 @@ source_url: https://github.com/fellanH/context-vault
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-25T14:00:54Z"
 ---
 ## What it is
 Persistent memory for AI agents enabling saving, searching, and managing knowledge across sessions with local markdown files.
