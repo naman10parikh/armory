@@ -20,7 +20,12 @@ export type ComponentType =
 
 export interface Component {
   name: string;
-  /** The name a person sees, set only when the slug took a collision suffix (microsoft-playwright-2). */
+  /**
+   * The name a person sees, set only when the slug alone would not do: it took a collision suffix
+   * (clis-tools/microsoft-playwright-2 reads "microsoft-playwright") or it would mislead (mcps/microsoft-playwright,
+   * the MCP server, reads "microsoft-playwright-mcp" after its repository). The slug stays the URL and the name
+   * `armory install` takes.
+   */
   title?: string;
   type: ComponentType;
   description: string;

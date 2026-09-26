@@ -13,7 +13,7 @@ export const dynamic = "force-dynamic";
 
 interface Row { component: string; domain: string }
 let CACHE: Row[] | null = null;
-/** "type/name" → title, for the rows whose slug had to differ; `name` stays the slug `armory install` takes. */
+/** "type/name" → title, for the rows whose slug alone would not do; `name` stays the slug `armory install` takes. */
 const TITLES = new Map<string, string>();
 
 function rows(): Row[] {

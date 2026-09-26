@@ -59,7 +59,7 @@ const WHO: Record<string, string> = {
 
 interface Row {
   name: string;
-  /** The catalog's title when the slug had to differ; the examples print `title || name`. */
+  /** The catalog's title, when the slug alone would not do; the examples print `title || name`. */
   title?: string;
   desc: string;
   url: string | null;

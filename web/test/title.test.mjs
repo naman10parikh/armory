@@ -1,6 +1,6 @@
-// A row whose slug had to differ (clis-tools/microsoft-playwright-2) carries the catalog's `title`: the lists,
-// the Ask cards and the email and text replies print it, while the key, the link and `armory install` keep the
-// slug (CP143). Node strips the TypeScript: run with Node 22.6 or newer and --experimental-strip-types (CI's
+// A row whose slug alone would not do (clis-tools/microsoft-playwright-2 took a collision suffix;
+// mcps/microsoft-playwright would read like Playwright itself) carries the catalog's `title`: the lists, the Ask
+// cards and the email and text replies print it, while the key, the link and `armory install` keep the slug (CP143). Node strips the TypeScript: run with Node 22.6 or newer and --experimental-strip-types (CI's
 // last step), or plain node from 23.6.
 import { test } from "node:test";
 import assert from "node:assert/strict";

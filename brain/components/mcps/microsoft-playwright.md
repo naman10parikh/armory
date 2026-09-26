@@ -1,5 +1,6 @@
 ---
 name: microsoft-playwright
+title: microsoft-playwright-mcp
 type: mcps
 description: >
   Enables web browser control for navigating websites, capturing page snapshots, interacting with elements, and taking screenshots through Playwright's automation capabilities.

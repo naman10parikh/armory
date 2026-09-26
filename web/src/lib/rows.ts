@@ -14,7 +14,7 @@ import { isInstallable } from "./installable";
 
 export interface BoardRow {
   name: string;
-  /** The catalog's `title` when the slug had to differ (format.ts titleOf); pages print `title || name`. */
+  /** The catalog's `title`, when the slug alone would not do (format.ts titleOf); pages print `title || name`. */
   title?: string;
   /** RAW catalog type ("mcps", "clis-tools") — the /e/[type]/[slug] path segment. */
   type: string;

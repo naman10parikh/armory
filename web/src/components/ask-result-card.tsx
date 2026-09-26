@@ -7,7 +7,7 @@ import { evidenceOf } from "./ranked-row";
 
 export interface AskResultItem {
   name: string;
-  /** The catalog's title when the slug had to differ; the card prints it, the install command keeps the slug. */
+  /** The catalog's title, when the slug alone would not do; the card prints it, the install command keeps the slug. */
   title?: string;
   component: string;
   domain: string;

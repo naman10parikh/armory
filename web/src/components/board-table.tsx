@@ -26,7 +26,7 @@ export interface RowView {
   rank: number | null;
   /** The slug: the key, the link and `armory install` use it. */
   name: string;
-  /** The catalog's title when the slug had to differ; the name cell prints `title || name`. */
+  /** The catalog's title, when the slug alone would not do; the name cell prints `title || name`. */
   title?: string;
   /** Internal detail route when the row has a type, else its source. */
   href: string | null;

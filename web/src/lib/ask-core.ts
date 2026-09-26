@@ -68,7 +68,7 @@ function keywordScore(raw: RawComponent, qTerms: string[]): { score: number; mat
 
 export interface AskItem {
   name: string;
-  /** The catalog's title when the slug had to differ: cards and replies print `title || name`, commands the slug. */
+  /** The catalog's title, when the slug alone would not do: cards and replies print `title || name`, commands the slug. */
   title?: string;
   component: string; domain: string; vertical: string | null;
   url: string | null; universal: number | null; primary: Primary | null; desc: string;

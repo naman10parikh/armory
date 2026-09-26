@@ -99,7 +99,7 @@ function CopyButton({ copied, onCopy, label }: { copied: boolean; onCopy: () => 
 
 export interface StackPick {
   name: string;
-  /** The catalog's title when the slug had to differ: printed for people, never put in the command. */
+  /** The catalog's title, when the slug alone would not do: printed for people, never put in the command. */
   title?: string;
   /** Whether `armory install` places it (src/lib/installable.ts). */
   installable: boolean;

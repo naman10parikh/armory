@@ -101,9 +101,10 @@ export function contributorOf(tags: readonly unknown[] | null | undefined): stri
 }
 
 /**
- * A row's catalog `title`, when it has a non-empty one: the name a person reads where the row's slug
- * had to differ (clis-tools/microsoft-playwright-2 reads "microsoft-playwright"). Pages print
- * `title || name`; links, keys, the API and `armory install` keep the slug `name`.
+ * A row's catalog `title`, when it has a non-empty one: the name a person reads where the slug alone
+ * would not do, because it took a collision suffix (clis-tools/microsoft-playwright-2 reads
+ * "microsoft-playwright") or would mislead (mcps/microsoft-playwright reads "microsoft-playwright-mcp").
+ * Pages print `title || name`; links, keys, the API and `armory install` keep the slug `name`.
  */
 export function titleOf(raw: { title?: unknown } | null | undefined): string | undefined {
   return typeof raw?.title === "string" && raw.title ? raw.title : undefined;
