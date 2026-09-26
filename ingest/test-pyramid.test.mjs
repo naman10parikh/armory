@@ -9,7 +9,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
 import { gradeComponent, stackPickGaps } from "./test-gate.mjs";
-import { SHELF_FIT, computeRows, fitsShelf, rankRows } from "../lib/rank.mjs";
+import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, fitsShelf, rankRows } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -141,6 +141,63 @@ test("rankRows lists only the rows that fit a gated component, counts the rest i
   assert.equal(lb.facets.components.find((f) => f.key === "infra")?.count, 1, "the facet counts what the filter lists");
 });
 
+// ── Shelf moves and shelf names (CP138 PR E) ─────────────────────────────────
+test("SHELF_MOVES lists a row on the shelf of its job and keeps its type, so its address holds", () => {
+  const row = (name, type, description) => ({ name, type, description, stars: 10, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("ruflo", "clis-tools", "Agent meta-harness for coordinated multi-agent swarms"),
+    row("container-use", "clis-tools", "Containerized environments for coding agents"),
+    row("snyk-cli", "mcps", "Snyk CLI scans and monitors your projects"),
+    row("container-use", "mcps", "A directory listing of the same project"),
+  ]);
+  const by = (type, name) => rows.find((r) => r.type === type && r.name === name);
+  assert.equal(by("clis-tools", "ruflo").component, "workflow", "the type stays clis-tools; the row lists on Dispatch");
+  assert.equal(by("clis-tools", "container-use").component, "infra");
+  assert.equal(by("mcps", "snyk-cli").component, "cli");
+  assert.equal(by("mcps", "container-use").component, "mcp", "keyed type/name: the same name under another type stays put");
+  for (const r of rows) assert.ok(r.fits, `${r.type}/${r.name} fits where it is listed`);
+  assert.ok(fitsShelf({ name: "ruflo", type: "clis-tools", component: "workflow" }), "a moved row fits by decision, whatever its words");
+  assert.deepEqual(rankRows(rows, { component: "dispatch" }).items.map((i) => i.name), ["ruflo"]);
+  assert.deepEqual(rankRows(rows, { component: "sandbox" }).items.map((i) => i.name), ["container-use"]);
+});
+
+test("every SHELF_MOVES row is in catalog.json under the type it is keyed by", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  for (const [key, component] of Object.entries(SHELF_MOVES)) {
+    const [type, name] = key.split("/");
+    const row = rows.find((r) => r.type === type && r.name === name);
+    assert.ok(row, `${key} is in the catalog (a rename or removal must update SHELF_MOVES)`);
+    assert.equal(row.component, component, `${key} is listed under ${component}`);
+  }
+});
+
+test("SHELVES names the same shelves and components as web/src/data/stack.json", () => {
+  const stack = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8"));
+  assert.deepEqual(SHELVES, Object.fromEntries(stack.components.map((c) => [c.slug, c.aggregates])));
+});
+
+test("rankRows takes a shelf name: tools, sandbox and dispatch list their shelves; a component key lists its own rows", () => {
+  const row = (name, type, description) => ({ name, type, description, stars: 10, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("gh", "clis-tools", "GitHub's official command line tool"),
+    row("sbx", "infrastructure", "Sandboxes for running AI-generated code"),
+    row("n8n", "workflows", "Workflow automation platform"),
+    row("rule", "claudemd-rules", "Coding rules"),
+    row("card", "identity", "An agent card"),
+  ]);
+  const names = (component) => rankRows(rows, { component }).items.map((i) => i.name);
+  assert.deepEqual(names("tools"), ["gh"], "`armory rank -c tools` returned 0 rows before");
+  assert.deepEqual(names("tool"), ["gh"], "the help has always offered tool");
+  assert.deepEqual(names("sandbox"), ["sbx"]);
+  assert.deepEqual(names("dispatch"), ["n8n"]);
+  assert.equal(rankRows(rows, { component: "tools" }).fit?.purpose, SHELF_FIT.cli.purpose, "the shelf keeps its gate");
+  assert.deepEqual(names("identity"), ["card"], "a component key lists its own rows, so a leaderboard chip's count holds");
+  assert.deepEqual(componentsOf("tools"), ["cli", "tool"]);
+  assert.deepEqual(componentsOf("clis-tools"), ["cli"], "a catalog type still resolves");
+});
+
 // ── /stack guard: a pick below its shelf's top row must say why ───────────────
 test("stackPickGaps flags a pick below the top row with no reason, and a pick off its shelf", () => {
   const sandbox = (name, stars) => ({ name, type: "infrastructure", description: "Sandboxes for AI-generated code", stars, source_url: `https://github.com/a/${name}` });
@@ -167,4 +224,20 @@ test("stackPickGaps flags a pick below the top row with no reason, and a pick of
   assert.equal(gaps.length, 2, gaps.join(" | "));
   assert.match(gaps[0], /^sandbox: second sits below top and has no reason$/);
   assert.match(gaps[1], /^sandbox: llm-engine is not listed on its shelf/);
+});
+
+test("stackPickGaps flags a pick at the top of its shelf that still has a reason", () => {
+  const sandbox = (name, stars) => ({ name, type: "infrastructure", description: "Sandboxes for AI-generated code", stars, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([sandbox("top", 300), sandbox("second", 200)]);
+  const stack = {
+    components: [{
+      slug: "sandbox",
+      aggregates: ["infra"],
+      picks: [
+        { name: "top", armoryName: "top", reason: "Picked over the rest." },
+        { name: "second", armoryName: "second", reason: "Second by score." },
+      ],
+    }],
+  };
+  assert.deepEqual(stackPickGaps(stack, rows), ["sandbox: top is the top row and still has a reason, which no page shows"]);
 });

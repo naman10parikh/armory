@@ -30,6 +30,7 @@ echo "▸ the installed CLI, in an empty project"
 step armory --version
 step armory search memory --limit 3
 step armory rank --component memory --limit 3
+step armory rank --component tools --limit 3
 step armory install github-mcp --cli claude --dry-run
 step armory init --claude
 step cat .mcp.json

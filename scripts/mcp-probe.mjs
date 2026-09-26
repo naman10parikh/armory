@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-// Minimal MCP stdio client: initialize → notifications/initialized → tools/list → tools/call rank_components.
-// Exits 0 only when all three answer without an error. Adapted from the CP138 T50 transcript's client
+// Minimal MCP stdio client: initialize → notifications/initialized → tools/list → tools/call rank_components
+// (memory, then the Tools shelf by its name). Exits 0 only when each answers without an error, and the
+// Tools shelf returns rows. Adapted from the CP138 T50 transcript's client
 // (docs/surface-transcripts/mcp.md), which found the installed bin exiting before it answered.
 //
 //   node scripts/mcp-probe.mjs <command> [args...]
@@ -67,6 +68,13 @@ const lb = JSON.parse(call.result.content[0].text);
 console.log(
   `✓ rank_components memory: ${lb.items.map((i) => `${i.name} ${i.universal}`).join(", ")} · ${lb.total} in memory, ${lb.facets.total} in all`,
 );
+
+// A shelf name ranks the whole shelf: "tools" returned 0 rows before CP138 PR E.
+const tools = await request(4, "tools/call", { name: "rank_components", arguments: { component: "tools", limit: 3 } });
+if (!tools.result || tools.result.isError) fail("tools/call rank_components tools", tools);
+const tb = JSON.parse(tools.result.content[0].text);
+if (!(tb.total > 0) || tb.items.some((i) => !["cli", "tool"].includes(i.component))) fail("rank_components tools lists the Tools shelf", tb);
+console.log(`✓ rank_components tools: ${tb.items.map((i) => `${i.name} ${i.universal}`).join(", ")} · ${tb.total} on the Tools shelf`);
 
 child.stdin.end();
 const done = await Promise.race([exit, new Promise((r) => setTimeout(() => r(null), 5000).unref())]);
