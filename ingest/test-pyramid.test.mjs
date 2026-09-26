@@ -135,7 +135,7 @@ test("rankRows lists only the rows that fit a gated component, counts the rest i
   ]);
   const lb = rankRows(rows, { component: "sandboxes" });
   assert.deepEqual(lb.items.map((i) => i.name), ["sbx"]);
-  assert.deepEqual(lb.fit, { purpose: SHELF_FIT.infra.purpose, filed: 2, left_out: 1 });
+  assert.deepEqual(lb.fit, { purpose: SHELF_FIT.infra.purpose, filed: 2, left_out: 1, shelf: "sandbox" });
   assert.equal(rankRows(rows, { component: "memory" }).fit, null, "an ungated component says nothing");
   assert.equal(rankRows(rows, {}).total, 3, "an unfiltered rank still lists every row");
   assert.equal(lb.facets.components.find((f) => f.key === "infra")?.count, 1, "the facet counts what the filter lists");
@@ -238,6 +238,21 @@ test("rankRows names the components its filter lists, the chips the leaderboard 
   assert.deepEqual(lit("dispatch"), ["workflow"]);
   assert.deepEqual(lit("cli"), ["cli"]);
   assert.equal(rankRows(rows, {}).components, null, "no component filter lights no component chip");
+});
+
+test("a gated filter names the shelf its gate belongs to, so the leaderboard reads \"filed under Tools\" for tool and cli", () => {
+  const row = (name, type, description) => ({ name, type, description, stars: 10, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("gh", "clis-tools", "GitHub's official command line tool"),
+    row("sbx", "infrastructure", "Sandboxes for running AI-generated code"),
+    row("n8n", "workflows", "Workflow automation platform"),
+    row("fs", "mcps", "Read and write files"),
+  ]);
+  const shelf = (component) => rankRows(rows, { component }).fit?.shelf;
+  for (const c of ["tools", "tool", "cli"]) assert.equal(shelf(c), "tools", `${c} is filed under Tools`);
+  for (const c of ["sandbox", "infra"]) assert.equal(shelf(c), "sandbox", `${c} is filed under Sandbox`);
+  for (const c of ["dispatch", "workflow"]) assert.equal(shelf(c), "dispatch", `${c} is filed under Dispatch`);
+  assert.equal(rankRows(rows, { component: "mcp" }).fit, null, "an ungated component has no fit line");
 });
 
 test("domain: \"subscription\" counts toward payments only beside a payments word", () => {

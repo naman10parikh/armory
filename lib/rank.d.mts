@@ -30,7 +30,8 @@ export interface RankResult {
   components: string[] | null;
   domain: string | null;
   /** Set when the component lists only rows made for its job (SHELF_FIT): the job, rows filed, rows left out. */
-  fit: { purpose: string; filed: number; left_out: number } | null;
+  /** `shelf`: the /stack slug the gate belongs to ("tools" for `tool` and `cli`). */
+  fit: { purpose: string; filed: number; left_out: number; shelf: string | null } | null;
   facets: Facets;
 }
 export interface RankQuery {
