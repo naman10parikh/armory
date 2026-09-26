@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 3400
 pushed_at: "2026-09-01T23:50:51Z"
+mentions: 1
 ---
 ## What it is
 High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.

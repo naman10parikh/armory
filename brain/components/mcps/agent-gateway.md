@@ -15,6 +15,7 @@ related: []
 tags: [a2a, agent-to-agent, integration-services]
 forks: 796
 pushed_at: "2026-09-01T22:23:18Z"
+mentions: 1
 ---
 ## What it is
 Next Generation Agentic Proxy for API integrations
