@@ -258,7 +258,7 @@ function AskContent() {
 
               {degraded && (
                 <p className="mt-3 text-[12px] text-ink-muted">
-                  Keyword Mode — conversational search unavailable
+                  Keyword Mode: conversational search unavailable
                 </p>
               )}
 

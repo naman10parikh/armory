@@ -151,7 +151,7 @@ export default function FormulaPage() {
     return hit ? { raw: n(hit.signals.stars as number), pct: hit.scores.popular ?? 0, note } : null;
   };
   const medianRung: Rung | null = median
-    ? { raw: n(median.signals.stars as number), pct: median.scores.popular ?? 0, note: "the median repo — half of everything with stars sits below here" }
+    ? { raw: n(median.signals.stars as number), pct: median.scores.popular ?? 0, note: "the median repo: half of everything with stars sits below here" }
     : null;
   const rungs = [
     rungAt(1),
@@ -220,7 +220,7 @@ export default function FormulaPage() {
       <Section
         n="02"
         title="Percentiles"
-        lead={`Each number is swapped for its place among things measured the same way — a repo's stars against other repos' stars, a registry's installs against other registries'. A kind with fewer than ${MIN_POOL} measured things is too small to rank within, so those are ranked against every kind. Listed twice on the same link? It counts once. On this page, p90 means the 90th percentile: higher than 90% of its kind.`}
+        lead={`Each number is swapped for its place among things measured the same way: a repo's stars against other repos' stars, a registry's installs against other registries'. A kind with fewer than ${MIN_POOL} measured things is too small to rank within, so those are ranked against every kind. Listed twice on the same link? It counts once. On this page, p90 means the 90th percentile: higher than 90% of its kind.`}
       >
         <Ladder rungs={rungs} unit="stars" />
       </Section>
@@ -272,13 +272,13 @@ export default function FormulaPage() {
             { rows: root.length, label: "Rows for a repository with zero stars: nothing to score yet", fix: "Needs a first star", fixable: false },
             { rows: inside.length, label: "Files inside a repository: the parent's stars are not counted for the file", fix: "Needs its own signal", fixable: true },
             { rows: elsewhere.length, label: "Listed on a registry that publishes its own install counts", fix: "Pending registry fetch", fixable: true },
-            { rows: nowhere.length, label: "Nowhere to look — nothing published anywhere", fix: nowhere.length ? "genuinely unrankable" : "None", fixable: false },
+            { rows: nowhere.length, label: "Nowhere to look: nothing published anywhere", fix: nowhere.length ? "genuinely unrankable" : "None", fixable: false },
           ]}
         />
         <p style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 18 }}>
           Separately: we record when a repo was last pushed to, and flag anything untouched for two
           years as <strong style={{ color: "var(--accent-hover)" }}>Stale</strong>. It is a warning
-          label, never a term in the score — being freshly pushed proves a tool is alive, not that
+          label, never a term in the score. Being freshly pushed proves a tool is alive, not that
           anyone uses it, and a brand-new repo nobody has starred must not outrank a maintained one.
           It breaks ties. Rows are ordered by the full score, then by how many signals
           back it, then by the latest commit, then by stars, then by name, so among tools on the same

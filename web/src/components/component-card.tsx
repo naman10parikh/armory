@@ -48,7 +48,7 @@ export function ComponentCard({
             separately above it so it can also be the accessible link label. */}
         <Link
           href={href}
-          aria-label={`${component.title || component.name} — open detail`}
+          aria-label={`Open ${component.title || component.name}`}
           className="absolute inset-0 z-[1] cursor-pointer rounded-[calc(1.25rem-0.375rem)] outline-none"
         />
 
