@@ -44,7 +44,7 @@ The canonical nouns. **Use these exact strings; do not invent synonyms.**
 **State:** `Loading` · `No Results` · `Not Indexed` · `Unmeasured` · `Selected` · `Stable` · `Preview` · `Experimental`
 **Time:** `Updated` · `Indexed` · `Duration` · `Last Run`
 **Aggregate:** `Total` · `Ranked` · `Results` · `Resources` · `Count`
-**Surfaces:** `Leaderboard` · `Browse` · `Ask` · `Formula` · `Detail` · `Status` · `Timeline` · `Harness`
+**Surfaces:** `Leaderboard` · `Browse` · `Ask` · `Formula` · `Detail` · `Status` · `Pipeline` · `Harness`
 
 **Never:** `Universal` (unqualified — say `Score`) · `Top Signal` (say `Signals`) · `Building Block`
 (say `Component`) · `Shelf` · `Slice` (say `Filter`) · `Gear Up` · `The Index` (say `Catalog`).
@@ -82,7 +82,7 @@ The canonical nouns. **Use these exact strings; do not invent synonyms.**
 | `One vault. One catalog. Three ways to recall it.` (h2) | `Sources` | R1, R4, R10 |
 | `the map` (eyebrow) | **Delete** (redundant with the heading) | R2 |
 | `How the pieces connect.` (h2) | `Dependencies` | R1, R4 |
-| `How the index grew` (link) | `Timeline` | R2 |
+| `How the index grew` (link) | `Pipeline` (the page is not a dated history; CP138 T51) | R2 |
 | `The graph forms as components are indexed.` (empty) | `No Dependencies` + `Indexing in progress` | R10, R12 |
 | `quickstart` (eyebrow) | **Delete** | R2 |
 | `Recall from the terminal.` (h2) | `Install` | R1, R4, R10 |

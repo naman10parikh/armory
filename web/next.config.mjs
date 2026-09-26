@@ -38,6 +38,14 @@ const nextConfig = {
     "/c/[component]": ["./catalog.json.gz", "./lib/rank.mjs"],
     "/stack": ["./catalog.json.gz", "./lib/rank.mjs"],
   },
+  // The layers page was /graph and called itself Timeline, though it is not a dated history (CP138 T51).
+  // It is /pipeline now; the old address and the one its label implied both land there.
+  async redirects() {
+    return [
+      { source: "/graph", destination: "/pipeline", permanent: true },
+      { source: "/timeline", destination: "/pipeline", permanent: true },
+    ];
+  },
 };
 
 export default nextConfig;

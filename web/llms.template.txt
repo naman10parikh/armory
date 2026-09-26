@@ -80,7 +80,7 @@ Five signals, each percentiled within its own **kind** (github-root / github-fil
 | `/e/{type}/{slug}` | one component's detail page (`type` = raw catalog folder, e.g. `mcps`) |
 | `/formula` | how the Universal score works, rendered live from the same engine as the API |
 | `/status` | freshness & coverage report for the whole index |
-| `/graph` | "How the index grew" — a layered growth story computed live from `catalog.json` (sources, types, verticals). Not a relationship graph despite the route's name — that view was removed by design; its content carries the on-page label "Timeline", and there is no separate `/timeline` route |
+| `/pipeline` | "Pipeline": the layers the catalog is built from (sources, types, the Score, verticals, query surfaces), computed from `catalog.json` when the site is built. `/graph` and `/timeline` redirect here |
 
 ## Examples
 

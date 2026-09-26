@@ -19,7 +19,7 @@ const NAV_LINKS = [
   { href: "/formula", label: "Formula" },
   { href: "/ask", label: "Ask" },
   { href: "/browse", label: "Browse" },
-  { href: "/graph", label: "Timeline" },
+  { href: "/pipeline", label: "Pipeline" },
 ] as const;
 
 export function SiteNav() {
