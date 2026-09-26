@@ -198,6 +198,22 @@ test("rankRows takes a shelf name: tools, sandbox and dispatch list their shelve
   assert.deepEqual(componentsOf("clis-tools"), ["cli"], "a catalog type still resolves");
 });
 
+test("rankRows names the components its filter lists, the chips the leaderboard lights", () => {
+  const row = (name, type, description) => ({ name, type, description, stars: 10, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("gh", "clis-tools", "GitHub's official command line tool"),
+    row("sbx", "infrastructure", "Sandboxes for running AI-generated code"),
+    row("n8n", "workflows", "Workflow automation platform"),
+  ]);
+  const lit = (component) => rankRows(rows, { component }).components;
+  assert.deepEqual(lit("tools"), ["cli", "tool"], "?component=tools lights cli, as ?component=cli does");
+  assert.deepEqual(lit("tool"), ["cli", "tool"]);
+  assert.deepEqual(lit("sandbox"), ["infra"]);
+  assert.deepEqual(lit("dispatch"), ["workflow"]);
+  assert.deepEqual(lit("cli"), ["cli"]);
+  assert.equal(rankRows(rows, {}).components, null, "no component filter lights no component chip");
+});
+
 // ── /stack guard: a pick below its shelf's top row must say why ───────────────
 test("stackPickGaps flags a pick below the top row with no reason, and a pick off its shelf", () => {
   const sandbox = (name, stars) => ({ name, type: "infrastructure", description: "Sandboxes for AI-generated code", stars, source_url: `https://github.com/a/${name}` });

@@ -75,7 +75,13 @@ function hrefFor(v: View, change: Partial<View>): string {
   return qs ? `/leaderboard?${qs}` : "/leaderboard";
 }
 
-function chips(v: View, field: "component" | "domain" | "vertical", facets: readonly Facet[]): ChipLink[] {
+/** `lit` names the chips the filter resolves to, so ?component=tools lights cli the way ?component=cli does. */
+function chips(
+  v: View,
+  field: "component" | "domain" | "vertical",
+  facets: readonly Facet[],
+  lit?: readonly string[] | null,
+): ChipLink[] {
   return [
     { key: "", label: "All", href: hrefFor(v, { [field]: "", page: 1 }), active: v[field] === "" },
     ...facets.map((f) => ({
@@ -83,7 +89,7 @@ function chips(v: View, field: "component" | "domain" | "vertical", facets: read
       label: f.key,
       count: f.count,
       href: hrefFor(v, { [field]: f.key, page: 1 }),
-      active: v[field] === f.key,
+      active: lit ? lit.includes(f.key) : v[field] === f.key,
     })),
   ];
 }
@@ -95,7 +101,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
   const v = parse(await searchParams);
   const facets = boardFacets();
   const meta = boardMeta();
-  const { rows, total, fit } = leaderboardPage({
+  const { rows, total, fit, components } = leaderboardPage({
     component: v.component || null,
     domain: v.domain || null,
     vertical: v.vertical || null,
@@ -131,7 +137,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
       <section>
         <ContentWidth className="pb-16 pt-6">
           <div className="flex flex-col gap-3 border-b border-line-subtle pb-4">
-            <LinkChipGroup label="Component" chips={chips(v, "component", facets.components)} />
+            <LinkChipGroup label="Component" chips={chips(v, "component", facets.components, components)} />
             <LinkChipGroup label="Domain" chips={chips(v, "domain", facets.domains)} />
             <LinkChipGroup label="Vertical" chips={chips(v, "vertical", facets.verticals)} />
             <LinkChipGroup

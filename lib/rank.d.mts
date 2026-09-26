@@ -26,6 +26,8 @@ export interface RankResult {
   sort: string;
   dir: string;
   component: string | null;
+  /** The components the component filter lists: ["cli", "tool"] for "tools", ["infra"] for "sandbox"; null without one. */
+  components: string[] | null;
   domain: string | null;
   /** Set when the component lists only rows made for its job (SHELF_FIT): the job, rows filed, rows left out. */
   fit: { purpose: string; filed: number; left_out: number } | null;
