@@ -2,7 +2,6 @@
 name: stripe-link-cli
 type: clis-tools
 description: "Lets an agent pay with Stripe Link on your behalf: you approve, credentials stay hidden."
-  identity tool
 source_repo: https://github.com/stripe/link-cli
 source_url: https://github.com/stripe/link-cli
 license: unknown
@@ -19,5 +18,3 @@ pushed_at: "2026-09-25T21:55:48Z"
 ---
 
 # stripe-link-cli
-
-identity tool
