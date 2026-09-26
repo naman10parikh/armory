@@ -317,6 +317,18 @@ test("domain: a word that only begins like a domain word does not count: author 
   assert.equal(exa.domain, "search", "Exa as a whole word still counts");
 });
 
+test("domain: \"session\" counts toward auth only beside an auth word", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [tmux, signin, bridge] = computeRows([
+    row("tmux-tools", "Terminal multiplexer with persistent sessions"),
+    row("signin-kit", "Login sessions for web apps"),
+    row("browser-bridge", "Drives your Chrome browser with its login sessions"),
+  ]);
+  assert.equal(tmux.domain, "other", "a terminal session is not a sign-in");
+  assert.equal(signin.domain, "auth", "beside \"login\" it still counts");
+  assert.equal(bridge.domain, "browser", "and it no longer breaks a tie, so a browser driver is browser");
+});
+
 test("domain: \"refund\" and \"x402\" are payments words, and four money rows are placed by hand", () => {
   const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
   const rows = computeRows([
