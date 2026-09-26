@@ -22,6 +22,8 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const apply = process.argv.includes("--apply");
 const cat = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf-8")).components;
 const lc = (s) => String(s || "").toLowerCase();
+// A row for the whole repository, not a file or folder inside it. Only these can double-enter by spelling alone.
+const isRoot = (r) => /^https:\/\/github\.com\/[^/\s]+\/[^/\s#?]+\/?$/i.test(r.source_url || "");
 
 const groups = new Map();
 for (const c of cat) {
@@ -51,7 +53,11 @@ function setField(text, field, value) {
 
 let groupsHit = 0, moved = 0, renamed = 0, skipped = 0;
 for (const rows of groups.values()) {
-  if (new Set(rows.map((r) => lc(r.source_repo))).size < 2) continue;
+  // Work to do: a rename (two repository names), or one repository entered twice as a root row in one shelf
+  // under two spellings (DeusData/x and deusdata/x). Lower-casing alone used to hide the second case.
+  const rootsPerType = new Map();
+  for (const r of rows) if (isRoot(r)) rootsPerType.set(r.type, (rootsPerType.get(r.type) || 0) + 1);
+  if (new Set(rows.map((r) => lc(r.source_repo))).size < 2 && ![...rootsPerType.values()].some((n) => n > 1)) continue;
   const names = [...new Set(rows.map((r) => r.source_repo))];
   const canon = names.map(canonical);
   if (canon.some((c) => !c) || new Set(canon.map(lc)).size !== 1) { skipped++; continue; } // coincidence, not a rename
@@ -60,9 +66,10 @@ for (const rows of groups.values()) {
   const byType = new Map();
   for (const r of rows) (byType.get(r.type) || byType.set(r.type, []).get(r.type)).push(r);
   for (const [type, list] of byType) {
-    const keep = list.find((r) => lc(r.source_repo) === lc(current))
-      || [...list].sort((a, b) => (b.mentions || 0) - (a.mentions || 0) || (b.eval_score || 0) - (a.eval_score || 0))[0];
-    const others = list.filter((r) => r !== keep && lc(r.source_repo) !== lc(keep.source_repo));
+    // Keep the richest row, preferring GitHub's exact spelling of the current name, then any spelling of it.
+    const best = (xs) => [...xs].sort((a, b) => (b.mentions || 0) - (a.mentions || 0) || (b.eval_score || 0) - (a.eval_score || 0))[0];
+    const keep = best(list.filter((r) => r.source_repo === current)) || best(list.filter((r) => lc(r.source_repo) === lc(current))) || best(list);
+    const others = list.filter((r) => r !== keep && (lc(r.source_repo) !== lc(keep.source_repo) || (isRoot(r) && isRoot(keep))));
     const keepPath = join(ROOT, "brain", keep.path);
     if (lc(keep.source_repo) !== lc(current)) renamed++;
     if (apply && existsSync(keepPath)) {
@@ -89,5 +96,5 @@ for (const rows of groups.values()) {
     if (groupsHit <= 40) console.log(`  ${type}: keep ${keep.source_repo}${lc(keep.source_repo) !== lc(current) ? ` → ${current}` : ""}  ←  ${others.map((o) => o.source_repo).join(", ") || "(nothing to move)"}`);
   }
 }
-console.log(`\n${groupsHit} renamed projects · ${moved} rows ${apply ? "moved to brain/lookup/duplicates/" : "would move (dry run; --apply)"} · ${renamed} kept rows ${apply ? "took" : "would take"} the current name · ${skipped} groups left alone (not one repo)`);
+console.log(`\n${groupsHit} projects entered more than once (renamed, or the same repository twice) · ${moved} rows ${apply ? "moved to brain/lookup/duplicates/" : "would move (dry run; --apply)"} · ${renamed} kept rows ${apply ? "took" : "would take"} the current name · ${skipped} groups left alone (not one repo)`);
 if (apply) console.log("Next: node ingest/catalog.mjs && node ingest/validate.mjs && node ingest/test-gate.mjs");

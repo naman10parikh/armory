@@ -3,8 +3,8 @@ name: xcodebuild
 type: mcps
 description: >
   Enables building, running, and debugging iOS and macOS applications through Xcode with tools for project discovery, simulator management, app deployment, and UI automation testing.
-source_repo: getsentry/xcodebuildmcp
-source_url: https://github.com/getsentry/xcodebuildmcp
+source_repo: getsentry/MobileBuildMCP
+source_url: https://github.com/getsentry/MobileBuildMCP
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta

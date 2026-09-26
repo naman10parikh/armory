@@ -3,8 +3,8 @@ name: mcpwner
 type: mcps
 description: >
   Model Context Protocol server for security research automation, integrating multiple security testing tools into LLM-driven workflows for secret scanning, static analysis, and vulnerability discovery.
-source_repo: Pigyon/MCPwner
-source_url: https://github.com/Pigyon/MCPwner
+source_repo: nedlir/MCPwner
+source_url: https://github.com/nedlir/MCPwner
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental

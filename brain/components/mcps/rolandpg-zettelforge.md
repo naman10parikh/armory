@@ -3,8 +3,8 @@ name: rolandpg-zettelforge
 type: mcps
 description: >
   Agentic memory system for cyber threat intelligence that extracts CVEs, threat actors, and IOCs from analyst notes into a structured knowledge base.
-source_repo: rolandpg/zettelforge
-source_url: https://github.com/rolandpg/zettelforge
+source_repo: ThreatRecall/zettelforge
+source_url: https://github.com/ThreatRecall/zettelforge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta

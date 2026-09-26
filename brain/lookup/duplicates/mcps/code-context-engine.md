@@ -1,0 +1,30 @@
+---
+name: code-context-engine
+type: mcps
+description: >
+  Indexes your codebase so AI coding agents can search instead of re-reading files, saving up to 94% of tokens.
+source_repo: elara-labs/code-context-engine
+source_url: https://github.com/elara-labs/code-context-engine
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 408
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+forks: 62
+pushed_at: "2026-08-23T19:54:42Z"
+renamed_to: elara-labs/code-context-engine
+---
+## What it is
+Indexes your codebase so AI coding agents can search instead of re-reading files, saving up to 94% of tokens.
+
+## When to use it
+Indexes your codebase so AI coding agents can search instead of re-reading files, saving up to 94% of tokens.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/aj6of561v6) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

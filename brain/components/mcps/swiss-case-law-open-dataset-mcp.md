@@ -3,8 +3,8 @@ name: swiss-case-law-open-dataset-mcp
 type: mcps
 description: >
   Enables LLMs to search and analyze Swiss case law, legislation, and citation networks with 43 tools for decision search, statute lookup, citation graphs, legislative history, and exam question generation.
-source_repo: jonashertner/caselaw-repo-1
-source_url: https://github.com/jonashertner/caselaw-repo-1
+source_repo: jonashertner/opencaselaw
+source_url: https://github.com/jonashertner/opencaselaw
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental

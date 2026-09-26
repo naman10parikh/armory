@@ -3,8 +3,8 @@ name: psu3d0-spreadsheet-kit
 type: mcps
 description: >
   Agent-safe Excel workbook analysis, editing, formula recalculation, and verification tools with dry-run previews and stateful sessions.
-source_repo: psu3d0/spreadsheet-mcp
-source_url: https://github.com/psu3d0/spreadsheet-mcp
+source_repo: PSU3D0/agent-spreadsheet
+source_url: https://github.com/PSU3D0/agent-spreadsheet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
