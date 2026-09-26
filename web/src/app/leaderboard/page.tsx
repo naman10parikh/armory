@@ -199,8 +199,8 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
               <BoardTable
                 label="Leaderboard"
                 rows={toRowViews(rows)}
-                now={Date.now()}
                 fallbackDate={meta.generatedAt}
+                githubRead={meta.githubRead}
                 scoreSort={v.sort === "universal" ? (v.dir === "asc" ? "ascending" : "descending") : "none"}
               />
             )}

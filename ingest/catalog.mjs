@@ -117,8 +117,28 @@ export function buildCatalog() {
   return {
     generated_at: new Date().toISOString(),
     counts: { total: components.length, by_type },
+    ...githubRead(),
     components,
   };
+}
+
+// When the GitHub figures (stars, forks, last commit) were read, from the log scripts/backfill-stars.mjs
+// keeps. `latest` is the newest read. `since` is the newest date from which the reads, counted back from
+// the newest, add up to 90% of the repository roots: one full read, or a week of nightly slices. A row
+// does not carry its own read date, so the site states this range beside its numbers (CP138 T23).
+function githubRead() {
+  const log = join(ROOT, "brain", "lookup", "github-reads.json");
+  if (!existsSync(log)) return {};
+  const reads = (JSON.parse(readFileSync(log, "utf8")).reads || [])
+    .filter((r) => r && r.date && r.repos > 0 && r.of > 0)
+    .sort((a, b) => b.date.localeCompare(a.date));
+  if (!reads.length) return {};
+  let covered = 0, since = null;
+  for (const r of reads) {
+    covered += r.repos;
+    if (covered >= 0.9 * reads[0].of) { since = r.date; break; }
+  }
+  return { github_read: { since, latest: reads[0].date } };
 }
 
 // catalog.json is committed; the CI workflow fails the build if it goes stale.

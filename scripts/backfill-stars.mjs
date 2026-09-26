@@ -28,7 +28,7 @@
 //   node scripts/backfill-stars.mjs --limit 500     # sample first (recommended)
 //   node scripts/backfill-stars.mjs --apply         # write stars/forks/pushed_at into catalog.json
 //
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -135,10 +135,12 @@ const inSlice = (k) => ROTATE > 0 && fnv(k.toLowerCase()) % ROTATE === SLICE;
 let needing = 0, rotating = 0;
 const needKeys = new Set();
 const byRepo = new Map();
+const roots = new Set(); // every repository root in the catalog, for the read log below
 for (const c of components) {
   const url = c.source_url || c.source_repo;
   const k = repoKey(url);
   if (!k || !isRepoRoot(url)) continue;
+  roots.add(k);
   const need = !(answered(c.stars) && answered(c.forks));
   if (!need && !inSlice(k)) continue;
   if (need) { needing++; needKeys.add(k); } else rotating++;
@@ -224,6 +226,15 @@ if (!has("--apply")) {
 } else {
   writeFileSync(CATALOG, JSON.stringify(cat, null, 2) + "\n");
   console.log(`\nWROTE ${CATALOG}`);
+  // The read log (brain/lookup/github-reads.json): the site says how old the GitHub figures are from it,
+  // since a row does not carry the date its numbers were read (CP138 T23).
+  if (answers.size > 0) {
+    const LOG = join(HERE, "..", "brain", "lookup", "github-reads.json");
+    const log = existsSync(LOG) ? JSON.parse(readFileSync(LOG, "utf8")) : { reads: [] };
+    log.reads.push({ date: new Date().toISOString().slice(0, 10), repos: answers.size, of: roots.size });
+    writeFileSync(LOG, JSON.stringify(log, null, 2) + "\n");
+    console.log(`WROTE ${LOG}`);
+  }
   // catalog.json is DERIVED from brain/components/**/*.md. Skipping this step means the next
   // `node ingest/catalog.mjs` silently deletes everything just written — it has happened three times.
   console.log(`Next: node scripts/persist-signals-to-brain.mjs --apply   (or the next rebuild deletes this)`);

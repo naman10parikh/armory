@@ -312,13 +312,14 @@ function score(list) {
     }
     const others = second === null ? 0 : axes[second];
     // EXACT — the same blend before any rounding, kept to four decimals (in ten-thousandths, as an
-    // integer, so the rounding below is exact arithmetic). The one-decimal Universal is this number
-    // rounded ONCE, so the two can never disagree. `exact` is also the first tiebreak: at the top of
-    // the board the percentiles saturate and twenty rows share 100.0 and 99.9 at one decimal, while
-    // their exact scores differ in the second and third decimal.
+    // integer, so the cut below is exact arithmetic). The one-decimal Universal is this number cut
+    // ONCE, DOWN, so the two can never disagree and 100.0 is printed only for a row that scores 100
+    // (CP138 T23: rounding showed 99.96 as 100.0 on shelves where no row reaches 100). `exact` is also
+    // the first tiebreak: at the top of the board the percentiles saturate and twenty rows share 99.9
+    // at one decimal, while their exact scores differ in the second and third decimal.
     const e4 = base === null ? null : Math.round(1e4 * (BLEND.base * axes[base] + BLEND.others * others));
     r.scores = {
-      universal: e4 === null ? null : Math.round(e4 / 1000) / 10,
+      universal: e4 === null ? null : Math.floor(e4 / 1000) / 10,
       exact: e4 === null ? null : e4 / 1e4,
       tested: r1(axes.tested), popular: r1(axes.stars), practitioner: r1(axes.mentions),
       evidence: held.length,

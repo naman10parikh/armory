@@ -6,6 +6,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ContentWidth, DataTable, Td, Th, Tr } from "@/components/data-table";
 import { ArrowLeftIcon } from "@/components/icons";
+import { githubReadText } from "@/lib/format";
+import { boardMeta } from "@/lib/rows";
 import { longDate, monthLabel, n, pct, stats, type SignalKey } from "./stats";
 
 export const runtime = "nodejs";
@@ -59,6 +61,7 @@ function StatCard({
 // ---- the page --------------------------------------------------------------------------
 export default function Status() {
   const s = stats();
+  const meta = boardMeta();
 
   return (
     <ContentWidth className="pb-24 pt-8">
@@ -117,6 +120,14 @@ export default function Status() {
             }
           />
           <StatCard label="Tested" value={n(s.signals.tested)} sub="Installed and executed directly" />
+          {meta.githubRead && (
+            <StatCard
+              label="GitHub Figures"
+              value={githubReadText(meta.githubRead)}
+              valueDateTime={meta.githubRead.since ?? meta.githubRead.latest}
+              sub="Most repositories' stars, forks and last commit were read from GitHub on this date or later; a repository may have changed since"
+            />
+          )}
         </div>
       </section>
 
@@ -132,7 +143,7 @@ export default function Status() {
         </p>
 
         <div className="mt-4">
-          <DataTable label="Signal Coverage" minWidthClass="min-w-[480px]">
+          <DataTable label="Signal Coverage" minWidthClass="min-w-[480px]" className="card-table">
             <thead>
               <tr>
                 <Th>Signal</Th>
@@ -151,12 +162,12 @@ export default function Status() {
                     <span className="block font-medium text-ink-hi">{row.label}</span>
                     <span className="block text-[12px] text-ink-muted">{row.note}</span>
                   </Td>
-                  <Td align="right">
+                  <Td align="right" label="Count">
                     <data value={String(s.signals[row.key])} className="font-sans text-[13px] tabular-nums text-ink-hi">
                       {n(s.signals[row.key])}
                     </data>
                   </Td>
-                  <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
+                  <Td align="right" label="Share" className="font-sans text-[12px] tabular-nums text-ink-muted">
                     {pct(s.signals[row.key], s.total)}
                   </Td>
                 </Tr>
@@ -198,7 +209,7 @@ export default function Status() {
         </p>
 
         <div className="mt-4">
-          <DataTable label="Freshness by Month" minWidthClass="min-w-[480px]">
+          <DataTable label="Freshness by Month" minWidthClass="min-w-[480px]" className="card-table">
             <thead>
               <tr>
                 <Th>Period</Th>
@@ -217,15 +228,15 @@ export default function Status() {
                   <Td className="font-medium text-ink-hi">
                     {m.key === "(none)" ? "No Date" : <time dateTime={m.key}>{monthLabel(m.key)}</time>}
                   </Td>
-                  <Td className={`text-[12px] ${m.key === "(none)" ? "text-ink-faint" : "text-ink-muted"}`}>
+                  <Td label="Status" className={`text-[12px] ${m.key === "(none)" ? "text-ink-faint" : "text-ink-muted"}`}>
                     {m.key === "(none)" ? "Not Crawled" : "Confirmed"}
                   </Td>
-                  <Td align="right">
+                  <Td align="right" label="Count">
                     <data value={String(m.count)} className="font-sans text-[13px] tabular-nums text-ink-hi">
                       {n(m.count)}
                     </data>
                   </Td>
-                  <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
+                  <Td align="right" label="Share" className="font-sans text-[12px] tabular-nums text-ink-muted">
                     {pct(m.count, s.total)}
                   </Td>
                 </Tr>
@@ -233,6 +244,18 @@ export default function Status() {
             </tbody>
           </DataTable>
         </div>
+
+        {/* The home page's "listed this week" counts the day a row entered the catalog; this table counts
+            the day its source was confirmed. Both are right; this says why they differ (CP138 T23). */}
+        {meta.addedThisWeek != null && meta.addedThisWeekConfirmedEarlier != null && (
+          <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
+            <data value={String(meta.addedThisWeek)}>{n(meta.addedThisWeek)}</data> components entered the
+            catalog in the last week, the home page&apos;s &ldquo;listed this week&rdquo;.{" "}
+            <data value={String(meta.addedThisWeekConfirmedEarlier)}>{n(meta.addedThisWeekConfirmedEarlier)}</data>{" "}
+            of them are counted above under an earlier month, because a component keeps the date its source was
+            last confirmed, not the day it was added.
+          </p>
+        )}
       </section>
 
       {/* Crawl age: when the base crawl ran, from the table above (CP138 T51) */}

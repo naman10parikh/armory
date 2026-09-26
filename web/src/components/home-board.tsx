@@ -11,7 +11,7 @@ import { ContentWidth } from "./data-table";
 import { SearchIcon } from "./icons";
 import { CliNote, HarnessSelector } from "./install-snippet";
 import { RefreshedAgo } from "./refreshed-ago";
-import { int, shortDate, utcStamp } from "@/lib/format";
+import { githubReadText, int, shortDate, utcStamp } from "@/lib/format";
 import { boardMeta, newRows, topRows, trendingRows, type BoardMeta } from "@/lib/rows";
 import { toRowViews } from "@/lib/row-view";
 
@@ -27,7 +27,6 @@ const ROWS = 20;
 
 export function HomeBoard({ tab }: { tab: BoardTab }) {
   const meta = boardMeta();
-  const now = Date.now();
   const rows = tab === "top" ? topRows(ROWS) : tab === "trending" ? trendingRows(ROWS) : newRows(ROWS);
   const views = toRowViews(rows);
 
@@ -98,9 +97,9 @@ export function HomeBoard({ tab }: { tab: BoardTab }) {
             <BoardTable
               label={TABS.find((t) => t.tab === tab)?.label ?? "Top"}
               rows={views}
-              now={now}
               extra={tab === "trending" ? "gained" : tab === "new" ? "listed" : null}
               fallbackDate={meta.generatedAt}
+              githubRead={meta.githubRead}
               trendingSince={meta.trendingSince}
               scoreSort={tab === "top" ? "descending" : "none"}
             />
@@ -152,11 +151,21 @@ function Counters({ meta }: { meta: BoardMeta }) {
       )}
       {meta.generatedAt && (
         <span>
-          Updated{" "}
+          Catalog rebuilt{" "}
           <span className="font-semibold text-ink-hi">
             <RefreshedAgo iso={meta.generatedAt} initial={utcStamp(meta.generatedAt)} />
           </span>
         </span>
+      )}
+      {/* The rebuild is fresh; the GitHub numbers in it may not be (CP138 T23). /status explains both. */}
+      {meta.githubRead && (
+        <Link href="/status" className="cursor-pointer transition-colors duration-150 ease-state hover:text-accent-hover">
+          GitHub figures from{" "}
+          <time dateTime={meta.githubRead.since ?? meta.githubRead.latest} className="font-semibold text-ink-hi">
+            {githubReadText(meta.githubRead)}
+          </time>{" "}
+          or later
+        </Link>
       )}
     </p>
   );

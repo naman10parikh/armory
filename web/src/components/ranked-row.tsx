@@ -1,6 +1,6 @@
 import type { RowView } from "./board-table";
 import type { SignalValues } from "./signals-row";
-import { isOurs, rankedScoreTexts } from "@/lib/format";
+import { isOurs, rankedScoreTexts, tiedRank } from "@/lib/format";
 
 /*
   GET /api/rank items → the ranked table's row views, for the one page that still ranks in the
@@ -35,10 +35,14 @@ export function evidenceOf(signals: SignalValues): number {
 }
 
 export function apiRowViews(items: readonly RankedRowData[], firstRank = 1): RowView[] {
-  const texts = rankedScoreTexts(items.map((it) => (it.universal == null ? null : it.exact ?? it.universal)));
+  const exacts = items.map((it) => (it.universal == null ? null : it.exact ?? it.universal));
+  const texts = rankedScoreTexts(exacts);
+  // GET /api/rank lists in score order, so equal exact scores share a rank (format.ts tiedRank).
+  const ranks: number[] = [];
+  exacts.forEach((e, i) => ranks.push(tiedRank(i > 0 ? { rank: ranks[i - 1], exact: exacts[i - 1] } : undefined, e, firstRank + i)));
   return items.map((it, i) => ({
     key: `${it.type ?? it.component}/${it.name}/${i}`,
-    rank: firstRank + i,
+    rank: ranks[i],
     name: it.name,
     href: it.type ? `/e/${encodeURIComponent(it.type)}/${encodeURIComponent(it.name)}` : it.url,
     external: !it.type && it.url != null,

@@ -20,8 +20,8 @@ import { InstallStrip } from "@/components/install-strip";
 import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
 import { CANON, rowsFor, stackFor } from "@/lib/canon";
 import { alternativesFor } from "@/lib/alternatives";
-import { ago, contributorOf, rankedScoreTexts, scoreText, shortDate } from "@/lib/format";
-import { findRow } from "@/lib/rows";
+import { contributorOf, githubReadText, rankedScoreTexts, scoreText, shortDate } from "@/lib/format";
+import { boardMeta, findRow } from "@/lib/rows";
 import { detailHref } from "@/lib/row-view";
 import { checkedRun } from "@/lib/run-check";
 
@@ -118,7 +118,7 @@ export default async function ComponentDetailPage({
   const signals = row?.signals ?? EMPTY_SIGNALS;
   const domain = row?.domain ?? null;
   const vertical = row?.vertical ?? null;
-  const now = Date.now();
+  const githubRead = boardMeta().githubRead;
   const contributedBy = contributorOf(component.tags);
   // A `<name>-feed` tag is the intake pipeline's; "Contributed by" below already says it (CP138 T51).
   const tags = component.tags.filter((t) => !t.endsWith("-feed"));
@@ -126,7 +126,7 @@ export default async function ComponentDetailPage({
 
   // Alternatives: the best-scored rows on the same canonical shelf that do the same job, so a reader
   // who landed on the wrong tool sees the right one in one click (src/lib/alternatives.ts). Their scores
-  // print like every ranked list's: three decimals, four where two would read the same.
+  // print like every ranked list's: three decimals, or four for the list when three would read alike.
   const shelf = row ? Object.keys(CANON).find((k) => CANON[k].includes(row.component)) ?? null : null;
   const alternatives = shelf && row ? alternativesFor(row, shelf, rowsFor(shelf)) : [];
   const altScores = rankedScoreTexts(alternatives.map((a) => (a.universal == null ? null : a.exact)));
@@ -194,8 +194,14 @@ export default async function ComponentDetailPage({
               <dd className="mt-1.5 text-[13px] text-ink-body">
                 {row?.pushedAt ? (
                   <>
-                    <time dateTime={row.pushedAt}>{ago(row.pushedAt, now)}</time>
+                    {/* A date, and the read it comes from: "3 weeks ago" read as now (CP138 T23). */}
+                    <time dateTime={row.pushedAt}>{shortDate(row.pushedAt)}</time>
                     {row.stale && <StaleTag />}
+                    {githubRead && (
+                      <span className="mt-0.5 block text-[11.5px] text-ink-faint">
+                        as last read from GitHub; most reads are from {githubReadText(githubRead)} or later
+                      </span>
+                    )}
                   </>
                 ) : (
                   <span className="text-ink-faint">Not known</span>

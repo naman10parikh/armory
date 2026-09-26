@@ -9,7 +9,7 @@ import { join } from "node:path";
 import { computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
 import type { SignalValues } from "@/components/signals-row";
 import { readCatalogText } from "./catalog-file";
-import { contributorOf, isOurs } from "./format";
+import { contributorOf, isOurs, tiedRank } from "./format";
 import { isInstallable } from "./installable";
 
 export interface BoardRow {
@@ -61,6 +61,10 @@ export interface BoardMeta {
   ranked: number;
   /** Rows listed in the seven days before the catalog was generated; null without history. */
   addedThisWeek: number | null;
+  /** Of those, the rows whose source was last confirmed before the week began (/status explains why). */
+  addedThisWeekConfirmedEarlier: number | null;
+  /** When the GitHub figures were read (catalog.json github_read): 90% on or after `since`, the newest on `latest`. */
+  githubRead: { since: string | null; latest: string } | null;
   trendingDays: number;
   trendingSince: string | null;
   historyAvailable: boolean;
@@ -114,6 +118,7 @@ interface Changes {
 export interface RawCatalog {
   generated_at?: string;
   counts?: unknown;
+  github_read?: { since?: string | null; latest?: string | null };
   components: unknown[];
 }
 
@@ -149,6 +154,8 @@ const EMPTY: State = {
     total: 0,
     ranked: 0,
     addedThisWeek: null,
+    addedThisWeekConfirmedEarlier: null,
+    githubRead: null,
     trendingDays: 14,
     trendingSince: null,
     historyAvailable: false,
@@ -164,6 +171,7 @@ function load(): State {
     const cat = JSON.parse(readCatalogText()) as {
       components: RawComponent[];
       generated_at?: string;
+      github_read?: { since?: string | null; latest?: string | null };
     };
     const changes = readChanges();
     const listed = changes.available ? changes.listed ?? {} : {};
@@ -212,6 +220,13 @@ function load(): State {
     const generatedAt = typeof cat.generated_at === "string" ? cat.generated_at : null;
     const weekAgo = generatedAt ? new Date(Date.parse(generatedAt) - 7 * DAY).toISOString().slice(0, 10) : null;
     const f = facetsOf(engine) as Facets;
+    // A row keeps the date its source was last confirmed (verified_at) when it enters the catalog.
+    const confirmedAt = new Map(rows.map((r, i) => {
+      const v = cat.components[i]?.verified_at;
+      return [r, typeof v === "string" ? v : ""] as const;
+    }));
+    const thisWeek = changes.available && weekAgo ? rows.filter((r) => r.listedKnown && r.listedAt != null && r.listedAt >= weekAgo) : null;
+    const read = cat.github_read;
 
     STATE = {
       raw: cat as RawCatalog,
@@ -223,10 +238,11 @@ function load(): State {
         generatedAt,
         total: rows.length,
         ranked: rows.filter((r) => r.universal != null).length,
-        addedThisWeek:
-          changes.available && weekAgo
-            ? rows.filter((r) => r.listedKnown && r.listedAt != null && r.listedAt >= weekAgo).length
-            : null,
+        addedThisWeek: thisWeek ? thisWeek.length : null,
+        addedThisWeekConfirmedEarlier: thisWeek && weekAgo
+          ? thisWeek.filter((r) => (confirmedAt.get(r) ?? "") < weekAgo).length
+          : null,
+        githubRead: read?.latest ? { since: read.since ?? null, latest: read.latest } : null,
         trendingDays: typeof changes.trending_days === "number" ? changes.trending_days : 14,
         trendingSince: changes.available ? changes.trending_since ?? null : null,
         historyAvailable: Boolean(changes.available),
@@ -270,7 +286,8 @@ export function findRow(type: string, name: string): BoardRow | undefined {
 /**
  * The same repository listed twice (a renamed repo crawled under both names) prints one line with
  * "also listed as". Only rows that agree on the exact score, stars, forks AND last push fold, so two
- * different projects never do; in the default order such twins are always adjacent.
+ * different projects never do; in the default order such twins are always adjacent. Two different
+ * projects with the same exact score share a rank (format.ts tiedRank).
  */
 export function foldSameRepo(rows: readonly BoardRow[], firstRank = 1): ListedRow[] {
   const out: ListedRow[] = [];
@@ -285,7 +302,7 @@ export function foldSameRepo(rows: readonly BoardRow[], firstRank = 1): ListedRo
       prev.pushedAt === r.pushedAt &&
       prev.exact === r.exact;
     if (twin) prev.alsoListedAs.push({ name: r.name, type: r.type });
-    else out.push({ ...r, rank: firstRank + i, alsoListedAs: [] });
+    else out.push({ ...r, rank: tiedRank(prev, r.exact, firstRank + i), alsoListedAs: [] });
   });
   return out;
 }

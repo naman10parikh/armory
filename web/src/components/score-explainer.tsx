@@ -32,6 +32,8 @@ export interface Contender {
 
 export interface Worked {
   name: string;
+  /** What the row is, in its own words, so a short name ("anon") reads as a product, not a blank. */
+  desc?: string;
   parts: string;
   math: string;
   score: string;
@@ -241,7 +243,7 @@ export function HeadToHead({ left, right }: { left: Contender; right: Contender 
         />
       </div>
       <div style={{ display: "flex", alignItems: "baseline", gap: 8, marginTop: 8 }}>
-        <span style={{ fontFamily: FIGURES, fontSize: 22, color: "var(--text-hi)" }}>{c.score}</span>
+        <span style={{ fontFamily: FIGURES, fontSize: 22, color: "var(--text-hi)" }}>{c.score.toFixed(1)}</span>
         <span style={{ fontSize: 12, color: "var(--text-muted)" }}>{c.verdict}</span>
       </div>
     </div>
@@ -281,7 +283,7 @@ export function WorkedTable({ rows }: { rows: Worked[] }) {
         background: "var(--bg-raise-1)",
       }}
     >
-      <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13.5 }}>
+      <table className="card-table card-table-inset" style={{ width: "100%", borderCollapse: "collapse", fontSize: 13.5 }}>
         <thead>
           <tr>
             <th style={th}>Component</th>
@@ -296,10 +298,12 @@ export function WorkedTable({ rows }: { rows: Worked[] }) {
               <td style={td}>
                 <div style={{ color: "var(--text-hi)", fontWeight: 500 }}>{r.name}</div>
                 <div style={{ color: "var(--text-muted)", fontSize: 11.5, marginTop: 2 }}>{r.tier}</div>
+                {r.desc && <div style={{ color: "var(--text-muted)", fontSize: 11.5, marginTop: 4, maxWidth: 240 }}>{r.desc}</div>}
               </td>
-              <td style={{ ...td, fontFamily: FIGURES, fontSize: 12, color: "var(--text-body)", whiteSpace: "pre-line", lineHeight: 1.7 }}>{r.parts}</td>
-              <td style={{ ...td, fontFamily: FIGURES, fontSize: 11.5, color: "var(--text-muted)" }}>{r.math}</td>
+              <td data-label="Signals" style={{ ...td, fontFamily: FIGURES, fontSize: 12, color: "var(--text-body)", whiteSpace: "pre-line", lineHeight: 1.7 }}>{r.parts}</td>
+              <td data-label="Calculation" style={{ ...td, fontFamily: FIGURES, fontSize: 11.5, color: "var(--text-muted)" }}>{r.math}</td>
               <td
+                data-label="Score"
                 style={{
                   ...td,
                   textAlign: "right",

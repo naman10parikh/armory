@@ -6,31 +6,44 @@ const INT = new Intl.NumberFormat("en-US");
 export const int = (n: number): string => INT.format(n);
 
 /**
- * A score printed to `dp` decimals from its four-decimal exact value. Integer arithmetic, so the
- * same number prints the same digits on every page (a float `toFixed` can round 2.0500 either way).
+ * A score printed to `dp` decimals from its four-decimal exact value, cut DOWN like the engine's
+ * one-decimal score, so 100.0 appears only for a row that scores 100 (CP138 T23). Integer
+ * arithmetic, so the same number prints the same digits on every page.
  */
 export function scoreText(exact: number, dp: 1 | 2 | 3 | 4): string {
   const e4 = Math.round(exact * 1e4);
-  const scaled = String(Math.round(e4 / 10 ** (4 - dp))).padStart(dp + 1, "0");
+  const scaled = String(Math.floor(e4 / 10 ** (4 - dp))).padStart(dp + 1, "0");
   return `${scaled.slice(0, -dp)}.${scaled.slice(-dp)}`;
 }
 
 /**
- * Scores for a ranked list: three decimals, and a fourth only where a neighbour would otherwise
- * print the same three. Every digit is the formula's own; none is invented to pull two rows apart.
- * At one decimal the top of the board is a wall of 100.0 and 99.9 (the percentiles saturate).
+ * Scores for a ranked list, all to the same number of decimals: three, or four for the whole list
+ * when two different scores would print the same three (CP138 T23: one column mixed the two). Every
+ * digit is the formula's own. At one decimal the top of the board is a wall of 99.9, because the
+ * percentiles saturate. Rows whose exact scores are equal print the same text and share a rank.
  */
 export function rankedScoreTexts(exacts: readonly (number | null)[]): (string | null)[] {
-  const three = exacts.map((e) => (e == null ? null : scoreText(e, 3)));
-  const clash = (i: number, j: number): boolean =>
-    j >= 0 && j < three.length && three[j] != null && three[j] === three[i];
-  return exacts.map((e, i) => {
-    if (e == null) return null;
-    return clash(i, i - 1) || clash(i, i + 1) ? scoreText(e, 4) : three[i];
+  const at = (dp: 3 | 4) => exacts.map((e) => (e == null ? null : scoreText(e, dp)));
+  const three = at(3);
+  const seen = new Map<string, number>();
+  const clash = exacts.some((e, i) => {
+    const t = three[i];
+    if (e == null || t == null) return false;
+    if (seen.has(t) && seen.get(t) !== e) return true;
+    seen.set(t, e);
+    return false;
   });
+  return clash ? at(4) : three;
 }
 
-const DAY = 86_400_000;
+/**
+ * Standard competition ranks for a list in score order: a row whose exact score equals the row above
+ * it takes that row's rank (37, 37, 39), so one score is never printed beside two ranks.
+ */
+export function tiedRank(prev: { rank: number; exact: number | null } | undefined, exact: number | null, position: number): number {
+  return prev != null && exact != null && prev.exact === exact ? prev.rank : position;
+}
+
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
 /** "22 Sep 2026", in UTC so the server and the browser print the same day. */
@@ -40,20 +53,15 @@ export function shortDate(iso: string): string {
   return `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 }
 
-/** "today" · "3 days ago" · "5 months ago" · "2 years ago", measured from `now`. */
-export function ago(iso: string, now: number): string {
-  const t = Date.parse(iso);
-  if (!Number.isFinite(t)) return "";
-  const days = Math.floor((now - t) / DAY);
-  if (days < 1) return "today";
-  if (days < 2) return "yesterday";
-  if (days < 14) return `${days} days ago`;
-  if (days < 60) return `${Math.floor(days / 7)} weeks ago`;
-  if (days < 730) return `${Math.floor(days / 30.44)} months ago`;
-  return `${Math.floor(days / 365.25)} years ago`;
+/**
+ * The date most GitHub figures were read on or after, from catalog.json's github_read: `since` is the
+ * date from which the logged reads cover 90% of repositories (CP138 T23: the page said "Updated 12
+ * minutes ago" over commit dates three weeks old). Callers say "or later": some rows were read since.
+ */
+export function githubReadText(read: { since: string | null; latest: string }): string {
+  return shortDate(read.since ?? read.latest);
 }
 
-/** "40 minutes ago" · "5 hours ago" · "2 days ago" — for a refresh time, where hours matter. */
 /** "26 Sep 2026, 09:04 UTC": a fixed time for server HTML, true however old the cached page is. */
 export function utcStamp(iso: string): string {
   const d = new Date(iso);
@@ -62,6 +70,7 @@ export function utcStamp(iso: string): string {
   return `${shortDate(iso)}, ${hm} UTC`;
 }
 
+/** "40 minutes ago" · "5 hours ago" · "2 days ago" — for a refresh time, where hours matter. */
 export function sinceText(iso: string, now: number): string {
   const t = Date.parse(iso);
   if (!Number.isFinite(t)) return "";

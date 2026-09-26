@@ -25,8 +25,9 @@ const NAV_LINKS = [
 export function SiteNav() {
   // Phone (CP143 upgrade 11): the old bar was a fixed 56px that wrapped its links into three rows
   // over the page title. Now the wordmark and Source share the first row, and the links sit in a
-  // strip of their own that scrolls sideways inside itself, so the page never does. The right edge fades
-  // so the strip reads as scrollable, and end padding as wide as the fade lets the last link clear it.
+  // row of their own below it. That row used to scroll sideways behind a faded edge, which no reader
+  // took for a cue (CP138 T23), so on a phone it wraps onto a second line instead: every section is
+  // visible, nothing scrolls, and the header is not sticky, so the extra line costs nothing below it.
   return (
     <header className="border-b border-line-subtle bg-canvas">
       <div className="mx-auto flex min-h-14 w-full max-w-[1440px] flex-wrap items-center justify-between gap-x-4 px-5 py-2 md:px-8">
@@ -43,7 +44,7 @@ export function SiteNav() {
 
         <nav
           aria-label="Sections"
-          className="order-last -mx-2 flex w-[calc(100%+1rem)] items-center gap-0.5 overflow-x-auto whitespace-nowrap pb-1 text-[14px] [scrollbar-width:none] max-lg:pr-14 max-lg:[mask-image:linear-gradient(90deg,#000_85%,transparent)] lg:order-none lg:mx-0 lg:w-auto lg:overflow-visible lg:pb-0 lg:[mask-image:none]"
+          className="order-last -mx-2 flex w-[calc(100%+1rem)] flex-wrap items-center gap-0.5 pb-1 text-[14px] lg:order-none lg:mx-0 lg:w-auto lg:flex-nowrap lg:whitespace-nowrap lg:pb-0"
         >
           {NAV_LINKS.map((l) => (
             <NavLink key={l.href} href={l.href}>
