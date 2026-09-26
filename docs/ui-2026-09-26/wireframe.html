@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Armory wireframe 2026-09-26</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Instrument+Serif&family=JetBrains+Mono:wght@400&display=swap">
+<style>
+/* Wireframe on MOCK data (CP143 UI lane). Every number below is invented to show layout,
+   not measured. Each screen is drawn twice, at 1280 and at 390, from the SAME markup:
+   the frames are CSS containers, so @container rules decide the phone layout exactly the
+   way @media rules will in the app. */
+:root{--bg:#121110;--raise:#181716;--raise2:#1f1e1c;--line:#3d3b39;--line2:#2a2826;--ink:#f1efed;--body:#d6d3cf;--muted:#b4b1ae;--faint:#86827f;--accent:oklch(78% .13 72);--accent-quiet:oklch(78% .13 72 / .14);--warn:#d1b747;--ok:#579766}
+*{box-sizing:border-box}
+body{margin:0;background:#0b0a0a;color:var(--body);font:14px/1.5 "Instrument Sans",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+.doc{padding:32px 40px 80px}
+.doc>h1{font:400 42px/1.1 "Instrument Serif",serif;color:var(--ink);margin:0}
+.doc>p{color:var(--muted);max-width:72ch}
+.mock{display:inline-block;border:1px solid var(--warn);color:var(--warn);font-size:11px;letter-spacing:.14em;text-transform:uppercase;padding:2px 8px;border-radius:4px}
+h2.screen{font:600 19px/1.3 "Instrument Sans";color:var(--ink);margin:56px 0 4px}
+.pair{display:flex;gap:40px;align-items:flex-start;margin-top:16px}
+.frame{container-type:inline-size;background:var(--bg);border:1px solid var(--line);border-radius:10px;overflow:hidden;flex:none}
+.w1280{width:1280px}.w390{width:390px}
+.cap{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);margin:0 0 8px}
+/* ---- app chrome ---- */
+.nav{display:flex;align-items:center;gap:24px;padding:12px 32px;border-bottom:1px solid var(--line2)}
+.mark{font:400 22px/1 "Instrument Serif";color:var(--ink);white-space:nowrap}
+.links{display:flex;gap:4px;flex:1;overflow-x:auto;scrollbar-width:none}
+.links a{color:var(--body);text-decoration:none;padding:6px 10px;border-radius:6px;white-space:nowrap}
+.links a[aria-current]{color:var(--ink);background:var(--raise2)}
+.harness{border:1px solid var(--line);border-radius:6px;padding:5px 10px;color:var(--ink);font-size:13px;white-space:nowrap}
+.page{padding:32px}
+.promise{font:500 27px/1.2 "Instrument Sans";color:var(--ink);margin:0;max-width:30ch}
+.count{display:flex;flex-wrap:wrap;gap:8px 24px;margin:16px 0 0;color:var(--muted);font-size:14px}
+.count b{color:var(--ink);font-weight:600}
+.search{display:flex;gap:8px;margin-top:24px;max-width:520px}
+.search .in{flex:1;border:1px solid var(--line);border-radius:6px;padding:8px 12px;color:var(--faint)}
+.btn{border:1px solid var(--accent);color:var(--accent);border-radius:6px;padding:8px 14px;background:var(--accent-quiet);white-space:nowrap}
+.tabs{display:flex;align-items:center;gap:4px;margin-top:40px;border-bottom:1px solid var(--line2)}
+.tabs a{padding:8px 14px;color:var(--muted);text-decoration:none;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs a[aria-current]{color:var(--ink);border-color:var(--accent)}
+.tabs .sp{flex:1}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{font-size:11px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);text-align:left;padding:10px 12px;border-bottom:1px solid var(--line)}
+td{padding:10px 12px;border-bottom:1px solid var(--line2);vertical-align:top}
+.num{text-align:right}
+.score{color:var(--accent);font-weight:600}
+.name{color:var(--ink);font-weight:500}
+.meta{color:var(--faint);font-size:12px}
+.tag{display:inline-block;font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 6px;color:var(--muted);margin-left:6px}
+.tag.ours{border-color:var(--accent);color:var(--accent)}
+.tag.stale{border-color:var(--warn);color:var(--warn)}
+.desc{color:var(--muted)}
+.ev{color:var(--body)}
+.cmd{font:12px/1.5 "JetBrains Mono",monospace;color:var(--body);background:var(--raise);border:1px solid var(--line2);border-radius:6px;padding:6px 8px;word-break:break-word}
+.note{color:var(--faint);font-size:12px;margin-top:16px}
+/* phone: each ranked row becomes a stacked block, so the page never scrolls sideways */
+@container (max-width:640px){
+  .nav{flex-wrap:wrap;padding:12px 16px;gap:8px}
+  .links{order:3;flex-basis:100%}
+  .harness{margin-left:auto}
+  .page{padding:24px 16px}
+  .promise{font-size:22px}
+  .rt thead{position:absolute;left:-9999px}
+  .rt tr{display:grid;grid-template-columns:28px 1fr auto;gap:4px 8px;padding:12px 0;border-bottom:1px solid var(--line2)}
+  .rt td{border:0;padding:0}
+  .rt td.c-rank{grid-row:1}
+  .rt td.c-name{grid-column:2}
+  .rt td.c-score{grid-column:3;grid-row:1}
+  .rt td.c-desc,.rt td.c-ev,.rt td.c-when,.rt td.c-cmd{grid-column:2/4}
+  .two{display:block!important}
+  .st thead{position:absolute;left:-9999px}
+  .st tr{display:block;padding:12px 0;border-bottom:1px solid var(--line2)}
+  .st td{display:block;border:0;padding:2px 0}
+  .kv{grid-template-columns:1fr!important}
+}
+/* detail + stack */
+.crumb{color:var(--faint);font-size:13px}
+.dh{font:600 27px/1.2 "Instrument Sans";color:var(--ink);margin:8px 0 0}
+.two{display:grid;grid-template-columns:1fr 320px;gap:40px;margin-top:24px}
+.kv{display:grid;grid-template-columns:repeat(4,auto);gap:16px 32px;justify-content:start}
+.kv dt{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.kv dd{margin:4px 0 0;color:var(--ink)}
+.box{border:1px solid var(--line2);border-radius:10px;padding:16px;background:var(--raise)}
+h3{font:600 19px/1.3 "Instrument Sans";color:var(--ink);margin:40px 0 12px}
+.alt li{margin:6px 0}
+.small{font-size:12px;color:var(--faint)}
+select.pick{background:var(--raise);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:4px 6px;font:inherit;max-width:100%}
+</style>
+</head>
+<body>
+<div class="doc">
+<span class="mock">Mock data</span>
+<h1>Armory, wireframe</h1>
+<p>Three screens, each drawn at 1280 px and at 390 px from one markup. Numbers are invented to show layout. Decisions it fixes: Instrument Sans everywhere, the serif only in the wordmark, JetBrains Mono only in install commands; one promise line and live counters instead of a hero; Top, Trending and New tabs; every signal in words; full install commands; a date on every row; our own rows marked Ours.</p>
+
+<!-- ============================ HOME ============================ -->
+<h2 class="screen">Home, the Top tab</h2>
+<div class="pair">
+
+<div><p class="cap">Desktop 1280</p><div class="frame w1280" data-screen="home"></div></div>
+<div><p class="cap">Phone 390</p><div class="frame w390" data-screen="home"></div></div>
+</div>
+
+<!-- ============================ DETAIL ============================ -->
+<h2 class="screen">Detail page, one component</h2>
+<div class="pair">
+<div><p class="cap">Desktop 1280</p><div class="frame w1280" data-screen="detail"></div></div>
+<div><p class="cap">Phone 390</p><div class="frame w390" data-screen="detail"></div></div>
+</div>
+
+<!-- ============================ STACK ============================ -->
+<h2 class="screen">/stack, both axes and the builder</h2>
+<div class="pair">
+<div><p class="cap">Desktop 1280</p><div class="frame w1280" data-screen="stack"></div></div>
+<div><p class="cap">Phone 390</p><div class="frame w390" data-screen="stack"></div></div>
+</div>
+</div>
+
+<script>
+// One markup per screen, stamped into both frames so the two widths cannot drift.
+const nav = (here) => `<header class="nav"><span class="mark">Armory</span><nav class="links">${
+  ["Top","Leaderboard","Components","Stack","Browse","Formula","Ask"].map(l => `<a ${l===here?'aria-current="page"':''} href="#">${l}</a>`).join("")
+}</nav><span class="harness">Harness: Claude Code</span></header>`;
+
+const rows = [
+  [1,"99.990","everything-claude-code","skill · ai-agents","","Skills across core engineering domains, one file per competency","245,823 stars · 37,094 forks","3 days ago",""],
+  [2,"99.987","openai-codex","cli · ai-agents","","Lightweight coding agent that runs in your terminal","120,808 stars · 18,510 forks · 249 mentions","3 days ago",""],
+  [3,"99.983","browser-use","infra · browser","","Python library that makes websites accessible to AI agents","111,989 stars · 12,312 forks · passed test","3 days ago",""],
+  [4,"99.978","karpathy-coding-discipline","rules · ai-agents","","Drop into CLAUDE.md or AGENTS.md as the first rules an agent reads","209,417 stars · 21,315 forks","5 months ago",""],
+  [5,"99.960","gh","cli · github-vcs","","GitHub's official command line tool","46,103 stars · 8,949 forks · passed test","3 days ago",""],
+  [6,"61.204","wikimem","memory · search","ours","Ingests files, folders and URLs into a linked wiki, then answers questions over it","7 stars","2 weeks ago",""],
+  [7,"48.117","old-mcp-server","mcp · back-end","stale","A server that has not had a commit in over two years","212 stars","3 years ago",""],
+];
+const cmd = (n) => `armory install ${n} <span style="white-space:nowrap">--cli claude</span>`;
+const home = `${nav("Top")}<main class="page">
+<h1 class="promise">65,580 agent components ranked on public evidence, refreshed nightly, each installed in one command</h1>
+<p class="count"><span><b>65,580</b> components</span><span><b>29,623</b> ranked</span><span><b>+340</b> this week</span><span>refreshed <b>5 hours ago</b></span></p>
+<form class="search"><span class="in">browser automation</span><span class="btn">Search</span></form>
+<nav class="tabs"><a aria-current="page" href="#">Top</a><a href="#">Trending</a><a href="#">New</a><span class="sp"></span></nav>
+<table class="rt"><thead><tr><th class="num">Rank</th><th class="num">Score</th><th>Component</th><th>What it does</th><th>Evidence</th><th>Last commit</th><th>Install</th></tr></thead><tbody>
+${rows.map(r => `<tr><td class="num c-rank meta">${r[0]}</td><td class="num c-score score">${r[1]}</td><td class="c-name"><span class="name">${r[2]}</span>${r[4]==="ours"?'<span class="tag ours">Ours</span>':''}<div class="meta">${r[3]}</div></td><td class="c-desc desc">${r[5]}</td><td class="c-ev ev">${r[6]}</td><td class="c-when"><time>${r[7]}</time>${r[4]==="stale"?'<span class="tag stale">Stale</span>':''}</td><td class="c-cmd"><div class="cmd">${cmd(r[2])}</div></td></tr>`).join("")}
+</tbody></table>
+<p class="note">Equal scores are ordered by the unrounded score, then more independent signals, then the most recent commit, then stars. Formula shows the arithmetic.</p>
+</main>`;
+
+const detail = `${nav("Browse")}<main class="page">
+<p class="crumb">Browse / MCPs</p>
+<h1 class="dh">github-mcp</h1>
+<p class="desc">Issues, pull requests, repository search and commits without shelling out to git.</p>
+<div class="two"><div>
+<dl class="kv"><div><dt>Score</dt><dd class="score">99.9</dd></div><div><dt>Evidence</dt><dd>32,663 stars · 4,883 forks · passed test</dd></div><div><dt>Last commit</dt><dd><time>3 days ago</time></dd></div><div><dt>Listed since</dt><dd><time>27 May 2026</time></dd></div></dl>
+<h3>Install</h3>
+<div class="cmd">armory install github-mcp --cli claude</div>
+<p class="small">Merges a server entry into .mcp.json. Restart Claude Code to load it.</p>
+<h3>Alternatives on the MCPs shelf</h3>
+<ol class="alt"><li><span class="name">genai-toolbox</span> <span class="score">99.9</span> <span class="meta">16,293 stars · passed test</span></li><li><span class="name">chrome-devtools</span> <span class="score">99.7</span> <span class="meta">50,437 stars · 4 mentions</span></li><li><span class="name">firecrawl-mcp</span> <span class="score">99.8</span> <span class="meta">7,368 stars · passed test</span></li></ol>
+</div>
+<aside class="box"><dl class="kv" style="grid-template-columns:1fr"><div><dt>Type</dt><dd>MCP server</dd></div><div><dt>License</dt><dd>MIT</dd></div><div><dt>Source</dt><dd>github/github-mcp-server</dd></div><div><dt>Harness</dt><dd>claude · codex · cursor · gemini</dd></div></dl></aside>
+</div></main>`;
+
+const slots = [["Identity","karpathy-coding-discipline","100.0","Behavior norms loaded from CLAUDE.md: think first, simplify, keep the diff small"],["Memory","letta-ai-letta","99.0","Wins the memory shelf it is actually on"],["Skills","superpowers","90.4","One bundle covering planning, review and testing; chosen over a mega-list"],["Tools","playwright-cli","99.8","Codegen, screenshot, PDF and trace commands"],["Hooks","plannotator","99.2","A plan is annotated and approved before work starts"],["Sub-Agents","wshobson-agents","88.8","The largest maintained collection"],["MCPs","github-mcp","99.9","Issues, pull requests and commits without shelling out to git"],["Dispatch","pocketflow","99.3","100-line graph framework"],["Evals","promptfoo","99.7","Grades your own prompts in CI"],["Observability","langfuse","99.7","Traces, prompts, datasets and evals, self-hostable"],["Sandbox","e2b-sandbox","98.9","Firecracker microVM per run, ~150ms cold start"]];
+const plane = [["Computer","Orgo","ORGO_API_KEY; Bezalel provisions it, the agent never sees the key"],["Sandbox","E2B","E2B_API_KEY, one microVM per run"],["Database","Supabase","URL and anon key to the agent; the service-role key stays at the tool boundary"],["Email","AgentMail","API key and a per-inbox webhook secret; verify the signature"],["Phone / SMS / WhatsApp","Twilio","SID, token and a purchased number; inbound requests are signed"],["iMessage","Photon Spectrum","project id and secret; the owner pairs their own handle by one-time code"],["Card / spend","Agent Card HQ","identity check (KYC), then a funded balance; start it first"],["Payments / earn","Stripe agent-toolkit","a restricted key scoped to the agent, never the account key"],["Memory store","Supermemory","SUPERMEMORY_API_KEY, or self-host"],["Connectors","Composio","key plus owner OAuth per app"],["Deploy / hosting","Vercel","token and linked project; alias the deploy or nothing ships"],["Web / browser","Browserbase + Stagehand","key and project id, or local Chromium, read-only"]];
+const stack = `${nav("Stack")}<main class="page">
+<h1 class="dh">Stack</h1>
+<p class="desc">One pick per harness component, and the accounts an agent needs to act. As of 7 Sep 2026.</p>
+<h3>Inside the harness</h3>
+<table class="st"><thead><tr><th>Component</th><th>Pick</th><th class="num">Score</th><th>Why</th><th>Install</th></tr></thead><tbody>
+${slots.map(s => `<tr><td class="c-rank meta">${s[0]}</td><td class="c-name"><select class="pick"><option>${s[1]}</option></select></td><td class="num c-score score">${s[2]}</td><td class="c-desc desc">${s[3]}</td><td class="c-cmd"><div class="cmd">${cmd(s[1])}</div></td></tr>`).join("")}
+</tbody></table>
+<h3>One command for your picks</h3>
+<div class="cmd">${slots.map(s => cmd(s[1])).join(" &amp;&amp; ")}</div>
+<p class="small">Share link: /stack?memory=letta-ai-letta&amp;evals=promptfoo (changing a pick changes the link)</p>
+<h3>Accounts the agent acts through</h3>
+<table class="st"><thead><tr><th>Slot</th><th>Pick</th><th>Deploy access</th></tr></thead><tbody>
+${plane.map(p => `<tr><td class="c-rank meta">${p[0]}</td><td class="c-name name">${p[1]}</td><td class="c-desc desc">${p[2]}</td></tr>`).join("")}
+</tbody></table>
+<p class="note">Provision in this order: card, iMessage, phone number, email inbox and webhook secret, then everything key-based. Re-derive the picks' evidence: <span class="cmd">node scripts/stack-evidence.mjs</span></p>
+</main>`;
+
+const screens = { home, detail, stack };
+document.querySelectorAll("[data-screen]").forEach(el => { el.innerHTML = screens[el.dataset.screen]; });
+</script>
+</body>
+</html>
