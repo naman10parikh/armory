@@ -5,9 +5,9 @@ import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
 // Type, CP143 (the chairman's recorded default, after Synoptic's S09 §4):
-//   Instrument Sans  — everything, figures included (tabular numerals, set on <body>)
-//   Instrument Serif — the wordmark only
-//   JetBrains Mono   — install commands (and the code they write) only
+//   Instrument Sans: everything, figures included (tabular numerals, set on <body>)
+//   Instrument Serif: the wordmark only
+//   JetBrains Mono: install commands (and the code they write) only
 // One family for the interface reads as one instrument; the serif and the mono each keep a single
 // job, so neither turns into decoration. next/font/google self-hosts all three: preloaded, zero CLS.
 
