@@ -27,4 +27,4 @@ See the source: https://github.com/anthropics/skills
 See the source README: https://github.com/anthropics/skills
 
 ## Notes
-Added 2026-09-07 (CP138, front-end stack test). The catalogue previously held this skill only as a SKILL.md blob inside a mega-repo, which cannot carry a score; this is the root repository, which can. Named by practitioners in the Sentinel brain.
+Added 2026-09-07 during a test of the front-end stack. The catalogue previously held this skill only as a SKILL.md blob inside a mega-repo, which cannot carry a score; this is the root repository, which can. Named by practitioners in the Sentinel brain.
