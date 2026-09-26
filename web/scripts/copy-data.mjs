@@ -172,6 +172,7 @@ async function writeLlmsTxt() {
     if (!(k in values)) throw new Error(`[copy-data] llms.template.txt names an unknown value ${m}`);
     return values[k];
   });
+  mkdirSync(join(SITE_DIR, "public"), { recursive: true }); // web/public has no tracked files, so a fresh checkout lacks it
   writeFileSync(join(SITE_DIR, "public", "llms.txt"), text);
   console.log(`[copy-data] wrote public/llms.txt (${values.total} components, as of ${values.as_of})`);
 }
