@@ -6,15 +6,24 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ContentWidth, DataTable, Td, Th, Tr } from "@/components/data-table";
 import { ArrowLeftIcon } from "@/components/icons";
-import { longDate, monthLabel, n, pct, stats } from "./stats";
+import { longDate, monthLabel, n, pct, stats, type SignalKey } from "./stats";
 
 export const runtime = "nodejs";
 
 export const metadata: Metadata = {
   title: "Status · Armory",
   description:
-    "Freshness and signal coverage for the Armory index — how many components are catalogued, how many carry each ranking signal, and when the crawl last confirmed them.",
+    "Freshness and signal coverage for the Armory index — how many components are cataloged, how many carry each ranking signal, and when the crawl last confirmed them.",
 };
+
+// The signals in the coverage table, as the engine scores them (lib/rank.mjs), with what each one is.
+const SIGNAL_ROWS: readonly { key: SignalKey; label: string; note: string }[] = [
+  { key: "stars", label: "Stars", note: "GitHub star count" },
+  { key: "tested", label: "Tested", note: "Installed and executed directly" },
+  { key: "mentions", label: "Mentions", note: "How often practitioners reference it" },
+  { key: "forks", label: "Forks", note: "GitHub fork count" },
+  { key: "usage", label: "Usage", note: "Registry install count" },
+];
 
 // ---- small building blocks --------------------------------------------------------------
 function Eyebrow({ children }: { children: React.ReactNode }) {
@@ -63,14 +72,14 @@ export default function Status() {
 
       <h1 className="mt-3 text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Status</h1>
       <p className="mt-2 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
-        Coverage and freshness for every catalogued component
+        Coverage and freshness of the catalog
       </p>
       <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
-        Read live from{" "}
+        Read from{" "}
         <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[12px] text-ink-body">
           catalog.json
         </code>
-        , the one version-controlled source every surface reads.
+        , the source every page uses.
       </p>
 
       {/* Hero: one featured total, then three supporting stats — asymmetric, not a 4-card wall. */}
@@ -83,28 +92,31 @@ export default function Status() {
             </data>
           </div>
           <p className="m-0 max-w-[42ch] text-[15px] leading-[1.6] text-ink-body">
-            Every catalogued building block — MCPs, skills, hooks, sub-agents, rules, evals,
-            infrastructure, and the workflows that compose them — drawn from{" "}
+            MCPs, skills, hooks, sub-agents, rules, evals, infrastructure and workflows, from{" "}
             <strong className="font-semibold text-ink-hi">
               <data value={String(s.sources)}>{n(s.sources)}</data>
             </strong>{" "}
-            distinct source repositories. New tools arrive only as additive pull requests.
+            distinct source repositories.
           </p>
         </Card>
 
         <div className="mt-4 grid gap-4 [grid-template-columns:repeat(auto-fit,minmax(240px,1fr))]">
           <StatCard
             label="Coverage"
-            value={n(s.anySignal)}
-            sub={`${pct(s.anySignal, s.total)} of the index carries at least one signal`}
+            value={n(s.ranked)}
+            sub={`${pct(s.ranked, s.total)} of the catalog carries at least one signal`}
           />
           <StatCard
-            label="Updated"
-            value={s.validAsOf ? monthLabel(s.validAsOf) : "—"}
-            valueDateTime={s.validAsOf ?? undefined}
-            sub={`Last confirmed by the crawl · about ${s.monthsOld} month${s.monthsOld === 1 ? "" : "s"} ago`}
+            label="Base Crawl"
+            value={s.base ? monthLabel(s.base.key) : "—"}
+            valueDateTime={s.base?.key}
+            sub={
+              s.newest
+                ? `Newest confirmation ${monthLabel(s.newest.key)} (${n(s.newest.count)} rows)`
+                : "No confirmation dates"
+            }
           />
-          <StatCard label="Tested" value={n(s.tested)} sub="Installed and executed directly" />
+          <StatCard label="Tested" value={n(s.signals.tested)} sub="Installed and executed directly" />
         </div>
       </section>
 
@@ -115,8 +127,7 @@ export default function Status() {
           What each component is scored on
         </h2>
         <p className="mt-2 max-w-[68ch] text-[15px] leading-[1.6] text-ink-body">
-          Each signal is real or absent, never invented. A component is ranked on whatever it
-          actually has, so most of the index is sparse by design. Coverage is the share of all{" "}
+          A component is ranked on the signals it has; most have none yet. Coverage is the share of all{" "}
           <data value={String(s.total)}>{n(s.total)}</data> components that carry each one.
         </p>
 
@@ -134,59 +145,30 @@ export default function Status() {
               </tr>
             </thead>
             <tbody>
-              <Tr>
-                <Td>
-                  <span className="block font-medium text-ink-hi">Stars</span>
-                  <span className="block text-[12px] text-ink-muted">
-                    GitHub star count, never conflated with usage
-                  </span>
-                </Td>
-                <Td align="right">
-                  <data value={String(s.stars)} className="font-sans text-[13px] tabular-nums text-ink-hi">
-                    {n(s.stars)}
-                  </data>
-                </Td>
-                <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
-                  {pct(s.stars, s.total)}
-                </Td>
-              </Tr>
-              <Tr>
-                <Td>
-                  <span className="block font-medium text-ink-hi">Tested</span>
-                  <span className="block text-[12px] text-ink-muted">Installed and executed directly</span>
-                </Td>
-                <Td align="right">
-                  <data value={String(s.tested)} className="font-sans text-[13px] tabular-nums text-ink-hi">
-                    {n(s.tested)}
-                  </data>
-                </Td>
-                <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
-                  {pct(s.tested, s.total)}
-                </Td>
-              </Tr>
-              <Tr>
-                <Td>
-                  <span className="block font-medium text-ink-hi">Mentions</span>
-                  <span className="block text-[12px] text-ink-muted">How often practitioners reference it</span>
-                </Td>
-                <Td align="right">
-                  <data value={String(s.mentions)} className="font-sans text-[13px] tabular-nums text-ink-hi">
-                    {n(s.mentions)}
-                  </data>
-                </Td>
-                <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
-                  {pct(s.mentions, s.total)}
-                </Td>
-              </Tr>
+              {SIGNAL_ROWS.map((row) => (
+                <Tr key={row.key}>
+                  <Td>
+                    <span className="block font-medium text-ink-hi">{row.label}</span>
+                    <span className="block text-[12px] text-ink-muted">{row.note}</span>
+                  </Td>
+                  <Td align="right">
+                    <data value={String(s.signals[row.key])} className="font-sans text-[13px] tabular-nums text-ink-hi">
+                      {n(s.signals[row.key])}
+                    </data>
+                  </Td>
+                  <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
+                    {pct(s.signals[row.key], s.total)}
+                  </Td>
+                </Tr>
+              ))}
             </tbody>
           </DataTable>
         </div>
 
         <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
-          <data value={String(s.anySignal)}>{n(s.anySignal)}</data> components (
-          {pct(s.anySignal, s.total)}) carry at least one signal; the remaining{" "}
-          <data value={String(s.total - s.anySignal)}>{n(s.total - s.anySignal)}</data> are
-          unranked rather than faked to the top.{" "}
+          <data value={String(s.ranked)}>{n(s.ranked)}</data> components (
+          {pct(s.ranked, s.total)}) carry at least one signal; the remaining{" "}
+          <data value={String(s.total - s.ranked)}>{n(s.total - s.ranked)}</data> are unranked.{" "}
           <Link
             href="/formula"
             className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
@@ -200,19 +182,19 @@ export default function Status() {
       <section className="mt-12">
         <Eyebrow>Freshness</Eyebrow>
         <h2 className="mt-1.5 text-[22px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
-          Valid as of {s.validAsOf ? monthLabel(s.validAsOf) : "—"}
+          Last Confirmed by Month
         </h2>
         <p className="mt-2 max-w-[68ch] text-[15px] leading-[1.6] text-ink-body">
-          When the crawl last confirmed each component, grouped by month. The base index was
-          gathered in a single sweep
+          {/* The dates run from the base crawl to the newest nightly confirmation, so they are a range,
+              not one sweep (CP138 T51: the page said "a single sweep" up to September). */}
+          When the crawl last confirmed each component, grouped by month
           {s.sweptFrom && s.sweptTo ? (
             <>
-              {" "}
-              (<time dateTime={s.sweptFrom}>{longDate(s.sweptFrom)}</time> →{" "}
-              <time dateTime={s.sweptTo}>{longDate(s.sweptTo)}</time>)
+              , from <time dateTime={s.sweptFrom}>{longDate(s.sweptFrom)}</time> to{" "}
+              <time dateTime={s.sweptTo}>{longDate(s.sweptTo)}</time>
             </>
           ) : null}
-          , so nearly every record shares one timestamp — an honest picture of a one-shot crawl.
+          .
         </p>
 
         <div className="mt-4">
@@ -253,17 +235,16 @@ export default function Status() {
         </div>
       </section>
 
-      {/* The honest note */}
+      {/* Crawl age: when the base crawl ran, from the table above (CP138 T51) */}
       <section className="mt-8">
         <div className="rounded-2xl border border-accent-line bg-accent-quiet p-5">
-          <Eyebrow>The Honest State</Eyebrow>
+          <Eyebrow>Crawl Age</Eyebrow>
           <p className="mt-2 max-w-[74ch] text-[15px] leading-[1.7] text-ink-body">
-            The base crawl is about {s.monthsOld} month{s.monthsOld === 1 ? "" : "s"} old —
-            everything here was last confirmed in{" "}
-            {s.validAsOf ? monthLabel(s.validAsOf) : "the initial sweep"}. Star counts drift,
-            repos move, new tools ship every week. A proactive crawler keeps the index current by
-            re-confirming existing components and pulling in new ones on a schedule; every row
-            links to its source for direct verification.
+            {s.base
+              ? `The base crawl ran in ${monthLabel(s.base.key)}; ${pct(s.base.count, s.total)} of rows were last confirmed then. `
+              : ""}
+            Star counts drift, repos move, new tools ship every week. New components arrive nightly; the
+            table shows when each row was last confirmed. Every row links to its source.
           </p>
         </div>
       </section>
