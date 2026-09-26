@@ -15,6 +15,7 @@ related: []
 tags: [browser, stagehand]
 forks: 325
 pushed_at: "2026-05-04T21:23:14Z"
+mentions: 1
 ---
 ## What it is
 Browserbase Open Operator — open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.

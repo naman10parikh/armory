@@ -15,6 +15,7 @@ related: []
 tags: [evals, rag, tracking, dashboard]
 forks: 335
 pushed_at: "2026-09-01T15:59:09Z"
+mentions: 1
 ---
 ## What it is
 Evaluation and tracking for LLM and RAG applications with a feedback-function API and experiment dashboard.

@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 976
 pushed_at: "2026-08-26T23:33:36Z"
+mentions: 2
 ---
 ## What it is
 MCP server `MCP Registry`, catalogued on PulseMCP. Search and discover MCP servers through the official MCP Registry service.

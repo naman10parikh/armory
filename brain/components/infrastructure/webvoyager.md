@@ -15,6 +15,7 @@ related: []
 tags: [browser, research]
 forks: 122
 pushed_at: "2024-03-04T03:36:39Z"
+mentions: 1
 ---
 ## What it is
 Research browser agent from Zhejiang University and HKU — uses GPT-4V interleaved screenshot + HTML observations to complete open-ended web tasks; established an early web-agent benchmark (WebVoyager).
