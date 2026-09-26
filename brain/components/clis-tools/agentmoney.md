@@ -2,7 +2,7 @@
 name: agentmoney
 type: clis-tools
 description: >
-  Use to track and cap what an agent run costs — meter token/compute spend, set budgets, and surface cost as a
+  Use to track and cap what an agent run costs: meter token/compute spend, set budgets, and surface cost as a
   first-class signal so an autonomous agent doesn't quietly burn through its limit.
 source_repo: naman10parikh/agentmoney
 source_url: https://github.com/naman10parikh/agentmoney
@@ -20,7 +20,7 @@ pushed_at: "2026-06-10T03:44:00Z"
 
 ## What it is
 A CLI for agent cost observability. It meters compute and token spend for an agent run, tracks it against a budget,
-and exposes cost as an explicit signal — the financial-rails counterpart to performance metrics. It answers "how
+and exposes cost as an explicit signal, the financial-rails counterpart to performance metrics. It answers "how
 much is this agent spending, and are we within budget?"
 
 ## When to use it

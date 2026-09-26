@@ -88,4 +88,4 @@ jobs:
         with:
           node-version: "22"
       - name: Site catalog step (node:test)
-        run: node --experimental-strip-types --test web/test/normalize.test.mjs web/test/title.test.mjs web/test/alternatives.test.mjs
+        run: node --experimental-strip-types --test web/test/normalize.test.mjs web/test/title.test.mjs web/test/alternatives.test.mjs web/test/note-body.test.mjs

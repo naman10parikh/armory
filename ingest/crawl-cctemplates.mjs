@@ -311,8 +311,7 @@ function buildBody(item, uname, desc, url) {
     `## When to use it\n${desc}\n\n` +
     `## How to install / invoke\n${installHint}\n\n` +
     `## Notes\n` +
-    `Extracted from [\`${OWNER}/${REPO}\`](${url}) — ${category} category. ` +
-    `Type: ${type}. Pending verify -> promote.`
+    `Extracted from [\`${OWNER}/${REPO}\`](${url}), ${category} category.`
   );
 }
 

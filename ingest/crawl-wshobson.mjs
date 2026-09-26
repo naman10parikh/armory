@@ -175,7 +175,7 @@ function wshobsonAgentsAdapter({ repoDir, seen }) {
             `curl -sL https://github.com/${owner}/${repo}/raw/main/${item.relPath} -o .claude/commands/${item.fileSlug}.md\n` +
             "```\n") +
         `\n## Notes\n` +
-        `Extracted from [\`${owner}/${repo}\`](${url}). Plugin: \`${item.plugin}\`. Pending verify -> promote.`,
+        `Extracted from [\`${owner}/${repo}\`](${url}). Plugin: \`${item.plugin}\`.`,
     };
   }
 
@@ -254,7 +254,7 @@ function wshobsonCommandsAdapter({ repoDir, seen }) {
         "```bash\n# add the command file to your project's .claude/commands/\n" +
         `curl -sL https://github.com/${owner}/${repo}/raw/main/${item.relPath} -o .claude/commands/${item.fileSlug}.md\n` +
         "```\n\n## Notes\n" +
-        `Extracted from [\`${owner}/${repo}\`](${url}). Category: \`${item.subdir}\`. Pending verify -> promote.`,
+        `Extracted from [\`${owner}/${repo}\`](${url}). Category: \`${item.subdir}\`.`,
     };
   }
 

@@ -204,8 +204,7 @@ export function cookbookAdapter({ repoDir, existingNames = new Set() }) {
           `Extracted from [\`${OWNER}/${REPO}\`](${sourceUrl}). ` +
           (type === "skills"
             ? "Place SKILL.md in your .claude/skills/<name>/ directory to invoke as a slash command."
-            : "Merge relevant sections into your project CLAUDE.md or .claude/rules/ to apply these harness conventions.") +
-          " Pending verify -> promote.",
+            : "Merge relevant sections into your project CLAUDE.md or .claude/rules/ to apply these harness conventions."),
       };
     },
   };

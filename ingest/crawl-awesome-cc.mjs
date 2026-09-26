@@ -173,8 +173,8 @@ export function awesomeCcAdapter({ repoDir, existingNames = new Set() }) {
         `## What it is\n${desc}\n\n` +
         `## When to use it\n${desc}\n\n` +
         `## How to install / invoke\nSee the source repo or link above.\n\n` +
-        `## Notes\nDiscovered via [\`${SOURCE_REPO}\`](https://github.com/${SOURCE_REPO}) — ` +
-        `category: ${category}. Pending verify -> promote.`;
+        `## Notes\nListed from [\`${SOURCE_REPO}\`](https://github.com/${SOURCE_REPO}), ` +
+        `under ${category}.`;
 
       return { frontmatter, body };
     },

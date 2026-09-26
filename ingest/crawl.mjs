@@ -60,7 +60,7 @@ export function githubAwesomeList({ name, type = "mcps", markdown = "", license 
         cli_compat: ["claude", "codex", "cursor", "gemini", "opencode"],
         maturity: "experimental", stars: null, eval_score: null,
         verified_at: today, related: [], tags: [name],
-      }, body: `## What it is\n${item.description}\n\n## When to use it\n${item.description}\n\n## How to install / invoke\nSee the source repo README.\n\n## Notes\nDiscovered via the ${name} awesome-list. Pending verify -> promote.` };
+      }, body: `## What it is\n${item.description}\n\n## When to use it\n${item.description}\n\n## How to install / invoke\nSee the source repo README.\n\n## Notes\nListed from the ${name} awesome-list.` };
     },
   };
 }
@@ -83,7 +83,7 @@ export function genericJsonApi({ name, type = "mcps", records = [], license = "u
         cli_compat: ["claude", "codex", "cursor", "gemini", "opencode"],
         maturity: "experimental", stars: item[pick.stars] ?? null, eval_score: null,
         verified_at: today, related: [], tags: [name],
-      }, body: `## What it is\n${desc}\n\n## When to use it\n${desc}\n\n## How to install / invoke\nSee the source for the config/command.\n\n## Notes\nDiscovered via the ${name} JSON source. Pending verify -> promote.` };
+      }, body: `## What it is\n${desc}\n\n## When to use it\n${desc}\n\n## How to install / invoke\nSee the source for the config/command.\n\n## Notes\nListed from the ${name} JSON source.` };
     },
   };
 }

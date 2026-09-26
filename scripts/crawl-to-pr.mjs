@@ -155,8 +155,8 @@ function toStub(candidate, verifiedAt) {
     `## What it is\n${desc.text}\n\n` +
     `## When to use it\n${desc.text}\n\n` +
     `## How to install / invoke\nSee the source repo README: ${frontmatter.source_url}\n\n` +
-    `## Notes\nDiscovered via the Armory freshness crawler (scripts/crawl-discover.mjs); ` +
-    `${candidate.why || "new to catalog"}${pushed ? `, pushed ${pushed}` : ""}. Pending verify -> promote.`;
+    `## Notes\nListed from Armory's freshness crawl: ` +
+    `${candidate.why || "new to the catalog"}${pushed ? `, pushed ${pushed}` : ""}.`;
   const md = toMarkdown({ frontmatter, body });
   // Self-check: the serialized name must roundtrip to the slug (same guard crawl-glama.mjs uses).
   const back = parseFrontmatter(md);

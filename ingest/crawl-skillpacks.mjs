@@ -145,7 +145,7 @@ function skillToComponent({ file, owner, repo, relPath, seen }) {
       `curl -sL https://github.com/${owner}/${repo}/raw/main/${relPath} -o .claude/skills/${dirName}/SKILL.md\n` +
       "```\n\n" +
       `## Notes\n` +
-      `Extracted from \`${owner}/${repo}\` at \`${relPath}\`. Pending verify -> promote.`,
+      `Extracted from \`${owner}/${repo}\` at \`${relPath}\`.`,
   };
 }
 

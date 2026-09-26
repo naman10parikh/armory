@@ -401,7 +401,7 @@ function browserAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee the source repo README: https://github.com/${raw.source_repo}\n\n` +
-          `## Notes\nCurated by the Component browser-tools adapter. Pending verify -> promote.`,
+          `## Notes\nListed from Armory's browser-tools list.`,
       };
     },
   };

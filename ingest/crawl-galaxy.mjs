@@ -154,8 +154,7 @@ export function galaxyAdapter({ repoDir, existingNames = new Set() }) {
         `## What it is\n${desc}\n\n` +
         `## When to use it\n${desc}\n\n` +
         `## How to install / invoke\nSee the source repo README.\n\n` +
-        `## Notes\nDiscovered via [\`${SOURCE_REPO}\`](https://github.com/${SOURCE_REPO}). ` +
-        `Pending verify -> promote.`;
+        `## Notes\nListed from [\`${SOURCE_REPO}\`](https://github.com/${SOURCE_REPO}).`;
 
       return { frontmatter, body };
     },
