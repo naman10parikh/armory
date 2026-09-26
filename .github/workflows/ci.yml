@@ -52,6 +52,11 @@ jobs:
       - name: Catalog size (warn at 80 MB, fail at 95 MB)
         run: node scripts/catalog-size.mjs
 
+      # The design check: no em dash in text a person reads on the site (the chairman's checklist, item 45),
+      # meaning JSX text and string literals under web/src. Comments, patterns and a lone "no value" dash pass.
+      - name: Site design check (no em dash in text a person reads)
+        run: node web/scripts/design-check.mjs && node --test web/test/design-check.test.mjs
+
       # Armory's own server: typecheck/build + vitest.
       - name: armory-mcp build + tests
         working-directory: armory-mcp

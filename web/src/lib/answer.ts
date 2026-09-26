@@ -28,10 +28,10 @@ function oneLine(text: string, max: number): string {
   return `${(at > max / 2 ? cut.slice(0, at) : cut).replace(/[\s.,;:–—-]+$/, "")}…`;
 }
 
-// Name — Score · description, then the two copyable strings on their own lines so no mail client
+// Name (Score) · description, then the two copyable strings on their own lines so no mail client
 // wraps a command or a URL mid-token.
 function emailPick(item: AskItem, i: number): string {
-  const head = `${i + 1}. ${item.title || item.name} — ${score(item.universal)}`;
+  const head = `${i + 1}. ${item.title || item.name} (${score(item.universal)})`;
   const lines = [item.desc ? `${head} · ${oneLine(item.desc, 110)}` : head];
   // The command only where `armory install` places something; otherwise say so, and the source follows.
   lines.push(item.installable ? `   ${installCommand(item.name, "claude")}` : "   No one-command install. Set it up from the source:");

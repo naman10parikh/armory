@@ -170,12 +170,12 @@ async function interpretWithGemini(q: string, key: string): Promise<Interpretati
   try {
     const prompt =
       `You are the query interpreter for Armory, a ranked index of open-source AI-agent building blocks.\n` +
-      `Extract a catalog search from the user's request. Reply with STRICT JSON only — no prose, no markdown fences — of this shape:\n` +
+      `Extract a catalog search from the user's request. Reply with STRICT JSON only, with no prose and no markdown fences, in this shape:\n` +
       `{"keywords": string[], "component"?: string, "domain"?: string, "vertical"?: string, "summary"?: string}\n` +
       `- keywords: 2-6 lowercase search terms drawn from the request (the tools/topics to match).\n` +
-      `- component (optional): one of ${COMPONENT_TYPES} — only if the user clearly wants that kind of building block.\n` +
-      `- vertical (optional): one of ${VERTICALS} — only if the user names an industry/sector.\n` +
-      `- domain (optional): a technical area such as payments, browser, database, search, comms, auth, front-end, back-end, devops, observability, ai-agents, github-vcs — only if obvious.\n` +
+      `- component (optional): one of ${COMPONENT_TYPES}, only if the user clearly wants that kind of building block.\n` +
+      `- vertical (optional): one of ${VERTICALS}, only if the user names an industry/sector.\n` +
+      `- domain (optional): a technical area such as payments, browser, database, search, comms, auth, front-end, back-end, devops, observability, ai-agents, github-vcs. Only if obvious.\n` +
       `- summary (optional): one plain-English sentence answering the user.\n` +
       `User request: ${JSON.stringify(q)}`;
     const res = await fetch(
@@ -209,7 +209,7 @@ async function interpretWithGemini(q: string, key: string): Promise<Interpretati
 
 // A generated one-liner for when Gemini gave facets but no summary: "Top N <component> for <intent>".
 function generatedSummary(n: number, i: Interpretation): string {
-  if (n === 0) return "No close matches in the index yet — try broader terms.";
+  if (n === 0) return "No close matches in the index yet. Try broader terms.";
   const noun = i.component ? i.component : "tools";
   const intent = i.vertical || i.domain || i.keywords.join(" ");
   return `Top ${n} ${noun}${intent ? ` for ${intent}` : ""}.`;
@@ -234,7 +234,7 @@ export async function askCatalog(q: string, limit = 12): Promise<AskResult> {
   if (!query) {
     return {
       ok: false, reason: "empty", interpretation: { keywords: [] },
-      summary: 'Ask for any tool — e.g. "finance MCPs that help with Excel modeling".', items: [],
+      summary: 'Ask for any tool, e.g. "finance MCPs that help with Excel modeling".', items: [],
     };
   }
 

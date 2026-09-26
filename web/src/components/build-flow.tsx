@@ -9,17 +9,17 @@ import { ArrowRightIcon, GraphIcon, SparkIcon, TypeIcon } from "./icons";
 const STAGES = [
   {
     label: "brain/",
-    sub: "markdown vault — one file per component, with frontmatter + synapses",
+    sub: "markdown vault: one file per component, with frontmatter + synapses",
     icon: <TypeIcon type="memory" size={18} className="text-accent" />,
   },
   {
     label: "catalog.json",
-    sub: "one generated index — verified, scored, deduped",
+    sub: "one generated index: verified, scored, deduped",
     icon: <SparkIcon size={18} className="text-accent" />,
   },
   {
     label: "site · MCP · CLI",
-    sub: "three surfaces, one source of truth — read by humans and agents",
+    sub: "three surfaces, one source of truth, read by humans and agents",
     icon: <GraphIcon size={18} className="text-accent" />,
   },
 ];

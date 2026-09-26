@@ -272,7 +272,7 @@ export function buildSnippet(component: Component, harness: Harness, run?: RunCo
   return {
     command,
     file: layout.base,
-    verb: "installs via its own command — see source",
+    verb: "installs via its own command, see the source",
     config: component.source_url
       ? `# no auto-install for ${type} components.\n# follow the setup at:\n${component.source_url}`
       : null,
