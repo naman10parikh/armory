@@ -3,8 +3,8 @@ name: kyanitelabs-video
 type: mcps
 description: >
   Video editing MCP server with FFmpeg, planning, and Hyperframes tools for AI agents.
-source_repo: kyanitelabs/mcp-video
-source_url: https://github.com/kyanitelabs/mcp-video
+source_repo: KyaniteLabs/kinocut
+source_url: https://github.com/KyaniteLabs/kinocut
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
