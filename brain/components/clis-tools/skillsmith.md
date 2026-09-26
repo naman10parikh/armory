@@ -2,7 +2,7 @@
 name: skillsmith
 type: clis-tools
 description: >
-  Use to author, test, and share agent skills from the command line — scaffold a SKILL.md, validate its structure,
+  Use to author, test, and share agent skills from the command line: scaffold a SKILL.md, validate its structure,
   and package it for reuse, turning a one-off procedure into a portable capability.
 source_repo: naman10parikh/skillsmith
 source_url: https://github.com/naman10parikh/skillsmith
@@ -24,7 +24,7 @@ validates that a skill is well-formed, and packages skills for sharing across ha
 counterpart to the in-agent skill-creator.
 
 ## When to use it
-When you want to create or maintain skills outside an agent session — building a skill library, validating a batch
+When you want to create or maintain skills outside an agent session: building a skill library, validating a batch
 of skills, or sharing skills between projects. The trigger is "make this a proper, portable skill."
 
 ## How to install / invoke

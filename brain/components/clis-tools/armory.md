@@ -2,7 +2,7 @@
 name: armory
 type: clis-tools
 description: >
-  Armory — a ranked catalog of 64,000+ open-source agent-harness components with a CLI (`armory search|install|init|rank`), an MCP server and a REST API; every row carries one 0–100 score from public signals.
+  Armory: a ranked catalog of 64,000+ open-source agent-harness components with a CLI (`armory search|install|init|rank`), an MCP server and a REST API; every row carries one 0–100 score from public signals.
 source_repo: naman10parikh/armory
 source_url: https://github.com/naman10parikh/armory
 license: MIT
@@ -18,7 +18,7 @@ forks: 1
 pushed_at: "2026-09-26T17:20:13Z"
 ---
 ## What it is
-Armory — where agents gear up. The agent-native registry of 18,435+ harness components (MCPs, skills, hooks, sub-agents, rules, CLIs, evals, …). For agents, by agents, of agents.
+Armory: where agents gear up. The agent-native registry of 18,435+ harness components (MCPs, skills, hooks, sub-agents, rules, CLIs, evals, …). For agents, by agents, of agents.
 
 ## When to use it
 See the source: https://github.com/naman10parikh/armory
