@@ -46,7 +46,13 @@ export interface ShelfRule {
   not?: RegExp;
 }
 export const SHELF_FIT: Record<string, ShelfRule>;
-export function fitsShelf(row: { name?: string; component?: string | null; description?: string | null }): boolean;
+/** Rows listed on the shelf of their job, not their type's: "type/name" to component. The type, and so the address, stays. */
+export const SHELF_MOVES: Record<string, string>;
+/** The site's shelves (web/src/data/stack.json slugs) and the components each lists. */
+export const SHELVES: Record<string, string[]>;
+/** The components a --component value lists: a shelf name lists its shelf, a component key only its own rows. */
+export function componentsOf(name: string): string[];
+export function fitsShelf(row: { name?: string; type?: string | null; component?: string | null; description?: string | null }): boolean;
 export function rows(): unknown[];
 export function leaderboard(query?: RankQuery): RankResult;
 export function facets(): Facets;

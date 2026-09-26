@@ -125,7 +125,7 @@ export interface CanonStats {
   members: { component: string; count: number }[];
   /**
    * Set when the shelf lists only the rows made for its job (lib/rank.mjs SHELF_FIT): the job, how many
-   * rows are filed under its components, how many of those it leaves out, and the /browse view of them all.
+   * rows are filed under its components, how many of those it leaves out, and a /browse view that has them.
    */
   fit: { purpose: string; filed: number; leftOut: number; browse: string } | null;
 }
@@ -155,7 +155,9 @@ export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
 
   const purpose = (CANON[slug] ?? []).map(fitPurpose).find((p) => p != null) ?? null;
   const filed = purpose ? filedFor(slug) : [];
-  const types = [...new Set(filed.map((r) => r.type))].join(",");
+  // Browse the types of the rows left out. A row moved onto the shelf from another type always fits, so its
+  // type (all of MCP Servers, for one moved row) never widens the link (lib/rank.mjs SHELF_MOVES).
+  const types = [...new Set(filed.filter((r) => !r.fits).map((r) => r.type))].join(",");
 
   return {
     slug,

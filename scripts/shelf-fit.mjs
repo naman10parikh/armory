@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // shelf-fit.mjs: what the shelf-fit gate (lib/rank.mjs SHELF_FIT, docs/SHELF-FIT-PROPOSAL.md) does to the
 // Sandbox, Tools and Dispatch shelves: rows and ranked rows before and after, the first rows that fit, and
-// whether each pick does. A report only: it changes nothing. The site, /api/rank, the CLI and the MCP server
+// whether each pick does. Rows listed on a shelf by lib/rank.mjs SHELF_MOVES print "moved from <type>".
+// A report only: it changes nothing. The site, /api/rank, the CLI and the MCP server
 // all list through the same `fits` flag this prints.
 //
 //   node scripts/shelf-fit.mjs          # counts, the first 50 rows that fit, and the picks
@@ -9,7 +10,7 @@
 import { readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { SHELF_FIT, computeRows, orderByScore } from "../lib/rank.mjs";
+import { SHELF_FIT, SHELF_MOVES, computeRows, orderByScore } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const cat = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf8"));
@@ -27,7 +28,7 @@ for (const entry of stack.components.filter((c) => c.aggregates.some((a) => SHEL
   console.log(`\n${entry.label}: lists only rows made to ${rule.purpose}`);
   console.log(`  rows ${filed.length} -> ${listed.length} · ranked ${ranked(filed)} -> ${ranked(listed)}`);
   listed.slice(0, N).forEach((r, i) => {
-    const how = rule.allow.includes(r.name) ? "allowed " : "";
+    const how = SHELF_MOVES[`${r.type}/${r.name}`] ? `moved from ${r.type} ` : rule.allow.includes(r.name) ? "allowed " : "";
     console.log(`  ${String(i + 1).padStart(3)} ${String(r.scores.universal ?? "-").padStart(5)} ${how}${r.name} | ${line(full.get(`${r.type}/${r.name}`) ?? "")}`);
   });
   const picks = entry.picks.map((p) => p.armoryName).filter(Boolean);

@@ -6,7 +6,7 @@
 import { readCatalogText } from "@/lib/catalog-file";
 import { NextResponse } from "next/server";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied to the site root by prebuild)
-import { computeRows } from "../../../../lib/rank.mjs";
+import { computeRows, componentsOf } from "../../../../lib/rank.mjs";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -64,8 +64,10 @@ export function GET(req: Request): NextResponse {
   const qTerms = [...new Set(tokenize(q))];
   if (qTerms.length === 0) return NextResponse.json({ items: [], total: 0 });
 
+  // A shelf name ("tools") lists the whole shelf, a component key ("cli") its own rows, as in /api/rank.
+  const members: string[] | null = component ? componentsOf(component) : null;
   const scored = corpus()
-    .filter(({ row }) => (!component || row.component === component) && (!domain || row.domain === domain))
+    .filter(({ row }) => (!members || members.includes(row.component)) && (!domain || row.domain === domain))
     .map((h) => ({ h, score: keywordScore(h.raw, qTerms) }))
     .filter((x) => x.score > 0)
     .sort(

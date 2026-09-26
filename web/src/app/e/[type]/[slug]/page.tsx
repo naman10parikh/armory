@@ -21,7 +21,7 @@ import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
 import { CANON, filedFor, rowsFor, stackFor } from "@/lib/canon";
 import { alternativesFor } from "@/lib/alternatives";
 import { contributorOf, githubReadText, rankedScoreTexts, scoreText, shortDate } from "@/lib/format";
-import { boardMeta, findRow } from "@/lib/rows";
+import { boardMeta, findRow, isMoved } from "@/lib/rows";
 import { detailHref } from "@/lib/row-view";
 import { checkedRun } from "@/lib/run-check";
 
@@ -334,6 +334,17 @@ export default async function ComponentDetailPage({
               <MetaRow label="Component">
                 <TypePill type={component.type} />
               </MetaRow>
+              {/* Filed under one type, listed on the shelf of the job it does (lib/rank.mjs SHELF_MOVES). */}
+              {onShelf && shelf && isMoved(component.type, component.name) && (
+                <MetaRow label="Listed on">
+                  <Link
+                    href={`/c/${shelf}`}
+                    className="cursor-pointer text-[12px] font-medium text-accent-hover underline underline-offset-4"
+                  >
+                    {stackFor(shelf)?.label ?? shelf}
+                  </Link>
+                </MetaRow>
+              )}
               <MetaRow label="Domain">
                 <span className="text-[12px] text-ink-body">{domain ?? "—"}</span>
               </MetaRow>

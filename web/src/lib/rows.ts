@@ -6,7 +6,7 @@ import "server-only";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
-import { SHELF_FIT, computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
+import { SHELF_FIT, SHELF_MOVES, computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
 import type { SignalValues } from "@/components/signals-row";
 import { readCatalogText } from "./catalog-file";
 import { contributorOf, isOurs, tiedRank } from "./format";
@@ -364,6 +364,11 @@ export interface ShelfFit {
 /** The job a component's rows must do to be listed under it, or null when it lists every row filed there. */
 export function fitPurpose(component: string): string | null {
   return (SHELF_FIT as Record<string, { purpose: string } | undefined>)[component]?.purpose ?? null;
+}
+
+/** True when lib/rank.mjs SHELF_MOVES lists the row on another shelf than its type's, which its page then names. */
+export function isMoved(type: string, name: string): boolean {
+  return (SHELF_MOVES as Record<string, string | undefined>)[`${type}/${name}`] != null;
 }
 
 /** A leaderboard page: the engine filters and sorts (so it matches GET /api/rank), the board adds dates. */

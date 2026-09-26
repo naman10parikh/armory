@@ -106,14 +106,18 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
               <data value={String(stats.fit.filed)} className="tabular-nums">
                 {stats.fit.filed.toLocaleString("en-US")}
               </data>{" "}
-              filed under {entry.label}.{" "}
+              filed under {entry.label}. The other{" "}
+              <data value={String(stats.fit.leftOut)} className="tabular-nums">
+                {stats.fit.leftOut.toLocaleString("en-US")}
+              </data>{" "}
+              are in{" "}
               <Link
                 href={stats.fit.browse}
                 className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
               >
                 Browse
-              </Link>{" "}
-              lists all of them.
+              </Link>
+              .
             </p>
           )}
         </ContentWidth>

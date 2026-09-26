@@ -36,6 +36,13 @@ interface EngineRow {
   primary: { key: string; value: number | null; pct: number; label: string } | null;
 }
 
+// The components a --component value lists: a shelf name ("tools") lists the whole shelf, a component key
+// ("cli") only its own rows. Same answer as `armory rank`, the MCP tools and /api/search.
+async function componentFilter(name: string | undefined): Promise<string[] | null> {
+  if (!name) return null;
+  return ((await import(engineUrl())) as typeof import("../../lib/rank.mjs")).componentsOf(name);
+}
+
 async function computeEngineRows(components: Component[]): Promise<EngineRow[]> {
   // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the real
   // module type with the missing export so this stays type-safe without touching the engine or its types.
@@ -65,7 +72,7 @@ program
   .command("search")
   .description("Keyword-search components by name + description + tags, enriched with the Universal score; sliceable by component + domain.")
   .argument("<query>", "search terms")
-  .option("-c, --component <type>", "filter to one component: mcp|cli|skill|plugin|hook|subagent|rules|tool|...")
+  .option("-c, --component <name>", "filter to one shelf (tools|sandbox|dispatch|skills|mcps|memory|...) or component (cli|infra|workflow|mcp|skill|hook|subagent|rules|...)")
   .option("-d, --domain <domain>", "filter to one domain: front-end|back-end|browser|payments|ai-agents|...")
   .option("-t, --type <type>", "alias for --component (back-compat)")
   .option("-n, --limit <n>", "max results", "10")
@@ -75,11 +82,12 @@ program
     const qTerms = [...new Set(tokenize(query))];
     const components = loadCatalog().components;
     const rows = await computeEngineRows(components);
+    const members = await componentFilter(component);
     const scored = components
       .map((c, i) => ({ row: rows[i], score: keywordScore(c, qTerms) }))
       .filter(
         ({ row, score }) =>
-          score > 0 && (!component || row.component === component) && (!opts.domain || row.domain === opts.domain),
+          score > 0 && (!members || members.includes(row.component)) && (!opts.domain || row.domain === opts.domain),
       )
       .sort(
         (a, b) =>
@@ -276,7 +284,7 @@ async function rankEngine(): Promise<{ leaderboard: (o: object) => RankResult }>
 program
   .command("rank")
   .description("Rank open-source building blocks by Universal score (or another axis), sliceable by component + domain.")
-  .option("-c, --component <type>", "filter to one component: mcp|cli|skill|plugin|hook|subagent|rules|tool|...")
+  .option("-c, --component <name>", "filter to one shelf (tools|sandbox|dispatch|skills|mcps|memory|...) or component (cli|infra|workflow|mcp|skill|hook|subagent|rules|...)")
   .option("-d, --domain <domain>", "filter to one domain: front-end|back-end|browser|payments|ai-agents|...")
   .option("-s, --sort <axis>", "universal|popular|tested|practitioner|stars|name", "universal")
   .option("--asc", "ascending instead of descending", false)
