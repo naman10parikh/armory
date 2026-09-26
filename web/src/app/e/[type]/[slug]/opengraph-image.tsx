@@ -19,7 +19,8 @@ export default async function Image({ params }: { params: { type: string; slug: 
     kicker: CATEGORY_LABEL[type as ComponentType] ?? type,
     footer: row?.contributedBy ? `Contributed by ${row.contributedBy}` : undefined,
     children: (
-      <>
+      // One column: Satori lays a fragment out as a row, which stacked these side by side.
+      <div style={{ display: "flex", flexDirection: "column", flexGrow: 1 }}>
         <div
           style={{ display: "flex", fontSize: 56, fontWeight: 600, lineHeight: 1.1, letterSpacing: -1, wordBreak: "break-all" }}
         >
@@ -41,7 +42,7 @@ export default async function Image({ params }: { params: { type: string; slug: 
             {evidence.length ? evidence.join(" · ") : "No signals yet"}
           </div>
         </div>
-      </>
+      </div>
     ),
   });
 }

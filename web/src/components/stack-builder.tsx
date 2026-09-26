@@ -10,6 +10,7 @@
 */
 import { useCallback, useState } from "react";
 import { installCommand } from "@/lib/install-targets";
+import { CommandText } from "./command-text";
 import { CheckIcon, CopyIcon } from "./icons";
 import { useHarness } from "./install-snippet";
 
@@ -94,9 +95,22 @@ export function StackCommand({ names }: { names: readonly string[] }) {
         </span>
         <CopyButton copied={copied} onCopy={copy} label="Copy the command" />
       </div>
-      {/* Wraps on a phone rather than scrolling a line out of view (CP143 upgrade 6). */}
-      <pre className="whitespace-pre-wrap break-words font-mono text-[12px] leading-[1.6] text-ink-body [font-variant-ligatures:none]">
-        <code>{text}</code>
+      {/* One line per install; on a phone a line wraps at its spaces, never out of view and
+          never between "--" and "cli" (CP143 upgrade 6). Copy takes `text` itself. */}
+      <pre className="whitespace-normal break-words font-mono text-[12px] leading-[1.6] text-ink-body [font-variant-ligatures:none]">
+        <code>
+          {lines.map((line, i) => (
+            <span key={line} className="block">
+              <CommandText command={line} />
+              {i < lines.length - 1 && (
+                <>
+                  {" "}
+                  <span className="whitespace-nowrap">&amp;&amp; \</span>
+                </>
+              )}
+            </span>
+          ))}
+        </code>
       </pre>
     </div>
   );

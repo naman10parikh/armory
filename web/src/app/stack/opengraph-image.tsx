@@ -24,7 +24,8 @@ export default async function Image() {
     kicker: "Stack",
     footer: `Picks as of ${shortDate(STACK_AS_OF)}`,
     children: (
-      <>
+      // One column: Satori lays a fragment out as a row, which stacked these side by side.
+      <div style={{ display: "flex", flexDirection: "column", flexGrow: 1 }}>
         <div style={{ display: "flex", fontSize: 52, fontWeight: 600, lineHeight: 1.1, letterSpacing: -1 }}>
           One pick per harness component
         </div>
@@ -32,7 +33,7 @@ export default async function Image() {
           {column(slots.slice(0, half))}
           {column(slots.slice(half))}
         </div>
-      </>
+      </div>
     ),
   });
 }

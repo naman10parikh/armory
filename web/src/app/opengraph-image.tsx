@@ -15,7 +15,8 @@ export default async function Image() {
     kicker: "Top ranked",
     footer: "Refreshed nightly",
     children: (
-      <>
+      // One column: Satori lays a fragment out as a row, which stacked these side by side.
+      <div style={{ display: "flex", flexDirection: "column", flexGrow: 1 }}>
         <div style={{ display: "flex", fontSize: 58, fontWeight: 600, lineHeight: 1.1, letterSpacing: -1 }}>
           {`${int(meta.total)} agent components, ranked on public evidence`}
         </div>
@@ -31,7 +32,7 @@ export default async function Image() {
             </div>
           ))}
         </div>
-      </>
+      </div>
     ),
   });
 }
