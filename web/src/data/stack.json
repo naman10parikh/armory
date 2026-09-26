@@ -192,7 +192,7 @@
         {
           "name": "pocketflow",
           "why": "100-line graph framework; nodes and edges route work between agents",
-          "reason": "Picked as a library you drop into your own code: 100 lines with no dependencies. Above it, n8n is a platform you run, LangGraph, AutoGen, CrewAI, the OpenAI Agents SDK and Mastra are much larger frameworks, and ruflo, Orca and Symphony run coding agents for you.",
+          "reason": "Picked as a library you drop into your own code: 100 lines with no dependencies. Above it, n8n and Paperclip are platforms you run, LangGraph, AutoGen, CrewAI, the OpenAI Agents SDK and Mastra are much larger frameworks, and ruflo, Orca, Symphony and Auto-Claude run coding agents for you.",
           "armoryName": "pocketflow",
           "url": "https://github.com/The-Pocket/PocketFlow"
         },

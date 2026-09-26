@@ -187,6 +187,18 @@ test("agent frameworks the crawl filed as command-line tools list on Dispatch, b
   assert.equal(dispatch.total, dispatch.items.length, "the whole shelf fits under the limit, so a missing row is not cut off");
 });
 
+test("orchestrators whose READMEs route work between agents list on Dispatch: Paperclip, Auto-Claude and agentswarm", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  const listed = new Set(rankRows(rows, { component: "dispatch", limit: 1000 }).items.map((i) => `${i.type}/${i.name}`));
+  // Filed as command-line tools and left on no shelf, because their one-line descriptions carry none of the
+  // gate's words (CP138 PR G).
+  for (const key of ["clis-tools/paperclipai-paperclip", "clis-tools/auto-claude", "clis-tools/agentswarm"]) {
+    assert.ok(listed.has(key), `${key} is listed on Dispatch`);
+  }
+});
+
 test("SHELVES names the same shelves and components as web/src/data/stack.json", () => {
   const stack = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8"));
   assert.deepEqual(SHELVES, Object.fromEntries(stack.components.map((c) => [c.slug, c.aggregates])));
