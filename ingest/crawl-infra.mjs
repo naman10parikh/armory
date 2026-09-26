@@ -164,7 +164,7 @@ const RECORDS = [
     title: "Morph Cloud",
     url: "https://morph.so",
     repo: "",
-    description: "Hypervisor-level snapshotting cloud for agent inference — fork and snapshot VM state for fast agent branching.",
+    description: "Hypervisor-level snapshotting cloud for agent inference: fork and snapshot VM state for fast agent branching.",
     license: "unknown",
     shortTag: "agent-compute",
   },

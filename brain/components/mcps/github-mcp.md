@@ -2,8 +2,8 @@
 name: github-mcp
 type: mcps
 description: >
-  Use when an agent needs to operate GitHub natively — create issues and PRs, read and search repositories, and
-  inspect commits — instead of shelling out to ad-hoc git commands.
+  Use when an agent needs to operate GitHub natively (create issues and PRs, read and search repositories, and
+  inspect commits) instead of shelling out to ad-hoc git commands.
 source_repo: github/github-mcp-server
 source_url: https://github.com/github/github-mcp-server
 license: MIT

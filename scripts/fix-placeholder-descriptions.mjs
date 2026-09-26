@@ -30,10 +30,10 @@ const HAND = {
   "cli-anything": "Generates an agent-native CLI for any piece of software; CLI-Hub collects them.",
   opentelemetry: "OpenTelemetry JavaScript SDK — traces, metrics and logs for Node and the browser.",
   "printing-press": "Finds the CLI hidden inside any API and generates it.",
-  "stripe-link-cli": "Lets an agent pay with Stripe Link on your behalf — you approve, credentials stay hidden.",
+  "stripe-link-cli": "Lets an agent pay with Stripe Link on your behalf: you approve, credentials stay hidden.",
   wrangler: "Wrangler — the CLI for Cloudflare Workers.",
   resend: "Resend's official Node.js SDK — transactional email from code.",
-  "coinbase-agentkit": "Coinbase AgentKit — gives an agent an onchain wallet and the actions to use it.",
+  "coinbase-agentkit": "Coinbase AgentKit: gives an agent an onchain wallet and the actions to use it.",
   arcade: "Arcade — MCP server framework and tool library with managed auth for agent tools.",
 };
 // Rows whose URL pointed at a parent monorepo and borrowed its stars. `playwright-cli` has its own repo.

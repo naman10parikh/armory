@@ -2,7 +2,7 @@
 name: pydantic-logfire
 type: observability
 description: >
-  Logfire by Pydantic — OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.
+  Logfire by Pydantic: OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.
 source_repo: pydantic/logfire
 source_url: https://github.com/pydantic/logfire
 license: MIT
@@ -17,7 +17,7 @@ forks: 283
 pushed_at: "2026-09-01T17:05:10Z"
 ---
 ## What it is
-Logfire by Pydantic — OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.
+Logfire by Pydantic: OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.
 
 ## When to use it
 Use Pydantic Logfire when you need LLM/agent observability, tracing, or monitoring in your pipeline.

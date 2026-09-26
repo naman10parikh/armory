@@ -2,7 +2,7 @@
 name: literal-ai
 type: observability
 description: >
-  Literal AI is an observability and evaluation platform for conversational AI — captures multi-step threads, scores responses, and integrates with Chainlit.
+  Literal AI is an observability and evaluation platform for conversational AI. It captures multi-step threads, scores responses, and integrates with Chainlit.
 source_repo: 
 source_url: https://literalai.com
 license: commercial
@@ -15,7 +15,7 @@ related: []
 tags: [observability, tracing, evals]
 ---
 ## What it is
-Literal AI is an observability and evaluation platform for conversational AI — captures multi-step threads, scores responses, and integrates with Chainlit.
+Literal AI is an observability and evaluation platform for conversational AI. It captures multi-step threads, scores responses, and integrates with Chainlit.
 
 ## When to use it
 Use Literal AI when you need LLM/agent observability, tracing, or monitoring in your pipeline.

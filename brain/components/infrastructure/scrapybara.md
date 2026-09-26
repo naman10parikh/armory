@@ -2,7 +2,7 @@
 name: scrapybara
 type: infrastructure
 description: >
-  Scrapybara cloud computer-use environment — provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.
+  Scrapybara cloud computer-use environment. It provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.
 source_repo: scrapybara/scrapybara-py
 source_url: https://github.com/scrapybara/scrapybara-py
 license: MIT
@@ -15,10 +15,10 @@ related: []
 tags: [browser, scrapybara]
 ---
 ## What it is
-Scrapybara cloud computer-use environment — provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.
+Scrapybara cloud computer-use environment. It provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.
 
 ## When to use it
-Scrapybara cloud computer-use environment — provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.
+Scrapybara cloud computer-use environment. It provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.
 
 ## How to install / invoke
 See the source repo README: https://github.com/scrapybara/scrapybara-py

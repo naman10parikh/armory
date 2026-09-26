@@ -2,8 +2,8 @@
 name: mcp-tunnels-cloudflared
 type: infrastructure
 description: >
-  Use to let a hosted agent reach a private-data MCP server behind your firewall — an outbound tunnel plus a proxy,
-  with per-server OAuth — so internal tools are usable without exposing them to the public internet.
+  Use to let a hosted agent reach a private-data MCP server behind your firewall (an outbound tunnel plus a proxy,
+  with per-server OAuth) so internal tools are usable without exposing them to the public internet.
 source_repo: cloudflare/cloudflared
 source_url: https://github.com/cloudflare/cloudflared
 license: Apache-2.0
@@ -32,5 +32,5 @@ Run the tunnel agent to establish an outbound connection on its dedicated port, 
 setup, and set the appropriate MCP-client beta header so the agent reaches the tunneled servers with per-server OAuth.
 
 ## Notes
-Outbound-only tunnels avoid opening inbound firewall ports — the security win. Scope each MCP server's OAuth
+Outbound-only tunnels avoid opening inbound firewall ports: the security win. Scope each MCP server's OAuth
 narrowly. Pair with a hosted-control runtime when the data plane stays on your infra.

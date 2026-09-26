@@ -2,7 +2,7 @@
 name: mem0-mcp
 type: mcps
 description: >
-  Use to give an agent long-term, cross-session memory backed by a managed service — store and semantically recall
+  Use to give an agent long-term, cross-session memory backed by a managed service: store and semantically recall
   facts about a user or project that should persist across days and machines.
 source_repo: mem0ai/mem0
 source_url: https://github.com/mem0ai/mem0
@@ -34,4 +34,4 @@ search-memories tool.
 
 ## Notes
 One layer in a memory stack: pair a local entity graph (immediate persistence) with a managed semantic store
-(long-term recall). Be deliberate about what you persist — store durable facts, not transient chatter.
+(long-term recall). Be deliberate about what you persist: store durable facts, not transient chatter.

@@ -2,7 +2,7 @@
 name: phospho
 type: observability
 description: >
-  Phospho is a text analytics and evaluation platform for LLM apps — logs sessions, runs clustering, detects failures, and surfaces actionable insights.
+  Phospho is a text analytics and evaluation platform for LLM apps. It logs sessions, runs clustering, detects failures, and surfaces actionable insights.
 source_repo: phospho-app/phospho
 source_url: https://github.com/phospho-app/phospho
 license: Apache-2.0
@@ -17,7 +17,7 @@ forks: 35
 pushed_at: "2025-07-17T12:47:12Z"
 ---
 ## What it is
-Phospho is a text analytics and evaluation platform for LLM apps — logs sessions, runs clustering, detects failures, and surfaces actionable insights.
+Phospho is a text analytics and evaluation platform for LLM apps. It logs sessions, runs clustering, detects failures, and surfaces actionable insights.
 
 ## When to use it
 Use Phospho when you need LLM/agent observability, tracing, or monitoring in your pipeline.

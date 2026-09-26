@@ -2,7 +2,7 @@
 name: slack-mcp
 type: mcps
 description: >
-  Use to let an agent participate in Slack — post messages, reply in threads, read channel history, and react — so
+  Use to let an agent participate in Slack (post messages, reply in threads, read channel history, and react) so
   it can report status or take instructions in a team's chat.
 source_repo: modelcontextprotocol/servers-archived
 source_url: https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack
@@ -30,5 +30,5 @@ Add the Slack MCP server to your MCP config with a bot token and the channels it
 tools for output and the history tool to read context.
 
 ## Notes
-Scope the bot to specific channels. Keep agent posts concise and lead with what matters — a chat channel is a
+Scope the bot to specific channels. Keep agent posts concise and lead with what matters: a chat channel is a
 human-facing surface, so apply the same status-update discipline you'd use for any human report.

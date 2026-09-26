@@ -2,7 +2,7 @@
 name: lunary
 type: observability
 description: >
-  Open-source LLM observability and prompt management platform — tracks conversations, errors, costs, and user feedback for production AI applications.
+  Open-source LLM observability and prompt management platform. It tracks conversations, errors, costs, and user feedback for production AI applications.
 source_repo: lunary-ai/lunary
 source_url: https://github.com/lunary-ai/lunary
 license: Apache-2.0
@@ -15,7 +15,7 @@ related: []
 tags: [observability, logging, evals]
 ---
 ## What it is
-Open-source LLM observability and prompt management platform — tracks conversations, errors, costs, and user feedback for production AI applications.
+Open-source LLM observability and prompt management platform. It tracks conversations, errors, costs, and user feedback for production AI applications.
 
 ## When to use it
 Use Lunary when you need LLM/agent observability, tracing, or monitoring in your pipeline.

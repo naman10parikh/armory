@@ -2,7 +2,7 @@
 name: notte
 type: infrastructure
 description: >
-  Notte open-source web agent environment — converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.
+  Notte open-source web agent environment. It converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.
 source_repo: nottelabs/notte
 source_url: https://github.com/nottelabs/notte
 license: Apache-2.0
@@ -17,10 +17,10 @@ forks: 181
 pushed_at: "2026-09-26T05:22:29Z"
 ---
 ## What it is
-Notte open-source web agent environment — converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.
+Notte open-source web agent environment. It converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.
 
 ## When to use it
-Notte open-source web agent environment — converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.
+Notte open-source web agent environment. It converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.
 
 ## How to install / invoke
 See the source repo README: https://github.com/nottelabs/notte

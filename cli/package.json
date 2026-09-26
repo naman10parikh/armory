@@ -1,7 +1,7 @@
 {
   "name": "@namanparikh/armory",
   "version": "0.1.0",
-  "description": "Armory — where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
+  "description": "Armory: where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
   "type": "module",
   "bin": {
     "armory": "dist/index.js"

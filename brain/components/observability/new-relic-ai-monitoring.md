@@ -2,7 +2,7 @@
 name: new-relic-ai-monitoring
 type: observability
 description: >
-  New Relic AI Monitoring instruments LLM calls end-to-end — traces model invocations, measures token costs, and surfaces anomalies via the New Relic platform.
+  New Relic AI Monitoring instruments LLM calls end-to-end. It traces model invocations, measures token costs, and surfaces anomalies via the New Relic platform.
 source_repo: 
 source_url: https://docs.newrelic.com/docs/ai-monitoring/intro-to-ai-monitoring/
 license: commercial
@@ -15,7 +15,7 @@ related: []
 tags: [observability, managed, apm]
 ---
 ## What it is
-New Relic AI Monitoring instruments LLM calls end-to-end — traces model invocations, measures token costs, and surfaces anomalies via the New Relic platform.
+New Relic AI Monitoring instruments LLM calls end-to-end. It traces model invocations, measures token costs, and surfaces anomalies via the New Relic platform.
 
 ## When to use it
 Use New Relic AI Monitoring when you need LLM/agent observability, tracing, or monitoring in your pipeline.

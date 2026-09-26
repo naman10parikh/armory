@@ -2,7 +2,7 @@
 name: crawl4ai
 type: clis-tools
 description: >
-  Open-source async web crawling library optimised for LLM data extraction — Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
+  Open-source async web crawling library optimised for LLM data extraction: Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
 source_repo: unclecode/crawl4ai
 source_url: https://github.com/unclecode/crawl4ai
 license: Apache-2.0
@@ -17,10 +17,10 @@ forks: 8717
 pushed_at: "2026-09-25T06:37:14Z"
 ---
 ## What it is
-Open-source async web crawling library optimised for LLM data extraction — Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
+Open-source async web crawling library optimised for LLM data extraction: Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
 
 ## When to use it
-Open-source async web crawling library optimised for LLM data extraction — Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
+Open-source async web crawling library optimised for LLM data extraction: Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
 
 ## How to install / invoke
 See the source repo README: https://github.com/unclecode/crawl4ai

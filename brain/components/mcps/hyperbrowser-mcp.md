@@ -2,7 +2,7 @@
 name: hyperbrowser-mcp
 type: mcps
 description: >
-  Hyperbrowser cloud browser MCP server — gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.
+  Hyperbrowser cloud browser MCP server. It gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.
 source_repo: hyperbrowserai/mcp
 source_url: https://github.com/hyperbrowserai/mcp
 license: MIT
@@ -17,10 +17,10 @@ forks: 73
 pushed_at: "2025-11-20T01:32:08Z"
 ---
 ## What it is
-Hyperbrowser cloud browser MCP server — gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.
+Hyperbrowser cloud browser MCP server. It gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.
 
 ## When to use it
-Hyperbrowser cloud browser MCP server — gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.
+Hyperbrowser cloud browser MCP server. It gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.
 
 ## How to install / invoke
 See the source repo README: https://github.com/hyperbrowserai/mcp
