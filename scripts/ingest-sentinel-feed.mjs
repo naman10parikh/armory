@@ -24,6 +24,7 @@ import { dirname, join } from "node:path";
 import { slugify, toMarkdown } from "../ingest/crawl.mjs";
 import { parseFrontmatter } from "../ingest/catalog.mjs";
 import { planTested, fieldUpdates, setField, latestTrials, vouches } from "../ingest/tested.mjs";
+import { typeOf } from "../ingest/shelf.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
@@ -102,26 +103,7 @@ for (const [row, t] of scored) {
 
 // ── new rows: stubs in the promote contract ───────────────────────────────────────────────────
 const repoKey = (u) => { const m = String(u || "").match(/github\.com\/([^/\s#?]+)\/([^/\s#?]+)/i); return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}` : ""; };
-// Shelf assignment. The old version was a three-way guess that sent EVERYTHING non-MCP,
-// non-memory to `clis-tools` — which quietly inflated our best-scored shelf with things that are
-// not CLIs and starved the thin ones (skills 29 scored of 1,134, hooks 18 of 140). The repo
-// description is already fetched for the frontmatter, so classify on it. Deterministic, no LLM
-// (hard rule: no per-submission model call). Patterns are deliberately high-precision — a wrong
-// shelf is worse than the honest default, so anything unmatched still falls through to clis-tools.
-const SHELF = [
-  ["mcps", /\bmcp\b|model context protocol/i],
-  ["skills", /\b(claude|agent|ai)[- ]skills?\b|\bskill[- ](file|pack|library|collection|set)s?\b|^skills?\b/i],
-  ["hooks", /\bhooks?\b(?=.*\b(claude|agent|lifecycle|pre-?tool|post-?tool|commit)\b)|\b(pre|post)-?tool-?use\b/i],
-  ["subagents", /\bsub-?agents?\b/i],
-  ["evals", /\b(eval|evals|evaluation|benchmark|bench|leaderboard)\b/i], // "bench": terminal-bench-2-1 (CP143)
-  ["observability", /\b(observability|tracing|telemetry|opentelemetry)\b/i],
-  ["memory", /\bmem(ory)?\b|-mem\b/i],
-];
-const typeOf = (name, url, description = "") => {
-  const hay = `${name} ${url} ${description}`;
-  for (const [type, re] of SHELF) if (re.test(hay)) return type;
-  return "clis-tools";
-};
+// Shelf assignment: ingest/shelf.mjs (the repository's own description, deterministic, no LLM).
 const today = new Date().toISOString().slice(0, 10);
 // Taste floor for NEW rows: a name-only mention resolved to a repo must show real adoption before it
 // enters the catalog (the crawler uses the same idea). Mentions alone do not admit a row.
