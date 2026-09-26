@@ -4,7 +4,7 @@
 // and armory-mcp's vitest. Nothing ships unless these pass.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { readFileSync, existsSync } from "node:fs";
+import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
@@ -240,6 +240,31 @@ test("the Ask interpreter offers only components that have rows, so /ask never s
   if (!existsSync(p)) return;
   const withRows = new Set(facetsOf(computeRows(JSON.parse(readFileSync(p, "utf8")).components)).components.map((f) => f.key));
   for (const c of offered) assert.ok(withRows.has(c), `${c} has rows, so its chip matches something`);
+});
+
+// ── robots.txt and sitemap.xml (static files in web/src/app, served at the site root) ─
+test("sitemap.xml lists every fixed page and every shelf, and robots.txt points to it", () => {
+  const SITE = "https://armory-murex.vercel.app";
+  const app = join(ROOT, "web/src/app");
+  // A fixed page is a page.tsx with no [dynamic] folder on its path; /c/[component] is listed by shelf.
+  const fixed = [];
+  const walk = (dir, route) => {
+    for (const e of readdirSync(dir, { withFileTypes: true })) {
+      if (e.isDirectory() && !e.name.startsWith("[")) walk(join(dir, e.name), `${route}/${e.name}`);
+      else if (e.isFile() && e.name === "page.tsx") fixed.push(route || "/");
+    }
+  };
+  walk(app, "");
+  const shelves = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8")).components.map((c) => `/c/${c.slug}`);
+  const locs = [...readFileSync(join(app, "sitemap.xml"), "utf8").matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+  assert.ok(locs.every((u) => u.startsWith(`${SITE}/`)), "every URL is absolute on the site");
+  const paths = locs.map((u) => u.slice(SITE.length).replace(/(.)\/$/, "$1"));
+  assert.equal(new Set(paths).size, paths.length, "no URL twice");
+  assert.deepEqual([...paths].sort(), [...fixed, ...shelves].sort(), "a page or shelf added or removed updates sitemap.xml");
+  const robots = readFileSync(join(app, "robots.txt"), "utf8");
+  assert.match(robots, /^User-agent: \*$/m);
+  assert.match(robots, new RegExp(`^Sitemap: ${SITE}/sitemap\\.xml$`, "m"));
+  assert.doesNotMatch(robots, /^Disallow: \/\s*$/m, "crawlers may read the whole site");
 });
 
 // ── /stack guard: a pick below its shelf's top row must say why ───────────────
