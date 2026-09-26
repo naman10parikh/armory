@@ -1,7 +1,8 @@
 # Shelf fit: Sandbox, Tools and Dispatch (proposal)
 
-CP138 T23, 26 September 2026. Status: **proposal, not built.** The brief allowed an hour; doing this
-properly takes longer (below), so this page records the evidence and the smallest honest fix.
+CP138 T23, 26 September 2026. Status: **built** later the same day (PR E); what was built, and the
+numbers after it, are in "Built" at the end. Written first as a proposal: the brief allowed an hour, doing
+this properly takes longer (below), so this page recorded the evidence and the smallest honest fix.
 
 ## The problem
 
@@ -138,4 +139,108 @@ picks: playwright-cli=PASS, gh=PASS, crawl4ai=FAIL
 
 picks: pocketflow=FAIL, n8n-io-n8n=PASS
 
-Reproduce: `node scripts/shelf-fit.mjs` (a report; it changes nothing).
+The tables above used the proposal's words over the first 160 characters of each description. `node
+scripts/shelf-fit.mjs` now reports the gate as built (a report; it changes nothing).
+
+## Built (PR E, 26 September 2026)
+
+`lib/rank.mjs` holds the gate: `SHELF_FIT` (a purpose, the words, an allow-list and a deny-list for each
+of `infra`, `cli`, `tool` and `workflow`) and `fitsShelf()` beside `rankRows`. `computeRows` sets `fits`
+on every row from its name and full description. `rankRows` lists only the rows that fit when one of those
+components is asked for and returns `fit: {purpose, filed, left_out}`; the component facet counts what the
+filter lists. The shelves, /c, /stack, /pipeline, the leaderboard, the detail pages, `/api/rank`,
+`/api/stack`, the CLI and the MCP server all read that one flag. Measured on the catalog after the
+26 September Sentinel sync (65,229 rows):
+
+| Shelf | Rows | Ranked rows | Picks, rank on the shelf before and after |
+|---|---|---|---|
+| Sandbox | 55 to 23 | 31 to 11 | daytona 2 to 1 · e2b-sandbox 5 to 2 · microsandbox 18 to 4 |
+| Tools | 147 to 51 | 134 to 48 | gh 5 to 1 · playwright-cli 18 to 9 · crawl4ai 19 to 10 |
+| Dispatch | 719 to 50 | 60 to 9 | n8n-io-n8n 1 to 1 · pocketflow 8 to 3 |
+
+With the moves below (PR E, second push), on the catalog of 65,238 rows after the next two Sentinel syncs,
+the same shelves list:
+
+| Shelf | Rows listed, of those filed | Ranked rows | Picks, rank on the shelf |
+|---|---|---|---|
+| Sandbox | 26 of 58 | 14 | daytona 1 · e2b-sandbox 2 · microsandbox 5 (container-use is 3) |
+| Tools | 57 of 150 | 54 | gh 1 · playwright-cli 9 · crawl4ai 10 |
+| Dispatch | 58 of 727 | 18 | n8n-io-n8n 1 · pocketflow 9 (LangGraph, ruflo, AutoGen, Orca, CrewAI, the OpenAI Agents SDK and Symphony are 2 to 8) |
+
+What changed from the proposal's words, after reading each shelf's first 50 rows:
+
+- **Sandbox** also accepts "VMs", the short form of "virtual machines", which brings in cua, morph-cloud
+  and unikraft.
+- **Tools** also accepts "command prompt", tmux and SSH. Besides whole agents, it turns away AI pair
+  programming, web builders, editor and IDE extensions, Emacs and Neovim; "for your AI agent" names an
+  audience, so it does not count as an agent.
+- **Dispatch** no longer accepts "workflow" or "pipeline" on their own: they matched guides and
+  development processes. It accepts delegation, cron, schedulers, scheduled runs and loops (not
+  "human-in-the-loop"), and turns away tips, mirrors, directories, collections, cheatsheets, handbooks,
+  exercises and walkthroughs as well as tutorials and guides.
+
+The allow-list holds rows the words miss: claude-managed-agents-selfhost (Sandbox); crawl4ai, Firecrawl
+(crawl4ai's reason names it), claudectx and vibe-log (Tools); pocketflow and Symphony (Dispatch). The
+deny-list holds two rows the words let in by accident: setup-monorepo ("build orchestration") and
+system-dynamics-modeler ("feedback loops").
+
+A row that does not fit keeps its component, score and detail page, and stays in search, Browse and the
+unfiltered leaderboard. Each gated shelf says in one line that it lists only rows made for its job and
+how many of the rest are in Browse, which it links; /pipeline counts the rest, so its numbers still add up to the catalog. On
+the detail page of such a row, Alternatives come from every row filed beside it and name no shelf.
+
+`ingest/test-gate.mjs` now also fails, in CI and in the nightly run, when a /stack pick is not listed on
+its shelf or sits below the shelf's top row without a `reason`, and, since the second push, when a pick at
+the top still has one: no page shows a reason there, so it goes stale unseen (superpowers and promptfoo
+each had one).
+
+Re-typing, done as moves (PR E, second push). Orchestration frameworks filed under `clis-tools` (ruflo,
+CrewAI, AutoGen, LangGraph, the OpenAI Agents SDK) belong on Dispatch, and container-use belongs on Sandbox;
+the gate had left them on no shelf. `SHELF_MOVES` in `lib/rank.mjs` lists a row, keyed `type/name`, on the
+shelf of the job it does. Only its component changes: its `type`, and so its address `/e/<type>/<name>`,
+stays, and so do the links Sentinel's notes and other sites hold. A moved row fits its new shelf by
+decision. Moving the files instead would change those addresses, and `ingest/catalog.mjs` keeps only the
+frontmatter fields it names, so a new `shelf:` field would need the catalog rebuilt and every sync to
+carry it.
+
+| Row, filed under | Listed on | Why (from its description and repository) |
+|---|---|---|
+| ruflo, `clis-tools` | Dispatch | deploys and coordinates multi-agent swarms |
+| crewaiinc-crewai, `clis-tools` | Dispatch | "framework for orchestrating role-playing, autonomous AI agents" |
+| microsoft-autogen, `clis-tools` | Dispatch | a framework for multi-agent applications (now in maintenance mode) |
+| langchain-ai-langgraph, `clis-tools` | Dispatch | a low-level orchestration framework for agents |
+| openai-openai-agents-python, `clis-tools` | Dispatch | a framework for multi-agent workflows |
+| sudocode, `clis-tools` | Dispatch | a lightweight agent orchestration system |
+| stablyai-orca, `clis-tools` | Dispatch | runs a fleet of coding agents side by side, each in its own worktree |
+| praisonai, `mcps` | Dispatch | a multi-agent framework |
+| bernstein, `mcps` | Dispatch | agent orchestration with a deterministic scheduler |
+| container-use, `clis-tools` | Sandbox | gives each coding agent a fresh container on its own git branch |
+| runno, `mcps` | Sandbox | runs code in a WebAssembly sandbox |
+| babelcloud-gru-sandbox, `mcps` | Sandbox | GBOX: self-hostable environments where agents run code and operate desktop and mobile devices |
+| ccoutputstyles, `workflows` | Tools | a command-line tool for Claude Code output styles |
+| snyk-cli, `mcps` | Tools | the Snyk command-line tool |
+| cocoindex-code, `mcps` | Tools | a code search command-line tool |
+
+The six `mcps` rows came from MCP registry listings. Each project is first the thing its new shelf lists, and
+its MCP server is one way in: Runno's is one of four packages, cocoindex-code recommends its CLI over its
+server, PraisonAI and Bernstein are frameworks that also serve MCP, and the Snyk CLI's README never mentions
+MCP.
+
+agnix and claude-task-master were already Tools rows and are command-line tools whose descriptions never
+say so; they join the allow-list. So does AgentShield, a command-line scanner that arrived with the next
+sync: its description begins "AI agent security scanner", which the words read as a whole agent. The
+Dispatch deny-list gains `crewai`, a sample agent filed under `workflows` that is not CrewAI.
+
+Left where they are, after reading each repository: crystal (deprecated in February 2026 for a successor
+app), grafbase (the platform was sunset after an acquisition), agno (a framework and runtime for agent
+platforms, closer to a runtime than to routing), cc-tools (now a status line and hooks kit, so Hooks or
+Observability, not Tools), MCP servers that only reach a sandbox or an orchestrator run elsewhere (they are
+MCP servers), mcps/container-use (a directory listing of the same project, which is on Sandbox under
+`clis-tools`), and the browser tools (browser-use, Stagehand, Steel, Browserless). Whether browser tools go
+on Tools or on a shelf of their own is a curation call: browser-use would top Tools and reopen its pick.
+
+`--component` and the MCP tools' `component` now also take a shelf name: `SHELVES` in `lib/rank.mjs` maps
+each /stack slug to its components (a test keeps it equal to `stack.json`), so `armory rank -c tools`,
+`rank_components {component: "dispatch"}` and `/api/rank?component=sandbox` list those shelves. `tools`
+returned 0 rows before, because it named the empty `tool` component. A component name still lists only its
+own rows, so a leaderboard chip's count holds. Search takes the same names.

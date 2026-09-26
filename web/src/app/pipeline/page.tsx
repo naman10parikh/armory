@@ -59,10 +59,14 @@ export default function GrowthPage() {
     .map(([label, count]) => ({ label, count }));
 
   // Components: the 11 harness components under the names their pages use (/c), each with the rows it
-  // holds, so /pipeline and /c can never disagree (CP138 T23). Every row sits in exactly one, so the
-  // counts sum to the catalog total. Sorted so the largest reads first.
-  const types = CANON_SLUGS.map((slug) => ({ label: stackFor(slug)?.label ?? slug, count: statsFor(slug).indexed }))
+  // lists, so /pipeline and /c can never disagree (CP138 T23). Every row is filed under exactly one;
+  // Sandbox, Tools and Dispatch list only the rows made for their job (lib/rank.mjs SHELF_FIT), and
+  // `leftOut` counts the rest, so the counts plus it sum to the catalog total. Largest first.
+  const shelves = CANON_SLUGS.map((slug) => ({ slug, stats: statsFor(slug) }));
+  const types = shelves
+    .map(({ slug, stats }) => ({ label: stackFor(slug)?.label ?? slug, count: stats.indexed }))
     .sort((a, b) => b.count - a.count);
+  const leftOut = shelves.reduce((n, { stats }) => n + (stats.fit?.leftOut ?? 0), 0);
 
   // Ranking: how many components the engine ranks (at least one signal), the signals it scores on, and
   // the blend, all from lib/rank.mjs, never typed here (CP138 T51).
@@ -74,6 +78,7 @@ export default function GrowthPage() {
     collections,
     distinctRepos,
     types,
+    leftOut,
     ranked: boardMeta().ranked,
     signals,
     blend: BLEND as { base: number; others: number },

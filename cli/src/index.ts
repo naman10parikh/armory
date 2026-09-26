@@ -36,6 +36,13 @@ interface EngineRow {
   primary: { key: string; value: number | null; pct: number; label: string } | null;
 }
 
+// The components a --component value lists: a shelf name ("tools") lists the whole shelf, a component key
+// ("cli") only its own rows. Same answer as `armory rank`, the MCP tools and /api/search.
+async function componentFilter(name: string | undefined): Promise<string[] | null> {
+  if (!name) return null;
+  return ((await import(engineUrl())) as typeof import("../../lib/rank.mjs")).componentsOf(name);
+}
+
 async function computeEngineRows(components: Component[]): Promise<EngineRow[]> {
   // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the real
   // module type with the missing export so this stays type-safe without touching the engine or its types.
@@ -65,7 +72,7 @@ program
   .command("search")
   .description("Keyword-search components by name + description + tags, enriched with the Universal score; sliceable by component + domain.")
   .argument("<query>", "search terms")
-  .option("-c, --component <type>", "filter to one component: mcp|cli|skill|plugin|hook|subagent|rules|tool|...")
+  .option("-c, --component <name>", "filter to one shelf (tools|sandbox|dispatch|skills|mcps|memory|...) or component (cli|infra|workflow|mcp|skill|hook|subagent|rules|...)")
   .option("-d, --domain <domain>", "filter to one domain: front-end|back-end|browser|payments|ai-agents|...")
   .option("-t, --type <type>", "alias for --component (back-compat)")
   .option("-n, --limit <n>", "max results", "10")
@@ -75,11 +82,12 @@ program
     const qTerms = [...new Set(tokenize(query))];
     const components = loadCatalog().components;
     const rows = await computeEngineRows(components);
+    const members = await componentFilter(component);
     const scored = components
       .map((c, i) => ({ row: rows[i], score: keywordScore(c, qTerms) }))
       .filter(
         ({ row, score }) =>
-          score > 0 && (!component || row.component === component) && (!opts.domain || row.domain === opts.domain),
+          score > 0 && (!members || members.includes(row.component)) && (!opts.domain || row.domain === opts.domain),
       )
       .sort(
         (a, b) =>
@@ -261,7 +269,11 @@ interface RankRow {
   name: string; component: string; domain: string; url?: string;
   universal: number | null; stars: number | null; tested: number | null; mentions: number | null; desc: string;
 }
-interface RankResult { items: RankRow[]; total: number; sort: string; dir: string; facets: { total: number } }
+interface RankResult {
+  items: RankRow[]; total: number; sort: string; dir: string; facets: { total: number };
+  /** Set when the component lists only rows made for its job (infra, cli, tool, workflow). */
+  fit: { purpose: string; filed: number; left_out: number } | null;
+}
 
 // The Universal ranking engine (portable ESM shared with the site + MCP): the clone's, or the copy an
 // installed package carries (catalog.ts engineUrl). Dynamic import keeps the TS build decoupled from it.
@@ -272,7 +284,7 @@ async function rankEngine(): Promise<{ leaderboard: (o: object) => RankResult }>
 program
   .command("rank")
   .description("Rank open-source building blocks by Universal score (or another axis), sliceable by component + domain.")
-  .option("-c, --component <type>", "filter to one component: mcp|cli|skill|plugin|hook|subagent|rules|tool|...")
+  .option("-c, --component <name>", "filter to one shelf (tools|sandbox|dispatch|skills|mcps|memory|...) or component (cli|infra|workflow|mcp|skill|hook|subagent|rules|...)")
   .option("-d, --domain <domain>", "filter to one domain: front-end|back-end|browser|payments|ai-agents|...")
   .option("-s, --sort <axis>", "universal|popular|tested|practitioner|stars|name", "universal")
   .option("--asc", "ascending instead of descending", false)
@@ -287,6 +299,9 @@ program
     if (opts.json) { console.log(JSON.stringify(lb, null, 2)); return; }
     const slice = [opts.component, opts.domain].filter(Boolean).join(" × ") || "everything";
     console.log(chalk.bold(`\nTop ${lb.items.length} in ${slice}`) + chalk.dim(`  ·  ${lb.total.toLocaleString()} of ${lb.facets.total.toLocaleString()} · by ${lb.sort} ${lb.dir}\n`));
+    if (lb.fit && lb.fit.left_out > 0) {
+      console.log(chalk.dim(`Lists only rows made to ${lb.fit.purpose}: ${lb.total.toLocaleString()} of the ${lb.fit.filed.toLocaleString()} filed here. \`armory search\` still finds the rest.\n`));
+    }
     let rank = 0;
     for (const i of lb.items) {
       rank++;

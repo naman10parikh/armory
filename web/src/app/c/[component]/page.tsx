@@ -94,6 +94,32 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
               ))}
             </p>
           )}
+
+          {/* Sandbox, Tools and Dispatch list only the rows made for their job (lib/rank.mjs SHELF_FIT). */}
+          {stats.fit && (
+            <p className="mt-4 text-[12.5px] text-ink-muted">
+              Lists only rows made to {stats.fit.purpose}:{" "}
+              <data value={String(stats.indexed)} className="tabular-nums">
+                {stats.indexed.toLocaleString("en-US")}
+              </data>{" "}
+              of the{" "}
+              <data value={String(stats.fit.filed)} className="tabular-nums">
+                {stats.fit.filed.toLocaleString("en-US")}
+              </data>{" "}
+              filed under {entry.label}. The other{" "}
+              <data value={String(stats.fit.leftOut)} className="tabular-nums">
+                {stats.fit.leftOut.toLocaleString("en-US")}
+              </data>{" "}
+              are in{" "}
+              <Link
+                href={stats.fit.browse}
+                className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+              >
+                Browse
+              </Link>
+              .
+            </p>
+          )}
         </ContentWidth>
       </section>
 

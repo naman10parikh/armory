@@ -30,11 +30,11 @@ export function Stat({ label, children }: { label: string; children: React.React
   );
 }
 
-/** Indexed · Ranked · Top Score. Percentages and scores are <data>, never prose. */
+/** Listed · Ranked · Top Score. Percentages and scores are <data>, never prose. */
 export function ShelfStats({ stats }: { stats: CanonStats }) {
   return (
     <dl className="flex flex-wrap items-baseline gap-x-8 gap-y-3">
-      <Stat label="Indexed">
+      <Stat label="Listed">
         <data value={String(stats.indexed)}>{int(stats.indexed)}</data>
       </Stat>
       <Stat label="Ranked">
