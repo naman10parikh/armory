@@ -32,7 +32,7 @@ After adding the marketplace, restart Codex and install `armory` from the plugin
 
 | Server | Package | Purpose |
 |---|---|---|
-| `armory` | `armory-mcp` (npx) | Search + install across 65,000+ cataloged harness components (65,318 on 26 September 2026) |
+| `armory` | `armory-mcp` (npx) | Search + install across 65,000+ cataloged harness components (65,216 on 26 September 2026) |
 
 ## Notes
 

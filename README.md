@@ -86,7 +86,7 @@ armory install senior-code-reviewer --cli cursor  # …or target Cursor / Codex 
 
 ## Install Armory itself as a plugin — one step, any harness
 
-Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 65,000+ components (65,318 on 26 September 2026) — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
+Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 65,000+ components (65,216 on 26 September 2026) — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
 
 | Harness | Install |
 |---|---|
