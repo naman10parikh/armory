@@ -8,7 +8,7 @@ source_url: https://github.com/tobi/qmd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 30059
+stars: 30060
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02

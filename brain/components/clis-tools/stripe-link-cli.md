@@ -8,7 +8,7 @@ source_url: https://github.com/stripe/link-cli
 license: unknown
 cli_compat: []
 maturity: curated
-stars: 795
+stars: 796
 eval_score: 1
 mentions: null
 verified_at: 

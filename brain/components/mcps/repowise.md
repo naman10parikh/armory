@@ -8,7 +8,7 @@ source_url: https://github.com/repowise-dev/repowise
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7045
+stars: 7047
 eval_score: null
 verified_at: 2026-05-27
 related: []
