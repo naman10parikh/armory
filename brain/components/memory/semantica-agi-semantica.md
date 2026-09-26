@@ -8,7 +8,7 @@ source_url: https://github.com/semantica-agi/semantica
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13480
+stars: 13481
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

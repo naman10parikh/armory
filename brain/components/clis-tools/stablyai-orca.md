@@ -8,7 +8,7 @@ source_url: https://github.com/stablyai/orca
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 78668
+stars: 78677
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02

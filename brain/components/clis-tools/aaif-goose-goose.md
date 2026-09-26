@@ -8,7 +8,7 @@ source_url: https://github.com/aaif-goose/goose
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 54668
+stars: 54669
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02

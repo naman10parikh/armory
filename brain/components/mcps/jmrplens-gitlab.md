@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-26T13:17:48Z"
+pushed_at: "2026-09-26T13:39:02Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Exposes the entire GitLab REST API as 1006 MCP tools across 162 domain sub-packages for AI-driven GitLab management.
