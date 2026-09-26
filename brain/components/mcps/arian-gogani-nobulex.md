@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 40
 forks: 11
-pushed_at: "2026-09-25T19:28:24Z"
+pushed_at: "2026-09-26T16:44:36Z"
 ---
 ## What it is
 Proof-of-behavior enforcement for AI agents. Define behavioral covenant rules (permit/forbid/require), enforce at runtime before execution, get SHA-256 hash-chained tamper-evident audit logs, and verify compliance independently. Cross-agent verification handshake — no proof, no transaction. MIT licensed, 4,244 tests.
