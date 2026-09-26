@@ -215,6 +215,9 @@ carry it.
 | praisonai, `mcps` | Dispatch | a multi-agent framework |
 | bernstein, `mcps` | Dispatch | agent orchestration with a deterministic scheduler |
 | mastra-ai-mastra, `clis-tools` | Dispatch | a TypeScript framework for agents whose graph-based workflow engine orchestrates multi-step processes (PR F) |
+| paperclipai-paperclip, `clis-tools` | Dispatch | "open-source orchestration for teams of AI agents": assigns goals and work across an org chart of agents (PR G) |
+| auto-claude, `clis-tools` | Dispatch | a multi-agent coding app: agents plan, build and validate in parallel, up to 12 at once (PR G) |
+| agentswarm, `clis-tools` | Dispatch | a CEO loop that deploys roles to agents, sequences them by dependency and tracks when each is done (PR G) |
 | container-use, `clis-tools` | Sandbox | gives each coding agent a fresh container on its own git branch |
 | runno, `mcps` | Sandbox | runs code in a WebAssembly sandbox |
 | babelcloud-gru-sandbox, `mcps` | Sandbox | GBOX: self-hostable environments where agents run code and operate desktop and mobile devices |
@@ -248,6 +251,10 @@ served on chat channels; it routes no work between agents, the same case as agno
 rules), Qwen-MM-Plugins (plugins that make a harness multimodal), llms.txt and auth.md (a file format and a
 protocol), AgentShield (already on Tools), archify (a skill) and microsoft-playwright-2 (one of the browser
 tools above).
+
+PR G moves three older rows the same way. Their one-line descriptions carry none of the gate's words, so the
+word sweep in PR E never read them; each README says it routes work between agents. Paperclip lists third on
+Dispatch, Auto-Claude eleventh and agentswarm, which has no score yet, after the ranked rows.
 
 `--component` and the MCP tools' `component` now also take a shelf name: `SHELVES` in `lib/rank.mjs` maps
 each /stack slug to its components (a test keeps it equal to `stack.json`), so `armory rank -c tools`,

@@ -363,6 +363,8 @@ export interface ShelfFit {
   purpose: string;
   filed: number;
   left_out: number;
+  /** The /stack slug the gate belongs to: "tools" for `tool` and `cli`. */
+  shelf: string | null;
 }
 
 /** The job a component's rows must do to be listed under it, or null when it lists every row filed there. */

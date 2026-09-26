@@ -8,6 +8,7 @@ import { BoardTable } from "@/components/board-table";
 import { ContentWidth } from "@/components/data-table";
 import { CliNote, HarnessSelector } from "@/components/install-snippet";
 import { LinkChipGroup, type ChipLink } from "@/components/link-chips";
+import { stackFor } from "@/lib/canon";
 import { int } from "@/lib/format";
 import { boardFacets, boardMeta, leaderboardPage, type Facet } from "@/lib/rows";
 import { toRowViews } from "@/lib/row-view";
@@ -194,7 +195,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
             <p className="mt-3 text-[12.5px] text-ink-muted">
               Lists only rows made to {fit.purpose}: <data value={String(total)}>{int(total)}</data> of the{" "}
               <data value={String(fit.filed)}>{int(fit.filed)}</data> filed under{" "}
-              <span className="font-sans text-ink-body">{v.component}</span>.{" "}
+              <span className="font-sans text-ink-body">{(fit.shelf && stackFor(fit.shelf)?.label) || v.component}</span>.{" "}
               <Link
                 href={hrefFor(v, { component: "", page: 1 })}
                 className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"

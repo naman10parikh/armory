@@ -9,7 +9,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
 import { gradeComponent, stackPickGaps } from "./test-gate.mjs";
-import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, facetsOf, fitsShelf, rankRows } from "../lib/rank.mjs";
+import { DOMAIN_MOVES, SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, facetsOf, fitsShelf, rankRows } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -135,7 +135,7 @@ test("rankRows lists only the rows that fit a gated component, counts the rest i
   ]);
   const lb = rankRows(rows, { component: "sandboxes" });
   assert.deepEqual(lb.items.map((i) => i.name), ["sbx"]);
-  assert.deepEqual(lb.fit, { purpose: SHELF_FIT.infra.purpose, filed: 2, left_out: 1 });
+  assert.deepEqual(lb.fit, { purpose: SHELF_FIT.infra.purpose, filed: 2, left_out: 1, shelf: "sandbox" });
   assert.equal(rankRows(rows, { component: "memory" }).fit, null, "an ungated component says nothing");
   assert.equal(rankRows(rows, {}).total, 3, "an unfiltered rank still lists every row");
   assert.equal(lb.facets.components.find((f) => f.key === "infra")?.count, 1, "the facet counts what the filter lists");
@@ -187,6 +187,18 @@ test("agent frameworks the crawl filed as command-line tools list on Dispatch, b
   assert.equal(dispatch.total, dispatch.items.length, "the whole shelf fits under the limit, so a missing row is not cut off");
 });
 
+test("orchestrators whose READMEs route work between agents list on Dispatch: Paperclip, Auto-Claude and agentswarm", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  const listed = new Set(rankRows(rows, { component: "dispatch", limit: 1000 }).items.map((i) => `${i.type}/${i.name}`));
+  // Filed as command-line tools and left on no shelf, because their one-line descriptions carry none of the
+  // gate's words (CP138 PR G).
+  for (const key of ["clis-tools/paperclipai-paperclip", "clis-tools/auto-claude", "clis-tools/agentswarm"]) {
+    assert.ok(listed.has(key), `${key} is listed on Dispatch`);
+  }
+});
+
 test("SHELVES names the same shelves and components as web/src/data/stack.json", () => {
   const stack = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8"));
   assert.deepEqual(SHELVES, Object.fromEntries(stack.components.map((c) => [c.slug, c.aggregates])));
@@ -228,6 +240,21 @@ test("rankRows names the components its filter lists, the chips the leaderboard 
   assert.equal(rankRows(rows, {}).components, null, "no component filter lights no component chip");
 });
 
+test("a gated filter names the shelf its gate belongs to, so the leaderboard reads \"filed under Tools\" for tool and cli", () => {
+  const row = (name, type, description) => ({ name, type, description, stars: 10, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("gh", "clis-tools", "GitHub's official command line tool"),
+    row("sbx", "infrastructure", "Sandboxes for running AI-generated code"),
+    row("n8n", "workflows", "Workflow automation platform"),
+    row("fs", "mcps", "Read and write files"),
+  ]);
+  const shelf = (component) => rankRows(rows, { component }).fit?.shelf;
+  for (const c of ["tools", "tool", "cli"]) assert.equal(shelf(c), "tools", `${c} is filed under Tools`);
+  for (const c of ["sandbox", "infra"]) assert.equal(shelf(c), "sandbox", `${c} is filed under Sandbox`);
+  for (const c of ["dispatch", "workflow"]) assert.equal(shelf(c), "dispatch", `${c} is filed under Dispatch`);
+  assert.equal(rankRows(rows, { component: "mcp" }).fit, null, "an ungated component has no fit line");
+});
+
 test("domain: \"subscription\" counts toward payments only beside a payments word", () => {
   const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
   const [orca, feeds, stripe, lemon, chargebee] = computeRows([
@@ -242,6 +269,55 @@ test("domain: \"subscription\" counts toward payments only beside a payments wor
   assert.equal(stripe.domain, "payments", "beside a payments word it still counts");
   assert.equal(lemon.domain, "payments", "Lemon Squeezy is a billing platform, like Stripe");
   assert.equal(chargebee.domain, "payments", "so is Chargebee");
+});
+
+test("domain: a domain word counts only where a word starts, and a compound that names the same thing counts as it", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [papers, geo, drive, laws, oas, subs, gpt, logs, notes] = computeRows([
+    row("papers", "Systematic reviews and research papers from a medical library"),
+    row("geo", "Geocoding and routing from HERE Technologies, with a place catalog"),
+    row("drive", "Manage files and folders in encrypted cloud storage"),
+    row("gov", "US government publications: laws and the Federal Register"),
+    row("oas", "Turns OpenAPI specs into tools"),
+    row("subs", "A collection of subagents for code review"),
+    row("gpt", "Use ChatGPT from your editor"),
+    row("logs", "Collect and tail logs from remote machines"),
+    row("notes", "MCP server for personal notes, stored in PostgreSQL"),
+  ]);
+  assert.equal(papers.domain, "other", "\"search\" inside \"research\" is not search");
+  assert.equal(geo.domain, "other", "\"log\" inside \"technologies\" and \"catalog\" is not observability");
+  assert.equal(drive.domain, "other", "\"rag\" inside \"storage\" is not search");
+  assert.equal(laws.domain, "other", "\"aws\" inside \"laws\" is not devops");
+  assert.equal(oas.domain, "back-end", "OpenAPI names an API");
+  assert.equal(subs.domain, "ai-agents", "subagents are agents");
+  assert.equal(gpt.domain, "ai-agents", "ChatGPT is a GPT");
+  assert.equal(logs.domain, "observability", "a word that starts with one still counts");
+  assert.equal(notes.domain, "database", "\"sql\" inside \"postgresql\" no longer counts, but it breaks the tie with \"server\"");
+});
+
+test("domain: \"refund\" and \"x402\" are payments words, and four money rows are placed by hand", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("subscription-refunds", "Determine refund eligibility for popular US consumer subscriptions including Apple, Netflix, and Adobe."),
+    row("x402-defillama-mcp", "An x402 pay-per-call proxy for DefiLlama's MCP tools, allowing AI agents to pay USDC per tool call"),
+    row("bankbridge", "Enables financial data access from connected bank accounts via MCP tools: balances, transactions, investments"),
+    row("zombie-killer", "Scans bank statements for zombie subscriptions and drafts cancellation, renegotiation, or data deletion letters."),
+    row("subscription-tracker-ai", "Track SaaS subscriptions, renewal dates, spending, and find duplicate services."),
+    row("defi-intel", "Operator-grade DeFi intelligence MCP: governance proposals, RWA attestation scores, TVL, yields and stablecoins"),
+  ]);
+  for (const r of rows) assert.equal(r.domain, "payments", `${r.name} is payments`);
+});
+
+test("every DOMAIN_MOVES row is in catalog.json under the type it is keyed by", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  for (const [key, domain] of Object.entries(DOMAIN_MOVES)) {
+    const [type, name] = key.split("/");
+    const row = rows.find((r) => r.type === type && r.name === name);
+    assert.ok(row, `${key} is in the catalog (a rename or removal must update DOMAIN_MOVES)`);
+    assert.equal(row.domain, domain, `${key} is placed in ${domain}`);
+  }
 });
 
 test("the Ask interpreter offers only components that have rows, so /ask never shows a plugin chip", () => {

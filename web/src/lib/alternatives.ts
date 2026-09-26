@@ -47,7 +47,11 @@ const PURPOSE = new WeakMap<BoardRow, Set<string>>();
 function purposeOf(r: BoardRow): Set<string> {
   let p = PURPOSE.get(r);
   if (!p) {
-    p = new Set(words(`${r.desc} ${r.tags.filter((t) => !NOT_PURPOSE.test(t)).join(" ")}`));
+    // A tag naming the row's own type or component ("clis-tools", "cli", "infrastructure") says only where it is
+    // filed, which the rows beside it share (CP138 PR G). On another kind of row the same word is a purpose and
+    // stays: "evals" on an observability platform, "memory" on an MCP server.
+    const tags = r.tags.filter((t) => !NOT_PURPOSE.test(t) && t !== r.type && t !== r.component);
+    p = new Set(words(`${r.desc} ${tags.join(" ")}`));
     PURPOSE.set(r, p);
   }
   return p;

@@ -49,7 +49,7 @@ const DOMAINS = {
   database: ["database", "postgres", "sqlite", "mysql", "redis", "vector", "embedding", "sql", "supabase", "mongodb", "duckdb", "prisma", "neon"],
   auth: ["auth", "oauth", "clerk", "jwt", "login", "session", "sso", "identity", "credential", "rbac"],
   browser: ["browser", "playwright", "puppeteer", "chrome", "scrape", "stagehand", "crawl", "screenshot", "web-scraping", "browserbase"],
-  payments: ["stripe", "payment", "billing", "checkout", "invoice", "paypal", "lemonsqueezy", "lemon squeezy", "chargebee"],
+  payments: ["stripe", "payment", "billing", "checkout", "invoice", "paypal", "lemonsqueezy", "lemon squeezy", "chargebee", "refund", "x402"],
   devops: ["deploy", "docker", "kubernetes", "vercel", "aws", "gcp", "terraform", "ci/cd", "sandbox", "e2b", "fly.io", "cloudflare", "infra"],
   observability: ["log", "trace", "metric", "monitor", "observability", "posthog", "sentry", "telemetry", "analytics", "opentelemetry"],
   comms: ["slack", "email", "discord", "telegram", "sms", "twilio", "gmail", "notification", "webhook", "chat"],
@@ -113,13 +113,43 @@ const STALE_DAYS = 730; // 24 months
 // someone's plan ("run any coding agent with your own subscription"), a feed or an event stream; beside
 // "billing" or "stripe" it is billing (CP138 PR F).
 const SUPPORTING = { payments: ["subscription"] };
+// Rows whose words place them poorly, placed by reading them (CP138 PR G), keyed type/name like SHELF_MOVES.
+// All four are money seen from the payer's side, and payments is the one domain for money.
+export const DOMAIN_MOVES = {
+  "mcps/bankbridge": "payments", // balances and transactions from the reader's own bank accounts, through Plaid
+  "mcps/zombie-killer": "payments", // finds recurring charges on a bank statement and drafts the letters that stop them
+  "mcps/subscription-tracker-ai": "payments", // what each SaaS subscription costs and when it renews
+  "mcps/defi-intel": "payments", // DeFi yields, stablecoins and TVL: crypto money, beside the x402 and USDC rows
+};
+// A domain word counts only where a word starts (CP138 PR G): "log" inside "catalog", "api" inside "capital",
+// "rag" inside "storage", "ux" inside "linux" and "search" inside "research" used to count. A compound that
+// ends in one and names the same thing is read as that word, and only as it ("chatgpt" is "gpt", not "chat"):
+// every word that carried a domain word inside it on 20 or more rows was read, and these are the ones that do.
+const COMPOUNDS = {
+  api: ["openapi"], sql: ["mssql"], vector: ["pgvector"], payment: ["micropayment"], chat: ["wechat"],
+  search: ["elasticsearch", "websearch", "opensearch"], rag: ["graphrag"], index: ["llamaindex"],
+  gpt: ["chatgpt"], agent: ["subagent"], repo: ["monorepo"],
+};
+const AS_WORD = Object.entries(COMPOUNDS).flatMap(([k, cs]) => cs.map((c) => [c, new RegExp(`(^|[^a-z0-9])${c}`, "g"), `$1${k}`]));
+const atWordStart = (t, k) => {
+  for (let i = t.indexOf(k); i !== -1; i = t.indexOf(k, i + 1)) {
+    const c = i === 0 ? "" : t[i - 1];
+    if (!(c >= "a" && c <= "z") && !(c >= "0" && c <= "9")) return true;
+  }
+  return false;
+};
 const domainOf = (text) => {
-  const t = (text || "").toLowerCase();
-  let best = "other", hits = 0;
+  const raw = (text || "").toLowerCase();
+  const t = AS_WORD.reduce((s, [c, rx, k]) => (s.includes(c) ? s.replace(rx, k) : s), raw);
+  let best = "other", hits = 0, weak = 0;
   for (const [dom, kws] of Object.entries(DOMAINS)) {
-    let h = kws.reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
-    if (h > 0) h += (SUPPORTING[dom] ?? []).reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
-    if (h > hits) { best = dom; hits = h; }
+    let h = kws.reduce((n, k) => n + (atWordStart(t, k) ? 1 : 0), 0);
+    if (h === 0) continue;
+    h += (SUPPORTING[dom] ?? []).reduce((n, k) => n + (atWordStart(t, k) ? 1 : 0), 0);
+    // A domain word inside another word is weak evidence: it no longer counts on its own, but it still breaks a
+    // tie between domains that each have a word, as every match did before.
+    const w = kws.reduce((n, k) => n + (raw.includes(k) ? 1 : 0), 0);
+    if (h > hits || (h === hits && w > weak)) { best = dom; hits = h; weak = w; }
   }
   return best;
 };
@@ -217,7 +247,7 @@ export function computeRows(components) {
       component,
       // Whether the row does its component's job (SHELF_FIT below); only rows that do are listed under it.
       fits: fitsShelf({ name: c.name, type: c.type, component, description: c.description }),
-      domain: domainOf(text),
+      domain: DOMAIN_MOVES[`${c.type}/${c.name}`] || domainOf(text),
       vertical: verticalOf(text),
       url,
       kind,
@@ -434,6 +464,9 @@ export const SHELF_MOVES = {
   "mcps/praisonai": "workflow",
   "mcps/bernstein": "workflow",
   "clis-tools/mastra-ai-mastra": "workflow",
+  "clis-tools/paperclipai-paperclip": "workflow",
+  "clis-tools/auto-claude": "workflow",
+  "clis-tools/agentswarm": "workflow",
   // Sandbox: environments that isolate agent work, filed as a command-line tool or as MCP servers.
   "clis-tools/container-use": "infra",
   "mcps/babelcloud-gru-sandbox": "infra",
@@ -489,7 +522,9 @@ export function rankRows(scored, { component = null, domain = null, vertical = n
   const rule = members ? members.map((m) => SHELF_FIT[m]).find(Boolean) ?? null : null;
   const filed = items.length;
   if (rule) items = items.filter((r) => r.fits !== false);
-  const fit = rule ? { purpose: rule.purpose, filed, left_out: filed - items.length } : null;
+  // `shelf` names the shelf the gate belongs to, so "filed under" reads Tools for `tool` and `cli` (CP138 PR G).
+  const shelf = rule ? Object.keys(SHELVES).find((s) => members.every((m) => SHELVES[s].includes(m))) ?? null : null;
+  const fit = rule ? { purpose: rule.purpose, filed, left_out: filed - items.length, shelf } : null;
   const key = KEY[sort] || KEY.universal;
   items = items.map((r) => [key(r), r]).sort((a, b) => cmp(a[0], b[0])).map((x) => x[1]);
   if (dir === "asc") {
