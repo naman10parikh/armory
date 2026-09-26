@@ -1,5 +1,5 @@
-// shelf.mjs — the shelf (type) a new contributor-feed row goes on (moved from scripts/ingest-sentinel-feed.mjs so
-// it can be tested).
+// shelf.mjs — where a new contributor-feed row goes: its shelf (type) and its slug, which together make its URL,
+// /e/<type>/<slug> (moved from scripts/ingest-sentinel-feed.mjs so they can be tested).
 //
 // Shelf assignment. The old version was a three-way guess that sent EVERYTHING non-MCP,
 // non-memory to `clis-tools` — which quietly inflated our best-scored shelf with things that are
@@ -28,4 +28,25 @@ export function typeOf(name, url, description = "") {
     if (re.test(hay)) return type;
   }
   return "clis-tools";
+}
+
+// The slug a new row takes: its own when no row holds it. When a row of a different GitHub repository holds it
+// (the Playwright MCP row, github.com/microsoft/playwright-mcp, holds microsoft-playwright), the first free -2,
+// -3, the suffix the catalog already uses. null when a row of the same repository holds the slug or a suffixed
+// one (the tool is listed already), or when a holder names no repository to compare. Existing rows keep their
+// slugs, so no URL changes.
+const ownerRepo = (url) => {
+  const m = String(url || "").match(/github\.com\/([^/\s#?]+)\/([^/\s#?]+)/i);
+  return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}`.toLowerCase() : null;
+};
+export function freeSlug(base, url, components) {
+  const repo = ownerRepo(url);
+  const held = new Map();
+  for (const c of components || []) held.set(c.name, [...(held.get(c.name) || []), c]);
+  for (let n = 1; ; n++) {
+    const slug = n === 1 ? base : `${base}-${n}`;
+    const rows = held.get(slug);
+    if (!rows) return slug;
+    if (!repo || rows.some((r) => { const k = ownerRepo(r.source_url); return !k || k === repo; })) return null;
+  }
 }
