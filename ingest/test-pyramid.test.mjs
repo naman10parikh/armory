@@ -9,7 +9,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
 import { gradeComponent, stackPickGaps } from "./test-gate.mjs";
-import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, facetsOf, fitsShelf, rankRows } from "../lib/rank.mjs";
+import { DOMAIN_MOVES, SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, facetsOf, fitsShelf, rankRows } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -266,6 +266,31 @@ test("domain: a domain word counts only where a word starts, and a compound that
   assert.equal(gpt.domain, "ai-agents", "ChatGPT is a GPT");
   assert.equal(logs.domain, "observability", "a word that starts with one still counts");
   assert.equal(notes.domain, "database", "\"sql\" inside \"postgresql\" no longer counts, but it breaks the tie with \"server\"");
+});
+
+test("domain: \"refund\" and \"x402\" are payments words, and four money rows are placed by hand", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("subscription-refunds", "Determine refund eligibility for popular US consumer subscriptions including Apple, Netflix, and Adobe."),
+    row("x402-defillama-mcp", "An x402 pay-per-call proxy for DefiLlama's MCP tools, allowing AI agents to pay USDC per tool call"),
+    row("bankbridge", "Enables financial data access from connected bank accounts via MCP tools: balances, transactions, investments"),
+    row("zombie-killer", "Scans bank statements for zombie subscriptions and drafts cancellation, renegotiation, or data deletion letters."),
+    row("subscription-tracker-ai", "Track SaaS subscriptions, renewal dates, spending, and find duplicate services."),
+    row("defi-intel", "Operator-grade DeFi intelligence MCP: governance proposals, RWA attestation scores, TVL, yields and stablecoins"),
+  ]);
+  for (const r of rows) assert.equal(r.domain, "payments", `${r.name} is payments`);
+});
+
+test("every DOMAIN_MOVES row is in catalog.json under the type it is keyed by", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  for (const [key, domain] of Object.entries(DOMAIN_MOVES)) {
+    const [type, name] = key.split("/");
+    const row = rows.find((r) => r.type === type && r.name === name);
+    assert.ok(row, `${key} is in the catalog (a rename or removal must update DOMAIN_MOVES)`);
+    assert.equal(row.domain, domain, `${key} is placed in ${domain}`);
+  }
 });
 
 test("the Ask interpreter offers only components that have rows, so /ask never shows a plugin chip", () => {

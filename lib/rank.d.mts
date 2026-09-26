@@ -50,6 +50,8 @@ export interface ShelfRule {
 export const SHELF_FIT: Record<string, ShelfRule>;
 /** Rows listed on the shelf of their job, not their type's: "type/name" to component. The type, and so the address, stays. */
 export const SHELF_MOVES: Record<string, string>;
+/** Rows whose words place them poorly, placed by reading them: "type/name" to domain. */
+export const DOMAIN_MOVES: Record<string, string>;
 /** The site's shelves (web/src/data/stack.json slugs) and the components each lists. */
 export const SHELVES: Record<string, string[]>;
 /** The components a --component value lists: a shelf name lists its shelf, a component key only its own rows. */
