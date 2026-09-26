@@ -75,11 +75,12 @@ jobs:
         run: bash scripts/fresh-install-check.sh
 
       # The site's catalog step keeps every field the pages read (a dropped `title` left the -2 heading, CP143),
-      # and the lists and replies print that title while links and install commands keep the slug.
+      # and the lists and replies print that title while links and install commands keep the slug. Alternatives
+      # never match two rows on their own type or component (CP138 PR G).
       # The tests import the TypeScript directly, which needs Node 22's type stripping; last, so the steps above
       # stay on Node 20.
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
       - name: Site catalog step (node:test)
-        run: node --experimental-strip-types --test web/test/normalize.test.mjs web/test/title.test.mjs
+        run: node --experimental-strip-types --test web/test/normalize.test.mjs web/test/title.test.mjs web/test/alternatives.test.mjs
