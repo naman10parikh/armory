@@ -8,7 +8,7 @@ source_url: https://github.com/oraios/serena
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29823
+stars: 29824
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

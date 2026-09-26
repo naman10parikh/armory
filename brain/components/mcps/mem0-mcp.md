@@ -14,7 +14,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [server-memory, four-layer-memory, wikimem]
 tags: [memory, long-term, semantic, cross-session, personalization]
-forks: 7760
+forks: 7761
 pushed_at: "2026-09-25T17:36:35Z"
 mentions: 21
 ---

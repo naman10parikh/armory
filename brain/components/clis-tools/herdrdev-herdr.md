@@ -8,7 +8,7 @@ source_url: https://github.com/herdrdev/herdr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40857
+stars: 40858
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
