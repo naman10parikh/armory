@@ -244,6 +244,10 @@ grep -rn 'style={{' app components | grep -c 'var(--'
 **Acceptance:** all six return zero hits (the last returns `0`), and every string on a changed
 surface appears in §2's lexicon or in a §4 replacement cell.
 
+**Em dashes:** `node web/scripts/design-check.mjs`, run from the repository root, exits 0: no em dash in text a
+person reads, meaning JSX text and string literals under `src/`. Comments, regular expressions and a lone dash
+that stands for "no value" in a cell are fine. CI runs it (the chairman's checklist, item 45).
+
 **Do not** rewrite a string that is already compliant, and **do not** touch strings on surfaces
 outside the assigned scope — per `karpathy-coding-discipline.md`, every changed line traces to a row
 in this file.

@@ -15,7 +15,7 @@ export const runtime = "nodejs";
 export const metadata: Metadata = {
   title: "Status · Armory",
   description:
-    "Freshness and signal coverage for the Armory index — how many components are cataloged, how many carry each ranking signal, and when the crawl last confirmed them.",
+    "Freshness and signal coverage for the Armory index: how many components are cataloged, how many carry each ranking signal, and when the crawl last confirmed them.",
 };
 
 // The signals in the coverage table, as the engine scores them (lib/rank.mjs), with what each one is.
