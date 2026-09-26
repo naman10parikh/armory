@@ -9,6 +9,8 @@
 //   • `new` rows (have a source URL) → a stub in incoming/sentinel/ shaped to the promote contract
 //     (identical to the crawler's), so they pass the SAME gate → promote path. No LLM anywhere.
 //   • `unresolved` (name only) → listed in the report; Sentinel's resolver upgrades them over time.
+//   • `tested` (hands-on trial verdicts) → `eval_score` on the rows of the same GitHub repository, written
+//     into the note like the mention raise. Never a new row. Rules: ingest/tested.mjs (CP143 T53).
 //
 //   node scripts/ingest-sentinel-feed.mjs                       # dry run against the newest feed
 //   node scripts/ingest-sentinel-feed.mjs --feed <path> --apply
@@ -19,6 +21,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { slugify, toMarkdown } from "../ingest/crawl.mjs";
 import { parseFrontmatter } from "../ingest/catalog.mjs";
+import { planTested, fieldUpdates, setField } from "../ingest/tested.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
@@ -73,6 +76,26 @@ for (const r of feed.existing || []) {
     }
     raised++;
   } else unchanged++;
+}
+
+// ── tested: trial verdicts → eval_score (and verified_at), latest trial wins ────────────────────
+const { scored, unscored, unmatched } = planTested(cat.components, feed.tested);
+const testedSet = [];
+let testedSame = 0;
+for (const [row, t] of scored) {
+  const upd = fieldUpdates(row, t);
+  if (!Object.keys(upd).length) { testedSame++; continue; }
+  if (has("--apply")) {
+    Object.assign(row, upd);
+    // Into the note as well, for the same reason as the mention raise: the catalog is rebuilt from it.
+    const file = join(ROOT, "brain", row.path || "");
+    if (row.path && existsSync(file)) {
+      let src = readFileSync(file, "utf-8");
+      for (const [k, v] of Object.entries(upd)) src = setField(src, k, v);
+      writeFileSync(file, src);
+    }
+  }
+  testedSet.push(`${row.type}/${row.name} ← ${t.eval_score} (${t.date})`);
 }
 
 // ── new rows: stubs in the promote contract ───────────────────────────────────────────────────
@@ -186,6 +209,10 @@ console.log(`existing → mentions raised ${raised} · unchanged ${unchanged} ·
 console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor} · no GitHub repo ${noRepo}`);
 for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ×${p.mentions}) ${p.url}`);
 console.log(`unresolved (name only, Sentinel will resolve): ${(feed.unresolved || []).length}`);
+console.log(`tested → eval_score ${has("--apply") ? "set" : "to set"} on ${testedSet.length} rows · already recorded ${testedSame} · matched with no score ${unscored.length} · unmatched ${unmatched.length}`);
+for (const s of testedSet) console.log(`   ✓ ${s}`);
+for (const u of unscored) console.log(`   · ${u.tool}: no score to record (${u.rows.join(", ")})`);
+for (const u of unmatched) console.log(`   ? ${u.tool} (${u.repo || "no repository"}): ${u.reason}`);
 console.log(has("--apply")
   ? "\nAPPLIED. Now: node scripts/persist-signals-to-brain.mjs --apply && node ingest/catalog.mjs && node ingest/test-gate.mjs incoming/sentinel && node ingest/promote.mjs --from incoming/sentinel --to brain/components --apply"
   : "\nDRY RUN — nothing written. Re-run with --apply.");

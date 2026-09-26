@@ -13,7 +13,8 @@ gate, promote, pull request. The pull request merges itself only when those gate
 
 ## The feed format
 
-One JSON file with three lists. A tool is one object in exactly one list.
+One JSON file with three lists of mentions, plus an optional list of trial results. A tool is one object in
+exactly one of the three mention lists.
 
 ```json
 {
@@ -21,7 +22,8 @@ One JSON file with three lists. A tool is one object in exactly one list.
   "source": "what the contributor read, in words",
   "existing":   [{ "name": "Codex", "urls": ["https://github.com/openai/codex"], "mentions": 273, "stars": 120759, "notes": ["…"] }],
   "new":        [{ "name": "Agent-Reach", "urls": ["https://github.com/Panniantong/Agent-Reach"], "mentions": 4, "stars": 85496, "notes": ["…"] }],
-  "unresolved": [{ "name": "ChatGPT", "urls": [], "mentions": 196, "stars": null, "notes": ["…"] }]
+  "unresolved": [{ "name": "ChatGPT", "urls": [], "mentions": 196, "stars": null, "notes": ["…"] }],
+  "tested":     [{ "tool": "LangGraph", "repo": "https://github.com/langchain-ai/langgraph", "outcome": "ran", "eval_score": 1, "one_line": "…", "date": "2026-09-26" }]
 }
 ```
 
@@ -35,6 +37,11 @@ One JSON file with three lists. A tool is one object in exactly one list.
 - **A mention reaches a row only through a link**: one cited in the note, or a name-to-repository match
   that a model has checked. Matching on a name alone once put "Claude Code" ×419 on a docs page row, and
   36% of automatic same-name matches turned out to be different projects (Sentinel, 2026-09-26).
+- **`tested`**: one entry per hands-on trial. `eval_score` is 1 when the tool installed and its documented
+  first run did what the docs say, 0 when the install or that run failed, and null when it was not run far
+  enough to say. It becomes the row's Tested signal on the row with the same GitHub repository, the latest
+  trial winning, and `verified_at` moves to the trial's date. It never creates a row, and a null never clears
+  a score (`ingest/tested.mjs`).
 
 ## Plugging in a new contributor
 
