@@ -2,7 +2,7 @@
 name: langchain-ai-langmem
 type: memory
 description: >
-  langmem — cited by 0 practitioner notes in the Sentinel brain.
+  Long-term memory for agents: tools that extract what matters from conversations, refine prompts from feedback and keep memory across sessions, with LangGraph's store built in.
 source_repo: langchain-ai/langmem
 source_url: https://github.com/langchain-ai/langmem
 license: unknown
@@ -18,7 +18,7 @@ forks: 192
 pushed_at: "2026-09-09T06:44:43Z"
 ---
 ## What it is
-langmem — cited by 0 practitioner notes in the Sentinel brain.
+Long-term memory for agents: tools that extract what matters from conversations, refine prompts from feedback and keep memory across sessions, with LangGraph's store built in.
 
 ## When to use it
 See the source: https://github.com/langchain-ai/langmem

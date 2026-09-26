@@ -2,7 +2,7 @@
 name: theagent-net-webagent
 type: clis-tools
 description: >
-  Webagent — cited by 1 practitioner note in the Sentinel brain.
+  A Go framework that stands up a web or business agent from a declarative spec: pick a provider for each slot (model, memory, guardrail, channel, actions over MCP) and get a running agent.
 source_repo: TheAgent-net/webagent
 source_url: https://github.com/TheAgent-net/webagent
 license: unknown
@@ -18,7 +18,7 @@ forks: 16
 pushed_at: "2026-09-24T21:41:16Z"
 ---
 ## What it is
-Webagent — cited by 1 practitioner note in the Sentinel brain.
+A Go framework that stands up a web or business agent from a declarative spec: pick a provider for each slot (model, memory, guardrail, channel, actions over MCP) and get a running agent.
 
 ## When to use it
 See the source: https://github.com/TheAgent-net/webagent

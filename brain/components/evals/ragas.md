@@ -3,8 +3,8 @@ name: ragas
 type: evals
 description: >
   Reference-free evaluation of retrieval-augmented generation pipelines; measures faithfulness, answer relevance, and context precision.
-source_repo: explodinggradients/ragas
-source_url: https://github.com/explodinggradients/ragas
+source_repo: vibrantlabsai/ragas
+source_url: https://github.com/vibrantlabsai/ragas
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta

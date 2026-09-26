@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [mcp-so, mcp]
-mentions: 2
+mentions: null
 ---
 ## What it is
 Listed on mcp.so; Armory has only its name so far.
