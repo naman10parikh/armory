@@ -3,8 +3,8 @@ name: native-devtools-mcp
 type: mcps
 description: >
   Gives AI agents and MCP clients direct control over native desktop apps, Chrome/Electron browsers, and Android devices with screenshots, OCR, accessibility-based element lookup, input simulation, window management, CDP, and ADB in one local server.
-source_repo: sh3ll3x3c/native-devtools-mcp
-source_url: https://github.com/sh3ll3x3c/native-devtools-mcp
+source_repo: vectora-foundry/native-devtools-mcp
+source_url: https://github.com/vectora-foundry/native-devtools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
