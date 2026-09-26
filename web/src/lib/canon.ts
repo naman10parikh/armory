@@ -15,7 +15,7 @@
 //
 // Rows come from the same engine as the home page, the leaderboard and /api/rank
 // (lib/rank.mjs computeRows) — read once per process, cached.
-import { allBoardRows, type BoardRow } from "@/lib/rows";
+import { allBoardRows, foldSameRepo, type BoardRow } from "@/lib/rows";
 import stackJson from "@/data/stack.json";
 
 /** A scored catalog row — the shared board row (src/lib/rows.ts). */
@@ -24,6 +24,8 @@ export type CanonRow = BoardRow;
 export interface Pick {
   name: string;
   why: string;
+  /** Why it is listed though rows above it score higher. Shown only while it is not its shelf's top row. */
+  reason?: string;
   /** Catalog row name, or null when the pick is not indexed yet. */
   armoryName: string | null;
   url: string;
@@ -68,8 +70,8 @@ export const CANON: Readonly<Record<string, readonly string[]>> = Object.fromEnt
  * rather than looking like a gap.
  */
 export const PROPERTIES: readonly { label: string; note: string }[] = [
-  { label: "Self-Improvement", note: "Improves itself between runs; a property, not a component" },
-  { label: "Model Routing", note: "Which model runs which step; a property, not a component" },
+  { label: "Self-Improvement", note: "Improves itself between runs" },
+  { label: "Model Routing", note: "Which model runs which step" },
 ];
 
 const STACK: StackFile = stackJson;
@@ -163,6 +165,10 @@ export interface ResolvedPick extends Pick {
   row: CanonRow | null;
   /** Internal detail route, or null when there is no row to link to. */
   href: string | null;
+  /** Its rank among the shelf's ranked rows, numbered as the shelf table numbers them; null when unranked. */
+  rank: number | null;
+  /** True for the one pick (stack.json lists it first); the rest are runners-up. */
+  isThePick: boolean;
 }
 
 /**
@@ -171,21 +177,47 @@ export interface ResolvedPick extends Pick {
  * asking component's own shelf wins; otherwise the highest-scoring candidate does. A name
  * that resolves to nothing returns null and renders as Not Indexed — never a faked row.
  */
-export function resolvePick(pick: Pick, slug: string): ResolvedPick {
-  if (!pick.armoryName) return { ...pick, row: null, href: null };
+export function resolvePick(pick: Pick, slug: string, isThePick = false): ResolvedPick {
+  const none = { ...pick, row: null, href: null, rank: null, isThePick };
+  if (!pick.armoryName) return none;
   const members = CANON[slug] ?? [];
   const candidates = allRows().filter((r) => r.name === pick.armoryName);
-  if (candidates.length === 0) return { ...pick, row: null, href: null };
+  if (candidates.length === 0) return none;
   const onShelf = candidates.filter((r) => members.includes(r.component));
   const row = (onShelf.length ? onShelf : candidates).sort(byRank)[0];
   const href = row.type
     ? `/e/${encodeURIComponent(row.type)}/${encodeURIComponent(row.name)}`
     : null;
-  return { ...pick, row, href };
+  const rank = onShelf.length ? (shelfRanks(slug).get(`${row.type}/${row.name}`) ?? null) : null;
+  return { ...pick, row, href, rank, isThePick };
 }
 
+const RANKS = new Map<string, Map<string, number>>();
+
+/**
+ * Each ranked row's number on a shelf, keyed type/name, as ShelfTable prints it: a repository listed
+ * twice counted once, rows with the same score sharing a rank. Rows load once per process, so this does.
+ */
+function shelfRanks(slug: string): Map<string, number> {
+  const cached = RANKS.get(slug);
+  if (cached) return cached;
+  const ranks = new Map<string, number>();
+  for (const r of foldSameRepo(topRankedFor(slug, Number.MAX_SAFE_INTEGER))) {
+    ranks.set(`${r.type}/${r.name}`, r.rank);
+    for (const a of r.alsoListedAs) ranks.set(`${a.type}/${a.name}`, r.rank);
+  }
+  RANKS.set(slug, ranks);
+  return ranks;
+}
+
+/** A shelf's picks in stack.json order: the pick first, then its runners-up. */
 export function resolvedPicksFor(slug: string): ResolvedPick[] {
   const entry = stackFor(slug);
   if (!entry) return [];
-  return entry.picks.map((p) => resolvePick(p, slug));
+  return entry.picks.map((p, i) => resolvePick(p, slug, i === 0));
+}
+
+/** The same picks in score order, best first; a pick with no rank goes last. */
+export function picksInScoreOrder(picks: readonly ResolvedPick[]): ResolvedPick[] {
+  return [...picks].sort((a, b) => (a.rank ?? Number.MAX_SAFE_INTEGER) - (b.rank ?? Number.MAX_SAFE_INTEGER));
 }

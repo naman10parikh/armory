@@ -174,7 +174,8 @@ function AskContent() {
                 {ex}
               </button>
             ))}
-            <HarnessSelector className="ml-auto" />
+            {/* One control for one setting: the nav owns this selector from lg up. */}
+            <HarnessSelector className="ml-auto lg:hidden" />
           </div>
           <CliNote className="mt-3" />
         </ContentWidth>

@@ -10,8 +10,8 @@
     years; a row with no commit date shows when it was listed instead, so every row still has a date.
   - Install: the full command, wrapped, never cut. Component names wrap at their hyphens.
   - Our own repositories carry an Ours label. A repository listed twice prints once.
-  Below 640px each row stacks into a block (globals.css, .board-table), so a phone never scrolls
-  sideways. No hooks here, so both server pages and the client Ask page can render it.
+  Below 1024px each row stacks into a block (globals.css, .board-table), so a phone never scrolls
+  sideways, and each cell keeps its column name as a small label (data-label). No hooks here, so both server pages and the client Ask page can render it.
 */
 import Link from "next/link";
 import { ContributorLink } from "./badges";
@@ -101,7 +101,7 @@ export function BoardTable({
               <td data-col="rank" className={`${CELL} text-right text-[12px] text-ink-faint`}>
                 {row.rank != null && <data value={String(row.rank)}>{row.rank}</data>}
               </td>
-              <td data-col="score" className={`${CELL} text-right`}>
+              <td data-col="score" data-label="Score" className={`${CELL} text-right`}>
                 <ScoreBadge
                   score={row.universal}
                   evidence={row.evidence}
@@ -113,7 +113,7 @@ export function BoardTable({
                 <NameCell row={row} />
               </td>
               {extra === "gained" && (
-                <td data-col="gained" className={`${CELL} text-[12.5px] text-ink-body`}>
+                <td data-col="gained" data-label="Gained" className={`${CELL} text-[12.5px] text-ink-body`}>
                   {row.gained != null && (
                     <>
                       <data value={String(row.gained)} className="font-semibold text-ink-hi">
@@ -130,20 +130,20 @@ export function BoardTable({
                 </td>
               )}
               {extra === "listed" && (
-                <td data-col="listed" className={`${CELL} text-[12.5px] text-ink-body`}>
+                <td data-col="listed" data-label="Listed" className={`${CELL} text-[12.5px] text-ink-body`}>
                   {row.listedAt && <time dateTime={row.listedAt}>{shortDate(row.listedAt)}</time>}
                 </td>
               )}
               <td data-col="desc" className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
                 {clampWords(row.desc, 150) || <span className="text-ink-faint">No description</span>}
               </td>
-              <td data-col="evidence" className={CELL}>
+              <td data-col="evidence" data-label="Evidence" className={CELL}>
                 <SignalsRow signals={row.signals} />
               </td>
-              <td data-col="when" className={CELL}>
+              <td data-col="when" data-label="Last commit" className={CELL}>
                 <LastCommit row={row} fallbackDate={fallbackDate} />
               </td>
-              <td data-col="install" className={CELL}>
+              <td data-col="install" data-label="Install" className={CELL}>
                 {row.installable ? <InstallSnippet name={row.name} /> : <NoInstall source={row.source} />}
               </td>
             </tr>

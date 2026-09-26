@@ -25,6 +25,7 @@ import {
   PROVISIONING,
   STACK_AS_OF,
   STACK_REGENERATE,
+  picksInScoreOrder,
   resolvedPicksFor,
   rowsFor,
   stackFor,
@@ -54,13 +55,18 @@ interface Slot {
   options: PickOption[];
   row: CanonRow | null;
   why: string;
+  /** For a pick: its rank on the shelf and, below the top row, why it is listed anyway. */
+  rank: number | null;
+  reason: string | null;
   sourceUrl: string | null;
   isDefault: boolean;
 }
 
 function slotFor(slug: string, sp: Params): Slot {
   const entry = stackFor(slug);
-  const picks = resolvedPicksFor(slug).filter((p) => p.armoryName);
+  const resolved = resolvedPicksFor(slug).filter((p) => p.armoryName);
+  // The pick, then its runners-up in score order (CP138 T23).
+  const picks = [...resolved.slice(0, 1), ...picksInScoreOrder(resolved.slice(1))];
   const pickNames = new Set(picks.map((p) => p.armoryName as string));
   const alternates = rowsFor(slug)
     .filter((r) => r.universal != null && !pickNames.has(r.name))
@@ -94,6 +100,8 @@ function slotFor(slug: string, sp: Params): Slot {
     options,
     row,
     why: pick?.why ?? (row ? clampWords(row.desc, 110) : ""),
+    rank: pick?.rank ?? null,
+    reason: pick?.reason ?? null,
     sourceUrl: pick?.url ?? row?.url ?? null,
     isDefault: chosen === defaultName,
   };
@@ -161,7 +169,7 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
                         {s.label}
                       </Link>
                     </td>
-                    <td className={CELL}>
+                    <td data-label="Pick" className={CELL}>
                       <PickSelect name={s.slug} label={s.label} value={s.chosen} options={s.options} />
                       {s.row?.ours && <OursTag />}
                       {s.row?.contributedBy && (
@@ -170,15 +178,26 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
                         </span>
                       )}
                     </td>
-                    <td data-col="score" className={`${CELL} text-right`}>
+                    <td data-col="score" data-label="Score" className={`${CELL} text-right`}>
                       {s.chosen === NONE ? null : (
                         <ScoreBadge score={s.row?.universal ?? null} evidence={s.row?.evidence ?? 0} caption />
                       )}
                     </td>
-                    <td className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
+                    <td data-label="Why" className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
                       {s.chosen === NONE ? "Left out" : s.why}
+                      {s.chosen !== NONE && s.rank != null && (
+                        <span className="mt-1.5 block text-ink-body">
+                          {s.rank === 1 ? (
+                            "Top of its shelf by score."
+                          ) : (
+                            <>
+                              #<data value={String(s.rank)}>{s.rank}</data> on its shelf. {s.reason}
+                            </>
+                          )}
+                        </span>
+                      )}
                     </td>
-                    <td className={CELL}>
+                    <td data-label="Install" className={CELL}>
                       {s.chosen === NONE ? null : s.row?.installable ? (
                         <InstallSnippet name={s.row.name} />
                       ) : s.row ? (
@@ -258,8 +277,8 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
               {PLANE.map((p) => (
                 <Tr key={p.slot}>
                   <td className={`${CELL} text-[13px] text-ink-muted`}>{p.slot}</td>
-                  <td className={`${CELL} text-[13.5px] font-medium text-ink-hi`}>{p.pick}</td>
-                  <td className={`${CELL} text-[13px] leading-snug text-ink-body`}>{p.access}</td>
+                  <td data-label="Pick" className={`${CELL} text-[13.5px] font-medium text-ink-hi`}>{p.pick}</td>
+                  <td data-label="Deploy access" className={`${CELL} text-[13px] leading-snug text-ink-body`}>{p.access}</td>
                 </Tr>
               ))}
             </tbody>

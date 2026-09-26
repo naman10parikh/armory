@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { getCatalog } from "@/lib/catalog";
-import { CATEGORY_LABEL, type ComponentType } from "@/lib/types";
+import { CANON_SLUGS, stackFor, statsFor } from "@/lib/canon";
 import { ContentWidth } from "@/components/data-table";
 import { Timeline, type TimelineData } from "@/components/timeline";
 import { boardMeta } from "@/lib/rows";
@@ -58,10 +58,10 @@ export default function GrowthPage() {
     .slice(0, 5)
     .map(([label, count]) => ({ label, count }));
 
-  // Components: the 12 canonical kinds from the catalog's own counts (summing to
-  // counts.total), sorted so the dominant kinds read first.
-  const types = (Object.entries(counts.by_type) as [ComponentType, number][])
-    .map(([t, count]) => ({ label: CATEGORY_LABEL[t], count }))
+  // Components: the 11 harness components under the names their pages use (/c), each with the rows it
+  // holds, so /pipeline and /c can never disagree (CP138 T23). Every row sits in exactly one, so the
+  // counts sum to the catalog total. Sorted so the largest reads first.
+  const types = CANON_SLUGS.map((slug) => ({ label: stackFor(slug)?.label ?? slug, count: statsFor(slug).indexed }))
     .sort((a, b) => b.count - a.count);
 
   // Ranking: how many components the engine ranks (at least one signal), the signals it scores on, and

@@ -299,6 +299,26 @@ body {
   .stack-table td[data-col="score"] > span { align-items: flex-start; }
 }
 
+/* The column names the hidden header carried, kept on each stacked cell below 1024px (CP138 T23:
+   the 768px and 390px blocks showed a date, a count and a command with nothing saying which). */
+@media (max-width: 1023px) {
+  .board-table td[data-label]::before,
+  .stack-table td[data-label]::before {
+    content: attr(data-label);
+    display: inline-block;
+    margin-right: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+  .board-table td[data-col="score"]::before {
+    display: block;
+    margin: 0 0 3px;
+  }
+}
+
 /* Small tables on a phone (CP138 T23: /status, /identity and /formula hid their
    counts, shares and scores in a box that scrolled sideways with no cue). Below
    640px each row becomes a labelled card: the first cell is its title, and every

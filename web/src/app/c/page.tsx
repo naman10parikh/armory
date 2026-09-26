@@ -2,8 +2,9 @@
 //
 // Eleven canonical components (energy's HARNESS-CHECKLIST-2026, mapped in the CP137
 // amendment), each a card carrying its live counts and its Pick. The two cross-cutting
-// properties get badges, not cards, because a harness IS self-improving the way it is
-// fast — it does not hold a "self-improvement" component.
+// properties share the twelfth cell as badges, not component cards, because a harness IS
+// self-improving the way it is fast; it does not hold a "self-improvement" component. Twelve
+// cells fill 4, 3, 2 and 1 columns evenly, so no row is left with an empty cell (CP138 T23).
 //
 // Counts come from lib/rank.mjs computeRows via src/lib/canon.ts — the same engine the
 // home page, the leaderboard and /api/rank use — so this page can never disagree with them.
@@ -110,26 +111,28 @@ export default function ComponentsPage() {
                 </Link>
               </li>
             ))}
-          </ul>
 
-          {/* Cross-cutting: badges, never shelves. Stated so the missing cards read as a
-              deliberate boundary rather than a gap in the taxonomy. */}
-          <div className="mt-10 border-t border-line-subtle pt-6">
-            <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Properties</h2>
-            <ul className="mt-3 flex flex-wrap gap-3">
-              {PROPERTIES.map((p) => (
-                <li
-                  key={p.label}
-                  className="rounded-xl border border-line-subtle bg-raise-1 px-4 py-3"
-                >
-                  <span className="inline-flex items-center rounded-md border border-line px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
-                    {p.label}
-                  </span>
-                  <p className="mt-2 text-[12.5px] text-ink-muted">{p.note}</p>
-                </li>
-              ))}
-            </ul>
-          </div>
+            {/* Cross-cutting: badges, never shelves. Stated so the missing component cards read as a
+                deliberate boundary rather than a gap in the taxonomy. */}
+            <li className="flex flex-col gap-3 rounded-xl border border-dashed border-line p-4">
+              <div>
+                <h2 className="text-[15px] font-semibold leading-none text-ink-hi">Properties</h2>
+                <p className="mt-1.5 text-[12.5px] leading-normal text-ink-muted">
+                  Qualities of the whole harness, not components
+                </p>
+              </div>
+              <ul className="flex flex-col gap-2.5">
+                {PROPERTIES.map((p) => (
+                  <li key={p.label}>
+                    <span className="inline-flex items-center rounded-md border border-line px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
+                      {p.label}
+                    </span>
+                    <p className="mt-1 text-[12.5px] text-ink-muted">{p.note}</p>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          </ul>
 
           <p className="mt-6 text-[13px] text-ink-muted">
             <Link

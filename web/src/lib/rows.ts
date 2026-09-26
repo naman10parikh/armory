@@ -323,11 +323,21 @@ export function trendingRows(n: number): ListedRow[] {
   return numbered(rising.slice(0, n));
 }
 
-/** The New tab: the most recently listed, then the default order within a day. */
-export function newRows(n: number): ListedRow[] {
+/** Rows with a known listing date, most recent first, then the default order within a day. */
+function newest(): BoardRow[] {
   const dated = load().rows.filter((r) => r.listedKnown && r.listedAt != null);
   dated.sort((a, b) => (b.listedAt ?? "").localeCompare(a.listedAt ?? "") || a.order - b.order);
-  return numbered(dated.slice(0, n));
+  return dated;
+}
+
+/** The New tab: `n` rows from `offset`, numbered from offset + 1 so page two starts at 21. */
+export function newRows(n: number, offset = 0): ListedRow[] {
+  return numbered(newest().slice(offset, offset + n), offset + 1);
+}
+
+/** How many rows the New tab can page through: every row with a known listing date. */
+export function newCount(): number {
+  return load().rows.filter((r) => r.listedKnown && r.listedAt != null).length;
 }
 
 export interface LeaderboardQuery {

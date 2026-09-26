@@ -3,7 +3,8 @@
 
   No marketing hero: the page says what Armory is in one line (components, ranked where public
   evidence exists), counts that are true right now, and then the table. The three tabs are three static routes (/, /trending, /new) rather than client state, so each
-  view is a URL an agent can fetch and a person can share.
+  view is a URL an agent can fetch and a person can share. New pages past its first 20 rows with
+  /new?page=2 (CP138 T23), so every dated listing is reachable.
 */
 import Link from "next/link";
 import { BoardTable } from "./board-table";
@@ -12,7 +13,7 @@ import { SearchIcon } from "./icons";
 import { CliNote, HarnessSelector } from "./install-snippet";
 import { RefreshedAgo } from "./refreshed-ago";
 import { githubReadText, int, shortDate, utcStamp } from "@/lib/format";
-import { boardMeta, newRows, topRows, trendingRows, type BoardMeta } from "@/lib/rows";
+import { boardMeta, newCount, newRows, topRows, trendingRows, type BoardMeta } from "@/lib/rows";
 import { toRowViews } from "@/lib/row-view";
 
 export type BoardTab = "top" | "trending" | "new";
@@ -25,9 +26,16 @@ const TABS: readonly { tab: BoardTab; href: string; label: string }[] = [
 
 const ROWS = 20;
 
-export function HomeBoard({ tab }: { tab: BoardTab }) {
+const BUTTON =
+  "cursor-pointer rounded-lg border border-line bg-raise-1 px-2.5 py-1.5 font-medium text-ink-body transition-colors duration-150 ease-state hover:border-accent-line hover:text-accent-hover";
+
+/** `page` applies to the New tab only; it is clamped to the pages that exist. */
+export function HomeBoard({ tab, page = 1 }: { tab: BoardTab; page?: number }) {
   const meta = boardMeta();
-  const rows = tab === "top" ? topRows(ROWS) : tab === "trending" ? trendingRows(ROWS) : newRows(ROWS);
+  const pages = tab === "new" ? Math.max(1, Math.ceil(newCount() / ROWS)) : 1;
+  const at = Math.min(Math.max(1, Math.floor(page)), pages);
+  const rows =
+    tab === "top" ? topRows(ROWS) : tab === "trending" ? trendingRows(ROWS) : newRows(ROWS, (at - 1) * ROWS);
   const views = toRowViews(rows);
 
   return (
@@ -103,6 +111,24 @@ export function HomeBoard({ tab }: { tab: BoardTab }) {
               trendingSince={meta.trendingSince}
               scoreSort={tab === "top" ? "descending" : "none"}
             />
+          )}
+
+          {tab === "new" && pages > 1 && (
+            <nav aria-label="Pages" className="mt-5 flex flex-wrap items-center gap-3 text-[13px] text-ink-muted">
+              {at > 1 && (
+                <Link href={at === 2 ? "/new" : `/new?page=${at - 1}`} className={BUTTON}>
+                  Newer
+                </Link>
+              )}
+              <span>
+                Page <data value={String(at)}>{int(at)}</data> of <data value={String(pages)}>{int(pages)}</data>
+              </span>
+              {at < pages && (
+                <Link href={`/new?page=${at + 1}`} className={BUTTON}>
+                  Older
+                </Link>
+              )}
+            </nav>
           )}
 
           <p className="mt-4 max-w-[90ch] text-[13px] leading-relaxed text-ink-muted">
