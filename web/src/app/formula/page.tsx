@@ -273,8 +273,9 @@ export default function FormulaPage() {
           years as <strong style={{ color: "var(--accent-hover)" }}>Stale</strong>. It is a warning
           label, never a term in the score — being freshly pushed proves a tool is alive, not that
           anyone uses it, and a brand-new repo nobody has starred must not outrank a maintained one.
-          It breaks ties, so among the thousands of tools sitting on the same score, the ones still
-          being worked on come first.{" "}
+          It breaks ties. Rows are ordered by the score before rounding, then by how many signals
+          back it, then by the latest commit, then by stars, then by name, so among tools on the same
+          score the ones still being worked on come first.{" "}
           {dated
             ? `We hold a push date for ${n(dated)} rows; ${n(stale)} of them are stale.`
             : "The push-date backfill has not run yet, so nothing is flagged."}
@@ -294,7 +295,7 @@ export default function FormulaPage() {
               <div style={{ fontSize: 10.5, textTransform: "uppercase", letterSpacing: "0.09em", color: "var(--text-muted)", fontWeight: 600, marginBottom: 8 }}>
                 {label}
               </div>
-              <pre style={{ margin: 0, fontFamily: "var(--font-mono), ui-monospace, Menlo, monospace", fontSize: 12, color: "var(--text-body)", whiteSpace: "pre-wrap", lineHeight: 1.6 }}>
+              <pre style={{ margin: 0, fontFamily: "var(--font-sans), ui-monospace, Menlo, monospace", fontSize: 12, color: "var(--text-body)", whiteSpace: "pre-wrap", lineHeight: 1.6 }}>
                 {code}
               </pre>
             </div>
