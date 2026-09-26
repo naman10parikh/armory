@@ -17,6 +17,19 @@ import { useHarness } from "./install-snippet";
 export interface PickOption {
   value: string;
   label: string;
+  /** The option's role ("The pick", "Runners-up"); consecutive options share one group. "" = no group. */
+  group: string;
+}
+
+/** Consecutive options with the same group, in order. */
+function grouped(options: readonly PickOption[]): { group: string; options: PickOption[] }[] {
+  const out: { group: string; options: PickOption[] }[] = [];
+  for (const o of options) {
+    const last = out[out.length - 1];
+    if (last && last.group === o.group) last.options.push(o);
+    else out.push({ group: o.group, options: [o] });
+  }
+  return out;
 }
 
 export function PickSelect({
@@ -38,11 +51,20 @@ export function PickSelect({
       onChange={(e) => e.currentTarget.form?.requestSubmit()}
       className="w-full max-w-full cursor-pointer truncate rounded-lg border border-line bg-raise-1 px-2.5 py-1.5 text-[13px] font-medium text-ink-hi transition-colors duration-150 ease-state hover:border-accent-line"
     >
-      {options.map((o) => (
-        <option key={o.value} value={o.value}>
-          {o.label}
-        </option>
-      ))}
+      {grouped(options).map((g) => {
+        const items = g.options.map((o) => (
+          <option key={o.value} value={o.value}>
+            {o.label}
+          </option>
+        ));
+        return g.group ? (
+          <optgroup key={g.group} label={g.group}>
+            {items}
+          </optgroup>
+        ) : (
+          items
+        );
+      })}
     </select>
   );
 }
@@ -75,25 +97,76 @@ function CopyButton({ copied, onCopy, label }: { copied: boolean; onCopy: () => 
   );
 }
 
+export interface StackPick {
+  name: string;
+  /** Whether `armory install` places it (src/lib/installable.ts). */
+  installable: boolean;
+  source: string | null;
+}
+
 /**
- * One command that installs every chosen pick: one `armory install` per line, joined with `&& \`,
- * so it pastes as a single command and stops at the first failure. The CLI takes one name per call.
+ * One command that installs every chosen pick Armory can install: one `armory install` per line,
+ * joined with `&& \`, so it pastes as a single command and stops at the first failure. The CLI takes
+ * one name per call. Picks with no one-command install are listed under it with their source (CP143).
  */
-export function StackCommand({ names }: { names: readonly string[] }) {
+export function StackCommand({ picks }: { picks: readonly StackPick[] }) {
   const harness = useHarness();
+  const names = picks.filter((p) => p.installable).map((p) => p.name);
+  const manual = picks.filter((p) => !p.installable);
   const lines = names.map((n) => installCommand(n, harness));
   const text = lines.join(" && \\\n");
   const [copied, copy] = useCopy(text);
-  if (names.length === 0) {
+  if (picks.length === 0) {
     return <p className="text-[13px] text-ink-muted">No picks selected</p>;
   }
+  return (
+    <>
+      {names.length > 0 && <CommandBlock names={names} lines={lines} copied={copied} onCopy={copy} />}
+      {manual.length > 0 && (
+        <p className="mt-3 text-[13px] leading-relaxed text-ink-muted">
+          {names.length > 0 ? "Not in the command" : "None of these picks installs with one command"}, set{" "}
+          {manual.length === 1 ? "it" : "them"} up from the source:{" "}
+          {manual.map((p, i) => (
+            <span key={p.name}>
+              {i > 0 && ", "}
+              {p.source ? (
+                <a
+                  href={p.source}
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="cursor-pointer text-accent-hover underline underline-offset-4"
+                >
+                  {p.name}
+                </a>
+              ) : (
+                p.name
+              )}
+            </span>
+          ))}
+        </p>
+      )}
+    </>
+  );
+}
+
+function CommandBlock({
+  names,
+  lines,
+  copied,
+  onCopy,
+}: {
+  names: readonly string[];
+  lines: readonly string[];
+  copied: boolean;
+  onCopy: () => void;
+}) {
   return (
     <div className="rounded-xl border border-line-subtle bg-raise-1 p-3">
       <div className="mb-2 flex items-center justify-between gap-3">
         <span className="text-[12.5px] text-ink-muted">
           {names.length} {names.length === 1 ? "install" : "installs"}, one command
         </span>
-        <CopyButton copied={copied} onCopy={copy} label="Copy the command" />
+        <CopyButton copied={copied} onCopy={onCopy} label="Copy the command" />
       </div>
       {/* One line per install; on a phone a line wraps at its spaces, never out of view and
           never between "--" and "cli" (CP143 upgrade 6). Copy takes `text` itself. */}
