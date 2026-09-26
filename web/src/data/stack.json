@@ -62,7 +62,6 @@
         {
           "name": "superpowers",
           "why": "One bundle covering planning, review, testing and the rest of the lifecycle",
-          "reason": "Picked over everything-claude-code, a large collection of resources, because it installs as one working bundle.",
           "armoryName": "superpowers",
           "url": "https://github.com/obra/superpowers"
         },
@@ -193,7 +192,7 @@
         {
           "name": "pocketflow",
           "why": "100-line graph framework; nodes and edges route work between agents",
-          "reason": "A library inside your own code; n8n, the top row, is a platform you run, and Symphony, second, turns project work into autonomous coding runs.",
+          "reason": "Picked as a library you drop into your own code: 100 lines with no dependencies. Above it, n8n is a platform you run, LangGraph, AutoGen, CrewAI and the OpenAI Agents SDK are much larger frameworks, and ruflo, Orca and Symphony run coding agents for you.",
           "armoryName": "pocketflow",
           "url": "https://github.com/The-Pocket/PocketFlow"
         },
@@ -216,7 +215,6 @@
         {
           "name": "promptfoo",
           "why": "Assertions and red-teaming for prompts and agents, runs in CI",
-          "reason": "Picked because you can run it on every pull request, against your own prompts and agents.",
           "armoryName": "promptfoo",
           "url": "https://github.com/promptfoo/promptfoo"
         },
@@ -284,7 +282,7 @@
         {
           "name": "microsandbox",
           "why": "Self-hosted microVM sandbox on your own machines, no per-sandbox vendor cost",
-          "reason": "Above it, Daytona and E2B are mostly used as hosted services and Cua is built for computer-use agents; this one runs on your own machines.",
+          "reason": "Above it, Daytona and E2B are mostly used as hosted services, container-use gives each coding agent a container on its own git branch, and Cua is built for computer-use agents; this one runs untrusted code in tiny virtual machines you host yourself.",
           "armoryName": "microsandbox",
           "url": "https://github.com/microsandbox/microsandbox"
         }
