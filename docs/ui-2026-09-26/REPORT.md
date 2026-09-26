@@ -118,3 +118,25 @@ third-party code):
 - The comment now uses colons. That leaves the three variable names, below the rule's limit of five.
 - Steps 2 to 7 of `pixel audit` need a running app, and they show as skipped in a static audit. Lighthouse above is
   step 3 run for real, and it covers accessibility (step 2's ground) too.
+
+## Follow-ups, 26 September
+
+Checked against a production build (`pnpm build && pnpm start -p 7312`). Screenshots are in
+`shots/followups/`, at 1280 and 390 wide.
+
+### First pull request: installs, links and counts
+
+| Item | Verify with | Result |
+|---|---|---|
+| github-mcp ran `npx -y github-mcp-server`, a package from another publisher, and the page marked it Verified | `node scripts/check-installs.mjs` · the github-mcp page | Its note now names GitHub's own image, `docker run -i --rm -e GITHUB_PERSONAL_ACCESS_TOKEN ghcr.io/github/github-mcp-server`, as GitHub's README documents. The page and `armory install github-mcp` both write that. |
+| Downloading commands (`npx`, `uvx`, `docker`) checked against the registry | `node scripts/check-installs.mjs` | 118 MCP rows name one: npx 97 (54 from the row's own repository, 43 not), uvx 19 (14, 5), docker 2 (1, 1). **49 rows** no longer show their command or a Verified label. The site also stopped guessing `npx -y <repository name>` for the 58,597 MCP rows that name no command. |
+| `armory install` on the 11 /stack picks | `armory install <pick> --cli claude --dry-run` | Before: 0 of 11 installed, and the top-ranked row failed with a curl error. After: 2 of 11 install (karpathy-coding-discipline writes the repository's own `CLAUDE.md` into `.claude/rules/`; github-mcp writes the docker entry into `.mcp.json`). The other 9 print "Not installed" with the reason and the source link, and exit 1. |
+| Rows with nothing to install promised one command | the aider, /stack and /ask screenshots | Every list, card and detail page now shows the command only where `armory install` places something, and otherwise "No one-command install · Source". The /stack command chains only those picks and lists the rest with links. |
+| Nav Source and footer Contribute linked `naman10parikh/component` (404) | DOM check on /stack | Both now link `github.com/naman10parikh/armory` (200); the 404 page's issue link too. |
+| Stale counts: README 64,000+, plugin listings and installers 24,000+, `/llms.txt` 64,657 as of 2 September | `curl /llms.txt` | `/llms.txt` is generated at build time from the catalog (65,318 as of 2026-09-26). README, PLUGIN.md, the plugin listings and both installers now say 65,000+, dated where they are read by people. |
+| Star counts were fetched once and never re-asked | `node scripts/backfill-stars.mjs --limit 1` | Each night also re-asks one seventh of the answered repositories, by UTC day: every count is re-asked once a week, about 80 points a night, and a run stops under 200 points left. |
+| /stack Identity pick cut to "karpathy-coding-discipline · 100…" at 1280 | canvas measure of the chosen label | The role moved into option groups ("The pick", "Runners-up", "Top of the shelf"): the label needs 204 px and has 274 px. |
+| /ask had no "Contributed by" line | `curl '/api/rank?limit=3'` · /ask screenshot | `/api/rank` rows carry `contributor` (from `lib/rank.mjs`) and `installable`. /ask shows "Contributed by Sentinel" on its rows and its cards. |
+
+Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
+test 6/6, test pyramid 14/14, `validate` and `test-gate` PASS, and a catalog rebuild shows no drift.
