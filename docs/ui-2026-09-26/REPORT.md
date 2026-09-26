@@ -140,3 +140,28 @@ Checked against a production build (`pnpm build && pnpm start -p 7312`). Screens
 
 Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
 test 6/6, test pyramid 14/14, `validate` and `test-gate` PASS, and a catalog rebuild shows no drift.
+
+### Second pull request: dedupe, the score, packages, deploy access, the gzipped catalogue
+
+Screenshots are in `shots/followups/b/`.
+
+| Item | Verify with | Result |
+|---|---|---|
+| T56: one repository entered twice | `node scripts/demote-same-repo.mjs`, then a lookup per repository | 102 rows folded in 59 repositories, moved to `brain/lookup/duplicates/` with nothing deleted: 36 across shelves, 5 roots written two ways, 18 folders under two branches. ruvnet/ruflo, stripe/ai, upstash/context7, langfuse, mlflow, container-use, claude-task-master, google/a2a, openmemory, `servers/src/everything` and `cognee-mcp` now enter once each. Subpaths no longer borrow their parent's stars. The 2,872 same-URL MCP pairs from PulseMCP and Glama sit behind `--same-type`, which is off. |
+| Wrappers shadowing projects | `armory install mempalace --dry-run` | Three MCP bridges that carried a project's own name are renamed to their repository's slug, and an exact-name tie resolves to the project. `mempalace` now means MemPalace. |
+| T20: /formula matches the engine | independent Python reproduction · the `/formula` sums | The score is 0.8 × best + 0.2 × second best; a third counts only when it beats one of them; `mentions: 0` is no signal. Five rows reproduce exactly: letta-ai-letta 99.5591, wshobson-agents 99.7223, e2b-sandbox 99.8892, context7-mcp 99.7727, daytona 80. All six worked sums on `/formula` add up to their score. The Context7 mentions moved to upstash/context7. |
+| T25: package files | `npm pack --dry-run` in `cli/` and `armory-mcp/` | Both tarballs now carry README.md and LICENSE (24 files and 12 files). Not published. |
+| T41: deploy access on four shelves | the `/c/sandbox`, `/c/memory`, `/c/mcps`, `/c/tools` screenshots | One line under the pick: E2B, Supermemory, Composio, and Browserbase + Stagehand. |
+| T24: gzipped catalogue | `ls -l catalog.json*` · top row from the CLI, the MCP and `/api/rank` | 55.4 MB to 7.1 MB. The site and the engine read the `.gz`, and the CLI, the MCP and `/api/rank` agree: openclaw-openclaw overall, thedotmack-claude-mem on memory. The plain file stays, because seven scripts outside Armory read it (`docs/CATALOG-SIZE.md`). |
+| Item 1: alternatives | the aider, github-mcp and letta pages | Only rows that share a purpose. aider: openai-codex, claude-squad (was gh and duckdb). github-mcp: nulab-backlog, github-brain-mcp-server, raohwork-forgejo. letta: plastic-labs-honcho. |
+| Item 2: alternatives' scores | the same pages | Three decimals, as `/` prints them: openai-codex 99.989, not 100.0. |
+| Item 3: pointer-only sections | aider page | "When to use it" and "How to install / invoke" are gone when they only say "See the source"; github-mcp keeps its real ones. |
+| Item 5: phone nav fade | 390 shots, start and end | The fade was already on main. At the end of the scroll the last link now ends at 322 px, and the fade starts at 323 px. |
+| Item 8: `bench` on Evals | `armory rank --component eval` | harbor-framework-terminal-bench-2-1 is on the Evals shelf at 94.4. |
+| Item 9: catalogue size | `docs/CATALOG-SIZE.md` | The ruling was already there. Today's measurement and what was done are added under 26 September. |
+
+After T20, cognee is seventh on Memory, still at its root repository. It was first only because the rows
+above it held mentions and the old blend took points off them for it.
+
+Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
+test 6/6, test pyramid 14/14, `validate` PASS (65,216), `test-gate` PASS, and a catalog rebuild shows no drift.
