@@ -10,7 +10,9 @@
 //     (identical to the crawler's), so they pass the SAME gate → promote path. No LLM anywhere.
 //   • `unresolved` (name only) → listed in the report; Sentinel's resolver upgrades them over time.
 //   • `tested` (hands-on trial verdicts) → `eval_score` on the rows of the same GitHub repository, written
-//     into the note like the mention raise. Never a new row. Rules: ingest/tested.mjs (CP143 T53).
+//     into the note like the mention raise. Never a new row on its own; for a `new` tool, a passing trial
+//     that the model check calls an agent component stands in for the 3 notes (CP143 Q21), and the stub
+//     carries the trial's score. Rules: ingest/tested.mjs (CP143 T53).
 //
 //   node scripts/ingest-sentinel-feed.mjs                       # dry run against the newest feed
 //   node scripts/ingest-sentinel-feed.mjs --feed <path> --apply
@@ -21,7 +23,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { slugify, toMarkdown } from "../ingest/crawl.mjs";
 import { parseFrontmatter } from "../ingest/catalog.mjs";
-import { planTested, fieldUpdates, setField } from "../ingest/tested.mjs";
+import { planTested, fieldUpdates, setField, latestTrials, vouches } from "../ingest/tested.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
@@ -127,6 +129,8 @@ const MIN_STARS = Number(val("--min-stars", 100));
 const MIN_MENTIONS = Number(val("--min-mentions", 3)); // one note naming a tool is noise; three is a pattern
 let stubs = 0, skipped = 0, belowFloor = 0, noRepo = 0;
 const planned = [];
+const trialFor = latestTrials(feed.tested); // CP143 Q21: a passing trial of an agent component stands in for the notes
+const ruledOut = []; // passed a trial, but the model check does not call it an agent component
 // A new row must point at a GitHub repo: that is where its stars/forks come from, and a row that can
 // never earn a signal is a permanent husk (platform.openai.com, kimi.com, a marketing site). Rows with
 // only a product URL stay in Sentinel's unresolved pile for the resolver to find the repo.
@@ -154,7 +158,9 @@ for (const r of feed.new || []) {
   const stars = typeof r.stars === "number" ? r.stars : fetched.get(repoKey(url))?.stargazerCount;
   if (typeof stars !== "number" || stars < MIN_STARS) { belowFloor++; continue; }
   r.stars = stars;
-  if (r.mentions < MIN_MENTIONS) { belowFloor++; continue; }
+  const trial = trialFor(url);
+  const onTrial = r.mentions < MIN_MENTIONS;
+  if (onTrial && !vouches(trial)) { belowFloor++; if (trial?.eval_score === 1) ruledOut.push(r.name); continue; }
   const slug = slugify(repoKey(url) || r.name);
   if (byName.has(slug)) { skipped++; continue; } // already in the catalog under its canonical slug
   const type = typeOf(r.name, url, fetched.get(repoKey(url))?.description || "");
@@ -162,17 +168,17 @@ for (const r of feed.new || []) {
     name: slug, type,
     description: (fetched.get(repoKey(url))?.description || "").trim() || `${r.name} — cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
     source_repo: repoKey(url), source_url: url, license: "unknown", cli_compat: CLI_COMPAT,
-    maturity: "experimental", stars: typeof r.stars === "number" ? r.stars : null, eval_score: null, mentions: r.mentions, verified_at: today,
+    maturity: "experimental", stars: typeof r.stars === "number" ? r.stars : null, eval_score: trial ? trial.eval_score : null, mentions: r.mentions, verified_at: today,
     related: [], tags: [`${SOURCE}-feed`, type],
   };
   const body =
     `## What it is\n${frontmatter.description}\n\n## When to use it\nSee the source: ${url}\n\n` +
     `## How to install / invoke\nSee the source README: ${url}\n\n` +
-    `## Notes\nContributed by ${LABEL} through the contributor feed (practitioner mentions), ${today}. Pending verify → promote.`;
+    `## Notes\nContributed by ${LABEL} through the contributor feed (${onTrial ? "a passing hands-on trial" : "practitioner mentions"}), ${today}. Pending verify → promote.`;
   const md = toMarkdown({ frontmatter, body });
   const back = parseFrontmatter(md); // roundtrip self-check, like the crawler
   if (back.name !== slug) { skipped++; continue; }
-  planned.push({ slug, type, url, mentions: r.mentions });
+  planned.push({ slug, type, url, mentions: r.mentions, onTrial });
   if (has("--apply")) {
     mkdirSync(INCOMING, { recursive: true });
     const file = join(INCOMING, `${slug}.md`);
@@ -207,7 +213,8 @@ console.log(`feed: ${feedPath}`);
 if (has("--reset")) console.log(`reset → ${reset} rows re-baselined to the feed's URL-credited counts`);
 console.log(`existing → mentions raised ${raised} · unchanged ${unchanged} · name-not-found ${missing}`);
 console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor} · no GitHub repo ${noRepo}`);
-for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ×${p.mentions}) ${p.url}`);
+for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ${p.onTrial ? "passing trial" : `×${p.mentions}`}) ${p.url}`);
+if (ruledOut.length) console.log(`   trial passed, no row (the model check does not call it an agent component): ${ruledOut.join(", ")}`);
 console.log(`unresolved (name only, Sentinel will resolve): ${(feed.unresolved || []).length}`);
 console.log(`tested → eval_score ${has("--apply") ? "set" : "to set"} on ${testedSet.length} rows · already recorded ${testedSame} · matched with no score ${unscored.length} · unmatched ${unmatched.length}`);
 for (const s of testedSet) console.log(`   ✓ ${s}`);
