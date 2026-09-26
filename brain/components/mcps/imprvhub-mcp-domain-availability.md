@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 59
 forks: 10
-pushed_at: "2026-09-26T13:22:56Z"
+pushed_at: "2026-09-26T14:05:44Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables Claude Desktop to check domain availability across 50+ TLDs. Features DNS/WHOIS verification, bulk checking, and smart suggestions. Zero-clone installation via uvx.

@@ -8,12 +8,12 @@ source_url: https://github.com/huggingface/hf-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 298
+stars: 299
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 103
+forks: 104
 pushed_at: "2026-09-23T14:11:02Z"
 ---
 ## What it is

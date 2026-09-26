@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-09-26T06:55:47Z"
+pushed_at: "2026-09-26T15:29:04Z"
 ---
 ## What it is
 Persistent memory MCP server that captures coding session context and automatically injects relevant memories into prompts using hybrid search for OpenCode and Claude Code.

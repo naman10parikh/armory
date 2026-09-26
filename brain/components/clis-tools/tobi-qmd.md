@@ -8,13 +8,13 @@ source_url: https://github.com/tobi/qmd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 30053
+stars: 30055
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1875
+forks: 1876
 pushed_at: "2026-09-09T20:51:56Z"
 ---
 ## What it is

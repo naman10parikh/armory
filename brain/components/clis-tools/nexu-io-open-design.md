@@ -8,13 +8,13 @@ source_url: https://github.com/nexu-io/open-design
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 98151
+stars: 98158
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 11388
+forks: 11387
 pushed_at: "2026-09-26T12:24:27Z"
 ---
 ## What it is

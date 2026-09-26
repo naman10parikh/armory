@@ -8,7 +8,7 @@ source_url: https://github.com/desktop-commander/remote-desktop-commander
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 87
+stars: 88
 eval_score: null
 verified_at: 2026-05-27
 related: []
