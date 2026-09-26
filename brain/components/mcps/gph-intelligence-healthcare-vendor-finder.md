@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T02:46:28Z"
+pushed_at: "2026-09-26T16:30:43Z"
 ---
 ## What it is
 Find 76,000+ curated healthcare service vendors across 25 categories and all 50 US states. Search by category, specialty, city, state, and EHR system to identify billing, credentialing, EHR, and practice-consulting vendors that serve medical practices.

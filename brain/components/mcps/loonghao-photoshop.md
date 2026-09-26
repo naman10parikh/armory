@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-25T19:32:24Z"
+pushed_at: "2026-09-26T15:41:25Z"
 ---
 ## What it is
 MCP server `Photoshop`, catalogued on PulseMCP. Connects AI agents to Adobe Photoshop via an HTTP server and UXP plugin for programmatic image manipulation and design automation.

@@ -15,7 +15,7 @@ verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
 forks: 11798
-pushed_at: "2026-09-26T15:22:43Z"
+pushed_at: "2026-09-26T16:34:54Z"
 ---
 ## What it is
 The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]

@@ -8,7 +8,7 @@ source_url: https://github.com/colbymchenry/codegraph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72115
+stars: 72118
 eval_score: null
 verified_at: 2026-05-27
 related: []

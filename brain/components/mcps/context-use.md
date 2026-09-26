@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T10:48:43Z"
+pushed_at: "2026-09-26T16:01:32Z"
 ---
 ## What it is
 Private knowledge base with Markdown pages and assets, exposed via MCP for agent access.

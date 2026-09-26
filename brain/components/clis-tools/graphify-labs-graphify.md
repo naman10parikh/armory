@@ -8,13 +8,13 @@ source_url: https://github.com/Graphify-Labs/graphify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 121594
+stars: 121603
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 11712
+forks: 11711
 pushed_at: "2026-09-26T13:06:38Z"
 ---
 ## What it is

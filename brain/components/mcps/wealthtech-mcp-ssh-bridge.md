@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T11:57:06Z"
+pushed_at: "2026-09-26T16:29:43Z"
 ---
 ## What it is
 A read-only MCP server that exposes controlled SSH tools to inventory, document, and prepare operations on WealthTech servers for AI assistants like ChatGPT and Codex.

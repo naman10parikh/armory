@@ -8,7 +8,7 @@ source_url: https://github.com/joenorton/comfyui-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 408
+stars: 409
 eval_score: null
 verified_at: 2026-05-27
 related: []
