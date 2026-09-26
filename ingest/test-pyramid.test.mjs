@@ -214,6 +214,22 @@ test("rankRows names the components its filter lists, the chips the leaderboard 
   assert.equal(rankRows(rows, {}).components, null, "no component filter lights no component chip");
 });
 
+test("domain: \"subscription\" counts toward payments only beside a payments word", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [orca, feeds, stripe, lemon, chargebee] = computeRows([
+    row("stablyai-orca", "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription."),
+    row("feeds", "Manage RSS feed subscriptions and unread counts"),
+    row("stripe-tools", "Stripe billing: customers and subscriptions"),
+    row("lemon-tools", "Manage Lemon Squeezy stores, products and subscriptions"),
+    row("chargebee-tools", "Query Chargebee subscriptions and customers"),
+  ]);
+  assert.equal(orca.domain, "ai-agents", "someone's own plan is not payments");
+  assert.notEqual(feeds.domain, "payments", "a feed subscription is not payments");
+  assert.equal(stripe.domain, "payments", "beside a payments word it still counts");
+  assert.equal(lemon.domain, "payments", "Lemon Squeezy is a billing platform, like Stripe");
+  assert.equal(chargebee.domain, "payments", "so is Chargebee");
+});
+
 // ── /stack guard: a pick below its shelf's top row must say why ───────────────
 test("stackPickGaps flags a pick below the top row with no reason, and a pick off its shelf", () => {
   const sandbox = (name, stars) => ({ name, type: "infrastructure", description: "Sandboxes for AI-generated code", stars, source_url: `https://github.com/a/${name}` });

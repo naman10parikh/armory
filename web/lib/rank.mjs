@@ -49,7 +49,7 @@ const DOMAINS = {
   database: ["database", "postgres", "sqlite", "mysql", "redis", "vector", "embedding", "sql", "supabase", "mongodb", "duckdb", "prisma", "neon"],
   auth: ["auth", "oauth", "clerk", "jwt", "login", "session", "sso", "identity", "credential", "rbac"],
   browser: ["browser", "playwright", "puppeteer", "chrome", "scrape", "stagehand", "crawl", "screenshot", "web-scraping", "browserbase"],
-  payments: ["stripe", "payment", "billing", "checkout", "invoice", "subscription", "paypal"],
+  payments: ["stripe", "payment", "billing", "checkout", "invoice", "paypal", "lemonsqueezy", "lemon squeezy", "chargebee"],
   devops: ["deploy", "docker", "kubernetes", "vercel", "aws", "gcp", "terraform", "ci/cd", "sandbox", "e2b", "fly.io", "cloudflare", "infra"],
   observability: ["log", "trace", "metric", "monitor", "observability", "posthog", "sentry", "telemetry", "analytics", "opentelemetry"],
   comms: ["slack", "email", "discord", "telegram", "sms", "twilio", "gmail", "notification", "webhook", "chat"],
@@ -109,11 +109,16 @@ export const BLEND = { base: 0.8, others: 0.2 };
 // fresh 0-star repo must not outrank a maintained 100-star one.
 const STALE_DAYS = 730; // 24 months
 
+// Words that count toward a domain only beside one of its own words. "Subscription" alone is usually
+// someone's plan ("run any coding agent with your own subscription"), a feed or an event stream; beside
+// "billing" or "stripe" it is billing (CP138 PR F).
+const SUPPORTING = { payments: ["subscription"] };
 const domainOf = (text) => {
   const t = (text || "").toLowerCase();
   let best = "other", hits = 0;
   for (const [dom, kws] of Object.entries(DOMAINS)) {
-    const h = kws.reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
+    let h = kws.reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
+    if (h > 0) h += (SUPPORTING[dom] ?? []).reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
     if (h > hits) { best = dom; hits = h; }
   }
   return best;
