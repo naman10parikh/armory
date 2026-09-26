@@ -2,7 +2,7 @@
 name: context7-mcp
 type: mcps
 description: >
-  Use whenever an agent needs current, version-accurate docs for a library, framework, SDK, or API — it fetches
+  Use whenever an agent needs current, version-accurate docs for a library, framework, SDK, or API. It fetches
   live documentation so the agent isn't relying on stale training data.
 source_repo: upstash/context7
 source_url: https://github.com/upstash/context7
@@ -33,5 +33,5 @@ Add `@upstash/context7-mcp` to your MCP config. Resolve the library, then query 
 coding against it.
 
 ## Notes
-Prefer this over a generic web search for library docs — it's targeted and current. Not for general programming
+Prefer this over a generic web search for library docs: it's targeted and current. Not for general programming
 concepts or business-logic debugging.

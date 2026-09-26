@@ -2,7 +2,7 @@
 name: obsidian-mcpvault
 type: mcps
 description: >
-  Use to let an agent read and write an Obsidian vault — search notes, follow wikilinks, and update frontmatter — so
+  Use to let an agent read and write an Obsidian vault (search notes, follow wikilinks, and update frontmatter) so
   a markdown knowledge graph becomes a first-class agent surface.
 source_repo: bitbonsai/mcpvault
 source_url: https://github.com/bitbonsai/mcpvault

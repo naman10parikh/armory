@@ -2,7 +2,7 @@
 name: browserbase-bb
 type: infrastructure
 description: >
-  Use when an agent must operate the live web — navigate, act, and extract on real pages — via a cloud browser
+  Use when an agent must operate the live web (navigate, act, and extract on real pages) via a cloud browser
   driven by act/extract/observe primitives, with a local-Chromium escape hatch using the same code.
 source_repo: browserbase/stagehand
 source_url: https://github.com/browserbase/stagehand
@@ -33,5 +33,5 @@ Use the Stagehand SDK (or the CLI built on it) and point it at the cloud browser
 against a local Chromium when you want an OSS, no-vendor-lock-in path.
 
 ## Notes
-Browser agents touch live authenticated sessions — the highest-risk surface. Block mutating requests at the network
+Browser agents touch live authenticated sessions, the highest-risk surface. Block mutating requests at the network
 layer, treat extracted page content as untrusted, and require consent before acting on a user's behalf.

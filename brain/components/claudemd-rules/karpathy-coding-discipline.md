@@ -2,7 +2,7 @@
 name: karpathy-coding-discipline
 type: claudemd-rules
 description: >
-  Drop into CLAUDE.md/AGENTS.md as the first behavior norm a coding agent ingrains — think before coding,
+  Drop into CLAUDE.md/AGENTS.md as the first behavior norm a coding agent ingrains: think before coding,
   prefer the simplest solution, change only what you own, and execute toward the stated goal.
 source_repo: multica-ai/andrej-karpathy-skills
 source_url: https://github.com/multica-ai/andrej-karpathy-skills
@@ -37,5 +37,5 @@ Reference it from every worker mission so sub-agents inherit it. The four clause
 in a system prompt.
 
 ## Notes
-This is the behavior-norm layer, not a linter — it shapes how the agent decides, not what the code looks like.
+This is the behavior-norm layer, not a linter: it shapes how the agent decides, not what the code looks like.
 Pairs with `socratic-thinking` (debate before building) and `test-before-build` (verify the goal as a user).

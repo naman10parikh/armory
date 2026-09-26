@@ -2,7 +2,7 @@
 name: microsandbox
 type: infrastructure
 description: >
-  Use as the OSS self-hosted sandbox when you need to run agent code on your own infra — libkrun-based microVM
+  Use as the OSS self-hosted sandbox when you need to run agent code on your own infra: libkrun-based microVM
   isolation with no per-sandbox vendor cost, the escape hatch from a managed runtime at high volume.
 source_repo: microsandbox/microsandbox
 source_url: https://github.com/microsandbox/microsandbox

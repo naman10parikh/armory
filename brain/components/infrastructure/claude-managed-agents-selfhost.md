@@ -2,8 +2,8 @@
 name: claude-managed-agents-selfhost
 type: infrastructure
 description: >
-  Use for enterprise hosted-control agents — the agent loop runs at the provider while execution happens on your own
-  infrastructure — when you want a managed control plane but data and code must stay on your machines.
+  Use for enterprise hosted-control agents (the agent loop runs at the provider while execution happens on your own
+  infrastructure) when you want a managed control plane but data and code must stay on your machines.
 source_repo: anthropics/anthropic-sdk-python
 source_url: https://github.com/anthropics/anthropic-sdk-python
 license: MIT
@@ -33,5 +33,5 @@ infra, with the appropriate beta API header set. Pair with tunnels to reach your
 
 ## Notes
 This is the hosted-control point on the spectrum between fully managed sandboxes and fully self-hosted ones. Choose
-it when control-plane convenience and data-plane ownership both matter. This space moves fast — re-check the
+it when control-plane convenience and data-plane ownership both matter. This space moves fast: re-check the
 current API surface before committing.
