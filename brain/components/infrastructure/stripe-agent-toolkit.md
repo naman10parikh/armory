@@ -4,8 +4,8 @@ type: infrastructure
 description: >
   Use as the payments rail when an agent should earn or spend money in code — create customers, prices, payment
   links, and usage-based billing — the infrastructure behind an agent that funds its own compute.
-source_repo: stripe/agent-toolkit
-source_url: https://github.com/stripe/agent-toolkit
+source_repo: stripe/ai
+source_url: https://github.com/stripe/ai
 license: MIT
 cli_compat: [claude, codex]
 maturity: stable

@@ -107,6 +107,17 @@ jobs:
           node scripts/persist-signals-to-brain.mjs --apply || echo "::warning::persist-to-brain failed — continuing"
           node ingest/catalog.mjs
 
+      # 3a. One project, two names (CP143): a rename leaves both rows behind with the same stars, forks and
+      #     last push. GitHub says which name is current; the old row moves (never deleted) to
+      #     brain/lookup/duplicates/ and its mentions fold into the kept row.
+      - name: Fold renamed repos into their current name
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node scripts/demote-renamed.mjs --apply || echo "::warning::rename fold failed — continuing"
+          node ingest/catalog.mjs
+
       # 3b. Keep tabs on the upstream source repos (refresh repos/status.json staleness).
       #     Fault-isolated; uses the runner's GITHUB_TOKEN for a higher rate limit.
       - name: Refresh source-repo watchlist
