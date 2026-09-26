@@ -7,7 +7,7 @@ license: unknown
 ---
 # morph-cloud
 
-Hypervisor-level snapshotting cloud for agent inference — fork and snapshot VM state for fast agent branching.
+Hypervisor-level snapshotting cloud for agent inference: fork and snapshot VM state for fast agent branching.
 
 **Source:** https://morph.so
 

@@ -7,7 +7,7 @@ license: MIT
 ---
 # browserbase-bb
 
-Use when an agent must operate the live web — navigate, act, and extract on real pages — via a cloud browser driven by act/extract/observe primitives, with a local-Chromium escape hatch using the same code.
+Use when an agent must operate the live web (navigate, act, and extract on real pages) via a cloud browser driven by act/extract/observe primitives, with a local-Chromium escape hatch using the same code.
 
 **Source:** https://github.com/browserbase/stagehand
 

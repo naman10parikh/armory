@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # crawl4ai
 
-Open-source async web crawling library optimised for LLM data extraction — Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
+Open-source async web crawling library optimised for LLM data extraction: Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.
 
 **Source:** https://github.com/unclecode/crawl4ai
 

@@ -7,7 +7,7 @@ license: MIT
 ---
 # langsmith
 
-LangChain's platform for tracing, evaluating, and monitoring LLM applications — deep integration with LangChain/LangGraph plus a REST API for any stack.
+LangChain's platform for tracing, evaluating, and monitoring LLM applications: deep integration with LangChain/LangGraph plus a REST API for any stack.
 
 **Source:** https://github.com/langchain-ai/langsmith-sdk
 

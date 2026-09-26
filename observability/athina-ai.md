@@ -7,7 +7,7 @@ license: MIT
 ---
 # athina-ai
 
-Athina AI provides developer-focused LLM monitoring and eval framework — real-time inference logging, automated evals, and regression detection in CI.
+Athina AI provides developer-focused LLM monitoring and eval framework: real-time inference logging, automated evals, and regression detection in CI.
 
 **Source:** https://github.com/athina-ai/athina-evals
 

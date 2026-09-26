@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # e2b-sandbox
 
-Use as the default runtime when an agent must execute untrusted code or commands — Firecracker microVMs with ~150ms cold start give each run an isolated, disposable computer.
+Use as the default runtime when an agent must execute untrusted code or commands. Firecracker microVMs with ~150ms cold start give each run an isolated, disposable computer.
 
 **Source:** https://github.com/e2b-dev/E2B
 

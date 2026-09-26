@@ -7,7 +7,7 @@ license: commercial
 ---
 # maxim-ai
 
-Maxim AI is an evaluation and observability platform for AI agents — supports multi-step trace analysis, prompt testing, and production quality monitoring.
+Maxim AI is an evaluation and observability platform for AI agents. It supports multi-step trace analysis, prompt testing, and production quality monitoring.
 
 **Source:** https://www.getmaxim.ai
 

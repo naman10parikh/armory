@@ -7,7 +7,7 @@ license: AGPL-3.0
 ---
 # skyvern
 
-Open-source agent platform that automates browser-based workflows using LLMs and computer vision — identifies interactive elements via screenshots, handles CAPTCHAs, and supports complex multi-step form flows.
+Open-source agent platform that automates browser-based workflows using LLMs and computer vision. It identifies interactive elements via screenshots, handles CAPTCHAs, and supports complex multi-step form flows.
 
 **Source:** https://github.com/Skyvern-AI/skyvern
 

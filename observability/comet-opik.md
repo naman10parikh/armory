@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # comet-opik
 
-Opik by Comet is an open-source LLM evaluation and tracing platform — log traces, run automated evals, create datasets, and track prompt improvements over time.
+Opik by Comet is an open-source LLM evaluation and tracing platform: log traces, run automated evals, create datasets, and track prompt improvements over time.
 
 **Source:** https://github.com/comet-ml/opik
 

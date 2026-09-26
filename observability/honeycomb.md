@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # honeycomb
 
-Honeycomb's OpenTelemetry-native observability platform — high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.
+Honeycomb's OpenTelemetry-native observability platform: a high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.
 
 **Source:** https://github.com/honeycombio/honeycomb-opentelemetry-node
 

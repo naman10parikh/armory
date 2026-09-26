@@ -7,7 +7,7 @@ license: MIT
 ---
 # bytebot
 
-Bytebot open-source computer-use agent — Docker-based Ubuntu desktop with AI-controlled mouse and keyboard; exposes an HTTP API for agents to send click, type, screenshot, and macro commands.
+Bytebot open-source computer-use agent: a Docker-based Ubuntu desktop with AI-controlled mouse and keyboard; exposes an HTTP API for agents to send click, type, screenshot, and macro commands.
 
 **Source:** https://github.com/bytebot-ai/bytebot
 

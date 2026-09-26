@@ -7,7 +7,7 @@ license: commercial
 ---
 # literal-ai
 
-Literal AI is an observability and evaluation platform for conversational AI — captures multi-step threads, scores responses, and integrates with Chainlit.
+Literal AI is an observability and evaluation platform for conversational AI. It captures multi-step threads, scores responses, and integrates with Chainlit.
 
 **Source:** https://literalai.com
 

@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # lunary
 
-Open-source LLM observability and prompt management platform — tracks conversations, errors, costs, and user feedback for production AI applications.
+Open-source LLM observability and prompt management platform. It tracks conversations, errors, costs, and user feedback for production AI applications.
 
 **Source:** https://github.com/lunary-ai/lunary
 

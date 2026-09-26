@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # helicone
 
-Open-source LLM observability platform — proxy-based logging, cost tracking, caching, and rate limiting for OpenAI-compatible APIs.
+Open-source LLM observability platform: proxy-based logging, cost tracking, caching, and rate limiting for OpenAI-compatible APIs.
 
 **Source:** https://github.com/Helicone/helicone
 
