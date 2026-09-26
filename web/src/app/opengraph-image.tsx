@@ -27,7 +27,7 @@ export default async function Image() {
           {top.map((r, i) => (
             <div key={r.name} style={{ display: "flex", alignItems: "baseline", fontSize: 28, marginTop: 10 }}>
               <span style={{ width: 44, color: OG.faint }}>{i + 1}</span>
-              <span style={{ flexGrow: 1, color: OG.body }}>{r.name}</span>
+              <span style={{ flexGrow: 1, color: OG.body }}>{r.title || r.name}</span>
               <span style={{ color: OG.accent }}>{scores[i] ?? ""}</span>
             </div>
           ))}

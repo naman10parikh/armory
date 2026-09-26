@@ -99,6 +99,8 @@ function CopyButton({ copied, onCopy, label }: { copied: boolean; onCopy: () => 
 
 export interface StackPick {
   name: string;
+  /** The catalog's title when the slug had to differ: printed for people, never put in the command. */
+  title?: string;
   /** Whether `armory install` places it (src/lib/installable.ts). */
   installable: boolean;
   source: string | null;
@@ -138,10 +140,10 @@ export function StackCommand({ picks }: { picks: readonly StackPick[] }) {
                   rel="noreferrer noopener"
                   className="cursor-pointer text-accent-hover underline underline-offset-4"
                 >
-                  {p.name}
+                  {p.title || p.name}
                 </a>
               ) : (
-                p.name
+                p.title || p.name
               )}
             </span>
           ))}

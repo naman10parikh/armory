@@ -15,6 +15,7 @@ export function toRowViews(rows: readonly ListedRow[]): RowView[] {
     key: `${r.type}/${r.name}`,
     rank: r.rank,
     name: r.name,
+    title: r.title,
     href: r.type ? detailHref(r.type, r.name) : r.url,
     external: !r.type && r.url != null,
     meta: [r.component, r.domain].filter(Boolean).join(" · "),
@@ -30,7 +31,7 @@ export function toRowViews(rows: readonly ListedRow[]): RowView[] {
     gained: r.gained,
     ours: r.ours,
     contributedBy: r.contributedBy,
-    alsoListedAs: r.alsoListedAs.map((t) => ({ name: t.name, href: t.type ? detailHref(t.type, t.name) : null })),
+    alsoListedAs: r.alsoListedAs.map((t) => ({ name: t.name, title: t.title, href: t.type ? detailHref(t.type, t.name) : null })),
     installable: r.installable,
     source: r.url,
   }));

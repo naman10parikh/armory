@@ -6,6 +6,7 @@ import { readCatalogText } from "./catalog-file";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied to the site root by prebuild)
 import { computeRows } from "../../lib/rank.mjs";
 import { isInstallable } from "./installable";
+import { titleOf } from "./format";
 
 export interface Primary { key: string; value: number | null; pct: number; label: string }
 export interface Signals { stars: number | null; usage: number | null; tested: number | null; mentions: number | null }
@@ -15,7 +16,7 @@ interface EngineRow {
   desc: string; scores: { universal: number | null }; primary: Primary | null;
   verified?: boolean; signals: Signals;
 }
-interface RawComponent { name?: string; description?: string; tags?: string[] | string }
+interface RawComponent { name?: string; title?: unknown; description?: string; tags?: string[] | string }
 interface Hit { raw: RawComponent; row: EngineRow }
 
 // The scored corpus (raw component paired with its enriched engine row, 1:1) is built once and cached in
@@ -66,7 +67,10 @@ function keywordScore(raw: RawComponent, qTerms: string[]): { score: number; mat
 }
 
 export interface AskItem {
-  name: string; component: string; domain: string; vertical: string | null;
+  name: string;
+  /** The catalog's title when the slug had to differ: cards and replies print `title || name`, commands the slug. */
+  title?: string;
+  component: string; domain: string; vertical: string | null;
   url: string | null; universal: number | null; primary: Primary | null; desc: string;
   verified: boolean; signals: Signals;
   /** The feed that contributed the row ("Sentinel"), from lib/rank.mjs. */
@@ -104,6 +108,7 @@ function runSearch(qTerms: string[], f: Filters, limit = 12): AskItem[] {
   const ordered = [...pool, ...rest];
   return ordered.slice(0, limit).map(({ h }) => ({
     name: h.row.name,
+    title: titleOf(h.raw),
     component: h.row.component,
     domain: h.row.domain,
     vertical: h.row.vertical,

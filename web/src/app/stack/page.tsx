@@ -79,10 +79,10 @@ function slotFor(slug: string, sp: Params): Slot {
   const options: PickOption[] = [
     ...picks.map((p, i) => ({
       value: p.armoryName as string,
-      label: `${p.name}${score(p.row)}${ours(p.row)}`,
+      label: `${p.row?.title || p.name}${score(p.row)}${ours(p.row)}`,
       group: i === 0 ? "The pick" : "Runners-up",
     })),
-    ...alternates.map((r) => ({ value: r.name, label: `${r.name}${score(r)}${ours(r)}`, group: "Top of the shelf" })),
+    ...alternates.map((r) => ({ value: r.name, label: `${r.title || r.name}${score(r)}${ours(r)}`, group: "Top of the shelf" })),
     { value: NONE, label: "Leave this slot out", group: "" },
   ];
 
@@ -246,6 +246,7 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
             <StackCommand
               picks={chosen.map((s) => ({
                 name: s.row?.name ?? s.chosen,
+                title: s.row?.title,
                 installable: s.row?.installable ?? false,
                 source: s.row?.url ?? s.sourceUrl,
               }))}

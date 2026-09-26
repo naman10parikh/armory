@@ -257,7 +257,7 @@ export default async function ComponentDetailPage({
                         href={detailHref(alt.type, alt.name)}
                         className="cursor-pointer break-words text-[14px] font-medium text-ink-hi transition-colors duration-150 ease-state hover:text-accent-hover"
                       >
-                        {alt.name}
+                        {alt.title || alt.name}
                       </Link>
                       {alt.ours && <OursTag />}
                       <span className="mt-0.5 block">

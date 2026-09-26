@@ -24,7 +24,10 @@ import { githubReadText, int, shortDate } from "@/lib/format";
 export interface RowView {
   key: string;
   rank: number | null;
+  /** The slug: the key, the link and `armory install` use it. */
   name: string;
+  /** The catalog's title when the slug had to differ; the name cell prints `title || name`. */
+  title?: string;
   /** Internal detail route when the row has a type, else its source. */
   href: string | null;
   external: boolean;
@@ -45,7 +48,7 @@ export interface RowView {
   /** The feed that contributed the row, shown as a quiet provenance line. */
   contributedBy: string | null;
   /** The same repository's other listings, folded into this line. */
-  alsoListedAs: { name: string; href: string | null }[];
+  alsoListedAs: { name: string; title?: string; href: string | null }[];
   /** False when `armory install` places nothing: the Install cell says so instead of promising it. */
   installable: boolean;
   /** Where the component lives, for the "Source" link when there is no one-command install. */
@@ -169,14 +172,14 @@ function NameCell({ row }: { row: RowView }) {
     <>
       <span className="text-[13.5px] leading-snug">
         {row.href == null ? (
-          <span className="break-words font-medium text-ink-hi">{row.name}</span>
+          <span className="break-words font-medium text-ink-hi">{row.title || row.name}</span>
         ) : row.external ? (
           <a href={row.href} target="_blank" rel="noreferrer noopener" className={cls}>
-            {row.name}
+            {row.title || row.name}
           </a>
         ) : (
           <Link href={row.href} className={cls}>
-            {row.name}
+            {row.title || row.name}
           </Link>
         )}
         {row.ours && <OursTag />}
@@ -195,10 +198,10 @@ function NameCell({ row }: { row: RowView }) {
               {i > 0 && ", "}
               {t.href ? (
                 <Link href={t.href} className="cursor-pointer underline underline-offset-2 hover:text-accent-hover">
-                  {t.name}
+                  {t.title || t.name}
                 </Link>
               ) : (
-                t.name
+                t.title || t.name
               )}
             </span>
           ))}

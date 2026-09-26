@@ -131,7 +131,7 @@ export function InstallModal({ component, installable }: { component: Component;
                     id={titleId}
                     className="mt-1.5 truncate font-serif text-[1.75rem] leading-tight tracking-[-0.01em] text-ink-hi"
                   >
-                    {component.name}
+                    {component.title || component.name}
                   </h2>
                 </div>
                 <button

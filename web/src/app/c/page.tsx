@@ -105,7 +105,7 @@ export default function ComponentsPage() {
                       Pick
                     </span>{" "}
                     <span className="font-sans text-[12px] text-ink-body">
-                      {c.topPick ? c.topPick.name : "—"}
+                      {c.topPick ? c.topPick.row?.title || c.topPick.name : "—"}
                     </span>
                   </div>
                 </Link>

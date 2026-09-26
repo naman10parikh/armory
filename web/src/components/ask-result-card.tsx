@@ -7,6 +7,8 @@ import { evidenceOf } from "./ranked-row";
 
 export interface AskResultItem {
   name: string;
+  /** The catalog's title when the slug had to differ; the card prints it, the install command keeps the slug. */
+  title?: string;
   component: string;
   domain: string;
   vertical: string | null;
@@ -35,10 +37,10 @@ export function AskResultCard({ item }: { item: AskResultItem }) {
               rel="noopener noreferrer"
               className="cursor-pointer text-[15px] font-semibold text-ink-hi transition-colors duration-150 ease-state hover:text-accent-hover"
             >
-              {item.name}
+              {item.title || item.name}
             </a>
           ) : (
-            <span className="text-[15px] font-semibold text-ink-hi">{item.name}</span>
+            <span className="text-[15px] font-semibold text-ink-hi">{item.title || item.name}</span>
           )}
           <div className="mt-0.5 truncate text-[11.5px] text-ink-muted">
             {[item.component, item.domain, item.vertical].filter(Boolean).join(" · ")}

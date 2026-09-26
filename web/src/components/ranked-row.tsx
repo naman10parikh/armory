@@ -11,6 +11,8 @@ import { isOurs, rankedScoreTexts, tiedRank } from "@/lib/format";
 /** One flat item from GET /api/rank (lib/rank.mjs flat()). */
 export interface RankedRowData {
   name: string;
+  /** Set by the /api/rank route when the catalog gives the row a title (the slug had to differ). */
+  title?: string;
   type?: string | null;
   component: string;
   domain: string;
@@ -44,6 +46,7 @@ export function apiRowViews(items: readonly RankedRowData[], firstRank = 1): Row
     key: `${it.type ?? it.component}/${it.name}/${i}`,
     rank: ranks[i],
     name: it.name,
+    title: it.title,
     href: it.type ? `/e/${encodeURIComponent(it.type)}/${encodeURIComponent(it.name)}` : it.url,
     external: !it.type && it.url != null,
     meta: [it.component, it.domain].filter(Boolean).join(" · "),
