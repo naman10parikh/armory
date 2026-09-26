@@ -270,7 +270,7 @@ function mcpsoAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee the [mcp.so listing](${mcpsoPageUrl}) for install instructions.\n\n` +
-          `## Notes\nDiscovered via mcp.so sitemap (${usedFallback ? "GitHub fallback" : "live sitemaps"}). Pending verify -> promote.`,
+          `## Notes\nListed from the mcp.so sitemap${usedFallback ? " (through GitHub)" : ""}.`,
       };
     },
   };

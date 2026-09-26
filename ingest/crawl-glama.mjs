@@ -166,7 +166,7 @@ function glamaAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee [Glama](${rec.glamaUrl}) for the install config.\n\n` +
-          `## Notes\nDiscovered via the Glama MCP registry (live API). Pending verify -> promote.`,
+          `## Notes\nListed from the Glama MCP registry.`,
       };
     },
   };

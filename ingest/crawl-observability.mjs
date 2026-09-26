@@ -322,7 +322,7 @@ function observabilityAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\nUse ${item.title} when you need LLM/agent observability, tracing, or monitoring in your pipeline.\n\n` +
           `## How to install / invoke\nSee the source repo or docs at ${sourceUrl}.\n\n` +
-          `## Notes\nDiscovered via the observability-tools curated list. Pending verify -> promote.`,
+          `## Notes\nListed from Armory's observability-tools list.`,
       };
     },
   };

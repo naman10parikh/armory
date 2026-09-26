@@ -157,7 +157,7 @@ export function buildAmcpStubs(items) {
     const body = `## What it is\n${description}\n\n` +
       `## When to use it\nWhen an agent needs the "${it.category}" capability this MCP server exposes.\n\n` +
       `## Source\nMigrated from the awesome-mcp-servers navigation directory (category: ${it.category}). ` +
-      `See ${it.url}. Pending verify -> promote.`;
+      `See ${it.url}.`;
     stubs.push({ frontmatter, body });
   }
   return stubs;
@@ -277,7 +277,7 @@ export function buildAccStubs(items) {
     const body = `## What it is\n${description}\n\n` +
       `## When to use it\nWhen working in Claude Code and you need the "${it.category}" resource this provides.\n\n` +
       `## Source\nMigrated from the awesome-claude-code resources table (category: ${it.category}). ` +
-      `See ${it.url}. Pending verify -> promote.`;
+      `See ${it.url}.`;
     stubs.push({ type: it.type, frontmatter, body });
   }
   return stubs;

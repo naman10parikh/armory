@@ -2,7 +2,7 @@
 name: agentgrid
 type: clis-tools
 description: >
-  Use to run many agents in parallel as a visible grid of terminal panes — create an NxM layout, name and monitor
+  Use to run many agents in parallel as a visible grid of terminal panes: create an NxM layout, name and monitor
   panes, broadcast or target prompts, and save/restore whole company configurations.
 source_repo: naman10parikh/agentgrid
 source_url: https://github.com/naman10parikh/agentgrid
@@ -24,8 +24,8 @@ pane, reports health (working/waiting/done/idle), broadcasts a prompt to all pan
 sizes, and saves/restores a named company configuration for repeatable launches.
 
 ## When to use it
-When a job is large enough to split across several agents working at once — a builder/QA/content/research company —
-and you want to see and steer them. The trigger is "spawn a grid" or "run these workers in parallel."
+When a job is large enough to split across several agents working at once, such as a builder/QA/content/research
+company, and you want to see and steer them. The trigger is "spawn a grid" or "run these workers in parallel."
 
 ## How to install / invoke
 Install the package globally and create a grid (e.g. `agentgrid 2x3 "claude ..."`), then `agentgrid status` to

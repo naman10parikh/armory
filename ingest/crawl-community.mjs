@@ -96,7 +96,7 @@ function body({ name, type, description, sourceUrl }) {
     `Vendored from \`${SOURCE_REPO}\` (\`${type}\`). See the source: ${sourceUrl}`,
     "",
     "## Notes",
-    `Ingested from the affaan-m/ecc harness library (MIT). Pending verify → promote.`,
+    `Ingested from the affaan-m/ecc harness library (MIT).`,
   ].join("\n");
 }
 

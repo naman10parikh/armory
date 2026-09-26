@@ -168,8 +168,7 @@ export function dlezoAdapter({ repoDir, existingNames = new Set() }) {
           `## How to install / invoke\n\`\`\`bash\n# copy into your project's .claude/agents/\n` +
           `curl -sL https://github.com/${item.owner}/${item.repo}/raw/main/${item.relPath} -o .claude/agents/${item.fileSlug}.md\n` +
           `\`\`\`\n\n## Notes\n` +
-          `Extracted from [\`${item.owner}/${item.repo}\`](${url}). ` +
-          `Pending verify -> promote.`,
+          `Extracted from [\`${item.owner}/${item.repo}\`](${url}).`,
       };
     },
   };
@@ -246,8 +245,7 @@ export function vijayAdapter({ repoDir, existingNames = new Set() }) {
           `## How to install / invoke\n\`\`\`bash\n# copy into your project's .claude/agents/\n` +
           `curl -sL https://github.com/${item.owner}/${item.repo}/raw/main/${item.relPath} -o .claude/agents/${item.fileSlug}.md\n` +
           `\`\`\`\n\n## Notes\n` +
-          `Extracted from [\`${item.owner}/${item.repo}\`](${url}). ` +
-          `Pending verify -> promote.`,
+          `Extracted from [\`${item.owner}/${item.repo}\`](${url}).`,
       };
     },
   };
@@ -308,8 +306,7 @@ export function hrhAdapter({ repoDir, existingNames = new Set() }) {
           `## How to install / invoke\n\`\`\`bash\n# copy into your project's .claude/agents/\n` +
           `curl -sL https://github.com/${item.owner}/${item.repo}/raw/main/${item.relPath} -o .claude/agents/${item.fileSlug}.md\n` +
           `\`\`\`\n\n## Notes\n` +
-          `Extracted from [\`${item.owner}/${item.repo}\`](${url}). ` +
-          `Pending verify -> promote.`,
+          `Extracted from [\`${item.owner}/${item.repo}\`](${url}).`,
       };
     },
   };

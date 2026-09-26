@@ -212,7 +212,7 @@ function smitheryAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee [Smithery](${smitheryUrl}) for the install config.\n\n` +
-          `## Notes\nDiscovered via the Smithery MCP registry (${usedFallback ? "GitHub fallback" : "live API"}). Pending verify -> promote.`,
+          `## Notes\nListed from the Smithery MCP registry${usedFallback ? " (through GitHub)" : ""}.`,
       };
     },
   };

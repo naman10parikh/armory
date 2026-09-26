@@ -138,7 +138,7 @@ export function cursorRulesAdapter({ repoDir, existingNames = new Set() }) {
         `curl -sL https://github.com/${owner}/${repo}/raw/main/${item.relPath} -o .cursor/rules/${item.fileSlug}.mdc\n` +
         "```\n\n## Notes\n" +
         `Migrated from [\`${owner}/${repo}\`](${url}) (the largest Cursor-rules collection). ` +
-        `Cursor \`.mdc\` rule files are valid agent-harness rules. Pending verify -> promote.` };
+        `Cursor \`.mdc\` rule files are valid agent-harness rules.` };
     },
   };
 }
@@ -195,7 +195,7 @@ export function voltAgentAdapter({ repoDir, existingNames = new Set() }) {
         `curl -sL https://github.com/${owner}/${repo}/raw/main/${item.relPath} -o .claude/agents/${item.fileSlug}.md\n` +
         "```\n\n## Notes\n" +
         `Extracted from [\`${owner}/${repo}\`](${url}). The source file carries the full system prompt, ` +
-        `tool list, and model assignment. Pending verify -> promote.` };
+        `tool list, and model assignment.` };
     },
   };
 }
@@ -289,7 +289,7 @@ export function hooksAdapter({ dislerDir, deciderDir, existingNames = new Set() 
         "```bash\n# wire the script into .claude/settings.json hooks for the matching event\n" +
         `curl -sL https://github.com/${item.owner}/${item.repo}/raw/main/${item.relPath} -o .claude/hooks/${item.fileSlug}.py\n` +
         "```\n\n## Notes\n" +
-        `Extracted from \`${item.relPath}\`. See the repo for the settings.json wiring and full implementation.${detail} Pending verify -> promote.` };
+        `Extracted from \`${item.relPath}\`. See the repo for the settings.json wiring and full implementation.${detail}` };
     },
   };
 }

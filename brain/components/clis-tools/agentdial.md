@@ -2,8 +2,8 @@
 name: agentdial
 type: clis-tools
 description: >
-  Use to give an agent a universal identity and reachable channels — a stable handle the agent presents across
-  surfaces — when agents need to be addressable and authenticated, not anonymous processes.
+  Use to give an agent a universal identity and reachable channels, a stable handle the agent presents across
+  surfaces, when agents need to be addressable and authenticated rather than anonymous processes.
 source_repo: naman10parikh/agentdial
 source_url: https://github.com/naman10parikh/agentdial
 license: MIT
@@ -20,11 +20,11 @@ pushed_at: "2026-06-10T03:28:27Z"
 
 ## What it is
 A CLI implementing an agent identity protocol. It gives an agent a universal, stable identity and a set of channels
-through which it can be reached and can act — the addressing-and-identity layer for a fleet of agents that need to
+through which it can be reached and can act: the addressing-and-identity layer for a fleet of agents that need to
 be more than anonymous processes.
 
 ## When to use it
-When agents must be individually identifiable and reachable — multi-agent systems, agents that act on a user's
+When agents must be individually identifiable and reachable: multi-agent systems, agents that act on a user's
 behalf, or fleets where "which agent did this?" matters. The trigger is "give this agent an identity."
 
 ## How to install / invoke
