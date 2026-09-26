@@ -1,7 +1,7 @@
 // The shelf a new contributor-feed row goes on (ingest/shelf.mjs). Zero-dep (node:test), no files touched.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { typeOf, freeSlug } from "./shelf.mjs";
+import { typeOf, freeSlug, titleFor } from "./shelf.mjs";
 
 test("shelf: a tool that works on MCP servers is not filed as one", () => {
   const agentShield = "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool " +
@@ -40,4 +40,17 @@ test("slug: no second row for a repository that is listed already, or when a hol
   assert.equal(freeSlug("microsoft-playwright", "https://github.com/microsoft/playwright", listed), null);
   assert.equal(freeSlug("o-r", "https://github.com/o/r", [{ name: "o-r", source_url: "https://github.com/o/r/blob/main/SKILL.md" }]), null);
   assert.equal(freeSlug("o-r", "https://github.com/o/r", [{ name: "o-r", source_url: "https://mcp.so/server/o-r" }]), null);
+});
+
+test("name: a row that took a -2 shows its own slug, and the title reaches the catalog row only when set", async () => {
+  const { componentOf, parseFrontmatter } = await import("./catalog.mjs");
+  const rows = [{ name: "microsoft-playwright", type: "mcps", source_url: "https://github.com/microsoft/playwright-mcp" }];
+  const slug = freeSlug("microsoft-playwright", "https://github.com/microsoft/playwright", rows);
+  assert.equal(titleFor("microsoft-playwright", slug), "microsoft-playwright");
+  assert.equal(titleFor("o-free", freeSlug("o-free", "https://github.com/o/free", rows)), undefined);
+  const md = (extra) => `---\nname: ${slug}\n${extra}type: clis-tools\ndescription: >\n  Web testing.\n---\nbody\n`;
+  const withTitle = componentOf(parseFrontmatter(md("title: microsoft-playwright\n")), "clis-tools", `${slug}.md`);
+  assert.equal(withTitle.name, "microsoft-playwright-2");
+  assert.equal(withTitle.title, "microsoft-playwright");
+  assert.ok(!("title" in componentOf(parseFrontmatter(md("")), "clis-tools", `${slug}.md`)));
 });

@@ -1,5 +1,5 @@
 // shelf.mjs — where a new contributor-feed row goes: its shelf (type) and its slug, which together make its URL,
-// /e/<type>/<slug> (moved from scripts/ingest-sentinel-feed.mjs so they can be tested).
+// /e/<type>/<slug>, and the name its page shows (moved from scripts/ingest-sentinel-feed.mjs so they can be tested).
 //
 // Shelf assignment. The old version was a three-way guess that sent EVERYTHING non-MCP,
 // non-memory to `clis-tools` — which quietly inflated our best-scored shelf with things that are
@@ -35,6 +35,11 @@ export function typeOf(name, url, description = "") {
 // -3, the suffix the catalog already uses. null when a row of the same repository holds the slug or a suffixed
 // one (the tool is listed already), or when a holder names no repository to compare. Existing rows keep their
 // slugs, so no URL changes.
+// The name a person sees on a new row that had to take a suffix: its own slug. The Playwright MCP row holds
+// microsoft-playwright, so microsoft/playwright's page is /e/clis-tools/microsoft-playwright-2 and its heading
+// reads "microsoft-playwright". undefined when the row got its own slug, which is then its name.
+export const titleFor = (own, slug) => (slug && slug !== own ? own : undefined);
+
 const ownerRepo = (url) => {
   const m = String(url || "").match(/github\.com\/([^/\s#?]+)\/([^/\s#?]+)/i);
   return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}`.toLowerCase() : null;

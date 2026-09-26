@@ -24,7 +24,8 @@ import { dirname, join } from "node:path";
 import { slugify, toMarkdown } from "../ingest/crawl.mjs";
 import { parseFrontmatter } from "../ingest/catalog.mjs";
 import { planTested, fieldUpdates, setField, latestTrials, vouches } from "../ingest/tested.mjs";
-import { typeOf, freeSlug } from "../ingest/shelf.mjs";
+import { typeOf, freeSlug, titleFor } from "../ingest/shelf.mjs";
+import { creditRows } from "../ingest/credit.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
@@ -54,12 +55,14 @@ if (!feedPath || !existsSync(feedPath)) {
 }
 const feed = JSON.parse(readFileSync(feedPath, "utf-8"));
 const cat = JSON.parse(readFileSync(CATALOG, "utf-8"));
-const byName = new Map(cat.components.map((c) => [c.name, c]));
+// A mention reaches its repository's root row, never a folder or a same-slug row on another shelf; a repository
+// with no root row joins the `new` candidates, where the intake gate decides (ingest/credit.mjs).
+const { credited, fresh, moved } = creditRows(feed, cat.components);
+feed.new = [...(feed.new || []), ...fresh];
 
 // ── existing rows: raise `mentions` (never lower) ─────────────────────────────────────────────
 let raised = 0, unchanged = 0, missing = 0;
-for (const r of feed.existing || []) {
-  const row = byName.get(r.armory_name);
+for (const { entry: r, row } of credited) {
   if (!row) { missing++; continue; }
   const cur = typeof row.mentions === "number" ? row.mentions : 0;
   if (r.mentions > cur) {
@@ -149,8 +152,8 @@ for (const r of feed.new || []) {
   if (!slug) { skipped++; continue; }
   const type = typeOf(r.name, url, fetched.get(repoKey(url))?.description || "");
   const frontmatter = {
-    name: slug, type,
-    description: (fetched.get(repoKey(url))?.description || "").trim() || `${r.name} — cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
+    name: slug, ...(titleFor(own, slug) ? { title: titleFor(own, slug) } : {}), type,
+    description: (fetched.get(repoKey(url))?.description || "").trim() || `${r.name}: cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
     source_repo: repoKey(url), source_url: url, license: "unknown", cli_compat: CLI_COMPAT,
     maturity: "experimental", stars: typeof r.stars === "number" ? r.stars : null, eval_score: trial ? trial.eval_score : null, mentions: r.mentions, verified_at: today,
     related: [], tags: [`${SOURCE}-feed`, type],
@@ -177,9 +180,11 @@ for (const r of feed.new || []) {
 // brings the old numbers back. Monotone --apply stays the nightly path.
 let reset = 0;
 if (has("--reset") && has("--apply")) {
-  const credited = new Map((feed.existing || []).map((r) => [r.armory_name, r.mentions]));
+  // The same crediting as the raise above (ingest/credit.mjs): by row, not by name.
+  const creditOf = new Map();
+  for (const { entry, row } of credited) if (row) creditOf.set(row, Math.max(creditOf.get(row) ?? 0, entry.mentions));
   for (const c of cat.components || []) {
-    const target = credited.has(c.name) ? credited.get(c.name) : null;
+    const target = creditOf.has(c) ? creditOf.get(c) : null;
     if ((c.mentions ?? null) === target) continue;
     c.mentions = target;
     const file = join(ROOT, "brain", c.path);
@@ -196,6 +201,7 @@ if (has("--apply")) writeFileSync(CATALOG, JSON.stringify(cat, null, 2) + "\n");
 console.log(`feed: ${feedPath}`);
 if (has("--reset")) console.log(`reset → ${reset} rows re-baselined to the feed's URL-credited counts`);
 console.log(`existing → mentions raised ${raised} · unchanged ${unchanged} · name-not-found ${missing}`);
+for (const m of moved) console.log(`   ↪ ${m.tool}: credited to ${m.to ?? "no row yet (a new candidate: its repository has no root row)"}, not ${m.from ?? "an unknown row"}`);
 console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor} · no GitHub repo ${noRepo}`);
 for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ${p.onTrial ? "passing trial" : `×${p.mentions}`}) ${p.url}${p.taken ? ` (${p.taken} is another repository's row)` : ""}`);
 if (ruledOut.length) console.log(`   trial passed, no row (the model check does not call it an agent component): ${ruledOut.join(", ")}`);

@@ -12,7 +12,7 @@ stars: 24304
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 7
+mentions: null
 ---
 ## What it is
 MCP server `Mastra Docs`, catalogued on PulseMCP. Provides AI assistants with direct access to Mastra.ai's complete knowledge base.

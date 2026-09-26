@@ -67,3 +67,26 @@ Gzipped, it is 7,085,052 bytes (6.8 MiB).
 So `catalog.json` is still written and committed. The `.gz` is gitignored, not committed, because
 committing a gzip blob every night on top would make the pack grow faster, not slower. To finish,
 point those seven at `catalog.json.gz` (or have them gunzip it), then stop committing `catalog.json`.
+
+## 26 September 2026: a size guard until step 5 lands
+
+While the plain file is committed, GitHub will refuse the push once it passes 100 MB (GitHub counts 1 MB as
+1,048,576 bytes). `node scripts/catalog-size.mjs` prints the size, **warns at 80 MB** and **fails at 95 MB**.
+It runs in CI after the freshness check, and in the nightly refresh (`autolab.yml`) before anything is
+committed, so a failing night commits nothing. Sentinel's feed sync, which commits the file too, runs it
+before its commit.
+
+| Date | Size | Rows |
+| --- | --- | --- |
+| 28 May 2026 | 18.3 MB | |
+| 3 Jul 2026 | 30.5 MB | 41,738 |
+| 12 Aug 2026 | 43.2 MB | 58,814 |
+| 5 Sep 2026 | 52.6 MB | 64,849 |
+| 26 Sep 2026 | 52.9 MB | 65,238 |
+
+About 850 bytes a row, so 80 MB is roughly 33,000 more rows: two months at the crawl-driven pace of July and
+August, far longer at September's (389 rows in three weeks).
+
+**At the warning:** finish step 5. If the seven readers are still not moved, write `catalog.json` without
+indentation as a stopgap: the same content is 39.1 MB today, 26% smaller, and every reader parses JSON, so only
+the diffs change (one long line).
