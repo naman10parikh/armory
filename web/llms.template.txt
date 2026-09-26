@@ -45,9 +45,9 @@ Verified live over stdio (`initialize` → `tools/list`). There is **no `install
 
 ## The score
 
-`universal = 0.8 × base + 0.2 × others` — `base` is the row's single strongest percentile; `others` is the weight-averaged percentile of every OTHER signal it holds (0 if none). One signal caps at 80; a second can only add, never subtract. No real signal → honestly unranked.
+`universal = 0.8 × base + 0.2 × others` — `base` is the row's single strongest percentile; `others` is its second strongest (0 if none). One signal caps at 80; a third signal counts only when it beats one of the first two, so more evidence never lowers a score. A recorded 0 is no signal. No real signal → honestly unranked.
 
-Five signals, each percentiled within its own **kind** (github-root / github-file / registry / package / website) — not against everything: `tested` (eval_score, binary today) · `mentions` (credited by URL only; a name match alone is never enough) · `stars` · `usage` (non-GitHub registries only, never mixed with stars) · `forks` (repo roots only). `pushed_at` is metadata, never scored — it only breaks ties and sets the `stale` flag (no push in 24 months). Full arithmetic + worked examples: `/formula`.
+Five signals, each percentiled within its own **kind** (github-root / github-file / registry / package / website) — not against everything: `tested` (eval_score, binary today) · `mentions` (credited by URL only; a name match alone is never enough) · `stars` (repo roots only: a file inside a repo never borrows its parent's) · `usage` (non-GitHub registries only, never mixed with stars) · `forks` (repo roots only). `pushed_at` is metadata, never scored — it only breaks ties and sets the `stale` flag (no push in 24 months). Full arithmetic + worked examples: `/formula`.
 
 ## Parameters
 

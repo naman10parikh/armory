@@ -100,7 +100,7 @@ export function Signals({ cards }: { cards: SignalCard[] }) {
             <span style={{ color: "var(--accent)", fontSize: 16 }}>{c.glyph}</span>
             <span style={{ color: "var(--text-hi)", fontWeight: 600, fontSize: 15 }}>{c.key}</span>
             <span style={{ marginLeft: "auto", fontFamily: FIGURES, fontSize: 11.5, color: "var(--text-muted)" }}>
-              ×{c.weight}
+              tie weight {c.weight}
             </span>
           </div>
           <div style={{ color: "var(--text-body)", fontSize: 13.5, marginTop: 6 }}>{c.what}</div>

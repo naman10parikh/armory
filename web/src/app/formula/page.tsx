@@ -8,7 +8,7 @@ import type { Metadata } from "next";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
-import { computeRows, WEIGHTS, BLEND } from "../../../lib/rank.mjs";
+import { computeRows, WEIGHTS, BLEND, MIN_POOL } from "../../../lib/rank.mjs";
 import {
   Coverage,
   HeadToHead,
@@ -25,7 +25,7 @@ export const runtime = "nodejs";
 export const metadata: Metadata = {
   title: "How the score works — Armory",
   description:
-    "One rating for every open-source building block. Each signal becomes a percentile within its own kind, blended by weight, and scaled by how many independent signals agree. Every number computed from the catalog.",
+    "One rating for every open-source building block. Each signal becomes a percentile within its own kind, a tool's best two make its score, and more evidence can never lower it. Every number computed from the catalog.",
 };
 
 // The weights and the blend are IMPORTED from the engine, never re-typed here. A hand-typed mirror
@@ -72,7 +72,9 @@ interface Row {
     pct: Partial<Record<Signal, number>>;
     /** the signal that produced the strongest percentile — the `base` term */
     base: Signal | null;
-    /** the weight-averaged percentile of everything else, or null when there is nothing else */
+    /** the signal that produced the second-strongest percentile — the `others` term */
+    second: Signal | null;
+    /** the second-strongest percentile, or null when the row holds one signal */
     others: number | null;
   };
   primary: { key: string; value: number | null; pct: number } | null;
@@ -90,23 +92,19 @@ const ex = (v: number) => String(+v.toFixed(2));
 
 /**
  * Turn a row into its visible arithmetic — the proof the formula is not a black box.
- * The engine hands over the percentile per signal, which one is the `base`, and the weighted average
- * of the rest, so this only formats what was already computed. It cannot print a different sum.
+ * The engine hands over the percentile per signal and which two are the `base` and the `second`, so
+ * this only formats what was already computed. It cannot print a different sum.
  */
 function work(r: Row, tier: string): Worked {
-  const { pct, base, others } = r.scores;
+  const { pct, base, second, others } = r.scores;
   const held = SIGNALS.filter((s) => pct[s] != null);
   if (!held.length || !base) {
     return { name: r.name, tier, parts: "no signal yet", math: "nothing to rank — left blank, never guessed", score: "—" };
   }
-  const rest = held.filter((s) => s !== base);
-  const parts = held
-    .map((s) => `${GLYPH[s]} ${n(r.signals[s] as number)} ${UNIT[s]} → p${pct[s]}${s === base ? "  ← strongest" : ""}`)
-    .join("\n");
-  // others = Σ(percentile × weight) ÷ Σ(weight) over every signal that is NOT the strongest
-  const othersMath = rest.length
-    ? `${B.others} × [(${rest.map((s) => `${pct[s]}×${W[s]}`).join(" + ")}) ÷ ${rest.reduce((t, s) => t + W[s], 0).toFixed(1)}]`
-    : `${B.others} × 0 (nothing else to corroborate)`;
+  const mark = (s: Signal) => (s === base ? "  ← strongest" : s === second ? "  ← second" : "  (not used: weaker than both)");
+  const parts = held.map((s) => `${GLYPH[s]} ${n(r.signals[s] as number)} ${UNIT[s]} → p${pct[s]}${mark(s)}`).join("\n");
+  // others = the second-strongest percentile; a weaker third signal is not used, so it cannot cost points
+  const othersMath = second ? `${B.others} × ${pct[second]}` : `${B.others} × 0 (nothing else to corroborate)`;
   return {
     name: r.name,
     tier,
@@ -163,9 +161,9 @@ export default function FormulaPage() {
   const failed = rows.find((r) => r.signals.tested === 0);
   const blankRow = rows.find((r) => r.scores.universal == null);
   const examples: Worked[] = [
-    threeSignal ? work(threeSignal, `${threeSignal.scores.evidence} signals agree`) : null,
+    threeSignal ? work(threeSignal, `${threeSignal.scores.evidence} signals: the best two count`) : null,
     twoSignal ? work(twoSignal, "two signals — the second one only adds") : null,
-    loudest ? work(loudest, "one signal — the most-starred repo we hold") : null,
+    loudest ? work(loudest, "one signal — the most-starred repo with nothing else behind it") : null,
     mostUsed ? work(mostUsed, "a registry listing, not a repo") : null,
     median ? work(median, "the typical repo") : null,
     failed ? work(failed, "we tested it and it failed") : null,
@@ -205,7 +203,7 @@ export default function FormulaPage() {
       <Section
         n="01"
         title="A signal is a public number that proves people use it."
-        lead={`${cards.length} exist today. A tool is scored on whichever ones it has — a missing signal never counts against it. The weight decides how much a signal corroborates, never how much it wins: the strongest number a tool holds is always the one it leads with.`}
+        lead={`${cards.length} exist today. A tool is scored on whichever ones it has: a missing signal, or a recorded zero, never counts against it. The strongest number a tool holds is always the one it leads with; the weight only decides which leads when two rank the same.`}
       >
         <Signals cards={cards} />
       </Section>
@@ -213,7 +211,7 @@ export default function FormulaPage() {
       <Section
         n="02"
         title="Raw numbers don't compare. Ranks do."
-        lead="Each number is swapped for its place among things measured the same way — a repo's stars against other repos' stars, a registry's installs against other registries'. Listed twice on the same link? It counts once."
+        lead={`Each number is swapped for its place among things measured the same way — a repo's stars against other repos' stars, a registry's installs against other registries'. A kind with fewer than ${MIN_POOL} measured things is too small to rank within, so those are ranked against every kind. Listed twice on the same link? It counts once.`}
       >
         <Ladder rungs={rungs} unit="stars" />
       </Section>
@@ -222,7 +220,7 @@ export default function FormulaPage() {
         <Section
           n="03"
           title="Evidence beats popularity — and can never cost you."
-          lead={`One signal can be luck, a launch, or marketing. Several independent sources agreeing is proof. So we take your strongest number as ${B.base} of the score, and everything else you hold adds the last ${B.others}. One signal caps you at ${100 * B.base}. A second and a third can only ever push you up — earning more evidence is never punished.`}
+          lead={`One signal can be luck, a launch, or marketing. Several independent sources agreeing is proof. So we take your strongest number as ${B.base} of the score, and your second strongest adds the last ${B.others}. One signal caps you at ${100 * B.base}. A third counts only when it beats one of those two, so earning more evidence is never punished.`}
         >
           <HeadToHead
             left={{
@@ -248,7 +246,7 @@ export default function FormulaPage() {
       <Section
         n="04"
         title="The whole thing, on real rows."
-        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × the weighted average of everything else it holds, rounded to one decimal at the end. Nothing hidden — these sums are printed from the same weights the score is computed with, so they cannot disagree with it.`}
+        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × its second best, rounded to one decimal at the end. Nothing hidden — these sums are printed from the same numbers the score is computed with, so they cannot disagree with it.`}
       >
         <WorkedTable rows={examples} />
       </Section>
