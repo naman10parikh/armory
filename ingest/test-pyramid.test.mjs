@@ -295,6 +295,40 @@ test("domain: a domain word counts only where a word starts, and a compound that
   assert.equal(notes.domain, "database", "\"sql\" inside \"postgresql\" no longer counts, but it breaks the tie with \"server\"");
 });
 
+test("domain: a word that only begins like a domain word does not count: author is not auth, reports not a repo, examples not Exa", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [coauthors, provenance, sales, snippets, authz, signin, repomix, exa] = computeRows([
+    row("scholar-graph", "Finds co-authors and an author's collaboration network"),
+    row("provenance", "Checks the authenticity of photos for a news authority"),
+    row("sales-digest", "Weekly sales reports and reporting dashboards"),
+    row("snippets", "Code examples with exact matching"),
+    row("authz-gate", "Checks authorization before each action"),
+    row("signin", "Adds authentication to any app"),
+    row("repomix", "Packs a repository into one file"),
+    row("exa-tools", "Neural answers from Exa"),
+  ]);
+  assert.equal(coauthors.domain, "other", "an author is not auth");
+  assert.equal(provenance.domain, "other", "authenticity and an authority are not auth");
+  assert.equal(sales.domain, "other", "reports are not a repo");
+  assert.equal(snippets.domain, "other", "examples and exact matches are not Exa");
+  assert.equal(authz.domain, "auth", "authorization is auth");
+  assert.equal(signin.domain, "auth", "authentication is auth");
+  assert.equal(repomix.domain, "github-vcs", "a repository, and a name that starts with repo, still count");
+  assert.equal(exa.domain, "search", "Exa as a whole word still counts");
+});
+
+test("domain: \"session\" counts toward auth only beside an auth word", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [tmux, signin, bridge] = computeRows([
+    row("tmux-tools", "Terminal multiplexer with persistent sessions"),
+    row("signin-kit", "Login sessions for web apps"),
+    row("browser-bridge", "Drives your Chrome browser with its login sessions"),
+  ]);
+  assert.equal(tmux.domain, "other", "a terminal session is not a sign-in");
+  assert.equal(signin.domain, "auth", "beside \"login\" it still counts");
+  assert.equal(bridge.domain, "browser", "and it no longer breaks a tie, so a browser driver is browser");
+});
+
 test("domain: \"refund\" and \"x402\" are payments words, and four money rows are placed by hand", () => {
   const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
   const rows = computeRows([
