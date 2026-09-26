@@ -9,7 +9,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
 import { gradeComponent, stackPickGaps } from "./test-gate.mjs";
-import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, fitsShelf, rankRows } from "../lib/rank.mjs";
+import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, facetsOf, fitsShelf, rankRows } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -228,6 +228,18 @@ test("domain: \"subscription\" counts toward payments only beside a payments wor
   assert.equal(stripe.domain, "payments", "beside a payments word it still counts");
   assert.equal(lemon.domain, "payments", "Lemon Squeezy is a billing platform, like Stripe");
   assert.equal(chargebee.domain, "payments", "so is Chargebee");
+});
+
+test("the Ask interpreter offers only components that have rows, so /ask never shows a plugin chip", () => {
+  const src = readFileSync(join(ROOT, "web/src/lib/ask-core.ts"), "utf8");
+  const m = src.match(/const COMPONENT_TYPES = "([^"]+)"/);
+  assert.ok(m, "web/src/lib/ask-core.ts declares COMPONENT_TYPES as one string");
+  const offered = m[1].split(",").map((w) => w.trim());
+  assert.ok(!offered.includes("plugin"), "no row is filed under plugin");
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const withRows = new Set(facetsOf(computeRows(JSON.parse(readFileSync(p, "utf8")).components)).components.map((f) => f.key));
+  for (const c of offered) assert.ok(withRows.has(c), `${c} has rows, so its chip matches something`);
 });
 
 // ── /stack guard: a pick below its shelf's top row must say why ───────────────
