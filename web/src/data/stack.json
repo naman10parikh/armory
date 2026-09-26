@@ -36,11 +36,11 @@
           "url": "https://github.com/letta-ai/letta"
         },
         {
-          "name": "getzep-zep",
-          "why": "Examples and framework integrations for Zep Cloud, a hosted memory service; not the engine itself",
-          "reason": "Listed for Zep Cloud; the open-source engine behind it is Graphiti, which ranks higher on this shelf.",
-          "armoryName": "getzep-zep",
-          "url": "https://github.com/getzep/zep"
+          "name": "getzep-graphiti",
+          "why": "Knowledge graph memory in which each fact records when it became true and when it was replaced",
+          "reason": "Listed as the open-source engine behind Zep Cloud, so the same memory can run on your own machines.",
+          "armoryName": "getzep-graphiti",
+          "url": "https://github.com/getzep/graphiti"
         },
         {
           "name": "plastic-labs-honcho",
@@ -87,14 +87,13 @@
         {
           "name": "playwright-cli",
           "why": "Codegen, screenshot, PDF and trace commands for headless browser scripting",
-          "reason": "Picked to drive a browser from the terminal; most rows above it are coding agents, terminal apps or an editor, and Puppeteer, the closest match, has no WebKit.",
+          "reason": "Picked to drive a browser from the terminal; most rows above it are terminal apps and other command-line tools, and Puppeteer, the closest match, has no WebKit.",
           "armoryName": "playwright-cli",
           "url": "https://github.com/microsoft/playwright"
         },
         {
           "name": "gh",
           "why": "GitHub from the terminal: issues, pull requests, releases, repository search",
-          "reason": "The rows above it are whole agents, not commands an agent runs.",
           "armoryName": "gh",
           "url": "https://github.com/cli/cli"
         },
@@ -194,7 +193,7 @@
         {
           "name": "pocketflow",
           "why": "100-line graph framework; nodes and edges route work between agents",
-          "reason": "A library inside your own code, where n8n, the top row, is a platform you run; most rows between them are guides, a protocol and prompts.",
+          "reason": "A library inside your own code; n8n, the top row, is a platform you run, and Symphony, second, turns project work into autonomous coding runs.",
           "armoryName": "pocketflow",
           "url": "https://github.com/The-Pocket/PocketFlow"
         },
@@ -272,21 +271,20 @@
         {
           "name": "e2b-sandbox",
           "why": "Firecracker microVM per run, ~150ms cold start, for untrusted code",
-          "reason": "Above it are a browser library, two inference engines and Daytona, whose public repository stopped updating in June 2026.",
+          "reason": "The one row above it is Daytona, whose public repository stopped updating in June 2026.",
           "armoryName": "e2b-sandbox",
           "url": "https://github.com/e2b-dev/E2B"
         },
         {
           "name": "daytona",
           "why": "Sandboxes for AI-generated code that start in under 90 ms; its public repository stopped updating in June 2026",
-          "reason": "The one row above it is a browser library, not a sandbox.",
           "armoryName": "daytona",
           "url": "https://github.com/daytonaio/daytona"
         },
         {
           "name": "microsandbox",
           "why": "Self-hosted microVM sandbox on your own machines, no per-sandbox vendor cost",
-          "reason": "Most rows above it are browser tools, inference engines and gateways, not sandboxes.",
+          "reason": "Above it, Daytona and E2B are mostly used as hosted services and Cua is built for computer-use agents; this one runs on your own machines.",
           "armoryName": "microsandbox",
           "url": "https://github.com/microsandbox/microsandbox"
         }
