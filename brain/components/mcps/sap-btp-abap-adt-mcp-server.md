@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-22T02:40:04Z"
+pushed_at: "2026-09-07T10:15:39Z"
 ---
 ## What it is
 Enables SAP ABAP development workflows including ADT login, object search, read, create, update, activate, delete, and OData service publishing.

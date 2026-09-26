@@ -8,13 +8,13 @@ source_url: https://github.com/Mipiti/mipiti-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:42:43Z"
+pushed_at: "2026-09-24T18:26:36Z"
 ---
 ## What it is
 Lets AI coding agents generate and manage threat models, controls, assumptions, compliance mapping, and evidence programmatically via the Mipiti security posture platform.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:07Z"
+pushed_at: "2026-09-25T02:46:42Z"
 ---
 ## What it is
 MCP server `Transitland`, catalogued on PulseMCP. Global public transit data — GTFS feeds, routes, and stops via the Transitland API through Pipeworx's managed gateway.

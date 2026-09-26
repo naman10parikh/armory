@@ -8,13 +8,13 @@ source_url: https://github.com/mdemyanov/ktalk-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T22:59:50Z"
+pushed_at: "2026-09-25T08:24:56Z"
 ---
 ## What it is
 Enables accessing Контур.Толк (KTalk) recordings, transcripts, and summaries from Claude Code.

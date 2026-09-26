@@ -8,13 +8,13 @@ source_url: https://github.com/Cobalt-Strike/cobaltstrike-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-07-07T07:53:03Z"
+pushed_at: "2026-09-25T11:35:48Z"
 ---
 ## What it is
 Bridges large language models with the Cobalt Strike C2 framework, enabling AI assistants to control adversary simulation workflows through natural language.

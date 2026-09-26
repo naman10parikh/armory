@@ -8,13 +8,13 @@ source_url: https://github.com/Muvon/octobrain
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-31T08:30:24Z"
+pushed_at: "2026-09-26T12:01:01Z"
 ---
 ## What it is
 Persistent memory for AI assistants — store insights, decisions, and knowledge that survives across conversations.

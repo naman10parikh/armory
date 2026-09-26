@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T15:35:40Z"
+pushed_at: "2026-09-16T03:55:45Z"
 ---
 ## What it is
 Read-only, PII-masked MCP server for querying data federated through DuckDB — list sources/tables, inspect schemas, and run SQL across Postgres, MySQL, SQLite, Snowflake, BigQuery, Excel, and files, governed per source/table/column by a charter.yaml contract. Snowflake, BigQuery, Excel, and files, g

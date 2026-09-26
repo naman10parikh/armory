@@ -8,13 +8,13 @@ source_url: https://github.com/YawLabs/electron-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-23T20:44:14Z"
+pushed_at: "2026-09-24T10:05:22Z"
 ---
 ## What it is
 Provides 18 tools for Electron development, including secure IPC scaffolding, security audits, migration assistance, and build error diagnosis, enabling AI assistants to generate correct Electron code.

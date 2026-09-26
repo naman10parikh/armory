@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T16:23:30Z"
+pushed_at: "2026-09-09T15:59:24Z"
 ---
 ## What it is
 Multi-user wrapper around Microsoft's Azure DevOps MCP server, enabling AI agents to authenticate per-user and interact with Azure DevOps tools via isolated PATs.

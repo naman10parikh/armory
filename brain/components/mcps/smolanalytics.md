@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T18:55:48Z"
+pushed_at: "2026-09-24T19:08:18Z"
 ---
 ## What it is
 MCP server that provides product and web analytics capabilities, allowing AI coding assistants to query funnels, retention, trends, feature flags, A/B tests, and more in natural language.

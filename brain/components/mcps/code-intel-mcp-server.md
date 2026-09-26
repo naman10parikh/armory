@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-27T02:39:15Z"
+pushed_at: "2026-09-21T05:01:33Z"
 ---
 ## What it is
 Provides LLMs with code intelligence tools like relationship explanation, PR impact analysis, and health reports via the Model Context Protocol.

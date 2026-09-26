@@ -8,12 +8,12 @@ source_url: https://github.com/Nathan22Miles/PtxMCP
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-22T16:41:26Z"
 ---
 ## What it is

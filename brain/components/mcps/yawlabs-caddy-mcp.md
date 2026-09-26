@@ -8,13 +8,13 @@ source_url: https://github.com/YawLabs/caddy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T19:59:39Z"
+pushed_at: "2026-09-25T18:20:02Z"
 ---
 ## What it is
 Manage Caddy web servers from Claude Code, Cursor, and any MCP client with 18 tools + 4 resources covering every endpoint of Caddy's admin API — config, routes, reverse proxies, TLS, PKI, metrics, snapshots.

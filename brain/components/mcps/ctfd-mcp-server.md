@@ -8,13 +8,13 @@ source_url: https://github.com/MrJamescot/ctfd-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2025-11-20T01:59:45Z"
+forks: 2
+pushed_at: "2026-09-21T02:48:56Z"
 ---
 ## What it is
 A lightweight MCP server for interacting with CTFd instances, enabling AI tools to authenticate, retrieve challenges, and submit flags.

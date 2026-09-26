@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T05:20:22Z"
+pushed_at: "2026-09-21T05:14:57Z"
 ---
 ## What it is
 Enables managing personal vehicle history including mileage, maintenance, expenses, reminders, and document references through MCP tools and resources, all stored locally in SQLite.

@@ -8,7 +8,7 @@ source_url: https://github.com/nellyw8/mcp4eda
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,13 +8,13 @@ source_url: https://github.com/fbereilh/cellar
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:56:43Z"
+pushed_at: "2026-09-23T09:17:18Z"
 ---
 ## What it is
 An interactive notebook server that enables humans and AI agents to collaboratively edit and run Jupyter notebooks on a shared kernel, with real-time streaming and automatic MCP integration for agent access.

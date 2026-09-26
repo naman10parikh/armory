@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-14T13:51:17Z"
+pushed_at: "2026-09-25T16:18:15Z"
 ---
 ## What it is
 MCP server `Anneal Memory`, catalogued on PulseMCP. Two-layer memory for AI agents with immune-system-inspired expiry. Zero dependencies.

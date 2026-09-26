@@ -8,13 +8,13 @@ source_url: https://github.com/HQBase/hqbase
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 317
+stars: 331
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
-pushed_at: "2026-09-01T21:01:21Z"
+forks: 38
+pushed_at: "2026-09-12T16:15:02Z"
 ---
 ## What it is
 Provides a self-hosted shared email workspace with team access controls, multi-domain support, drafts, audit history, and an OAuth-protected MCP server, all running on your own Cloudflare infrastructure.

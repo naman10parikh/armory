@@ -8,13 +8,13 @@ source_url: https://github.com/danielsoimu/altweb
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-24T08:31:58Z"
+forks: 1
+pushed_at: "2026-09-13T12:48:43Z"
 ---
 ## What it is
 Loads signed, verified markdown capsules into AI agents, refusing any capsule without a valid signature from a trusted key. Enables secure, provenance-checked context loading for agents.

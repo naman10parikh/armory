@@ -8,13 +8,13 @@ source_url: https://github.com/theYahia/moysklad-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-06-23T11:36:35Z"
+pushed_at: "2026-09-06T08:41:10Z"
 ---
 ## What it is
 MCP server for MoySklad (МойСклад) warehouse and CRM management API. 21 tools covering the full order lifecycle: products, stock, counterparties, customer orders, shipments, supplies, warehouses, organizations, reports, and webhooks.

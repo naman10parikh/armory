@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-04T19:24:02Z"
+pushed_at: "2026-09-13T22:55:49Z"
 ---
 ## What it is
 MCP server `SSH Client`, catalogued on PulseMCP. Execute shell commands on remote hosts via SSH.

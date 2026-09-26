@@ -8,12 +8,12 @@ source_url: https://github.com/rashidazarang/airtable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-08-05T03:35:50Z"
+forks: 28
+pushed_at: "2026-09-10T00:11:41Z"
 ---
 ## What it is
 MCP server `Airtable`, catalogued on PulseMCP. Integrates with Airtable to enable database operations like listing bases, browsing tables, and performing CRUD operations on records directly within code editors.

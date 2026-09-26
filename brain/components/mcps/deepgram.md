@@ -8,12 +8,12 @@ source_url: https://github.com/deepgram/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 1
+forks: 2
 pushed_at: "2026-05-06T14:45:10Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/rubato103/nl-openapi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:44:33Z"
+pushed_at: "2026-09-26T08:41:14Z"
 ---
 ## What it is
 Search and harvest Korean academic literature and book bibliography metadata from the National Library of Korea Seoji OpenAPI via MCP or CLI.

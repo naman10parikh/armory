@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:55:04Z"
+pushed_at: "2026-09-07T17:44:05Z"
 ---
 ## What it is
 Official bounded, read-only access to live community-powered aircraft positions and aggregate ADSBiq network statistics.

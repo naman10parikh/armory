@@ -8,7 +8,7 @@ source_url: https://github.com/jean-technologies/jean-memory
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 170
+stars: 171
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-26T18:44:50Z"
+pushed_at: "2026-09-26T02:08:30Z"
 ---
 ## What it is
 MCP server `Embedding Search`, catalogued on PulseMCP. Provides embedding search capabilities for transcripts using a SQLite database, enabling efficient semantic retrieval of relevant text segments for applications like podcast analysis or content recommendation.

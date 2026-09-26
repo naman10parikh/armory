@@ -8,12 +8,12 @@ source_url: https://github.com/0dust/OKFy
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 68
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2026-08-17T16:42:09Z"
 ---
 ## What it is

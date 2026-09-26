@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-17T03:06:41Z"
+pushed_at: "2026-09-24T13:02:22Z"
 ---
 ## What it is
 Enables customer feedback management by integrating with Canny.io, supporting board listing, post retrieval, search, and creation.

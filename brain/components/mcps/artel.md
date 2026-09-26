@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T18:45:23Z"
+pushed_at: "2026-09-25T12:33:36Z"
 ---
 ## What it is
 MCP server `Artel`, catalogued on PulseMCP. Self-hosted shared memory and coordination mesh for AI agent fleets, with semantic search, task management, and async messaging.

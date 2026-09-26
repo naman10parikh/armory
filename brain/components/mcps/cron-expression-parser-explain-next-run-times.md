@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:53Z"
+pushed_at: "2026-09-02T19:55:28Z"
 ---
 ## What it is
 Cron expression parser API for AI agents. Parse, validate, and explain cron expressions in plain English. Get next N scheduled run times in any timezone. Tools: schedule_parse_cron. Use this for debugging cron schedules, building scheduling UIs, or validating cron syntax. IMPORTANT: For generating c

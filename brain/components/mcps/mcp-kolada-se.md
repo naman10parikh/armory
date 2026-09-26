@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:18:18Z"
+pushed_at: "2026-09-25T00:46:42Z"
 ---
 ## What it is
 Enables querying Sweden's municipal and regional key-performance-indicator (KPI) database, providing access to a wide range of public sector metrics via natural language.

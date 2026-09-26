@@ -8,13 +8,13 @@ source_url: https://github.com/sebastienrousseau/camt053-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:18:26Z"
+pushed_at: "2026-09-21T14:20:34Z"
 ---
 ## What it is
 MCP server that enables AI agents to parse, validate, and reverse ISO 20022 bank statements, with tools for discovering message types and return reasons.

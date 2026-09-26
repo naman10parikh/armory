@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-03-20T12:14:47Z"
+forks: 1
+pushed_at: "2026-09-21T11:57:58Z"
 ---
 ## What it is
 MCP server `Planka v2 (navya-tecnologia)`, catalogued on PulseMCP. Planka v2.x kanban board management with task lists, time tracking, and membership control.

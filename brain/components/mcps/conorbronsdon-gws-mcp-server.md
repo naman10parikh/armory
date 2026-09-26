@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
-stars: 9
+stars: 10
 forks: 10
-pushed_at: "2026-08-30T06:52:50Z"
+pushed_at: "2026-09-24T09:22:49Z"
 ---
 ## What it is
 Google Workspace MCP server exposing 23 curated tools for Drive, Sheets, Calendar, Docs, and Gmail via the gws CLI.

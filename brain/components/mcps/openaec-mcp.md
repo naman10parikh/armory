@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T18:15:02Z"
+pushed_at: "2026-09-02T18:14:08Z"
 ---
 ## What it is
 Safety-first Model Context Protocol platform for AEC applications, enabling AI assistants to inspect, plan, validate, and modify engineering documents after policy and approval checks.

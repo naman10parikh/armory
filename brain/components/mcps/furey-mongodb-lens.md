@@ -8,7 +8,7 @@ source_url: https://github.com/furey/mongodb-lens
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 207
+stars: 208
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

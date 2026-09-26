@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T07:45:13Z"
+pushed_at: "2026-09-22T08:12:52Z"
 ---
 ## What it is
 MCP server for structured daily work diary management, enabling entries, standup summaries, weekly reports, full-text search, and automatic git commits.

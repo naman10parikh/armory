@@ -8,7 +8,7 @@ source_url: https://github.com/askads/mcp-yandex-metrica
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []

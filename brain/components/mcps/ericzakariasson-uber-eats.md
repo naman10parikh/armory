@@ -8,11 +8,11 @@ source_url: https://github.com/ericzakariasson/uber-eats-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 236
+stars: 238
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
+forks: 38
 pushed_at: "2025-03-02T16:28:46Z"
 ---
 ## What it is

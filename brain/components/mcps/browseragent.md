@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T18:36:37Z"
+pushed_at: "2026-09-12T01:19:00Z"
 ---
 ## What it is
 MCP server for Puppeteer-based browser automation with a unified observe (a11y snapshot + pixel overlay), diff engine, event layer, and action primitives.

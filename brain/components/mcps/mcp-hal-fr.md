@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:12:22Z"
+pushed_at: "2026-09-25T00:04:45Z"
 ---
 ## What it is
 Enables searching and retrieving documents from the French national open research archive HAL, including author and research structure lookups.

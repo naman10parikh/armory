@@ -8,13 +8,13 @@ source_url: https://github.com/sanjibani/kicksite-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T19:34:09Z"
+pushed_at: "2026-09-15T19:34:01Z"
 ---
 ## What it is
 MCP server for the Kicksite martial-arts school management API, enabling natural language read and write operations on students, prospects, memberships, classes, attendance, and more.

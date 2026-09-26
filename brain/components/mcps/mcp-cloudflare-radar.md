@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:48:49Z"
+pushed_at: "2026-09-25T22:54:01Z"
 ---
 ## What it is
 Enables querying Cloudflare Radar data for internet traffic, attacks, BGP, and quality insights via natural language or direct tool calls.

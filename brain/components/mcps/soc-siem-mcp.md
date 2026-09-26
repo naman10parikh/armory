@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T19:04:35Z"
+pushed_at: "2026-09-23T21:03:25Z"
 ---
 ## What it is
 Unified SIEM MCP gateway for AI-driven SOC operations and threat hunting across Azure Sentinel, Splunk, Wazuh, IBM QRadar, and Securonix.

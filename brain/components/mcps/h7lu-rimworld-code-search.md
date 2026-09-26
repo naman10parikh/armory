@@ -8,11 +8,11 @@ source_url: https://github.com/h7lu/rimcp_hybrid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 6
 pushed_at: "2026-02-19T06:30:17Z"
 ---
 ## What it is

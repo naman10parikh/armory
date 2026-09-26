@@ -8,11 +8,11 @@ source_url: https://github.com/idea-research/dino-x-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 109
+stars: 112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-06-17T07:43:06Z"
 ---
 ## What it is

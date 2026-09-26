@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-imf-portwatch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:15:19Z"
+pushed_at: "2026-09-25T00:20:19Z"
 ---
 ## What it is
 Provides global maritime trade and chokepoint signals from IMF PortWatch, free and without authentication.

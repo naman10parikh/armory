@@ -8,13 +8,13 @@ source_url: https://github.com/AraneaDev/Momus-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:47:12Z"
+pushed_at: "2026-09-16T16:40:04Z"
 ---
 ## What it is
 A local-first, deterministic, read-only MCP server that audits test suites for false-green tests, tautological assertions, and mock-contract drift, ensuring tests truly validate production code. It provides tools to detect test fidelity issues, verify mock drift, and synthesize strict mock contracts

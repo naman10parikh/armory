@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T16:31:22Z"
+pushed_at: "2026-09-15T04:21:14Z"
 ---
 ## What it is
 MCP server `Blackwall`, catalogued on PulseMCP. Identity and access security platform providing threat detection, authentication management, and policy enforcement for AI agents.

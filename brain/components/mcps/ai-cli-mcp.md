@@ -8,13 +8,13 @@ source_url: https://github.com/mkXultra/ai-cli-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-08-28T01:33:27Z"
+pushed_at: "2026-09-23T02:26:26Z"
 ---
 ## What it is
 Enables running multiple AI CLI tools (Claude, Codex, Gemini, Forge, OpenCode) as background processes with automatic permission handling, allowing LLMs to execute async multitasking and combine different AI models.

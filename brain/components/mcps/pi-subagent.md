@@ -8,13 +8,13 @@ source_url: https://github.com/guyiicn/pi-subagent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-18T22:04:35Z"
+forks: 2
+pushed_at: "2026-09-24T01:06:47Z"
 ---
 ## What it is
 Enables MCP hosts to delegate coding tasks to Pi CLI as a programmable sub-agent with session tracking and process management.

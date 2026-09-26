@@ -8,11 +8,11 @@ source_url: https://github.com/youware-labs/figma-pilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-01-29T14:10:48Z"
 ---
 ## What it is

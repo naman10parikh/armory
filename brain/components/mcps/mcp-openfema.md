@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T17:28:59Z"
+pushed_at: "2026-09-25T01:28:02Z"
 ---
 ## What it is
 Enables querying US FEMA open data through natural language, as part of the Pipeworx MCP gateway.

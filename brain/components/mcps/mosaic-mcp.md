@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T07:18:47Z"
+pushed_at: "2026-09-23T07:25:29Z"
 ---
 ## What it is
 Pre-clinical drug discovery intelligence MCP server providing 44 tools to query 800+ drug targets, 12K+ compounds, 46K+ papers, 18K+ clinical trials, and 16K+ patents.

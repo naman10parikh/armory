@@ -8,12 +8,12 @@ source_url: https://github.com/getmockd/mockd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 144
+stars: 146
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-08-18T22:43:27Z"
+forks: 7
+pushed_at: "2026-09-17T23:27:22Z"
 ---
 ## What it is
 MCP server `Mockd`, catalogued on PulseMCP. Multi-protocol API mock server supporting HTTP, GraphQL, gRPC, WebSocket, MQTT, SSE, and SOAP.

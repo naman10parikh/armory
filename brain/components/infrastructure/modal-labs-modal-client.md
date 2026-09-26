@@ -8,14 +8,14 @@ source_url: https://github.com/modal-labs/modal-client
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 513
+stars: 518
 eval_score: null
 mentions: 11
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, infrastructure]
-forks: 124
-pushed_at: "2026-09-01T20:05:54Z"
+forks: 132
+pushed_at: "2026-09-25T22:41:27Z"
 ---
 ## What it is
 SDK libraries for Modal

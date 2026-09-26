@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-30T20:13:12Z"
+pushed_at: "2026-09-20T20:13:16Z"
 ---
 ## What it is
 Human-in-the-loop approval gateway for agent tool calls: agents request, policies decide, humans approve via Slack/Discord/web — with an OWASP-LLM-Top-10-tagged audit trail. Self-hostable.

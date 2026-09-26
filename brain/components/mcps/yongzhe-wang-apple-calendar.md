@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-20T03:31:00Z"
+pushed_at: "2026-09-08T06:09:15Z"
 ---
 ## What it is
 MCP server `Apple Calendar`, catalogued on PulseMCP. Read and manage macOS Calendar.app events via AppleScript with six tools for CRUD operations.

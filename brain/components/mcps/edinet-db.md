@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-31T06:35:01Z"
+pushed_at: "2026-09-03T12:59:18Z"
 ---
 ## What it is
 MCP server `EDINET DB`, catalogued on PulseMCP. Provides remote MCP access to financial data and filings for 3,800 listed Japanese companies through EDINET DB.

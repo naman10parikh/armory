@@ -8,11 +8,11 @@ source_url: https://github.com/anarcyst/youtube-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-03-17T13:59:36Z"
 ---
 ## What it is

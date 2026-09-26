@@ -8,7 +8,7 @@ source_url: https://github.com/sulaiman013/powerbi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 120
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

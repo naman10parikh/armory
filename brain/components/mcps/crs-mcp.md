@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T14:50:57Z"
+pushed_at: "2026-09-04T19:37:07Z"
 ---
 ## What it is
 MCP server that certifies or refutes the soundness of linear integer guards over declared boxes, returning concrete counterexamples when unsound and honest refusals when the domain is too large.

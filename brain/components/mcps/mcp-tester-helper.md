@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T21:25:39Z"
+pushed_at: "2026-09-16T17:26:17Z"
 ---
 ## What it is
 A unified MCP server for multi-stand infrastructure testing, enabling REST API calls, PostgreSQL queries, and OpenSearch searches through a single config file.

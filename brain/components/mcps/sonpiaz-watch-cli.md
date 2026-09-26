@@ -8,12 +8,12 @@ source_url: https://github.com/sonpiaz/watch-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 250
+stars: 253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
-pushed_at: "2026-07-29T05:06:33Z"
+forks: 68
+pushed_at: "2026-09-13T01:42:30Z"
 ---
 ## What it is
 MCP server `Watch CLI`, catalogued on PulseMCP. MCP server that downloads social video frames and transcripts from YouTube, X, LinkedIn, TikTok, and other platforms.

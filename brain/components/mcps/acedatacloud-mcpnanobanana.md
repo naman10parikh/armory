@@ -13,7 +13,7 @@ related: []
 tags: [mcp, art-culture]
 stars: 7
 forks: 1
-pushed_at: "2026-08-28T10:41:03Z"
+pushed_at: "2026-09-05T12:23:32Z"
 ---
 ## What it is
 NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.

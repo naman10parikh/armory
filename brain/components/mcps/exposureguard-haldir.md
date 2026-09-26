@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-22T01:33:27Z"
+pushed_at: "2026-09-24T02:49:09Z"
 ---
 ## What it is
 MCP server `Haldir`, catalogued on PulseMCP. Guardian layer for AI agents providing identity verification, secrets management, and audit logging.

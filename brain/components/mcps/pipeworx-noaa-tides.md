@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:25:33Z"
+pushed_at: "2026-09-25T01:13:11Z"
 ---
 ## What it is
 MCP server `NOAA Tides & Currents`, catalogued on PulseMCP. Access NOAA tidal observations, predictions, datums, and station metadata.

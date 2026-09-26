@@ -8,13 +8,13 @@ source_url: https://github.com/edgecasehuman/droidsight
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T03:57:00Z"
+pushed_at: "2026-09-13T03:55:58Z"
 ---
 ## What it is
 An MCP server that controls real Android devices via ADB, offering screen vision, input automation, and device management tools.

@@ -8,11 +8,11 @@ source_url: https://github.com/thomasrohde/hue-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2025-10-31T04:36:40Z"
 ---
 ## What it is

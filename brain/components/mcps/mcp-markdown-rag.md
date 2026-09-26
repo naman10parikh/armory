@@ -8,12 +8,12 @@ source_url: https://github.com/Zackriya-Solutions/MCP-Markdown-RAG
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
+forks: 18
 pushed_at: "2025-07-09T12:37:21Z"
 ---
 ## What it is

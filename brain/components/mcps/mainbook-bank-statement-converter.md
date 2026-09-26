@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T18:08:58Z"
+pushed_at: "2026-09-23T23:34:41Z"
 ---
 ## What it is
 Converts customer-supplied PDF bank statements into checked Excel, CSV, or JSON with balance validation. Runs locally with your own MainBook API key or against MainBook's hosted endpoint, and it never connects to bank accounts.

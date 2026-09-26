@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-02T07:47:12Z"
+pushed_at: "2026-09-04T00:29:37Z"
 ---
 ## What it is
 MCP server that finds beginner-friendly GitHub issues ranked by likelihood of successful contribution, with repo health scoring and issue status checks via the GitHub API.

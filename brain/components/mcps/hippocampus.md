@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T11:13:50Z"
+pushed_at: "2026-09-21T08:58:13Z"
 ---
 ## What it is
 Open-source MCP memory server providing persistent, cross-platform context for AI tools via a knowledge graph with encrypted storage.

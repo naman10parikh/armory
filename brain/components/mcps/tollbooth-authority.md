@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:52:27Z"
+pushed_at: "2026-09-08T00:53:00Z"
 ---
 ## What it is
 The Tollbooth Authority MCP server registers Lightning payment operators, collects certification fees, and issues Schnorr-signed Nostr certificates to certify toll booth operators in the Tollbooth ecosystem.

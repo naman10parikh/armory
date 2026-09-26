@@ -8,12 +8,12 @@ source_url: https://github.com/zemloai-ctrl/elecz-api
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-07T16:39:29Z"
 ---
 ## What it is

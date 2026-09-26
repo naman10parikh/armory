@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T09:59:03Z"
+pushed_at: "2026-09-02T19:11:37Z"
 ---
 ## What it is
 MCP server for TGStat API that provides analytics for Telegram channels, including search, posts, statistics, mentions, and comparison across 8 tools.

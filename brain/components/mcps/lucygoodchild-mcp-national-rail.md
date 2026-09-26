@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
 stars: 7
-forks: 5
-pushed_at: "2025-06-02T13:03:02Z"
+forks: 4
+pushed_at: "2026-09-11T18:05:29Z"
 ---
 ## What it is
 An MCP server for UK National Rail trains service, providing train schedules and live travel information, intergrating the Realtime Trains API

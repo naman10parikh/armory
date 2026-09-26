@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:57:01Z"
+pushed_at: "2026-09-24T13:29:48Z"
 ---
 ## What it is
 Searches Lithuanian legislation by title and fetches full text from the Register of Legal Acts (TAR) via the data.gov.lt open-data API, with verifiable citations.

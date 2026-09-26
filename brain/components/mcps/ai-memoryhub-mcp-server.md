@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T10:38:02Z"
+pushed_at: "2026-09-11T16:33:43Z"
 ---
 ## What it is
 Provides a hybrid memory architecture with a thin SQLite index and Markdown cold storage, enabling AI agents to write, query, link, and rebuild long-term memories via MCP tools, model-agnostic and zero third-party dependencies.

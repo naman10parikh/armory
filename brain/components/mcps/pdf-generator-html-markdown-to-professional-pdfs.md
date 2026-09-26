@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:47Z"
+pushed_at: "2026-09-02T19:56:55Z"
 ---
 ## What it is
 PDF document generation API for AI agents. Generate PDFs from HTML or Markdown: custom page size (A4, Letter), margins, headers, footers. Ideal for reports, invoices, contracts, and documentation. Tools: document_generate_pdf. Use this for generating professional documents, reports, or invoices. IMP

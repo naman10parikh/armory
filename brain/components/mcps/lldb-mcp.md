@@ -8,12 +8,12 @@ source_url: https://github.com/ant4g0nist/lisa.py
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 758
+stars: 756
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 114
+forks: 112
 pushed_at: "2025-03-29T17:29:43Z"
 ---
 ## What it is

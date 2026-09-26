@@ -8,12 +8,12 @@ source_url: https://github.com/explodinggradients/ragas
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 15577
+stars: 15853
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, rag, metrics]
-forks: 1668
+forks: 1727
 pushed_at: "2026-02-24T07:47:19Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T23:56:19Z"
+pushed_at: "2026-09-07T23:54:54Z"
 ---
 ## What it is
 MCP server `Auvik`, catalogued on PulseMCP. Auvik network monitoring management via MCP — devices, alerts, statistics, and billing tools.

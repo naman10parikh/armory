@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T05:22:18Z"
+pushed_at: "2026-09-25T04:36:41Z"
 ---
 ## What it is
 Versioned document vault system for MCP-compatible AI agents. Organizes reference knowledge (specs, contracts, rules) into per-project vaults with 36 MCP tools for inject, search, link, and version operations. Local SQLite backend. Works with Claude, Cursor, Codex, Hermes Agent. Free (3 vaults) / Pr

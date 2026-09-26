@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T16:57:25Z"
+pushed_at: "2026-09-24T15:21:55Z"
 ---
 ## What it is
 Standalone backend for a self-hosted Excalidraw fork with per-board access control, providing an MCP remote endpoint that lets AI agents draw on real collaboration boards as specific users.

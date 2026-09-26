@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, product-management]
-stars: 29
+stars: 30
 forks: 9
-pushed_at: "2026-08-31T16:07:51Z"
+pushed_at: "2026-09-23T14:30:53Z"
 ---
 ## What it is
 Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.

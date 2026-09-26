@@ -8,13 +8,13 @@ source_url: https://github.com/byPawel/tachibot-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-30T16:59:29Z"
+pushed_at: "2026-09-14T14:16:32Z"
 ---
 ## What it is
 Multi-model AI orchestration platform with 64 tools across 12 AI providers, enabling intelligent workflows from any MCP client.

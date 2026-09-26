@@ -8,12 +8,12 @@ source_url: https://github.com/asqi-carter/ftx-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-08-25T15:01:38Z"
 ---
 ## What it is

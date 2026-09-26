@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T07:57:17Z"
+pushed_at: "2026-09-25T15:26:20Z"
 ---
 ## What it is
 Exposes 29 official business-registry actors as MCP tools for KYC/AML, beneficial-owner (UBO), credit-risk and adverse-media workflows across 11 jurisdictions (EU, US, UAE). Sourced via Apify; pay-per-result.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:27:45Z"
+pushed_at: "2026-09-25T01:22:47Z"
 ---
 ## What it is
 MCP server `Open-Meteo`, catalogued on PulseMCP. Weather forecasts and historical climate reanalysis via the Open-Meteo API through Pipeworx's managed gateway.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T13:22:26Z"
+pushed_at: "2026-09-08T19:28:06Z"
 ---
 ## What it is
 MCP server for tracking Angel One portfolio with AI-powered daily briefings, a trading agent, and ML-based price predictions.

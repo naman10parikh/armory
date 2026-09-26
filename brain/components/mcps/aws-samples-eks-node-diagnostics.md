@@ -8,11 +8,11 @@ source_url: https://github.com/aws-samples/sample-eks-node-diagnostics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-05-18T17:55:15Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-22T00:59:34Z"
+pushed_at: "2026-09-07T03:02:49Z"
 ---
 ## What it is
 An MCP server for querying land use plans and exporting cadastral maps as DXF files using VWorld Open API from the Korean Ministry of Land, Infrastructure and Transport.

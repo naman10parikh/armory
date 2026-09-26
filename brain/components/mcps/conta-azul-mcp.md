@@ -8,12 +8,12 @@ source_url: https://github.com/douglac/contaazul-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-06-23T17:40:34Z"
 ---
 ## What it is

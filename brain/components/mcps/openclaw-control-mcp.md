@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-29T12:24:45Z"
+pushed_at: "2026-09-24T14:07:09Z"
 ---
 ## What it is
 Operate the OpenClaw gateway's full management surface from any MCP client — list and trigger crons, inspect sessions, configure agents and channels, manage skills and secrets, pair devices, and more via 134 typed tools.

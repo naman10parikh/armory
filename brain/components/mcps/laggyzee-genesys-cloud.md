@@ -8,12 +8,12 @@ source_url: https://github.com/laggyzee/genesys-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-05T05:06:51Z"
+pushed_at: "2026-09-23T04:31:47Z"
 ---
 ## What it is
 MCP server `Genesys Cloud`, catalogued on PulseMCP. Read-only access to Genesys Cloud contact center data with tools for queue metrics, agent analytics, conversation records, speech analysis, and workforce management.

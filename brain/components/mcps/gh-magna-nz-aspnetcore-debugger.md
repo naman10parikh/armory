@@ -8,12 +8,12 @@ source_url: https://github.com/magna-nz/aspnetcore-debugger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-07-31T11:45:50Z"
+forks: 3
+pushed_at: "2026-09-14T10:26:09Z"
 ---
 ## What it is
 MCP server `ASP.NET Core Debugger`, catalogued on PulseMCP. Give AI agents interactive .NET and ASP.NET Core debugging capabilities via MCP.

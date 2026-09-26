@@ -8,11 +8,11 @@ source_url: https://github.com/leehanchung/bing-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-04-04T14:40:58Z"
 ---
 ## What it is

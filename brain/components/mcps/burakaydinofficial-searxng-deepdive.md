@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-09T05:52:39Z"
+pushed_at: "2026-09-20T05:52:45Z"
 ---
 ## What it is
 MCP server `SearXNG Deepdive`, catalogued on PulseMCP. Searches SearXNG with engine targeting, multi-page fanout, and HTML-to-Markdown URL reading.

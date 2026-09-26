@@ -8,12 +8,12 @@ source_url: https://github.com/bannert1337/grimmory-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 2
 pushed_at: "2026-04-06T09:16:12Z"
 ---
 ## What it is

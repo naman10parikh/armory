@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:35:47Z"
+pushed_at: "2026-09-21T06:37:30Z"
 ---
 ## What it is
 Accessibility-first LaTeX publishing engine with an embedded MCP server. Tools to list registered documents, render template-driven documents, and audit built PDFs for PDF/UA-2 / WTPDF / PDF/A-4f conformance with veraPDF. MIT-licensed.

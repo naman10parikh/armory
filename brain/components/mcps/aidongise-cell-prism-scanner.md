@@ -8,11 +8,11 @@ source_url: https://github.com/aidongise-cell/prism-scanner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 4
 pushed_at: "2026-04-07T03:44:50Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:55:16Z"
+pushed_at: "2026-09-25T04:47:01Z"
 ---
 ## What it is
 An MCP server that exposes an append-only, SQLite-backed event log for parallel research agents, providing append_delta, pull_deltas, and list_tasks tools over stdio.

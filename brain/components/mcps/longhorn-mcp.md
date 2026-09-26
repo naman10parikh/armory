@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:33:46Z"
+pushed_at: "2026-09-25T09:44:51Z"
 ---
 ## What it is
 MCP server for the Longhorn distributed storage manager API, enabling full read/write management of volumes, snapshots, backups, and other resources, with optional read-only mode and stdio/HTTP transports.

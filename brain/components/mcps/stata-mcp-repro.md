@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T21:34:32Z"
+pushed_at: "2026-09-22T21:34:13Z"
 ---
 ## What it is
 Provides project-local, reproducible Stata execution for humans and AI agents, with immutable run artifacts, provenance tracking, planning gates, and a shared dashboard.

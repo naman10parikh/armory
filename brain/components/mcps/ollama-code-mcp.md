@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-29T21:52:36Z"
+pushed_at: "2026-09-08T18:11:13Z"
 ---
 ## What it is
 An MCP server that lets Claude Code delegate coding tasks such as code generation, review, refactoring, and test writing to a local Ollama instance running a Qwen3 model.

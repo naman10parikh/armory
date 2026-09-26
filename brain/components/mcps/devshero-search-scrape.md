@@ -8,12 +8,12 @@ source_url: https://github.com/cortex-works/cortex-scout
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-06-07T15:57:39Z"
+forks: 9
+pushed_at: "2026-09-20T02:31:17Z"
 ---
 ## What it is
 MCP server `Search Scrape (SearXNG)`, catalogued on PulseMCP. Combines SearXNG federated search with Rust-native content extraction to provide privacy-focused web search and intelligent scraping across multiple search engines with readability algorithms and specialized documentation parsing.

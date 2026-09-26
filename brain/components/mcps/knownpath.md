@@ -8,13 +8,13 @@ source_url: https://github.com/nasyx-rakeeb/knownpath
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:33:53Z"
+pushed_at: "2026-09-21T19:36:50Z"
 ---
 ## What it is
 Enables AI coding agents to search and retrieve verified, reusable engineering solutions from a shared knowledge network through MCP tools.

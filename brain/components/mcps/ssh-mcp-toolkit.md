@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T17:08:19Z"
+pushed_at: "2026-09-24T11:24:24Z"
 ---
 ## What it is
 MCP server providing safe, persistent SSH sessions to remote machines with multi-hop ProxyJump tunneling, SFTP file transfer, and stored host profiles.

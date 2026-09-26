@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-25T00:43:05Z"
+pushed_at: "2026-09-19T14:53:08Z"
 ---
 ## What it is
 MCP server `Claude Mesh`, catalogued on PulseMCP. MCP server enabling peer-to-peer messaging, broadcasting, and threading between Claude Code instances.

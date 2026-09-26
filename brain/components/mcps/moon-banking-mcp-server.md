@@ -8,13 +8,13 @@ source_url: https://github.com/moonbanking/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-02T01:03:59Z"
+forks: 1
+pushed_at: "2026-09-06T03:13:01Z"
 ---
 ## What it is
 Provides AI agents with live access to a global directory of consumer and business banks, including community-rated scores across categories like customer service, fees, digital experience, and crypto friendliness, enabling grounded answers to banking questions.

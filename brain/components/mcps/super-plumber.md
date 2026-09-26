@@ -8,13 +8,13 @@ source_url: https://github.com/LUKAWI/super-plumber
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T23:35:47Z"
+forks: 1
+pushed_at: "2026-09-07T08:40:33Z"
 ---
 ## What it is
 MCP server for managing workflow topology graphs as pure YAML files, enabling AI agents to read, create, claim, and update task nodes with a strict state machine.

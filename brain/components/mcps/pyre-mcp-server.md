@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T12:33:54Z"
+pushed_at: "2026-09-04T12:08:28Z"
 ---
 ## What it is
 Enables AI agents to read, create, update, delete, and manage burning desktop sticky notes, including a talk lane for bidirectional communication, through a local HTTP or stdio MCP interface.

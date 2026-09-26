@@ -8,12 +8,12 @@ source_url: https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-08-18T05:34:41Z"
+pushed_at: "2026-09-19T02:28:43Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud RDS`, catalogued on PulseMCP. Provides a bridge to Alibaba Cloud's Relational Database Service (RDS) for managing database instances, monitoring performance, and configuring network settings through natural language interactions.

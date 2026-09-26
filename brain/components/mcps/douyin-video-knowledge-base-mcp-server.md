@@ -8,13 +8,13 @@ source_url: https://github.com/skepty2333/Douyin-full-stack-summarizer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-15T07:51:10Z"
+pushed_at: "2026-09-25T12:36:06Z"
 ---
 ## What it is
 Enables querying and retrieval of structured video summaries from a SQLite knowledge base through Claude or Cursor, supporting search, precise matching, and tag-based filtering.

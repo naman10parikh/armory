@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:14:19Z"
+pushed_at: "2026-09-08T08:47:27Z"
 ---
 ## What it is
 Enables safe VPS diagnostics and Docker/Docker Compose management over SSH, providing predefined read-only and mutating tools for system monitoring, container inspection, and Compose orchestration without exposing arbitrary shell execution.

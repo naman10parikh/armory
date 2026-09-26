@@ -8,13 +8,13 @@ source_url: https://github.com/Renzo-Tognella/DecisionsSearch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T15:40:02Z"
+pushed_at: "2026-09-21T18:08:17Z"
 ---
 ## What it is
 Provides persistent hybrid memory (Neo4j + Qdrant) for AI agents, enabling durable recall of decisions, business rules, and code patterns across sessions, plus autonomous CI/CD error investigation.

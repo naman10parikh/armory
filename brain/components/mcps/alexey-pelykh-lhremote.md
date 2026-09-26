@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
-stars: 12
-forks: 10
-pushed_at: "2026-09-02T01:20:46Z"
+stars: 15
+forks: 11
+pushed_at: "2026-09-10T05:09:43Z"
 ---
 ## What it is
 Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.

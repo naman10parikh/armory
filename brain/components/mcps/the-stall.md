@@ -8,13 +8,13 @@ source_url: https://github.com/thebrierfox/the-stall
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-28T15:22:17Z"
+forks: 0
+pushed_at: "2026-09-21T19:32:57Z"
 ---
 ## What it is
 x402 capability chassis: 170+ AI-callable, pay-per-call data tools (US/global equities, crypto/DeFi, prediction markets, gov/legal, research, infra) settled in USDC on Base mainnet via the Coinbase CDP facilitator. No API keys or accounts — the x402 payment is the auth. Remote MCP at https://the-sta

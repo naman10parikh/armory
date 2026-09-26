@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T12:43:49Z"
+pushed_at: "2026-09-21T10:47:38Z"
 ---
 ## What it is
 Enables AI agents to interact with Appcircle mobile CI/CD platform for build management, signing identities, testing distribution, and reporting.

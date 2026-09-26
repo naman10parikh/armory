@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-09T11:33:04Z"
+pushed_at: "2026-09-24T06:32:00Z"
 ---
 ## What it is
 Run YAML workflows as MCP tools so agents can automate real tasks with one server.

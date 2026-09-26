@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-01T22:40:12Z"
+pushed_at: "2026-09-24T22:59:36Z"
 ---
 ## What it is
 MCP server `Obsidian Local REST API`, catalogued on PulseMCP. Bridges Obsidian vaults through the Local REST API, enabling intelligent note management, knowledge discovery, and conversational access to personal knowledge bases with semantic search, daily note handling, and task-oriented operations designed for knowledge workers.

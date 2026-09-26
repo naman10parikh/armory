@@ -8,12 +8,12 @@ source_url: https://github.com/szeider/mcp-dblp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-07-29T09:53:55Z"
+forks: 12
+pushed_at: "2026-09-23T13:14:26Z"
 ---
 ## What it is
 MCP server `DBLP`, catalogued on PulseMCP. Integrates with the DBLP computer science bibliography database to enable searching publications, processing citations, generating BibTeX entries, and analyzing research trends.

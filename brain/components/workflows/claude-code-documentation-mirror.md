@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 975
-forks: 140
-pushed_at: "2026-09-02T01:48:35Z"
+stars: 983
+forks: 138
+pushed_at: "2026-09-26T13:29:02Z"
 ---
 ## What it is
 A mirror of the Anthropic &copy; PBC documentation pages for Claude Code, updated every few hours. Can come in handy when trying to stay on top of the ever-expanding feature-set of Dr. Claw D. Code, Ph.D.

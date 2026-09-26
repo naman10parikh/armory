@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T03:14:43Z"
+pushed_at: "2026-09-22T19:12:47Z"
 ---
 ## What it is
 MCP server that intercepts and controls AI agent actions in your codebase by enforcing policies on file operations and commands, with logging, approval workflows, and rollback capabilities.

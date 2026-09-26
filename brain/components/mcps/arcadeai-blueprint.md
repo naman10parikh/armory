@@ -8,11 +8,11 @@ source_url: https://github.com/arcadeai/blueprint-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 730
+stars: 731
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 67
+forks: 68
 pushed_at: "2026-07-22T00:15:35Z"
 ---
 ## What it is

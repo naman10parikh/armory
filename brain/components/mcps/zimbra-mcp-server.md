@@ -8,12 +8,12 @@ source_url: https://github.com/jeremie-lesage/zimbra-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-02-12T10:06:17Z"
 ---
 ## What it is

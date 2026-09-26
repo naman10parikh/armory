@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:18Z"
+pushed_at: "2026-09-25T00:00:22Z"
 ---
 ## What it is
 Enables querying and searching GOV.UK content through the Pipeworx MCP gateway, integrating with 673+ data sources for AI agent access.

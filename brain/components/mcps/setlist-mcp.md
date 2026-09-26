@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/setlist-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T23:32:48Z"
+forks: 0
+pushed_at: "2026-09-25T15:48:02Z"
 ---
 ## What it is
 Search concert setlists, artists, venues, tours, and cities from setlist.fm via natural language. Provides 16 read-only tools for exploring live music data.

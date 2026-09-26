@@ -8,13 +8,13 @@ source_url: https://github.com/Archolith/menhir
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T03:29:21Z"
+pushed_at: "2026-09-26T13:04:02Z"
 ---
 ## What it is
 Provides coding agents with governed semantic memory and code-graph context via MCP, enabling code-linked recall, blast-radius impact analysis, and lifecycle-aware memory management.

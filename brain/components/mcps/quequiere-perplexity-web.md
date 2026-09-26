@@ -8,11 +8,11 @@ source_url: https://github.com/quequiere/perplexity-web-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-03-06T17:00:58Z"
 ---
 ## What it is

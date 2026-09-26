@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-10T03:57:01Z"
+pushed_at: "2026-09-10T21:10:58Z"
 ---
 ## What it is
 MCP server `Phenomenai Dictionary`, catalogued on PulseMCP. Looks up, searches, cites, rates, and discusses AI phenomenology terms from the Phenomenai dictionary.

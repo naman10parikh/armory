@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T08:14:20Z"
+pushed_at: "2026-09-25T08:16:53Z"
 ---
 ## What it is
 Security scanner for MCP servers that detects tool poisoning, shadowing, and other risks via static rules and semantic analysis. Exposes the scan_mcp_server tool for scanning MCP servers over stdio.

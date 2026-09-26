@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 4
-pushed_at: "2026-08-29T16:51:31Z"
+pushed_at: "2026-09-13T20:34:00Z"
 ---
 ## What it is
 # EPL Language MCP Server The official Model Context Protocol (MCP) server for the EPL (English Programming Language) ecosystem. This server provides AI coding assistants with direct access to the EPL runtime, compiler, and documentation. It empowers AI models to securely run EPL code, execute test 

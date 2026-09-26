@@ -8,13 +8,13 @@ source_url: https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 86
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-26T09:49:58Z"
+forks: 19
+pushed_at: "2026-09-22T08:34:03Z"
 ---
 ## What it is
 MCP server for searching, comparing, and booking hotels globally, with live rates and over 2 million properties, powered by DIDA.

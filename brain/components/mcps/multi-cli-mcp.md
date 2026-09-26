@@ -8,13 +8,13 @@ source_url: https://github.com/osanoai/multicli
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 69
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-08-03T13:55:34Z"
+pushed_at: "2026-09-14T13:55:29Z"
 ---
 ## What it is
 An MCP server that bridges multiple AI clients (Claude, Gemini, Codex, OpenCode) so they can call each other as tools.

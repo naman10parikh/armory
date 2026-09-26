@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T06:28:53Z"
+pushed_at: "2026-09-08T10:14:35Z"
 ---
 ## What it is
 Enables product discovery, session-scoped carts, and confirmation-gated checkout through natural language, with deterministic routing and safety features.

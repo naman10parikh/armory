@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-01-21T15:06:25Z"
+pushed_at: "2026-09-07T04:35:50Z"
 ---
 ## What it is
 MCP server that provides real-time weather data, forecasts, and historical weather information from SMHI (Swedish Meteorological and Hydrological Institute) for any location in Sweden.

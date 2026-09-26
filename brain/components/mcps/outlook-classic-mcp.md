@@ -8,12 +8,12 @@ source_url: https://github.com/anasahmed07/Outlook-Classic-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 14
 pushed_at: "2026-08-06T22:40:36Z"
 ---
 ## What it is

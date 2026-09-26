@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T02:07:13Z"
+forks: 1
+pushed_at: "2026-09-26T13:08:16Z"
 ---
 ## What it is
 Provides easy access to Quasar Framework documentation through the Model Context Protocol, supporting Claude Code and other MCP tools.

@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/openstates-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-25T05:53:45Z"
+pushed_at: "2026-09-20T14:15:12Z"
 ---
 ## What it is
 MCP server `OpenStates`, catalogued on PulseMCP. Searches and retrieves U.S. state legislature bills, votes, legislators, and committee information via the OpenStates API.

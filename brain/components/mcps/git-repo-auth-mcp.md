@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:19:59Z"
+pushed_at: "2026-09-25T02:34:48Z"
 ---
 ## What it is
 Mints short-lived, scoped GitHub App installation tokens on demand for AI agents to access git repositories or the GitHub API.

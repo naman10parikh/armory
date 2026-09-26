@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-19T12:07:06Z"
+pushed_at: "2026-09-15T03:54:25Z"
 ---
 ## What it is
 An MCP server that enforces fail-closed deterministic checks, independent refute-first review, and tamper-evident hash-chained receipts for AI agent outputs before claiming completion.

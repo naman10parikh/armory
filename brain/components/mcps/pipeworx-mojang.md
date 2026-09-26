@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:23:01Z"
+pushed_at: "2026-09-25T01:03:49Z"
 ---
 ## What it is
 MCP server `Pipeworx Mojang`, catalogued on PulseMCP. Minecraft profile lookups including UUID resolution, skin profiles, name history, and blocked server checks via the Pipeworx gateway.

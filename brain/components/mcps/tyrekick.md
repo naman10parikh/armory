@@ -8,13 +8,13 @@ source_url: https://github.com/richardofortune/tyrekick
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T10:23:59Z"
+pushed_at: "2026-09-17T03:59:05Z"
 ---
 ## What it is
 Enables AI coding agents to pull, triage, and resolve user feedback pinned directly on live web prototypes via MCP tools.

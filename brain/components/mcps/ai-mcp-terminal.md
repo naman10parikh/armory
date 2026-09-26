@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-11-15T09:38:06Z"
+pushed_at: "2026-09-25T23:11:22Z"
 ---
 ## What it is
 Multi-threaded terminal management MCP server for AI assistants, enabling async command execution, batch operations, and real-time web monitoring with up to 100 concurrent terminals.

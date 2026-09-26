@@ -8,12 +8,12 @@ source_url: https://github.com/imatza-rh/mcp-zuul
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-31T07:10:25Z"
+pushed_at: "2026-09-26T08:08:42Z"
 ---
 ## What it is
 MCP server `Zuul CI by imatza-rh`, catalogued on PulseMCP. Zuul CI build failure analysis, log search, pipeline status monitoring, and job configuration inspection.

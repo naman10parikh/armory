@@ -8,7 +8,7 @@ source_url: https://github.com/emzimmer/server-wp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 116
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T10:58:51Z"
+pushed_at: "2026-09-08T23:04:45Z"
 ---
 ## What it is
 A read-only MCP server for the Humanitix Public API that exposes nine tools to list events, fetch event details, list orders/tickets, check-in counts, and sales summaries.

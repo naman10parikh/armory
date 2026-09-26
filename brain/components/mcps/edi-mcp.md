@@ -8,13 +8,13 @@ source_url: https://github.com/Zhang2070466526/mcp-grpc
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-02T02:28:32Z"
+forks: 1
+pushed_at: "2026-09-22T02:08:54Z"
 ---
 ## What it is
 Enables AI clients to interact with EDA projects via natural language by wrapping EDI's gRPC interface, CLI tools, and ANSYS HFSS as MCP tools supporting SSE and stdio transports.

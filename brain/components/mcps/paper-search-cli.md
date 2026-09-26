@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T11:11:33Z"
+pushed_at: "2026-09-09T06:22:16Z"
 ---
 ## What it is
 MCP server for searching academic, patent, and web sources, normalizing identifiers, and managing workspace records. Exposes the same operations to AI clients via MCP tools.

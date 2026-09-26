@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-02T12:34:28Z"
+pushed_at: "2026-09-05T06:01:55Z"
 ---
 ## What it is
 Enables AI agents to search, browse, install, and manage a large library of skills via only 7 MCP tools, with skills stored locally and loaded on demand to minimize context overhead.

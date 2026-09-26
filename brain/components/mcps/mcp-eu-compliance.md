@@ -8,13 +8,13 @@ source_url: https://github.com/matematicsolutions/mcp-eu-compliance
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-28T14:32:39Z"
+pushed_at: "2026-09-24T13:20:23Z"
 ---
 ## What it is
 MCP server for EU compliance grounding (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA) — verbatim retrieval from a local SQLite FTS5 index.

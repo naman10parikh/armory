@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-11T22:44:16Z"
+pushed_at: "2026-09-07T02:12:46Z"
 ---
 ## What it is
 Local-first working-state checkpoints and portable handoff packets for AI coding agents. Continuation checkpoints recover Claude Code sessions after rate limits, crashes, and compaction; packets hand tasks across tools, repos, and machines — Markdown on disk, no cloud, no telemetry.

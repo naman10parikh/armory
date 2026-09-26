@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T09:11:51Z"
+pushed_at: "2026-09-26T11:27:42Z"
 ---
 ## What it is
 Provides a stdio MCP server for rendering Vega-Lite and Vega specifications to SVG, PNG, or PDF with reproducible Docker isolation and immutable provenance.

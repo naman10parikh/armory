@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:59:33Z"
+pushed_at: "2026-09-25T23:28:28Z"
 ---
 ## What it is
 DeFi analytics from DefiLlama, free and no authentication required.

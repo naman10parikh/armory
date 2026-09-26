@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:02:41Z"
+pushed_at: "2026-09-05T11:19:50Z"
 ---
 ## What it is
 Free keyword research with live search volume, CPC, competition and 12-month trends.

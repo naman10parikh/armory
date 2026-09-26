@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T10:04:45Z"
+pushed_at: "2026-09-17T13:13:41Z"
 ---
 ## What it is
 Enables automated multi-agent content generation, trend analysis, and travel route planning with live web search, Google Maps integration, and publishing to Google Docs and Gmail.

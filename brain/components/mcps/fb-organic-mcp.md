@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T16:26:47Z"
+pushed_at: "2026-09-23T02:25:26Z"
 ---
 ## What it is
 MCP server for managing organic Facebook Page content: create and schedule posts, read posts and comments, view page insights, and delete posts.

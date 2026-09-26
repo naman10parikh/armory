@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T21:31:58Z"
+pushed_at: "2026-09-23T21:55:41Z"
 ---
 ## What it is
 Provides MCP tools (bdm_search, bdm_get_provvedimento, bdm_check_session) to query the Italian public judicial database (Banca Dati di Merito) for civil court rulings using a session authenticated via CNS.

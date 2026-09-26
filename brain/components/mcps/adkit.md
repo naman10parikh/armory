@@ -8,12 +8,12 @@ source_url: https://github.com/adkit/adkit-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T02:30:42Z"
+pushed_at: "2026-09-06T14:26:51Z"
 ---
 ## What it is
 MCP server `Adkit Ads`, catalogued on PulseMCP. Run ad campaigns and browse ad libraries on Meta, Google, and TikTok via AI agents with a draft-first safety layer.

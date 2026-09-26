@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:07:46Z"
+pushed_at: "2026-09-24T18:10:36Z"
 ---
 ## What it is
 Enables querying the Apify Store to retrieve structured data on public Actors including pricing, usage trends, ratings, and categories. Integrates with AI agents for market research and competitor tracking.

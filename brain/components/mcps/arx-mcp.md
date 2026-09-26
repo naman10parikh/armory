@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T07:09:35Z"
+pushed_at: "2026-09-22T06:28:35Z"
 ---
 ## What it is
 Enables AI assistants to compile, run, lint, and format ArxLang code directly through ArxNode without manual terminal commands.

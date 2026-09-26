@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T09:08:27Z"
+pushed_at: "2026-09-21T12:18:50Z"
 ---
 ## What it is
 MCP server that exposes the qr-cow.com API, enabling AI clients to create, style, manage, and analyze QR codes through natural language.

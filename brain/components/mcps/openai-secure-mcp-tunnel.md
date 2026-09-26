@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T12:03:36Z"
+pushed_at: "2026-09-23T08:43:53Z"
 ---
 ## What it is
 Enables file operations and bash command execution on the local workspace, securely exposed to ChatGPT via OpenAI Tunnel.

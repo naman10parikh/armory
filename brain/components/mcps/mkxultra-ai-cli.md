@@ -8,12 +8,12 @@ source_url: https://github.com/mkxultra/ai-cli-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-08-28T01:33:27Z"
+pushed_at: "2026-09-23T02:26:26Z"
 ---
 ## What it is
 MCP server `AI CLI Bridge`, catalogued on PulseMCP. Run Claude, Codex, and Gemini CLI tools as background processes with parallel execution and session management.

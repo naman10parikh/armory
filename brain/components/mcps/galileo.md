@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 7
-pushed_at: "2026-09-02T00:12:11Z"
+pushed_at: "2026-09-23T16:49:53Z"
 ---
 ## What it is
 MCP server `Galileo`, catalogued on PulseMCP. Integrates with Galileo's evaluation and observability platform to enable dataset creation, prompt template management, experiment setup, log analysis, and step-by-step integration guides for monitoring LLM application performance.

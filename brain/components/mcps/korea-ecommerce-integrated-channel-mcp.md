@@ -8,13 +8,13 @@ source_url: https://github.com/minwoo19930301/korea-ecommerce-integrated-channel
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T18:41:01Z"
+pushed_at: "2026-09-22T12:16:19Z"
 ---
 ## What it is
 Enables AI agents to manage products across multiple Korean e-commerce platforms (Naver SmartStore, Coupang, 11st, Gmarket) including listing, updating, and suspending, with preview and approval before execution.

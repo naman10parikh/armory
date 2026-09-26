@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 11
-forks: 3
-pushed_at: "2026-08-30T01:44:00Z"
+stars: 14
+forks: 4
+pushed_at: "2026-09-25T01:17:56Z"
 ---
 ## What it is
 Self-hosted MCP server for Obsidian with semantic + full-text search over PostgreSQL/pgvector, wikilink graph traversal, atomic note CRUD, OAuth 2.0, and a self-describing vault guide.

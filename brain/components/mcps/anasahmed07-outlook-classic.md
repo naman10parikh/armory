@@ -8,11 +8,11 @@ source_url: https://github.com/anasahmed07/outlook-classic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 14
 pushed_at: "2026-08-06T22:40:36Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T19:44:00Z"
+pushed_at: "2026-09-11T18:18:24Z"
 ---
 ## What it is
 Public read-only MCP server providing structured access to Atlarium habitat data and advisory functions for aquariums, terrariums, and related systems.

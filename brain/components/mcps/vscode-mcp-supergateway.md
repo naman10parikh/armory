@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T21:22:07Z"
+pushed_at: "2026-09-03T18:37:52Z"
 ---
 ## What it is
 A centralized MCP gateway that aggregates and routes requests from multiple IDE clients to backend services, while offloading context tasks to local LLM workers.

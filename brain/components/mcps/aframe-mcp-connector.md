@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:24:08Z"
+pushed_at: "2026-09-25T17:43:42Z"
 ---
 ## What it is
 Enables Claude to create and manage transactions in Aframe via the Aframe Open API, supporting transaction creation and note addition.

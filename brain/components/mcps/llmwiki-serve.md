@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:26:06Z"
+pushed_at: "2026-09-21T09:21:21Z"
 ---
 ## What it is
 Serves local Markdown wikis as a read-only knowledge source with MCP tools for agent context retrieval.

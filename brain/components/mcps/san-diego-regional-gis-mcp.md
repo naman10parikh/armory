@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T23:58:59Z"
+pushed_at: "2026-09-09T06:44:08Z"
 ---
 ## What it is
 Enables natural language interaction with SANDAG's regional GIS datasets for San Diego County, supporting discovery, querying, and spatial analysis of layers like parcels, floodplains, and transit.

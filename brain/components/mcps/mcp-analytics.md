@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-24T14:28:51Z"
+pushed_at: "2026-09-07T02:03:57Z"
 ---
 ## What it is
 MCP server `MCP Analytics`, catalogued on PulseMCP. Professional statistical analysis and machine learning tools with interactive HTML visualizations

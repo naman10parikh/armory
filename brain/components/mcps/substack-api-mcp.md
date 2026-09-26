@@ -8,13 +8,13 @@ source_url: https://github.com/alxgntv/substack-api-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 122
+stars: 135
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T09:26:15Z"
+pushed_at: "2026-09-05T20:41:48Z"
 ---
 ## What it is
 Enables AI agents to draft, publish, and schedule posts on Substack, bypassing the lack of an official publishing API.

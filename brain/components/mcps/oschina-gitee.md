@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-06-11T07:07:52Z"
+pushed_at: "2026-09-07T02:53:38Z"
 ---
 ## What it is
 MCP server `Gitee`, catalogued on PulseMCP. Bridges Claude with Gitee's API for repository management, issue tracking, pull request workflows, and user notifications on the Gitee platform.

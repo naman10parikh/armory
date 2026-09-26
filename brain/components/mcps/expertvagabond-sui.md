@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T17:58:33Z"
+pushed_at: "2026-09-15T07:54:12Z"
 ---
 ## What it is
 MCP server `Sui Blockchain`, catalogued on PulseMCP. Comprehensive Sui blockchain integration with wallet management, transactions, DeFi operations, staking, validator queries, and network utilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T15:59:34Z"
+pushed_at: "2026-09-08T05:26:01Z"
 ---
 ## What it is
 DCL Trust Oracle is a deterministic AI audit layer, natively integrated with MCP, that evaluates LLM and agent outputs against configurable policies before and after action. Every verdict is written to a tamper-evident, hash-chained audit log storing only cryptographic metadata — never raw content —

@@ -8,13 +8,13 @@ source_url: https://github.com/google/chrome-enterprise-premium-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-25T22:50:47Z"
+forks: 8
+pushed_at: "2026-09-08T21:32:22Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Chrome Enterprise Premium that exposes DLP rules, content detectors, connector policies, browser telemetry, and license management as MCP tools, enabling any MCP-compatible AI agent to inspect and configure a Chrome Enterprise environment.

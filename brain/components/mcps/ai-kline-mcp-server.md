@@ -8,12 +8,12 @@ source_url: https://github.com/QuantMLResearch/AI-Kline
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 341
+stars: 344
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 94
+forks: 95
 pushed_at: "2025-08-06T02:37:26Z"
 ---
 ## What it is

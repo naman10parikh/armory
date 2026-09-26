@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 58
+stars: 59
 forks: 10
-pushed_at: "2025-10-30T10:30:21Z"
+pushed_at: "2026-09-26T13:22:56Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables Claude Desktop to check domain availability across 50+ TLDs. Features DNS/WHOIS verification, bulk checking, and smart suggestions. Zero-clone installation via uvx.

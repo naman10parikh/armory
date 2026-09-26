@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T06:29:57Z"
+pushed_at: "2026-09-23T05:27:51Z"
 ---
 ## What it is
 tsugime is an MCP server that declares expected correspondences between tools (like index files and actual files) and checks them. It reports any mismatches, never modifying anything.

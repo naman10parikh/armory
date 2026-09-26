@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-04-04T17:51:03Z"
+pushed_at: "2026-09-08T17:14:20Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with direct access to FileMaker databases via OData v4 API, enabling CRUD operations, script execution, and schema introspection.

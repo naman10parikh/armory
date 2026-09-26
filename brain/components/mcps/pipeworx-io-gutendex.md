@@ -8,12 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-gutendex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:12:00Z"
+pushed_at: "2026-09-25T00:03:19Z"
 ---
 ## What it is
 MCP server `Gutendex`, catalogued on PulseMCP. Search and retrieve public domain books from Project Gutenberg via the Gutendex API.

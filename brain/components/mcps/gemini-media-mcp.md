@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T00:50:40Z"
+pushed_at: "2026-09-21T22:49:12Z"
 ---
 ## What it is
 MCP server for generating images and videos using Google Gemini and VEO models, with support for multiple AI models and credential modes.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-19T03:53:32Z"
+pushed_at: "2026-09-21T01:00:26Z"
 ---
 ## What it is
 MCP server `Animagine XL`, catalogued on PulseMCP. Provides prompt validation, optimization, and image generation tools for the Animagine XL 4.0 anime/manga model with checkpoint and LoRA management.

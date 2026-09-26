@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-20T21:44:12Z"
+pushed_at: "2026-09-24T21:44:21Z"
 ---
 ## What it is
 MCP server `A2CR`, catalogued on PulseMCP. Encrypted AI agent context handoffs with WorkBaton checkpoints and WorkStash notes.

@@ -8,13 +8,13 @@ source_url: https://github.com/Krv-Labs/topos
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-01T16:46:04Z"
+pushed_at: "2026-09-23T15:25:57Z"
 ---
 ## What it is
 Topos scores code quality by analyzing the geometric and topological structure of program graphs, surfacing structural debt that conventional linters can't compute. Gives coding agents a medal-scored (SLOP → GOLD) feedback loop for writing cleaner, more composable code.

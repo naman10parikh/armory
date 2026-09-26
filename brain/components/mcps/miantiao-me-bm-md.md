@@ -8,12 +8,12 @@ source_url: https://github.com/miantiao-me/bm.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 612
+stars: 618
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
-pushed_at: "2026-08-30T12:34:20Z"
+forks: 76
+pushed_at: "2026-09-15T05:38:34Z"
 ---
 ## What it is
 MCP server `bm.md`, catalogued on PulseMCP. Markdown processing server with tools for rendering, linting, parsing, and text extraction, optimized for Chinese publishing platforms like WeChat, Zhihu, and Juejin.

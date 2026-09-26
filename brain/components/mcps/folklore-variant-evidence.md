@@ -8,13 +8,13 @@ source_url: https://github.com/helena-bioinformatics/folklore-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:55:14Z"
+pushed_at: "2026-09-11T13:08:37Z"
 ---
 ## What it is
 Resolve one supported GRCh38 germline variant and return structured, source-backed ACMG/AMP evidence with provenance and explicit limitations. The public server is read-only and intended for professional review.

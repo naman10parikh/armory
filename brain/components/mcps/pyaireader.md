@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T11:58:12Z"
+pushed_at: "2026-09-16T19:11:50Z"
 ---
 ## What it is
 MCP server for safely reading public URLs for AI agents, providing tools to fetch, extract, cache, and inspect web content as evidence.

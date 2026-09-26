@@ -8,11 +8,11 @@ source_url: https://github.com/mbrummerstedt/powerbi-analyst-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-15T14:37:46Z"
 ---
 ## What it is

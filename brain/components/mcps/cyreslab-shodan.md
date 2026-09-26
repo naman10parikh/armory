@@ -8,12 +8,12 @@ source_url: https://github.com/cyreslab-ai/shodan-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2025-06-29T07:08:20Z"
+forks: 13
+pushed_at: "2026-09-20T11:47:29Z"
 ---
 ## What it is
 MCP server `Shodan`, catalogued on PulseMCP. Provides secure access to Shodan's database of internet-connected devices through host lookups, search functionality, and vulnerability information retrieval with intelligent response optimization for efficient token usage.

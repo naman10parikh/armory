@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-01-17T14:20:15Z"
+pushed_at: "2026-09-26T09:58:38Z"
 ---
 ## What it is
 MCP server `ICP Intelligence`, catalogued on PulseMCP. Provides deep Ideal Customer Profile analysis with pattern detection, scoring models, gap analysis, and market sizing for B2B targeting.

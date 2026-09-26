@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-28T13:33:04Z"
+pushed_at: "2026-09-23T23:16:37Z"
 ---
 ## What it is
 Prevents AI coding agents from conflicting by coordinating file claims and resolving conflicts in real-time across multiple sessions.

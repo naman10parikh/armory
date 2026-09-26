@@ -8,12 +8,12 @@ source_url: https://github.com/Youchu-lawhub/legal-kb-builder
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-11T00:21:52Z"
 ---
 ## What it is

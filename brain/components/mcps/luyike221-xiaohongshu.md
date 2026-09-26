@@ -8,11 +8,11 @@ source_url: https://github.com/luyike221/xiaohongshu-mcp-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 33
 pushed_at: "2026-05-13T15:04:20Z"
 ---
 ## What it is

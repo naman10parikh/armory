@@ -8,12 +8,12 @@ source_url: https://github.com/jotaderodriguez/bonsai_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
-pushed_at: "2025-10-29T19:48:43Z"
+forks: 23
+pushed_at: "2026-09-06T16:31:07Z"
 ---
 ## What it is
 MCP server `Bonsai BIM (Blender IFC)`, catalogued on PulseMCP. Connects Claude to Blender for analyzing and interacting with IFC building models through five specialized tools for querying project information, listing entities, examining properties, exploring spatial structures, and analyzing element relationships.
