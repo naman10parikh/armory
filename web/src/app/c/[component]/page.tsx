@@ -11,7 +11,7 @@ import { notFound } from "next/navigation";
 import { ContentWidth } from "@/components/data-table";
 import { HarnessSelector } from "@/components/install-snippet";
 import { PickList, ShelfStats, ShelfTable } from "@/components/component-page";
-import { CANON_SLUGS, resolvedPicksFor, rowsFor, stackFor, statsFor, topRankedFor } from "@/lib/canon";
+import { CANON_SLUGS, PLANE, resolvedPicksFor, rowsFor, stackFor, statsFor, topRankedFor } from "@/lib/canon";
 
 export const runtime = "nodejs";
 export const dynamicParams = false;
@@ -37,6 +37,15 @@ export async function generateMetadata({
   return { title: `${entry.label} · Armory`, description: entry.oneLine };
 }
 
+// The capability-plane slot a shelf's pick needs an account on (CP138 T41): the /stack "Accounts the agent
+// acts through" line, shown on the shelf it serves.
+const PLANE_SLOT: Readonly<Record<string, string>> = {
+  sandbox: "Sandbox",
+  memory: "Memory store",
+  mcps: "Connectors",
+  tools: "Web / browser",
+};
+
 export default async function ComponentPage({ params }: { params: Promise<RouteParams> }) {
   const { component } = await params;
   const entry = stackFor(component);
@@ -47,6 +56,7 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
   const top = topRankedFor(component, TOP_N, rows);
   const picks = resolvedPicksFor(component);
   const isUnion = stats.members.length > 1;
+  const plane = PLANE.find((p) => p.slot === PLANE_SLOT[component]) ?? null;
 
   return (
     <div>
@@ -93,6 +103,17 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
           <div className="mt-3">
             <PickList picks={picks} />
           </div>
+          {plane && (
+            <p className="mt-3 text-[13px] leading-snug text-ink-muted">
+              Deploy access · <span className="font-medium text-ink-body">{plane.pick}</span>: {plane.access}.{" "}
+              <Link
+                href="/stack"
+                className="cursor-pointer text-accent-hover underline underline-offset-4"
+              >
+                Every account
+              </Link>
+            </p>
+          )}
         </ContentWidth>
       </section>
 
