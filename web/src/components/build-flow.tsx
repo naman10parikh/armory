@@ -32,7 +32,7 @@ export function BuildFlow() {
           <Reveal index={i} className="flex-1">
             <div className="rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
               <div className="rounded-[calc(1.25rem-0.375rem)] bg-raise-2 p-5">
-                <span className="flex items-center gap-2 font-mono text-sm text-ink-hi">
+                <span className="flex items-center gap-2 font-sans text-sm text-ink-hi">
                   {s.icon}
                   {s.label}
                 </span>

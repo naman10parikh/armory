@@ -76,7 +76,7 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
               {stats.members.map((m, i) => (
                 <span key={m.component}>
                   {i > 0 && " · "}
-                  <span className="font-mono text-ink-body">{m.component}</span>{" "}
+                  <span className="font-sans text-ink-body">{m.component}</span>{" "}
                   <data value={String(m.count)} className="tabular-nums">
                     {m.count.toLocaleString("en-US")}
                   </data>
@@ -122,7 +122,7 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
               <>
                 {" "}
                 — filtered to{" "}
-                <span className="font-mono text-ink-body">{stats.leaderboardComponent}</span>, the
+                <span className="font-sans text-ink-body">{stats.leaderboardComponent}</span>, the
                 largest member of this component
               </>
             ) : null}

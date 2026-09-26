@@ -51,7 +51,7 @@ export function CategoryBento({ counts }: { counts: CatalogCounts }) {
                         the wedge
                       </span>
                     )}
-                    <h3 className="flex items-center gap-2 font-serif text-2xl leading-tight text-ink-hi">
+                    <h3 className="flex items-center gap-2 font-sans text-2xl leading-tight text-ink-hi">
                       <TypeIcon
                         type={cat.type}
                         size={18}

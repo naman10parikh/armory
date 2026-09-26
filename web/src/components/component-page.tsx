@@ -5,11 +5,13 @@
 // SignalsRow, InstallSnippet); tokenised classes only — no inline var(--…) objects, no
 // oklch() literals. Every number ships as a final <data value>; nothing animates.
 import Link from "next/link";
-import { DataTable, Td, Th, Tr, clampWords } from "@/components/data-table";
+import { BoardTable, OursTag } from "@/components/board-table";
 import { InstallSnippet } from "@/components/install-snippet";
 import { ScoreBadge } from "@/components/score-badge";
 import { SignalsRow } from "@/components/signals-row";
 import type { CanonRow, CanonStats, ResolvedPick } from "@/lib/canon";
+import { boardMeta, foldSameRepo } from "@/lib/rows";
+import { toRowViews } from "@/lib/row-view";
 
 const int = (n: number): string => n.toLocaleString("en-US");
 
@@ -20,7 +22,7 @@ export function Stat({ label, children }: { label: string; children: React.React
       <dt className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
         {label}
       </dt>
-      <dd className="mt-1 font-mono text-[18px] leading-none tabular-nums text-ink-hi">
+      <dd className="mt-1 font-sans text-[18px] leading-none tabular-nums text-ink-hi">
         {children}
       </dd>
     </div>
@@ -100,9 +102,13 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
           <div className="flex items-start justify-between gap-3">
             <span className="min-w-0 break-words text-[14px] leading-tight">
               <PickName pick={pick} />
+              {pick.row?.ours && <OursTag />}
+              {pick.row?.contributedBy && (
+                <span className="mt-1 block text-[11.5px] text-ink-faint">Contributed by {pick.row.contributedBy}</span>
+              )}
             </span>
             {pick.row ? (
-              <ScoreBadge score={pick.row.scores.universal} evidence={pick.row.scores.evidence} />
+              <ScoreBadge score={pick.row.universal} evidence={pick.row.evidence} caption />
             ) : (
               <NotIndexedTag />
             )}
@@ -122,7 +128,7 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
               href={pick.url}
               target="_blank"
               rel="noreferrer noopener"
-              className="cursor-pointer break-all font-mono text-[11px] text-accent-hover underline underline-offset-4"
+              className="cursor-pointer break-all font-sans text-[11px] text-accent-hover underline underline-offset-4"
             >
               {pick.url}
             </a>
@@ -134,8 +140,8 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
 }
 
 /**
- * The shelf's ranked rows. Same eight columns as the home page and the leaderboard, in
- * the same order, so a reader who learned one table has learned all three.
+ * The shelf's ranked rows — the same table as the home page and the leaderboard
+ * (components/board-table.tsx), so a reader who learned one has learned them all.
  */
 export function ShelfTable({ label, rows }: { label: string; rows: CanonRow[] }) {
   if (rows.length === 0) {
@@ -152,60 +158,12 @@ export function ShelfTable({ label, rows }: { label: string; rows: CanonRow[] })
       </div>
     );
   }
-
   return (
-    <DataTable label={label} minWidthClass="min-w-[1180px]" fixed>
-      <thead>
-        <tr>
-          <Th align="right" className="w-[56px]">
-            Rank
-          </Th>
-          <Th align="right" className="w-[76px]" sort="descending">
-            Score
-          </Th>
-          <Th className="w-[200px]">Component</Th>
-          <Th className="w-auto">Description</Th>
-          <Th className="w-[300px]">Signals</Th>
-          <Th className="w-[76px]">Type</Th>
-          <Th className="w-[108px]">Domain</Th>
-          <Th className="w-[280px]">Install</Th>
-        </tr>
-      </thead>
-      <tbody>
-        {rows.map((row, i) => (
-          <Tr key={`${row.type}/${row.name}`}>
-            <Td align="right" className="font-mono text-[12px] text-ink-faint">
-              <data value={String(i + 1)}>{i + 1}</data>
-            </Td>
-            <Td align="right">
-              <ScoreBadge score={row.scores.universal} evidence={row.scores.evidence} />
-            </Td>
-            <Td truncate className="font-medium text-ink-hi">
-              {row.type ? (
-                <Link
-                  href={`/e/${encodeURIComponent(row.type)}/${encodeURIComponent(row.name)}`}
-                  className="cursor-pointer transition-colors duration-150 ease-state hover:text-accent-hover"
-                >
-                  {row.name}
-                </Link>
-              ) : (
-                row.name
-              )}
-            </Td>
-            <Td truncate className="text-[12px] text-ink-muted">
-              {clampWords(row.desc, 72)}
-            </Td>
-            <Td>
-              <SignalsRow signals={row.signals} />
-            </Td>
-            <Td className="text-[12px] text-ink-muted">{row.component}</Td>
-            <Td className="whitespace-nowrap text-[12px] text-ink-muted">{row.domain}</Td>
-            <Td>
-              <InstallSnippet name={row.name} />
-            </Td>
-          </Tr>
-        ))}
-      </tbody>
-    </DataTable>
+    <BoardTable
+      label={label}
+      rows={toRowViews(foldSameRepo(rows))}
+      now={Date.now()}
+      fallbackDate={boardMeta().generatedAt}
+    />
   );
 }

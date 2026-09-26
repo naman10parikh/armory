@@ -5,6 +5,7 @@
 import "server-only";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { rawCatalog } from "./rows";
 import type { Catalog, Component, ComponentType } from "./types";
 
 // The catalog + brain markdown are authored OUTSIDE site/ (repo root + the
@@ -92,8 +93,8 @@ function normalizeComponent(raw: unknown): Component | null {
 export function getCatalog(): Catalog {
   if (cached) return cached;
   try {
-    const raw = readFileSync(CATALOG_PATH, "utf8");
-    const parsed = JSON.parse(raw) as Partial<Catalog>;
+    // One parse per process: the board (src/lib/rows.ts) already holds catalog.json.
+    const parsed = (rawCatalog() ?? JSON.parse(readFileSync(CATALOG_PATH, "utf8"))) as Partial<Catalog>;
     if (!parsed || !Array.isArray(parsed.components)) throw new Error("bad shape");
     const components = parsed.components
       .map(normalizeComponent)

@@ -85,7 +85,7 @@ export default function GrowthPage() {
       </p>
       <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
         Not a dated history. Every figure below is computed straight from{" "}
-        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-mono text-[12px] text-ink-body">
+        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[12px] text-ink-body">
           catalog.json
         </code>{" "}
         the moment this page builds, so it grows as the shelf does.

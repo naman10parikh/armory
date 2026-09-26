@@ -40,12 +40,12 @@ export function GraphClient({
           <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
             the brain, mapped
           </span>
-          <h1 className="mt-2 font-serif text-[clamp(2.25rem,5vw,3.5rem)] leading-none tracking-[-0.02em] text-ink-hi">
+          <h1 className="mt-2 font-sans text-[clamp(2.25rem,5vw,3.5rem)] leading-none tracking-[-0.02em] text-ink-hi">
             Synapse graph.
           </h1>
           <p className="mt-3 max-w-xl text-sm text-ink-body">
             Each node is an component; each edge is a{" "}
-            <span className="font-mono text-accent-hover">related[]</span>{" "}
+            <span className="font-sans text-accent-hover">related[]</span>{" "}
             synapse. Hover to light up a neighbourhood. Click to recall it.
           </p>
         </div>
@@ -61,7 +61,7 @@ export function GraphClient({
               onChange={(e) => setQuery(e.target.value)}
               placeholder="dim to a term…"
               aria-label="Filter the graph"
-              className="w-full cursor-text bg-transparent py-2.5 pl-10 pr-3 font-mono text-sm text-ink-hi placeholder:text-ink-muted focus:outline-none"
+              className="w-full cursor-text bg-transparent py-2.5 pl-10 pr-3 font-sans text-sm text-ink-hi placeholder:text-ink-muted focus:outline-none"
             />
           </div>
         </div>
@@ -72,7 +72,7 @@ export function GraphClient({
           earliest nodes; drag right → the full graph today. */}
       {data.nodes.length > 0 && (
         <div className="mb-4 flex items-center gap-4 rounded-xl bg-raise-1 px-4 py-3 ring-1 ring-line-subtle">
-          <span className="shrink-0 font-mono text-[10px] uppercase tracking-[0.18em] text-accent">
+          <span className="shrink-0 font-sans text-[10px] uppercase tracking-[0.18em] text-accent">
             grew to
           </span>
           <input
@@ -85,7 +85,7 @@ export function GraphClient({
             aria-label="Scrub the catalog's growth over time"
             className="h-1.5 w-full cursor-pointer appearance-none rounded-full bg-raise-2 accent-accent"
           />
-          <span className="shrink-0 font-mono text-[11px] tabular-nums text-ink-body">
+          <span className="shrink-0 font-sans text-[11px] tabular-nums text-ink-body">
             {cutoffDate || "—"} · {visibleCount}/{data.nodes.length}
           </span>
         </div>
@@ -125,7 +125,7 @@ export function GraphClient({
             </span>
           ))}
         </div>
-        <p className="font-mono text-[11px] text-ink-muted">
+        <p className="font-sans text-[11px] text-ink-muted">
           {data.sampled ? (
             <>
               showing{" "}

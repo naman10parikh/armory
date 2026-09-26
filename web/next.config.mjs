@@ -13,7 +13,9 @@ const nextConfig = {
   outputFileTracingIncludes: {
     // The home page renders the top-20 ranked rows with the same engine as
     // /formula, so it needs the catalog + the engine traced in as well.
-    "/": ["./catalog.json", "./lib/rank.mjs"],
+    // Keys match routes as substrings, so "/" reaches every function: changes.json (when each row was
+    // listed, mentions gained; scripts/copy-data.mjs) ships beside the catalog wherever rows are read.
+    "/": ["./catalog.json", "./lib/rank.mjs", "./changes.json"],
     "/e/[type]/[slug]": ["./catalog.json", "./brain/**/*"],
     // The ranking routes read the vendored catalog + import the vendored engine at runtime — trace
     // both into each serverless function so they ship on Vercel (dev reads them off disk directly).

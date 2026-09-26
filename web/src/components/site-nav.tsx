@@ -23,21 +23,27 @@ const NAV_LINKS = [
 ] as const;
 
 export function SiteNav() {
+  // Phone (CP143 upgrade 11): the old bar was a fixed 56px that wrapped its links into three rows
+  // over the page title. Now the wordmark and Source share the first row, and the links sit in a
+  // strip of their own that scrolls sideways inside itself, so the page never does.
   return (
     <header className="border-b border-line-subtle bg-canvas">
-      <div className="mx-auto flex h-14 w-full max-w-[1440px] flex-wrap items-center justify-between gap-x-4 gap-y-2 px-5 py-2 md:px-8">
+      <div className="mx-auto flex min-h-14 w-full max-w-[1440px] flex-wrap items-center justify-between gap-x-4 px-5 py-2 md:px-8">
         <Link
           href="/"
-          className="flex shrink-0 cursor-pointer items-center gap-2 rounded-lg"
+          className="flex shrink-0 cursor-pointer items-center gap-2 rounded-lg py-1"
           aria-label="Armory"
         >
           <Logo size={20} />
-          <span className="font-wordmark text-lg leading-none tracking-tight text-ink-hi">
+          <span className="font-wordmark text-[22px] leading-none tracking-tight text-ink-hi">
             Armory
           </span>
         </Link>
 
-        <nav aria-label="Sections" className="flex flex-wrap items-center gap-0.5 text-[14px]">
+        <nav
+          aria-label="Sections"
+          className="order-last -mx-2 flex w-[calc(100%+1rem)] items-center gap-0.5 overflow-x-auto whitespace-nowrap pb-1 text-[14px] [scrollbar-width:none] max-lg:[mask-image:linear-gradient(90deg,#000_85%,transparent)] lg:order-none lg:mx-0 lg:w-auto lg:overflow-visible lg:pb-0 lg:[mask-image:none]"
+        >
           {NAV_LINKS.map((l) => (
             <NavLink key={l.href} href={l.href}>
               {l.label}
@@ -54,7 +60,7 @@ export function SiteNav() {
             className="flex cursor-pointer items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-ink-body transition-colors duration-150 ease-state hover:bg-raise-2 hover:text-accent-hover"
           >
             <GithubIcon size={15} />
-            <span className="hidden sm:inline">Source</span>
+            <span>Source</span>
           </a>
         </div>
       </div>

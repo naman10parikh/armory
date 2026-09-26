@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { contributorOf } from "@/lib/format";
 import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypeBadge } from "./badges";
 import { ArrowRightIcon, StarIcon, TypeIcon } from "./icons";
@@ -33,6 +34,7 @@ export function ComponentCard({
   score?: ComponentScore | null;
 }) {
   const href = `/e/${component.type}/${component.name}`;
+  const contributedBy = contributorOf(component.tags);
   return (
     // Outer shell (bezel)
     <article className="group relative h-full rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle transition duration-[220ms] ease-out-quart hover:ring-accent-line hover:-translate-y-0.5 active:translate-y-0 active:scale-[0.985]">
@@ -64,6 +66,11 @@ export function ComponentCard({
         <p className="pointer-events-none relative z-[2] mt-2 line-clamp-2 text-sm leading-relaxed text-ink-body">
           {component.description}
         </p>
+        {contributedBy && (
+          <p className="pointer-events-none relative z-[2] mt-1.5 text-[11.5px] text-ink-faint">
+            Contributed by {contributedBy}
+          </p>
+        )}
 
         {/* Row 4: score + signals (when the card was handed a scored row) or the CLI
             compat strip. Falls back to the raw stars/eval fields for callers that

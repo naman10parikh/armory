@@ -9,7 +9,11 @@ import { NextResponse } from "next/server";
 import {
   CANON,
   CANON_SLUGS,
+  PLANE,
+  PROVISIONING,
+  STACK_AS_OF,
   STACK_NOTE,
+  STACK_REGENERATE,
   resolvedPicksFor,
   rowsFor,
   stackFor,
@@ -44,12 +48,26 @@ export function GET(): NextResponse {
         url: p.url,
         detail: p.href,
         type: p.row?.type ?? null,
-        universal: p.row?.scores.universal ?? null,
-        evidence: p.row?.scores.evidence ?? null,
+        universal: p.row?.universal ?? null,
+        evidence: p.row?.evidence ?? null,
+        ours: p.row?.ours ?? false,
         signals: p.row?.signals ?? null,
       })),
     };
   });
 
-  return NextResponse.json({ note: STACK_NOTE, total: components.length, components });
+  // `stack` answers the common question in one lookup: slot → the pick (e.g. stack.memory).
+  const stack = Object.fromEntries(components.map((c) => [c.slug, c.picks[0]?.name ?? null]));
+
+  return NextResponse.json({
+    note: STACK_NOTE,
+    as_of: STACK_AS_OF,
+    regenerate: STACK_REGENERATE,
+    stack,
+    total: components.length,
+    components,
+    // CP138 axis 2: the accounts an agent is provisioned onto. Not open-source code, so never scored.
+    plane: PLANE,
+    provisioning: PROVISIONING,
+  });
 }

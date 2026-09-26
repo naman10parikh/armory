@@ -17,8 +17,8 @@
   color-scheme: dark;
 
   /* ── Surfaces ────────────────────────────────────────────────────────── */
-  --bg-canvas: oklch(15% 0.006 72); /* page ground — warm black, never #000 */
-  --bg-raise-1: oklch(18.5% 0.007 72); /* table + panel ground */
+  --bg-canvas: #121110; /* page ground — Synoptic's warm black, never #000 */
+  --bg-raise-1: #181716; /* table + panel ground */
   --bg-raise-2: oklch(22% 0.009 72); /* row hover, toolbar */
   --bg-raise-3: oklch(26% 0.011 72); /* selected row, active chip */
 
@@ -28,10 +28,10 @@
   --line-strong: oklch(100% 0 0 / 0.22); /* header rule, focus base */
 
   /* ── Text ────────────────────────────────────────────────────────────── */
-  --text-hi: oklch(96% 0.004 72); /* names, scores — not pure white */
-  --text-body: oklch(84% 0.005 72); /* default */
-  --text-muted: oklch(68% 0.007 72); /* metadata */
-  --text-faint: oklch(55% 0.006 72); /* absent / unmeasured */
+  --text-hi: #f1efed; /* names, scores — not pure white */
+  --text-body: #dcd9d6; /* default */
+  --text-muted: #b4b1ae; /* metadata — 8.8:1 on the canvas */
+  --text-faint: #8f8b87; /* absent / unmeasured — still 5:1, so a dim word stays readable */
 
   /* ── Accent ──────────────────────────────────────────────────────────── */
   /* Three numbers are the whole accent. In light mode amber must DARKEN
@@ -55,10 +55,10 @@
      lie. This ramp says "how many independent signals agree", nothing more. */
   --score-solid: var(--accent); /* 3–4 signals */
   --score-partial: oklch(
-    var(--accent-l) var(--accent-c) var(--accent-h) / 0.55
-  ); /* 2 signals */
+    var(--accent-l) var(--accent-c) var(--accent-h) / 0.78
+  ); /* 2 signals — 0.78, not 0.55, so a 14px score still reads on warm black */
   --score-thin: var(--text-muted); /* 1 signal  */
-  --score-none: var(--text-faint); /* 0 signals — renders an em dash */
+  --score-none: var(--text-faint); /* 0 signals — renders the word Unranked */
 
   /* ── Motion — state feedback only. Data never animates. ──────────────── */
   --ease-state: cubic-bezier(0.16, 1, 0.3, 1);
@@ -69,7 +69,7 @@
      compile and render while the page swarm migrates them off inline
      `var(--…)` style objects. Delete each line as its last caller moves. */
   --bg-base: var(--bg-canvas);
-  --font-display: var(--font-wordmark);
+  --font-display: var(--font-ui); /* CP143: the serif is the wordmark's alone */
   --font-body: var(--font-ui);
   --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
   --ease-out-expo: var(--ease-state);
@@ -85,6 +85,8 @@ html {
 body {
   background-color: var(--bg-canvas);
   color: var(--text-body);
+  /* Instrument Sans carries tabular figures: every number lines up down a column. */
+  font-variant-numeric: tabular-nums;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
@@ -219,4 +221,80 @@ body {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+/* ── Ranked tables on a phone or tablet ─────────────────────────────────────
+   Below 1024px (the 768px screenshot scrolled the Install column out of view) a
+   ranked row stops being a table row and becomes a stacked block:
+   rank · name · score on the first line, then description, evidence, date and
+   the install command, each full width. The page never scrolls sideways, and
+   the table markup (real <th scope>, one row per component) is unchanged for
+   agents and screen readers. */
+@media (max-width: 1023px) {
+  .board-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+  .board-table,
+  .board-table tbody {
+    display: block;
+    min-width: 0 !important;
+  }
+  .board-table tr {
+    display: grid;
+    grid-template-columns: 28px minmax(0, 1fr) auto;
+    column-gap: 10px;
+    row-gap: 6px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line-subtle);
+  }
+  .board-table td {
+    display: block;
+    height: auto;
+    padding: 0;
+    border: 0;
+    max-width: none;
+  }
+  .board-table td[data-col="rank"] { grid-column: 1; grid-row: 1; }
+  .board-table td[data-col="name"] { grid-column: 2; grid-row: 1; }
+  .board-table td[data-col="score"] { grid-column: 3; grid-row: 1; }
+  .board-table td[data-col]:not([data-col="rank"]):not([data-col="name"]):not([data-col="score"]) {
+    grid-column: 2 / 4;
+  }
+  .board-table td[data-col] > span.block { white-space: normal; }
+}
+
+/* /stack's two tables below 1024px: each row becomes a short block, cell under cell,
+   so a slot label is never squeezed into a rank-sized column and no column is
+   scrolled out of view. */
+@media (max-width: 1023px) {
+  .stack-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+  .stack-table,
+  .stack-table tbody {
+    display: block;
+    min-width: 0 !important;
+  }
+  .stack-table tr {
+    display: block;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line-subtle);
+  }
+  .stack-table td {
+    display: block;
+    padding: 3px 0;
+    border: 0;
+    text-align: left;
+  }
+  .stack-table td[data-col="score"] > span { align-items: flex-start; }
 }

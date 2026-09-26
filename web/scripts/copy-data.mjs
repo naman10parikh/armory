@@ -10,7 +10,8 @@
 // Idempotent: re-running overwrites the local copy. If the parent source is
 // missing (e.g. data was already vendored in CI), we keep any existing local
 // copy and warn instead of failing the build.
-import { cpSync, existsSync, mkdirSync, rmSync, copyFileSync } from "node:fs";
+import { cpSync, existsSync, mkdirSync, rmSync, copyFileSync, readFileSync, writeFileSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -70,7 +71,72 @@ function copyRankEngine() {
   console.log("[copy-data] copied lib/rank.mjs");
 }
 
+// changes.json — what the catalog's own history says, which catalog.json cannot say about itself:
+//   listed: brain path → the date its note most recently entered the repo (the New tab, "+N this week")
+//   gained: "type/name" → mentions gained over the trending window (the Trending tab)
+// Read from git, so it only runs where the repo's history is (a checkout or the deploy worktree). A
+// Vercel build has no parent repo and keeps the copy vendored before upload, exactly like catalog.json.
+const LISTED_DAYS = 60;
+const TRENDING_DAYS = 14;
+const DAY = 86_400_000;
+
+function git(args) {
+  return execFileSync("git", ["-C", REPO_ROOT, ...args], { encoding: "utf8", maxBuffer: 256 * 1024 * 1024 });
+}
+
+function mentionsByKey(catalog) {
+  const m = new Map();
+  for (const c of catalog.components || []) m.set(`${c.type}/${c.name}`, typeof c.mentions === "number" ? c.mentions : 0);
+  return m;
+}
+
+function writeChanges() {
+  const dest = join(SITE_DIR, "changes.json");
+  const src = join(REPO_ROOT, "catalog.json");
+  const keep = (why) => {
+    if (existsSync(dest)) console.warn(`[copy-data] ${why}; using existing changes.json.`);
+    else {
+      writeFileSync(dest, JSON.stringify({ available: false, reason: why, listed: {}, gained: {} }));
+      console.warn(`[copy-data] ${why}; wrote an empty changes.json (New and Trending show their empty state).`);
+    }
+  };
+  if (!existsSync(src)) return keep("../catalog.json missing");
+  try {
+    const now = JSON.parse(readFileSync(src, "utf8"));
+    const at = Date.parse(now.generated_at);
+    if (!Number.isFinite(at)) return keep("catalog.json has no generated_at");
+
+    const listed = {};
+    const since = new Date(at - LISTED_DAYS * DAY).toISOString();
+    let date = "";
+    // Newest first, so the first date a path shows up under is its most recent entry into the catalog.
+    for (const line of git(["log", `--since=${since}`, "--diff-filter=A", "--name-only", "--format=@@%cI", "--", "brain/components"]).split("\n")) {
+      if (line.startsWith("@@")) date = line.slice(2, 12);
+      else if (line.startsWith("brain/") && !(line.slice(6) in listed)) listed[line.slice(6)] = date;
+    }
+
+    const before = new Date(at - TRENDING_DAYS * DAY).toISOString();
+    const rev = git(["log", "-1", "--format=%H", `--before=${before}`, "--", "catalog.json"]).trim();
+    const gained = {};
+    if (rev) {
+      const then = mentionsByKey(JSON.parse(git(["show", `${rev}:catalog.json`])));
+      for (const [key, n] of mentionsByKey(now)) {
+        // Only rows that were already listed then: a row promoted with its mentions attached is New, not rising.
+        if (then.has(key) && n > then.get(key)) gained[key] = n - then.get(key);
+      }
+    }
+    writeFileSync(dest, JSON.stringify({
+      available: true, generated_at: now.generated_at, listed_days: LISTED_DAYS, trending_days: TRENDING_DAYS,
+      trending_since: rev ? before.slice(0, 10) : null, listed, gained,
+    }));
+    console.log(`[copy-data] wrote changes.json (${Object.keys(listed).length} dated listings, ${Object.keys(gained).length} rising)`);
+  } catch (err) {
+    keep(`git history unavailable (${err instanceof Error ? err.message.split("\n")[0] : String(err)})`);
+  }
+}
+
 copyCatalog();
 copyBrain();
 copyRankEngine();
+writeChanges();
 console.log("[copy-data] done — site is self-contained.");

@@ -81,7 +81,7 @@ export default function ComponentsPage() {
                     <p className="mt-1.5 text-[12.5px] leading-normal text-ink-muted">{c.oneLine}</p>
                   </div>
 
-                  <dl className="mt-auto flex flex-wrap items-baseline gap-x-5 gap-y-2 font-mono text-[12px] tabular-nums">
+                  <dl className="mt-auto flex flex-wrap items-baseline gap-x-5 gap-y-2 font-sans text-[12px] tabular-nums">
                     <CardStat label="Indexed">
                       <data value={String(c.stats.indexed)}>
                         {c.stats.indexed.toLocaleString("en-US")}
@@ -103,7 +103,7 @@ export default function ComponentsPage() {
                     <span className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
                       Pick
                     </span>{" "}
-                    <span className="font-mono text-[12px] text-ink-body">
+                    <span className="font-sans text-[12px] text-ink-body">
                       {c.topPick ? c.topPick.name : "—"}
                     </span>
                   </div>

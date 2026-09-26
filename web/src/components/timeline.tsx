@@ -44,7 +44,7 @@ function TallyRow({ label, count }: Tally): React.ReactElement {
   return (
     <div className="flex items-baseline justify-between gap-3 border-b border-line-subtle py-1.5 last:border-b-0">
       <span className="min-w-0 break-words text-[13px] text-ink-body">{label}</span>
-      <data value={String(count)} className="shrink-0 font-mono text-[13px] font-semibold tabular-nums text-ink-hi">
+      <data value={String(count)} className="shrink-0 font-sans text-[13px] font-semibold tabular-nums text-ink-hi">
         {nf(count)}
       </data>
     </div>
@@ -148,7 +148,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
           {SURFACES.map((s) => (
             <Card key={s.name}>
               <p className="m-0 text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">{s.name}</p>
-              <p className="mt-1.5 break-words font-mono text-[12.5px] text-ink-body">{s.detail}</p>
+              <p className="mt-1.5 break-words font-sans text-[12.5px] text-ink-body">{s.detail}</p>
             </Card>
           ))}
         </div>
@@ -194,7 +194,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
           <p className="mt-2.5 max-w-[62ch] text-[15px] leading-[1.6] text-ink-body">{m.lead}</p>
 
           <div className="my-4">
-            <data value={String(m.big)} className="font-mono text-[32px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
+            <data value={String(m.big)} className="font-sans text-[32px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
               {nf(m.big)}
             </data>
             <p className="mt-1.5 text-[12.5px] text-ink-muted">{m.cap}</p>

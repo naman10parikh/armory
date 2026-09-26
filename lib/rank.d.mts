@@ -6,6 +6,8 @@ export interface RankRow {
   url?: string | null;
   license?: string | null;
   universal: number | null;
+  /** the Universal before rounding, four decimals; the default order sorts on it first */
+  exact: number | null;
   stars: number | null;
   tested: number | null;
   mentions: number | null;

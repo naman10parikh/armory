@@ -39,7 +39,7 @@ function StatCard({
   return (
     <Card>
       <Eyebrow>{label}</Eyebrow>
-      <div className="mt-2 font-mono text-[30px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
+      <div className="mt-2 font-sans text-[30px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
         {valueDateTime ? <time dateTime={valueDateTime}>{value}</time> : value}
       </div>
       <div className="mt-2 text-[13px] text-ink-muted">{sub}</div>
@@ -67,7 +67,7 @@ export default function Status() {
       </p>
       <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
         Read live from{" "}
-        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-mono text-[12px] text-ink-body">
+        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[12px] text-ink-body">
           catalog.json
         </code>
         , the one version-controlled source every surface reads.
@@ -78,7 +78,7 @@ export default function Status() {
         <Card className="flex flex-wrap items-baseline justify-between gap-7">
           <div>
             <Eyebrow>Components</Eyebrow>
-            <data value={String(s.total)} className="mt-2 block font-mono text-[56px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
+            <data value={String(s.total)} className="mt-2 block font-sans text-[56px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
               {n(s.total)}
             </data>
           </div>
@@ -142,11 +142,11 @@ export default function Status() {
                   </span>
                 </Td>
                 <Td align="right">
-                  <data value={String(s.stars)} className="font-mono text-[13px] tabular-nums text-ink-hi">
+                  <data value={String(s.stars)} className="font-sans text-[13px] tabular-nums text-ink-hi">
                     {n(s.stars)}
                   </data>
                 </Td>
-                <Td align="right" className="font-mono text-[12px] tabular-nums text-ink-muted">
+                <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
                   {pct(s.stars, s.total)}
                 </Td>
               </Tr>
@@ -156,11 +156,11 @@ export default function Status() {
                   <span className="block text-[12px] text-ink-muted">Installed and executed directly</span>
                 </Td>
                 <Td align="right">
-                  <data value={String(s.tested)} className="font-mono text-[13px] tabular-nums text-ink-hi">
+                  <data value={String(s.tested)} className="font-sans text-[13px] tabular-nums text-ink-hi">
                     {n(s.tested)}
                   </data>
                 </Td>
-                <Td align="right" className="font-mono text-[12px] tabular-nums text-ink-muted">
+                <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
                   {pct(s.tested, s.total)}
                 </Td>
               </Tr>
@@ -170,11 +170,11 @@ export default function Status() {
                   <span className="block text-[12px] text-ink-muted">How often practitioners reference it</span>
                 </Td>
                 <Td align="right">
-                  <data value={String(s.mentions)} className="font-mono text-[13px] tabular-nums text-ink-hi">
+                  <data value={String(s.mentions)} className="font-sans text-[13px] tabular-nums text-ink-hi">
                     {n(s.mentions)}
                   </data>
                 </Td>
-                <Td align="right" className="font-mono text-[12px] tabular-nums text-ink-muted">
+                <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
                   {pct(s.mentions, s.total)}
                 </Td>
               </Tr>
@@ -239,11 +239,11 @@ export default function Status() {
                     {m.key === "(none)" ? "Not Crawled" : "Confirmed"}
                   </Td>
                   <Td align="right">
-                    <data value={String(m.count)} className="font-mono text-[13px] tabular-nums text-ink-hi">
+                    <data value={String(m.count)} className="font-sans text-[13px] tabular-nums text-ink-hi">
                       {n(m.count)}
                     </data>
                   </Td>
-                  <Td align="right" className="font-mono text-[12px] tabular-nums text-ink-muted">
+                  <Td align="right" className="font-sans text-[12px] tabular-nums text-ink-muted">
                     {pct(m.count, s.total)}
                   </Td>
                 </Tr>

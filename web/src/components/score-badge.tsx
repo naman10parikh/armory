@@ -1,18 +1,18 @@
 /*
-  Score badge — design/BRIEF.md §9 + the approval ruling.
+  Score badge — the Universal score as a number, and, where there is room, how many independent
+  signals stand behind it, in words ("3 signals"). CP143: words, not glyphs, so the old 4-segment
+  bar is gone; the number's colour still carries corroboration (a ramp, never a traffic light,
+  because the formula never counts a missing signal against a component).
 
-  A tabular number PLUS a 4-segment corroboration micro-bar. The bar counts how
-  many INDEPENDENT signals agree; it is never a traffic light, because the
-  formula states a missing signal never counts against a component — colouring
-  a low score red would be a lie about quality.
-
-  The badge explains itself: the number is a <data value>, the bar carries a
-  real aria-label, and nothing lives only in a title= tooltip.
+  In a ranked list the caller passes `display`: the exact score to three decimals (four where two
+  neighbours would otherwise print the same three), because at one decimal the top of the board is a
+  wall of 100.0 and 99.9. Every figure is a <data value>; nothing lives only in a tooltip.
 */
+import { signalCountWords } from "./signals-row";
 
 export type Confidence = "solid" | "partial" | "thin" | "none";
 
-/** 3–4 signals = corroborated · 2 = partial · 1 = thin · 0 = unmeasured. */
+/** 3+ signals = corroborated · 2 = partial · 1 = thin · 0 = unmeasured. */
 export function confidenceOf(evidence: number): Confidence {
   if (evidence >= 3) return "solid";
   if (evidence === 2) return "partial";
@@ -27,62 +27,34 @@ const NUMBER_CLASS: Record<Confidence, string> = {
   none: "text-score-none",
 };
 
-const SEGMENT_CLASS: Record<Confidence, string> = {
-  solid: "bg-score-solid",
-  partial: "bg-score-partial",
-  thin: "bg-score-thin",
-  none: "bg-score-none",
-};
-
-const SEGMENTS = [0, 1, 2, 3];
-
 export interface ScoreBadgeProps {
   /** The Universal score, 0–100 to one decimal. `null` = unranked. */
   score: number | null;
-  /** Independent signals held, 0–4 (`scores.evidence` from lib/rank.mjs). */
+  /** Independent signals held (`scores.evidence` from lib/rank.mjs). */
   evidence: number;
-  /** Render the visible `n/4 Signals` caption. Off in dense tables, where the
-   *  Signals column already states the same fact in full. */
+  /** Printed text when it differs from the one-decimal score (ranked lists). */
+  display?: string | null;
+  /** The value behind `display`, for the <data> element. */
+  value?: number | null;
+  /** Print "3 signals" under the number. Off in tables, whose Evidence column says it in full. */
   caption?: boolean;
 }
 
-export function ScoreBadge({ score, evidence, caption = false }: ScoreBadgeProps) {
-  const filled = Math.max(0, Math.min(4, Math.round(evidence)));
-  const level = confidenceOf(filled);
-
+export function ScoreBadge({ score, evidence, display, value, caption = false }: ScoreBadgeProps) {
+  if (score == null) {
+    return <span className="text-[12.5px] leading-none text-ink-faint">Unranked</span>;
+  }
+  const level = confidenceOf(evidence);
   return (
-    <span className="inline-flex flex-col items-end gap-1.5">
-      {score == null ? (
-        <span className="font-mono text-[13px] font-medium leading-none text-score-none">
-          &mdash;
-        </span>
-      ) : (
-        <data
-          value={String(score)}
-          className={`font-mono text-[13px] font-medium leading-none tabular-nums ${NUMBER_CLASS[level]}`}
-        >
-          {score.toFixed(1)}
-        </data>
-      )}
-
-      <span
-        role="img"
-        aria-label={`${filled} of 4 Signals`}
-        className="flex items-center gap-[2px]"
+    <span className="inline-flex flex-col items-end gap-1">
+      <data
+        value={String(value ?? score)}
+        className={`text-[14px] font-semibold leading-none tabular-nums ${NUMBER_CLASS[level]}`}
       >
-        {SEGMENTS.map((i) => (
-          <span
-            key={i}
-            aria-hidden
-            className={`h-[3px] w-[7px] rounded-[1px] ${i < filled ? SEGMENT_CLASS[level] : "bg-line-strong"}`}
-          />
-        ))}
-      </span>
-
+        {display ?? score.toFixed(1)}
+      </data>
       {caption && (
-        <span className="font-mono text-[10px] leading-none text-ink-muted tabular-nums">
-          {filled}/4 Signals
-        </span>
+        <span className="text-[11px] leading-none text-ink-muted">{signalCountWords(evidence)}</span>
       )}
     </span>
   );

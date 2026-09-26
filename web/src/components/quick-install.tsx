@@ -8,6 +8,7 @@ import {
   buildSnippet,
   type Harness,
 } from "@/lib/install-targets";
+import { CommandText } from "./command-text";
 import { CheckIcon, CopyIcon, TerminalIcon } from "./icons";
 
 /*
@@ -86,8 +87,8 @@ export function QuickInstall({ component }: { component: Component }) {
             <span aria-hidden className="select-none font-mono text-xs text-accent">
               $
             </span>
-            <code className="flex-1 overflow-x-auto whitespace-nowrap font-mono text-[11.5px] text-ink-body [font-variant-ligatures:none]">
-              {snippet.command}
+            <code className="min-w-0 flex-1 break-words font-mono text-[11.5px] text-ink-body [font-variant-ligatures:none]">
+              <CommandText command={snippet.command} />
             </code>
             <button
               type="button"
