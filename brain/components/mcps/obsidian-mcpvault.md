@@ -20,11 +20,11 @@ pushed_at: "2026-09-21T12:07:47Z"
 
 ## What it is
 An MCP server that connects an agent to an Obsidian vault. It can read and write notes, search across them, traverse
-wikilinks, and update YAML frontmatter — making the vault a navigable knowledge graph the agent can both consume and
+wikilinks, and update YAML frontmatter, making the vault a navigable knowledge graph the agent can both consume and
 maintain.
 
 ## When to use it
-When your second brain lives in Obsidian and you want the agent to keep it current — adding notes, linking concepts,
+When your second brain lives in Obsidian and you want the agent to keep it current: adding notes, linking concepts,
 updating a map-of-content. The trigger is "update the vault" or "what do we already know about X?"
 
 ## How to install / invoke

@@ -21,7 +21,7 @@ pushed_at: "2026-09-01T19:59:24Z"
 ## What it is
 A hosted-control runtime pattern: the agent's reasoning loop is managed by the provider, but the actual execution
 (tool calls, code, data access) happens on infrastructure you operate. It separates the control plane (managed) from
-the data plane (yours) — the enterprise answer to "we want managed orchestration without sending our data out."
+the data plane (yours): the enterprise answer to "we want managed orchestration without sending our data out."
 
 ## When to use it
 For enterprise deployments where a managed agent loop is desirable for reliability and updates, but data residency

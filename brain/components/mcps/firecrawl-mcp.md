@@ -24,7 +24,7 @@ structured data (including from PDFs), handling the messy parts of fetching and 
 content.
 
 ## When to use it
-When research or ingestion needs the actual contents of web pages or documents — competitive analysis, doc
+When research or ingestion needs the actual contents of web pages or documents: competitive analysis, doc
 ingestion, monitoring a source. The trigger is "go read these URLs and bring back the content."
 
 ## How to install / invoke

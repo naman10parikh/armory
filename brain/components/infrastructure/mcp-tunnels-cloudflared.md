@@ -24,7 +24,7 @@ holes) plus a provider proxy lets a managed agent call MCP servers that live ins
 OAuth for access control. It bridges "managed agent" and "private internal tools."
 
 ## When to use it
-When an agent runs in a hosted control plane but needs tools or data that must stay private — internal databases,
+When an agent runs in a hosted control plane but needs tools or data that must stay private: internal databases,
 company knowledge, on-prem services exposed as MCP. The trigger is "the hosted agent needs our private MCP server."
 
 ## How to install / invoke

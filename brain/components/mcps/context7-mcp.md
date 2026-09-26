@@ -25,7 +25,7 @@ to its current docs and returning the relevant sections. It closes the gap betwe
 the actual current API surface.
 
 ## When to use it
-Any time you're about to write or debug code against a library — even a well-known one like React or Next.js — where
+Any time you're about to write or debug code against a library, even a well-known one like React or Next.js, where
 recent changes might bite you. The trigger is "what does the current API actually look like?"
 
 ## How to install / invoke

@@ -21,20 +21,20 @@ const PLACEHOLDER = /^[a-z0-9-]+ tool$/i;
 // Also overrides for GitHub one-liners that are a tagline, an emoji, or "tmux source code" — a
 // description says what the thing does, in one plain line.
 const HAND = {
-  mailtm: "Disposable email inboxes with a free REST API — receive mail without an account.",
-  "pipedream-mcp": "Pipedream Connect exposed as MCP — 2,800+ APIs with managed auth, one server.",
+  mailtm: "Disposable email inboxes with a free REST API: receive mail without an account.",
+  "pipedream-mcp": "Pipedream Connect exposed as MCP: 2,800+ APIs with managed auth, one server.",
   "zapier-mcp": "Zapier's 8,000+ app actions exposed to an agent as MCP tools.",
-  bb: "Browse CLI (`bb`) — Stagehand-powered browser automation from the terminal.",
-  anon: "Delegated account access for agents — a user grants access without sharing credentials.",
-  tmux: "Terminal multiplexer — persistent sessions, split panes, detach and reattach.",
+  bb: "Browse CLI (`bb`): Stagehand-powered browser automation from the terminal.",
+  anon: "Delegated account access for agents: a user grants access without sharing credentials.",
+  tmux: "Terminal multiplexer: persistent sessions, split panes, detach and reattach.",
   "cli-anything": "Generates an agent-native CLI for any piece of software; CLI-Hub collects them.",
-  opentelemetry: "OpenTelemetry JavaScript SDK — traces, metrics and logs for Node and the browser.",
+  opentelemetry: "OpenTelemetry JavaScript SDK: traces, metrics and logs for Node and the browser.",
   "printing-press": "Finds the CLI hidden inside any API and generates it.",
   "stripe-link-cli": "Lets an agent pay with Stripe Link on your behalf: you approve, credentials stay hidden.",
-  wrangler: "Wrangler — the CLI for Cloudflare Workers.",
-  resend: "Resend's official Node.js SDK — transactional email from code.",
+  wrangler: "Wrangler: the CLI for Cloudflare Workers.",
+  resend: "Resend's official Node.js SDK: transactional email from code.",
   "coinbase-agentkit": "Coinbase AgentKit: gives an agent an onchain wallet and the actions to use it.",
-  arcade: "Arcade — MCP server framework and tool library with managed auth for agent tools.",
+  arcade: "Arcade: MCP server framework and tool library with managed auth for agent tools.",
 };
 // Rows whose URL pointed at a parent monorepo and borrowed its stars. `playwright-cli` has its own repo.
 // Keyed by path: the skill of the same name points at its own repo and is correct.

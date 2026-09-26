@@ -25,7 +25,7 @@ durable cross-session memory that survives beyond a single machine or conversati
 personalization-oriented memory tier.
 
 ## When to use it
-When an agent should remember a user's preferences, project facts, or prior decisions across many sessions — the
+When an agent should remember a user's preferences, project facts, or prior decisions across many sessions: the
 kind of long-term memory a local per-session store can't provide. The trigger is "remember this about me/the project."
 
 ## How to install / invoke

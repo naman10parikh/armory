@@ -25,7 +25,7 @@ data, what's on the page) and runs them against a managed cloud browser. A thin 
 It is the canonical way for an agent to operate the web rather than just scrape it.
 
 ## When to use it
-When the task requires interacting with a page — clicking, filling forms, navigating authenticated flows — not just
+When the task requires interacting with a page (clicking, filling forms, navigating authenticated flows), not just
 reading static content. For read-only content extraction at scale, a scraping MCP is lighter.
 
 ## How to install / invoke
