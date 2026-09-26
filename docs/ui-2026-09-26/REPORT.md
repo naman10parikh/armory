@@ -206,3 +206,23 @@ circle-mcp-server at 2,621 stars. Its corroborated rival has 209,417 stars, so t
 
 Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
 test 6/6, test pyramid 14/14, `validate` PASS (65,216), `test-gate` PASS.
+
+## Production faults from CP138 T23, 26 September (PR C)
+
+Lane 41 read every page at 390, 768 and 1280 after #14–#17 went live, and installed both packages from their
+tarballs (`sentinel/brain/updates/cp143/cp138-T23-screens.md` §5). Screenshots of the fixes, read, are in
+`shots/prod-faults/` (390 and 1280). A script checked every one for a page wider than the screen and for boxes
+that scroll sideways: none, and no console errors.
+
+| Fault | Fix | Evidence |
+|---|---|---|
+| The CLI and the MCP server failed from a fresh install | `prepack` vendors `lib/rank.mjs` and a gzipped catalog into each package; both look for a clone first, then `vendor/`; the MCP server's start check follows the bin link; `init` writes `armory-mcp` when it is installed, and refuses with steps when it is neither installed nor published; the lockfile names `armory-mcp` and `web` | `bash scripts/fresh-install-check.sh`, now a CI step |
+| labelhead carried paperclip's 79,838 stars | Its MCP registry entry names the wrong repository; the row now points at its PulseMCP listing with no repository evidence | `labelhead-1280.png`: Unranked, "No signals yet" |
+| SWE-bench twice; daytona twice | The /stack rows stay and take the current repository, stars and mentions; the others are moved to `brain/lookup/duplicates/` with `folded_into`. Daytona's license is AGPL-3.0 and its repository stopped updating in June 2026; the row and the pick say so | `c-evals-1280.png`, `c-sandbox-1280.png` |
+| Two repositories at exactly 41,746 stars | Two separate readings, 3.5 hours apart on 1–2 September, with different forks (2,782 and 3,400); each has grown with its own repository since. No change | — |
+| Sideways scrolling at 390 | Small tables become labelled cards; the configuration block wraps; the nav wraps onto a second line | `status-390.png`, `identity-390.png`, `formula-390.png`, `e-github-mcp-390.png` |
+| Mixed decimals, 100.0 with no row at 100, one score for two ranks, no key for the dimmer amber | One-decimal scores are cut, not rounded; a ranked list uses one number of decimals; equal scores share a rank (43, 43, 45 on the leaderboard); a key under every ranked table | `leaderboard-1280.png`, `c-mcps-390.png` (Top Score 99.9) |
+| Reviewer comments as descriptions; "[NOTE…"; "scripts)for"; doubled words on /new; names of people | 48 descriptions rewritten from the facts they held; 2,853 mcp.so rows say "Listed on mcp.so; Armory has only its name so far."; 32 credits name the list, not the person | `leaderboard-390.png`, `new-390.png` |
+| /formula contradicted itself; a Score column of "100", "79", "49.2"; "anon" | The two sentences agree; the coverage units are named; one decimal throughout; each example carries its description | `formula-390.png`, `formula-1280.png` |
+| "Updated 12 minutes ago" over three-week-old commit dates; "+356 listed this week" against /status | "Catalog rebuilt …" and "GitHub figures from 2 Sep 2026 or later" (from a read log the star backfill now keeps); commit dates print as dates; /status explains that a row keeps its confirmation date when it is added | `home-1280.png`, `status-1280.png` |
+| Sandbox, Tools and Dispatch hold the wrong kinds of thing | Proposal only, in `docs/SHELF-FIT-PROPOSAL.md`: a purpose-word gate, measured (4, 7 and 6 of each top 20 fit), and why it needs more than an hour | `node scripts/shelf-fit.mjs` |
