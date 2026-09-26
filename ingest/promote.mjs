@@ -14,6 +14,7 @@ import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync, rmSync
 import { join, dirname, basename, resolve as resolvePath } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
+import { repoRootUrl } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INCOMING = join(ROOT, "incoming");
@@ -126,6 +127,9 @@ function validateStub(fm, filePath) {
 // (`a2a-ui-2`), which left 496 groups of identical rows in the catalog. The same URL under the same
 // type is the same component whatever it is called.
 const urlKey = (fm) => (fm.source_url ? `url:${fm.type}|${String(fm.source_url).toLowerCase().replace(/\/$/, "")}` : null);
+// One GitHub repository root is one component on any shelf (CP143 T56, scripts/demote-same-repo.mjs): a
+// crawl that meets a repository already listed under another type, or as `repo#readme`, adds nothing.
+const repoKey = (fm) => { const r = repoRootUrl(fm.source_url); return r ? `repo:${r.toLowerCase()}` : null; };
 function existingKeys(toDir) {
   const keys = new Set();
   for (const type of TYPES) {
@@ -137,6 +141,8 @@ function existingKeys(toDir) {
       if (fm.name && fm.type) keys.add(`${fm.name}|${fm.type}`);
       const u = urlKey(fm);
       if (u) keys.add(u);
+      const rk = repoKey(fm);
+      if (rk) keys.add(rk);
     }
   }
   return keys;
@@ -177,9 +183,11 @@ export function promote(fromDir, toComponentsDir, { dryRun = true, log = console
     if (errs.length) { result.invalid.push({ filePath, errs }); log(`  ✗ INVALID ${filePath}: ${errs.join("; ")}`); continue; }
     const key = `${fm.name}|${fm.type}`;
     const u = urlKey(fm);
-    if (seen.has(key) || (u && seen.has(u))) { result.skipped.push({ filePath, key }); log(`  = DUP     ${filePath} (${seen.has(key) ? key : u} already present)`); continue; }
+    const rk = repoKey(fm);
+    if (seen.has(key) || (u && seen.has(u)) || (rk && seen.has(rk))) { result.skipped.push({ filePath, key }); log(`  = DUP     ${filePath} (${seen.has(key) ? key : u && seen.has(u) ? u : rk} already present)`); continue; }
     seen.add(key);
     if (u) seen.add(u);
+    if (rk) seen.add(rk);
     const dest = join(toComponentsDir, fm.type, `${fm.name}.md`);
     if (dryRun) { log(`  [dry-run] would promote ${filePath} -> ${dest}`); }
     else {

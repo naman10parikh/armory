@@ -4,7 +4,7 @@ type: mcps
 description: >
   The Armory MCP server — search_catalog, rank_components, get_component and submit_component over stdio, so an agent can find and pull ranked harness components at runtime. Wire it in with `armory init`.
 source_repo: naman10parikh/armory
-source_url: https://github.com/naman10parikh/armory
+source_url: https://github.com/naman10parikh/armory/tree/main/armory-mcp
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
