@@ -7,7 +7,8 @@
 //      produces for the raw catalog folders it aggregates. Two are unions: Identity holds
 //      `identity` + `rules` (a CLAUDE.md rule IS the self), Tools holds `cli` + `tool`.
 //      Every one of the catalog's normalized values is claimed by exactly one canonical
-//      component, so no row is orphaned and none is double-counted.
+//      component, so no row is orphaned and none is double-counted. Sandbox, Tools and Dispatch
+//      list only the rows filed there that do their job (lib/rank.mjs SHELF_FIT); filedFor has all.
 //
 //   2. resolvePick — an armoryName from src/data/stack.json back to the LIVE scored row,
 //      so the Pick block quotes the same Score the table below it does. stack.json holds
@@ -15,7 +16,7 @@
 //
 // Rows come from the same engine as the home page, the leaderboard and /api/rank
 // (lib/rank.mjs computeRows) — read once per process, cached.
-import { allBoardRows, foldSameRepo, type BoardRow } from "@/lib/rows";
+import { allBoardRows, fitPurpose, foldSameRepo, type BoardRow } from "@/lib/rows";
 import stackJson from "@/data/stack.json";
 
 /** A scored catalog row — the shared board row (src/lib/rows.ts). */
@@ -107,7 +108,7 @@ function byRank(a: CanonRow, b: CanonRow): number {
 
 export interface CanonStats {
   slug: string;
-  /** Rows the catalog holds for this component. */
+  /** Rows the shelf lists: every row filed under it, or, when `fit` is set, the ones that do its job. */
   indexed: number;
   /** Rows carrying at least one measured signal. */
   ranked: number;
@@ -122,15 +123,25 @@ export interface CanonStats {
   leaderboardComponent: string;
   /** Members carrying rows, largest first — so a union component can name what it merges. */
   members: { component: string; count: number }[];
+  /**
+   * Set when the shelf lists only the rows made for its job (lib/rank.mjs SHELF_FIT): the job, how many
+   * rows are filed under its components, how many of those it leaves out, and a /browse view that has them.
+   */
+  fit: { purpose: string; filed: number; leftOut: number; browse: string } | null;
 }
 
-/** Every row on a canonical shelf, best first. Unknown slug → empty. */
-export function rowsFor(slug: string): CanonRow[] {
+/** Every row filed under a canonical shelf's components, whether or not it does the shelf's job. */
+export function filedFor(slug: string): CanonRow[] {
   const members = CANON[slug];
   if (!members) return [];
   return allRows()
     .filter((r) => members.includes(r.component))
     .sort(byRank);
+}
+
+/** Every row on a canonical shelf, best first: the rows filed there that do its job. Unknown slug → empty. */
+export function rowsFor(slug: string): CanonRow[] {
+  return filedFor(slug).filter((r) => r.fits);
 }
 
 export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
@@ -142,6 +153,12 @@ export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
     .map(([component, count]) => ({ component, count }))
     .sort((a, b) => b.count - a.count || a.component.localeCompare(b.component));
 
+  const purpose = (CANON[slug] ?? []).map(fitPurpose).find((p) => p != null) ?? null;
+  const filed = purpose ? filedFor(slug) : [];
+  // Browse the types of the rows left out. A row moved onto the shelf from another type always fits, so its
+  // type (all of MCP Servers, for one moved row) never widens the link (lib/rank.mjs SHELF_MOVES).
+  const types = [...new Set(filed.filter((r) => !r.fits).map((r) => r.type))].join(",");
+
   return {
     slug,
     indexed: list.length,
@@ -150,6 +167,9 @@ export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
     topScore: ranked.length ? (ranked[0].universal as number) : null,
     leaderboardComponent: members[0]?.component ?? (CANON[slug]?.[0] ?? ""),
     members,
+    fit: purpose
+      ? { purpose, filed: filed.length, leftOut: filed.length - list.length, browse: `/browse?type=${encodeURIComponent(types)}` }
+      : null,
   };
 }
 
@@ -183,7 +203,7 @@ export function resolvePick(pick: Pick, slug: string, isThePick = false): Resolv
   const members = CANON[slug] ?? [];
   const candidates = allRows().filter((r) => r.name === pick.armoryName);
   if (candidates.length === 0) return none;
-  const onShelf = candidates.filter((r) => members.includes(r.component));
+  const onShelf = candidates.filter((r) => members.includes(r.component) && r.fits);
   const row = (onShelf.length ? onShelf : candidates).sort(byRank)[0];
   const href = row.type
     ? `/e/${encodeURIComponent(row.type)}/${encodeURIComponent(row.name)}`

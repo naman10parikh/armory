@@ -21,26 +21,31 @@ export function LinkChipGroup({ label, chips }: { label: string; chips: readonly
   const shown = chips.slice(0, VISIBLE + 1); // "All" + the first eight
   const rest = chips.slice(VISIBLE + 1);
   const restActive = rest.some((c) => c.active);
+  // From sm up the label keeps its own column and every chip, the opened "More" ones included, wraps in
+  // the next, so a wrapped line and the opened chips start at the same edge. Below sm the chips column is
+  // `contents`: everything wraps as one line under the label, from the left edge.
   return (
-    <div className="flex flex-wrap items-center gap-1.5">
+    <div className="flex flex-wrap items-center gap-1.5 sm:flex-nowrap sm:items-baseline">
       <span className="mr-1 w-[76px] shrink-0 text-[11px] font-medium uppercase tracking-[0.14em] text-ink-muted">
         {label}
       </span>
-      {shown.map((c) => (
-        <Chip key={c.key} chip={c} />
-      ))}
-      {rest.length > 0 && (
-        <details className="group open:w-full" open={restActive}>
-          <summary className="cursor-pointer list-none rounded-full border border-line-subtle bg-raise-1 px-2.5 py-1 text-[12px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-line hover:text-ink-hi group-open:hidden [&::-webkit-details-marker]:hidden">
-            {INT.format(rest.length)} More
-          </summary>
-          <div className="flex flex-wrap gap-1.5 sm:pl-[82px]">
-            {rest.map((c) => (
-              <Chip key={c.key} chip={c} />
-            ))}
-          </div>
-        </details>
-      )}
+      <div className="contents sm:flex sm:min-w-0 sm:flex-1 sm:flex-wrap sm:items-center sm:gap-1.5">
+        {shown.map((c) => (
+          <Chip key={c.key} chip={c} />
+        ))}
+        {rest.length > 0 && (
+          <details className="group open:w-full" open={restActive}>
+            <summary className="cursor-pointer list-none rounded-full border border-line-subtle bg-raise-1 px-2.5 py-1 text-[12px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-line hover:text-ink-hi group-open:hidden [&::-webkit-details-marker]:hidden">
+              {INT.format(rest.length)} More
+            </summary>
+            <div className="flex flex-wrap gap-1.5">
+              {rest.map((c) => (
+                <Chip key={c.key} chip={c} />
+              ))}
+            </div>
+          </details>
+        )}
+      </div>
     </div>
   );
 }

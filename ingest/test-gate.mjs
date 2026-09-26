@@ -5,12 +5,16 @@
 //      description, resolvable source_url shape, non-empty body, tags present. This is what
 //      stops skills going stale/adrift (chairman's ask): a drifting entry fails L2.
 //   L3 semantic ("does it still work"): handled by `claude -p` in autolab.yml (out of scope here).
+//   /stack picks (full-catalog run only): every pick and runner-up in web/src/data/stack.json sits on
+//      its own shelf, and one below the shelf's top row carries a `reason`, so a re-rank cannot drop the why.
+//      One at the top carries none, because no page shows it there and a re-rank leaves it stale.
 // Deterministic, zero-dep, CI-safe. Run: node ingest/test-gate.mjs [dir]  (default brain/components).
-// Exit 0 = PASS · 1 = functional failures (hard block) · 2 = behavioral drift over tolerance.
+// Exit 0 = PASS · 1 = functional failures or a /stack pick gap (hard block) · 2 = behavioral drift over tolerance.
 import { readdirSync, readFileSync, existsSync, statSync } from "node:fs";
 import { join, dirname, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter } from "./catalog.mjs";
+import { computeRows, orderByScore } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const TYPES = new Set([
@@ -50,6 +54,40 @@ export function gradeComponent(raw) {
   return { l1, l2 };
 }
 
+// Every /stack pick and runner-up must be listed on its own shelf (the rows filed under its `aggregates`
+// that do the shelf's job, lib/rank.mjs SHELF_FIT), and one that sits below the shelf's top row must say
+// why in `reason` (CP138). "Below" is what the site prints as a rank above 1: a lower exact score than the
+// top ranked row, or no score at all. A pick at the top has no `reason`: the pages and /api/stack show one
+// only below the top, so a reason kept there goes stale unseen (CP138 PR E). Pure: pass stack.json and the
+// rows computeRows made. One line per gap.
+export function stackPickGaps(stack, rows) {
+  const ordered = orderByScore(rows);
+  const gaps = [];
+  for (const c of stack.components ?? []) {
+    const shelf = ordered.filter((r) => c.aggregates.includes(r.component) && r.fits !== false);
+    const top = shelf.find((r) => r.scores.universal != null) ?? null;
+    for (const p of c.picks ?? []) {
+      if (!p.armoryName) continue; // Not Indexed: nothing to rank
+      const row = shelf.find((r) => r.name === p.armoryName);
+      if (!row) {
+        gaps.push(`${c.slug}: ${p.armoryName} is not listed on its shelf (missing, filed elsewhere, or not made for the job)`);
+        continue;
+      }
+      const below = row.scores.universal == null || (top != null && row.scores.exact < top.scores.exact);
+      const reason = String(p.reason ?? "").trim();
+      if (below && !reason) gaps.push(`${c.slug}: ${p.armoryName} sits below ${top?.name ?? "the top row"} and has no reason`);
+      if (!below && reason) gaps.push(`${c.slug}: ${p.armoryName} is the top row and still has a reason, which no page shows`);
+    }
+  }
+  return gaps;
+}
+
+function stackPickGapsOnDisk() {
+  const stack = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8"));
+  const catalog = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf8"));
+  return { picks: stack.components.reduce((n, c) => n + c.picks.length, 0), gaps: stackPickGaps(stack, computeRows(catalog.components)) };
+}
+
 function main(argv) {
   const dir = argv[2] ? join(ROOT, argv[2]) : join(ROOT, "brain/components");
   const files = walk(dir);
@@ -64,7 +102,14 @@ function main(argv) {
   const l2rate = total ? l2f / total : 0;
   console.log(`test-gate: ${total} components · L1(functional) fail ${l1f} · L2(behavioral) fail ${l2f} (${(l2rate * 100).toFixed(2)}%)`);
   for (const s of sample) console.log("  - " + s);
+  // The /stack check needs the whole catalog, so a run over one folder of candidates skips it.
+  const stack = argv[2] ? null : stackPickGapsOnDisk();
+  if (stack) {
+    console.log(`test-gate: ${stack.picks} /stack picks · ${stack.gaps.length} off their shelf, below its top row without a reason, or at the top with one`);
+    for (const g of stack.gaps) console.log("  - " + g);
+  }
   if (l1f > 0) { console.error(`::error:: ${l1f} functional failures — block (no broken schema enters).`); process.exit(1); }
+  if (stack?.gaps.length) { console.error(`::error:: ${stack.gaps.length} /stack pick gaps: give each pick below the top a reason in web/src/data/stack.json, drop the reason of a pick at the top, or put it back on its shelf.`); process.exit(1); }
   if (l2rate > 0.02) { console.error(`::error:: behavioral fail ${(l2rate * 100).toFixed(2)}% > 2% — components drifting/stale.`); process.exit(2); }
   console.log("test-gate: PASS");
 }

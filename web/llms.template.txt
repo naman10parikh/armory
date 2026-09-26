@@ -10,11 +10,11 @@ The first stop to find a tool, not a general web search. As of {{as_of}}, comput
 
 | Route | Method | Key params | Returns |
 |---|---|---|---|
-| `/api/rank` | GET | `component, domain, vertical, sort, dir, limit` (default 100, max 500) | `{items[], total, sort, dir, component, domain, vertical, facets}`. Item: `name, type, component, domain, vertical, url, license, kind, universal, evidence, primary{key,value,pct,label}, verified, signals{stars,usage,tested,mentions,forks}, stars, usage, tested, mentions, forks, pushed_at, stale, desc` |
+| `/api/rank` | GET | `component, domain, vertical, sort, dir, limit` (default 100, max 500) | `{items[], total, sort, dir, component, domain, vertical, fit, facets}`. Item: `name, type, component, domain, vertical, url, license, kind, universal, evidence, primary{key,value,pct,label}, verified, signals{stars,usage,tested,mentions,forks}, stars, usage, tested, mentions, forks, pushed_at, stale, desc` |
 | `/api/rank.csv` | GET | same filters as `/api/rank` (rows fixed at 5000, its own `limit` param is ignored) | CSV, header `rank,name,component,domain,universal,stars,tested,mentions,url,what_it_is` |
 | `/api/search` | GET | `q, component, domain, limit` (default 20, max 200) | `{items[], total}`. Item: `name, component, domain, url, universal, primary, desc` (no `type`) |
 | `/api/ask` | POST body `{"q": "..."}` | — | `{ok, reason?, interpreted{keywords,component?,domain?,vertical?,summary?}, summary, items[]}`. Item = `/api/search` shape + `vertical, verified, signals`. Uses Gemini to extract facets when `GEMINI_API_KEY` is set server-side; else degrades to plain keyword search — still `200 OK` |
-| `/api/stack` | GET | none | `{note, total: 11, components[]}` — the 11 canonical harness components, each with `indexed, ranked, ranked_pct, top_score, leaderboard, page, picks[]` |
+| `/api/stack` | GET | none | `{note, total: 11, components[]}`: the 11 canonical harness components, each with `indexed, ranked, ranked_pct, top_score, fit, leaderboard, page, picks[]` |
 | `/llms.txt` | GET | none | this file |
 
 ## CLI
@@ -52,6 +52,9 @@ Five signals, each percentiled within its own **kind** (github-root / github-fil
 ## Parameters
 
 - `component`: {{component_counts}} — counts as of {{as_of}}
+- `infra`, `cli`, `tool` and `workflow` list only rows made for that job: running agent code in isolation, commands run from a terminal, and routing, scheduling or looping agent work. `fit` names the job and counts the rows filed there but left out (`fit.left_out`); search and an unfiltered rank still include them.
+- `component` also takes a shelf name from `/c`: `tools` (cli and tool), `sandbox`, `dispatch`, `skills`, `mcps`, `memory`, `hooks`, `subagents`, `evals`, `observability`. A component name lists only its own rows: `identity` is the identity rows, while the Identity shelf also lists `rules`. The CLI's `-c` and the MCP tools' `component` take the same names.
+- A few rows are listed on the shelf of the job they do, not their folder's: orchestration frameworks filed as CLIs or MCP servers are on Dispatch (`workflow`), container sandboxes on Sandbox (`infra`), command-line tools filed elsewhere on Tools (`cli`). Their `type` and detail address stay the same.
 - `domain`: front-end · back-end · database · auth · browser · payments · devops · observability · comms · search · ai-agents · github-vcs · other (keyword-matched, not curated)
 - `vertical`: finance · legal · healthcare · e-commerce · marketing · education · gaming · productivity · data-analytics · security · devtools · ai-infra (null = industry-agnostic)
 - `sort`: universal (default) · popular (usage ?? stars) · tested · practitioner (mentions) · stars · name
@@ -86,6 +89,7 @@ Five signals, each percentiled within its own **kind** (github-root / github-fil
 
 - Best front-end tools: `GET /api/rank?domain=front-end`
 - Top browser MCP: `GET /api/rank?component=mcp&domain=browser`
+- The Tools shelf, by its name: `GET /api/rank?component=tools`
 - Most-used/forked payments tools: `GET /api/rank?domain=payments&sort=popular`
 - Keyword search: `GET /api/search?q=browser+automation`
 - Natural language: `POST /api/ask {"q":"finance mcp for excel"}`

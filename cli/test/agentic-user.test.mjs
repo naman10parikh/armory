@@ -37,6 +37,23 @@ test("agentic-user: search degrades gracefully on a no-match query", () => {
   assert.match(r.stdout, /no components matched/i, "tells the user nothing matched");
 });
 
+test("agentic-user: rank takes a shelf name, so -c tools lists the Tools shelf (0 rows before CP138 PR E)", () => {
+  const r = run(["rank", "--component", "tools", "--limit", "5", "--json"]);
+  assert.equal(r.status, 0, "rank exits 0");
+  const lb = JSON.parse(r.stdout);
+  assert.ok(lb.total > 0, "the Tools shelf has rows");
+  assert.ok(lb.items.length > 0 && lb.items.every((i) => ["cli", "tool"].includes(i.component)), "only Tools rows");
+  assert.equal(lb.fit?.purpose, "run as commands from a terminal", "the shelf keeps its gate");
+});
+
+test("agentic-user: search -c takes the same shelf names as rank", () => {
+  const r = run(["search", "browser", "--component", "tools", "--json"]);
+  assert.equal(r.status, 0, "search exits 0");
+  const out = JSON.parse(r.stdout);
+  assert.ok(out.total > 0, "a shelf name is not an empty filter");
+  assert.ok(out.items.every((i) => ["cli", "tool"].includes(i.component)), "only Tools rows");
+});
+
 test("break-it: an unknown command fails loudly (non-zero exit)", () => {
   const r = run(["boguscmd"]);
   assert.notEqual(r.status, 0, "unknown command must NOT exit 0 (agents need to detect failure)");

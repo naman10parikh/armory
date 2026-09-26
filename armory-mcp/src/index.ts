@@ -140,12 +140,12 @@ export function createServer(): McpServer {
     {
       title: "Rank components",
       description:
-        "Rank open-source building blocks by a Universal score (or another axis), sliceable by component type and domain. Use to find the BEST or TRENDING tool in a space — e.g. the top MCP for browser automation, or the leading front-end CLI. Returns ranked JSON with a 0-100 Universal score, GitHub stars, measured test score, and community mentions. The Universal score normalizes each signal within its own kind so a docs page ranks fairly against a 40k-star repo.",
+        "Rank open-source building blocks by a Universal score (or another axis), sliceable by component type and domain. Use to find the BEST or TRENDING tool in a space, for example the top MCP for browser automation, or the leading front-end CLI. Returns ranked JSON with a 0-100 Universal score, GitHub stars, measured test score, and community mentions. The Universal score normalizes each signal within its own kind so a docs page ranks fairly against a 40k-star repo. Pass a shelf name (tools, sandbox, dispatch, skills, mcps, ...) to rank a whole shelf of the site. The Sandbox, Tools and Dispatch shelves list only rows made for that job (sandboxes, terminal commands, orchestration); `fit` names the job and counts the rows left out.",
       inputSchema: z.object({
         component: z
           .string()
           .optional()
-          .describe("filter to one component type: mcp|cli|skill|plugin|hook|subagent|rules|tool|memory|eval|..."),
+          .describe("filter to one shelf (tools|sandbox|dispatch|skills|mcps|memory|evals|...) or component type (cli|infra|workflow|mcp|skill|hook|subagent|rules|...)"),
         domain: z
           .string()
           .optional()
@@ -176,7 +176,7 @@ export function createServer(): McpServer {
         component: z
           .string()
           .optional()
-          .describe("filter to one component type: mcp|cli|skill|plugin|hook|subagent|rules|tool|memory|eval|..."),
+          .describe("filter to one shelf (tools|sandbox|dispatch|skills|mcps|memory|evals|...) or component type (cli|infra|workflow|mcp|skill|hook|subagent|rules|...)"),
         domain: z
           .string()
           .optional()
@@ -188,16 +188,18 @@ export function createServer(): McpServer {
       const components = loadCatalog().components;
       // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the
       // real module type with the missing export to stay type-safe without touching the engine or types.
-      const { computeRows } = (await import(engineUrl())) as typeof import("../../lib/rank.mjs") & {
+      const { computeRows, componentsOf } = (await import(engineUrl())) as typeof import("../../lib/rank.mjs") & {
         computeRows: (c: unknown[]) => EngineRow[];
       };
       const rows = computeRows(components); // same order as components (a .map)
+      // A shelf name ("tools") lists the whole shelf, a component key ("cli") its own rows, as in rank_components.
+      const members = component ? componentsOf(component) : null;
       const qTerms = [...new Set(tokenize(query))];
       const scored = components
         .map((c, i) => ({ row: rows[i], score: keywordScore(c, qTerms) }))
         .filter(
           ({ row, score }) =>
-            score > 0 && (!component || row.component === component) && (!domain || row.domain === domain),
+            score > 0 && (!members || members.includes(row.component)) && (!domain || row.domain === domain),
         )
         .sort(
           (a, b) =>

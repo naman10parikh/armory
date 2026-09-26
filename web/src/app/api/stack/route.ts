@@ -38,16 +38,18 @@ export function GET(): NextResponse {
       ranked: stats.ranked,
       ranked_pct: stats.rankedPct,
       top_score: stats.topScore,
+      // Sandbox, Tools and Dispatch list only the rows made for their job; `indexed` counts those, `fit` the rest.
+      fit: stats.fit ? { purpose: stats.fit.purpose, filed: stats.fit.filed, left_out: stats.fit.leftOut } : null,
       leaderboard: `/leaderboard?component=${encodeURIComponent(stats.leaderboardComponent)}`,
       page: `/c/${slug}`,
       // The pick first, then its runners-up; shelf_rank is the rank /c prints, and reason says why a pick
-      // below the shelf's top row is listed anyway.
+      // below the shelf's top row is listed anyway. At the top it is null, as the pages show none there.
       picks: resolvedPicksFor(slug).map((p) => ({
         name: p.name,
         why: p.why,
         the_pick: p.isThePick,
         shelf_rank: p.rank,
-        reason: p.reason ?? null,
+        reason: p.rank !== 1 ? p.reason ?? null : null,
         indexed: p.row != null,
         armory_name: p.armoryName,
         url: p.url,
