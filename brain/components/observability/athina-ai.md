@@ -2,7 +2,7 @@
 name: athina-ai
 type: observability
 description: >
-  Athina AI provides developer-focused LLM monitoring and eval framework — real-time inference logging, automated evals, and regression detection in CI.
+  Athina AI provides developer-focused LLM monitoring and eval framework: real-time inference logging, automated evals, and regression detection in CI.
 source_repo: athina-ai/athina-evals
 source_url: https://github.com/athina-ai/athina-evals
 license: MIT
@@ -17,7 +17,7 @@ forks: 23
 pushed_at: "2025-06-06T15:54:38Z"
 ---
 ## What it is
-Athina AI provides developer-focused LLM monitoring and eval framework — real-time inference logging, automated evals, and regression detection in CI.
+Athina AI provides developer-focused LLM monitoring and eval framework: real-time inference logging, automated evals, and regression detection in CI.
 
 ## When to use it
 Use Athina AI when you need LLM/agent observability, tracing, or monitoring in your pipeline.

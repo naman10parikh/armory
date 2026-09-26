@@ -50,7 +50,7 @@ const records = [
   {
     name: "playwright-mcp",
     type: "mcps",
-    description: "Official Microsoft MCP server that exposes Playwright browser automation as structured accessibility-snapshot tools — no screenshots, structured DOM traversal for reliable agent-driven web interaction.",
+    description: "Official Microsoft MCP server that exposes Playwright browser automation as structured accessibility-snapshot tools: no screenshots, structured DOM traversal for reliable agent-driven web interaction.",
     source_repo: "microsoft/playwright-mcp",
     source_url: "https://github.com/microsoft/playwright-mcp",
     license: "Apache-2.0",
@@ -59,7 +59,7 @@ const records = [
   {
     name: "mcp-server-browserbase",
     type: "mcps",
-    description: "MCP server for Browserbase cloud browser infrastructure — lets agents launch, control, and observe headless Chromium sessions via the Browserbase API with session management and live-view URLs.",
+    description: "MCP server for Browserbase cloud browser infrastructure. It lets agents launch, control, and observe headless Chromium sessions via the Browserbase API with session management and live-view URLs.",
     source_repo: "browserbase/mcp-server-browserbase",
     source_url: "https://github.com/browserbase/mcp-server-browserbase",
     license: "MIT",
@@ -86,7 +86,7 @@ const records = [
   {
     name: "skyvern",
     type: "infrastructure",
-    description: "Open-source agent platform that automates browser-based workflows using LLMs and computer vision — identifies interactive elements via screenshots, handles CAPTCHAs, and supports complex multi-step form flows.",
+    description: "Open-source agent platform that automates browser-based workflows using LLMs and computer vision. It identifies interactive elements via screenshots, handles CAPTCHAs, and supports complex multi-step form flows.",
     source_repo: "Skyvern-AI/skyvern",
     source_url: "https://github.com/Skyvern-AI/skyvern",
     license: "AGPL-3.0",
@@ -95,7 +95,7 @@ const records = [
   {
     name: "steel-browser",
     type: "infrastructure",
-    description: "Open-source browser API optimised for AI agents — provides session management, stealth settings, proxy rotation, and a REST/WebSocket interface on top of Chromium for cloud-scale agent browser access.",
+    description: "Open-source browser API optimised for AI agents. It provides session management, stealth settings, proxy rotation, and a REST/WebSocket interface on top of Chromium for cloud-scale agent browser access.",
     source_repo: "steel-dev/steel-browser",
     source_url: "https://github.com/steel-dev/steel-browser",
     license: "Apache-2.0",
@@ -104,7 +104,7 @@ const records = [
   {
     name: "lightpanda",
     type: "infrastructure",
-    description: "Ultra-fast headless browser written in Zig specifically for AI and automation workloads — runs JavaScript natively, uses 9x less memory than Chrome headless, and targets sub-100ms page execution.",
+    description: "Ultra-fast headless browser written in Zig specifically for AI and automation workloads. It runs JavaScript natively, uses 9x less memory than Chrome headless, and targets sub-100ms page execution.",
     source_repo: "lightpanda-io/lightpanda",
     source_url: "https://github.com/lightpanda-io/lightpanda",
     license: "AGPL-3.0",
@@ -113,7 +113,7 @@ const records = [
   {
     name: "browser-use-mcp-server",
     type: "mcps",
-    description: "MCP server wrapper around the browser-use Python library — exposes navigate, click, type, screenshot, and extract-text tools so any MCP-compatible AI client can drive a real browser without custom Python code.",
+    description: "MCP server wrapper around the browser-use Python library. It exposes navigate, click, type, screenshot, and extract-text tools so any MCP-compatible AI client can drive a real browser without custom Python code.",
     source_repo: "co-browser/browser-use-mcp-server",
     source_url: "https://github.com/co-browser/browser-use-mcp-server",
     license: "MIT",
@@ -122,7 +122,7 @@ const records = [
   {
     name: "agentdesk-browser-use",
     type: "mcps",
-    description: "AgentDesk fork of browser-use that integrates with the AgentDesk agent platform — adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.",
+    description: "AgentDesk fork of browser-use that integrates with the AgentDesk agent platform. It adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.",
     source_repo: "AgentDeskAI/browser-tools-mcp",
     source_url: "https://github.com/AgentDeskAI/browser-tools-mcp",
     license: "MIT",
@@ -131,7 +131,7 @@ const records = [
   {
     name: "browsermcp",
     type: "mcps",
-    description: "Lightweight MCP server that uses Chrome DevTools Protocol to connect AI agents to a user's existing Chrome session — no separate browser process, works with authenticated tabs already open in the user's browser.",
+    description: "Lightweight MCP server that uses Chrome DevTools Protocol to connect AI agents to a user's existing Chrome session: no separate browser process, works with authenticated tabs already open in the user's browser.",
     source_repo: "browsermcp/mcp",
     source_url: "https://github.com/browsermcp/mcp",
     license: "MIT",
@@ -140,7 +140,7 @@ const records = [
   {
     name: "mcp-playwright",
     type: "mcps",
-    description: "Playwright-backed MCP server by executeautomation — exposes navigate, click, fill, screenshot, evaluate-script, and network-intercept tools designed for E2E test automation and agent-driven browser workflows.",
+    description: "Playwright-backed MCP server by executeautomation. It exposes navigate, click, fill, screenshot, evaluate-script, and network-intercept tools designed for E2E test automation and agent-driven browser workflows.",
     source_repo: "executeautomation/mcp-playwright",
     source_url: "https://github.com/executeautomation/mcp-playwright",
     license: "MIT",
@@ -149,7 +149,7 @@ const records = [
   {
     name: "puppeteer-mcp",
     type: "mcps",
-    description: "Official Anthropic/Claude reference MCP server using Puppeteer — provides navigate, screenshot, click, fill, select, hover, evaluate, and network-monitoring tools; reference implementation for browser MCP design.",
+    description: "Official Anthropic/Claude reference MCP server using Puppeteer. It provides navigate, screenshot, click, fill, select, hover, evaluate, and network-monitoring tools; reference implementation for browser MCP design.",
     source_repo: "modelcontextprotocol/servers",
     source_url: "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
     license: "MIT",
@@ -158,7 +158,7 @@ const records = [
   {
     name: "actors-mcp-server",
     type: "mcps",
-    description: "Apify MCP server that exposes the Apify Actor platform as tools — agents can trigger pre-built web scrapers, browser automations, and data-extraction actors without managing infrastructure.",
+    description: "Apify MCP server that exposes the Apify Actor platform as tools. Agents can trigger pre-built web scrapers, browser automations, and data-extraction actors without managing infrastructure.",
     source_repo: "apify/actors-mcp-server",
     source_url: "https://github.com/apify/actors-mcp-server",
     license: "Apache-2.0",
@@ -167,7 +167,7 @@ const records = [
   {
     name: "hyperbrowser-mcp",
     type: "mcps",
-    description: "Hyperbrowser cloud browser MCP server — gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.",
+    description: "Hyperbrowser cloud browser MCP server. It gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.",
     source_repo: "hyperbrowserai/mcp",
     source_url: "https://github.com/hyperbrowserai/mcp",
     license: "MIT",
@@ -176,7 +176,7 @@ const records = [
   {
     name: "anthropic-computer-use",
     type: "infrastructure",
-    description: "Anthropic reference implementation for computer-use tool capability — Docker sandbox with Chromium, VNC, and API endpoint demonstrating how Claude can observe and interact with a full desktop environment.",
+    description: "Anthropic reference implementation for computer-use tool capability: a Docker sandbox with Chromium, VNC, and API endpoint demonstrating how Claude can observe and interact with a full desktop environment.",
     source_repo: "anthropics/anthropic-quickstarts",
     source_url: "https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo",
     license: "MIT",
@@ -185,7 +185,7 @@ const records = [
   {
     name: "nanobrowser",
     type: "infrastructure",
-    description: "Open-source Chrome extension that runs a multi-agent browser automation system locally — Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.",
+    description: "Open-source Chrome extension that runs a multi-agent browser automation system locally. Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.",
     source_repo: "nanobrowser/nanobrowser",
     source_url: "https://github.com/nanobrowser/nanobrowser",
     license: "Apache-2.0",
@@ -194,7 +194,7 @@ const records = [
   {
     name: "agent-e",
     type: "infrastructure",
-    description: "Emergence AI agent-E browser agent — hierarchical LLM-based web automation that uses DOM distillation and action abstraction layers to achieve significantly higher benchmark accuracy than prior browser agents.",
+    description: "Emergence AI agent-E browser agent: hierarchical LLM-based web automation that uses DOM distillation and action abstraction layers to achieve significantly higher benchmark accuracy than prior browser agents.",
     source_repo: "EmergenceAI/Agent-E",
     source_url: "https://github.com/EmergenceAI/Agent-E",
     license: "Apache-2.0",
@@ -203,7 +203,7 @@ const records = [
   {
     name: "webvoyager",
     type: "infrastructure",
-    description: "Research browser agent from Zhejiang University and HKU — uses GPT-4V interleaved screenshot + HTML observations to complete open-ended web tasks; established an early web-agent benchmark (WebVoyager).",
+    description: "Research browser agent from Zhejiang University and HKU. It uses GPT-4V interleaved screenshot + HTML observations to complete open-ended web tasks; established an early web-agent benchmark (WebVoyager).",
     source_repo: "MinorJerry/WebVoyager",
     source_url: "https://github.com/MinorJerry/WebVoyager",
     license: "MIT",
@@ -212,7 +212,7 @@ const records = [
   {
     name: "multion",
     type: "infrastructure",
-    description: "MultiOn AI browser agent API — cloud service that lets developers invoke an autonomous web agent via REST to complete tasks like form filling, data extraction, and multi-step workflows on any site.",
+    description: "MultiOn AI browser agent API: a cloud service that lets developers invoke an autonomous web agent via REST to complete tasks like form filling, data extraction, and multi-step workflows on any site.",
     source_repo: "MULTI-ON/multion-python",
     source_url: "https://github.com/MULTI-ON/multion-python",
     license: "MIT",
@@ -221,7 +221,7 @@ const records = [
   {
     name: "browserless",
     type: "infrastructure",
-    description: "Browserless.io headless browser service — provides a Docker-deployable or cloud-hosted Chrome endpoint with REST and WebSocket APIs for screenshot, PDF, scraping, and Puppeteer/Playwright remote sessions.",
+    description: "Browserless.io headless browser service. It provides a Docker-deployable or cloud-hosted Chrome endpoint with REST and WebSocket APIs for screenshot, PDF, scraping, and Puppeteer/Playwright remote sessions.",
     source_repo: "browserless/browserless",
     source_url: "https://github.com/browserless/browserless",
     license: "SSPL-1.0",
@@ -230,7 +230,7 @@ const records = [
   {
     name: "scrapybara",
     type: "infrastructure",
-    description: "Scrapybara cloud computer-use environment — provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.",
+    description: "Scrapybara cloud computer-use environment. It provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.",
     source_repo: "scrapybara/scrapybara-py",
     source_url: "https://github.com/scrapybara/scrapybara-py",
     license: "MIT",
@@ -239,7 +239,7 @@ const records = [
   {
     name: "cua-computer-use-agent",
     type: "infrastructure",
-    description: "trycua/cua open-source computer-use agent framework — Apple Silicon-native, runs lightweight macOS/Linux VMs with sub-second cold starts; provides a unified Python interface for screen capture, click, and type actions.",
+    description: "trycua/cua open-source computer-use agent framework: Apple Silicon-native, runs lightweight macOS/Linux VMs with sub-second cold starts; provides a unified Python interface for screen capture, click, and type actions.",
     source_repo: "trycua/cua",
     source_url: "https://github.com/trycua/cua",
     license: "MIT",
@@ -248,7 +248,7 @@ const records = [
   {
     name: "bytebot",
     type: "infrastructure",
-    description: "Bytebot open-source computer-use agent — Docker-based Ubuntu desktop with AI-controlled mouse and keyboard; exposes an HTTP API for agents to send click, type, screenshot, and macro commands.",
+    description: "Bytebot open-source computer-use agent: a Docker-based Ubuntu desktop with AI-controlled mouse and keyboard; exposes an HTTP API for agents to send click, type, screenshot, and macro commands.",
     source_repo: "bytebot-ai/bytebot",
     source_url: "https://github.com/bytebot-ai/bytebot",
     license: "MIT",
@@ -257,7 +257,7 @@ const records = [
   {
     name: "browser-use-webui",
     type: "infrastructure",
-    description: "Gradio web UI on top of the browser-use framework — lets users run AI browser agents interactively, configure LLM providers, watch live recordings, and replay task sessions without writing Python.",
+    description: "Gradio web UI on top of the browser-use framework. It lets users run AI browser agents interactively, configure LLM providers, watch live recordings, and replay task sessions without writing Python.",
     source_repo: "browser-use/web-ui",
     source_url: "https://github.com/browser-use/web-ui",
     license: "MIT",
@@ -266,7 +266,7 @@ const records = [
   {
     name: "selenium-mcp",
     type: "mcps",
-    description: "MCP server built on Selenium WebDriver — exposes click, type, navigate, find-element, and screenshot tools via the MCP protocol for browser automation in environments where Playwright is unavailable.",
+    description: "MCP server built on Selenium WebDriver. It exposes click, type, navigate, find-element, and screenshot tools via the MCP protocol for browser automation in environments where Playwright is unavailable.",
     source_repo: "angiejones/mcp-selenium",
     source_url: "https://github.com/angiejones/mcp-selenium",
     license: "Apache-2.0",
@@ -275,7 +275,7 @@ const records = [
   {
     name: "playwright-cli",
     type: "clis-tools",
-    description: "Playwright CLI bundled with the @playwright/test package — provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.",
+    description: "Playwright CLI bundled with the @playwright/test package. It provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.",
     source_repo: "microsoft/playwright",
     source_url: "https://github.com/microsoft/playwright",
     license: "Apache-2.0",
@@ -284,7 +284,7 @@ const records = [
   {
     name: "puppeteer",
     type: "clis-tools",
-    description: "Google Puppeteer Node.js library and CLI for programmatic Chrome/Firefox control — headless screenshot, PDF, network interception, and DevTools protocol access; foundation for many browser-automation tools.",
+    description: "Google Puppeteer Node.js library and CLI for programmatic Chrome/Firefox control: headless screenshot, PDF, network interception, and DevTools protocol access; foundation for many browser-automation tools.",
     source_repo: "puppeteer/puppeteer",
     source_url: "https://github.com/puppeteer/puppeteer",
     license: "Apache-2.0",
@@ -293,7 +293,7 @@ const records = [
   {
     name: "crawl4ai",
     type: "clis-tools",
-    description: "Open-source async web crawling library optimised for LLM data extraction — Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.",
+    description: "Open-source async web crawling library optimised for LLM data extraction: Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.",
     source_repo: "unclecode/crawl4ai",
     source_url: "https://github.com/unclecode/crawl4ai",
     license: "Apache-2.0",
@@ -302,7 +302,7 @@ const records = [
   {
     name: "firecrawl-mcp",
     type: "mcps",
-    description: "Firecrawl MCP server — converts any URL into clean LLM-ready Markdown via scrape, crawl, map, extract, and deep-research tools; handles JavaScript-rendered pages, auth-walled content, and full-site crawls.",
+    description: "Firecrawl MCP server. It converts any URL into clean LLM-ready Markdown via scrape, crawl, map, extract, and deep-research tools; handles JavaScript-rendered pages, auth-walled content, and full-site crawls.",
     source_repo: "mendableai/firecrawl",
     source_url: "https://github.com/mendableai/firecrawl",
     license: "AGPL-3.0",
@@ -311,7 +311,7 @@ const records = [
   {
     name: "e2b-desktop",
     type: "infrastructure",
-    description: "E2B Desktop Sandbox — cloud virtual desktop (Ubuntu + VNC) with Python SDK for screenshot, mouse, keyboard, and process control; designed for AI agents that need a full GUI environment in an isolated VM.",
+    description: "E2B Desktop Sandbox: a cloud virtual desktop (Ubuntu + VNC) with Python SDK for screenshot, mouse, keyboard, and process control; designed for AI agents that need a full GUI environment in an isolated VM.",
     source_repo: "e2b-dev/desktop",
     source_url: "https://github.com/e2b-dev/desktop",
     license: "Apache-2.0",
@@ -320,7 +320,7 @@ const records = [
   {
     name: "notte",
     type: "infrastructure",
-    description: "Notte open-source web agent environment — converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.",
+    description: "Notte open-source web agent environment. It converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.",
     source_repo: "nottelabs/notte",
     source_url: "https://github.com/nottelabs/notte",
     license: "Apache-2.0",
@@ -329,7 +329,7 @@ const records = [
   {
     name: "open-operator",
     type: "infrastructure",
-    description: "Browserbase Open Operator — open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.",
+    description: "Browserbase Open Operator: an open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.",
     source_repo: "browserbase/open-operator",
     source_url: "https://github.com/browserbase/open-operator",
     license: "MIT",
@@ -338,7 +338,7 @@ const records = [
   {
     name: "mcp-browser-kit",
     type: "mcps",
-    description: "Multi-backend browser MCP that auto-detects the best available driver (Playwright, Puppeteer, or CDP) and exposes a unified tool surface — navigate, interact, screenshot, and extract across all three backends.",
+    description: "Multi-backend browser MCP that auto-detects the best available driver (Playwright, Puppeteer, or CDP) and exposes a unified tool surface: navigate, interact, screenshot, and extract across all three backends.",
     source_repo: "hdresearch/mcp-browser",
     source_url: "https://github.com/hdresearch/mcp-browser",
     license: "MIT",
@@ -347,7 +347,7 @@ const records = [
   {
     name: "webdriver-mcp",
     type: "mcps",
-    description: "WebDriverIO-based MCP server enabling cross-browser automation (Chrome, Firefox, Safari) via the W3C WebDriver protocol — useful for enterprise test environments that mandate WebDriver over CDP.",
+    description: "WebDriverIO-based MCP server enabling cross-browser automation (Chrome, Firefox, Safari) via the W3C WebDriver protocol, useful for enterprise test environments that mandate WebDriver over CDP.",
     source_repo: "webdriverio/webdriverio",
     source_url: "https://github.com/webdriverio/webdriverio",
     license: "MIT",
@@ -356,7 +356,7 @@ const records = [
   {
     name: "surf-computer-use",
     type: "infrastructure",
-    description: "E2B Surf — a Stagehand-powered computer-use interface layer for E2B Firecracker sandboxes; connects the act/extract/observe primitives directly to microVM display output for lightweight headless computer use.",
+    description: "E2B Surf: a Stagehand-powered computer-use interface layer for E2B Firecracker sandboxes; connects the act/extract/observe primitives directly to microVM display output for lightweight headless computer use.",
     source_repo: "e2b-dev/surf",
     source_url: "https://github.com/e2b-dev/surf",
     license: "Apache-2.0",

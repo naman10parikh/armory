@@ -2,7 +2,7 @@
 name: nanobrowser
 type: infrastructure
 description: >
-  Open-source Chrome extension that runs a multi-agent browser automation system locally — Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.
+  Open-source Chrome extension that runs a multi-agent browser automation system locally. Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.
 source_repo: nanobrowser/nanobrowser
 source_url: https://github.com/nanobrowser/nanobrowser
 license: Apache-2.0
@@ -17,10 +17,10 @@ forks: 1451
 pushed_at: "2026-08-18T00:42:48Z"
 ---
 ## What it is
-Open-source Chrome extension that runs a multi-agent browser automation system locally — Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.
+Open-source Chrome extension that runs a multi-agent browser automation system locally. Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.
 
 ## When to use it
-Open-source Chrome extension that runs a multi-agent browser automation system locally — Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.
+Open-source Chrome extension that runs a multi-agent browser automation system locally. Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.
 
 ## How to install / invoke
 See the source repo README: https://github.com/nanobrowser/nanobrowser

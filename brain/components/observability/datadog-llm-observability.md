@@ -2,7 +2,7 @@
 name: datadog-llm-observability
 type: observability
 description: >
-  Datadog's managed LLM Observability product — traces LLM calls, monitors prompt/completion quality, detects anomalies, and integrates with existing APM.
+  Datadog's managed LLM Observability product. It traces LLM calls, monitors prompt/completion quality, detects anomalies, and integrates with existing APM.
 source_repo: 
 source_url: https://docs.datadoghq.com/llm_observability/
 license: commercial
@@ -15,7 +15,7 @@ related: []
 tags: [observability, managed, apm]
 ---
 ## What it is
-Datadog's managed LLM Observability product — traces LLM calls, monitors prompt/completion quality, detects anomalies, and integrates with existing APM.
+Datadog's managed LLM Observability product. It traces LLM calls, monitors prompt/completion quality, detects anomalies, and integrates with existing APM.
 
 ## When to use it
 Use Datadog LLM Observability when you need LLM/agent observability, tracing, or monitoring in your pipeline.

@@ -2,7 +2,7 @@
 name: sentry-llm-monitoring
 type: observability
 description: >
-  Sentry's error and performance monitoring extended to LLM applications — captures exceptions, latency, and AI token usage with OpenTelemetry integration.
+  Sentry's error and performance monitoring extended to LLM applications. It captures exceptions, latency, and AI token usage with OpenTelemetry integration.
 source_repo: getsentry/sentry
 source_url: https://github.com/getsentry/sentry
 license: FSL-1.0
@@ -18,7 +18,7 @@ pushed_at: "2026-09-02T01:19:27Z"
 mentions: 15
 ---
 ## What it is
-Sentry's error and performance monitoring extended to LLM applications — captures exceptions, latency, and AI token usage with OpenTelemetry integration.
+Sentry's error and performance monitoring extended to LLM applications. It captures exceptions, latency, and AI token usage with OpenTelemetry integration.
 
 ## When to use it
 Use Sentry LLM Monitoring when you need LLM/agent observability, tracing, or monitoring in your pipeline.

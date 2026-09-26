@@ -2,7 +2,7 @@
 name: agentdesk-browser-use
 type: mcps
 description: >
-  AgentDesk fork of browser-use that integrates with the AgentDesk agent platform — adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.
+  AgentDesk fork of browser-use that integrates with the AgentDesk agent platform. It adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.
 source_repo: AgentDeskAI/browser-tools-mcp
 source_url: https://github.com/AgentDeskAI/browser-tools-mcp
 license: MIT
@@ -17,10 +17,10 @@ forks: 527
 pushed_at: "2026-08-12T16:48:04Z"
 ---
 ## What it is
-AgentDesk fork of browser-use that integrates with the AgentDesk agent platform — adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.
+AgentDesk fork of browser-use that integrates with the AgentDesk agent platform. It adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.
 
 ## When to use it
-AgentDesk fork of browser-use that integrates with the AgentDesk agent platform — adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.
+AgentDesk fork of browser-use that integrates with the AgentDesk agent platform. It adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.
 
 ## How to install / invoke
 See the source repo README: https://github.com/AgentDeskAI/browser-tools-mcp

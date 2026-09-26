@@ -2,7 +2,7 @@
 name: honeycomb
 type: observability
 description: >
-  Honeycomb's OpenTelemetry-native observability platform — high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.
+  Honeycomb's OpenTelemetry-native observability platform: a high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.
 source_repo: honeycombio/honeycomb-opentelemetry-node
 source_url: https://github.com/honeycombio/honeycomb-opentelemetry-node
 license: Apache-2.0
@@ -17,7 +17,7 @@ forks: 6
 pushed_at: "2025-08-13T20:22:38Z"
 ---
 ## What it is
-Honeycomb's OpenTelemetry-native observability platform — high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.
+Honeycomb's OpenTelemetry-native observability platform: a high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.
 
 ## When to use it
 Use Honeycomb when you need LLM/agent observability, tracing, or monitoring in your pipeline.

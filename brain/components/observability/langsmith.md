@@ -2,7 +2,7 @@
 name: langsmith
 type: observability
 description: >
-  LangChain's platform for tracing, evaluating, and monitoring LLM applications — deep integration with LangChain/LangGraph plus a REST API for any stack.
+  LangChain's platform for tracing, evaluating, and monitoring LLM applications: deep integration with LangChain/LangGraph plus a REST API for any stack.
 source_repo: langchain-ai/langsmith-sdk
 source_url: https://github.com/langchain-ai/langsmith-sdk
 license: MIT
@@ -18,7 +18,7 @@ pushed_at: "2026-09-01T21:20:19Z"
 mentions: null
 ---
 ## What it is
-LangChain's platform for tracing, evaluating, and monitoring LLM applications — deep integration with LangChain/LangGraph plus a REST API for any stack.
+LangChain's platform for tracing, evaluating, and monitoring LLM applications: deep integration with LangChain/LangGraph plus a REST API for any stack.
 
 ## When to use it
 Use LangSmith when you need LLM/agent observability, tracing, or monitoring in your pipeline.
