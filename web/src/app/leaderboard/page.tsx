@@ -95,7 +95,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
   const v = parse(await searchParams);
   const facets = boardFacets();
   const meta = boardMeta();
-  const { rows, total } = leaderboardPage({
+  const { rows, total, fit } = leaderboardPage({
     component: v.component || null,
     domain: v.domain || null,
     vertical: v.vertical || null,
@@ -182,6 +182,22 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
               </span>
             </div>
           </div>
+
+          {/* infra, cli and workflow list only the rows made for their job (lib/rank.mjs SHELF_FIT). */}
+          {fit && fit.left_out > 0 && (
+            <p className="mt-3 text-[12.5px] text-ink-muted">
+              Lists only rows made to {fit.purpose}: <data value={String(total)}>{int(total)}</data> of the{" "}
+              <data value={String(fit.filed)}>{int(fit.filed)}</data> filed under{" "}
+              <span className="font-sans text-ink-body">{v.component}</span>.{" "}
+              <Link
+                href={hrefFor(v, { component: "", page: 1 })}
+                className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+              >
+                All
+              </Link>{" "}
+              includes the rest.
+            </p>
+          )}
 
           <div className="mt-4">
             {rows.length === 0 ? (

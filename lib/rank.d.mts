@@ -27,6 +27,8 @@ export interface RankResult {
   dir: string;
   component: string | null;
   domain: string | null;
+  /** Set when the component lists only rows made for its job (SHELF_FIT): the job, rows filed, rows left out. */
+  fit: { purpose: string; filed: number; left_out: number } | null;
   facets: Facets;
 }
 export interface RankQuery {
@@ -36,6 +38,15 @@ export interface RankQuery {
   dir?: "desc" | "asc";
   limit?: number;
 }
+export interface ShelfRule {
+  purpose: string;
+  allow: string[];
+  deny?: string[];
+  must: RegExp;
+  not?: RegExp;
+}
+export const SHELF_FIT: Record<string, ShelfRule>;
+export function fitsShelf(row: { name?: string; component?: string | null; description?: string | null }): boolean;
 export function rows(): unknown[];
 export function leaderboard(query?: RankQuery): RankResult;
 export function facets(): Facets;

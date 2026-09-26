@@ -83,7 +83,7 @@ export default function ComponentsPage() {
                   </div>
 
                   <dl className="mt-auto flex flex-wrap items-baseline gap-x-5 gap-y-2 font-sans text-[12px] tabular-nums">
-                    <CardStat label="Indexed">
+                    <CardStat label="Listed">
                       <data value={String(c.stats.indexed)}>
                         {c.stats.indexed.toLocaleString("en-US")}
                       </data>

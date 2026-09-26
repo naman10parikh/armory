@@ -261,7 +261,11 @@ interface RankRow {
   name: string; component: string; domain: string; url?: string;
   universal: number | null; stars: number | null; tested: number | null; mentions: number | null; desc: string;
 }
-interface RankResult { items: RankRow[]; total: number; sort: string; dir: string; facets: { total: number } }
+interface RankResult {
+  items: RankRow[]; total: number; sort: string; dir: string; facets: { total: number };
+  /** Set when the component lists only rows made for its job (infra, cli, tool, workflow). */
+  fit: { purpose: string; filed: number; left_out: number } | null;
+}
 
 // The Universal ranking engine (portable ESM shared with the site + MCP): the clone's, or the copy an
 // installed package carries (catalog.ts engineUrl). Dynamic import keeps the TS build decoupled from it.
@@ -287,6 +291,9 @@ program
     if (opts.json) { console.log(JSON.stringify(lb, null, 2)); return; }
     const slice = [opts.component, opts.domain].filter(Boolean).join(" × ") || "everything";
     console.log(chalk.bold(`\nTop ${lb.items.length} in ${slice}`) + chalk.dim(`  ·  ${lb.total.toLocaleString()} of ${lb.facets.total.toLocaleString()} · by ${lb.sort} ${lb.dir}\n`));
+    if (lb.fit && lb.fit.left_out > 0) {
+      console.log(chalk.dim(`Lists only rows made to ${lb.fit.purpose}: ${lb.total.toLocaleString()} of the ${lb.fit.filed.toLocaleString()} filed here. \`armory search\` still finds the rest.\n`));
+    }
     let rank = 0;
     for (const i of lb.items) {
       rank++;

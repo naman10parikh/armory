@@ -20,7 +20,7 @@ const catalog = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf8"));
 const ordered = orderByScore(computeRows(catalog.components));
 
 const rows = stack.components.map((c) => {
-  const shelf = ordered.filter((r) => c.aggregates.includes(r.component));
+  const shelf = ordered.filter((r) => c.aggregates.includes(r.component) && r.fits);
   const scored = shelf.filter((r) => r.scores.universal != null);
   const pick = c.picks[0];
   const place = scored.findIndex((r) => r.name === pick.armoryName);

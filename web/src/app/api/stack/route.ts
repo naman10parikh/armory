@@ -38,6 +38,8 @@ export function GET(): NextResponse {
       ranked: stats.ranked,
       ranked_pct: stats.rankedPct,
       top_score: stats.topScore,
+      // Sandbox, Tools and Dispatch list only the rows made for their job; `indexed` counts those, `fit` the rest.
+      fit: stats.fit ? { purpose: stats.fit.purpose, filed: stats.fit.filed, left_out: stats.fit.leftOut } : null,
       leaderboard: `/leaderboard?component=${encodeURIComponent(stats.leaderboardComponent)}`,
       page: `/c/${slug}`,
       // The pick first, then its runners-up; shelf_rank is the rank /c prints, and reason says why a pick

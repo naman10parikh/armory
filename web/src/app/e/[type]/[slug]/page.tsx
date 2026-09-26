@@ -18,7 +18,7 @@ import { SignalsRow, type SignalValues } from "@/components/signals-row";
 import { CliNote, HarnessSelector } from "@/components/install-snippet";
 import { InstallStrip } from "@/components/install-strip";
 import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
-import { CANON, rowsFor, stackFor } from "@/lib/canon";
+import { CANON, filedFor, rowsFor, stackFor } from "@/lib/canon";
 import { alternativesFor } from "@/lib/alternatives";
 import { contributorOf, githubReadText, rankedScoreTexts, scoreText, shortDate } from "@/lib/format";
 import { boardMeta, findRow } from "@/lib/rows";
@@ -127,8 +127,16 @@ export default async function ComponentDetailPage({
   // Alternatives: the best-scored rows on the same canonical shelf that do the same job, so a reader
   // who landed on the wrong tool sees the right one in one click (src/lib/alternatives.ts). Their scores
   // print like every ranked list's: three decimals, or four for the list when three would read alike.
+  // A row filed under a shelf whose job it does not do (a browser library under Sandbox) is on no shelf,
+  // so its alternatives come from every row filed beside it and the heading names no shelf.
   const shelf = row ? Object.keys(CANON).find((k) => CANON[k].includes(row.component)) ?? null : null;
-  const alternatives = shelf && row ? alternativesFor(row, shelf, rowsFor(shelf)) : [];
+  const onShelf = shelf != null && row != null && row.fits;
+  const alternatives =
+    shelf && row
+      ? onShelf
+        ? alternativesFor(row, shelf, rowsFor(shelf))
+        : alternativesFor(row, `${shelf}:filed`, filedFor(shelf))
+      : [];
   const altScores = rankedScoreTexts(alternatives.map((a) => (a.universal == null ? null : a.exact)));
 
   return (
@@ -239,7 +247,7 @@ export default async function ComponentDetailPage({
           {alternatives.length > 0 && shelf && (
             <section className="mt-10">
               <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
-                Alternatives · {stackFor(shelf)?.label ?? shelf}
+                Alternatives{onShelf ? ` · ${stackFor(shelf)?.label ?? shelf}` : ""}
               </h2>
               <ol className="mt-3 divide-y divide-line-subtle rounded-xl border border-line-subtle bg-raise-1">
                 {alternatives.map((alt) => (

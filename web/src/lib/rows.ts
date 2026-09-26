@@ -6,7 +6,7 @@ import "server-only";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
-import { computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
+import { SHELF_FIT, computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
 import type { SignalValues } from "@/components/signals-row";
 import { readCatalogText } from "./catalog-file";
 import { contributorOf, isOurs, tiedRank } from "./format";
@@ -18,6 +18,8 @@ export interface BoardRow {
   type: string;
   /** NORMALIZED component ("mcp", "cli") — what /leaderboard?component= filters on. */
   component: string;
+  /** False when the row is filed under a component whose job it does not do (lib/rank.mjs SHELF_FIT): no shelf lists it. */
+  fits: boolean;
   domain: string;
   vertical: string | null;
   url: string | null;
@@ -96,6 +98,7 @@ interface EngineRow {
   name: string;
   type: string | null;
   component: string;
+  fits: boolean;
   domain: string;
   vertical: string | null;
   url: string | null;
@@ -191,6 +194,7 @@ function load(): State {
         name: e.name,
         type,
         component: e.component,
+        fits: e.fits,
         domain: e.domain,
         vertical: e.vertical,
         url: e.url,
@@ -350,8 +354,20 @@ export interface LeaderboardQuery {
   limit: number;
 }
 
+/** What a component lists only (lib/rank.mjs SHELF_FIT): its purpose, the rows filed under it, and how many it leaves out. */
+export interface ShelfFit {
+  purpose: string;
+  filed: number;
+  left_out: number;
+}
+
+/** The job a component's rows must do to be listed under it, or null when it lists every row filed there. */
+export function fitPurpose(component: string): string | null {
+  return (SHELF_FIT as Record<string, { purpose: string } | undefined>)[component]?.purpose ?? null;
+}
+
 /** A leaderboard page: the engine filters and sorts (so it matches GET /api/rank), the board adds dates. */
-export function leaderboardPage(q: LeaderboardQuery): { rows: ListedRow[]; total: number } {
+export function leaderboardPage(q: LeaderboardQuery): { rows: ListedRow[]; total: number; fit: ShelfFit | null } {
   const state = load();
   const result = rankRows(state.engine, {
     component: q.component,
@@ -360,11 +376,11 @@ export function leaderboardPage(q: LeaderboardQuery): { rows: ListedRow[]; total
     sort: q.sort,
     dir: q.dir,
     limit: q.offset + q.limit,
-  }) as { items: { name: string; type: string | null }[]; total: number };
+  }) as { items: { name: string; type: string | null }[]; total: number; fit: ShelfFit | null };
   const rows = result.items
     .slice(q.offset)
     .map((it) => state.byKey.get(`${it.type ?? ""}/${it.name}`))
     .filter((r): r is BoardRow => r != null);
   const folded = q.sort === "universal" && q.dir === "desc";
-  return { rows: folded ? foldSameRepo(rows, q.offset + 1) : numbered(rows, q.offset + 1), total: result.total };
+  return { rows: folded ? foldSameRepo(rows, q.offset + 1) : numbered(rows, q.offset + 1), total: result.total, fit: result.fit };
 }

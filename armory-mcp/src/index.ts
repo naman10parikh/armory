@@ -140,7 +140,7 @@ export function createServer(): McpServer {
     {
       title: "Rank components",
       description:
-        "Rank open-source building blocks by a Universal score (or another axis), sliceable by component type and domain. Use to find the BEST or TRENDING tool in a space — e.g. the top MCP for browser automation, or the leading front-end CLI. Returns ranked JSON with a 0-100 Universal score, GitHub stars, measured test score, and community mentions. The Universal score normalizes each signal within its own kind so a docs page ranks fairly against a 40k-star repo.",
+        "Rank open-source building blocks by a Universal score (or another axis), sliceable by component type and domain. Use to find the BEST or TRENDING tool in a space, for example the top MCP for browser automation, or the leading front-end CLI. Returns ranked JSON with a 0-100 Universal score, GitHub stars, measured test score, and community mentions. The Universal score normalizes each signal within its own kind so a docs page ranks fairly against a 40k-star repo. The infra, cli, tool and workflow components list only rows made for that job (sandboxes, terminal commands, orchestration); `fit` names the job and counts the rows left out.",
       inputSchema: z.object({
         component: z
           .string()

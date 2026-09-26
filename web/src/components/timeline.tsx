@@ -19,6 +19,7 @@ export interface TimelineData {
   collections: Tally[]; // top hand-curated source repos, by count
   distinctRepos: number; // distinct source repositories, deduped into the catalog
   types: Tally[]; // the 11 harness components, named as on /c, with their row counts, sorted desc
+  leftOut: number; // rows filed under Sandbox, Tools or Dispatch that none of them lists (lib/rank.mjs SHELF_FIT)
   ranked: number; // components the engine ranks: at least one signal (lib/rank.mjs)
   signals: string[]; // the signals the engine scores on, in its own order (lib/rank.mjs WEIGHTS)
   blend: { base: number; others: number }; // the engine's blend (lib/rank.mjs BLEND)
@@ -97,7 +98,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     },
     {
       title: "Components",
-      lead: `Each entry sits in one of ${data.types.length} harness components, named as on the Components page.`,
+      lead: `Each entry is filed under one of ${data.types.length} harness components, named as on the Components page.`,
       figure: (
         <Card>
           <div className="grid gap-x-6 gap-y-0 [grid-template-columns:repeat(auto-fit,minmax(210px,1fr))]">
@@ -105,6 +106,15 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
               <TallyRow key={t.label} label={t.label} count={t.count} />
             ))}
           </div>
+          {data.leftOut > 0 && (
+            <p className="mt-3 border-t border-line-subtle pt-3 text-[12.5px] leading-[1.5] text-ink-muted">
+              Sandbox, Tools and Dispatch list only rows made for their job. The other{" "}
+              <data value={String(data.leftOut)} className="font-semibold tabular-nums text-ink-body">
+                {nf(data.leftOut)}
+              </data>{" "}
+              rows filed under them are still in search and Browse.
+            </p>
+          )}
         </Card>
       ),
     },
