@@ -16,7 +16,7 @@ tags: [slash-command, project-task-management]
 stars: null
 ---
 ## What it is
-A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.
+A community workflow/command, catalogued in awesome-claude-code. Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.
 
 ## When to use it
 Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.

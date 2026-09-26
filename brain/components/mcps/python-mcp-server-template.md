@@ -2,7 +2,7 @@
 name: python-mcp-server-template
 type: mcps
 description: >
-  Python Mcp Server Template MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: FidelusAleksander/python-mcp-server-template
 source_url: https://mcp.so/server/python-mcp-server-template/FidelusAleksander
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Python Mcp Server Template MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Python Mcp Server Template MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/python-mcp-server-template/FidelusAleksander) for install instructions.

@@ -2,7 +2,7 @@
 name: claude-devtools
 type: clis-tools
 description: >
-  A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
+  A desktop app that shows your Claude Code sessions by reading their logs: context use per turn across categories, compaction, sub-agent execution trees and custom notification triggers.
 source_repo: matt1398/claude-devtools
 source_url: https://github.com/matt1398/claude-devtools
 license: MIT
@@ -16,7 +16,7 @@ forks: 298
 pushed_at: "2026-05-13T21:40:54Z"
 ---
 ## What it is
-A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
+A desktop app that shows your Claude Code sessions by reading their logs: context use per turn across categories, compaction, sub-agent execution trees and custom notification triggers.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

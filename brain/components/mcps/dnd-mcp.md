@@ -2,7 +2,7 @@
 name: dnd-mcp
 type: mcps
 description: >
-  Dnd Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: procload/dnd-mcp
 source_url: https://mcp.so/server/dnd-mcp/procload
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Dnd Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Dnd Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/dnd-mcp/procload) for install instructions.

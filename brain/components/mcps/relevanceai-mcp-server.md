@@ -2,7 +2,7 @@
 name: relevanceai-mcp-server
 type: mcps
 description: >
-  Relevanceai Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: RelevanceAI/relevanceai-mcp-server
 source_url: https://mcp.so/server/relevanceai-mcp-server/RelevanceAI
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Relevanceai Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Relevanceai Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/relevanceai-mcp-server/RelevanceAI) for install instructions.

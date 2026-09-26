@@ -16,7 +16,7 @@ tags: [workflow, guide]
 stars: null
 ---
 ## What it is
-A community workflow/command by cloudartisan, catalogued in awesome-claude-code. Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.
+A community workflow/command, catalogued in awesome-claude-code. Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.
 
 ## When to use it
 Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.

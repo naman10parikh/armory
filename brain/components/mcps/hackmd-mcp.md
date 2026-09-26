@@ -2,7 +2,7 @@
 name: hackmd-mcp
 type: mcps
 description: >
-  Hackmd Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: yuna0x0/hackmd-mcp
 source_url: https://mcp.so/server/hackmd-mcp/yuna0x0
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Hackmd Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Hackmd Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/hackmd-mcp/yuna0x0) for install instructions.

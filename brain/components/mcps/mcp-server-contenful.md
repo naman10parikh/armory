@@ -2,7 +2,7 @@
 name: mcp-server-contenful
 type: mcps
 description: >
-  MCP Server Contenful MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: tejedamiguel6/MCP-server-Contenful
 source_url: https://mcp.so/server/MCP-server-Contenful/tejedamiguel6
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP Server Contenful MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP Server Contenful MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-server-Contenful/tejedamiguel6) for install instructions.

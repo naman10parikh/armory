@@ -2,7 +2,7 @@
 name: bsc-mcp-services
 type: mcps
 description: >
-  BSC_MCP_SERVICES MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ArcReactor9/BSC_MCP_SERVICES
 source_url: https://mcp.so/server/BSC_MCP_SERVICES/ArcReactor9
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-BSC_MCP_SERVICES MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-BSC_MCP_SERVICES MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/BSC_MCP_SERVICES/ArcReactor9) for install instructions.

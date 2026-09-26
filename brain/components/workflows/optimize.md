@@ -16,7 +16,7 @@ tags: [slash-command, code-analysis-testing]
 stars: null
 ---
 ## What it is
-A community workflow/command by to4iki, catalogued in awesome-claude-code. Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
+A community workflow/command, catalogued in awesome-claude-code. Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
 
 ## When to use it
 Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.

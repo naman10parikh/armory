@@ -2,7 +2,7 @@
 name: faster-fixes
 type: mcps
 description: >
-  Faster Fixes MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/faster-fixes
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Faster Fixes MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Faster Fixes MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/faster-fixes) for install instructions.

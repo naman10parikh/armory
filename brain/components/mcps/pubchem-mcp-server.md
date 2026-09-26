@@ -2,7 +2,7 @@
 name: pubchem-mcp-server
 type: mcps
 description: >
-  Pubchem Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: PhelanShao/pubchem-mcp-server
 source_url: https://mcp.so/server/pubchem-mcp-server/PhelanShao
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Pubchem Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Pubchem Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/pubchem-mcp-server/PhelanShao) for install instructions.

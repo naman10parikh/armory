@@ -2,7 +2,7 @@
 name: chatgpt-x-deepseek-x-grok-x-claude-x-perplexity-linux-app
 type: mcps
 description: >
-  Chatgpt X Deepseek X Grok X Claude X Perplexity Linux App MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/chatgpt-x-deepseek-x-grok-x-claude-x-perplexity-linux-app
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Chatgpt X Deepseek X Grok X Claude X Perplexity Linux App MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Chatgpt X Deepseek X Grok X Claude X Perplexity Linux App MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/chatgpt-x-deepseek-x-grok-x-claude-x-perplexity-linux-app) for install instructions.

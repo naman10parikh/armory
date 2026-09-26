@@ -2,7 +2,7 @@
 name: gsc-mcp-server
 type: mcps
 description: >
-  Gsc Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: seotesting-com/gsc-mcp-server
 source_url: https://mcp.so/server/gsc-mcp-server/seotesting-com
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Gsc Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Gsc Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/gsc-mcp-server/seotesting-com) for install instructions.

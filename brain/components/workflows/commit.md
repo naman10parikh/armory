@@ -16,7 +16,7 @@ tags: [slash-command, version-control-git]
 stars: null
 ---
 ## What it is
-A community workflow/command by evmts, catalogued in awesome-claude-code. Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.
+A community workflow/command, catalogued in awesome-claude-code. Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.
 
 ## When to use it
 Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.

@@ -2,7 +2,7 @@
 name: mcp-turso-spences10
 type: mcps
 description: >
-  Mcp Turso Spences10 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mcp-turso-spences10
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Turso Spences10 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Turso Spences10 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-turso-spences10) for install instructions.

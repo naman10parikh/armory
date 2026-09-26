@@ -2,7 +2,7 @@
 name: codebase-to-course
 type: skills
 description: >
-  A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
+  A Claude Code skill that turns any codebase into an interactive single-page HTML course for non-technical readers.
 source_repo: zarazhangrui/codebase-to-course
 source_url: https://github.com/zarazhangrui/codebase-to-course
 license: NOT_FOUND
@@ -16,7 +16,7 @@ forks: 551
 pushed_at: "2026-03-30T18:26:09Z"
 ---
 ## What it is
-A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
+A Claude Code skill that turns any codebase into an interactive single-page HTML course for non-technical readers.
 
 ## When to use it
 When working in Claude Code and you need the "Agent Skills" resource this provides.

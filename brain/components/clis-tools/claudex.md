@@ -2,7 +2,7 @@
 name: claudex
 type: clis-tools
 description: >
-  Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!)
+  A web-based browser for your Claude Code conversation history across projects, with full-text search, a dashboard of high-level figures and several export formats. Runs locally with no telemetry.
 source_repo: kunwar-shah/claudex
 source_url: https://github.com/kunwar-shah/claudex
 license: MIT
@@ -16,7 +16,7 @@ forks: 10
 pushed_at: "2026-06-20T20:02:44Z"
 ---
 ## What it is
-Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!)
+A web-based browser for your Claude Code conversation history across projects, with full-text search, a dashboard of high-level figures and several export formats. Runs locally with no telemetry.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

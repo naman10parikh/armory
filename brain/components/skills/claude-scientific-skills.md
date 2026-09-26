@@ -2,7 +2,7 @@
 name: claude-scientific-skills
 type: skills
 description: >
-  "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
+  A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing.
 source_repo: K-Dense-AI/claude-scientific-skills
 source_url: https://github.com/K-Dense-AI/claude-scientific-skills
 license: MIT
@@ -16,7 +16,7 @@ forks: 3831
 pushed_at: "2026-08-31T17:14:03Z"
 ---
 ## What it is
-"A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
+A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing.
 
 ## When to use it
 When working in Claude Code and you need the "Agent Skills" resource this provides.

@@ -2,7 +2,7 @@
 name: memory-bank-mcp-server
 type: mcps
 description: >
-  Memory Bank Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: t3ta/memory-bank-mcp-server
 source_url: https://mcp.so/server/memory-bank-mcp-server/t3ta
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Memory Bank Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Memory Bank Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/memory-bank-mcp-server/t3ta) for install instructions.

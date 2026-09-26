@@ -2,7 +2,7 @@
 name: mcp-hubspot-peakmojo
 type: mcps
 description: >
-  Mcp Hubspot Peakmojo MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mcp-hubspot-peakmojo
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Hubspot Peakmojo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Hubspot Peakmojo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-hubspot-peakmojo) for install instructions.

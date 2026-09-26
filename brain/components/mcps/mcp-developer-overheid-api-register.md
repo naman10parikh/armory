@@ -2,7 +2,7 @@
 name: mcp-developer-overheid-api-register
 type: mcps
 description: >
-  Mcp Developer Overheid Api Register MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dstotijn/mcp-developer-overheid-api-register
 source_url: https://mcp.so/server/mcp-developer-overheid-api-register/dstotijn
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Developer Overheid Api Register MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Developer Overheid Api Register MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-developer-overheid-api-register/dstotijn) for install instructions.

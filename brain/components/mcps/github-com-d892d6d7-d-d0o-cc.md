@@ -2,7 +2,7 @@
 name: github-com-d892d6d7-d-d0o-cc
 type: mcps
 description: >
-  Github.Com.D892d6d7.D.D0o.Cc MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/github.com.d892d6d7.d.d0o.cc
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Github.Com.D892d6d7.D.D0o.Cc MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Github.Com.D892d6d7.D.D0o.Cc MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/github.com.d892d6d7.d.d0o.cc) for install instructions.

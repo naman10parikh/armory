@@ -2,7 +2,7 @@
 name: mcp-weather-server-3
 type: mcps
 description: >
-  Mcp Weather Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MiesnerJacob/mcp-weather-server
 source_url: https://mcp.so/server/mcp-weather-server/MiesnerJacob
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Weather Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Weather Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-weather-server/MiesnerJacob) for install instructions.

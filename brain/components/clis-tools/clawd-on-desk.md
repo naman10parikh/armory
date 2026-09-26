@@ -2,7 +2,7 @@
 name: clawd-on-desk
 type: clis-tools
 description: >
-  A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?
+  A desktop pet that reacts to your Claude Code sessions in real time: thinking, typing, juggling, sleeping and more.
 source_repo: rullerzhou-afk/clawd-on-desk
 source_url: https://github.com/rullerzhou-afk/clawd-on-desk
 license: MIT
@@ -16,7 +16,7 @@ forks: 636
 pushed_at: "2026-09-01T14:32:35Z"
 ---
 ## What it is
-A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?
+A desktop pet that reacts to your Claude Code sessions in real time: thinking, typing, juggling, sleeping and more.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

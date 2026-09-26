@@ -2,7 +2,7 @@
 name: robot-mcp
 type: mcps
 description: >
-  Robot Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: monteslu/robot-mcp
 source_url: https://mcp.so/server/robot-mcp/monteslu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Robot Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Robot Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/robot-mcp/monteslu) for install instructions.

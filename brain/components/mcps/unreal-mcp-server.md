@@ -2,7 +2,7 @@
 name: unreal-mcp-server
 type: mcps
 description: >
-  Unreal Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: AlexKissiJr/unreal-mcp-server
 source_url: https://mcp.so/server/unreal-mcp-server/AlexKissiJr
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Unreal Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Unreal Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/unreal-mcp-server/AlexKissiJr) for install instructions.

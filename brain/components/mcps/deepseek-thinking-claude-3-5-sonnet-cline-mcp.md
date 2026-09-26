@@ -2,7 +2,7 @@
 name: deepseek-thinking-claude-3-5-sonnet-cline-mcp
 type: mcps
 description: >
-  Deepseek Thinking Claude 3.5 Sonnet Cline Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/deepseek-thinking-claude-3.5-sonnet-cline-mcp
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Deepseek Thinking Claude 3.5 Sonnet Cline Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Deepseek Thinking Claude 3.5 Sonnet Cline Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/deepseek-thinking-claude-3.5-sonnet-cline-mcp) for install instructions.

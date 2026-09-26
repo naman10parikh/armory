@@ -2,7 +2,7 @@
 name: spring-boot-bitcoin-mcp-server-2025
 type: mcps
 description: >
-  Spring Boot Bitcoin Mcp Server 2025 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: nlinhvu/spring-boot-bitcoin-mcp-server-2025
 source_url: https://mcp.so/server/spring-boot-bitcoin-mcp-server-2025/nlinhvu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Spring Boot Bitcoin Mcp Server 2025 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Spring Boot Bitcoin Mcp Server 2025 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/spring-boot-bitcoin-mcp-server-2025/nlinhvu) for install instructions.

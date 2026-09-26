@@ -2,7 +2,7 @@
 name: mcp-codepipeline-server
 type: mcps
 description: >
-  Mcp Codepipeline Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: cuongdev/mcp-codepipeline-server
 source_url: https://mcp.so/server/mcp-codepipeline-server/cuongdev
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Codepipeline Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Codepipeline Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-codepipeline-server/cuongdev) for install instructions.

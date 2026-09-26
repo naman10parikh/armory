@@ -2,7 +2,7 @@
 name: the-agentic-startup
 type: clis-tools
 description: >
-  Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
+  A collection of agents, commands and output styles for shipping production code with Claude Code.
 source_repo: rsmdt/the-startup
 source_url: https://github.com/rsmdt/the-startup
 license: MIT
@@ -16,7 +16,7 @@ forks: 58
 pushed_at: "2026-08-03T13:21:33Z"
 ---
 ## What it is
-Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
+A collection of agents, commands and output styles for shipping production code with Claude Code.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

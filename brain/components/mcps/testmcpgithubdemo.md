@@ -2,7 +2,7 @@
 name: testmcpgithubdemo
 type: mcps
 description: >
-  Testmcpgithubdemo MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: biswapm/testmcpgithubdemo
 source_url: https://mcp.so/server/testmcpgithubdemo/biswapm
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Testmcpgithubdemo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Testmcpgithubdemo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/testmcpgithubdemo/biswapm) for install instructions.

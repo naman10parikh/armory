@@ -2,7 +2,7 @@
 name: agentql-mcp
 type: mcps
 description: >
-  Agentql Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: tinyfish-io/agentql-mcp
 source_url: https://mcp.so/server/agentql-mcp/tinyfish-io
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Agentql Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Agentql Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/agentql-mcp/tinyfish-io) for install instructions.

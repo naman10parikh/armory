@@ -2,7 +2,7 @@
 name: learn-claude-code
 type: workflows
 description: >
-  A really interesting analysis of how coding agents like Claude Code are designed. It attempts to break an agent down into its fundamental parts and reconstruct it with minimal code. Great learning resource. Final product is a rudimentary agent with skills, sub-agents, and a todo-list in roughly a few hundred lines of Python.
+  An analysis of how coding agents like Claude Code are designed, which breaks an agent into its basic parts and rebuilds it with minimal code: a rudimentary agent with skills, sub-agents and a to-do list in a few hundred lines of Python.
 source_repo: shareAI-lab/learn-claude-code
 source_url: https://github.com/shareAI-lab/learn-claude-code
 license: MIT
@@ -16,7 +16,7 @@ forks: 12224
 pushed_at: "2026-08-26T16:38:22Z"
 ---
 ## What it is
-A really interesting analysis of how coding agents like Claude Code are designed. It attempts to break an agent down into its fundamental parts and reconstruct it with minimal code. Great learning resource. Final product is a rudimentary agent with skills, sub-agents, and a todo-list in roughly a few hundred lines of Python.
+An analysis of how coding agents like Claude Code are designed, which breaks an agent into its basic parts and rebuilds it with minimal code: a rudimentary agent with skills, sub-agents and a to-do list in a few hundred lines of Python.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

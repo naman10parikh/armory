@@ -2,7 +2,7 @@
 name: cwm-mcp
 type: mcps
 description: >
-  CWM MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: jasondsmith72/CWM-MCP
 source_url: https://mcp.so/server/CWM-MCP/jasondsmith72
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-CWM MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-CWM MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/CWM-MCP/jasondsmith72) for install instructions.

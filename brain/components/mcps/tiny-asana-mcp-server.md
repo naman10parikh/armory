@@ -2,7 +2,7 @@
 name: tiny-asana-mcp-server
 type: mcps
 description: >
-  Tiny Asana Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: bnwebdev/tiny-asana-mcp-server
 source_url: https://mcp.so/server/tiny-asana-mcp-server/bnwebdev
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Tiny Asana Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Tiny Asana Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/tiny-asana-mcp-server/bnwebdev) for install instructions.

@@ -2,7 +2,7 @@
 name: mcp-sample
 type: mcps
 description: >
-  Mcp Sample MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: pxdsgnco/mcp-sample
 source_url: https://mcp.so/server/mcp-sample/pxdsgnco
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Sample MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Sample MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-sample/pxdsgnco) for install instructions.

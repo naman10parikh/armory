@@ -2,7 +2,7 @@
 name: shadcn-ui-mcp-server-heilgar
 type: mcps
 description: >
-  Shadcn Ui Mcp Server Heilgar MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/shadcn-ui-mcp-server-heilgar
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Shadcn Ui Mcp Server Heilgar MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Shadcn Ui Mcp Server Heilgar MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/shadcn-ui-mcp-server-heilgar) for install instructions.

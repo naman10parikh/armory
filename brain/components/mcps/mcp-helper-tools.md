@@ -2,7 +2,7 @@
 name: mcp-helper-tools
 type: mcps
 description: >
-  Mcp Helper Tools MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MissionSquad/mcp-helper-tools
 source_url: https://mcp.so/server/mcp-helper-tools/MissionSquad
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Helper Tools MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Helper Tools MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-helper-tools/MissionSquad) for install instructions.

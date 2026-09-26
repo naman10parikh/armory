@@ -2,7 +2,7 @@
 name: all-in-one-model-context-protocol
 type: mcps
 description: >
-  All In One Model Context Protocol MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/all-in-one-model-context-protocol
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-All In One Model Context Protocol MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-All In One Model Context Protocol MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/all-in-one-model-context-protocol) for install instructions.

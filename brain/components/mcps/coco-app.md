@@ -2,7 +2,7 @@
 name: coco-app
 type: mcps
 description: >
-  Coco App MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: infinilabs/coco-app
 source_url: https://mcp.so/server/coco-app/infinilabs
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Coco App MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Coco App MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/coco-app/infinilabs) for install instructions.

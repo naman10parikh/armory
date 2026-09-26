@@ -2,7 +2,7 @@
 name: ruflo
 type: clis-tools
 description: >
-  An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
+  An orchestration platform for deploying and coordinating multi-agent swarms, with self-learning, vector-based layered memory, systematic planning and security guardrails.
 source_repo: ruvnet/ruflo
 source_url: https://github.com/ruvnet/ruflo
 license: MIT
@@ -17,7 +17,7 @@ forks: 8375
 pushed_at: "2026-09-02T02:00:47Z"
 ---
 ## What it is
-An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
+An orchestration platform for deploying and coordinating multi-agent swarms, with self-learning, vector-based layered memory, systematic planning and security guardrails.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

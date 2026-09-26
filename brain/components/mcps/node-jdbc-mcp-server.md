@@ -2,7 +2,7 @@
 name: node-jdbc-mcp-server
 type: mcps
 description: >
-  Node JDBC MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: darkSheep404/Node-JDBC-MCP-Server
 source_url: https://mcp.so/server/Node-JDBC-MCP-Server/darkSheep404
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Node JDBC MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Node JDBC MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Node-JDBC-MCP-Server/darkSheep404) for install instructions.

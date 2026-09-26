@@ -2,7 +2,7 @@
 name: perplexity-mcp-2
 type: mcps
 description: >
-  Perplexity Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: DaInfernalCoder/perplexity-mcp
 source_url: https://mcp.so/server/perplexity-mcp/DaInfernalCoder
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Perplexity Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Perplexity Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/perplexity-mcp/DaInfernalCoder) for install instructions.

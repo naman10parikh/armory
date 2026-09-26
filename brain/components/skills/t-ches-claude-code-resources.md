@@ -2,7 +2,7 @@
 name: t-ches-claude-code-resources
 type: skills
 description: >
-  A well-balanced, "down-to-Earth" set of sub agents, skills, and commands, that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.
+  A set of sub-agents, skills and commands with a focus on meta-tools, such as a skill auditor and hook creation, meant to be adapted to your workflow.
 source_repo: glittercowboy/taches-cc-resources
 source_url: https://github.com/glittercowboy/taches-cc-resources
 license: MIT
@@ -16,7 +16,7 @@ forks: 411
 pushed_at: "2026-04-01T15:10:58Z"
 ---
 ## What it is
-A well-balanced, "down-to-Earth" set of sub agents, skills, and commands, that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.
+A set of sub-agents, skills and commands with a focus on meta-tools, such as a skill auditor and hook creation, meant to be adapted to your workflow.
 
 ## When to use it
 When working in Claude Code and you need the "Agent Skills" resource this provides.

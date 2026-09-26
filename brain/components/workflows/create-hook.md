@@ -16,7 +16,7 @@ tags: [slash-command]
 stars: null
 ---
 ## What it is
-A community workflow/command by Omri Lavi, catalogued in awesome-claude-code. Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
+A community workflow/command, catalogued in awesome-claude-code. Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
 
 ## When to use it
 Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).

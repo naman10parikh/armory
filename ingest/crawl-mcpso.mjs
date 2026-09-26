@@ -238,8 +238,10 @@ function mcpsoAdapter() {
       const base = slugify(rec.name);
       const uname = uniqueName(base, seen);
 
-      // Build a descriptive summary from the name — no live page scrape to stay bounded.
-      const rawDesc = `${rec.displayName} MCP server listed on mcp.so.`;
+      // No live page scrape, to stay bounded, so the name is all we have and the page shows it beside
+      // this text. Say so rather than repeat it: "Actors Mcp Server MCP server listed on mcp.so." read
+      // as doubled words on /new (CP138 T23).
+      const rawDesc = "Listed on mcp.so; Armory has only its name so far.";
       const desc = scrub(rawDesc).slice(0, 300);
 
       // GitHub source repo: owner/name — infer from author/name pattern.

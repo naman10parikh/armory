@@ -2,7 +2,7 @@
 name: anthropic-documentation
 type: workflows
 description: >
-  The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
+  The official documentation for Claude Code: installation, usage guidelines, API references, tutorials and examples. Updated often.
 source_repo: 
 source_url: https://docs.claude.com/en/home
 license: &copy;
@@ -15,10 +15,10 @@ related: []
 tags: [awesome-claude-code, official-documentation]
 ---
 ## What it is
-The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
+The official documentation for Claude Code: installation, usage guidelines, API references, tutorials and examples. Updated often.
 
 ## When to use it
-The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
+The official documentation for Claude Code: installation, usage guidelines, API references, tutorials and examples. Updated often.
 
 ## How to install / invoke
 See the source repo or link above.

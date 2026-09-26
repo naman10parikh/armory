@@ -2,7 +2,7 @@
 name: mcp-tung-shing
 type: mcps
 description: >
-  Mcp Tung Shing MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: baranwang/mcp-tung-shing
 source_url: https://mcp.so/server/mcp-tung-shing/baranwang
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Tung Shing MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Tung Shing MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-tung-shing/baranwang) for install instructions.

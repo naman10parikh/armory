@@ -16,7 +16,7 @@ tags: [slash-command, code-analysis-testing]
 stars: null
 ---
 ## What it is
-A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
+A community workflow/command, catalogued in awesome-claude-code. Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
 
 ## When to use it
 Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.

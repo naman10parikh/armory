@@ -19,7 +19,7 @@ forks: 2043
 pushed_at: "2026-09-01T21:48:27Z"
 ---
 ## What it is
-A community workflow/command by Piebald AI, catalogued in awesome-claude-code. All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.
+A community workflow/command, catalogued in awesome-claude-code. All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.
 
 ## When to use it
 All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.

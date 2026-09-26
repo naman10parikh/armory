@@ -2,7 +2,7 @@
 name: feishu-tools-mcp
 type: mcps
 description: >
-  Feishu Tools Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Li-vien/feishu-tools-mcp
 source_url: https://mcp.so/server/feishu-tools-mcp/Li-vien
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Feishu Tools Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Feishu Tools Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/feishu-tools-mcp/Li-vien) for install instructions.

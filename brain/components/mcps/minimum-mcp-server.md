@@ -2,7 +2,7 @@
 name: minimum-mcp-server
 type: mcps
 description: >
-  Minimum Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: a1740942002/minimum-mcp-server
 source_url: https://mcp.so/server/minimum-mcp-server/a1740942002
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Minimum Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Minimum Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/minimum-mcp-server/a1740942002) for install instructions.

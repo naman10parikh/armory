@@ -2,7 +2,7 @@
 name: open-digger-mcp-server
 type: mcps
 description: >
-  Open Digger Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: X-lab2017/open-digger-mcp-server
 source_url: https://mcp.so/server/open-digger-mcp-server/X-lab2017
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Open Digger Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Open Digger Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/open-digger-mcp-server/X-lab2017) for install instructions.

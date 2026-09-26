@@ -2,7 +2,7 @@
 name: ads-manager-mcp-server
 type: mcps
 description: >
-  Ads Manager Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: amekala/Ads-manager-mcp-server
 source_url: https://mcp.so/server/Ads-manager-mcp-server/amekala
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Ads Manager Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Ads Manager Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Ads-manager-mcp-server/amekala) for install instructions.

@@ -2,7 +2,7 @@
 name: mcp-server-code-runner
 type: mcps
 description: >
-  Mcp Server Code Runner MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: formulahendry/mcp-server-code-runner
 source_url: https://mcp.so/server/mcp-server-code-runner/formulahendry
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Code Runner MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Code Runner MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-code-runner/formulahendry) for install instructions.

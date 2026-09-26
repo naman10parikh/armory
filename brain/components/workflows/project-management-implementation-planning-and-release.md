@@ -2,7 +2,7 @@
 name: project-management-implementation-planning-and-release
 type: workflows
 description: >
-  Really comprehensive set of commands for all aspects of SDLC.
+  A set of commands covering every stage of the software development life cycle, from planning to release.
 source_repo: scopecraft/command
 source_url: https://github.com/scopecraft/command/tree/main/.claude/commands
 license: NOT_FOUND
@@ -14,7 +14,7 @@ tags: [claude-code, workflows-knowledge-guides]
 stars: null
 ---
 ## What it is
-Really comprehensive set of commands for all aspects of SDLC.
+A set of commands covering every stage of the software development life cycle, from planning to release.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

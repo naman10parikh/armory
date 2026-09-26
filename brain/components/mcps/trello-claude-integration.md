@@ -2,7 +2,7 @@
 name: trello-claude-integration
 type: mcps
 description: >
-  Trello Claude Integration MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: inakitka/trello-claude-integration
 source_url: https://mcp.so/server/trello-claude-integration/inakitka
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Trello Claude Integration MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Trello Claude Integration MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/trello-claude-integration/inakitka) for install instructions.

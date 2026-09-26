@@ -2,7 +2,7 @@
 name: favicon-mcp-server
 type: mcps
 description: >
-  Favicon Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: elliotxx/favicon-mcp-server
 source_url: https://mcp.so/server/favicon-mcp-server/elliotxx
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Favicon Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Favicon Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/favicon-mcp-server/elliotxx) for install instructions.

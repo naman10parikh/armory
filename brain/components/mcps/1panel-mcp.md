@@ -2,7 +2,7 @@
 name: 1panel-mcp
 type: mcps
 description: >
-  1panel Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ruibaby/1panel-mcp
 source_url: https://mcp.so/server/1panel-mcp/ruibaby
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-1panel Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-1panel Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/1panel-mcp/ruibaby) for install instructions.

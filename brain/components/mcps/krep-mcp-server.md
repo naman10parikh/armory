@@ -2,7 +2,7 @@
 name: krep-mcp-server
 type: mcps
 description: >
-  Krep Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: bmorphism/krep-mcp-server
 source_url: https://mcp.so/server/krep-mcp-server/bmorphism
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Krep Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Krep Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/krep-mcp-server/bmorphism) for install instructions.

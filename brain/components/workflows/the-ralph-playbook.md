@@ -2,7 +2,7 @@
 name: the-ralph-playbook
 type: workflows
 description: >
-  A remarkably detailed and comprehensive guide to the Ralph Wiggum technique, featuring well-written theoretical commentary paired with practical guidelines and advice.
+  A detailed guide to the Ralph Wiggum technique for autonomous coding loops, with the reasoning behind it and practical guidelines.
 source_repo: ClaytonFarr/ralph-playbook
 source_url: https://github.com/ClaytonFarr/ralph-playbook
 license: MIT
@@ -16,7 +16,7 @@ forks: 266
 pushed_at: "2026-03-06T21:56:54Z"
 ---
 ## What it is
-A remarkably detailed and comprehensive guide to the Ralph Wiggum technique, featuring well-written theoretical commentary paired with practical guidelines and advice.
+A detailed guide to the Ralph Wiggum technique for autonomous coding loops, with the reasoning behind it and practical guidelines.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

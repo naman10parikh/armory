@@ -2,7 +2,7 @@
 name: superpowers
 type: skills
 description: >
-  A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code.
+  A bundle of skills for software engineering that covers much of the development life cycle: planning, reviewing, testing and debugging. Many consolidate standard engineering practice.
 source_repo: obra/superpowers
 source_url: https://github.com/obra/superpowers
 license: MIT
@@ -17,7 +17,7 @@ forks: 25127
 pushed_at: "2026-08-31T17:03:59Z"
 ---
 ## What it is
-A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code.
+A bundle of skills for software engineering that covers much of the development life cycle: planning, reviewing, testing and debugging. Many consolidate standard engineering practice.
 
 ## When to use it
 When working in Claude Code and you need the "Agent Skills" resource this provides.

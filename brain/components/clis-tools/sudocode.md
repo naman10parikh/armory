@@ -2,7 +2,7 @@
 name: sudocode
 type: clis-tools
 description: >
-  Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.
+  A lightweight agent orchestration tool that lives in your repository and works with several specification frameworks.
 source_repo: sudocode-ai/sudocode
 source_url: https://github.com/sudocode-ai/sudocode
 license: Apache-2.0
@@ -16,7 +16,7 @@ forks: 26
 pushed_at: "2026-03-18T23:20:38Z"
 ---
 ## What it is
-Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.
+A lightweight agent orchestration tool that lives in your repository and works with several specification frameworks.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

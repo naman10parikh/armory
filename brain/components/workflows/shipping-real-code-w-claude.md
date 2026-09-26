@@ -2,7 +2,7 @@
 name: shipping-real-code-w-claude
 type: workflows
 description: >
-  A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
+  A blog post on the author's process for shipping a product with Claude Code, including the CLAUDE.md files and other resources used.
 source_repo: 
 source_url: https://diwank.space/field-notes-from-shipping-real-code-with-claude
 license: NOT_FOUND
@@ -14,7 +14,7 @@ tags: [claude-code, workflows-knowledge-guides]
 stars: null
 ---
 ## What it is
-A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
+A blog post on the author's process for shipping a product with Claude Code, including the CLAUDE.md files and other resources used.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

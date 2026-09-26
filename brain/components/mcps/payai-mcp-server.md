@@ -2,7 +2,7 @@
 name: payai-mcp-server
 type: mcps
 description: >
-  Payai Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: notorious-d-e-v/payai-mcp-server
 source_url: https://mcp.so/server/payai-mcp-server/notorious-d-e-v
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Payai Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Payai Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/payai-mcp-server/notorious-d-e-v) for install instructions.

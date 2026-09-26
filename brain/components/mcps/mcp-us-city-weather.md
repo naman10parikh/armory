@@ -2,7 +2,7 @@
 name: mcp-us-city-weather
 type: mcps
 description: >
-  Mcp Us City Weather MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: yogi-miraje/mcp-us-city-weather
 source_url: https://mcp.so/server/mcp-us-city-weather/yogi-miraje
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Us City Weather MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Us City Weather MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-us-city-weather/yogi-miraje) for install instructions.

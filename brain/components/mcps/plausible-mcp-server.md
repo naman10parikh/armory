@@ -2,7 +2,7 @@
 name: plausible-mcp-server
 type: mcps
 description: >
-  Plausible Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: AVIMBU/plausible-mcp-server
 source_url: https://mcp.so/server/plausible-mcp-server/AVIMBU
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Plausible Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Plausible Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/plausible-mcp-server/AVIMBU) for install instructions.

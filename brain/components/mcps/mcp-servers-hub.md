@@ -2,7 +2,7 @@
 name: mcp-servers-hub
 type: mcps
 description: >
-  Mcp Servers Hub MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: hanzlahabib/mcp-servers-hub
 source_url: https://mcp.so/server/mcp-servers-hub/hanzlahabib
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Servers Hub MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Servers Hub MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-servers-hub/hanzlahabib) for install instructions.

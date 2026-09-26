@@ -2,7 +2,7 @@
 name: uniswap-trader-mcp
 type: mcps
 description: >
-  Uniswap Trader Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: kukapay/uniswap-trader-mcp
 source_url: https://mcp.so/server/uniswap-trader-mcp/kukapay
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Uniswap Trader Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Uniswap Trader Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/uniswap-trader-mcp/kukapay) for install instructions.

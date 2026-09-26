@@ -2,7 +2,7 @@
 name: pinescript-mcp-server-2
 type: mcps
 description: >
-  Pinescript Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: cklose2000/pinescript-mcp-server
 source_url: https://mcp.so/server/pinescript-mcp-server/cklose2000
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Pinescript Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Pinescript Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/pinescript-mcp-server/cklose2000) for install instructions.

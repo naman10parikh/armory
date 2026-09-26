@@ -2,7 +2,7 @@
 name: claudio
 type: hooks
 description: >
-  A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
+  A small library that plays OS-native sounds for Claude Code events through hooks.
 source_repo: ctoth/claudio
 source_url: https://github.com/ctoth/claudio
 license: NOT_FOUND
@@ -16,7 +16,7 @@ forks: 8
 pushed_at: "2026-08-06T19:29:36Z"
 ---
 ## What it is
-A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
+A small library that plays OS-native sounds for Claude Code events through hooks.
 
 ## When to use it
 When working in Claude Code and you need the "Hooks" resource this provides.

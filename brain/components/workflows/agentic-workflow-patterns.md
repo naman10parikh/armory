@@ -2,7 +2,7 @@
 name: agentic-workflow-patterns
 type: workflows
 description: >
-  A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+  A collection of agentic patterns from Anthropic's docs, each with a Mermaid diagram and a code example: sub-agent orchestration, progressive skills, parallel tool calling, master-clone architecture, wizard workflows and more. Also works with other providers.
 source_repo: ThibautMelen/agentic-workflow-patterns
 source_url: https://github.com/ThibautMelen/agentic-workflow-patterns
 license: NOT_FOUND
@@ -16,7 +16,7 @@ forks: 33
 pushed_at: "2026-07-11T10:18:31Z"
 ---
 ## What it is
-A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+A collection of agentic patterns from Anthropic's docs, each with a Mermaid diagram and a code example: sub-agent orchestration, progressive skills, parallel tool calling, master-clone architecture, wizard workflows and more. Also works with other providers.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

@@ -2,7 +2,7 @@
 name: aws-mcp-infra-helper
 type: mcps
 description: >
-  Aws Mcp Infra Helper MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: madhurprash/aws-mcp-infra-helper
 source_url: https://mcp.so/server/aws-mcp-infra-helper/madhurprash
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Aws Mcp Infra Helper MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Aws Mcp Infra Helper MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/aws-mcp-infra-helper/madhurprash) for install instructions.

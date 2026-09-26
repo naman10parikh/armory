@@ -2,7 +2,7 @@
 name: claude-code-tips
 type: workflows
 description: >
-  A nice variety of 35+ brief but information-dense Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning(!), multi-model orchestration with Gemini CLI, and plenty more. Nice demos, working scripts, a plugin, I'd say this probably has a little something for everyone.
+  35+ short Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning, multi-model orchestration with Gemini CLI and more, with demos, working scripts and a plugin.
 source_repo: ykdojo/claude-code-tips
 source_url: https://github.com/ykdojo/claude-code-tips
 license: NOASSERTION
@@ -16,7 +16,7 @@ forks: 809
 pushed_at: "2026-09-02T01:14:35Z"
 ---
 ## What it is
-A nice variety of 35+ brief but information-dense Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning(!), multi-model orchestration with Gemini CLI, and plenty more. Nice demos, working scripts, a plugin, I'd say this probably has a little something for everyone.
+35+ short Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning, multi-model orchestration with Gemini CLI and more, with demos, working scripts and a plugin.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

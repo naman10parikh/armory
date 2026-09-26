@@ -2,7 +2,7 @@
 name: npx-mcp-server
 type: mcps
 description: >
-  Npx Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: rohithmenon2/npx-mcp-server
 source_url: https://mcp.so/server/npx-mcp-server/rohithmenon2
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Npx Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Npx Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/npx-mcp-server/rohithmenon2) for install instructions.

@@ -2,7 +2,7 @@
 name: ts-def-mcp
 type: mcps
 description: >
-  Ts Def Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: runninghare/ts-def-mcp
 source_url: https://mcp.so/server/ts-def-mcp/runninghare
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Ts Def Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Ts Def Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/ts-def-mcp/runninghare) for install instructions.

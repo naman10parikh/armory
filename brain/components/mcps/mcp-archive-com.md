@@ -2,7 +2,7 @@
 name: mcp-archive-com
 type: mcps
 description: >
-  MCP Archive.Com MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: VladonSD/MCP-Archive.com
 source_url: https://mcp.so/server/MCP-Archive.com/VladonSD
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP Archive.Com MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP Archive.Com MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-Archive.com/VladonSD) for install instructions.

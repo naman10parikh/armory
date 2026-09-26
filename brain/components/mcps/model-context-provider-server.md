@@ -2,7 +2,7 @@
 name: model-context-provider-server
 type: mcps
 description: >
-  Model Context Provider Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: bizprat/model-context-provider-server
 source_url: https://mcp.so/server/model-context-provider-server/bizprat
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Model Context Provider Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Model Context Provider Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/model-context-provider-server/bizprat) for install instructions.

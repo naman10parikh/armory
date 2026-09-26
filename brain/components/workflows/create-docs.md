@@ -16,7 +16,7 @@ tags: [slash-command, documentation-changelogs]
 stars: null
 ---
 ## What it is
-A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.
+A community workflow/command, catalogued in awesome-claude-code. Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.
 
 ## When to use it
 Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.

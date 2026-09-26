@@ -2,7 +2,7 @@
 name: demo-mcp-server-client-implementation
 type: mcps
 description: >
-  Demo Mcp Server Client Implementation MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: mschwarzmueller/demo-mcp-server-client-implementation
 source_url: https://mcp.so/server/demo-mcp-server-client-implementation/mschwarzmueller
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Demo Mcp Server Client Implementation MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Demo Mcp Server Client Implementation MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/demo-mcp-server-client-implementation/mschwarzmueller) for install instructions.

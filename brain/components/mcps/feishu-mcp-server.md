@@ -2,7 +2,7 @@
 name: feishu-mcp-server
 type: mcps
 description: >
-  Feishu_mcp_server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Chenzhi-Ana/feishu_mcp_server
 source_url: https://mcp.so/server/feishu_mcp_server/Chenzhi-Ana
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Feishu_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Feishu_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/feishu_mcp_server/Chenzhi-Ana) for install instructions.

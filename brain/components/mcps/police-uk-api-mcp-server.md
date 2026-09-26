@@ -2,7 +2,7 @@
 name: police-uk-api-mcp-server
 type: mcps
 description: >
-  Police Uk Api Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dwain-barnes/police-uk-api-mcp-server
 source_url: https://mcp.so/server/police-uk-api-mcp-server/dwain-barnes
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Police Uk Api Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Police Uk Api Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/police-uk-api-mcp-server/dwain-barnes) for install instructions.

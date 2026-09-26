@@ -2,7 +2,7 @@
 name: mcp-server-to-markdown
 type: mcps
 description: >
-  Mcp Server To Markdown MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: FradSer/mcp-server-to-markdown
 source_url: https://mcp.so/server/mcp-server-to-markdown/FradSer
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server To Markdown MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server To Markdown MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-to-markdown/FradSer) for install instructions.

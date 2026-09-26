@@ -2,7 +2,7 @@
 name: nyaypalak-core
 type: mcps
 description: >
-  Nyaypalak Core MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: rajiverpai/nyaypalak-core
 source_url: https://mcp.so/server/nyaypalak-core/rajiverpai
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Nyaypalak Core MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Nyaypalak Core MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/nyaypalak-core/rajiverpai) for install instructions.

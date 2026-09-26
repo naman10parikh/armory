@@ -2,7 +2,7 @@
 name: goose-mcp
 type: mcps
 description: >
-  Goose_mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Jay4242/goose_mcp
 source_url: https://mcp.so/server/goose_mcp/Jay4242
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Goose_mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Goose_mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/goose_mcp/Jay4242) for install instructions.

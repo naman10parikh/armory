@@ -2,7 +2,7 @@
 name: serverless-rag-mcp-server
 type: mcps
 description: >
-  Serverless Rag Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: sionic-ai/serverless-rag-mcp-server
 source_url: https://mcp.so/server/serverless-rag-mcp-server/sionic-ai
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Serverless Rag Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Serverless Rag Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/serverless-rag-mcp-server/sionic-ai) for install instructions.

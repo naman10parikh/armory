@@ -2,7 +2,7 @@
 name: phpocalypse-mcp
 type: mcps
 description: >
-  PHPocalypse MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: plapinski/PHPocalypse-MCP
 source_url: https://mcp.so/server/PHPocalypse-MCP/plapinski
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-PHPocalypse MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-PHPocalypse MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/PHPocalypse-MCP/plapinski) for install instructions.

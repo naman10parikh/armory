@@ -2,7 +2,7 @@
 name: beyond-mcp-server
 type: mcps
 description: >
-  Beyond Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Beyond-Network-AI/beyond-mcp-server
 source_url: https://mcp.so/server/beyond-mcp-server/Beyond-Network-AI
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Beyond Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Beyond Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/beyond-mcp-server/Beyond-Network-AI) for install instructions.

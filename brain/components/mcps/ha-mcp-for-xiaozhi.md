@@ -2,7 +2,7 @@
 name: ha-mcp-for-xiaozhi
 type: mcps
 description: >
-  Ha Mcp For Xiaozhi MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/ha-mcp-for-xiaozhi
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Ha Mcp For Xiaozhi MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Ha Mcp For Xiaozhi MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/ha-mcp-for-xiaozhi) for install instructions.

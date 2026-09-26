@@ -2,7 +2,7 @@
 name: mcp-namecheap-registrar
 type: mcps
 description: >
-  Mcp Namecheap Registrar MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dalton-cole/mcp-namecheap-registrar
 source_url: https://mcp.so/server/mcp-namecheap-registrar/dalton-cole
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Namecheap Registrar MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Namecheap Registrar MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-namecheap-registrar/dalton-cole) for install instructions.

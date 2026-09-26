@@ -2,7 +2,7 @@
 name: hdw-mcp-server
 type: mcps
 description: >
-  Hdw Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: horizondatawave/hdw-mcp-server
 source_url: https://mcp.so/server/hdw-mcp-server/horizondatawave
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Hdw Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Hdw Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/hdw-mcp-server/horizondatawave) for install instructions.

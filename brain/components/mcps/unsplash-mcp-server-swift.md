@@ -2,7 +2,7 @@
 name: unsplash-mcp-server-swift
 type: mcps
 description: >
-  Unsplash Mcp Server Swift MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: okooo5km/unsplash-mcp-server-swift
 source_url: https://mcp.so/server/unsplash-mcp-server-swift/okooo5km
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Unsplash Mcp Server Swift MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Unsplash Mcp Server Swift MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/unsplash-mcp-server-swift/okooo5km) for install instructions.

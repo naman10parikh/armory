@@ -2,7 +2,7 @@
 name: testing-mcp-server
 type: mcps
 description: >
-  Testing Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: misbiheyv/testing-mcp-server
 source_url: https://mcp.so/server/testing-mcp-server/misbiheyv
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Testing Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Testing Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/testing-mcp-server/misbiheyv) for install instructions.

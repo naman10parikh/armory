@@ -2,7 +2,7 @@
 name: mcp-sse-2
 type: mcps
 description: >
-  Mcp Sse MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: the-vampiire/mcp-sse
 source_url: https://mcp.so/server/mcp-sse/the-vampiire
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Sse MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Sse MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-sse/the-vampiire) for install instructions.

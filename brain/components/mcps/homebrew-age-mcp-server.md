@@ -2,7 +2,7 @@
 name: homebrew-age-mcp-server
 type: mcps
 description: >
-  Homebrew Age Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: rioriost/homebrew-age-mcp-server
 source_url: https://mcp.so/server/homebrew-age-mcp-server/rioriost
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Homebrew Age Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Homebrew Age Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/homebrew-age-mcp-server/rioriost) for install instructions.

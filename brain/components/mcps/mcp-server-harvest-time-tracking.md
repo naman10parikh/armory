@@ -2,7 +2,7 @@
 name: mcp-server-harvest-time-tracking
 type: mcps
 description: >
-  Mcp Server Harvest Time Tracking MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: CodifyAG/mcp-server-harvest-time-tracking
 source_url: https://mcp.so/server/mcp-server-harvest-time-tracking/CodifyAG
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Harvest Time Tracking MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Harvest Time Tracking MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-harvest-time-tracking/CodifyAG) for install instructions.

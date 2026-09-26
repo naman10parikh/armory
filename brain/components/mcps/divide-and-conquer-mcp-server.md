@@ -2,7 +2,7 @@
 name: divide-and-conquer-mcp-server
 type: mcps
 description: >
-  Divide And Conquer Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: landicefu/divide-and-conquer-mcp-server
 source_url: https://mcp.so/server/divide-and-conquer-mcp-server/landicefu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Divide And Conquer Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Divide And Conquer Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/divide-and-conquer-mcp-server/landicefu) for install instructions.

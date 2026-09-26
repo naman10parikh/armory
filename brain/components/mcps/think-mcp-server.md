@@ -2,7 +2,7 @@
 name: think-mcp-server
 type: mcps
 description: >
-  Think Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: beverm2391/think-mcp-server
 source_url: https://mcp.so/server/think-mcp-server/beverm2391
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Think Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Think Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/think-mcp-server/beverm2391) for install instructions.

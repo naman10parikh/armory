@@ -2,7 +2,7 @@
 name: apifox-mcp-server-2
 type: mcps
 description: >
-  Apifox Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: apifox/apifox-mcp-server
 source_url: https://mcp.so/server/apifox-mcp-server/apifox
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Apifox Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Apifox Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/apifox-mcp-server/apifox) for install instructions.

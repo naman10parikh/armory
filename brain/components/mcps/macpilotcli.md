@@ -2,7 +2,7 @@
 name: macpilotcli
 type: mcps
 description: >
-  MacPilotCli MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: huhu415/macPilotCli
 source_url: https://mcp.so/server/macPilotCli/huhu415
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MacPilotCli MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MacPilotCli MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/macPilotCli/huhu415) for install instructions.

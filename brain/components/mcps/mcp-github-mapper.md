@@ -2,7 +2,7 @@
 name: mcp-github-mapper
 type: mcps
 description: >
-  MCP Github Mapper MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dazeb/MCP-Github-Mapper
 source_url: https://mcp.so/server/MCP-Github-Mapper/dazeb
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP Github Mapper MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP Github Mapper MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-Github-Mapper/dazeb) for install instructions.

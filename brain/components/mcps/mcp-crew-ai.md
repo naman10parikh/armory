@@ -2,7 +2,7 @@
 name: mcp-crew-ai
 type: mcps
 description: >
-  Mcp Crew Ai MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: adam-paterson/mcp-crew-ai
 source_url: https://mcp.so/server/mcp-crew-ai/adam-paterson
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Crew Ai MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Crew Ai MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-crew-ai/adam-paterson) for install instructions.

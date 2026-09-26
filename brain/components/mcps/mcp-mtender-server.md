@@ -2,7 +2,7 @@
 name: mcp-mtender-server
 type: mcps
 description: >
-  Mcp Mtender Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: yoda-digital/mcp-mtender-server
 source_url: https://mcp.so/server/mcp-mtender-server/yoda-digital
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Mtender Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Mtender Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-mtender-server/yoda-digital) for install instructions.

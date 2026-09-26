@@ -2,7 +2,7 @@
 name: eclass-mcp-server
 type: mcps
 description: >
-  EClass MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: sdi2200262/eClass-MCP-Server
 source_url: https://mcp.so/server/eClass-MCP-Server/sdi2200262
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-EClass MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-EClass MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/eClass-MCP-Server/sdi2200262) for install instructions.

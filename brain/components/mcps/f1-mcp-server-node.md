@@ -2,7 +2,7 @@
 name: f1-mcp-server-node
 type: mcps
 description: >
-  F1 Mcp Server Node MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/f1-mcp-server-node
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-F1 Mcp Server Node MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-F1 Mcp Server Node MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/f1-mcp-server-node) for install instructions.

@@ -2,7 +2,7 @@
 name: vectorize-mcp-server
 type: mcps
 description: >
-  Vectorize Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: vectorize-io/vectorize-mcp-server
 source_url: https://mcp.so/server/vectorize-mcp-server/vectorize-io
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Vectorize Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Vectorize Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/vectorize-mcp-server/vectorize-io) for install instructions.

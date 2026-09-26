@@ -2,7 +2,7 @@
 name: fingertip-mcp
 type: mcps
 description: >
-  Fingertip Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: fingertip-com/fingertip-mcp
 source_url: https://mcp.so/server/fingertip-mcp/fingertip-com
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Fingertip Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Fingertip Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/fingertip-mcp/fingertip-com) for install instructions.

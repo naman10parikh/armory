@@ -2,7 +2,7 @@
 name: ccexp
 type: clis-tools
 description: >
-  Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
+  An interactive terminal tool for finding and managing Claude Code configuration files and slash commands.
 source_repo: nyatinte/ccexp
 source_url: https://github.com/nyatinte/ccexp
 license: MIT
@@ -16,7 +16,7 @@ forks: 9
 pushed_at: "2026-08-30T22:38:25Z"
 ---
 ## What it is
-Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
+An interactive terminal tool for finding and managing Claude Code configuration files and slash commands.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

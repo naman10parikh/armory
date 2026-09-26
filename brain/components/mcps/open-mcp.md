@@ -2,7 +2,7 @@
 name: open-mcp
 type: mcps
 description: >
-  Open Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: nicozumarraga/open-mcp
 source_url: https://mcp.so/server/open-mcp/nicozumarraga
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Open Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Open Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/open-mcp/nicozumarraga) for install instructions.

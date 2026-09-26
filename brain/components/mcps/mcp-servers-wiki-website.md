@@ -2,7 +2,7 @@
 name: mcp-servers-wiki-website
 type: mcps
 description: >
-  Mcp Servers Wiki Website MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: suryansh-business-work/mcp-servers-wiki-website
 source_url: https://mcp.so/server/mcp-servers-wiki-website/suryansh-business-work
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Servers Wiki Website MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Servers Wiki Website MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-servers-wiki-website/suryansh-business-work) for install instructions.

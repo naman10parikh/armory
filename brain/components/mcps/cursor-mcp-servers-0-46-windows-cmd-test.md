@@ -2,7 +2,7 @@
 name: cursor-mcp-servers-0-46-windows-cmd-test
 type: mcps
 description: >
-  Cursor Mcp Servers 0.46 Windows Cmd Test MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test
 source_url: https://mcp.so/server/cursor-mcp-Servers-0.46-windows-cmd-test/Zanedname
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Cursor Mcp Servers 0.46 Windows Cmd Test MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Cursor Mcp Servers 0.46 Windows Cmd Test MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/cursor-mcp-Servers-0.46-windows-cmd-test/Zanedname) for install instructions.

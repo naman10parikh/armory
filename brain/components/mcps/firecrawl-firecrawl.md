@@ -2,7 +2,7 @@
 name: firecrawl-firecrawl
 type: mcps
 description: >
-  Firecrawl Firecrawl MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/firecrawl-firecrawl
 license: unknown
@@ -16,10 +16,10 @@ tags: [mcp-so, mcp]
 mentions: 7
 ---
 ## What it is
-Firecrawl Firecrawl MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Firecrawl Firecrawl MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/firecrawl-firecrawl) for install instructions.

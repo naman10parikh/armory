@@ -2,7 +2,7 @@
 name: n8n-mcp-server-3
 type: mcps
 description: >
-  N8n Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: leonardsellem/n8n-mcp-server
 source_url: https://mcp.so/server/n8n-mcp-server/leonardsellem
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-N8n Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-N8n Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/n8n-mcp-server/leonardsellem) for install instructions.

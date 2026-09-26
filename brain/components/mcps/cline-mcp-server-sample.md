@@ -2,7 +2,7 @@
 name: cline-mcp-server-sample
 type: mcps
 description: >
-  Cline Mcp Server Sample MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: hymnk/cline-mcp-server-sample
 source_url: https://mcp.so/server/cline-mcp-server-sample/hymnk
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Cline Mcp Server Sample MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Cline Mcp Server Sample MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/cline-mcp-server-sample/hymnk) for install instructions.

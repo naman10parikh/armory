@@ -2,7 +2,7 @@
 name: typescript-quality-hooks
 type: hooks
 description: >
-  Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for < 5ms validation performance during real-time editing.
+  A quality-check hook for Node.js TypeScript projects: TypeScript compilation, ESLint auto-fixing and Prettier formatting, with SHA256 config caching that keeps validation under 5 ms during editing.
 source_repo: bartolli/claude-code-typescript-hooks
 source_url: https://github.com/bartolli/claude-code-typescript-hooks
 license: MIT
@@ -16,7 +16,7 @@ forks: 14
 pushed_at: "2025-08-26T17:11:20Z"
 ---
 ## What it is
-Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for < 5ms validation performance during real-time editing.
+A quality-check hook for Node.js TypeScript projects: TypeScript compilation, ESLint auto-fixing and Prettier formatting, with SHA256 config caching that keeps validation under 5 ms during editing.
 
 ## When to use it
 When working in Claude Code and you need the "Hooks" resource this provides.

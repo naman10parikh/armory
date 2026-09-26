@@ -2,7 +2,7 @@
 name: settlemint
 type: mcps
 description: >
-  Settlemint MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: sdk/settlemint
 source_url: https://mcp.so/server/settlemint/sdk
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Settlemint MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Settlemint MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/settlemint/sdk) for install instructions.

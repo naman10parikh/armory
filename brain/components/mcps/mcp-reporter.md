@@ -2,7 +2,7 @@
 name: mcp-reporter
 type: mcps
 description: >
-  Mcp Reporter MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: cyanheads/mcp-reporter
 source_url: https://mcp.so/server/mcp-reporter/cyanheads
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Reporter MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Reporter MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-reporter/cyanheads) for install instructions.

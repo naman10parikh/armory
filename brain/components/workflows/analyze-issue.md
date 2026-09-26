@@ -16,7 +16,7 @@ tags: [slash-command, version-control-git]
 stars: null
 ---
 ## What it is
-A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.
+A community workflow/command, catalogued in awesome-claude-code. Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.
 
 ## When to use it
 Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.

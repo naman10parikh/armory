@@ -2,7 +2,7 @@
 name: mcp-server-pipecd
 type: mcps
 description: >
-  Mcp Server Pipecd MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Warashi/mcp-server-pipecd
 source_url: https://mcp.so/server/mcp-server-pipecd/Warashi
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Pipecd MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Pipecd MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-pipecd/Warashi) for install instructions.

@@ -2,7 +2,7 @@
 name: scrapling-fetch-mcp
 type: mcps
 description: >
-  Scrapling Fetch Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: cyberchitta/scrapling-fetch-mcp
 source_url: https://mcp.so/server/scrapling-fetch-mcp/cyberchitta
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Scrapling Fetch Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Scrapling Fetch Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/scrapling-fetch-mcp/cyberchitta) for install instructions.

@@ -2,7 +2,7 @@
 name: brasil-api-mcp-server
 type: mcps
 description: >
-  Brasil Api Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: mauricio-cantu/brasil-api-mcp-server
 source_url: https://mcp.so/server/brasil-api-mcp-server/mauricio-cantu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Brasil Api Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Brasil Api Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/brasil-api-mcp-server/mauricio-cantu) for install instructions.

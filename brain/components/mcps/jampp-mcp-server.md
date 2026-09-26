@@ -2,7 +2,7 @@
 name: jampp-mcp-server
 type: mcps
 description: >
-  Jampp_mcp_server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: springwq/jampp_mcp_server
 source_url: https://mcp.so/server/jampp_mcp_server/springwq
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Jampp_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Jampp_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/jampp_mcp_server/springwq) for install instructions.

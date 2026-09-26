@@ -2,7 +2,7 @@
 name: claude-code-ultimate-guide
 type: workflows
 description: >
-  A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader, but a valuable resource nonetheless (as with all documentation sites, make sure it's up to date before you bet the farm).
+  A guide to Claude Code from beginner to power user, with templates for its features, guides on agentic workflows, quizzes and a cheatsheet. Check that it is current before relying on it.
 source_repo: FlorianBruniaux/claude-code-ultimate-guide
 source_url: https://github.com/FlorianBruniaux/claude-code-ultimate-guide
 license: CC-BY-SA-4.0
@@ -16,7 +16,7 @@ forks: 770
 pushed_at: "2026-09-01T22:24:10Z"
 ---
 ## What it is
-A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader, but a valuable resource nonetheless (as with all documentation sites, make sure it's up to date before you bet the farm).
+A guide to Claude Code from beginner to power user, with templates for its features, guides on agentic workflows, quizzes and a cheatsheet. Check that it is current before relying on it.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

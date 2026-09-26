@@ -2,7 +2,7 @@
 name: anilist
 type: mcps
 description: >
-  Anilist MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: yuna0x0/anilist
 source_url: https://mcp.so/server/anilist/yuna0x0
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Anilist MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Anilist MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/anilist/yuna0x0) for install instructions.

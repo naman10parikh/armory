@@ -2,7 +2,7 @@
 name: notion-mcp-3
 type: mcps
 description: >
-  Notion MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ghubnerr/Notion-MCP
 source_url: https://mcp.so/server/Notion-MCP/ghubnerr
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Notion MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Notion MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Notion-MCP/ghubnerr) for install instructions.

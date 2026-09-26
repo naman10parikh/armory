@@ -2,7 +2,7 @@
 name: solana-web3js-mcp-server
 type: mcps
 description: >
-  Solana Web3js Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: FrankGenGo/solana-web3js-mcp-server
 source_url: https://mcp.so/server/solana-web3js-mcp-server/FrankGenGo
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Solana Web3js Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Solana Web3js Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/solana-web3js-mcp-server/FrankGenGo) for install instructions.

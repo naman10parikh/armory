@@ -2,7 +2,7 @@
 name: mcpbridge
 type: mcps
 description: >
-  Mcpbridge MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: k3d3/mcpbridge
 source_url: https://mcp.so/server/mcpbridge/k3d3
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcpbridge MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcpbridge MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcpbridge/k3d3) for install instructions.

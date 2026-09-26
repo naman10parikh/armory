@@ -2,7 +2,7 @@
 name: weather-cli
 type: mcps
 description: >
-  Weather Cli MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: liye71023326/weather-cli
 source_url: https://mcp.so/server/weather-cli/liye71023326
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Weather Cli MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Weather Cli MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/weather-cli/liye71023326) for install instructions.

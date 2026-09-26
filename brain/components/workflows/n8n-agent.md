@@ -2,7 +2,7 @@
 name: n8n-agent
 type: workflows
 description: >
-  Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
+  A set of commands for code analysis, QA, design, documentation, project structure, project management and optimization.
 source_repo: kingler/n8n_agent
 source_url: https://github.com/kingler/n8n_agent/tree/main/.claude/commands
 license: NOT_FOUND
@@ -14,7 +14,7 @@ tags: [claude-code, workflows-knowledge-guides]
 stars: null
 ---
 ## What it is
-Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
+A set of commands for code analysis, QA, design, documentation, project structure, project management and optimization.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

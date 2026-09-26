@@ -18,7 +18,7 @@ forks: 8
 pushed_at: "2026-05-04T05:55:53Z"
 ---
 ## What it is
-A community hook by beyondcode, catalogued in awesome-claude-code. A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.
+A community hook, catalogued in awesome-claude-code. A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.
 
 ## When to use it
 A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.

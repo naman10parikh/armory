@@ -2,7 +2,7 @@
 name: entity-identificationn
 type: mcps
 description: >
-  Entity Identificationn MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: u3588064/Entity Identificationn
 source_url: https://mcp.so/server/Entity Identificationn/u3588064
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Entity Identificationn MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Entity Identificationn MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Entity Identificationn/u3588064) for install instructions.

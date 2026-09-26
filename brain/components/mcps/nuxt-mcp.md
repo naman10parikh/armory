@@ -2,7 +2,7 @@
 name: nuxt-mcp
 type: mcps
 description: >
-  Nuxt Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: antfu/nuxt-mcp
 source_url: https://mcp.so/server/nuxt-mcp/antfu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Nuxt Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Nuxt Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/nuxt-mcp/antfu) for install instructions.

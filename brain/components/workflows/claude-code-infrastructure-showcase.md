@@ -2,7 +2,7 @@
 name: claude-code-infrastructure-showcase
 type: workflows
 description: >
-  A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
+  An approach to working with Skills that uses hooks to make Claude select and activate the right Skill for the current context. Documented, and adaptable to other projects and workflows.
 source_repo: diet103/claude-code-infrastructure-showcase
 source_url: https://github.com/diet103/claude-code-infrastructure-showcase
 license: MIT
@@ -16,7 +16,7 @@ forks: 1231
 pushed_at: "2026-07-13T22:59:08Z"
 ---
 ## What it is
-A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
+An approach to working with Skills that uses hooks to make Claude select and activate the right Skill for the current context. Documented, and adaptable to other projects and workflows.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

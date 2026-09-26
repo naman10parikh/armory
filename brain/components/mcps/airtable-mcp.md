@@ -2,7 +2,7 @@
 name: airtable-mcp
 type: mcps
 description: >
-  Airtable Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: rashidazarang/airtable-mcp
 source_url: https://mcp.so/server/airtable-mcp/rashidazarang
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Airtable Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Airtable Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/airtable-mcp/rashidazarang) for install instructions.

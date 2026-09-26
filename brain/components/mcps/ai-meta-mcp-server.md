@@ -2,7 +2,7 @@
 name: ai-meta-mcp-server
 type: mcps
 description: >
-  Ai Meta Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: alxspiker/ai-meta-mcp-server
 source_url: https://mcp.so/server/ai-meta-mcp-server/alxspiker
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Ai Meta Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Ai Meta Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/ai-meta-mcp-server/alxspiker) for install instructions.

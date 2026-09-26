@@ -2,7 +2,7 @@
 name: mcp-yahoo-finance
 type: mcps
 description: >
-  Mcp Yahoo Finance MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: smartheye/mcp-yahoo-finance
 source_url: https://mcp.so/server/mcp-yahoo-finance/smartheye
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Yahoo Finance MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Yahoo Finance MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-yahoo-finance/smartheye) for install instructions.

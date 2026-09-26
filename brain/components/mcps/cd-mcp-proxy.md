@@ -2,7 +2,7 @@
 name: cd-mcp-proxy
 type: mcps
 description: >
-  Cd Mcp Proxy MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 12beam/cd-mcp-proxy
 source_url: https://mcp.so/server/cd-mcp-proxy/12beam
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Cd Mcp Proxy MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Cd Mcp Proxy MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/cd-mcp-proxy/12beam) for install instructions.

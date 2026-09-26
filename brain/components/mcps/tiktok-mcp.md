@@ -2,7 +2,7 @@
 name: tiktok-mcp
 type: mcps
 description: >
-  Tiktok Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Seym0n/tiktok-mcp
 source_url: https://mcp.so/server/tiktok-mcp/Seym0n
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Tiktok Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Tiktok Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/tiktok-mcp/Seym0n) for install instructions.

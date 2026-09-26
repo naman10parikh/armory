@@ -2,7 +2,7 @@
 name: linkedin-mcp-server-fredericbarthelet
 type: mcps
 description: >
-  Linkedin Mcp Server Fredericbarthelet MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/linkedin-mcp-server-fredericbarthelet
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Linkedin Mcp Server Fredericbarthelet MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Linkedin Mcp Server Fredericbarthelet MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/linkedin-mcp-server-fredericbarthelet) for install instructions.

@@ -2,7 +2,7 @@
 name: mcp-server-sandbox
 type: mcps
 description: >
-  Mcp Server Sandbox MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: imghosty17/mcp-server-sandbox
 source_url: https://mcp.so/server/mcp-server-sandbox/imghosty17
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Sandbox MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Sandbox MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-sandbox/imghosty17) for install instructions.

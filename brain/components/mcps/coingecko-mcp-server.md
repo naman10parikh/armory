@@ -2,7 +2,7 @@
 name: coingecko-mcp-server
 type: mcps
 description: >
-  Coingecko Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: GaplyDev01/coingecko-mcp-server
 source_url: https://mcp.so/server/coingecko-mcp-server/GaplyDev01
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Coingecko Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Coingecko Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/coingecko-mcp-server/GaplyDev01) for install instructions.

@@ -2,7 +2,7 @@
 name: mongo-mcp-1rb
 type: mcps
 description: >
-  Mongo Mcp 1rb MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mongo-mcp-1rb
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mongo Mcp 1rb MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mongo Mcp 1rb MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mongo-mcp-1rb) for install instructions.

@@ -17,7 +17,7 @@ forks: 35
 pushed_at: "2026-08-01T21:35:45Z"
 ---
 ## What it is
-A community statusline by rz1989s, catalogued in awesome-claude-code. Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
+A community statusline, catalogued in awesome-claude-code. Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
 
 ## When to use it
 Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring

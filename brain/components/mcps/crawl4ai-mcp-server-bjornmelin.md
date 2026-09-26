@@ -2,7 +2,7 @@
 name: crawl4ai-mcp-server-bjornmelin
 type: mcps
 description: >
-  Crawl4ai Mcp Server Bjornmelin MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/crawl4ai-mcp-server-bjornmelin
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Crawl4ai Mcp Server Bjornmelin MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Crawl4ai Mcp Server Bjornmelin MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/crawl4ai-mcp-server-bjornmelin) for install instructions.
