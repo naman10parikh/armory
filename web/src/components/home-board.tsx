@@ -108,8 +108,8 @@ export function HomeBoard({ tab }: { tab: BoardTab }) {
           <p className="mt-4 max-w-[90ch] text-[13px] leading-relaxed text-ink-muted">
             {tab === "top" ? (
               <>
-                Equal scores are ordered by the score before rounding, then by how many signals agree,
-                the most recent commit and stars.{" "}
+                Rows with the same score share a rank, and are listed by how many signals agree, then the
+                most recent commit and stars.{" "}
               </>
             ) : null}
             <FootLink href="/leaderboard">Leaderboard</FootLink> ranks all{" "}

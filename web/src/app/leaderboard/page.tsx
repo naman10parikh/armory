@@ -222,7 +222,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
               </Link>
             )}
             <span className="ml-auto">
-              Equal scores are ordered by the score before rounding, then by how many signals agree, the most recent commit and stars.
+              Rows with the same score share a rank, and are listed by how many signals agree, then the most recent commit and stars.
             </span>
           </nav>
         </ContentWidth>
