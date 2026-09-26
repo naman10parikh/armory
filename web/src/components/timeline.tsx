@@ -18,7 +18,7 @@ export interface TimelineData {
   registries: Tally[]; // MCP registries crawled, by tagged (non-overlapping) count
   collections: Tally[]; // top hand-curated source repos, by count
   distinctRepos: number; // distinct source repositories, deduped into the catalog
-  types: Tally[]; // the 12 component kinds, real per-type counts, sorted desc
+  types: Tally[]; // the 11 harness components, named as on /c, with their row counts, sorted desc
   ranked: number; // components the engine ranks: at least one signal (lib/rank.mjs)
   signals: string[]; // the signals the engine scores on, in its own order (lib/rank.mjs WEIGHTS)
   blend: { base: number; others: number }; // the engine's blend (lib/rank.mjs BLEND)
@@ -97,7 +97,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     },
     {
       title: "Components",
-      lead: `Each entry is one component, sorted into ${data.types.length} types.`,
+      lead: `Each entry sits in one of ${data.types.length} harness components, named as on the Components page.`,
       figure: (
         <Card>
           <div className="grid gap-x-6 gap-y-0 [grid-template-columns:repeat(auto-fit,minmax(210px,1fr))]">
@@ -157,7 +157,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
       : SURFACES.length;
     const cap =
       i === 0 ? "Distinct source repositories, deduped"
-      : i === 1 ? `Components across ${data.types.length} types`
+      : i === 1 ? `In the catalog, across ${data.types.length} harness components`
       : i === 2 ? "Ranked on at least one signal"
       : i === 3 ? "Industry verticals"
       : "Ways to reach the one catalog";
