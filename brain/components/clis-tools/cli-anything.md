@@ -8,7 +8,7 @@ source_url: https://github.com/HKUDS/CLI-Anything
 license: unknown
 cli_compat: []
 maturity: curated
-stars: 50600
+stars: 50605
 eval_score: 1
 mentions: 1
 verified_at: 

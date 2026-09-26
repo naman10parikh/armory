@@ -8,13 +8,13 @@ source_url: https://github.com/n8n-io/n8n
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 206032
+stars: 206033
 eval_score: null
 mentions: 26
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 60895
+forks: 60896
 pushed_at: "2026-09-26T15:03:17Z"
 ---
 ## What it is

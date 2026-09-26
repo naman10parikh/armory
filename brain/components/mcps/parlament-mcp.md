@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T16:41:13Z"
+pushed_at: "2026-09-26T16:59:19Z"
 ---
 ## What it is
 An MCP server connecting AI models to the Swiss Federal Parliament via the Curia Vista OData API, enabling queries of motions, votes, members, sessions, and debate transcripts without authentication.

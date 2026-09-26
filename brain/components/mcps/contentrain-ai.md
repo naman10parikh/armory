@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 4
 forks: 0
-pushed_at: "2026-09-26T15:05:43Z"
+pushed_at: "2026-09-26T17:17:16Z"
 ---
 ## What it is
 Local-first MCP server for AI content governance — 13 tools for model/content CRUD, validation, normalization, and i18n across any framework.

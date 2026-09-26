@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T12:25:46Z"
+pushed_at: "2026-09-26T17:17:39Z"
 ---
 ## What it is
 An MCP server that provides a shared graph of an organization's projects, processes, areas, and principles, enabling consistent context for tools and AI agents.
