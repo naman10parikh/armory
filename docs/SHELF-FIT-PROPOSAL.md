@@ -158,12 +158,13 @@ filter lists. The shelves, /c, /stack, /pipeline, the leaderboard, the detail pa
 | Tools | 147 to 51 | 134 to 48 | gh 5 to 1 · playwright-cli 18 to 9 · crawl4ai 19 to 10 |
 | Dispatch | 719 to 50 | 60 to 9 | n8n-io-n8n 1 to 1 · pocketflow 8 to 3 |
 
-With the moves below (PR E, second push), the same shelves list:
+With the moves below (PR E, second push), on the catalog of 65,238 rows after the next two Sentinel syncs,
+the same shelves list:
 
 | Shelf | Rows listed, of those filed | Ranked rows | Picks, rank on the shelf |
 |---|---|---|---|
 | Sandbox | 26 of 58 | 14 | daytona 1 · e2b-sandbox 2 · microsandbox 5 (container-use is 3) |
-| Tools | 56 of 142 | 53 | gh 1 · playwright-cli 9 · crawl4ai 10 |
+| Tools | 57 of 150 | 54 | gh 1 · playwright-cli 9 · crawl4ai 10 |
 | Dispatch | 58 of 727 | 18 | n8n-io-n8n 1 · pocketflow 9 (LangGraph, ruflo, AutoGen, Orca, CrewAI, the OpenAI Agents SDK and Symphony are 2 to 8) |
 
 What changed from the proposal's words, after reading each shelf's first 50 rows:
@@ -226,8 +227,9 @@ server, PraisonAI and Bernstein are frameworks that also serve MCP, and the Snyk
 MCP.
 
 agnix and claude-task-master were already Tools rows and are command-line tools whose descriptions never
-say so; they join the allow-list. The Dispatch deny-list gains `crewai`, a sample agent filed under
-`workflows` that is not CrewAI.
+say so; they join the allow-list. So does AgentShield, a command-line scanner that arrived with the next
+sync: its description begins "AI agent security scanner", which the words read as a whole agent. The
+Dispatch deny-list gains `crewai`, a sample agent filed under `workflows` that is not CrewAI.
 
 Left where they are, after reading each repository: crystal (deprecated in February 2026 for a successor
 app), grafbase (the platform was sunset after an acquisition), agno (a framework and runtime for agent
