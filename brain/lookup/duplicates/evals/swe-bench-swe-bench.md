@@ -16,6 +16,7 @@ related: []
 tags: [sentinel-feed]
 forks: 957
 pushed_at: "2026-09-02T01:51:01Z"
+folded_into: evals/swe-bench
 ---
 ## What it is
 SWE-bench: Can Language Models Resolve Real-world Github Issues?

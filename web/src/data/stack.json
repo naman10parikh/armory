@@ -211,7 +211,7 @@
           "name": "swe-bench",
           "why": "Real GitHub issues drawn from 12 Python repositories, scored on the resulting patch",
           "armoryName": "swe-bench",
-          "url": "https://github.com/princeton-nlp/SWE-bench"
+          "url": "https://github.com/SWE-bench/SWE-bench"
         },
         {
           "name": "deepeval",
@@ -259,9 +259,9 @@
         },
         {
           "name": "daytona",
-          "why": "Open-source manager for standard, reproducible workspaces at scale",
+          "why": "Sandboxes for AI-generated code that start in under 90 ms; its public repository stopped updating in June 2026",
           "armoryName": "daytona",
-          "url": "https://daytona.io"
+          "url": "https://github.com/daytonaio/daytona"
         },
         {
           "name": "microsandbox",
