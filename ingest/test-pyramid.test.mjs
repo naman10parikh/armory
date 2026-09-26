@@ -8,7 +8,8 @@ import { readFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
-import { gradeComponent } from "./test-gate.mjs";
+import { gradeComponent, stackPickGaps } from "./test-gate.mjs";
+import { SHELF_FIT, computeRows, fitsShelf, rankRows } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -90,4 +91,80 @@ test("catalog.json honors the generator↔consumer contract", () => {
     assert.ok(item.name && item.type && item.path, "each component has name+type+path");
     assert.ok(TYPES.includes(item.type), `type ${item.type} is one of the 12`);
   }
+});
+
+// ── Shelf fit: Sandbox, Tools and Dispatch list only the rows made for their job ─
+const fit = (name, component, description) => fitsShelf({ name, component, description });
+
+test("fitsShelf keeps each gated shelf's own kind and drops the strangers filed beside it", () => {
+  assert.ok(fit("e2b-sandbox", "infra", "Firecracker microVMs for untrusted code"), "a sandbox is a sandbox");
+  assert.ok(!fit("browser-use", "infra", "Python library that makes web browsers accessible to AI agents"), "a browser library is not");
+  assert.ok(!fit("browser-use", "infrastructure", "Python library for browsers"), "raw folder names resolve like rankRows");
+  assert.ok(fit("gh", "cli", "GitHub's official command line tool"), "a command-line tool is a tool");
+  assert.ok(!fit("openai-codex", "cli", "Lightweight coding agent that runs in your terminal"), "a whole coding agent is not");
+  assert.ok(fit("agent-reach", "cli", "Give your AI agent eyes to see the internet. One CLI."), "'your AI agent' is an audience, not a kind");
+  assert.ok(fit("n8n-io-n8n", "workflow", "Fair-code workflow automation platform"), "an orchestrator is dispatch");
+  assert.ok(!fit("the-ralph-playbook", "workflow", "A detailed guide to the Ralph Wiggum technique for autonomous coding loops"), "a guide is not");
+  assert.ok(!fit("approvals", "workflow", "Adds a human-in-the-loop approval step"), "human-in-the-loop is not a loop");
+  assert.ok(fit("anything", "memory", ""), "a component with no rule lists every row");
+});
+
+test("fitsShelf: the allow-list admits rows the words miss; the deny-list drops rows they let in", () => {
+  assert.ok(fit("pocketflow", "workflow", "100-line LLM framework that lets agents build agents"));
+  assert.ok(fit("crawl4ai", "cli", "Open-source async web crawling library"));
+  assert.ok(!fit("system-dynamics-modeler", "workflow", "Model complex system dynamics with feedback loops"));
+});
+
+test("every allow- and deny-listed name is a row of its component in catalog.json", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  for (const [component, rule] of Object.entries(SHELF_FIT)) {
+    if (component === "tool") continue; // shares the cli rule; the catalog has no tool rows
+    for (const name of [...rule.allow, ...(rule.deny ?? [])]) {
+      assert.ok(rows.some((r) => r.name === name && r.component === component), `${name} is a ${component} row`);
+    }
+  }
+});
+
+test("rankRows lists only the rows that fit a gated component, counts the rest in fit, and facets agree", () => {
+  const rows = computeRows([
+    { name: "sbx", type: "infrastructure", description: "Sandboxes for running AI-generated code", stars: 10, source_url: "https://github.com/a/sbx" },
+    { name: "llm-engine", type: "infrastructure", description: "LLM inference in C/C++", stars: 20, source_url: "https://github.com/a/llm-engine" },
+    { name: "notes", type: "memory", description: "Agent memory", stars: 5, source_url: "https://github.com/a/notes" },
+  ]);
+  const lb = rankRows(rows, { component: "sandboxes" });
+  assert.deepEqual(lb.items.map((i) => i.name), ["sbx"]);
+  assert.deepEqual(lb.fit, { purpose: SHELF_FIT.infra.purpose, filed: 2, left_out: 1 });
+  assert.equal(rankRows(rows, { component: "memory" }).fit, null, "an ungated component says nothing");
+  assert.equal(rankRows(rows, {}).total, 3, "an unfiltered rank still lists every row");
+  assert.equal(lb.facets.components.find((f) => f.key === "infra")?.count, 1, "the facet counts what the filter lists");
+});
+
+// ── /stack guard: a pick below its shelf's top row must say why ───────────────
+test("stackPickGaps flags a pick below the top row with no reason, and a pick off its shelf", () => {
+  const sandbox = (name, stars) => ({ name, type: "infrastructure", description: "Sandboxes for AI-generated code", stars, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    sandbox("top", 300),
+    sandbox("second", 200),
+    sandbox("third", 100),
+    { name: "llm-engine", type: "infrastructure", description: "LLM inference in C/C++", stars: 1000, source_url: "https://github.com/a/llm-engine" },
+  ]);
+  const stack = {
+    components: [{
+      slug: "sandbox",
+      aggregates: ["infra"],
+      picks: [
+        { name: "top", armoryName: "top" },
+        { name: "second", armoryName: "second" },
+        { name: "third", armoryName: "third", reason: "Listed for a reason." },
+        { name: "engine", armoryName: "llm-engine", reason: "Filed here, but not a sandbox." },
+        { name: "later", armoryName: null },
+      ],
+    }],
+  };
+  const gaps = stackPickGaps(stack, rows);
+  assert.equal(gaps.length, 2, gaps.join(" | "));
+  assert.match(gaps[0], /^sandbox: second sits below top and has no reason$/);
+  assert.match(gaps[1], /^sandbox: llm-engine is not listed on its shelf/);
 });
