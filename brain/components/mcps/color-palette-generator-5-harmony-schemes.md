@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:50Z"
+pushed_at: "2026-09-02T19:55:24Z"
 ---
 ## What it is
 Color palette generation API for AI agents. Generate harmonious palettes from any hex color: complementary, analogous, triadic, split-complementary, and tetradic schemes. Returns hex, RGB, HSL, and CSS custom properties. Tools: design_generate_color_palette. Use this for UI design, brand color explo

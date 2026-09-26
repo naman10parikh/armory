@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-09T13:31:10Z"
+pushed_at: "2026-09-16T17:03:01Z"
 ---
 ## What it is
 MCP server `Zabbix`, catalogued on PulseMCP. Integrates with Zabbix 7.4 monitoring infrastructure with 86 tools, read-only mode, and 96% test coverage.

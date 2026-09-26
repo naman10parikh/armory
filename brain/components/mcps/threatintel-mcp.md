@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T18:41:38Z"
+pushed_at: "2026-09-24T19:19:51Z"
 ---
 ## What it is
 An MCP server wrapping urlscan.io and VirusTotal APIs to enable AI agents to pivot on threat indicators during investigations, with compact structured output and defanged results.

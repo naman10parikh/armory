@@ -8,13 +8,13 @@ source_url: https://github.com/vibgrate/cli
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-29T15:01:52Z"
+forks: 3
+pushed_at: "2026-09-21T12:48:20Z"
 ---
 ## What it is
 Local-first MCP server that gives AI assistants codebase intelligence—code graph, drift analysis, vulnerability attribution, and version-correct library docs—all from the user's machine.

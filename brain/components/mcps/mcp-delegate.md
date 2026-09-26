@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T03:19:21Z"
+pushed_at: "2026-09-07T02:32:45Z"
 ---
 ## What it is
 Enables delegating tasks to a separate, full agentic loop running on a different model, with its own tool access, returning only the final result.

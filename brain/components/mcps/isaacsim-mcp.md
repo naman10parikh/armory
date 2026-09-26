@@ -8,13 +8,13 @@ source_url: https://github.com/Tim0320/IsaacSim-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:50:55Z"
+pushed_at: "2026-09-02T12:00:37Z"
 ---
 ## What it is
 Enables AI assistants to control NVIDIA Isaac Sim by building scenes, loading assets, operating robots and humans, reading sensors, managing simulation, and creating Action Graphs.

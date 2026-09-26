@@ -8,11 +8,11 @@ source_url: https://github.com/pacifio/cersei
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 452
+stars: 460
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
+forks: 79
 pushed_at: "2026-08-06T19:19:33Z"
 ---
 ## What it is

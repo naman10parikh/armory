@@ -8,13 +8,13 @@ source_url: https://github.com/legetdev/klyk
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T14:33:00Z"
+pushed_at: "2026-09-22T11:01:28Z"
 ---
 ## What it is
 An MCP server that gives AI agents real OS-level control of macOS, enabling them to click real buttons, type real keys, and observe rendered screens just like a human would.

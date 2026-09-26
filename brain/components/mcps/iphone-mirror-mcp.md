@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:11:29Z"
+pushed_at: "2026-09-24T10:07:30Z"
 ---
 ## What it is
 An MCP server that lets LLMs drive a real iPhone through macOS iPhone Mirroring, with tools for screen capture, OCR, taps, typing, and Xcode build/test/install automation.

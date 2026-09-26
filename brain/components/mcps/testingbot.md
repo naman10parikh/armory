@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-27T11:56:49Z"
+pushed_at: "2026-09-22T14:02:19Z"
 ---
 ## What it is
 MCP server `TestingBot`, catalogued on PulseMCP. Automated web and mobile testing integration

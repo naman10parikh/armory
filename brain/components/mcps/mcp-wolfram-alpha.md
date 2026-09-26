@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:49:51Z"
+pushed_at: "2026-09-25T03:17:36Z"
 ---
 ## What it is
 Wolfram Alpha MCP server that enables computational, factual, and quantitative queries through natural language.

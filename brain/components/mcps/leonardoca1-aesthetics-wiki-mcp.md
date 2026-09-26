@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
-stars: 7
-forks: 0
+stars: 10
+forks: 1
 pushed_at: "2026-04-21T09:37:48Z"
 ---
 ## What it is

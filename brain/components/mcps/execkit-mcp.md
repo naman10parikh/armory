@@ -8,13 +8,13 @@ source_url: https://github.com/blinkingbit-oss/execkit
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T16:10:36Z"
+pushed_at: "2026-09-26T04:40:17Z"
 ---
 ## What it is
 Stateful, structured, safe shell sessions for AI agents, on real infrastructure.

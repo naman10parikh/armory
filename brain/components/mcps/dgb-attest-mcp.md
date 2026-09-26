@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T11:38:30Z"
+pushed_at: "2026-09-08T14:03:53Z"
 ---
 ## What it is
 Enables on-chain attestation of any content onto the DigiByte blockchain, providing permanent, timestamped, tamper-evident proofs. Allows AI agents to notarize their outputs or verify attestations using only the blockchain.

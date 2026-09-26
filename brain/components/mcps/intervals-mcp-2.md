@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T12:13:06Z"
+pushed_at: "2026-09-08T14:32:48Z"
 ---
 ## What it is
 Enables local-first time tracking with timers and time entries stored in a SQLite database that sync to Intervals in the background, with local-only reporting and queries.

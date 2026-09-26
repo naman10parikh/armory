@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T06:54:19Z"
+pushed_at: "2026-09-03T06:12:12Z"
 ---
 ## What it is
 An MCP server that lets AI coding agents save immutable, versioned Markdown reports into md-log, a human-in-the-loop review and archive layer for vibe coding.

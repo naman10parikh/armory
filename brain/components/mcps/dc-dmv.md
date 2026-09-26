@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:59:11Z"
+pushed_at: "2026-09-24T23:06:12Z"
 ---
 ## What it is
 Access District of Columbia DMV data including service center locations, vehicle inspection records, and traffic convictions. Enables querying by VIN, violation text, and date ranges.

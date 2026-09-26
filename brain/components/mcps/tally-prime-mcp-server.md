@@ -8,13 +8,13 @@ source_url: https://github.com/dhananjay1405/tally-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 80
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
-pushed_at: "2026-08-15T14:11:50Z"
+forks: 33
+pushed_at: "2026-09-04T16:29:18Z"
 ---
 ## What it is
 Enables Large Language Models to access and query Tally Prime ERP data, including financial reports, masters, and inventory summaries, via the Model Context Protocol.

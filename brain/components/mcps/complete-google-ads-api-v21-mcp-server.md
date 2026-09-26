@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T01:40:15Z"
+pushed_at: "2026-09-02T15:14:51Z"
 ---
 ## What it is
 Complete Google Ads API v21 MCP server with 40+ fully implemented tools for campaign, ad group, keyword, extension, and portfolio bidding management, enabling AI assistants to create, optimize, and manage Google Ads campaigns through natural language commands.

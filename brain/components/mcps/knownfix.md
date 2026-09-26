@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:20:07Z"
+pushed_at: "2026-09-05T01:55:07Z"
 ---
 ## What it is
 Provides verified fixes for real developer errors to AI agents via MCP, with free sample fixes and paid per-lookup transactions on Base mainnet. Enables searching fixes, browsing the catalog, retrieving offers and fixes, and submitting new fixes.

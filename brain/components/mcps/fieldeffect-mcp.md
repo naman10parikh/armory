@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T02:42:05Z"
+pushed_at: "2026-09-04T02:52:20Z"
 ---
 ## What it is
 MCP server for Field Effect MDR (Covalence) that exposes organization, endpoint device, and active response reporting endpoints as tools, enabling security management via natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/Memstem/memstem
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:04:37Z"
+pushed_at: "2026-09-26T12:02:31Z"
 ---
 ## What it is
 A standalone memory service that provides a unified, pull-based knowledge store for AI agents, enabling shared memory and skills across multiple AI clients via MCP.

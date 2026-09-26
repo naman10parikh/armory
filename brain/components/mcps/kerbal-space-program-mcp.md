@@ -8,13 +8,13 @@ source_url: https://github.com/ziksjksk/kerbal-space-program-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T04:13:39Z"
+pushed_at: "2026-09-12T08:29:32Z"
 ---
 ## What it is
 Enables building and flying rockets in Kerbal Space Program 1.x via MCP, providing editor, flight control, and real-time telemetry tools without requiring visual input.

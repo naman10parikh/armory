@@ -8,13 +8,13 @@ source_url: https://github.com/JesusRS1/stock-trade-finance-api
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 140
+stars: 138
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 439
-pushed_at: "2026-09-01T16:24:10Z"
+forks: 440
+pushed_at: "2026-09-14T08:00:37Z"
 ---
 ## What it is
 An MCP server that provides tools to access Tiingo API data including stock prices, news, forex, fundamentals, and corporate actions.

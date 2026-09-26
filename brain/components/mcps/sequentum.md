@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T15:25:10Z"
+pushed_at: "2026-09-24T20:22:39Z"
 ---
 ## What it is
 MCP server `Sequentum`, catalogued on PulseMCP. AI-driven interface to the Sequentum enterprise web scraping platform for creating agents, managing runs, and automating data extraction workflows.

@@ -8,12 +8,12 @@ source_url: https://github.com/automoxcommunity/automox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-27T21:05:24Z"
+pushed_at: "2026-09-19T02:44:59Z"
 ---
 ## What it is
 MCP server `Automox`, catalogued on PulseMCP. Integrates with Automox's endpoint management platform to provide policy health monitoring, device compliance insights, remediation actions, and patch management through curated workflows for IT operations automation and security compliance.

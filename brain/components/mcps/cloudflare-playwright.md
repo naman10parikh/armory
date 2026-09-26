@@ -8,11 +8,11 @@ source_url: https://github.com/cloudflare/playwright-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 258
+stars: 257
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 50
+forks: 51
 pushed_at: "2026-04-23T20:52:00Z"
 ---
 ## What it is

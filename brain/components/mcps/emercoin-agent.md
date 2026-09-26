@@ -8,13 +8,13 @@ source_url: https://github.com/emercoin/emer-ai-tools
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-06-16T13:21:13Z"
+pushed_at: "2026-09-22T13:33:15Z"
 ---
 ## What it is
 Identity + memory layer for AI agents on the Emercoin blockchain — read open, write via GitHub OAuth

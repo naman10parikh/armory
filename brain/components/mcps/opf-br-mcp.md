@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T05:45:46Z"
+pushed_at: "2026-09-05T18:17:29Z"
 ---
 ## What it is
 MCP server for token-efficient access to Open Finance Brasil rules, enabling coding agents to search and retrieve specific regulations, OpenAPI specs, and business rules through progressive disclosure.

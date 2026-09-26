@@ -8,11 +8,11 @@ source_url: https://github.com/leonardogilrodriguez/mcp-tmdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2025-06-22T17:19:21Z"
 ---
 ## What it is

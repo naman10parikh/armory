@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:29Z"
+pushed_at: "2026-09-25T01:50:52Z"
 ---
 ## What it is
 MCP server `PANGAEA`, catalogued on PulseMCP. PANGAEA earth and environmental science data publisher access via a managed MCP endpoint.

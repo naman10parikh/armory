@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:44:43Z"
+pushed_at: "2026-09-25T02:35:29Z"
 ---
 ## What it is
 Provides statistics on OpenStreetMap tags (keys and key=value pairs) via MCP tools, enabling querying of tag usage and metadata.

@@ -8,12 +8,12 @@ source_url: https://github.com/utensils/mcp-nixos
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 816
+stars: 844
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
-pushed_at: "2026-08-12T17:12:41Z"
+forks: 45
+pushed_at: "2026-09-05T02:31:09Z"
 ---
 ## What it is
 MCP server `NixOS`, catalogued on PulseMCP. Provides a server for accessing NixOS packages, system options, Home Manager, and nix-darwin configurations with multi-level caching and advanced search capabilities

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:44:32Z"
+pushed_at: "2026-09-25T02:34:35Z"
 ---
 ## What it is
 An MCP server that wraps the free akabab.github.io/superhero-api to list all superheroes with their IDs, names, and slugs.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:09:08Z"
+pushed_at: "2026-09-25T20:47:41Z"
 ---
 ## What it is
 Enables AI to inspect and interact with UI elements, supporting control mode for the runner's own UI and SDK mode for external applications.

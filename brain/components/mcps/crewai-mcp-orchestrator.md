@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T22:50:52Z"
+pushed_at: "2026-09-08T20:49:19Z"
 ---
 ## What it is
 Transforms any compatible LLM or AI Assistant into a master orchestrator of CrewAI, providing tools to dynamically generate, edit, test, and execute multi-agent systems.

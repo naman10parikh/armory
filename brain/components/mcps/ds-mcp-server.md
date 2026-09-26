@@ -8,13 +8,13 @@ source_url: https://github.com/ahmad-zurih/ds-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T07:43:12Z"
+pushed_at: "2026-09-06T08:31:15Z"
 ---
 ## What it is
 Provides data science, plotting, statistics, system, and web tools via MCP, with interactive CLI clients for OpenAI-compatible and Anthropic providers.

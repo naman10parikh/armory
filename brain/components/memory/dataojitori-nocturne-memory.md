@@ -8,14 +8,14 @@ source_url: https://github.com/Dataojitori/nocturne_memory
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1345
+stars: 1373
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 166
-pushed_at: "2026-08-27T00:22:48Z"
+forks: 170
+pushed_at: "2026-09-22T20:13:39Z"
 ---
 ## What it is
 Use when you want to see and roll back what your agent remembered, instead of trusting an opaque vector store.

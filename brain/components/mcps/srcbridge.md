@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:02:32Z"
+pushed_at: "2026-09-06T20:47:01Z"
 ---
 ## What it is
 A sandboxed file-access MCP server for Claude Desktop, enabling safe read/write access to selected directories with atomic verified writes, undo, and read-only git operations.

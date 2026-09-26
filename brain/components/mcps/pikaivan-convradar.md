@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-16T08:12:11Z"
+pushed_at: "2026-09-20T14:14:14Z"
 ---
 ## What it is
 MCP server `ConvRadar`, catalogued on PulseMCP. Google Analytics 4 conversion funnel analysis and traffic quality diagnostics for AI assistants.

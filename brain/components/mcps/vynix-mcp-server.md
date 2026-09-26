@@ -8,12 +8,12 @@ source_url: https://github.com/UseVynix/vynix-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 5
 pushed_at: "2026-08-22T14:53:51Z"
 ---
 ## What it is

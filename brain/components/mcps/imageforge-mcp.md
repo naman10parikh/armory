@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:27:21Z"
+pushed_at: "2026-09-10T06:31:47Z"
 ---
 ## What it is
 Enables image generation and editing through OpenAI's gpt-image-2 model, supporting text-to-image, reference-guided generation, and editing with local files or URLs.

@@ -8,13 +8,13 @@ source_url: https://github.com/limars874/chatgpt-file-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T13:54:51Z"
+pushed_at: "2026-09-03T16:19:20Z"
 ---
 ## What it is
 Enables local ChatGPT/OpenAI MCP clients to read files and search within explicitly authorized directories using read-only, policy-constrained tools.

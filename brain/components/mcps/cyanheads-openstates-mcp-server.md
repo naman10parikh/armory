@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/openstates-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T05:53:45Z"
+pushed_at: "2026-09-20T14:15:12Z"
 ---
 ## What it is
 Search bills, legislators, committees, and events across all 50 US states, DC, and 5 US territories via MCP.

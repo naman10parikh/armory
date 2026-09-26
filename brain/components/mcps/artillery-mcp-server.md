@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-12-10T19:09:27Z"
+pushed_at: "2026-09-10T07:01:11Z"
 ---
 ## What it is
 Enables running and inspecting Artillery load tests from MCP-compatible clients like Claude Desktop and Cursor, with features like saved configurations, preset tests, and regression detection.

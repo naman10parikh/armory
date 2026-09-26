@@ -8,13 +8,13 @@ source_url: https://github.com/MarcusJellinghaus/mcp-workspace
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 50
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-09-01T21:59:07Z"
+forks: 16
+pushed_at: "2026-09-07T19:37:03Z"
 ---
 ## What it is
 Enables AI assistants to perform file system operations within a specified project directory, including reading, writing, editing, and managing files, with optional read-only access to reference projects.

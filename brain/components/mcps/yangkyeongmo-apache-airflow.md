@@ -8,11 +8,11 @@ source_url: https://github.com/yangkyeongmo/mcp-server-apache-airflow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 177
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 46
+forks: 50
 pushed_at: "2026-03-03T13:24:59Z"
 ---
 ## What it is

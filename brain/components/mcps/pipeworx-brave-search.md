@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:45:14Z"
+pushed_at: "2026-09-25T22:15:27Z"
 ---
 ## What it is
 MCP server `Brave Search`, catalogued on PulseMCP. Perform web searches using the Brave Search API with privacy-focused results.

@@ -8,13 +8,13 @@ source_url: https://github.com/Scottnine/filamental
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:57:03Z"
+pushed_at: "2026-09-21T05:23:14Z"
 ---
 ## What it is
 Search, traverse and edit your Filamental knowledge graph from any MCP-compatible AI client. Local-first, no cloud, no auth required. 12 tools for reading and writing nodes and edges.

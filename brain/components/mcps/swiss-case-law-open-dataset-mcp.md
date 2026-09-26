@@ -8,13 +8,13 @@ source_url: https://github.com/jonashertner/opencaselaw
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-09-01T19:33:37Z"
+forks: 19
+pushed_at: "2026-09-26T13:24:54Z"
 ---
 ## What it is
 Enables LLMs to search and analyze Swiss case law, legislation, and citation networks with 43 tools for decision search, statute lookup, citation graphs, legislative history, and exam question generation.

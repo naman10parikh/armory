@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:45:40Z"
+pushed_at: "2026-09-25T04:49:06Z"
 ---
 ## What it is
 Compares AI coding tool spend before and after a migration -- Cursor, Claude Code, GitHub Copilot, OpenCode, Codex CLI -- via an MCP server, real numbers from each vendor's own API or local logs.

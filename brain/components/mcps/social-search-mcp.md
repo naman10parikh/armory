@@ -8,13 +8,13 @@ source_url: https://github.com/vialan-art/social-search-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T10:16:07Z"
+pushed_at: "2026-09-08T14:26:58Z"
 ---
 ## What it is
 MCP server providing X/Twitter and Reddit search tools for AI agents, returning raw social media data with cleaning and re-ranking, including full Reddit comment tree reading for cost-effective synthesis.

@@ -8,12 +8,12 @@ source_url: https://github.com/blindpaylabs/blindpay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-08T15:07:58Z"
+forks: 4
+pushed_at: "2026-09-25T17:08:53Z"
 ---
 ## What it is
 MCP server `BlindPay`, catalogued on PulseMCP. Integrates with BlindPay's global stablecoin payment infrastructure for payment operations, receiver management, instance administration, and KYC workflows.

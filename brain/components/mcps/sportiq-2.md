@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-29T18:43:32Z"
+pushed_at: "2026-09-25T07:28:55Z"
 ---
 ## What it is
 SportIQ (Live sports analysis and data + betting odds)plugs 48 live sports tools into any AI (Claude, ChatGPT, Cursor): FIFA World Cup 2026 football, Formula 1, and IPL cricket. Ask in plain English — it simulates brackets, finds value bets, optimizes Dream11 teams, and models F1 pit strategy. Free,

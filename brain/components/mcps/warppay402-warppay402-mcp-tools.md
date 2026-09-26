@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T01:17:25Z"
+pushed_at: "2026-09-20T07:52:34Z"
 ---
 ## What it is
 Enables AI agents to use pay-per-use web scraping, Base blockchain analytics, and PDF text extraction tools, monetized via x402 USDC micropayments.

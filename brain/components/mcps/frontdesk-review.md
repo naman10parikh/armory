@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T04:55:21Z"
+pushed_at: "2026-09-24T00:07:19Z"
 ---
 ## What it is
 Sourced product prices, dated price history, specs and independent-test coverage across 4,764 hardware products and 2,064 software vendors — every figure returned with its source URL and the date it was captured. Unknown values come back as null rather than a guess, so an agent can cite what it surf

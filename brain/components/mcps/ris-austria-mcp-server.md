@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T02:59:14Z"
+pushed_at: "2026-09-25T05:40:50Z"
 ---
 ## What it is
 Search Austrian consolidated federal & state law, court decisions, and the authentic Bundesgesetzblatt from the official RIS via MCP, keyless and supporting STDIO or Streamable HTTP.

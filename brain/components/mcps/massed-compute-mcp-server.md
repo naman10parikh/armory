@@ -8,13 +8,13 @@ source_url: https://github.com/Massed-Compute/massed-compute-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T20:55:16Z"
+pushed_at: "2026-09-21T20:55:35Z"
 ---
 ## What it is
 Enables AI assistants to manage Massed Compute GPU instances, including browsing inventory, launching and managing VMs, and auditing billing.

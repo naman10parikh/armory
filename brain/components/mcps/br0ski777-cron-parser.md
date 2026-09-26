@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:53Z"
+pushed_at: "2026-09-02T19:55:28Z"
 ---
 ## What it is
 MCP server `Cron Expression Parser`, catalogued on PulseMCP. Parses and validates cron expressions, explains them in plain language, and calculates upcoming run times.

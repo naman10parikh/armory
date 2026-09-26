@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T09:43:17Z"
+pushed_at: "2026-09-07T14:24:47Z"
 ---
 ## What it is
 MCP server `Kylas CRM`, catalogued on PulseMCP. Create, search, and manage leads in Kylas CRM through AI assistants.

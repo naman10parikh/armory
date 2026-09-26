@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:43:34Z"
+pushed_at: "2026-09-25T22:04:39Z"
 ---
 ## What it is
 Access BCRP (Central Bank of Peru) statistical series via an MCP server. Enables querying economic data without API keys.

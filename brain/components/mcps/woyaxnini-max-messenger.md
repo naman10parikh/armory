@@ -8,11 +8,11 @@ source_url: https://github.com/woyaxnini/mcp-max-messenger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-03-31T14:17:28Z"
 ---
 ## What it is

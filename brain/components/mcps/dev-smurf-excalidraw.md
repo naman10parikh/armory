@@ -8,7 +8,7 @@ source_url: https://github.com/dev-smurf/excaliclaude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

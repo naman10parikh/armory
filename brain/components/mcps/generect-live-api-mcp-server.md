@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-16T00:03:50Z"
+pushed_at: "2026-09-24T11:46:01Z"
 ---
 ## What it is
 MCP server for B2B lead generation and company search using the Generect Live API. Provides tools to search leads, companies, generate emails, and get lead by URL.

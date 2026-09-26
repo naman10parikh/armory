@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T19:58:42Z"
+pushed_at: "2026-09-19T04:49:52Z"
 ---
 ## What it is
 Provides 48 tools for managing Plane projects, issues, modules, cycles, comments, and worklogs via MCP, supporting both stdio and HTTP transport.

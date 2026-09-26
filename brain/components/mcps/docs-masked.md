@@ -8,12 +8,12 @@ source_url: https://github.com/kpshinnik/docs_masked
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 9
 pushed_at: "2026-08-18T04:46:13Z"
 ---
 ## What it is

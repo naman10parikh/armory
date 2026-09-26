@@ -8,13 +8,13 @@ source_url: https://github.com/SafiePublic/safie-api-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2025-04-24T08:37:07Z"
+pushed_at: "2026-09-16T09:20:39Z"
 ---
 ## What it is
 Enables to retrieve device information, images, media, location, thumbnails, and events from the Safie API through MCP.

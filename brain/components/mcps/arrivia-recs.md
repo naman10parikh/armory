@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T18:31:23Z"
+pushed_at: "2026-09-07T18:25:01Z"
 ---
 ## What it is
 Provides AI-driven, partner-aware travel recommendations with auditability, integrating member context and read-only partner policy rules.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T08:52:26Z"
+pushed_at: "2026-09-25T02:40:30Z"
 ---
 ## What it is
 MCP server that lets AI agents search and inspect shadcn components from the encode-ui registry, returning metadata, source code, and install commands.

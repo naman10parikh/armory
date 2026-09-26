@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T14:18:10Z"
+pushed_at: "2026-09-18T07:23:19Z"
 ---
 ## What it is
 MCP server for the cig.chat API that lets you connect Claude, Cursor, or any MCP client to your cig.chat bot to manage subscribers, tags, flows, WhatsApp templates, broadcasts, and shop operations in plain language.

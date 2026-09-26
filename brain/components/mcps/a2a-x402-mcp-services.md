@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T18:54:13Z"
+pushed_at: "2026-09-21T18:25:53Z"
 ---
 ## What it is
 Enables agents to access production-grade paid MCP tools with real on-chain x402 v2 settlement, including EVM wallet risk scoring, payload normalization, and facilitator discovery, all discoverable via Bazaar-compatible metadata.

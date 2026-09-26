@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:02:04Z"
+pushed_at: "2026-09-21T22:51:17Z"
 ---
 ## What it is
 A local MCP server for read-only querying of AWS resources (Lambda, S3) via Boto3, currently exposing a health check tool with planned tools for listing resources and checking free tier.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:51:16Z"
+pushed_at: "2026-09-02T19:55:47Z"
 ---
 ## What it is
 Email deliverability audit API for AI agents. Analyze any domain's email authentication: SPF record validation, DKIM selector check, DMARC policy analysis, MX record health, and composite deliverability score 0-100 with prioritized fix recommendations. Tools: email_audit_deliverability. Use this whe

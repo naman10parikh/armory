@@ -8,12 +8,12 @@ source_url: https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12635
+stars: 12680
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, search-data-extraction]
-forks: 1448
+forks: 1450
 pushed_at: "2026-05-31T01:26:41Z"
 ---
 ## What it is

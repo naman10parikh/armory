@@ -8,12 +8,12 @@ source_url: https://github.com/hlpun/Train-in-Silence
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 101
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 5
 pushed_at: "2026-08-04T08:25:18Z"
 ---
 ## What it is

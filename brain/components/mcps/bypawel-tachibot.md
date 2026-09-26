@@ -8,12 +8,12 @@ source_url: https://github.com/bypawel/tachibot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-30T16:59:29Z"
+pushed_at: "2026-09-14T14:16:32Z"
 ---
 ## What it is
 MCP server `Tachibot`, catalogued on PulseMCP. Multi-model orchestration running OpenAI, Google, Anthropic, xAI, Perplexity, and OpenRouter in parallel for cross-validation

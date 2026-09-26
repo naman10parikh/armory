@@ -8,13 +8,13 @@ source_url: https://github.com/cc1a2b/arabicfmt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T03:33:10Z"
+pushed_at: "2026-09-20T17:05:16Z"
 ---
 ## What it is
 MCP server for correct Arabic formatting — currency, Hijri dates, number-to-words, RTL fixes and validation across all 22 Arab countries. Zero-dependency.

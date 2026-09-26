@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T19:46:24Z"
+pushed_at: "2026-09-11T06:10:34Z"
 ---
 ## What it is
 Blocks unsafe PostgreSQL migrations before an AI agent writes or runs them. check_before_apply returns a pass/fail gate; reads the real Postgres parser, classifies the lock each statement takes, checks 112 safety rules. Runs offline, no database required.

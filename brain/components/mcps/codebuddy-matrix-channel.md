@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T10:28:25Z"
+pushed_at: "2026-09-16T16:55:56Z"
 ---
 ## What it is
 Bridges Matrix chat rooms to CodeBuddy Code sessions, enabling message exchange, permission approvals, and media downloads through the MCP protocol.

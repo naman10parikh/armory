@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T02:35:35Z"
+pushed_at: "2026-09-14T20:43:43Z"
 ---
 ## What it is
 An MCP server for Excalidraw diagram creation and headless rendering, enabling interactive canvas editing and automated SVG/PNG export via Playwright.

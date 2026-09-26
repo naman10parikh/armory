@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-17T17:37:26Z"
+pushed_at: "2026-09-14T14:09:16Z"
 ---
 ## What it is
 MCP server `Elementor Agent`, catalogued on PulseMCP. Agency-grade multi-site WordPress Elementor management with safe edits, templates, and version control.

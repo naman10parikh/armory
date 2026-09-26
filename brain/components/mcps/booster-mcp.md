@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:51:20Z"
+pushed_at: "2026-09-02T07:55:10Z"
 ---
 ## What it is
 Booster MCP turns complex codebases into understandable systems with semantic search, 3D visualization, and debugging tools.

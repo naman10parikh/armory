@@ -8,13 +8,13 @@ source_url: https://github.com/jammaru/apps-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T06:41:43Z"
+pushed_at: "2026-09-20T10:02:49Z"
 ---
 ## What it is
 Unofficial MCP server for the Apps API that enables managing customers, payments, plans, coupons, and Discord integration through natural language.

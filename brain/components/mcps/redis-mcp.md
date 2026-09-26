@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-23T17:11:57Z"
+pushed_at: "2026-09-24T11:53:45Z"
 ---
 ## What it is
 Enables exploring and diagnosing a Redis instance from MCP clients with read-only safety, using SCAN instead of KEYS for safe key enumeration.

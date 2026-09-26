@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, research]
-stars: 10
+stars: 11
 forks: 4
-pushed_at: "2026-08-24T20:01:15Z"
+pushed_at: "2026-09-24T17:05:01Z"
 ---
 ## What it is
 Access legislative data from all 50 US states and Congress — search bills, get full text, track votes, and look up legislators via the LegiScan API.

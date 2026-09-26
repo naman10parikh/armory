@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-12T16:07:51Z"
+pushed_at: "2026-09-08T18:52:51Z"
 ---
 ## What it is
 MCP server `Multi-Model`, catalogued on PulseMCP. MCP server that routes queries to 12+ AI providers including OpenAI, Gemini, and DeepSeek with intelligent task-based model selection and parallel execution.

@@ -8,13 +8,13 @@ source_url: https://github.com/sololabstr/uisight
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 102
+stars: 127
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-08-31T13:37:17Z"
+forks: 11
+pushed_at: "2026-09-15T22:41:50Z"
 ---
 ## What it is
 MCP server that provides AI coding agents with real-time visual access to web apps, enabling them to see screens, run accessibility and layout inspections, and interact with pages through a shared live panel.

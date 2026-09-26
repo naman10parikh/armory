@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-17T03:44:52Z"
+pushed_at: "2026-09-25T20:42:57Z"
 ---
 ## What it is
 MCP server `SaturnZap`, catalogued on PulseMCP. Non-custodial Bitcoin Lightning (LDK) wallet for AI agents — pays L402 APIs from CLI or MCP.

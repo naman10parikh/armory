@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:36:38Z"
+pushed_at: "2026-09-21T08:25:13Z"
 ---
 ## What it is
 Enables AI agents to interact with the Coherence Network platform, allowing them to browse ideas, record contributions, and access governance features via natural language.

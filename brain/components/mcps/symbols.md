@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T21:50:20Z"
+pushed_at: "2026-09-26T11:02:48Z"
 ---
 ## What it is
 MCP server `Symbols`, catalogued on PulseMCP. Documentation search and DOMQL framework reference for Symbols.app.

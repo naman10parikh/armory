@@ -8,12 +8,12 @@ source_url: https://github.com/HalidSaglam/saglitzdesign-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-09-01T17:56:16Z"
 ---
 ## What it is

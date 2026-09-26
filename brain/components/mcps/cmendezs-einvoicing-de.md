@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T13:01:18Z"
+pushed_at: "2026-09-12T09:16:44Z"
 ---
 ## What it is
 MCP server `German E-Invoicing`, catalogued on PulseMCP. German e-invoice generation and validation for ZUGFeRD, XRechnung, and EN 16931 standards.

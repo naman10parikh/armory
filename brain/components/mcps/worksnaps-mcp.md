@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:52:22Z"
+pushed_at: "2026-09-08T12:13:12Z"
 ---
 ## What it is
 Enables logging offline time and managing Worksnaps projects/tasks from Cursor chat via natural language.

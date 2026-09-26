@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:38:52Z"
+pushed_at: "2026-09-25T21:51:27Z"
 ---
 ## What it is
 Enables search and query of Maricopa County (Phoenix, Arizona) open geospatial datasets via ArcGIS services, including parcels, elections, and public works data.

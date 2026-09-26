@@ -8,11 +8,11 @@ source_url: https://github.com/lostintangent/gistpad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 208
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-01-16T17:58:32Z"
 ---
 ## What it is

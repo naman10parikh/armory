@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:09:24Z"
+pushed_at: "2026-09-26T12:32:40Z"
 ---
 ## What it is
 A threat intelligence MCP server for Claude Code that enables lookup of IOCs, threat feeds, breached credentials, CVEs, and dark web data.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-25T04:56:20Z"
+pushed_at: "2026-09-12T14:16:29Z"
 ---
 ## What it is
 MCP server `Kinetic Gain Protocol`, catalogued on PulseMCP. Unified MCP server for the Kinetic Gain Protocol Suite governance tools.

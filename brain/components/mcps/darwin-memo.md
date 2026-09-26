@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T11:59:40Z"
+pushed_at: "2026-09-21T18:24:06Z"
 ---
 ## What it is
 Provides an MCP server that gives LLM agents an evolutionary memory: entries pay upkeep and survive only if they earn their keep through measured outcomes, with tools for querying, settling, and managing memory.

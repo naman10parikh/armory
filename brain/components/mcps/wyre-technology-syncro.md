@@ -8,12 +8,12 @@ source_url: https://github.com/wyre-technology/syncro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-31T23:45:06Z"
+forks: 3
+pushed_at: "2026-09-21T23:45:34Z"
 ---
 ## What it is
 MCP server `Syncro`, catalogued on PulseMCP. Community MCP integration for Syncro MSP, enabling AI agents to manage customers, tickets, assets, and invoices.

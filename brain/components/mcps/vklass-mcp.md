@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:03:30Z"
+pushed_at: "2026-09-05T10:50:55Z"
 ---
 ## What it is
 Enables guardians to securely query read-only Vklass data such as children, news, calendar entries, assignments, grades, meals, and notifications through MCP, with per-user BankID and OAuth 2.1 authentication.

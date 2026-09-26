@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-30T21:00:32Z"
+pushed_at: "2026-09-23T20:12:52Z"
 ---
 ## What it is
 MCP server `Zero Core Budget`, catalogued on PulseMCP. Agent spending management, budget tracking, and ROI analysis for AI workflows.

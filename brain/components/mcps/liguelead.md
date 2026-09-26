@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-28T17:56:11Z"
+pushed_at: "2026-09-23T15:18:15Z"
 ---
 ## What it is
 MCP server `LigueLead`, catalogued on PulseMCP. SMS, SMS Flash, and voice campaign management for the LigueLead Brazilian communications platform.

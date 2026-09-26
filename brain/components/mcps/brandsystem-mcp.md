@@ -8,13 +8,13 @@ source_url: https://github.com/Brandcode-Studio/brandsystem-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-27T22:13:13Z"
+forks: 1
+pushed_at: "2026-09-17T07:55:24Z"
 ---
 ## What it is
 Enables extraction of brand identity from websites, Figma, and PDFs, and compiles governance, design tokens, and voice rules into a portable .brand/ directory for consistent brand use across AI tools.

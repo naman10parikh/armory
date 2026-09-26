@@ -8,13 +8,13 @@ source_url: https://github.com/x51xxx/codex-mcp-tool
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-07-29T19:35:10Z"
+forks: 7
+pushed_at: "2026-09-06T14:36:14Z"
 ---
 ## What it is
 MCP server connecting Claude/Cursor to Codex CLI, enabling code analysis via @ file references, multi-turn conversations, sandboxed edits, and structured change mode.

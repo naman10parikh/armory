@@ -8,12 +8,12 @@ source_url: https://github.com/jmeyer1980/neurodivergent-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-28T19:23:56Z"
+pushed_at: "2026-09-25T19:24:13Z"
 ---
 ## What it is
 MCP server `Neurodivergent Memory`, catalogued on PulseMCP. Persistent knowledge graph with BM25 search, emotional valence metadata, and local-only storage.

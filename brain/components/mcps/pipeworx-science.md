@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:38:12Z"
+pushed_at: "2026-09-25T02:13:15Z"
 ---
 ## What it is
 MCP server `Pipeworx Science`, catalogued on PulseMCP. Aggregates free science data APIs for research, astronomy, physics, and biological datasets.

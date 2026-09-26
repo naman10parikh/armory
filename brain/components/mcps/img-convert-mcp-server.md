@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-01T17:07:52Z"
+pushed_at: "2026-09-24T01:03:09Z"
 ---
 ## What it is
 Provides AI agents with tools to convert images between formats and inspect image metadata, enabling seamless image processing within agent workflows.

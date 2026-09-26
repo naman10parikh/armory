@@ -8,12 +8,12 @@ source_url: https://github.com/ninjackster/reddit-rss-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-05-31T02:29:33Z"
 ---
 ## What it is

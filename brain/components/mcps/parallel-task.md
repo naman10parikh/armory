@@ -8,12 +8,12 @@ source_url: https://github.com/parallel-web/task-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2025-10-10T13:45:34Z"
+pushed_at: "2026-09-11T21:39:47Z"
 ---
 ## What it is
 MCP server `Parallel Task`, catalogued on PulseMCP. Highly accurate deep search and batch tasks

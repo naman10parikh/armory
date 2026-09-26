@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-04T18:56:27Z"
+pushed_at: "2026-09-06T18:55:04Z"
 ---
 ## What it is
 MCP server `Arkheia`, catalogued on PulseMCP. Hallucination and fabrication detection for LLM outputs across 30+ models.

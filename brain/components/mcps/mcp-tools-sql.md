@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T13:33:07Z"
+pushed_at: "2026-09-06T20:21:22Z"
 ---
 ## What it is
 Provides safe, configurable SQL database access via MCP tools, enabling schema introspection, predefined queries, and structured updates with multi-backend support.

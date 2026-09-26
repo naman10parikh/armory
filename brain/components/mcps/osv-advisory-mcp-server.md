@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/osv-advisory-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T02:55:10Z"
+pushed_at: "2026-09-24T17:53:53Z"
 ---
 ## What it is
 Query OSV.dev for package vulnerabilities, batch-audit dependency lists, and fetch full advisory records via MCP.

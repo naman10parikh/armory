@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-20T15:14:55Z"
+pushed_at: "2026-09-10T19:13:15Z"
 ---
 ## What it is
 Enables conversational drug and supplement lookup, detailed profiles, and interaction checking via the MedData API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T03:39:14Z"
+pushed_at: "2026-09-16T18:20:28Z"
 ---
 ## What it is
 MCP servers for your Mac's real data — Mail, Calendar, files — with safety rails you can audit. Local-first, no accounts, no cloud, with dry-run defaults and human approval gates.

@@ -8,11 +8,11 @@ source_url: https://github.com/thechandanbhagat/cv-forge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2025-12-19T07:45:54Z"
 ---
 ## What it is

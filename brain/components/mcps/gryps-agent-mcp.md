@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:10:59Z"
+pushed_at: "2026-09-18T07:55:58Z"
 ---
 ## What it is
 Read-only MCP server for Gryps venue state, enabling Claude to query live markets, fee schedules, funding parameters, and open interest.

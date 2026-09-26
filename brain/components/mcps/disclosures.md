@@ -8,13 +8,13 @@ source_url: https://github.com/carrotly-ai/disclosures
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:10:07Z"
+pushed_at: "2026-09-22T03:15:08Z"
 ---
 ## What it is
 Enables corporate disclosure research through official SEC EDGAR and GLEIF sources, providing tools for company resolution, filings, insiders, ownership, financials, and private raises via natural language.

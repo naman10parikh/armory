@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/courtlistener-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T05:41:18Z"
+pushed_at: "2026-09-20T14:45:33Z"
 ---
 ## What it is
 Search and retrieve US court opinions, federal dockets, judge records, citation networks, and oral arguments from CourtListener's 9M+ opinion corpus via MCP.

@@ -8,13 +8,13 @@ source_url: https://github.com/regen-network/regen-compute
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-08-31T20:28:36Z"
+forks: 7
+pushed_at: "2026-09-03T17:59:21Z"
 ---
 ## What it is
 Enables AI coding assistants to estimate session energy footprint and retire verified ecocredits on Regen Network, providing on-chain proof of regenerative contribution.

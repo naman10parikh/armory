@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-18T18:55:19Z"
+pushed_at: "2026-09-09T03:57:53Z"
 ---
 ## What it is
 An experimental guarded MCP bridge for Codex/open-ultrawork workflows, enabling submission of bounded research jobs to ChatGPT Pro asynchronously with source verification and safety guards.

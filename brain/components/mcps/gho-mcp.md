@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-11T07:23:20Z"
+pushed_at: "2026-09-15T04:52:12Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants direct access to the World Health Organization's Global Health Observatory (GHO) for comparative health systems research.

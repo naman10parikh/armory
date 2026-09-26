@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T01:02:28Z"
+pushed_at: "2026-09-23T06:11:12Z"
 ---
 ## What it is
 Review & approve AI agent task plans in a ComfyUI-style node editor, right in your terminal (MCP server + TUI)

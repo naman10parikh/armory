@@ -8,11 +8,11 @@ source_url: https://github.com/digitalfactorysn/mcp-dolibarr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 12
 pushed_at: "2026-08-06T06:19:08Z"
 ---
 ## What it is

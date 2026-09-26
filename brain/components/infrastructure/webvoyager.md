@@ -8,12 +8,12 @@ source_url: https://github.com/MinorJerry/WebVoyager
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1123
+stars: 1127
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, research]
-forks: 122
+forks: 124
 pushed_at: "2024-03-04T03:36:39Z"
 mentions: 1
 ---

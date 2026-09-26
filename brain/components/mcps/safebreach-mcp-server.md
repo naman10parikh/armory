@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T15:12:45Z"
+pushed_at: "2026-09-24T15:20:28Z"
 ---
 ## What it is
 Bridges AI agents with SafeBreach's Breach and Attack Simulation platform, enabling natural language queries and seamless integration through a multi-server architecture with specialized domains.

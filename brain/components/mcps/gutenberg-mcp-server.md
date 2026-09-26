@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/gutenberg-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T00:15:12Z"
+pushed_at: "2026-09-20T14:22:50Z"
 ---
 ## What it is
 Search, browse, and read 75,000+ public-domain books from Project Gutenberg with full plain-text retrieval and offset/limit chunking via MCP.

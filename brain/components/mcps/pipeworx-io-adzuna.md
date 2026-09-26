@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:34:39Z"
+pushed_at: "2026-09-25T21:17:45Z"
 ---
 ## What it is
 MCP server `Adzuna`, catalogued on PulseMCP. Search global job listings from Adzuna's aggregated job board spanning dozens of countries and categories.

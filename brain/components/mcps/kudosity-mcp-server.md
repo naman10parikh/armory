@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T05:26:21Z"
+pushed_at: "2026-09-23T23:56:27Z"
 ---
 ## What it is
 An MCP server that enables AI agents to send SMS, MMS, and WhatsApp messages, manage contacts, lists, and webhooks, and explore the Kudosity API through natural language.

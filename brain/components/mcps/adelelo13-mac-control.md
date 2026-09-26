@@ -12,8 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-07-06T15:56:30Z"
+forks: 3
+pushed_at: "2026-09-15T19:15:43Z"
 ---
 ## What it is
 MCP server `Mac Control`, catalogued on PulseMCP. Native Swift MCP server for macOS automation — screenshots, mouse/keyboard control, UI automation, Safari/Chrome, and window management across 63 tools.

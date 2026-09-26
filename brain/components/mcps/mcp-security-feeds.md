@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:39:02Z"
+pushed_at: "2026-09-25T02:17:29Z"
 ---
 ## What it is
 Enables listing, reading, and fetching curated cybersecurity feeds (RSS/Atom/RDF) with optional filtering, part of Pipeworx gateway.

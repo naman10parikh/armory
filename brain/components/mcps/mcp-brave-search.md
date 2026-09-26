@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:45:14Z"
+pushed_at: "2026-09-25T22:15:27Z"
 ---
 ## What it is
 Enables AI agents to perform web searches using the Brave Search engine, providing an independent alternative to Google/Bing.

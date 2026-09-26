@@ -8,11 +8,11 @@ source_url: https://github.com/awwaiid/mcp-server-taskwarrior
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 10
 pushed_at: "2026-03-27T01:23:21Z"
 ---
 ## What it is

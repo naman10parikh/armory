@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:09:07Z"
+pushed_at: "2026-09-21T02:10:50Z"
 ---
 ## What it is
 MCP server for Pay – the complete x402 payment stack for AI agents, enabling direct USDC payments on Base, metered tabs, service discovery, and wallet management within any MCP-compatible client.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T12:48:46Z"
+pushed_at: "2026-09-14T05:04:03Z"
 ---
 ## What it is
 A plugin-based MCP platform providing tools for project file management, Git operations, browser automation, and command execution.

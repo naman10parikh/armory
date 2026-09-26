@@ -8,11 +8,11 @@ source_url: https://github.com/ab498/computer-control-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 162
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 36
 pushed_at: "2026-07-25T15:56:50Z"
 ---
 ## What it is

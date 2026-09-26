@@ -8,12 +8,12 @@ source_url: https://github.com/cardmagic/messages
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-26T12:05:27Z"
+pushed_at: "2026-09-23T12:05:10Z"
 ---
 ## What it is
 MCP server `macOS Messages`, catalogued on PulseMCP. Fuzzy search and browse Apple Messages/iMessage conversations on macOS.

@@ -12,8 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-08-31T09:47:48Z"
+forks: 9
+pushed_at: "2026-09-26T08:36:04Z"
 ---
 ## What it is
 MCP server `Telegram API`, catalogued on PulseMCP. MCP server wrapping Telegram Bot API v9.6 for sending messages, managing chats, and bot interactions.

@@ -8,12 +8,12 @@ source_url: https://github.com/lovablelabs/mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-07-13T06:26:00Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/gsl0001/Cortex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T04:00:09Z"
+pushed_at: "2026-09-04T03:29:13Z"
 ---
 ## What it is
 Provides persistent memory and task management for coding agents via MCP tools, enabling mid-session recall and capture of durable knowledge.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-31T11:25:44Z"
+pushed_at: "2026-09-02T19:56:05Z"
 ---
 ## What it is
 MCP server `Gas Oracle`, catalogued on PulseMCP. Get real-time gas prices, gwei tiers, and USD cost estimates for Base and Ethereum.

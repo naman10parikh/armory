@@ -8,11 +8,11 @@ source_url: https://github.com/getfounded/mcp-tool-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 109
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2025-07-25T00:38:24Z"
 ---
 ## What it is

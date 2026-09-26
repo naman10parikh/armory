@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T14:45:04Z"
+pushed_at: "2026-09-19T04:21:34Z"
 ---
 ## What it is
 A local MCP server that indexes a repository into line-range chunks and serves compact evidence packets to cut token usage when exploring or debugging code.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T14:53:23Z"
+pushed_at: "2026-09-24T10:44:29Z"
 ---
 ## What it is
 An MCP server that makes live Earth data usable by AI agents. Its initial data sources cover natural hazards: earthquakes from the USGS FDSN event catalog and volcanic activity from the Smithsonian Global Volcanism Program.

@@ -8,12 +8,12 @@ source_url: https://github.com/outscraper/outscraper-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-28T10:09:47Z"
+pushed_at: "2026-09-16T08:29:41Z"
 ---
 ## What it is
 MCP server `Outscraper`, catalogued on PulseMCP. Official Outscraper MCP server for Google Maps business data, reviews, email validation, and web extraction.

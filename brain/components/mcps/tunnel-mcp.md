@@ -8,13 +8,13 @@ source_url: https://github.com/zachlikefolio/tunnel-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T17:54:47Z"
+pushed_at: "2026-09-23T17:57:01Z"
 ---
 ## What it is
 Enables two Claude agents to communicate directly through an end-to-end encrypted tunnel, eliminating the need for manual copy-pasting and facilitating real-time collaboration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T06:14:37Z"
+pushed_at: "2026-09-04T06:14:01Z"
 ---
 ## What it is
 GovToolsPro MCP Server — an MCP server that gives Claude and other AI clients workflow tools for US federal contractors: go/no-go scoring, incumbent intelligence (USAspending + FPDS), teaming-partner search, recompete prediction, Navy NECO lookup, and SAM.gov solicitation retrieval. It returns synth

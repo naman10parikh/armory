@@ -8,11 +8,11 @@ source_url: https://github.com/firstorderai/authenticator_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-03-31T08:16:54Z"
 ---
 ## What it is

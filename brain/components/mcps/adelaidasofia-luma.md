@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-23T01:59:42Z"
+pushed_at: "2026-09-21T09:27:27Z"
 ---
 ## What it is
 MCP server `Lu.ma Events`, catalogued on PulseMCP. Lu.ma events MCP with draft-and-confirm safety, audit logging, and prompt-injection scrubbing.

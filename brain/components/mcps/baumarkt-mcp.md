@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T11:42:00Z"
+pushed_at: "2026-09-20T17:53:56Z"
 ---
 ## What it is
 MCP server that lets an LLM search and compare prices across four German hardware-store retailers (Hornbach, BAUHAUS, Globus, OBI), with store pickup availability for local branches.

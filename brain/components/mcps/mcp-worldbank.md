@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:50:13Z"
+pushed_at: "2026-09-25T03:18:29Z"
 ---
 ## What it is
 Enables AI agents to access and query World Bank data (free, no auth) through natural language or direct tools, wrapping the World Bank Data API v2.

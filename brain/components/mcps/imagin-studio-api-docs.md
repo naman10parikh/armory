@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-23T13:16:40Z"
+pushed_at: "2026-09-09T10:23:17Z"
 ---
 ## What it is
 MCP server `IMAGIN.studio API Docs`, catalogued on PulseMCP. Semantic search over IMAGIN.studio API documentation including CDN configuration, integration guides, and data point references.

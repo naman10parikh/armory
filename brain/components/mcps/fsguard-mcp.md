@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T21:36:27Z"
+pushed_at: "2026-09-06T17:49:00Z"
 ---
 ## What it is
 Enables safe filesystem and git operations confined within a single allowed directory tree, using symlink-resolved path containment to protect against path traversal. Users can read, write, list, and search files, as well as initialize repos and run status, stage, commit, diff, and log operations th

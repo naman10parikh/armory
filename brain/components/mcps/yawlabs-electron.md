@@ -8,12 +8,12 @@ source_url: https://github.com/yawlabs/electron-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-23T20:44:14Z"
+pushed_at: "2026-09-24T10:05:22Z"
 ---
 ## What it is
 MCP server `Electron.js`, catalogued on PulseMCP. Development intelligence for Electron.js apps covering IPC scaffolding, security auditing, build tooling, and version migration guidance.

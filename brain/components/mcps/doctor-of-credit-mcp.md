@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T16:53:09Z"
+pushed_at: "2026-09-03T18:00:40Z"
 ---
 ## What it is
 An MCP server that lets AI clients search and retrieve Doctor of Credit articles, categories, and deals via flexible tools, interpreting article content at request time.

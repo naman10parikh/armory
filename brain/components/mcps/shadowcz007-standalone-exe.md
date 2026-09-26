@@ -8,11 +8,11 @@ source_url: https://github.com/shadowcz007/mcp_server_exe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 29
 pushed_at: "2025-08-21T04:39:41Z"
 ---
 ## What it is

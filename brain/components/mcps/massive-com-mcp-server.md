@@ -8,12 +8,12 @@ source_url: https://github.com/massive-com/mcp_massive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 387
+stars: 391
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 107
+forks: 112
 pushed_at: "2026-06-11T16:25:26Z"
 ---
 ## What it is

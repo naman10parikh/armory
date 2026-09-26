@@ -12,8 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-08-16T21:27:22Z"
+forks: 2
+pushed_at: "2026-09-13T15:31:07Z"
 ---
 ## What it is
 MCP server `Smart Terminal`, catalogued on PulseMCP. PTY-based interactive terminal with persistent shell sessions and strong Windows support.

@@ -8,12 +8,12 @@ source_url: https://github.com/clanker-lover/spicebridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 8
 pushed_at: "2026-04-06T23:32:53Z"
 ---
 ## What it is

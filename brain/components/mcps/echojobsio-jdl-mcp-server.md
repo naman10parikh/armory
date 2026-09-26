@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 2
 forks: 0
-pushed_at: "2026-08-23T23:27:16Z"
+pushed_at: "2026-09-24T22:44:03Z"
 ---
 ## What it is
 Search 1M+ enriched job listings from 20,000+ companies. Filter by skills, salary, location, seniority, remote type, and more. Free — 500 calls/day, no signup required. Also available as a remote MCP server at `https://mcp.jobdatalake.com`.

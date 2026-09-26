@@ -8,13 +8,13 @@ source_url: https://github.com/MT-gar/Nexus--Multi-Agent-Coordination-System
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T18:11:48Z"
+pushed_at: "2026-09-19T13:09:54Z"
 ---
 ## What it is
 Enables multiple Claude Code sessions to communicate, share state, and coordinate tasks through session management, message passing, and task scheduling, supporting a three-role collaboration workflow.

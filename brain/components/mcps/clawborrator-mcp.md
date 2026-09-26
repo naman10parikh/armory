@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T23:21:07Z"
+pushed_at: "2026-09-03T16:38:15Z"
 ---
 ## What it is
 Connects Claude Code instances to a clawborrator hub via WebSocket, enabling cross-session communication, file exchange, and agent dispatch.

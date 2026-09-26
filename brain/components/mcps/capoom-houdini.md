@@ -8,7 +8,7 @@ source_url: https://github.com/capoom/houdini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,13 +8,13 @@ source_url: https://github.com/JoaquinMulet/mcp-cmf-chile
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T02:49:25Z"
+pushed_at: "2026-09-18T12:14:54Z"
 ---
 ## What it is
 MCP server that provides access to all public data from Chile's Financial Market Commission (CMF), including companies, financial statements, mutual funds, economic indicators, and more, allowing AI agents to connect to official financial regulator information without cost or API keys.

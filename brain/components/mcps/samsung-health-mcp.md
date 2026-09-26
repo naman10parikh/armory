@@ -8,13 +8,13 @@ source_url: https://github.com/davidmosiah/samsung-health-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-29T10:31:07Z"
+forks: 3
+pushed_at: "2026-09-03T19:49:58Z"
 ---
 ## What it is
 Read your Samsung Health CSV/ZIP exports — activity, sleep, heart, stress — locally. It is a local-first MCP server that keeps your tokens on your machine.

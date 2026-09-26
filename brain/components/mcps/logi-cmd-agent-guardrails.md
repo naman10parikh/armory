@@ -8,11 +8,11 @@ source_url: https://github.com/logi-cmd/agent-guardrails
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-16T15:15:33Z"
 ---
 ## What it is

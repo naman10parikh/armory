@@ -8,12 +8,12 @@ source_url: https://github.com/Houseofmvps/codesight
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1393
+stars: 1408
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 124
+forks: 123
 pushed_at: "2026-07-27T13:30:50Z"
 ---
 ## What it is

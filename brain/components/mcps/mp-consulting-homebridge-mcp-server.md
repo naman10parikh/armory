@@ -8,13 +8,13 @@ source_url: https://github.com/mp-consulting/homebridge-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-09T11:52:49Z"
+pushed_at: "2026-09-10T10:04:35Z"
 ---
 ## What it is
 MCP server for Homebridge that enables AI assistants to control smart home accessories, manage plugins, edit configuration, and monitor the Homebridge server.

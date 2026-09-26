@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:37:54Z"
+pushed_at: "2026-09-10T01:56:46Z"
 ---
 ## What it is
 An MCP server that measures how effectively hashing tool definitions detects unauthorized changes, evaluating 20 policies across field sets and canonicalization methods. It demonstrates that approval-dialog-based pins miss most attacks, with structural/semantic normalization being free but text fold

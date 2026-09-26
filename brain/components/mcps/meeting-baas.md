@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2025-06-30T09:49:13Z"
+pushed_at: "2026-09-24T18:39:27Z"
 ---
 ## What it is
 MCP server `Meeting BaaS`, catalogued on PulseMCP. Automates meeting management across Zoom, Google Meet, and Microsoft Teams with tools for recording, transcribing, searching, and sharing meeting content without manual note-taking.

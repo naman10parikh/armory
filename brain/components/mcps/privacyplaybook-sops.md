@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-24T12:53:10Z"
+pushed_at: "2026-09-21T14:19:07Z"
 ---
 ## What it is
 MCP server `SOPS Secrets`, catalogued on PulseMCP. Create and manage SOPS-encrypted secret files using age encryption from Claude.

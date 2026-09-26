@@ -8,13 +8,13 @@ source_url: https://github.com/Wafleem/stm32cubemx_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:06:59Z"
+pushed_at: "2026-09-21T23:02:30Z"
 ---
 ## What it is
 An MCP server that enables AI agents to inspect, plan, validate, and apply STM32CubeMX .ioc configuration changes, and generate STM32CubeIDE projects, ensuring safe and testable embedded-system workflows.

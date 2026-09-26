@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T02:29:52Z"
+pushed_at: "2026-09-21T00:28:20Z"
 ---
 ## What it is
 MCP server `Deadends.dev`, catalogued on PulseMCP. Structured failure knowledge for AI agents.

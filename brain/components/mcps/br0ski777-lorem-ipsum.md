@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:38Z"
+pushed_at: "2026-09-02T19:56:41Z"
 ---
 ## What it is
 MCP server `Lorem Ipsum`, catalogued on PulseMCP. Generate placeholder text as paragraphs, sentences, or words.

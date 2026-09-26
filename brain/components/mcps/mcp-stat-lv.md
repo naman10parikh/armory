@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:43:32Z"
+pushed_at: "2026-09-25T02:32:02Z"
 ---
 ## What it is
 MCP server that enables querying Latvian official statistics from data.stat.gov.lv via PxWeb tables, allowing retrieval of table definitions and data through natural language or direct tool calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T02:10:03Z"
+pushed_at: "2026-09-10T07:23:02Z"
 ---
 ## What it is
 An MCP server that acts as a governed customer-support tool, resolving questions only when the knowledge base supports a cited, grounded answer and honestly escalating everything else with provenance and evidence.

@@ -8,11 +8,11 @@ source_url: https://github.com/zemloai-ctrl/elecz-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-07T16:39:29Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-23T20:44:27Z"
+pushed_at: "2026-09-24T11:53:05Z"
 ---
 ## What it is
 MCP server for the LemonSqueezy API. Enables managing stores, products, customers, subscriptions, discounts, and license keys from any MCP-compatible AI assistant.

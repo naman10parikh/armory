@@ -8,13 +8,13 @@ source_url: https://github.com/Hellek1/ib-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-06T19:06:03Z"
+forks: 6
+pushed_at: "2026-09-18T20:55:33Z"
 ---
 ## What it is
 Enables read-only access to Interactive Brokers data including contracts, market data, news, fundamentals, and portfolio/account information for LLM workflows and autonomous agents.

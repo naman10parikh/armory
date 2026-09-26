@@ -8,12 +8,12 @@ source_url: https://github.com/spronta/crawlie
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 102
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 15
 pushed_at: "2026-07-18T20:02:49Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/spenserhale/atlassian-ai-toolkit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T21:45:52Z"
+pushed_at: "2026-09-23T01:26:58Z"
 ---
 ## What it is
 MCP server for AI assistants to interact with Atlassian Jira and Confluence Cloud APIs through typed tools and secure authentication.

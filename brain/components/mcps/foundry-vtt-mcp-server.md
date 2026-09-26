@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T01:05:22Z"
+pushed_at: "2026-09-05T10:18:16Z"
 ---
 ## What it is
 Enables AI agents to interact with Foundry Virtual Tabletop, supporting reading world data, managing combat, rolling dice, and updating actor attributes via a sidecar architecture.

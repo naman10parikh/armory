@@ -8,12 +8,12 @@ source_url: https://github.com/ganyu123456/mcp-taobao-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 6
 pushed_at: "2026-07-13T12:07:17Z"
 ---
 ## What it is

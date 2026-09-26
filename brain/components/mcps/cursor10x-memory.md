@@ -8,11 +8,11 @@ source_url: https://github.com/aiurda/cursor10x-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2025-05-07T18:28:12Z"
 ---
 ## What it is

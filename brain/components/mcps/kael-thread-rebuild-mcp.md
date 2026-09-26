@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T14:48:44Z"
+pushed_at: "2026-09-21T12:23:55Z"
 ---
 ## What it is
 MCP server for safely continuing long Claude Code sessions by cleaning transcripts, removing runtime noise, and generating verified resumable sessions with rollback support.

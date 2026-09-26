@@ -8,13 +8,13 @@ source_url: https://github.com/wimi321/macos-computer-use-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: null
-forks: 9
+forks: 10
 pushed_at: "2026-04-19T23:32:54Z"
 ---
 ## What it is

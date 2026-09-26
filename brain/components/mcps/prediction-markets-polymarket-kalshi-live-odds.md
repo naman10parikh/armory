@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:54Z"
+pushed_at: "2026-09-02T19:57:05Z"
 ---
 ## What it is
 Prediction market data API for AI agents. Real-time odds, probabilities, and volume from Polymarket and Kalshi. Browse active markets, trending events, and categories (politics, crypto, sports, tech). The betting intelligence layer for event forecasting. Tools: prediction_list_markets, prediction_ge

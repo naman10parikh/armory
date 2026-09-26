@@ -8,12 +8,12 @@ source_url: https://github.com/hive-intel/hive-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-08-30T19:03:49Z"
+forks: 7
+pushed_at: "2026-09-24T15:00:58Z"
 ---
 ## What it is
 MCP server `Hive Crypto`, catalogued on PulseMCP. Unified access to crypto, DeFi, and Web3 analytics

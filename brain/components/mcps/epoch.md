@@ -8,13 +8,13 @@ source_url: https://github.com/KyaniteLabs/Epoch
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-02T03:06:48Z"
+pushed_at: "2026-09-26T02:00:13Z"
 ---
 ## What it is
 Time estimation MCP server for AI agents. It provides PERT, COCOMO II, Monte Carlo simulation, sprint forecasting, token-to-time and cost mapping, and schedule-risk tools.

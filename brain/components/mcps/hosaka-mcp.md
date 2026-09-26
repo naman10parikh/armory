@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:19:27Z"
+pushed_at: "2026-09-05T12:36:41Z"
 ---
 ## What it is
 Company data for AI agents, paid per call in USDC on Base. Returns every third-party vendor a company can be proven to use — CRM, email, analytics, cloud, HR, payments — each with the DNS record or script that proves it. No signup, no API key.

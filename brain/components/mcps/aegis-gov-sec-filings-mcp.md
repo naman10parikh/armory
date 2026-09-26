@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:26:00Z"
+pushed_at: "2026-09-07T23:27:30Z"
 ---
 ## What it is
 Query SEC EDGAR for company filings, financial data, and executive disclosures. Search by company name or ticker, retrieve 10-K/10-Q/8-K filings, and extract structured financials — backed by the official SEC EDGAR API, built for AI agents.

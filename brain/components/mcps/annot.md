@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-16T16:16:57Z"
+pushed_at: "2026-09-10T20:13:40Z"
 ---
 ## What it is
 MCP server `Annot`, catalogued on PulseMCP. Retrieves and manages visual website feedback from Annot for applying design changes through AI assistants.

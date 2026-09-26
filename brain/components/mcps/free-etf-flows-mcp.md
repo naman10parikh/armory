@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T15:38:32Z"
+pushed_at: "2026-09-13T09:36:40Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server providing real-time institutional Spot Bitcoin (BTC) and Ethereum (ETH) daily net flow metrics for AI agents.

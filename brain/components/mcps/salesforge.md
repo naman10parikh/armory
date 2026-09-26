@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-20T14:20:01Z"
+pushed_at: "2026-09-25T14:20:43Z"
 ---
 ## What it is
 MCP server `Salesforge`, catalogued on PulseMCP. Manages Salesforge, Primeforge, Leadsforge, Infraforge, Warmforge, and Mailforge accounts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T03:42:34Z"
+pushed_at: "2026-09-21T21:29:23Z"
 ---
 ## What it is
 Privacy-first OSINT scanning MCP server that aggregates ~25 sources into a risk report, running locally with no data leaving your machine.

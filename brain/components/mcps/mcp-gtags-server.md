@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T03:04:23Z"
+pushed_at: "2026-09-19T11:38:31Z"
 ---
 ## What it is
 Provides fast, indexed code navigation (definitions, references, callers, etc.) for AI coding agents by leveraging GNU Global (gtags), dramatically reducing context noise compared to grep.

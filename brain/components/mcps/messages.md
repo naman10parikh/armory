@@ -8,13 +8,13 @@ source_url: https://github.com/cardmagic/messages
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-26T12:05:27Z"
+pushed_at: "2026-09-23T12:05:10Z"
 ---
 ## What it is
 Enables fuzzy search and browsing of Apple Messages (iMessage/SMS) with contact resolution, filtering by sender or date, and context display through CLI, MCP, or Claude Code plugin.

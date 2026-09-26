@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-23T03:14:17Z"
+forks: 1
+pushed_at: "2026-09-24T07:25:38Z"
 ---
 ## What it is
 An MCP server that lets AI models run code in 31 languages, evaluate symbolic math and logic problems, and measure complexity—exposed as 48 tools for execution, session management, translation, optimization, and more.

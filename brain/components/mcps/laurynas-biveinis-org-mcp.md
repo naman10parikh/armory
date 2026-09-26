@@ -8,11 +8,11 @@ source_url: https://github.com/laurynas-biveinis/org-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 11
 pushed_at: "2026-08-25T08:19:11Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:34:28Z"
+pushed_at: "2026-09-25T22:02:09Z"
 ---
 ## What it is
 Provides software supply-chain intelligence for AI agents, enabling them to query package metadata, versions, downloads, dependencies, and health signals for npm, PyPI, and crates.io packages without API keys.

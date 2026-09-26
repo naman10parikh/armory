@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T02:42:06Z"
+pushed_at: "2026-09-25T13:19:19Z"
 ---
 ## What it is
 Enables secure acquisition of itch.io game assets via official RSS feeds and authenticated Butler daemon downloads, and preview-gated publishing of game builds with hash-bound receipts and license verification.

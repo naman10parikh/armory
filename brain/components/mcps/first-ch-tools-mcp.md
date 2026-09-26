@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:13:10Z"
+pushed_at: "2026-09-20T18:37:08Z"
 ---
 ## What it is
 MCP server exposing First CH Tools' free web-tool logic for WCAG contrast, JP character counting, WebP conversion, JSON-LD, and llms.txt generation to AI agents.

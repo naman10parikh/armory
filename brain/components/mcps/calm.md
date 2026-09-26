@@ -8,13 +8,13 @@ source_url: https://github.com/Eilodon/CALM
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T10:05:10Z"
+pushed_at: "2026-09-10T00:14:11Z"
 ---
 ## What it is
 Provides live, graph-verified code intelligence for AI agents, including call graphs, dependency awareness, and safety gates on edits to prevent breaking changes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T00:28:42Z"
+pushed_at: "2026-09-25T04:01:03Z"
 ---
 ## What it is
 Consulta normativa y jurisprudencia colombiana desde Claude, conectando con el Gestor Normativo y la Relatoría de la Corte Constitucional.

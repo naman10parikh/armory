@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:22Z"
+pushed_at: "2026-09-25T00:00:33Z"
 ---
 ## What it is
 Enables access to full text of US government publications from GovInfo.gov. Integrates with Pipeworx gateway for natural language queries.

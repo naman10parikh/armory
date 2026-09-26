@@ -8,11 +8,11 @@ source_url: https://github.com/joungminsung/opendocuments
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 21
 pushed_at: "2026-07-26T17:30:21Z"
 ---
 ## What it is

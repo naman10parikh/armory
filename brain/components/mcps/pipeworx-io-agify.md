@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:19Z"
+pushed_at: "2026-09-25T21:18:06Z"
 ---
 ## What it is
 MCP server `Agify`, catalogued on PulseMCP. Age prediction from first names via the agify.io API, free with no authentication required.

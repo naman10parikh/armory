@@ -8,13 +8,13 @@ source_url: https://github.com/AxelHu/chatgpt-web-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T15:46:51Z"
+pushed_at: "2026-09-24T02:40:00Z"
 ---
 ## What it is
 Enables ChatGPT web to use local tools like file reading, command execution, and patch application through an MCP server over OpenAI Secure MCP Tunnel.

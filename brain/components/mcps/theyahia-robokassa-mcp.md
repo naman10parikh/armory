@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T13:02:42Z"
+pushed_at: "2026-09-06T08:41:27Z"
 ---
 ## What it is
 MCP server for Robokassa payment API. 2 tools for invoice creation (with MD5 signature) and status checking.

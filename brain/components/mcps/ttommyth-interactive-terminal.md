@@ -8,11 +8,11 @@ source_url: https://github.com/ttommyth/interactive-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 351
+stars: 352
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 31
 pushed_at: "2025-11-20T17:25:27Z"
 ---
 ## What it is

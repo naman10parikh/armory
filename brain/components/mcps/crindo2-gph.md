@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-08T00:49:41Z"
+pushed_at: "2026-09-26T02:46:28Z"
 ---
 ## What it is
 MCP server `GPH Healthcare Vendors`, catalogued on PulseMCP. Finds and matches healthcare service vendors for medical practices from a database of 100,000+ verified providers.

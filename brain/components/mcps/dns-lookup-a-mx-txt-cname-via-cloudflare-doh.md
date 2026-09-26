@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:03Z"
+pushed_at: "2026-09-02T19:55:43Z"
 ---
 ## What it is
 DNS record lookup API for AI agents. Query A, AAAA, MX, TXT, CNAME, NS, SOA, and SRV records via Cloudflare DNS-over-HTTPS. Fast, reliable, privacy-preserving lookups. Tools: network_lookup_dns. Use this for domain verification, email setup debugging, infrastructure analysis, or monitoring DNS chang

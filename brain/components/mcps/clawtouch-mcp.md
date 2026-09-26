@@ -8,13 +8,13 @@ source_url: https://github.com/tinqiao-oss/clawtouch-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-28T12:14:25Z"
+forks: 1
+pushed_at: "2026-09-15T00:43:12Z"
 ---
 ## What it is
 Turns a real USB HID device — a Raspberry Pi Pico 2 running open-source firmware — into MCP tools (move, click, drag, type, key combos, scroll) for any MCP client. Includes a --mock mode to try every tool with no hardware.

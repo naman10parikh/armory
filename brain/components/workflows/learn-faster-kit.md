@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 371
-forks: 39
+stars: 380
+forks: 41
 pushed_at: "2026-08-04T12:16:29Z"
 ---
 ## What it is

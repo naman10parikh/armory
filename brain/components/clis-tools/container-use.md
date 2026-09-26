@@ -12,10 +12,10 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 4027
+stars: 4046
 eval_score: 1
-forks: 202
-pushed_at: "2026-08-17T14:04:50Z"
+forks: 206
+pushed_at: "2026-09-21T14:05:02Z"
 ---
 ## What it is
 A community CLI tool by dagger, catalogued in awesome-claude-code. Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.

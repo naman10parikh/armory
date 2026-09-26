@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-31T14:15:11Z"
+pushed_at: "2026-09-14T14:25:47Z"
 ---
 ## What it is
 MCP server `Check Point Avanan`, catalogued on PulseMCP. Provides AI access to Check Point Avanan Harmony Email for security event management and multi-tenant MSP operations.

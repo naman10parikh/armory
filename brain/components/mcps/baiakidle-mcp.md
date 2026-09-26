@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T02:34:42Z"
+pushed_at: "2026-09-13T12:56:29Z"
 ---
 ## What it is
 Enables monitoring and interaction with the BaiakIdle game page from MCP-compatible clients, allowing DOM inspection, event capture, and packet sending through a local bridge.
