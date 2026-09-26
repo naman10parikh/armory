@@ -2,7 +2,7 @@
   Signals, in words — CP143 ("words, not glyphs: every signal has a word label").
 
   The row prints what it holds as a short list a person reads aloud: "120,808 stars · 18,510 forks ·
-  249 mentions · passed test". A signal the row does not hold is left out rather than drawn as a dim
+  249 mentions · passed install test". A signal the row does not hold is left out rather than drawn as a dim
   glyph and a dash, and a row that holds none says so. The old glyph slots (✓ ♦ ★ ⎇ ↑) needed a legend
   nobody had; a word is its own legend, for people and for agents parsing the page.
 
@@ -31,11 +31,14 @@ const UNIT: Record<Exclude<SignalKey, "tested">, [string, string]> = {
   mentions: ["mention", "mentions"],
 };
 
-/** Words for the tested signal: a pass, a fail, or a graded share. */
+/**
+ * Words for the tested signal: a pass, a fail, or a graded share. The test is Armory installing and
+ * running the component (/formula §01), not the repository's own CI, so the words say "install test".
+ */
 function testedWords(value: number): string {
-  if (value >= 1) return "passed test";
-  if (value <= 0) return "failed test";
-  return `${Math.round(value * 100)}% of tests passed`;
+  if (value >= 1) return "passed install test";
+  if (value <= 0) return "failed install test";
+  return `${Math.round(value * 100)}% of install tests passed`;
 }
 
 /** How many independent signals a row holds, in words ("3 signals"). */
@@ -44,12 +47,14 @@ export function signalCountWords(n: number): string {
   return n === 1 ? "1 signal" : `${n} signals`;
 }
 
+/** One signal's value in words: "120,808 stars", "1 fork", "passed install test". */
+export function signalWords(key: SignalKey, value: number): string {
+  return key === "tested" ? testedWords(value) : `${INT.format(value)} ${UNIT[key][value === 1 ? 0 : 1]}`;
+}
+
 /** The same words as plain strings, for surfaces that cannot hold markup (the preview cards). */
 export function signalPhrases(signals: SignalValues): string[] {
-  return SIGNAL_ORDER.filter((k) => signals[k] != null).map((key) => {
-    const value = signals[key] as number;
-    return key === "tested" ? testedWords(value) : `${INT.format(value)} ${UNIT[key][value === 1 ? 0 : 1]}`;
-  });
+  return SIGNAL_ORDER.filter((k) => signals[k] != null).map((key) => signalWords(key, signals[key] as number));
 }
 
 export function SignalsRow({

@@ -7,7 +7,6 @@ const SERIF = "var(--font-display), Georgia, serif";
 const FIGURES = "var(--font-ui), ui-sans-serif, system-ui, sans-serif";
 
 export interface SignalCard {
-  glyph: string;
   key: string;
   what: string;
   who: string;
@@ -97,10 +96,9 @@ export function Signals({ cards }: { cards: SignalCard[] }) {
           }}
         >
           <div style={{ display: "flex", alignItems: "baseline", gap: 8 }}>
-            <span style={{ color: "var(--accent)", fontSize: 16 }}>{c.glyph}</span>
             <span style={{ color: "var(--text-hi)", fontWeight: 600, fontSize: 15 }}>{c.key}</span>
             <span style={{ marginLeft: "auto", fontFamily: FIGURES, fontSize: 11.5, color: "var(--text-muted)" }}>
-              tie weight {c.weight}
+              Tie Weight ×{c.weight}
             </span>
           </div>
           <div style={{ color: "var(--text-body)", fontSize: 13.5, marginTop: 6 }}>{c.what}</div>
@@ -118,7 +116,7 @@ export function Signals({ cards }: { cards: SignalCard[] }) {
             </div>
             <div style={{ display: "flex", justifyContent: "space-between", marginTop: 6 }}>
               <span style={{ fontFamily: FIGURES, fontSize: 12, color: "var(--text-body)" }}>
-                {c.rows.toLocaleString()} of the catalog
+                {c.rows.toLocaleString()} Components
               </span>
               <span style={{ fontFamily: FIGURES, fontSize: 12, color: "var(--text-muted)" }}>
                 {c.pctOfCatalog.toFixed(1)}%
@@ -154,7 +152,7 @@ export function Ladder({ rungs, unit }: { rungs: Rung[]; unit: string }) {
           }}
         >
           <span style={{ fontFamily: FIGURES, fontSize: 13, color: "var(--text-body)", textAlign: "right" }}>
-            {r.raw} {unit}
+            {r.raw} {r.raw === "1" ? unit.replace(/s$/, "") : unit}
           </span>
           <span style={{ position: "relative", height: 8 }}>
             <span
@@ -230,7 +228,7 @@ export function HeadToHead({ left, right }: { left: Contender; right: Contender 
       </div>
       <div style={{ color: "var(--text-hi)", fontWeight: 600, fontSize: 15 }}>{c.name}</div>
       <div style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 2 }}>
-        {c.signals} independent signal{c.signals === 1 ? "" : "s"}
+        {c.signals} Signal{c.signals === 1 ? "" : "s"}
       </div>
       <div style={{ marginTop: 16, height: 8, borderRadius: 4, background: "var(--line-subtle)" }}>
         <div
@@ -286,10 +284,10 @@ export function WorkedTable({ rows }: { rows: Worked[] }) {
       <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13.5 }}>
         <thead>
           <tr>
-            <th style={th}>what it is</th>
-            <th style={th}>signals it has</th>
-            <th style={th}>the arithmetic</th>
-            <th style={{ ...th, textAlign: "right" }}>score</th>
+            <th style={th}>Component</th>
+            <th style={th}>Signals</th>
+            <th style={th}>Calculation</th>
+            <th style={{ ...th, textAlign: "right" }}>Score</th>
           </tr>
         </thead>
         <tbody>
@@ -367,7 +365,7 @@ export function Coverage({
             color: "var(--text-muted)",
           }}
         >
-          {(100 - pct).toFixed(1)}% has no signal yet
+          {(100 - pct).toFixed(1)}% Unmeasured
         </div>
       </div>
       <div style={{ display: "grid", gap: 10, marginTop: 16 }}>
