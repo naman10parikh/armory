@@ -1,6 +1,6 @@
 ---
 name: harbor-framework-terminal-bench-2-1
-type: clis-tools
+type: evals
 description: >
   Terminal-Bench 2.1
 source_repo: harbor-framework/terminal-bench-2-1
@@ -13,7 +13,7 @@ eval_score: null
 mentions: 3
 verified_at: 2026-09-26
 related: []
-tags: [sentinel-feed, clis-tools]
+tags: [sentinel-feed, evals]
 forks: 62
 pushed_at: "2026-09-19T20:49:50Z"
 ---

@@ -88,7 +88,7 @@ const SHELF = [
   ["skills", /\b(claude|agent|ai)[- ]skills?\b|\bskill[- ](file|pack|library|collection|set)s?\b|^skills?\b/i],
   ["hooks", /\bhooks?\b(?=.*\b(claude|agent|lifecycle|pre-?tool|post-?tool|commit)\b)|\b(pre|post)-?tool-?use\b/i],
   ["subagents", /\bsub-?agents?\b/i],
-  ["evals", /\b(eval|evals|evaluation|benchmark|leaderboard)\b/i],
+  ["evals", /\b(eval|evals|evaluation|benchmark|bench|leaderboard)\b/i], // "bench": terminal-bench-2-1 (CP143)
   ["observability", /\b(observability|tracing|telemetry|opentelemetry)\b/i],
   ["memory", /\bmem(ory)?\b|-mem\b/i],
 ];
