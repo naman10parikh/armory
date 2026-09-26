@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 348
 forks: 69
-pushed_at: "2026-09-25T16:02:29Z"
+pushed_at: "2026-09-26T15:24:39Z"
 ---
 ## What it is
 A JetBrains IDE plugin that exposes an MCP server, enabling AI coding assistants to leverage the IDE's indexing and refactoring capabilities (rename, safe delete, find references, call hierarchy, type hierarchy, diagnostics and more).

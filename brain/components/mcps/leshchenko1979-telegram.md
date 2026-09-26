@@ -8,7 +8,7 @@ source_url: https://github.com/leshchenko1979/fast-mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

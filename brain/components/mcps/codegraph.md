@@ -8,12 +8,12 @@ source_url: https://github.com/colbymchenry/codegraph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72111
+stars: 72115
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4627
+forks: 4628
 pushed_at: "2026-09-23T21:06:11Z"
 ---
 ## What it is

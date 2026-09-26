@@ -8,13 +8,13 @@ source_url: https://github.com/puppeteer/puppeteer
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 95623
+stars: 95622
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, puppeteer]
 mentions: null
-forks: 9581
+forks: 9582
 pushed_at: "2026-09-25T18:04:28Z"
 ---
 ## What it is

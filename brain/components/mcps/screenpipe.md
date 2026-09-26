@@ -14,8 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: null
-forks: 2213
-pushed_at: "2026-09-26T13:51:14Z"
+forks: 2214
+pushed_at: "2026-09-26T15:29:03Z"
 ---
 ## What it is
 give context of what you do 24/7 to AI

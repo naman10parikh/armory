@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T19:32:57Z"
+pushed_at: "2026-09-26T15:19:26Z"
 ---
 ## What it is
 x402 capability chassis: 170+ AI-callable, pay-per-call data tools (US/global equities, crypto/DeFi, prediction markets, gov/legal, research, infra) settled in USDC on Base mainnet via the Coinbase CDP facilitator. No API keys or accounts — the x402 payment is the auth. Remote MCP at https://the-sta

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 66
-pushed_at: "2026-09-25T23:35:24Z"
+pushed_at: "2026-09-26T15:11:38Z"
 ---
 ## What it is
 Controls a real Linux desktop from any MCP host. Reads accessibility trees, takes screenshots, and drives clicks, scrolls, and keystrokes across GNOME, KDE/KWin, Hyprland, i3, and COSMIC.

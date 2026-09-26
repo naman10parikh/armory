@@ -8,7 +8,7 @@ source_url: https://github.com/chigwell/telegram-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1702
+stars: 1703
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T10:28:09Z"
+pushed_at: "2026-09-26T15:19:18Z"
 ---
 ## What it is
 This MCP server enables AI assistants to access Gangtise investment research platform data, including market data, financial reports, research opinions, and more via the Gangtise OpenAPI.

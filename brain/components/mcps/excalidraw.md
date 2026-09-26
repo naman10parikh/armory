@@ -8,12 +8,12 @@ source_url: https://github.com/excalidraw/excalidraw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5368
+stars: 5370
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 508
+forks: 507
 pushed_at: "2026-03-24T12:27:09Z"
 ---
 ## What it is

@@ -8,7 +8,7 @@ source_url: https://github.com/thedotmack/claude-mem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 94724
+stars: 94725
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
