@@ -31,7 +31,7 @@ function oneLine(text: string, max: number): string {
 // Name — Score · description, then the two copyable strings on their own lines so no mail client
 // wraps a command or a URL mid-token.
 function emailPick(item: AskItem, i: number): string {
-  const head = `${i + 1}. ${item.name} — ${score(item.universal)}`;
+  const head = `${i + 1}. ${item.title || item.name} — ${score(item.universal)}`;
   const lines = [item.desc ? `${head} · ${oneLine(item.desc, 110)}` : head];
   // The command only where `armory install` places something; otherwise say so, and the source follows.
   lines.push(item.installable ? `   ${installCommand(item.name, "claude")}` : "   No one-command install. Set it up from the source:");
@@ -63,7 +63,7 @@ function renderSms(items: AskItem[], q: string): string {
   // a truncated URL is a broken URL, so the cut lands between picks, never inside one.
   const lines = items
     .slice(0, SMS_PICKS)
-    .map((it, i) => `${i + 1}. ${it.name} ${score(it.universal)}${it.url ? ` ${it.url}` : ""}`);
+    .map((it, i) => `${i + 1}. ${it.title || it.name} ${score(it.universal)}${it.url ? ` ${it.url}` : ""}`);
   while (lines.length > 1 && [head, ...lines].join("\n").length > SMS_MAX) lines.pop();
   const out = [head, ...lines].join("\n");
   return out.length <= SMS_MAX ? out : out.slice(0, SMS_MAX);

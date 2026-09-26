@@ -91,8 +91,10 @@ function coerce(v) {
 }
 
 // One catalog row from a note's frontmatter. `title` is the name a person sees, carried only when a note sets
-// it: a row whose slug took a collision suffix (clis-tools/microsoft-playwright-2 reads "microsoft-playwright",
-// and the slug stays its URL). Every other row shows its slug and has no `title` key, so none changes shape.
+// it because the slug alone would not do: a slug that took a collision suffix (clis-tools/microsoft-playwright-2
+// reads "microsoft-playwright") or one that would mislead (mcps/microsoft-playwright, the MCP server, reads
+// "microsoft-playwright-mcp" after its repository). The slug stays its URL. Every other row shows its slug and
+// has no `title` key, so none changes shape.
 export function componentOf(fm, type, file) {
   const component = {};
   for (const [k, def] of Object.entries(FIELDS)) {

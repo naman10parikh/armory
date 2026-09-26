@@ -6,6 +6,7 @@
 // than hardcoded names, so they stay true as the catalog grows.
 import type { Metadata } from "next";
 import { readCatalogText } from "@/lib/catalog-file";
+import { titleOf } from "@/lib/format";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
 import { computeRows, WEIGHTS, BLEND, MIN_POOL } from "../../../lib/rank.mjs";
 import {
@@ -58,6 +59,8 @@ const WHO: Record<string, string> = {
 
 interface Row {
   name: string;
+  /** The catalog's title, when the slug alone would not do; the examples print `title || name`. */
+  title?: string;
   desc: string;
   url: string | null;
   kind: string;
@@ -84,7 +87,13 @@ interface Row {
 
 function load(): Row[] {
   const cat = JSON.parse(readCatalogText());
-  return computeRows(cat.components) as Row[];
+  const rows = computeRows(cat.components) as Row[];
+  // The engine keeps the catalog's order (row i is component i) but not its `title`.
+  (cat.components as { title?: unknown }[]).forEach((c, i) => {
+    const title = titleOf(c);
+    if (title) rows[i].title = title;
+  });
+  return rows;
 }
 
 const n = (v: number) => v.toLocaleString();
@@ -101,14 +110,14 @@ function work(r: Row, tier: string): Worked {
   const { pct, base, second, others } = r.scores;
   const held = SIGNALS.filter((s) => pct[s] != null);
   if (!held.length || !base) {
-    return { name: r.name, desc: clampWords(r.desc, 90), tier, parts: "Unmeasured", math: "No Value", score: "—" };
+    return { name: r.title || r.name, desc: clampWords(r.desc, 90), tier, parts: "Unmeasured", math: "No Value", score: "—" };
   }
   const mark = (s: Signal) => (s === base ? "  ← strongest" : s === second ? "  ← second" : "  (not used: weaker than both)");
   const parts = held.map((s) => `${signalWords(s, r.signals[s] as number)} → p${pct[s]}${mark(s)}`).join("\n");
   // others = the second-strongest percentile; a weaker third signal is not used, so it cannot cost points
   const othersMath = second ? `${B.others} × ${pct[second]}` : `${B.others} × 0 (nothing else to corroborate)`;
   return {
-    name: r.name,
+    name: r.title || r.name,
     desc: clampWords(r.desc, 90),
     tier,
     parts,
@@ -224,7 +233,7 @@ export default function FormulaPage() {
         >
           <HeadToHead
             left={{
-              name: loudest.name,
+              name: loudest.title || loudest.name,
               headline: n(loudest.signals.stars as number),
               headlineLabel: "stars",
               signals: loudest.scores.evidence,
@@ -232,7 +241,7 @@ export default function FormulaPage() {
               verdict: "Unconfirmed",
             }}
             right={{
-              name: best.name,
+              name: best.title || best.name,
               headline: n((best.signals.stars ?? best.signals.usage ?? 0) as number),
               headlineLabel: best.signals.stars != null ? "stars" : "installs",
               signals: best.scores.evidence,

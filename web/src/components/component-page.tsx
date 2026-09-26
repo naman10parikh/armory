@@ -67,13 +67,13 @@ export function PickName({ pick }: { pick: ResolvedPick }) {
   if (pick.href) {
     return (
       <Link href={pick.href} className={className}>
-        {pick.name}
+        {pick.row?.title || pick.name}
       </Link>
     );
   }
   return (
     <a href={pick.url} target="_blank" rel="noreferrer noopener" className={className}>
-      {pick.name}
+      {pick.row?.title || pick.name}
     </a>
   );
 }

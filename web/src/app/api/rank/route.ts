@@ -6,17 +6,24 @@ import { NextResponse } from "next/server";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
 import { computeRows, rankRows } from "../../../../lib/rank.mjs";
 import { isInstallable } from "@/lib/installable";
+import { titleOf } from "@/lib/format";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 interface Row { component: string; domain: string }
 let CACHE: Row[] | null = null;
+/** "type/name" → title, for the rows whose slug alone would not do; `name` stays the slug `armory install` takes. */
+const TITLES = new Map<string, string>();
 
 function rows(): Row[] {
   if (CACHE) return CACHE;
   const cat = JSON.parse(readCatalogText()); // vendored to the site root by prebuild
   CACHE = computeRows(cat.components) as Row[];
+  for (const c of cat.components as { type?: string; name?: string; title?: unknown }[]) {
+    const title = titleOf(c);
+    if (title) TITLES.set(`${c.type}/${c.name}`, title);
+  }
   return CACHE;
 }
 
@@ -31,6 +38,9 @@ export function GET(req: Request): NextResponse {
     limit: Math.min(Number(sp.get("limit")) || 100, 500),
   }) as { items: { name: string; type: string | null; url: string | null }[] };
   // Whether `armory install` places each row, so a list never promises a command that installs nothing.
-  const items = lb.items.map((it) => ({ ...it, installable: isInstallable(it.type ?? "", it.name, it.url) }));
+  const items = lb.items.map((it) => {
+    const title = TITLES.get(`${it.type}/${it.name}`);
+    return { ...it, ...(title ? { title } : {}), installable: isInstallable(it.type ?? "", it.name, it.url) };
+  });
   return NextResponse.json({ ...lb, items });
 }

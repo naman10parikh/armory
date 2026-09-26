@@ -76,7 +76,7 @@ export function buildGraph(components: Component[], maxNodes = 220): GraphData {
     .map((e) => ({
       id: e.name,
       type: e.type,
-      label: e.name,
+      label: e.title || e.name,
       degree: degree.get(e.name) ?? 0,
       stars: e.stars,
       verified_at: e.verified_at ?? "",

@@ -9,11 +9,13 @@ import { join } from "node:path";
 import { SHELF_FIT, SHELF_MOVES, computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
 import type { SignalValues } from "@/components/signals-row";
 import { readCatalogText } from "./catalog-file";
-import { contributorOf, isOurs, tiedRank } from "./format";
+import { contributorOf, isOurs, tiedRank, titleOf } from "./format";
 import { isInstallable } from "./installable";
 
 export interface BoardRow {
   name: string;
+  /** The catalog's `title`, when the slug alone would not do (format.ts titleOf); pages print `title || name`. */
+  title?: string;
   /** RAW catalog type ("mcps", "clis-tools") — the /e/[type]/[slug] path segment. */
   type: string;
   /** NORMALIZED component ("mcp", "cli") — what /leaderboard?component= filters on. */
@@ -54,7 +56,7 @@ export interface BoardRow {
 export interface ListedRow extends BoardRow {
   /** 1-based place in the list it was drawn from, so page 2 starts at 101 and a folded twin's number is skipped. */
   rank: number;
-  alsoListedAs: { name: string; type: string }[];
+  alsoListedAs: { name: string; title?: string; type: string }[];
 }
 
 export interface BoardMeta {
@@ -86,6 +88,7 @@ export interface Facets {
 
 interface RawComponent {
   name?: string;
+  title?: unknown;
   type?: string;
   description?: string;
   license?: string;
@@ -192,6 +195,7 @@ function load(): State {
       const gained = gainedMap[`${type}/${e.name}`];
       return {
         name: e.name,
+        title: titleOf(raw),
         type,
         component: e.component,
         fits: e.fits,
@@ -305,7 +309,7 @@ export function foldSameRepo(rows: readonly BoardRow[], firstRank = 1): ListedRo
       r.pushedAt != null &&
       prev.pushedAt === r.pushedAt &&
       prev.exact === r.exact;
-    if (twin) prev.alsoListedAs.push({ name: r.name, type: r.type });
+    if (twin) prev.alsoListedAs.push({ name: r.name, title: r.title, type: r.type });
     else out.push({ ...r, rank: tiedRank(prev, r.exact, firstRank + i), alsoListedAs: [] });
   });
   return out;

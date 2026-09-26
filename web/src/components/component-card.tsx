@@ -48,7 +48,7 @@ export function ComponentCard({
             separately above it so it can also be the accessible link label. */}
         <Link
           href={href}
-          aria-label={`${component.name} — open detail`}
+          aria-label={`${component.title || component.name} — open detail`}
           className="absolute inset-0 z-[1] cursor-pointer rounded-[calc(1.25rem-0.375rem)] outline-none"
         />
 
@@ -63,7 +63,7 @@ export function ComponentCard({
 
         {/* Row 2: name */}
         <h3 className="pointer-events-none relative z-[2] font-sans text-lg font-semibold leading-tight text-ink-hi transition-colors group-hover:text-accent-hover">
-          {component.name}
+          {component.title || component.name}
         </h3>
 
         {/* Row 3: description, clamped */}
