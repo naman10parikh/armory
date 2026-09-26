@@ -113,13 +113,35 @@ const STALE_DAYS = 730; // 24 months
 // someone's plan ("run any coding agent with your own subscription"), a feed or an event stream; beside
 // "billing" or "stripe" it is billing (CP138 PR F).
 const SUPPORTING = { payments: ["subscription"] };
+// A domain word counts only where a word starts (CP138 PR G): "log" inside "catalog", "api" inside "capital",
+// "rag" inside "storage", "ux" inside "linux" and "search" inside "research" used to count. A compound that
+// ends in one and names the same thing is read as that word, and only as it ("chatgpt" is "gpt", not "chat"):
+// every word that carried a domain word inside it on 20 or more rows was read, and these are the ones that do.
+const COMPOUNDS = {
+  api: ["openapi"], sql: ["mssql"], vector: ["pgvector"], payment: ["micropayment"], chat: ["wechat"],
+  search: ["elasticsearch", "websearch", "opensearch"], rag: ["graphrag"], index: ["llamaindex"],
+  gpt: ["chatgpt"], agent: ["subagent"], repo: ["monorepo"],
+};
+const AS_WORD = Object.entries(COMPOUNDS).flatMap(([k, cs]) => cs.map((c) => [c, new RegExp(`(^|[^a-z0-9])${c}`, "g"), `$1${k}`]));
+const atWordStart = (t, k) => {
+  for (let i = t.indexOf(k); i !== -1; i = t.indexOf(k, i + 1)) {
+    const c = i === 0 ? "" : t[i - 1];
+    if (!(c >= "a" && c <= "z") && !(c >= "0" && c <= "9")) return true;
+  }
+  return false;
+};
 const domainOf = (text) => {
-  const t = (text || "").toLowerCase();
-  let best = "other", hits = 0;
+  const raw = (text || "").toLowerCase();
+  const t = AS_WORD.reduce((s, [c, rx, k]) => (s.includes(c) ? s.replace(rx, k) : s), raw);
+  let best = "other", hits = 0, weak = 0;
   for (const [dom, kws] of Object.entries(DOMAINS)) {
-    let h = kws.reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
-    if (h > 0) h += (SUPPORTING[dom] ?? []).reduce((n, k) => n + (t.includes(k) ? 1 : 0), 0);
-    if (h > hits) { best = dom; hits = h; }
+    let h = kws.reduce((n, k) => n + (atWordStart(t, k) ? 1 : 0), 0);
+    if (h === 0) continue;
+    h += (SUPPORTING[dom] ?? []).reduce((n, k) => n + (atWordStart(t, k) ? 1 : 0), 0);
+    // A domain word inside another word is weak evidence: it no longer counts on its own, but it still breaks a
+    // tie between domains that each have a word, as every match did before.
+    const w = kws.reduce((n, k) => n + (raw.includes(k) ? 1 : 0), 0);
+    if (h > hits || (h === hits && w > weak)) { best = dom; hits = h; weak = w; }
   }
   return best;
 };

@@ -244,6 +244,30 @@ test("domain: \"subscription\" counts toward payments only beside a payments wor
   assert.equal(chargebee.domain, "payments", "so is Chargebee");
 });
 
+test("domain: a domain word counts only where a word starts, and a compound that names the same thing counts as it", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [papers, geo, drive, laws, oas, subs, gpt, logs, notes] = computeRows([
+    row("papers", "Systematic reviews and research papers from a medical library"),
+    row("geo", "Geocoding and routing from HERE Technologies, with a place catalog"),
+    row("drive", "Manage files and folders in encrypted cloud storage"),
+    row("gov", "US government publications: laws and the Federal Register"),
+    row("oas", "Turns OpenAPI specs into tools"),
+    row("subs", "A collection of subagents for code review"),
+    row("gpt", "Use ChatGPT from your editor"),
+    row("logs", "Collect and tail logs from remote machines"),
+    row("notes", "MCP server for personal notes, stored in PostgreSQL"),
+  ]);
+  assert.equal(papers.domain, "other", "\"search\" inside \"research\" is not search");
+  assert.equal(geo.domain, "other", "\"log\" inside \"technologies\" and \"catalog\" is not observability");
+  assert.equal(drive.domain, "other", "\"rag\" inside \"storage\" is not search");
+  assert.equal(laws.domain, "other", "\"aws\" inside \"laws\" is not devops");
+  assert.equal(oas.domain, "back-end", "OpenAPI names an API");
+  assert.equal(subs.domain, "ai-agents", "subagents are agents");
+  assert.equal(gpt.domain, "ai-agents", "ChatGPT is a GPT");
+  assert.equal(logs.domain, "observability", "a word that starts with one still counts");
+  assert.equal(notes.domain, "database", "\"sql\" inside \"postgresql\" no longer counts, but it breaks the tie with \"server\"");
+});
+
 test("the Ask interpreter offers only components that have rows, so /ask never shows a plugin chip", () => {
   const src = readFileSync(join(ROOT, "web/src/lib/ask-core.ts"), "utf8");
   const m = src.match(/const COMPONENT_TYPES = "([^"]+)"/);
