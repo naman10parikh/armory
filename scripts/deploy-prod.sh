@@ -11,7 +11,7 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 ALIAS="armory-murex.vercel.app"
-PAGES=(/ /leaderboard /ask /formula /graph /status /browse /c /c/memory /stack /e/mcps/github-mcp /llms.txt)
+PAGES=(/ /leaderboard /ask /formula /pipeline /status /browse /c /c/memory /stack /e/mcps/github-mcp /llms.txt)
 WT="$(mktemp -d)/armory-deploy"
 
 cleanup() { git -C "$ROOT" worktree remove --force "$WT" >/dev/null 2>&1 || true; }
