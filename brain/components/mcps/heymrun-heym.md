@@ -13,7 +13,7 @@ related: []
 tags: [mcp, frameworks]
 stars: 1285
 forks: 96
-pushed_at: "2026-09-26T11:58:43Z"
+pushed_at: "2026-09-26T16:25:06Z"
 ---
 ## What it is
 Source-available, self-hosted AI workflow automation platform. Build multi-agent, RAG, and tool-using pipelines on a visual canvas, then expose any workflow as an MCP server (stdio/SSE/Streamable HTTP), or call external MCP servers from the agent node.

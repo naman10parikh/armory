@@ -8,12 +8,12 @@ source_url: https://github.com/koala73/worldmonitor
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 87414
+stars: 87415
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13326
+forks: 13325
 pushed_at: "2026-09-26T14:03:26Z"
 ---
 ## What it is

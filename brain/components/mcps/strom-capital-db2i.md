@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-26T15:16:34Z"
+pushed_at: "2026-09-26T16:40:54Z"
 ---
 ## What it is
 MCP server `IBM DB2 for i`, catalogued on PulseMCP. Provides secure read-only access to IBM DB2 for i (AS/400) databases through the JT400 JDBC driver with SQL security validation, rate limiting, and support for system naming conventions.

@@ -8,7 +8,7 @@ source_url: https://github.com/anthropics/skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 178516
+stars: 178529
 forks: 21125
 eval_score: null
 mentions: null

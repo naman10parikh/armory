@@ -15,7 +15,7 @@ verified_at: 2026-05-26
 related: [e2b-sandbox, claude-managed-agents-selfhost]
 tags: [sandbox, self-hosted, libkrun, microvm, oss]
 forks: 454
-pushed_at: "2026-09-26T13:11:42Z"
+pushed_at: "2026-09-26T16:39:14Z"
 ---
 
 ## What it is

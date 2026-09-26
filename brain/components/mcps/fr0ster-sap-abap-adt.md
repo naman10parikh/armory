@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 28
-pushed_at: "2026-09-26T03:23:42Z"
+pushed_at: "2026-09-26T16:08:50Z"
 ---
 ## What it is
 MCP server `SAP ABAP ADT`, catalogued on PulseMCP. Full CRUD access to SAP ABAP repositories via ADT for on-premise ECC/S4HANA and BTP ABAP Cloud systems with JWT/XSUAA and service-key authentication.

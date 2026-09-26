@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
-forks: 1098
+forks: 1099
 pushed_at: "2026-09-24T08:07:03Z"
 ---
 ## What it is
