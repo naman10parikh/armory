@@ -24,6 +24,7 @@ import { contributorOf, githubReadText, rankedScoreTexts, scoreText, shortDate }
 import { boardMeta, findRow, isMoved } from "@/lib/rows";
 import { detailHref } from "@/lib/row-view";
 import { checkedRun } from "@/lib/run-check";
+import { plainNoteBody } from "@/lib/note-body";
 
 const EMPTY_SIGNALS: SignalValues = { tested: null, mentions: null, stars: null, forks: null, usage: null };
 
@@ -71,25 +72,6 @@ export async function generateMetadata({
   };
 }
 
-// "When to use it" and "How to install / invoke" sections whose whole body is a pointer to the source
-// ("See the source: <url>") say nothing the Source link beside them does not, so they are left out
-// (CP143). The note keeps them; `armory install` still reads its install section.
-const POINTER_ONLY = /^see the source(?: readme)?:?\s*<?https?:\/\/\S+?>?\.?$/i;
-function withoutPointerSections(md: string): string {
-  return md.replace(
-    /^#{1,6}\s+(?:When to use it|How to install \/ invoke)\s*\n([\s\S]*?)(?=^#{1,6}\s|(?![\s\S]))/gim,
-    (section: string, content: string) => (POINTER_ONLY.test(content.trim()) ? "" : section),
-  );
-}
-
-// The intake's workflow notes ("Pending verify -> promote.", "(live API)") sit in almost every note and
-// tell a reader nothing (CP138 T51), so they are left out of the page; the files keep them.
-function withoutWorkflowNotes(md: string): string {
-  return md
-    .replace(/[ \t]*Pending verify (?:->|→) promote\.?/g, "")
-    .replace(/Discovered via the (.+?) \(live (?:API|sitemaps?)\)\./g, "Listed from the $1.");
-}
-
 export default async function ComponentDetailPage({
   params,
 }: {
@@ -101,7 +83,7 @@ export default async function ComponentDetailPage({
 
   const body = readComponentBody(component);
   const html = body
-    ? await marked.parse(withoutWorkflowNotes(withoutPointerSections(body)), { async: true, gfm: true, breaks: false })
+    ? await marked.parse(plainNoteBody(body), { async: true, gfm: true, breaks: false })
     : "";
 
   const allComponents = getComponents();

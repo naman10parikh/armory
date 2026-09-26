@@ -187,7 +187,7 @@ function extractSkills() {
         name, type: "skills", description,
         sourceRepo: "anthropics/skills", sourceUrl,
         install: `Official Anthropic skill. See the full \`SKILL.md\` (plus any bundled scripts/REFERENCE.md) for the runnable implementation: ${sourceUrl}`,
-        notes: "Official Anthropic reference skill — the quality bar for the Skills spec. License: Anthropic terms (source-available; see repo LICENSE/README). Pending verify → promote.",
+        notes: "Official Anthropic reference skill, the quality bar for the Skills spec. License: Anthropic terms (source-available; see repo LICENSE/README).",
       }),
     });
   }
@@ -227,7 +227,7 @@ function extractMcps() {
         name, type: "mcps", description,
         sourceRepo: "modelcontextprotocol/servers", sourceUrl,
         install: `Official MCP reference server. See the README for the \`mcpServers\` config block (command + args / npx / uvx): ${sourceUrl}`,
-        notes: "Official Model Context Protocol reference server (modelcontextprotocol/servers). License: Apache-2.0. Pending verify → promote.",
+        notes: "Official Model Context Protocol reference server (modelcontextprotocol/servers). License: Apache-2.0.",
       }),
     });
   }
@@ -299,7 +299,7 @@ function extractCookbook() {
         name, type: "workflows", description,
         sourceRepo: "anthropics/anthropic-cookbook", sourceUrl,
         install: `Official Anthropic cookbook recipe (notebook). Open it to follow the runnable walkthrough: ${sourceUrl}`,
-        notes: `Recipe "${scrub(rec.title) || base}" from the anthropic-cookbook \`${family}/\` family${rec.categories ? ` (categories: ${rec.categories.join(", ")})` : ""}. License: MIT. Pending verify → promote.`,
+        notes: `Recipe "${scrub(rec.title) || base}" from the anthropic-cookbook \`${family}/\` family${rec.categories ? ` (categories: ${rec.categories.join(", ")})` : ""}. License: MIT.`,
       }),
     });
   }
@@ -399,7 +399,7 @@ function extractQuickstarts() {
         name, type: "workflows", description,
         sourceRepo: "anthropics/anthropic-quickstarts", sourceUrl,
         install: `Official Anthropic quickstart. Clone the repo and follow the project README to run it: ${sourceUrl}`,
-        notes: `Quickstart "${h1}" from anthropics/anthropic-quickstarts — a runnable starter project. License: MIT. Pending verify → promote.`,
+        notes: `Quickstart "${h1}" from anthropics/anthropic-quickstarts, a runnable starter project. License: MIT.`,
       }),
     });
   }

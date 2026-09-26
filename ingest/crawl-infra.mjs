@@ -317,7 +317,7 @@ function infraAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee [${rec.title}](${sourceUrl}) for setup and docs.\n\n` +
-          `## Notes\nDiscovered via the Component infra-tools curated list. Pending verify -> promote.`,
+          `## Notes\nListed from Armory's infra-tools list.`,
       };
     },
   };

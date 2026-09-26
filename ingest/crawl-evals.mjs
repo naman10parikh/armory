@@ -365,7 +365,7 @@ function evalsAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee the source repo README: https://github.com/${raw.repo ?? ""}\n\n` +
-          `## Notes\nCurated evals entry. Verified ${VERIFIED_AT}. Pending verify -> promote.`,
+          `## Notes\nCurated evals entry. Verified ${VERIFIED_AT}.`,
       };
     },
   };

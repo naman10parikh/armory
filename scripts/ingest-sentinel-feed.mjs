@@ -161,7 +161,7 @@ for (const r of feed.new || []) {
   const body =
     `## What it is\n${frontmatter.description}\n\n## When to use it\nSee the source: ${url}\n\n` +
     `## How to install / invoke\nSee the source README: ${url}\n\n` +
-    `## Notes\nContributed by ${LABEL} through the contributor feed (${onTrial ? "a passing hands-on trial" : "practitioner mentions"}), ${today}. Pending verify → promote.`;
+    `## Notes\nContributed by ${LABEL} through the contributor feed (${onTrial ? "a passing hands-on trial" : "practitioner mentions"}), ${today}.`;
   const md = toMarkdown({ frontmatter, body });
   const back = parseFrontmatter(md); // roundtrip self-check, like the crawler
   if (back.name !== slug) { skipped++; continue; }
