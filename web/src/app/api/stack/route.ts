@@ -40,9 +40,14 @@ export function GET(): NextResponse {
       top_score: stats.topScore,
       leaderboard: `/leaderboard?component=${encodeURIComponent(stats.leaderboardComponent)}`,
       page: `/c/${slug}`,
+      // The pick first, then its runners-up; shelf_rank is the rank /c prints, and reason says why a pick
+      // below the shelf's top row is listed anyway.
       picks: resolvedPicksFor(slug).map((p) => ({
         name: p.name,
         why: p.why,
+        the_pick: p.isThePick,
+        shelf_rank: p.rank,
+        reason: p.reason ?? null,
         indexed: p.row != null,
         armory_name: p.armoryName,
         url: p.url,

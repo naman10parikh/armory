@@ -100,6 +100,9 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-6 pt-6">
           <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Pick</h2>
+          {picks.length > 1 && (
+            <p className="mt-2 text-[13px] text-ink-muted">The pick and its runners-up, in score order</p>
+          )}
           <div className="mt-3">
             <PickList picks={picks} />
           </div>

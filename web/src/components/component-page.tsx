@@ -10,7 +10,7 @@ import { BoardTable, OursTag } from "@/components/board-table";
 import { InstallSnippet, NoInstall } from "@/components/install-snippet";
 import { ScoreBadge } from "@/components/score-badge";
 import { SignalsRow } from "@/components/signals-row";
-import type { CanonRow, CanonStats, ResolvedPick } from "@/lib/canon";
+import { picksInScoreOrder, type CanonRow, type CanonStats, type ResolvedPick } from "@/lib/canon";
 import { boardMeta, foldSameRepo } from "@/lib/rows";
 import { toRowViews } from "@/lib/row-view";
 
@@ -78,10 +78,36 @@ export function PickName({ pick }: { pick: ResolvedPick }) {
   );
 }
 
+/** Columns per pick count, so a grid never shows an empty cell or a card alone on a row. */
+const PICK_COLUMNS: Readonly<Record<number, string>> = { 1: "", 2: "md:grid-cols-2", 3: "lg:grid-cols-3" };
+
+/** "The pick · #10 on this shelf": which pick it is and where the shelf table ranks it. */
+export function PickPlace({ pick }: { pick: ResolvedPick }) {
+  return (
+    <p className="text-[11.5px] leading-snug text-ink-faint">
+      <span className={pick.isThePick ? "font-semibold text-accent-hover" : "font-medium text-ink-muted"}>
+        {pick.isThePick ? "The pick" : "Runner-up"}
+      </span>
+      {pick.rank != null && (
+        <>
+          {" · "}#<data value={String(pick.rank)}>{pick.rank}</data> on this shelf
+        </>
+      )}
+    </p>
+  );
+}
+
+/** Why a pick is listed though rows above it score higher; nothing while it tops its shelf. */
+export function PickReason({ pick }: { pick: ResolvedPick }) {
+  if (!pick.reason || pick.rank == null || pick.rank <= 1) return null;
+  return <p className="border-l-2 border-line pl-2.5 text-[12.5px] leading-normal text-ink-body">{pick.reason}</p>;
+}
+
 /**
- * The Pick block: 1–3 recommended components for a shelf. Score and Signals are read
- * LIVE from the catalog (src/data/stack.json stores no number), so a re-rank moves the
- * pick and the table below it together. An unindexed pick states so and links its source.
+ * The Pick block: one to three recommended components for a shelf, in score order with the pick marked.
+ * Score and Signals are read LIVE from the catalog (src/data/stack.json stores no number), so a
+ * re-rank moves the pick and the table below it together. An unindexed pick states so and links
+ * its source.
  */
 export function PickList({ picks }: { picks: ResolvedPick[] }) {
   if (picks.length === 0) {
@@ -93,9 +119,10 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
     );
   }
 
+  const ordered = picksInScoreOrder(picks);
   return (
-    <ul className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
-      {picks.map((pick) => (
+    <ul className={`grid gap-3 ${PICK_COLUMNS[Math.min(ordered.length, 3)]}`}>
+      {ordered.map((pick) => (
         <li
           key={pick.name}
           className="flex min-w-0 flex-col gap-2.5 rounded-xl border border-line-subtle bg-raise-1 p-4 transition-colors duration-150 ease-state hover:border-line"
@@ -117,7 +144,9 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
             )}
           </div>
 
+          <PickPlace pick={pick} />
           <p className="text-[12.5px] leading-normal text-ink-muted">{pick.why}</p>
+          <PickReason pick={pick} />
 
           {pick.row ? (
             <>

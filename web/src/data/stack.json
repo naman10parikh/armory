@@ -1,5 +1,5 @@
 {
-  "note": "The single source for the 11 canonical harness components and their picks (CP138, set 2026-09-07). /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed, never faked into the table. Our own repositories are picks only when they win on score. `plane` is the capability plane (CP138 axis 2): accounts an agent is provisioned onto, not open-source code, so never scored.",
+  "note": "The single source for the 11 canonical harness components and their picks (CP138, set 2026-09-07). /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed, never faked into the table. Our own repositories are picks only when they win on score. `plane` is the capability plane (CP138 axis 2): accounts an agent is provisioned onto, not open-source code, so never scored. A pick's `reason` says in one line why it is listed though rows above it score higher; the pages show it only while the pick is not its shelf's top row.",
   "asOf": "2026-09-07",
   "regenerate": "node scripts/stack-evidence.mjs",
   "components": [
@@ -30,19 +30,22 @@
       "picks": [
         {
           "name": "letta-ai-letta",
-          "why": "Stateful agents that edit their own long-term memory; picked for that, though other memory rows score higher",
+          "why": "Stateful agents that edit their own long-term memory",
+          "reason": "Most rows above it are memory stores or graph builders outside the agent; in Letta the agent itself decides what to keep.",
           "armoryName": "letta-ai-letta",
           "url": "https://github.com/letta-ai/letta"
         },
         {
           "name": "getzep-zep",
-          "why": "Memory on a temporal knowledge graph: each fact records when it was true",
+          "why": "Examples and framework integrations for Zep Cloud, a hosted memory service; not the engine itself",
+          "reason": "Listed for Zep Cloud; the open-source engine behind it is Graphiti, which ranks higher on this shelf.",
           "armoryName": "getzep-zep",
           "url": "https://github.com/getzep/zep"
         },
         {
           "name": "plastic-labs-honcho",
           "why": "Memory library for stateful agents, kept per user and per session",
+          "reason": "Listed because it reasons in the background to keep a picture of each person an agent deals with, not only a record of what was said.",
           "armoryName": "plastic-labs-honcho",
           "url": "https://github.com/plastic-labs/honcho"
         }
@@ -59,12 +62,14 @@
         {
           "name": "superpowers",
           "why": "One bundle covering planning, review, testing and the rest of the lifecycle",
+          "reason": "Picked over everything-claude-code, a large collection of resources, because it installs as one working bundle.",
           "armoryName": "superpowers",
           "url": "https://github.com/obra/superpowers"
         },
         {
           "name": "everything-claude-code",
           "why": "Skills across core engineering domains, one file per competency",
+          "reason": "Second by score; the only row above it is the pick.",
           "armoryName": "everything-claude-code",
           "url": "https://github.com/affaan-m/everything-claude-code"
         }
@@ -82,18 +87,21 @@
         {
           "name": "playwright-cli",
           "why": "Codegen, screenshot, PDF and trace commands for headless browser scripting",
+          "reason": "Picked to drive a browser from the terminal; most rows above it are coding agents, terminal apps or an editor, and Puppeteer, the closest match, has no WebKit.",
           "armoryName": "playwright-cli",
           "url": "https://github.com/microsoft/playwright"
         },
         {
           "name": "gh",
           "why": "GitHub from the terminal: issues, pull requests, releases, repository search",
+          "reason": "The rows above it are whole agents, not commands an agent runs.",
           "armoryName": "gh",
           "url": "https://github.com/cli/cli"
         },
         {
           "name": "crawl4ai",
           "why": "Async web crawler that turns pages into clean Markdown for an agent to read",
+          "reason": "Runs locally as a Python library with no account; Firecrawl, higher on this shelf, is mostly used as a hosted service.",
           "armoryName": "crawl4ai",
           "url": "https://github.com/unclecode/crawl4ai"
         }
@@ -116,6 +124,7 @@
         {
           "name": "tdd-guard",
           "why": "Blocks file writes that violate test-first order, as they happen",
+          "reason": "Second by score; the only row above it is the pick.",
           "armoryName": "tdd-guard",
           "url": "https://github.com/nizos/tdd-guard"
         }
@@ -138,6 +147,7 @@
         {
           "name": "voltagent-awesome-claude-code-subagents",
           "why": "100+ specialized Claude Code sub-agents, one file each",
+          "reason": "Second by score; the only row above it is the pick.",
           "armoryName": "voltagent-awesome-claude-code-subagents",
           "url": "https://github.com/VoltAgent/awesome-claude-code-subagents"
         }
@@ -154,12 +164,14 @@
         {
           "name": "github-mcp",
           "why": "Issues, pull requests, repository search and commits without shelling out to git",
+          "reason": "Picked as the server most coding agents need first, published by GitHub itself; the rows above it drive a browser and convert documents.",
           "armoryName": "github-mcp",
           "url": "https://github.com/github/github-mcp-server"
         },
         {
           "name": "genai-toolbox",
           "why": "Pre-defined queries against Postgres, MySQL, Spanner and other databases, set up in YAML",
+          "reason": "A runner-up for database access; the rows above it drive a browser, convert documents, work with GitHub and follow the news.",
           "armoryName": "genai-toolbox",
           "url": "https://github.com/googleapis/mcp-toolbox"
         },
@@ -182,6 +194,7 @@
         {
           "name": "pocketflow",
           "why": "100-line graph framework; nodes and edges route work between agents",
+          "reason": "A library inside your own code, where n8n, the top row, is a platform you run; most rows between them are guides, a protocol and prompts.",
           "armoryName": "pocketflow",
           "url": "https://github.com/The-Pocket/PocketFlow"
         },
@@ -204,18 +217,21 @@
         {
           "name": "promptfoo",
           "why": "Assertions and red-teaming for prompts and agents, runs in CI",
+          "reason": "Picked because you can run it on every pull request, against your own prompts and agents.",
           "armoryName": "promptfoo",
           "url": "https://github.com/promptfoo/promptfoo"
         },
         {
           "name": "swe-bench",
           "why": "Real GitHub issues drawn from 12 Python repositories, scored on the resulting patch",
+          "reason": "Listed as the benchmark coding agents are compared on; the rows above it test prompts, apps and models instead.",
           "armoryName": "swe-bench",
           "url": "https://github.com/SWE-bench/SWE-bench"
         },
         {
           "name": "deepeval",
           "why": "Evaluation framework with 14+ metrics such as hallucination and faithfulness, runs in CI",
+          "reason": "OpenAI Evals and the LM Evaluation Harness, above it, mainly grade models; this grades your own app.",
           "armoryName": "deepeval",
           "url": "https://github.com/confident-ai/deepeval"
         }
@@ -232,12 +248,14 @@
         {
           "name": "langfuse",
           "why": "Traces, prompt management, datasets and evals in one self-hostable platform",
+          "reason": "The two rows above it are tracing add-ons to Sentry and MLflow; this is a whole platform on its own.",
           "armoryName": "langfuse",
           "url": "https://github.com/langfuse/langfuse"
         },
         {
           "name": "comet-opik",
           "why": "Open-source tracing and evaluation: log traces, run evals, track prompt changes",
+          "reason": "Built like the pick; above it are two tracing add-ons, the pick and a Claude Code status line.",
           "armoryName": "comet-opik",
           "url": "https://github.com/comet-ml/opik"
         }
@@ -254,18 +272,21 @@
         {
           "name": "e2b-sandbox",
           "why": "Firecracker microVM per run, ~150ms cold start, for untrusted code",
+          "reason": "Above it are a browser library, two inference engines and Daytona, whose public repository stopped updating in June 2026.",
           "armoryName": "e2b-sandbox",
           "url": "https://github.com/e2b-dev/E2B"
         },
         {
           "name": "daytona",
           "why": "Sandboxes for AI-generated code that start in under 90 ms; its public repository stopped updating in June 2026",
+          "reason": "The one row above it is a browser library, not a sandbox.",
           "armoryName": "daytona",
           "url": "https://github.com/daytonaio/daytona"
         },
         {
           "name": "microsandbox",
           "why": "Self-hosted microVM sandbox on your own machines, no per-sandbox vendor cost",
+          "reason": "Most rows above it are browser tools, inference engines and gateways, not sandboxes.",
           "armoryName": "microsandbox",
           "url": "https://github.com/microsandbox/microsandbox"
         }
