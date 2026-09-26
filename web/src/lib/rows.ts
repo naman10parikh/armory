@@ -39,6 +39,8 @@ export interface BoardRow {
   ours: boolean;
   /** The feed that contributed the row ("Sentinel" for a `sentinel-feed` tag), else null. */
   contributedBy: string | null;
+  /** The catalog's tags, for what the row is for (src/lib/alternatives.ts). */
+  tags: string[];
   /** True when `armory install <name>` places something (src/lib/installable.ts). */
   installable: boolean;
   /** Position in the engine's default order (0 = first). Sorting a subset by it keeps that order. */
@@ -202,6 +204,7 @@ function load(): State {
         gained: typeof gained === "number" && gained > 0 ? gained : null,
         ours: isOurs(e.url),
         contributedBy: contributorOf(Array.isArray(raw.tags) ? raw.tags : null),
+        tags: Array.isArray(raw.tags) ? raw.tags.filter((t): t is string => typeof t === "string") : [],
         installable: isInstallable(type, e.name, e.url),
         order: position.get(e) ?? Number.MAX_SAFE_INTEGER,
       };

@@ -19,7 +19,8 @@ import { HarnessSelector } from "@/components/install-snippet";
 import { InstallStrip } from "@/components/install-strip";
 import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
 import { CANON, rowsFor, stackFor } from "@/lib/canon";
-import { ago, contributorOf, shortDate } from "@/lib/format";
+import { alternativesFor } from "@/lib/alternatives";
+import { ago, contributorOf, rankedScoreTexts, shortDate } from "@/lib/format";
 import { findRow } from "@/lib/rows";
 import { detailHref } from "@/lib/row-view";
 import { checkedRun } from "@/lib/run-check";
@@ -70,6 +71,17 @@ export async function generateMetadata({
   };
 }
 
+// "When to use it" and "How to install / invoke" sections whose whole body is a pointer to the source
+// ("See the source: <url>") say nothing the Source link beside them does not, so they are left out
+// (CP143). The note keeps them; `armory install` still reads its install section.
+const POINTER_ONLY = /^see the source(?: readme)?:?\s*<?https?:\/\/\S+?>?\.?$/i;
+function withoutPointerSections(md: string): string {
+  return md.replace(
+    /^#{1,6}\s+(?:When to use it|How to install \/ invoke)\s*\n([\s\S]*?)(?=^#{1,6}\s|(?![\s\S]))/gim,
+    (section: string, content: string) => (POINTER_ONLY.test(content.trim()) ? "" : section),
+  );
+}
+
 export default async function ComponentDetailPage({
   params,
 }: {
@@ -81,7 +93,7 @@ export default async function ComponentDetailPage({
 
   const body = readComponentBody(component);
   const html = body
-    ? await marked.parse(body, { async: true, gfm: true, breaks: false })
+    ? await marked.parse(withoutPointerSections(body), { async: true, gfm: true, breaks: false })
     : "";
 
   const allComponents = getComponents();
@@ -101,14 +113,12 @@ export default async function ComponentDetailPage({
   const now = Date.now();
   const contributedBy = contributorOf(component.tags);
 
-  // Alternatives: the best-scored rows on the same canonical shelf, so a reader who landed on the
-  // wrong tool sees the right one in one click (CP143 brief, the detail page listed none).
+  // Alternatives: the best-scored rows on the same canonical shelf that do the same job, so a reader
+  // who landed on the wrong tool sees the right one in one click (src/lib/alternatives.ts). Their scores
+  // print like every ranked list's: three decimals, four where two would read the same.
   const shelf = row ? Object.keys(CANON).find((k) => CANON[k].includes(row.component)) ?? null : null;
-  const alternatives = shelf
-    ? rowsFor(shelf)
-        .filter((r) => r.universal != null && !(r.type === type && r.name === slug))
-        .slice(0, 3)
-    : [];
+  const alternatives = shelf && row ? alternativesFor(row, shelf, rowsFor(shelf)) : [];
+  const altScores = rankedScoreTexts(alternatives.map((a) => (a.universal == null ? null : a.exact)));
 
   return (
     <ContentWidth className="pb-16 pt-8">
@@ -220,7 +230,12 @@ export default async function ComponentDetailPage({
                         <SignalsRow signals={alt.signals} />
                       </span>
                     </span>
-                    <ScoreBadge score={alt.universal} evidence={alt.evidence} />
+                    <ScoreBadge
+                      score={alt.universal}
+                      evidence={alt.evidence}
+                      display={altScores[alternatives.indexOf(alt)]}
+                      value={alt.exact}
+                    />
                   </li>
                 ))}
               </ol>
