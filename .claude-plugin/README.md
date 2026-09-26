@@ -1,7 +1,7 @@
 # Armory — Claude Code Plugin
 
 One install gives your Claude Code agent:
-- **Armory MCP** (`armory-mcp`) — `search_components` + `get_component` + `submit_component` across 65,000+ cataloged harness pieces (65,318 on 26 September 2026)
+- **Armory MCP** (`armory-mcp`) — `search_components` + `get_component` + `submit_component` across 65,000+ cataloged harness pieces (65,216 on 26 September 2026)
 - **900 vendored skills** from `skills/` — ready to invoke immediately
 - **500 vendored commands** from `commands/`
 - **The `armory` skill** — teaches the agent *when and how* to reach into the registry

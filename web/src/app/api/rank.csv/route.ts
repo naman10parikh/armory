@@ -1,6 +1,5 @@
 // GET /api/rank.csv — the current leaderboard slice as a downloadable CSV (humans + spreadsheets).
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { readCatalogText } from "@/lib/catalog-file";
 // @ts-expect-error — vendored plain-ESM engine
 import { computeRows, rankRows } from "../../../../lib/rank.mjs";
 
@@ -12,7 +11,7 @@ interface Item { name: string; component: string; domain: string; url?: string |
 let CACHE: Row[] | null = null;
 function rows(): Row[] {
   if (CACHE) return CACHE;
-  CACHE = computeRows(JSON.parse(readFileSync(join(process.cwd(), "catalog.json"), "utf-8")).components) as Row[];
+  CACHE = computeRows(JSON.parse(readCatalogText()).components) as Row[];
   return CACHE;
 }
 const cell = (v: unknown) => {

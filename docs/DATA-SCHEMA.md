@@ -76,12 +76,15 @@ can no longer score five different numbers or inflate everyone else's denominato
 ```
 universal = 0.8 × base  +  0.2 × others
     base   = the strongest percentile the row holds (any signal)
-    others = Σ(percentile × weight) ÷ Σ(weight)  over every OTHER signal it holds  (0 if none)
+    others = the second-strongest percentile it holds  (0 if none)
 ```
 
-One signal caps at **80**. A second or third can only **add** — earning more evidence is never
-punished. (It used to be: under the old evidence-weighted mean, a p100 repo that picked up one
-mention *lost* 19.3 points. See `FORMULA-AUDIT.md` §H2.) A row that is p100 on everything reaches 100.
+One signal caps at **80**. A second adds, and a third counts only when it beats one of the first two,
+so earning more evidence is never punished. (It used to be: under the old evidence-weighted mean, a
+p100 repo that picked up one mention *lost* 19.3 points, `FORMULA-AUDIT.md` §H2; and averaging the
+other signals still let a weaker third cost points, on all 169 rows holding three or more, CP143 T20.)
+Weights break ties between equal percentiles. A recorded `mentions: 0` is no signal. A row that is
+p100 on two signals reaches 100.
 
 A row with no real signal is **unranked**, never faked to the top. Every number links to its source.
 

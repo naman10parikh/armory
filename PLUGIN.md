@@ -1,7 +1,7 @@
 # Install Armory as a Plugin
 
 One install gives any coding harness:
-- **Armory MCP** (`armory-mcp`) — `search_components` / `get_component` / `submit_component` across 65,000+ cataloged harness components (65,318 on 26 September 2026)
+- **Armory MCP** (`armory-mcp`) — `search_components` / `get_component` / `submit_component` across 65,000+ cataloged harness components (65,216 on 26 September 2026)
 - **2,546 vendored components** — skills, agents, commands, hooks ready to use immediately
 
 ---

@@ -58,7 +58,11 @@ export interface InstallReport {
 // (top BM25 hit). Returns the component plus whether it was a fuzzy resolution.
 export function resolveComponent(name: string): { component: Component; fuzzy: boolean } | null {
   const components = loadCatalog().components;
-  const exact = components.find((e) => e.name === name.trim());
+  // Two shelves can hold the same name: a project and someone's wrapper of it. Take the one more people
+  // use, so `armory install mempalace` means MemPalace, never a bridge to it (CP143).
+  const exact = components
+    .filter((e) => e.name === name.trim())
+    .sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0))[0];
   if (exact) return { component: exact, fuzzy: false };
   const ranked = rankComponents(components, name);
   return ranked.length > 0 ? { component: ranked[0].component, fuzzy: true } : null;

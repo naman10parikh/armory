@@ -121,7 +121,9 @@ export function StackCommand({ picks }: { picks: readonly StackPick[] }) {
   }
   return (
     <>
-      {names.length > 0 && <CommandBlock names={names} lines={lines} copied={copied} onCopy={copy} />}
+      {names.length > 0 && (
+        <CommandBlock picks={picks.length} names={names} lines={lines} copied={copied} onCopy={copy} />
+      )}
       {manual.length > 0 && (
         <p className="mt-3 text-[13px] leading-relaxed text-ink-muted">
           {names.length > 0 ? "Not in the command" : "None of these picks installs with one command"}, set{" "}
@@ -150,11 +152,13 @@ export function StackCommand({ picks }: { picks: readonly StackPick[] }) {
 }
 
 function CommandBlock({
+  picks,
   names,
   lines,
   copied,
   onCopy,
 }: {
+  picks: number;
   names: readonly string[];
   lines: readonly string[];
   copied: boolean;
@@ -164,7 +168,8 @@ function CommandBlock({
     <div className="rounded-xl border border-line-subtle bg-raise-1 p-3">
       <div className="mb-2 flex items-center justify-between gap-3">
         <span className="text-[12.5px] text-ink-muted">
-          {names.length} {names.length === 1 ? "install" : "installs"}, one command
+          {/* The heading above already says "one command"; the caption counts (CP138 T51). */}
+          {picks} {picks === 1 ? "pick" : "picks"} · {names.length} in this command
         </span>
         <CopyButton copied={copied} onCopy={onCopy} label="Copy the command" />
       </div>

@@ -3,6 +3,7 @@
 // frontmatter (minimal hand-rolled parser, zero npm deps), writes catalog.json.
 // Counts are COMPUTED, never hardcoded. Run: node ingest/catalog.mjs
 import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
+import { gzipSync } from "node:zlib";
 import { join, dirname, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -124,7 +125,12 @@ export function buildCatalog() {
 // `generated_at` changes every run, so compare structure-only when checking drift.
 function main() {
   const catalog = buildCatalog();
-  writeFileSync(OUT, JSON.stringify(catalog, null, 2) + "\n");
+  const text = JSON.stringify(catalog, null, 2) + "\n";
+  writeFileSync(OUT, text);
+  // docs/CATALOG-SIZE.md: the same catalog gzipped (~7 MB for ~53 MB), which the engine and the site
+  // read first. The plain file stays: Sentinel and the Energy platform read it by path. The .gz is
+  // gitignored, since a gzip blob committed nightly would grow the pack by its full size every night.
+  writeFileSync(`${OUT}.gz`, gzipSync(text, { level: 9 }));
   const { total, by_type } = catalog.counts;
   console.log(`component catalog → ${OUT}`);
   console.log(`  total: ${total}`);

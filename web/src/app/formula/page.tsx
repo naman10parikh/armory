@@ -5,10 +5,9 @@
 // are chosen by CRITERIA (the most-starred single-signal tool, the highest-scoring tool, …) rather
 // than hardcoded names, so they stay true as the catalog grows.
 import type { Metadata } from "next";
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { readCatalogText } from "@/lib/catalog-file";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
-import { computeRows, WEIGHTS, BLEND } from "../../../lib/rank.mjs";
+import { computeRows, WEIGHTS, BLEND, MIN_POOL } from "../../../lib/rank.mjs";
 import {
   Coverage,
   HeadToHead,
@@ -19,13 +18,14 @@ import {
   type Rung,
   type Worked,
 } from "@/components/score-explainer";
+import { signalWords } from "@/components/signals-row";
 
 export const runtime = "nodejs";
 
 export const metadata: Metadata = {
-  title: "How the score works — Armory",
+  title: "Formula · Armory",
   description:
-    "One rating for every open-source building block. Each signal becomes a percentile within its own kind, blended by weight, and scaled by how many independent signals agree. Every number computed from the catalog.",
+    `One score per component: each public signal becomes a percentile within its own kind; the strongest counts ${BLEND.base} and the second strongest ${BLEND.others}, so more evidence can never lower it.`,
 };
 
 // The weights and the blend are IMPORTED from the engine, never re-typed here. A hand-typed mirror
@@ -33,26 +33,26 @@ export const metadata: Metadata = {
 // 92.9 the engine actually computed (docs/FORMULA-AUDIT.md §H12). Now there is one object, so the
 // arithmetic on this page cannot disagree with the ranking.
 const W = WEIGHTS as Record<string, number>;
+const REPO = "https://github.com/naman10parikh/armory";
 const B = BLEND as { base: number; others: number };
 
 // Every signal the engine scores on, in the order they read best on the page.
 const SIGNALS = ["tested", "mentions", "stars", "forks", "usage"] as const;
 type Signal = (typeof SIGNALS)[number];
-const GLYPH: Record<string, string> = { stars: "★", usage: "↑", tested: "✓", mentions: "♦", forks: "⑂" };
-const UNIT: Record<string, string> = { stars: "stars", usage: "used", tested: "tested", mentions: "mentions", forks: "forks" };
+// Words, not glyphs (the site's rule, components/signals-row.tsx; CP138 T51).
 const WHAT: Record<string, string> = {
-  tested: "We installed it and it ran.",
-  mentions: "Practitioners cite it in the wild.",
-  stars: "GitHub stars.",
-  forks: "People copied the repo to build on it.",
-  usage: "Installs from a registry listing.",
+  tested: "Installed and run by Armory",
+  mentions: "Cited in published sources",
+  stars: "GitHub stars",
+  forks: "Repository forks",
+  usage: "Registry install count",
 };
 const WHO: Record<string, string> = {
-  tested: "measured by us",
-  mentions: "from what builders publish",
-  stars: "published by GitHub",
-  forks: "published by GitHub",
-  usage: "published by Smithery, mcp.so",
+  tested: "Source: Armory",
+  mentions: "Source: articles and posts",
+  stars: "Source: GitHub",
+  forks: "Source: GitHub",
+  usage: "Source: Smithery, mcp.so",
 };
 
 interface Row {
@@ -72,14 +72,16 @@ interface Row {
     pct: Partial<Record<Signal, number>>;
     /** the signal that produced the strongest percentile — the `base` term */
     base: Signal | null;
-    /** the weight-averaged percentile of everything else, or null when there is nothing else */
+    /** the signal that produced the second-strongest percentile — the `others` term */
+    second: Signal | null;
+    /** the second-strongest percentile, or null when the row holds one signal */
     others: number | null;
   };
   primary: { key: string; value: number | null; pct: number } | null;
 }
 
 function load(): Row[] {
-  const cat = JSON.parse(readFileSync(join(process.cwd(), "catalog.json"), "utf-8"));
+  const cat = JSON.parse(readCatalogText());
   return computeRows(cat.components) as Row[];
 }
 
@@ -90,23 +92,19 @@ const ex = (v: number) => String(+v.toFixed(2));
 
 /**
  * Turn a row into its visible arithmetic — the proof the formula is not a black box.
- * The engine hands over the percentile per signal, which one is the `base`, and the weighted average
- * of the rest, so this only formats what was already computed. It cannot print a different sum.
+ * The engine hands over the percentile per signal and which two are the `base` and the `second`, so
+ * this only formats what was already computed. It cannot print a different sum.
  */
 function work(r: Row, tier: string): Worked {
-  const { pct, base, others } = r.scores;
+  const { pct, base, second, others } = r.scores;
   const held = SIGNALS.filter((s) => pct[s] != null);
   if (!held.length || !base) {
-    return { name: r.name, tier, parts: "no signal yet", math: "nothing to rank — left blank, never guessed", score: "—" };
+    return { name: r.name, tier, parts: "Unmeasured", math: "No Value", score: "—" };
   }
-  const rest = held.filter((s) => s !== base);
-  const parts = held
-    .map((s) => `${GLYPH[s]} ${n(r.signals[s] as number)} ${UNIT[s]} → p${pct[s]}${s === base ? "  ← strongest" : ""}`)
-    .join("\n");
-  // others = Σ(percentile × weight) ÷ Σ(weight) over every signal that is NOT the strongest
-  const othersMath = rest.length
-    ? `${B.others} × [(${rest.map((s) => `${pct[s]}×${W[s]}`).join(" + ")}) ÷ ${rest.reduce((t, s) => t + W[s], 0).toFixed(1)}]`
-    : `${B.others} × 0 (nothing else to corroborate)`;
+  const mark = (s: Signal) => (s === base ? "  ← strongest" : s === second ? "  ← second" : "  (not used: weaker than both)");
+  const parts = held.map((s) => `${signalWords(s, r.signals[s] as number)} → p${pct[s]}${mark(s)}`).join("\n");
+  // others = the second-strongest percentile; a weaker third signal is not used, so it cannot cost points
+  const othersMath = second ? `${B.others} × ${pct[second]}` : `${B.others} × 0 (nothing else to corroborate)`;
   return {
     name: r.name,
     tier,
@@ -125,7 +123,7 @@ export default function FormulaPage() {
   // ── the signals, with real coverage. Weight comes from the engine's WEIGHTS, never re-typed. ──
   const count = (s: Signal) => rows.filter((r) => r.signals[s] != null).length;
   const cards = SIGNALS.map((s) => ({
-    glyph: GLYPH[s], key: s, what: WHAT[s], who: WHO[s], weight: W[s], rows: count(s),
+    key: s, what: WHAT[s], who: WHO[s], weight: W[s], rows: count(s),
   })).map((c) => ({ ...c, pctOfCatalog: (100 * c.rows) / total }));
 
   // ── the ladder: what a star count is actually worth ────────────────────────────────────────
@@ -163,13 +161,13 @@ export default function FormulaPage() {
   const failed = rows.find((r) => r.signals.tested === 0);
   const blankRow = rows.find((r) => r.scores.universal == null);
   const examples: Worked[] = [
-    threeSignal ? work(threeSignal, `${threeSignal.scores.evidence} signals agree`) : null,
-    twoSignal ? work(twoSignal, "two signals — the second one only adds") : null,
-    loudest ? work(loudest, "one signal — the most-starred repo we hold") : null,
-    mostUsed ? work(mostUsed, "a registry listing, not a repo") : null,
-    median ? work(median, "the typical repo") : null,
-    failed ? work(failed, "we tested it and it failed") : null,
-    blankRow ? work(blankRow, "nothing published about it yet") : null,
+    threeSignal ? work(threeSignal, `${threeSignal.scores.evidence} Signals`) : null,
+    twoSignal ? work(twoSignal, "2 Signals") : null,
+    loudest ? work(loudest, "1 Signal · Most-Starred Single-Signal Row") : null,
+    mostUsed ? work(mostUsed, "Registry Listing") : null,
+    median ? work(median, "Median") : null,
+    failed ? work(failed, "Tested · Failed") : null,
+    blankRow ? work(blankRow, "Unmeasured") : null,
   ].filter((x): x is Worked => x !== null);
 
   // ── coverage: why the rest is blank, and whose problem that is ─────────────────────────────
@@ -191,29 +189,25 @@ export default function FormulaPage() {
 
   return (
     <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
-      <div style={{ fontSize: 10.5, textTransform: "uppercase", letterSpacing: "0.11em", color: "var(--accent)", fontWeight: 600 }}>
-        the formula
-      </div>
-      <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 46, lineHeight: 1.04, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: "8px 0 10px" }}>
-        One score for {n(total)} very different things.
+      <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 46, lineHeight: 1.04, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: "0 0 10px" }}>
+        Formula
       </h1>
       <p style={{ color: "var(--text-muted)", fontSize: 16, margin: "0 0 56px" }}>
-        A repo has stars. A registry listing has installs. A rules file has neither. So we never compare
-        raw numbers — we compare ranks, and count how many independent sources agree.
+        One score from {SIGNALS.length} public signals, each ranked within its own kind
       </p>
 
       <Section
         n="01"
-        title="A signal is a public number that proves people use it."
-        lead={`${cards.length} exist today. A tool is scored on whichever ones it has — a missing signal never counts against it. The weight decides how much a signal corroborates, never how much it wins: the strongest number a tool holds is always the one it leads with.`}
+        title="Signals"
+        lead={`${cards.length} exist today. A tool is scored on whichever ones it has: a missing signal, or a recorded zero, never counts against it. The strongest number a tool holds is always the one it leads with; the weight only decides which leads when two rank the same.`}
       >
         <Signals cards={cards} />
       </Section>
 
       <Section
         n="02"
-        title="Raw numbers don't compare. Ranks do."
-        lead="Each number is swapped for its place among things measured the same way — a repo's stars against other repos' stars, a registry's installs against other registries'. Listed twice on the same link? It counts once."
+        title="Percentiles"
+        lead={`Each number is swapped for its place among things measured the same way — a repo's stars against other repos' stars, a registry's installs against other registries'. A kind with fewer than ${MIN_POOL} measured things is too small to rank within, so those are ranked against every kind. Listed twice on the same link? It counts once. On this page, p90 means the 90th percentile: higher than 90% of its kind.`}
       >
         <Ladder rungs={rungs} unit="stars" />
       </Section>
@@ -221,25 +215,25 @@ export default function FormulaPage() {
       {loudest && best ? (
         <Section
           n="03"
-          title="Evidence beats popularity — and can never cost you."
-          lead={`One signal can be luck, a launch, or marketing. Several independent sources agreeing is proof. So we take your strongest number as ${B.base} of the score, and everything else you hold adds the last ${B.others}. One signal caps you at ${100 * B.base}. A second and a third can only ever push you up — earning more evidence is never punished.`}
+          title="Confidence"
+          lead={`One signal can be luck, a launch, or marketing. Several sources agreeing is stronger evidence than one. So we take your strongest number as ${B.base} of the score, and your second strongest adds the last ${B.others}. One signal caps you at ${100 * B.base}. A third counts only when it beats one of those two, so earning more evidence is never punished.`}
         >
           <HeadToHead
             left={{
               name: loudest.name,
               headline: n(loudest.signals.stars as number),
-              headlineLabel: "★ stars",
+              headlineLabel: "stars",
               signals: loudest.scores.evidence,
               score: loudest.scores.universal ?? 0,
-              verdict: "popular, unconfirmed",
+              verdict: "Unconfirmed",
             }}
             right={{
               name: best.name,
               headline: n((best.signals.stars ?? best.signals.usage ?? 0) as number),
-              headlineLabel: best.signals.stars != null ? "★ stars" : "↑ used",
+              headlineLabel: best.signals.stars != null ? "stars" : "installs",
               signals: best.scores.evidence,
               score: best.scores.universal ?? 0,
-              verdict: "corroborated",
+              verdict: "Corroborated",
             }}
           />
         </Section>
@@ -247,25 +241,25 @@ export default function FormulaPage() {
 
       <Section
         n="04"
-        title="The whole thing, on real rows."
-        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × the weighted average of everything else it holds, rounded to one decimal at the end. Nothing hidden — these sums are printed from the same weights the score is computed with, so they cannot disagree with it.`}
+        title="Worked Examples"
+        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × its second best, rounded to one decimal at the end; tables print three decimals from the unrounded score to separate ties. These sums use the same numbers as the score.`}
       >
         <WorkedTable rows={examples} />
       </Section>
 
       <Section
         n="05"
-        title={`We rank ${((100 * ranked.length) / total).toFixed(0)}% of the shelf, and we know why the rest is blank.`}
-        lead={`We asked GitHub about all ${n(repos.size)} repos behind the blank rows. None of this is a mystery — most of the tail simply has nothing to measure yet.`}
+        title="Coverage"
+        lead={`We asked GitHub about all ${n(repos.size)} repos behind the blank rows. Most have nothing to measure yet.`}
       >
         <Coverage
           ranked={ranked.length}
           total={total}
           buckets={[
-            { rows: root.length, label: "A repo we asked about that has no stars. Nobody has starred it yet, so there is honestly nothing to score.", fix: "waiting on its first user", fixable: false },
-            { rows: inside.length, label: "A file inside a repo. Its parent has stars; the file has not earned them, and we refuse to borrow the number.", fix: "needs a signal of its own", fixable: true },
-            { rows: elsewhere.length, label: "Listed on a registry that publishes its own install counts.", fix: "read the registry", fixable: true },
-            { rows: nowhere.length, label: "Nowhere to look — nothing published anywhere.", fix: nowhere.length ? "genuinely unrankable" : "none of them", fixable: false },
+            { rows: root.length, label: "Repositories with zero stars: nothing to score yet", fix: "Needs a first star", fixable: false },
+            { rows: inside.length, label: "Files inside a repository: the parent's stars are not counted for the file", fix: "Needs its own signal", fixable: true },
+            { rows: elsewhere.length, label: "Listed on a registry that publishes its own install counts", fix: "Pending registry fetch", fixable: true },
+            { rows: nowhere.length, label: "Nowhere to look — nothing published anywhere", fix: nowhere.length ? "genuinely unrankable" : "None", fixable: false },
           ]}
         />
         <p style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 18 }}>
@@ -282,12 +276,12 @@ export default function FormulaPage() {
         </p>
       </Section>
 
-      <Section n="06" title="Call it from an agent." lead="The same ranked JSON, three ways in.">
+      <Section n="06" title="API" lead="The same ranked JSON, three ways in.">
         <div style={{ display: "grid", gap: 12, gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))" }}>
           {(
             [
               ["REST", "GET /api/rank?component=mcp&vertical=finance\nGET /api/search?q=browser+automation"],
-              ["CLI", 'npx @namanparikh/armory rank --domain payments\nnpx @namanparikh/armory search "oauth"'],
+              ["CLI", 'Not on npm yet · build from cli/ in the repository, then:\narmory rank --domain payments\narmory search "oauth"'],
               ["MCP", "rank_components · search_catalog"],
             ] as const
           ).map(([label, code]) => (
@@ -302,7 +296,14 @@ export default function FormulaPage() {
           ))}
         </div>
         <p style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 18 }}>
-          The formula and every signal are open. If a weight is wrong, that&rsquo;s a pull request, not a mystery.
+          Weights are versioned in the repository (
+          <a href={`${REPO}/blob/main/lib/rank.mjs`} target="_blank" rel="noreferrer noopener" className="cursor-pointer text-accent-hover underline underline-offset-4">
+            lib/rank.mjs
+          </a>
+          ) ·{" "}
+          <a href={`${REPO}/issues/new`} target="_blank" rel="noreferrer noopener" className="cursor-pointer text-accent-hover underline underline-offset-4">
+            Open Issue
+          </a>
         </p>
       </Section>
     </main>

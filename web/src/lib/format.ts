@@ -54,6 +54,14 @@ export function ago(iso: string, now: number): string {
 }
 
 /** "40 minutes ago" · "5 hours ago" · "2 days ago" — for a refresh time, where hours matter. */
+/** "26 Sep 2026, 09:04 UTC": a fixed time for server HTML, true however old the cached page is. */
+export function utcStamp(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  const hm = `${String(d.getUTCHours()).padStart(2, "0")}:${String(d.getUTCMinutes()).padStart(2, "0")}`;
+  return `${shortDate(iso)}, ${hm} UTC`;
+}
+
 export function sinceText(iso: string, now: number): string {
   const t = Date.parse(iso);
   if (!Number.isFinite(t)) return "";

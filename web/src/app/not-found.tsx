@@ -11,7 +11,7 @@ export default function NotFound() {
       <h1 className="mt-5 text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
         Not Found
       </h1>
-      <p className="mt-3 text-[14px] text-ink-muted">No component matches this address</p>
+      <p className="mt-3 text-[14px] text-ink-muted">No page at this address</p>
       <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
         <Link
           href="/browse"

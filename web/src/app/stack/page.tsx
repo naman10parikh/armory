@@ -12,9 +12,10 @@
 import type { Metadata } from "next";
 import Form from "next/form";
 import Link from "next/link";
+import { ContributorLink } from "@/components/badges";
 import { OursTag } from "@/components/board-table";
 import { ContentWidth, DataTable, Th, Tr, clampWords } from "@/components/data-table";
-import { HarnessSelector, InstallSnippet, NoInstall } from "@/components/install-snippet";
+import { CliNote, HarnessSelector, InstallSnippet, NoInstall } from "@/components/install-snippet";
 import { NotIndexedTag } from "@/components/component-page";
 import { ScoreBadge } from "@/components/score-badge";
 import { CopyText, PickSelect, StackCommand, type PickOption } from "@/components/stack-builder";
@@ -133,6 +134,7 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
             <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Inside the harness</h2>
             {/* One control for one setting: the nav owns this selector from lg up. */}
             <HarnessSelector className="lg:hidden" />
+            <CliNote />
           </div>
 
           <Form action="/stack" scroll={false}>
@@ -163,7 +165,9 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
                       <PickSelect name={s.slug} label={s.label} value={s.chosen} options={s.options} />
                       {s.row?.ours && <OursTag />}
                       {s.row?.contributedBy && (
-                        <span className="mt-1 block text-[11.5px] text-ink-faint">Contributed by {s.row.contributedBy}</span>
+                        <span className="mt-1 block text-[11.5px] text-ink-faint">
+                          Contributed by <ContributorLink name={s.row.contributedBy} />
+                        </span>
                       )}
                     </td>
                     <td data-col="score" className={`${CELL} text-right`}>

@@ -2,8 +2,7 @@
 // — the web /ask box, an email to its inbox, an SMS/WhatsApp to its number — runs the SAME
 // interpretation + the SAME field-weighted scorer over the SAME vendored catalog. One relevance
 // definition, three front doors. Node runtime only: it reads catalog.json off disk.
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { readCatalogText } from "./catalog-file";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied to the site root by prebuild)
 import { computeRows } from "../../lib/rank.mjs";
 import { isInstallable } from "./installable";
@@ -24,8 +23,7 @@ interface Hit { raw: RawComponent; row: EngineRow }
 let CACHE: Hit[] | null = null;
 function corpus(): Hit[] {
   if (CACHE) return CACHE;
-  const path = join(process.cwd(), "catalog.json"); // vendored to the site root by prebuild
-  const cat = JSON.parse(readFileSync(path, "utf-8")) as { components: RawComponent[] };
+  const cat = JSON.parse(readCatalogText()) as { components: RawComponent[] }; // vendored by prebuild
   const rows = computeRows(cat.components) as EngineRow[]; // same order as cat.components (a .map)
   CACHE = cat.components.map((raw, i) => ({ raw, row: rows[i] }));
   return CACHE;
@@ -240,7 +238,7 @@ export async function askCatalog(q: string, limit = 12): Promise<AskResult> {
   if (!key) {
     return {
       ok: false, reason: "no_key", interpretation: { keywords: qTokens },
-      summary: "Showing keyword matches (add GEMINI_API_KEY for conversational search).",
+      summary: "Keyword matches; conversational search is off.",
       items: runSearch(qTokens, {}, limit),
     };
   }

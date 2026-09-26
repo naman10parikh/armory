@@ -24,7 +24,7 @@ export const runtime = "nodejs";
 
 export const metadata: Metadata = {
   title: "Components · Armory",
-  description: "The catalog organised by the eleven components of an agent harness.",
+  description: "The catalog organized by the 11 components of an agent harness.",
 };
 
 export default function ComponentsPage() {

@@ -1,3 +1,4 @@
+import { ContributorLink } from "./badges";
 import { clampWords } from "./data-table";
 import { ScoreBadge } from "./score-badge";
 import { SignalsRow, type SignalValues } from "./signals-row";
@@ -43,7 +44,9 @@ export function AskResultCard({ item }: { item: AskResultItem }) {
             {[item.component, item.domain, item.vertical].filter(Boolean).join(" · ")}
           </div>
           {item.contributor && (
-            <div className="mt-0.5 text-[11.5px] text-ink-faint">Contributed by {item.contributor}</div>
+            <div className="mt-0.5 text-[11.5px] text-ink-faint">
+              Contributed by <ContributorLink name={item.contributor} />
+            </div>
           )}
         </div>
         <ScoreBadge score={item.universal} evidence={evidenceOf(item.signals)} />

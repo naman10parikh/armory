@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { BoardTable } from "@/components/board-table";
 import { ContentWidth } from "@/components/data-table";
-import { HarnessSelector } from "@/components/install-snippet";
+import { CliNote, HarnessSelector } from "@/components/install-snippet";
 import { LinkChipGroup, type ChipLink } from "@/components/link-chips";
 import { int } from "@/lib/format";
 import { boardFacets, boardMeta, leaderboardPage, type Facet } from "@/lib/rows";
@@ -16,7 +16,7 @@ export const runtime = "nodejs";
 
 export const metadata: Metadata = {
   title: "Leaderboard · Armory",
-  description: "Every agent component scored on its public signals, filterable by component, domain and vertical.",
+  description: "Agent components ranked on public signals, filterable by component, domain and vertical.",
 };
 
 // COPY.md §4B — sort axis → label.
@@ -105,6 +105,8 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
     limit: v.limit,
   });
   const pages = Math.max(1, Math.ceil(total / v.limit));
+  // The catalog total only says something new next to a filtered count (CP138 T51).
+  const filtered = Boolean(v.component || v.domain || v.vertical);
   const csv = `/api/rank.csv?${new URLSearchParams({
     ...(v.component ? { component: v.component } : {}),
     ...(v.domain ? { domain: v.domain } : {}),
@@ -118,7 +120,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
         <ContentWidth className="pb-6 pt-10">
           <h1 className="text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Leaderboard</h1>
           <p className="mt-3 text-[16px] leading-normal text-ink-body">
-            Every component scored on its public signals ·{" "}
+            Scored on public signals; components with none are listed as Unranked ·{" "}
             <Link href="/formula" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
               Formula
             </Link>
@@ -143,7 +145,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
             />
             <div className="flex flex-wrap items-center gap-3 pt-1 text-[12.5px]">
               <Link href={hrefFor(v, { dir: v.dir === "desc" ? "asc" : "desc", page: 1 })} scroll={false} className={BUTTON}>
-                {v.dir === "desc" ? "Highest first" : "Lowest first"}
+                {v.dir === "desc" ? "Highest First" : "Lowest First"}
               </Link>
               <span className="inline-flex items-center gap-1.5">
                 <span className="text-[11px] font-medium uppercase tracking-[0.14em] text-ink-muted">Rows</span>
@@ -165,11 +167,18 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
                 Export
               </a>
               <HarnessSelector className="lg:hidden" />
+              <CliNote />
               <span className="ml-auto text-ink-muted">
                 <data value={String(total)} className="font-semibold text-ink-hi">
                   {int(total)}
                 </data>{" "}
-                results · <data value={String(meta.total)}>{int(meta.total)}</data> in the catalog
+                results
+                {filtered && (
+                  <>
+                    {" "}
+                    · <data value={String(meta.total)}>{int(meta.total)}</data> in the catalog
+                  </>
+                )}
               </span>
             </div>
           </div>
@@ -213,7 +222,7 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
               </Link>
             )}
             <span className="ml-auto">
-              Equal scores are ordered by the score before rounding, then signals, the latest commit and stars.
+              Equal scores are ordered by the score before rounding, then by how many signals agree, the most recent commit and stars.
             </span>
           </nav>
         </ContentWidth>

@@ -1,5 +1,6 @@
 // /identity — the channels Armory answers on. Email, phone, web: one row each, plus the two webhook
-// URLs that wire the first two up. Server component; addresses come from env so the page states what
+// URLs that wire the first two up (setup: docs/CHANNELS.md). The page is called Channels, since
+// /c/identity is the Identity harness component (CP138 T51). Server component; addresses come from env so the page states what
 // is actually configured rather than what is planned. Tokenised classes only (design/BRIEF.md §6).
 import type { Metadata } from "next";
 import { ContentWidth, DataTable, Td, Th, Tr } from "@/components/data-table";
@@ -8,9 +9,9 @@ import { SITE } from "@/lib/answer";
 export const runtime = "nodejs";
 
 export const metadata: Metadata = {
-  title: "Identity · Armory",
+  title: "Channels · Armory",
   description:
-    "The channels Armory answers on — email, SMS and WhatsApp, and the web — each running the same ranked catalog search.",
+    "The channels Armory can answer on: the web today, email and SMS/WhatsApp once configured.",
 };
 
 const NOT_CONFIGURED = "Not Configured";
@@ -31,7 +32,7 @@ export default function Identity() {
 
   return (
     <ContentWidth className="pb-24 pt-8">
-      <h1 className="text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Identity</h1>
+      <h1 className="text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Channels</h1>
       <p className="mt-2 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
         Three channels, one ranked catalog search
       </p>
@@ -77,12 +78,9 @@ export default function Identity() {
       </section>
 
       <section className="mt-12">
-        <h2 className="text-[22px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">Webhooks</h2>
-        <p className="mt-2 max-w-[68ch] text-[15px] leading-[1.6] text-ink-body">
-          Paste the first into the AgentMail console as the <Code>message.received</Code> destination,
-          the second into the Twilio console as the incoming-message handler for both the SMS number
-          and the WhatsApp sender.
-        </p>
+        <h2 className="text-[22px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
+          Webhook Endpoints
+        </h2>
         <ul className="mt-4 flex list-none flex-col gap-2 p-0">
           <li>
             <Code>{`${SITE}/api/inbound/email`}</Code>

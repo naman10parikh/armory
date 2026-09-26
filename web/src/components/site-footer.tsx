@@ -22,20 +22,17 @@ export function SiteFooter() {
           <p className="mt-3 max-w-sm text-[14px] leading-normal text-ink-body">
             Ranked catalog of open-source agent components
           </p>
-          <p className="mt-1 text-[13px] text-ink-muted">
-            For agents, by agents, of agents.
-          </p>
         </div>
 
         <div className="flex flex-wrap gap-x-10 gap-y-6 text-[14px]">
           <FooterCol label="Catalog">
             <FooterLink href="/leaderboard">Leaderboard</FooterLink>
             <FooterLink href="/browse">Browse</FooterLink>
-            <FooterLink href="/graph">Timeline</FooterLink>
+            <FooterLink href="/pipeline">Pipeline</FooterLink>
           </FooterCol>
           <FooterCol label="Developers">
             <FooterLink href="/formula">Formula</FooterLink>
-            <FooterLink href="/identity">Identity</FooterLink>
+            <FooterLink href="/identity">Channels</FooterLink>
             <FooterA href={`${REPO}/blob/main/CONTRIBUTING.md`}>Contribute</FooterA>
             <FooterA href={REPO}>Source</FooterA>
           </FooterCol>
@@ -43,8 +40,7 @@ export function SiteFooter() {
       </div>
 
       <p className="mt-12 font-sans text-[11px] text-ink-faint">
-        MIT · the open registry of agent-harness components · built in the open by
-        the Energy ecosystem
+        License MIT · Built by Energy
       </p>
     </footer>
   );

@@ -2,7 +2,7 @@
   The ranked table — the home tabs, the leaderboard, the shelves and Ask all draw rows with this, so
   a reader who learned one table has learned them all (CP143).
 
-  Rank · Score · Component · [Gained | Listed] · What it does · Evidence · Last commit · Install
+  Rank · Score · Component · [Gained | Listed] · Description · Evidence · Last commit · Install
 
   - Score: three decimals from the exact score (four where neighbours would tie), else "Unranked".
   - Evidence: the signals in words. Last commit: a <time datetime> on every row, with Stale after two
@@ -13,6 +13,7 @@
   sideways. No hooks here, so both server pages and the client Ask page can render it.
 */
 import Link from "next/link";
+import { ContributorLink } from "./badges";
 import { DataTable, Th, clampWords } from "./data-table";
 import { InstallSnippet, NoInstall } from "./install-snippet";
 import { ScoreBadge } from "./score-badge";
@@ -86,7 +87,7 @@ export function BoardTable({
           <Th className="w-[210px]">Component</Th>
           {extra === "gained" && <Th className="w-[128px]">Gained</Th>}
           {extra === "listed" && <Th className="w-[112px]">Listed</Th>}
-          <Th className="w-auto">What it does</Th>
+          <Th className="w-auto">Description</Th>
           <Th className="w-[190px]">Evidence</Th>
           <Th className="w-[118px]">Last commit</Th>
           <Th className="w-[280px]">Install</Th>
@@ -171,7 +172,9 @@ function NameCell({ row }: { row: RowView }) {
       </span>
       <span className="mt-0.5 block text-[12px] text-ink-muted">{row.meta}</span>
       {row.contributedBy && (
-        <span className="mt-0.5 block text-[11.5px] text-ink-faint">Contributed by {row.contributedBy}</span>
+        <span className="mt-0.5 block text-[11.5px] text-ink-faint">
+          Contributed by <ContributorLink name={row.contributedBy} />
+        </span>
       )}
       {row.alsoListedAs.length > 0 && (
         <span className="mt-0.5 block text-[11.5px] text-ink-faint">

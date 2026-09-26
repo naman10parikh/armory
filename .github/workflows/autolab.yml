@@ -120,6 +120,15 @@ jobs:
           node scripts/demote-renamed.mjs --apply || echo "::warning::rename fold failed — continuing"
           node ingest/catalog.mjs
 
+      # 3a-ii. One repository on two shelves (CP143 T56): ruvnet/ruflo as a Tool and an MCP, a root also
+      #     listed as `repo#readme`, one folder under two branches. The kept row takes the others'
+      #     mentions and test result; the others move (never deleted) to brain/lookup/duplicates/.
+      - name: Fold one repository listed twice across shelves
+        continue-on-error: true
+        run: |
+          node scripts/demote-same-repo.mjs --apply || echo "::warning::same-repository fold failed — continuing"
+          node ingest/catalog.mjs
+
       # 3b. Keep tabs on the upstream source repos (refresh repos/status.json staleness).
       #     Fault-isolated; uses the runner's GITHUB_TOKEN for a higher rate limit.
       - name: Refresh source-repo watchlist

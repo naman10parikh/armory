@@ -140,3 +140,69 @@ Checked against a production build (`pnpm build && pnpm start -p 7312`). Screens
 
 Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
 test 6/6, test pyramid 14/14, `validate` and `test-gate` PASS, and a catalog rebuild shows no drift.
+
+### Second pull request: dedupe, the score, packages, deploy access, the gzipped catalogue
+
+Screenshots are in `shots/followups/b/`.
+
+| Item | Verify with | Result |
+|---|---|---|
+| T56: one repository entered twice | `node scripts/demote-same-repo.mjs`, then a lookup per repository | 102 rows folded in 59 repositories, moved to `brain/lookup/duplicates/` with nothing deleted: 36 across shelves, 5 roots written two ways, 18 folders under two branches. ruvnet/ruflo, stripe/ai, upstash/context7, langfuse, mlflow, container-use, claude-task-master, google/a2a, openmemory, `servers/src/everything` and `cognee-mcp` now enter once each. Subpaths no longer borrow their parent's stars. The 2,872 same-URL MCP pairs from PulseMCP and Glama sit behind `--same-type`, which is off. |
+| Wrappers shadowing projects | `armory install mempalace --dry-run` | Three MCP bridges that carried a project's own name are renamed to their repository's slug, and an exact-name tie resolves to the project. `mempalace` now means MemPalace. |
+| T20: /formula matches the engine | independent Python reproduction · the `/formula` sums | The score is 0.8 × best + 0.2 × second best; a third counts only when it beats one of them; `mentions: 0` is no signal. Five rows reproduce exactly: letta-ai-letta 99.5591, wshobson-agents 99.7223, e2b-sandbox 99.8892, context7-mcp 99.7727, daytona 80. All six worked sums on `/formula` add up to their score. The Context7 mentions moved to upstash/context7. |
+| T25: package files | `npm pack --dry-run` in `cli/` and `armory-mcp/` | Both tarballs now carry README.md and LICENSE (24 files and 12 files). Not published. |
+| T41: deploy access on four shelves | the `/c/sandbox`, `/c/memory`, `/c/mcps`, `/c/tools` screenshots | One line under the pick: E2B, Supermemory, Composio, and Browserbase + Stagehand. |
+| T24: gzipped catalogue | `ls -l catalog.json*` · top row from the CLI, the MCP and `/api/rank` | 55.4 MB to 7.1 MB. The site and the engine read the `.gz`, and the CLI, the MCP and `/api/rank` agree: openclaw-openclaw overall, thedotmack-claude-mem on memory. The plain file stays, because seven scripts outside Armory read it (`docs/CATALOG-SIZE.md`). |
+| Item 1: alternatives | the aider, github-mcp and letta pages | Only rows that share a purpose. aider: openai-codex, claude-squad (was gh and duckdb). github-mcp: nulab-backlog, github-brain-mcp-server, raohwork-forgejo. letta: plastic-labs-honcho. |
+| Item 2: alternatives' scores | the same pages | Three decimals, as `/` prints them: openai-codex 99.989, not 100.0. |
+| Item 3: pointer-only sections | aider page | "When to use it" and "How to install / invoke" are gone when they only say "See the source"; github-mcp keeps its real ones. |
+| Item 5: phone nav fade | 390 shots, start and end | The fade was already on main. At the end of the scroll the last link now ends at 322 px, and the fade starts at 323 px. |
+| Item 8: `bench` on Evals | `armory rank --component eval` | harbor-framework-terminal-bench-2-1 is on the Evals shelf at 94.4. |
+| Item 9: catalogue size | `docs/CATALOG-SIZE.md` | The ruling was already there. Today's measurement and what was done are added under 26 September. |
+
+After T20, cognee is seventh on Memory, still at its root repository. It was first only because the rows
+above it held mentions and the old blend took points off them for it.
+
+Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
+test 6/6, test pyramid 14/14, `validate` PASS (65,216), `test-gate` PASS, and a catalog rebuild shows no drift.
+
+### Second pull request, continued: the T51 copy review
+
+The reject list is `sentinel/brain/updates/cp143/cp138-T51-rejects.md`: 79 rows over 27 pages, read on
+production at `ec49ffdf`. Screenshots are in `shots/followups/b/t51/`. Each page was then read back from a
+production build: every rejected string is gone from the served HTML and every replacement is there (16 pages
+checked by script, plus the screenshots).
+
+| Rows | Result |
+|---|---|
+| G1, X1, D4 | Already fixed by the first pull request (repository links, `/llms.txt` built from the catalog) and by item 3 above. |
+| G2, G3 | The footer slogan is gone; the last line reads "License MIT · Built by Energy". |
+| G4, TL1–TL10 | The page is **Pipeline** at `/pipeline`; `/graph` and `/timeline` answer 308 to it. Headings are "Layer 1" over "Sources" and so on. The ranked count (28,988) comes from the engine, the signal chips from its `WEIGHTS` keys and the blend from `BLEND`: nothing on the page is typed by hand. COPY.md's lexicon says Pipeline. |
+| G5, H1, S1 | T51 proposed "most installable in one command". Since the first pull request only rows `armory install` can place show a command (2 of the 11 /stack picks), so that would be untrue too. The heading reads "65,216 agent components, ranked where public evidence exists"; the /stack caption reads "11 picks · 2 in this command". |
+| G6, G7 | "Description" column; "passed install test", "failed install test", "{n}% of install tests passed". |
+| G8, F1 | "Needs the armory CLI · not on npm yet, build it from cli/ in the repository" sits beside the Harness selector on the home board, the leaderboard, /stack, the /c pages and /ask, and under the install box on a detail page that shows a command. /formula's CLI box says the same. |
+| H2–H5 | Share card counts ranked rows; "+342 listed this week"; the served HTML gives a fixed time ("Updated 26 Sep 2026, HH:MM UTC"), which stays true in a cached page, and the browser switches to "42 minutes ago" after loading; "across component types". |
+| L1–L5 | Leaderboard lead and meta; "4 More"; the catalog total shows only beside a filtered count; the full tie-break sentence; "Highest First". |
+| A1–A4 | /ask says "Search by keyword, get ranked components" (a comment in the code says to restore the old line once `GEMINI_API_KEY` is set); loading text names what loads; tab title "Ask · Armory"; `/api/ask` says "Keyword matches; conversational search is off." |
+| C1, C2, CP1–CP3 | No "shelf" in the property notes; US spelling; /c/identity says "ranks the rules rows, the largest part of this component (461 of 499)"; the sub-agent picks lose "specialised" and the unsourced superlative. |
+| F2–F15 | Headings are Signals, Percentiles, Confidence, Worked Examples, Coverage, API. No glyphs; values in words ("1 fork", "passed install test"); `p90` is explained; the labels and tiers follow COPY.md §4C. T51's meta line described the old blend, so the new one reads the numbers from `BLEND`. F10 was already fixed by T20. |
+| S2 | "provisioned through bezalel.sh". |
+| ST1–ST8 | A `verified_at` that is not a date now counts as No Date / Not Crawled. Base Crawl May 2026, newest confirmation September 2026 (162 rows), 99.7% confirmed in May. Coverage counts the engine's five signals (28,988, 44.4%, the same as the home page and /formula). The freshness sentence said "a single sweep (May 26 → Sep 26)", which contradicted the crawl-age line, so it now gives the date range. |
+| B1–B4 | `-feed` tags are hidden on cards and detail pages; "Details"; Title Case maturity; a "Harness" label before the harness chips. |
+| D1–D3, D5–D8 | "Pending verify -> promote." and "(live API)" are dropped when a note is shown; the files keep them. "Alternatives · MCPs": T51 proposed "Top-Ranked MCPs" for the old list of shelf leaders, but the list now holds real alternatives. "Listed as compatible" / "Not listed · generic path". The detail score prints three decimals (github-mcp 99.942). "Confirmed 26 May 2026". "Related". Related cards print their signals in words. |
+| I1–I3, N1 | The page is **Channels** (the route stays `/identity`); "Webhook Endpoints" over the two URLs, and the setup sentence moved to `docs/CHANNELS.md`; the meta says email and SMS answer once configured. The 404 says "No page at this address". |
+| Ruling | "Contributed by Sentinel" stays, and "Sentinel" now links `docs/CONTRIBUTORS.md` on tables, /stack, the /c picks, /ask cards and detail pages. On a browse card (one link covers the card) and on the share image it stays plain text. |
+
+Not changed, with the reason:
+- **Stars and forks both come from GitHub and count as two signals.** That is a formula decision for the owner.
+- `web/src/app/graph/graph-client.tsx` is unused and still in place.
+- `/robots.txt` and `/sitemap.xml` return 404. Adding them is not a copy fix.
+- energy's `.claude/rules/new-service-checklist.md` says Armory answers on email and SMS/WhatsApp. That rule lives in another repository.
+- "0 mentions" counted as a signal: T20 already fixed this. wshobson-agents and voltagent now show stars and forks, 2 signals.
+
+New finding: after T56 moved forks onto repository roots, /formula §03's most-starred single-signal row is
+circle-mcp-server at 2,621 stars. Its corroborated rival has 209,417 stars, so the head-to-head no longer shows
+"more stars, lower score". The page is still true, but the comparison has lost its point.
+
+Checks: `pnpm build` in `web/` passed with 0 TypeScript errors. CLI tests 10/10, MCP server tests 5/5, CLI agentic
+test 6/6, test pyramid 14/14, `validate` PASS (65,216), `test-gate` PASS.

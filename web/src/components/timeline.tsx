@@ -1,4 +1,4 @@
-// The "how the index grew" timeline. A SERVER component — every number is
+// The pipeline: the layers the catalog is built from (/pipeline). A SERVER component — every number is
 // computed from catalog.json at build time and handed in by the page. There
 // are NO dates: this is the LAYERS the Armory is built from, in the order an
 // agent meets them, not a dated history. Tokenised classes only (design/BRIEF.md
@@ -19,22 +19,18 @@ export interface TimelineData {
   collections: Tally[]; // top hand-curated source repos, by count
   distinctRepos: number; // distinct source repositories, deduped into the catalog
   types: Tally[]; // the 12 component kinds, real per-type counts, sorted desc
-  starsSignal: number; // components carrying a measured popularity signal
+  ranked: number; // components the engine ranks: at least one signal (lib/rank.mjs)
+  signals: string[]; // the signals the engine scores on, in its own order (lib/rank.mjs WEIGHTS)
+  blend: { base: number; others: number }; // the engine's blend (lib/rank.mjs BLEND)
   verticals: string[]; // the 12 industry buckets (display labels)
 }
-
-// The Universal-score weighting is the ranking FORMULA (engine constants in
-// lib/rank.mjs), not a catalog aggregate: a passing test counts most, then community
-// mentions, then stars, then usage. Static on purpose — it describes the math.
-// Labels reuse the canonical Signal vocabulary (components/signals-row.tsx).
-const SIGNAL_WEIGHTS: readonly string[] = ["Tested ×1.4", "Mentions ×1.2", "Stars ×1.0", "Usage ×0.9"];
 
 // The three ways the one catalog is read. All three ship (README: the site, the
 // `armory` CLI, and the armory-mcp server all read one generated catalog.json).
 const SURFACES: readonly { name: string; detail: string }[] = [
   { name: "REST", detail: "/api/rank · /api/search" },
   { name: "CLI", detail: "armory rank · armory search" },
-  { name: "MCP", detail: "armory-mcp — live search + install" },
+  { name: "MCP", detail: "armory-mcp · search, rank, get, submit" },
 ];
 
 const nf = (n: number): string => n.toLocaleString("en-US");
@@ -71,8 +67,7 @@ function Chip({ children }: { children: React.ReactNode }) {
 }
 
 interface Milestone {
-  label: string; // eyebrow — a short, ≤3-word label (COPY.md R2)
-  title: string; // H2, no terminal punctuation (R4)
+  title: string; // H2, ≤3 words, no terminal punctuation (COPY.md R2, R4); the eyebrow is "Layer N"
   lead: string;
   figure: React.ReactNode;
 }
@@ -81,9 +76,8 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
   // Milestones = the layers, assembled from real catalog numbers + static structure.
   const milestones: Milestone[] = [
     {
-      label: "Sources",
-      title: "The sources",
-      lead: "Agents crawl the major MCP registries and the best hand-curated GitHub collections, then dedupe and merge everything into one catalog, so the shelf spans the whole open ecosystem, not one list.",
+      title: "Sources",
+      lead: `Agents crawl ${data.registries.length} MCP registries and hand-curated GitHub collections, then dedupe and merge them into one catalog.`,
       figure: (
         <div className="grid gap-3.5 [grid-template-columns:repeat(auto-fit,minmax(240px,1fr))]">
           <Card>
@@ -102,9 +96,8 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
       ),
     },
     {
-      label: "Components",
-      title: "The components",
-      lead: "Every entry is one building block, sorted into twelve kinds. The last four — CLIs, evals, observability, infrastructure — are what most other lists under-cover.",
+      title: "Components",
+      lead: `Each entry is one component, sorted into ${data.types.length} types.`,
       figure: (
         <Card>
           <div className="grid gap-x-6 gap-y-0 [grid-template-columns:repeat(auto-fit,minmax(210px,1fr))]">
@@ -116,21 +109,19 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
       ),
     },
     {
-      label: "Ranking",
-      title: "The ranking",
-      lead: "Each component gets one Universal score. Each signal becomes a 0–100 percentile and blends by weight, judged on the signal natural to its kind — stars for a repo, usage for a registry MCP, mentions for a community pick — never forced onto one shared column. More independent signals, more confidence.",
+      title: "Ranking",
+      lead: `Components with at least one public signal get a Score: each signal becomes a 0–100 percentile within its own kind, then the strongest counts ${data.blend.base} and the second strongest ${data.blend.others}. More signals, more confidence.`,
       figure: (
         <div className="flex flex-wrap gap-2">
-          {SIGNAL_WEIGHTS.map((w) => (
-            <Chip key={w}>{w}</Chip>
+          {data.signals.map((s) => (
+            <Chip key={s}>{s}</Chip>
           ))}
         </div>
       ),
     },
     {
-      label: "Verticals",
-      title: "The verticals",
-      lead: "Each component is also scored for the industry sector it serves, so an agent can ask for exactly its domain, or stay industry-agnostic when a building block is horizontal.",
+      title: "Verticals",
+      lead: "Components are also tagged with the industry they serve, so an agent can filter by vertical or ignore it.",
       figure: (
         <div className="flex flex-wrap gap-2">
           {data.verticals.map((v) => (
@@ -140,9 +131,8 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
       ),
     },
     {
-      label: "Query Surface",
-      title: "The query surface",
-      lead: "The same catalog is readable three ways. The numbers on this page are computed from it the moment the page is built, never hand-typed.",
+      title: "Query Surface",
+      lead: "The same catalog is readable three ways.",
       figure: (
         <div className="grid gap-2.5 [grid-template-columns:repeat(auto-fit,minmax(220px,1fr))]">
           {SURFACES.map((s) => (
@@ -162,13 +152,13 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     const big =
       i === 0 ? data.distinctRepos
       : i === 1 ? data.total
-      : i === 2 ? data.starsSignal
+      : i === 2 ? data.ranked
       : i === 3 ? data.verticals.length
       : SURFACES.length;
     const cap =
       i === 0 ? "Distinct source repositories, deduped"
-      : i === 1 ? "Components across twelve kinds"
-      : i === 2 ? "Carry a measured popularity signal today"
+      : i === 1 ? `Components across ${data.types.length} types`
+      : i === 2 ? "Ranked on at least one signal"
       : i === 3 ? "Industry verticals"
       : "Ways to reach the one catalog";
     return { ...m, big, cap };
@@ -187,7 +177,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
             aria-hidden
             className="absolute -left-[7px] top-1 h-[13px] w-[13px] rounded-full bg-ink-muted ring-4 ring-canvas"
           />
-          <p className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">{`Layer ${i + 1} · ${m.label}`}</p>
+          <p className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">{`Layer ${i + 1}`}</p>
           <h2 className="mt-1.5 text-[24px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
             {m.title}
           </h2>

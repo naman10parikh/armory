@@ -3,8 +3,7 @@
 // relevance on name + description + tags, intersected with the component/domain filters, and enriches
 // every hit with the shared engine's normalized component, domain, Universal score, and primary signal
 // (via computeRows — imported read-only). Node runtime; this route owns the catalog read like /api/rank.
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { readCatalogText } from "@/lib/catalog-file";
 import { NextResponse } from "next/server";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied to the site root by prebuild)
 import { computeRows } from "../../../../lib/rank.mjs";
@@ -25,8 +24,7 @@ interface Hit { raw: RawComponent; row: EngineRow }
 let CACHE: Hit[] | null = null;
 function corpus(): Hit[] {
   if (CACHE) return CACHE;
-  const path = join(process.cwd(), "catalog.json"); // vendored to the site root by prebuild
-  const cat = JSON.parse(readFileSync(path, "utf-8")) as { components: RawComponent[] };
+  const cat = JSON.parse(readCatalogText()) as { components: RawComponent[] }; // vendored by prebuild
   const rows = computeRows(cat.components) as EngineRow[]; // same order as cat.components (a .map)
   CACHE = cat.components.map((raw, i) => ({ raw, row: rows[i] }));
   return CACHE;

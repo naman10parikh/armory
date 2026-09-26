@@ -9,17 +9,18 @@ import {
   readComponentBody,
 } from "@/lib/catalog";
 import type { Component } from "@/lib/types";
-import { CliChip, MaturityBadge, TagChip, TypePill } from "@/components/badges";
+import { CliChip, ContributorLink, MaturityBadge, TagChip, TypePill } from "@/components/badges";
 import { OursTag, StaleTag } from "@/components/board-table";
 import { ComponentCard } from "@/components/component-card";
 import { ContentWidth } from "@/components/data-table";
 import { ScoreBadge } from "@/components/score-badge";
 import { SignalsRow, type SignalValues } from "@/components/signals-row";
-import { HarnessSelector } from "@/components/install-snippet";
+import { CliNote, HarnessSelector } from "@/components/install-snippet";
 import { InstallStrip } from "@/components/install-strip";
 import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
 import { CANON, rowsFor, stackFor } from "@/lib/canon";
-import { ago, contributorOf, shortDate } from "@/lib/format";
+import { alternativesFor } from "@/lib/alternatives";
+import { ago, contributorOf, rankedScoreTexts, scoreText, shortDate } from "@/lib/format";
 import { findRow } from "@/lib/rows";
 import { detailHref } from "@/lib/row-view";
 import { checkedRun } from "@/lib/run-check";
@@ -70,6 +71,25 @@ export async function generateMetadata({
   };
 }
 
+// "When to use it" and "How to install / invoke" sections whose whole body is a pointer to the source
+// ("See the source: <url>") say nothing the Source link beside them does not, so they are left out
+// (CP143). The note keeps them; `armory install` still reads its install section.
+const POINTER_ONLY = /^see the source(?: readme)?:?\s*<?https?:\/\/\S+?>?\.?$/i;
+function withoutPointerSections(md: string): string {
+  return md.replace(
+    /^#{1,6}\s+(?:When to use it|How to install \/ invoke)\s*\n([\s\S]*?)(?=^#{1,6}\s|(?![\s\S]))/gim,
+    (section: string, content: string) => (POINTER_ONLY.test(content.trim()) ? "" : section),
+  );
+}
+
+// The intake's workflow notes ("Pending verify -> promote.", "(live API)") sit in almost every note and
+// tell a reader nothing (CP138 T51), so they are left out of the page; the files keep them.
+function withoutWorkflowNotes(md: string): string {
+  return md
+    .replace(/[ \t]*Pending verify (?:->|→) promote\.?/g, "")
+    .replace(/Discovered via the (.+?) \(live (?:API|sitemaps?)\)\./g, "Listed from the $1.");
+}
+
 export default async function ComponentDetailPage({
   params,
 }: {
@@ -81,7 +101,7 @@ export default async function ComponentDetailPage({
 
   const body = readComponentBody(component);
   const html = body
-    ? await marked.parse(body, { async: true, gfm: true, breaks: false })
+    ? await marked.parse(withoutWorkflowNotes(withoutPointerSections(body)), { async: true, gfm: true, breaks: false })
     : "";
 
   const allComponents = getComponents();
@@ -100,15 +120,16 @@ export default async function ComponentDetailPage({
   const vertical = row?.vertical ?? null;
   const now = Date.now();
   const contributedBy = contributorOf(component.tags);
+  // A `<name>-feed` tag is the intake pipeline's; "Contributed by" below already says it (CP138 T51).
+  const tags = component.tags.filter((t) => !t.endsWith("-feed"));
+  const confirmed = component.verified_at && /^\d{4}-\d{2}-\d{2}/.test(component.verified_at) ? component.verified_at : null;
 
-  // Alternatives: the best-scored rows on the same canonical shelf, so a reader who landed on the
-  // wrong tool sees the right one in one click (CP143 brief, the detail page listed none).
+  // Alternatives: the best-scored rows on the same canonical shelf that do the same job, so a reader
+  // who landed on the wrong tool sees the right one in one click (src/lib/alternatives.ts). Their scores
+  // print like every ranked list's: three decimals, four where two would read the same.
   const shelf = row ? Object.keys(CANON).find((k) => CANON[k].includes(row.component)) ?? null : null;
-  const alternatives = shelf
-    ? rowsFor(shelf)
-        .filter((r) => r.universal != null && !(r.type === type && r.name === slug))
-        .slice(0, 3)
-    : [];
+  const alternatives = shelf && row ? alternativesFor(row, shelf, rowsFor(shelf)) : [];
+  const altScores = rankedScoreTexts(alternatives.map((a) => (a.universal == null ? null : a.exact)));
 
   return (
     <ContentWidth className="pb-16 pt-8">
@@ -148,7 +169,14 @@ export default async function ComponentDetailPage({
                 Score
               </dt>
               <dd className="mt-1.5">
-                <ScoreBadge score={score} evidence={evidence} caption />
+                {/* Three decimals, as every table prints this row (CP138 T51) */}
+                <ScoreBadge
+                  score={score}
+                  evidence={evidence}
+                  display={row?.exact != null ? scoreText(row.exact, 3) : null}
+                  value={row?.exact ?? null}
+                  caption
+                />
               </dd>
             </div>
             <div>
@@ -198,12 +226,13 @@ export default async function ComponentDetailPage({
               run={component.type === "mcps" ? checkedRun(component.type, component.name, component.description, body) : null}
               installable={row?.installable ?? false}
             />
+            {row?.installable && <CliNote className="mt-2 px-1" />}
           </div>
 
           {alternatives.length > 0 && shelf && (
             <section className="mt-10 max-w-xl">
               <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
-                Best alternatives on the {stackFor(shelf)?.label ?? shelf} shelf
+                Alternatives · {stackFor(shelf)?.label ?? shelf}
               </h2>
               <ol className="mt-3 divide-y divide-line-subtle rounded-xl border border-line-subtle bg-raise-1">
                 {alternatives.map((alt) => (
@@ -220,7 +249,12 @@ export default async function ComponentDetailPage({
                         <SignalsRow signals={alt.signals} />
                       </span>
                     </span>
-                    <ScoreBadge score={alt.universal} evidence={alt.evidence} />
+                    <ScoreBadge
+                      score={alt.universal}
+                      evidence={alt.evidence}
+                      display={altScores[alternatives.indexOf(alt)]}
+                      value={alt.exact}
+                    />
                   </li>
                 ))}
               </ol>
@@ -240,14 +274,14 @@ export default async function ComponentDetailPage({
             </p>
           )}
 
-          {/* Connections — related components. The `related:` field is loose
+          {/* Related components. The `related:` field is loose
               co-occurrence, not verified dependencies, so this stays a plain list
               of real, named components (each a real edge to a real page) rather
               than a decorative graph (design/BRIEF.md Approval §3). */}
           {(relatedComponents.length > 0 || unresolvedRelated.length > 0) && (
             <section className="mt-12 border-t border-line-subtle pt-8">
               <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
-                Connections
+                Related
               </h2>
 
               {relatedComponents.length > 0 && (
@@ -305,10 +339,10 @@ export default async function ComponentDetailPage({
                   </div>
                 </MetaRow>
               )}
-              {component.tags.length > 0 && (
+              {tags.length > 0 && (
                 <MetaRow label="Tags" stack>
                   <div className="flex flex-wrap gap-1.5">
-                    {component.tags.map((tag) => (
+                    {tags.map((tag) => (
                       <TagChip key={tag} tag={tag} />
                     ))}
                   </div>
@@ -319,13 +353,10 @@ export default async function ComponentDetailPage({
                   <span className="text-[12px] text-ink-body">{component.license}</span>
                 </MetaRow>
               )}
-              {component.verified_at && (
-                <MetaRow label="Checked">
-                  <time
-                    dateTime={component.verified_at}
-                    className="font-sans text-[12px] text-ink-body"
-                  >
-                    {component.verified_at.slice(0, 10)}
+              {confirmed && (
+                <MetaRow label="Confirmed">
+                  <time dateTime={confirmed} className="font-sans text-[12px] text-ink-body">
+                    {shortDate(confirmed.slice(0, 10))}
                   </time>
                 </MetaRow>
               )}
@@ -351,7 +382,9 @@ export default async function ComponentDetailPage({
             </a>
           )}
           {contributedBy && (
-            <p className="mt-2 px-1 text-[12px] text-ink-muted">Contributed by {contributedBy}</p>
+            <p className="mt-2 px-1 text-[12px] text-ink-muted">
+              Contributed by <ContributorLink name={contributedBy} />
+            </p>
           )}
         </aside>
       </div>

@@ -68,8 +68,8 @@ export const CANON: Readonly<Record<string, readonly string[]>> = Object.fromEnt
  * rather than looking like a gap.
  */
 export const PROPERTIES: readonly { label: string; note: string }[] = [
-  { label: "Self-Improvement", note: "Open-endedness — a property of a harness, not a shelf" },
-  { label: "Model Routing", note: "Which model runs which step — a property, not a shelf" },
+  { label: "Self-Improvement", note: "Improves itself between runs; a property, not a component" },
+  { label: "Model Routing", note: "Which model runs which step; a property, not a component" },
 ];
 
 const STACK: StackFile = stackJson;

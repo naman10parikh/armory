@@ -11,6 +11,7 @@ cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: stable
 stars: 61497
 eval_score: null
+mentions: 6
 verified_at: 2026-05-26
 related: [troubleshoot, github-mcp, firecrawl-mcp]
 tags: [documentation, docs, api-reference, research]

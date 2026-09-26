@@ -10,7 +10,8 @@
 // Idempotent: re-running overwrites the local copy. If the parent source is
 // missing (e.g. data was already vendored in CI), we keep any existing local
 // copy and warn instead of failing the build.
-import { cpSync, existsSync, mkdirSync, rmSync, copyFileSync, readFileSync, writeFileSync } from "node:fs";
+import { cpSync, existsSync, mkdirSync, rmSync, copyFileSync, readFileSync, writeFileSync, statSync } from "node:fs";
+import { gunzipSync, gzipSync } from "node:zlib";
 import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
@@ -18,9 +19,15 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const SITE_DIR = join(dirname(fileURLToPath(import.meta.url)), "..");
 const REPO_ROOT = join(SITE_DIR, "..");
 
+// The site reads catalog.json.gz (docs/CATALOG-SIZE.md, CP138 T24): ~7 MB instead of ~53 MB in the
+// upload and in every function that traces it (next.config.mjs). It comes from the repository root's
+// .gz when that is at least as new as catalog.json (ingest/catalog.mjs writes both), else it is gzipped
+// here. A plain web/catalog.json from an older build is removed so it can't be uploaded or read.
 function copyCatalog() {
   const src = join(REPO_ROOT, "catalog.json");
-  const dest = join(SITE_DIR, "catalog.json");
+  const srcGz = join(REPO_ROOT, "catalog.json.gz");
+  const dest = join(SITE_DIR, "catalog.json.gz");
+  const oldPlain = join(SITE_DIR, "catalog.json");
   if (!existsSync(src)) {
     if (existsSync(dest)) {
       console.warn("[copy-data] ../catalog.json missing; using existing local copy.");
@@ -28,8 +35,14 @@ function copyCatalog() {
     }
     throw new Error(`[copy-data] catalog.json not found at ${src} and no local copy exists.`);
   }
-  copyFileSync(src, dest);
-  console.log("[copy-data] copied catalog.json");
+  if (existsSync(srcGz) && statSync(srcGz).mtimeMs >= statSync(src).mtimeMs) {
+    copyFileSync(srcGz, dest);
+    console.log("[copy-data] copied catalog.json.gz");
+  } else {
+    writeFileSync(dest, gzipSync(readFileSync(src), { level: 9 }));
+    console.log("[copy-data] gzipped catalog.json → catalog.json.gz");
+  }
+  rmSync(oldPlain, { force: true });
 }
 
 function copyBrain() {
@@ -144,7 +157,7 @@ async function writeLlmsTxt() {
   const all = rows();
   const f = facetsOf(all);
   const int = (n) => n.toLocaleString("en-US");
-  const generated = JSON.parse(readFileSync(join(SITE_DIR, "catalog.json"), "utf-8")).generated_at;
+  const generated = JSON.parse(gunzipSync(readFileSync(join(SITE_DIR, "catalog.json.gz"))).toString("utf-8")).generated_at;
   const values = {
     as_of: typeof generated === "string" ? generated.slice(0, 10) : new Date().toISOString().slice(0, 10),
     total: int(all.length),
