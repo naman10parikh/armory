@@ -6,9 +6,10 @@
 // void — it shows the top-ranked rows (GET /api/rank?limit=20) in the same DataTable as Leaderboard.
 import { Suspense, useCallback, useEffect, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { ContentWidth, DataTable, Th } from "@/components/data-table";
+import { ContentWidth } from "@/components/data-table";
+import { BoardTable } from "@/components/board-table";
 import { HarnessSelector } from "@/components/install-snippet";
-import { RankedRow, RankedRowSkeleton, type RankedRowData } from "@/components/ranked-row";
+import { RankedRowSkeleton, apiRowViews, type RankedRowData } from "@/components/ranked-row";
 import { AskResultCard, InterpretedChip, KeywordChip, type AskResultItem } from "@/components/ask-result-card";
 
 interface Interpreted {
@@ -34,7 +35,6 @@ const EXAMPLES = [
   "Sandbox Deploy",
 ] as const;
 const TOP_N = 20;
-const COLS = 8;
 
 export default function AskPage() {
   return (
@@ -294,30 +294,11 @@ function AskContent() {
                   <p className="mt-1 text-ink-muted">{topErr}</p>
                 </div>
               ) : (
-                <DataTable label="Top Ranked" minWidthClass="min-w-[1180px]">
-                  <thead>
-                    <tr>
-                      <Th align="right" className="w-[56px]">
-                        Rank
-                      </Th>
-                      <Th align="right" className="w-[76px]">
-                        Score
-                      </Th>
-                      <Th className="w-[220px]">Component</Th>
-                      <Th className="w-auto">Description</Th>
-                      <Th className="w-[276px]">Signals</Th>
-                      <Th className="w-[104px]">Type</Th>
-                      <Th className="w-[124px]">Domain</Th>
-                      <Th className="w-[300px]">Install</Th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {topRanked === null && <RankedRowSkeleton cols={COLS} rows={6} />}
-                    {topRanked?.map((row, i) => (
-                      <RankedRow key={`${row.component}/${row.name}/${i}`} row={row} rank={i + 1} />
-                    ))}
-                  </tbody>
-                </DataTable>
+                topRanked === null ? (
+                  <RankedRowSkeleton rows={6} />
+                ) : (
+                  <BoardTable label="Top Ranked" rows={apiRowViews(topRanked)} now={Date.now()} />
+                )
               )}
             </div>
           )}

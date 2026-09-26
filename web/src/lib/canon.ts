@@ -1,9 +1,9 @@
 // The 11 canonical harness components — the aggregation layer behind /c, /c/[component],
 // /stack and /api/stack.
 //
-// Two mappings live here and nowhere else:
+// Two mappings live here:
 //
-//   1. CANON — the canonical component → the normalized `component` values lib/rank.mjs
+//   1. CANON (read from stack.json) — the canonical component → the normalized `component` values lib/rank.mjs
 //      produces for the raw catalog folders it aggregates. Two are unions: Identity holds
 //      `identity` + `rules` (a CLAUDE.md rule IS the self), Tools holds `cli` + `tool`.
 //      Every one of the catalog's normalized values is claimed by exactly one canonical
@@ -15,26 +15,11 @@
 //
 // Rows come from the same engine as the home page, the leaderboard and /api/rank
 // (lib/rank.mjs computeRows) — read once per process, cached.
-import { existsSync, readFileSync } from "node:fs";
-import { join } from "node:path";
-// @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
-import { computeRows } from "../../lib/rank.mjs";
-import type { SignalValues } from "@/components/signals-row";
+import { allBoardRows, type BoardRow } from "@/lib/rows";
 import stackJson from "@/data/stack.json";
 
-/** A scored catalog row, narrowed to the fields these pages render. */
-export interface CanonRow {
-  name: string;
-  /** RAW catalog type ("mcps", "clis-tools") — the /e/[type]/[slug] path segment. */
-  type: string;
-  /** NORMALIZED component ("mcp", "cli") — what /leaderboard?component= filters on. */
-  component: string;
-  domain: string;
-  url: string | null;
-  desc: string;
-  signals: SignalValues;
-  scores: { universal: number | null; evidence: number };
-}
+/** A scored catalog row — the shared board row (src/lib/rows.ts). */
+export type CanonRow = BoardRow;
 
 export interface Pick {
   name: string;
@@ -48,28 +33,33 @@ export interface StackComponent {
   slug: string;
   label: string;
   oneLine: string;
+  aggregates: string[];
   picks: Pick[];
+}
+
+/** One account slot on the capability plane: not open-source code, so never ranked. */
+export interface PlaneSlot {
+  slot: string;
+  pick: string;
+  access: string;
 }
 
 interface StackFile {
   note: string;
+  asOf: string;
+  regenerate: string;
+  provisioning: string;
   components: StackComponent[];
+  plane: PlaneSlot[];
 }
 
-/** Canonical slug → the normalized `component` values it aggregates. */
-export const CANON: Readonly<Record<string, readonly string[]>> = {
-  identity: ["identity", "rules"],
-  memory: ["memory"],
-  skills: ["skill"],
-  tools: ["cli", "tool"],
-  hooks: ["hook"],
-  subagents: ["subagent"],
-  mcps: ["mcp"],
-  dispatch: ["workflow"],
-  evals: ["eval"],
-  observability: ["observability"],
-  sandbox: ["infra"],
-};
+/**
+ * Canonical slug → the normalized `component` values it aggregates. Held in stack.json beside the
+ * picks, so scripts/stack-evidence.mjs re-derives /stack from the same map the site renders.
+ */
+export const CANON: Readonly<Record<string, readonly string[]>> = Object.fromEntries(
+  (stackJson.components as { slug: string; aggregates: string[] }[]).map((c) => [c.slug, c.aggregates]),
+);
 
 /**
  * Cross-cutting properties. They are BADGES and FILTERS, never shelves — a harness is
@@ -86,6 +76,11 @@ const STACK: StackFile = stackJson;
 
 export const STACK_COMPONENTS: readonly StackComponent[] = STACK.components;
 export const STACK_NOTE: string = STACK.note;
+/** The date the picks were set (CP138) and the command that re-derives their evidence (CP138 T45). */
+export const STACK_AS_OF: string = STACK.asOf;
+export const STACK_REGENERATE: string = STACK.regenerate;
+export const PLANE: readonly PlaneSlot[] = STACK.plane;
+export const PROVISIONING: string = STACK.provisioning;
 
 /** Canonical order, taken from stack.json so the data file owns the ordering. */
 export const CANON_SLUGS: readonly string[] = STACK.components.map((c) => c.slug);
@@ -96,57 +91,14 @@ export function stackFor(slug: string): StackComponent | null {
 
 // ── Catalog ─────────────────────────────────────────────────────────────────
 
-function catalogPath(): string {
-  const local = join(process.cwd(), "catalog.json"); // vendored by `pnpm prebuild`
-  return existsSync(local) ? local : join(process.cwd(), "..", "catalog.json");
-}
-
-interface RawRow {
-  name?: string;
-  type?: string | null;
-  component?: string;
-  domain?: string;
-  url?: string | null;
-  desc?: string;
-  signals?: SignalValues;
-  scores?: { universal: number | null; evidence: number };
-}
-
-let CACHE: CanonRow[] | null = null;
-
-/** Every scored row, once per process. Empty (never thrown) when the catalog is absent. */
+/** Every scored row, once per process (src/lib/rows.ts). Empty, never thrown, without a catalog. */
 export function allRows(): CanonRow[] {
-  if (CACHE) return CACHE;
-  try {
-    const cat = JSON.parse(readFileSync(catalogPath(), "utf-8")) as { components: unknown[] };
-    const scored = computeRows(cat.components) as RawRow[];
-    CACHE = scored.map((r) => ({
-      name: typeof r.name === "string" ? r.name : "",
-      type: typeof r.type === "string" ? r.type : "",
-      component: typeof r.component === "string" ? r.component : "other",
-      domain: typeof r.domain === "string" ? r.domain : "other",
-      url: typeof r.url === "string" ? r.url : null,
-      desc: typeof r.desc === "string" ? r.desc : "",
-      signals: r.signals ?? { tested: null, mentions: null, stars: null, forks: null, usage: null },
-      scores: r.scores ?? { universal: null, evidence: 0 },
-    }));
-  } catch (err) {
-    console.warn("[canon] catalog unavailable:", err instanceof Error ? err.message : String(err));
-    CACHE = [];
-  }
-  return CACHE;
+  return allBoardRows();
 }
 
-const num = (v: number | null | undefined): number => (typeof v === "number" ? v : -1);
-
-/** Leaderboard default sort: score, then corroboration, then stars, then name. */
+/** The engine's default order (score before rounding, then signals, then freshness, then stars). */
 function byRank(a: CanonRow, b: CanonRow): number {
-  return (
-    num(b.scores.universal) - num(a.scores.universal) ||
-    b.scores.evidence - a.scores.evidence ||
-    num(b.signals.stars) - num(a.signals.stars) ||
-    a.name.localeCompare(b.name)
-  );
+  return a.order - b.order;
 }
 
 // ── Aggregation ─────────────────────────────────────────────────────────────
@@ -181,7 +133,7 @@ export function rowsFor(slug: string): CanonRow[] {
 
 export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
   const list = rows ?? rowsFor(slug);
-  const ranked = list.filter((r) => r.scores.universal != null);
+  const ranked = list.filter((r) => r.universal != null);
   const counts = new Map<string, number>();
   for (const r of list) counts.set(r.component, (counts.get(r.component) ?? 0) + 1);
   const members = [...counts]
@@ -193,7 +145,7 @@ export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
     indexed: list.length,
     ranked: ranked.length,
     rankedPct: list.length ? Math.round((1000 * ranked.length) / list.length) / 10 : 0,
-    topScore: ranked.length ? (ranked[0].scores.universal as number) : null,
+    topScore: ranked.length ? (ranked[0].universal as number) : null,
     leaderboardComponent: members[0]?.component ?? (CANON[slug]?.[0] ?? ""),
     members,
   };
@@ -201,7 +153,7 @@ export function statsFor(slug: string, rows?: CanonRow[]): CanonStats {
 
 /** Top N ranked rows on a shelf (unranked rows are never padded in). */
 export function topRankedFor(slug: string, limit: number, rows?: CanonRow[]): CanonRow[] {
-  return (rows ?? rowsFor(slug)).filter((r) => r.scores.universal != null).slice(0, limit);
+  return (rows ?? rowsFor(slug)).filter((r) => r.universal != null).slice(0, limit);
 }
 
 // ── Picks ───────────────────────────────────────────────────────────────────

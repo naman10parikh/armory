@@ -17,7 +17,7 @@ const NOT_CONFIGURED = "Not Configured";
 
 function Code({ children }: { children: React.ReactNode }) {
   return (
-    <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-mono text-[12px] text-ink-body">
+    <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[12px] text-ink-body">
       {children}
     </code>
   );
@@ -48,14 +48,14 @@ export default function Identity() {
           <tbody>
             <Tr>
               <Td className="font-medium text-ink-hi">Email</Td>
-              <Td className={email ? "font-mono text-[12px] text-ink-body" : "text-ink-faint"}>
+              <Td className={email ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
                 {email || NOT_CONFIGURED}
               </Td>
               <Td className="text-ink-muted">Subject and body ranked · reply with 5 picks</Td>
             </Tr>
             <Tr>
               <Td className="font-medium text-ink-hi">SMS / WhatsApp</Td>
-              <Td className={phone ? "font-mono text-[12px] text-ink-body" : "text-ink-faint"}>
+              <Td className={phone ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
                 {phone || NOT_CONFIGURED}
               </Td>
               <Td className="text-ink-muted">Message ranked · reply with 3 picks</Td>
@@ -65,7 +65,7 @@ export default function Identity() {
               <Td>
                 <a
                   href="/ask"
-                  className="cursor-pointer font-mono text-[12px] text-accent-hover underline underline-offset-4"
+                  className="cursor-pointer font-sans text-[12px] text-accent-hover underline underline-offset-4"
                 >
                   /ask
                 </a>

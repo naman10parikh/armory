@@ -39,10 +39,13 @@ export function DataTable({
   label,
   minWidthClass = "min-w-[1080px]",
   fixed = false,
+  className = "",
 }: {
   children: ReactNode;
   label: string;
   minWidthClass?: string;
+  /** Extra classes on the <table> (`board-table` stacks rows into blocks on a phone). */
+  className?: string;
   /** Fixed layout: Th widths are honoured and the one `w-auto` column takes the remainder. Auto
    *  layout lets the widest cell (a 56-char install snippet) grow its column until the prose
    *  column next to it is 14 characters wide — the ranked tables opt in. */
@@ -52,7 +55,7 @@ export function DataTable({
     <div className="w-full overflow-x-auto">
       <table
         aria-label={label}
-        className={`w-full ${minWidthClass} ${fixed ? "table-fixed" : ""} border-collapse text-[13px] leading-tight tabular-nums`}
+        className={`w-full ${minWidthClass} ${fixed ? "table-fixed" : ""} border-collapse text-[13px] leading-tight tabular-nums ${className}`}
       >
         {children}
       </table>
@@ -128,15 +131,15 @@ export function Tr({
 }
 
 /**
- * Clamp to one line at a WORD boundary (brief §10.9 — `the cano` / `ad-ho` are
- * live defects). Falls back to a hard cut only when the first word is longer
- * than half the budget.
+ * Clamp at a WORD boundary (brief §10.9 — `the cano` / `ad-ho` were live defects; CP143: descriptions
+ * are cut only between words). The one text with no boundary to cut at, a single token longer than
+ * the budget, is cut hard because there is nothing else to do.
  */
 export function clampWords(text: string, max = 72): string {
   const t = (text ?? "").trim().replace(/\s+/g, " ");
   if (t.length <= max) return t;
-  const cut = t.slice(0, max);
+  const cut = t.slice(0, max + 1);
   const at = cut.lastIndexOf(" ");
-  const kept = at > max / 2 ? cut.slice(0, at) : cut;
+  const kept = at > 0 ? cut.slice(0, at) : t.slice(0, max);
   return `${kept.replace(/[\s.,;:–—-]+$/, "")}…`;
 }

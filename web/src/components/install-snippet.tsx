@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { installCommand } from "@/lib/install-targets";
+import { CommandText } from "./command-text";
 import { CheckIcon, CopyIcon } from "./icons";
 
 /*
@@ -110,7 +111,11 @@ export function HarnessSelector({ className = "" }: { className?: string }) {
   );
 }
 
-/** The in-row command. Always in the DOM, always selectable. */
+/**
+ * The in-row command. Always in the DOM, always selectable, and never cut (CP143): it wraps rather
+ * than ending in an ellipsis. The harness flag is one unbreakable unit, so a line break can fall after
+ * the name but never inside "--cli claude"; the text a reader selects is the command exactly.
+ */
 export function InstallSnippet({ name }: { name: string }) {
   const harness = useHarness();
   const [copied, setCopied] = useState(false);
@@ -136,18 +141,17 @@ export function InstallSnippet({ name }: { name: string }) {
   }, [command]);
 
   return (
-    <span className="inline-flex max-w-full items-center gap-1.5 rounded-lg border border-line-subtle bg-raise-1 py-1 pl-2 pr-1 transition-colors duration-150 ease-state hover:border-line">
-      <code className="select-text overflow-hidden text-ellipsis whitespace-nowrap font-mono text-[11px] leading-none text-ink-body [font-variant-ligatures:none]">
-        {command}
+    <span className="inline-flex max-w-full items-start gap-1.5 rounded-lg border border-line-subtle bg-raise-1 py-1 pl-2 pr-1 transition-colors duration-150 ease-state hover:border-line">
+      <code className="min-w-0 select-text break-words py-0.5 font-mono text-[11.5px] leading-[1.45] text-ink-body [font-variant-ligatures:none]">
+        <CommandText command={command} />
       </code>
       <button
         type="button"
         onClick={copy}
-        aria-label={copied ? "Copied" : "Copy"}
+        aria-label={copied ? "Copied" : "Copy install command"}
         className="inline-flex h-6 w-6 shrink-0 cursor-pointer items-center justify-center rounded-md text-ink-muted transition-colors duration-150 ease-state hover:bg-raise-3 hover:text-accent-hover"
       >
         {copied ? <CheckIcon size={12} className="text-ok" /> : <CopyIcon size={12} />}
-        <span className="sr-only">{copied ? "Copied" : "Copy"}</span>
       </button>
     </span>
   );

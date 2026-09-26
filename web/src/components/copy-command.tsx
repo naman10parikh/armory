@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { CommandText } from "./command-text";
 import { CheckIcon, CopyIcon } from "./icons";
 
 /*
@@ -58,11 +59,11 @@ export function CopyCommand({
           $
         </span>
         <code
-          className={`flex-1 overflow-x-auto whitespace-nowrap font-mono text-ink-body [font-variant-ligatures:none] ${
+          className={`min-w-0 flex-1 break-words font-mono text-ink-body [font-variant-ligatures:none] ${
             dense ? "text-[13px]" : "text-sm"
           }`}
         >
-          {command}
+          <CommandText command={command} />
         </code>
         <button
           type="button"

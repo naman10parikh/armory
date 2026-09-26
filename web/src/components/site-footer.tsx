@@ -42,7 +42,7 @@ export function SiteFooter() {
         </div>
       </div>
 
-      <p className="mt-12 font-mono text-[11px] text-ink-faint">
+      <p className="mt-12 font-sans text-[11px] text-ink-faint">
         MIT · the open registry of agent-harness components · built in the open by
         the Energy ecosystem
       </p>

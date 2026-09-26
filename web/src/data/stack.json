@@ -1,10 +1,16 @@
 {
-  "note": "The single source for the 11 canonical harness components and their picks. /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed \u2014 never faked into the table.",
+  "note": "The single source for the 11 canonical harness components and their picks (CP138, set 2026-09-07). /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed, never faked into the table. Our own repositories are picks only when they win on score. `plane` is the capability plane (CP138 axis 2): accounts an agent is provisioned onto, not open-source code, so never scored.",
+  "asOf": "2026-09-07",
+  "regenerate": "node scripts/stack-evidence.mjs",
   "components": [
     {
       "slug": "identity",
       "label": "Identity",
       "oneLine": "Who the agent is, and how the outside world reaches it",
+      "aggregates": [
+        "identity",
+        "rules"
+      ],
       "picks": [
         {
           "name": "karpathy-coding-discipline",
@@ -30,24 +36,27 @@
       "slug": "memory",
       "label": "Memory",
       "oneLine": "What the agent keeps between runs",
+      "aggregates": [
+        "memory"
+      ],
       "picks": [
         {
-          "name": "supermemory",
-          "why": "Cross-source knowledge store with end-to-end encryption and optional self-hosting",
-          "armoryName": "supermemory",
-          "url": "https://github.com/supermemoryai/supermemory-mcp"
+          "name": "letta-ai-letta",
+          "why": "Stateful agents that edit their own long-term memory; picked for that, though other memory rows score higher",
+          "armoryName": "letta-ai-letta",
+          "url": "https://github.com/letta-ai/letta"
         },
         {
-          "name": "mem0-mcp",
-          "why": "Managed cross-session facts about a user or project, stored and retrieved semantically",
-          "armoryName": "mem0-mcp",
-          "url": "https://github.com/mem0ai/mem0"
+          "name": "getzep-zep",
+          "why": "Memory on a temporal knowledge graph: each fact records when it was true",
+          "armoryName": "getzep-zep",
+          "url": "https://github.com/getzep/zep"
         },
         {
-          "name": "wikimem",
-          "why": "Ingests files, folders and URLs into a linked wiki, then answers questions over it",
-          "armoryName": "wikimem",
-          "url": "https://github.com/naman10parikh/wikimem"
+          "name": "plastic-labs-honcho",
+          "why": "Memory library for stateful agents, kept per user and per session",
+          "armoryName": "plastic-labs-honcho",
+          "url": "https://github.com/plastic-labs/honcho"
         }
       ]
     },
@@ -55,6 +64,9 @@
       "slug": "skills",
       "label": "Skills",
       "oneLine": "Procedures loaded on demand, one file each",
+      "aggregates": [
+        "skill"
+      ],
       "picks": [
         {
           "name": "superpowers",
@@ -74,6 +86,10 @@
       "slug": "tools",
       "label": "Tools",
       "oneLine": "Terminal, browser and computer commands an agent runs",
+      "aggregates": [
+        "cli",
+        "tool"
+      ],
       "picks": [
         {
           "name": "playwright-cli",
@@ -99,6 +115,9 @@
       "slug": "hooks",
       "label": "Hooks",
       "oneLine": "Deterministic code fired on agent lifecycle events",
+      "aggregates": [
+        "hook"
+      ],
       "picks": [
         {
           "name": "plannotator",
@@ -124,6 +143,9 @@
       "slug": "subagents",
       "label": "Sub-Agents",
       "oneLine": "Delegated workers, each with its own context window",
+      "aggregates": [
+        "subagent"
+      ],
       "picks": [
         {
           "name": "wshobson-agents",
@@ -149,18 +171,21 @@
       "slug": "mcps",
       "label": "MCPs",
       "oneLine": "Servers exposing tools and data over one protocol",
+      "aggregates": [
+        "mcp"
+      ],
       "picks": [
-        {
-          "name": "chrome-devtools",
-          "why": "Chrome control through the DevTools protocol: automation, debugging, performance traces",
-          "armoryName": "chrome-devtools",
-          "url": "https://github.com/chromedevtools/chrome-devtools-mcp"
-        },
         {
           "name": "github-mcp",
           "why": "Issues, pull requests, repository search and commits without shelling out to git",
           "armoryName": "github-mcp",
           "url": "https://github.com/github/github-mcp-server"
+        },
+        {
+          "name": "chrome-devtools",
+          "why": "Chrome control through the DevTools protocol: automation, debugging, performance traces",
+          "armoryName": "chrome-devtools",
+          "url": "https://github.com/chromedevtools/chrome-devtools-mcp"
         },
         {
           "name": "composio",
@@ -174,6 +199,9 @@
       "slug": "dispatch",
       "label": "Dispatch",
       "oneLine": "Routing between agents, plus scheduled and looping runs",
+      "aggregates": [
+        "workflow"
+      ],
       "picks": [
         {
           "name": "pocketflow",
@@ -199,7 +227,16 @@
       "slug": "evals",
       "label": "Evals",
       "oneLine": "Graded tasks that prove a change helped",
+      "aggregates": [
+        "eval"
+      ],
       "picks": [
+        {
+          "name": "promptfoo",
+          "why": "Assertions and red-teaming for prompts and agents, runs in CI",
+          "armoryName": "promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo"
+        },
         {
           "name": "swe-bench",
           "why": "Real GitHub issues drawn from 12 Python repositories, scored on the resulting patch",
@@ -211,12 +248,6 @@
           "why": "Tool-agent-user tasks in retail and airline domains, scored against a written policy",
           "armoryName": "tau-bench",
           "url": "https://github.com/sierra-research/tau-bench"
-        },
-        {
-          "name": "promptfoo",
-          "why": "Assertions and red-teaming for prompts and agents, runs in CI",
-          "armoryName": "promptfoo",
-          "url": "https://github.com/promptfoo/promptfoo"
         }
       ]
     },
@@ -224,6 +255,9 @@
       "slug": "observability",
       "label": "Observability",
       "oneLine": "Traces, cost and errors from each run",
+      "aggregates": [
+        "observability"
+      ],
       "picks": [
         {
           "name": "langfuse",
@@ -249,6 +283,9 @@
       "slug": "sandbox",
       "label": "Sandbox",
       "oneLine": "Isolated compute an agent executes and deploys in",
+      "aggregates": [
+        "infra"
+      ],
       "picks": [
         {
           "name": "e2b-sandbox",
@@ -270,5 +307,68 @@
         }
       ]
     }
-  ]
+  ],
+  "plane": [
+    {
+      "slot": "Computer",
+      "pick": "Orgo",
+      "access": "ORGO_API_KEY; Bezalel provisions it, so the agent never sees the key"
+    },
+    {
+      "slot": "Sandbox",
+      "pick": "E2B",
+      "access": "E2B_API_KEY, one microVM per run"
+    },
+    {
+      "slot": "Database",
+      "pick": "Supabase",
+      "access": "URL and anon key to the agent; the service-role key is injected at the tool boundary, never into a prompt or a log"
+    },
+    {
+      "slot": "Email",
+      "pick": "AgentMail",
+      "access": "API key and a per-inbox webhook secret (starts whsec_); verify the signature, or the route is an open relay"
+    },
+    {
+      "slot": "Phone / SMS / WhatsApp",
+      "pick": "Twilio",
+      "access": "account SID, auth token and a purchased number; inbound requests are signed with X-Twilio-Signature"
+    },
+    {
+      "slot": "iMessage",
+      "pick": "Photon Spectrum",
+      "access": "project id and secret, and the owner pairs their own handle with a one-time code (OTP)"
+    },
+    {
+      "slot": "Card / spend",
+      "pick": "Agent Card HQ",
+      "access": "an identity check (KYC), then a funded balance; the slowest slot, so start it first"
+    },
+    {
+      "slot": "Payments / earn",
+      "pick": "Stripe agent-toolkit",
+      "access": "a restricted key scoped to the agent, never the account key"
+    },
+    {
+      "slot": "Memory store",
+      "pick": "Supermemory",
+      "access": "SUPERMEMORY_API_KEY, or self-host"
+    },
+    {
+      "slot": "Connectors",
+      "pick": "Composio",
+      "access": "a key, plus the owner's OAuth consent per app; the agent never holds the third-party token"
+    },
+    {
+      "slot": "Deploy / hosting",
+      "pick": "Vercel",
+      "access": "token and a linked project; after a CLI deploy, vercel alias set is a separate step, or nothing ships"
+    },
+    {
+      "slot": "Web / browser",
+      "pick": "Browserbase + Stagehand",
+      "access": "key and project id, or local Chromium on the owner's profile, read-only"
+    }
+  ],
+  "provisioning": "Start the slow slots first: the card needs an identity check (KYC) and iMessage needs the owner's one-time code, and both take days; then buy the phone number, then set up the email inbox and its webhook secret; everything that only needs a key takes a minute."
 }

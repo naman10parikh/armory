@@ -42,7 +42,7 @@ export function MaturityBadge({ maturity }: { maturity: Maturity }) {
 // CLI compatibility — tiny mono badges (reinforces "consumed by machines").
 export function CliChip({ cli }: { cli: string }) {
   return (
-    <span className="inline-flex items-center rounded border border-line bg-raise-1 px-1.5 py-0.5 font-mono text-[10px] lowercase text-ink-muted">
+    <span className="inline-flex items-center rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[10px] lowercase text-ink-muted">
       {cli}
     </span>
   );

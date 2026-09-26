@@ -3,7 +3,8 @@
 // Warm-black + amber, serif headings, data-forward. No prose blocks.
 
 const SERIF = "var(--font-display), Georgia, serif";
-const MONO = "var(--font-mono), ui-monospace, Menlo, monospace";
+// Figures are set in Instrument Sans with tabular numerals (CP143: JetBrains Mono is for install commands only).
+const FIGURES = "var(--font-ui), ui-sans-serif, system-ui, sans-serif";
 
 export interface SignalCard {
   glyph: string;
@@ -98,7 +99,7 @@ export function Signals({ cards }: { cards: SignalCard[] }) {
           <div style={{ display: "flex", alignItems: "baseline", gap: 8 }}>
             <span style={{ color: "var(--accent)", fontSize: 16 }}>{c.glyph}</span>
             <span style={{ color: "var(--text-hi)", fontWeight: 600, fontSize: 15 }}>{c.key}</span>
-            <span style={{ marginLeft: "auto", fontFamily: MONO, fontSize: 11.5, color: "var(--text-muted)" }}>
+            <span style={{ marginLeft: "auto", fontFamily: FIGURES, fontSize: 11.5, color: "var(--text-muted)" }}>
               ×{c.weight}
             </span>
           </div>
@@ -116,10 +117,10 @@ export function Signals({ cards }: { cards: SignalCard[] }) {
               />
             </div>
             <div style={{ display: "flex", justifyContent: "space-between", marginTop: 6 }}>
-              <span style={{ fontFamily: MONO, fontSize: 12, color: "var(--text-body)" }}>
+              <span style={{ fontFamily: FIGURES, fontSize: 12, color: "var(--text-body)" }}>
                 {c.rows.toLocaleString()} of the catalog
               </span>
-              <span style={{ fontFamily: MONO, fontSize: 12, color: "var(--text-muted)" }}>
+              <span style={{ fontFamily: FIGURES, fontSize: 12, color: "var(--text-muted)" }}>
                 {c.pctOfCatalog.toFixed(1)}%
               </span>
             </div>
@@ -152,7 +153,7 @@ export function Ladder({ rungs, unit }: { rungs: Rung[]; unit: string }) {
             padding: "7px 0",
           }}
         >
-          <span style={{ fontFamily: MONO, fontSize: 13, color: "var(--text-body)", textAlign: "right" }}>
+          <span style={{ fontFamily: FIGURES, fontSize: 13, color: "var(--text-body)", textAlign: "right" }}>
             {r.raw} {unit}
           </span>
           <span style={{ position: "relative", height: 8 }}>
@@ -178,7 +179,7 @@ export function Ladder({ rungs, unit }: { rungs: Rung[]; unit: string }) {
           </span>
           <span
             style={{
-              fontFamily: MONO,
+              fontFamily: FIGURES,
               fontSize: 13,
               color: r.note ? "var(--accent-hover)" : "var(--text-muted)",
             }}
@@ -215,7 +216,7 @@ export function HeadToHead({ left, right }: { left: Contender; right: Contender 
         flex: "1 1 260px",
       }}
     >
-      <div style={{ fontFamily: MONO, fontSize: 12, color: "var(--text-muted)" }}>{c.headlineLabel}</div>
+      <div style={{ fontFamily: FIGURES, fontSize: 12, color: "var(--text-muted)" }}>{c.headlineLabel}</div>
       <div
         style={{
           fontFamily: SERIF,
@@ -242,7 +243,7 @@ export function HeadToHead({ left, right }: { left: Contender; right: Contender 
         />
       </div>
       <div style={{ display: "flex", alignItems: "baseline", gap: 8, marginTop: 8 }}>
-        <span style={{ fontFamily: MONO, fontSize: 22, color: "var(--text-hi)" }}>{c.score}</span>
+        <span style={{ fontFamily: FIGURES, fontSize: 22, color: "var(--text-hi)" }}>{c.score}</span>
         <span style={{ fontSize: 12, color: "var(--text-muted)" }}>{c.verdict}</span>
       </div>
     </div>
@@ -298,13 +299,13 @@ export function WorkedTable({ rows }: { rows: Worked[] }) {
                 <div style={{ color: "var(--text-hi)", fontWeight: 500 }}>{r.name}</div>
                 <div style={{ color: "var(--text-muted)", fontSize: 11.5, marginTop: 2 }}>{r.tier}</div>
               </td>
-              <td style={{ ...td, fontFamily: MONO, fontSize: 12, color: "var(--text-body)", whiteSpace: "pre-line", lineHeight: 1.7 }}>{r.parts}</td>
-              <td style={{ ...td, fontFamily: MONO, fontSize: 11.5, color: "var(--text-muted)" }}>{r.math}</td>
+              <td style={{ ...td, fontFamily: FIGURES, fontSize: 12, color: "var(--text-body)", whiteSpace: "pre-line", lineHeight: 1.7 }}>{r.parts}</td>
+              <td style={{ ...td, fontFamily: FIGURES, fontSize: 11.5, color: "var(--text-muted)" }}>{r.math}</td>
               <td
                 style={{
                   ...td,
                   textAlign: "right",
-                  fontFamily: MONO,
+                  fontFamily: FIGURES,
                   fontSize: 17,
                   color: r.score === "—" ? "var(--text-muted)" : "var(--text-hi)",
                 }}
@@ -347,7 +348,7 @@ export function Coverage({
             background: "var(--accent)",
             display: "grid",
             placeItems: "center",
-            fontFamily: MONO,
+            fontFamily: FIGURES,
             fontSize: 11.5,
             color: "oklch(18% 0.02 72)",
             fontWeight: 600,
@@ -361,7 +362,7 @@ export function Coverage({
             background: "var(--line-subtle)",
             display: "grid",
             placeItems: "center",
-            fontFamily: MONO,
+            fontFamily: FIGURES,
             fontSize: 11.5,
             color: "var(--text-muted)",
           }}
@@ -384,7 +385,7 @@ export function Coverage({
               background: "var(--bg-raise-1)",
             }}
           >
-            <span style={{ fontFamily: MONO, fontSize: 15, color: "var(--text-hi)", minWidth: 76 }}>
+            <span style={{ fontFamily: FIGURES, fontSize: 15, color: "var(--text-hi)", minWidth: 76 }}>
               {b.rows.toLocaleString()}
             </span>
             <span style={{ color: "var(--text-body)", fontSize: 13.5, flex: "1 1 260px" }}>{b.label}</span>

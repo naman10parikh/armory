@@ -1,14 +1,12 @@
 /*
-  Signal row — design/BRIEF.md §9.
+  Signals, in words — CP143 ("words, not glyphs: every signal has a word label").
 
-  FIVE fixed slots, always in the same order: Tested · Mentions · Stars · Forks · Usage.
-  Present = glyph + value. Absent = dim glyph + em dash. Fixed positions are
-  what make ABSENCE scannable down a column.
+  The row prints what it holds as a short list a person reads aloud: "120,808 stars · 18,510 forks ·
+  249 mentions · passed test". A signal the row does not hold is left out rather than drawn as a dim
+  glyph and a dash, and a row that holds none says so. The old glyph slots (✓ ♦ ★ ⎇ ↑) needed a legend
+  nobody had; a word is its own legend, for people and for agents parsing the page.
 
-  This replaces `top signal`, which showed one signal and hid the other three in
-  a title= tooltip — invisible to agents and to keyboard users. Every value here
-  is real text in the DOM, wrapped in <data value> so it is machine-readable,
-  with a screen-reader label so no slot is a bare number.
+  Every number is a <data value> so it stays machine-readable.
 */
 
 export interface SignalValues {
@@ -21,55 +19,73 @@ export interface SignalValues {
 
 export type SignalKey = keyof SignalValues;
 
-/** Canonical order. Never reorder — absence is read positionally. */
-export const SIGNAL_ORDER: readonly SignalKey[] = ["tested", "mentions", "stars", "forks", "usage"];
+/** Reading order: popularity first, then corroboration, then Armory's own test. */
+export const SIGNAL_ORDER: readonly SignalKey[] = ["stars", "forks", "usage", "mentions", "tested"];
 
-/** COPY.md §2 approved lexicon. */
-export const SIGNAL_LABEL: Record<SignalKey, string> = {
-  tested: "Tested",
-  mentions: "Mentions",
-  stars: "Stars",
-  forks: "Forks",
-  usage: "Usage",
+const INT = new Intl.NumberFormat("en-US");
+
+const UNIT: Record<Exclude<SignalKey, "tested">, [string, string]> = {
+  stars: ["star", "stars"],
+  forks: ["fork", "forks"],
+  usage: ["install", "installs"],
+  mentions: ["mention", "mentions"],
 };
 
-const GLYPH: Record<SignalKey, string> = {
-  tested: "✓",
-  mentions: "♦",
-  stars: "★",
-  forks: "⎇",
-  usage: "↑",
-};
-
-function display(key: SignalKey, value: number): string {
-  if (key === "tested") return `${Math.round(value * 100)}%`;
-  return value.toLocaleString("en-US");
+/** Words for the tested signal: a pass, a fail, or a graded share. */
+function testedWords(value: number): string {
+  if (value >= 1) return "passed test";
+  if (value <= 0) return "failed test";
+  return `${Math.round(value * 100)}% of tests passed`;
 }
 
-export function SignalsRow({ signals }: { signals: SignalValues }) {
+/** How many independent signals a row holds, in words ("3 signals"). */
+export function signalCountWords(n: number): string {
+  if (n <= 0) return "No signals yet";
+  return n === 1 ? "1 signal" : `${n} signals`;
+}
+
+/** The same words as plain strings, for surfaces that cannot hold markup (the preview cards). */
+export function signalPhrases(signals: SignalValues): string[] {
+  return SIGNAL_ORDER.filter((k) => signals[k] != null).map((key) => {
+    const value = signals[key] as number;
+    return key === "tested" ? testedWords(value) : `${INT.format(value)} ${UNIT[key][value === 1 ? 0 : 1]}`;
+  });
+}
+
+export function SignalsRow({
+  signals,
+  empty = "No signals yet",
+  className = "",
+}: {
+  signals: SignalValues;
+  empty?: string;
+  className?: string;
+}) {
+  const held = SIGNAL_ORDER.filter((k) => signals[k] != null);
+  if (held.length === 0) {
+    return <span className={`text-[12.5px] text-ink-faint ${className}`}>{empty}</span>;
+  }
   return (
-    <span className="flex items-baseline gap-2.5 whitespace-nowrap font-mono text-[11.5px] leading-none tabular-nums">
-      {SIGNAL_ORDER.map((key) => {
-        const value = signals[key];
-        const label = SIGNAL_LABEL[key];
-
-        if (value == null) {
-          return (
-            <span key={key} className="inline-flex min-w-[54px] items-baseline gap-1 text-ink-faint">
-              <span aria-hidden>{GLYPH[key]}</span>
-              <span className="sr-only">{label} Unmeasured</span>
-              <span aria-hidden>&mdash;</span>
-            </span>
-          );
-        }
-
+    <span className={`text-[12.5px] leading-snug text-ink-body ${className}`}>
+      {held.map((key, i) => {
+        const value = signals[key] as number;
         return (
-          <span key={key} className="inline-flex min-w-[54px] items-baseline gap-1 text-ink-body">
-            <span aria-hidden className="text-ink-muted">
-              {GLYPH[key]}
+          // The separator sits outside the unbreakable part, so a narrow column wraps between
+          // signals instead of running into the next column.
+          <span key={key}>
+            {i > 0 && <span className="text-ink-faint"> · </span>}
+            <span className="whitespace-nowrap">
+              {key === "tested" ? (
+                <data value={String(value)}>{testedWords(value)}</data>
+              ) : (
+                <>
+                  <data value={String(value)} className="text-ink-hi">
+                    {INT.format(value)}
+                  </data>{" "}
+                  {UNIT[key][value === 1 ? 0 : 1]}
+                </>
+              )}
             </span>
-            <span className="sr-only">{label} </span>
-            <data value={String(value)}>{display(key, value)}</data>
           </span>
         );
       })}

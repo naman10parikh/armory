@@ -1,36 +1,24 @@
 import type { Metadata } from "next";
-import { Instrument_Serif, JetBrains_Mono, Plus_Jakarta_Sans } from "next/font/google";
+import { Instrument_Sans, Instrument_Serif, JetBrains_Mono } from "next/font/google";
 import { SiteNav } from "@/components/site-nav";
 import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
-// design/BRIEF.md §5 (approved deviation from the house Instrument Serif +
-// Poppins pairing): half this product's content IS code, so the contrast pair
-// that serves it is sans ↔ mono, not serif ↔ sans. The serif survives in the
-// one place brand should speak — the wordmark.
-//
-// next/font/google => self-hosted, preloaded, zero CLS. Exposed as CSS vars so
-// tokens (not font names) travel through the app.
+// Type, CP143 (the chairman's recorded default, after Synoptic's S09 §4):
+//   Instrument Sans  — everything, figures included (tabular numerals, set on <body>)
+//   Instrument Serif — the wordmark only
+//   JetBrains Mono   — install commands (and the code they write) only
+// One family for the interface reads as one instrument; the serif and the mono each keep a single
+// job, so neither turns into decoration. next/font/google self-hosts all three: preloaded, zero CLS.
 
-// UI + body. Variable font (wght 200–800) — no `weight` array, so the whole
-// axis ships in one file.
-const ui = Plus_Jakarta_Sans({
+// Variable font (wght 400–700): no weight list, the whole axis ships in one file.
+const ui = Instrument_Sans({
   subsets: ["latin"],
   variable: "--font-ui",
   display: "swap",
   fallback: ["ui-sans-serif", "system-ui", "-apple-system", "Segoe UI", "Roboto", "sans-serif"],
 });
 
-// Data, IDs, commands, numerals. Slashed zero, holds up at 11–12px.
-const mono = JetBrains_Mono({
-  weight: ["400", "500"],
-  subsets: ["latin"],
-  variable: "--font-mono",
-  display: "swap",
-  fallback: ["ui-monospace", "SFMono-Regular", "SF Mono", "Menlo", "Consolas", "monospace"],
-});
-
-// Wordmark ONLY — never app chrome, never a 44px heading.
 const wordmark = Instrument_Serif({
   weight: "400",
   subsets: ["latin"],
@@ -39,19 +27,32 @@ const wordmark = Instrument_Serif({
   fallback: ["ui-serif", "Georgia", "Times New Roman", "serif"],
 });
 
+const code = JetBrains_Mono({
+  weight: ["400"],
+  subsets: ["latin"],
+  variable: "--font-mono",
+  display: "swap",
+  fallback: ["ui-monospace", "SFMono-Regular", "SF Mono", "Menlo", "Consolas", "monospace"],
+});
+
+const SITE = "https://armory-murex.vercel.app";
+const DESCRIPTION =
+  "Open-source agent components (MCP servers, skills, sub-agents, hooks, evals) ranked on public evidence, refreshed nightly, each installed in one command.";
+
 export const metadata: Metadata = {
+  // Absolute og:image URLs need a base; production is the one alias every card should point at.
+  metadataBase: new URL(SITE),
   title: "Armory",
-  description: "Ranked catalog of open-source agent components.",
+  description: DESCRIPTION,
+  openGraph: { siteName: "Armory", type: "website" },
+  twitter: { card: "summary_large_image" },
 };
 
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html
-      lang="en"
-      className={`${ui.variable} ${mono.variable} ${wordmark.variable}`}
-    >
+    <html lang="en" className={`${ui.variable} ${wordmark.variable} ${code.variable}`}>
       <body className="min-h-dvh bg-canvas font-sans text-ink-body antialiased">
         <SiteNav />
         <main>{children}</main>
