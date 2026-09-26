@@ -228,8 +228,8 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
         <ContentWidth className="pb-16 pt-8">
           <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Accounts the agent acts through</h2>
           <p className="mb-4 mt-3 max-w-[80ch] text-[13px] text-ink-muted">
-            Services an agent is given access to, not open-source code, so Armory does not rank them. Each line says
-            how the agent gets on.
+            These are accounts, not repositories, so they carry no Armory score; each line says how an agent gets
+            access.
           </p>
           <DataTable label="Accounts the agent acts through" minWidthClass="min-w-[760px]" fixed className="stack-table">
             <thead>

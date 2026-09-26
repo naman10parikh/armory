@@ -17,18 +17,6 @@
           "why": "Behavior norms loaded from CLAUDE.md: think first, simplify, keep the diff small",
           "armoryName": "karpathy-coding-discipline",
           "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-        },
-        {
-          "name": "agentmail",
-          "why": "A dedicated inbox the agent sends, receives and queries messages from",
-          "armoryName": "agentmail",
-          "url": "https://github.com/agentmail-to/agentmail-mcp"
-        },
-        {
-          "name": "Bezalel",
-          "why": "One MCP endpoint for email, texting, money, computer and connectors",
-          "armoryName": null,
-          "url": "https://bezalel.sh"
         }
       ]
     },
@@ -104,10 +92,10 @@
           "url": "https://github.com/cli/cli"
         },
         {
-          "name": "browserbase-bb",
-          "why": "Cloud browser driven by three primitives: act, extract, observe",
-          "armoryName": "browserbase-bb",
-          "url": "https://github.com/browserbase/stagehand"
+          "name": "crawl4ai",
+          "why": "Async web crawler that turns pages into clean Markdown for an agent to read",
+          "armoryName": "crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai"
         }
       ]
     },
@@ -130,12 +118,6 @@
           "why": "Blocks file writes that violate test-first order, as they happen",
           "armoryName": "tdd-guard",
           "url": "https://github.com/nizos/tdd-guard"
-        },
-        {
-          "name": "cchooks",
-          "why": "Python SDK for writing hook handlers without hand-rolling the protocol",
-          "armoryName": "cchooks",
-          "url": "https://github.com/GowayLee/cchooks"
         }
       ]
     },
@@ -158,12 +140,6 @@
           "why": "100+ specialised Claude Code sub-agents, one file each",
           "armoryName": "voltagent-awesome-claude-code-subagents",
           "url": "https://github.com/VoltAgent/awesome-claude-code-subagents"
-        },
-        {
-          "name": "terraform",
-          "why": "A single specialist: Terraform sub-agent wired to the Terraform MCP",
-          "armoryName": "terraform",
-          "url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/security/terraform.md"
         }
       ]
     },
@@ -182,16 +158,16 @@
           "url": "https://github.com/github/github-mcp-server"
         },
         {
+          "name": "genai-toolbox",
+          "why": "Pre-defined queries against Postgres, MySQL, Spanner and other databases, set up in YAML",
+          "armoryName": "genai-toolbox",
+          "url": "https://github.com/googleapis/mcp-toolbox"
+        },
+        {
           "name": "chrome-devtools",
           "why": "Chrome control through the DevTools protocol: automation, debugging, performance traces",
           "armoryName": "chrome-devtools",
           "url": "https://github.com/chromedevtools/chrome-devtools-mcp"
-        },
-        {
-          "name": "composio",
-          "why": "Per-user authenticated connectors for Gmail, Outlook and GitHub via a tool router",
-          "armoryName": "composio",
-          "url": "https://github.com/obviyus/openclaw-composio"
         }
       ]
     },
@@ -210,16 +186,10 @@
           "url": "https://github.com/The-Pocket/PocketFlow"
         },
         {
-          "name": "claude-code-pm",
-          "why": "Project-management workflow: specialized agents plus slash commands over a task list",
-          "armoryName": "claude-code-pm",
-          "url": "https://github.com/automazeio/ccpm"
-        },
-        {
-          "name": "ralph-for-claude-code",
-          "why": "Loops a task until an exit condition is detected, unsupervised",
-          "armoryName": "ralph-for-claude-code",
-          "url": "https://github.com/frankbria/ralph-claude-code"
+          "name": "n8n-io-n8n",
+          "why": "Workflow automation with 400+ integrations, built visually or in code; heavier to run",
+          "armoryName": "n8n-io-n8n",
+          "url": "https://github.com/n8n-io/n8n"
         }
       ]
     },
@@ -244,10 +214,10 @@
           "url": "https://github.com/princeton-nlp/SWE-bench"
         },
         {
-          "name": "tau-bench",
-          "why": "Tool-agent-user tasks in retail and airline domains, scored against a written policy",
-          "armoryName": "tau-bench",
-          "url": "https://github.com/sierra-research/tau-bench"
+          "name": "deepeval",
+          "why": "Evaluation framework with 14+ metrics such as hallucination and faithfulness, runs in CI",
+          "armoryName": "deepeval",
+          "url": "https://github.com/confident-ai/deepeval"
         }
       ]
     },
@@ -266,16 +236,10 @@
           "url": "https://github.com/langfuse/langfuse"
         },
         {
-          "name": "laminar",
-          "why": "Tracing and labeling for agent pipelines, TypeScript and Python SDKs",
-          "armoryName": "laminar",
-          "url": "https://github.com/lmnr-ai/lmnr"
-        },
-        {
-          "name": "openllmetry",
-          "why": "OpenTelemetry auto-instrumentation for 20+ providers, no code changes",
-          "armoryName": "openllmetry",
-          "url": "https://github.com/traceloop/openllmetry"
+          "name": "comet-opik",
+          "why": "Open-source tracing and evaluation: log traces, run evals, track prompt changes",
+          "armoryName": "comet-opik",
+          "url": "https://github.com/comet-ml/opik"
         }
       ]
     },
@@ -294,16 +258,16 @@
           "url": "https://github.com/e2b-dev/E2B"
         },
         {
-          "name": "Orgo",
-          "why": "Cloud Linux desktop an agent drives for computer-use tasks",
-          "armoryName": null,
-          "url": "https://orgo.ai"
+          "name": "daytona",
+          "why": "Open-source manager for standard, reproducible workspaces at scale",
+          "armoryName": "daytona",
+          "url": "https://daytona.io"
         },
         {
-          "name": "Vercel Sandbox",
-          "why": "Ephemeral Node and Python sandboxes on the deploy platform",
-          "armoryName": null,
-          "url": "https://vercel.com/docs/vercel-sandbox"
+          "name": "microsandbox",
+          "why": "Self-hosted microVM sandbox on your own machines, no per-sandbox vendor cost",
+          "armoryName": "microsandbox",
+          "url": "https://github.com/microsandbox/microsandbox"
         }
       ]
     }
