@@ -7,7 +7,7 @@ license: AGPL-3.0
 ---
 # lightpanda
 
-Ultra-fast headless browser written in Zig specifically for AI and automation workloads — runs JavaScript natively, uses 9x less memory than Chrome headless, and targets sub-100ms page execution.
+Ultra-fast headless browser written in Zig specifically for AI and automation workloads. It runs JavaScript natively, uses 9x less memory than Chrome headless, and targets sub-100ms page execution.
 
 **Source:** https://github.com/lightpanda-io/lightpanda
 

@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # agent-e
 
-Emergence AI agent-E browser agent — hierarchical LLM-based web automation that uses DOM distillation and action abstraction layers to achieve significantly higher benchmark accuracy than prior browser agents.
+Emergence AI agent-E browser agent: hierarchical LLM-based web automation that uses DOM distillation and action abstraction layers to achieve significantly higher benchmark accuracy than prior browser agents.
 
 **Source:** https://github.com/EmergenceAI/Agent-E
 

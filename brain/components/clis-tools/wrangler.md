@@ -2,7 +2,6 @@
 name: wrangler
 type: clis-tools
 description: "Wrangler: the CLI for Cloudflare Workers."
-  deploy-infra tool
 source_repo: https://github.com/cloudflare/workers-sdk
 source_url: https://github.com/cloudflare/workers-sdk
 license: unknown
@@ -19,5 +18,3 @@ pushed_at: "2026-09-01T21:19:24Z"
 ---
 
 # wrangler
-
-deploy-infra tool

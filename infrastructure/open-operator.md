@@ -7,7 +7,7 @@ license: MIT
 ---
 # open-operator
 
-Browserbase Open Operator — open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.
+Browserbase Open Operator: an open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.
 
 **Source:** https://github.com/browserbase/open-operator
 

@@ -7,7 +7,7 @@ license: MIT
 ---
 # pydantic-logfire
 
-Logfire by Pydantic — OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.
+Logfire by Pydantic: OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.
 
 **Source:** https://github.com/pydantic/logfire
 

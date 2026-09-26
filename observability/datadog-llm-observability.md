@@ -7,7 +7,7 @@ license: commercial
 ---
 # datadog-llm-observability
 
-Datadog's managed LLM Observability product — traces LLM calls, monitors prompt/completion quality, detects anomalies, and integrates with existing APM.
+Datadog's managed LLM Observability product. It traces LLM calls, monitors prompt/completion quality, detects anomalies, and integrates with existing APM.
 
 **Source:** https://docs.datadoghq.com/llm_observability/
 

@@ -49,7 +49,7 @@ export function createServer(): McpServer {
     {
       title: "Search components",
       description:
-        "Keyword-rank agent-harness components (components) by name, description, and tags. Use to find the right MCP, skill, hook, sub-agent, or rule for a task.",
+        "Keyword-rank agent-harness components by name, description, and tags. Use to find the right MCP, skill, hook, sub-agent, or rule for a task.",
       inputSchema: z.object({
         query: z.string().min(1).describe("search terms"),
         type: z

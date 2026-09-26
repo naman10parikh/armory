@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # mcp-tunnels-cloudflared
 
-Use to let a hosted agent reach a private-data MCP server behind your firewall — an outbound tunnel plus a proxy, with per-server OAuth — so internal tools are usable without exposing them to the public internet.
+Use to let a hosted agent reach a private-data MCP server behind your firewall (an outbound tunnel plus a proxy, with per-server OAuth) so internal tools are usable without exposing them to the public internet.
 
 **Source:** https://github.com/cloudflare/cloudflared
 

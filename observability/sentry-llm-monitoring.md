@@ -7,7 +7,7 @@ license: FSL-1.0
 ---
 # sentry-llm-monitoring
 
-Sentry's error and performance monitoring extended to LLM applications — captures exceptions, latency, and AI token usage with OpenTelemetry integration.
+Sentry's error and performance monitoring extended to LLM applications. It captures exceptions, latency, and AI token usage with OpenTelemetry integration.
 
 **Source:** https://github.com/getsentry/sentry
 

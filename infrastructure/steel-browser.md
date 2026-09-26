@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # steel-browser
 
-Open-source browser API optimised for AI agents — provides session management, stealth settings, proxy rotation, and a REST/WebSocket interface on top of Chromium for cloud-scale agent browser access.
+Open-source browser API optimised for AI agents. It provides session management, stealth settings, proxy rotation, and a REST/WebSocket interface on top of Chromium for cloud-scale agent browser access.
 
 **Source:** https://github.com/steel-dev/steel-browser
 

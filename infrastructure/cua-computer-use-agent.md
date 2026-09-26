@@ -7,7 +7,7 @@ license: MIT
 ---
 # cua-computer-use-agent
 
-trycua/cua open-source computer-use agent framework — Apple Silicon-native, runs lightweight macOS/Linux VMs with sub-second cold starts; provides a unified Python interface for screen capture, click, and type actions.
+trycua/cua open-source computer-use agent framework: Apple Silicon-native, runs lightweight macOS/Linux VMs with sub-second cold starts; provides a unified Python interface for screen capture, click, and type actions.
 
 **Source:** https://github.com/trycua/cua
 

@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # phospho
 
-Phospho is a text analytics and evaluation platform for LLM apps — logs sessions, runs clustering, detects failures, and surfaces actionable insights.
+Phospho is a text analytics and evaluation platform for LLM apps. It logs sessions, runs clustering, detects failures, and surfaces actionable insights.
 
 **Source:** https://github.com/phospho-app/phospho
 

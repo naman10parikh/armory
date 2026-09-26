@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # openllmetry
 
-OpenTelemetry-based observability for LLM applications — auto-instruments OpenAI, Anthropic, LangChain, and 20+ providers with zero code changes.
+OpenTelemetry-based observability for LLM applications. It auto-instruments OpenAI, Anthropic, LangChain, and 20+ providers with zero code changes.
 
 **Source:** https://github.com/traceloop/openllmetry
 

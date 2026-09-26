@@ -7,7 +7,7 @@ license: MIT
 ---
 # claude-managed-agents-selfhost
 
-Use for enterprise hosted-control agents — the agent loop runs at the provider while execution happens on your own infrastructure — when you want a managed control plane but data and code must stay on your machines.
+Use for enterprise hosted-control agents (the agent loop runs at the provider while execution happens on your own infrastructure) when you want a managed control plane but data and code must stay on your machines.
 
 **Source:** https://github.com/anthropics/anthropic-sdk-python
 

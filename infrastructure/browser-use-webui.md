@@ -7,7 +7,7 @@ license: MIT
 ---
 # browser-use-webui
 
-Gradio web UI on top of the browser-use framework — lets users run AI browser agents interactively, configure LLM providers, watch live recordings, and replay task sessions without writing Python.
+Gradio web UI on top of the browser-use framework. It lets users run AI browser agents interactively, configure LLM providers, watch live recordings, and replay task sessions without writing Python.
 
 **Source:** https://github.com/browser-use/web-ui
 
