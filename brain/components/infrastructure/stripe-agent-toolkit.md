@@ -20,7 +20,7 @@ pushed_at: "2026-09-02T00:50:08Z"
 
 ## What it is
 Stripe's toolkit for agents, available as both an SDK and an MCP. It exposes payment operations as agent-callable
-functions — customers, products and prices, payment links, invoices, usage-based billing — so an agent can transact
+functions (customers, products and prices, payment links, invoices, usage-based billing) so an agent can transact
 programmatically. It is the financial-rails infrastructure for self-justifying compute.
 
 ## When to use it

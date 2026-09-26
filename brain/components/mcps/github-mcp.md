@@ -24,7 +24,7 @@ requests, read file contents, search code and repos, and list commits. It turns 
 direct tool call.
 
 ## When to use it
-When an agent's task involves the GitHub API — filing an issue from a CI failure, opening a PR, searching for a
+When an agent's task involves the GitHub API: filing an issue from a CI failure, opening a PR, searching for a
 pattern across a repo. Prefer it over scripted `gh`/`git` when you want structured tool calls.
 
 ## How to install / invoke

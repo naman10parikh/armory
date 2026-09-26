@@ -19,14 +19,14 @@ pushed_at: "2026-04-20T10:05:04Z"
 ---
 
 ## What it is
-THE FOUR THINGS — a four-clause behavioral constitution for any coding agent, distilled from Andrej Karpathy's
+THE FOUR THINGS: a four-clause behavioral constitution for any coding agent, distilled from Andrej Karpathy's
 working style. (1) **Think Before Coding**: state the plan and the assumptions first. (2) **Simplicity First**:
 the simplest solution that works wins; don't gold-plate. (3) **Surgical Changes**: touch only the files you own;
 never reformat or "improve" neighbors. (4) **Goal-Driven Execution**: every action moves toward the stated goal,
 and you verify the goal is met before declaring done.
 
 ## When to use it
-Make this the FIRST rule in any agent harness — it is the constitution that governs every other rule. Reach for it
+Make this the FIRST rule in any agent harness: it is the constitution that governs every other rule. Reach for it
 whenever an agent is over-engineering, sprawling across files it doesn't own, or shipping without verifying.
 
 ## How to install / invoke
