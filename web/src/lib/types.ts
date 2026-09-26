@@ -20,6 +20,8 @@ export type ComponentType =
 
 export interface Component {
   name: string;
+  /** The name a person sees, set only when the slug took a collision suffix (microsoft-playwright-2). */
+  title?: string;
   type: ComponentType;
   description: string;
   source_repo: string;

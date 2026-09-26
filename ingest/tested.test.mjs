@@ -34,10 +34,21 @@ test("tested: unmatched trials are reported with a reason, no row is created, a 
   assert.equal(scored.size, 0);
   assert.deepEqual(unmatched, [
     { tool: "Hosted", repo: null, reason: "no GitHub repository" },
-    { tool: "Other", repo: "https://github.com/o/other", reason: "no row for this repository" },
+    { tool: "Other", repo: "https://github.com/o/other", reason: "no row for this repository; o/a is a different repository of the same owner" },
   ]);
   assert.deepEqual(unscored, [{ tool: "A", rows: ["clis-tools/a"] }]);
   assert.ok(!JSON.stringify({ unmatched, unscored }).includes("hands-on"));
+});
+
+test("tested: a trial of one repository never lands on the owner's other repository (the SDK is not the server)", () => {
+  const server = row("sentry-llm-monitoring", "https://github.com/getsentry/sentry");
+  for (const score of [1, 0, null]) {
+    const { scored, unscored, unmatched } = planTested([server], [trial("https://github.com/getsentry/sentry-python", score, "2026-09-26", "Sentry")]);
+    assert.equal(scored.size, 0);
+    assert.deepEqual(unscored, []);
+    assert.deepEqual(unmatched, [{ tool: "Sentry", repo: "https://github.com/getsentry/sentry-python",
+      reason: "no row for this repository; getsentry/sentry is a different repository of the same owner" }]);
+  }
 });
 
 test("tested: verified_at moves forward only, and a repeat of the recorded score changes nothing", () => {

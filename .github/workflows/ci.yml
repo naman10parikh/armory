@@ -26,7 +26,7 @@ jobs:
       # not `node --test ingest/` — directory-glob behavior varies across Node versions,
       # and we must NOT auto-run test-gate.mjs here (it's the separate Hamel step below).
       - name: Unit + contract + chaos + integration (node:test)
-        run: node --test ingest/test-pyramid.test.mjs ingest/integration.test.mjs ingest/tested.test.mjs ingest/shelf.test.mjs
+        run: node --test ingest/test-pyramid.test.mjs ingest/integration.test.mjs ingest/tested.test.mjs ingest/shelf.test.mjs ingest/credit.test.mjs
 
       # Hard schema gate — every component honors the frontmatter contract.
       - name: Schema validate
@@ -47,6 +47,10 @@ jobs:
               echo "::error::catalog.json is stale — run 'node ingest/catalog.mjs' and commit the result."; exit 1
             fi
           fi
+
+      # Catalog size: GitHub refuses a file over 100 MB. Warns at 80 MB, fails at 95 MB (docs/CATALOG-SIZE.md).
+      - name: Catalog size (warn at 80 MB, fail at 95 MB)
+        run: node scripts/catalog-size.mjs
 
       # Armory's own server: typecheck/build + vitest.
       - name: armory-mcp build + tests

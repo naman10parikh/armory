@@ -90,6 +90,19 @@ function coerce(v) {
   return v.replace(/^["']/, "").replace(/["']$/, "");
 }
 
+// One catalog row from a note's frontmatter. `title` is the name a person sees, carried only when a note sets
+// it: a row whose slug took a collision suffix (clis-tools/microsoft-playwright-2 reads "microsoft-playwright",
+// and the slug stays its URL). Every other row shows its slug and has no `title` key, so none changes shape.
+export function componentOf(fm, type, file) {
+  const component = {};
+  for (const [k, def] of Object.entries(FIELDS)) {
+    component[k] = fm[k] !== undefined ? fm[k] : def;
+  }
+  if (fm.title) component.title = fm.title;
+  component.path = `components/${type}/${file}`;
+  return component;
+}
+
 // --- Walk + build ----------------------------------------------------------
 export function buildCatalog() {
   const components = [];
@@ -101,13 +114,7 @@ export function buildCatalog() {
       if (!file.endsWith(".md")) continue;
       const slug = basename(file, ".md");
       if (slug === type) continue; // skip the category hub note (e.g. mcps/mcps.md)
-      const fm = parseFrontmatter(readFileSync(join(dir, file), "utf8"));
-      const component = {};
-      for (const [k, def] of Object.entries(FIELDS)) {
-        component[k] = fm[k] !== undefined ? fm[k] : def;
-      }
-      component.path = `components/${type}/${file}`;
-      components.push(component);
+      components.push(componentOf(parseFrontmatter(readFileSync(join(dir, file), "utf8")), type, file));
       by_type[type] += 1;
     }
   }

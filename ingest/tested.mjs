@@ -27,13 +27,26 @@ export function planTested(components, tested) {
     const k = repoKey(c.source_url);
     if (k) rowsByRepo.set(k, [...(rowsByRepo.get(k) || []), c]);
   }
+  // An owner's other repositories, named in the reason so it is plain that a trial never lands on them: the
+  // Python SDK's trial is not the Sentry server's result (getsentry/sentry-python and getsentry/sentry).
+  const byOwner = new Map();
+  for (const [k, rows] of rowsByRepo) {
+    const owner = k.split("/")[3];
+    byOwner.set(owner, [...(byOwner.get(owner) || []), repoRootUrl(rows[0].source_url).slice("https://github.com/".length)]);
+  }
+  const noRow = (k) => {
+    const others = byOwner.get(k.split("/")[3]) || [];
+    if (!others.length) return "no row for this repository";
+    const shown = others.slice(0, 3).join(", ") + (others.length > 3 ? ` and ${others.length - 3} more` : "");
+    return `no row for this repository; ${shown} ${others.length === 1 ? "is a different repository" : "are different repositories"} of the same owner`;
+  };
   const scored = new Map(); // row → { eval_score, date } of the trial that wins
   const unscored = [], unmatched = [];
   const ordered = [...(tested || [])].sort(latestLast);
   for (const t of ordered) {
     const k = repoKey(t.repo);
     const rows = k ? rowsByRepo.get(k) : null;
-    if (!rows) { unmatched.push({ tool: t.tool, repo: t.repo || null, reason: k ? "no row for this repository" : "no GitHub repository" }); continue; }
+    if (!rows) { unmatched.push({ tool: t.tool, repo: t.repo || null, reason: k ? noRow(k) : "no GitHub repository" }); continue; }
     if (t.eval_score !== 0 && t.eval_score !== 1) { unscored.push({ tool: t.tool, rows: rows.map((r) => `${r.type}/${r.name}`) }); continue; }
     for (const r of rows) scored.set(r, { eval_score: t.eval_score, date: t.date });
   }

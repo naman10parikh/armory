@@ -66,7 +66,7 @@ export async function generateMetadata({
   const component = findComponent(type, slug);
   if (!component) return { title: "Not Found · Armory" };
   return {
-    title: `${component.name} · Armory`,
+    title: `${component.title || component.name} · Armory`,
     description: component.description,
   };
 }
@@ -152,7 +152,7 @@ export default async function ComponentDetailPage({
               <TypePill type={component.type} />
             </span>
             <h1 className="mt-3 break-words text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
-              {component.name}
+              {component.title || component.name}
               {row?.ours && <OursTag />}
             </h1>
             {component.description && (

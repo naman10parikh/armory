@@ -143,6 +143,11 @@ jobs:
           node ingest/validate.mjs
           node ingest/test-gate.mjs
 
+      # 4a. Catalog size: GitHub refuses a file over 100 MB, so the push would fail. Warns at 80 MB; at 95 MB
+      #     this fails and nothing is committed (docs/CATALOG-SIZE.md).
+      - name: Catalog size (warn at 80 MB, fail at 95 MB)
+        run: node scripts/catalog-size.mjs
+
       # 5. Commit + push only if something changed. Append one audit line.
       - name: Commit growth if changed
         run: |
