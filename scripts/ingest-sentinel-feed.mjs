@@ -24,7 +24,7 @@ import { dirname, join } from "node:path";
 import { slugify, toMarkdown } from "../ingest/crawl.mjs";
 import { parseFrontmatter } from "../ingest/catalog.mjs";
 import { planTested, fieldUpdates, setField, latestTrials, vouches } from "../ingest/tested.mjs";
-import { typeOf } from "../ingest/shelf.mjs";
+import { typeOf, freeSlug } from "../ingest/shelf.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
@@ -143,8 +143,10 @@ for (const r of feed.new || []) {
   const trial = trialFor(url);
   const onTrial = r.mentions < MIN_MENTIONS;
   if (onTrial && !vouches(trial)) { belowFloor++; if (trial?.eval_score === 1) ruledOut.push(r.name); continue; }
-  const slug = slugify(repoKey(url) || r.name);
-  if (byName.has(slug)) { skipped++; continue; } // already in the catalog under its canonical slug
+  const own = slugify(repoKey(url) || r.name);
+  // null: a row of this repository holds the slug already. Another repository's row holding it gives -2, -3.
+  const slug = freeSlug(own, url, cat.components);
+  if (!slug) { skipped++; continue; }
   const type = typeOf(r.name, url, fetched.get(repoKey(url))?.description || "");
   const frontmatter = {
     name: slug, type,
@@ -160,7 +162,7 @@ for (const r of feed.new || []) {
   const md = toMarkdown({ frontmatter, body });
   const back = parseFrontmatter(md); // roundtrip self-check, like the crawler
   if (back.name !== slug) { skipped++; continue; }
-  planned.push({ slug, type, url, mentions: r.mentions, onTrial });
+  planned.push({ slug, type, url, mentions: r.mentions, onTrial, taken: slug !== own ? own : null });
   if (has("--apply")) {
     mkdirSync(INCOMING, { recursive: true });
     const file = join(INCOMING, `${slug}.md`);
@@ -195,7 +197,7 @@ console.log(`feed: ${feedPath}`);
 if (has("--reset")) console.log(`reset → ${reset} rows re-baselined to the feed's URL-credited counts`);
 console.log(`existing → mentions raised ${raised} · unchanged ${unchanged} · name-not-found ${missing}`);
 console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor} · no GitHub repo ${noRepo}`);
-for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ${p.onTrial ? "passing trial" : `×${p.mentions}`}) ${p.url}`);
+for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ${p.onTrial ? "passing trial" : `×${p.mentions}`}) ${p.url}${p.taken ? ` (${p.taken} is another repository's row)` : ""}`);
 if (ruledOut.length) console.log(`   trial passed, no row (the model check does not call it an agent component): ${ruledOut.join(", ")}`);
 console.log(`unresolved (name only, Sentinel will resolve): ${(feed.unresolved || []).length}`);
 console.log(`tested → eval_score ${has("--apply") ? "set" : "to set"} on ${testedSet.length} rows · already recorded ${testedSame} · matched with no score ${unscored.length} · unmatched ${unmatched.length}`);

@@ -1,7 +1,7 @@
 // The shelf a new contributor-feed row goes on (ingest/shelf.mjs). Zero-dep (node:test), no files touched.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { typeOf } from "./shelf.mjs";
+import { typeOf, freeSlug } from "./shelf.mjs";
 
 test("shelf: a tool that works on MCP servers is not filed as one", () => {
   const agentShield = "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool " +
@@ -21,4 +21,23 @@ test("shelf: the other shelves still read the whole description", () => {
   assert.equal(typeOf("Kit", "https://github.com/o/kit", "A fast toolkit. Ships an OpenTelemetry exporter for tracing."), "observability");
   assert.equal(typeOf("Kit", "https://github.com/o/kit", "A fast toolkit. Scores agents on a public leaderboard."), "evals");
   assert.equal(typeOf("Kit", "https://github.com/o/kit", "A fast toolkit."), "clis-tools");
+});
+
+test("slug: another repository's row holding the slug gives the new row -2, and existing rows never change", () => {
+  const mcp = { name: "microsoft-playwright", type: "mcps", source_url: "https://github.com/microsoft/playwright-mcp" };
+  const rows = [mcp];
+  const before = JSON.stringify(rows);
+  assert.equal(freeSlug("microsoft-playwright", "https://github.com/microsoft/playwright", rows), "microsoft-playwright-2");
+  assert.equal(JSON.stringify(rows), before);
+  assert.equal(freeSlug("o-free", "https://github.com/o/free", rows), "o-free");
+  const two = [mcp, { name: "microsoft-playwright-2", source_url: "https://github.com/someone/else" }];
+  assert.equal(freeSlug("microsoft-playwright", "https://github.com/microsoft/playwright", two), "microsoft-playwright-3");
+});
+
+test("slug: no second row for a repository that is listed already, or when a holder names no repository", () => {
+  const listed = [{ name: "microsoft-playwright", source_url: "https://github.com/microsoft/playwright-mcp" },
+    { name: "microsoft-playwright-2", source_url: "https://github.com/Microsoft/Playwright#readme" }];
+  assert.equal(freeSlug("microsoft-playwright", "https://github.com/microsoft/playwright", listed), null);
+  assert.equal(freeSlug("o-r", "https://github.com/o/r", [{ name: "o-r", source_url: "https://github.com/o/r/blob/main/SKILL.md" }]), null);
+  assert.equal(freeSlug("o-r", "https://github.com/o/r", [{ name: "o-r", source_url: "https://mcp.so/server/o-r" }]), null);
 });
