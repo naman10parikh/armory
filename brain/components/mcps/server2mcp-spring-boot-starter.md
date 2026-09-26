@@ -2,7 +2,7 @@
 name: server2mcp-spring-boot-starter
 type: mcps
 description: >
-  Server2mcp Spring Boot Starter MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/server2mcp-spring-boot-starter
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Server2mcp Spring Boot Starter MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Server2mcp Spring Boot Starter MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/server2mcp-spring-boot-starter) for install instructions.

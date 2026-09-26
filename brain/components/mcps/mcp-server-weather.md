@@ -2,7 +2,7 @@
 name: mcp-server-weather
 type: mcps
 description: >
-  Mcp Server Weather MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: k8scat/mcp-server-weather
 source_url: https://mcp.so/server/mcp-server-weather/k8scat
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Weather MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Weather MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-weather/k8scat) for install instructions.

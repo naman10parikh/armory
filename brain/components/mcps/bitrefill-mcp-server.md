@@ -2,7 +2,7 @@
 name: bitrefill-mcp-server
 type: mcps
 description: >
-  Bitrefill Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: bitrefill/bitrefill-mcp-server
 source_url: https://mcp.so/server/bitrefill-mcp-server/bitrefill
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Bitrefill Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Bitrefill Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/bitrefill-mcp-server/bitrefill) for install instructions.

@@ -164,7 +164,7 @@ function ConfigBlock({
           )}
         </button>
       </div>
-      <pre className="overflow-x-auto rounded-xl border border-line-default bg-canvas p-3.5 font-mono text-[12.5px] leading-relaxed text-ink-body [font-variant-ligatures:none]">
+      <pre className="overflow-x-auto rounded-xl border border-line-default bg-canvas p-3.5 font-mono text-[12.5px] leading-relaxed text-ink-body [font-variant-ligatures:none] max-sm:whitespace-pre-wrap max-sm:[overflow-wrap:anywhere]">
         <code>{code}</code>
       </pre>
     </div>

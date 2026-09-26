@@ -2,7 +2,7 @@
 name: mongodb-mcp-server-mongodb-developer
 type: mcps
 description: >
-  Mongodb Mcp Server Mongodb Developer MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mongodb-mcp-server-mongodb-developer
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mongodb Mcp Server Mongodb Developer MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mongodb Mcp Server Mongodb Developer MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mongodb-mcp-server-mongodb-developer) for install instructions.

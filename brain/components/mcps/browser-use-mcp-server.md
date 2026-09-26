@@ -2,7 +2,7 @@
 name: browser-use-mcp-server
 type: mcps
 description: >
-  Browser Use MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: win4r/browser-use-MCP-Server
 source_url: https://mcp.so/server/browser-use-MCP-Server/win4r
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Browser Use MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Browser Use MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/browser-use-MCP-Server/win4r) for install instructions.

@@ -2,7 +2,7 @@
 name: obsidian-mcp
 type: mcps
 description: >
-  Obsidian Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: newtype-01/obsidian-mcp
 source_url: https://mcp.so/server/obsidian-mcp/newtype-01
 license: unknown
@@ -16,10 +16,10 @@ tags: [mcp-so, mcp]
 mentions: null
 ---
 ## What it is
-Obsidian Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Obsidian Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/obsidian-mcp/newtype-01) for install instructions.

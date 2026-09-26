@@ -5,7 +5,7 @@
 import { basename } from "node:path";
 import { Command } from "commander";
 import chalk from "chalk";
-import { loadCatalog, readComponentBody, type Component } from "./catalog.js";
+import { engineUrl, loadCatalog, readComponentBody, type Component } from "./catalog.js";
 import { validateAndCopy, type SubmitResult } from "./submit.js";
 import { installedSomething, runInstall, type InstallReport } from "./install.js";
 import { harnessFromFlags, runInit } from "./init.js";
@@ -39,7 +39,7 @@ interface EngineRow {
 async function computeEngineRows(components: Component[]): Promise<EngineRow[]> {
   // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the real
   // module type with the missing export so this stays type-safe without touching the engine or its types.
-  const mod = (await import("../../lib/rank.mjs")) as typeof import("../../lib/rank.mjs") & {
+  const mod = (await import(engineUrl())) as typeof import("../../lib/rank.mjs") & {
     computeRows: (c: unknown[]) => EngineRow[];
   };
   return mod.computeRows(components); // same order as the input array (a .map)
@@ -201,7 +201,8 @@ program
         console.log(`${head} ${chalk.dim(`→ ${cli}`)}\n  ${chalk.yellow("• skip")}  ${result.file} already has an \`armory\` server (use --force to overwrite)`);
         return;
       }
-      console.log(`${head} ${chalk.dim(`→ ${cli}`)}\n  ${chalk.green(result.created ? "✓ created" : "✓ merged")} ${result.file}`);
+      const verb = opts.dryRun ? (result.created ? "would create" : "would merge into") : result.created ? "✓ created" : "✓ merged";
+      console.log(`${head} ${chalk.dim(`→ ${cli}`)}\n  ${chalk.green(verb)} ${result.file}`);
       console.log(chalk.dim("  restart the harness, then ask it to search Armory — e.g. \"find a browser MCP\""));
     } catch (err) {
       console.error(chalk.red(`init failed: ${(err as Error).message}`));
@@ -262,10 +263,10 @@ interface RankRow {
 }
 interface RankResult { items: RankRow[]; total: number; sort: string; dir: string; facets: { total: number } }
 
-// The Universal ranking engine (portable ESM shared with the site + MCP). Dynamic import keeps the
-// TS build decoupled from the plain-JS engine.
+// The Universal ranking engine (portable ESM shared with the site + MCP): the clone's, or the copy an
+// installed package carries (catalog.ts engineUrl). Dynamic import keeps the TS build decoupled from it.
 async function rankEngine(): Promise<{ leaderboard: (o: object) => RankResult }> {
-  return (await import("../../lib/rank.mjs")) as { leaderboard: (o: object) => RankResult };
+  return (await import(engineUrl())) as { leaderboard: (o: object) => RankResult };
 }
 
 program

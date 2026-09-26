@@ -2,7 +2,7 @@
 name: pet-store-mcp-server-3
 type: mcps
 description: >
-  Pet Store MCP Server 3 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: octaviusp/Pet-store-MCP-server-3
 source_url: https://mcp.so/server/Pet-store-MCP-server-3/octaviusp
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Pet Store MCP Server 3 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Pet Store MCP Server 3 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Pet-store-MCP-server-3/octaviusp) for install instructions.

@@ -2,7 +2,7 @@
 name: ssb-mcp
 type: mcps
 description: >
-  Ssb Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: haakonjacobsen/ssb-mcp
 source_url: https://mcp.so/server/ssb-mcp/haakonjacobsen
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Ssb Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Ssb Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/ssb-mcp/haakonjacobsen) for install instructions.

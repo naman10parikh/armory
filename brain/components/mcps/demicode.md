@@ -2,7 +2,7 @@
 name: demicode
 type: mcps
 description: >
-  Demicode MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: greenrush21/demicode
 source_url: https://mcp.so/server/demicode/greenrush21
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Demicode MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Demicode MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/demicode/greenrush21) for install instructions.

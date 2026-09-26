@@ -2,7 +2,7 @@
 name: mcp-google-spreadsheet
 type: mcps
 description: >
-  Mcp Google Spreadsheet MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: kazz187/mcp-google-spreadsheet
 source_url: https://mcp.so/server/mcp-google-spreadsheet/kazz187
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Google Spreadsheet MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Google Spreadsheet MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-google-spreadsheet/kazz187) for install instructions.

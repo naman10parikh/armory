@@ -2,7 +2,7 @@
 name: integrate-mcp-with-copilot
 type: mcps
 description: >
-  Integrate Mcp With Copilot MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/integrate-mcp-with-copilot
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Integrate Mcp With Copilot MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Integrate Mcp With Copilot MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/integrate-mcp-with-copilot) for install instructions.

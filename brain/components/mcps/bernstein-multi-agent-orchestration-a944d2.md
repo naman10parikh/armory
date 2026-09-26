@@ -2,7 +2,7 @@
 name: bernstein-multi-agent-orchestration-a944d2
 type: mcps
 description: >
-  Bernstein Multi Agent Orchestration A944d2 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/bernstein-multi-agent-orchestration-a944d2
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Bernstein Multi Agent Orchestration A944d2 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Bernstein Multi Agent Orchestration A944d2 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/bernstein-multi-agent-orchestration-a944d2) for install instructions.

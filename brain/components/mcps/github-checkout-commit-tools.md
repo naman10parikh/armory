@@ -2,7 +2,7 @@
 name: github-checkout-commit-tools
 type: mcps
 description: >
-  Github Checkout Commit Tools MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: tmw397/github-checkout-commit-tools
 source_url: https://mcp.so/server/github-checkout-commit-tools/tmw397
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Github Checkout Commit Tools MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Github Checkout Commit Tools MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/github-checkout-commit-tools/tmw397) for install instructions.

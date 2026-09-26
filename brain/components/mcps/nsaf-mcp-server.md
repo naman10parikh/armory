@@ -2,7 +2,7 @@
 name: nsaf-mcp-server
 type: mcps
 description: >
-  Nsaf Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ariunbolor/nsaf-mcp-server
 source_url: https://mcp.so/server/nsaf-mcp-server/ariunbolor
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Nsaf Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Nsaf Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/nsaf-mcp-server/ariunbolor) for install instructions.

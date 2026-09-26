@@ -2,7 +2,7 @@
 name: awesome-web3-mcp-servers
 type: mcps
 description: >
-  Awesome Web3 Mcp Servers MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/awesome-web3-mcp-servers
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Awesome Web3 Mcp Servers MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Awesome Web3 Mcp Servers MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/awesome-web3-mcp-servers) for install instructions.

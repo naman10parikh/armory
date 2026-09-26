@@ -2,7 +2,7 @@
 name: mcp-server-template-using-typescript
 type: mcps
 description: >
-  MCP Server Template Using Typescript MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: duyquangnvx/MCP-Server-Template-using-Typescript
 source_url: https://mcp.so/server/MCP-Server-Template-using-Typescript/duyquangnvx
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP Server Template Using Typescript MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP Server Template Using Typescript MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-Server-Template-using-Typescript/duyquangnvx) for install instructions.

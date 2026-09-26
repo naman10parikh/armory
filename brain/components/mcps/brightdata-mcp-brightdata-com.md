@@ -2,7 +2,7 @@
 name: brightdata-mcp-brightdata-com
 type: mcps
 description: >
-  Brightdata Mcp Brightdata Com MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/brightdata-mcp-brightdata-com
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Brightdata Mcp Brightdata Com MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Brightdata Mcp Brightdata Com MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/brightdata-mcp-brightdata-com) for install instructions.

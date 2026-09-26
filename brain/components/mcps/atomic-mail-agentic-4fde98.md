@@ -2,7 +2,7 @@
 name: atomic-mail-agentic-4fde98
 type: mcps
 description: >
-  Atomic Mail Agentic 4fde98 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/atomic-mail-agentic-4fde98
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Atomic Mail Agentic 4fde98 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Atomic Mail Agentic 4fde98 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/atomic-mail-agentic-4fde98) for install instructions.

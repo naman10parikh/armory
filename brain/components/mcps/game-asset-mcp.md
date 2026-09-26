@@ -2,7 +2,7 @@
 name: game-asset-mcp
 type: mcps
 description: >
-  Game Asset Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MubarakHAlketbi/game-asset-mcp
 source_url: https://mcp.so/server/game-asset-mcp/MubarakHAlketbi
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Game Asset Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Game Asset Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/game-asset-mcp/MubarakHAlketbi) for install instructions.

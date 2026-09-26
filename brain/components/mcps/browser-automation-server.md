@@ -2,7 +2,7 @@
 name: browser-automation-server
 type: mcps
 description: >
-  Browser Automation Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: samihalawa/browser-automation-server
 source_url: https://mcp.so/server/browser-automation-server/samihalawa
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Browser Automation Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Browser Automation Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/browser-automation-server/samihalawa) for install instructions.

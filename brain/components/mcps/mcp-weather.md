@@ -2,7 +2,7 @@
 name: mcp-weather
 type: mcps
 description: >
-  Mcp_weather MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: xuezhijian/mcp_weather
 source_url: https://mcp.so/server/mcp_weather/xuezhijian
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp_weather MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp_weather MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp_weather/xuezhijian) for install instructions.

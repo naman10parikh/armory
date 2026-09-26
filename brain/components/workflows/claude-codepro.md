@@ -2,7 +2,7 @@
 name: claude-codepro
 type: workflows
 description: >
-  Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit "heavyweight" but feature-packed and has wide coverage.
+  A development environment for Claude Code with a spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks and modular rules. Large, with wide coverage.
 source_repo: maxritter/claude-codepro
 source_url: https://github.com/maxritter/claude-codepro
 license: NOASSERTION
@@ -16,7 +16,7 @@ forks: 176
 pushed_at: "2026-09-01T06:53:29Z"
 ---
 ## What it is
-Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit "heavyweight" but feature-packed and has wide coverage.
+A development environment for Claude Code with a spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks and modular rules. Large, with wide coverage.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

@@ -2,7 +2,7 @@
 name: generator-mcp
 type: mcps
 description: >
-  Generator Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: formulahendry/generator-mcp
 source_url: https://mcp.so/server/generator-mcp/formulahendry
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Generator Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Generator Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/generator-mcp/formulahendry) for install instructions.

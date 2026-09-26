@@ -2,7 +2,7 @@
 name: nile-mcp-server
 type: mcps
 description: >
-  Nile Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: niledatabase/nile-mcp-server
 source_url: https://mcp.so/server/nile-mcp-server/niledatabase
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Nile Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Nile Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/nile-mcp-server/niledatabase) for install instructions.

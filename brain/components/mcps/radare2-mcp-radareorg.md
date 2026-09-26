@@ -2,7 +2,7 @@
 name: radare2-mcp-radareorg
 type: mcps
 description: >
-  Radare2 Mcp Radareorg MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/radare2-mcp-radareorg
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Radare2 Mcp Radareorg MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Radare2 Mcp Radareorg MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/radare2-mcp-radareorg) for install instructions.

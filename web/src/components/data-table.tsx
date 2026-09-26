@@ -97,15 +97,19 @@ export function Td({
   children,
   align = "left",
   truncate = false,
+  label,
   className = "",
 }: {
   children: ReactNode;
   align?: Align;
   truncate?: boolean;
+  /** Column name shown beside the value when a `card-table` stacks into cards on a phone. */
+  label?: string;
   className?: string;
 }) {
   return (
     <td
+      data-label={label}
       className={`h-10 border-b border-line-subtle px-3 py-2 align-middle ${ALIGN[align]} ${truncate ? "max-w-0" : ""} ${className}`}
     >
       {truncate ? <span className="block truncate">{children}</span> : children}

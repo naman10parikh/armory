@@ -2,7 +2,7 @@
 name: alibabacloud-hologres-mcp-server
 type: mcps
 description: >
-  Alibabacloud Hologres Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: aliyun/alibabacloud-hologres-mcp-server
 source_url: https://mcp.so/server/alibabacloud-hologres-mcp-server/aliyun
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Alibabacloud Hologres Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Alibabacloud Hologres Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/alibabacloud-hologres-mcp-server/aliyun) for install instructions.

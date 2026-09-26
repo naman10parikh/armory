@@ -2,7 +2,7 @@
 name: arxiv-mcp-server-prashalruchiranga
 type: mcps
 description: >
-  Arxiv Mcp Server Prashalruchiranga MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/arxiv-mcp-server-prashalruchiranga
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Arxiv Mcp Server Prashalruchiranga MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Arxiv Mcp Server Prashalruchiranga MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/arxiv-mcp-server-prashalruchiranga) for install instructions.

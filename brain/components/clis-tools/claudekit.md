@@ -2,7 +2,7 @@
 name: claudekit
 type: clis-tools
 description: >
-  Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
+  A CLI toolkit for Claude Code with auto-save checkpoints, code quality hooks, specification generation and execution, and 20+ specialised sub-agents, including a code reviewer and TypeScript and Vercel AI SDK experts.
 source_repo: carlrannaberg/claudekit
 source_url: https://github.com/carlrannaberg/claudekit
 license: MIT
@@ -16,7 +16,7 @@ forks: 118
 pushed_at: "2026-03-31T20:45:06Z"
 ---
 ## What it is
-Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
+A CLI toolkit for Claude Code with auto-save checkpoints, code quality hooks, specification generation and execution, and 20+ specialised sub-agents, including a code reviewer and TypeScript and Vercel AI SDK experts.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

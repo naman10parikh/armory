@@ -38,7 +38,7 @@ export default function Identity() {
       </p>
 
       <section className="mt-8">
-        <DataTable label="Channels" minWidthClass="min-w-[640px]">
+        <DataTable label="Channels" minWidthClass="min-w-[640px]" className="card-table">
           <thead>
             <tr>
               <Th className="w-[160px]">Channel</Th>
@@ -49,21 +49,21 @@ export default function Identity() {
           <tbody>
             <Tr>
               <Td className="font-medium text-ink-hi">Email</Td>
-              <Td className={email ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
+              <Td label="Address" className={email ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
                 {email || NOT_CONFIGURED}
               </Td>
-              <Td className="text-ink-muted">Subject and body ranked · reply with 5 picks</Td>
+              <Td label="What Happens" className="text-ink-muted">Subject and body ranked · reply with 5 picks</Td>
             </Tr>
             <Tr>
               <Td className="font-medium text-ink-hi">SMS / WhatsApp</Td>
-              <Td className={phone ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
+              <Td label="Address" className={phone ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
                 {phone || NOT_CONFIGURED}
               </Td>
-              <Td className="text-ink-muted">Message ranked · reply with 3 picks</Td>
+              <Td label="What Happens" className="text-ink-muted">Message ranked · reply with 3 picks</Td>
             </Tr>
             <Tr>
               <Td className="font-medium text-ink-hi">Web</Td>
-              <Td>
+              <Td label="Address">
                 <a
                   href="/ask"
                   className="cursor-pointer font-sans text-[12px] text-accent-hover underline underline-offset-4"
@@ -71,7 +71,7 @@ export default function Identity() {
                   /ask
                 </a>
               </Td>
-              <Td className="text-ink-muted">Query ranked · 12 picks with signals and install</Td>
+              <Td label="What Happens" className="text-ink-muted">Query ranked · 12 picks with signals and install</Td>
             </Tr>
           </tbody>
         </DataTable>

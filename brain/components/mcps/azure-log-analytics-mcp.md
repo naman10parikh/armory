@@ -2,7 +2,7 @@
 name: azure-log-analytics-mcp
 type: mcps
 description: >
-  Azure Log Analytics Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MananShahTR/azure-log-analytics-mcp
 source_url: https://mcp.so/server/azure-log-analytics-mcp/MananShahTR
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Azure Log Analytics Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Azure Log Analytics Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/azure-log-analytics-mcp/MananShahTR) for install instructions.

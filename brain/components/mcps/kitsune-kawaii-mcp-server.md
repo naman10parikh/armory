@@ -2,7 +2,7 @@
 name: kitsune-kawaii-mcp-server
 type: mcps
 description: >
-  Kitsune Kawaii Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: noppefoxwolf/kitsune-kawaii-mcp-server
 source_url: https://mcp.so/server/kitsune-kawaii-mcp-server/noppefoxwolf
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Kitsune Kawaii Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Kitsune Kawaii Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/kitsune-kawaii-mcp-server/noppefoxwolf) for install instructions.

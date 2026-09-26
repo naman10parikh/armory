@@ -2,7 +2,7 @@
 name: n8n-mcp-server-complete
 type: mcps
 description: >
-  N8n_MCP_server_complete MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dopehunter/n8n_MCP_server_complete
 source_url: https://mcp.so/server/n8n_MCP_server_complete/dopehunter
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-N8n_MCP_server_complete MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-N8n_MCP_server_complete MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/n8n_MCP_server_complete/dopehunter) for install instructions.

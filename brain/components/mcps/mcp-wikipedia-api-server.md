@@ -2,7 +2,7 @@
 name: mcp-wikipedia-api-server
 type: mcps
 description: >
-  MCP Wikipedia API Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Rishavv007/MCP-Wikipedia-API-Server
 source_url: https://mcp.so/server/MCP-Wikipedia-API-Server/Rishavv007
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP Wikipedia API Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP Wikipedia API Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-Wikipedia-API-Server/Rishavv007) for install instructions.

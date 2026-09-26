@@ -18,7 +18,7 @@ forks: 618
 pushed_at: "2026-09-02T02:12:43Z"
 ---
 ## What it is
-A community hook by backnotprop, catalogued in awesome-claude-code. Interactive plan review UI that intercepts ExitPlanMode via hooks, letting users visually annotate plans with comments, deletions, and replacements before approving or denying with detailed feedback.
+A community hook, catalogued in awesome-claude-code. Interactive plan review UI that intercepts ExitPlanMode via hooks, letting users visually annotate plans with comments, deletions, and replacements before approving or denying with detailed feedback.
 
 ## When to use it
 Interactive plan review UI that intercepts ExitPlanMode via hooks, letting users visually annotate plans with comments, deletions, and replacements before approving or denying with detailed feedback.

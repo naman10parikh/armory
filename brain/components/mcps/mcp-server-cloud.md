@@ -2,7 +2,7 @@
 name: mcp-server-cloud
 type: mcps
 description: >
-  Mcp Server Cloud MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Daniel1989/mcp-server-cloud
 source_url: https://mcp.so/server/mcp-server-cloud/Daniel1989
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Cloud MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Cloud MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-cloud/Daniel1989) for install instructions.

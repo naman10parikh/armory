@@ -2,7 +2,7 @@
 name: gmail-imap-mcp
 type: mcps
 description: >
-  Gmail Imap Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: tonykipkemboi/gmail-imap-mcp
 source_url: https://mcp.so/server/gmail-imap-mcp/tonykipkemboi
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Gmail Imap Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Gmail Imap Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/gmail-imap-mcp/tonykipkemboi) for install instructions.

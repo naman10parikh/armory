@@ -2,7 +2,7 @@
 name: chatdata-mcp-server
 type: mcps
 description: >
-  Chatdata Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: xiaozhch5/chatdata-mcp-server
 source_url: https://mcp.so/server/chatdata-mcp-server/xiaozhch5
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Chatdata Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Chatdata Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/chatdata-mcp-server/xiaozhch5) for install instructions.

@@ -2,7 +2,7 @@
 name: screener-in-mcp-server
 type: mcps
 description: >
-  Screener.In MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: minhaj3/screener.in-MCP-server
 source_url: https://mcp.so/server/screener.in-MCP-server/minhaj3
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Screener.In MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Screener.In MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/screener.in-MCP-server/minhaj3) for install instructions.

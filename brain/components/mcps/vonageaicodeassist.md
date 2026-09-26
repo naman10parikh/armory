@@ -2,7 +2,7 @@
 name: vonageaicodeassist
 type: mcps
 description: >
-  VonageAICodeAssist MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: micahman33/VonageAICodeAssist
 source_url: https://mcp.so/server/VonageAICodeAssist/micahman33
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-VonageAICodeAssist MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-VonageAICodeAssist MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/VonageAICodeAssist/micahman33) for install instructions.

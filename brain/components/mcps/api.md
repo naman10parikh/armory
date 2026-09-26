@@ -2,7 +2,7 @@
 name: api
 type: mcps
 description: >
-  任务API MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Ceeon/任务API
 source_url: https://mcp.so/server/任务API/Ceeon
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-任务API MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-任务API MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/任务API/Ceeon) for install instructions.

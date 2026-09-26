@@ -2,7 +2,7 @@
 name: mcp-mysql-2
 type: mcps
 description: >
-  Mcp Mysql MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: beat4ocean/mcp-mysql
 source_url: https://mcp.so/server/mcp-mysql/beat4ocean
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Mysql MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Mysql MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-mysql/beat4ocean) for install instructions.

@@ -2,7 +2,7 @@
 name: aws-s3-mcp
 type: mcps
 description: >
-  Aws S3 Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: samuraikun/aws-s3-mcp
 source_url: https://mcp.so/server/aws-s3-mcp/samuraikun
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Aws S3 Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Aws S3 Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/aws-s3-mcp/samuraikun) for install instructions.

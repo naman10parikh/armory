@@ -2,7 +2,7 @@
 name: mcp-ectors
 type: mcps
 description: >
-  Mcp Ectors MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: mcp-ectors/mcp-ectors
 source_url: https://mcp.so/server/mcp-ectors/mcp-ectors
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Ectors MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Ectors MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-ectors/mcp-ectors) for install instructions.

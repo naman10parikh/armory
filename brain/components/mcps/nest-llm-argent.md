@@ -2,7 +2,7 @@
 name: nest-llm-argent
 type: mcps
 description: >
-  Nest Llm Argent MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: luis1232023/nest-llm-argent
 source_url: https://mcp.so/server/nest-llm-argent/luis1232023
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Nest Llm Argent MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Nest Llm Argent MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/nest-llm-argent/luis1232023) for install instructions.

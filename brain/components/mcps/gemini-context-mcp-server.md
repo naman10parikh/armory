@@ -2,7 +2,7 @@
 name: gemini-context-mcp-server
 type: mcps
 description: >
-  Gemini Context Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ogoldberg/gemini-context-mcp-server
 source_url: https://mcp.so/server/gemini-context-mcp-server/ogoldberg
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Gemini Context Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Gemini Context Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/gemini-context-mcp-server/ogoldberg) for install instructions.

@@ -2,7 +2,7 @@
 name: llm-model-providers-mcp
 type: mcps
 description: >
-  Llm Model Providers Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: jhsu/llm-model-providers-mcp
 source_url: https://mcp.so/server/llm-model-providers-mcp/jhsu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Llm Model Providers Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Llm Model Providers Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/llm-model-providers-mcp/jhsu) for install instructions.

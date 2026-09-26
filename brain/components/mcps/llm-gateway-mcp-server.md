@@ -2,7 +2,7 @@
 name: llm-gateway-mcp-server
 type: mcps
 description: >
-  Llm_gateway_mcp_server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/llm_gateway_mcp_server
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Llm_gateway_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Llm_gateway_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/llm_gateway_mcp_server) for install instructions.

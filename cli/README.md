@@ -42,7 +42,13 @@ cd cli && pnpm install && pnpm build
 node dist/index.js search "browser automation"
 ```
 
-It reads `catalog.json` from the repository root. Set `ENGRAM_ROOT` to use a catalog in another folder.
+Or install it without a clone: `npm pack` in `cli/` packs the ranking engine and the catalog with it, and
+`npm install -g namanparikh-armory-*.tgz` puts `armory` on your PATH.
+
+From a clone it reads `catalog.json` from the repository root; installed, it reads the catalog packed with it
+(as of the pack) and fetches a component's full note from the public repository. Set `ENGRAM_ROOT` to use a
+catalog in another folder. `armory init` writes the installed `armory-mcp` command when it is on your PATH, and
+`npx -y armory-mcp` once that package is on npm.
 
 ## License
 

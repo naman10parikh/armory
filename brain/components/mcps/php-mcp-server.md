@@ -2,7 +2,7 @@
 name: php-mcp-server
 type: mcps
 description: >
-  Php Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: he426100/php-mcp-server
 source_url: https://mcp.so/server/php-mcp-server/he426100
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Php Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Php Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/php-mcp-server/he426100) for install instructions.

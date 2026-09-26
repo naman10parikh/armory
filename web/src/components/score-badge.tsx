@@ -4,9 +4,9 @@
   bar is gone; the number's colour still carries corroboration (a ramp, never a traffic light,
   because the formula never counts a missing signal against a component).
 
-  In a ranked list the caller passes `display`: the exact score to three decimals (four where two
-  neighbours would otherwise print the same three), because at one decimal the top of the board is a
-  wall of 100.0 and 99.9. Every figure is a <data value>; nothing lives only in a tooltip.
+  In a ranked list the caller passes `display`: the exact score to three decimals (four for the whole
+  list when three would make two different scores look alike), because at one decimal the top of the
+  board is a wall of 99.9. Every figure is a <data value>; nothing lives only in a tooltip.
 */
 import { signalCountWords } from "./signals-row";
 
@@ -57,5 +57,17 @@ export function ScoreBadge({ score, evidence, display, value, caption = false }:
         <span className="text-[11px] leading-none text-ink-muted">{signalCountWords(evidence)}</span>
       )}
     </span>
+  );
+}
+
+/** The key to the colours above, printed under every ranked table (CP138 T23: the dimmer amber had none). */
+export function ScoreLegend() {
+  return (
+    <p className="mt-3 text-[12px] leading-normal text-ink-muted">
+      Score colour shows how many signals stand behind it, never how good it is:{" "}
+      <span className="font-semibold text-score-solid">amber</span>, three or more;{" "}
+      <span className="font-semibold text-score-partial">dimmer amber</span>, two;{" "}
+      <span className="font-semibold text-score-thin">grey</span>, one. The Evidence column names them.
+    </p>
   );
 }

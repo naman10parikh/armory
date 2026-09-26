@@ -2,7 +2,7 @@
 name: ai-agent-ai-spy
 type: skills
 description: >
-  Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. [warning: YouTube link]
+  A talk by members of the Signal Foundation on how AI agents built into operating systems can be used for surveillance, and why companies are building them. A YouTube video.
 source_repo: 
 source_url: https://youtu.be/0ANECpNdt-4
 license: unknown
@@ -14,7 +14,7 @@ tags: [claude-code, agent-skills]
 stars: null
 ---
 ## What it is
-Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. [warning: YouTube link]
+A talk by members of the Signal Foundation on how AI agents built into operating systems can be used for surveillance, and why companies are building them. A YouTube video.
 
 ## When to use it
 When working in Claude Code and you need the "Agent Skills" resource this provides.

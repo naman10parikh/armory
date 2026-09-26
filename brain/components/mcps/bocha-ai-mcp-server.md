@@ -2,7 +2,7 @@
 name: bocha-ai-mcp-server
 type: mcps
 description: >
-  Bocha Ai Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: yoko19191/bocha-ai-mcp-server
 source_url: https://mcp.so/server/bocha-ai-mcp-server/yoko19191
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Bocha Ai Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Bocha Ai Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/bocha-ai-mcp-server/yoko19191) for install instructions.

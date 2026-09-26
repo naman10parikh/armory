@@ -2,7 +2,7 @@
 name: mqttx-mcp-sse-server
 type: mcps
 description: >
-  Mqttx Mcp Sse Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ysfscream/mqttx-mcp-sse-server
 source_url: https://mcp.so/server/mqttx-mcp-sse-server/ysfscream
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mqttx Mcp Sse Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mqttx Mcp Sse Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mqttx-mcp-sse-server/ysfscream) for install instructions.

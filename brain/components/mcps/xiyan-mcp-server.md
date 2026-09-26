@@ -2,7 +2,7 @@
 name: xiyan-mcp-server
 type: mcps
 description: >
-  Xiyan_mcp_server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: XGenerationLab/xiyan_mcp_server
 source_url: https://mcp.so/server/xiyan_mcp_server/XGenerationLab
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Xiyan_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Xiyan_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/xiyan_mcp_server/XGenerationLab) for install instructions.

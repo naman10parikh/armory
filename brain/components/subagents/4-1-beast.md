@@ -2,7 +2,7 @@
 name: 4-1-beast
 type: subagents
 description: >
-  GPT 4.1 as a top-notch coding agent.
+  An agent definition that sets GPT-4.1 up as a coding agent.
 source_repo: davila7/claude-code-templates
 source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/expert-advisors/4.1-Beast.md
 license: MIT
@@ -15,10 +15,10 @@ related: []
 tags: [expert-advisors, subagents]
 ---
 ## What it is
-GPT 4.1 as a top-notch coding agent.
+An agent definition that sets GPT-4.1 up as a coding agent.
 
 ## When to use it
-GPT 4.1 as a top-notch coding agent.
+An agent definition that sets GPT-4.1 up as a coding agent.
 
 ## How to install / invoke
 ```bash

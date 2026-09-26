@@ -18,7 +18,7 @@ forks: 144
 pushed_at: "2026-08-16T21:43:07Z"
 ---
 ## What it is
-A community workflow/command by ghost, catalogued in awesome-claude-code. Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
+A community workflow/command, catalogued in awesome-claude-code. Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
 
 ## When to use it
 Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.

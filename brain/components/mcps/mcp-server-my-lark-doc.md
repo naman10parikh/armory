@@ -2,7 +2,7 @@
 name: mcp-server-my-lark-doc
 type: mcps
 description: >
-  Mcp_server_my_lark_doc MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: T0UGH/mcp_server_my_lark_doc
 source_url: https://mcp.so/server/mcp_server_my_lark_doc/T0UGH
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp_server_my_lark_doc MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp_server_my_lark_doc MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp_server_my_lark_doc/T0UGH) for install instructions.

@@ -2,7 +2,7 @@
 name: eregulations-mcp-server
 type: mcps
 description: >
-  Eregulations Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: unctad-ai/eregulations-mcp-server
 source_url: https://mcp.so/server/eregulations-mcp-server/unctad-ai
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Eregulations Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Eregulations Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/eregulations-mcp-server/unctad-ai) for install instructions.

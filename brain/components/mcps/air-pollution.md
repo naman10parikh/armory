@@ -2,7 +2,7 @@
 name: air-pollution
 type: mcps
 description: >
-  Air Pollution MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Ashwani00001/Air-Pollution
 source_url: https://mcp.so/server/Air-Pollution/Ashwani00001
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Air Pollution MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Air Pollution MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Air-Pollution/Ashwani00001) for install instructions.

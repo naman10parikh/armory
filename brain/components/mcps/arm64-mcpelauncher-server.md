@@ -2,7 +2,7 @@
 name: arm64-mcpelauncher-server
 type: mcps
 description: >
-  Arm64 Mcpelauncher Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/arm64-mcpelauncher-server
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Arm64 Mcpelauncher Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Arm64 Mcpelauncher Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/arm64-mcpelauncher-server) for install instructions.

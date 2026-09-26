@@ -2,7 +2,7 @@
 name: mcp-server-microsoft-paint
 type: mcps
 description: >
-  Mcp Server Microsoft Paint MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ghuntley/mcp-server-microsoft-paint
 source_url: https://mcp.so/server/mcp-server-microsoft-paint/ghuntley
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Microsoft Paint MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Microsoft Paint MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-microsoft-paint/ghuntley) for install instructions.

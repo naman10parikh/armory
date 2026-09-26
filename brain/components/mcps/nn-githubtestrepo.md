@@ -2,7 +2,7 @@
 name: nn-githubtestrepo
 type: mcps
 description: >
-  NN GitHubTestRepo MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ninilang/NN-GitHubTestRepo
 source_url: https://mcp.so/server/NN-GitHubTestRepo/ninilang
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-NN GitHubTestRepo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-NN GitHubTestRepo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/NN-GitHubTestRepo/ninilang) for install instructions.

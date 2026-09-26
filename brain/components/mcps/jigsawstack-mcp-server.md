@@ -2,7 +2,7 @@
 name: jigsawstack-mcp-server
 type: mcps
 description: >
-  Jigsawstack Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: JigsawStack/jigsawstack-mcp-server
 source_url: https://mcp.so/server/jigsawstack-mcp-server/JigsawStack
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Jigsawstack Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Jigsawstack Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/jigsawstack-mcp-server/JigsawStack) for install instructions.

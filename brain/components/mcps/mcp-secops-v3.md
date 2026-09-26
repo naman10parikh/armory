@@ -2,7 +2,7 @@
 name: mcp-secops-v3
 type: mcps
 description: >
-  Mcp Secops V3 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: emeryray2002/mcp-secops-v3
 source_url: https://mcp.so/server/mcp-secops-v3/emeryray2002
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Secops V3 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Secops V3 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-secops-v3/emeryray2002) for install instructions.

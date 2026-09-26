@@ -2,7 +2,7 @@
 name: cclogviewer
 type: clis-tools
 description: >
-  A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
+  A utility for reading Claude Code .jsonl conversation files in an HTML page.
 source_repo: Brads3290/cclogviewer
 source_url: https://github.com/Brads3290/cclogviewer
 license: MIT
@@ -16,7 +16,7 @@ forks: 9
 pushed_at: "2025-08-08T08:13:50Z"
 ---
 ## What it is
-A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
+A utility for reading Claude Code .jsonl conversation files in an HTML page.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

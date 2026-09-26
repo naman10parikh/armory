@@ -2,7 +2,7 @@
 name: mcp-rss-crawler
 type: mcps
 description: >
-  Mcp Rss Crawler MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: mshk/mcp-rss-crawler
 source_url: https://mcp.so/server/mcp-rss-crawler/mshk
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Rss Crawler MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Rss Crawler MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-rss-crawler/mshk) for install instructions.

@@ -2,7 +2,7 @@
 name: mcp-msgraph
 type: mcps
 description: >
-  Mcp Msgraph MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: kevinbellinger/mcp-msgraph
 source_url: https://mcp.so/server/mcp-msgraph/kevinbellinger
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Msgraph MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Msgraph MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-msgraph/kevinbellinger) for install instructions.

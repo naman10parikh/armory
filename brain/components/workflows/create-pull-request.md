@@ -16,7 +16,7 @@ tags: [slash-command, version-control-git]
 stars: null
 ---
 ## What it is
-A community workflow/command by liam-hq, catalogued in awesome-claude-code. Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
+A community workflow/command, catalogued in awesome-claude-code. Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
 ## When to use it
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.

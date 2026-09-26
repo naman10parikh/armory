@@ -2,7 +2,7 @@
 name: open-webui-mcp-connector
 type: mcps
 description: >
-  Open Webui Mcp Connector MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ivanuser/open-webui-mcp-connector
 source_url: https://mcp.so/server/open-webui-mcp-connector/ivanuser
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Open Webui Mcp Connector MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Open Webui Mcp Connector MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/open-webui-mcp-connector/ivanuser) for install instructions.

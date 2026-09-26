@@ -2,7 +2,7 @@
 name: mcp-agent8
 type: mcps
 description: >
-  Mcp Agent8 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: planetarium/mcp-agent8
 source_url: https://mcp.so/server/mcp-agent8/planetarium
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Agent8 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Agent8 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-agent8/planetarium) for install instructions.

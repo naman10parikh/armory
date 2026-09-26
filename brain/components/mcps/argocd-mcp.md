@@ -2,7 +2,7 @@
 name: argocd-mcp
 type: mcps
 description: >
-  Argocd Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: severity1/argocd-mcp
 source_url: https://mcp.so/server/argocd-mcp/severity1
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Argocd Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Argocd Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/argocd-mcp/severity1) for install instructions.

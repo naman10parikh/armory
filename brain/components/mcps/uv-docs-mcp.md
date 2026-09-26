@@ -2,7 +2,7 @@
 name: uv-docs-mcp
 type: mcps
 description: >
-  Uv Docs Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: StevenBtw/uv-docs-mcp
 source_url: https://mcp.so/server/uv-docs-mcp/StevenBtw
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Uv Docs Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Uv Docs Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/uv-docs-mcp/StevenBtw) for install instructions.

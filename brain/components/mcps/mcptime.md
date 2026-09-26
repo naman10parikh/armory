@@ -2,7 +2,7 @@
 name: mcptime
 type: mcps
 description: >
-  Mcptime MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: troyharris/mcptime
 source_url: https://mcp.so/server/mcptime/troyharris
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcptime MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcptime MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcptime/troyharris) for install instructions.

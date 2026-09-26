@@ -2,7 +2,7 @@
 name: medrxiv-mcp-server
 type: mcps
 description: >
-  MedRxiv MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: JackKuo666/medRxiv-MCP-Server
 source_url: https://mcp.so/server/medRxiv-MCP-Server/JackKuo666
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MedRxiv MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MedRxiv MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/medRxiv-MCP-Server/JackKuo666) for install instructions.

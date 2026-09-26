@@ -2,7 +2,7 @@
 name: claude-code-output-styles-debugging
 type: workflows
 description: >
-  A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.
+  A small set of output styles for debugging: root cause analysis and a systematic, methodical approach to fixing bugs in Claude Code.
 source_repo: JamieM0/claude-output-styles
 source_url: https://github.com/JamieM0/claude-output-styles
 license: MIT
@@ -16,7 +16,7 @@ forks: 1
 pushed_at: "2025-09-18T18:14:32Z"
 ---
 ## What it is
-A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.
+A small set of output styles for debugging: root cause analysis and a systematic, methodical approach to fixing bugs in Claude Code.
 
 ## When to use it
 When working in Claude Code and you need the "Output Styles" resource this provides.

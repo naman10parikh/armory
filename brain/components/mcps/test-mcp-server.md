@@ -2,7 +2,7 @@
 name: test-mcp-server
 type: mcps
 description: >
-  Test_mcp_server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: nemono0ne/test_mcp_server
 source_url: https://mcp.so/server/test_mcp_server/nemono0ne
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Test_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Test_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/test_mcp_server/nemono0ne) for install instructions.

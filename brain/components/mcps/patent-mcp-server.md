@@ -2,7 +2,7 @@
 name: patent-mcp-server
 type: mcps
 description: >
-  Patent_mcp_server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: riemannzeta/patent_mcp_server
 source_url: https://mcp.so/server/patent_mcp_server/riemannzeta
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Patent_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Patent_mcp_server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/patent_mcp_server/riemannzeta) for install instructions.

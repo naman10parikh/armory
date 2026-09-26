@@ -2,7 +2,7 @@
 name: mock-data-mcp
 type: mcps
 description: >
-  Mock Data Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: rhitune2/mock-data-mcp
 source_url: https://mcp.so/server/mock-data-mcp/rhitune2
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mock Data Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mock Data Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mock-data-mcp/rhitune2) for install instructions.

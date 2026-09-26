@@ -2,7 +2,7 @@
 name: qualitativeresearch
 type: mcps
 description: >
-  Qualitativeresearch MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: tejpalvirk/qualitativeresearch
 source_url: https://mcp.so/server/qualitativeresearch/tejpalvirk
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Qualitativeresearch MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Qualitativeresearch MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/qualitativeresearch/tejpalvirk) for install instructions.

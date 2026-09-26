@@ -298,3 +298,57 @@ body {
   }
   .stack-table td[data-col="score"] > span { align-items: flex-start; }
 }
+
+/* Small tables on a phone (CP138 T23: /status, /identity and /formula hid their
+   counts, shares and scores in a box that scrolled sideways with no cue). Below
+   640px each row becomes a labelled card: the first cell is its title, and every
+   cell with a data-label shows that label on the left and its value on the right.
+   `!important` beats the inline cell styles on /formula. `.card-table-inset` keeps
+   the padding of a table drawn inside a bordered box. */
+@media (max-width: 639px) {
+  .card-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+  .card-table,
+  .card-table tbody {
+    display: block;
+    width: 100%;
+    min-width: 0 !important;
+  }
+  .card-table tr {
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--line-subtle);
+  }
+  .card-table-inset tr { padding: 12px 14px; }
+  .card-table td {
+    display: block !important;
+    height: auto;
+    max-width: none;
+    padding: 2px 0 !important;
+    border: 0 !important;
+    text-align: left !important;
+  }
+  .card-table td[data-label] {
+    display: flex !important;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    text-align: right !important;
+  }
+  .card-table td[data-label]::before {
+    content: attr(data-label);
+    flex: none;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    text-align: left;
+  }
+}

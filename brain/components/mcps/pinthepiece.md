@@ -2,7 +2,7 @@
 name: pinthepiece
 type: mcps
 description: >
-  PinThePiece MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: psaboia/PinThePiece
 source_url: https://mcp.so/server/PinThePiece/psaboia
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-PinThePiece MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-PinThePiece MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/PinThePiece/psaboia) for install instructions.

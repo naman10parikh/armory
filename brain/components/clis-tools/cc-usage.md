@@ -2,7 +2,7 @@
 name: cc-usage
 type: clis-tools
 description: >
-  Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
+  A CLI tool that reads local Claude Code logs and reports usage: cost, token consumption and more, in a dashboard.
 source_repo: ryoppippi/ccusage
 source_url: https://github.com/ryoppippi/ccusage
 license: NOASSERTION
@@ -16,7 +16,7 @@ forks: 817
 pushed_at: "2026-09-01T20:28:51Z"
 ---
 ## What it is
-Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
+A CLI tool that reads local Claude Code logs and reports usage: cost, token consumption and more, in a dashboard.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

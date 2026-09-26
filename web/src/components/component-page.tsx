@@ -165,8 +165,8 @@ export function ShelfTable({ label, rows }: { label: string; rows: CanonRow[] })
     <BoardTable
       label={label}
       rows={toRowViews(foldSameRepo(rows))}
-      now={Date.now()}
       fallbackDate={boardMeta().generatedAt}
+      githubRead={boardMeta().githubRead}
     />
   );
 }

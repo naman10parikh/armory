@@ -2,7 +2,7 @@
 name: dune-analytics-mcp
 type: mcps
 description: >
-  Dune Analytics Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: kukapay/dune-analytics-mcp
 source_url: https://mcp.so/server/dune-analytics-mcp/kukapay
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Dune Analytics Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Dune Analytics Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/dune-analytics-mcp/kukapay) for install instructions.

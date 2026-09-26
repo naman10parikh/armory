@@ -2,7 +2,7 @@
 name: mcp-analytics-middleware
 type: mcps
 description: >
-  Mcp Analytics Middleware MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Phillip-Kemper/mcp-analytics-middleware
 source_url: https://mcp.so/server/mcp-analytics-middleware/Phillip-Kemper
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Analytics Middleware MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Analytics Middleware MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-analytics-middleware/Phillip-Kemper) for install instructions.

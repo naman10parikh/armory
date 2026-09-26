@@ -4,7 +4,8 @@
 
   Rank · Score · Component · [Gained | Listed] · Description · Evidence · Last commit · Install
 
-  - Score: three decimals from the exact score (four where neighbours would tie), else "Unranked".
+  - Score: three decimals from the exact score (four for the whole table when three would make two
+    different scores look alike), else "Unranked". Its colour is explained under the table.
   - Evidence: the signals in words. Last commit: a <time datetime> on every row, with Stale after two
     years; a row with no commit date shows when it was listed instead, so every row still has a date.
   - Install: the full command, wrapped, never cut. Component names wrap at their hyphens.
@@ -16,9 +17,9 @@ import Link from "next/link";
 import { ContributorLink } from "./badges";
 import { DataTable, Th, clampWords } from "./data-table";
 import { InstallSnippet, NoInstall } from "./install-snippet";
-import { ScoreBadge } from "./score-badge";
+import { ScoreBadge, ScoreLegend } from "./score-badge";
 import { SignalsRow, type SignalValues } from "./signals-row";
-import { ago, int, shortDate } from "@/lib/format";
+import { githubReadText, int, shortDate } from "@/lib/format";
 
 export interface RowView {
   key: string;
@@ -58,96 +59,106 @@ const CELL = "border-b border-line-subtle px-3 py-2.5 align-top";
 export function BoardTable({
   label,
   rows,
-  now,
   extra = null,
   fallbackDate = null,
   trendingSince = null,
   scoreSort = "descending",
+  githubRead = null,
 }: {
   label: string;
   rows: readonly RowView[];
-  /** Reference time for "3 days ago" — the render time on the server, Date.now() in the browser. */
-  now: number;
   extra?: ExtraColumn;
   /** Date shown for a row with neither a commit nor a listing date (the catalog's own date). */
   fallbackDate?: string | null;
   trendingSince?: string | null;
   scoreSort?: "ascending" | "descending" | "none";
+  /** When the GitHub figures were read (boardMeta().githubRead); the key under the table states it. */
+  githubRead?: { since: string | null; latest: string } | null;
 }) {
   return (
-    <DataTable label={label} minWidthClass="min-w-[1100px]" fixed className="board-table">
-      <thead>
-        <tr>
-          <Th align="right" className="w-[52px]">
-            Rank
-          </Th>
-          <Th align="right" className="w-[86px]" sort={scoreSort}>
-            Score
-          </Th>
-          <Th className="w-[210px]">Component</Th>
-          {extra === "gained" && <Th className="w-[128px]">Gained</Th>}
-          {extra === "listed" && <Th className="w-[112px]">Listed</Th>}
-          <Th className="w-auto">Description</Th>
-          <Th className="w-[190px]">Evidence</Th>
-          <Th className="w-[118px]">Last commit</Th>
-          <Th className="w-[280px]">Install</Th>
-        </tr>
-      </thead>
-      <tbody>
-        {rows.map((row) => (
-          <tr key={row.key} className="transition-colors duration-150 ease-state hover:bg-raise-2">
-            <td data-col="rank" className={`${CELL} text-right text-[12px] text-ink-faint`}>
-              {row.rank != null && <data value={String(row.rank)}>{row.rank}</data>}
-            </td>
-            <td data-col="score" className={`${CELL} text-right`}>
-              <ScoreBadge
-                score={row.universal}
-                evidence={row.evidence}
-                display={row.scoreText}
-                value={row.exact}
-              />
-            </td>
-            <td data-col="name" className={CELL}>
-              <NameCell row={row} />
-            </td>
-            {extra === "gained" && (
-              <td data-col="gained" className={`${CELL} text-[12.5px] text-ink-body`}>
-                {row.gained != null && (
-                  <>
-                    <data value={String(row.gained)} className="font-semibold text-ink-hi">
-                      +{int(row.gained)}
-                    </data>{" "}
-                    {row.gained === 1 ? "mention" : "mentions"}
-                    {trendingSince && (
-                      <span className="block text-[11.5px] text-ink-faint">
-                        since <time dateTime={trendingSince}>{shortDate(trendingSince)}</time>
-                      </span>
-                    )}
-                  </>
-                )}
-              </td>
-            )}
-            {extra === "listed" && (
-              <td data-col="listed" className={`${CELL} text-[12.5px] text-ink-body`}>
-                {row.listedAt && <time dateTime={row.listedAt}>{shortDate(row.listedAt)}</time>}
-              </td>
-            )}
-            <td data-col="desc" className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
-              {clampWords(row.desc, 150) || <span className="text-ink-faint">No description</span>}
-            </td>
-            <td data-col="evidence" className={CELL}>
-              <SignalsRow signals={row.signals} />
-            </td>
-            <td data-col="when" className={CELL}>
-              <LastCommit row={row} now={now} fallbackDate={fallbackDate} />
-            </td>
-            <td data-col="install" className={CELL}>
-              {row.installable ? <InstallSnippet name={row.name} /> : <NoInstall source={row.source} />}
-            </td>
+    <div>
+      <DataTable label={label} minWidthClass="min-w-[1100px]" fixed className="board-table">
+        <thead>
+          <tr>
+            <Th align="right" className="w-[52px]">
+              Rank
+            </Th>
+            <Th align="right" className="w-[86px]" sort={scoreSort}>
+              Score
+            </Th>
+            <Th className="w-[210px]">Component</Th>
+            {extra === "gained" && <Th className="w-[128px]">Gained</Th>}
+            {extra === "listed" && <Th className="w-[112px]">Listed</Th>}
+            <Th className="w-auto">Description</Th>
+            <Th className="w-[190px]">Evidence</Th>
+            <Th className="w-[118px]">Last commit</Th>
+            <Th className="w-[280px]">Install</Th>
           </tr>
-        ))}
-      </tbody>
-    </DataTable>
+        </thead>
+        <tbody>
+          {rows.map((row) => (
+            <tr key={row.key} className="transition-colors duration-150 ease-state hover:bg-raise-2">
+              <td data-col="rank" className={`${CELL} text-right text-[12px] text-ink-faint`}>
+                {row.rank != null && <data value={String(row.rank)}>{row.rank}</data>}
+              </td>
+              <td data-col="score" className={`${CELL} text-right`}>
+                <ScoreBadge
+                  score={row.universal}
+                  evidence={row.evidence}
+                  display={row.scoreText}
+                  value={row.exact}
+                />
+              </td>
+              <td data-col="name" className={CELL}>
+                <NameCell row={row} />
+              </td>
+              {extra === "gained" && (
+                <td data-col="gained" className={`${CELL} text-[12.5px] text-ink-body`}>
+                  {row.gained != null && (
+                    <>
+                      <data value={String(row.gained)} className="font-semibold text-ink-hi">
+                        +{int(row.gained)}
+                      </data>{" "}
+                      {row.gained === 1 ? "mention" : "mentions"}
+                      {trendingSince && (
+                        <span className="block text-[11.5px] text-ink-faint">
+                          since <time dateTime={trendingSince}>{shortDate(trendingSince)}</time>
+                        </span>
+                      )}
+                    </>
+                  )}
+                </td>
+              )}
+              {extra === "listed" && (
+                <td data-col="listed" className={`${CELL} text-[12.5px] text-ink-body`}>
+                  {row.listedAt && <time dateTime={row.listedAt}>{shortDate(row.listedAt)}</time>}
+                </td>
+              )}
+              <td data-col="desc" className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
+                {clampWords(row.desc, 150) || <span className="text-ink-faint">No description</span>}
+              </td>
+              <td data-col="evidence" className={CELL}>
+                <SignalsRow signals={row.signals} />
+              </td>
+              <td data-col="when" className={CELL}>
+                <LastCommit row={row} fallbackDate={fallbackDate} />
+              </td>
+              <td data-col="install" className={CELL}>
+                {row.installable ? <InstallSnippet name={row.name} /> : <NoInstall source={row.source} />}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </DataTable>
+      <ScoreLegend />
+      {githubRead && (
+        <p className="mt-1 text-[12px] leading-normal text-ink-muted">
+          Stars, forks and last commit are as GitHub reported them when Armory last read each repository: for
+          most, <time dateTime={githubRead.since ?? githubRead.latest}>{githubReadText(githubRead)}</time> or later.
+          A repository may have changed since.
+        </p>
+      )}
+    </div>
   );
 }
 
@@ -216,17 +227,16 @@ export function StaleTag() {
 
 function LastCommit({
   row,
-  now,
   fallbackDate,
 }: {
   row: RowView;
-  now: number;
   fallbackDate: string | null;
 }) {
   if (row.pushedAt) {
     return (
       <span className="text-[12.5px] text-ink-body">
-        <time dateTime={row.pushedAt}>{ago(row.pushedAt, now)}</time>
+        {/* A date, not "3 weeks ago": the figure is as of the last GitHub read, not as of now (CP138 T23). */}
+        <time dateTime={row.pushedAt}>{shortDate(row.pushedAt)}</time>
         {row.stale && <StaleTag />}
       </span>
     );

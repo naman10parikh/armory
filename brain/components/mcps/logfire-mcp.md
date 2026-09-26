@@ -2,7 +2,7 @@
 name: logfire-mcp
 type: mcps
 description: >
-  Logfire Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: pydantic/logfire-mcp
 source_url: https://mcp.so/server/logfire-mcp/pydantic
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Logfire Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Logfire Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/logfire-mcp/pydantic) for install instructions.

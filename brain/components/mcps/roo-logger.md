@@ -2,7 +2,7 @@
 name: roo-logger
 type: mcps
 description: >
-  Roo Logger MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: annenpolka/roo-logger
 source_url: https://mcp.so/server/roo-logger/annenpolka
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Roo Logger MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Roo Logger MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/roo-logger/annenpolka) for install instructions.

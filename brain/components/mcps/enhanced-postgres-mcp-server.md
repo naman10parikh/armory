@@ -2,7 +2,7 @@
 name: enhanced-postgres-mcp-server
 type: mcps
 description: >
-  Enhanced Postgres Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: GarethCott/enhanced-postgres-mcp-server
 source_url: https://mcp.so/server/enhanced-postgres-mcp-server/GarethCott
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Enhanced Postgres Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Enhanced Postgres Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/enhanced-postgres-mcp-server/GarethCott) for install instructions.

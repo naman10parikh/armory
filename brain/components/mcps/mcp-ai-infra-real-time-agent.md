@@ -2,7 +2,7 @@
 name: mcp-ai-infra-real-time-agent
 type: mcps
 description: >
-  Mcp Ai Infra Real Time Agent MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mcp-ai-infra-real-time-agent
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Ai Infra Real Time Agent MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Ai Infra Real Time Agent MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-ai-infra-real-time-agent) for install instructions.

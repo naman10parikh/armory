@@ -18,7 +18,7 @@ forks: 11
 pushed_at: "2026-04-08T08:38:42Z"
 ---
 ## What it is
-A community hook by GowayLee, catalogued in awesome-claude-code. A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.
+A community hook, catalogued in awesome-claude-code. A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.
 
 ## When to use it
 A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.

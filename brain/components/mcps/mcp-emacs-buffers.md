@@ -2,7 +2,7 @@
 name: mcp-emacs-buffers
 type: mcps
 description: >
-  Mcp Emacs Buffers MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: kfischer-okarin/mcp-emacs-buffers
 source_url: https://mcp.so/server/mcp-emacs-buffers/kfischer-okarin
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Emacs Buffers MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Emacs Buffers MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-emacs-buffers/kfischer-okarin) for install instructions.

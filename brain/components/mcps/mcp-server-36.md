@@ -2,7 +2,7 @@
 name: mcp-server-36
 type: mcps
 description: >
-  MCP SERVER MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Stormbreaker06/MCP-SERVER
 source_url: https://mcp.so/server/MCP-SERVER/Stormbreaker06
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP SERVER MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP SERVER MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-SERVER/Stormbreaker06) for install instructions.

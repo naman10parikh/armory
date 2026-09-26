@@ -2,7 +2,7 @@
 name: frontapp-mcp
 type: mcps
 description: >
-  Frontapp MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: zqushair/Frontapp-MCP
 source_url: https://mcp.so/server/Frontapp-MCP/zqushair
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Frontapp MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Frontapp MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Frontapp-MCP/zqushair) for install instructions.

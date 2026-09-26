@@ -16,7 +16,7 @@ tags: [slash-command, version-control-git]
 stars: null
 ---
 ## What it is
-A community workflow/command by evmts, catalogued in awesome-claude-code. Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
+A community workflow/command, catalogued in awesome-claude-code. Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
 
 ## When to use it
 Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.

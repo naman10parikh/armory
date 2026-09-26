@@ -2,7 +2,7 @@
 name: olostep-mcp-server
 type: mcps
 description: >
-  Olostep Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: olostep/olostep-mcp-server
 source_url: https://mcp.so/server/olostep-mcp-server/olostep
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Olostep Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Olostep Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/olostep-mcp-server/olostep) for install instructions.

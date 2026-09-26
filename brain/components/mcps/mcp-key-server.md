@@ -2,7 +2,7 @@
 name: mcp-key-server
 type: mcps
 description: >
-  Mcp Key Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: suchetaslalom-sf/mcp-key-server
 source_url: https://mcp.so/server/mcp-key-server/suchetaslalom-sf
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Key Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Key Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-key-server/suchetaslalom-sf) for install instructions.

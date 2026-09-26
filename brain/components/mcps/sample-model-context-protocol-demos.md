@@ -2,7 +2,7 @@
 name: sample-model-context-protocol-demos
 type: mcps
 description: >
-  Sample Model Context Protocol Demos MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/sample-model-context-protocol-demos
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Sample Model Context Protocol Demos MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Sample Model Context Protocol Demos MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/sample-model-context-protocol-demos) for install instructions.

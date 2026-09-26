@@ -2,7 +2,7 @@
 name: xero-mcp-server
 type: mcps
 description: >
-  Xero Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: XeroAPI/xero-mcp-server
 source_url: https://mcp.so/server/xero-mcp-server/XeroAPI
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Xero Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Xero Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/xero-mcp-server/XeroAPI) for install instructions.

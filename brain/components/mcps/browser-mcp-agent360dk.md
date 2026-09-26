@@ -2,7 +2,7 @@
 name: browser-mcp-agent360dk
 type: mcps
 description: >
-  Browser Mcp Agent360dk MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/browser-mcp-agent360dk
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Browser Mcp Agent360dk MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Browser Mcp Agent360dk MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/browser-mcp-agent360dk) for install instructions.

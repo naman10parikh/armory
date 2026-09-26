@@ -2,7 +2,7 @@
 name: transcriptiontools-mcp
 type: mcps
 description: >
-  TranscriptionTools MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MushroomFleet/TranscriptionTools-MCP
 source_url: https://mcp.so/server/TranscriptionTools-MCP/MushroomFleet
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-TranscriptionTools MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-TranscriptionTools MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/TranscriptionTools-MCP/MushroomFleet) for install instructions.

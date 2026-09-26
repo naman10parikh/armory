@@ -2,7 +2,7 @@
 name: mcp-server-zenn
 type: mcps
 description: >
-  Mcp Server Zenn MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: shibuiwilliam/mcp-server-zenn
 source_url: https://mcp.so/server/mcp-server-zenn/shibuiwilliam
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Zenn MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Zenn MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-zenn/shibuiwilliam) for install instructions.

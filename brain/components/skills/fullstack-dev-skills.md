@@ -2,7 +2,7 @@
 name: fullstack-dev-skills
 type: skills
 description: >
-  A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a `/common-ground` command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.
+  A Claude Code plugin with 65 skills for full-stack development across many frameworks, 9 workflow commands for Jira and Confluence, and a /common-ground command that lists Claude's assumptions about your project.
 source_repo: jeffallan/claude-skills
 source_url: https://github.com/jeffallan/claude-skills
 license: MIT
@@ -16,7 +16,7 @@ forks: 1080
 pushed_at: "2026-08-07T20:19:18Z"
 ---
 ## What it is
-A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a `/common-ground` command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.
+A Claude Code plugin with 65 skills for full-stack development across many frameworks, 9 workflow commands for Jira and Confluence, and a /common-ground command that lists Claude's assumptions about your project.
 
 ## When to use it
 When working in Claude Code and you need the "Agent Skills" resource this provides.

@@ -18,7 +18,7 @@ forks: 579
 pushed_at: "2026-09-21T08:44:49Z"
 ---
 ## What it is
-A community statusline by sirmalloc, catalogued in awesome-claude-code. A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
+A community statusline, catalogued in awesome-claude-code. A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 
 ## When to use it
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.

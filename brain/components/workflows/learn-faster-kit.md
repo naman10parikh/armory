@@ -2,7 +2,7 @@
 name: learn-faster-kit
 type: workflows
 description: >
-  A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.
+  An educational framework for Claude Code based on the "FASTER" approach to self-teaching, with agents, slash commands and tools for learning at your own pace through active learning and spaced repetition.
 source_repo: cheukyin175/learn-faster-kit
 source_url: https://github.com/cheukyin175/learn-faster-kit
 license: MIT
@@ -16,7 +16,7 @@ forks: 41
 pushed_at: "2026-08-04T12:16:29Z"
 ---
 ## What it is
-A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.
+An educational framework for Claude Code based on the "FASTER" approach to self-teaching, with agents, slash commands and tools for learning at your own pace through active learning and spaced repetition.
 
 ## When to use it
 When working in Claude Code and you need the "Workflows & Knowledge Guides" resource this provides.

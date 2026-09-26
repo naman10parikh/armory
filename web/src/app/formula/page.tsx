@@ -18,6 +18,7 @@ import {
   type Rung,
   type Worked,
 } from "@/components/score-explainer";
+import { clampWords } from "@/components/data-table";
 import { signalWords } from "@/components/signals-row";
 
 export const runtime = "nodejs";
@@ -57,6 +58,7 @@ const WHO: Record<string, string> = {
 
 interface Row {
   name: string;
+  desc: string;
   url: string | null;
   kind: string;
   stale: boolean;
@@ -87,7 +89,7 @@ function load(): Row[] {
 
 const n = (v: number) => v.toLocaleString();
 // Two decimals, trailing zeros dropped. The two halves are shown EXACT so they always add to the
-// score; only the final score is rounded to one decimal, and §04 says so.
+// score; only the final score is cut to one decimal, never rounded up, and §04 says so.
 const ex = (v: number) => String(+v.toFixed(2));
 
 /**
@@ -99,7 +101,7 @@ function work(r: Row, tier: string): Worked {
   const { pct, base, second, others } = r.scores;
   const held = SIGNALS.filter((s) => pct[s] != null);
   if (!held.length || !base) {
-    return { name: r.name, tier, parts: "Unmeasured", math: "No Value", score: "—" };
+    return { name: r.name, desc: clampWords(r.desc, 90), tier, parts: "Unmeasured", math: "No Value", score: "—" };
   }
   const mark = (s: Signal) => (s === base ? "  ← strongest" : s === second ? "  ← second" : "  (not used: weaker than both)");
   const parts = held.map((s) => `${signalWords(s, r.signals[s] as number)} → p${pct[s]}${mark(s)}`).join("\n");
@@ -107,10 +109,12 @@ function work(r: Row, tier: string): Worked {
   const othersMath = second ? `${B.others} × ${pct[second]}` : `${B.others} × 0 (nothing else to corroborate)`;
   return {
     name: r.name,
+    desc: clampWords(r.desc, 90),
     tier,
     parts,
     math: `${B.base} × ${pct[base]}  +  ${othersMath}\n= ${ex(B.base * (pct[base] as number))} + ${ex(B.others * (others ?? 0))}`,
-    score: String(r.scores.universal ?? "—"),
+    // One decimal on every row: String() printed "100", "79" and "49.2" in one column (CP138 T23).
+    score: r.scores.universal == null ? "—" : r.scores.universal.toFixed(1),
   };
 }
 
@@ -199,7 +203,7 @@ export default function FormulaPage() {
       <Section
         n="01"
         title="Signals"
-        lead={`${cards.length} exist today. A tool is scored on whichever ones it has: a missing signal, or a recorded zero, never counts against it. The strongest number a tool holds is always the one it leads with; the weight only decides which leads when two rank the same.`}
+        lead={`${cards.length} exist today. A tool is scored on whichever ones it has: nothing is taken off for a missing signal or a recorded zero, though the last ${Math.round(100 * B.others)} points need a second signal (see Confidence). The strongest number a tool holds is always the one it leads with; the weight only decides which leads when two rank the same.`}
       >
         <Signals cards={cards} />
       </Section>
@@ -216,7 +220,7 @@ export default function FormulaPage() {
         <Section
           n="03"
           title="Confidence"
-          lead={`One signal can be luck, a launch, or marketing. Several sources agreeing is stronger evidence than one. So we take your strongest number as ${B.base} of the score, and your second strongest adds the last ${B.others}. One signal caps you at ${100 * B.base}. A third counts only when it beats one of those two, so earning more evidence is never punished.`}
+          lead={`One signal can be luck, a launch, or marketing. Several sources agreeing is stronger evidence than one. So we take your strongest number as ${B.base} of the score, and your second strongest adds the last ${B.others}. With one signal the most you can reach is ${Math.round(100 * B.base)}. A third counts only when it beats one of those two, so earning more evidence is never punished.`}
         >
           <HeadToHead
             left={{
@@ -242,7 +246,7 @@ export default function FormulaPage() {
       <Section
         n="04"
         title="Worked Examples"
-        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × its second best, rounded to one decimal at the end; tables print three decimals from the unrounded score to separate ties. These sums use the same numbers as the score.`}
+        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × its second best, cut to one decimal at the end and never rounded up, so only a perfect row shows 100.0. Ranked tables print three decimals from the full score, or four when three would make two different scores look alike, and rows with the same full score share a rank. These sums use the same numbers as the score.`}
       >
         <WorkedTable rows={examples} />
       </Section>
@@ -250,13 +254,13 @@ export default function FormulaPage() {
       <Section
         n="05"
         title="Coverage"
-        lead={`We asked GitHub about all ${n(repos.size)} repos behind the blank rows. Most have nothing to measure yet.`}
+        lead={`The ${n(blank.length)} blank rows point at ${n(repos.size)} different GitHub repositories, and we asked GitHub about every one; some repositories are listed in more than one row. Most have nothing to measure yet. The counts below are rows.`}
       >
         <Coverage
           ranked={ranked.length}
           total={total}
           buckets={[
-            { rows: root.length, label: "Repositories with zero stars: nothing to score yet", fix: "Needs a first star", fixable: false },
+            { rows: root.length, label: "Rows for a repository with zero stars: nothing to score yet", fix: "Needs a first star", fixable: false },
             { rows: inside.length, label: "Files inside a repository: the parent's stars are not counted for the file", fix: "Needs its own signal", fixable: true },
             { rows: elsewhere.length, label: "Listed on a registry that publishes its own install counts", fix: "Pending registry fetch", fixable: true },
             { rows: nowhere.length, label: "Nowhere to look — nothing published anywhere", fix: nowhere.length ? "genuinely unrankable" : "None", fixable: false },
@@ -267,7 +271,7 @@ export default function FormulaPage() {
           years as <strong style={{ color: "var(--accent-hover)" }}>Stale</strong>. It is a warning
           label, never a term in the score — being freshly pushed proves a tool is alive, not that
           anyone uses it, and a brand-new repo nobody has starred must not outrank a maintained one.
-          It breaks ties. Rows are ordered by the score before rounding, then by how many signals
+          It breaks ties. Rows are ordered by the full score, then by how many signals
           back it, then by the latest commit, then by stars, then by name, so among tools on the same
           score the ones still being worked on come first.{" "}
           {dated

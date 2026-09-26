@@ -1,7 +1,7 @@
 {
   "name": "incorporatedpartners-labelhead",
   "description": "Trending hip-hop artist momentum scores across four cultural dimensions.",
-  "source_repo": "paperclipai/paperclip",
-  "source_url": "https://github.com/paperclipai/paperclip",
-  "install": "# git clone --depth 1 https://github.com/paperclipai/paperclip\n# See source for mcpServers config block"
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/incorporatedpartners-labelhead",
+  "install": "# Hosted server (streamable HTTP): https://labelhead-mcp-public-production.up.railway.app/mcp"
 }

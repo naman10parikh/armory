@@ -2,7 +2,7 @@
 name: calva-mcp-server-betterthantomorrow
 type: mcps
 description: >
-  Calva Mcp Server Betterthantomorrow MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/calva-mcp-server-betterthantomorrow
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Calva Mcp Server Betterthantomorrow MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Calva Mcp Server Betterthantomorrow MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/calva-mcp-server-betterthantomorrow) for install instructions.

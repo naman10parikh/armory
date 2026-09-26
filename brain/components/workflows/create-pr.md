@@ -16,7 +16,7 @@ tags: [slash-command, version-control-git]
 stars: null
 ---
 ## What it is
-A community workflow/command by toyamarinyon, catalogued in awesome-claude-code. Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.
+A community workflow/command, catalogued in awesome-claude-code. Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.
 
 ## When to use it
 Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.

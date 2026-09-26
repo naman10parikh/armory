@@ -2,7 +2,7 @@
 name: autodocument
 type: mcps
 description: >
-  Autodocument MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: PARS-DOE/autodocument
 source_url: https://mcp.so/server/autodocument/PARS-DOE
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Autodocument MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Autodocument MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/autodocument/PARS-DOE) for install instructions.

@@ -34,7 +34,13 @@ Then add it to your harness's MCP config, for example `.mcp.json` for Claude Cod
 }
 ```
 
-It reads `catalog.json` from the repository root. Set `ARMORY_ROOT` to use a catalog in another folder.
+Or install it without a clone: `npm pack` in `armory-mcp/` packs the ranking engine and the catalog with it, and
+`npm install -g armory-mcp-*.tgz` puts `armory-mcp` on your PATH; the config entry is then
+`{ "command": "armory-mcp", "args": [] }`.
+
+From a clone it reads `catalog.json` from the repository root; installed, it reads the catalog packed with it (as
+of the pack) and fetches a component's full note from the public repository. Set `ARMORY_ROOT` to use a catalog
+in another folder.
 
 ## License
 

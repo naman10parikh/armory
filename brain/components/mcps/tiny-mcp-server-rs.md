@@ -2,7 +2,7 @@
 name: tiny-mcp-server-rs
 type: mcps
 description: >
-  Tiny_mcp_server_rs MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: AllenDang/tiny_mcp_server_rs
 source_url: https://mcp.so/server/tiny_mcp_server_rs/AllenDang
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Tiny_mcp_server_rs MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Tiny_mcp_server_rs MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/tiny_mcp_server_rs/AllenDang) for install instructions.

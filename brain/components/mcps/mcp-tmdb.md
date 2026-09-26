@@ -2,7 +2,7 @@
 name: mcp-tmdb
 type: mcps
 description: >
-  MCP TMDB MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ShubhanshuSondhiya/MCP-TMDB
 source_url: https://mcp.so/server/MCP-TMDB/ShubhanshuSondhiya
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP TMDB MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP TMDB MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-TMDB/ShubhanshuSondhiya) for install instructions.

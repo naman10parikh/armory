@@ -2,7 +2,7 @@
 name: azure-terminal-copilot
 type: mcps
 description: >
-  Azure Terminal Copilot MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/azure-terminal-copilot
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Azure Terminal Copilot MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Azure Terminal Copilot MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/azure-terminal-copilot) for install instructions.

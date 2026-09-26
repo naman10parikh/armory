@@ -2,7 +2,7 @@
 name: mcpinstructionserver
 type: mcps
 description: >
-  MCPInstructionServer MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MartinSchlott/MCPInstructionServer
 source_url: https://mcp.so/server/MCPInstructionServer/MartinSchlott
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCPInstructionServer MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCPInstructionServer MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCPInstructionServer/MartinSchlott) for install instructions.

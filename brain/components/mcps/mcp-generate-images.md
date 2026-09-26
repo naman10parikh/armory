@@ -2,7 +2,7 @@
 name: mcp-generate-images
 type: mcps
 description: >
-  Mcp_generate_images MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: chenyeju295/mcp_generate_images
 source_url: https://mcp.so/server/mcp_generate_images/chenyeju295
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp_generate_images MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp_generate_images MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp_generate_images/chenyeju295) for install instructions.

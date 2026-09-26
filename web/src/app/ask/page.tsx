@@ -300,7 +300,7 @@ function AskContent() {
                 topRanked === null ? (
                   <RankedRowSkeleton rows={6} />
                 ) : (
-                  <BoardTable label="Top Ranked" rows={apiRowViews(topRanked)} now={Date.now()} />
+                  <BoardTable label="Top Ranked" rows={apiRowViews(topRanked)} />
                 )
               )}
             </div>

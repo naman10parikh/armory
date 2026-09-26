@@ -2,7 +2,7 @@
 name: prompt-decorators
 type: mcps
 description: >
-  Prompt Decorators MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: synaptiai/prompt-decorators
 source_url: https://mcp.so/server/prompt-decorators/synaptiai
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Prompt Decorators MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Prompt Decorators MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/prompt-decorators/synaptiai) for install instructions.

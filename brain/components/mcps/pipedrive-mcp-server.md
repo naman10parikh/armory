@@ -2,7 +2,7 @@
 name: pipedrive-mcp-server
 type: mcps
 description: >
-  Pipedrive Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: WillDent/pipedrive-mcp-server
 source_url: https://mcp.so/server/pipedrive-mcp-server/WillDent
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Pipedrive Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Pipedrive Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/pipedrive-mcp-server/WillDent) for install instructions.

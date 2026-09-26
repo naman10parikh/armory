@@ -2,7 +2,7 @@
 name: better-qdrant-mcp-server
 type: mcps
 description: >
-  Better Qdrant Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: wrediam/better-qdrant-mcp-server
 source_url: https://mcp.so/server/better-qdrant-mcp-server/wrediam
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Better Qdrant Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Better Qdrant Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/better-qdrant-mcp-server/wrediam) for install instructions.

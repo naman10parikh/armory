@@ -2,7 +2,7 @@
 name: mcp-find-similar-github-issues
 type: mcps
 description: >
-  Mcp Find Similar Github Issues MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Jake-Mok-Nelson/mcp-find-similar-github-issues
 source_url: https://mcp.so/server/mcp-find-similar-github-issues/Jake-Mok-Nelson
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Find Similar Github Issues MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Find Similar Github Issues MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-find-similar-github-issues/Jake-Mok-Nelson) for install instructions.

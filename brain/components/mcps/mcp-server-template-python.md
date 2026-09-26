@@ -2,7 +2,7 @@
 name: mcp-server-template-python
 type: mcps
 description: >
-  Mcp Server Template Python MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: MaxWeeden/mcp-server-template-python
 source_url: https://mcp.so/server/mcp-server-template-python/MaxWeeden
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Server Template Python MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Server Template Python MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-server-template-python/MaxWeeden) for install instructions.

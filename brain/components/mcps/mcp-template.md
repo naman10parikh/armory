@@ -2,7 +2,7 @@
 name: mcp-template
 type: mcps
 description: >
-  Mcp Template MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: adamwulf/mcp-template
 source_url: https://mcp.so/server/mcp-template/adamwulf
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Template MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Template MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-template/adamwulf) for install instructions.

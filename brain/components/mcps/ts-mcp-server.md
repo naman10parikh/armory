@@ -2,7 +2,7 @@
 name: ts-mcp-server
 type: mcps
 description: >
-  Ts Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Tihi321/ts-mcp-server
 source_url: https://mcp.so/server/ts-mcp-server/Tihi321
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Ts Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Ts Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/ts-mcp-server/Tihi321) for install instructions.

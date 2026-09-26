@@ -2,7 +2,7 @@
 name: okx-mcp-server
 type: mcps
 description: >
-  Okx Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: badger3000/okx-mcp-server
 source_url: https://mcp.so/server/okx-mcp-server/badger3000
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Okx Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Okx Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/okx-mcp-server/badger3000) for install instructions.

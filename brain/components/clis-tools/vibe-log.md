@@ -2,7 +2,7 @@
 name: vibe-log
 type: clis-tools
 description: >
-  Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
+  Analyses your Claude Code prompts locally, gives session analysis and guidance in the status line, and produces HTML reports. Installs and uninstalls cleanly.
 source_repo: vibe-log/vibe-log-cli
 source_url: https://github.com/vibe-log/vibe-log-cli
 license: MIT
@@ -16,7 +16,7 @@ forks: 21
 pushed_at: "2026-04-19T21:59:48Z"
 ---
 ## What it is
-Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
+Analyses your Claude Code prompts locally, gives session analysis and guidance in the status line, and produces HTML reports. Installs and uninstalls cleanly.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

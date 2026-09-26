@@ -2,7 +2,7 @@
 name: ccflare
 type: clis-tools
 description: >
-  Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
+  A Claude Code usage dashboard with a web UI: detailed metrics, logging and a short setup.
 source_repo: snipeship/ccflare
 source_url: https://github.com/snipeship/ccflare
 license: MIT
@@ -16,7 +16,7 @@ forks: 141
 pushed_at: "2026-04-19T21:28:04Z"
 ---
 ## What it is
-Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
+A Claude Code usage dashboard with a web UI: detailed metrics, logging and a short setup.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

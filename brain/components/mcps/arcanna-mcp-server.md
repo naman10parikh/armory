@@ -2,7 +2,7 @@
 name: arcanna-mcp-server
 type: mcps
 description: >
-  Arcanna Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: siscale/arcanna-mcp-server
 source_url: https://mcp.so/server/arcanna-mcp-server/siscale
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Arcanna Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Arcanna Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/arcanna-mcp-server/siscale) for install instructions.

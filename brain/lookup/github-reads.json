@@ -1,0 +1,6 @@
+{
+  "note": "When Armory read stars, forks and last-commit dates from GitHub. scripts/backfill-stars.mjs --apply adds one entry per run: the UTC date, the repositories answered and the repository roots in the catalog. ingest/catalog.mjs turns it into catalog.json's github_read: the newest read, and the date from which the reads add up to 90% of the roots. The first entry is the full read in commit 1660454a4 (forks and pushed_at for 55,081 repository-root rows, stars refreshed).",
+  "reads": [
+    { "date": "2026-09-02", "repos": 55081, "of": 55081 }
+  ]
+}

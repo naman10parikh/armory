@@ -2,7 +2,7 @@
 name: google-search-console-mcp-metehan777
 type: mcps
 description: >
-  Google Search Console Mcp Metehan777 MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/google-search-console-mcp-metehan777
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Google Search Console Mcp Metehan777 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Google Search Console Mcp Metehan777 MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/google-search-console-mcp-metehan777) for install instructions.

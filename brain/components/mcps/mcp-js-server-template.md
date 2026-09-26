@@ -2,7 +2,7 @@
 name: mcp-js-server-template
 type: mcps
 description: >
-  MCP JS Server Template MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: ryaker/MCP-JS-Server-Template
 source_url: https://mcp.so/server/MCP-JS-Server-Template/ryaker
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-MCP JS Server Template MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-MCP JS Server Template MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/MCP-JS-Server-Template/ryaker) for install instructions.

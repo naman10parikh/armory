@@ -2,7 +2,7 @@
 name: employees-airdrop-rewards-mcp
 type: mcps
 description: >
-  Employees Airdrop Rewards MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: monostate/Employees-Airdrop-Rewards-MCP
 source_url: https://mcp.so/server/Employees-Airdrop-Rewards-MCP/monostate
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Employees Airdrop Rewards MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Employees Airdrop Rewards MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Employees-Airdrop-Rewards-MCP/monostate) for install instructions.

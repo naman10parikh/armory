@@ -18,7 +18,7 @@ forks: 21
 pushed_at: "2026-06-12T10:38:05Z"
 ---
 ## What it is
-A community hook by Lily Dayton, catalogued in awesome-claude-code. Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor.
+A community hook, catalogued in awesome-claude-code. Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor.
 
 ## When to use it
 Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor.

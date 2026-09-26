@@ -2,7 +2,7 @@
 name: gorse
 type: mcps
 description: >
-  Gorse MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dataontap/gorse
 source_url: https://mcp.so/server/gorse/dataontap
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Gorse MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Gorse MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/gorse/dataontap) for install instructions.

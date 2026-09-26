@@ -2,7 +2,7 @@
 name: github-mcp-server-4
 type: mcps
 description: >
-  Github Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: cyanheads/github-mcp-server
 source_url: https://mcp.so/server/github-mcp-server/cyanheads
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Github Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Github Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/github-mcp-server/cyanheads) for install instructions.

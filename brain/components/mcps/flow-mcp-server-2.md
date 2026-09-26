@@ -2,7 +2,7 @@
 name: flow-mcp-server-2
 type: mcps
 description: >
-  Flow Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: lmcmz/flow-mcp-server
 source_url: https://mcp.so/server/flow-mcp-server/lmcmz
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Flow Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Flow Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/flow-mcp-server/lmcmz) for install instructions.

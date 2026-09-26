@@ -17,7 +17,7 @@ forks: 4
 pushed_at: "2025-09-02T19:09:26Z"
 ---
 ## What it is
-A community workflow/command by Vivek Nair, catalogued in awesome-claude-code. CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
+A community workflow/command, catalogued in awesome-claude-code. CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
 
 ## When to use it
 CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!

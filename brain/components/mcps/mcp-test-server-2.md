@@ -2,7 +2,7 @@
 name: mcp-test-server-2
 type: mcps
 description: >
-  Mcp Test Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Shreyanand/mcp-test-server
 source_url: https://mcp.so/server/mcp-test-server/Shreyanand
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Test Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Test Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-test-server/Shreyanand) for install instructions.

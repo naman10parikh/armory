@@ -2,7 +2,7 @@
 name: firecrawl-mcp-server
 type: mcps
 description: >
-  Firecrawl Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: mendableai/firecrawl-mcp-server
 source_url: https://mcp.so/server/firecrawl-mcp-server/mendableai
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Firecrawl Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Firecrawl Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/firecrawl-mcp-server/mendableai) for install instructions.

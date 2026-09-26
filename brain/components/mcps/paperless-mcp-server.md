@@ -2,7 +2,7 @@
 name: paperless-mcp-server
 type: mcps
 description: >
-  Paperless MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: PDangelmaier/Paperless-MCP-Server
 source_url: https://mcp.so/server/Paperless-MCP-Server/PDangelmaier
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Paperless MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Paperless MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Paperless-MCP-Server/PDangelmaier) for install instructions.

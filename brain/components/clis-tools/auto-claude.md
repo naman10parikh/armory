@@ -2,7 +2,7 @@
 name: auto-claude
 type: clis-tools
 description: >
-  Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
+  An autonomous multi-agent coding framework built on the Claude Agent SDK that plans, builds and validates software across the development life cycle, with a kanban-style interface.
 source_repo: AndyMik90/Auto-Claude
 source_url: https://github.com/AndyMik90/Auto-Claude
 license: AGPL-3.0
@@ -16,7 +16,7 @@ forks: 1917
 pushed_at: "2026-06-14T08:27:00Z"
 ---
 ## What it is
-Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
+An autonomous multi-agent coding framework built on the Claude Agent SDK that plans, builds and validates software across the development life cycle, with a kanban-style interface.
 
 ## When to use it
 When working in Claude Code and you need the "Tooling" resource this provides.

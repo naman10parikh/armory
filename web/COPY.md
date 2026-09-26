@@ -42,7 +42,7 @@ The canonical nouns. **Use these exact strings; do not invent synonyms.**
 **Signals (fixed order):** `Tested` · `Mentions` · `Stars` · `Usage`
 **Action:** `Install` · `Copy` · `Copied` · `Export` · `Search` · `Filter` · `Sort` · `Reset` · `Open` · `Report` · `Contribute`
 **State:** `Loading` · `No Results` · `Not Indexed` · `Unmeasured` · `Selected` · `Stable` · `Preview` · `Experimental`
-**Time:** `Updated` · `Indexed` · `Duration` · `Last Run`
+**Time:** `Updated` · `Indexed` · `Duration` · `Last Run` · `Catalog rebuilt` (the build, not the evidence) · `GitHub figures from <date> or later` (when stars, forks and last commit were read; CP138 T23)
 **Aggregate:** `Total` · `Ranked` · `Results` · `Resources` · `Count`
 **Surfaces:** `Leaderboard` · `Browse` · `Ask` · `Formula` · `Detail` · `Status` · `Pipeline` · `Harness`
 

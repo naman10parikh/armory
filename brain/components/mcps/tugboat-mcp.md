@@ -2,7 +2,7 @@
 name: tugboat-mcp
 type: mcps
 description: >
-  Tugboat Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Lullabot/tugboat-mcp
 source_url: https://mcp.so/server/tugboat-mcp/Lullabot
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Tugboat Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Tugboat Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/tugboat-mcp/Lullabot) for install instructions.

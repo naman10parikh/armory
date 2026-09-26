@@ -2,7 +2,7 @@
 name: resume-ai-demo
 type: mcps
 description: >
-  Resume Ai Demo MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: dustinbturner/resume-ai-demo
 source_url: https://mcp.so/server/resume-ai-demo/dustinbturner
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Resume Ai Demo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Resume Ai Demo MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/resume-ai-demo/dustinbturner) for install instructions.

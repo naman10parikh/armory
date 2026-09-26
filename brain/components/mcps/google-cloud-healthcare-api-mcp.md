@@ -2,7 +2,7 @@
 name: google-cloud-healthcare-api-mcp
 type: mcps
 description: >
-  Google Cloud Healthcare Api Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Kartha-AI/google-cloud-healthcare-api-mcp
 source_url: https://mcp.so/server/google-cloud-healthcare-api-mcp/Kartha-AI
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Google Cloud Healthcare Api Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Google Cloud Healthcare Api Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/google-cloud-healthcare-api-mcp/Kartha-AI) for install instructions.

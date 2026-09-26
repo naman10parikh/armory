@@ -2,7 +2,7 @@
 name: filesys
 type: mcps
 description: >
-  Filesys MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: YothisisTroy/Filesys
 source_url: https://mcp.so/server/Filesys/YothisisTroy
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Filesys MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Filesys MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Filesys/YothisisTroy) for install instructions.

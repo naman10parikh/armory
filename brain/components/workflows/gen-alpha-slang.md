@@ -2,10 +2,7 @@
 name: gen-alpha-slang
 type: workflows
 description: >
-  This is really... different. I don't know what to say about this one. It
-  does what it says on the tin. You might find it funny, you might want throw
-  up. I'll just say candidly this is included strictly for its potentially
-  comedic awesomeness.
+  An output style that makes Claude Code write in Gen Alpha slang, listed for its humour.
 source_repo: sjnims/gen-alpha-output-style
 source_url: https://github.com/sjnims/gen-alpha-output-style
 license: MIT
@@ -19,10 +16,10 @@ forks: 1
 pushed_at: "2026-01-12T22:39:09Z"
 ---
 ## What it is
-A community workflow/command by Steve Nims, catalogued in awesome-claude-code. This is really... different. I don't know what to say about this one. It does what it says on the tin. You might find it funny, you might want throw up. I'll just say candidly this is included strictly for its potentially comedic awesomeness.
+A community workflow/command, catalogued in awesome-claude-code. An output style that makes Claude Code write in Gen Alpha slang, listed for its humour.
 
 ## When to use it
-This is really... different. I don't know what to say about this one. It does what it says on the tin. You might find it funny, you might want throw up. I'll just say candidly this is included strictly for its potentially comedic awesomeness.
+An output style that makes Claude Code write in Gen Alpha slang, listed for its humour.
 
 ## Source
 From [`sjnims/gen-alpha-output-style`](https://github.com/sjnims/gen-alpha-output-style) — see the linked resource for full implementation and usage.

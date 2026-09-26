@@ -2,7 +2,7 @@
 name: jvm-mcp-server
 type: mcps
 description: >
-  Jvm Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: xzq-xu/jvm-mcp-server
 source_url: https://mcp.so/server/jvm-mcp-server/xzq-xu
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Jvm Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Jvm Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/jvm-mcp-server/xzq-xu) for install instructions.

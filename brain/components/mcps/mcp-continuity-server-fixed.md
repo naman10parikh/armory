@@ -2,7 +2,7 @@
 name: mcp-continuity-server-fixed
 type: mcps
 description: >
-  Mcp Continuity Server Fixed MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Lucasdoreac/mcp-continuity-server-fixed
 source_url: https://mcp.so/server/mcp-continuity-server-fixed/Lucasdoreac
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Continuity Server Fixed MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Continuity Server Fixed MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-continuity-server-fixed/Lucasdoreac) for install instructions.

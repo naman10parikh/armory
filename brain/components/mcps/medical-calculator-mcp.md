@@ -2,7 +2,7 @@
 name: medical-calculator-mcp
 type: mcps
 description: >
-  Medical_calculator_MCP MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: johnyquest7/Medical_calculator_MCP
 source_url: https://mcp.so/server/Medical_calculator_MCP/johnyquest7
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Medical_calculator_MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Medical_calculator_MCP MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Medical_calculator_MCP/johnyquest7) for install instructions.

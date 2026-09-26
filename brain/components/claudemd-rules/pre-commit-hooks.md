@@ -2,7 +2,7 @@
 name: pre-commit-hooks
 type: claudemd-rules
 description: >
-  This repository is about pre-commit-hooks in general, but the `CLAUDE.md` and related `.claude/` documentation is exemplary. Thorough but not verbose. Unlike a lot of `CLAUDE.md` files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.
+  A repository of pre-commit hooks whose CLAUDE.md and .claude/ documentation is a thorough, compact example of project instructions for Claude Code.
 source_repo: aRustyDev/pre-commit-hooks
 source_url: https://github.com/aRustyDev/pre-commit-hooks
 license: AGPL-3.0
@@ -16,7 +16,7 @@ forks: 3
 pushed_at: "2025-12-24T06:43:05Z"
 ---
 ## What it is
-This repository is about pre-commit-hooks in general, but the `CLAUDE.md` and related `.claude/` documentation is exemplary. Thorough but not verbose. Unlike a lot of `CLAUDE.md` files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.
+A repository of pre-commit hooks whose CLAUDE.md and .claude/ documentation is a thorough, compact example of project instructions for Claude Code.
 
 ## When to use it
 When working in Claude Code and you need the "CLAUDE.md Files" resource this provides.

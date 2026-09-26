@@ -2,7 +2,7 @@
 name: chemrxiv-mcp-server
 type: mcps
 description: >
-  ChemRxiv MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: JackKuo666/ChemRxiv-MCP-Server
 source_url: https://mcp.so/server/ChemRxiv-MCP-Server/JackKuo666
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-ChemRxiv MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-ChemRxiv MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/ChemRxiv-MCP-Server/JackKuo666) for install instructions.

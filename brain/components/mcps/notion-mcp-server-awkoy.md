@@ -2,7 +2,7 @@
 name: notion-mcp-server-awkoy
 type: mcps
 description: >
-  Notion Mcp Server Awkoy MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/notion-mcp-server-awkoy
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Notion Mcp Server Awkoy MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Notion Mcp Server Awkoy MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/notion-mcp-server-awkoy) for install instructions.

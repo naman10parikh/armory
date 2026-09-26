@@ -2,7 +2,7 @@
 name: mcp-servers-collection
 type: mcps
 description: >
-  Mcp Servers Collection MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: fpardon-upeo/mcp-servers-collection
 source_url: https://mcp.so/server/mcp-servers-collection/fpardon-upeo
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Servers Collection MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Servers Collection MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-servers-collection/fpardon-upeo) for install instructions.

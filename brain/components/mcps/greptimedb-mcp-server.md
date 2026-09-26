@@ -2,7 +2,7 @@
 name: greptimedb-mcp-server
 type: mcps
 description: >
-  Greptimedb Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: GreptimeTeam/greptimedb-mcp-server
 source_url: https://mcp.so/server/greptimedb-mcp-server/GreptimeTeam
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Greptimedb Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Greptimedb Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/greptimedb-mcp-server/GreptimeTeam) for install instructions.

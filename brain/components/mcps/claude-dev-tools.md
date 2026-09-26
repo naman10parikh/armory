@@ -2,7 +2,7 @@
 name: claude-dev-tools
 type: mcps
 description: >
-  Claude Dev Tools MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: StrawHatAI/claude-dev-tools
 source_url: https://mcp.so/server/claude-dev-tools/StrawHatAI
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Claude Dev Tools MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Claude Dev Tools MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/claude-dev-tools/StrawHatAI) for install instructions.

@@ -2,7 +2,7 @@
 name: mcphub-cognitive-stack
 type: mcps
 description: >
-  Mcphub Cognitive Stack MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mcphub-cognitive-stack
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcphub Cognitive Stack MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcphub Cognitive Stack MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcphub-cognitive-stack) for install instructions.

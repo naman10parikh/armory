@@ -2,7 +2,7 @@
 name: spotify-mcp-server-2
 type: mcps
 description: >
-  Spotify MCP Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: Shrau1711/Spotify-MCP-Server
 source_url: https://mcp.so/server/Spotify-MCP-Server/Shrau1711
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Spotify MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Spotify MCP Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/Spotify-MCP-Server/Shrau1711) for install instructions.

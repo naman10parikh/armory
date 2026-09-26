@@ -2,7 +2,7 @@
 name: omgflux-mcp-server
 type: mcps
 description: >
-  Omgflux Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: XXpE3/omgflux-mcp-server
 source_url: https://mcp.so/server/omgflux-mcp-server/XXpE3
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Omgflux Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Omgflux Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/omgflux-mcp-server/XXpE3) for install instructions.

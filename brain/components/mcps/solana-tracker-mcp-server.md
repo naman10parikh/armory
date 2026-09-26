@@ -2,7 +2,7 @@
 name: solana-tracker-mcp-server
 type: mcps
 description: >
-  SOLANA_TRACKER_MCP_SERVER MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 8bitsats/SOLANA_TRACKER_MCP_SERVER
 source_url: https://mcp.so/server/SOLANA_TRACKER_MCP_SERVER/8bitsats
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-SOLANA_TRACKER_MCP_SERVER MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-SOLANA_TRACKER_MCP_SERVER MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/SOLANA_TRACKER_MCP_SERVER/8bitsats) for install instructions.

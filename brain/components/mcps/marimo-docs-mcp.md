@@ -2,7 +2,7 @@
 name: marimo-docs-mcp
 type: mcps
 description: >
-  Marimo Docs Mcp MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: StevenBtw/marimo-docs-mcp
 source_url: https://mcp.so/server/marimo-docs-mcp/StevenBtw
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Marimo Docs Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Marimo Docs Mcp MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/marimo-docs-mcp/StevenBtw) for install instructions.

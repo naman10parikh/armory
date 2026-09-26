@@ -2,7 +2,7 @@
 name: mcp-go
 type: mcps
 description: >
-  Mcp Go MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: riza-io/mcp-go
 source_url: https://mcp.so/server/mcp-go/riza-io
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mcp Go MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mcp Go MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mcp-go/riza-io) for install instructions.

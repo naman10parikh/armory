@@ -2,7 +2,7 @@
 name: agent-communication-mcp-server
 type: mcps
 description: >
-  Agent Communication Mcp Server MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: mkc909/agent-communication-mcp-server
 source_url: https://mcp.so/server/agent-communication-mcp-server/mkc909
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Agent Communication Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Agent Communication Mcp Server MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/agent-communication-mcp-server/mkc909) for install instructions.

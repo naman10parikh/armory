@@ -2,7 +2,7 @@
 name: mysql-mcp-server-pro
 type: mcps
 description: >
-  Mysql_mcp_server_pro MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: 
 source_url: https://mcp.so/server/mysql_mcp_server_pro
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Mysql_mcp_server_pro MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Mysql_mcp_server_pro MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/mysql_mcp_server_pro) for install instructions.

@@ -2,7 +2,7 @@
 name: airtable-mcp-config
 type: mcps
 description: >
-  Airtable Mcp Config MCP server listed on mcp.so.
+  Listed on mcp.so; Armory has only its name so far.
 source_repo: AliMHJR/airtable-mcp-config
 source_url: https://mcp.so/server/airtable-mcp-config/AliMHJR
 license: unknown
@@ -15,10 +15,10 @@ related: []
 tags: [mcp-so, mcp]
 ---
 ## What it is
-Airtable Mcp Config MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## When to use it
-Airtable Mcp Config MCP server listed on mcp.so.
+Listed on mcp.so; Armory has only its name so far.
 
 ## How to install / invoke
 See the [mcp.so listing](https://mcp.so/server/airtable-mcp-config/AliMHJR) for install instructions.
