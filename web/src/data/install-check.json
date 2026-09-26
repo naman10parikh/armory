@@ -1,0 +1,889 @@
+{
+  "checked_at": "2026-09-26T10:21:39.712Z",
+  "rule": "An install command that downloads a package by name is shown only when the registry says that package is published from the component's own GitHub repository (for a ghcr.io image, its owner).",
+  "named_files_rule": "A skill, subagent, rule, command or hook that points at a whole repository installs the file or folder its note links in that repository, as `armory install` does.",
+  "regenerate": "node scripts/check-installs.mjs --write",
+  "rows": {
+    "mcps/1mcp-agent": {
+      "command": "npx",
+      "package": "@1mcp/agent",
+      "repository": "1mcp-app/agent",
+      "published_from": "1mcp-app/agent",
+      "match": true
+    },
+    "mcps/aboard": {
+      "command": "npx",
+      "package": "aboard-mcp-server",
+      "repository": "ostin-pil/aboard",
+      "published_from": "ostin-pil/aboard",
+      "match": true
+    },
+    "mcps/activepieces": {
+      "command": "npx",
+      "package": "@activepieces/piece-mcp",
+      "repository": "activepieces/activepieces",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/agent-api-gateway-mcp-2": {
+      "command": "npx",
+      "package": "agent-api-gateway-mcp",
+      "repository": "zachdreamz/agent-api-gateway",
+      "published_from": "zachdreamz/agent-api-gateway-mcp",
+      "match": false,
+      "why": "published from zachdreamz/agent-api-gateway-mcp"
+    },
+    "mcps/agent-rules": {
+      "command": "npx",
+      "package": "agent-rules-mcp",
+      "repository": "4regab/agent-rules-mcp",
+      "published_from": "4regab/agent-rules-mcp",
+      "match": true
+    },
+    "mcps/agenticmail-agenticmail": {
+      "command": "npx",
+      "package": "@agenticmail/mcp",
+      "repository": "agenticmail/agenticmail",
+      "published_from": "agenticmail/agenticmail",
+      "match": true
+    },
+    "mcps/ai-memory": {
+      "command": "npx",
+      "package": "mcp-ai-memory",
+      "repository": "scanadi/mcp-ai-memory",
+      "published_from": "scanadi/mcp-ai-memory",
+      "match": true
+    },
+    "mcps/aioproductos": {
+      "command": "npx",
+      "package": "@aioproductoscom/mcp",
+      "repository": "aioproductos/claude-plugin",
+      "published_from": "aioproductos/claude-plugin",
+      "match": true
+    },
+    "mcps/aiweather-anurag-ottasia-mcp-server": {
+      "command": "npx",
+      "package": "@ottasia/mcp-server",
+      "repository": "aiweather-anurag/ottasia-mcp-server",
+      "published_from": "aiweather-anurag/ottasia-mcp-server",
+      "match": true
+    },
+    "mcps/alanpcf-brasil-data-mcp": {
+      "command": "npx",
+      "package": "brasil-data-mcp",
+      "repository": "alanpcf/brasil-data-mcp",
+      "published_from": "alanpcf/brasil-data-mcp",
+      "match": true
+    },
+    "mcps/aletaindex-aletaindex-fin-narratives": {
+      "command": "uvx",
+      "package": "narrative-intelligence-mcp",
+      "repository": "aletaindex/aletaindex-fin-narratives",
+      "published_from": "aletaindex/aletaindex-fin-narratives",
+      "match": true
+    },
+    "mcps/androidapi-net-mcp": {
+      "command": "npx",
+      "package": "androidapi-mcp",
+      "repository": "tecniforge/androidapi-mcp",
+      "published_from": "tecniforge/androidapi-mcp",
+      "match": true
+    },
+    "mcps/audit-ledger-mcp": {
+      "command": "npx",
+      "package": "audit-ledger",
+      "repository": "shahidh68/audit-ledger-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "not on npm"
+    },
+    "mcps/automatelab-tech-citation-intelligence": {
+      "command": "npx",
+      "package": "@automatelab/citation-intelligence",
+      "repository": "automatelab-tech/citation-intelligence",
+      "published_from": "automatelab-tech/citation-intelligence",
+      "match": true
+    },
+    "mcps/bartonguestier1725-collab-scout-mcp": {
+      "command": "npx",
+      "package": "scout-cli",
+      "repository": "bartonguestier1725-collab/scout-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/butterbase": {
+      "command": "npx",
+      "package": "@butterbase/mcp",
+      "repository": "butterbase-ai/butterbase",
+      "published_from": "butterbase-ai/butterbase",
+      "match": true
+    },
+    "mcps/cachly-dev-cachly-mcp": {
+      "command": "npx",
+      "package": "@cachly-dev/init",
+      "repository": "cachly-dev/cachly-mcp",
+      "published_from": "cachly-dev/init",
+      "match": false,
+      "why": "published from cachly-dev/init"
+    },
+    "mcps/cahthuranag-mcp-server": {
+      "command": "npx",
+      "package": "@allratestoday/mcp-server",
+      "repository": "cahthuranag/mcp-server",
+      "published_from": "cahthuranag/mcp-server",
+      "match": true
+    },
+    "mcps/calypso-multimodal-rag-mcp-server": {
+      "command": "npx",
+      "package": "with",
+      "repository": "calypso-so/calypso-mcp-server",
+      "published_from": "pugjs/with",
+      "match": false,
+      "why": "published from pugjs/with"
+    },
+    "mcps/catrinmdonnelly-royalmail-mcp": {
+      "command": "npx",
+      "package": "royalmail-mcp",
+      "repository": "catrinmdonnelly/royalmail-mcp",
+      "published_from": "catrinmdonnelly/royalmail-mcp",
+      "match": true
+    },
+    "mcps/celiums-celiums-memory": {
+      "command": "npx",
+      "package": "@celiums/memory",
+      "repository": "terrizoaguimor/celiums-memory",
+      "published_from": "terrizoaguimor/celiums-memory",
+      "match": true
+    },
+    "mcps/cfpramod-open-museum-mcp": {
+      "command": "npx",
+      "package": "open-museum-mcp",
+      "repository": "cfpramod/open-museum-mcp",
+      "published_from": "cfpramod/open-museum-mcp",
+      "match": true
+    },
+    "mcps/chatmux": {
+      "command": "npx",
+      "package": "one-liner:",
+      "repository": "echoedinvoker/chatmux",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/chopmob-cloud-algovoi-platform-adapters": {
+      "command": "npx",
+      "package": "@algovoi/mcp-server",
+      "repository": "chopmob-cloud/algovoi-platform-adapters",
+      "published_from": "chopmob-cloud/algovoi-platform-adapters",
+      "match": true
+    },
+    "mcps/chroma-working-memory": {
+      "command": "uvx",
+      "package": "chroma-mcp-server",
+      "repository": "djm81/chroma_mcp_server",
+      "published_from": "djm81/chroma_mcp_server",
+      "match": true
+    },
+    "mcps/ckg-agentforce": {
+      "command": "uvx",
+      "package": "ckg-agentforce",
+      "repository": "yarmoluk/ckg-agentforce",
+      "published_from": "yarmoluk/ckg-agentforce",
+      "match": true
+    },
+    "mcps/clawdbotworker-imagegen-mcp": {
+      "command": "npx",
+      "package": "coinopai-imagegen",
+      "repository": "clawdbotworker/imagegen-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/codeislaw101-katzilla": {
+      "command": "npx",
+      "package": "@katzilla/mcp",
+      "repository": "codeislaw101/katzilla",
+      "published_from": "codeislaw101/katzilla-sdk",
+      "match": false,
+      "why": "published from codeislaw101/katzilla-sdk"
+    },
+    "mcps/cuttalo-depscope": {
+      "command": "npx",
+      "package": "depscope-mcp",
+      "repository": "cuttalo/depscope",
+      "published_from": "cuttalo/depscope-mcp",
+      "match": false,
+      "why": "published from cuttalo/depscope-mcp"
+    },
+    "mcps/darcyaimcpserver": {
+      "command": "uvx",
+      "package": "or",
+      "repository": "darcycui/darcyaimcpserver",
+      "published_from": null,
+      "match": false,
+      "why": "not on PyPI"
+    },
+    "mcps/dashclaw": {
+      "command": "npx",
+      "package": "@dashclaw",
+      "repository": "ucsandman/dashclaw",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/davison-francis-min8t-sdks": {
+      "command": "npx",
+      "package": "@deliveriq/mcp",
+      "repository": "davison-francis/min8t-sdks",
+      "published_from": "davison-francis/min8t-sdks",
+      "match": true
+    },
+    "mcps/declan142-calcnook-mcp-server": {
+      "command": "uvx",
+      "package": "calcnook-mcp",
+      "repository": "declan142/calcnook-mcp-server",
+      "published_from": "declan142/calcnook-mcp-server",
+      "match": true
+    },
+    "mcps/delmas41-gradusnotation": {
+      "command": "npx",
+      "package": "@gradusmusic/notation-mcp",
+      "repository": "delmas41/gradusnotation",
+      "published_from": "delmas41/gradusnotation",
+      "match": true
+    },
+    "mcps/diagramzu": {
+      "command": "npx",
+      "package": "@diagramzu/m",
+      "repository": "yenchieh/diagramzu-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "not on npm"
+    },
+    "mcps/dnotitia-akb": {
+      "command": "npx",
+      "package": "akb-mcp",
+      "repository": "dnotitia/akb",
+      "published_from": "dnotitia/akb",
+      "match": true
+    },
+    "mcps/domdemetz-claude-soul": {
+      "command": "npx",
+      "package": "claude-soul",
+      "repository": "domdemetz/claude-soul",
+      "published_from": "domdemetz/claude-soul",
+      "match": true
+    },
+    "mcps/ebbfijsf-agent-reader": {
+      "command": "npx",
+      "package": "agent-reader",
+      "repository": "ebbfijsf/agent-reader",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/edinet-mcp": {
+      "command": "npx",
+      "package": "edinet-mcp",
+      "repository": "reanimatedead/edinet-mcp",
+      "published_from": "reanimatedead/edinet-mcp",
+      "match": true
+    },
+    "mcps/equivault-equivault-mcp": {
+      "command": "npx",
+      "package": "equivault-mcp",
+      "repository": "equivault/equivault-mcp",
+      "published_from": "equivault/equivault-mcp",
+      "match": true
+    },
+    "mcps/erabi-mcp": {
+      "command": "npx",
+      "package": "erabi-mcp",
+      "repository": "hmakt99/erabi",
+      "published_from": "hmakt99/erabi",
+      "match": true
+    },
+    "mcps/everything": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/fast-mcp-telegram": {
+      "command": "uvx",
+      "package": "fast-mcp-telegram",
+      "repository": "leshchenko1979/fast-mcp-telegram",
+      "published_from": "leshchenko1979/fast-mcp-telegram",
+      "match": true
+    },
+    "mcps/fetch": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/filesystem": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/foodxdevelopment-foodblock-mcp": {
+      "command": "npx",
+      "package": "foodblock-mcp",
+      "repository": "foodxdevelopment/foodblock",
+      "published_from": "foodxdevelopment/foodblock",
+      "match": true
+    },
+    "mcps/git": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/github-mcp": {
+      "command": "docker",
+      "package": "ghcr.io/github/github-mcp-server",
+      "repository": "github/github-mcp-server",
+      "published_from": "github",
+      "match": true
+    },
+    "mcps/gregario-3dprint-oracle": {
+      "command": "npx",
+      "package": "3dprint-oracle",
+      "repository": "gregario/3dprint-oracle",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/hubinoretros-deep-thinker": {
+      "command": "npx",
+      "package": "deep-thinker",
+      "repository": "hubinoretros/deep-thinker",
+      "published_from": "hubinoretros/deep-thinker",
+      "match": true
+    },
+    "mcps/hughescuit-heventure-search-mcp": {
+      "command": "uvx",
+      "package": "heventure-search-mcp",
+      "repository": "hughescuit/heventure-search-mcp",
+      "published_from": "hughescuit/heventure-search-mcp",
+      "match": true
+    },
+    "mcps/hugoles-langfuse-mcp": {
+      "command": "npx",
+      "package": "langfuse-mcp",
+      "repository": "hugoles/langfuse-mcp",
+      "published_from": "hugoles/langfuse-mcp",
+      "match": true
+    },
+    "mcps/igorganapolsky-thumbgate": {
+      "command": "npx",
+      "package": "thumbgate",
+      "repository": "igorganapolsky/thumbgate",
+      "published_from": "igorganapolsky/thumbgate",
+      "match": true
+    },
+    "mcps/iletimerkezi-iletimerkezi-mcp-server": {
+      "command": "npx",
+      "package": "@iletimerkezi/mcp-server",
+      "repository": "iletimerkezi/iletimerkezi-mcp-server",
+      "published_from": "iletimerkezi/iletimerkezi-mcp-server",
+      "match": true
+    },
+    "mcps/iprashantraj-mcp-discord-bridge": {
+      "command": "npx",
+      "package": "mcp-discord-bridge",
+      "repository": "iprashantraj/mcp-discord-bridge",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/janaraj-tnl": {
+      "command": "npx",
+      "package": "typed-nl",
+      "repository": "janaraj/tnl",
+      "published_from": "janaraj/tnl",
+      "match": true
+    },
+    "mcps/jovancoding-network-ai": {
+      "command": "npx",
+      "package": "network-ai-server",
+      "repository": "jovancoding/network-ai",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/kaiord": {
+      "command": "npx",
+      "package": "@kaiord/mcp",
+      "repository": "pablo-albaladejo/kaiord",
+      "published_from": "pablo-albaladejo/kaiord",
+      "match": true
+    },
+    "mcps/kao273183-mk-qa-master": {
+      "command": "uvx",
+      "package": "mk-qa-master",
+      "repository": "kao273183/mk-qa-master",
+      "published_from": "kao273183/mk-qa-master",
+      "match": true
+    },
+    "mcps/kuvopllc-better-bear": {
+      "command": "npx",
+      "package": "better-bear",
+      "repository": "kuvopllc/better-bear",
+      "published_from": "kuvopllc/better-bear",
+      "match": true
+    },
+    "mcps/lambopoewert-mcp-server-madeonsol": {
+      "command": "npx",
+      "package": "smithery",
+      "repository": "lambopoewert/mcp-server-madeonsol",
+      "published_from": "smithery-ai/cli",
+      "match": false,
+      "why": "published from smithery-ai/cli"
+    },
+    "mcps/leonardoca1-aesthetics-wiki-mcp": {
+      "command": "uvx",
+      "package": "aesthetics-wiki-mcp",
+      "repository": "leonardoca1/aesthetics-wiki-mcp",
+      "published_from": "leonardoca1/aesthetics-wiki-mcp",
+      "match": true
+    },
+    "mcps/lihtness-gnomon-mcp": {
+      "command": "uvx",
+      "package": "gnomon-mcp",
+      "repository": "lihtness/gnomon-mcp",
+      "published_from": "lihtness/gnomon-mcp",
+      "match": true
+    },
+    "mcps/lingo-translation": {
+      "command": "npx",
+      "package": "command",
+      "repository": "lingodotdev/lingo.dev",
+      "published_from": "pacocoursey/cmdk",
+      "match": false,
+      "why": "published from pacocoursey/cmdk"
+    },
+    "mcps/lithtrix-lithtrix-mcp": {
+      "command": "npx",
+      "package": "lithtrix-mcp",
+      "repository": "lithtrix/lithtrix-mcp",
+      "published_from": "lithtrix/lithtrix-mcp",
+      "match": true
+    },
+    "mcps/logslim-mcp": {
+      "command": "npx",
+      "package": "logslim",
+      "repository": "p156ham/logslim",
+      "published_from": "p156ham/logslim",
+      "match": true
+    },
+    "mcps/lukaris-framedeck-mcp": {
+      "command": "npx",
+      "package": "framedeck-mcp",
+      "repository": "lukaris/framedeck-mcp",
+      "published_from": "lukaris/framedeck-mcp",
+      "match": true
+    },
+    "mcps/malamutemayhem-unclick-agent-native-endpoints": {
+      "command": "npx",
+      "package": "@unclick/mcp-server",
+      "repository": "malamutemayhem/unclick-agent-native-endpoints",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/markpdxt-dronelytics-mcp": {
+      "command": "npx",
+      "package": "@dronelytics/mcp",
+      "repository": "markpdxt/dronelytics-mcp",
+      "published_from": "markpdxt/hub.dronelytics.io",
+      "match": false,
+      "why": "published from markpdxt/hub.dronelytics.io"
+    },
+    "mcps/mcp-server-panchangam": {
+      "command": "uvx",
+      "package": "mcp-server-panchangam",
+      "repository": "socraticsurge/telugu-calendar-utilities",
+      "published_from": "socraticsurge/telugu-calendar-utilities",
+      "match": true
+    },
+    "mcps/mcp-voice-soundboard": {
+      "command": "npx",
+      "package": "command",
+      "repository": "mcp-tool-shop-org/mcp-voice-soundboard",
+      "published_from": "pacocoursey/cmdk",
+      "match": false,
+      "why": "published from pacocoursey/cmdk"
+    },
+    "mcps/memory": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/microtap-mcp": {
+      "command": "npx",
+      "package": "microtap-mcp",
+      "repository": "swaltersjrtest/microtap-mcp",
+      "published_from": "swaltersjrtest/microtap-mcp",
+      "match": true
+    },
+    "mcps/mnlt-wellread": {
+      "command": "npx",
+      "package": "wellread",
+      "repository": "mnlt/wellread",
+      "published_from": null,
+      "match": false,
+      "why": "not on npm"
+    },
+    "mcps/monadical-zulip": {
+      "command": "npx",
+      "package": "or",
+      "repository": "monadical-sas/zulip-mcp",
+      "published_from": "ralt/or",
+      "match": false,
+      "why": "published from ralt/or"
+    },
+    "mcps/muhannad-hash-git-context-mcp": {
+      "command": "npx",
+      "package": "git-context-mcp",
+      "repository": "muhannad-hash/git-context-mcp",
+      "published_from": "muhannad-hash/git-context-mcp",
+      "match": true
+    },
+    "mcps/muhannad-hash-mcp-shield": {
+      "command": "npx",
+      "package": "@muhannad-hash/mcp-shield",
+      "repository": "muhannad-hash/mcp-shield",
+      "published_from": "muhannad-hash/mcp-shield",
+      "match": true
+    },
+    "mcps/mymedi-ai-mymedi-ai-mcp-server": {
+      "command": "npx",
+      "package": "@mymedi-ai/mcp-server",
+      "repository": "mymedi-ai/mymedi-ai-mcp-server",
+      "published_from": "mymedi-ai/mymedi-ai-mcp-server",
+      "match": true
+    },
+    "mcps/newageflyfish-max-volthq": {
+      "command": "npx",
+      "package": "volthq-mcp-server",
+      "repository": "newageflyfish-max/volthq",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/notion": {
+      "command": "npx",
+      "package": "notion-mcp-server",
+      "repository": "awkoy/notion-mcp-server",
+      "published_from": "awkoy/notion-mcp-server",
+      "match": true
+    },
+    "mcps/novada-mcp": {
+      "command": "npx",
+      "package": "command",
+      "repository": "novadalabs/novada-mcp",
+      "published_from": "pacocoursey/cmdk",
+      "match": false,
+      "why": "published from pacocoursey/cmdk"
+    },
+    "mcps/openagentemail": {
+      "command": "npx",
+      "package": "@openagentemail/mcp",
+      "repository": "openagentemail/openagentemail",
+      "published_from": "openagentemail/openagentemail",
+      "match": true
+    },
+    "mcps/openpulsechain-mcp-server": {
+      "command": "npx",
+      "package": "@openpulsechain/mcp-server",
+      "repository": "openpulsechain/public",
+      "published_from": "openpulsechain/openpulsechain",
+      "match": false,
+      "why": "published from openpulsechain/openpulsechain"
+    },
+    "mcps/opentakeoff-mcp": {
+      "command": "npx",
+      "package": "opentakeoff-mcp",
+      "repository": "kentucky-ai/opentakeoff",
+      "published_from": "kentucky-ai/opentakeoff",
+      "match": true
+    },
+    "mcps/opusforge-gorilla-mcp": {
+      "command": "npx",
+      "package": "github:opusforge/gorilla-mcp",
+      "repository": "opusforge/gorilla-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/overpod-mcp-telegram": {
+      "command": "npx",
+      "package": "zero-install",
+      "repository": "overpod/mcp-telegram",
+      "published_from": null,
+      "match": false,
+      "why": "not on npm"
+    },
+    "mcps/oxidize-pdf": {
+      "command": "uvx",
+      "package": "oxidize-mcp",
+      "repository": "bzsanti/oxidize-python",
+      "published_from": null,
+      "match": false,
+      "why": "not on PyPI"
+    },
+    "mcps/pathintegral-institute-science": {
+      "command": "uvx",
+      "package": "to",
+      "repository": "pathintegral-institute/mcp.science",
+      "published_from": "chamrc/to",
+      "match": false,
+      "why": "published from chamrc/to"
+    },
+    "mcps/patk-mcp-server": {
+      "command": "docker",
+      "package": null,
+      "repository": "dante7771/patk-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/paulhkang94-markview": {
+      "command": "npx",
+      "package": "mcp-server-markview",
+      "repository": "paulhkang94/markview",
+      "published_from": "paulhkang94/markview",
+      "match": true
+    },
+    "mcps/plantuml-mcp-js": {
+      "command": "npx",
+      "package": "@plantuml/mcp-js",
+      "repository": "plantuml/plantuml",
+      "published_from": "plantuml/plantuml",
+      "match": true
+    },
+    "mcps/plori": {
+      "command": "npx",
+      "package": "plori-mcp",
+      "repository": "plori-ai/plori",
+      "published_from": "plori-ai/plori",
+      "match": true
+    },
+    "mcps/rendaextra-mcp": {
+      "command": "npx",
+      "package": "stdio",
+      "repository": "rafaellopes/rendaextra-mcp",
+      "published_from": "sgmonda/stdio",
+      "match": false,
+      "why": "published from sgmonda/stdio"
+    },
+    "mcps/robbyczgw-cla-web-search-plus-mcp": {
+      "command": "uvx",
+      "package": "web-search-plus-mcp",
+      "repository": "robbyczgw-cla/web-search-plus-mcp",
+      "published_from": "robbyczgw-cla/web-search-plus-mcp",
+      "match": true
+    },
+    "mcps/rohanmuppa-brightspace-mcp-server": {
+      "command": "npx",
+      "package": "brightspace-mcp-server",
+      "repository": "rohanmuppa/brightspace-mcp-server",
+      "published_from": "rohanmuppa/brightspace-mcp-server",
+      "match": true
+    },
+    "mcps/rungraph": {
+      "command": "npx",
+      "package": "rungraph",
+      "repository": "fayzan123/rungraph",
+      "published_from": "fayzan123/rungraph",
+      "match": true
+    },
+    "mcps/sap-b1-servicelayer-mcp-server": {
+      "command": "npx",
+      "package": "execution",
+      "repository": "leonardows1/sap-b1-servicelayer-mcp",
+      "published_from": "taskjs/execution",
+      "match": false,
+      "why": "published from taskjs/execution"
+    },
+    "mcps/securityronin-alaya": {
+      "command": "npx",
+      "package": "alaya-mcp",
+      "repository": "securityronin/alaya",
+      "published_from": "securityronin/alaya",
+      "match": true
+    },
+    "mcps/seido-npm-command-runner": {
+      "command": "npx",
+      "package": "commands",
+      "repository": "seido/mcp_npm",
+      "published_from": "steveukx/commands.js",
+      "match": false,
+      "why": "published from steveukx/commands.js"
+    },
+    "mcps/sequential-story": {
+      "command": "uvx",
+      "package": "sequential-story",
+      "repository": "dhkts1/sequentialstory",
+      "published_from": "dhkts1/sequentialstory",
+      "match": true
+    },
+    "mcps/sequentialthinking": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/seriawei-developer-name": {
+      "command": "npx",
+      "package": "command",
+      "repository": "seriawei/mcp-developer-name",
+      "published_from": "pacocoursey/cmdk",
+      "match": false,
+      "why": "published from pacocoursey/cmdk"
+    },
+    "mcps/serpdive": {
+      "command": "npx",
+      "package": "serpdive-mcp",
+      "repository": "serpdive/serpdive-mcp",
+      "published_from": "serpdive/serpdive-mcp",
+      "match": true
+    },
+    "mcps/sf1nx-x402station": {
+      "command": "npx",
+      "package": "x402station-mcp",
+      "repository": "sf1nx/x402station-mcp",
+      "published_from": "sf1nx/x402station-mcp",
+      "match": true
+    },
+    "mcps/shinydapps-l402-kit": {
+      "command": "npx",
+      "package": "l402-kit-mcp",
+      "repository": "shinydapps/l402-kit",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/shunshi-ai-bazi-reader-mcp": {
+      "command": "npx",
+      "package": "shunshi-bazi-mcp",
+      "repository": "shunshi-ai/bazi-reader-mcp",
+      "published_from": "shunshi-ai/bazi-reader-mcp",
+      "match": true
+    },
+    "mcps/stifler7-memex": {
+      "command": "npx",
+      "package": "stifler-memex-mcp",
+      "repository": "stifler7/memex",
+      "published_from": "stifler7/memex",
+      "match": true
+    },
+    "mcps/subhatta123-twilize": {
+      "command": "uvx",
+      "package": "twilize",
+      "repository": "subhatta123/twilize",
+      "published_from": null,
+      "match": false,
+      "why": "not on PyPI"
+    },
+    "mcps/tatsuju-opdstar-nhi-mcp": {
+      "command": "npx",
+      "package": "@opdstar/nhi-mcp",
+      "repository": "tatsuju/opdstar-nhi-mcp",
+      "published_from": "tatsuju/opdstar-nhi-mcp",
+      "match": true
+    },
+    "mcps/technocore-mcp": {
+      "command": "uvx",
+      "package": "technocore-mcp",
+      "repository": "flop-labs/technocore-chat",
+      "published_from": "flop-labs/technocore-chat",
+      "match": true
+    },
+    "mcps/tiktapdown-mcp": {
+      "command": "npx",
+      "package": "tiktapdo",
+      "repository": "farukkolip/tiktapdown-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "not on npm"
+    },
+    "mcps/time": {
+      "command": "npx",
+      "package": "/",
+      "repository": "modelcontextprotocol/servers",
+      "published_from": null,
+      "match": false,
+      "why": "the command names no package"
+    },
+    "mcps/twitter": {
+      "command": "npx",
+      "package": "mcp_twitter",
+      "repository": "0xhijo/mcp_twitter",
+      "published_from": null,
+      "match": false,
+      "why": "npm lists no repository"
+    },
+    "mcps/vdalhambra-axiom-calculator-mcp": {
+      "command": "uvx",
+      "package": "axiom-calculator-mcp",
+      "repository": "vdalhambra/axiom-calculator-mcp",
+      "published_from": null,
+      "match": false,
+      "why": "PyPI lists no GitHub repository"
+    },
+    "mcps/vitrine3d-mcp": {
+      "command": "npx",
+      "package": "@vitrine3d/mcp",
+      "repository": "vitrine3d/mcp",
+      "published_from": "vitrine3d/mcp",
+      "match": true
+    },
+    "mcps/vocce": {
+      "command": "npx",
+      "package": "vocce-transcribe-mcp",
+      "repository": "cmoonagent/vocce-agent",
+      "published_from": "cmoonagent/vocce-agent",
+      "match": true
+    },
+    "mcps/wolido-openaaas": {
+      "command": "uvx",
+      "package": "openaaas-mcp-adapter",
+      "repository": "wolido/openaaas",
+      "published_from": "wolido/openaaas",
+      "match": true
+    },
+    "mcps/xcodebuild": {
+      "command": "npx",
+      "package": "xcodebuildmcp",
+      "repository": "getsentry/mobilebuildmcp",
+      "published_from": "getsentry/xcodebuildmcp",
+      "match": false,
+      "why": "published from getsentry/xcodebuildmcp"
+    }
+  },
+  "named_files": {
+    "claudemd-rules/karpathy-coding-discipline": {
+      "path": "CLAUDE.md",
+      "file": true
+    }
+  }
+}

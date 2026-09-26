@@ -44,8 +44,10 @@ export function parseGitHubUrl(sourceUrl: string, repoFallback: string): RepoRef
   return { owner, repo, ref, path, isFile };
 }
 
+// stderr is captured, not printed: a probe that 404s (no SKILL.md at the root, say) is an answer the
+// caller turns into a plain "Not installed" line, not a stray "gh: Not Found" above it.
 function gh(args: string[]): string {
-  return execFileSync("gh", args, { encoding: "utf8", maxBuffer: 16 * 1024 * 1024 });
+  return execFileSync("gh", args, { encoding: "utf8", maxBuffer: 16 * 1024 * 1024, stdio: ["ignore", "pipe", "pipe"] });
 }
 
 function curl(url: string): string {
@@ -145,4 +147,97 @@ export function parseRunCommand(text: string): RunCommand | null {
     return { command, args };
   }
   return null;
+}
+
+// --- Is the downloaded package the component's own? (CP143) -------------------
+// `npx -y <name>` and `uvx <name>` run whatever the public registry holds under a name. A note's text
+// or a repository's package.json name is only a claim: `github-mcp-server` on npm is not GitHub's.
+// Before writing such a command, ask the registry where the package is published from (read-only),
+// and write it only when that is the component's own repository (for a ghcr.io image, its owner).
+// scripts/check-installs.mjs applies the same rule for the website.
+
+// Launchers that download code by name. Anything else (node, python, uv run) runs local files.
+export const DOWNLOADING = new Set(["npx", "uvx", "bunx", "pnpm", "deno", "docker"]);
+
+export interface PackageRef {
+  registry: "npm" | "pypi" | "ghcr";
+  name: string;
+}
+
+// npx: the first non-flag argument or the value of -p/--package, version dropped. uvx: the first
+// non-flag argument or --from, version and extras dropped. docker: a ghcr.io image.
+export function packageOf(run: RunCommand): PackageRef | null {
+  const first = (flags: string[]): string | null => {
+    for (let i = 0; i < run.args.length; i += 1) {
+      const a = run.args[i];
+      if (flags.includes(a)) return run.args[i + 1] ?? null;
+      const eq = flags.find((f) => a.startsWith(`${f}=`));
+      if (eq) return a.slice(eq.length + 1);
+      if (!a.startsWith("-")) return a;
+    }
+    return null;
+  };
+  if (run.command === "npx") {
+    const raw = first(["-p", "--package"]);
+    const name = raw && (raw.startsWith("@") ? raw.replace(/^(@[^/@]+\/[^@]+)@.*$/, "$1") : raw.replace(/@.*$/, ""));
+    return name && /^(@[a-z0-9][\w.~-]*\/)?[a-z0-9][\w.~-]*$/i.test(name) ? { registry: "npm", name } : null;
+  }
+  if (run.command === "uvx") {
+    const raw = first(["--from"]);
+    const name = raw && raw.replace(/\[.*$/, "").replace(/[=<>!~@].*$/, "");
+    return name && /^[a-z0-9][\w.-]*$/i.test(name) ? { registry: "pypi", name } : null;
+  }
+  if (run.command === "docker") {
+    const image = run.args.find((a) => /^ghcr\.io\/[^/\s]+\/\S+$/i.test(a));
+    return image ? { registry: "ghcr", name: image } : null;
+  }
+  return null;
+}
+
+// "git+https://github.com/o/r.git", "github:o/r", "o/r" → "o/r", lower case.
+export function repoOf(value: unknown): string | null {
+  const s = typeof value === "string" ? value.trim() : "";
+  const m = s.match(/github\.com[/:]([^/\s]+)\/([^/#?\s]+)/i) || s.match(/^(?:github:)?([\w.-]+)\/([\w.-]+)$/i);
+  return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}`.toLowerCase() : null;
+}
+
+// Where the registry says a package comes from, or why that could not be confirmed.
+function publishedFrom(pkg: PackageRef, repo: string): { from: string | null; why: string } {
+  try {
+    if (pkg.registry === "npm") {
+      const doc = JSON.parse(curl(`https://registry.npmjs.org/${pkg.name.replace("/", "%2F")}/latest`)) as {
+        repository?: string | { url?: string };
+      };
+      const from = repoOf(typeof doc.repository === "string" ? doc.repository : doc.repository?.url);
+      return { from, why: from ? `npm says it comes from ${from}` : "npm lists no repository for it" };
+    }
+    if (pkg.registry === "pypi") {
+      const doc = JSON.parse(curl(`https://pypi.org/pypi/${encodeURIComponent(pkg.name)}/json`)) as {
+        info?: { home_page?: string; download_url?: string; project_urls?: Record<string, string> };
+      };
+      const urls = [doc.info?.home_page, doc.info?.download_url, ...Object.values(doc.info?.project_urls ?? {})];
+      const repos = urls.map(repoOf).filter((r): r is string => r !== null);
+      const from = repos.find((r) => r === repo) ?? repos[0] ?? null;
+      return { from, why: from ? `PyPI says it comes from ${from}` : "PyPI lists no GitHub repository for it" };
+    }
+    const owner = pkg.name.split("/")[1].toLowerCase();
+    return { from: owner, why: `the image belongs to ${owner}` };
+  } catch {
+    return { from: null, why: `the ${pkg.registry === "pypi" ? "PyPI" : "npm"} registry has no such package, or did not answer` };
+  }
+}
+
+// True when the package is published from `repo` ("owner/name"); otherwise why not.
+export function checkPackage(pkg: PackageRef, repo: string): { ok: boolean; why: string } {
+  const r = repo.toLowerCase();
+  const { from, why } = publishedFrom(pkg, r);
+  const ok = pkg.registry === "ghcr" ? from === r.split("/")[0] : from === r;
+  return { ok, why };
+}
+
+// The command in its plain form, so prose that followed it in a note never reaches a config.
+export function plainRun(run: RunCommand, pkg: PackageRef): RunCommand {
+  if (pkg.registry === "npm") return { command: "npx", args: ["-y", pkg.name] };
+  if (pkg.registry === "pypi") return { command: "uvx", args: [pkg.name] };
+  return { command: run.command, args: run.args.slice(0, run.args.indexOf(pkg.name) + 1) };
 }

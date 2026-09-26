@@ -31,5 +31,7 @@ export function toRowViews(rows: readonly ListedRow[]): RowView[] {
     ours: r.ours,
     contributedBy: r.contributedBy,
     alsoListedAs: r.alsoListedAs.map((t) => ({ name: t.name, href: t.type ? detailHref(t.type, t.name) : null })),
+    installable: r.installable,
+    source: r.url,
   }));
 }

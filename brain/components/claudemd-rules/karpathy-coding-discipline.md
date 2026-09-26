@@ -30,8 +30,11 @@ Make this the FIRST rule in any agent harness — it is the constitution that go
 whenever an agent is over-engineering, sprawling across files it doesn't own, or shipping without verifying.
 
 ## How to install / invoke
-Paste the four clauses near the top of your `CLAUDE.md` (or `AGENTS.md`). Reference it from every worker mission so
-sub-agents inherit it. The four clauses are short enough to quote verbatim in a system prompt.
+`armory install karpathy-coding-discipline` places the repository's own rules file,
+https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md, in your harness's rules folder
+(`.claude/rules/` for Claude Code). Or paste the four clauses near the top of your `CLAUDE.md` (or `AGENTS.md`).
+Reference it from every worker mission so sub-agents inherit it. The four clauses are short enough to quote verbatim
+in a system prompt.
 
 ## Notes
 This is the behavior-norm layer, not a linter — it shapes how the agent decides, not what the code looks like.

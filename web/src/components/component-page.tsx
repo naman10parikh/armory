@@ -6,7 +6,7 @@
 // oklch() literals. Every number ships as a final <data value>; nothing animates.
 import Link from "next/link";
 import { BoardTable, OursTag } from "@/components/board-table";
-import { InstallSnippet } from "@/components/install-snippet";
+import { InstallSnippet, NoInstall } from "@/components/install-snippet";
 import { ScoreBadge } from "@/components/score-badge";
 import { SignalsRow } from "@/components/signals-row";
 import type { CanonRow, CanonStats, ResolvedPick } from "@/lib/canon";
@@ -120,7 +120,7 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
             <>
               <SignalsRow signals={pick.row.signals} />
               <div className="min-w-0">
-                <InstallSnippet name={pick.row.name} />
+                {pick.row.installable ? <InstallSnippet name={pick.row.name} /> : <NoInstall source={pick.row.url} />}
               </div>
             </>
           ) : (

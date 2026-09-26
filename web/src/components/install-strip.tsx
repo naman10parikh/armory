@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { Component } from "@/lib/types";
-import { HARNESS_LABEL, buildSnippet, followUpNote } from "@/lib/install-targets";
+import { HARNESS_LABEL, buildSnippet, followUpNote, type RunCommand } from "@/lib/install-targets";
 import { useHarness } from "./install-snippet";
 import { CopyCommand } from "./copy-command";
 import { CheckIcon, CopyIcon } from "./icons";
@@ -23,44 +23,78 @@ import { CheckIcon, CopyIcon } from "./icons";
   cli_compat is VERIFIED; any other harness still resolves to a valid
   universal path — that fact is real text below, never a title= tooltip.
 */
-export function InstallStrip({ component }: { component: Component }) {
+export function InstallStrip({
+  component,
+  run,
+  installable,
+}: {
+  component: Component;
+  run?: RunCommand | null;
+  /** Whether `armory install` places it (src/lib/installable.ts); when not, the strip says so plainly. */
+  installable: boolean;
+}) {
   const harness = useHarness();
   const verified = new Set(component.cli_compat).has(harness);
 
-  const snippet = buildSnippet(component, harness);
+  // `run` is the server-checked MCP command (src/lib/run-check.ts); a manual snippet has nothing to
+  // vouch for, so it carries no Verified or Universal label.
+  const snippet = buildSnippet(component, harness, run);
   const followUp = followUpNote(component, harness);
 
   return (
     <div className="rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
       <div className="rounded-[calc(1.25rem-0.375rem)] bg-raise-2 p-4 sm:p-5">
-        {/* (a) The exact CLI command for the currently selected harness */}
-        <CopyCommand
-          command={snippet.command}
-          label={`Copy install command for ${HARNESS_LABEL[harness]}`}
-        />
+        {installable ? (
+          <>
+            {/* (a) The exact CLI command for the currently selected harness */}
+            <CopyCommand
+              command={snippet.command}
+              label={`Copy install command for ${HARNESS_LABEL[harness]}`}
+            />
 
-        {/* Where it lands + verified/universal — real text, never a title=
-            tooltip (design/BRIEF.md §1.1). */}
-        <p className="mt-2.5 flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] text-ink-muted">
-          <span>{snippet.verb}</span>
-          <span className="text-accent-hover">{snippet.file}</span>
-          <span aria-hidden>·</span>
-          <span className={verified ? "text-ok" : "text-ink-muted"}>
-            {verified ? "Verified" : "Universal"}
-          </span>
-        </p>
+            {/* Where it lands + verified/universal — real text, never a title=
+                tooltip (design/BRIEF.md §1.1). */}
+            <p className="mt-2.5 flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] text-ink-muted">
+              <span>{snippet.verb}</span>
+              <span className="text-accent-hover">{snippet.file}</span>
+              {!snippet.manual && (
+                <>
+                  <span aria-hidden>·</span>
+                  <span className={verified ? "text-ok" : "text-ink-muted"}>
+                    {verified ? "Verified" : "Universal"}
+                  </span>
+                </>
+              )}
+            </p>
+          </>
+        ) : (
+          // `armory install` places nothing for this row, so no command is offered (CP143).
+          <p className="text-[13px] leading-snug text-ink-body">
+            No one-command install. Set it up from{" "}
+            <a
+              href={component.source_url}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="cursor-pointer text-accent-hover underline underline-offset-4"
+            >
+              its source
+            </a>
+            .
+          </p>
+        )}
 
-        {/* (b)+(c) The raw config/snippet that command writes, with its own copy */}
-        {snippet.config && (
+        {/* (b)+(c) The raw config/snippet that command writes, with its own copy. Without a
+            one-command install, only an MCP server's hand-written config is worth showing. */}
+        {snippet.config && (installable || component.type === "mcps") && (
           <ConfigBlock
             title="Configuration"
             code={snippet.config}
             lang={snippet.configLang ?? "text"}
-            manual={snippet.manual}
+            manual={snippet.manual || !installable}
           />
         )}
 
-        {followUp && (
+        {installable && followUp && (
           <p className="mt-3 text-[12px] leading-snug text-ink-muted">
             <span className="text-accent-hover">↳</span> {followUp}
           </p>

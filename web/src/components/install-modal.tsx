@@ -18,7 +18,7 @@ import { TerminalIcon, TypeIcon } from "./icons";
   Tab is trapped inside. Rendered through a portal onto <body> so it overlays the
   whole screen regardless of the detail page's stacking / transform context.
 */
-export function InstallModal({ component }: { component: Component }) {
+export function InstallModal({ component, installable }: { component: Component; installable: boolean }) {
   const [open, setOpen] = useState(false);
   const triggerRef = useRef<HTMLButtonElement>(null);
   const dialogRef = useRef<HTMLDivElement>(null);
@@ -158,7 +158,7 @@ export function InstallModal({ component }: { component: Component }) {
 
               {/* Body — the SAME six-harness install UI as the inline strip. */}
               <div className="p-5 sm:p-6">
-                <InstallStrip component={component} />
+                <InstallStrip component={component} installable={installable} />
               </div>
             </div>
           </div>,
