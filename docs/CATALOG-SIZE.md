@@ -43,3 +43,27 @@ change lands in the first session after prod is reachable, in this order:
 
 **Do not rewrite history to shrink the pack.** It breaks every existing clone and the nightly
 autolab's checkout for a one-time gain that step 5 makes permanent anyway.
+
+## 26 September 2026: steps 1 to 4 done, step 5 waits on seven readers
+
+Measured today: `catalog.json` is 55,410,375 bytes (52.8 MiB), still over GitHub's 50 MiB warning.
+Gzipped, it is 7,085,052 bytes (6.8 MiB).
+
+1. `ingest/catalog.mjs` writes `catalog.json.gz` beside `catalog.json`.
+2. `lib/rank.mjs` reads the `.gz` first, as long as it is at least as new as the plain file.
+3. `web/scripts/copy-data.mjs` vendors only the `.gz` into `web/`, and the site reads it through
+   `web/src/lib/catalog-file.ts`. `next.config.mjs` traces it, so the upload and every function carry
+   7 MB, not 55 MB.
+4. `armory rank`, the MCP's `rank_components` and `/api/rank` return the same top row: overall
+   `openclaw-openclaw` (100), and for memory `thedotmack-claude-mem` (99.9). The ruling's
+   `letta-ai-letta` moved when the blend changed (CP138 T20) and duplicates folded (T56).
+
+**Step 5 is not done.** Seven readers outside Armory load the plain file by path:
+- Sentinel: `access/brain_sync.py`, `access/emit_to_armory.py`, `access/enrich_stars.py`,
+  `scripts/enrich-armory.py`, `web/lib/matrix.py`, `web/lib/universe.py`, and
+  `scripts/armory-sync-pr.sh` (which commits it).
+- Energy: `platform/lib/armory.mjs`.
+
+So `catalog.json` is still written and committed. The `.gz` is gitignored, not committed, because
+committing a gzip blob every night on top would make the pack grow faster, not slower. To finish,
+point those seven at `catalog.json.gz` (or have them gunzip it), then stop committing `catalog.json`.

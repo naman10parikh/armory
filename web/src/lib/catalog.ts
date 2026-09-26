@@ -5,6 +5,7 @@
 import "server-only";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { readCatalogText } from "./catalog-file";
 import { rawCatalog } from "./rows";
 import type { Catalog, Component, ComponentType } from "./types";
 
@@ -17,9 +18,6 @@ import type { Catalog, Component, ComponentType } from "./types";
 // before prebuild runs). next.config.mjs traces the local copies into the
 // function via outputFileTracingIncludes. Read-only — the site never writes.
 const CWD = process.cwd();
-const CATALOG_PATH = existsSync(join(CWD, "catalog.json"))
-  ? join(CWD, "catalog.json")
-  : join(CWD, "..", "catalog.json");
 const BRAIN_DIR = existsSync(join(CWD, "brain"))
   ? join(CWD, "brain")
   : join(CWD, "..", "brain");
@@ -94,7 +92,7 @@ export function getCatalog(): Catalog {
   if (cached) return cached;
   try {
     // One parse per process: the board (src/lib/rows.ts) already holds catalog.json.
-    const parsed = (rawCatalog() ?? JSON.parse(readFileSync(CATALOG_PATH, "utf8"))) as Partial<Catalog>;
+    const parsed = (rawCatalog() ?? JSON.parse(readCatalogText())) as Partial<Catalog>;
     if (!parsed || !Array.isArray(parsed.components)) throw new Error("bad shape");
     const components = parsed.components
       .map(normalizeComponent)

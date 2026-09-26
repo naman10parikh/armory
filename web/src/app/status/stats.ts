@@ -5,8 +5,7 @@
 // measured test · community mentions), and when the crawl last confirmed
 // everything. Server-only, memoized so the 38MB parse happens once.
 import "server-only";
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { readCatalogText } from "@/lib/catalog-file";
 
 interface Comp {
   stars?: number | null;
@@ -34,8 +33,7 @@ let CACHE: Stats | null = null;
 
 export function stats(): Stats {
   if (CACHE) return CACHE;
-  const path = join(process.cwd(), "catalog.json"); // vendored to the site root by prebuild
-  const cat = JSON.parse(readFileSync(path, "utf-8")) as { components?: Comp[] };
+  const cat = JSON.parse(readCatalogText()) as { components?: Comp[] }; // vendored by prebuild
   const comps = cat.components ?? [];
 
   const sources = new Set<string>();

@@ -5,8 +5,7 @@
 // are chosen by CRITERIA (the most-starred single-signal tool, the highest-scoring tool, …) rather
 // than hardcoded names, so they stay true as the catalog grows.
 import type { Metadata } from "next";
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { readCatalogText } from "@/lib/catalog-file";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
 import { computeRows, WEIGHTS, BLEND, MIN_POOL } from "../../../lib/rank.mjs";
 import {
@@ -81,7 +80,7 @@ interface Row {
 }
 
 function load(): Row[] {
-  const cat = JSON.parse(readFileSync(join(process.cwd(), "catalog.json"), "utf-8"));
+  const cat = JSON.parse(readCatalogText());
   return computeRows(cat.components) as Row[];
 }
 

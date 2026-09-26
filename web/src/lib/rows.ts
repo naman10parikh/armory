@@ -3,11 +3,12 @@
 // leaderboard, the shelves, /stack, /browse and the detail pages all read from here, so none of them
 // parses the 55 MB catalog on its own and none can quote a different number or order.
 import "server-only";
-import { existsSync, readFileSync } from "node:fs";
+import { readFileSync } from "node:fs";
 import { join } from "node:path";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
 import { computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
 import type { SignalValues } from "@/components/signals-row";
+import { readCatalogText } from "./catalog-file";
 import { contributorOf, isOurs } from "./format";
 import { isInstallable } from "./installable";
 
@@ -128,12 +129,6 @@ interface State {
 
 const DAY = 86_400_000;
 
-/** A file vendored into web/ by `pnpm prebuild`, else the repo-root original (dev before prebuild). */
-function vendored(file: string): string {
-  const local = join(process.cwd(), file);
-  return existsSync(local) ? local : join(process.cwd(), "..", file);
-}
-
 function readChanges(): Changes {
   try {
     return JSON.parse(readFileSync(join(process.cwd(), "changes.json"), "utf-8")) as Changes;
@@ -166,7 +161,7 @@ let STATE: State | null = null;
 function load(): State {
   if (STATE) return STATE;
   try {
-    const cat = JSON.parse(readFileSync(vendored("catalog.json"), "utf-8")) as {
+    const cat = JSON.parse(readCatalogText()) as {
       components: RawComponent[];
       generated_at?: string;
     };

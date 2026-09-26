@@ -18,3 +18,5 @@ brain/index.json
 brain/discovered.json
 brain/crawl-feed-plan.json
 .playwright-cli/
+# The gzipped catalog, written beside catalog.json by ingest/catalog.mjs (docs/CATALOG-SIZE.md).
+/catalog.json.gz
