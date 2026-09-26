@@ -2,7 +2,7 @@
 // (node:test), no files touched. The script that applies it is scripts/ingest-sentinel-feed.mjs.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { planTested, fieldUpdates, setField } from "./tested.mjs";
+import { planTested, fieldUpdates, setField, latestTrials, vouches } from "./tested.mjs";
 
 const row = (name, source_url, extra = {}) => ({ name, type: "clis-tools", source_url, eval_score: null, ...extra });
 const trial = (repo, eval_score, date, tool = "Tool") => ({ tool, repo, outcome: "ran", eval_score, one_line: "", date });
@@ -45,6 +45,25 @@ test("tested: verified_at moves forward only, and a repeat of the recorded score
     { eval_score: 1, verified_at: "2026-09-26" });
   assert.deepEqual(fieldUpdates({ eval_score: 1, verified_at: "2026-09-30" }, { eval_score: 0, date: "2026-09-26" }), { eval_score: 0 });
   assert.deepEqual(fieldUpdates({ eval_score: 1, verified_at: "2026-09-26" }, { eval_score: 1, date: "2026-09-26" }), {});
+});
+
+test("tested: a pass stands in for the 3 notes only for an agent component, and only while it is the latest word", () => {
+  const scope = (t, agent_component) => ({ ...t, agent_component });
+  const trialFor = latestTrials([
+    scope(trial("https://github.com/o/kit", 1, "2026-09-26"), true),
+    scope(trial("https://github.com/o/cad", 1, "2026-09-26"), false),
+    trial("https://github.com/o/unchecked", 1, "2026-09-26"),
+    scope(trial("https://github.com/o/flip", 1, "2026-09-25"), true),
+    scope(trial("https://github.com/o/flip", 0, "2026-09-26"), true),
+    scope(trial("https://github.com/o/unrun", null, "2026-09-26"), true),
+  ]);
+  assert.equal(vouches(trialFor("https://github.com/O/Kit#readme")), true); // same repository, any spelling
+  assert.equal(vouches(trialFor("https://github.com/o/cad")), false); // the model check says not an agent component
+  assert.equal(vouches(trialFor("https://github.com/o/unchecked")), false); // no model check recorded
+  assert.equal(trialFor("https://github.com/o/flip").eval_score, 0); // a later failure outranks the pass
+  assert.equal(vouches(trialFor("https://github.com/o/flip")), false);
+  assert.equal(trialFor("https://github.com/o/unrun"), undefined); // not run: no score to carry
+  assert.equal(vouches(trialFor("https://github.com/o/kit/tree/main/docs")), false); // a folder is not the repository
 });
 
 test("tested: setField edits only the frontmatter", () => {
