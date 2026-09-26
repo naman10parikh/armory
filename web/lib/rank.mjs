@@ -433,6 +433,7 @@ export const SHELF_MOVES = {
   "clis-tools/stablyai-orca": "workflow",
   "mcps/praisonai": "workflow",
   "mcps/bernstein": "workflow",
+  "clis-tools/mastra-ai-mastra": "workflow",
   // Sandbox: environments that isolate agent work, filed as a command-line tool or as MCP servers.
   "clis-tools/container-use": "infra",
   "mcps/babelcloud-gru-sandbox": "infra",

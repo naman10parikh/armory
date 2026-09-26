@@ -214,6 +214,7 @@ carry it.
 | stablyai-orca, `clis-tools` | Dispatch | runs a fleet of coding agents side by side, each in its own worktree |
 | praisonai, `mcps` | Dispatch | a multi-agent framework |
 | bernstein, `mcps` | Dispatch | agent orchestration with a deterministic scheduler |
+| mastra-ai-mastra, `clis-tools` | Dispatch | a TypeScript framework for agents whose graph-based workflow engine orchestrates multi-step processes (PR F) |
 | container-use, `clis-tools` | Sandbox | gives each coding agent a fresh container on its own git branch |
 | runno, `mcps` | Sandbox | runs code in a WebAssembly sandbox |
 | babelcloud-gru-sandbox, `mcps` | Sandbox | GBOX: self-hostable environments where agents run code and operate desktop and mobile devices |
@@ -238,6 +239,15 @@ Observability, not Tools), MCP servers that only reach a sandbox or an orchestra
 MCP servers), mcps/container-use (a directory listing of the same project, which is on Sandbox under
 `clis-tools`), and the browser tools (browser-use, Stagehand, Steel, Browserless). Whether browser tools go
 on Tools or on a shelf of their own is a curation call: browser-use would top Tools and reopen its pick.
+
+PR F read every row Sentinel syncs #29 to #33 added. Mastra (sync #33) came in as a command-line tool, so it
+sat on no shelf and its page offered the Snyk CLI as its only alternative; it now lists on Dispatch beside
+CrewAI, LangGraph and AutoGen. The other nine stay where they are: webagent (one model over pluggable slots,
+served on chat channels; it routes no work between agents, the same case as agno), the LiveKit server
+(LiveKit's agent framework is a separate repository), Graft (it keeps a coding agent's CLAUDE.md and AGENTS.md
+rules), Qwen-MM-Plugins (plugins that make a harness multimodal), llms.txt and auth.md (a file format and a
+protocol), AgentShield (already on Tools), archify (a skill) and microsoft-playwright-2 (one of the browser
+tools above).
 
 `--component` and the MCP tools' `component` now also take a shelf name: `SHELVES` in `lib/rank.mjs` maps
 each /stack slug to its components (a test keeps it equal to `stack.json`), so `armory rank -c tools`,

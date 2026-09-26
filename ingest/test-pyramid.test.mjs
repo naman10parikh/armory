@@ -173,6 +173,20 @@ test("every SHELF_MOVES row is in catalog.json under the type it is keyed by", (
   }
 });
 
+test("agent frameworks the crawl filed as command-line tools list on Dispatch, beside CrewAI, LangGraph and AutoGen", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  const dispatch = rankRows(rows, { component: "dispatch", limit: 1000 });
+  const listed = new Set(dispatch.items.map((i) => `${i.type}/${i.name}`));
+  // Mastra arrived with Sentinel sync #33 as a command-line tool, so it sat on no shelf and its page's only
+  // alternative was the Snyk CLI (CP138 PR F).
+  for (const key of ["clis-tools/crewaiinc-crewai", "clis-tools/langchain-ai-langgraph", "clis-tools/microsoft-autogen", "clis-tools/mastra-ai-mastra"]) {
+    assert.ok(listed.has(key), `${key} is listed on Dispatch`);
+  }
+  assert.equal(dispatch.total, dispatch.items.length, "the whole shelf fits under the limit, so a missing row is not cut off");
+});
+
 test("SHELVES names the same shelves and components as web/src/data/stack.json", () => {
   const stack = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8"));
   assert.deepEqual(SHELVES, Object.fromEntries(stack.components.map((c) => [c.slug, c.aggregates])));
