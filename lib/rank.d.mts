@@ -5,6 +5,8 @@ export interface RankRow {
   domain: string;
   url?: string | null;
   license?: string | null;
+  /** The feed that contributed the row ("Sentinel" for a `sentinel-feed` tag), else null. */
+  contributor: string | null;
   universal: number | null;
   /** the Universal before rounding, four decimals; the default order sorts on it first */
   exact: number | null;
