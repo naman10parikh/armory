@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [observability, evals, tracing]
 forks: 1827
-pushed_at: "2026-09-26T09:45:57Z"
+pushed_at: "2026-09-26T13:42:43Z"
 ---
 ## What it is
 Opik by Comet is an open-source LLM evaluation and tracing platform — log traces, run automated evals, create datasets, and track prompt improvements over time.

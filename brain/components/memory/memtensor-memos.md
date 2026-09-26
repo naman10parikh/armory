@@ -8,7 +8,7 @@ source_url: https://github.com/MemTensor/MemOS
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11598
+stars: 11599
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

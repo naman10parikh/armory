@@ -8,7 +8,7 @@ source_url: https://github.com/n8n-io/n8n
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 206020
+stars: 206022
 eval_score: null
 mentions: 26
 verified_at: 2026-09-02

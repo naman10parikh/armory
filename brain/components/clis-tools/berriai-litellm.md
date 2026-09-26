@@ -8,7 +8,7 @@ source_url: https://github.com/BerriAI/litellm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 59653
+stars: 59657
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02

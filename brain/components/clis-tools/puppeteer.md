@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [browser, puppeteer]
 mentions: null
-forks: 9580
+forks: 9581
 pushed_at: "2026-09-25T18:04:28Z"
 ---
 ## What it is

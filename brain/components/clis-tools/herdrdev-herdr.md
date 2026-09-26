@@ -8,13 +8,13 @@ source_url: https://github.com/herdrdev/herdr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40834
+stars: 40836
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 3122
+forks: 3123
 pushed_at: "2026-09-26T00:13:21Z"
 ---
 ## What it is
