@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Logo } from "./logo";
 
-const REPO = "https://github.com/naman10parikh/component";
+const REPO = "https://github.com/naman10parikh/armory";
 
 // Footer. Labels per web/COPY.md §3: the lead line is a noun phrase, the column
 // heads are `Catalog` / `Developers`, and the repo link is `Source`. No scroll
