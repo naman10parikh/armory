@@ -23,13 +23,17 @@ import { parseFrontmatter } from "../ingest/catalog.mjs";
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
 const CATALOG = join(ROOT, "catalog.json");
-const INCOMING = join(ROOT, "incoming", "sentinel");
 const FEED_DIR = join(ROOT, "..", "sentinel", "brain", "updates", "armory-feed");
 const CLI_COMPAT = ["claude", "codex", "cursor", "gemini", "opencode"];
 
 const argv = process.argv.slice(2);
 const has = (f) => argv.includes(f);
 const val = (f, d) => { const i = argv.indexOf(f); return i >= 0 && argv[i + 1] ? argv[i + 1] : d; };
+// The contributing entity (docs/CONTRIBUTORS.md). Sentinel was the first; the next one passes --source <name>
+// with its own --feed, and its rows carry the `<name>-feed` tag that the site shows as "Contributed by".
+const SOURCE = slugify(val("--source", "sentinel"));
+const LABEL = SOURCE.charAt(0).toUpperCase() + SOURCE.slice(1);
+const INCOMING = join(ROOT, "incoming", SOURCE);
 
 function newestFeed() {
   if (!existsSync(FEED_DIR)) return null;
@@ -37,7 +41,7 @@ function newestFeed() {
   return f ? join(FEED_DIR, f) : null;
 }
 
-const feedPath = val("--feed", newestFeed());
+const feedPath = val("--feed", SOURCE === "sentinel" ? newestFeed() : null);
 if (!feedPath || !existsSync(feedPath)) {
   console.error("no feed found — run sentinel/access/emit_to_armory.py first, or pass --feed <path>");
   process.exit(1);
@@ -136,12 +140,12 @@ for (const r of feed.new || []) {
     description: (fetched.get(repoKey(url))?.description || "").trim() || `${r.name} — cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
     source_repo: repoKey(url), source_url: url, license: "unknown", cli_compat: CLI_COMPAT,
     maturity: "experimental", stars: typeof r.stars === "number" ? r.stars : null, eval_score: null, mentions: r.mentions, verified_at: today,
-    related: [], tags: ["sentinel-feed", type],
+    related: [], tags: [`${SOURCE}-feed`, type],
   };
   const body =
     `## What it is\n${frontmatter.description}\n\n## When to use it\nSee the source: ${url}\n\n` +
     `## How to install / invoke\nSee the source README: ${url}\n\n` +
-    `## Notes\nSurfaced by the Sentinel→Armory feed (practitioner mentions), ${today}. Pending verify → promote.`;
+    `## Notes\nContributed by ${LABEL} through the contributor feed (practitioner mentions), ${today}. Pending verify → promote.`;
   const md = toMarkdown({ frontmatter, body });
   const back = parseFrontmatter(md); // roundtrip self-check, like the crawler
   if (back.name !== slug) { skipped++; continue; }
