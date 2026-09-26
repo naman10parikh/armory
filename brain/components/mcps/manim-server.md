@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T06:32:43Z"
+pushed_at: "2026-09-18T17:36:01Z"
 ---
 ## What it is
 An MCP server that enables creating and rendering Manim animations by building scenes with code sections and generating MP4 videos.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-30T15:44:29Z"
+pushed_at: "2026-09-09T08:36:56Z"
 ---
 ## What it is
 MCP server `Gemina FileTag`, catalogued on PulseMCP. Tag, rename, and enrich PDFs and images with structured metadata and embedded file enrichment.

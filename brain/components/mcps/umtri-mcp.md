@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T15:26:26Z"
+pushed_at: "2026-09-23T10:57:57Z"
 ---
 ## What it is
 MCP server for Umtri — give your AI coding agent a persistent map of your project's structure, dependencies, and bugs.

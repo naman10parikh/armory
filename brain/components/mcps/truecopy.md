@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:39:33Z"
+pushed_at: "2026-09-26T13:53:49Z"
 ---
 ## What it is
 Supply-chain gate for AI agent skills and MCP servers: poison-scan tool definitions, hash-pin the vetted set into a lock file and verify drift in CI. truecopy-mcp is a drop-in stdio proxy that filters a live server's tools/list down to its pinned, unmodified, unpoisoned tools.

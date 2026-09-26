@@ -8,12 +8,12 @@ source_url: https://github.com/linxule/mineru-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-03T03:36:12Z"
+forks: 3
+pushed_at: "2026-09-21T03:36:44Z"
 ---
 ## What it is
 MCP server `MinerU`, catalogued on PulseMCP. Document parsing API for PDFs, images, DOCX, PPTX with OCR.

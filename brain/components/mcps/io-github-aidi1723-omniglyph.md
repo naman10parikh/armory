@@ -8,13 +8,13 @@ source_url: https://github.com/aidi1723/OmniGlyph
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T09:08:39Z"
+pushed_at: "2026-09-12T11:00:20Z"
 ---
 ## What it is
 OmniGlyph is a local-first MCP server that gives AI agents deterministic Unicode, domain-term, security-scan, and output-guardrail checks before reasoning over text or delivering generated output.

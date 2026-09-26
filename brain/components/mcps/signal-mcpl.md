@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T18:31:32Z"
+pushed_at: "2026-09-26T04:30:39Z"
 ---
 ## What it is
 MCPL server that bridges Signal via signal-cli, exposing DMs and group chats as channels and providing signal_send and signal_react tools.

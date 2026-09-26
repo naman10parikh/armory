@@ -8,13 +8,13 @@ source_url: https://github.com/violet-05/xiaozhi-butler-
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T05:54:09Z"
+pushed_at: "2026-09-09T15:27:54Z"
 ---
 ## What it is
 MCP server enabling voice-controlled Windows PC automation via Xiaozhi AI, supporting 200+ apps, media playback control, and terminal command execution.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T19:53:56Z"
+pushed_at: "2026-09-02T03:45:45Z"
 ---
 ## What it is
 An MCP server that exposes the local Grok CLI to Codex for bounded repo work, reviews, rescue analysis, adversarial checks, session listing/export, and background job management while keeping Codex hidden context out of scope.

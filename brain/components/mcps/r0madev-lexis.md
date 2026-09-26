@@ -12,8 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-05-06T21:21:44Z"
+forks: 5
+pushed_at: "2026-09-21T06:57:02Z"
 ---
 ## What it is
 MCP server `Lexis`, catalogued on PulseMCP. Code-search server using ripgrep and AST symbol extraction to navigate large codebases with 28+ tools, supporting 17+ languages and telecom DSLs with ~80% fewer tokens.

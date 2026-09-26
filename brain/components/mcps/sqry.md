@@ -8,12 +8,12 @@ source_url: https://github.com/verivus-oss/sqry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-28T22:50:29Z"
+pushed_at: "2026-09-13T22:18:31Z"
 ---
 ## What it is
 MCP server `Sqry`, catalogued on PulseMCP. AST-based semantic code search with 33 tools across 35 programming languages, supporting call tracing, impact analysis, and graph queries.

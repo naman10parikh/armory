@@ -8,13 +8,13 @@ source_url: https://github.com/leologoli/agymcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T12:17:29Z"
+pushed_at: "2026-09-20T12:02:48Z"
 ---
 ## What it is
 Wraps the Antigravity CLI (agy) as an MCP server, enabling Claude Code and other MCP clients to execute AI tasks and manage conversations via the agy command.

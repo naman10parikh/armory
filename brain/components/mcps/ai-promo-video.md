@@ -8,12 +8,12 @@ source_url: https://github.com/MendesCorporation/ai-promo-video
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 0
 pushed_at: "2026-07-28T21:39:03Z"
 ---
 ## What it is

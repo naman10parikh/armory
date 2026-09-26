@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T11:08:28Z"
+pushed_at: "2026-09-05T10:51:13Z"
 ---
 ## What it is
 MCP server for Ileti Merkezi SMS API (Turkey). Enables sending SMS, bulk SMS, checking delivery reports, and managing contacts and blacklists via API Key + Hash authentication.

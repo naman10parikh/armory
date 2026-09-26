@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2025-12-09T18:29:18Z"
+pushed_at: "2026-09-23T15:14:54Z"
 ---
 ## What it is
 MCP server `TeamCity`, catalogued on PulseMCP. Integrates with JetBrains TeamCity for complete CI/CD pipeline management, enabling build triggering, cancellation, pinning, artifact downloads, tag management, and advanced build search with status, branch, and date filtering.

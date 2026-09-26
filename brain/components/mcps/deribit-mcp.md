@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:56:14Z"
+pushed_at: "2026-09-19T11:22:32Z"
 ---
 ## What it is
 MCP server for Deribit's crypto options exchange, enabling AI assistants to query market data, manage accounts and orders, and execute trades with safety defaults (testnet, trading disabled by default).

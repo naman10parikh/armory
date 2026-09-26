@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T06:32:00Z"
+pushed_at: "2026-09-23T19:58:44Z"
 ---
 ## What it is
 Enables querying, inserting, and managing unstructured data in RawTree via SQL, JSON ingestion, and log inspection through MCP clients like Claude Code, Cursor, and Claude Desktop.

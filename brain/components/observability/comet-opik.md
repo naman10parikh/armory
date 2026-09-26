@@ -8,13 +8,13 @@ source_url: https://github.com/comet-ml/opik
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 21735
+stars: 22249
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, evals, tracing]
-forks: 1744
-pushed_at: "2026-09-02T02:57:53Z"
+forks: 1827
+pushed_at: "2026-09-26T13:42:43Z"
 ---
 ## What it is
 Opik by Comet is an open-source LLM evaluation and tracing platform — log traces, run automated evals, create datasets, and track prompt improvements over time.

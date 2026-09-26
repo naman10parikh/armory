@@ -8,7 +8,7 @@ source_url: https://github.com/xwang152-jack/wechat-official-account-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

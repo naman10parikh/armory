@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-23T13:02:16Z"
+pushed_at: "2026-09-03T04:50:34Z"
 ---
 ## What it is
 MCP server `theYahia YooKassa`, catalogued on PulseMCP. Integrates with YooKassa payment gateway for processing payments, managing orders, and handling refunds.

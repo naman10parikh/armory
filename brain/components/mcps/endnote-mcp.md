@@ -8,13 +8,13 @@ source_url: https://github.com/gokmengokhan/endnote-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-06-07T07:27:39Z"
+forks: 6
+pushed_at: "2026-09-22T06:44:19Z"
 ---
 ## What it is
 Connect your EndNote reference library to Claude AI. Search references, read PDFs, format citations, find related papers, and generate bibliographies directly in Claude Desktop conversations.

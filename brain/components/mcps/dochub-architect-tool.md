@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T18:05:26Z"
+pushed_at: "2026-09-10T13:36:56Z"
 ---
 ## What it is
 An MCP server that helps transfer C4 diagrams from DrawIO and PlantUML into a DocHub architecture repository.

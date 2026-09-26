@@ -8,11 +8,11 @@ source_url: https://github.com/aahl/mcp-notify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-03-26T03:08:31Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T03:25:37Z"
+pushed_at: "2026-09-13T09:48:17Z"
 ---
 ## What it is
 Enables AI-assisted motion design with a catalog of 219 production-quality GSAP components, providing page planning, mechanics suggestions, integration contracts, and component prompts without requiring any API keys.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T22:42:29Z"
+pushed_at: "2026-09-21T11:37:43Z"
 ---
 ## What it is
 MCP server `pvliesdonk Image Generation`, catalogued on PulseMCP. Multi-provider image generation supporting OpenAI, Stable Diffusion WebUI, and placeholder providers.

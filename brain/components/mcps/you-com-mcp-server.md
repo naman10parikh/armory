@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-20T22:03:16Z"
+pushed_at: "2026-09-24T19:08:41Z"
 ---
 ## What it is
 Enables AI agents to perform real-time web search, research, and content extraction using You.com's search infrastructure, with a free tier available.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T18:34:49Z"
+pushed_at: "2026-09-17T18:47:40Z"
 ---
 ## What it is
 Answers questions about the FedRAMP Consolidated Rules for 2026 using search and retrieval tools on the authoritative source text with citations.

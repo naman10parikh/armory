@@ -8,12 +8,12 @@ source_url: https://github.com/priyankark/lighthouse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 209
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-05-23T14:42:08Z"
+pushed_at: "2026-09-13T22:25:16Z"
 ---
 ## What it is
 MCP server `Lighthouse`, catalogued on PulseMCP. Use Google's lighthouse tool to measure perf metrics for your webpage. You can then run an agentic loop and get the assistants to optimize those metrics.

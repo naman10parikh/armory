@@ -8,12 +8,12 @@ source_url: https://github.com/cyclechain/skillnet-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-27T11:40:57Z"
+pushed_at: "2026-09-26T06:39:43Z"
 ---
 ## What it is
 MCP server `SkillNet`, catalogued on PulseMCP. Searches, downloads, and manages AI agent skills from the SkillNet community library.

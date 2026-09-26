@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 16
-forks: 4
-pushed_at: "2026-08-27T21:38:31Z"
+forks: 5
+pushed_at: "2026-09-26T09:07:18Z"
 ---
 ## What it is
 Persistent memory and session intelligence for Claude Code. Auto-tracks mistakes, decisions, and context via hooks. Mines session history for patterns and cross-session search. Loop detection, pre-edit warnings, context compaction survival. Runs locally with Ollama.

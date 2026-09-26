@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:07:00Z"
+pushed_at: "2026-09-26T12:27:11Z"
 ---
 ## What it is
 B2B email finder and reverse-email lookup tool for finding professional email addresses via findymail.com.

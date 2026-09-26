@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/brapi-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-22T21:37:11Z"
+forks: 2
+pushed_at: "2026-09-24T06:18:26Z"
 ---
 ## What it is
 A collaborative BrAPI v2.1 workspace for multi-agent research via MCP, enabling search and retrieval of studies, germplasm, genotypes, and more across any BrAPI v2-compliant server.

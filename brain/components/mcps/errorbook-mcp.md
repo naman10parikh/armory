@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T12:55:04Z"
+pushed_at: "2026-09-03T12:54:49Z"
 ---
 ## What it is
 Local-first error notebook server for MCP agents, enabling problem management with FSRS scheduling, idempotent operations, and printable math PDF generation.

@@ -8,13 +8,13 @@ source_url: https://github.com/kltng/calendar_converter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-11T03:57:35Z"
+pushed_at: "2026-09-16T11:53:33Z"
 ---
 ## What it is
 Converts between East Asian lunisolar calendars (Chinese, Japanese, Korean, Vietnamese) and Gregorian/Julian dates using Julian Day Numbers. Provides MCP tools for date conversion and era search.

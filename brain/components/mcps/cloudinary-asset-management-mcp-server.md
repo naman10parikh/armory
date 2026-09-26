@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T10:01:36Z"
+pushed_at: "2026-09-24T14:40:49Z"
 ---
 ## What it is
 Enables AI assistants to manage Cloudinary media assets, including uploading, searching, transforming, and organizing images and videos through natural language.

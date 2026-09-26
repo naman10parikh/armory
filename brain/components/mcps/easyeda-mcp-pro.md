@@ -8,13 +8,13 @@ source_url: https://github.com/oaslananka/easyeda-mcp-pro
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-09-01T07:15:39Z"
+forks: 9
+pushed_at: "2026-09-15T07:57:28Z"
 ---
 ## What it is
 Production-grade MCP server for EasyEDA Pro that enables AI-assisted hardware design review, PCB inspection, BOM sourcing, and manufacturing export through 41 profile-gated tools.

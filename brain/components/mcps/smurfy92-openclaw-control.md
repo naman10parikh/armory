@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-29T12:24:45Z"
+pushed_at: "2026-09-24T14:07:09Z"
 ---
 ## What it is
 MCP server `OpenClaw Control`, catalogued on PulseMCP. Bridge Claude Code to the OpenClaw gateway management plane via JSON-RPC.

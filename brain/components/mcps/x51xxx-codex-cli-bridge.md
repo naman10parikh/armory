@@ -8,12 +8,12 @@ source_url: https://github.com/x51xxx/codex-mcp-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-07-29T19:35:10Z"
+forks: 7
+pushed_at: "2026-09-06T14:36:14Z"
 ---
 ## What it is
 MCP server `Codex CLI Bridge`, catalogued on PulseMCP. Bridges Claude and Cursor to OpenAI Codex CLI for file analysis, multi-turn sessions, and sandboxed code execution.

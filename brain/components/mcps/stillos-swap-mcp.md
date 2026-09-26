@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T19:12:25Z"
+pushed_at: "2026-09-23T17:12:16Z"
 ---
 ## What it is
 Non-custodial Solana swap routing with best-price execution, flat 0.25% fee, and built-in on-chain scam checking for token safety.

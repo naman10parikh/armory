@@ -8,11 +8,11 @@ source_url: https://github.com/snehil-shah/libresprite-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2025-08-01T19:37:06Z"
 ---
 ## What it is

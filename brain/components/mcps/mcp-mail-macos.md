@@ -8,13 +8,13 @@ source_url: https://github.com/beeraw/mcp-mail-macos
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-08T04:55:46Z"
+forks: 1
+pushed_at: "2026-09-18T06:02:18Z"
 ---
 ## What it is
 An MCP server that drives macOS Mail: read, search, send, organise.

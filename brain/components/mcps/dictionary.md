@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:00:17Z"
+pushed_at: "2026-09-25T23:33:38Z"
 ---
 ## What it is
 MCP server `Dictionary`, catalogued on PulseMCP. Retrieves word definitions, phonetics, synonyms, and examples from the Free Dictionary API.

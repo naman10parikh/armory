@@ -8,13 +8,13 @@ source_url: https://github.com/suryast/indonesia-civic-stack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-11T11:33:31Z"
+pushed_at: "2026-09-11T22:42:24Z"
 ---
 ## What it is
 Provides access to Indonesian government data sources (BPOM, BPJPH, AHU, etc.) via a unified API and MCP tools.

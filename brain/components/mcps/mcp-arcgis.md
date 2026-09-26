@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T17:38:46Z"
+pushed_at: "2026-09-22T18:13:49Z"
 ---
 ## What it is
 A read-only MCP server for searching ArcGIS Online content and querying hosted feature layers, allowing natural language interaction with AGOL items and feature services.

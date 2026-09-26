@@ -8,11 +8,11 @@ source_url: https://github.com/j04n-f/woodpecker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 2
 pushed_at: "2025-09-23T16:28:33Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/fauguste/boondmanager-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-09-01T15:25:45Z"
+forks: 13
+pushed_at: "2026-09-26T10:49:43Z"
 ---
 ## What it is
 MCP server for the BoondManager API, enabling Claude to search, create, and modify records across 36 domains with 158 tools.

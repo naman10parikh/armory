@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-22T07:07:43Z"
+pushed_at: "2026-09-14T09:21:05Z"
 ---
 ## What it is
 Search flights, compare prices, check visas, look up airports, get travel advisories through a single endpoint.

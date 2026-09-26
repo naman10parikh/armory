@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T22:32:45Z"
+pushed_at: "2026-09-08T02:15:25Z"
 ---
 ## What it is
 Controls a KingSmith WalkingPad Z1 under-desk treadmill from a Mac over Bluetooth LE, with CLI and MCP server for status, start, stop, and speed control.

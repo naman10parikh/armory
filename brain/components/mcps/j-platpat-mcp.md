@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-13T14:50:22Z"
+pushed_at: "2026-09-25T05:57:31Z"
 ---
 ## What it is
 MCP server that wraps the official JPO patent information API to enable retrieval of patent, trademark, and design records for known case numbers.

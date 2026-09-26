@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T04:01:20Z"
+pushed_at: "2026-09-18T14:15:34Z"
 ---
 ## What it is
 reference and citation validation, verification, enrichment, replacement and improvement

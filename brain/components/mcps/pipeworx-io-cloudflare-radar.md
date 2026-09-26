@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:48:49Z"
+pushed_at: "2026-09-25T22:54:01Z"
 ---
 ## What it is
 MCP server `Cloudflare Radar`, catalogued on PulseMCP. Cloudflare Radar internet observatory — traffic quality, DDoS attacks, BGP route leaks, and top locations via Pipeworx.

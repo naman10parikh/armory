@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-01T16:39:50Z"
+pushed_at: "2026-09-05T11:25:42Z"
 ---
 ## What it is
 Enables managing SendPulse email campaigns, mailing lists, templates, SMTP, and push notifications via MCP.

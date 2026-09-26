@@ -8,12 +8,12 @@ source_url: https://github.com/klemensgc/modular-context-obsidian-plugin
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 97
+stars: 98
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-08-06T19:56:30Z"
 ---
 ## What it is

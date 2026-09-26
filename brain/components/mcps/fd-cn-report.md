@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T02:31:47Z"
+pushed_at: "2026-09-18T11:06:27Z"
 ---
 ## What it is
 An MCP server for Chinese financial reports, providing 44 tools to resolve companies, list/retrieve filings, extract report sections, run AI-based indicator extraction, search via Elasticsearch, and browse a 21,698-rule industry rules dashboard.

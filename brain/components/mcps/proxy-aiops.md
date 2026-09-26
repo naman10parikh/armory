@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:22:32Z"
+pushed_at: "2026-09-16T23:27:26Z"
 ---
 ## What it is
 Governed reverse-proxy operations for Traefik, Caddy, and HAProxy — backend-health, cert-expiry, 5xx, and route-conflict RCA, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

@@ -8,7 +8,7 @@ source_url: https://github.com/armorwallet/armor-crypto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 178
+stars: 179
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

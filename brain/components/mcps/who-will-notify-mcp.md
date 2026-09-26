@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T00:00:57Z"
+pushed_at: "2026-09-20T23:41:45Z"
 ---
 ## What it is
 MCP server that aggregates department notices and provides structured answers to queries about courses, schedules, and academic dates via tool calling.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:05:53Z"
+pushed_at: "2026-09-26T12:22:49Z"
 ---
 ## What it is
 MCP server `Facebook Ads`, catalogued on PulseMCP. Facebook advertising campaign management with tools for ad accounts, campaigns, ad sets, and performance insights via the Ads API.

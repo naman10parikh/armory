@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:29:51Z"
+pushed_at: "2026-09-26T13:37:47Z"
 ---
 ## What it is
 Enables querying a structured knowledge base of grammar points extracted from PDF textbooks, with full-text search, lecture and knowledge point retrieval, and relation lookup.

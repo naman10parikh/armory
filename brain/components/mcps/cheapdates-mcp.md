@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T21:56:31Z"
+pushed_at: "2026-09-13T22:53:52Z"
 ---
 ## What it is
 Enables users to find the cheapest dates to fly a route via Google Flights, supporting one-way and round-trip searches through multiple backends. It provides a tool that can search date ranges, filter by nonstop, seat, currency, and force a particular backend.

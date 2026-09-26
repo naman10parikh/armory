@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T20:07:13Z"
+pushed_at: "2026-09-26T11:32:17Z"
 ---
 ## What it is
 MCP server `DataLink`, catalogued on PulseMCP. Provides secure database access for PostgreSQL, MySQL, and SQLite with built-in safety features.

@@ -8,12 +8,12 @@ source_url: https://github.com/strom-capital/mcp-server-db2i
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-03-05T07:31:30Z"
+forks: 9
+pushed_at: "2026-09-25T16:05:10Z"
 ---
 ## What it is
 MCP server `IBM DB2 for i`, catalogued on PulseMCP. Provides secure read-only access to IBM DB2 for i (AS/400) databases through the JT400 JDBC driver with SQL security validation, rate limiting, and support for system naming conventions.

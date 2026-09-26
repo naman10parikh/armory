@@ -8,12 +8,12 @@ source_url: https://github.com/bangjiong925-commits/xiaozhi-music-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
+forks: 36
 pushed_at: "2025-08-12T09:08:13Z"
 ---
 ## What it is

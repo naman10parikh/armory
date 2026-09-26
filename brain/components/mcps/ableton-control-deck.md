@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T15:58:03Z"
+pushed_at: "2026-09-16T20:43:20Z"
 ---
 ## What it is
 An MCP bridge that enables AI agents to read and control Ableton Live sessions with read-back verification, including tracks, clips, transport, devices, and third-party plug-in parameters.

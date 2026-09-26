@@ -8,13 +8,13 @@ source_url: https://github.com/miroapp/miro-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 151
+stars: 155
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 19
-pushed_at: "2026-08-26T07:49:11Z"
+forks: 20
+pushed_at: "2026-09-17T14:36:57Z"
 ---
 ## What it is
 MCP server `Miro`, catalogued on PulseMCP. Connect AI coding tools to Miro boards for diagram generation, code creation, and visual collaboration through OAuth-secured access.

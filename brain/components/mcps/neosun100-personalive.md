@@ -8,11 +8,11 @@ source_url: https://github.com/neosun100/personalive
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-01-03T18:29:44Z"
 ---
 ## What it is

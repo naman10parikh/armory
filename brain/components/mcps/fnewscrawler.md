@@ -8,12 +8,12 @@ source_url: https://github.com/noimank/FNewsCrawler
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 22
 pushed_at: "2026-03-01T03:23:58Z"
 ---
 ## What it is

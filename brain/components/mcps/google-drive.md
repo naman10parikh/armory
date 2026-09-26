@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, search]
 mentions: null
-forks: 39
+forks: 40
 pushed_at: "2025-11-07T11:04:20Z"
 ---
 

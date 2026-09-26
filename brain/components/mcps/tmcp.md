@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T20:04:01Z"
+pushed_at: "2026-09-11T07:31:51Z"
 ---
 ## What it is
 TMCP turns scattered agent instructions into task-specific operating packets.

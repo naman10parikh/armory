@@ -8,12 +8,12 @@ source_url: https://github.com/unleash/unleash-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-08-10T10:02:32Z"
+forks: 7
+pushed_at: "2026-09-25T07:22:25Z"
 ---
 ## What it is
 MCP server `Unleash`, catalogued on PulseMCP. Manage feature flags and rollout strategies through the Unleash platform

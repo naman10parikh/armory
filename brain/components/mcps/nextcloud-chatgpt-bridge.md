@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T20:12:43Z"
+pushed_at: "2026-09-25T05:11:53Z"
 ---
 ## What it is
 Enables ChatGPT and Codex to securely manage files in Nextcloud via OAuth-protected MCP tools, with tenant isolation and root-bound access.

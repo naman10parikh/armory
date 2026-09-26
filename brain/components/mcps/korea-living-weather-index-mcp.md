@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T11:55:41Z"
+pushed_at: "2026-09-14T16:04:31Z"
 ---
 ## What it is
 Enables querying Korea Meteorological Administration living weather index forecasts, including UV and air stagnation indices for thousands of locations, with 3-hour intervals up to 75–78 hours ahead, and supports searching area codes to retrieve forecasts.

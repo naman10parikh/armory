@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:56:07Z"
+pushed_at: "2026-09-25T01:56:05Z"
 ---
 ## What it is
 Enables AI agents to draft, review, preview, and publish content across multiple websites through typed MCP tools. Ensures safe, policy-gated, and auditable publication without requiring a conventional CMS admin interface.

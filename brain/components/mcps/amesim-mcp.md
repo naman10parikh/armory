@@ -8,7 +8,7 @@ source_url: https://github.com/SometingGBBB/Simcenter-Amesim-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []

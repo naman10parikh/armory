@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:10:24Z"
+pushed_at: "2026-09-26T05:10:28Z"
 ---
 ## What it is
 Enables retrieval of Trustpilot reviews as structured JSON, including ratings, dates, replies, and company metrics, with MCP support for AI agents.

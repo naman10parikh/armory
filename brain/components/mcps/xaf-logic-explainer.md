@@ -8,13 +8,13 @@ source_url: https://github.com/peopleworks/XAFLogicExplainer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-29T06:01:55Z"
+pushed_at: "2026-09-13T21:00:52Z"
 ---
 ## What it is
 Gives an AI agent complete knowledge of a specific DevExpress XAF application: its entities, controllers, actions, business rules, Model Editor customizations, custom property editors and the version-gated data migrations that ran once on a production database. Reads the source with Roslyn without c

@@ -8,13 +8,13 @@ source_url: https://github.com/nukkerman2000/live2d-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T16:52:37Z"
+pushed_at: "2026-09-07T18:28:36Z"
 ---
 ## What it is
 An interactive desktop companion with a Live2D model that can be controlled via MCP protocol, featuring TTS, music playback, alarms, and more.

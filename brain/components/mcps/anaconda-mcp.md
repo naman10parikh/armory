@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-06T18:37:35Z"
+pushed_at: "2026-09-15T14:08:26Z"
 ---
 ## What it is
 Exposes conda environment management tools to MCP-enabled AI coding assistants, enabling them to create, modify, and delete environments and packages on your machine.

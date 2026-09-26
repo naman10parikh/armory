@@ -8,12 +8,12 @@ source_url: https://github.com/evalplus/evalplus
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1805
+stars: 1819
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, code-generation, humaneval, benchmark]
-forks: 206
+forks: 208
 pushed_at: "2025-10-02T22:56:38Z"
 ---
 ## What it is

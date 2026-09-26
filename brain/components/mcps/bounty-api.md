@@ -8,13 +8,13 @@ source_url: https://github.com/vncent786/bounty-api
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:31:54Z"
+pushed_at: "2026-09-15T18:02:51Z"
 ---
 ## What it is
 Verified Singapore property, tax, affordability, salary, and location data for AI agents. 17 MCP tools, x402 micropayments, source provenance on every response. Singapore live now, more markets coming. Categories: Finance, Real Estate, Data, Singapore, x402, Payments, Government Data

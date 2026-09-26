@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-17T12:27:36Z"
+pushed_at: "2026-09-15T12:09:34Z"
 ---
 ## What it is
 Enables AI assistants to generate images using NovelAI, supporting text-to-image, image-to-image, and tag suggestions.

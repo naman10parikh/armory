@@ -8,11 +8,11 @@ source_url: https://github.com/packative/naver-searchad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-06-29T17:49:25Z"
 ---
 ## What it is

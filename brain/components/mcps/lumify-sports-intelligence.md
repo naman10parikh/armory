@@ -8,13 +8,13 @@ source_url: https://github.com/lumifyai/lumify
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T17:40:43Z"
+pushed_at: "2026-09-03T20:49:04Z"
 ---
 ## What it is
 Schedules, scores, odds, splits & explainable AI bet confidence — 8+ sports, free instant key.

@@ -8,13 +8,13 @@ source_url: https://github.com/ansys/pycfx-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T17:04:32Z"
+forks: 2
+pushed_at: "2026-09-25T13:22:35Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Ansys CFX through PyCFX, supporting natural-language-assisted CFX-Pre, CFX Solver, and CFD-Post workflows for setup, execution, and postprocessing.

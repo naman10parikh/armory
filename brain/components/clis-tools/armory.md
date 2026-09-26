@@ -14,8 +14,8 @@ mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [registry, cli, mcp, catalog]
-forks: 0
-pushed_at: "2026-09-02T04:50:45Z"
+forks: 1
+pushed_at: "2026-09-26T13:35:32Z"
 ---
 ## What it is
 Armory — where agents gear up. The agent-native registry of 18,435+ harness components (MCPs, skills, hooks, sub-agents, rules, CLIs, evals, …). For agents, by agents, of agents.

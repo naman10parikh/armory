@@ -8,12 +8,12 @@ source_url: https://github.com/ninihen1/power-automate-mcp-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-08-27T21:14:37Z"
+pushed_at: "2026-09-04T13:16:58Z"
 ---
 ## What it is
 MCP server `Flow Studio`, catalogued on PulseMCP. Debug, build, and manage Microsoft Power Automate cloud flows via AI agents.

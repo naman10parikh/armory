@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-25T01:10:07Z"
+pushed_at: "2026-09-18T03:52:04Z"
 ---
 ## What it is
 Airtight math tools an AI uses over MCP — 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.

@@ -8,11 +8,11 @@ source_url: https://github.com/dynatrace-oss/dynatrace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 136
+stars: 138
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2026-08-26T09:14:55Z"
 ---
 ## What it is

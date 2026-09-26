@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T06:54:00Z"
+pushed_at: "2026-09-11T01:42:03Z"
 ---
 ## What it is
 Enables keyword search, filtering, and retrieval of Claude Code memory files, reducing context overhead by fetching only relevant memories on demand.

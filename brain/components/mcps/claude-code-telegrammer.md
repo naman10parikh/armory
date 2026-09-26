@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:10:42Z"
+pushed_at: "2026-09-23T19:17:14Z"
 ---
 ## What it is
 Enables Claude Code to act as an autonomous Telegram agent with tools for replying, reacting, editing messages, searching history, and handling attachments. Includes a TUI watchdog for unattended operation.

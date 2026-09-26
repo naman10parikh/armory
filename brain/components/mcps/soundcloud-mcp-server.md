@@ -8,12 +8,12 @@ source_url: https://github.com/marcellkehmstedt/soundcloud-mcp-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-06-18T16:58:09Z"
 ---
 ## What it is

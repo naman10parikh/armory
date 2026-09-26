@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-28T18:35:36Z"
+pushed_at: "2026-09-07T13:42:38Z"
 ---
 ## What it is
 MCP server `EvidInvest`, catalogued on PulseMCP. 34 financial data and stock valuation tools — DCF, WACC, portfolio optimization, and SEC filings via AI.

@@ -12,8 +12,8 @@ stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-08-23T22:18:44Z"
+forks: 15
+pushed_at: "2026-09-26T11:07:14Z"
 ---
 ## What it is
 MCP server `Fast Telegram`, catalogued on PulseMCP. Production-ready Telegram integration with search, messaging, and HTTP-MTProto bridge

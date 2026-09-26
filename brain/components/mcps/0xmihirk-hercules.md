@@ -12,8 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-08-07T19:20:28Z"
+forks: 0
+pushed_at: "2026-09-10T10:58:15Z"
 ---
 ## What it is
 MCP server `Hercules`, catalogued on PulseMCP. Penetration testing tools via containerized Kali Linux for Claude.

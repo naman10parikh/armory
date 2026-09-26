@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T05:05:06Z"
+pushed_at: "2026-09-09T19:02:11Z"
 ---
 ## What it is
 Enables AI agents to declaratively control web pages using real mouse and keyboard events via Chrome DevTools Protocol, without executing page JavaScript.

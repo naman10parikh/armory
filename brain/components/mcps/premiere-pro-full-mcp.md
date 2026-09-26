@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T06:51:31Z"
+pushed_at: "2026-09-10T02:31:15Z"
 ---
 ## What it is
 Enables AI assistants to inspect and control Adobe Premiere Pro 26.3+ on Windows through a fail-closed, capability-gated bridge combining UXP, CEP, experimental QE discovery, and Windows UI Automation.

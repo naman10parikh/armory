@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-28T12:26:25Z"
+forks: 1
+pushed_at: "2026-09-23T20:55:36Z"
 ---
 ## What it is
 Enables AI agents to manage resale operations, including onboarding sellers, creating listings, publishing sale pages, and managing buyers via the ClearList API.

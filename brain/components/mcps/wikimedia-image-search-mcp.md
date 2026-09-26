@@ -8,12 +8,12 @@ source_url: https://github.com/yanexr/wikimedia-image-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2025-11-20T16:48:51Z"
 ---
 ## What it is

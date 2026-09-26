@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T01:20:07Z"
+pushed_at: "2026-09-21T01:18:55Z"
 ---
 ## What it is
 An MCP server for repeatable AutoCAD plotting workflows, enabling safe inspection of DWG files, page-setup verification, and consistent PDF publishing.

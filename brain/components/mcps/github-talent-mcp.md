@@ -8,13 +8,13 @@ source_url: https://github.com/carolinacherry/github-talent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T17:12:39Z"
+pushed_at: "2026-09-02T13:19:05Z"
 ---
 ## What it is
 MCP server that searches, scores, and ranks GitHub developers for technical recruiting.

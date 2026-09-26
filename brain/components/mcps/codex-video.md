@@ -8,13 +8,13 @@ source_url: https://github.com/7oMB2006/Bilibili-Video-Research
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-30T10:39:15Z"
+forks: 1
+pushed_at: "2026-09-23T08:57:42Z"
 ---
 ## What it is
 MCP server for evidence-aware video research, providing tools to analyze local videos, inspect specific time windows, and analyze Bilibili videos with provenance tracking and optional audio removal for privacy.

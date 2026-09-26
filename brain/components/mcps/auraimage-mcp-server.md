@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T13:53:42Z"
+pushed_at: "2026-09-07T08:46:30Z"
 ---
 ## What it is
 Enables AI agents to audit images for LCP savings, migrate assets to AuraImage CDN, generate alt text, create responsive tags, and preview smart crops directly from the editor.

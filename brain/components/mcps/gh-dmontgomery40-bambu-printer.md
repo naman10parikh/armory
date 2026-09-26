@@ -8,11 +8,11 @@ source_url: https://github.com/dmontgomery40/bambu-printer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 27
 pushed_at: "2026-07-30T20:57:48Z"
 ---
 ## What it is

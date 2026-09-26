@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:03Z"
+pushed_at: "2026-09-02T19:55:43Z"
 ---
 ## What it is
 Enables AI agents to perform pay-per-call DNS record lookups (A, AAAA, MX, TXT, CNAME, NS, SOA, SRV) via Cloudflare DNS-over-HTTPS, with x402 micropayments and no API key or signup.

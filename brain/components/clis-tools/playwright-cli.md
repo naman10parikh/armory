@@ -15,6 +15,7 @@ related: []
 tags: [browser, playwright]
 forks: 704
 pushed_at: "2026-09-01T21:58:33Z"
+mentions: 1
 ---
 ## What it is
 Playwright CLI bundled with the @playwright/test package — provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.

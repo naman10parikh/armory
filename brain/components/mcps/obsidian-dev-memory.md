@@ -8,13 +8,13 @@ source_url: https://github.com/jmjava/obsidian-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:07:27Z"
+pushed_at: "2026-09-11T18:53:13Z"
 ---
 ## What it is
 Provides AI coding assistants persistent engineering memory stored as Markdown files in an Obsidian vault, enabling project context retrieval, session capture, decision recording, and memory search without requiring Obsidian to be running.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 42
-pushed_at: "2026-02-11T11:19:00Z"
+pushed_at: "2026-09-08T01:56:29Z"
 ---
 ## What it is
 A semantic code retrieval engine for AI agents that enables hybrid search, graph expansion, and token-aware context packing, integrating with MCP to provide precise code context to LLMs.

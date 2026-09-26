@@ -8,13 +8,13 @@ source_url: https://github.com/b2dmx/uc-remote-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T18:09:24Z"
+pushed_at: "2026-09-20T22:26:30Z"
 ---
 ## What it is
 Enables natural language interaction with Unfolded Circle Remote 3/Remote Two for configuration, button mapping, UI editing, and backup/restore.

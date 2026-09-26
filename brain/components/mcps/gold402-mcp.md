@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T16:11:04Z"
+pushed_at: "2026-09-05T19:02:14Z"
 ---
 ## What it is
 Enables MCP-capable agents to search the curated gold-402 directory of x402 services, probe any endpoint for valid 402 payment terms, and optionally purchase a human editorial verdict for a resource.

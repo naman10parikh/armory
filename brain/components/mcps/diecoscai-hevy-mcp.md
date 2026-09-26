@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:29:23Z"
+pushed_at: "2026-09-07T09:55:09Z"
 ---
 ## What it is
 An MCP server that exposes the Hevy fitness API as 22 tools, enabling AI agents to manage workouts, routines, exercise templates, and body measurements through natural language.

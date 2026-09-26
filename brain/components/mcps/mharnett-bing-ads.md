@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-27T03:04:08Z"
+pushed_at: "2026-09-09T04:29:57Z"
 ---
 ## What it is
 MCP server `Microsoft Advertising (Bing Ads)`, catalogued on PulseMCP. Integrates with the Microsoft Advertising (Bing Ads) API for campaign management, keyword performance analysis, bid automation, and negative keyword management.

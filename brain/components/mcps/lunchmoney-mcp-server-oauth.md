@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:06:59Z"
+pushed_at: "2026-09-25T10:59:54Z"
 ---
 ## What it is
 Self-hostable remote MCP server for Lunch Money with built-in OAuth 2.1, enabling Claude to access transactions, budgets, and more on mobile, web, and desktop.

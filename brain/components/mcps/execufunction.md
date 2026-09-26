@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-30T02:05:06Z"
+pushed_at: "2026-09-07T20:20:32Z"
 ---
 ## What it is
 MCP server `ExecuFunction`, catalogued on PulseMCP. AI executive function assistant for tasks, calendar, knowledge, code indexing, CRM, and datasets.

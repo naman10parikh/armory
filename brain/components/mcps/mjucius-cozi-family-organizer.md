@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-07-31T01:40:47Z"
+pushed_at: "2026-09-20T20:01:56Z"
 ---
 ## What it is
 MCP server `Cozi Family Organizer`, catalogued on PulseMCP. Integrates with Cozi Family Organizer to manage shopping lists, todo items, calendar appointments, and family member coordination through natural conversation interfaces.

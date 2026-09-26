@@ -8,13 +8,13 @@ source_url: https://github.com/PattrickChenforclaudeuse/mythsensus-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-21T08:25:28Z"
+forks: 1
+pushed_at: "2026-09-25T04:36:03Z"
 ---
 ## What it is
 Calculate a Cosmic Score across 26 ancient divination systems (BaZi, Vedic, Western, Nine Star Ki, Thai Seven Number, and more) deterministically from a birth date — the cross-tradition consensus when traditions disagree.

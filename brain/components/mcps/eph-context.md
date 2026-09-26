@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T17:31:10Z"
+pushed_at: "2026-09-24T15:34:56Z"
 ---
 ## What it is
 Provides official INDEC register designs and methodological rules to AI models, enabling accurate EPH data analysis code (R/Python) without hallucinations.

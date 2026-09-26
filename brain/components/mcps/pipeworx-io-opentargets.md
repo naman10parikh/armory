@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T17:39:35Z"
+pushed_at: "2026-09-25T01:31:21Z"
 ---
 ## What it is
 MCP server `Open Targets`, catalogued on PulseMCP. Queries the Open Targets knowledge graph for gene-disease-drug associations.

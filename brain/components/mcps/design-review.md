@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T01:57:58Z"
+pushed_at: "2026-09-10T18:00:08Z"
 ---
 ## What it is
 This MCP server renders UI design artifacts headlessly, runs deterministic linters, and manages stateful design review loops with an independent vision critic.

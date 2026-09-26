@@ -8,13 +8,13 @@ source_url: https://github.com/anuragagrawal0430/atlassian-confluence-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-31T09:17:13Z"
+forks: 3
+pushed_at: "2026-09-23T18:43:37Z"
 ---
 ## What it is
 An open-source MCP server that lets AI assistants read, create, search, and manage Confluence wiki pages. Supports Cloud, Server, and Data Center deployments with 28 tools.

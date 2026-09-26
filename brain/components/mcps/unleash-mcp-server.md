@@ -8,13 +8,13 @@ source_url: https://github.com/Unleash/unleash-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-08-10T10:02:32Z"
+forks: 7
+pushed_at: "2026-09-25T07:22:25Z"
 ---
 ## What it is
 Enables AI coding assistants to manage Unleash feature flags, including creation, detection, evaluation, and best practices.

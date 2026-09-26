@@ -8,11 +8,11 @@ source_url: https://github.com/upstash/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-09-01T07:57:19Z"
 ---
 ## What it is

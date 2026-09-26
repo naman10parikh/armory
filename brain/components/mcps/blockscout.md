@@ -8,12 +8,12 @@ source_url: https://github.com/blockscout/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-08-05T14:57:09Z"
+forks: 25
+pushed_at: "2026-09-08T03:19:30Z"
 ---
 ## What it is
 MCP server `Blockscout`, catalogued on PulseMCP. Integrates with Blockscout APIs to provide blockchain data access including address balances, token holdings, NFT collections, transaction details, smart contract ABIs, and ENS name resolution across multiple networks with caching optimization and decoded transaction analysis.

@@ -8,11 +8,11 @@ source_url: https://github.com/felipfr/linkedin-mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 32
 pushed_at: "2025-03-28T12:34:47Z"
 ---
 ## What it is

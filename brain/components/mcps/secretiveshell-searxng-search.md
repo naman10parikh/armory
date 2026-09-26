@@ -8,7 +8,7 @@ source_url: https://github.com/secretiveshell/mcp-searxng
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 131
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

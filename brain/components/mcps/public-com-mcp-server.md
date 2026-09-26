@@ -8,13 +8,13 @@ source_url: https://github.com/PublicDotCom/publicdotcom-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-08-21T16:35:52Z"
+pushed_at: "2026-09-22T20:57:45Z"
 ---
 ## What it is
 This MCP server connects AI assistants to a Public.com brokerage account, enabling natural language trading of stocks, options, and crypto, along with portfolio management, quotes, and orders.

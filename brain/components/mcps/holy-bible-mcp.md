@@ -8,13 +8,13 @@ source_url: https://github.com/grizlizora/holy-bible-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T23:02:11Z"
+pushed_at: "2026-09-04T04:56:58Z"
 ---
 ## What it is
 Universal Multilingual Bible MCP Server (800+ languages, 11.9M verses, 100% offline, zero-latency FTS5, Merkle proof)

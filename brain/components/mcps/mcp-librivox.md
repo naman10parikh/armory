@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:19:21Z"
+pushed_at: "2026-09-25T00:50:04Z"
 ---
 ## What it is
 Enables searching and retrieving audiobooks, authors, and tracks from LibriVox through an MCP interface.

@@ -8,7 +8,7 @@ source_url: https://github.com/vitalyrodnenko/omnifocusmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

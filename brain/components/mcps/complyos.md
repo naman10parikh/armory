@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:11:32Z"
+pushed_at: "2026-09-19T11:58:07Z"
 ---
 ## What it is
 AI-native compliance auditing engine for enterprise LMS, enabling querying compliance status, running audits, and validating assignment rules through natural language with MCP clients like Claude or Cursor.

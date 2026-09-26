@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-31T22:46:07Z"
+pushed_at: "2026-09-15T01:16:42Z"
 ---
 ## What it is
 MCP server `SuperOps`, catalogued on PulseMCP. Community MCP integration for SuperOps unified PSA+RMM, enabling AI agents to access clients, tickets, and assets.

@@ -8,12 +8,12 @@ source_url: https://github.com/arabold/docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1701
+stars: 1763
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 181
-pushed_at: "2026-08-29T14:32:10Z"
+forks: 185
+pushed_at: "2026-09-21T22:12:38Z"
 ---
 ## What it is
 MCP server `Documentation Scraper`, catalogued on PulseMCP. Provides specialized documentation scraping and retrieval from GitHub, NPM, PyPI, and web pages, enabling accurate reference to up-to-date library documentation without disrupting workflow.

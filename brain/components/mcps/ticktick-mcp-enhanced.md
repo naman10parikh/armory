@@ -8,7 +8,7 @@ source_url: https://github.com/Code-MonkeyZhang/ticktick-mcp-enhanced
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []

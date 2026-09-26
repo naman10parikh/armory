@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T23:06:35Z"
+pushed_at: "2026-09-23T23:05:29Z"
 ---
 ## What it is
 LLM-assisted, safety-gated Postgres migrations exposed as an MCP server, using a deterministic rule engine over Postgres's own parser AST for safety enforcement, with two-phase approval and append-only audit ledger.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:21:53Z"
+pushed_at: "2026-09-25T21:49:01Z"
 ---
 ## What it is
 The AccountingQB-MCP server is a comprehensive QuickBooks Online integration for Claude, offering 108 tools to manage transactions, run reports, and prepare taxes for US and Canada through natural language. It supports sole proprietors and small businesses with features like GST/HST returns, 1099/T4

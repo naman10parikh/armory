@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:35:06Z"
+pushed_at: "2026-09-25T21:05:04Z"
 ---
 ## What it is
 Enables searching and retrieving biomedical literature from PubMed via the NCBI E-utilities API.

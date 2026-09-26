@@ -8,13 +8,13 @@ source_url: https://github.com/valv-dev/valv
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T11:38:03Z"
+pushed_at: "2026-09-11T10:05:11Z"
 ---
 ## What it is
 An MCP server that gives agents safe, policy-scoped access to your database via structured queries (never raw SQL), with read and opt-in write support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T07:16:38Z"
+pushed_at: "2026-09-21T07:13:17Z"
 ---
 ## What it is
 Local MCP server for inspecting and managing an allowlisted Discord server via Discord's REST API, with safety modes, idempotent JSON blueprints, and destructive-operation safeguards.

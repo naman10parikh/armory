@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-08-27T15:14:35Z"
+pushed_at: "2026-09-02T15:58:51Z"
 ---
 ## What it is
 A hardened local browser MCP server that drives your existing Chrome over the DevTools Protocol, providing token-efficient Markdown extraction and stealth features to avoid trivial automation detection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T04:38:19Z"
+pushed_at: "2026-09-02T09:31:48Z"
 ---
 ## What it is
 Enables read-only observability of a Linux host via MCP, exposing allowlisted systemd, docker, nginx, logs, disk, and cert info without shell access.

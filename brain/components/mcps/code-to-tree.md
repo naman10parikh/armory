@@ -8,11 +8,11 @@ source_url: https://github.com/micl2e2/code-to-tree
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 86
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-03-14T02:22:44Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/exadev/agent-comms
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-08-03T05:39:11Z"
+forks: 7
+pushed_at: "2026-09-22T10:20:48Z"
 ---
 ## What it is
 MCP server `Agent Comms`, catalogued on PulseMCP. Enables cross-harness communication between LLM agents with rooms, direct messages, and presence tracking over TCP.

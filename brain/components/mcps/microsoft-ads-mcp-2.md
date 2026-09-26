@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T06:56:49Z"
+pushed_at: "2026-09-18T17:31:52Z"
 ---
 ## What it is
 MCP server for Microsoft Advertising (Bing Ads) REST API enabling agent-led campaign management and reporting. It provides tools to manage campaigns, ad groups, keywords, ads, budgets, and pull performance reports.

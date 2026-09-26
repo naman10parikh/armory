@@ -8,12 +8,12 @@ source_url: https://github.com/john-zhang-dev/xero-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-09-01T21:05:48Z"
+forks: 15
+pushed_at: "2026-09-20T02:23:54Z"
 ---
 ## What it is
 MCP server `Xero Accounting`, catalogued on PulseMCP. Integrates with Xero Accounting Software to access financial data including accounts, transactions, contacts, invoices, and more through authenticated API connections for financial analysis and bookkeeping tasks.

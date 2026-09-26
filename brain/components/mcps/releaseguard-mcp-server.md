@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:45:23Z"
+pushed_at: "2026-09-25T04:29:07Z"
 ---
 ## What it is
 Provides MCP tools for scanning, redacting, and packaging dataset/model directories for public release, leveraging Presidio for PII detection and generating Hugging Face cards and EU AI Act training-data summaries.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T12:09:50Z"
+pushed_at: "2026-09-23T14:05:13Z"
 ---
 ## What it is
 Enables AI assistants to search and download free, royalty-free BGM and sound effects from Conte de Fées, including 173 tracks and 189 effects, with commercial use allowed and no account or API key required.

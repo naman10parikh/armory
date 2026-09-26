@@ -8,12 +8,12 @@ source_url: https://github.com/brandcode-studio/brandsystem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-27T22:13:13Z"
+forks: 1
+pushed_at: "2026-09-17T07:55:24Z"
 ---
 ## What it is
 MCP server `BrandCode Studio`, catalogued on PulseMCP. Extracts brand identity from websites and Figma files into structured design tokens, brand policies, and AI-consumable guidelines.

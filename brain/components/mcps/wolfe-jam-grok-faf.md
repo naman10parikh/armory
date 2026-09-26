@@ -8,12 +8,12 @@ source_url: https://github.com/wolfe-jam/grok-faf-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T17:39:39Z"
+pushed_at: "2026-09-23T03:20:54Z"
 ---
 ## What it is
 MCP server `Grok FAF`, catalogued on PulseMCP. URL-based AI context management using IANA .faf format with 21 tools for project metadata across AI sessions.

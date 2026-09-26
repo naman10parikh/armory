@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:42:34Z"
+pushed_at: "2026-09-10T08:51:34Z"
 ---
 ## What it is
 MCP server for HERO handyman software, providing 34 OAuth-secured read/write tools with multi-tenant support and built-in API correctness checks.

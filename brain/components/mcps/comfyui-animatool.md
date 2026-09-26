@@ -8,12 +8,12 @@ source_url: https://github.com/Moeblack/ComfyUI-AnimaTool
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 132
+stars: 135
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-03-26T09:47:20Z"
 ---
 ## What it is

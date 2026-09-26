@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-01T16:39:54Z"
+pushed_at: "2026-09-05T14:03:34Z"
 ---
 ## What it is
 MCP server for UniSender API that enables managing email marketing lists, contacts, campaigns, templates, and statistics through natural language.

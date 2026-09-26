@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T20:25:44Z"
+pushed_at: "2026-09-25T10:01:58Z"
 ---
 ## What it is
 A local MCP server for generative image description, providing prose captions, OCR, and LoRA dataset caption sidecars via Florence-2, with deterministic decoding and an honesty contract.

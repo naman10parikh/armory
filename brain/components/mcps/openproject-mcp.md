@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:47:57Z"
+pushed_at: "2026-09-10T01:37:01Z"
 ---
 ## What it is
 Exposes the OpenProject REST API as MCP tools for project management, including creating and managing projects, work packages, relations, attachments, users, notifications, watchers, boards, and reference data.

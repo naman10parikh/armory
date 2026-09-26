@@ -8,13 +8,13 @@ source_url: https://github.com/KSym04/limpet
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T17:40:42Z"
+pushed_at: "2026-09-08T19:43:22Z"
 ---
 ## What it is
 Persistent memory for AI coding agents that knows when it has gone stale.

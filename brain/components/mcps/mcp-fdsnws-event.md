@@ -8,13 +8,13 @@ source_url: https://github.com/INGV/mcp-fdsnws-event
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-13T11:10:20Z"
+forks: 2
+pushed_at: "2026-09-23T13:11:07Z"
 ---
 ## What it is
 An MCP server for querying the FDSN Web Service Event APIs of multiple seismological datacenters and retrieving earthquake information as JSON.

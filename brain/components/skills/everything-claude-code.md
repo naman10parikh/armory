@@ -14,6 +14,7 @@ tags: [claude-code, agent-skills]
 stars: 245823
 forks: 37094
 pushed_at: "2026-08-31T22:18:39Z"
+mentions: 1
 ---
 ## What it is
 A large collection of resources for Claude Code across core engineering domains. Most resources stand alone, and the author's own workflow is optional.

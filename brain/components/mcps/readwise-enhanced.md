@@ -8,7 +8,7 @@ source_url: https://github.com/arnaldo-delisio/readwise-mcp-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

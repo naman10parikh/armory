@@ -8,13 +8,13 @@ source_url: https://github.com/mhajder/ghostfolio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-31T19:07:01Z"
+forks: 5
+pushed_at: "2026-09-25T19:04:54Z"
 ---
 ## What it is
 Provides programmable access to Ghostfolio portfolio management and financial data, enabling querying, analysis, and management of investment portfolios through a Model Context Protocol server.

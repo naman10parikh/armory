@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:43:33Z"
+pushed_at: "2026-09-19T16:52:49Z"
 ---
 ## What it is
 Enables AI assistants to search live jobs, view full details, save and track applications in a Kanban board, set follow-up reminders, and subscribe to job alerts—no account needed for searching.

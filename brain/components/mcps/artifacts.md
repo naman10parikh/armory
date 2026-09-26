@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-08-21T11:47:15Z"
+pushed_at: "2026-09-25T11:49:49Z"
 ---
 ## What it is
 MCP server that turns agent-generated Markdown, HTML, and text into persistent links, with tools to create, update, remove, list, and retrieve artifacts.

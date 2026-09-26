@@ -8,12 +8,12 @@ source_url: https://github.com/kitepon-rgb/caveat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T06:12:40Z"
+pushed_at: "2026-09-24T07:04:00Z"
 ---
 ## What it is
 MCP server `Caveat`, catalogued on PulseMCP. Long-term memory knowledge base for AI coding agents using SQLite FTS5 full-text search and git-backed markdown files.

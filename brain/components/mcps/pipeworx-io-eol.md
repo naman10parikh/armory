@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:04:16Z"
+pushed_at: "2026-09-25T23:47:43Z"
 ---
 ## What it is
 MCP server `Encyclopedia of Life`, catalogued on PulseMCP. Query the Encyclopedia of Life (EOL) for species information, taxonomic hierarchies, and biodiversity data across plants, animals, fungi, and microorganisms.

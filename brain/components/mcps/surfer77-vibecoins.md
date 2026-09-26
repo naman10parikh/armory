@@ -8,11 +8,11 @@ source_url: https://github.com/surfer77/vibecoins-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-01-10T16:36:11Z"
 ---
 ## What it is

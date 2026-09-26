@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-18T14:08:30Z"
+pushed_at: "2026-09-25T08:20:40Z"
 ---
 ## What it is
 A Model Context Protocol server bridging Claude to Microsoft Outlook + Teams (email, calendar, contacts, tasks, files, Teams meeting recordings + transcripts), deployed on Cloudflare Workers.

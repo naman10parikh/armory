@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T06:35:01Z"
+pushed_at: "2026-09-03T12:59:18Z"
 ---
 ## What it is
 Structured financial data for ~3,800 Japanese listed companies from EDINET regulatory filings — financials, major shareholders, segments, executive compensation, and corporate history. Remote MCP over HTTPS with OAuth 2.0, free tier.

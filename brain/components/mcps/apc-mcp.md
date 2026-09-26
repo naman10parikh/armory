@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T21:22:45Z"
+pushed_at: "2026-09-25T03:05:21Z"
 ---
 ## What it is
 apc-mcp is a Model Context Protocol server that brings audio plugin development workflows into any MCP-compatible client by wrapping CMake, ctest, clang-format, pluginval, and clap-validator into a clean tool interface for building, testing, linting, validating, and scaffolding JUCE, CLAP, VST3, and

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:48:04Z"
+pushed_at: "2026-09-02T18:18:49Z"
 ---
 ## What it is
 Read-only CRM audit for HubSpot that scores data integrity and finds duplicate clusters and stalled revenue using your own token.

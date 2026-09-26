@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T19:56:25Z"
+pushed_at: "2026-09-04T20:34:53Z"
 ---
 ## What it is
 Enables viewing Minecraft Bedrock JSON UI screens without a device, by reading resource packs and rendering the layout.

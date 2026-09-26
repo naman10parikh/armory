@@ -8,7 +8,7 @@ source_url: https://github.com/hluaguo/metabase-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 73
 eval_score: null
 verified_at: 2026-05-27
 related: []

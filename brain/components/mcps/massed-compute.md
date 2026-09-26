@@ -8,12 +8,12 @@ source_url: https://github.com/massed-compute/massed-compute-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T20:55:16Z"
+pushed_at: "2026-09-21T20:55:35Z"
 ---
 ## What it is
 MCP server `Massed Compute`, catalogued on PulseMCP. Browse GPU inventory, launch VMs, manage SSH keys, and audit billing on Massed Compute.

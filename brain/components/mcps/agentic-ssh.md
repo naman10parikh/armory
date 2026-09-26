@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:06:21Z"
+pushed_at: "2026-09-16T06:48:14Z"
 ---
 ## What it is
 agentic_ssh is written in Rust and specifically engineered to provide agent-hardened, token-efficient, and asynchronous SSH orchestrations for AI agents. It automatically discovers hosts from your local SSH configurations, manages connection heartbeats, handles silent network dropouts, and supports 

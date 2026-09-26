@@ -8,13 +8,13 @@ source_url: https://github.com/Nairolf138/Eos_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-06T21:09:58Z"
+pushed_at: "2026-09-15T17:28:35Z"
 ---
 ## What it is
 Transforms an ETC Eos lighting console into a service controllable by AI assistants and automation tools via MCP and OSC, enabling cue management, preset recall, and channel level control.

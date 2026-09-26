@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T07:05:01Z"
+pushed_at: "2026-09-26T00:39:27Z"
 ---
 ## What it is
 MCP server providing web intelligence tools for AI agents, including fetching pages as markdown, rendering JS-heavy SPAs, extracting structured data, multi-source research, and domain availability checks, with automatic x402 micropayments.

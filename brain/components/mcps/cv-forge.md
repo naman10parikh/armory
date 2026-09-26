@@ -8,12 +8,12 @@ source_url: https://github.com/thechandanbhagat/cv-forge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2025-12-19T07:45:54Z"
 ---
 ## What it is

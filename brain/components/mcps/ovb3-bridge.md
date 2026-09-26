@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T18:59:19Z"
+pushed_at: "2026-09-10T12:22:15Z"
 ---
 ## What it is
 MCP server + CLI for automating Oracle Visual Builder Studio/VBCS app development, enabling artifact read/write, build/audit execution, and VBCS REST API interactions from Claude.

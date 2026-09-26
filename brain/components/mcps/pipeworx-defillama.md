@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:59:33Z"
+pushed_at: "2026-09-25T23:28:28Z"
 ---
 ## What it is
 MCP server `DefiLlama`, catalogued on PulseMCP. DeFi analytics data via the DefiLlama API — TVL, protocol stats, and chain metrics.

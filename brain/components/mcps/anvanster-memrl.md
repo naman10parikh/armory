@@ -8,11 +8,11 @@ source_url: https://github.com/anvanster/tempera
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-05-29T23:40:35Z"
 ---
 ## What it is

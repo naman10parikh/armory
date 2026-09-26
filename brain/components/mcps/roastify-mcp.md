@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T16:18:21Z"
+pushed_at: "2026-09-26T03:07:02Z"
 ---
 ## What it is
 MCP server for the Roastify Developer API, letting AI agents browse the coffee catalog and generate packaging artwork, with paid tools settled in Bitcoin Lightning.

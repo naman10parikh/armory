@@ -8,13 +8,13 @@ source_url: https://github.com/yeyuan98/biomcp-ts
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T16:01:52Z"
+forks: 2
+pushed_at: "2026-09-26T11:02:20Z"
 ---
 ## What it is
 A high-performance MCP server that gives LLMs access to 25 biomedical tools federated across 50+ upstream APIs for genes, variants, drugs, diseases, literature, clinical trials, and structural biology.

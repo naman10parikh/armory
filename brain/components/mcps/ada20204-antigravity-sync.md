@@ -8,11 +8,11 @@ source_url: https://github.com/ada20204/antigravity-sync-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-07-06T02:46:53Z"
 ---
 ## What it is

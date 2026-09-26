@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-22T21:45:39Z"
+pushed_at: "2026-09-22T23:01:11Z"
 ---
 ## What it is
 Search LOC digital collections, browse Chronicling America newspapers with full OCR text, and look up LC Subject Headings via MCP.

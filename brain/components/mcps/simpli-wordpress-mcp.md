@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T12:46:02Z"
+pushed_at: "2026-09-18T07:39:40Z"
 ---
 ## What it is
 A remote MCP gateway that securely exposes WordPress site abilities through the Abilities API, enabling natural-language control of posts, WooCommerce, Elementor, ACF, Rank Math, and more.

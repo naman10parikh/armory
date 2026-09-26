@@ -8,12 +8,12 @@ source_url: https://github.com/narekmalk/safedb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-05-27T10:23:58Z"
+forks: 2
+pushed_at: "2026-09-23T18:35:18Z"
 ---
 ## What it is
 MCP server `SafeDB`, catalogued on PulseMCP. Secure MCP server for AI agent database querying with read-only guardrails and PII masking.

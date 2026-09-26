@@ -8,13 +8,13 @@ source_url: https://github.com/cameronrye/atproto-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-06T05:13:36Z"
+forks: 3
+pushed_at: "2026-09-17T05:16:28Z"
 ---
 ## What it is
 Enables LLMs to interact with the AT Protocol ecosystem, including Bluesky, through natural language. Supports public data access without authentication and full write operations with authentication.

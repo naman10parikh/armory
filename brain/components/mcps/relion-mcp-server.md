@@ -8,13 +8,13 @@ source_url: https://github.com/kdursunnizam-art/relion-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-31T04:04:15Z"
+forks: 1
+pushed_at: "2026-09-06T02:45:19Z"
 ---
 ## What it is
 Enables AI agents to control RELION 5.x cryo-EM structure determination software through natural language, providing 23 tools for the complete single-particle analysis pipeline.

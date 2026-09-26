@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T01:46:02Z"
+pushed_at: "2026-09-11T01:39:23Z"
 ---
 ## What it is
 An MCP server that enhances Claude Code with evidence-first engineering, protocol gates, project-aware verification, auditable traces, and durable autonomous execution.

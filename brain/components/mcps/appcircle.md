@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-07T12:43:49Z"
+pushed_at: "2026-09-21T10:47:38Z"
 ---
 ## What it is
 MCP server `Appcircle`, catalogued on PulseMCP. Bridges AI tools with the Appcircle mobile CI/CD platform for build profiles, signing, testing distribution, and app store publishing.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-18T07:57:45Z"
+pushed_at: "2026-09-16T06:15:59Z"
 ---
 ## What it is
 MCP server for Rocket.Chat — messages, DMs, search, files, and channels over stdio

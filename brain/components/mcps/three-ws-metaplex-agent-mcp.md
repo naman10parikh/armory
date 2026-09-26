@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/metaplex-agent-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T21:23:15Z"
+pushed_at: "2026-09-15T07:55:32Z"
 ---
 ## What it is
 Deploys AI agents on-chain into the Metaplex Agent Registry on Solana, minting Core assets with EIP-8004 identity. Supports self-custodial signing via server keypair or external wallets, with devnet support for free rehearsal.

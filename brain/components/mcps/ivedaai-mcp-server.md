@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:57:53Z"
+pushed_at: "2026-09-08T05:50:49Z"
 ---
 ## What it is
 An MCP server for the IvedaAI video analytics API, enabling natural language control of footage search, camera and alert management, analysis jobs, and watchlists.

@@ -8,11 +8,11 @@ source_url: https://github.com/mladensu/cli-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 177
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2025-07-04T21:02:36Z"
 ---
 ## What it is

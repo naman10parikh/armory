@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:53:18Z"
+pushed_at: "2026-09-25T23:07:22Z"
 ---
 ## What it is
 Enables AI agents to search, query, and explore datasets from the Centre-Val de Loire Open Data portal, covering regional services, transport, education, and environment.

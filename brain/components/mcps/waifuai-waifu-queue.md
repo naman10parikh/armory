@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-15T07:34:50Z"
+pushed_at: "2026-09-10T13:58:20Z"
 ---
 ## What it is
 MCP server `Waifu Queue`, catalogued on PulseMCP. Implements a conversational 'waifu' character server using Redis queue system for efficient handling of concurrent text generation requests with FastMCP and distilgpt2.

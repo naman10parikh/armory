@@ -12,8 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-08-25T13:39:41Z"
+forks: 5
+pushed_at: "2026-09-15T10:30:13Z"
 ---
 ## What it is
 MCP server `Vectorworks`, catalogued on PulseMCP. Controls Vectorworks 2026 CAD software through 150+ tools for document management, 2D/3D drawing, symbols, BIM/IFC, and architectural features.

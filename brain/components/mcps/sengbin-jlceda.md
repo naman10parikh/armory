@@ -8,11 +8,11 @@ source_url: https://github.com/sengbin/jlceda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 17
 pushed_at: "2026-04-06T13:28:22Z"
 ---
 ## What it is

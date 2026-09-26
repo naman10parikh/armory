@@ -8,12 +8,12 @@ source_url: https://github.com/thehesiod/costco-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-04-19T19:54:42Z"
+forks: 4
+pushed_at: "2026-09-25T06:38:23Z"
 ---
 ## What it is
 MCP server `Costco`, catalogued on PulseMCP. Accesses Costco warehouse receipts and online orders via Costco's GraphQL API for purchase history analysis and expense tracking.

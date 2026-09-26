@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-26T22:46:24Z"
+pushed_at: "2026-09-09T20:48:01Z"
 ---
 ## What it is
 MCP server `OriginSelect`, catalogued on PulseMCP. Search ethical, origin-verified products and brands by values, country, and category.

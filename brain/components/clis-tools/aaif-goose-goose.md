@@ -8,14 +8,14 @@ source_url: https://github.com/aaif-goose/goose
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 53814
+stars: 54669
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 6160
-pushed_at: "2026-09-02T03:21:46Z"
+forks: 6319
+pushed_at: "2026-09-25T20:13:57Z"
 ---
 ## What it is
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM

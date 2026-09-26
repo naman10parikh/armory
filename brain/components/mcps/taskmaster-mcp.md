@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T14:35:30Z"
+pushed_at: "2026-09-04T13:32:35Z"
 ---
 ## What it is
 MCP server providing Jira tools to fetch, create, update tickets, manage attachments, and generate AI-powered ticket content.

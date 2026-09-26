@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:56:46Z"
+pushed_at: "2026-09-24T13:29:38Z"
 ---
 ## What it is
 Searches and retrieves Japanese national legislation from the official e-Gov API, providing verifiable citations with stable URLs and human-readable references.

@@ -8,13 +8,13 @@ source_url: https://github.com/qwertyhq/hq-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-23T17:14:51Z"
+pushed_at: "2026-09-05T19:50:41Z"
 ---
 ## What it is
 Read-only MCP server for VPN business operations, integrating SHM billing and Remnawave panel into composite tools for cross-system queries.

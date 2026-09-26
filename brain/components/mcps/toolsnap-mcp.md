@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T22:55:21Z"
+pushed_at: "2026-09-24T22:07:49Z"
 ---
 ## What it is
 Context-efficient MCP server for AI agents. fetch_extract reduces token usage by a median 98.1% (53,820 → 2,001 tokens) vs raw HTML — saves ~$0.156/call at Sonnet pricing. Pay $0.02 USDC on Base via x402. First call free per wallet. 10 always-free utility tools included.

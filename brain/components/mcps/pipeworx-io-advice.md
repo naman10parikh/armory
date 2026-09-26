@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:14Z"
+pushed_at: "2026-09-25T21:17:35Z"
 ---
 ## What it is
 MCP server `Advice Slip`, catalogued on PulseMCP. Random advice slips via the Advice Slip API — fetch random advice or search by query, free with no authentication.

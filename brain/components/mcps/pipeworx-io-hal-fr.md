@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:12:22Z"
+pushed_at: "2026-09-25T00:04:45Z"
 ---
 ## What it is
 MCP server `HAL Open Research Archive`, catalogued on PulseMCP. Queries HAL, France's national open archive for academic publications.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:44:03Z"
+pushed_at: "2026-09-22T01:13:17Z"
 ---
 ## What it is
 Provides SQL-queryable access to Taiwan's healthcare open data (NHI and Ministry of Health and Welfare procurement) via MCP tools, enabling natural language queries and data analysis.

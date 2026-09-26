@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-02T16:57:29Z"
+pushed_at: "2026-09-13T05:32:23Z"
 ---
 ## What it is
 MCP server `Board Game Atlas`, catalogued on PulseMCP. Board game search and data via the Board Game Atlas API, free using a public demo client ID.

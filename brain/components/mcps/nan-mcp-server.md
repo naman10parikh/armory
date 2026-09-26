@@ -8,13 +8,13 @@ source_url: https://github.com/luciferfran/nan-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T14:46:01Z"
+pushed_at: "2026-09-14T06:21:32Z"
 ---
 ## What it is
 MCP server exposing NaN API media tools (image generation/editing, text-to-speech, speech-to-text, embeddings, reranking) for any MCP-compatible client.

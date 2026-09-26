@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:28Z"
+pushed_at: "2026-09-25T21:18:38Z"
 ---
 ## What it is
 MCP server `AI Incident Database`, catalogued on PulseMCP. Query real-world AI incident reports from the AI Incident Database (AIID) to research AI safety failures and responsible deployment.

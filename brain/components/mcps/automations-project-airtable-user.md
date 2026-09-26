@@ -8,11 +8,11 @@ source_url: https://github.com/automations-project/vscode-airtable-formula
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-03T17:01:04Z"
 ---
 ## What it is

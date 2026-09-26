@@ -8,11 +8,11 @@ source_url: https://github.com/cso1z/feishu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 735
+stars: 741
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 88
+forks: 87
 pushed_at: "2026-08-17T07:09:20Z"
 ---
 ## What it is

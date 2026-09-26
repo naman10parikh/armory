@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T08:02:12Z"
+pushed_at: "2026-09-25T13:11:25Z"
 ---
 ## What it is
 Exposes the Centia API as MCP tools generated from its OpenAPI spec, enabling natural language interaction with Centia services.

@@ -8,13 +8,13 @@ source_url: https://github.com/thinktraveller/UniArticles_MCPserver
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-01T14:12:22Z"
+pushed_at: "2026-09-19T00:30:33Z"
 ---
 ## What it is
 Unifies academic literature retrieval from multiple sources like Scopus, ArXiv, PubMed, and Google Scholar into a single standardized API for LLM agents.

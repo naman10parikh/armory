@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:06:20Z"
+pushed_at: "2026-09-24T23:40:46Z"
 ---
 ## What it is
 MCP server providing access to US FCC regulations (47 CFR) via Pipeworx gateway. Enables AI agents to query FCC rules and data sources using natural language.

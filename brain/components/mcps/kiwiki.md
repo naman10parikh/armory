@@ -8,13 +8,13 @@ source_url: https://github.com/natorus87/kiwiki
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T13:22:48Z"
+pushed_at: "2026-09-18T14:23:21Z"
 ---
 ## What it is
 A self-hosted Markdown knowledge base and Agent Harness with an MCP server that enables AI agents to read and write notes, providing persistent memory and a shared workspace for multi-agent collaboration.

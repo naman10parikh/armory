@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T02:57:11Z"
+pushed_at: "2026-09-18T06:57:53Z"
 ---
 ## What it is
 Enables natural language control of test instruments like spectrum analyzers and power supplies via SCPI commands, with auto-discovery and multi-instrument session support.

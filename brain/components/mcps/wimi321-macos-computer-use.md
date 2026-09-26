@@ -8,11 +8,11 @@ source_url: https://github.com/wimi321/macos-computer-use-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-04-19T23:32:54Z"
 ---
 ## What it is

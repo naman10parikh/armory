@@ -8,12 +8,12 @@ source_url: https://github.com/spences10/mcp-sequentialthinking-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 584
+stars: 590
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 84
-pushed_at: "2026-09-02T01:33:53Z"
+forks: 85
+pushed_at: "2026-09-26T02:01:11Z"
 ---
 ## What it is
 MCP server `Sequential Thinking Tools`, catalogued on PulseMCP. Provides structured problem-solving tools for step-by-step analysis, branching thoughts, and adaptive reasoning strategies in complex decision-making processes.

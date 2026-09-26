@@ -8,13 +8,13 @@ source_url: https://github.com/NicolasViruel/moodle-utn-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:30:56Z"
+pushed_at: "2026-09-23T11:59:39Z"
 ---
 ## What it is
 Enables browser-based login to approved UTN Moodle sites and read-only access to the user's profile, course list, and course activities via local Chromium automation.

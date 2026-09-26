@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-28T13:14:10Z"
+pushed_at: "2026-09-13T18:46:34Z"
 ---
 ## What it is
 MCP server `HTTP Proxy`, catalogued on PulseMCP. HTTP/HTTPS MITM proxy with SSL cert management, request/response modification, TLS fingerprinting, upstream proxy chaining, and multi-platform interceptors.

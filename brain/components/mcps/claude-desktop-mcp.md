@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T16:46:40Z"
+pushed_at: "2026-09-08T16:45:02Z"
 ---
 ## What it is
 A fake MCP server with 108 themed tools for testing Claude Desktop's handling of large toolsets and Amazon Bedrock AgentCore Gateway integration.
