@@ -37,7 +37,9 @@ echo "▸ waiting for READY"
 for _ in $(seq 1 60); do
   # The status line is "status<TAB>● Ready" — match the word, not a column (the glyph broke awk).
   # vercel inspect prints on STDERR; `\s` is not BSD grep — match the word on the status line.
-  state="$(vercel inspect "$url" 2>&1 | grep -m1 -iE '^[[:space:]]*status' | grep -oE 'Ready|Error|Canceled|Building|Queued|Initializing' | head -1)"
+  # CP143 (2026-09-25): `vercel inspect` aborted with exit 134 under memory pressure while the build itself
+  # was fine, and set -e killed the deploy before the alias moved. A failed poll now just polls again.
+  state="$( (vercel inspect "$url" 2>&1 || true) | grep -m1 -iE '^[[:space:]]*status' | grep -oE 'Ready|Error|Canceled|Building|Queued|Initializing' | head -1 || true)"
   case "$state" in Ready|READY) break ;; Error|ERROR|Canceled|CANCELED) echo "build $state"; exit 1 ;; esac
   sleep 10
 done
