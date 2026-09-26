@@ -4,3 +4,5 @@
 /brain/
 .vercel
 /changes.json
+# Generated at prebuild from llms.template.txt + the vendored catalog (scripts/copy-data.mjs).
+/public/llms.txt

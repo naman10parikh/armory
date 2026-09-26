@@ -23,7 +23,7 @@ function DIE  ($msg) { Write-Host "  [X] $msg"  -ForegroundColor Red; exit 1 }
 function Show-Help {
   Write-Host @"
 
-Armory installer (Windows) — wire the 24,000+ component registry into any coding harness.
+Armory installer (Windows) — wire the 65,000+ component registry into any coding harness.
 
 Usage:
   .\install.ps1                   Auto-detect harness from current directory

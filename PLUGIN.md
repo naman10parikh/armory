@@ -1,7 +1,7 @@
 # Install Armory as a Plugin
 
 One install gives any coding harness:
-- **Armory MCP** (`armory-mcp`) — `search_components` / `get_component` / `submit_component` across 24,000+ cataloged harness components
+- **Armory MCP** (`armory-mcp`) — `search_components` / `get_component` / `submit_component` across 65,000+ cataloged harness components (65,318 on 26 September 2026)
 - **2,546 vendored components** — skills, agents, commands, hooks ready to use immediately
 
 ---
@@ -140,7 +140,7 @@ Once installed, your agent can call:
 
 | Tool | What it does |
 |---|---|
-| `search_components` | Full-text + semantic search across 24,000+ components |
+| `search_components` | Full-text + semantic search across 65,000+ components |
 | `get_component` | Full detail on any component: source, license, install cmd, related gear |
 | `submit_component` | Add a component back to the registry |
 
