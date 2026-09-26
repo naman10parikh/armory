@@ -6,6 +6,7 @@ import { join } from "node:path";
 import { NextResponse } from "next/server";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
 import { computeRows, rankRows } from "../../../../lib/rank.mjs";
+import { isInstallable } from "@/lib/installable";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -30,6 +31,8 @@ export function GET(req: Request): NextResponse {
     sort: sp.get("sort") || "universal",
     dir: sp.get("dir") || "desc",
     limit: Math.min(Number(sp.get("limit")) || 100, 500),
-  });
-  return NextResponse.json(lb);
+  }) as { items: { name: string; type: string | null; url: string | null }[] };
+  // Whether `armory install` places each row, so a list never promises a command that installs nothing.
+  const items = lb.items.map((it) => ({ ...it, installable: isInstallable(it.type ?? "", it.name, it.url) }));
+  return NextResponse.json({ ...lb, items });
 }

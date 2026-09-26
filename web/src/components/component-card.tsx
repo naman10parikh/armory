@@ -4,6 +4,8 @@ import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypeBadge } from "./badges";
 import { ArrowRightIcon, StarIcon, TypeIcon } from "./icons";
 import { QuickInstall } from "./quick-install";
+import { NoInstall } from "./install-snippet";
+import { isInstallable } from "@/lib/installable";
 import { ScoreBadge } from "./score-badge";
 import { SignalsRow, type SignalValues } from "./signals-row";
 
@@ -120,7 +122,11 @@ export function ComponentCard({
             restored). */}
         <div className="relative z-10 mt-4 border-t border-line-subtle pt-3">
           <div className="flex items-center justify-between gap-2">
-            <QuickInstall component={component} />
+            {isInstallable(component.type, component.name, component.source_url) ? (
+              <QuickInstall component={component} />
+            ) : (
+              <NoInstall source={component.source_url} />
+            )}
             <Link
               href={href}
               className="flex shrink-0 cursor-pointer items-center gap-1.5 text-[11px] font-medium text-ink-muted transition-colors hover:text-accent-hover group-hover:text-accent-hover"

@@ -13,5 +13,5 @@
   "commands": [
     "./workflows/"
   ],
-  "notes": "Armory v0.2.0 — aggregator-of-aggregators. 24,000+ cataloged components via armory-mcp + 2,546 vendored at repo root. See PLUGIN.md for install instructions."
+  "notes": "Armory v0.2.0 — aggregator-of-aggregators. 65,000+ cataloged components via armory-mcp + 2,546 vendored at repo root. See PLUGIN.md for install instructions."
 }

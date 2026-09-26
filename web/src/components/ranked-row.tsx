@@ -22,6 +22,10 @@ export interface RankedRowData {
   desc: string;
   pushed_at?: string | null;
   stale?: boolean;
+  /** The feed that contributed the row ("Sentinel" for a `sentinel-feed` tag), from lib/rank.mjs. */
+  contributor?: string | null;
+  /** Set by the /api/rank route (src/lib/installable.ts): whether `armory install` places it. */
+  installable?: boolean;
 }
 
 /** Count of independent, non-null signals — the engine's `scores.evidence`, for items without it. */
@@ -50,8 +54,10 @@ export function apiRowViews(items: readonly RankedRowData[], firstRank = 1): Row
     listedAt: null,
     gained: null,
     ours: isOurs(it.url),
-    contributedBy: null,
+    contributedBy: it.contributor ?? null,
     alsoListedAs: [],
+    installable: it.installable ?? false,
+    source: it.url,
   }));
 }
 

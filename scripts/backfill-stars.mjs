@@ -14,6 +14,14 @@
 // Adding fields to an aliased query is a field-list edit, not a new request, so the extra coverage is
 // free. See docs/FORMULA-AUDIT.md §3.1.
 //
+// Counts move, so an answered row is not asked once and frozen (CP143). Each run also re-asks a
+// ROTATING SLICE of every repository it has already answered: the repos are split into --rotate N
+// slices (default 7) by a stable hash of owner/repo, and a run re-asks the slice for today's UTC day
+// number mod N. So every repository is re-asked once every N nights, and a nightly run costs about
+// (repos ÷ N) ÷ 100 points: ~78 for the 54,340 repositories of 26 September 2026 at N = 7, inside the
+// 1,000 points an hour the Actions token gets (5,000 for a user token). A run stops asking when fewer
+// than 200 points are left in the hour, and the unasked repositories wait for the next run.
+//
 // Read-only against GitHub. Dry-run by default. Uses the `gh` CLI's existing auth (no token here).
 //
 //   node scripts/backfill-stars.mjs                 # dry run, whole backlog
@@ -39,6 +47,7 @@ if (has("--help")) {
   --limit N   only process the first N repos (sample before committing to a full run)
   --apply     write stars + forks + pushed_at into catalog.json (default: dry run, writes nothing)
   --refresh   re-ask repos whose recorded answer was zero/absent
+  --rotate N  also re-ask 1/N of the answered repos, a different slice each UTC day (default 7; 0 = off)
   --help
 
 Dry run prints what it would fill in. Requires the \`gh\` CLI to be logged in.`);
@@ -112,29 +121,52 @@ const isRepoRoot = (u) => /^https?:\/\/(www\.)?github\.com\/[^/]+\/[^/#?]+\/?$/i
 const answered = (v) => typeof v === "number" && (v > 0 || !has("--refresh"));
 // A row is only fully asked once it carries BOTH numbers. Every row filled by an earlier stars-only
 // run therefore comes back around exactly once, for its forks and its push date — and then stops.
-const needing = components.filter((c) => {
-  const url = c.source_url || c.source_repo;
-  return !(answered(c.stars) && answered(c.forks)) && repoKey(url) && isRepoRoot(url);
-});
+// The rotation: a stable FNV-1a hash of owner/repo picks each repository's slice, so slices stay the
+// same size and the same repository keeps its night as rows are added.
+const ROTATE = Math.max(0, Math.floor(Number(val("--rotate", 7)) || 0));
+const SLICE = ROTATE > 0 ? Math.floor(Date.now() / 86_400_000) % ROTATE : -1;
+const fnv = (text) => {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < text.length; i += 1) h = Math.imul(h ^ text.charCodeAt(i), 0x01000193) >>> 0;
+  return h;
+};
+const inSlice = (k) => ROTATE > 0 && fnv(k.toLowerCase()) % ROTATE === SLICE;
+
+let needing = 0, rotating = 0;
+const needKeys = new Set();
 const byRepo = new Map();
-for (const c of needing) {
-  const k = repoKey(c.source_url || c.source_repo);
+for (const c of components) {
+  const url = c.source_url || c.source_repo;
+  const k = repoKey(url);
+  if (!k || !isRepoRoot(url)) continue;
+  const need = !(answered(c.stars) && answered(c.forks));
+  if (!need && !inSlice(k)) continue;
+  if (need) { needing++; needKeys.add(k); } else rotating++;
   if (!byRepo.has(k)) byRepo.set(k, []);
   byRepo.get(k).push(c);
 }
 
-let keys = [...byRepo.keys()];
+// Rows missing a number first; the rotation's re-asks after them.
+let keys = [...byRepo.keys()].sort((a, b) => Number(needKeys.has(b)) - Number(needKeys.has(a)));
 const limit = Number(val("--limit", 0));
 if (limit > 0) keys = keys.slice(0, limit);
 
 console.log(`catalog          : ${components.length.toLocaleString()} components`);
-console.log(`missing a field  : ${needing.length.toLocaleString()} rows (stars, forks or both)`);
+console.log(`missing a field  : ${needing.toLocaleString()} rows (stars, forks or both)`);
+console.log(ROTATE > 0
+  ? `rotation         : slice ${SLICE + 1} of ${ROTATE} (UTC day number mod ${ROTATE}) · ${rotating.toLocaleString()} answered rows re-asked · every repository is re-asked once every ${ROTATE} nights`
+  : "rotation         : off (--rotate 0)");
 console.log(`unique repos     : ${byRepo.size.toLocaleString()}${limit ? ` (sampling ${keys.length.toLocaleString()})` : ""}`);
 console.log(`plan             : ${Math.ceil(keys.length / BATCH).toLocaleString()} GraphQL requests @ ~1 rate-limit point each\n`);
 
 const answers = new Map();
 let cost = 0, remaining = null;
+const FLOOR = 200; // points left in the hour below which a run stops asking
 for (let i = 0; i < keys.length; i += BATCH) {
+  if (remaining != null && remaining < FLOOR) {
+    process.stdout.write(`\n  stopped: ${remaining} points left this hour, under the ${FLOOR} floor; ${(keys.length - i).toLocaleString()} repos wait for the next run`);
+    break;
+  }
   const slice = keys.slice(i, i + BATCH);
   const res = fetchBatch(slice);
   for (const [k, v] of res.found) answers.set(k, v);

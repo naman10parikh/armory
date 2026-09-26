@@ -33,7 +33,8 @@ function oneLine(text: string, max: number): string {
 function emailPick(item: AskItem, i: number): string {
   const head = `${i + 1}. ${item.name} — ${score(item.universal)}`;
   const lines = [item.desc ? `${head} · ${oneLine(item.desc, 110)}` : head];
-  lines.push(`   ${installCommand(item.name, "claude")}`);
+  // The command only where `armory install` places something; otherwise say so, and the source follows.
+  lines.push(item.installable ? `   ${installCommand(item.name, "claude")}` : "   No one-command install. Set it up from the source:");
   if (item.url) lines.push(`   ${item.url}`);
   return lines.join("\n");
 }

@@ -26,6 +26,10 @@ import {
   listDir,
   fetchNpmName,
   parseRunCommand,
+  DOWNLOADING,
+  packageOf,
+  checkPackage,
+  plainRun,
   type RepoRef,
 } from "./fetch.js";
 
@@ -95,6 +99,26 @@ function writeComponentFile(
 
 // --- per-type handlers ------------------------------------------------------
 
+// Nothing to install: say so, why, and where to set it up instead (CP143). The report then reads
+// "Not installed" and the command exits non-zero, rather than claiming an install that did not happen.
+function notInstalled(report: InstallReport, why: string): void {
+  report.steps.push({
+    action: "print",
+    detail: `Not installed: ${report.component.name} ${why}. Set it up from the source instead:\n${report.component.source_url}`,
+  });
+}
+
+// A row that points at a whole repository can name the file or folder to install in its note: a link
+// into the same repository in its "How to install" section.
+function namedArtifact(body: string, ref: RepoRef): RepoRef | null {
+  const re = /https:\/\/github\.com\/([^/\s]+)\/([^/\s]+)\/(blob|tree)\/([^/\s]+)\/([^\s)`'"]+)/gi;
+  for (const m of extractInstallSnippet(body).matchAll(re)) {
+    if (m[1].toLowerCase() !== ref.owner.toLowerCase() || m[2].toLowerCase() !== ref.repo.toLowerCase()) continue;
+    return { ...ref, ref: m[4], path: m[5].replace(/[.,;:]+$/, ""), isFile: m[3].toLowerCase() === "blob" };
+  }
+  return null;
+}
+
 // MCP: derive a run-command (body snippet → npm package.json) and merge a
 // server entry into the target CLI's MCP config.
 function installMcp(report: InstallReport, body: string, ref: RepoRef, opts: InstallOptions): void {
@@ -108,12 +132,26 @@ function installMcp(report: InstallReport, body: string, ref: RepoRef, opts: Ins
     if (npm) run = { command: "npx", args: ["-y", npm] };
   }
   if (!run) {
-    report.steps.push({
-      action: "print",
-      detail: `Could not derive a run command for "${report.component.name}". Check the source and add it manually:\n${report.component.source_url}`,
-    });
+    notInstalled(report, "names no command to start it, and its repository names no npm package");
     return;
   }
+  // A command that downloads a package by name is written only when the registry says the package
+  // comes from this component's own repository (fetch.ts checkPackage). Any other command (node,
+  // python, uv run) runs files from a clone of the repository, so a config naming it would not start.
+  if (!DOWNLOADING.has(run.command)) {
+    notInstalled(report, `starts with \`${run.command} ${run.args.join(" ")}\`, which runs files from a clone of its repository`);
+    return;
+  }
+  const pkg = packageOf(run);
+  const verdict = pkg ? checkPackage(pkg, `${ref.owner}/${ref.repo}`) : { ok: false, why: "the command names no package" };
+  if (!pkg || !verdict.ok) {
+    notInstalled(
+      report,
+      `starts with \`${run.command} ${run.args.join(" ")}\`, which downloads ${pkg ? pkg.name : "a package"} from a public registry, and ${verdict.why}, not ${ref.owner}/${ref.repo}`,
+    );
+    return;
+  }
+  run = plainRun(run, pkg);
 
   const file = resolveMcpPath(report.root, layout.mcp);
   const result = mergeMcpServer(
@@ -167,7 +205,13 @@ function installSkill(report: InstallReport, ref: RepoRef, opts: InstallOptions)
 
   // No dir listing — fetch a single SKILL.md.
   const skillFile = ref.isFile ? ref.path : `${ref.path ? `${ref.path}/` : ""}SKILL.md`;
-  const content = fetchFile(ref, skillFile);
+  let content: string;
+  try {
+    content = fetchFile(ref, skillFile);
+  } catch {
+    notInstalled(report, `has no ${skillFile} in ${ref.owner}/${ref.repo}; the repository is not one skill Armory can place`);
+    return;
+  }
   report.steps.push(
     writeComponentFile(report.root, { dir: skillDir, ext: "" }, "SKILL.md", content, opts.force, opts.dryRun),
   );
@@ -196,10 +240,7 @@ function installSingleFile(report: InstallReport, ref: RepoRef, spec: DirSpec | 
         // try next guess
       }
     }
-    report.steps.push({
-      action: "print",
-      detail: `Could not locate the ${report.component.type} file in ${report.component.source_repo}. Source: ${report.component.source_url}`,
-    });
+    notInstalled(report, `points at the whole repository ${ref.owner}/${ref.repo}, not one file Armory can place`);
     return;
   }
   const content = fetchFile(ref, sourcePath);
@@ -212,7 +253,11 @@ function installSingleFile(report: InstallReport, ref: RepoRef, spec: DirSpec | 
 // settings.json registration the user must add (hooks are wired by config).
 function installHook(report: InstallReport, body: string, ref: RepoRef, opts: InstallOptions): void {
   const spec = LAYOUTS[report.cli].hooks;
-  if (ref.isFile && spec) {
+  if (!ref.isFile) {
+    notInstalled(report, `points at the whole repository ${ref.owner}/${ref.repo}, not a hook script Armory can place`);
+    return;
+  }
+  if (spec) {
     const content = fetchFile(ref, ref.path);
     const fileName = ref.path.split("/").pop() ?? `${report.component.name}`;
     report.steps.push(writeComponentFile(report.root, spec, fileName, content, opts.force, opts.dryRun));
@@ -226,11 +271,18 @@ function installHook(report: InstallReport, body: string, ref: RepoRef, opts: In
 
 // Fallback for types with no install mechanism (plugins, evals, identity,
 // observability, infrastructure, memory, clis-tools): print the snippet.
-function installPrintOnly(report: InstallReport, body: string): void {
-  report.steps.push({
-    action: "print",
-    detail: `${report.component.type} components install via their own command. Snippet:\n${extractInstallSnippet(body)}\n\nSource: ${report.component.source_url}`,
-  });
+const KIND: Record<string, string> = {
+  memory: "a memory system",
+  "clis-tools": "a command-line tool",
+  evals: "an evaluation tool",
+  observability: "an observability tool",
+  infrastructure: "infrastructure",
+  identity: "an identity component",
+};
+
+function installPrintOnly(report: InstallReport): void {
+  const kind = KIND[report.component.type] ?? `a ${report.component.type} component`;
+  notInstalled(report, `is ${kind}: Armory has no file to put in your harness for it, and it installs with its own tool`);
 }
 
 // --- orchestrator -----------------------------------------------------------
@@ -261,33 +313,41 @@ export function runInstall(name: string, opts: InstallOptions): InstallReport {
   }
 
   const layout = LAYOUTS[cli];
-  switch (resolved.component.type) {
+  const type = resolved.component.type;
+  const FILE_TYPES = ["skills", "subagents", "claudemd-rules", "workflows", "hooks"];
+  if (!ref) {
+    if (type === "mcps" || FILE_TYPES.includes(type)) notInstalled(report, "has no GitHub source to fetch from");
+    else installPrintOnly(report);
+    return report;
+  }
+  // A file-type row that points at a whole repository installs the file its note names, if it names one.
+  const target = FILE_TYPES.includes(type) && !ref.path ? namedArtifact(body, ref) ?? ref : ref;
+  switch (type) {
     case "mcps":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installMcp(report, body, ref, opts);
       break;
     case "skills":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
-      installSkill(report, ref, opts);
+      installSkill(report, target, opts);
       break;
     case "subagents":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
-      installSingleFile(report, ref, layout.subagents, opts);
+      installSingleFile(report, target, layout.subagents, opts);
       break;
     case "claudemd-rules":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
-      installSingleFile(report, ref, layout["claudemd-rules"], opts);
+      installSingleFile(report, target, layout["claudemd-rules"], opts);
       break;
     case "workflows":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
-      installSingleFile(report, ref, layout.workflows, opts);
+      installSingleFile(report, target, layout.workflows, opts);
       break;
     case "hooks":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
-      installHook(report, body, ref, opts);
+      installHook(report, body, target, opts);
       break;
     default:
-      installPrintOnly(report, body);
+      installPrintOnly(report);
   }
   return report;
+}
+
+/** True when the install wrote, merged, or found already in place at least one thing. */
+export function installedSomething(report: InstallReport): boolean {
+  return report.steps.some((s) => s.action !== "print");
 }

@@ -7,7 +7,7 @@ import { Command } from "commander";
 import chalk from "chalk";
 import { loadCatalog, readComponentBody, type Component } from "./catalog.js";
 import { validateAndCopy, type SubmitResult } from "./submit.js";
-import { runInstall, type InstallReport } from "./install.js";
+import { installedSomething, runInstall, type InstallReport } from "./install.js";
 import { harnessFromFlags, runInit } from "./init.js";
 
 const program = new Command();
@@ -151,10 +151,17 @@ program
       return;
     }
     printInstallReport(report, opts.dryRun);
+    // Nothing placed means the install did not happen: say so in the exit code too, so an agent can tell.
+    if (!installedSomething(report)) process.exitCode = 1;
   });
 
 function printInstallReport(report: InstallReport, dryRun: boolean): void {
-  const head = dryRun ? chalk.yellow("[dry-run] would install") : chalk.bold("Installed");
+  const done = installedSomething(report);
+  const head = dryRun
+    ? chalk.yellow(done ? "[dry-run] would install" : "[dry-run] would not install")
+    : done
+      ? chalk.bold("Installed")
+      : chalk.red("Not installed");
   console.log(
     `\n${head} ${chalk.green(report.component.name)} ${typeBadge(report.component.type)} ${chalk.dim(`→ ${report.cli}`)}`,
   );

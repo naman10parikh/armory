@@ -156,3 +156,28 @@ export function InstallSnippet({ name }: { name: string }) {
     </span>
   );
 }
+
+/**
+ * In place of the command, for a row `armory install` cannot place (src/lib/installable.ts): it says
+ * so plainly and links the source, rather than offering a command that installs nothing (CP143).
+ */
+export function NoInstall({ source }: { source: string | null }) {
+  return (
+    <span className="text-[12px] leading-snug text-ink-muted">
+      No one-command install
+      {source && (
+        <>
+          {" · "}
+          <a
+            href={source}
+            target="_blank"
+            rel="noreferrer noopener"
+            className="cursor-pointer text-accent-hover underline underline-offset-4"
+          >
+            Source
+          </a>
+        </>
+      )}
+    </span>
+  );
+}

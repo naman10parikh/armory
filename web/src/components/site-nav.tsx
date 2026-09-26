@@ -3,7 +3,7 @@ import { Logo } from "./logo";
 import { GithubIcon } from "./icons";
 import { HarnessSelector } from "./install-snippet";
 
-const REPO = "https://github.com/naman10parikh/component";
+const REPO = "https://github.com/naman10parikh/armory";
 
 // design/BRIEF.md Approval note: the nav was a `fixed` floating pill; pages
 // compensated with `pt-20`. This is now an IN-FLOW top bar — normal document

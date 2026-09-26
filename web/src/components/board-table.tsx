@@ -14,7 +14,7 @@
 */
 import Link from "next/link";
 import { DataTable, Th, clampWords } from "./data-table";
-import { InstallSnippet } from "./install-snippet";
+import { InstallSnippet, NoInstall } from "./install-snippet";
 import { ScoreBadge } from "./score-badge";
 import { SignalsRow, type SignalValues } from "./signals-row";
 import { ago, int, shortDate } from "@/lib/format";
@@ -44,6 +44,10 @@ export interface RowView {
   contributedBy: string | null;
   /** The same repository's other listings, folded into this line. */
   alsoListedAs: { name: string; href: string | null }[];
+  /** False when `armory install` places nothing: the Install cell says so instead of promising it. */
+  installable: boolean;
+  /** Where the component lives, for the "Source" link when there is no one-command install. */
+  source: string | null;
 }
 
 export type ExtraColumn = "gained" | "listed" | null;
@@ -137,7 +141,7 @@ export function BoardTable({
               <LastCommit row={row} now={now} fallbackDate={fallbackDate} />
             </td>
             <td data-col="install" className={CELL}>
-              <InstallSnippet name={row.name} />
+              {row.installable ? <InstallSnippet name={row.name} /> : <NoInstall source={row.source} />}
             </td>
           </tr>
         ))}

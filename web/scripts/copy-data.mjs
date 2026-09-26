@@ -13,7 +13,7 @@
 import { cpSync, existsSync, mkdirSync, rmSync, copyFileSync, readFileSync, writeFileSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 
 const SITE_DIR = join(dirname(fileURLToPath(import.meta.url)), "..");
 const REPO_ROOT = join(SITE_DIR, "..");
@@ -135,8 +135,37 @@ function writeChanges() {
   }
 }
 
+// public/llms.txt — the machine-readable guide, with its counts computed from the catalog just vendored
+// (CP143): the static copy said 64,657 as of 2 September while the site said 65,318. The text lives in
+// llms.template.txt; each {{name}} below is filled from the engine, the date from the catalog's own.
+async function writeLlmsTxt() {
+  const template = join(SITE_DIR, "llms.template.txt");
+  const { rows, facetsOf } = await import(pathToFileURL(join(SITE_DIR, "lib", "rank.mjs")).href);
+  const all = rows();
+  const f = facetsOf(all);
+  const int = (n) => n.toLocaleString("en-US");
+  const generated = JSON.parse(readFileSync(join(SITE_DIR, "catalog.json"), "utf-8")).generated_at;
+  const values = {
+    as_of: typeof generated === "string" ? generated.slice(0, 10) : new Date().toISOString().slice(0, 10),
+    total: int(all.length),
+    ranked: int(all.filter((r) => r.scores.universal != null).length),
+    tested: int(all.filter((r) => r.signals.tested != null).length),
+    types: String(f.components.length),
+    domains: String(f.domains.length),
+    verticals: String(f.verticals.length),
+    component_counts: f.components.map((c) => `${c.key} (${int(c.count)})`).join(" · "),
+  };
+  const text = readFileSync(template, "utf-8").replace(/\{\{(\w+)\}\}/g, (m, k) => {
+    if (!(k in values)) throw new Error(`[copy-data] llms.template.txt names an unknown value ${m}`);
+    return values[k];
+  });
+  writeFileSync(join(SITE_DIR, "public", "llms.txt"), text);
+  console.log(`[copy-data] wrote public/llms.txt (${values.total} components, as of ${values.as_of})`);
+}
+
 copyCatalog();
 copyBrain();
 copyRankEngine();
 writeChanges();
+await writeLlmsTxt();
 console.log("[copy-data] done — site is self-contained.");

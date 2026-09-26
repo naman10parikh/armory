@@ -42,7 +42,7 @@ header() { printf "\n${BOLD}%s${NC}\n" "$*"; }
 usage() {
   cat <<EOF
 
-${BOLD}Armory installer${NC} — wire the 24,000+ component registry into any coding harness.
+${BOLD}Armory installer${NC} — wire the 65,000+ component registry into any coding harness.
 
 ${BOLD}Usage:${NC}
   bash install.sh                     Auto-detect harness from current directory
@@ -57,7 +57,7 @@ ${BOLD}Supported harnesses:${NC}
   hermes    Hermes       (writes to .hermes/config.json)
 
 ${BOLD}What you get after install:${NC}
-  • armory-mcp running as an MCP server (search + install across 24,000+ components)
+  • armory-mcp running as an MCP server (search + install across 65,000+ components)
   • 2,546 vendored components (skills, subagents, workflows, hooks, claudemd-rules) ready to use
   • The 'armory' skill that teaches your agent when to reach into the registry
 

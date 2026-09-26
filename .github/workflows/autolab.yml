@@ -98,6 +98,8 @@ jobs:
       #     a 5,000/hour budget. Only rows that ARE a repo get its stars — a file inside a repo has not
       #     earned its parent's count. Then push the numbers back into the brain markdown (the source
       #     of truth) and rebuild, or the NEXT run's rebuild silently reverts every star fetched here.
+      #     Rotation (CP143): each night also re-asks one seventh of the repositories already answered,
+      #     picked by UTC day, so every repository's count is re-asked once a week (~80 points a night).
       - name: Backfill stars + persist to the brain
         continue-on-error: true
         env:

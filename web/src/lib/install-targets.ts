@@ -160,25 +160,17 @@ export function parseRunCommand(text: string): RunCommand | null {
   return null;
 }
 
-// Best-effort npm package guess for an MCP whose description has no explicit
-// command: the CLI reads the repo's package.json at runtime; client-side we fall
-// back to the repo name (the common npm-name === repo-name convention).
-function guessNpmName(component: Component): string | null {
-  if (component.source_repo.includes("/")) {
-    const repo = component.source_repo.split("/")[1]?.replace(/\.git$/, "");
-    if (repo) return repo;
-  }
-  return null;
-}
+// Launchers that download code by name from a public registry. A command that uses one is shown only
+// after the server has checked the registry (src/lib/run-check.ts): the package must be published from
+// the component's own repository. The name is never guessed. Guessing it from the repository's name
+// showed `npx -y github-mcp-server` for github/github-mcp-server, which is another publisher's package.
+export const DOWNLOADING = new Set(["npx", "uvx", "bunx", "pnpm", "deno", "docker"]);
 
-// Resolve the run-command shown for an MCP, mirroring installMcp's order:
-// explicit command in the description → npm-name fallback → null (manual).
+// The run-command a component's own description names, when it runs local files only. Anything that
+// downloads needs the server's check, so the client never shows one on its own.
 export function deriveRunCommand(component: Component): RunCommand | null {
   const fromDesc = parseRunCommand(component.description);
-  if (fromDesc) return fromDesc;
-  const npm = guessNpmName(component);
-  if (npm) return { command: "npx", args: ["-y", npm] };
-  return null;
+  return fromDesc && !DOWNLOADING.has(fromDesc.command) ? fromDesc : null;
 }
 
 // --- snippet rendering --------------------------------------------------------
@@ -200,12 +192,14 @@ export function installCommand(name: string, harness: Harness): string {
   return `armory install ${name} --to .`; // Hermes: dropped via --to root, lands in .hermes/
 }
 
-// Render the MCP server-config block exactly as mergeMcpServer would write it.
+// Render the MCP server-config block exactly as mergeMcpServer would write it. `checked` is the
+// server's answer (src/lib/run-check.ts); without one, only a command that runs local files is used.
 function mcpConfig(
   component: Component,
   layout: HarnessLayout,
+  checked: RunCommand | null | undefined,
 ): { config: string | null; lang: "json" | "toml"; manual: boolean } {
-  const run = deriveRunCommand(component);
+  const run = checked === undefined ? deriveRunCommand(component) : checked;
   if (!run) return { config: null, lang: layout.mcp.format, manual: true };
 
   if (layout.mcp.format === "toml") {
@@ -225,14 +219,15 @@ function mcpConfig(
 }
 
 // Build the full install snippet for one component × harness. Pure — deterministic
-// from catalog fields. Mirrors the switch in runInstall().
-export function buildSnippet(component: Component, harness: Harness): InstallSnippet {
+// from catalog fields. Mirrors the switch in runInstall(). `run` is the server-checked
+// command for an MCP (null = none to show); omitted, only a local-files command is used.
+export function buildSnippet(component: Component, harness: Harness, run?: RunCommand | null): InstallSnippet {
   const layout = LAYOUTS[harness];
   const command = installCommand(component.name, harness);
   const type = component.type as ComponentType;
 
   if (type === "mcps") {
-    const { config, lang, manual } = mcpConfig(component, layout);
+    const { config, lang, manual } = mcpConfig(component, layout, run);
     return {
       command,
       file: layout.mcp.file,

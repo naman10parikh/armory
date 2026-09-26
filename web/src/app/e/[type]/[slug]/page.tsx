@@ -22,6 +22,7 @@ import { CANON, rowsFor, stackFor } from "@/lib/canon";
 import { ago, contributorOf, shortDate } from "@/lib/format";
 import { findRow } from "@/lib/rows";
 import { detailHref } from "@/lib/row-view";
+import { checkedRun } from "@/lib/run-check";
 
 const EMPTY_SIGNALS: SignalValues = { tested: null, mentions: null, stars: null, forks: null, usage: null };
 
@@ -192,7 +193,11 @@ export default async function ComponentDetailPage({
               <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Install</h2>
               <HarnessSelector className="lg:hidden" />
             </div>
-            <InstallStrip component={component} />
+            <InstallStrip
+              component={component}
+              run={component.type === "mcps" ? checkedRun(component.type, component.name, component.description, body) : null}
+              installable={row?.installable ?? false}
+            />
           </div>
 
           {alternatives.length > 0 && shelf && (

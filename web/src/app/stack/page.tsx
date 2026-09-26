@@ -14,7 +14,7 @@ import Form from "next/form";
 import Link from "next/link";
 import { OursTag } from "@/components/board-table";
 import { ContentWidth, DataTable, Th, Tr, clampWords } from "@/components/data-table";
-import { HarnessSelector, InstallSnippet } from "@/components/install-snippet";
+import { HarnessSelector, InstallSnippet, NoInstall } from "@/components/install-snippet";
 import { NotIndexedTag } from "@/components/component-page";
 import { ScoreBadge } from "@/components/score-badge";
 import { CopyText, PickSelect, StackCommand, type PickOption } from "@/components/stack-builder";
@@ -36,7 +36,7 @@ export const runtime = "nodejs";
 export const metadata: Metadata = {
   title: "Stack · Armory",
   description:
-    "One pick per harness component, the accounts an agent acts through, and one command that installs your picks.",
+    "One pick per harness component, the accounts an agent acts through, and one command for the picks Armory can install.",
 };
 
 const SITE = "https://armory-murex.vercel.app";
@@ -67,13 +67,16 @@ function slotFor(slug: string, sp: Params): Slot {
   const score = (r: CanonRow | null) => (r?.universal != null ? ` · ${r.universal.toFixed(1)}` : "");
   const ours = (r: CanonRow | null) => (r?.ours ? " · ours" : "");
 
+  // The role (the pick, a runner-up, the shelf's top rows) is the option's group, not part of its label,
+  // so the chosen label is only the name and score and fits its column (CP143).
   const options: PickOption[] = [
     ...picks.map((p, i) => ({
       value: p.armoryName as string,
-      label: `${p.name}${score(p.row)}${i === 0 ? " · the pick" : " · runner-up"}${ours(p.row)}`,
+      label: `${p.name}${score(p.row)}${ours(p.row)}`,
+      group: i === 0 ? "The pick" : "Runners-up",
     })),
-    ...alternates.map((r) => ({ value: r.name, label: `${r.name}${score(r)}${ours(r)}` })),
-    { value: NONE, label: "Leave this slot out" },
+    ...alternates.map((r) => ({ value: r.name, label: `${r.name}${score(r)}${ours(r)}`, group: "Top of the shelf" })),
+    { value: NONE, label: "Leave this slot out", group: "" },
   ];
 
   const raw = sp[slug];
@@ -137,12 +140,12 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
               <thead>
                 <tr>
                   <Th className="w-[130px]">Component</Th>
-                  <Th className="w-[270px]">Pick</Th>
+                  <Th className="w-[320px]">Pick</Th>
                   <Th align="right" className="w-[92px]">
                     Score
                   </Th>
                   <Th className="w-auto">Why</Th>
-                  <Th className="w-[300px]">Install</Th>
+                  <Th className="w-[280px]">Install</Th>
                 </tr>
               </thead>
               <tbody>
@@ -172,8 +175,10 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
                       {s.chosen === NONE ? "Left out" : s.why}
                     </td>
                     <td className={CELL}>
-                      {s.chosen === NONE ? null : s.row ? (
+                      {s.chosen === NONE ? null : s.row?.installable ? (
                         <InstallSnippet name={s.row.name} />
+                      ) : s.row ? (
+                        <NoInstall source={s.row.url} />
                       ) : (
                         <span className="inline-flex flex-wrap items-center gap-2">
                           <NotIndexedTag />
@@ -215,7 +220,13 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
 
           <h3 className="mt-10 text-[16px] font-semibold text-ink-hi">One command for these picks</h3>
           <div className="mt-3 max-w-[760px]">
-            <StackCommand names={chosen.map((s) => s.row?.name ?? s.chosen)} />
+            <StackCommand
+              picks={chosen.map((s) => ({
+                name: s.row?.name ?? s.chosen,
+                installable: s.row?.installable ?? false,
+                source: s.row?.url ?? s.sourceUrl,
+              }))}
+            />
           </div>
           <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-[13px] text-ink-muted">
             <span>Link to this stack</span>

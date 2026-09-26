@@ -38,7 +38,7 @@ export function HomeBoard({ tab }: { tab: BoardTab }) {
         <ContentWidth className="pb-8 pt-10">
           <h1 className="max-w-[36ch] text-[27px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
             <data value={String(meta.total)}>{int(meta.total)}</data> agent components ranked on public
-            evidence, refreshed nightly, each installed in one command
+            evidence, refreshed nightly
           </h1>
           <Counters meta={meta} now={now} />
 

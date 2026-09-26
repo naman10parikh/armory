@@ -37,7 +37,7 @@ const code = JetBrains_Mono({
 
 const SITE = "https://armory-murex.vercel.app";
 const DESCRIPTION =
-  "Open-source agent components (MCP servers, skills, sub-agents, hooks, evals) ranked on public evidence, refreshed nightly, each installed in one command.";
+  "Open-source agent components (MCP servers, skills, sub-agents, hooks, evals) ranked on public evidence, refreshed nightly, with how to install each one.";
 
 export const metadata: Metadata = {
   // Absolute og:image URLs need a base; production is the one alias every card should point at.

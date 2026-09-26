@@ -8,7 +8,7 @@
 
 ***For agents, by agents, of agents.***
 
-[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 64,000+ components](https://armory-murex.vercel.app/browse) · [Stack](https://armory-murex.vercel.app/stack) · [Components](https://armory-murex.vercel.app/c)
+[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 65,000+ components](https://armory-murex.vercel.app/browse) · [Stack](https://armory-murex.vercel.app/stack) · [Components](https://armory-murex.vercel.app/c)
 
 ![components](https://img.shields.io/badge/components-64%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
@@ -52,7 +52,7 @@ Armory mirrors and de-duplicates the biggest open-source catalogs into a single 
 
 | Category | What it holds |
 |---|---|
-| **MCPs** | PulseMCP + Smithery + Glama + mcp.so + awesome-mcp-servers + the official `modelcontextprotocol/servers` — deduped into ~21,000 |
+| **MCPs** | PulseMCP + Smithery + Glama + mcp.so + awesome-mcp-servers + the official `modelcontextprotocol/servers` — deduped into ~61,700 (26 September 2026) |
 | **Skills** | `anthropics/skills` + `obra/superpowers` + community skill packs + awesome-claude-code |
 | **Sub-Agents** | wshobson, VoltAgent, davila7, + community collections |
 | **Rules** | awesome-cursorrules + multi-language rule packs + CLAUDE.md collections |
@@ -76,9 +76,9 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 ```bash
 npm i -g @namanparikh/armory                  # install once — the command is `armory`
 armory init --claude                            # wire the Armory MCP into this harness (--cursor|--codex|--opencode|--gemini)
-armory search "browser automation"              # rank across ~64,000 components
-armory install playwright-mcp                   # fetch + wire it into THIS project's harness
-armory install code-reviewer --cli cursor       # …or target Cursor / Codex / OpenCode / Gemini
+armory search "browser automation"              # rank across 65,000+ components
+armory install github-mcp                       # wire GitHub's own MCP server into THIS project's harness
+armory install senior-code-reviewer --cli cursor  # …or target Cursor / Codex / OpenCode / Gemini
 # no global install? one-off:  npx @namanparikh/armory search "…"
 ```
 
@@ -86,7 +86,7 @@ armory install code-reviewer --cli cursor       # …or target Cursor / Codex / 
 
 ## Install Armory itself as a plugin — one step, any harness
 
-Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 64,000+ components — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
+Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 65,000+ components (65,318 on 26 September 2026) — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
 
 | Harness | Install |
 |---|---|

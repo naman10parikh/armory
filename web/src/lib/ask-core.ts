@@ -6,11 +6,13 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied to the site root by prebuild)
 import { computeRows } from "../../lib/rank.mjs";
+import { isInstallable } from "./installable";
 
 export interface Primary { key: string; value: number | null; pct: number; label: string }
 export interface Signals { stars: number | null; usage: number | null; tested: number | null; mentions: number | null }
 interface EngineRow {
-  name: string; component: string; domain: string; vertical: string | null; url: string | null;
+  name: string; type: string | null; contributor: string | null;
+  component: string; domain: string; vertical: string | null; url: string | null;
   desc: string; scores: { universal: number | null }; primary: Primary | null;
   verified?: boolean; signals: Signals;
 }
@@ -69,6 +71,10 @@ export interface AskItem {
   name: string; component: string; domain: string; vertical: string | null;
   url: string | null; universal: number | null; primary: Primary | null; desc: string;
   verified: boolean; signals: Signals;
+  /** The feed that contributed the row ("Sentinel"), from lib/rank.mjs. */
+  contributor: string | null;
+  /** Whether `armory install` places it (src/lib/installable.ts). */
+  installable: boolean;
 }
 interface Filters { component?: string; domain?: string; vertical?: string }
 
@@ -107,6 +113,8 @@ function runSearch(qTerms: string[], f: Filters, limit = 12): AskItem[] {
     universal: h.row.scores.universal,
     primary: h.row.primary,
     desc: h.row.desc,
+    contributor: h.row.contributor ?? null,
+    installable: isInstallable(h.row.type ?? "", h.row.name, h.row.url),
     // The card leads with the ranking, so it needs the trust chip and every raw signal (for the
     // hover breakdown) — the same three things the Leaderboard row shows.
     verified: h.row.verified ?? false,

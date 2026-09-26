@@ -1,7 +1,7 @@
 {
   "name": "armory",
   "version": "0.2.0",
-  "description": "Armory — aggregator-of-aggregators registry for Hermes. Bundles the Armory MCP server (search + install across 24,000+ components) and 2,546 vendored skills, commands, hooks, and agents.",
+  "description": "Armory — aggregator-of-aggregators registry for Hermes. Bundles the Armory MCP server (search + install across 65,000+ components) and 2,546 vendored skills, commands, hooks, and agents.",
   "author": {
     "name": "Naman Parikh",
     "email": "naman10parikh@gmail.com",

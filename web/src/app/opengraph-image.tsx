@@ -21,7 +21,7 @@ export default async function Image() {
           {`${int(meta.total)} agent components, ranked on public evidence`}
         </div>
         <div style={{ display: "flex", marginTop: 16, fontSize: 28, color: OG.muted }}>
-          Each one installs in one command
+          Refreshed nightly, with how to install each one
         </div>
         <div style={{ display: "flex", flexDirection: "column", marginTop: "auto", marginBottom: 28 }}>
           {top.map((r, i) => (

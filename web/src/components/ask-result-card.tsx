@@ -1,7 +1,7 @@
 import { clampWords } from "./data-table";
 import { ScoreBadge } from "./score-badge";
 import { SignalsRow, type SignalValues } from "./signals-row";
-import { InstallSnippet } from "./install-snippet";
+import { InstallSnippet, NoInstall } from "./install-snippet";
 import { evidenceOf } from "./ranked-row";
 
 export interface AskResultItem {
@@ -13,6 +13,10 @@ export interface AskResultItem {
   universal: number | null;
   desc: string;
   signals: SignalValues;
+  /** The feed that contributed the row ("Sentinel"), from lib/rank.mjs. */
+  contributor?: string | null;
+  /** Whether `armory install` places it; the card says so plainly when not. */
+  installable?: boolean;
 }
 
 /** One Ask result — the card form (design/BRIEF.md §9's Card spec: single 1px line-subtle
@@ -38,6 +42,9 @@ export function AskResultCard({ item }: { item: AskResultItem }) {
           <div className="mt-0.5 truncate text-[11.5px] text-ink-muted">
             {[item.component, item.domain, item.vertical].filter(Boolean).join(" · ")}
           </div>
+          {item.contributor && (
+            <div className="mt-0.5 text-[11.5px] text-ink-faint">Contributed by {item.contributor}</div>
+          )}
         </div>
         <ScoreBadge score={item.universal} evidence={evidenceOf(item.signals)} />
       </div>
@@ -47,7 +54,7 @@ export function AskResultCard({ item }: { item: AskResultItem }) {
       )}
 
       <SignalsRow signals={item.signals} />
-      <InstallSnippet name={item.name} />
+      {item.installable ? <InstallSnippet name={item.name} /> : <NoInstall source={item.url} />}
     </article>
   );
 }

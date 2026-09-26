@@ -28,8 +28,13 @@ When an agent's task involves the GitHub API — filing an issue from a CI failu
 pattern across a repo. Prefer it over scripted `gh`/`git` when you want structured tool calls.
 
 ## How to install / invoke
-Add to your MCP config (e.g. `.mcp.json`) pointing at the GitHub MCP server, with a token in the environment. The
-canonical maintained server is `github/github-mcp-server`.
+Run GitHub's own server image, as its README documents, with a personal access token set in the environment the
+harness starts it from:
+
+`docker run -i --rm -e GITHUB_PERSONAL_ACCESS_TOKEN ghcr.io/github/github-mcp-server`
+
+GitHub also hosts the same server at `https://api.githubcopilot.com/mcp/` for harnesses that connect to a remote MCP
+server. GitHub publishes no npm package for it: `github-mcp-server` on npm comes from another publisher.
 
 ## Notes
 Scope the token to what the agent actually needs. A `gh` CLI remains a fine fallback for scripted flows where you

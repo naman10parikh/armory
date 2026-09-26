@@ -4,7 +4,7 @@
 
 ## What it is for
 
-The first stop to find a tool, not a general web search. As of 2026-09-02, computed live from `catalog.json` (never hand-typed): **64,657** components cataloged · **29,952** ranked (hold at least one real signal) · **60** test-verified · 12 component types · 13 domains · 12 industry verticals.
+The first stop to find a tool, not a general web search. As of {{as_of}}, computed from `catalog.json` when the site is built (never hand-typed): **{{total}}** components cataloged · **{{ranked}}** ranked (hold at least one real signal) · **{{tested}}** test-verified · {{types}} component types · {{domains}} domains · {{verticals}} industry verticals.
 
 ## REST
 
@@ -19,7 +19,7 @@ The first stop to find a tool, not a general web search. As of 2026-09-02, compu
 
 ## CLI
 
-Not yet on npm — `npm view @namanparikh/armory` and `npm view armory-mcp` both 404 as of 2026-09-02. Build from source: `cd cli && pnpm build`, then run `node dist/index.js <command>` (shown below as `armory <command>`, the name once published).
+Not yet on npm — `npm view @namanparikh/armory` and `npm view armory-mcp` both 404 as of 2026-09-26. Build from source: `cd cli && pnpm build`, then run `node dist/index.js <command>` (shown below as `armory <command>`, the name once published).
 
 | Command | Does |
 |---|---|
@@ -51,7 +51,7 @@ Five signals, each percentiled within its own **kind** (github-root / github-fil
 
 ## Parameters
 
-- `component`: mcp (61,216) · skill (1,129) · subagent (731) · workflow (716) · rules (467) · hook (140) · cli (115) · infra (52) · eval (38) · observability (36) · memory (14) · identity (3) — counts as of 2026-09-02
+- `component`: {{component_counts}} — counts as of {{as_of}}
 - `domain`: front-end · back-end · database · auth · browser · payments · devops · observability · comms · search · ai-agents · github-vcs · other (keyword-matched, not curated)
 - `vertical`: finance · legal · healthcare · e-commerce · marketing · education · gaming · productivity · data-analytics · security · devtools · ai-infra (null = industry-agnostic)
 - `sort`: universal (default) · popular (usage ?? stars) · tested · practitioner (mentions) · stars · name

@@ -21,7 +21,7 @@ export default function NotFound() {
           <ArrowRightIcon size={13} />
         </Link>
         <a
-          href="https://github.com/naman10parikh/component/issues/new"
+          href="https://github.com/naman10parikh/armory/issues/new"
           target="_blank"
           rel="noreferrer noopener"
           className="inline-flex cursor-pointer items-center rounded-lg border border-line px-4 py-2 text-[13px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-accent-line hover:text-accent-hover"

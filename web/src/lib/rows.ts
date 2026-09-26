@@ -9,6 +9,7 @@ import { join } from "node:path";
 import { computeRows, facetsOf, orderByScore, rankRows } from "../../lib/rank.mjs";
 import type { SignalValues } from "@/components/signals-row";
 import { contributorOf, isOurs } from "./format";
+import { isInstallable } from "./installable";
 
 export interface BoardRow {
   name: string;
@@ -38,6 +39,8 @@ export interface BoardRow {
   ours: boolean;
   /** The feed that contributed the row ("Sentinel" for a `sentinel-feed` tag), else null. */
   contributedBy: string | null;
+  /** True when `armory install <name>` places something (src/lib/installable.ts). */
+  installable: boolean;
   /** Position in the engine's default order (0 = first). Sorting a subset by it keeps that order. */
   order: number;
 }
@@ -199,6 +202,7 @@ function load(): State {
         gained: typeof gained === "number" && gained > 0 ? gained : null,
         ours: isOurs(e.url),
         contributedBy: contributorOf(Array.isArray(raw.tags) ? raw.tags : null),
+        installable: isInstallable(type, e.name, e.url),
         order: position.get(e) ?? Number.MAX_SAFE_INTEGER,
       };
     });
