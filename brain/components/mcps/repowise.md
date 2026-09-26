@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 743
-pushed_at: "2026-09-26T13:28:02Z"
+pushed_at: "2026-09-26T14:32:25Z"
 ---
 ## What it is
 Provides AI coding agents with five intelligence layers (dependency graph, git history, documentation, architectural decisions, code health) via nine MCP tools, enabling deep codebase understanding and reducing exploration cost.

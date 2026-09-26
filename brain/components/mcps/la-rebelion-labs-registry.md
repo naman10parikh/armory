@@ -9,12 +9,13 @@ license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
 stars: 7213
-verified_at: 2026-05-26
+verified_at: 2026-09-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 976
 pushed_at: "2026-08-26T23:33:36Z"
 mentions: 2
+eval_score: 1
 ---
 ## What it is
 MCP server `MCP Registry`, catalogued on PulseMCP. Search and discover MCP servers through the official MCP Registry service.

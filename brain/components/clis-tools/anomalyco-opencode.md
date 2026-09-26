@@ -9,9 +9,9 @@ license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
 stars: 203133
-eval_score: null
+eval_score: 1
 mentions: 37
-verified_at: 2026-09-02
+verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed]
 forks: 26456

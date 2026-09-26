@@ -8,12 +8,12 @@ source_url: https://github.com/totec448-spec/chat-on-steroids
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4046
+stars: 4047
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 538
+forks: 540
 pushed_at: "2026-09-22T11:55:37Z"
 ---
 ## What it is

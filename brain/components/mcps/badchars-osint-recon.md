@@ -8,7 +8,7 @@ source_url: https://github.com/badchars/osint-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

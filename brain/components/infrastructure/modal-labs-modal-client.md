@@ -15,7 +15,7 @@ verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, infrastructure]
 forks: 132
-pushed_at: "2026-09-25T22:41:27Z"
+pushed_at: "2026-09-26T13:51:39Z"
 ---
 ## What it is
 SDK libraries for Modal

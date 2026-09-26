@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T13:04:14Z"
+pushed_at: "2026-09-26T14:44:09Z"
 ---
 ## What it is
 Provides AI agents with a live architecture model of a codebase, enabling queries for root cause analysis, blast radius, and dependency traversal through MCP tools.

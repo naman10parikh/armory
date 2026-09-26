@@ -8,13 +8,13 @@ source_url: https://github.com/aaif-goose/goose
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 54669
+stars: 54672
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 6319
+forks: 6318
 pushed_at: "2026-09-25T20:13:57Z"
 ---
 ## What it is

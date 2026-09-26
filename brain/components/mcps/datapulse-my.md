@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T13:51:37Z"
+pushed_at: "2026-09-26T15:20:20Z"
 ---
 ## What it is
 Trust layer for 375 Malaysian public datasets. Independent probes every 15 min, 10-status taxonomy, machine-readable licence metadata, read-only MCP. No API key.
