@@ -120,8 +120,10 @@ function runSearch(qTerms: string[], f: Filters, limit = 12): AskItem[] {
   }));
 }
 
-// The valid facet vocabularies, given to Gemini so it maps intent onto the catalog's own axes.
-const COMPONENT_TYPES = "mcp, cli, skill, plugin, hook, subagent, rules, tool, memory, eval, docs, agent";
+// The valid facet vocabularies, given to Gemini so it maps intent onto the catalog's own axes. Components
+// are only those with rows: /ask shows the component it read as a chip, and plugin, tool, docs or agent
+// matched nothing, so the chip named a filter the answer had dropped (CP138 PR F).
+const COMPONENT_TYPES = "mcp, cli, skill, hook, subagent, rules, memory, eval";
 const VERTICALS =
   "finance, legal, healthcare, e-commerce, marketing, devtools, ai-infra, security, data-analytics, productivity, education, gaming";
 

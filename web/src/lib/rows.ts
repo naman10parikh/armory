@@ -372,7 +372,13 @@ export function isMoved(type: string, name: string): boolean {
 }
 
 /** A leaderboard page: the engine filters and sorts (so it matches GET /api/rank), the board adds dates. */
-export function leaderboardPage(q: LeaderboardQuery): { rows: ListedRow[]; total: number; fit: ShelfFit | null } {
+export function leaderboardPage(q: LeaderboardQuery): {
+  rows: ListedRow[];
+  total: number;
+  fit: ShelfFit | null;
+  /** The components the component filter lists (lib/rank.mjs componentsOf): the chips to light. */
+  components: string[] | null;
+} {
   const state = load();
   const result = rankRows(state.engine, {
     component: q.component,
@@ -381,11 +387,16 @@ export function leaderboardPage(q: LeaderboardQuery): { rows: ListedRow[]; total
     sort: q.sort,
     dir: q.dir,
     limit: q.offset + q.limit,
-  }) as { items: { name: string; type: string | null }[]; total: number; fit: ShelfFit | null };
+  }) as { items: { name: string; type: string | null }[]; total: number; fit: ShelfFit | null; components: string[] | null };
   const rows = result.items
     .slice(q.offset)
     .map((it) => state.byKey.get(`${it.type ?? ""}/${it.name}`))
     .filter((r): r is BoardRow => r != null);
   const folded = q.sort === "universal" && q.dir === "desc";
-  return { rows: folded ? foldSameRepo(rows, q.offset + 1) : numbered(rows, q.offset + 1), total: result.total, fit: result.fit };
+  return {
+    rows: folded ? foldSameRepo(rows, q.offset + 1) : numbered(rows, q.offset + 1),
+    total: result.total,
+    fit: result.fit,
+    components: result.components,
+  };
 }

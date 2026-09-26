@@ -4,12 +4,12 @@
 // and armory-mcp's vitest. Nothing ships unless these pass.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { readFileSync, existsSync } from "node:fs";
+import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
 import { gradeComponent, stackPickGaps } from "./test-gate.mjs";
-import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, fitsShelf, rankRows } from "../lib/rank.mjs";
+import { SHELF_FIT, SHELF_MOVES, SHELVES, componentsOf, computeRows, facetsOf, fitsShelf, rankRows } from "../lib/rank.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -173,6 +173,20 @@ test("every SHELF_MOVES row is in catalog.json under the type it is keyed by", (
   }
 });
 
+test("agent frameworks the crawl filed as command-line tools list on Dispatch, beside CrewAI, LangGraph and AutoGen", () => {
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const rows = computeRows(JSON.parse(readFileSync(p, "utf8")).components);
+  const dispatch = rankRows(rows, { component: "dispatch", limit: 1000 });
+  const listed = new Set(dispatch.items.map((i) => `${i.type}/${i.name}`));
+  // Mastra arrived with Sentinel sync #33 as a command-line tool, so it sat on no shelf and its page's only
+  // alternative was the Snyk CLI (CP138 PR F).
+  for (const key of ["clis-tools/crewaiinc-crewai", "clis-tools/langchain-ai-langgraph", "clis-tools/microsoft-autogen", "clis-tools/mastra-ai-mastra"]) {
+    assert.ok(listed.has(key), `${key} is listed on Dispatch`);
+  }
+  assert.equal(dispatch.total, dispatch.items.length, "the whole shelf fits under the limit, so a missing row is not cut off");
+});
+
 test("SHELVES names the same shelves and components as web/src/data/stack.json", () => {
   const stack = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8"));
   assert.deepEqual(SHELVES, Object.fromEntries(stack.components.map((c) => [c.slug, c.aggregates])));
@@ -196,6 +210,75 @@ test("rankRows takes a shelf name: tools, sandbox and dispatch list their shelve
   assert.deepEqual(names("identity"), ["card"], "a component key lists its own rows, so a leaderboard chip's count holds");
   assert.deepEqual(componentsOf("tools"), ["cli", "tool"]);
   assert.deepEqual(componentsOf("clis-tools"), ["cli"], "a catalog type still resolves");
+});
+
+test("rankRows names the components its filter lists, the chips the leaderboard lights", () => {
+  const row = (name, type, description) => ({ name, type, description, stars: 10, source_url: `https://github.com/a/${name}` });
+  const rows = computeRows([
+    row("gh", "clis-tools", "GitHub's official command line tool"),
+    row("sbx", "infrastructure", "Sandboxes for running AI-generated code"),
+    row("n8n", "workflows", "Workflow automation platform"),
+  ]);
+  const lit = (component) => rankRows(rows, { component }).components;
+  assert.deepEqual(lit("tools"), ["cli", "tool"], "?component=tools lights cli, as ?component=cli does");
+  assert.deepEqual(lit("tool"), ["cli", "tool"]);
+  assert.deepEqual(lit("sandbox"), ["infra"]);
+  assert.deepEqual(lit("dispatch"), ["workflow"]);
+  assert.deepEqual(lit("cli"), ["cli"]);
+  assert.equal(rankRows(rows, {}).components, null, "no component filter lights no component chip");
+});
+
+test("domain: \"subscription\" counts toward payments only beside a payments word", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [orca, feeds, stripe, lemon, chargebee] = computeRows([
+    row("stablyai-orca", "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription."),
+    row("feeds", "Manage RSS feed subscriptions and unread counts"),
+    row("stripe-tools", "Stripe billing: customers and subscriptions"),
+    row("lemon-tools", "Manage Lemon Squeezy stores, products and subscriptions"),
+    row("chargebee-tools", "Query Chargebee subscriptions and customers"),
+  ]);
+  assert.equal(orca.domain, "ai-agents", "someone's own plan is not payments");
+  assert.notEqual(feeds.domain, "payments", "a feed subscription is not payments");
+  assert.equal(stripe.domain, "payments", "beside a payments word it still counts");
+  assert.equal(lemon.domain, "payments", "Lemon Squeezy is a billing platform, like Stripe");
+  assert.equal(chargebee.domain, "payments", "so is Chargebee");
+});
+
+test("the Ask interpreter offers only components that have rows, so /ask never shows a plugin chip", () => {
+  const src = readFileSync(join(ROOT, "web/src/lib/ask-core.ts"), "utf8");
+  const m = src.match(/const COMPONENT_TYPES = "([^"]+)"/);
+  assert.ok(m, "web/src/lib/ask-core.ts declares COMPONENT_TYPES as one string");
+  const offered = m[1].split(",").map((w) => w.trim());
+  assert.ok(!offered.includes("plugin"), "no row is filed under plugin");
+  const p = join(ROOT, "catalog.json");
+  if (!existsSync(p)) return;
+  const withRows = new Set(facetsOf(computeRows(JSON.parse(readFileSync(p, "utf8")).components)).components.map((f) => f.key));
+  for (const c of offered) assert.ok(withRows.has(c), `${c} has rows, so its chip matches something`);
+});
+
+// ── robots.txt and sitemap.xml (static files in web/src/app, served at the site root) ─
+test("sitemap.xml lists every fixed page and every shelf, and robots.txt points to it", () => {
+  const SITE = "https://armory-murex.vercel.app";
+  const app = join(ROOT, "web/src/app");
+  // A fixed page is a page.tsx with no [dynamic] folder on its path; /c/[component] is listed by shelf.
+  const fixed = [];
+  const walk = (dir, route) => {
+    for (const e of readdirSync(dir, { withFileTypes: true })) {
+      if (e.isDirectory() && !e.name.startsWith("[")) walk(join(dir, e.name), `${route}/${e.name}`);
+      else if (e.isFile() && e.name === "page.tsx") fixed.push(route || "/");
+    }
+  };
+  walk(app, "");
+  const shelves = JSON.parse(readFileSync(join(ROOT, "web/src/data/stack.json"), "utf8")).components.map((c) => `/c/${c.slug}`);
+  const locs = [...readFileSync(join(app, "sitemap.xml"), "utf8").matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+  assert.ok(locs.every((u) => u.startsWith(`${SITE}/`)), "every URL is absolute on the site");
+  const paths = locs.map((u) => u.slice(SITE.length).replace(/(.)\/$/, "$1"));
+  assert.equal(new Set(paths).size, paths.length, "no URL twice");
+  assert.deepEqual([...paths].sort(), [...fixed, ...shelves].sort(), "a page or shelf added or removed updates sitemap.xml");
+  const robots = readFileSync(join(app, "robots.txt"), "utf8");
+  assert.match(robots, /^User-agent: \*$/m);
+  assert.match(robots, new RegExp(`^Sitemap: ${SITE}/sitemap\\.xml$`, "m"));
+  assert.doesNotMatch(robots, /^Disallow: \/\s*$/m, "crawlers may read the whole site");
 });
 
 // ── /stack guard: a pick below its shelf's top row must say why ───────────────
