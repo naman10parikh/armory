@@ -143,7 +143,8 @@ export default async function ComponentDetailPage({
 
       <div className="mt-6 grid grid-cols-1 gap-10 lg:grid-cols-[1fr_320px]">
         {/* ── Main column ───────────────────────────────────────────── */}
-        <article className="min-w-0">
+        {/* One right edge for every block in the column, set by the prose measure (CP138 T23). */}
+        <article className="min-w-0 lg:max-w-2xl">
           {/* Header */}
           <header>
             <span className="inline-flex items-center gap-2">
@@ -222,7 +223,7 @@ export default async function ComponentDetailPage({
 
           {/* Install — J3, the design centre. The command plus the exact per-harness config it
               writes, driven by the one harness selector (the nav owns it from lg up). */}
-          <div className="mt-8 max-w-xl">
+          <div className="mt-8">
             <div className="mb-2 flex flex-wrap items-center justify-between gap-3">
               <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Install</h2>
               <HarnessSelector className="lg:hidden" />
@@ -236,7 +237,7 @@ export default async function ComponentDetailPage({
           </div>
 
           {alternatives.length > 0 && shelf && (
-            <section className="mt-10 max-w-xl">
+            <section className="mt-10">
               <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
                 Alternatives · {stackFor(shelf)?.label ?? shelf}
               </h2>

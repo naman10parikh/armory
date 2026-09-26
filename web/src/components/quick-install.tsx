@@ -10,19 +10,23 @@ import {
 } from "@/lib/install-targets";
 import { CommandText } from "./command-text";
 import { CheckIcon, CopyIcon, TerminalIcon } from "./icons";
+import { useHarness } from "./install-snippet";
 
 /*
   Compact one-click install for the browse cards. A small "Install" toggle opens
   an inline tray (no navigation, no modal) with the six-harness selector and the
   copyable `armory install` command for the chosen harness. Sits above the card's
   whole-card link overlay (relative z-10) so interacting with it never navigates.
+  It opens on the page's Harness selector when the component supports that harness.
 */
 export function QuickInstall({ component }: { component: Component }) {
   const [open, setOpen] = useState(false);
   const compat = new Set(component.cli_compat);
   const initial: Harness =
     (HARNESSES.find((h) => compat.has(h)) as Harness | undefined) ?? "claude";
-  const [active, setActive] = useState<Harness>(initial);
+  const shared = useHarness();
+  const [picked, setPicked] = useState<Harness | null>(null);
+  const active: Harness = picked ?? (compat.has(shared) ? shared : initial);
   const [copied, setCopied] = useState(false);
 
   const snippet = buildSnippet(component, active);
@@ -69,7 +73,7 @@ export function QuickInstall({ component }: { component: Component }) {
                   type="button"
                   role="tab"
                   aria-selected={isActive}
-                  onClick={() => setActive(h)}
+                  onClick={() => setPicked(h)}
                   className={`cursor-pointer rounded-md px-2 py-1 text-[10px] font-medium transition-colors ${
                     isActive
                       ? "bg-accent-quiet text-accent-hover"

@@ -10,6 +10,12 @@ export const metadata: Metadata = {
   description: "Agent components most recently added to the Armory catalog, with the date each was listed.",
 };
 
-export default function NewPage() {
-  return <HomeBoard tab="new" />;
+export default async function NewPage({
+  searchParams,
+}: {
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+}) {
+  const raw = (await searchParams).page;
+  const page = Number(Array.isArray(raw) ? raw[0] : raw);
+  return <HomeBoard tab="new" page={Number.isFinite(page) ? page : 1} />;
 }

@@ -7,6 +7,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ComponentCard } from "@/components/component-card";
+import { HarnessSelector } from "@/components/install-snippet";
 import { ContentWidth } from "@/components/data-table";
 import { SearchIcon, TypeIcon } from "@/components/icons";
 import { getCatalog } from "@/lib/catalog";
@@ -135,15 +136,19 @@ export default async function BrowsePage({ searchParams }: { searchParams: Promi
         </aside>
 
         <div>
-          <p className="mb-4 text-[13px] text-ink-muted" aria-live="polite">
-            <data value={String(results.length)} className="font-semibold text-ink-hi">
-              {int(results.length)}
-            </data>{" "}
-            results
-            {types.length > 0 && <> in {types.map((t) => CATEGORY_LABEL[t]).join(", ")}</>}
-            {q && <> for &ldquo;{q}&rdquo;</>} · page <data value={String(page)}>{int(page)}</data> of{" "}
-            <data value={String(pages)}>{int(pages)}</data>
-          </p>
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-x-6 gap-y-2">
+            <p className="text-[13px] text-ink-muted" aria-live="polite">
+              <data value={String(results.length)} className="font-semibold text-ink-hi">
+                {int(results.length)}
+              </data>{" "}
+              results
+              {types.length > 0 && <> in {types.map((t) => CATEGORY_LABEL[t]).join(", ")}</>}
+              {q && <> for &ldquo;{q}&rdquo;</>} · page <data value={String(page)}>{int(page)}</data> of{" "}
+              <data value={String(pages)}>{int(pages)}</data>
+            </p>
+            {/* The cards' install commands follow it; the nav owns this selector from lg up. */}
+            <HarnessSelector className="lg:hidden" />
+          </div>
 
           {shown.length === 0 ? (
             <div className="rounded-xl border border-line-subtle bg-raise-1 px-5 py-8">
