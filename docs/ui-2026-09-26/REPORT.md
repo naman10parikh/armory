@@ -88,3 +88,33 @@ Screenshots were taken at 390×844, 768×1024 and 1280×900 of `/`, `/leaderboar
 | `72e6c220f` | fix(web): preview cards lay out in one column; the stack command keeps its flags whole |
 | `4e617f28e` | feat(stack): runner-ups exactly as the CP138 Axis 1 table; accounts say they carry no score |
 | `ac6edd44f` | docs(ui): screenshots at 390, 768 and 1280, preview cards and the contributed-by row |
+
+## Checked on production after the deploy (26 September, 02:20)
+
+**Lighthouse 12.8.2** against `https://armory-murex.vercel.app` at `f2a4b092c`. The bar is performance and
+accessibility of 90 or more. It was run with a native arm64 Node from nodejs.org, because Lighthouse refuses the
+Mac's x64 Node (Rosetta would translate Chrome and skew the timings). Each page ran once in headless Chrome. The
+full reports are in `lighthouse/` and open in any browser.
+
+| Page | Device | Performance | Accessibility | Best practices | SEO | Largest paint | Speed index |
+|---|---|---|---|---|---|---|---|
+| `/` | phone (Lighthouse's throttled default) | 98 | 100 | 96 | 100 | 2.4 s | 1.0 s |
+| `/` | desktop | 100 | 100 | 96 | 100 | 0.5 s | 0.3 s |
+| `/stack` | phone | 93 | 100 | 96 | 90 | 2.0 s | 6.3 s |
+| `/stack` | desktop | 100 | 100 | 96 | 90 | 0.4 s | 0.3 s |
+
+Both pages pass on both devices. Total blocking time is 0 ms and layout shift is 0 on all four. Two things are
+worth a later look, and neither blocks the bar:
+
+- On a phone, `/stack` takes 6.3 s to fill the screen (its speed index). It is a long page.
+- `/stack` can't be restored from the back/forward cache.
+
+**Pixel check** (`pixel audit`, step 1: `impeccable detect`, pinned at 2.3.2, run in an E2B sandbox because it is
+third-party code):
+
+- On `main` it failed with one finding: "6 em-dashes in body text" in `web/src/app/layout.tsx`. Three of the six
+  were em-dashes in a code comment. The other three were the `--font-*` CSS variable names, which the rule also
+  counts.
+- The comment now uses colons. That leaves the three variable names, below the rule's limit of five.
+- Steps 2 to 7 of `pixel audit` need a running app, and they show as skipped in a static audit. Lighthouse above is
+  step 3 run for real, and it covers accessibility (step 2's ground) too.
