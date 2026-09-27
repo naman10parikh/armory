@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/faostat-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T05:48:08Z"
+pushed_at: "2026-09-19T17:20:13Z"
 ---
 ## What it is
 Global food & agriculture statistics from the UN FAOSTAT bulk-download corpus, served from a local SQLite mirror with a DataCanvas SQL surface, over MCP.

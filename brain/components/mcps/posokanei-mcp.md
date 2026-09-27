@@ -8,13 +8,13 @@ source_url: https://github.com/charistas/posokanei-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T09:25:28Z"
+pushed_at: "2026-09-13T04:15:44Z"
 ---
 ## What it is
 Read-only MCP server for Greek supermarket product and price data from PosoKanei. Enables product search, barcode lookup, price comparison across retailers, and basket evaluation.

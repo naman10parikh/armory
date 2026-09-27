@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T14:28:42Z"
+pushed_at: "2026-09-10T11:02:14Z"
 ---
 ## What it is
 Travel compliance and trip planning for digital nomads — visa requirements, tax residency analysis, Schengen 90/180-day tracking, and curated accommodation, transport, and experience search across 189 European destinations.

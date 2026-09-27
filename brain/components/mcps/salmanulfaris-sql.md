@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-15T19:01:52Z"
+pushed_at: "2026-09-22T16:46:21Z"
 ---
 ## What it is
 MCP server `SQL`, catalogued on PulseMCP. MCP server for SQL database access supporting MySQL, PostgreSQL, and SQLite with granular read/write permissions.

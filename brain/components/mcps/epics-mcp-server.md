@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T21:37:28Z"
+pushed_at: "2026-09-22T15:14:38Z"
 ---
 ## What it is
 Enables retrieval, setting, and detailed information lookup of EPICS process variables (PVs) for monitoring and controlling hardware or software parameters.

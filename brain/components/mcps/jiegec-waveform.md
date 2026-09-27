@@ -8,11 +8,11 @@ source_url: https://github.com/jiegec/waveform-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 5
 pushed_at: "2026-08-01T09:49:24Z"
 ---
 ## What it is

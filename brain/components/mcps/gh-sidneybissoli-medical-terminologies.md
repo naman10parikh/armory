@@ -8,12 +8,12 @@ source_url: https://github.com/sidneybissoli/medical-terminologies-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-02T03:32:19Z"
+forks: 5
+pushed_at: "2026-09-25T18:37:31Z"
 ---
 ## What it is
 MCP server `Medical Terminologies`, catalogued on PulseMCP. Unified access to global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH, ATC, CID-10.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:52:34Z"
+pushed_at: "2026-09-25T23:05:08Z"
 ---
 ## What it is
 Provides access to Poland's national open data portal (Otwarte Dane) through natural language queries, enabling users to search and retrieve datasets from dane.gov.pl.

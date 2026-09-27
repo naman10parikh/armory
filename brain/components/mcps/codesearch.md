@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/tscodesearch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-24T13:23:18Z"
+pushed_at: "2026-09-24T07:51:52Z"
 ---
 ## What it is
 Full-text and structural code search for a large monorepo, exposing results as MCP tools so Claude can query the codebase directly without copy-pasting.

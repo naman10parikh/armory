@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T16:39:03Z"
+pushed_at: "2026-09-25T15:59:26Z"
 ---
 ## What it is
 Monitor taken usernames and get alerted the moment they free up or drop, so you can claim a handle before anyone else. Also checks live username availability across the major social platforms, domain availability across popular TLDs, and screens names for trademark conflicts.

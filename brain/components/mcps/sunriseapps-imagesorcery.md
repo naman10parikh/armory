@@ -8,11 +8,11 @@ source_url: https://github.com/sunriseapps/imagesorcery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 329
+stars: 333
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
+forks: 53
 pushed_at: "2026-05-19T08:19:25Z"
 ---
 ## What it is

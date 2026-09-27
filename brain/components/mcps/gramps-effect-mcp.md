@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T03:37:48Z"
+pushed_at: "2026-09-13T13:31:55Z"
 ---
 ## What it is
 An Effect TypeScript MCP server for safe access to Gramps Web, exposing records, relationships, timelines, media, and verified mutations to MCP clients.

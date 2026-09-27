@@ -8,12 +8,12 @@ source_url: https://github.com/vercel/next-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 816
+stars: 823
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
-pushed_at: "2026-06-25T22:30:14Z"
+forks: 65
+pushed_at: "2026-09-15T00:32:28Z"
 ---
 ## What it is
 MCP server `Next.js DevTools`, catalogued on PulseMCP. Development tools and runtime diagnostics for Next.js projects

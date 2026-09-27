@@ -8,12 +8,12 @@ source_url: https://github.com/contextstream/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-09-01T18:56:59Z"
+forks: 11
+pushed_at: "2026-09-27T08:07:09Z"
 ---
 ## What it is
 MCP server `ContextStream`, catalogued on PulseMCP. Persistent memory and semantic search for AI coding assistants

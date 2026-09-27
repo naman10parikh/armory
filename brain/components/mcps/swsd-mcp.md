@@ -8,13 +8,13 @@ source_url: https://github.com/mikimatsub/swsd-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:38:50Z"
+pushed_at: "2026-09-24T21:01:53Z"
 ---
 ## What it is
 MCP server for SolarWinds Service Desk (SWSD/Samanage) enabling reading and modifying tickets, comments, knowledge-base articles, and more via each user's own API token.

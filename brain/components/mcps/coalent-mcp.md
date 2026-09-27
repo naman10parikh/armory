@@ -8,13 +8,13 @@ source_url: https://github.com/Vectorlink-Labs/coalent
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-17T06:59:01Z"
+pushed_at: "2026-09-17T07:18:52Z"
 ---
 ## What it is
 MCP server that serves fresh, attributed facts from a Coalent semantic cache, automatically invalidating when underlying sources change, for use with Claude Code, Cursor, and other MCP clients.

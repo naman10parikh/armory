@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:15:38Z"
+pushed_at: "2026-09-17T04:03:57Z"
 ---
 ## What it is
 This server enables AI agents to source consumer packaged goods from marketplaces over x402, providing tools for searching brands, retrieving detailed product and knowledge graph data, and initiating follow-up actions like instant messaging or contacting the trading desk.

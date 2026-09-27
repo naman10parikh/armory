@@ -8,11 +8,11 @@ source_url: https://github.com/adeze/raindrop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 181
+stars: 187
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2026-07-24T01:14:54Z"
 ---
 ## What it is

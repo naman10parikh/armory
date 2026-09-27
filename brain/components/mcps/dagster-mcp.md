@@ -8,13 +8,13 @@ source_url: https://github.com/fabdendev/dagster-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-21T20:10:03Z"
+forks: 8
+pushed_at: "2026-09-14T07:19:22Z"
 ---
 ## What it is
 An MCP server that gives AI agents full visibility and control over your Dagster instance, enabling autonomous monitoring, diagnosis, and remediation of data pipelines.

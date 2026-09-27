@@ -8,14 +8,14 @@ source_url: https://github.com/agntcy/identity
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 101
+stars: 103
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 20
-pushed_at: "2026-02-24T09:42:02Z"
+forks: 21
+pushed_at: "2026-09-23T09:03:38Z"
 ---
 ## What it is
 Use when agents, MCP servers and multi-agent systems all need issued identities that another party can verify.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:25:40Z"
+pushed_at: "2026-09-26T20:01:53Z"
 ---
 ## What it is
 Enables geocoding and reverse geocoding from OpenStreetMap data using the free Nominatim API.

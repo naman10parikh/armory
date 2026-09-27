@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T07:48:36Z"
+pushed_at: "2026-09-05T20:47:47Z"
 ---
 ## What it is
 Enables AI agents to install and bootstrap projects using Airlock Smith, a guided spec-building workflow.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T20:39:15Z"
+pushed_at: "2026-09-18T03:56:47Z"
 ---
 ## What it is
 Connects AI agents to the OpenAlex scholarly database, enabling search and retrieval of works, authors, institutions, and sources via natural language.

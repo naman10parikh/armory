@@ -8,13 +8,13 @@ source_url: https://github.com/posecode-dev/posecode
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 108
+stars: 116
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-31T21:14:02Z"
+forks: 10
+pushed_at: "2026-09-21T06:17:16Z"
 ---
 ## What it is
 MCP server for Posecode

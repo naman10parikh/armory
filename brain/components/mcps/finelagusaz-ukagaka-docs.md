@@ -8,12 +8,12 @@ source_url: https://github.com/finelagusaz/ukagaka-doc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-31T09:50:01Z"
+forks: 1
+pushed_at: "2026-09-27T12:44:57Z"
 ---
 ## What it is
 MCP server `Ukagaka Docs`, catalogued on PulseMCP. Searches offline snapshots of Ukagaka desktop mascot documentation including UKADOC, YAYA Wiki, and Satori Wiki.

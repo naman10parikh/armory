@@ -8,13 +8,13 @@ source_url: https://github.com/AleBrito124356/mcp-devils-advocate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T00:23:56Z"
+pushed_at: "2026-09-23T18:32:31Z"
 ---
 ## What it is
 Enforces structured adversarial reasoning via devil's advocate, premortem, assumption audit, and steelman protocols to stress-test claims and decisions.

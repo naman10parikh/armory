@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T19:51:29Z"
+pushed_at: "2026-09-18T20:27:06Z"
 ---
 ## What it is
 An MCP server for Actual Budget that enables AI agents to read and manage budget data, including accounts, transactions, categories, payees, and budget envelopes, via a long-lived engine singleton.

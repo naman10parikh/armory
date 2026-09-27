@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:15:23Z"
+pushed_at: "2026-09-14T23:15:21Z"
 ---
 ## What it is
 Provides tools to query Brazilian Central Bank public data, including SGS time series and PTAX exchange rates.

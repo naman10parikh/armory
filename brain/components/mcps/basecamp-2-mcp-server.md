@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T20:43:46Z"
+pushed_at: "2026-09-16T14:54:18Z"
 ---
 ## What it is
 An MCP server that wraps the Basecamp 2 REST API, enabling Claude to create and manage todos, projects, and people through natural language.

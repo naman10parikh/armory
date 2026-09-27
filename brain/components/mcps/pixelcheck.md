@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-31T01:08:07Z"
+pushed_at: "2026-09-21T01:09:55Z"
 ---
 ## What it is
 MCP server `Pixelcheck`, catalogued on PulseMCP. Visual inspection and web interaction for AI agents: audit pages, extract data, and judge UI correctness.

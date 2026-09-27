@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:43:02Z"
+pushed_at: "2026-09-26T01:35:11Z"
 ---
 ## What it is
 Enables retrieval of CV data as JSON, listing available themes, and generating themed CV PDFs via MCP tools and REST endpoints.

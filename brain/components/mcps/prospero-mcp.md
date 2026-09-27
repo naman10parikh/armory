@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:45:02Z"
+pushed_at: "2026-09-10T23:44:17Z"
 ---
 ## What it is
 MCP server for querying PROSPERO registered protocols, enabling search, retrieval, and registration workflow management.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-09-01T13:57:24Z"
+forks: 5
+pushed_at: "2026-09-19T01:32:34Z"
 ---
 ## What it is
 Enables AI agents to read, write, search, and manage .klypix canvas files for persistent spatial memory across sessions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:20:13Z"
+pushed_at: "2026-09-27T10:13:39Z"
 ---
 ## What it is
 An MCP server for Swiss Federal Railways (SBB) open data, enabling AI models to query real-time disruptions, passenger frequencies, station details, and more without an API key.

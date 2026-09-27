@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T17:43:41Z"
+pushed_at: "2026-09-26T03:55:49Z"
 ---
 ## What it is
 Enables LLMs to search astronomical literature, retrieve paper metadata, analyze citation metrics, and export bibliographic data via the NASA Astrophysics Data System (SciX) API.

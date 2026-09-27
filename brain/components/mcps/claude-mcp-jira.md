@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T03:25:01Z"
+pushed_at: "2026-09-16T15:04:50Z"
 ---
 ## What it is
 Integrates Claude with Jira for corporate environments using an internal MCP server with SSE, supporting ticket creation, update, summarization, and listing via natural language commands.

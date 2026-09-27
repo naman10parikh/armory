@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 9
 forks: 5
-pushed_at: "2026-08-07T15:59:11Z"
+pushed_at: "2026-09-12T01:11:10Z"
 ---
 ## What it is
 MCP to Access SEC filings, financials & insider trading data in real time using [ShareSeer](https://shareseer.com)

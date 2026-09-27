@@ -8,13 +8,13 @@ source_url: https://github.com/3lmglow/Phosphene
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 79
+stars: 84
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 49
-pushed_at: "2026-08-30T08:44:56Z"
+forks: 58
+pushed_at: "2026-09-07T15:48:35Z"
 ---
 ## What it is
 An MCP server for intimate human-AI relationships that enables AI to create and manage daily tasks, challenges, and surprise tasks, with user completion tracking, points, and rewards.

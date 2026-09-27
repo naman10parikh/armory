@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T15:48:58Z"
+pushed_at: "2026-09-09T19:40:50Z"
 ---
 ## What it is
 Readonly PostgreSQL MCP server with SQL guardrails for analytical queries and schema introspection.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:35:01Z"
+pushed_at: "2026-09-26T21:07:57Z"
 ---
 ## What it is
 MCP server `Public Suffix List`, catalogued on PulseMCP. Parses effective TLDs using the Mozilla Public Suffix List with 24-hour caching.

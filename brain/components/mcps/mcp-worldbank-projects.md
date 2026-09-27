@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:50:29Z"
+pushed_at: "2026-09-26T22:26:01Z"
 ---
 ## What it is
 Enables querying World Bank projects and operations data using natural language through the Pipeworx MCP gateway.

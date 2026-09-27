@@ -8,13 +8,13 @@ source_url: https://github.com/meob/Euclid-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T22:48:07Z"
+pushed_at: "2026-09-24T01:43:59Z"
 ---
 ## What it is
 MCP server for logical reasoning that turns facts into formal proofs using a deterministic inference engine with Prolog.

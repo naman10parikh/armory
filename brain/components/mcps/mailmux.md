@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T13:26:23Z"
+pushed_at: "2026-09-21T13:27:11Z"
 ---
 ## What it is
 A self-hosted MCP server that unifies multiple IMAP/SMTP mailboxes into one agentic inbox, enabling agents to list, search, read, and send email through MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T23:01:55Z"
+pushed_at: "2026-09-21T21:16:13Z"
 ---
 ## What it is
 Exposes 17 read-only tools from six XRPL-Utilities services so AI agents can access XRPL wallet analysis, signal feeds, macro telemetry, permissioned asset stacks, RWA tracking, and ETF flow data.

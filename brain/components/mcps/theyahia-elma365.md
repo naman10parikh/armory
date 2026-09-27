@@ -12,8 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-06-23T12:11:39Z"
+forks: 1
+pushed_at: "2026-09-02T19:13:04Z"
 ---
 ## What it is
 MCP server `ELMA365`, catalogued on PulseMCP. Integrates with ELMA365 for application elements and BPM task management.

@@ -8,11 +8,11 @@ source_url: https://github.com/rcontesti/ib_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 26
 pushed_at: "2025-10-23T19:49:51Z"
 ---
 ## What it is

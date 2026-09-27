@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T03:01:08Z"
+pushed_at: "2026-09-24T03:42:52Z"
 ---
 ## What it is
 MCP server for Hacker News providing tools to fetch stories, threads, users, and search content via Firebase and Algolia APIs.

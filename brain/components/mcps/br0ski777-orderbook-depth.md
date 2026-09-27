@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T19:51:19Z"
+pushed_at: "2026-09-02T19:56:52Z"
 ---
 ## What it is
 MCP server `Orderbook Depth`, catalogued on PulseMCP. Uniswap V3 pool liquidity depth analysis with price impact calculations at 1%, 2%, 5%, and 10% levels.

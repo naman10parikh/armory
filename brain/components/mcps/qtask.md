@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:38:15Z"
+pushed_at: "2026-09-08T03:05:25Z"
 ---
 ## What it is
 Task and project management MCP server with OAuth for Claude Desktop, Cursor bridge, semantic search, staged write approval

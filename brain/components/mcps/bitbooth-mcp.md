@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-13T19:09:25Z"
+pushed_at: "2026-09-16T00:27:15Z"
 ---
 ## What it is
 Multi-chain x402 payment gateway enabling AI agents to pay per HTTP call with real on-chain settlement across 5 mainnet chains, providing 18 paid endpoints for utilities, data, and security.

@@ -8,7 +8,7 @@ source_url: https://github.com/cr7258/elasticsearch-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 303
+stars: 308
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

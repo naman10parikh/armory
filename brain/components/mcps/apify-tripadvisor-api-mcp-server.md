@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:10:28Z"
+pushed_at: "2026-09-26T05:10:32Z"
 ---
 ## What it is
 Enables AI clients to search Tripadvisor hotels, restaurants, and attractions and fetch full review streams through the Apify MCP server. Integrates with Claude, ChatGPT, Cursor, and other tools via natural language.

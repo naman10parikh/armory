@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-25T07:29:18Z"
+forks: 1
+pushed_at: "2026-09-23T04:34:39Z"
 ---
 ## What it is
 Search and retrieve bioRxiv and medRxiv preprints — by DOI, date interval, or keyword — via MCP.

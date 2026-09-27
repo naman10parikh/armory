@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T00:34:52Z"
+pushed_at: "2026-09-27T00:33:12Z"
 ---
 ## What it is
 Enables searching for lawful, free-to-read books across multiple open catalogues and resolving access routes (download, read, borrow, preview) via MCP tools like search_books and resolve_access.

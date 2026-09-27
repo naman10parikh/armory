@@ -8,12 +8,12 @@ source_url: https://github.com/gregario/dnd-oracle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-01T14:50:50Z"
+pushed_at: "2026-09-14T11:32:58Z"
 ---
 ## What it is
 MCP server `D&D Oracle`, catalogued on PulseMCP. D&D 5e System Reference Document lookup and encounter planning.

@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 9
-forks: 4
+forks: 5
 pushed_at: "2026-06-15T06:11:06Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-08-19T09:43:15Z"
+pushed_at: "2026-09-15T06:26:57Z"
 ---
 ## What it is
 MCP server `Rubber Duck`, catalogued on PulseMCP. Bridge to multiple OpenAI-compatible LLMs with consensus voting and multi-provider querying

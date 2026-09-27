@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-20T07:44:54Z"
+pushed_at: "2026-09-23T04:59:53Z"
 ---
 ## What it is
 MCP server `Wopee`, catalogued on PulseMCP. Dispatch autonomous testing agents, generate test cases, and manage test suites for web applications.

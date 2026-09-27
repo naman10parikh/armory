@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:16:02Z"
+pushed_at: "2026-09-26T19:17:33Z"
 ---
 ## What it is
 This server provides access to InterPro protein family, domain, and functional-site classification data from EBI. It allows querying protein annotations through natural language or direct tool calls.

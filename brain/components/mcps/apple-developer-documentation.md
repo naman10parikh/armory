@@ -8,7 +8,7 @@ source_url: https://github.com/mightydillah/apple-doc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 632
+stars: 633
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

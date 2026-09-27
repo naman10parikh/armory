@@ -8,14 +8,14 @@ source_url: https://github.com/Significant-Gravitas/AutoGPT
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 187068
+stars: 187584
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 46042
-pushed_at: "2026-09-02T07:26:21Z"
+forks: 45989
+pushed_at: "2026-09-27T11:38:42Z"
 ---
 ## What it is
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.

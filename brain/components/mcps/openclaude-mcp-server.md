@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/openclaude-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T16:54:31Z"
+forks: 2
+pushed_at: "2026-09-27T12:12:47Z"
 ---
 ## What it is
 A high-performance control plane for Ollama-based local LLM sessions with background memory consolidation, hybrid cloud planning, and real-time fleet monitoring.

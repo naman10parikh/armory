@@ -8,13 +8,13 @@ source_url: https://github.com/mcp-z/mcp-gmail
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T20:12:58Z"
+pushed_at: "2026-09-20T18:18:56Z"
 ---
 ## What it is
 Gmail MCP server for searching, reading, and sending mail over MCP.

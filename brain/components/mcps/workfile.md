@@ -8,13 +8,13 @@ source_url: https://github.com/illodev/workfile
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:42:19Z"
+pushed_at: "2026-09-15T07:44:59Z"
 ---
 ## What it is
 Repository-native protocol and MCP server for coordinating work items, documentation, changelogs, and project memory between humans and AI agents, using Markdown files in a Git repository as the canonical data source.

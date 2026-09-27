@@ -8,12 +8,12 @@ source_url: https://github.com/flipt-io/mcp-server-flipt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-07-23T14:26:42Z"
+pushed_at: "2026-09-26T10:12:59Z"
 ---
 ## What it is
 MCP server `Flipt (Feature Flag Management)`, catalogued on PulseMCP. Integrates with Flipt feature flag management to enable listing, creating, updating, and deleting namespaces, flags, segments, and rules for controlling feature rollouts with constraints, variants, and distributions.

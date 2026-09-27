@@ -13,9 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 23857
-forks: 2012
-pushed_at: "2026-08-21T04:13:47Z"
+stars: 23906
+forks: 2000
+pushed_at: "2026-09-15T03:10:21Z"
 ---
 ## What it is
 A community CLI tool by SuperClaude-Org, catalogued in awesome-claude-code. A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".

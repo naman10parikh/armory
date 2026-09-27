@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T11:33:39Z"
+pushed_at: "2026-09-09T07:44:38Z"
 ---
 ## What it is
 A production-grade backend that lets LLMs safely operate Gmail, Google Drive, and Calendar through the Model Context Protocol.

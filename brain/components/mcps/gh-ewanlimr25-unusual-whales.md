@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-07T16:15:54Z"
+pushed_at: "2026-09-26T03:13:45Z"
 ---
 ## What it is
 MCP server `Unusual Whales Analytics`, catalogued on PulseMCP. Suite of 10 servers for analyzing stock and options data exported from Unusual Whales.

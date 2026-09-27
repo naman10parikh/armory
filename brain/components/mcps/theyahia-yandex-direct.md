@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-18T10:19:39Z"
+pushed_at: "2026-09-06T08:41:57Z"
 ---
 ## What it is
 MCP server `Yandex Direct`, catalogued on PulseMCP. Integrates with Yandex Direct advertising API for managing campaigns, ads, statistics, and keywords.

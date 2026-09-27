@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T04:46:07Z"
+pushed_at: "2026-09-15T07:32:22Z"
 ---
 ## What it is
 Secure MCP server for Microsoft Exchange. It enables authorized users to list, search, read, download attachments, send, and reply to email via EWS with strict access control and audit.

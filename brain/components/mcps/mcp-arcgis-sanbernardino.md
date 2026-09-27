@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:40:35Z"
+pushed_at: "2026-09-25T21:56:07Z"
 ---
 ## What it is
 City of San Bernardino GIS — San Bernardino, California open geospatial data (ArcGIS).

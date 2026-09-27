@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-02-17T02:12:13Z"
+pushed_at: "2026-09-21T11:29:57Z"
 ---
 ## What it is
 An MCP server specialized for Data Flow Diagrams, enabling AI assistants to programmatically create and manage DFD elements like external entities, processes, data stores, and data flows in StarUML.

@@ -8,12 +8,12 @@ source_url: https://github.com/vibetensor/attestix
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-27T00:37:18Z"
+pushed_at: "2026-09-27T09:41:39Z"
 ---
 ## What it is
 MCP server `Attestix`, catalogued on PulseMCP. AI agent identity, W3C credentials, and EU AI Act compliance tools.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
-stars: 43
+stars: 47
 forks: 6
-pushed_at: "2026-09-02T02:14:34Z"
+pushed_at: "2026-09-24T15:48:51Z"
 ---
 ## What it is
 Framework for AI agents (Claude Code, Cursor, Codex, Gemini) to operate Google Ads, Meta Ads, and Search Console. Grounded in a local STRATEGY.md — not metric-chasing. Defense-in-depth security, local-first. Apache 2.0.

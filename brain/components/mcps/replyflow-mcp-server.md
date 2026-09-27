@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T03:11:52Z"
+pushed_at: "2026-09-07T03:10:01Z"
 ---
 ## What it is
 Enables AI agents to manage Twitter replies by fetching relevant tweets, generating AI-powered reply drafts in various styles, and copying them to clipboard.

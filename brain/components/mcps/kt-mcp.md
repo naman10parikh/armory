@@ -8,12 +8,12 @@ source_url: https://github.com/stany9g/kt-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 4
 pushed_at: "2026-08-07T11:54:36Z"
 ---
 ## What it is

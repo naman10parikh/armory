@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-20T13:17:55Z"
+pushed_at: "2026-09-13T10:21:53Z"
 ---
 ## What it is
 Self-hosted Meta Ads (Facebook & Instagram) connector for Claude.

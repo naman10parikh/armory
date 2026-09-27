@@ -8,13 +8,13 @@ source_url: https://github.com/golfgolfgolf200/x402-monetize
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T10:07:05Z"
+pushed_at: "2026-09-20T07:58:56Z"
 ---
 ## What it is
 Plug-and-play monetization SDK for MCP tools and TypeScript APIs. Monetize AI agent workflows instantly with x402 V2 micropayments and Base revenue splits.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:33:15Z"
+pushed_at: "2026-09-03T16:22:04Z"
 ---
 ## What it is
 Enables AI agents to query Earth observation data, satellite imagery, active fires, and weather via natural language, returning interactive maps and briefs.

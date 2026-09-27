@@ -8,12 +8,12 @@ source_url: https://github.com/HeroSizy/cucumberstudio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-03-28T06:05:36Z"
 ---
 ## What it is

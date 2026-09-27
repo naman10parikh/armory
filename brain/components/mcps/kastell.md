@@ -8,12 +8,12 @@ source_url: https://github.com/kastelldev/kastell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-16T03:54:18Z"
+pushed_at: "2026-09-20T03:52:36Z"
 ---
 ## What it is
 MCP server `Kastell`, catalogued on PulseMCP. Provision, secure, audit, and manage self-hosted servers across Hetzner, DigitalOcean, Vultr, and Linode from a single CLI.

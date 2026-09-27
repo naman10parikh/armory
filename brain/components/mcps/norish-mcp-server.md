@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T20:01:08Z"
+pushed_at: "2026-09-14T20:19:39Z"
 ---
 ## What it is
 A Model Context Protocol server that connects AI assistants to the Norish recipe management API for recipe browsing, meal planning, and grocery list management.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T09:49:34Z"
+pushed_at: "2026-09-15T09:06:14Z"
 ---
 ## What it is
 A shared memory MCP server for the Senegalese MOHEBS teaching and learning materials pipeline that ensures AI-generated documents remain consistent in characters, terminology, and concept coverage while varying example domains, operating across grade and subject via Firebase storage.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-01-31T15:43:12Z"
+pushed_at: "2026-09-24T23:25:19Z"
 ---
 ## What it is
 MCP server `Lemon Squeezy`, catalogued on PulseMCP. Integrates with Lemon Squeezy payment platform to manage stores, customers, products, orders, subscriptions, discounts, license keys, and webhooks with optional Salesforce CRM sync for automated customer data workflows.

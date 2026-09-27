@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-31T01:03:21Z"
+pushed_at: "2026-09-26T07:53:49Z"
 ---
 ## What it is
 MCP server `Calc`, catalogued on PulseMCP. Deterministic math, randomness, dates, encoding, and hashing tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/thevalmarch/opalemu-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T11:44:32Z"
+pushed_at: "2026-09-24T04:04:53Z"
 ---
 ## What it is
 An MCP server that lets LLM agents autonomously play retro games by driving a real OpalEmu emulator in a Playwright-controlled browser, exposing tools for loading ROMs, controlling buttons, and capturing screenshots.

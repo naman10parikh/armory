@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T20:52:58Z"
+pushed_at: "2026-09-03T04:10:15Z"
 ---
 ## What it is
 Tracks architectural decisions with testable predictions, outcome validation, and in-band feedback nudges to close decision loops for AI agents and teams.

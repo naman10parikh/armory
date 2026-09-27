@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T13:09:10Z"
+pushed_at: "2026-09-25T13:08:42Z"
 ---
 ## What it is
 A delivery outbox MCP server that enables AI agents to save polished artifacts like emails, summaries, or updates for human review and copying, supporting local and hosted modes.

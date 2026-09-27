@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T09:09:14Z"
+pushed_at: "2026-09-02T13:16:22Z"
 ---
 ## What it is
 A read-only MCP server that exposes BD Leads CRM analytics (win rate, conversion funnel, connects economics, sales velocity, forecast, and lead lookup) to MCP clients like Cursor and Claude Desktop.

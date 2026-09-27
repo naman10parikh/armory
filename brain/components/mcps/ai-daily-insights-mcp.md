@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T03:42:03Z"
+pushed_at: "2026-09-14T14:48:23Z"
 ---
 ## What it is
 Enables listing, reading, and searching daily AI news from AI Daily Insights with structured tools and no API key required.

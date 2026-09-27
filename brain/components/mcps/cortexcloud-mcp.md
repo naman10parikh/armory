@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T08:25:37Z"
+pushed_at: "2026-09-10T19:12:23Z"
 ---
 ## What it is
 MCP server for the CortexCloud API, enabling pay-per-call AI generation, web search, market data, and blockchain RPC endpoints via the x402 protocol, billed in USDC on Base without API keys or subscriptions.

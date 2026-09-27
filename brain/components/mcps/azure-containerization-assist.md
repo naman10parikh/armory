@@ -8,12 +8,12 @@ source_url: https://github.com/azure/containerization-assist
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-09-01T09:16:29Z"
+forks: 20
+pushed_at: "2026-09-15T09:10:41Z"
 ---
 ## What it is
 MCP server `Azure Containerization Assist`, catalogued on PulseMCP. AI-powered containerization workflows with Docker builds, security scanning, Kubernetes deployment, and OPA policy enforcement.

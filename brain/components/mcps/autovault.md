@@ -8,13 +8,13 @@ source_url: https://github.com/autoworks-ai/autovault
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-30T04:02:03Z"
+forks: 3
+pushed_at: "2026-09-25T14:53:49Z"
 ---
 ## What it is
 AutoVault is an MCP server that provides a local-first vault for AI agent skills, enabling validation, signing, and serving of SKILL.md files to agents through stdio or HTTP.

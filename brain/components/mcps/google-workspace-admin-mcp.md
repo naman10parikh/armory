@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T11:16:10Z"
+pushed_at: "2026-09-21T11:15:52Z"
 ---
 ## What it is
 Enables AI agents to safely provision new Google Workspace accounts for employee onboarding, with availability checks, account creation, and credential delivery, all behind OAuth and per-user allowlists.

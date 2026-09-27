@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-03T07:08:07Z"
+pushed_at: "2026-09-11T09:31:39Z"
 ---
 ## What it is
 MCP server `Slideshot`, catalogued on PulseMCP. Convert HTML to PDF, PNG, WebP, and PPTX slide carousels with 11 presentation themes.

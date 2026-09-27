@@ -13,7 +13,7 @@ related: []
 tags: [mcp, product-management]
 stars: 3
 forks: 2
-pushed_at: "2026-05-25T21:11:14Z"
+pushed_at: "2026-09-03T22:56:10Z"
 ---
 ## What it is
 Comprehensive Trello integration: 46 tools covering boards, cards, lists, labels, checklists, attachments, members, custom fields, and search. Read-only mode, image attachment

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T12:53:14Z"
+pushed_at: "2026-09-04T11:28:30Z"
 ---
 ## What it is
 MCP server for querying H3Yun SQL data, enabling AI to execute read-only SQL queries and troubleshoot H3Yun business issues.

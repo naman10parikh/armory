@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T00:23:28Z"
+pushed_at: "2026-09-26T11:53:01Z"
 ---
 ## What it is
 Enables read-only access to the Raily personal agent's data, including agent status, brief, matches, intros, memory, analysis status, and billing status through browser-based OAuth.

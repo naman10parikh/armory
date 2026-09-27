@@ -8,12 +8,12 @@ source_url: https://github.com/alexarevalo9/ticktick-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 73
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 24
 pushed_at: "2026-09-01T23:05:21Z"
 ---
 ## What it is

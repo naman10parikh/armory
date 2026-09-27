@@ -8,13 +8,13 @@ source_url: https://github.com/alex-brecher/shopify-multi-store
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:17:42Z"
+pushed_at: "2026-09-07T22:19:46Z"
 ---
 ## What it is
 Enables secure management of multiple Shopify Admin stores through separate aliases and access tokens, supporting GraphQL queries and mutations with per-store authorization.

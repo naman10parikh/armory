@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T18:57:41Z"
+pushed_at: "2026-09-05T09:41:18Z"
 ---
 ## What it is
 An LLM-friendly Model Context Protocol server for video and audio editing, built on MoviePy v2 and FastMCP. It lets MCP clients trim, merge, resize, overlay, mix audio, and render video through natural language.

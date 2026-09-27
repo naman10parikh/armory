@@ -8,13 +8,13 @@ source_url: https://github.com/yyu0310/nccu-course-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T23:48:43Z"
+pushed_at: "2026-09-20T13:33:17Z"
 ---
 ## What it is
 Enables searching and retrieving course listings, departments, and syllabi from National Chengchi University's public course API using natural language.

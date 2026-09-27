@@ -8,12 +8,12 @@ source_url: https://github.com/h30190/HJPLUS_Taiwan_building_code_tracker_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 20
 pushed_at: "2026-03-22T09:20:31Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-30T05:50:03Z"
+pushed_at: "2026-09-24T09:59:36Z"
 ---
 ## What it is
 MCP server `Crypto APIs Market Data`, catalogued on PulseMCP. Cryptocurrency asset prices, exchange rates, and market metadata via Crypto APIs.

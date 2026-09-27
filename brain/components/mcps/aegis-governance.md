@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T23:32:52Z"
+pushed_at: "2026-09-18T16:01:08Z"
 ---
 ## What it is
 Quantitative governance gate for AI agents. Six gates (risk, profit, novelty, complexity, quality, utility) return PROCEED/PAUSE/HALT/ESCALATE with confidence scores and hash-chained, tamper-evident audit trails. Generates NIST AI RMF and EU AI Act Annex IV artifacts. 10 MCP tools; local stdio and h

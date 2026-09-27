@@ -8,12 +8,12 @@ source_url: https://github.com/lcbcFoo/heimdall-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 104
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 17
 pushed_at: "2025-09-21T23:44:18Z"
 ---
 ## What it is

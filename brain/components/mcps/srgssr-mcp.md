@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T13:19:44Z"
+pushed_at: "2026-09-26T16:58:38Z"
 ---
 ## What it is
 MCP server connecting AI models to SRG SSR public APIs – weather, TV/radio metadata, program guide and Swiss votations/elections since 1900.

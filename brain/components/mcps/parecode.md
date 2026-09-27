@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:32:52Z"
+pushed_at: "2026-09-14T15:28:27Z"
 ---
 ## What it is
 An MCP server giving coding agents context-window-aware code search and safe, atomic multi-file edits — built to cut token usage on large codebases without sacrificing correctness.

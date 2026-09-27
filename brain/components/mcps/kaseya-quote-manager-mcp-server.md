@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T01:14:43Z"
+pushed_at: "2026-09-14T01:15:18Z"
 ---
 ## What it is
 Read-only MCP server providing AI assistants with access to Kaseya Quote Manager entities including quotes, sales orders, procurement, catalog, and CRM data via 39 tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/amk9978/contribution-compass
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:19:31Z"
+pushed_at: "2026-09-25T08:56:14Z"
 ---
 ## What it is
 Provides MCP access to Contribution Compass's evidence catalog, enabling users to query curated open-source project activity, contribution opportunities, and observation histories.

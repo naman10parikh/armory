@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T16:08:59Z"
+pushed_at: "2026-09-23T12:21:21Z"
 ---
 ## What it is
 Provides Google search and web page fetching tools to MCP clients via the Serper API, enabling models to search and read pages during conversations.

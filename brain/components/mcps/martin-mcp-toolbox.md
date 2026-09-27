@@ -8,12 +8,12 @@ source_url: https://github.com/2234839/mcpserver
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2025-11-05T06:11:39Z"
 ---
 ## What it is

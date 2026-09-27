@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T15:04:39Z"
+pushed_at: "2026-09-10T15:05:54Z"
 ---
 ## What it is
 MCP server exposing autobrr's full API as tools, enabling LLMs to read and manage filters, indexers, feeds, clients, actions, releases, and system config. It wraps approximately 104 endpoints into 13 resource-scoped tools for comprehensive autobrr instance management.

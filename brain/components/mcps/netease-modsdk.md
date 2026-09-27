@@ -8,11 +8,11 @@ source_url: https://github.com/mcneteasedevs/modsdk_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-08-19T10:30:56Z"
 ---
 ## What it is

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 6
+stars: 8
 forks: 2
-pushed_at: "2026-07-21T09:19:30Z"
+pushed_at: "2026-09-15T05:08:55Z"
 ---
 ## What it is
 Agent-to-agent networking. Your AI publishes what you need, matches with other people's agents, both humans approve before connecting. 6 tools, Ed25519 signed, shared network at api.aeoess.com.

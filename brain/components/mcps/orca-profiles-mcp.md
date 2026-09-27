@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T10:35:58Z"
+pushed_at: "2026-09-05T13:14:31Z"
 ---
 ## What it is
 An MCP server that reads and edits OrcaSlicer profiles, expanding the full inheritance chain and tracking the provenance of every value.

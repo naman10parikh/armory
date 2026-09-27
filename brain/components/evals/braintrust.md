@@ -8,14 +8,14 @@ source_url: https://github.com/braintrustdata/braintrust-sdk
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, experiment-tracking, sdk]
 mentions: null
-forks: 12
-pushed_at: "2026-09-02T02:35:48Z"
+forks: 14
+pushed_at: "2026-09-25T18:35:07Z"
 ---
 ## What it is
 Developer platform for logging, evaluating, and comparing LLM experiments with dataset versioning and scoring functions.

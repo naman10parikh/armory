@@ -8,13 +8,13 @@ source_url: https://github.com/ober37/ac-infinity-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-31T14:58:25Z"
+pushed_at: "2026-09-21T14:56:31Z"
 ---
 ## What it is
 ac-infinity-mcp is an MCP server that connects Claude (and other AI assistants) directly to your AC Infinity controllers — so you can read live sensor data, run analytics, and adjust fan speeds or port states using natural language, without opening the AC Infinity app.

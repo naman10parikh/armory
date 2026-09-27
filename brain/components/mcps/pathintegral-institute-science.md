@@ -8,11 +8,11 @@ source_url: https://github.com/pathintegral-institute/mcp.science
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 148
+stars: 152
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 30
 pushed_at: "2026-02-27T05:28:24Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/tomaspavlin/rohlik-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 119
+stars: 120
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
+forks: 31
 pushed_at: "2026-03-17T12:19:42Z"
 ---
 ## What it is

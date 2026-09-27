@@ -8,13 +8,13 @@ source_url: https://github.com/Jordan-Jarvis/jenkins-mcp-enterprise
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-07-22T09:04:53Z"
+forks: 13
+pushed_at: "2026-09-21T18:34:45Z"
 ---
 ## What it is
 A Jenkins MCP server for multi-instance build management, log inspection, failure diagnostics, and optional vector search.

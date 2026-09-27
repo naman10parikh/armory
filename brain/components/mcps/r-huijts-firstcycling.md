@@ -8,11 +8,11 @@ source_url: https://github.com/r-huijts/firstcycling-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 10
 pushed_at: "2025-08-26T08:44:20Z"
 ---
 ## What it is

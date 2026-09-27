@@ -12,8 +12,8 @@ stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-08-25T09:15:34Z"
+forks: 14
+pushed_at: "2026-09-24T18:56:37Z"
 ---
 ## What it is
 MCP server `ZenML`, catalogued on PulseMCP. Integrates with ZenML to enable querying pipeline metadata, triggering new runs, and analyzing ML workflow history through Python-based tools for machine learning pipeline management

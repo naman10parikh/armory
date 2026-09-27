@@ -12,8 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-09-01T21:48:26Z"
+forks: 9
+pushed_at: "2026-09-14T09:04:38Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Manages Jira issues, projects, and boards via the Atlassian Jira REST API.

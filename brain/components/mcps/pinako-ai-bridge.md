@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T15:10:33Z"
+pushed_at: "2026-09-24T03:13:55Z"
 ---
 ## What it is
 Pinako AI Bridge is the MCP server that connects Pinako, a Chromium extension for tab, window, library, and bookmark management, to local AI clients including Claude Desktop, Claude Code, Cursor, Windsurf, Cline, Roo Code, and Continue.dev. The real payoff comes when you already use a desktop AI cli

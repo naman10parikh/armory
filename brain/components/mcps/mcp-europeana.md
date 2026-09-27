@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:05:05Z"
+pushed_at: "2026-09-26T12:20:40Z"
 ---
 ## What it is
 Enables searching and retrieving records from the Europeana digital collection, including metadata such as titles, creators, dates, and images, via two MCP tools: search and record.

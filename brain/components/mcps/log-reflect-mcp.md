@@ -8,13 +8,13 @@ source_url: https://github.com/sunling/log-reflect-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:10:33Z"
+pushed_at: "2026-09-19T20:18:04Z"
 ---
 ## What it is
 Captures and retrieves Markdown records for a personal recording system, enabling journaling, input tracking, search, and date-range review.

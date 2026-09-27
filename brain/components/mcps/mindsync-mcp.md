@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:26:52Z"
+pushed_at: "2026-09-18T11:25:53Z"
 ---
 ## What it is
 Local-first MCP server for multi-agent memory sync and focus conflict detection, enabling multiple coding agents to share a session registry and receive conflict warnings when focuses overlap.

@@ -8,12 +8,12 @@ source_url: https://github.com/paiml/bashrs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T10:21:29Z"
+pushed_at: "2026-09-26T09:01:34Z"
 ---
 ## What it is
 MCP server `Rash`, catalogued on PulseMCP. Rust-to-shell transpiler with formal correctness guarantees

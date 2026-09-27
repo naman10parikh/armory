@@ -8,11 +8,11 @@ source_url: https://github.com/shivasurya/code-pathfinder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-07-10T18:21:25Z"
 ---
 ## What it is

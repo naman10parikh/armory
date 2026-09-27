@@ -8,11 +8,11 @@ source_url: https://github.com/cantian-ai/bazi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 427
+stars: 433
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 162
+forks: 163
 pushed_at: "2025-10-11T07:56:23Z"
 ---
 ## What it is

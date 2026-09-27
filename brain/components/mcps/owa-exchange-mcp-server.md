@@ -8,12 +8,12 @@ source_url: https://github.com/nhype/owa-exchange-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-02-16T07:05:45Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T09:43:31Z"
+pushed_at: "2026-09-16T19:43:09Z"
 ---
 ## What it is
 Provides access to Russian directories and validation services (e.g., phone, MNP, geo) through a REST API. Enables registration, API calls, payment management, and catalog browsing via MCP tools.

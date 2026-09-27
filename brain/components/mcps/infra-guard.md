@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T03:36:45Z"
+pushed_at: "2026-09-04T16:27:30Z"
 ---
 ## What it is
 Enables AI assistants to scan Terraform and Dockerfiles for security misconfigurations, returning structured Checkov findings that can be explained in plain language.

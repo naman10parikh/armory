@@ -8,13 +8,13 @@ source_url: https://github.com/okx/onchainos-skills
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 328
+stars: 337
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 68
-pushed_at: "2026-09-01T10:12:18Z"
+forks: 75
+pushed_at: "2026-09-24T11:24:31Z"
 ---
 ## What it is
 Enables on-chain operations including token search, market data, wallet management, swap execution, and DApp interactions across 20+ blockchains.

@@ -8,13 +8,13 @@ source_url: https://github.com/Mohabdo21/linux-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T21:58:10Z"
+pushed_at: "2026-09-13T11:10:16Z"
 ---
 ## What it is
 A Linux system monitoring MCP server that provides real-time information on CPU, memory, disk, network, processes, Docker, security, and more via MCP tools.

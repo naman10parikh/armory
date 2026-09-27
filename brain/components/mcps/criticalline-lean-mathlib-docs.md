@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-11-27T12:15:54Z"
+pushed_at: "2026-09-18T08:21:25Z"
 ---
 ## What it is
 MCP server `Lean Mathlib 4 Documentation`, catalogued on PulseMCP. Provides search capabilities for Lean Mathlib 4 documentation by downloading and parsing declaration data to find theorems, definitions, and mathematical constructs with regex-based search functionality.

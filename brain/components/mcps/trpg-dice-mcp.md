@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T03:32:41Z"
+pushed_at: "2026-09-05T06:26:56Z"
 ---
 ## What it is
 A cryptographically secure dice rolling server for TRPGs, supporting complex dice expressions, multiple rule system presets, and hidden rolls with encryption.

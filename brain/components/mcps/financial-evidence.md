@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T20:44:14Z"
+pushed_at: "2026-09-24T14:24:57Z"
 ---
 ## What it is
 Enables MCP clients to list research topics, route queries across money-market, capital-market, bank-risk, market-liquidity, and China-economy domains, and fetch read-only structured results from bounded public evidence without requiring an account or API key.

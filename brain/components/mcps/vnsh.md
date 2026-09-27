@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-08-14T04:46:46Z"
+pushed_at: "2026-09-06T14:38:01Z"
 ---
 ## What it is
 MCP server `VNSH`, catalogued on PulseMCP. Ephemeral encrypted file sharing for AI with AES-256 encryption and 24-hour auto-deletion.

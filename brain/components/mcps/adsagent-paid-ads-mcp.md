@@ -8,13 +8,13 @@ source_url: https://github.com/adsagents/adsagent-ai-skills
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-25T17:33:24Z"
+forks: 2
+pushed_at: "2026-09-17T05:53:19Z"
 ---
 ## What it is
 Public tri-channel AdsAgent plugin: Meta, Google Ads, and TikTok hosted MCP URLs via OAuth, plus agent skills for insights, templates, and prepare/confirm writes.

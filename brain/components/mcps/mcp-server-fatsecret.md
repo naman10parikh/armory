@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T11:03:15Z"
+pushed_at: "2026-09-23T16:20:05Z"
 ---
 ## What it is
 Enables searching FatSecret's food and recipe database, and managing personal food diary, weight, exercise, saved meals, and favorites, with multi-user support and secure OAuth authentication.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-18T18:18:33Z"
+pushed_at: "2026-09-17T22:07:15Z"
 ---
 ## What it is
 MCP server `VibeSharing`, catalogued on PulseMCP. Deploys prototypes and collects structured team feedback directly from AI coding assistants.

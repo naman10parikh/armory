@@ -8,13 +8,13 @@ source_url: https://github.com/capskip/capskip-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-08T22:07:14Z"
+forks: 5
+pushed_at: "2026-09-23T02:30:50Z"
 ---
 ## What it is
 An MCP server that lets AI agents solve reCAPTCHA, Cloudflare Turnstile, GeeTest, and image captchas via the local CapSkip solver. It enables autonomous captcha handling without per-solve fees or human intervention.

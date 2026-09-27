@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T00:12:36Z"
+pushed_at: "2026-09-06T16:09:08Z"
 ---
 ## What it is
 Enables Claude Code to query codebase knowledge graphs directly, reducing token usage 5x–71x by reading a compact graph.json instead of raw files.

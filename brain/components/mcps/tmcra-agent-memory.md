@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T03:45:26Z"
+pushed_at: "2026-09-05T20:02:14Z"
 ---
 ## What it is
 Role-aware long-term Agent memory with cross-session recall, durable writes, and multi-Agent project scope.

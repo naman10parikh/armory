@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:39:04Z"
+pushed_at: "2026-09-27T06:55:15Z"
 ---
 ## What it is
 MCP server connecting AI models to Swiss Federal Food Safety and Veterinary Office open data, enabling queries about food recalls, animal disease surveillance, food control results, and more.

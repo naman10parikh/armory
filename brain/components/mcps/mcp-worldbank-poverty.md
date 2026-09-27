@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:50:21Z"
+pushed_at: "2026-09-26T22:25:51Z"
 ---
 ## What it is
 Enables querying World Bank Poverty and Inequality Platform data through natural language, integrated with the Pipeworx MCP gateway.

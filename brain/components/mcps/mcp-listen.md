@@ -8,13 +8,13 @@ source_url: https://github.com/decibri/mcp-listen
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T20:02:55Z"
+pushed_at: "2026-09-27T10:52:49Z"
 ---
 ## What it is
 Give your AI agents the ability to listen. Microphone capture and speech-to-text tools for MCP-compatible agents.

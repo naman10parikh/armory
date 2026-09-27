@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:57Z"
+pushed_at: "2026-09-02T19:55:32Z"
 ---
 ## What it is
 MCP server `Crypto News Feed`, catalogued on PulseMCP. Delivers real-time cryptocurrency news with sentiment scores and token mention detection from CoinGecko and CryptoPanic.

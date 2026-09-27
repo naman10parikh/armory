@@ -8,13 +8,13 @@ source_url: https://github.com/yaanfpv/ghantika
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:01:20Z"
+pushed_at: "2026-09-22T10:56:23Z"
 ---
 ## What it is
 Run commands in the background and get notified when they finish, so your AI agent can proceed without blocking.

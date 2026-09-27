@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T20:12:43Z"
+pushed_at: "2026-09-02T13:19:50Z"
 ---
 ## What it is
 Gates agent tool execution with human approval, audit trails, and replay-resistant permits, enabling safe use of tools in agent loops.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T00:04:11Z"
+pushed_at: "2026-09-10T23:36:42Z"
 ---
 ## What it is
 Freshness gate for AI agents: verify a belief is still true against the live world before you act.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T22:54:11Z"
+pushed_at: "2026-09-03T00:36:36Z"
 ---
 ## What it is
 Exposes the Deferno task-manager backend to AI agents, enabling them to read, create, update, and manage tasks, habits, chores, events, and daily plans.

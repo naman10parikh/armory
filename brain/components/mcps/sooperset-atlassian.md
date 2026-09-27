@@ -8,12 +8,12 @@ source_url: https://github.com/sooperset/mcp-atlassian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5821
+stars: 5945
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1341
-pushed_at: "2026-08-28T12:26:05Z"
+forks: 1371
+pushed_at: "2026-09-19T10:20:14Z"
 ---
 ## What it is
 MCP server `Atlassian Cloud`, catalogued on PulseMCP. Access Confluence pages and Jira issues via Atlassian API.

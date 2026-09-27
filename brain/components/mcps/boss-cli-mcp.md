@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T06:56:15Z"
+pushed_at: "2026-09-04T02:07:27Z"
 ---
 ## What it is
 Enables AI assistants to automate Boss直聘 recruitment workflows via local Chrome, including candidate queries, messaging, batch replies, resume previews, and position management.

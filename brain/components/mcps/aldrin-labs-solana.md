@@ -8,11 +8,11 @@ source_url: https://github.com/aldrin-labs/solana-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2025-04-16T11:18:05Z"
 ---
 ## What it is

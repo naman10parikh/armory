@@ -8,13 +8,13 @@ source_url: https://github.com/David-piex/codearts-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-14T07:03:27Z"
+pushed_at: "2026-09-09T12:50:48Z"
 ---
 ## What it is
 Unified MCP server that wraps 8 Huawei Cloud CodeArts modules (Req, Repo, Pipeline, Check, TestPlan, Deploy, Build, Artifact) into a standardized toolset, supporting local stdio and shared HTTP modes with session isolation and encrypted credential storage.

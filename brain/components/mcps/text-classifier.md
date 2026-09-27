@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:14Z"
+pushed_at: "2026-09-02T19:57:34Z"
 ---
 ## What it is
 Classifies text into topic categories with confidence scores, readability metrics, and content type detection, using x402 micropayments for pay-per-call access.

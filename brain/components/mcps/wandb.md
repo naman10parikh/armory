@@ -8,12 +8,12 @@ source_url: https://github.com/wandb/wandb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-02T01:36:56Z"
+pushed_at: "2026-09-24T17:24:01Z"
 ---
 ## What it is
 MCP server `Weights & Biases`, catalogued on PulseMCP. Integrates with Weights & Biases machine learning platform for querying Weave traces and evaluations, retrieving experiment data, creating reports with visualizations, and accessing wandbot support

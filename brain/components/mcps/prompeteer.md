@@ -12,8 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-03-06T07:00:45Z"
+forks: 2
+pushed_at: "2026-09-10T11:15:55Z"
 ---
 ## What it is
 MCP server `Prompeteer`, catalogued on PulseMCP. AI prompt engineering with expert-level generation, quality scoring, and prompt library management.

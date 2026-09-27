@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:00:05Z"
+pushed_at: "2026-09-25T23:33:14Z"
 ---
 ## What it is
 MCP server `DEV Community`, catalogued on PulseMCP. DEV Community articles and profiles via the DEV API, free with no authentication for public reads.

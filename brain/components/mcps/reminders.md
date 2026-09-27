@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-19T10:14:24Z"
+pushed_at: "2026-09-23T10:14:21Z"
 ---
 ## What it is
 Enables fuzzy search, creation, and management of Apple Reminders via CLI or MCP tools.

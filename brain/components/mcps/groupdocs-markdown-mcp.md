@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T21:20:01Z"
+pushed_at: "2026-09-04T18:52:14Z"
 ---
 ## What it is
 Converts documents (PDF, DOCX, XLSX, EPUB, etc.) to clean, structured Markdown, and retrieves document info, for use with AI agents.

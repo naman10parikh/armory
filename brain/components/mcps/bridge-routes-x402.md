@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T00:53:10Z"
+pushed_at: "2026-09-02T19:55:21Z"
 ---
 ## What it is
 Finds best cross-chain bridge routes across 60+ chains and 18+ bridges, comparing fees and time, with pay-per-call via x402 USDC micropayments.

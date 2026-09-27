@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T07:36:39Z"
+pushed_at: "2026-09-16T23:27:12Z"
 ---
 ## What it is
 Governed OPNsense + pfSense firewall operations — gateway-health, rule-shadow, and blocked-traffic RCA, with guarded rule/alias writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T10:28:45Z"
+pushed_at: "2026-09-20T03:56:26Z"
 ---
 ## What it is
 macOS computer-use MCP server enabling AI agents to capture and interact with specific app windows via normalized coordinates, performing background clicks, keyboard input, and typing without taking over the physical cursor.

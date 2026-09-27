@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T02:07:07Z"
+pushed_at: "2026-09-23T00:41:41Z"
 ---
 ## What it is
 Turns a folder of CSV, Parquet, and JSON files into a single SQL-queryable source for AI agents, supporting JOINs across files with read-only sandboxed access.

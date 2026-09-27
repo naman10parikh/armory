@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:10Z"
+pushed_at: "2026-09-26T21:21:10Z"
 ---
 ## What it is
 MCP server `Pipeworx Riot Games`, catalogued on PulseMCP. Riot Games API for accounts, summoners, match history, league entries, and champion mastery via the Pipeworx gateway.

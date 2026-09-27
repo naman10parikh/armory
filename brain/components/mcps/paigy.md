@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T01:23:47Z"
+pushed_at: "2026-09-25T16:59:53Z"
 ---
 ## What it is
 Call, text, or push your phone when an agent needs input mid-task — reply by voice instead of babysitting a long-running or blocked terminal.

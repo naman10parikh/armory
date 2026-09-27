@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:22:09Z"
+pushed_at: "2026-09-26T19:42:53Z"
 ---
 ## What it is
 Provides access to EBI's MetaboLights metabolomics study repository via an MCP gateway, enabling querying and retrieval of metabolomics data.

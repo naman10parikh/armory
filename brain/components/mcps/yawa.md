@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T14:56:24Z"
+pushed_at: "2026-09-23T16:24:09Z"
 ---
 ## What it is
 Self-hosted web analytics platform that exposes analytics data via the Model Context Protocol, enabling natural language queries about traffic, page views, web vitals, and custom events.

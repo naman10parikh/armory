@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-11T19:20:15Z"
+pushed_at: "2026-09-16T18:37:15Z"
 ---
 ## What it is
 A self-hosted MCP server that lets Claude query your bank accounts, balances, and transactions through Plaid.

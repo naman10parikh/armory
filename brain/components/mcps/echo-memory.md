@@ -8,13 +8,13 @@ source_url: https://github.com/ayushcodes10/echo-mem
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T18:39:38Z"
+forks: 2
+pushed_at: "2026-09-27T09:51:39Z"
 ---
 ## What it is
 A long-horizon memory architecture for AI agents, providing a scalable, graph-based memory with causal typing and an MCP interface.

@@ -8,13 +8,13 @@ source_url: https://github.com/timesheetIO/timesheet-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-18T17:52:26Z"
+pushed_at: "2026-09-27T12:11:56Z"
 ---
 ## What it is
 Enables natural language control of the Timesheet API for timer management, task tracking, and project management through MCP tools.

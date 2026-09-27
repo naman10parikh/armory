@@ -8,12 +8,12 @@ source_url: https://github.com/ryan0204/github-repo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2025-04-25T23:34:52Z"
+forks: 14
+pushed_at: "2026-09-17T09:15:55Z"
 ---
 ## What it is
 MCP server `GitHub Repository`, catalogued on PulseMCP. Provides a bridge between AI and GitHub repositories, enabling access to repository contents for code analysis and reference during conversations.

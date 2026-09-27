@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-02T01:48:31Z"
+pushed_at: "2026-09-18T04:43:49Z"
 ---
 ## What it is
 MCP server `Substack`, catalogued on PulseMCP. Manages Substack publications programmatically, enabling post creation, editing, image uploads, scheduling, and publishing via Substack's internal API.

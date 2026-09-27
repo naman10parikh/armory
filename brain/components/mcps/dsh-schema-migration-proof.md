@@ -8,13 +8,13 @@ source_url: https://github.com/dongsheng123132/dsh-schema-migration-proof
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T05:11:52Z"
+pushed_at: "2026-09-07T13:35:25Z"
 ---
 ## What it is
 Lets users inspect and verify content-addressed schema migration evidence offline, checking idempotence, reversible rollback, required invariants, and explicit lossy-field disclosure without executing migrations or accessing data.

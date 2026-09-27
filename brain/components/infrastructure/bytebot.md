@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, computer-use]
-forks: 1506
+forks: 1518
 pushed_at: "2025-09-12T19:35:46Z"
 ---
 ## What it is

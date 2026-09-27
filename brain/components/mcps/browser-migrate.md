@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T05:11:49Z"
+pushed_at: "2026-09-06T06:02:52Z"
 ---
 ## What it is
 MCP server to drive browser-migrate operations from Claude, enabling exporting, importing, and migrating browser profiles (bookmarks, history, tabs) between browsers.

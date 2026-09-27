@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T10:58:55Z"
+pushed_at: "2026-09-20T19:35:19Z"
 ---
 ## What it is
 Enables AI assistants to explore and interact with the Facets Control Plane API via natural language, supporting operations like searching endpoints, loading schemas, and making authenticated API calls.

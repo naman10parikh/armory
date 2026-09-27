@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T13:31:10Z"
+pushed_at: "2026-09-03T16:25:37Z"
 ---
 ## What it is
 Read-only MCP server for the Reddit Ads API v3, enabling AI assistants to analyze ad performance, campaigns, reports, and targeting without modifying anything.

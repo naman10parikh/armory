@@ -12,8 +12,8 @@ stars: 1554
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 275
-pushed_at: "2026-08-31T23:09:24Z"
+forks: 278
+pushed_at: "2026-09-17T22:35:00Z"
 ---
 ## What it is
 MCP server `NuGet`, catalogued on PulseMCP. Real-time NuGet package management with vulnerability detection and intelligent version updates

@@ -8,13 +8,13 @@ source_url: https://github.com/atomno-mcp/mcp-zakupki
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:29:46Z"
+pushed_at: "2026-09-04T16:37:24Z"
 ---
 ## What it is
 MCP server for Russian government procurement data that enables AI assistants to search tenders, get detailed cards, and analyze customer/supplier history.

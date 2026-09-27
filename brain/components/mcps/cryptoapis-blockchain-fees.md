@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-30T05:49:48Z"
+pushed_at: "2026-09-24T11:02:54Z"
 ---
 ## What it is
 MCP server `Crypto APIs Blockchain Fees`, catalogued on PulseMCP. Fee recommendations and gas estimation for EVM, UTXO, and XRP blockchains via Crypto APIs.

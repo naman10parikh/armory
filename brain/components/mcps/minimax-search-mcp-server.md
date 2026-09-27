@@ -8,12 +8,12 @@ source_url: https://github.com/MiniMax-AI/minimax_search
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 13
 pushed_at: "2025-11-03T09:04:57Z"
 ---
 ## What it is

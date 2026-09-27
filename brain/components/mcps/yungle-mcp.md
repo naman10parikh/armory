@@ -8,13 +8,13 @@ source_url: https://github.com/heindewilde/yungle-clients
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T10:47:55Z"
+pushed_at: "2026-09-26T21:05:49Z"
 ---
 ## What it is
 Enables reading transfer metadata from Yungle via an AI assistant, supporting read-only access to transfers without send, delete, or invite capabilities.

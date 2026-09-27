@@ -8,12 +8,12 @@ source_url: https://github.com/theyahia/chestnyznak-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-12T11:48:32Z"
+pushed_at: "2026-09-02T19:12:10Z"
 ---
 ## What it is
 MCP server `Chestniy ZNAK`, catalogued on PulseMCP. Product marking verification and lookup via the Russian Chestniy ZNAK traceability system.

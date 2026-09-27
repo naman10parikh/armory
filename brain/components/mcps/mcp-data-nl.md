@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-data-nl
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:55:57Z"
+pushed_at: "2026-09-25T23:18:33Z"
 ---
 ## What it is
 Enables searching, viewing metadata, and querying tabular resources from Netherlands Open Data (data.overheid.nl) via CKAN.

@@ -8,11 +8,11 @@ source_url: https://github.com/mrdainami/kie-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 15
 pushed_at: "2026-08-20T05:47:34Z"
 ---
 ## What it is

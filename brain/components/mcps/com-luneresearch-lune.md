@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T20:21:01Z"
+pushed_at: "2026-09-26T07:57:43Z"
 ---
 ## What it is
 MCP server for searching, retrieving, and subscribing to academic papers across security, ML, NLP, CV, and systems venues via 12 tools.

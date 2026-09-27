@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
-stars: 245823
-forks: 37094
-pushed_at: "2026-08-31T22:18:39Z"
+stars: 268129
+forks: 40055
+pushed_at: "2026-09-24T16:52:48Z"
 mentions: 1
 ---
 ## What it is

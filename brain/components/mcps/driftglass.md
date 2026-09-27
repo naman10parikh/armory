@@ -8,13 +8,13 @@ source_url: https://github.com/anotb/driftglass
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T02:20:49Z"
+pushed_at: "2026-09-22T02:16:05Z"
 ---
 ## What it is
 MCP server that maintains cited, current answers to standing research questions by tracking chosen sources, consolidating repeated coverage, and providing evidence-based briefs with change signals.

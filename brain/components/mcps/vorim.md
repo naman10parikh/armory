@@ -8,11 +8,11 @@ source_url: https://github.com/kzino/vorim-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 6
 pushed_at: "2026-08-13T13:37:17Z"
 ---
 ## What it is

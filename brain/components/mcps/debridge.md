@@ -8,12 +8,12 @@ source_url: https://github.com/debridge-finance/debridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-26T13:28:56Z"
+pushed_at: "2026-09-09T22:54:46Z"
 ---
 ## What it is
 MCP server `deBridge`, catalogued on PulseMCP. Execute cross-chain and same-chain token swaps, fee estimation, and trade execution across major blockchain networks.

@@ -8,13 +8,13 @@ source_url: https://github.com/jdsalasca/aseprite-asset-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T17:45:23Z"
+pushed_at: "2026-09-20T17:55:22Z"
 ---
 ## What it is
 MCP server for creating pixel art, characters, and scenes for Aseprite, generating deterministic plans and Godot-compatible manifests.

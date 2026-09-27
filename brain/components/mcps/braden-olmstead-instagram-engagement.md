@@ -8,11 +8,11 @@ source_url: https://github.com/bob-lance/instagram-engagement-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 9
 pushed_at: "2025-04-26T20:01:51Z"
 ---
 ## What it is

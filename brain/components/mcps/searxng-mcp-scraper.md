@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T12:36:29Z"
+pushed_at: "2026-09-15T18:30:08Z"
 ---
 ## What it is
 MCP server that exposes SearXNG search and HTTP fetch tools for AI agents, enabling web search and clean page text extraction via natural language.

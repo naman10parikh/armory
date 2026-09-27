@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-03T11:55:32Z"
+pushed_at: "2026-09-18T21:26:51Z"
 ---
 ## What it is
 MCP bridge for AI-assisted type design in GlyphsApp. Lets Claude, Cursor, or any MCP client read and write font data directly in GlyphsApp — bidirectional, real-time, live in the editor.

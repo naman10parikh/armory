@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T04:04:10Z"
+pushed_at: "2026-09-02T11:49:43Z"
 ---
 ## What it is
 MCP server for local, verifiable PDF redaction. Enables AI agents to find sensitive regions, locate text, redact PDFs on-device, verify redaction and tamper-evidence seals, and generate PDFs—without uploading confidential documents.

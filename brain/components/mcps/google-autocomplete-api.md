@@ -8,13 +8,13 @@ source_url: https://github.com/johnisanerd/Google-Autocomplete-API
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:05:36Z"
+pushed_at: "2026-09-24T18:07:50Z"
 ---
 ## What it is
 Enables AI agents to fetch Google autocomplete suggestions for partial queries, returning ranked results as clean JSON. Supports batch queries, localization, and integration with place lookups.

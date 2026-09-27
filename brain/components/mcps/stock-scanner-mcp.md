@@ -8,13 +8,13 @@ source_url: https://github.com/yyordanov-tradu/stock-scanner-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-31T13:50:11Z"
+pushed_at: "2026-09-21T13:52:13Z"
 ---
 ## What it is
 A modular MCP server providing 64 tools across 13 modules for real-time stock and crypto market data, including scanning, technical analysis, options flow, insider trades, and personalized watchlists.

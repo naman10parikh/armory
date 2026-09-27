@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T11:26:58Z"
+pushed_at: "2026-09-15T11:11:11Z"
 ---
 ## What it is
 Enables drafting, scheduling, and publishing social posts on Vibe Marketing workspace through chat in Claude Code, Claude Desktop, or Cursor.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-07-02T10:10:26Z"
+pushed_at: "2026-09-11T09:25:35Z"
 ---
 ## What it is
 MCP server `UniFuncs`, catalogued on PulseMCP. Provides a bridge to the UniFuncs API for web search and web reading capabilities through TypeScript implementation with Express and NPX commands.

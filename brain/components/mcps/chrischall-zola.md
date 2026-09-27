@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T23:30:16Z"
+pushed_at: "2026-09-25T15:48:28Z"
 ---
 ## What it is
 MCP server `Zola`, catalogued on PulseMCP. Manages Zola wedding planning data including vendors, budget, guests, seating, registry, and RSVPs.

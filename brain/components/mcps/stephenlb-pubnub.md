@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-07-22T13:33:03Z"
+pushed_at: "2026-09-23T19:57:13Z"
 ---
 ## What it is
 MCP server `PubNub`, catalogued on PulseMCP. Enables AI assistants to interact with PubNub's realtime communication platform for retrieving documentation, accessing SDK information, and utilizing messaging APIs without leaving their conversation context.

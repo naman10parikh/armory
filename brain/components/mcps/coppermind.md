@@ -8,13 +8,13 @@ source_url: https://github.com/charlesmmorais/coppermind
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-21T20:09:16Z"
+pushed_at: "2026-09-13T15:29:46Z"
 ---
 ## What it is
 Enables AI assistants to design PCBs in KiCAD through natural language, with transactional preview-verify-commit workflow, undo/redo, and an engineering knowledge base.

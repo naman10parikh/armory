@@ -8,13 +8,13 @@ source_url: https://github.com/harlixay7/AgentXFlow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T02:46:22Z"
+pushed_at: "2026-09-24T15:29:59Z"
 ---
 ## What it is
 Enables multiple AI coding agents to collaborate on the same Git repository without conflicts through isolated worktrees, file locking, automated test verification, and a serialized merge queue.

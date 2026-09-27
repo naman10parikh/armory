@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:28:08Z"
+pushed_at: "2026-09-26T14:27:40Z"
 ---
 ## What it is
 Solana token risk-scoring MCP server for AI trading agents — 0-100 safety score, on-chain insider wallet cluster detection, mint/freeze authority checks, and historical risk data via 3 tools.

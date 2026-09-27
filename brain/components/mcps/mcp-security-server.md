@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T16:43:14Z"
+pushed_at: "2026-09-19T14:56:55Z"
 ---
 ## What it is
 Enables file operations, npm package management, and configuration checking through MCP.

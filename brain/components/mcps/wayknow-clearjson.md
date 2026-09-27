@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T06:32:44Z"
+pushed_at: "2026-09-21T09:47:19Z"
 ---
 ## What it is
 Large-file-safe JSON MCP server with 10 tools: format, validate, search, JSONPath query, deep diff, and multi-format conversion (CSV/TSV/YAML/TypeScript). Handles JSON of any size without crashing.

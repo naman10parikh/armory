@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T21:01:15Z"
+pushed_at: "2026-09-06T04:54:37Z"
 ---
 ## What it is
 Enables managing Novacal event types, availability, and events (create, cancel, reschedule) via MCP, with OAuth authentication and encrypted API key storage.

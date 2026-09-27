@@ -8,11 +8,11 @@ source_url: https://github.com/asyncfuncai/github-chat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2025-04-10T04:34:19Z"
 ---
 ## What it is

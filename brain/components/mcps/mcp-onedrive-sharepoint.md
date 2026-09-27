@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-07-30T13:14:14Z"
+pushed_at: "2026-09-25T16:05:24Z"
 ---
 ## What it is
 Enables file and site management across OneDrive and SharePoint via Microsoft Graph API, with support for 33 tools and a CLI.

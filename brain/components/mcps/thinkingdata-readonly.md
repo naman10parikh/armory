@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T13:29:30Z"
+pushed_at: "2026-09-20T10:29:50Z"
 ---
 ## What it is
 Local read-only MCP server for ThinkingData 5.0 that provides 10 tools for event analysis, retention, funnel, path, distribution, and SQL queries over stdio.

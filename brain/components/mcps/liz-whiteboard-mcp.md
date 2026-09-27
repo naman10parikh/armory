@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-02T07:36:42Z"
+pushed_at: "2026-09-10T14:23:36Z"
 ---
 ## What it is
 Enables AI agents to read and edit entity-relationship diagrams and SQL database schemas on the liz-whiteboard collaborative whiteboard through natural language, supporting table, column, and relationship management.

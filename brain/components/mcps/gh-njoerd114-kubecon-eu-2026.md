@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-14T20:28:19Z"
+pushed_at: "2026-09-21T20:51:54Z"
 ---
 ## What it is
 MCP server `KubeCon EU 2026 Conference Guide`, catalogued on PulseMCP. Agentic schedule planner and conference guide for KubeCon + CloudNativeCon Europe 2026 with live session data, party optimizer, and travel logistics.

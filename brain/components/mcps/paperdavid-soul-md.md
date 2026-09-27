@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T13:36:36Z"
+pushed_at: "2026-09-12T18:14:54Z"
 ---
 ## What it is
 MCP server `soul.md`, catalogued on PulseMCP. Portable AI identity layer — lets any LLM read your soul.md file for consistent voice, values, and skills across tools.

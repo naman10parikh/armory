@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T21:37:46Z"
+pushed_at: "2026-09-14T21:09:01Z"
 ---
 ## What it is
 MCP server and web dashboard for controlling AutoCAD Electrical 2027 via natural language, supporting MCC configurator and multiple AI backends like Claude, Ollama, or OpenAI-compatible models.

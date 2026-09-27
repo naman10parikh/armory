@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-02T00:55:35Z"
+pushed_at: "2026-09-22T19:37:11Z"
 ---
 ## What it is
 MCP server `Entra News`, catalogued on PulseMCP. Searchable knowledge base over the Entra.news newsletter archive covering Microsoft Entra identity features, announcements, and community tools.

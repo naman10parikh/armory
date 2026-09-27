@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T17:17:12Z"
+forks: 1
+pushed_at: "2026-09-11T18:46:52Z"
 ---
 ## What it is
 Open-source MCP server for Chile's SII free invoicing system, enabling AI agents to query issued and received tax documents.

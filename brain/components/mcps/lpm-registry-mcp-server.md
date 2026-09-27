@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T03:12:14Z"
+pushed_at: "2026-09-20T20:06:10Z"
 ---
 ## What it is
 MCP server for the LPM package registry, enabling AI tools to search, browse source code, install packages, check quality, and more.

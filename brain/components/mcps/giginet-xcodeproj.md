@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-19T09:16:33Z"
+pushed_at: "2026-09-18T04:49:56Z"
 ---
 ## What it is
 MCP server `Xcode Project Manager`, catalogued on PulseMCP. Provides manipulation of Xcode project files through 21 specialized tools for creating projects, managing targets and build configurations, adding/removing files and dependencies, modifying build settings, and automating common Xcode project tasks.

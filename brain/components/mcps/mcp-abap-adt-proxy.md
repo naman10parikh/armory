@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T02:29:47Z"
+pushed_at: "2026-09-26T16:37:47Z"
 ---
 ## What it is
 MCP proxy server for SAP ABAP ADT that adds JWT authentication and forwards requests to target MCP servers.

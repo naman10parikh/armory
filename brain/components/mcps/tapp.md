@@ -8,13 +8,13 @@ source_url: https://github.com/aarwitz/tapp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T15:56:02Z"
+pushed_at: "2026-09-26T13:07:56Z"
 ---
 ## What it is
 Provides autonomous QA and a deterministic ship/no-ship verdict for iOS and web apps, enabling coding agents to explore, screenshot, and test apps via MCP tools.

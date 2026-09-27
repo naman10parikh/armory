@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:22:40Z"
+pushed_at: "2026-09-27T11:02:55Z"
 ---
 ## What it is
 Unified MCP server for managing local model runtimes (Ollama, LM Studio, etc.), enabling provider-agnostic discovery, lifecycle management, hardware-fit checks, and delegated inference.

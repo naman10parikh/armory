@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T17:38:43Z"
+pushed_at: "2026-09-15T11:51:46Z"
 ---
 ## What it is
 Integrates Azul Cargo Express logistics operations with MCP clients like Shopify and TOTVS Moda, enabling freight quotes, tracking, CTe downloads, remittance issuance/cancellation, and invoice queries through the Azul API using secure authentication and production/homologation environments.

@@ -8,12 +8,12 @@ source_url: https://github.com/tugcantopaloglu/godot-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 448
+stars: 466
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 66
+forks: 71
 pushed_at: "2026-07-13T08:04:01Z"
 ---
 ## What it is

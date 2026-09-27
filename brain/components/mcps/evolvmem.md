@@ -8,13 +8,13 @@ source_url: https://github.com/1942293420/Evolvmem_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T07:20:20Z"
+pushed_at: "2026-09-21T09:36:34Z"
 ---
 ## What it is
 A fully-local, three-layer memory plugin for Claude Code with Chinese support, offering hybrid FTS5/trigram and HNSW vector search, self-iterating memory management, consolidation, and a web console.

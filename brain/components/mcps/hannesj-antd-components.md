@@ -8,11 +8,11 @@ source_url: https://github.com/hannesj/mcp-antd-components
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2025-03-18T10:05:14Z"
 ---
 ## What it is

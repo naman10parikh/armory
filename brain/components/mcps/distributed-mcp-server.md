@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-03-29T14:31:04Z"
+pushed_at: "2026-09-11T07:31:57Z"
 ---
 ## What it is
 Provides tools for querying Chinese criminal law, US weather alerts, Azure pricing, and counting Chinese characters via the Model Context Protocol.

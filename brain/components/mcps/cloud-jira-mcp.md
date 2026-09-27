@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T22:07:25Z"
+pushed_at: "2026-09-07T15:51:02Z"
 ---
 ## What it is
 Enables management of multiple Jira Cloud instances through MCP, including workspace linking, issue creation and editing, workflow transitions, attachment retrieval, and administration via a web interface.

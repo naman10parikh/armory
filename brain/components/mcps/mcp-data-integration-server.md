@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T19:36:57Z"
+pushed_at: "2026-09-27T12:23:02Z"
 ---
 ## What it is
 Enables reading, normalizing, validating, merging, and exporting data from Excel, CSV, JSON, and SQLite sources into a unified schema, with tools exposed via FastMCP.

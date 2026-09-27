@@ -8,11 +8,11 @@ source_url: https://github.com/ccq1/awsome_kali_mcpservers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2025-11-16T17:48:43Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T02:44:11Z"
+pushed_at: "2026-09-13T05:37:00Z"
 ---
 ## What it is
 Enables users to query the UK National Grid's carbon intensity data, providing real-time and forecasted carbon emissions for electricity generation.

@@ -8,11 +8,11 @@ source_url: https://github.com/nvms/tui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-02T11:51:24Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T17:16:12Z"
+pushed_at: "2026-09-23T21:59:32Z"
 ---
 ## What it is
 A pentesting toolkit that runs as an MCP server, providing AI assistants structured access to 22 security tools through a safety-hardened interface.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-18T07:50:26Z"
+pushed_at: "2026-09-03T09:01:09Z"
 ---
 ## What it is
 Brings Mockplus design data into AI coding assistants, enabling automated design-to-code workflows.

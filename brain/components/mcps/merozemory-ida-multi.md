@@ -8,12 +8,12 @@ source_url: https://github.com/merozemory/ida-multi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 407
+stars: 443
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 56
-pushed_at: "2026-08-28T18:14:54Z"
+forks: 60
+pushed_at: "2026-09-19T04:51:15Z"
 ---
 ## What it is
 MCP server `IDA Pro Multi-Instance`, catalogued on PulseMCP. Orchestrates multiple IDA Pro instances through a centralized registry system, enabling concurrent binary analysis across different samples with automatic instance discovery and intelligent routing.

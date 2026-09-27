@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-30T05:49:33Z"
+pushed_at: "2026-09-24T09:58:20Z"
 ---
 ## What it is
 MCP server `Crypto APIs Address History`, catalogued on PulseMCP. Full transaction and token history for EVM and UTXO blockchain addresses via Crypto APIs.

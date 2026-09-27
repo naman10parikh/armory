@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:45:06Z"
+pushed_at: "2026-09-13T07:53:22Z"
 ---
 ## What it is
 Provides cross-media recommendations from TasteDive, enabling AI agents to discover related music, movies, TV shows, books, games, and podcasts through a free API key.

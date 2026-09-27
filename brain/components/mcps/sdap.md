@@ -8,13 +8,13 @@ source_url: https://github.com/barneslardo/super-duper-admin-portal
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T12:09:48Z"
+pushed_at: "2026-09-17T23:16:43Z"
 ---
 ## What it is
 MCP server for the Super Duper Admin Portal that enables AI agents to chat with LLMs, trigger admin actions, and make Okta API requests.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-05T17:55:49Z"
+forks: 2
+pushed_at: "2026-09-16T12:51:38Z"
 ---
 ## What it is
 Web data for AI agents: scrape, crawl, search, deep research, site monitoring, browser automation

@@ -8,11 +8,11 @@ source_url: https://github.com/zhongweili/nanobanana-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 400
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 117
+forks: 116
 pushed_at: "2026-05-18T07:43:08Z"
 ---
 ## What it is

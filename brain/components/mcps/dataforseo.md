@@ -8,12 +8,12 @@ source_url: https://github.com/dataforseo/mcp-server-typescript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 242
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 118
+forks: 116
 pushed_at: "2026-09-01T10:59:19Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T18:38:17Z"
+pushed_at: "2026-09-20T08:50:56Z"
 ---
 ## What it is
 MCP server `ProjGraph`, catalogued on PulseMCP. Project dependency visualization with graph generation and analysis tools.

@@ -8,12 +8,12 @@ source_url: https://github.com/SsssssSynqa/WeChat-ClaudeCode-MCP
 license: Do What The F*ck You Want To Public License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-03-22T07:53:32Z"
 ---
 ## What it is

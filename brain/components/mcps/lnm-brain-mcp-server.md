@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T11:24:36Z"
+pushed_at: "2026-09-07T15:40:47Z"
 ---
 ## What it is
 A self-hosted MCP server that captures, compresses, and indexes AI conversations, enabling persistent cross-session memory for AI assistants via hybrid retrieval.

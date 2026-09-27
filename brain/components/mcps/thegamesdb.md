@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:51Z"
+pushed_at: "2026-09-26T21:56:49Z"
 ---
 ## What it is
 Wraps TheGamesDB API to enable game data queries via MCP. Part of Pipeworx gateway connecting AI agents to live data sources.

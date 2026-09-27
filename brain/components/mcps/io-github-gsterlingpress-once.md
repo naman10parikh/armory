@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T07:10:31Z"
+pushed_at: "2026-09-13T15:15:15Z"
 ---
 ## What it is
 MCP server that prevents duplicate side effects in AI agents by using idempotency keys and durable receipts, ensuring actions like refunds, emails, or orders execute exactly once even across retries.

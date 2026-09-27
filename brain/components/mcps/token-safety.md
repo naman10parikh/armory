@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:22Z"
+pushed_at: "2026-09-02T21:43:01Z"
 ---
 ## What it is
 Checks token contract safety for honeypot, tax, proxy, blacklist, ownership risks, and returns a risk score, enabling rug-pull protection for agents via pay-per-call x402 micropayments.

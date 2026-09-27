@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-02T02:58:05Z"
+pushed_at: "2026-09-12T01:05:52Z"
 ---
 ## What it is
 MCP server `Rememb`, catalogued on PulseMCP. Persistent project memory for AI agents stored in local JSON — no servers, API keys, or configuration required.

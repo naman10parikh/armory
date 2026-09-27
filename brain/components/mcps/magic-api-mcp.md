@@ -8,12 +8,12 @@ source_url: https://github.com/LynxBay/magic-api-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-06-30T08:59:04Z"
 ---
 ## What it is

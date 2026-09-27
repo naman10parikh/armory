@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T19:12:37Z"
+pushed_at: "2026-09-27T04:24:58Z"
 ---
 ## What it is
 Provides tools for governed project work, including project setup, workspace management, and task execution, with credential-safe MCP wiring.

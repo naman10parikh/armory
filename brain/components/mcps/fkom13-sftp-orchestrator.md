@@ -8,12 +8,12 @@ source_url: https://github.com/fkom13/mcp-sftp-orchestrator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-13T14:04:49Z"
+pushed_at: "2026-09-20T00:10:08Z"
 ---
 ## What it is
 MCP server `SFTP Orchestrator`, catalogued on PulseMCP. Remote task orchestration via SSH/SFTP with persistent queue and hybrid execution

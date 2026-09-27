@@ -8,13 +8,13 @@ source_url: https://github.com/wyre-technology/proofpoint-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-31T16:46:26Z"
+forks: 5
+pushed_at: "2026-09-14T16:47:13Z"
 ---
 ## What it is
 MCP server for Proofpoint Email Protection - email security, threat intelligence, TAP (Targeted Attack Protection), and email filtering API integration

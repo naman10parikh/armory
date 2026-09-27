@@ -8,12 +8,12 @@ source_url: https://github.com/gunnargrosch/doom-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-03-13T23:21:11Z"
 ---
 ## What it is

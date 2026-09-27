@@ -8,13 +8,13 @@ source_url: https://github.com/openhoat/aik-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-29T14:26:06Z"
+forks: 1
+pushed_at: "2026-09-21T09:55:14Z"
 ---
 ## What it is
 Enables AI agents to discover, read, search, and install Markdown-based knowledge (rules, skills, workflows) from a local directory via MCP tools.

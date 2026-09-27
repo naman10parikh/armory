@@ -12,8 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-29T10:27:53Z"
+forks: 4
+pushed_at: "2026-09-03T12:49:41Z"
 ---
 ## What it is
 MCP server `Polar AccessLink`, catalogued on PulseMCP. Privacy-first unofficial MCP server for Polar AccessLink health, sleep, and training data.

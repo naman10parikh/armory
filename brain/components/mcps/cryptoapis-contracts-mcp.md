@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T05:49:55Z"
+pushed_at: "2026-09-24T09:59:19Z"
 ---
 ## What it is
 Enables retrieval of token details (name, symbol, standard, decimals, totalSupply) by contract address for EVM and Solana blockchains via the Crypto APIs.

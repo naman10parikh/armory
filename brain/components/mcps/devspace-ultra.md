@@ -8,13 +8,13 @@ source_url: https://github.com/enwong93-sketch/devspace-ultra
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-20T08:43:17Z"
+forks: 9
+pushed_at: "2026-09-27T09:38:27Z"
 ---
 ## What it is
 An MIT-licensed DevSpace distribution with an elastic ChatGPT Classic multi-agent runtime layer for managing multiple independent worker conversations and scaling them dynamically.

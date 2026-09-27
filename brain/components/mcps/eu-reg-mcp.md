@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T15:43:23Z"
+pushed_at: "2026-09-02T07:41:36Z"
 ---
 ## What it is
 An MCP server that gives AI agents cited, review-gated grounding in EU regulation.

@@ -8,12 +8,12 @@ source_url: https://github.com/PSU3D0/agent-spreadsheet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-09-02T00:13:55Z"
+forks: 8
+pushed_at: "2026-09-09T01:03:17Z"
 ---
 ## What it is
 MCP server `Spreadsheet Kit`, catalogued on PulseMCP. Agent-safe Excel workbook analysis, editing, formula recalculation, and verification tools with dry-run previews and stateful sessions.

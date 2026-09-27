@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T00:14:48Z"
+pushed_at: "2026-09-26T04:45:44Z"
 ---
 ## What it is
 A semantic retrieval system that gives AI assistants on-demand access to domain-specific governance principles — a queryable 'second brain' of encoded standards.

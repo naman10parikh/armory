@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:39:38Z"
+pushed_at: "2026-09-26T21:30:13Z"
 ---
 ## What it is
 Enables AI agents to analyze whether they should send an email, evaluating passive aggression and regret probability with a recommendation heavily weighted toward no.

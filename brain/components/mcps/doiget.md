@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:24:07Z"
+pushed_at: "2026-09-21T07:13:27Z"
 ---
 ## What it is
 Converts DOIs and arXiv IDs into local PDFs via official open-access APIs, designed as an agent-facing companion for academic paper retrieval.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-20T08:25:30Z"
+pushed_at: "2026-09-07T08:25:48Z"
 ---
 ## What it is
 MCP server `Lore Agent`, catalogued on PulseMCP. Local knowledge agent MCP server with BM25 retrieval and web research integration for querying and saving research notes.

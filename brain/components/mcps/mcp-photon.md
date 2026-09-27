@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:32:35Z"
+pushed_at: "2026-09-26T21:00:15Z"
 ---
 ## What it is
 A geocoding MCP server that converts place names to coordinates and coordinates to place names using OpenStreetMap data.

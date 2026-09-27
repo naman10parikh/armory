@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T07:04:35Z"
+pushed_at: "2026-09-16T17:30:54Z"
 ---
 ## What it is
 Enables AI clients to search products, manage shopping carts, and browse order history on the Tuma 250 grocery site in Kigali, Rwanda.

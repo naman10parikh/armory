@@ -8,11 +8,11 @@ source_url: https://github.com/bzsasson/screaming-frog-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 17
 pushed_at: "2026-08-31T08:48:05Z"
 ---
 ## What it is

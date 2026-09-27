@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T13:07:19Z"
+pushed_at: "2026-09-11T12:13:24Z"
 ---
 ## What it is
 Convert technical-drawing PDFs and engineering callouts between metric and imperial — values stamped in place, threads cross-referenced, shop-floor rounding.

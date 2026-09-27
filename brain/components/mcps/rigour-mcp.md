@@ -8,13 +8,13 @@ source_url: https://github.com/rigour-labs/rigour
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-22T05:09:43Z"
+pushed_at: "2026-09-25T16:33:18Z"
 ---
 ## What it is
 Enables AI agents to self-govern by scanning code for hardcoded secrets, structural violations, and AI drift in real-time, providing fix packets for automatic remediation.

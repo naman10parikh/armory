@@ -8,7 +8,7 @@ source_url: https://github.com/non906/omniparser-autogui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T03:05:40Z"
+pushed_at: "2026-09-08T22:49:32Z"
 ---
 ## What it is
 An MCP server providing 82 tools for persistent memory, governance, and consciousness continuity for AI instances. Enables local-first, runtime-reflexive operation with cross-device access and recursive self-awareness.

@@ -8,12 +8,12 @@ source_url: https://github.com/antonorlov/mcp-postgres-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2025-04-14T01:06:00Z"
+pushed_at: "2026-09-16T14:01:16Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Provides a bridge to PostgreSQL databases for executing SQL queries, managing tables, and inspecting schemas with support for prepared statements and multiple parameter styles

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T08:13:05Z"
+pushed_at: "2026-09-11T10:14:38Z"
 ---
 ## What it is
 Creates, validates, audits, and repairs PowerPoint .pptx files against the OOXML spec, allowing users to generate spec-compliant slides from templates.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T04:51:05Z"
+pushed_at: "2026-09-03T11:23:33Z"
 ---
 ## What it is
 Résultats des élections françaises 1999-2026 par bureau de vote, socio-démo INSEE et cartes.

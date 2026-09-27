@@ -8,12 +8,12 @@ source_url: https://github.com/mixelpixx/kicad-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1995
+stars: 2480
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 308
-pushed_at: "2026-08-20T19:19:38Z"
+forks: 341
+pushed_at: "2026-09-25T19:48:42Z"
 ---
 ## What it is
 MCP server `KiCAD PCB Designer`, catalogued on PulseMCP. Enables LLMs to directly interact with KiCAD for printed circuit board design.

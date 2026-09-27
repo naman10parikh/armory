@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:06:04Z"
+pushed_at: "2026-09-26T12:23:42Z"
 ---
 ## What it is
 MCP server `FBI Crime Data Explorer`, catalogued on PulseMCP. FBI UCR/NIBRS crime statistics by agency, state, and national level via the Pipeworx gateway.

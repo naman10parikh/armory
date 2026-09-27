@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-29T11:11:47Z"
+pushed_at: "2026-09-18T13:03:55Z"
 ---
 ## What it is
 Local-first visual design workspace for AI assistants. Compose wireframes and branded multi-page HTML/CSS documents with live preview, annotations, brand and asset libraries, typed data collections, layout validation, PDF export, and draft-only Gmail handoff.

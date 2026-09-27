@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:27:03Z"
+pushed_at: "2026-09-09T16:23:38Z"
 ---
 ## What it is
 MCP server exposing x402 Bazaar's paid Base APIs (token risk/honeypot, prices, gas, wallet intel, tx decode + AI utilities) as agent tools. Your agent pays per call in USDC over x402 — no API keys, no signup.

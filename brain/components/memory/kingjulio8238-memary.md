@@ -8,7 +8,7 @@ source_url: https://github.com/kingjulio8238/Memary
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2644
+stars: 2651
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

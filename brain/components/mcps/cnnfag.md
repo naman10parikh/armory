@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T07:24:50Z"
+pushed_at: "2026-09-07T10:16:39Z"
 ---
 ## What it is
 CNN's Fear & Greed index for the US stock market: current score and rating, the seven component indicators, and about a year of daily history. Go standard library only, no API key required.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:45:06Z"
+pushed_at: "2026-09-13T07:53:22Z"
 ---
 ## What it is
 MCP server `TasteDive`, catalogued on PulseMCP. TasteDive cross-media recommendation engine for finding similar movies, TV shows, music, books, and games via Pipeworx.

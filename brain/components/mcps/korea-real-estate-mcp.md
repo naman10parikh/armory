@@ -8,12 +8,12 @@ source_url: https://github.com/tae0y/real-estate-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 373
+stars: 378
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 61
+forks: 64
 pushed_at: "2026-07-18T12:21:18Z"
 ---
 ## What it is

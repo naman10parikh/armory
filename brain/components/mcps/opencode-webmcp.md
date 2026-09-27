@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:57:41Z"
+pushed_at: "2026-09-21T14:55:42Z"
 ---
 ## What it is
 Bridges OpenCode to Chromium's WebMCP API, exposing WebMCP tools from a webpage as standard MCP tools for any MCP client.

@@ -8,13 +8,13 @@ source_url: https://github.com/domdomegg/computer-use-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 356
+stars: 379
 eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 41
-pushed_at: "2026-08-11T16:42:32Z"
+forks: 48
+pushed_at: "2026-09-09T22:20:12Z"
 ---
 ## What it is
 MCP server that enables Claude to control your computer, similar to Anthropic's computer use but easy to set up locally.

@@ -8,7 +8,7 @@ source_url: https://github.com/Hmbown/Hegelion
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 172
+stars: 173
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,11 +8,11 @@ source_url: https://github.com/peakmojo/applescript-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 462
+stars: 465
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
+forks: 59
 pushed_at: "2026-02-22T03:24:35Z"
 ---
 ## What it is

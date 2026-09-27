@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T16:29:32Z"
+pushed_at: "2026-09-04T12:10:09Z"
 ---
 ## What it is
 MCP server `Simple Memory Extension`, catalogued on PulseMCP. Persistent key-value memory store with semantic search using SQLite and E5 embeddings, enabling contextual information retrieval and long-term memory extension for complex multi-step tasks.

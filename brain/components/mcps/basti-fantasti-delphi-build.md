@@ -8,7 +8,7 @@ source_url: https://github.com/basti-fantasti/delphi-build-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-09-01T03:47:15Z"
+forks: 13
+pushed_at: "2026-09-22T03:46:18Z"
 ---
 ## What it is
 Provides MCP servers that wrap common developer tools (git, npm, docker, etc.) returning structured JSON output, enabling AI agents to reliably interact with these tools without parsing fragile terminal text.

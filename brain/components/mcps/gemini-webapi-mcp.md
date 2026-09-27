@@ -8,13 +8,13 @@ source_url: https://github.com/AndyShaman/gemini-webapi-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 56
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
-pushed_at: "2026-06-23T18:47:42Z"
+forks: 25
+pushed_at: "2026-09-21T11:03:27Z"
 ---
 ## What it is
 MCP server for Google Gemini that enables image generation, editing, file analysis, and chat using browser cookies, no API key needed.

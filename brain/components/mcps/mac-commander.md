@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T18:56:25Z"
+pushed_at: "2026-09-20T19:27:26Z"
 ---
 ## What it is
 A minimal macOS GUI-automation MCP server providing tools to see app state, perform actions, manage apps, send notifications, and run AppleScripts with security boundaries.

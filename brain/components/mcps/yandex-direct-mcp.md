@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-18T10:19:39Z"
+pushed_at: "2026-09-06T08:41:57Z"
 ---
 ## What it is
 MCP server for Yandex.Direct API v5 enabling management of campaigns, ad groups, ads, keywords, statistics, and account info via 12 tools.

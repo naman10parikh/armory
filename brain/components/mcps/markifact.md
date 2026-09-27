@@ -12,8 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-08-19T05:25:39Z"
+forks: 8
+pushed_at: "2026-09-26T07:58:23Z"
 ---
 ## What it is
 MCP server `Markifact`, catalogued on PulseMCP. Marketing artifact creation service with AI-powered campaign and content generation tools.

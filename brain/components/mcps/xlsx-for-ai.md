@@ -8,13 +8,13 @@ source_url: https://github.com/senoff/xlsx-for-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T03:25:32Z"
+pushed_at: "2026-09-26T00:10:09Z"
 ---
 ## What it is
 50 tools and 400 functions for working with Excel/.xlsx spreadsheets — read/write, recalculate formulas, diff, repair broken references, and audit. Built for AI agents.

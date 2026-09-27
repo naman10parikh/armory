@@ -8,12 +8,12 @@ source_url: https://github.com/zcaceres/gtasks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 159
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
-pushed_at: "2026-06-08T09:48:39Z"
+forks: 66
+pushed_at: "2026-09-21T15:59:09Z"
 ---
 ## What it is
 MCP server `Google Tasks`, catalogued on PulseMCP. Integrates with Google Tasks API to enable task management capabilities like listing, creating, and updating tasks.

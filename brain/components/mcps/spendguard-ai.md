@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T18:32:53Z"
+pushed_at: "2026-09-07T19:08:42Z"
 ---
 ## What it is
 Enables FinOps teams to investigate cloud-spend anomalies, draft and approve savings actions, and simulate execution safely without affecting real cloud accounts.

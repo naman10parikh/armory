@@ -8,11 +8,11 @@ source_url: https://github.com/jamjet-labs/jamjet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 4
 pushed_at: "2026-08-31T12:45:30Z"
 ---
 ## What it is

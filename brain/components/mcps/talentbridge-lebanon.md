@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T16:50:44Z"
+pushed_at: "2026-09-24T09:53:31Z"
 ---
 ## What it is
 MCP server for the TalentBridge Lebanon career-matching platform, offering job search, job retrieval, skill gap assessment, and job index statistics.

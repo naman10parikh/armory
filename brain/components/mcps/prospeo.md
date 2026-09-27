@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-03T00:24:34Z"
+pushed_at: "2026-09-13T10:53:02Z"
 ---
 ## What it is
 MCP server `Prospeo`, catalogued on PulseMCP. B2B lead search and enrichment with person and company lookups from Prospeo's 280M+ contact database.

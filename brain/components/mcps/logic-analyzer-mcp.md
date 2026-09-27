@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:52:54Z"
+pushed_at: "2026-09-27T11:29:17Z"
 ---
 ## What it is
 AI-driven USB logic analyzer control via FastMCP. Captures digital traces, decodes UART/I2C/SPI, and exports VCD for PulseView, supporting sigrok hardware and built-in simulator.

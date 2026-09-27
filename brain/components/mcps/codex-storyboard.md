@@ -8,13 +8,13 @@ source_url: https://github.com/Yuuhann1999/codex-storyboard
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 318
+stars: 344
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
-pushed_at: "2026-07-07T15:40:30Z"
+forks: 48
+pushed_at: "2026-09-15T07:48:26Z"
 ---
 ## What it is
 MCP server for managing video storyboard tasks, enabling Codex to automatically generate and populate images/videos based on shot descriptions and visual design specs.

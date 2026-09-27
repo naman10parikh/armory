@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-23T12:34:14Z"
+pushed_at: "2026-09-06T08:40:52Z"
 ---
 ## What it is
 MCP server `Central Bank of Russia`, catalogued on PulseMCP. Currency exchange rates, key rate, precious metals pricing, and conversion from the Central Bank of Russia.

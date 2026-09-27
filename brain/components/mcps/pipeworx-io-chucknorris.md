@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:48:01Z"
+pushed_at: "2026-09-25T22:25:59Z"
 ---
 ## What it is
 MCP server `Chuck Norris Jokes`, catalogued on PulseMCP. Chuck Norris jokes via the chucknorris.io API — random jokes, categories, and text search.

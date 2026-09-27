@@ -8,12 +8,12 @@ source_url: https://github.com/wukaka/camoufox-jsreverser-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 0
 pushed_at: "2026-06-16T02:43:20Z"
 ---
 ## What it is

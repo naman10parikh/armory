@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:26:42Z"
+pushed_at: "2026-09-26T20:05:35Z"
 ---
 ## What it is
 Wraps The New York Times Developer APIs, enabling natural language querying of NYT data through the Pipeworx MCP gateway.

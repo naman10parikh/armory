@@ -8,7 +8,7 @@ source_url: https://github.com/tokidoo/crawl4ai-rag-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

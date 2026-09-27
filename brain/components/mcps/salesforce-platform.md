@@ -8,11 +8,11 @@ source_url: https://github.com/forcedotcom/mcp-hosted
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 133
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 22
 pushed_at: "2026-07-23T15:07:23Z"
 ---
 ## What it is

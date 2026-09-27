@@ -12,8 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2025-07-27T08:17:37Z"
+forks: 10
+pushed_at: "2026-09-27T06:38:19Z"
 ---
 ## What it is
 MCP server `Coroot`, catalogued on PulseMCP. Integrates with the Coroot observability platform to monitor applications in real-time, analyze logs and distributed traces, manage custom dashboards, configure Prometheus and alerting systems, and perform root cause analysis for comprehensive infrastructure troubleshooting.

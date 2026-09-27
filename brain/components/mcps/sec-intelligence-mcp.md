@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:32:34Z"
+pushed_at: "2026-09-12T20:42:25Z"
 ---
 ## What it is
 MCP server for SEC EDGAR filing intelligence, providing tools for fetching, chunking/embedding, retrieval, and evaluation of filings.

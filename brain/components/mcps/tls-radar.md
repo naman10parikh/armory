@@ -8,13 +8,13 @@ source_url: https://github.com/TLS-Radar/tlsradar-claude-plugin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T09:10:36Z"
+pushed_at: "2026-09-13T18:43:42Z"
 ---
 ## What it is
 Free SSL/TLS scanning and Let's Encrypt certificate issuance (private key stays local), plus certificate-expiry monitoring via one MCP server. Public scan and cert tools need no account.

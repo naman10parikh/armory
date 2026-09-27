@@ -8,13 +8,13 @@ source_url: https://github.com/NG-Bullseye/claude-usage-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-05T14:37:18Z"
+forks: 3
+pushed_at: "2026-09-13T12:02:12Z"
 ---
 ## What it is
 Reports your Claude subscription usage (5-hour and weekly limits) with a forecast and velocity recommendation, using Claude Code's existing OAuth session without requiring an API key.

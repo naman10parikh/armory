@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-26T03:23:48Z"
+pushed_at: "2026-09-12T13:34:01Z"
 ---
 ## What it is
 A self-hosted MCP memory and state system for long-running AI relationships, storing source text locally with explicit memory tools and a web manager for humans.

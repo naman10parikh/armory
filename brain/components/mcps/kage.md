@@ -8,12 +8,12 @@ source_url: https://github.com/kage-core/Kage
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-29T07:59:40Z"
 ---
 ## What it is

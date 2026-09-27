@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:42:30Z"
+pushed_at: "2026-09-25T22:01:32Z"
 ---
 ## What it is
 Enables querying Kosovo Agency of Statistics (ASKdata) data through PxWeb. Supports navigating subjects, exploring table metadata, and fetching data via natural language or direct tool calls.

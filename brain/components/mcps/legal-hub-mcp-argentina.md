@@ -8,12 +8,12 @@ source_url: https://github.com/cristianaboitiz-eng/legal-hub-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 23
 pushed_at: "2026-07-20T22:31:25Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T23:10:01Z"
+pushed_at: "2026-09-15T03:42:21Z"
 ---
 ## What it is
 An MCP server that gives AI models a persistent notebook backed by a folder of Markdown files, with tools to discover, read, write, edit, and delete notes.

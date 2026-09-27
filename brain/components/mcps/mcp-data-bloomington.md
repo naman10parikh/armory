@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:53:01Z"
+pushed_at: "2026-09-25T23:06:29Z"
 ---
 ## What it is
 Enables querying and exploring Bloomington Open Data catalog with tools for searching datasets, running Socrata SoQL queries, and retrieving dataset metadata.

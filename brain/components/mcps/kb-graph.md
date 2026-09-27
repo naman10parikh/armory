@@ -8,13 +8,13 @@ source_url: https://github.com/uttambharadwaj/kb-graph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-28T07:00:20Z"
+forks: 2
+pushed_at: "2026-09-22T04:42:03Z"
 ---
 ## What it is
 Provides a self-tending knowledge base for AI agents, automatically harvesting session transcripts into facts and state notes, and injecting relevant context into new sessions via MCP hooks.

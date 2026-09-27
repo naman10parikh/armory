@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T21:42:56Z"
+pushed_at: "2026-09-06T21:43:24Z"
 ---
 ## What it is
 MCP server that wraps the Korean government's '나라장터 사전규격정보서비스' API, enabling natural language search and retrieval of public procurement pre-specifications through simplified tools.

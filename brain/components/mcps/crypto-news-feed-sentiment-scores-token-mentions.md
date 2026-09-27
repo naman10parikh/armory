@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:57Z"
+pushed_at: "2026-09-02T19:55:32Z"
 ---
 ## What it is
 Real-time crypto news aggregator API for AI agents. Multi-source news feed with AI sentiment scores (bullish/bearish/neutral), token mentions, and trading signal relevance. Essential for news-driven trading strategies. Tools: crypto_get_latest_news. Use this for market sentiment analysis, news-based

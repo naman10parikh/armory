@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:35:26Z"
+pushed_at: "2026-09-26T21:09:06Z"
 ---
 ## What it is
 MCP server `QR Code`, catalogued on PulseMCP. Generates QR code images from text and URLs.

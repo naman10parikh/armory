@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-17T07:08:05Z"
+pushed_at: "2026-09-21T07:06:32Z"
 ---
 ## What it is
 MCP server `Corbat Coding Standards`, catalogued on PulseMCP. Enforce production-grade coding standards with DDD, SOLID, and TDD guardrails.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:17:57Z"
+pushed_at: "2026-09-22T04:01:42Z"
 ---
 ## What it is
 A local, safety-gated MCP server for controlling, inspecting, extending, and testing BeamNG simulations, combining BeamNGpy with a Lua WebSocket extension and real-time perception/control.

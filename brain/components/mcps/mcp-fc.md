@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T12:56:19Z"
+pushed_at: "2026-09-25T13:36:55Z"
 ---
 ## What it is
 MCP server exposing the financecentre MongoDB (stocks, prices, SEC financials, insider trades, 13F funds, congressional trades, macro series, news) to AI agents.

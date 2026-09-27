@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-22T16:37:30Z"
+pushed_at: "2026-09-13T15:53:43Z"
 ---
 ## What it is
 Provides secure, ephemeral secret management for AI agents via MCP tools that self-destruct after use or session end.

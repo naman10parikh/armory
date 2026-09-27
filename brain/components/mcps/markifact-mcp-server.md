@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-08-19T05:25:39Z"
+forks: 8
+pushed_at: "2026-09-26T07:58:23Z"
 ---
 ## What it is
 A universal marketing MCP server that lets AI clients manage 20+ ad and marketing platforms (Google Ads, Meta, TikTok, etc.) with 500+ operations, including write actions with user approval.

@@ -8,13 +8,13 @@ source_url: https://github.com/mirsella/context7-account-broker
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:22:48Z"
+pushed_at: "2026-09-04T06:36:23Z"
 ---
 ## What it is
 A drop-in Context7 MCP proxy that manages multiple API keys, balancing quota usage, caching responses, and providing failover for the standard Context7 tools. It lets MCP clients like OpenCode use the standard Context7 tools without worrying about account selection or quota limits.

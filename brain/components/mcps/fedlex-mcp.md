@@ -8,13 +8,13 @@ source_url: https://github.com/malkreide/fedlex-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T06:32:13Z"
+pushed_at: "2026-09-27T11:45:38Z"
 ---
 ## What it is
 MCP Server for Swiss federal law — search the SR, monitor legal changes, and query BBl/treaties via Claude Desktop or Claude.ai.

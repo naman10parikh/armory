@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 367
-forks: 52
-pushed_at: "2026-08-24T07:38:30Z"
+stars: 370
+forks: 53
+pushed_at: "2026-09-21T11:23:30Z"
 ---
 ## What it is
 Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org

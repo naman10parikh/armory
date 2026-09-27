@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:19:08Z"
+pushed_at: "2026-09-26T19:28:28Z"
 ---
 ## What it is
 An MCP server for accessing the UK's official legislation database (legislation.gov.uk), enabling natural language queries via Pipeworx's AI gateway.

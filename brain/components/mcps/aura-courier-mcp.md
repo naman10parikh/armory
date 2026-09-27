@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:45:24Z"
+pushed_at: "2026-09-24T03:57:00Z"
 ---
 ## What it is
 A unified MCP connector for Bangladeshi couriers, enabling parcel booking and tracking across multiple services through a single interface.

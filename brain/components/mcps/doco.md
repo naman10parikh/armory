@@ -8,13 +8,13 @@ source_url: https://github.com/songofhawk/doco
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-21T21:04:20Z"
+pushed_at: "2026-09-12T13:45:04Z"
 ---
 ## What it is
 Doco is an open-source collaborative document workspace where humans and AI agents write together. Its MCP server gives Claude Code and Cursor stable block-level addressing, version-protected writes, Markdown round-trip, and shared access to the same live documents.

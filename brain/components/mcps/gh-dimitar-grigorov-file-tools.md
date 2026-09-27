@@ -8,12 +8,12 @@ source_url: https://github.com/dimitar-grigorov/mcp-file-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-08-29T16:46:49Z"
+forks: 10
+pushed_at: "2026-09-26T16:46:24Z"
 ---
 ## What it is
 MCP server `File Tools by dimitar-grigorov`, catalogued on PulseMCP. File operations with non-UTF-8 encoding support for 22 character sets including Cyrillic, Windows-125x, and ISO-8859.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, gaming]
 stars: 4
 forks: 3
-pushed_at: "2025-12-01T20:50:49Z"
+pushed_at: "2026-09-22T18:54:30Z"
 ---
 ## What it is
 Search and discover hundreds of thousands of video games on any platform through the [GameBrain API](https://gamebrain.co/api).

@@ -8,13 +8,13 @@ source_url: https://github.com/dvcrn/mcp-server-devonthink
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-05-27T04:57:45Z"
+pushed_at: "2026-09-09T04:03:01Z"
 ---
 ## What it is
 This MCP server provides access to DEVONthink functionality via the Model Context Protocol (MCP). It enables listing, searching, creating, modifying, and managing records and databases in DEVONthink Pro on macOS.

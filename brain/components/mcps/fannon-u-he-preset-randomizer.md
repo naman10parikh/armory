@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-04-10T10:03:44Z"
+pushed_at: "2026-09-16T08:16:18Z"
 ---
 ## What it is
 MCP server `u-he Preset Randomizer`, catalogued on PulseMCP. Generate and randomize u-he synthesizer presets through AI-assisted workflows

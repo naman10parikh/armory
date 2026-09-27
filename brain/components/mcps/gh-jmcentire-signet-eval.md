@@ -12,8 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-08-28T03:17:11Z"
+forks: 2
+pushed_at: "2026-09-24T17:33:05Z"
 ---
 ## What it is
 MCP server `Signet Eval`, catalogued on PulseMCP. Enforce deterministic policies and manage MCP tool call permissions for AI agents.

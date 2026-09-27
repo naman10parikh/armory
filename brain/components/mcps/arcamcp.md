@@ -8,13 +8,13 @@ source_url: https://github.com/Yoryoboy/ArcaMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-21T16:26:06Z"
+forks: 7
+pushed_at: "2026-09-20T16:57:57Z"
 ---
 ## What it is
 MCP server for automating AFIP/ARCA electronic invoicing, certificate management, and Web Service authorization in Argentina.

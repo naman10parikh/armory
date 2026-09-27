@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T12:43:36Z"
+pushed_at: "2026-09-09T07:47:20Z"
 ---
 ## What it is
 Unified MCP server for media acquisition, subtitle automation, and agent-run media workflows, enabling downloads via Prowlarr/qBittorrent and subtitle translation/sidecar creation.

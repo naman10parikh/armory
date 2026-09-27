@@ -8,12 +8,12 @@ source_url: https://github.com/faze79/WPFVisualTreeMcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-07-23T22:43:58Z"
 ---
 ## What it is

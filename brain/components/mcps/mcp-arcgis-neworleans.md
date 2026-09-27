@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:39:14Z"
+pushed_at: "2026-09-25T21:52:27Z"
 ---
 ## What it is
 Provides access to City of New Orleans open geospatial data (ArcGIS) including parcels, zoning, public safety, and city services. Enables searching datasets, querying layers, and retrieving schema information.

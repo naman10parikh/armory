@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:17Z"
+pushed_at: "2026-09-26T20:55:40Z"
 ---
 ## What it is
 Analyzes the publish size and full install size of npm packages, including dependencies.

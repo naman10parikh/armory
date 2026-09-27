@@ -12,8 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-26T17:14:40Z"
+forks: 1
+pushed_at: "2026-09-26T19:10:35Z"
 ---
 ## What it is
 MCP server `Iconify`, catalogued on PulseMCP. Search and retrieve SVG icons from over 200 open-source icon sets via Iconify.

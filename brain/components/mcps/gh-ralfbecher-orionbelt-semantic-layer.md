@@ -8,12 +8,12 @@ source_url: https://github.com/ralfbecher/orionbelt-semantic-layer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-01T21:36:58Z"
+pushed_at: "2026-09-26T15:20:39Z"
 ---
 ## What it is
 MCP server `OrionBelt Semantic Layer`, catalogued on PulseMCP. API-first semantic layer compiling YAML models into dialect-specific SQL.

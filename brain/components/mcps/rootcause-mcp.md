@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T06:06:29Z"
+pushed_at: "2026-09-03T07:51:40Z"
 ---
 ## What it is
 Enables AI agents to perform structured root cause analysis from clinical incidents and construct learner-ready lesson plans for medical education.

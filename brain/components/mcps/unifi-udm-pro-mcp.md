@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:37:23Z"
+pushed_at: "2026-09-17T12:36:28Z"
 ---
 ## What it is
 A high-performance MCP server for Ubiquiti UniFi Dream Machine (UDM Pro/SE) and UniFi OS Cloud Gateways, connecting directly to the local REST API using native API keys to provide 40 tools for managing Wi-Fi, VLANs, firewall rules, port forwarding, switch ports, guest vouchers, QoS, clients, and dev

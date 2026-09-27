@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T18:18:33Z"
+pushed_at: "2026-09-17T22:07:15Z"
 ---
 ## What it is
 Connects AI coding assistants to a team prototype hub for deploying, sharing, and gathering feedback on prototypes, with context sync across sessions.

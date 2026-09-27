@@ -8,13 +8,13 @@ source_url: https://github.com/flujo-app/mcp-audio-studio-mcpapp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T23:25:13Z"
+pushed_at: "2026-09-06T01:20:19Z"
 ---
 ## What it is
 An interactive digital audio workstation as an MCP server, enabling music production with a channel rack, piano roll, mixer, effects, automation, microphone recording, and offline WAV rendering.

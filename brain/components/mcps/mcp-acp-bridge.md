@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-26T02:43:52Z"
+forks: 1
+pushed_at: "2026-09-04T02:36:52Z"
 ---
 ## What it is
 An ACP server that fronts an MCP-speaking coding agent, intercepting tool calls to request permission from a client before allowing them.

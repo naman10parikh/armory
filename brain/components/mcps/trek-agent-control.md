@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T07:21:01Z"
+pushed_at: "2026-09-23T08:25:18Z"
 ---
 ## What it is
 Enables AI agents to securely read, plan, and sync real trips from the Trek WeChat mini-program via authenticated remote MCP, supporting tools for itinerary management, reservations, and file attachments.

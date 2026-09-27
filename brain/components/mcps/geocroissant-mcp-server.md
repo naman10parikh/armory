@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:23:39Z"
+pushed_at: "2026-09-22T07:56:02Z"
 ---
 ## What it is
 Enables discovering and searching Earth observation datasets from STAC catalogs, generating validated GeoCroissant metadata, inspecting document structure, and previewing records for geospatial ML workflows.

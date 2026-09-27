@@ -8,11 +8,11 @@ source_url: https://github.com/mls-tech-inc/shortlistjobs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-03-21T22:53:33Z"
 ---
 ## What it is

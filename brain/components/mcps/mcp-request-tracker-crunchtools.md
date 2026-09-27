@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T22:24:30Z"
+pushed_at: "2026-09-26T09:33:52Z"
 ---
 ## What it is
 Enables secure interaction with Request Tracker (RT) for ticket management, including search, creation, updates, resolution, time tracking, and workflow automation.

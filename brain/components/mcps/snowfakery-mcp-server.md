@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T10:55:16Z"
+pushed_at: "2026-09-23T10:54:30Z"
 ---
 ## What it is
 Enables AI assistants to author, debug, and run Snowfakery data generation recipes through the Model Context Protocol.

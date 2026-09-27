@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:08Z"
+pushed_at: "2026-09-26T22:05:01Z"
 ---
 ## What it is
 Connects AI agents to UK Food Standards Agency food hygiene ratings (FHRS). Enables querying food hygiene data via natural language through the Pipeworx gateway.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T03:21:43Z"
+pushed_at: "2026-09-12T02:47:33Z"
 ---
 ## What it is
 MCP server `CacheBash`, catalogued on PulseMCP. Coordination layer for AI coding agents with task queues, relay messaging, session monitoring, and mobile alerts.

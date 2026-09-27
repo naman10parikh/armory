@@ -8,12 +8,12 @@ source_url: https://github.com/linked-api/linkedapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-01T13:23:02Z"
+forks: 5
+pushed_at: "2026-09-16T13:26:58Z"
 ---
 ## What it is
 MCP server `Linked API`, catalogued on PulseMCP. Lets AI assistants control LinkedIn accounts and retrieve real-time data.

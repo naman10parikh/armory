@@ -8,13 +8,13 @@ source_url: https://github.com/code4161/memgit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T10:34:49Z"
+pushed_at: "2026-09-20T04:40:37Z"
 ---
 ## What it is
 Provides git-like version-controlled persistent memory for AI assistants, enabling context persistence, diffing, rollback, and sync across sessions and AI tools via MCP.

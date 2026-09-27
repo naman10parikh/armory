@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T20:38:51Z"
+pushed_at: "2026-09-14T15:41:27Z"
 ---
 ## What it is
 An MCP server that enables AI agents to request human verification for tasks requiring real-world understanding, paying via the Lightning Network, and receiving verified answers.

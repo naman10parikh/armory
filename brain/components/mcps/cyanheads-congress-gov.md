@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T03:19:30Z"
+pushed_at: "2026-09-26T21:35:45Z"
 ---
 ## What it is
 MCP server `Congress.gov by cyanheads`, catalogued on PulseMCP. Queries U.S. congressional data including bills, votes, members, committees, CRS reports, and the Congressional Record via the Congress.gov API.

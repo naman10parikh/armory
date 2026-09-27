@@ -8,13 +8,13 @@ source_url: https://github.com/kintopp/rijksmuseum-mcp-plus
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-31T09:01:45Z"
+forks: 3
+pushed_at: "2026-09-11T15:34:18Z"
 ---
 ## What it is
 Lets you explore the Rijksmuseum's artwork collections through natural conversation with an AI assistant.

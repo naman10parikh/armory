@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:51:04Z"
+pushed_at: "2026-09-18T07:20:50Z"
 ---
 ## What it is
 Enables sharing two serial consoles between a local operator and MCP agents, allowing command execution and status monitoring on connected devices.

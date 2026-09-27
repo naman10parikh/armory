@@ -8,13 +8,13 @@ source_url: https://github.com/korovin-aa97/talkthrough-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-29T17:30:59Z"
+forks: 4
+pushed_at: "2026-09-27T10:00:27Z"
 ---
 ## What it is
 Feedback ingestion for AI agents. Record your screen and talk; your agent does the rest — files the bugs, writes the spec, builds the backlog.

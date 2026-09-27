@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
-stars: 1424
-forks: 109
-pushed_at: "2026-07-19T20:13:50Z"
+stars: 1450
+forks: 113
+pushed_at: "2026-09-13T21:51:44Z"
 ---
 ## What it is
 Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.

@@ -8,12 +8,12 @@ source_url: https://github.com/backspace-me/sportscore-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-23T21:07:34Z"
+pushed_at: "2026-09-19T23:23:20Z"
 ---
 ## What it is
 MCP server `SportScore`, catalogued on PulseMCP. Live sports data for football, basketball, cricket, and tennis via the SportScore API.

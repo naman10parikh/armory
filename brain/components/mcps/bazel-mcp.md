@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:38:53Z"
+pushed_at: "2026-09-22T18:37:00Z"
 ---
 ## What it is
 A local MCP server that exposes Bazel build system capabilities to AI assistants.

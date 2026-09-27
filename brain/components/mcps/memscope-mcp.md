@@ -8,13 +8,13 @@ source_url: https://github.com/Boti-Ormandi/memscope-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:39:21Z"
+pushed_at: "2026-09-10T01:49:43Z"
 ---
 ## What it is
 Enables AI agents to perform low-level Windows process memory research, including process attachment, memory scanning, reading/writing, pointer chasing, remote code execution, and inline hooking via MCP tools and Lua scripting.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:20:42Z"
+pushed_at: "2026-09-27T03:50:24Z"
 ---
 ## What it is
 Enables to present PDF slides with live bullet comments from audience, and to fetch comments from a Google Sheets form.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T10:47:28Z"
+pushed_at: "2026-09-11T15:32:06Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve past chat transcripts from Cursor, Claude Code, and Kiro, providing a global, local memory for context-aware assistance.

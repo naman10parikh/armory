@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-27T20:57:36Z"
+pushed_at: "2026-09-27T09:26:14Z"
 ---
 ## What it is
 MCP server `Craft Content`, catalogued on PulseMCP. Content creation tools for case studies, newsletters, webinars, and thought leadership.

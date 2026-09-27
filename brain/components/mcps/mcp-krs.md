@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-03T15:25:09Z"
+pushed_at: "2026-09-17T13:14:45Z"
 ---
 ## What it is
 MCP server for the Polish company register (KRS) via the official Ministry of Justice API — entities, boards and shareholders with verifiable citations.

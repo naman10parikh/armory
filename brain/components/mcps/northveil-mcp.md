@@ -8,13 +8,13 @@ source_url: https://github.com/Fortunehack45/Northveil-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:11:36Z"
+pushed_at: "2026-09-10T11:48:50Z"
 ---
 ## What it is
 A production-grade MCP server for Web3, enabling real-time multi-chain wallet execution, smart contract auto-compilation and deployment, token swaps, and asset hosting via Supabase.

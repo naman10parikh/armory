@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T10:47:28Z"
+pushed_at: "2026-09-11T15:32:06Z"
 ---
 ## What it is
 Enables agents to search and retrieve past chat transcripts from a local memory store, allowing cross-project, cross-tool recall of previously solved problems.

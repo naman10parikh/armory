@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T05:55:55Z"
+pushed_at: "2026-09-05T10:59:21Z"
 ---
 ## What it is
 Local-first MCP server for credit risk analysis. It enables explainable rule discovery, statistical validation, PSI drift monitoring, and root-cause diagnosis on user-approved Parquet data while preserving privacy.

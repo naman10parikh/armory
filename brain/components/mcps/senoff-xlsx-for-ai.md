@@ -8,12 +8,12 @@ source_url: https://github.com/senoff/xlsx-for-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T03:25:32Z"
+pushed_at: "2026-09-26T00:10:09Z"
 ---
 ## What it is
 MCP server `xlsx for AI`, catalogued on PulseMCP. Production-grade Excel (.xlsx) tooling for read, write, diff, and redact operations.

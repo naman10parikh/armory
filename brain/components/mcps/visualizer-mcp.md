@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T06:45:29Z"
+forks: 1
+pushed_at: "2026-09-27T07:15:41Z"
 ---
 ## What it is
 MCP server that archives Decent DE1 espresso shots from Visualizer.coffee into SQLite and provides analysis tools for shots, beans, and profiles via MCP.

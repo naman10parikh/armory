@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T05:49:48Z"
+pushed_at: "2026-09-24T11:02:54Z"
 ---
 ## What it is
 MCP server for Crypto APIs Blockchain Fees product, providing fee recommendations and gas estimates for UTXO, EVM, and XRP blockchains.

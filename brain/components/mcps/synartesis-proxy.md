@@ -8,13 +8,13 @@ source_url: https://github.com/ArhaanDev24/Synartesis
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:31:32Z"
+pushed_at: "2026-09-24T15:55:04Z"
 ---
 ## What it is
 An MCP proxy that records every tool call, restores prior state on undo, and blocks irreversible actions until a human approves them.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:22:46Z"
+pushed_at: "2026-09-26T19:46:23Z"
 ---
 ## What it is
 Enables querying MITRE Common Weakness Enumeration (CWE) data, including weaknesses, categories, views, and their relationships, through natural language or direct tools.

@@ -8,11 +8,11 @@ source_url: https://github.com/pollinations/chucknorris
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 14
 pushed_at: "2025-04-11T06:28:22Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/gebruder/wirken
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 171
+stars: 185
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 5
-pushed_at: "2026-09-03T12:57:26Z"
+forks: 8
+pushed_at: "2026-09-24T05:01:25Z"
 ---
 ## What it is
 Use when autonomous agents need one gateway that holds their credentials, isolates them per channel, and logs every session.

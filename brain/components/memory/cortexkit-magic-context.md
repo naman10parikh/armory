@@ -8,14 +8,14 @@ source_url: https://github.com/cortexkit/magic-context
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2044
+stars: 2217
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 106
-pushed_at: "2026-09-07T08:11:36Z"
+forks: 122
+pushed_at: "2026-09-27T12:51:32Z"
 ---
 ## What it is
 Use when a long coding session keeps losing its earlier context and you want that handled automatically.

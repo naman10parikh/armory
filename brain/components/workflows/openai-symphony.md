@@ -8,14 +8,14 @@ source_url: https://github.com/openai/symphony
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 26991
+stars: 27429
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 2771
-pushed_at: "2026-08-19T23:24:27Z"
+forks: 2840
+pushed_at: "2026-09-15T22:14:59Z"
 ---
 ## What it is
 Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.

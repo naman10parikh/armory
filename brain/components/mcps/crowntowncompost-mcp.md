@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:36:58Z"
+pushed_at: "2026-09-25T15:51:48Z"
 ---
 ## What it is
 MCP server for the Crown Town Compost customer portal that lets you check pickups, invoices, and upcoming collections, skip services, report missed pickups, and update account details through natural language.

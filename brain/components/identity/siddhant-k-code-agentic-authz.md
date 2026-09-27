@@ -8,7 +8,7 @@ source_url: https://github.com/Siddhant-K-code/agentic-authz
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

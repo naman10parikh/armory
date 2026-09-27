@@ -12,8 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-09-01T23:01:30Z"
+forks: 2
+pushed_at: "2026-09-21T20:17:00Z"
 ---
 ## What it is
 MCP server `qURL`, catalogued on PulseMCP. Creates and manages qURL secure links for AI agents with generation, resolution, and lifecycle management tools.

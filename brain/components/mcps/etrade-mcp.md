@@ -8,13 +8,13 @@ source_url: https://github.com/sblattj/etrade-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T20:30:11Z"
+pushed_at: "2026-09-25T03:07:41Z"
 ---
 ## What it is
 MCP server for E*TRADE that reads account balances, positions, transactions, and orders, with optional opt-in order placement via a two-step preview-confirm handshake.

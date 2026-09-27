@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T03:55:12Z"
+pushed_at: "2026-09-04T09:20:41Z"
 ---
 ## What it is
 Bridges the editing capabilities of an already-open DingTalk document in the browser to any MCP host via standard stdio, forwarding tools to the page's internal MCP server over a local WebSocket. Supports read/write operations through suggested edits, pairing-based security, and zero runtime depende

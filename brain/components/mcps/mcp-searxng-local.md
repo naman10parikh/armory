@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T13:28:26Z"
+pushed_at: "2026-09-12T01:09:05Z"
 ---
 ## What it is
 MCP server for local web search via SearXNG, providing unlimited queries without API keys or cost, with automatic fallback to public instances.

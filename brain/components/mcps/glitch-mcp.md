@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T12:58:14Z"
+pushed_at: "2026-09-20T23:55:05Z"
 ---
 ## What it is
 Connects AI developer tools to the Glitch Agent service for game marketing tasks such as Steam analysis, influencer outreach, PR planning, and approval workflows.

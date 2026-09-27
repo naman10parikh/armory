@@ -8,13 +8,13 @@ source_url: https://github.com/dzhng/deep-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 19626
+stars: 19732
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1995
+forks: 2000
 pushed_at: "2026-04-11T23:58:25Z"
 ---
 ## What it is

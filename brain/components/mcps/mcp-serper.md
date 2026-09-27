@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:40:38Z"
+pushed_at: "2026-09-26T21:35:57Z"
 ---
 ## What it is
 Enables Google Search, News, and Places queries via the Serper API, integrated with the Pipeworx MCP gateway.

@@ -8,12 +8,12 @@ source_url: https://github.com/paradoxsyn/rivemcp-releases
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-23T22:57:34Z"
+pushed_at: "2026-09-23T00:46:46Z"
 ---
 ## What it is
 MCP server `RiveMCP`, catalogued on PulseMCP. Creates and edits Rive animation files with 139 tools for AI-driven animation workflows.

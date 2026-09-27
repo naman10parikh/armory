@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T21:07:56Z"
+pushed_at: "2026-09-20T12:54:37Z"
 ---
 ## What it is
 Baryon connects MCP-compatible AI assistants to Proton Mail through a local bridge, enabling email search, reading, attachment handling, and draft creation while enforcing deliberate permission limits. It runs locally and cannot send, delete, or modify mail.

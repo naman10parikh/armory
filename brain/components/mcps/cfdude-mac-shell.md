@@ -8,12 +8,12 @@ source_url: https://github.com/cfdude/mac-shell-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-08-29T23:45:18Z"
+pushed_at: "2026-09-24T13:32:33Z"
 ---
 ## What it is
 MCP server `Mac Shell`, catalogued on PulseMCP. Enables secure execution of macOS terminal commands through a ZSH shell with a whitelist system that categorizes operations as safe, requiring approval, or forbidden.

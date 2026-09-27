@@ -8,13 +8,13 @@ source_url: https://github.com/rafael-castelo/image-processing-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-05-20T02:41:46Z"
+pushed_at: "2026-09-17T03:01:02Z"
 ---
 ## What it is
 Enables image processing tasks such as resizing, compressing, converting formats, cropping, and extracting metadata directly within IDEs like Cursor via the Model Context Protocol.

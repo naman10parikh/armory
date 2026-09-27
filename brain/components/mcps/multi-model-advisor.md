@@ -8,11 +8,11 @@ source_url: https://github.com/yuchenssr/multi-ai-advisor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 86
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2025-04-02T19:12:18Z"
 ---
 ## What it is

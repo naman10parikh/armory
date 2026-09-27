@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-17T08:58:26Z"
+pushed_at: "2026-09-14T08:02:02Z"
 ---
 ## What it is
 MCP server for LinkedIn that enables AI agents to post, comment, like, and manage content on LinkedIn.

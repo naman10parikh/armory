@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-14T19:51:12Z"
+pushed_at: "2026-09-24T21:54:13Z"
 ---
 ## What it is
 Enables AI agents to manage email mailboxes, send and receive emails, and handle webhooks via qmailing.

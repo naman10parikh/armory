@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T17:11:38Z"
+pushed_at: "2026-09-13T16:07:55Z"
 ---
 ## What it is
 Enables flight search and Google Maps directions via SerpApi.

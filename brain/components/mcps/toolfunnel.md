@@ -8,13 +8,13 @@ source_url: https://github.com/Rendeverance/toolfunnel
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-05T20:55:52Z"
+forks: 5
+pushed_at: "2026-09-21T08:17:28Z"
 ---
 ## What it is
 A zero-dependency MCP gateway: host your own tools, forward and curate tools from other MCP servers, expose them leanly to cut agent token cost, and gate every call through your own policy hooks before it runs.

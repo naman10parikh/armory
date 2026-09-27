@@ -8,13 +8,13 @@ source_url: https://github.com/node-opcua/node-opcua-modeler-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T19:54:24Z"
+pushed_at: "2026-09-21T14:33:53Z"
 ---
 ## What it is
 Provides AI agents with offline access to OPC UA companion specification types, dependencies, and engineering units for industrial modeling.

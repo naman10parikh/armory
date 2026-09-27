@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-19T00:53:10Z"
+pushed_at: "2026-09-02T19:55:21Z"
 ---
 ## What it is
 MCP server `Cross-Chain Bridge Routes`, catalogued on PulseMCP. Finds optimal cross-chain bridge routes with fee breakdowns, estimated transfer times, and provider comparisons powered by LI.FI.

@@ -8,11 +8,11 @@ source_url: https://github.com/cswkim/discogs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 120
+stars: 126
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 20
 pushed_at: "2026-07-06T16:10:19Z"
 ---
 ## What it is

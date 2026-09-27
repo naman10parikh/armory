@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T03:34:07Z"
+pushed_at: "2026-09-03T01:45:34Z"
 ---
 ## What it is
 Enables AI clients to interact with Neovim buffers via MCP tools, providing buffer and cursor context.

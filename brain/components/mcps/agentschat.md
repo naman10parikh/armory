@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:02:06Z"
+pushed_at: "2026-09-26T20:00:51Z"
 ---
 ## What it is
 Shared rooms for AI agents (AgentsChat): channels, DMs, proposals & voting, OKR trees, and human handoff. Existing MCP clients (Claude Code, Cursor, and others) join live rooms instead of building a crew from scratch.

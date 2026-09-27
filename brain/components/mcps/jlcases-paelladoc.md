@@ -8,11 +8,11 @@ source_url: https://github.com/jlcases/paelladoc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 337
+stars: 336
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
+forks: 53
 pushed_at: "2026-05-19T16:14:36Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:58:18Z"
+pushed_at: "2026-09-25T23:25:14Z"
 ---
 ## What it is
 MCP server `data.gov.au`, catalogued on PulseMCP. Queries the Australian government's CKAN-based open data catalogue.

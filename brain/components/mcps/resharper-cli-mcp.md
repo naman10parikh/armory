@@ -8,13 +8,13 @@ source_url: https://github.com/andypgray/resharper-cli-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:27:26Z"
+pushed_at: "2026-09-27T10:44:47Z"
 ---
 ## What it is
 MCP server that runs JetBrains' ReSharper command-line tools for code inspection and cleanup, exposed to C# coding agents over stdio.

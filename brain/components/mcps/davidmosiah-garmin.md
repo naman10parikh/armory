@@ -8,11 +8,11 @@ source_url: https://github.com/davidmosiah/garminmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 7
 pushed_at: "2026-08-29T10:26:33Z"
 ---
 ## What it is

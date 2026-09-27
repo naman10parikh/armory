@@ -8,7 +8,7 @@ source_url: https://github.com/rfunix/tengu
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

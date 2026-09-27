@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:17:01Z"
+pushed_at: "2026-09-20T19:03:21Z"
 ---
 ## What it is
 Read-only catalog of the @blueprint-modular/core design system (104 components). Four tools — list/search/get components and suggest compositions. Public, no auth, Streamable HTTP.

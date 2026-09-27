@@ -12,8 +12,8 @@ stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
-pushed_at: "2026-08-21T12:45:41Z"
+forks: 17
+pushed_at: "2026-09-25T12:57:11Z"
 ---
 ## What it is
 MCP server `DexPaprika`, catalogued on PulseMCP. Provides real-time cryptocurrency market data across multiple blockchain networks, including DEX listings, liquidity pools, token details, and price analytics without requiring API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:57:47Z"
+pushed_at: "2026-09-24T13:31:19Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve consolidated Swedish statutes (SFS) from the Riksdagen open data API, with verifiable citations and persistent identifiers.

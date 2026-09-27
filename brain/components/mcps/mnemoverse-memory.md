@@ -8,12 +8,12 @@ source_url: https://github.com/mnemoverse/mcp-memory-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-01T15:53:37Z"
+pushed_at: "2026-09-27T11:32:30Z"
 ---
 ## What it is
 MCP server `Mnemoverse Memory`, catalogued on PulseMCP. Persistent memory storage that syncs context across coding assistants and AI tools using a unified API key.

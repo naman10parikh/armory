@@ -8,13 +8,13 @@ source_url: https://github.com/halsyourpal422/Battenmark
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:50:17Z"
+pushed_at: "2026-09-07T17:26:45Z"
 ---
 ## What it is
 Enables AI agents and software to create, edit, inspect, validate, and export CAD geometry through MCP using backend-neutral typed operations, with FreeCAD/OpenCascade as the authoritative B-rep backend and JSCAD preview.

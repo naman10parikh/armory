@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T07:57:34Z"
+pushed_at: "2026-09-17T23:44:22Z"
 ---
 ## What it is
 Exposes Google NotebookLM notebooks as tools for AI assistants, enabling listing, finding, and querying notebooks with grounded answers.

@@ -8,13 +8,13 @@ source_url: https://github.com/Retro-Diffusion/retro-diffusion-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T22:01:38Z"
+pushed_at: "2026-09-02T18:13:44Z"
 ---
 ## What it is
 Generate real pixel art — sprites, animations, and tilesets — from any MCP-capable AI assistant. Grid-aligned pixels, controlled palettes, transparent backgrounds, with cost estimation always free.

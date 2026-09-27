@@ -8,12 +8,12 @@ source_url: https://github.com/gomcpgo/filesys
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-04-23T09:39:55Z"
+pushed_at: "2026-09-22T07:43:08Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Provides a filesystem interface to perform file operations like creation, deletion, and manipulation without direct system access.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:47:18Z"
+pushed_at: "2026-09-24T22:13:27Z"
 ---
 ## What it is
 MCP server `Census Trade`, catalogued on PulseMCP. US Census Bureau international trade statistics via the Census Bureau trade data API.

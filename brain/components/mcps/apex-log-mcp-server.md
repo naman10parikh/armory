@@ -8,13 +8,13 @@ source_url: https://github.com/certinia/debug-log-analyzer-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-26T08:46:53Z"
+forks: 6
+pushed_at: "2026-09-23T08:45:30Z"
 ---
 ## What it is
 An MCP server that gives AI assistants tools to analyze Salesforce Apex debug logs for performance bottlenecks, slow methods, and governor limit usage.

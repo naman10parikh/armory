@@ -8,13 +8,13 @@ source_url: https://github.com/flaviofilipe/kali-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T21:35:20Z"
+pushed_at: "2026-09-07T20:23:16Z"
 ---
 ## What it is
 MCP server that runs offensive security testing tools (nmap, sqlmap, hydra, nuclei, etc.) inside an isolated Kali Linux Docker container, with allowlist, rate limiting, and audit logging.

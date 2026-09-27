@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-01T16:27:46Z"
+pushed_at: "2026-09-05T14:02:06Z"
 ---
 ## What it is
 MCP server `GigaChat`, catalogued on PulseMCP. Integrates with Sber GigaChat API for text generation, model listing, and embeddings.

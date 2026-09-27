@@ -8,13 +8,13 @@ source_url: https://github.com/lazyants/hetzner-mcp-server
 license: Functional Source License, Version 1.1, MIT Future License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-31T07:11:48Z"
+pushed_at: "2026-09-07T21:12:26Z"
 ---
 ## What it is
 MCP server for the Hetzner Cloud API. Manage servers, networks, volumes, firewalls, load balancers, and more through the Model Context Protocol.

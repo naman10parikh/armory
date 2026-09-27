@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:26:47Z"
+pushed_at: "2026-09-20T22:25:55Z"
 ---
 ## What it is
 An MCP server that gives LLM agents full API access to a VMware Cloud Foundation 9.1 estate, exposing 8,931 operations through eight tools with automatic authentication, async task tracking, and write safety.

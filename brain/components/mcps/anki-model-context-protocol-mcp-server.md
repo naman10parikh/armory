@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T16:57:38Z"
+pushed_at: "2026-09-13T12:49:08Z"
 ---
 ## What it is
 Enables AI assistants to directly manage Anki flashcards, decks, notetypes, tags, and media, with support for batch operations, searches, and deck exports via file-based input/output.

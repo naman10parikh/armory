@@ -8,11 +8,11 @@ source_url: https://github.com/magicuidesign/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 205
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 36
 pushed_at: "2026-04-07T09:39:00Z"
 ---
 ## What it is

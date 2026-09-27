@@ -8,11 +8,11 @@ source_url: https://github.com/iamsashank09/llm-wiki-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-04-08T20:31:04Z"
 ---
 ## What it is

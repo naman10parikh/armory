@@ -8,12 +8,12 @@ source_url: https://github.com/storybookjs/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 270
+stars: 271
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 43
-pushed_at: "2026-09-01T07:59:23Z"
+pushed_at: "2026-09-07T14:28:17Z"
 ---
 ## What it is
 MCP server `Storybook`, catalogued on PulseMCP. Help agents automatically write and test stories for your UI components

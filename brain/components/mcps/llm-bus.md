@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-06-22T13:15:52Z"
+forks: 1
+pushed_at: "2026-09-03T17:11:49Z"
 ---
 ## What it is
 MCP server that provides a live coordination layer for AI agents, including attributable handoffs, a shared event ledger, atomic work-claiming, and advisory file leases to prevent collisions.

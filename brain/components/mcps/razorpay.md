@@ -8,12 +8,12 @@ source_url: https://github.com/razorpay/razorpay-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 230
+stars: 231
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-08-28T10:00:48Z"
+forks: 41
+pushed_at: "2026-09-08T09:23:07Z"
 ---
 ## What it is
 MCP server `Razorpay`, catalogued on PulseMCP. Provides a bridge between natural language commands and Razorpay's payment processing APIs, enabling seamless integration for payment operations, payment links, and order management.

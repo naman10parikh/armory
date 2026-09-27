@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-04T17:12:57Z"
+pushed_at: "2026-09-16T13:21:30Z"
 ---
 ## What it is
 Compress OCR-heavy PDFs into dense packed images so agents can work with long visual documents.

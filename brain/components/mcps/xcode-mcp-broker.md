@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T07:42:53Z"
+pushed_at: "2026-09-27T07:43:48Z"
 ---
 ## What it is
 A localhost broker that allows multiple MCP clients to share a persistent xcrun mcpbridge connection to Xcode, enabling tool discovery and serialized calls.

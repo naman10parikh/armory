@@ -8,12 +8,12 @@ source_url: https://github.com/ChrisGVE/localdata-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-14T23:31:54Z"
 ---
 ## What it is

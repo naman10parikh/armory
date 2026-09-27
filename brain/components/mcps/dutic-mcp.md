@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T14:55:19Z"
+pushed_at: "2026-09-25T03:41:35Z"
 ---
 ## What it is
 MCP server for the DUTIC virtual classroom (Moodle) at UNSA. Allows viewing tasks (including hidden ones), courses, resources, and downloading files, from terminal or AI agents.

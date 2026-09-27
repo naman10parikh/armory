@@ -8,12 +8,12 @@ source_url: https://github.com/cliwant/mcp-sam-gov
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-31T06:48:12Z"
+forks: 3
+pushed_at: "2026-09-22T09:16:35Z"
 ---
 ## What it is
 MCP server `SAM.gov`, catalogued on PulseMCP. Provides AI agents access to U.S. federal contracting and spending data from SAM.gov, USAspending, Federal Register, eCFR, and Grants.gov.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-29T23:44:35Z"
+pushed_at: "2026-09-16T19:55:31Z"
 ---
 ## What it is
 MCP server for DCI API enabling AI models to extract and analyze DCI jobs, components, and topics, with integrations for Google Drive, Jira, GitHub, and Red Hat support cases.

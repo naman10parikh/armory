@@ -8,13 +8,13 @@ source_url: https://github.com/RunhuaHuang/VisionPower
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 71
+stars: 70
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-22T13:30:07Z"
+forks: 8
+pushed_at: "2026-09-18T14:50:24Z"
 ---
 ## What it is
 A portable image-understanding MCP server that lets agents analyze local images, URLs, or base64 images via an OpenAI-compatible vision model.

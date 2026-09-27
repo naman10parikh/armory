@@ -12,8 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-25T07:29:18Z"
+forks: 1
+pushed_at: "2026-09-23T04:34:39Z"
 ---
 ## What it is
 MCP server `bioRxiv`, catalogued on PulseMCP. Searches and retrieves preprints from bioRxiv and medRxiv preprint servers for life sciences and health research.

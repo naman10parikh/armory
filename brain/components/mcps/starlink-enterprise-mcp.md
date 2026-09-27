@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T01:41:15Z"
+pushed_at: "2026-09-14T17:45:30Z"
 ---
 ## What it is
 A hosted MCP server that enables AI agents to interact with the Starlink Enterprise API using service accounts, with transparent OAuth token management and 55 auto-generated tools.

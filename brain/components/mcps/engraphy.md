@@ -8,13 +8,13 @@ source_url: https://github.com/devon-clarkk/engraphy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T14:39:07Z"
+pushed_at: "2026-09-27T11:31:27Z"
 ---
 ## What it is
 Enables AI agents to maintain a self-hosted typed knowledge graph on Postgres and pgvector over MCP, with deduplicating writes, hybrid retrieval, and database-enforced isolation.

@@ -8,11 +8,11 @@ source_url: https://github.com/tahabakhtari/torobjomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2025-03-30T11:26:34Z"
 ---
 ## What it is

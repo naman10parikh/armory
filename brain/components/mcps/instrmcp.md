@@ -8,13 +8,13 @@ source_url: https://github.com/caidish/instrMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-08-11T07:13:40Z"
+forks: 10
+pushed_at: "2026-09-05T08:25:32Z"
 ---
 ## What it is
 MCP server for quantum device physics laboratory instrumentation control, enabling LLMs to interact with physics instruments and measurement systems through QCodes and JupyterLab.

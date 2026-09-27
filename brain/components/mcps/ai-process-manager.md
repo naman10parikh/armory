@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T18:14:15Z"
+pushed_at: "2026-09-18T17:41:35Z"
 ---
 ## What it is
 Enables AI agents to query Windows process, window, and console information via structured JSON instead of screenshots, reducing token usage by 94-98%.

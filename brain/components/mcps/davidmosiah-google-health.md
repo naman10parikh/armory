@@ -8,11 +8,11 @@ source_url: https://github.com/davidmosiah/google-health-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-08-29T10:29:37Z"
 ---
 ## What it is

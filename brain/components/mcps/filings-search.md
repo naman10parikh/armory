@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:21:53Z"
+pushed_at: "2026-09-03T08:57:19Z"
 ---
 ## What it is
 Enables AI agents to search, retrieve, and analyze SEC 10-K filings with hybrid BM25+kNN retrieval, per-claim citations, and strict numeric grounding verification.

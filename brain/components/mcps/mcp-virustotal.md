@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:37Z"
+pushed_at: "2026-09-26T22:18:28Z"
 ---
 ## What it is
 Enables file, URL, domain, and IP reputation checks via VirusTotal API using the Pipeworx gateway.

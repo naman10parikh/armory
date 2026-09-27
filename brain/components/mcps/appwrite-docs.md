@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-16T07:45:35Z"
+pushed_at: "2026-09-20T18:56:19Z"
 ---
 ## What it is
 MCP server `Appwrite Docs`, catalogued on PulseMCP. Provides intelligent access to Appwrite documentation through vector-based semantic search, direct page retrieval, and table of contents navigation for contextual API reference during development workflows.

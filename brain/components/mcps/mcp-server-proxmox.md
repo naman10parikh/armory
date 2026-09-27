@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-01-27T01:06:16Z"
+pushed_at: "2026-09-15T11:06:10Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Proxmox Virtual Environment that enables AI assistants to manage virtual machines, containers, nodes, and resources through natural language interactions.

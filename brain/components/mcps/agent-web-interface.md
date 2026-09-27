@@ -8,13 +8,13 @@ source_url: https://github.com/lespaceman/agent-web-interface
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-16T19:47:32Z"
+pushed_at: "2026-09-18T12:35:12Z"
 ---
 ## What it is
 Gives AI agents a compact, semantic interface to the browser, returning structured page snapshots with stable element IDs instead of raw DOM. Enables agents to navigate, interact, and extract information from web pages efficiently.

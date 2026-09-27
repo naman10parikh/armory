@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [cc-notify, claude-hooks]
 tags: [claude-code, hooks]
-stars: 113
-forks: 8
-pushed_at: "2026-08-06T19:29:36Z"
+stars: 114
+forks: 10
+pushed_at: "2026-09-27T07:33:08Z"
 ---
 ## What it is
 A small library that plays OS-native sounds for Claude Code events through hooks.

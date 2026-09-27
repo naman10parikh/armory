@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T01:42:03Z"
+pushed_at: "2026-09-25T00:59:21Z"
 ---
 ## What it is
 Local-first, encrypted memory for AI agents, with cryptographic forgetting.

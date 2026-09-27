@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-06-23T12:11:39Z"
+forks: 1
+pushed_at: "2026-09-02T19:13:04Z"
 ---
 ## What it is
 MCP server for ELMA365 API providing tools to manage app items, BPM tasks, processes, users, and comments.

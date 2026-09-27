@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T02:31:19Z"
+pushed_at: "2026-09-23T07:42:13Z"
 ---
 ## What it is
 Next-gen AST codebase map, token compression (70%~85% savings), and context packaging engine for AI coding agents & IDEs.

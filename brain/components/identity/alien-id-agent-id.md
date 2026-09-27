@@ -8,14 +8,14 @@ source_url: https://github.com/alien-id/agent-id
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 3
-pushed_at: "2026-09-04T12:36:56Z"
+pushed_at: "2026-09-24T08:34:59Z"
 ---
 ## What it is
 Use when each agent needs its own keypair so its actions can be signed and later attributed.

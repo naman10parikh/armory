@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T06:12:07Z"
+pushed_at: "2026-09-19T08:28:15Z"
 ---
 ## What it is
 An unofficial MCP server for Spendee that lets you inspect wallets, categories, and transactions, and create income or expense transactions.

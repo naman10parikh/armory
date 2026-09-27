@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:26:30Z"
+pushed_at: "2026-09-21T19:25:28Z"
 ---
 ## What it is
 Enables monitoring of job postings by keyword, returning companies currently advertising those roles enriched with firmographics and LinkedIn URLs via Apify.

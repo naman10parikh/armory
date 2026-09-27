@@ -8,12 +8,12 @@ source_url: https://github.com/jeromeboivin/ecoledirectemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-15T20:39:06Z"
+pushed_at: "2026-09-12T11:57:29Z"
 ---
 ## What it is
 MCP server `EcoleDirecte`, catalogued on PulseMCP. Integrates with the EcoleDirecte French school management platform for accessing grades, schedules, and assignments.

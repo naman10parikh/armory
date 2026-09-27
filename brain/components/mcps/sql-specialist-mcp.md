@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T14:48:18Z"
+pushed_at: "2026-09-03T17:08:38Z"
 ---
 ## What it is
 Enables natural-language querying of a SQLite database through a locally served, fine-tuned text-to-SQL model exposed as an MCP tool, offering fast and cost-free SQL generation and execution.

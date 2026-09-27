@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:56:26Z"
+pushed_at: "2026-09-25T23:19:53Z"
 ---
 ## What it is
 Enables searching, querying, and retrieving metadata from Oregon Open Data (data.oregon.gov) via the Socrata SoQL API, with no API key required.

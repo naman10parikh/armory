@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:34Z"
+pushed_at: "2026-09-26T22:18:09Z"
 ---
 ## What it is
 MCP server `Pipeworx Vimeo`, catalogued on PulseMCP. Vimeo public video, user, channel, and category lookups via the Vimeo API through the Pipeworx gateway.

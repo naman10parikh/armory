@@ -8,13 +8,13 @@ source_url: https://github.com/Reederey87/grok-build-codex-plugin
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T21:09:28Z"
+pushed_at: "2026-09-09T22:57:54Z"
 ---
 ## What it is
 An MCP server that wraps the local Grok Build CLI, enabling Codex to delegate code reviews, bounded coding tasks, and setup diagnostics to Grok for a second opinion or parallel processing.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T17:38:29Z"
+pushed_at: "2026-09-08T02:24:24Z"
 ---
 ## What it is
 MCP server for IBM Z mainframe integration. Provides HSM-backed key management via IBM Key Protect (FIPS 140-2 Level 3) and REST API access to mainframe programs (CICS, IMS, batch) via z/OS Connect.

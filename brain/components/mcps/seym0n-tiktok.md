@@ -8,11 +8,11 @@ source_url: https://github.com/seym0n/tiktok-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 193
+stars: 200
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 29
 pushed_at: "2026-08-19T22:28:27Z"
 ---
 ## What it is

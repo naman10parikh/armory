@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T10:18:33Z"
+pushed_at: "2026-09-21T09:06:15Z"
 ---
 ## What it is
 A local coding bridge that enables ChatGPT to read, edit, test, and manage Git operations on your local projects.

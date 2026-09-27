@@ -8,12 +8,12 @@ source_url: https://github.com/ahujasid/ableton-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2952
+stars: 3107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 401
-pushed_at: "2026-08-30T14:29:49Z"
+forks: 418
+pushed_at: "2026-09-22T10:37:13Z"
 ---
 ## What it is
 MCP server `Ableton Live`, catalogued on PulseMCP. Enables control of Ableton Live music production software through a bidirectional communication system that supports track creation, MIDI editing, playback control, instrument loading, and library browsing for music composition and sound design workflows.

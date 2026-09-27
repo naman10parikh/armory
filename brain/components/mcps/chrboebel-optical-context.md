@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-04T17:12:57Z"
+pushed_at: "2026-09-16T13:21:30Z"
 ---
 ## What it is
 MCP server `Optical Context`, catalogued on PulseMCP. Compresses OCR-heavy PDFs into dense packed images for agent-friendly document processing.

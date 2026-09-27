@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T21:20:50Z"
+pushed_at: "2026-09-13T23:10:49Z"
 ---
 ## What it is
 Enables MCP clients to search ln-ashlar documentation and review implementation plans via Gemini, with OAuth 2.0 + PKCE authentication.

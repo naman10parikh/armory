@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:54:48Z"
+pushed_at: "2026-09-24T13:26:12Z"
 ---
 ## What it is
 MCP server for Australia's Federal Register of Legislation. Enables searching and fetching Commonwealth Acts with verifiable citations.

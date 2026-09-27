@@ -8,12 +8,12 @@ source_url: https://github.com/jbr/cargo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-08-26T20:50:59Z"
+pushed_at: "2026-09-24T23:53:49Z"
 ---
 ## What it is
 MCP server `Cargo`, catalogued on PulseMCP. Provides safe access to Rust development workflows through whitelisted Cargo commands including check, clippy, test, build, bench, fmt, dependency management, and toolchain switching with path validation and session-based state management.

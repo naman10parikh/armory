@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:59:03Z"
+pushed_at: "2026-09-13T04:50:36Z"
 ---
 ## What it is
 Enables direct agent-to-agent messaging, file transfer, and persistent conversation history between AI agents across machines via a private broker, without needing shared channels or third-party services.

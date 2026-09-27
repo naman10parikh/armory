@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T17:42:29Z"
+pushed_at: "2026-09-18T16:34:31Z"
 ---
 ## What it is
 Local-first Gmail MCP server using PKCE + loopback OAuth flow that stores refresh tokens in the OS keychain, enabling secure read/write Gmail access via MCP tools without tokens leaving the device.

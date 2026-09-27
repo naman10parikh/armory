@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T19:18:27Z"
+pushed_at: "2026-09-23T19:55:49Z"
 ---
 ## What it is
 MCP server for TiFlux that enables ticket, stage, communication, time tracking, chat, and desk management via natural language.

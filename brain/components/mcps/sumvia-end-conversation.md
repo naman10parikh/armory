@@ -8,11 +8,11 @@ source_url: https://github.com/sumvia/end-conversation-mcp-server-zh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 20
 pushed_at: "2026-04-21T08:42:40Z"
 ---
 ## What it is

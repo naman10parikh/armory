@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T23:32:08Z"
+pushed_at: "2026-09-08T21:16:58Z"
 ---
 ## What it is
 AI-native property MCP for Northern Cyprus (KKTC). Search live listings, get the price index, compare cities and districts, estimate rental yield, and look up KKTC title-deed (koçan) procedures — all sourced live from evlek.app.

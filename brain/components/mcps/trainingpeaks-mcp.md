@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T02:04:16Z"
+pushed_at: "2026-09-27T05:51:45Z"
 ---
 ## What it is
 Enables querying workouts, fitness metrics (CTL/ATL/TSB), and power personal records from TrainingPeaks using natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:14:14Z"
+pushed_at: "2026-09-17T23:14:56Z"
 ---
 ## What it is
 Enables AI assistants to control a Homey Pro smart home hub, create automation flows from natural language, and query device and energy history.

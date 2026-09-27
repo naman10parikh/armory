@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-30T06:35:10Z"
+forks: 1
+pushed_at: "2026-09-12T05:18:22Z"
 ---
 ## What it is
 Minimal stdio MCP server for Tesla Fleet API, enabling vehicle listing, state checks, live data, nearby chargers, wake, and command tools (climate, charge, lock) via optional tesla-http-proxy.

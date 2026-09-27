@@ -8,11 +8,11 @@ source_url: https://github.com/tooluse-labs/perfetto-mcp-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [database, mcp, observability]
-forks: 2
+forks: 4
 pushed_at: "2026-07-10T12:36:31Z"
 ---
 

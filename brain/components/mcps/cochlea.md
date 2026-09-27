@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T11:10:24Z"
+pushed_at: "2026-09-19T03:02:26Z"
 ---
 ## What it is
 Render, analyze, and verify audio (WAV or FLAC) through a fully offline, deterministic engine, exposed as MCP tools for AI agents.

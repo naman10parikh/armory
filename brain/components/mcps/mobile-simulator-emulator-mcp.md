@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T15:30:52Z"
+pushed_at: "2026-09-11T03:55:17Z"
 ---
 ## What it is
 A local, stdio-only Model Context Protocol server that lets coding agents inspect, control, and test Apple iOS Simulators and Google Android Emulators. It exposes 29 typed tools for device lifecycle, app management, UI automation, screenshots, logs, permissions, location, and platform-specific test 

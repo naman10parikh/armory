@@ -8,13 +8,13 @@ source_url: https://github.com/clay-good/sophiewell.com
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T23:53:57Z"
+pushed_at: "2026-09-27T11:56:23Z"
 ---
 ## What it is
 Always free healthcare utilities.

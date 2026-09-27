@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-31T13:53:25Z"
+pushed_at: "2026-09-25T13:15:01Z"
 ---
 ## What it is
 MCP server `SidClaw`, catalogued on PulseMCP. Provides access to the SidClaw platform APIs for AI-driven workflows.

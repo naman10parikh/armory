@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-07-30T12:56:35Z"
+pushed_at: "2026-09-22T14:00:18Z"
 ---
 ## What it is
 MCP server `Codacy`, catalogued on PulseMCP. Integrates with Codacy's code quality platform to provide static analysis capabilities, code coverage metrics, and quality gate configurations for automated code review and coding standards enforcement.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-07T18:28:27Z"
+pushed_at: "2026-09-18T17:19:26Z"
 ---
 ## What it is
 An MCP server that lets you query your own RTI applications on India's RTI Online portal, including status, overdue requests, and reply PDFs, without re-entering OTP and captcha for every lookup.

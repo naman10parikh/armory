@@ -8,14 +8,14 @@ source_url: https://github.com/ag-ui-protocol/ag-ui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 15679
+stars: 16063
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 1411
-pushed_at: "2026-09-01T23:12:15Z"
+forks: 1453
+pushed_at: "2026-09-25T18:50:15Z"
 ---
 ## What it is
 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.

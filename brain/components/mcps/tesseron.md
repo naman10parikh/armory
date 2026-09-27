@@ -8,12 +8,12 @@ source_url: https://github.com/brainblend-ai/tesseron
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-21T07:33:16Z"
+forks: 1
+pushed_at: "2026-09-10T11:23:31Z"
 ---
 ## What it is
 MCP server `Tesseron`, catalogued on PulseMCP. Expose typed web-app actions to AI agents via MCP over WebSocket without DOM scraping or browser automation.

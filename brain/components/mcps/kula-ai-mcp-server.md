@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T17:18:29Z"
+pushed_at: "2026-09-08T08:48:19Z"
 ---
 ## What it is
 MCP server enabling AI assistants to connect to Kula recruiting API for managing jobs, candidates, applications, webhooks, and more.

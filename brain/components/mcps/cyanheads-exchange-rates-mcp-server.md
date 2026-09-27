@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T05:49:12Z"
+pushed_at: "2026-09-19T18:49:11Z"
 ---
 ## What it is
 Convert currencies, get FX rates, and query historical ECB exchange rate data via MCP.

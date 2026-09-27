@@ -8,7 +8,7 @@ source_url: https://github.com/hoshinonyaruko/gensokyo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,13 +8,13 @@ source_url: https://github.com/dongsheng123132/dsh-audit-bundle
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T09:12:01Z"
+pushed_at: "2026-09-07T13:32:54Z"
 ---
 ## What it is
 MCP server for auditing DeepSeek Harness evidence. Enables inspection and verification of content-addressed audit manifests with fail-closed validation.

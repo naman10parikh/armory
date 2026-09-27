@@ -8,14 +8,14 @@ source_url: https://github.com/PrimeIntellect-ai/prime-rl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2007
+stars: 2091
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 421
-pushed_at: "2026-09-02T06:29:35Z"
+forks: 439
+pushed_at: "2026-09-27T08:48:15Z"
 ---
 ## What it is
 Agentic RL Training at Scale

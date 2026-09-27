@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-15T14:27:37Z"
+pushed_at: "2026-09-12T17:38:11Z"
 ---
 ## What it is
 AI governance controls as MCP tools for safety screening, risk classification, and red teaming.

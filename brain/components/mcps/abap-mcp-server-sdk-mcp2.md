@@ -8,12 +8,12 @@ source_url: https://github.com/abap-ai/mcp2
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-26T12:05:16Z"
 ---
 ## What it is

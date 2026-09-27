@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T03:42:24Z"
+forks: 2
+pushed_at: "2026-09-22T09:50:45Z"
 ---
 ## What it is
 MCP server that lets Claude Code read Discord messages, attachments, and history directly from the Equicord/Vencord client over a local WebSocket, without screenshots or copy-paste. Exposes tools for current view, marked messages, history, attachments, and link resolution.

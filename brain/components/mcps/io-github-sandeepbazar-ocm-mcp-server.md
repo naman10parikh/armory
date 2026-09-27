@@ -8,12 +8,12 @@ source_url: https://github.com/sandeepbazar/ocm-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-29T08:05:08Z"
 ---
 ## What it is

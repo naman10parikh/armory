@@ -8,13 +8,13 @@ source_url: https://github.com/RMANOV/sqlite-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-23T18:02:49Z"
+forks: 4
+pushed_at: "2026-09-25T12:04:27Z"
 ---
 ## What it is
 Governed cross-agent memory for coding agents with hybrid retrieval, provenance tracking, and cross-machine sync.

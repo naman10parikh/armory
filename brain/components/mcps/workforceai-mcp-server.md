@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T10:27:03Z"
+pushed_at: "2026-09-03T12:36:35Z"
 ---
 ## What it is
 Enables AI assistants to look up and update WorkForceAI platform data, including voice agents, campaigns, phone numbers, call logs, and dashboard stats, through natural language.

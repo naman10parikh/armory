@@ -8,13 +8,13 @@ source_url: https://github.com/JosejuX/rapidapi-metadata-extractor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-28T09:06:00Z"
+forks: 1
+pushed_at: "2026-09-02T16:40:25Z"
 ---
 ## What it is
 Turns any URL into structured web intelligence in one call: SEO/OpenGraph metadata, public contacts, tech-stack fingerprinting, Schema.org data, a security-headers audit, and clean AI-ready Markdown. Anti-SSRF hardened by design.

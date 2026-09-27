@@ -8,12 +8,12 @@ source_url: https://github.com/agiflow/aicode-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 161
+stars: 162
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
-pushed_at: "2026-07-28T10:16:14Z"
+forks: 23
+pushed_at: "2026-09-27T09:00:01Z"
 ---
 ## What it is
 MCP server `Scaffold Generator`, catalogued on PulseMCP. Generates code scaffolding for modern web applications using template-based boilerplate creation and feature addition with variable substitution, conditional file inclusion, and schema validation for rapid prototyping and consistent development patterns.

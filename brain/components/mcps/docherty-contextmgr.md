@@ -12,8 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2025-03-19T19:56:25Z"
+forks: 1
+pushed_at: "2026-09-03T09:01:27Z"
 ---
 ## What it is
 MCP server `Context Manager`, catalogued on PulseMCP. Provides a structured workflow management system for software development projects, maintaining context across sessions through state tracking of projects, tasks, and file changes from triage through QA phases.

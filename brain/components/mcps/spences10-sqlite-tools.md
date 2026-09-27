@@ -12,8 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-09-01T01:50:02Z"
+forks: 5
+pushed_at: "2026-09-26T21:21:28Z"
 ---
 ## What it is
 MCP server `SQLite Tools`, catalogued on PulseMCP. Local SQLite database operations with transaction management and schema tools

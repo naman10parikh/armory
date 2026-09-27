@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T22:54:19Z"
+pushed_at: "2026-09-17T22:53:52Z"
 ---
 ## What it is
 Enables agents to interact with the Human Is Offline protocol by reading authority cards, submitting encrypted ask-first notes, and fetching delegation receipts.

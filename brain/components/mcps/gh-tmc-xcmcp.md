@@ -8,12 +8,12 @@ source_url: https://github.com/tmc/axmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-15T22:46:13Z"
+pushed_at: "2026-09-23T02:49:43Z"
 ---
 ## What it is
 MCP server `xcmcp (Xcode & macOS Automation)`, catalogued on PulseMCP. Comprehensive Xcode, Simulator, Accessibility, and AppleScript automation toolkit for macOS development.

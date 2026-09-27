@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T13:22:28Z"
+pushed_at: "2026-09-05T23:02:35Z"
 ---
 ## What it is
 MCP server for managing x402 payment policies (rules, coupons, tiers, usage logs) conversationally via LLM and evaluating request decisions.

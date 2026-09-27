@@ -8,13 +8,13 @@ source_url: https://github.com/precis-finance/precis-mcp
 license: Elastic License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T13:56:56Z"
+pushed_at: "2026-09-24T18:36:38Z"
 ---
 ## What it is
 Read-only MCP server for FP&A & management reporting — governed metrics, financial statements and drill-down over a SQL semantic layer. Your own financials on your own warehouse, not market data. Open core of Précis. (metric engine · ClickHouse · OIDC · Docker)

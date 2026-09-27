@@ -8,12 +8,12 @@ source_url: https://github.com/deverman/FocusRelayMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 7
 pushed_at: "2026-08-17T04:53:53Z"
 ---
 ## What it is

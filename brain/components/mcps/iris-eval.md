@@ -8,12 +8,12 @@ source_url: https://github.com/iris-eval/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-31T13:46:31Z"
+forks: 4
+pushed_at: "2026-09-27T07:56:20Z"
 ---
 ## What it is
 MCP server `Iris Eval`, catalogued on PulseMCP. Agent evaluation and observability with trace logging, quality scoring, and cost tracking.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T08:15:25Z"
+pushed_at: "2026-09-26T16:58:52Z"
 ---
 ## What it is
 Enables AI models to search and retrieve bibliographic and digitized records from Swiss academic libraries (swisscovery, e-rara, e-periodica, e-manuscripta) via open protocols without requiring API keys.

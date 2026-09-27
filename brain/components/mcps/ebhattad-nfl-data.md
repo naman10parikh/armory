@@ -8,12 +8,12 @@ source_url: https://github.com/ebhattad/nfl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-07-30T17:08:48Z"
+forks: 4
+pushed_at: "2026-09-24T22:32:23Z"
 ---
 ## What it is
 MCP server `NFL Data`, catalogued on PulseMCP. Provides NFL play-by-play data from 1999 to present with DuckDB-backed analytics, structured tools for play search, team and player statistics, side-by-side comparisons, rosters, injuries, and snap counts.

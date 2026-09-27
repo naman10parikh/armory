@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T17:57:18Z"
+pushed_at: "2026-09-18T18:52:08Z"
 ---
 ## What it is
 Production-ready MCP server for Allure TestOps, enabling test case, launch, test result, and test plan management via natural language.

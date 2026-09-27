@@ -8,13 +8,13 @@ source_url: https://github.com/sierra-research/tau-bench
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1416
+stars: 1446
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, tool-use, benchmark]
 mentions: 1
-forks: 215
+forks: 218
 pushed_at: "2026-03-18T17:36:06Z"
 ---
 ## What it is

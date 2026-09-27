@@ -8,11 +8,11 @@ source_url: https://github.com/abdelstark/bitcoin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 22
 pushed_at: "2025-08-01T09:38:50Z"
 ---
 ## What it is

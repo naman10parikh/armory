@@ -8,11 +8,11 @@ source_url: https://github.com/goul4rt/mcp-discord
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-06-04T17:53:47Z"
 ---
 ## What it is

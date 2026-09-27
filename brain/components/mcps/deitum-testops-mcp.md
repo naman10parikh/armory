@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:16:11Z"
+pushed_at: "2026-09-25T10:06:57Z"
 ---
 ## What it is
 MCP server for Allure TestOps that enables searching, reading, and writing test cases, authoring and importing test suites in Markdown, managing launches, and retrieving project statistics, all scoped to a single configured project.

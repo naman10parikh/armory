@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:12:41Z"
+pushed_at: "2026-09-11T17:44:29Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve verified software comparisons, including current pricing with source and date, and ranked alternatives for software switching decisions.

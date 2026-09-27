@@ -8,13 +8,13 @@ source_url: https://github.com/0xfabrica/twentycrm-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:10:24Z"
+pushed_at: "2026-09-09T23:04:20Z"
 ---
 ## What it is
 Enables MCP clients to read, search, create, update, and manage records in Twenty CRM with a safe, composable 14-tool interface and guarded destructive operations.

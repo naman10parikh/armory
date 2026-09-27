@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T07:49:41Z"
+pushed_at: "2026-09-02T14:15:37Z"
 ---
 ## What it is
 A secured MCP server for safe remote server management via SSH with command filtering, network device support, and bulk connection management.

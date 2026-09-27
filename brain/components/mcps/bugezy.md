@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T12:34:57Z"
+pushed_at: "2026-09-18T14:21:59Z"
 ---
 ## What it is
 Voice-powered bug reporting MCP server with 13 tools. Captures console logs, network errors, DOM traces, and developer voice descriptions. AI reads structured reports to find and fix bugs automatically. Chrome Extension + Python CLI.

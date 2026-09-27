@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T05:55:01Z"
+pushed_at: "2026-09-04T03:03:19Z"
 ---
 ## What it is
 Enables AI agents to query office locations and meeting rooms from the Shangang Capital Digital Office Platform via natural language.

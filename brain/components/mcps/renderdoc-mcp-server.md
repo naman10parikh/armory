@@ -8,12 +8,12 @@ source_url: https://github.com/halby24/RenderDocMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 486
+stars: 501
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 111
+forks: 113
 pushed_at: "2026-01-21T08:23:02Z"
 ---
 ## What it is

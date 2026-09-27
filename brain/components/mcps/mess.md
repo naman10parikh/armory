@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T02:42:30Z"
+pushed_at: "2026-09-05T10:59:22Z"
 ---
 ## What it is
 Inventory of your service accounts, kept current by your coding agents. Metadata only, no secrets.

@@ -8,7 +8,7 @@ source_url: https://github.com/lilyco-42/letsgal-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []

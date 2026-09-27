@@ -8,13 +8,13 @@ source_url: https://github.com/DivoomDevelop/mcp-divoom-lan
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T10:22:42Z"
+pushed_at: "2026-09-23T05:52:41Z"
 ---
 ## What it is
 Enables AI clients to control Divoom LAN devices, including watchface management, brightness adjustment, and screen control through natural language.

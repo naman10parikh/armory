@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-25T02:00:52Z"
+pushed_at: "2026-09-24T04:38:12Z"
 ---
 ## What it is
 MCP server `Slack CLI`, catalogued on PulseMCP. CLI tool and server for full CRUD operations on Slack channels, messages, users, files, and reactions with JSON-first output optimized for LLM agents.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:40:56Z"
+pushed_at: "2026-09-24T23:43:56Z"
 ---
 ## What it is
 Enables running MegaLinter linting, configuration, and analysis through MCP tools. Works with any CI/CD platform or locally.

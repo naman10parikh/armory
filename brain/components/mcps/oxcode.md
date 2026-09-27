@@ -8,13 +8,13 @@ source_url: https://github.com/oxgraph/oxcode
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T23:16:06Z"
+pushed_at: "2026-09-07T23:16:34Z"
 ---
 ## What it is
 Enables coding agents to navigate and query source code by providing context, symbols, and call graph information through a graph index.

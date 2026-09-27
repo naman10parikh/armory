@@ -8,12 +8,12 @@ source_url: https://github.com/kunwarvivek/mcp-github-project-manager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 95
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-08-11T02:30:23Z"
+forks: 26
+pushed_at: "2026-09-22T13:30:47Z"
 ---
 ## What it is
 MCP server `GitHub Project Manager`, catalogued on PulseMCP. Integrates with GitHub Projects V2 to enable natural language management of project boards, issues, milestones, and sprints.

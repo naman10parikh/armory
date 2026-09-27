@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-28T19:28:08Z"
+pushed_at: "2026-09-19T15:27:55Z"
 ---
 ## What it is
 MCP server `TrueNAS`, catalogued on PulseMCP. MCP server for managing TrueNAS storage systems, enabling AI assistants to monitor and control NAS devices and datasets.

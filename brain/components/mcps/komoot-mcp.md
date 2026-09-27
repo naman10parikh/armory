@@ -8,12 +8,12 @@ source_url: https://github.com/Belenos-Toutatis/komoot-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-06-09T17:47:18Z"
 ---
 ## What it is

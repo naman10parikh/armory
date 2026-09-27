@@ -8,11 +8,11 @@ source_url: https://github.com/arinspunk/claude-talk-to-figma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 653
+stars: 665
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 129
+forks: 131
 pushed_at: "2026-04-18T15:43:38Z"
 ---
 ## What it is

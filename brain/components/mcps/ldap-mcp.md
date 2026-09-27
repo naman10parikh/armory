@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:31:30Z"
+pushed_at: "2026-09-25T01:53:35Z"
 ---
 ## What it is
 MCP server for read-only LDAP directory operations, enabling search, entry retrieval, schema browsing, and comparison via natural language.

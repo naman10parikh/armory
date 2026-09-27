@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-07-19T00:53:10Z"
+pushed_at: "2026-09-02T19:55:21Z"
 ---
 ## What it is
 Cross-chain bridge route finder API for AI agents. Compare best bridging routes across 60+ chains and 18+ bridges (Stargate, Across, Hop, Connext, etc.) via LI.FI aggregator. Fees, estimated time, and security rating for each route. Tools: bridge_find_best_route. Use this BEFORE bridging tokens betw

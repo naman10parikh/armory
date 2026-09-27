@@ -8,11 +8,11 @@ source_url: https://github.com/akutishevsky/lunchmoney-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 17
 pushed_at: "2026-08-03T08:08:33Z"
 ---
 ## What it is

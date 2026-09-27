@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T22:10:45Z"
+pushed_at: "2026-09-11T04:06:11Z"
 ---
 ## What it is
 MCP server that lets AI agents create hyper-personalized pitch microsites, manage receivers, generate pitches, and retrieve public URLs.

@@ -8,12 +8,12 @@ source_url: https://github.com/bytebase/dbhub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3442
+stars: 3572
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 294
-pushed_at: "2026-09-02T03:06:30Z"
+forks: 306
+pushed_at: "2026-09-21T08:08:43Z"
 ---
 ## What it is
 MCP server `DBHub (Universal Database Gateway)`, catalogued on PulseMCP. Provides a universal database gateway for connecting to PostgreSQL, MySQL, SQLite, and DuckDB, enabling table browsing, schema inspection, and read-only SQL queries with built-in safety checks

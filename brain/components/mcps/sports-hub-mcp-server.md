@@ -8,12 +8,12 @@ source_url: https://github.com/lacausecrypto/mcp-sports-hub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 14
 pushed_at: "2026-08-19T09:04:35Z"
 ---
 ## What it is

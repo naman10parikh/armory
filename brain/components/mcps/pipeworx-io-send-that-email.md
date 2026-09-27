@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:39:38Z"
+pushed_at: "2026-09-26T21:30:13Z"
 ---
 ## What it is
 MCP server `Send That Email`, catalogued on PulseMCP. Email draft analysis that evaluates passive aggression and regret probability before sending, heavily weighted toward no.

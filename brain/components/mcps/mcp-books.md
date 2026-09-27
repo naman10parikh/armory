@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:39:26Z"
+pushed_at: "2026-09-26T20:57:05Z"
 ---
 ## What it is
 An MCP server that searches across the Internet Archive and Library of Congress at once, merging results while keeping each archive's differences. Provides tools to search inside texts, search catalogues, and retrieve item records, all read-only and without an API key.

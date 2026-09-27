@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-16T17:44:34Z"
+pushed_at: "2026-09-07T03:25:32Z"
 ---
 ## What it is
 Enables AI agents to drive real customer visits to physical stores for $24.99 per verified visitor, with tools for pricing, industry listings, and knowledge base queries.

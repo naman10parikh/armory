@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:13:44Z"
+pushed_at: "2026-09-26T19:08:08Z"
 ---
 ## What it is
 Chains FRED, BLS, ATTOM, and HUD APIs to provide housing intelligence data through a single MCP server.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T16:22:47Z"
+pushed_at: "2026-09-26T16:23:01Z"
 ---
 ## What it is
 An unofficial MCP server that enables AI assistants to search, read, create, and update pages in your NotePM workspace.

@@ -8,12 +8,12 @@ source_url: https://github.com/davidmosiah/garminmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 7
 pushed_at: "2026-08-29T10:26:33Z"
 ---
 ## What it is

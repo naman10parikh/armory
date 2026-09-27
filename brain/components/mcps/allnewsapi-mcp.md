@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T04:17:01Z"
+pushed_at: "2026-09-27T05:46:35Z"
 ---
 ## What it is
 Enables LLMs to search for news articles, get top headlines, and access comprehensive news data with advanced filtering options through AllNewsAPI.

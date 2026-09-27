@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-va-museum
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:04Z"
+pushed_at: "2026-09-26T22:16:09Z"
 ---
 ## What it is
 MCP server for querying the Victoria and Albert Museum (V\&A) collections via natural language or direct tool calls.

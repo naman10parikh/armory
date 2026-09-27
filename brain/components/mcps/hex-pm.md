@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:04:27Z"
+pushed_at: "2026-09-26T19:05:45Z"
 ---
 ## What it is
 Enables querying and managing Hex.pm, the package registry for Elixir and Erlang ecosystems, through natural language.

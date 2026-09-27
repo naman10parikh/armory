@@ -8,11 +8,11 @@ source_url: https://github.com/garylab/serper-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2025-11-10T03:53:04Z"
 ---
 ## What it is

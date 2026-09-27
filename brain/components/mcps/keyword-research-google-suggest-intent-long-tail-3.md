@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:51:18Z"
+pushed_at: "2026-09-02T19:56:35Z"
 ---
 ## What it is
 SEO keyword research API for AI agents. Generate keyword ideas from Google Suggest with search intent classification (informational/transactional/navigational), long-tail variations, related queries, and content planning data. Tools: seo_research_keywords. Use this for content strategy, blog post pl

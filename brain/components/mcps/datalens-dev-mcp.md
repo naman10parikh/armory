@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:36:07Z"
+pushed_at: "2026-09-24T18:01:15Z"
 ---
 ## What it is
 A local Python MCP server for AI-assisted development of Yandex DataLens dashboards, enabling inspection, planning, validation, and guarded application of changes.

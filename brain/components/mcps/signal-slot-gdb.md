@@ -8,11 +8,11 @@ source_url: https://github.com/signal-slot/mcp-gdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 159
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2026-07-28T05:06:59Z"
 ---
 ## What it is

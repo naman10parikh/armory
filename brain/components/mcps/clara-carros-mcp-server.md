@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T21:37:41Z"
+pushed_at: "2026-09-22T10:13:49Z"
 ---
 ## What it is
 Enables AI assistants to search car inventory, estimate import taxes (ISV) and resale values, and request quotes from Clara Carros, a Portuguese used and imported cars marketplace.

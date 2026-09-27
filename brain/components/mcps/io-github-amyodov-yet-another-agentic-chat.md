@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:29:47Z"
+pushed_at: "2026-09-11T16:20:44Z"
 ---
 ## What it is
 An MCP server that lets multiple agent sessions (e.g., Claude Code, Claude Desktop) on the same machine communicate over shared channels like walkie-talkies, enabling them to exchange messages and coordinate tasks without any central broker.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T17:40:09Z"
+pushed_at: "2026-09-16T20:39:22Z"
 ---
 ## What it is
 Salesforce sandbox seeding, built for AI agents. SOQL-driven org-to-org record copy with automatic dependency-graph walking, cross-org FK remapping, and a hard AI-never-sees-your-data boundary.

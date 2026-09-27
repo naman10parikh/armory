@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T19:26:28Z"
+pushed_at: "2026-09-02T18:52:50Z"
 ---
 ## What it is
 Provides offline repository health analysis, including metadata, weighted health score, and summary, for MCP-compatible clients.

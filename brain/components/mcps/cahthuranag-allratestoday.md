@@ -8,12 +8,12 @@ source_url: https://github.com/allrates-today/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T02:56:35Z"
+pushed_at: "2026-09-26T19:26:42Z"
 ---
 ## What it is
 MCP server `AllRatesToday`, catalogued on PulseMCP. Real-time and historical currency exchange rates with multi-currency support via the AllRatesToday API.

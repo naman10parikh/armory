@@ -8,7 +8,7 @@ source_url: https://github.com/henkdz/postgresql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 200
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

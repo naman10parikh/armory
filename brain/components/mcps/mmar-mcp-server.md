@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T12:34:35Z"
+pushed_at: "2026-09-21T11:53:53Z"
 ---
 ## What it is
 Enables creation of complete metamodels and model instances through natural language interaction by connecting Large Language Models to the MM-AR metamodeling platform.

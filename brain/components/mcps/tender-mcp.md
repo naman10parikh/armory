@@ -8,12 +8,12 @@ source_url: https://github.com/ojaskord/tender-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-24T04:22:31Z"
+pushed_at: "2026-09-07T12:34:44Z"
 ---
 ## What it is
 MCP server `Government Tender Search`, catalogued on PulseMCP. Searches UK, EU, and US government procurement portals and scores tenders with AI analysis.

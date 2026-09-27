@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-05T02:52:52Z"
+pushed_at: "2026-09-18T07:05:26Z"
 ---
 ## What it is
 MCP server `DM8 (Dameng Database)`, catalogued on PulseMCP. Secure read-only access to DM8 (Dameng) Chinese database systems with SQL injection prevention and query validation

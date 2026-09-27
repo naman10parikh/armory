@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T18:23:57Z"
+pushed_at: "2026-09-10T12:45:15Z"
 ---
 ## What it is
 Enables AI assistants to buy airtime and data, check wallet balance, list data plans, and view transactions for Nigerian mobile networks via an Azabill account.

@@ -8,13 +8,13 @@ source_url: https://github.com/adrex-ai/adrex-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T06:01:06Z"
+pushed_at: "2026-09-24T21:08:34Z"
 ---
 ## What it is
 Open-source MCP server for Google Ads (Meta Ads coming soon) that lets AI assistants manage ad campaigns, reporting, keywords, and targeting in plain English from any MCP client, with safety-first creation of paused campaigns.

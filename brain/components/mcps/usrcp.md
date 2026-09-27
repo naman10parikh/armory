@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:45:42Z"
+pushed_at: "2026-09-27T12:06:41Z"
 ---
 ## What it is
 Local-first MCP server providing a shared, AES-256-GCM encrypted SQLite ledger of structured user state (stack, projects, preferences) that any MCP-aware tool can read/write, with user-held keys and optional zero-knowledge sync.

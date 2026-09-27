@@ -8,12 +8,12 @@ source_url: https://github.com/ahonn/mcp-server-gsc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 261
+stars: 273
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
-pushed_at: "2026-02-19T18:33:41Z"
+forks: 53
+pushed_at: "2026-09-04T05:41:21Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Analyze SEO metrics and search performance data.

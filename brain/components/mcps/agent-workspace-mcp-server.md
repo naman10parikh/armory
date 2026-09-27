@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T02:04:35Z"
+pushed_at: "2026-09-27T11:00:11Z"
 ---
 ## What it is
 A secure, containerized workspace for LLMs to autonomously code, test, and debug projects without risking the host machine.

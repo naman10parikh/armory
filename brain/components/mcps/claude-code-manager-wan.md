@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T09:31:49Z"
+pushed_at: "2026-09-10T14:25:30Z"
 ---
 ## What it is
 Enables ISLI agents and MCP clients to dispatch natural-language coding and terminal tasks to a locally-installed Claude Code CLI, supporting both one-shot execution and persistent sessions with workspace and security controls.

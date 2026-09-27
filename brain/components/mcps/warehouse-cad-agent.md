@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T09:22:59Z"
+pushed_at: "2026-09-09T13:02:46Z"
 ---
 ## What it is
 Enables traceable warehouse CAD round trips and bounded Agent-to-AutoCAD MCP tools for auditing, editing, and rebuilding CAD models.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T19:41:41Z"
+pushed_at: "2026-09-10T02:56:24Z"
 ---
 ## What it is
 A safe, self-hosted gateway for inspecting Meta Business assets and creating reviewable proposals without exposing broad Graph API access.

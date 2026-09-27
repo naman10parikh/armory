@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T05:44:51Z"
+pushed_at: "2026-09-11T04:08:06Z"
 ---
 ## What it is
 MCP server that lets AI agents read and search project documents in OMOS Shared Drive, with source-referenced answers and Google Drive links.

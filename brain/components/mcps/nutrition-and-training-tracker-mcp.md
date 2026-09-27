@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-22T20:30:23Z"
+pushed_at: "2026-09-21T18:05:45Z"
 ---
 ## What it is
 MCP server for tracking nutrition meals and workouts, integrating with claude.ai to manage food logs, macros, exercise catalogs, and generate daily/weekly summaries.

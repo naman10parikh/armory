@@ -8,13 +8,13 @@ source_url: https://github.com/1013503897/boss-cli
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-09-02T03:35:38Z"
+forks: 11
+pushed_at: "2026-09-05T13:41:33Z"
 ---
 ## What it is
 MCP server for searching BOSS直聘 (Boss Zhipin) job listings. It provides a boss_search tool that supports multi-city queries, keyword filtering, and JSON output for AI agents.

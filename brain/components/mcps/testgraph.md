@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T17:35:56Z"
+pushed_at: "2026-09-20T08:49:30Z"
 ---
 ## What it is
 TestGraph is a shared structured knowledge and review graph for AI agents. Its MCP server lets ChatGPT, Claude and other AI clients store, retrieve and collaboratively refine reviews, entities, relationships and semantic classifications, providing persistent knowledge that can be reused across model

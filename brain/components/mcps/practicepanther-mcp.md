@@ -8,13 +8,13 @@ source_url: https://github.com/sanjibani/practicepanther-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T10:24:12Z"
+pushed_at: "2026-09-18T10:23:42Z"
 ---
 ## What it is
 MCP server for PracticePanther legal practice management software. Enables reading and creating matters, contacts, time entries, invoices, and more via natural language.

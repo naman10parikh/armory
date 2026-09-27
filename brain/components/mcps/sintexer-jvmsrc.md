@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T16:20:21Z"
+pushed_at: "2026-09-22T16:14:04Z"
 ---
 ## What it is
 MCP server `JVM Source Lens`, catalogued on PulseMCP. Fetch Java source code, method signatures, and class structure using Gradle-accurate JVM classpaths.

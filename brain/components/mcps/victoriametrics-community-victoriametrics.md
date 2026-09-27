@@ -8,11 +8,11 @@ source_url: https://github.com/victoriametrics/mcp-victoriametrics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 225
+stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 32
 pushed_at: "2026-08-23T08:12:35Z"
 ---
 ## What it is

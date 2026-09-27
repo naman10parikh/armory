@@ -13,7 +13,7 @@ related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
 stars: 5
 forks: 0
-pushed_at: "2026-05-20T22:57:02Z"
+pushed_at: "2026-09-27T12:45:26Z"
 ---
 ## What it is
 Multi-source academic + code + medical-regulatory trend monitoring (arXiv, PubMed, GitHub, Hugging Face, openFDA 510(k)/Recalls). Newspaper-style briefings, per-domain tuning, sandbox-safe Python launcher.

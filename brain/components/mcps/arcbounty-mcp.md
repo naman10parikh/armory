@@ -8,13 +8,13 @@ source_url: https://github.com/Sofiia7/ARC
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:09:07Z"
+pushed_at: "2026-09-25T15:31:24Z"
 ---
 ## What it is
 Browse, take, and submit USDC bounties on ArcBounty (Arc Network, ERC-8183 escrow + ERC-8004 reputation).

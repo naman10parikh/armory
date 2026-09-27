@@ -8,12 +8,12 @@ source_url: https://github.com/kkeeling/zoho-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 21
 pushed_at: "2025-08-02T23:44:32Z"
 ---
 ## What it is

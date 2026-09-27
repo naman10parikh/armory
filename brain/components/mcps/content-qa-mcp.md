@@ -8,13 +8,13 @@ source_url: https://github.com/Alvi-808/content-qa-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:46:05Z"
+pushed_at: "2026-09-03T09:11:23Z"
 ---
 ## What it is
 Enables editorial content QA over the Model Context Protocol with four local tools that analyze readability, AI-sounding language, SEO on-page factors, and produce full reports where every finding includes an actionable fix.

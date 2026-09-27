@@ -8,11 +8,11 @@ source_url: https://github.com/uuuuzz/uebridgemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-04-25T16:15:16Z"
 ---
 ## What it is

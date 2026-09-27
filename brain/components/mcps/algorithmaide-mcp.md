@@ -8,12 +8,12 @@ source_url: https://github.com/vwww-droid/algorithmaide-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 3
 pushed_at: "2026-03-13T16:39:51Z"
 ---
 ## What it is

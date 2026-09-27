@@ -8,13 +8,13 @@ source_url: https://github.com/jonathan-meyer/zmachine-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T01:57:06Z"
+pushed_at: "2026-09-10T18:23:16Z"
 ---
 ## What it is
 Enables AI agents to play Z-Machine text adventure games (e.g., Zork) via MCP, REST, or WebSocket interfaces, with session management and optional Redis persistence.

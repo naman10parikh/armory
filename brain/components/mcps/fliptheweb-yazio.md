@@ -8,11 +8,11 @@ source_url: https://github.com/fliptheweb/yazio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 21
 pushed_at: "2026-08-13T06:23:48Z"
 ---
 ## What it is

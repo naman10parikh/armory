@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T08:03:11Z"
+pushed_at: "2026-09-02T10:07:56Z"
 ---
 ## What it is
 Public MCP server providing amateur radio tools and calculations for IARU Region 1 operators, including band plans, frequency checks, antenna calculations, and Austrian callsign lookups.

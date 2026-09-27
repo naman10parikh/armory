@@ -8,13 +8,13 @@ source_url: https://github.com/ribato22/volante
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T19:16:06Z"
+pushed_at: "2026-09-24T19:14:19Z"
 ---
 ## What it is
 A transparent, user-owned model router and orchestration control plane that enables AI workflow orchestration via an MCP server, with supervisor-based task decomposition and cross-provider routing.

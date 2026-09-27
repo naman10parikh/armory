@@ -8,12 +8,12 @@ source_url: https://github.com/high5-ventures/apple-reminders-for-claude
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-22T11:25:06Z"
 ---
 ## What it is

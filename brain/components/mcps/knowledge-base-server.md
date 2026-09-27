@@ -8,7 +8,7 @@ source_url: https://github.com/willynikes2/knowledge-base-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 177
+stars: 179
 eval_score: null
 verified_at: 2026-05-27
 related: []

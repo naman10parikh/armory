@@ -8,11 +8,11 @@ source_url: https://github.com/hamflx/imagen3-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 23
 pushed_at: "2025-05-03T15:02:35Z"
 ---
 ## What it is

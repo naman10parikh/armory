@@ -8,12 +8,12 @@ source_url: https://github.com/kestra-io/mcp-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-05-04T09:58:54Z"
+forks: 8
+pushed_at: "2026-09-18T19:26:59Z"
 ---
 ## What it is
 MCP server `Kestra`, catalogued on PulseMCP. Integrates with Kestra workflow orchestration platform to enable natural language control of data pipelines, execution management, namespace operations, and enterprise features like user management through conversational interfaces.

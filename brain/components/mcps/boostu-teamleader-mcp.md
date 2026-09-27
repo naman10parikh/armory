@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-30T17:43:54Z"
+forks: 2
+pushed_at: "2026-09-17T18:25:28Z"
 ---
 ## What it is
 Open-source MCP server for Teamleader Focus CRM. Use Teamleader inside Claude and other AI assistants: contacts, deals, quotations, invoices, projects and more.

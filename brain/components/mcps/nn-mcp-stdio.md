@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T10:51:13Z"
+pushed_at: "2026-09-25T16:29:36Z"
 ---
 ## What it is
 A no-nonsense framework for building stdio MCP servers using plain async handlers and type annotations, with strict schema validation and no configuration overhead.

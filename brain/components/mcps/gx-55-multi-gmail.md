@@ -8,11 +8,11 @@ source_url: https://github.com/gx-55/multi-gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 12
 pushed_at: "2026-08-13T19:15:27Z"
 ---
 ## What it is

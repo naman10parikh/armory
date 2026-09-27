@@ -8,12 +8,12 @@ source_url: https://github.com/kpanuragh/xdebug-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-01T11:11:16Z"
+pushed_at: "2026-09-10T05:30:35Z"
 ---
 ## What it is
 MCP server `Xdebug`, catalogued on PulseMCP. PHP debugging with breakpoints, stepping, and variable inspection

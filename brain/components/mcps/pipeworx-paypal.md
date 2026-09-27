@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:58Z"
+pushed_at: "2026-09-26T20:57:43Z"
 ---
 ## What it is
 MCP server `PayPal`, catalogued on PulseMCP. PayPal account data including transactions, orders, invoices, and disputes via read-only API access.

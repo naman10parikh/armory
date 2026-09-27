@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:26Z"
+pushed_at: "2026-09-26T20:11:28Z"
 ---
 ## What it is
 MCP server `OpenCitations`, catalogued on PulseMCP. Query the OpenCitations COCI index for open-license citation data by DOI.

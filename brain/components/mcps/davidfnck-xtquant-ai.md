@@ -8,7 +8,7 @@ source_url: https://github.com/dfkai/xtquantai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 163
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

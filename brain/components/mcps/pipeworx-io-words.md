@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:50:05Z"
+pushed_at: "2026-09-26T22:25:12Z"
 ---
 ## What it is
 MCP server `Words`, catalogued on PulseMCP. Word finding and linguistic data via the Datamuse API — find words by meaning, rhymes, sounds-like, and contextual associations.

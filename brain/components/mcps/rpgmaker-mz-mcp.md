@@ -8,12 +8,12 @@ source_url: https://github.com/k4zuki0539/-rpgmaker-mz-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2025-10-19T10:58:46Z"
 ---
 ## What it is

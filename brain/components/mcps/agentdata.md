@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T10:03:36Z"
+pushed_at: "2026-09-23T17:06:55Z"
 ---
 ## What it is
 MCP server `AgentData`, catalogued on PulseMCP. Crypto market data tools for prices, funding rates, DeFi yields, and technical analysis.

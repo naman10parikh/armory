@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:16:17Z"
+pushed_at: "2026-09-26T19:18:16Z"
 ---
 ## What it is
 Provides IP geolocation data via ipinfo.io, enabling querying IP addresses for location, ISP, and other details through natural language.

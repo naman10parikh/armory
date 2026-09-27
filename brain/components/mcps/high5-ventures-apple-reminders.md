@@ -8,11 +8,11 @@ source_url: https://github.com/high5-ventures/apple-reminders-for-claude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-22T11:25:06Z"
 ---
 ## What it is

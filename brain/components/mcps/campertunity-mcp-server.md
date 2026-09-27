@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
-stars: 16
+stars: 17
 forks: 4
 pushed_at: "2026-04-15T04:22:05Z"
 ---

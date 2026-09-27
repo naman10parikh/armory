@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T20:26:42Z"
+pushed_at: "2026-09-15T00:10:23Z"
 ---
 ## What it is
 A stateless email inbox on Cloudflare with MCP tools that let agents list, read, claim, complete, and reply to messages.

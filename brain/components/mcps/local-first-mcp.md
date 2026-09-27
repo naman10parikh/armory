@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-18T21:32:11Z"
+pushed_at: "2026-09-09T05:27:13Z"
 ---
 ## What it is
 Exposes locally-built AI tools to Claude, enabling article summarization, promo generation, and semantic search over an Obsidian vault.

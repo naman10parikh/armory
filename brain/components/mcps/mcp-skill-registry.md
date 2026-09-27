@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T00:36:48Z"
+pushed_at: "2026-09-27T06:47:44Z"
 ---
 ## What it is
 A self-hostable MCP server that turns a folder of skills into callable tools via MCP and REST APIs.

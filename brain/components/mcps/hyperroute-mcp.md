@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T07:56:04Z"
+pushed_at: "2026-09-27T05:20:55Z"
 ---
 ## What it is
 MCP server for HyperRoute, a router that recommends and executes the best external tool for AI agent tasks, with server-side key management and outcome feedback.

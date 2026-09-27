@@ -8,13 +8,13 @@ source_url: https://github.com/ohneben/Buchhaltungsbutler-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-24T02:04:57Z"
+forks: 3
+pushed_at: "2026-09-26T15:59:14Z"
 ---
 ## What it is
 Enables AI assistants to manage BuchhaltungsButler bookkeeping through all 48 API endpoints, with safety-categorized tools for read, write, and destructive operations.

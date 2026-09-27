@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:43:45Z"
+pushed_at: "2026-09-25T22:09:11Z"
 ---
 ## What it is
 MCP server `Bible`, catalogued on PulseMCP. Bible verses and books via the Bible API — look up passages, chapters, and full books.

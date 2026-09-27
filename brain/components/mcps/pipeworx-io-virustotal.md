@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:37Z"
+pushed_at: "2026-09-26T22:18:28Z"
 ---
 ## What it is
 MCP server `VirusTotal`, catalogued on PulseMCP. VirusTotal file, URL, domain, and IP reputation checking via the Pipeworx gateway using your own API key.

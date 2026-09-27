@@ -8,13 +8,13 @@ source_url: https://github.com/configcat/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-27T19:49:14Z"
+pushed_at: "2026-09-25T14:48:31Z"
 ---
 ## What it is
 Provides access to ConfigCat's management API for feature flag and configuration management, enabling CRUD operations on entities like feature flags, configs, environments, and products, as well as SDK documentation.

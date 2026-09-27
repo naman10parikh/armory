@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-06-21T04:30:16Z"
+pushed_at: "2026-09-04T16:27:47Z"
 ---
 ## What it is
 A macOS MCP server that provides AI agents with secure access to Calendar, Reminders, Notes, and Health data via native Apple APIs.

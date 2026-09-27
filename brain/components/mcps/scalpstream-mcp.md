@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:25:04Z"
+pushed_at: "2026-09-22T18:43:05Z"
 ---
 ## What it is
 An MCP server that purchases small factual datasets on demand via x402 micropayments (about $0.01 per call), offering tools for financial research, fuel prices, air quality, and border crossings while supporting preview-only mode and configurable spending limits.

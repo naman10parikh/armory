@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-18T06:02:58Z"
+pushed_at: "2026-09-22T06:38:33Z"
 ---
 ## What it is
 MCP server `InboxAPI`, catalogued on PulseMCP. Gives AI agents a personal email address to send, receive, search, and reply to emails.

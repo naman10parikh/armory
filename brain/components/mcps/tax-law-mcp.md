@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T07:02:05Z"
+forks: 1
+pushed_at: "2026-09-27T12:11:08Z"
 ---
 ## What it is
 Provides access to Japanese tax law data from official sources via a local web server on Windows.

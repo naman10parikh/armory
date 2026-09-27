@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:52:30Z"
+pushed_at: "2026-09-10T01:56:10Z"
 ---
 ## What it is
 Deterministic day-count and accrued-interest engine. Six ISDA/ICMA conventions, proven exact against QuantLib over 3,600 date pairs. Stops the AI guessing your interest math.

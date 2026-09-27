@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:46Z"
+pushed_at: "2026-09-25T21:19:41Z"
 ---
 ## What it is
 Provides Ethereum and L2 data access via Alchemy API, enabling token balances, NFTs, transfers, and generic RPC calls through MCP.

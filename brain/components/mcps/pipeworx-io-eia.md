@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:03:02Z"
+pushed_at: "2026-09-25T23:43:17Z"
 ---
 ## What it is
 MCP server `EIA Energy Data`, catalogued on PulseMCP. US energy statistics via the EIA API v2, covering production, consumption, and pricing data.

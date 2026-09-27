@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T18:24:53Z"
+pushed_at: "2026-09-23T07:34:52Z"
 ---
 ## What it is
 Automates a GetCourse account from an AI agent — grant lesson/training access, manage users and groups — with no official API.

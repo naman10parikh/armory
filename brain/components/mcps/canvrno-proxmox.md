@@ -8,11 +8,11 @@ source_url: https://github.com/canvrno/proxmoxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 288
+stars: 292
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 69
+forks: 70
 pushed_at: "2025-02-19T20:16:13Z"
 ---
 ## What it is

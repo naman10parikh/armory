@@ -8,11 +8,11 @@ source_url: https://github.com/datakurre/brick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-04-04T20:32:15Z"
 ---
 ## What it is

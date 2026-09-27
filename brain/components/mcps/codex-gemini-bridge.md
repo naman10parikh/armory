@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T07:58:41Z"
+pushed_at: "2026-09-07T14:12:17Z"
 ---
 ## What it is
 A lightweight MCP server that bridges OpenAI Codex to Gemini models via the Antigravity CLI, enabling natural language prompts and model listing within Codex.

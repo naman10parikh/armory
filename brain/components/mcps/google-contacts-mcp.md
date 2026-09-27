@@ -8,13 +8,13 @@ source_url: https://github.com/domdomegg/google-contacts-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-11T19:22:00Z"
+pushed_at: "2026-09-09T16:11:51Z"
 ---
 ## What it is
 MCP server for Google Contacts - list, search, and manage contacts.

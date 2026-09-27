@@ -8,13 +8,13 @@ source_url: https://github.com/brunoflma/jurisprudenciaia-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-08-04T00:43:48Z"
+pushed_at: "2026-09-25T16:40:30Z"
 ---
 ## What it is
 Self-hosted MCP connector for querying Brazilian legal jurisprudence via JurisprudenciaIA. Enables natural language legal research using Claude.ai, with tools for consulting, searching, and comparing jurisprudence and legal theses.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T16:29:21Z"
+pushed_at: "2026-09-06T17:19:20Z"
 ---
 ## What it is
 MCP server providing EU compliance APIs for VAT validation, sanctions screening, counterparty checks, and invoice extraction. Enables AI agents to make pay-per-call requests settled in USDC on Base via x402, with no account or API key required.

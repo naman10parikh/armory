@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-23T12:59:02Z"
+pushed_at: "2026-09-06T08:41:23Z"
 ---
 ## What it is
 Production-grade MCP server for RetailCRM e-commerce CRM. Provides 39 tools and 2 prompt skills to manage orders, customers, products, inventory, payments, tasks, references, and analytics via API v5.

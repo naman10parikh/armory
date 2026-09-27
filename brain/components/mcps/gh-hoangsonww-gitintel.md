@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-08-16T05:37:47Z"
+pushed_at: "2026-09-07T20:41:31Z"
 ---
 ## What it is
 MCP server `GitIntel`, catalogued on PulseMCP. Deep repository analytics computed locally from Git commit history.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 9
 forks: 3
-pushed_at: "2026-08-14T13:20:19Z"
+pushed_at: "2026-09-07T14:29:20Z"
 ---
 ## What it is
 Access institutional-grade alternative financial data directly in your LLM workflows.

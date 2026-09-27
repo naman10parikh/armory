@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T01:40:18Z"
+pushed_at: "2026-09-24T13:40:57Z"
 ---
 ## What it is
 Bitcoin-anchored provenance for AI outputs; enables stamping, verifying, and tracing outputs with offline-verifiable canonical roots.

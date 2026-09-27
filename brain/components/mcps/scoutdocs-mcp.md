@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-29T02:47:02Z"
+pushed_at: "2026-09-17T14:10:58Z"
 ---
 ## What it is
 MCP server that fetches and searches the latest stable documentation for any package from PyPI, npm, and crates.io.

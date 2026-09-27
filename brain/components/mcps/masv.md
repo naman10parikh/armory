@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-12T15:09:23Z"
+pushed_at: "2026-09-25T20:26:59Z"
 ---
 ## What it is
 MCP server `MASV`, catalogued on PulseMCP. Secure large file transfer tools for AI agents via the MASV API.

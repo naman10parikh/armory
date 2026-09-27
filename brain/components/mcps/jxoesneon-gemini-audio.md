@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T00:48:22Z"
+pushed_at: "2026-09-25T00:05:49Z"
 ---
 ## What it is
 MCP server `Gemini Audio`, catalogued on PulseMCP. Audio, music, and voice generation via Google Gemini 2.5 and Lyria 3 models.

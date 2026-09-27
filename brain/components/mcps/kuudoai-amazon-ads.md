@@ -8,12 +8,12 @@ source_url: https://github.com/kuudoai/amazon_ads_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
-pushed_at: "2026-07-27T18:54:26Z"
+forks: 22
+pushed_at: "2026-09-06T23:08:34Z"
 ---
 ## What it is
 MCP server `Amazon Ads`, catalogued on PulseMCP. Integrates with Amazon Advertising API to enable campaign management, performance reporting, profile handling, and DSP operations with pluggable authentication supporting both direct API credentials and OpenBridge OAuth integration.

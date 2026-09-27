@@ -8,13 +8,13 @@ source_url: https://github.com/ParadoxInfinite/oriel
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-03T18:35:30Z"
+pushed_at: "2026-09-07T18:36:49Z"
 ---
 ## What it is
 Enables AI assistants to manage Docker containers, images, volumes, networks, and Compose projects through natural language, with secret masking and destructive action grants.

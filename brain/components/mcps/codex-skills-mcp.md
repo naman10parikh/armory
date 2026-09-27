@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T07:48:20Z"
+pushed_at: "2026-09-24T03:10:42Z"
 ---
 ## What it is
 MCP server that enables AI programming tools to search, read, and use a remote library of 180+ professional development skills, with incremental caching and network acceleration for fast access.

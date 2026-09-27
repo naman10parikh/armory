@@ -8,13 +8,13 @@ source_url: https://github.com/Pico-Developer/Unity-MCP-Extensions
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T06:53:00Z"
+pushed_at: "2026-09-22T10:52:04Z"
 ---
 ## What it is
 Exposes PICO XR building blocks as MCP tools, enabling AI agents to programmatically configure XR scenes for PICO devices through idempotent, non-destructive operations.

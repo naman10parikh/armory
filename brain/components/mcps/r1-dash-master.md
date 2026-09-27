@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-13T15:42:02Z"
+pushed_at: "2026-09-22T20:15:10Z"
 ---
 ## What it is
 Builds importable RUCKUS One Data Studio dashboards from a declarative spec, enabling users to create valid dashboards without learning Superset internals or guessing field names.

@@ -8,12 +8,12 @@ source_url: https://github.com/octen-team/octen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T07:56:42Z"
+pushed_at: "2026-09-15T12:39:55Z"
 ---
 ## What it is
 MCP server `Octen`, catalogued on PulseMCP. Converts URLs into clean, LLM-ready markdown using Octen's Extract API with batch processing and query-focused highlights.

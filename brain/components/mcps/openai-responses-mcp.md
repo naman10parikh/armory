@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T00:08:04Z"
+pushed_at: "2026-09-21T00:07:22Z"
 ---
 ## What it is
 Lightweight MCP server using OpenAI Responses API with built-in web search, enabling AI assistants to answer questions with citations and search results.

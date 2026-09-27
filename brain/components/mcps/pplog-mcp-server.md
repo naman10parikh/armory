@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:54:32Z"
+pushed_at: "2026-09-27T07:22:02Z"
 ---
 ## What it is
 Enables AI assistants to read, search, and post poems on pplog via the Model Context Protocol.

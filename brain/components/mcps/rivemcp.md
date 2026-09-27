@@ -8,13 +8,13 @@ source_url: https://github.com/paradoxsyn/rivemcp-releases
 license: Inno Setup License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T22:57:34Z"
+pushed_at: "2026-09-23T00:46:46Z"
 ---
 ## What it is
 Enables AI assistants to create and edit Rive animations through 139 MCP tools, supporting shapes, animations, state machines, physics, and export to .riv or .rev files.

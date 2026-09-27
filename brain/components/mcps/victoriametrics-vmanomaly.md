@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-28T07:15:58Z"
+pushed_at: "2026-09-24T18:40:37Z"
 ---
 ## What it is
 MCP server `vmanomaly`, catalogued on PulseMCP. VictoriaMetrics anomaly detection for time series data

@@ -8,12 +8,12 @@ source_url: https://github.com/theyahia/mindbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T08:46:50Z"
+pushed_at: "2026-09-15T08:44:12Z"
 ---
 ## What it is
 MCP server `Mindbox`, catalogued on PulseMCP. Integrates with Mindbox customer data platform for managing customer profiles, creating orders, and accessing audience segments.

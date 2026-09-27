@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:34:55Z"
+pushed_at: "2026-09-22T05:39:23Z"
 ---
 ## What it is
 Enables AI assistants to manage instantKOM messenger platform resources (channels, contacts, messages, newsletters, bots, flows, analytics) via structured type-safe tool calls.

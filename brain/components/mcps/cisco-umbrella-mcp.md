@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T10:25:04Z"
+pushed_at: "2026-09-18T07:52:59Z"
 ---
 ## What it is
 MCP server for Cisco Umbrella that enables querying DNS/proxy/firewall/AMP activity reports, roaming computers, app discovery data, and managed provider customer/console information via the classic Umbrella REST API v2.

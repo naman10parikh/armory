@@ -8,11 +8,11 @@ source_url: https://github.com/isaacphi/mcp-language-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1586
+stars: 1599
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 143
+forks: 149
 pushed_at: "2026-03-01T23:27:09Z"
 ---
 ## What it is

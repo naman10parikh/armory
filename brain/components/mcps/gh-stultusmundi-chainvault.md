@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-22T15:05:15Z"
+pushed_at: "2026-09-07T14:31:35Z"
 ---
 ## What it is
 MCP server `ChainVault (stultusmundi)`, catalogued on PulseMCP. Secure gateway between AI agents and EVM blockchains with vault-based key management and rule-enforced access control.

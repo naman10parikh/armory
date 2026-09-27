@@ -8,12 +8,12 @@ source_url: https://github.com/redf0x1/camofox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 107
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-08-13T10:11:33Z"
+forks: 13
+pushed_at: "2026-09-05T13:18:54Z"
 ---
 ## What it is
 MCP server `CamoFox`, catalogued on PulseMCP. Anti-detection browser automation with stealth fingerprinting via CamoFox.

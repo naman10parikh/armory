@@ -8,13 +8,13 @@ source_url: https://github.com/Ezra-Black/xcautokit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T00:27:00Z"
+pushed_at: "2026-09-12T02:15:33Z"
 ---
 ## What it is
 First-party MCP server and CLI for Xcode and iOS Simulator automation. Enables control of Xcode and iOS Simulator via MCP tools for tasks like building, testing, and automation.

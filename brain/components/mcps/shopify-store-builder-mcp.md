@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T13:49:26Z"
+pushed_at: "2026-09-24T12:48:34Z"
 ---
 ## What it is
 MCP server for building Shopify stores with AI, letting Claude Code and other clients edit themes, pages, and navigation via the Admin GraphQL API. Credentials stay on your machine as the server runs locally.

@@ -8,13 +8,13 @@ source_url: https://github.com/dongsheng123132/dsh-loader-settlement-proof
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T07:12:26Z"
+pushed_at: "2026-09-07T13:35:14Z"
 ---
 ## What it is
 Enables verification of content-addressed settlement receipts for DSH Loader activation, injection closure, and tool schema settlement.

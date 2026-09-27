@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T06:53:55Z"
+pushed_at: "2026-09-06T05:39:50Z"
 ---
 ## What it is
 MCP server providing safe, sandboxed SFTP access to game servers for AI agents, enabling config editing, addon installation, and backups without shell access.

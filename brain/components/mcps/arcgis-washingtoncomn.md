@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:41:51Z"
+pushed_at: "2026-09-25T21:59:39Z"
 ---
 ## What it is
 Enables searching and querying Washington County, Minnesota open geospatial data (parcels, addresses, zoning, public works) via ArcGIS Feature Services.

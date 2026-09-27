@@ -8,13 +8,13 @@ source_url: https://github.com/TMYTiMidlY/portal-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-15T01:37:42Z"
+forks: 1
+pushed_at: "2026-09-23T20:52:13Z"
 ---
 ## What it is
 SSH orchestration MCP server for coding agents, enabling persistent bash sessions, hash-protected remote file editing, SFTP transfers, SSH tunnels, and multi-host orchestration with connection reuse across tools.

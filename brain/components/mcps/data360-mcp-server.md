@@ -8,13 +8,13 @@ source_url: https://github.com/worldbank/data360-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-31T15:03:54Z"
+forks: 8
+pushed_at: "2026-09-22T17:42:20Z"
 ---
 ## What it is
 Provides LLM agents direct access to World Bank development indicators, enabling search, validation, and retrieval of data on topics like GDP, poverty, and gender equality.

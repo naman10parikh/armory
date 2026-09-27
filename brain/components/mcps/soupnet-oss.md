@@ -8,13 +8,13 @@ source_url: https://github.com/AndyForest/SoupNet
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T00:48:24Z"
+pushed_at: "2026-09-20T04:08:23Z"
 ---
 ## What it is
 SoupNet gives your AI agents one shared memory of how you think — across Claude, Cursor, and ChatGPT. Each checks your past decisions as searchable “recipes” and acts on your real judgment. Share it, and your team’s agents inherit that judgment too.

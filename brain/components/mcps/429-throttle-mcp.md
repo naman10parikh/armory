@@ -8,13 +8,13 @@ source_url: https://github.com/iqingyoung/429-throttle-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T04:29:18Z"
+pushed_at: "2026-09-06T15:23:14Z"
 ---
 ## What it is
 Transparent rate-limiting MCP proxy that prevents HTTP 429 errors by throttling API calls and tokens. Includes tools to check usage and dynamically adjust rate limits.

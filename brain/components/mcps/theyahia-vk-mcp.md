@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-01T16:38:37Z"
+pushed_at: "2026-09-05T11:33:01Z"
 ---
 ## What it is
 An MCP server that provides 8 tools for interacting with VK API, including wall posts, messaging, friends, groups, and statistics.

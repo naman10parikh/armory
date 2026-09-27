@@ -8,13 +8,13 @@ source_url: https://github.com/sing1ee/a2a-directory
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 239
+stars: 241
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, knowledge-research]
-forks: 46
-pushed_at: "2026-08-31T23:16:34Z"
+forks: 57
+pushed_at: "2026-09-26T01:13:56Z"
 ---
 ## What it is
 AgentCards, Servers, Clients, Docs

@@ -8,11 +8,11 @@ source_url: https://github.com/ryanmazzolini/minimal-godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-01T03:45:55Z"
 ---
 ## What it is
