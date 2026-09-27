@@ -8,13 +8,13 @@ source_url: https://github.com/wshobson/agents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40020
+stars: 40028
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, subagent]
-forks: 4270
+forks: 4271
 pushed_at: "2026-09-26T19:54:17Z"
 ---
 ## What it is

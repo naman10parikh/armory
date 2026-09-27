@@ -8,13 +8,13 @@ source_url: https://github.com/virgiliojr94/book-to-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 32667
+stars: 32702
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 3405
+forks: 3410
 pushed_at: "2026-09-22T17:45:44Z"
 ---
 ## What it is

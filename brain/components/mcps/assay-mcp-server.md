@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-27T12:48:27Z"
+pushed_at: "2026-09-27T15:17:54Z"
 ---
 ## What it is
 Assay is a fail-closed policy and evidence layer for MCP tool execution. The MCP server exposes policy checks and trace/coverage helpers for reviewing tool calls before or after agent workflows run.

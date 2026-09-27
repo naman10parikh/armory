@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-27T10:00:27Z"
+pushed_at: "2026-09-27T13:44:39Z"
 ---
 ## What it is
 Feedback ingestion for AI agents. Record your screen and talk; your agent does the rest — files the bugs, writes the spec, builds the backlog.

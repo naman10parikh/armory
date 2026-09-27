@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T12:42:43Z"
+pushed_at: "2026-09-27T15:24:59Z"
 ---
 ## What it is
 Durable memory with sources, proof, history, and review for MCP-capable agents. It turns a Markdown/Obsidian vault into a local knowledge substrate, enabling agents to store, search, and retrieve governed knowledge.

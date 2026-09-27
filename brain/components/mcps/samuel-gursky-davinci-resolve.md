@@ -8,11 +8,11 @@ source_url: https://github.com/samuelgursky/davinci-resolve-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3179
+stars: 3185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 370
+forks: 373
 pushed_at: "2026-09-26T14:43:41Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 39
-pushed_at: "2026-09-27T11:10:12Z"
+pushed_at: "2026-09-27T15:26:23Z"
 ---
 ## What it is
 Enables AI coding assistants to persist and manage project context across sessions, including tickets, roadmap, handovers, and lessons learned, via a structured .story/ directory.

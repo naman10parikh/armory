@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-09-27T09:38:27Z"
+pushed_at: "2026-09-27T14:57:29Z"
 ---
 ## What it is
 An MIT-licensed DevSpace distribution with an elastic ChatGPT Classic multi-agent runtime layer for managing multiple independent worker conversations and scaling them dynamically.

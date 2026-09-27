@@ -8,11 +8,13 @@ source_url: https://github.com/Muratovnik/valkama
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-27T14:00:05Z"
 ---
 ## What it is
 A local MCP server with a web board that lets coding agents manage kanban cards, checklists, and work tracking through 30 MCP tools, with live updates and session tracking.

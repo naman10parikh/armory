@@ -13,7 +13,7 @@ related: []
 tags: [mcp, browser-automation]
 stars: 54
 forks: 10
-pushed_at: "2026-09-23T18:48:46Z"
+pushed_at: "2026-09-27T13:48:25Z"
 ---
 ## What it is
 An MCP Server that enables AI assistants to interact with your local browsers.
