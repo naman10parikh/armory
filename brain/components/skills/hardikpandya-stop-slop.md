@@ -8,7 +8,7 @@ source_url: https://github.com/hardikpandya/stop-slop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 17606
+stars: 17608
 eval_score: null
 mentions: 3
 verified_at: 2026-09-07

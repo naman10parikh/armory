@@ -8,11 +8,11 @@ source_url: https://github.com/vibetensor/attestix
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 61
 pushed_at: "2026-09-27T09:41:39Z"
 ---
 ## What it is

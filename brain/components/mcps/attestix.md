@@ -8,12 +8,12 @@ source_url: https://github.com/VibeTensor/attestix
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 228
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 60
 pushed_at: "2026-09-27T09:41:39Z"
 ---
 ## What it is

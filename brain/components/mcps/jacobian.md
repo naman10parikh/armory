@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-27T12:49:25Z"
+pushed_at: "2026-09-27T14:20:39Z"
 ---
 ## What it is
 An MCP server for executable mathematics that enables agents to construct objects, compute invariants, search for witnesses, and verify results with independently checkable evidence.

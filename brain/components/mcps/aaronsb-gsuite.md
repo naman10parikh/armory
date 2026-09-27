@@ -8,7 +8,7 @@ source_url: https://github.com/aaronsb/google-workspace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 187
+stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T23:53:16Z"
+pushed_at: "2026-09-27T14:09:16Z"
 ---
 ## What it is
 Enables MCP-compatible AI clients to access live crypto market data and AI-driven quantitative analysis, with structured outputs and full observability.

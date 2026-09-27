@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T07:22:59Z"
+pushed_at: "2026-09-27T14:57:11Z"
 ---
 ## What it is
 Enables querying a TypeScript repository's structure (symbols, imports/exports, references) through direct queries, avoiding repetitive grep operations.

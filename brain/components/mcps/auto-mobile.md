@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-27T11:59:12Z"
+pushed_at: "2026-09-27T15:30:45Z"
 ---
 ## What it is
 MCP server `AutoMobile`, catalogued on PulseMCP. Mobile device interaction automation via MCP.

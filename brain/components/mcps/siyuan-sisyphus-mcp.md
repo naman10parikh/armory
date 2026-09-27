@@ -8,12 +8,12 @@ source_url: https://github.com/yangtaihong59/siyuan-plugins-mcp-sisyphus
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 111
+stars: 112
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
+forks: 21
 pushed_at: "2026-09-10T16:35:29Z"
 ---
 ## What it is

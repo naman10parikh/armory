@@ -8,11 +8,11 @@ source_url: https://github.com/mobile-next/mobile-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7656
+stars: 7726
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 656
+forks: 660
 pushed_at: "2026-09-23T15:38:57Z"
 ---
 ## What it is
