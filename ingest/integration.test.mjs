@@ -206,6 +206,25 @@ test("integration: promote (the nightly path) adds no second row for a repositor
   } finally { rmSync(root, { recursive: true, force: true }); }
 });
 
+test("integration: promote lists a different product with the same name under its owner's name (CP147 D-03)", () => {
+  const { root, incoming, components } = freshSandbox();
+  try {
+    mkdirSync(join(components, "mcps"), { recursive: true });
+    writeFileSync(join(components, "mcps", "apple-mcp.md"), stubFor("apple-mcp", "https://github.com/aaronroef/apple-mcp"));
+    mkdirSync(join(incoming, "a"), { recursive: true });
+    // The same name from another repository is another product: it enters as someone-else-apple-mcp.
+    writeFileSync(join(incoming, "apple-mcp.md"), stubFor("apple-mcp", "https://github.com/Someone-Else/apple-mcp"));
+    // The listed repository under the same name again adds nothing.
+    writeFileSync(join(incoming, "a", "apple-mcp.md"), stubFor("apple-mcp", "https://github.com/aaronroef/apple-mcp"));
+    const res = promote(incoming, components, { dryRun: false, log: silent });
+    assert.deepEqual(res.promoted.map((p) => p.key), ["someone-else-apple-mcp|mcps"]);
+    assert.equal(res.skipped.length, 1);
+    const written = readFileSync(join(components, "mcps", "someone-else-apple-mcp.md"), "utf8");
+    assert.equal(parseFrontmatter(written).name, "someone-else-apple-mcp", "the file and its name agree");
+    assert.ok(readFileSync(join(components, "mcps", "apple-mcp.md"), "utf8").includes("aaronroef/apple-mcp"), "the first product is untouched");
+  } finally { rmSync(root, { recursive: true, force: true }); }
+});
+
 test("integration: promoteAll (the bulk path) adds no second row for a repository already listed", () => {
   const root = mkdtempSync(join(tmpdir(), "armory-it-"));
   try {

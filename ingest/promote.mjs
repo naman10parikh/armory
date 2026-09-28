@@ -199,6 +199,14 @@ function keepTitle(raw, replaced) {
   return `${raw.slice(0, at)}\n${line}${raw.slice(at)}`;
 }
 
+// Same name, different repository: another product (CP147 D-03). It enters under its owner's name, so
+// PulseMCP's `apple-mcp` from someone-else/apple-mcp lists as `someone-else-apple-mcp` beside the first.
+function ownerName(fm) {
+  const owner = /github\.com\/([^/]+)\//.exec(repositoryOf(fm) || "")?.[1];
+  if (!owner) return null;
+  return `${owner}-${fm.name}`.toLowerCase().replace(/[^a-z0-9-]+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
+}
+
 // --- single-source promote (original behaviour, exact-key dedup) ----------
 export function promote(fromDir, toComponentsDir, { dryRun = true, log = console.log } = {}) {
   const result = { promoted: [], skipped: [], invalid: [] };
@@ -208,9 +216,18 @@ export function promote(fromDir, toComponentsDir, { dryRun = true, log = console
     const fm = parseFrontmatter(raw);
     const errs = validateStub(fm, filePath);
     if (errs.length) { result.invalid.push({ filePath, errs }); log(`  ✗ INVALID ${filePath}: ${errs.join("; ")}`); continue; }
-    const key = `${fm.name}|${fm.type}`;
+    let key = `${fm.name}|${fm.type}`;
     const u = urlKey(fm);
     const rk = repoKey(fm);
+    let text = raw;
+    if (seen.has(key) && rk && !seen.has(rk) && !(u && seen.has(u))) {
+      const alt = ownerName(fm);
+      if (alt && !seen.has(`${alt}|${fm.type}`)) {
+        text = raw.replace(/^name:.*$/m, `name: ${alt}`);
+        fm.name = alt;
+        key = `${alt}|${fm.type}`;
+      }
+    }
     if (seen.has(key) || (u && seen.has(u)) || (rk && seen.has(rk))) { result.skipped.push({ filePath, key }); log(`  = DUP     ${filePath} (${seen.has(key) ? key : u && seen.has(u) ? u : rk} already present)`); continue; }
     seen.add(key);
     if (u) seen.add(u);
@@ -219,7 +236,7 @@ export function promote(fromDir, toComponentsDir, { dryRun = true, log = console
     if (dryRun) { log(`  [dry-run] would promote ${filePath} -> ${dest}`); }
     else {
       mkdirSync(dirname(dest), { recursive: true });
-      writeFileSync(dest, raw);   // copy content to target
+      writeFileSync(dest, text);  // copy content to target
       rmSync(filePath);           // then remove the stub (move semantics)
       log(`  -> PROMOTE ${filePath} -> ${dest}`);
     }
