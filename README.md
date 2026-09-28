@@ -8,7 +8,7 @@
 
 ***For agents, by agents, of agents.***
 
-[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 65,000+ components](https://armory-murex.vercel.app/browse) · [Stack](https://armory-murex.vercel.app/stack) · [Components](https://armory-murex.vercel.app/c)
+[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 60,000+ components](https://armory-murex.vercel.app/browse) · [Stack](https://armory-murex.vercel.app/stack) · [Components](https://armory-murex.vercel.app/c)
 
 ![components](https://img.shields.io/badge/components-64%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
@@ -78,7 +78,7 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 ```bash
 npm i -g @namanparikh/armory                  # install once — the command is `armory`
 armory init --claude                            # wire the Armory MCP into this harness (--cursor|--codex|--opencode|--gemini)
-armory search "browser automation"              # rank across 65,000+ components
+armory search "browser automation"              # rank across 60,000+ components
 armory install github-mcp                       # wire GitHub's own MCP server into THIS project's harness
 armory install senior-code-reviewer --cli cursor  # …or target Cursor / Codex / OpenCode / Gemini
 # no global install? one-off:  npx @namanparikh/armory search "…"
@@ -88,7 +88,7 @@ armory install senior-code-reviewer --cli cursor  # …or target Cursor / Codex 
 
 ## Install Armory itself as a plugin — one step, any harness
 
-Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 65,000+ components (65,216 on 26 September 2026) — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
+Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 60,000+ components (61,739 on 28 September 2026) — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
 
 | Harness | Install |
 |---|---|
