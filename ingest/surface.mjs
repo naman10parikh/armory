@@ -8,13 +8,17 @@
 // NEVER touches: skills/ agents/ commands/ hooks/ rules/ (real vendored files from TASK 1)
 // NEVER touches: brain/, catalog.json, armory-mcp/, cli/, armory-skill/, .github/, skills/, subagents/, workflows/, hooks/, claudemd-rules/
 //
+// Every README it writes, and the top README, states when catalog.json was last generated: its generated_at,
+// verbatim, the one timestamp (CP147 T12). scripts/lint-catalog.mjs fails while any of them states another.
+// The nightly refresh runs it after its last catalog rebuild; run it after `node ingest/catalog.mjs` too.
+//
 // Usage:
 //   node ingest/surface.mjs           # dry-run: prints counts
 //   node ingest/surface.mjs --apply   # reset + generate
 
 import {
   existsSync, mkdirSync, rmSync, readdirSync,
-  readFileSync, writeFileSync,
+  readFileSync, writeFileSync, openSync, readSync, closeSync,
 } from "node:fs";
 import { join, dirname, basename } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -39,6 +43,36 @@ const CATALOG_TYPES = [
   // claudemd-rules already has real counterpart in .claude/rules — expose as catalog view
   "claudemd-rules",
 ];
+
+// ── the one timestamp ────────────────────────────────────────────────────────
+
+// The READMEs that state when the catalog was last generated: the top one and each one this script writes.
+export const STAMPED = ["README.md", "mcps/README.md",
+  ...CATALOG_TYPES.filter((t) => !REAL_FILE_TYPES.has(t)).map((t) => `${t}/README.md`)];
+export const stampLine = (when) => `**Last updated:** ${when} (UTC), when \`catalog.json\` was last generated.`;
+const STAMP_LINE = /^\*\*Last updated:\*\* .*$/m;
+
+// catalog.json's generated_at, read from the head of the file (ingest/catalog.mjs writes it first).
+function generatedAt() {
+  const fd = openSync(join(ROOT, "catalog.json"), "r");
+  const head = Buffer.alloc(4096);
+  const n = readSync(fd, head, 0, head.length, 0);
+  closeSync(fd);
+  const m = /"generated_at":\s*"([^"]+)"/.exec(head.toString("utf8", 0, n));
+  if (!m) throw new Error("catalog.json has no generated_at at its head; run node ingest/catalog.mjs");
+  return m[1];
+}
+
+// The top README keeps its own text; only its stamp line is set, under the badges the first time.
+function stampTopReadme(when) {
+  const path = join(ROOT, "README.md");
+  const text = readFileSync(path, "utf8");
+  if (STAMP_LINE.test(text)) return text.replace(STAMP_LINE, stampLine(when));
+  const badges = /^!\[components\].*$/m.exec(text);
+  if (!badges) throw new Error("README.md: no stamp line and no badge line to put one under");
+  const at = badges.index + badges[0].length;
+  return `${text.slice(0, at)}\n\n${stampLine(when)}${text.slice(at)}`;
+}
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 
@@ -159,8 +193,10 @@ ${entry.description || "No description available."}
 
 // ── README generators ─────────────────────────────────────────────────────────
 
-function mcpReadme(count) {
-  return `# mcps/ — ${count.toLocaleString()} MCP server install configs
+function mcpReadme(count, when) {
+  return `# mcps/: ${count.toLocaleString("en-US")} MCP server install configs
+
+${stampLine(when)}
 
 Each \`<slug>.json\` is a minimal install config:
 \`\`\`json
@@ -180,8 +216,10 @@ Run \`node ingest/surface.mjs --apply\` to rebuild.
 `;
 }
 
-function typeReadme(type, count) {
-  return `# ${type}/ — ${count} components (catalog view)
+function typeReadme(type, count, when) {
+  return `# ${type}/: ${count.toLocaleString("en-US")} components (catalog view)
+
+${stampLine(when)}
 
 Each \`<slug>.md\` is a slim install card generated from \`brain/components/${type}/\`.
 
@@ -202,6 +240,9 @@ async function main() {
   }
 
   const counts = {};
+  const when = generatedAt();
+  console.log(`catalog.json generated_at ${when}: every README states it`);
+  if (!DRY_RUN) writeFileSync(join(ROOT, "README.md"), stampTopReadme(when), "utf8");
 
   // ── MCPs ────────────────────────────────────────────────────────────────────
 
@@ -213,7 +254,7 @@ async function main() {
     for (const entry of mcpEntries) {
       writeFileSync(join(mcpDir, `${entry.slug}.json`), generateMcpJson(entry), "utf8");
     }
-    writeFileSync(join(mcpDir, "README.md"), mcpReadme(mcpEntries.length), "utf8");
+    writeFileSync(join(mcpDir, "README.md"), mcpReadme(mcpEntries.length, when), "utf8");
   }
   counts.mcp = mcpEntries.length;
   console.log(`  mcps: ${mcpEntries.length} files`);
@@ -235,7 +276,7 @@ async function main() {
         writeFileSync(join(typeDir, `${entry.slug}.md`), generateCatalogCard(entry), "utf8");
       }
       if (entries.length > 0) {
-        writeFileSync(join(typeDir, "README.md"), typeReadme(type, entries.length), "utf8");
+        writeFileSync(join(typeDir, "README.md"), typeReadme(type, entries.length, when), "utf8");
       }
     }
     counts[type] = entries.length;
@@ -258,4 +299,4 @@ async function main() {
   if (DRY_RUN) console.log("Run with --apply to write files.\n");
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+if (import.meta.url === `file://${process.argv[1]}`) main().catch((e) => { console.error(e); process.exit(1); });

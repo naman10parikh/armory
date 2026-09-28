@@ -17,7 +17,7 @@
 //
 //   node scripts/lint-catalog.mjs     # every failure, then exit 1 if there is one
 // Runs in CI on every pull request, in the nightly refresh before its commit, and in .githooks/pre-commit.
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { duplicateGroups } from "../lib/same-component.mjs";
@@ -96,7 +96,8 @@ async function main() {
   const { DOMAINS, VERTICALS, SHELF_MOVES, DOMAIN_MOVES, SHELF_FIT, computeRows } = await import("../lib/rank.mjs");
   const stack = JSON.parse(readFileSync(join(ROOT, "web", "src", "data", "stack.json"), "utf-8"));
   const catalog = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf-8"));
-  const readmes = [];
+  const { STAMPED } = await import("../ingest/surface.mjs"); // the READMEs that state the time
+  const readmes = STAMPED.map((path) => ({ path, text: existsSync(join(ROOT, path)) ? readFileSync(join(ROOT, path), "utf-8") : "" }));
   const failures = lintCatalog({ catalog, rows: computeRows(catalog.components), readmes }, {
     types: TYPES, maturity: MATURITY, cliCompat: CLI_COMPAT, domains: Object.keys(DOMAINS), verticals: Object.keys(VERTICALS),
     shelves: stack.components, shelfMoves: SHELF_MOVES, domainMoves: DOMAIN_MOVES, shelfFit: SHELF_FIT,

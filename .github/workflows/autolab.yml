@@ -137,6 +137,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node ingest/crawl-repos.mjs || echo "::warning::crawl-repos failed — continuing"
 
+      # 3c. The browse folders (CP147 T12): one card per component at the top of the repository (mcps/,
+      #     clis-tools/, evals/ and the rest) for people browsing on GitHub, rebuilt from the brain after the
+      #     last catalog rebuild. Every README it writes, and the top README, states catalog.json's generated_at:
+      #     the one timestamp, which the lint below checks.
+      - name: Regenerate the browse folders
+        run: node ingest/surface.mjs --apply
+
       # 4. HARD GATES: schema validation, the full-catalog Hamel gate and the catalog lint (CP147 T08: one row
       #    per repository, labels on their lists, one timestamp). If any fails, do NOT commit; the repo stays at
       #    the last-known-good state (no-regression, DSIP eval gate).
