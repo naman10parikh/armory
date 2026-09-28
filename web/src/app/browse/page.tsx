@@ -7,7 +7,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ComponentCard } from "@/components/component-card";
-import { HarnessSelector } from "@/components/install-snippet";
 import { ContentWidth } from "@/components/data-table";
 import { SearchIcon, TypeIcon } from "@/components/icons";
 import { getCatalog } from "@/lib/catalog";
@@ -67,11 +66,9 @@ export default async function BrowsePage({ searchParams }: { searchParams: Promi
 
   return (
     <ContentWidth className="pb-24 pt-10">
+      {/* The search box and the Type filter say what the page does; no line narrates them (CP147). */}
       <header className="mb-6">
         <h1 className="text-[27px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Browse</h1>
-        <p className="mt-2 max-w-xl text-[16px] leading-[1.5] text-ink-body">
-          Search and filter by type across the catalog
-        </p>
       </header>
 
       <form action="/browse" method="get" role="search" className="mb-6 flex max-w-xl items-center gap-2">
@@ -141,13 +138,11 @@ export default async function BrowsePage({ searchParams }: { searchParams: Promi
               <data value={String(results.length)} className="font-semibold text-ink-hi">
                 {int(results.length)}
               </data>{" "}
-              results
+              Results
               {types.length > 0 && <> in {types.map((t) => CATEGORY_LABEL[t]).join(", ")}</>}
-              {q && <> for &ldquo;{q}&rdquo;</>} · page <data value={String(page)}>{int(page)}</data> of{" "}
+              {q && <> for &ldquo;{q}&rdquo;</>} · Page <data value={String(page)}>{int(page)}</data> of{" "}
               <data value={String(pages)}>{int(pages)}</data>
             </p>
-            {/* The cards' install commands follow it; the nav owns this selector from lg up. */}
-            <HarnessSelector className="lg:hidden" />
           </div>
 
           {shown.length === 0 ? (

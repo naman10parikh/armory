@@ -69,18 +69,18 @@ export function InstallStrip({
             </p>
           </>
         ) : (
-          // `armory install` places nothing for this row, so no command is offered (CP143).
+          // `armory install` places nothing for this row, so no command is offered (CP143). "Manual", the
+          // word every list uses for it (CP147).
           <p className="text-[13px] leading-snug text-ink-body">
-            No one-command install. Set it up from{" "}
+            Manual ·{" "}
             <a
               href={component.source_url}
               target="_blank"
               rel="noreferrer noopener"
               className="cursor-pointer text-accent-hover underline underline-offset-4"
             >
-              its source
+              Source
             </a>
-            .
           </p>
         )}
 

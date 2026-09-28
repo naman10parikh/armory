@@ -60,14 +60,16 @@ export function ScoreBadge({ score, evidence, display, value, caption = false }:
   );
 }
 
-/** The key to the colours above, printed under every ranked table (CP138 T23: the dimmer amber had none). */
+/**
+ * The key to the colours above, under every ranked table (CP138 T23: the dimmer amber had none). A
+ * legend, not a sentence (CP147): each colour names the number of signals it stands for.
+ */
 export function ScoreLegend() {
   return (
-    <p className="mt-3 text-[12px] leading-normal text-ink-muted">
-      Score colour shows how many signals stand behind it, never how good it is:{" "}
-      <span className="font-semibold text-score-solid">amber</span>, three or more;{" "}
-      <span className="font-semibold text-score-partial">dimmer amber</span>, two;{" "}
-      <span className="font-semibold text-score-thin">grey</span>, one. The Evidence column names them.
-    </p>
+    <span>
+      Score colour <span className="font-semibold text-score-solid">3+ signals</span> ·{" "}
+      <span className="font-semibold text-score-partial">2</span> ·{" "}
+      <span className="font-semibold text-score-thin">1</span>
+    </span>
   );
 }

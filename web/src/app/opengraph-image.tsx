@@ -1,5 +1,5 @@
 // The home page's preview card: the promise with the live count, and the top three rows.
-import { int, rankedScoreTexts } from "@/lib/format";
+import { int, rankedScoreTexts, utcStamp } from "@/lib/format";
 import { OG, OG_SIZE, OG_TYPE, ogCard } from "@/lib/og";
 import { boardMeta, topRows } from "@/lib/rows";
 
@@ -13,7 +13,7 @@ export default async function Image() {
   const scores = rankedScoreTexts(top.map((r) => r.exact));
   return ogCard({
     kicker: "Top ranked",
-    footer: "Refreshed nightly",
+    footer: "Refreshed daily",
     children: (
       // One column: Satori lays a fragment out as a row, which stacked these side by side.
       <div style={{ display: "flex", flexDirection: "column", flexGrow: 1 }}>
@@ -21,7 +21,8 @@ export default async function Image() {
           {`${int(meta.total)} agent components, ${int(meta.ranked)} ranked on public evidence`}
         </div>
         <div style={{ display: "flex", marginTop: 16, fontSize: 28, color: OG.muted }}>
-          Refreshed nightly, with how to install each one
+          {/* The home page's words (CP147): the exact update time, not a promise of one-command installs. */}
+          {meta.generatedAt ? `Updated ${utcStamp(meta.generatedAt)}` : "Refreshed daily"}
         </div>
         <div style={{ display: "flex", flexDirection: "column", marginTop: "auto", marginBottom: 28 }}>
           {top.map((r, i) => (

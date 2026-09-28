@@ -15,8 +15,9 @@ import Link from "next/link";
 import { ContributorLink } from "@/components/badges";
 import { OursTag } from "@/components/board-table";
 import { ContentWidth, DataTable, Th, Tr, clampWords } from "@/components/data-table";
-import { CliNote, HarnessSelector, InstallSnippet, NoInstall } from "@/components/install-snippet";
-import { NotIndexedTag } from "@/components/component-page";
+import { Info } from "@/components/info-mark";
+import { CliNote, InstallSnippet, NoInstall } from "@/components/install-snippet";
+import { NotIndexedTag, ShelfPlace } from "@/components/component-page";
 import { ScoreBadge } from "@/components/score-badge";
 import { CopyText, PickSelect, StackCommand, type PickOption } from "@/components/stack-builder";
 import {
@@ -126,8 +127,7 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
           </p>
           <p className="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] text-ink-muted">
             <span>
-              Picks as of <time dateTime={STACK_AS_OF}>{shortDate(STACK_AS_OF)}</time>. Re-derive their evidence from
-              the repository with
+              Picks as of <time dateTime={STACK_AS_OF}>{shortDate(STACK_AS_OF)}</time> · Evidence:
             </span>
             <code className="rounded border border-line-subtle bg-raise-1 px-1.5 py-0.5 font-mono text-[12px] text-ink-body">
               {STACK_REGENERATE}
@@ -140,8 +140,6 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
         <ContentWidth className="pb-10 pt-8">
           <div className="mb-3 flex flex-wrap items-center justify-between gap-x-6 gap-y-3">
             <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Inside the harness</h2>
-            {/* One control for one setting: the nav owns this selector from lg up. */}
-            <HarnessSelector className="lg:hidden" />
             <CliNote />
           </div>
 
@@ -185,17 +183,8 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
                     </td>
                     <td data-label="Why" className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
                       {s.chosen === NONE ? "Left out" : s.why}
-                      {s.chosen !== NONE && s.rank != null && (
-                        <span className="mt-1.5 block text-ink-body">
-                          {s.rank === 1 ? (
-                            "Top of its shelf by score."
-                          ) : (
-                            <>
-                              #<data value={String(s.rank)}>{s.rank}</data> on its shelf. {s.reason}
-                            </>
-                          )}
-                        </span>
-                      )}
+                      {/* Its place on the shelf, and the reason one press away (CP147), as on the /c pick cards. */}
+                      {s.chosen !== NONE && s.rank != null && <ShelfPlace rank={s.rank} reason={s.reason} className="mt-1.5" />}
                     </td>
                     <td data-label="Install" className={CELL}>
                       {s.chosen === NONE ? null : s.row?.installable ? (
@@ -235,13 +224,13 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
                   scroll={false}
                   className="cursor-pointer text-[13px] font-medium text-accent-hover underline underline-offset-4"
                 >
-                  Reset to the picks
+                  Reset
                 </Link>
               )}
             </div>
           </Form>
 
-          <h3 className="mt-10 text-[16px] font-semibold text-ink-hi">One command for these picks</h3>
+          <h3 className="mt-10 text-[16px] font-semibold text-ink-hi">Install Command</h3>
           <div className="mt-3 max-w-[760px]">
             <StackCommand
               picks={chosen.map((s) => ({
@@ -253,7 +242,7 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
             />
           </div>
           <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-[13px] text-ink-muted">
-            <span>Link to this stack</span>
+            <span>Share link</span>
             <CopyText text={share} label="Copy the link" />
           </div>
         </ContentWidth>
@@ -261,11 +250,12 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
 
       <section>
         <ContentWidth className="pb-16 pt-8">
-          <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Accounts the agent acts through</h2>
-          <p className="mb-4 mt-3 max-w-[80ch] text-[13px] text-ink-muted">
-            These are accounts, not repositories, so they carry no Armory score; each line says how an agent gets
-            access.
-          </p>
+          <div className="mb-4 flex items-center gap-2">
+            <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Accounts the agent acts through</h2>
+            <Info id="info-accounts" label="About the accounts">
+              Accounts, not repositories, so they carry no Armory score. Deploy access is how an agent gets in.
+            </Info>
+          </div>
           <DataTable label="Accounts the agent acts through" minWidthClass="min-w-[760px]" fixed className="stack-table">
             <thead>
               <tr>
@@ -284,17 +274,16 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
               ))}
             </tbody>
           </DataTable>
-          <p className="mt-4 max-w-[90ch] text-[13px] leading-relaxed text-ink-muted">{PROVISIONING}</p>
+          {/* The order is an instruction the reader acts on, so it stays on the page, as one labelled line. */}
+          <p className="mt-4 max-w-[90ch] text-[13px] leading-relaxed text-ink-muted">
+            <span className="font-medium text-ink-body">Provisioning order:</span> {PROVISIONING}
+          </p>
 
           <p className="mt-6 text-[13px] text-ink-muted">
             <a href="/api/stack" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
               API
             </a>{" "}
-            returns both lists as JSON;{" "}
-            <Link href="/c" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
-              Components
-            </Link>{" "}
-            lists up to three picks per component with its top-ranked rows.
+            · /api/stack
           </p>
         </ContentWidth>
       </section>

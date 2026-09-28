@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ContentWidth, DataTable, Td, Th, Tr } from "@/components/data-table";
 import { ArrowLeftIcon } from "@/components/icons";
+import { Info } from "@/components/info-mark";
 import { githubReadText } from "@/lib/format";
 import { boardMeta } from "@/lib/rows";
 import { longDate, monthLabel, n, pct, stats, type SignalKey } from "./stats";
@@ -21,7 +22,7 @@ export const metadata: Metadata = {
 // The signals in the coverage table, as the engine scores them (lib/rank.mjs), with what each one is.
 const SIGNAL_ROWS: readonly { key: SignalKey; label: string; note: string }[] = [
   { key: "stars", label: "Stars", note: "GitHub star count" },
-  { key: "tested", label: "Tested", note: "Installed and executed directly" },
+  { key: "tested", label: "Tested", note: "Installed and run by Armory" },
   { key: "mentions", label: "Mentions", note: "How often practitioners reference it" },
   { key: "forks", label: "Forks", note: "GitHub fork count" },
   { key: "usage", label: "Usage", note: "Registry install count" },
@@ -73,16 +74,15 @@ export default function Status() {
         Leaderboard
       </Link>
 
-      <h1 className="mt-3 text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Status</h1>
+      <div className="mt-3 flex items-center gap-2">
+        <h1 className="text-[27px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Status</h1>
+        <Info id="info-status" label="About Status">
+          Read from catalog.json, the file every page uses. Star counts drift and repositories move, so each row
+          keeps the date its source was last confirmed and links to that source.
+        </Info>
+      </div>
       <p className="mt-2 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
         Coverage and freshness of the catalog
-      </p>
-      <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
-        Read from{" "}
-        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[12px] text-ink-body">
-          catalog.json
-        </code>
-        , the source every page uses.
       </p>
 
       {/* Hero: one featured total, then three supporting stats — asymmetric, not a 4-card wall. */}
@@ -94,20 +94,19 @@ export default function Status() {
               {n(s.total)}
             </data>
           </div>
-          <p className="m-0 max-w-[42ch] text-[15px] leading-[1.6] text-ink-body">
-            MCPs, skills, hooks, sub-agents, rules, evals, infrastructure and workflows, from{" "}
-            <strong className="font-semibold text-ink-hi">
-              <data value={String(s.sources)}>{n(s.sources)}</data>
-            </strong>{" "}
-            distinct source repositories.
-          </p>
+          <div>
+            <Eyebrow>Source Repositories</Eyebrow>
+            <data value={String(s.sources)} className="mt-2 block font-sans text-[30px] font-semibold leading-none tracking-[-0.01em] tabular-nums text-ink-hi">
+              {n(s.sources)}
+            </data>
+          </div>
         </Card>
 
         <div className="mt-4 grid gap-4 [grid-template-columns:repeat(auto-fit,minmax(240px,1fr))]">
           <StatCard
             label="Coverage"
             value={n(s.ranked)}
-            sub={`${pct(s.ranked, s.total)} of the catalog carries at least one signal`}
+            sub={`${pct(s.ranked, s.total)} of the catalog, 1 signal or more`}
           />
           <StatCard
             label="Base Crawl"
@@ -119,13 +118,13 @@ export default function Status() {
                 : "No confirmation dates"
             }
           />
-          <StatCard label="Tested" value={n(s.signals.tested)} sub="Installed and executed directly" />
+          <StatCard label="Tested" value={n(s.signals.tested)} sub="Installed and run by Armory" />
           {meta.githubRead && (
             <StatCard
               label="GitHub Figures"
               value={githubReadText(meta.githubRead)}
               valueDateTime={meta.githubRead.since ?? meta.githubRead.latest}
-              sub="Most repositories' stars, forks and last commit were read from GitHub on this date or later; a repository may have changed since"
+              sub="Stars, forks and last commit, most read on this date or later"
             />
           )}
         </div>
@@ -133,14 +132,13 @@ export default function Status() {
 
       {/* Signal coverage */}
       <section className="mt-12">
-        <Eyebrow>Signal Coverage</Eyebrow>
-        <h2 className="mt-1.5 text-[22px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
-          What each component is scored on
-        </h2>
-        <p className="mt-2 max-w-[68ch] text-[15px] leading-[1.6] text-ink-body">
-          A component is ranked on the signals it has; most have none yet. Coverage is the share of all{" "}
-          <data value={String(s.total)}>{n(s.total)}</data> components that carry each one.
-        </p>
+        <div className="flex items-center gap-2">
+          <h2 className="text-[19px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">Signal Coverage</h2>
+          <Info id="info-signals" label="About Signal Coverage">
+            A component is ranked on the signals it has; most have none yet. Share is out of all{" "}
+            {n(s.total)} components.
+          </Info>
+        </div>
 
         <div className="mt-4">
           <DataTable label="Signal Coverage" minWidthClass="min-w-[480px]" className="card-table">
@@ -176,37 +174,27 @@ export default function Status() {
           </DataTable>
         </div>
 
-        <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
-          <data value={String(s.ranked)}>{n(s.ranked)}</data> components (
-          {pct(s.ranked, s.total)}) carry at least one signal; the remaining{" "}
-          <data value={String(s.total - s.ranked)}>{n(s.total - s.ranked)}</data> are unranked.{" "}
-          <Link
-            href="/formula"
-            className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
-          >
-            Formula
-          </Link>
+        {/* Ranked is the Coverage card above; the rest is the complement, as a label (CP147). */}
+        <p className="mt-3 text-[13px] text-ink-muted">
+          <data value={String(s.total - s.ranked)} className="font-semibold text-ink-body">
+            {n(s.total - s.ranked)}
+          </data>{" "}
+          Unranked
         </p>
       </section>
 
       {/* Freshness */}
       <section className="mt-12">
-        <Eyebrow>Freshness</Eyebrow>
-        <h2 className="mt-1.5 text-[22px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
+        <h2 className="text-[19px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
           Last Confirmed by Month
         </h2>
-        <p className="mt-2 max-w-[68ch] text-[15px] leading-[1.6] text-ink-body">
-          {/* The dates run from the base crawl to the newest nightly confirmation, so they are a range,
-              not one sweep (CP138 T51: the page said "a single sweep" up to September). */}
-          When the crawl last confirmed each component, grouped by month
-          {s.sweptFrom && s.sweptTo ? (
-            <>
-              , from <time dateTime={s.sweptFrom}>{longDate(s.sweptFrom)}</time> to{" "}
-              <time dateTime={s.sweptTo}>{longDate(s.sweptTo)}</time>
-            </>
-          ) : null}
-          .
-        </p>
+        {/* A range, from the base crawl to the newest nightly confirmation, not one sweep (CP138 T51). */}
+        {s.sweptFrom && s.sweptTo ? (
+          <p className="mt-2 text-[13px] text-ink-muted">
+            <time dateTime={s.sweptFrom}>{longDate(s.sweptFrom)}</time> to{" "}
+            <time dateTime={s.sweptTo}>{longDate(s.sweptTo)}</time>
+          </p>
+        ) : null}
 
         <div className="mt-4">
           <DataTable label="Freshness by Month" minWidthClass="min-w-[480px]" className="card-table">
@@ -248,28 +236,22 @@ export default function Status() {
         {/* The home page's "listed this week" counts the day a row entered the catalog; this table counts
             the day its source was confirmed. Both are right; this says why they differ (CP138 T23). */}
         {meta.addedThisWeek != null && meta.addedThisWeekConfirmedEarlier != null && (
-          <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
-            <data value={String(meta.addedThisWeek)}>{n(meta.addedThisWeek)}</data> components entered the
-            catalog in the last week, the home page&apos;s &ldquo;listed this week&rdquo;.{" "}
-            <data value={String(meta.addedThisWeekConfirmedEarlier)}>{n(meta.addedThisWeekConfirmedEarlier)}</data>{" "}
-            of them are counted above under an earlier month, because a component keeps the date its source was
-            last confirmed, not the day it was added.
+          <p className="mt-3 flex items-center gap-1.5 text-[13px] text-ink-muted">
+            <span>
+              <data value={String(meta.addedThisWeek)} className="font-semibold text-ink-body">
+                +{n(meta.addedThisWeek)}
+              </data>{" "}
+              Listed This Week ·{" "}
+              <data value={String(meta.addedThisWeekConfirmedEarlier)} className="font-semibold text-ink-body">
+                {n(meta.addedThisWeekConfirmedEarlier)}
+              </data>{" "}
+              under an earlier month
+            </span>
+            <Info id="info-this-week" label="About this week's listings">
+              A component keeps the date its source was last confirmed, not the day it was added.
+            </Info>
           </p>
         )}
-      </section>
-
-      {/* Crawl age: when the base crawl ran, from the table above (CP138 T51) */}
-      <section className="mt-8">
-        <div className="rounded-2xl border border-accent-line bg-accent-quiet p-5">
-          <Eyebrow>Crawl Age</Eyebrow>
-          <p className="mt-2 max-w-[74ch] text-[15px] leading-[1.7] text-ink-body">
-            {s.base
-              ? `The base crawl ran in ${monthLabel(s.base.key)}; ${pct(s.base.count, s.total)} of rows were last confirmed then. `
-              : ""}
-            Star counts drift, repos move, new tools ship every week. New components arrive nightly; the
-            table shows when each row was last confirmed. Every row links to its source.
-          </p>
-        </div>
       </section>
     </ContentWidth>
   );

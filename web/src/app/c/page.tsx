@@ -26,7 +26,7 @@ export const runtime = "nodejs";
 
 export const metadata: Metadata = {
   title: "Components · Armory",
-  description: "The catalog organized by the 11 components of an agent harness, and a Browser shelf.",
+  description: "The catalog organized by the 11 components of an agent harness, plus Browser.",
 };
 
 export default function ComponentsPage() {
@@ -50,21 +50,20 @@ export default function ComponentsPage() {
     <div>
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-6 pt-8">
-          <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">
+          <h1 className="text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">
             Components
           </h1>
-          <p className="mt-2 text-[16px] leading-normal text-ink-body">
-            Eleven components of an agent harness and a Browser shelf ·{" "}
-            <data value={String(total)} className="tabular-nums text-ink-hi">
+          {/* Labels, one word per thing (CP147): "Listed", as on every card below; Stack is in the nav.
+              The Browser (PR #46) is counted with the eleven harness components: Components, as the title says. */}
+          <p className="mt-3 text-[14px] leading-normal text-ink-muted">
+            <data value={String(cards.length)} className="font-semibold tabular-nums text-ink-hi">
+              {cards.length}
+            </data>{" "}
+            Components ·{" "}
+            <data value={String(total)} className="font-semibold tabular-nums text-ink-hi">
               {total.toLocaleString("en-US")}
             </data>{" "}
-            indexed ·{" "}
-            <Link
-              href="/stack"
-              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
-            >
-              Stack
-            </Link>
+            Listed
           </p>
         </ContentWidth>
       </section>
@@ -134,22 +133,16 @@ export default function ComponentsPage() {
               </ul>
             </li>
           </ul>
-
+          {/* The key the old footer sentence gave, as labels (CP147 review). */}
           <p className="mt-6 text-[13px] text-ink-muted">
-            <Link
-              href="/stack"
-              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
-            >
+            <Link href="/stack" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
               Stack
-            </Link>{" "}
-            names one pick per component.{" "}
-            <Link
-              href="/leaderboard"
-              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
-            >
+            </Link>
+            : one pick per component ·{" "}
+            <Link href="/leaderboard" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
               Leaderboard
-            </Link>{" "}
-            ranks the catalog without the grouping.
+            </Link>
+            : the whole catalog, ranked
           </p>
         </ContentWidth>
       </section>

@@ -81,26 +81,46 @@ export function PickName({ pick }: { pick: ResolvedPick }) {
 /** Columns per pick count, so a grid never shows an empty cell or a card alone on a row. */
 const PICK_COLUMNS: Readonly<Record<number, string>> = { 1: "", 2: "md:grid-cols-2", 3: "lg:grid-cols-3" };
 
-/** "The pick · #10 on this shelf": which pick it is and where the shelf table ranks it. */
-export function PickPlace({ pick }: { pick: ResolvedPick }) {
-  return (
-    <p className="text-[11.5px] leading-snug text-ink-faint">
-      <span className={pick.isThePick ? "font-semibold text-accent-hover" : "font-medium text-ink-muted"}>
-        {pick.isThePick ? "The pick" : "Runner-up"}
-      </span>
-      {pick.rank != null && (
+/**
+ * A pick's place on its shelf ("#10 on shelf") and, below the top, why it is listed anyway. The reason
+ * is one press away in a native disclosure (no script; works by keyboard and on touch; in the page flow,
+ * so no table or card clips it), never a paragraph in the reading path (CP147). The top row needs none.
+ * Shared by the pick cards here and the Why column on /stack, so both say it the same way.
+ */
+export function ShelfPlace({
+  rank,
+  reason,
+  lead = null,
+  className = "",
+}: {
+  rank: number | null;
+  reason: string | null | undefined;
+  /** "The pick" or "Runner-up" on a pick card; nothing in the /stack table, where the row is the pick. */
+  lead?: React.ReactNode;
+  className?: string;
+}) {
+  const place = (
+    <>
+      {lead}
+      {lead && rank != null && " · "}
+      {rank != null && (
         <>
-          {" · "}#<data value={String(pick.rank)}>{pick.rank}</data> on this shelf
+          Rank <data value={String(rank)}>{rank}</data>
         </>
       )}
-    </p>
+    </>
   );
-}
-
-/** Why a pick is listed though rows above it score higher; nothing while it tops its shelf. */
-export function PickReason({ pick }: { pick: ResolvedPick }) {
-  if (!pick.reason || pick.rank == null || pick.rank <= 1) return null;
-  return <p className="border-l-2 border-line pl-2.5 text-[12.5px] leading-normal text-ink-body">{pick.reason}</p>;
+  if (!reason || rank == null || rank <= 1) {
+    return <p className={`text-[12px] leading-snug text-ink-muted ${className}`}>{place}</p>;
+  }
+  return (
+    <details className={`group text-[12px] leading-snug text-ink-muted ${className}`}>
+      <summary className="cursor-pointer list-none [&::-webkit-details-marker]:hidden">
+        {place} · <span className="font-medium text-accent-hover underline underline-offset-2">Why</span>
+      </summary>
+      <p className="mt-1.5 border-l-2 border-line pl-2.5 text-[12.5px] leading-normal text-ink-body">{reason}</p>
+    </details>
+  );
 }
 
 /**
@@ -144,9 +164,16 @@ export function PickList({ picks }: { picks: ResolvedPick[] }) {
             )}
           </div>
 
-          <PickPlace pick={pick} />
+          <ShelfPlace
+            rank={pick.rank}
+            reason={pick.reason}
+            lead={
+              <span className={pick.isThePick ? "font-semibold text-accent-hover" : "font-medium text-ink-muted"}>
+                {pick.isThePick ? "The pick" : "Runner-up"}
+              </span>
+            }
+          />
           <p className="text-[12.5px] leading-normal text-ink-muted">{pick.why}</p>
-          <PickReason pick={pick} />
 
           {pick.row ? (
             <>

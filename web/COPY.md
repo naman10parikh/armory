@@ -40,11 +40,11 @@ The canonical nouns. **Use these exact strings; do not invent synonyms.**
 **Taxonomy:** `Domain` · `Vertical` · `Category` · `Type` · `Tag`
 **Ranking:** `Score` · `Rank` · `Signals` · `Coverage` · `Percentile` · `Weight` · `Calculation` · `Confidence`
 **Signals (fixed order):** `Tested` · `Mentions` · `Stars` · `Usage`
-**Action:** `Install` · `Copy` · `Copied` · `Export` · `Search` · `Filter` · `Sort` · `Reset` · `Open` · `Report` · `Contribute`
-**State:** `Loading` · `No Results` · `Not Indexed` · `Unmeasured` · `Selected` · `Stable` · `Preview` · `Experimental`
+**Action:** `Install` · `Copy` · `Copied` · `Export` · `Search` · `Filter` · `Sort` · `Reset` · `Open` · `Report` · `Contribute` · `Install Command` · `Share link` · `Show all`
+**State:** `Loading` · `No Results` · `Not Indexed` · `Unmeasured` · `Selected` · `Stable` · `Preview` · `Experimental` · `Manual` (a row `armory install` places nothing for, shown as `Manual · Source`; CP147)
 **Time:** `Updated` · `Indexed` · `Duration` · `Last Run` · `Catalog rebuilt` (the build, not the evidence) · `GitHub figures from <date> or later` (when stars, forks and last commit were read; CP138 T23)
-**Aggregate:** `Total` · `Ranked` · `Results` · `Resources` · `Count`
-**Surfaces:** `Leaderboard` · `Browse` · `Ask` · `Formula` · `Detail` · `Status` · `Pipeline` · `Harness`
+**Aggregate:** `Total` · `Ranked` · `Unranked` · `Listed` · `Listed This Week` · `Results` · `Page X of Y` · `Resources` · `Count`
+**Surfaces:** `Leaderboard` · `Components` · `Stack` · `Browse` · `Ask` · `Formula` · `Detail` · `Status` · `Pipeline` · `Channels` · `Harness`
 
 **Never:** `Universal` (unqualified — say `Score`) · `Top Signal` (say `Signals`) · `Building Block`
 (say `Component`) · `Shelf` · `Slice` (say `Filter`) · `Gear Up` · `The Index` (say `Catalog`).
@@ -213,6 +213,32 @@ The **method prose is exempt from R6/R8** — an explanation of arithmetic may u
 | `install-strip.tsx` | `Copy config snippet` / `Copied config` | `Copy` / `Copied` | R2 |
 | `quick-install.tsx` | `Copy install command` / `Copied` | `Copy` / `Copied` | R2 |
 | `install-modal.tsx` | `Close install dialog` (aria) | `Close` | R2 |
+
+### I. Stack — `app/stack/page.tsx` (CP147)
+
+| Banned | Replacement | Rule |
+|---|---|---|
+| `One command for these picks` | `Install Command` | R2 |
+| `Link to this stack` | `Share link` | R2 |
+| `Reset to the picks` | `Reset` | R2 |
+| The paragraph about the accounts | An info mark on `Accounts the agent acts through`; `Provisioning order:` stays on the page as one labelled line | R1 |
+| `API` / `JSON` for the `/api/stack` link | `API`, as Formula's section 06 names it | R2 |
+
+### J. Channels — `app/identity/page.tsx` (CP147)
+
+| Banned | Replacement | Rule |
+|---|---|---|
+| `What Happens` (column) | `Reply` | R2 |
+| `Subject and body ranked · reply with 5 picks` | `5 ranked picks, from subject and body` | R1 |
+| `Message ranked · reply with 3 picks` | `3 ranked picks, from the message` | R1 |
+| `Query ranked · 12 picks with signals and install` | `12 ranked picks, with signals and install` | R1 |
+
+### K. Pipeline and every page title (CP147)
+
+| Banned | Replacement | Rule |
+|---|---|---|
+| A 32px page title | 27px, one title size across the site | brief §10 |
+| A section lead sentence | An info mark on the section heading (`Info`, at most one per section, at most two sentences) | R1 |
 
 ---
 

@@ -1,16 +1,21 @@
 /*
-  The home board — one promise line, live counters, search, then Top / Trending / New (CP143).
+  The home board — one promise line, live counters, search, then Top / Trending / New (CP143), built to
+  the approved wireframe (docs/ui-2026-09-26/wireframe.html) in CP147.
 
-  No marketing hero: the page says what Armory is in one line (components, ranked where public
-  evidence exists), counts that are true right now, and then the table. The three tabs are three static routes (/, /trending, /new) rather than client state, so each
-  view is a URL an agent can fetch and a person can share. New pages past its first 20 rows with
-  /new?page=2 (CP138 T23), so every dated listing is reachable.
+  No marketing hero: the page says what Armory is in one line, counts that are true right now, the exact
+  time the catalog was last updated (catalog.json `generated_at`, the value the browse folders show too)
+  and how long ago that was, and then the table. Labels, not sentences: the tab's order is the sort mark
+  on its column, and the key under the table is one line. The three tabs are three static routes
+  (/, /trending, /new) rather than client state, so each view is a URL an agent can fetch and a person
+  can share. New pages past its first 20 rows with /new?page=2 (CP138 T23), so every dated listing is
+  reachable.
 */
 import Link from "next/link";
 import { BoardTable } from "./board-table";
 import { ContentWidth } from "./data-table";
 import { SearchIcon } from "./icons";
-import { CliNote, HarnessSelector } from "./install-snippet";
+import { Info } from "./info-mark";
+import { CliNote } from "./install-snippet";
 import { RefreshedAgo } from "./refreshed-ago";
 import { githubReadText, int, shortDate, utcStamp } from "@/lib/format";
 import { boardMeta, newCount, newRows, topRows, trendingRows, type BoardMeta } from "@/lib/rows";
@@ -42,9 +47,11 @@ export function HomeBoard({ tab, page = 1 }: { tab: BoardTab; page?: number }) {
     <div>
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-8 pt-10">
-          <h1 className="max-w-[36ch] text-[27px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
-            <data value={String(meta.total)}>{int(meta.total)}</data> agent components, ranked where public
-            evidence exists
+          {/* The promise line (wireframe .promise: 27px, weight 500, 30ch). "Each installed in one command"
+              is left out: most rows install by hand (CP138 T51). The catalog is rebuilt daily at 07:00 UTC. */}
+          <h1 className="max-w-[30ch] text-[27px] font-medium leading-[1.2] tracking-[-0.01em] text-ink-hi">
+            <data value={String(meta.total)}>{int(meta.total)}</data> agent components, ranked on public evidence,
+            refreshed daily
           </h1>
           <Counters meta={meta} />
 
@@ -92,26 +99,25 @@ export function HomeBoard({ tab, page = 1 }: { tab: BoardTab; page?: number }) {
                 </Link>
               ))}
             </nav>
-            {/* One control for one setting: the nav owns this selector from lg up. */}
-            <HarnessSelector className="mb-2 lg:hidden" />
             <CliNote className="mb-2.5" />
           </div>
 
-          <p className="mb-4 mt-4 text-[13px] text-ink-muted">{lead(tab, meta)}</p>
+          {tab === "trending" && <TrendingWindow meta={meta} />}
 
-          {views.length === 0 ? (
-            <Empty tab={tab} meta={meta} />
-          ) : (
-            <BoardTable
-              label={TABS.find((t) => t.tab === tab)?.label ?? "Top"}
-              rows={views}
-              extra={tab === "trending" ? "gained" : tab === "new" ? "listed" : null}
-              fallbackDate={meta.generatedAt}
-              githubRead={meta.githubRead}
-              trendingSince={meta.trendingSince}
-              scoreSort={tab === "top" ? "descending" : "none"}
-            />
-          )}
+          <div className="mt-4">
+            {views.length === 0 ? (
+              <Empty tab={tab} meta={meta} />
+            ) : (
+              <BoardTable
+                label={TABS.find((t) => t.tab === tab)?.label ?? "Top"}
+                rows={views}
+                extra={tab === "trending" ? "gained" : tab === "new" ? "listed" : null}
+                fallbackDate={meta.generatedAt}
+                githubRead={meta.githubRead}
+                scoreSort={tab === "top" ? "descending" : "none"}
+              />
+            )}
+          </div>
 
           {tab === "new" && pages > 1 && (
             <nav aria-label="Pages" className="mt-5 flex flex-wrap items-center gap-3 text-[13px] text-ink-muted">
@@ -131,35 +137,43 @@ export function HomeBoard({ tab, page = 1 }: { tab: BoardTab; page?: number }) {
             </nav>
           )}
 
-          <p className="mt-4 max-w-[90ch] text-[13px] leading-relaxed text-ink-muted">
-            {tab === "top" ? (
-              <>
-                Rows with the same score share a rank, and are listed by how many signals agree, then the
-                most recent commit and stars.{" "}
-              </>
-            ) : null}
-            <FootLink href="/leaderboard">Leaderboard</FootLink> ranks all{" "}
-            <data value={String(meta.ranked)}>{int(meta.ranked)}</data> scored components;{" "}
-            <FootLink href="/formula">Formula</FootLink> shows the arithmetic.
-          </p>
+          {tab === "top" && (
+            <p className="mt-4 text-[13px]">
+              <FootLink href="/leaderboard">
+                View all <data value={String(meta.ranked)}>{int(meta.ranked)}</data> ranked
+              </FootLink>
+            </p>
+          )}
         </ContentWidth>
       </section>
     </div>
   );
 }
 
-function lead(tab: BoardTab, meta: BoardMeta): string {
-  if (tab === "trending") {
-    return meta.trendingSince
-      ? `Most practitioner mentions gained since ${shortDate(meta.trendingSince)}, among components already listed then.`
-      : "Most practitioner mentions gained over the last two weeks.";
-  }
-  if (tab === "new") return "Most recently added to the catalog first; the date is the day it was listed.";
-  return "Highest score first, across component types";
+/** Trending's window, once, over the table (it used to print under every row's count). */
+function TrendingWindow({ meta }: { meta: BoardMeta }) {
+  return (
+    <p className="mt-4 flex items-center gap-1.5 text-[13px] text-ink-muted">
+      <span>
+        Mentions gained{" "}
+        {meta.trendingSince ? (
+          <>
+            since <time dateTime={meta.trendingSince}>{shortDate(meta.trendingSince)}</time>
+          </>
+        ) : (
+          <>in the last {meta.trendingDays} days</>
+        )}
+      </span>
+      <Info id="info-trending" label="About Trending">
+        Components already listed when the window opened, ordered by the practitioner mentions they gained since.
+      </Info>
+    </p>
+  );
 }
 
 function Counters({ meta }: { meta: BoardMeta }) {
   return (
+    // The total is in the promise line above, so it is not counted again here.
     <p className="mt-4 flex flex-wrap items-baseline gap-x-6 gap-y-2 text-[14px] text-ink-muted">
       <span>
         <data value={String(meta.ranked)} className="font-semibold text-ink-hi">
@@ -172,26 +186,27 @@ function Counters({ meta }: { meta: BoardMeta }) {
           <data value={String(meta.addedThisWeek)} className="font-semibold text-ink-hi">
             +{int(meta.addedThisWeek)}
           </data>{" "}
-          listed this week
+          Listed This Week
         </Link>
       )}
+      {/* The exact time from catalog.json generated_at, in the served HTML, then how long ago in the
+          browser (CP147). The GitHub read date qualifies it, so it sits behind the mark (CP138 T23). */}
       {meta.generatedAt && (
-        <span>
-          Catalog rebuilt{" "}
-          <span className="font-semibold text-ink-hi">
-            <RefreshedAgo iso={meta.generatedAt} initial={utcStamp(meta.generatedAt)} />
+        <span className="inline-flex flex-wrap items-center gap-x-1.5">
+          <span>
+            Updated{" "}
+            <time dateTime={meta.generatedAt} className="font-semibold text-ink-hi">
+              {utcStamp(meta.generatedAt)}
+            </time>
           </span>
+          <RefreshedAgo iso={meta.generatedAt} initial="" prefix="· " />
+          <Info id="info-updated" label="About the update time" align="end">
+            When the catalog was last rebuilt.
+            {meta.githubRead
+              ? ` Stars, forks and last commit are as last read from GitHub, mostly on or after ${githubReadText(meta.githubRead)}.`
+              : ""}
+          </Info>
         </span>
-      )}
-      {/* The rebuild is fresh; the GitHub numbers in it may not be (CP138 T23). /status explains both. */}
-      {meta.githubRead && (
-        <Link href="/status" className="cursor-pointer transition-colors duration-150 ease-state hover:text-accent-hover">
-          GitHub figures from{" "}
-          <time dateTime={meta.githubRead.since ?? meta.githubRead.latest} className="font-semibold text-ink-hi">
-            {githubReadText(meta.githubRead)}
-          </time>{" "}
-          or later
-        </Link>
       )}
     </p>
   );

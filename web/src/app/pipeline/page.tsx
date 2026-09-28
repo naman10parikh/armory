@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getCatalog } from "@/lib/catalog";
 import { CANON_SLUGS, stackFor, statsFor } from "@/lib/canon";
 import { ContentWidth } from "@/components/data-table";
+import { Info } from "@/components/info-mark";
 import { Timeline, type TimelineData } from "@/components/timeline";
 import { boardMeta } from "@/lib/rows";
 // @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
@@ -87,16 +88,14 @@ export default function GrowthPage() {
 
   return (
     <ContentWidth className="pb-24 pt-8">
-      <h1 className="text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Pipeline</h1>
+      <div className="flex items-center gap-2">
+        <h1 className="text-[27px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Pipeline</h1>
+        <Info id="info-pipeline" label="About Pipeline">
+          Every figure is computed from catalog.json when the page builds.
+        </Info>
+      </div>
       <p className="mt-3 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
-        The layers the Armory is built from, in the order an agent meets them
-      </p>
-      <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
-        Every figure below is computed from{" "}
-        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-sans text-[12px] text-ink-body">
-          catalog.json
-        </code>{" "}
-        when this page builds.
+        The layers of the catalog, in the order an agent meets them
       </p>
 
       <Timeline data={data} />

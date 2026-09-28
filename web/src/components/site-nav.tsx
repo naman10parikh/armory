@@ -1,9 +1,7 @@
 import Link from "next/link";
 import { Logo } from "./logo";
-import { GithubIcon } from "./icons";
 import { HarnessSelector } from "./install-snippet";
-
-const REPO = "https://github.com/naman10parikh/armory";
+import { NavLinks } from "./nav-links";
 
 // design/BRIEF.md Approval note: the nav was a `fixed` floating pill; pages
 // compensated with `pt-20`. This is now an IN-FLOW top bar — normal document
@@ -12,19 +10,12 @@ const REPO = "https://github.com/naman10parikh/armory";
 // INTERACTIVE and SELECTED, so every link is neutral at rest and ambers on
 // hover/focus. The one serif on the page is the wordmark (§5 — removed from
 // the rest of chrome, so no per-link icons either; text labels only).
-const NAV_LINKS = [
-  { href: "/leaderboard", label: "Leaderboard" },
-  { href: "/c", label: "Components" },
-  { href: "/stack", label: "Stack" },
-  { href: "/formula", label: "Formula" },
-  { href: "/ask", label: "Ask" },
-  { href: "/browse", label: "Browse" },
-  { href: "/pipeline", label: "Pipeline" },
-] as const;
-
+// CP147: the links and their order are the approved wireframe's (Top first, the current section
+// marked), and the right side holds only the Harness selector, as drawn. Source is in the footer.
 export function SiteNav() {
   // Phone (CP143 upgrade 11): the old bar was a fixed 56px that wrapped its links into three rows
-  // over the page title. Now the wordmark and Source share the first row, and the links sit in a
+  // over the page title. Now the wordmark and the Harness selector share the first row (CP147, as the
+  // wireframe draws it: one selector for the whole site at every width), and the links sit in a
   // row of their own below it. That row used to scroll sideways behind a faded edge, which no reader
   // took for a cue (CP138 T23), so on a phone it wraps onto a second line instead: every section is
   // visible, nothing scrolls, and the header is not sticky, so the extra line costs nothing below it.
@@ -46,37 +37,13 @@ export function SiteNav() {
           aria-label="Sections"
           className="order-last -mx-2 flex w-[calc(100%+1rem)] flex-wrap items-center gap-0.5 pb-1 text-[14px] lg:order-none lg:mx-0 lg:w-auto lg:flex-nowrap lg:whitespace-nowrap lg:pb-0"
         >
-          {NAV_LINKS.map((l) => (
-            <NavLink key={l.href} href={l.href}>
-              {l.label}
-            </NavLink>
-          ))}
+          <NavLinks />
         </nav>
 
         <div className="flex shrink-0 items-center gap-3">
-          <HarnessSelector className="hidden lg:inline-flex" />
-          <a
-            href={REPO}
-            target="_blank"
-            rel="noreferrer noopener"
-            className="flex cursor-pointer items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-ink-body transition-colors duration-150 ease-state hover:bg-raise-2 hover:text-accent-hover"
-          >
-            <GithubIcon size={15} />
-            <span>Source</span>
-          </a>
+          <HarnessSelector />
         </div>
       </div>
     </header>
-  );
-}
-
-function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
-  return (
-    <Link
-      href={href}
-      className="cursor-pointer rounded-lg px-2.5 py-1.5 font-medium text-ink-body transition-colors duration-150 ease-state hover:bg-raise-2 hover:text-accent-hover"
-    >
-      {children}
-    </Link>
   );
 }

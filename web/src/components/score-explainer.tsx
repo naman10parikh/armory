@@ -1,6 +1,9 @@
 // Visual pieces for /formula — how the Universal score works, shown rather than described.
 // Every number is passed in from the page, which computes it from catalog.json at build time.
-// Warm-black + amber, serif headings, data-forward. No prose blocks.
+// Warm-black + amber, data-forward. No prose blocks: each section leads with at most two short
+// sentences, and its secondary detail sits behind one info mark on its title (CP147).
+import type { ReactNode } from "react";
+import { Info } from "./info-mark";
 
 const SERIF = "var(--font-display), Georgia, serif";
 // Figures are set in Instrument Sans with tabular numerals (CP143: JetBrains Mono is for install commands only).
@@ -40,12 +43,14 @@ export interface Worked {
   tier: string;
 }
 
+// One heading size across the site (CP147): a section title is 19px, as on every other page.
 const sectionTitle: React.CSSProperties = {
   fontFamily: SERIF,
-  fontSize: 30,
+  fontSize: 19,
+  fontWeight: 600,
   color: "var(--text-hi)",
-  letterSpacing: "-0.015em",
-  margin: "0 0 6px",
+  letterSpacing: "-0.01em",
+  margin: 0,
 };
 const lead: React.CSSProperties = {
   color: "var(--text-muted)",
@@ -66,17 +71,27 @@ export function Section({
   n,
   title,
   lead: leadText,
+  info,
   children,
 }: {
   n: string;
   title: string;
   lead: string;
+  /** The section's detail a reader asks for once, behind a mark on its title. */
+  info?: ReactNode;
   children: React.ReactNode;
 }) {
   return (
     <section style={{ margin: "0 0 72px" }}>
       <div style={eyebrow}>{n}</div>
-      <h2 style={sectionTitle}>{title}</h2>
+      <div style={{ display: "flex", alignItems: "center", gap: 8, margin: "0 0 8px" }}>
+        <h2 style={sectionTitle}>{title}</h2>
+        {info ? (
+          <Info id={`info-formula-${n}`} label={`About ${title}`}>
+            {info}
+          </Info>
+        ) : null}
+      </div>
       <p style={lead}>{leadText}</p>
       {children}
     </section>

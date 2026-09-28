@@ -96,6 +96,24 @@ export function CheckIcon(p: IconProps) {
   );
 }
 
+export function InfoIcon(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 11v5M12 8h.01" />
+    </Svg>
+  );
+}
+
+/** The sorted column's direction mark: points down for descending (CP147). */
+export function SortIcon({ dir, ...p }: IconProps & { dir: "ascending" | "descending" }) {
+  return (
+    <Svg {...p}>
+      <path d={dir === "descending" ? "m7 10 5 5 5-5" : "m7 14 5-5 5 5"} />
+    </Svg>
+  );
+}
+
 export function TerminalIcon(p: IconProps) {
   return (
     <Svg {...p}>
