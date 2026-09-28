@@ -301,7 +301,7 @@ export default function FormulaPage() {
           {(
             [
               ["REST", "GET /api/rank?component=mcp&vertical=finance\nGET /api/search?q=browser+automation"],
-              ["CLI", 'Not on npm · build from cli/, then:\narmory rank --domain payments\narmory search "oauth"'],
+              ["CLI", 'npm i -g @namanparikh/armory\narmory rank --domain payments\narmory search "oauth"'],
               ["MCP", "rank_components · search_catalog"],
             ] as const
           ).map(([label, code]) => (

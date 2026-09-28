@@ -184,20 +184,21 @@ export function NoInstall({ source }: { source: string | null }) {
 }
 
 /**
- * Where `armory` comes from (CP138 T51): the CLI is not on npm yet, so every page that prints an
- * `armory install …` command says how to get it. Labels, not a sentence (CP147).
+ * Where `armory` comes from (CP138 T51): every page that prints an `armory install …` command says how
+ * to get it. On npm since 27 Sep 2026 as @namanparikh/armory, whose bin is `armory` (CP147 T18). Labels,
+ * not a sentence (CP147).
  */
 export function CliNote({ className = "" }: { className?: string }) {
   return (
     <p className={`text-[12px] leading-snug text-ink-muted ${className}`}>
-      armory CLI · Not on npm ·{" "}
+      armory CLI · <code className="font-mono text-ink-body">npm i -g @namanparikh/armory</code> ·{" "}
       <a
         href="https://github.com/naman10parikh/armory/tree/main/cli"
         target="_blank"
         rel="noreferrer noopener"
         className="cursor-pointer text-accent-hover underline underline-offset-4"
       >
-        Build from source
+        Source
       </a>
     </p>
   );

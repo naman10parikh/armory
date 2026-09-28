@@ -105,7 +105,7 @@ export function ShelfPlace({
       {lead && rank != null && " · "}
       {rank != null && (
         <>
-          #<data value={String(rank)}>{rank}</data> on shelf
+          Rank <data value={String(rank)}>{rank}</data>
         </>
       )}
     </>
