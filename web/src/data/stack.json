@@ -1,5 +1,5 @@
 {
-  "note": "The single source for the 11 canonical harness components and their picks (CP138, set 2026-09-07). /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed, never faked into the table. Our own repositories are picks only when they win on score. `plane` is the capability plane (CP138 axis 2): accounts an agent is provisioned onto, not open-source code, so never scored. A pick's `reason` says in one line why it is listed though rows above it score higher; the pages show it only while the pick is not its shelf's top row.",
+  "note": "The single source for the 11 canonical harness components and their picks (CP138, set 2026-09-07), and for the Browser shelf (CP147). /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed, never faked into the table. Our own repositories are picks only when they win on score. `plane` is the capability plane (CP138 axis 2): accounts an agent is provisioned onto, not open-source code, so never scored. A pick's `reason` says in one line why it is listed though rows above it score higher; the pages show it only while the pick is not its shelf's top row.",
   "asOf": "2026-09-07",
   "regenerate": "node scripts/stack-evidence.mjs",
   "components": [
@@ -287,6 +287,15 @@
           "url": "https://github.com/microsandbox/microsandbox"
         }
       ]
+    },
+    {
+      "slug": "browser",
+      "label": "Browser",
+      "oneLine": "Web browsers an agent drives, as a library or a hosted service",
+      "aggregates": [
+        "browser"
+      ],
+      "picks": []
     }
   ],
   "plane": [

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- The fixed pages and the 11 shelves. Detail pages are left out: most render on demand, so listing
+<!-- The fixed pages and the 12 shelves. Detail pages are left out: most render on demand, so listing
      65,000 of them would ask crawlers to render each one. ingest/test-pyramid.test.mjs checks this file
      against the page routes and web/src/data/stack.json. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -26,4 +26,5 @@
   <url><loc>https://armory-murex.vercel.app/c/evals</loc></url>
   <url><loc>https://armory-murex.vercel.app/c/observability</loc></url>
   <url><loc>https://armory-murex.vercel.app/c/sandbox</loc></url>
+  <url><loc>https://armory-murex.vercel.app/c/browser</loc></url>
 </urlset>
