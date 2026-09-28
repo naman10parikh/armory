@@ -295,7 +295,15 @@
       "aggregates": [
         "browser"
       ],
-      "picks": []
+      "picks": [
+        {
+          "name": "browserbase-bb",
+          "why": "Stagehand: act, extract and observe on any page, on a local browser or Browserbase's hosted one",
+          "reason": "Picked as the web slot of Energy's own stack: the same code runs locally or on Browserbase, and an agent reaches it by MCP server, CLI (bb) and skills. browser-use scores 0.5 higher; it stays the runner-up.",
+          "armoryName": "browserbase-bb",
+          "url": "https://github.com/browserbase/stagehand"
+        }
+      ]
     }
   ],
   "plane": [
