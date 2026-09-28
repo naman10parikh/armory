@@ -14,6 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [infrastructure, serverless]
 mentions: null
+folded_into: infrastructure/modal-labs-modal-client
 ---
 ## What it is
 Serverless cloud platform for running Python functions, containers, and AI workloads with zero infra management.
